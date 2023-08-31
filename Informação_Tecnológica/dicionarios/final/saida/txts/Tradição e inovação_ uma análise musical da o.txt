@@ -1,0 +1,544 @@
+Tradição e inovação: uma análise musical da obra Mutationen VI de Claudio Santoro Ana Leticia Crozetta Zomer Universidade de São Paulo analeticiazomer@gmail.com Adriana Lopes da Cunha Moreira Universidade de São Paulo adrianalopes@usp.br Resumo: Relacionada contextualmente com o percurso da música brasileira do século XX, a obra Mutationen VI , para violino e fita magnética, composta por Claudio Santoro em 1972, caracteriza -se pelo uso do que o próprio compositor chama de "aleatório controlado".
+A análise da obra relaciona os aspectos pertinentes à notação musical não -tradicional – através dos trabalhos de Gould (2011), Strange e Strange (2001), Dourado (1998) e Stone (1980) – às "estratégias de invariância" (Costa, 200 9; 2018).
+A articulação de processos aparentemente díspares, como o dodecafonismo, técnicas tradicionais e estendidas ao instrumento e a gravação da parte eletroacústica pelo próprio intérprete são exploradas e expostas neste trabalho.
+Palavras -chave: Análise musical , Notação musical , Indeterminação , Música eletroacústica mista, Claudio Santoro.
+Tradition and innovation: a music analysis of Mutationen VI by Claudio Santoro Abstract: Contextually related to the path of twentieth -century Brazilian music, the work Mutationen VI for violin and magnetic tape, composed by Claudio Santoro in 1972, is characterized by the use of what the composer himself calls "controlled aleatory".
+The analysis relates the pertinent aspects to non -traditional musical notation – through the works of Gould (2011), Strange and Strange (2001), Dourado (1998) and Stone (1980) – to "invariance strategies" (Costa, 2009; 2018).
+The articulation of apparentl y disparate processes, such as dodecaphonism, traditional techniques and extended ones to the instrument, and the recording of the electroacoustic part by the interpreter himself are explored and exposed in this paper.
+Keywords: Music Analysis , Music not ation , Indeterminacy , Mixed electroacoustic music, Claudio Santoro.
+Sobre o percurso da música brasileira durante o século XX "Se a música moderna teve um ponto de partida preciso, podemos identificá -lo nesta melodia para flauta que abre o Prélude à l'Après -Midi d'un Faune ' de Claude O presente artigo desenvolve o trabalho apresentado no V Encontro Internacional de Teoria e Análise Musical, EITAM5 (ZOMER; MOREIRA, 2019, p. 375 -392).
+Revista Música , v. 2 1 n. 1 – Dossiê Música em Quarentena (parte II); Dossiê Encontro Internacional de Teoria e Análise Musical – 10 Anos Universidade de São Paulo, julho de 202 1 ISSN 2238 -7625 100 Debussy (1862- 1918)" (GRIFFITHS, 1998, p. 7).
+A declaração categórica de Paul Griffths a respeito da obra composta entre 1892 e 18941 destacou um possível germe de algumas das vertentes que irromperam durante o século XX.
+Vo ltando- se especificamente a estudos sobre o movimento modernista , Botstein (2001) c onsiderou serem seus precursores , além de Debussy, Gustav Mahler (1860- 1911), Alexander Skryabin (18721915) e Richard Strauss (1864- 1949).
+Segundo o musicólogo, c inco eixos surgidos na década de 1930 ampliam este espectro : (1) a Segunda Escola de Viena, composta por Arnold Schoenberg e seus discípulos, Alban Berg e Anton Webern; (2) o eixo francorusso, dominado por Igor Stravinsky; (3) o expressionismo, incluindo Ferruccio Busoni e Paul Hindemith; (4) os modernismos dos países emergentes, caracterizados por Charles Ives na América, Béla Bartók na Hungria, Karol Szymanowski na Polônia, Leoš Janáček e Bohuslav Martinů na Tchecoslováquia do pós -guerra e Carlos Chavez no México; e (5) o experimentalismo, característico de Alois Hába, Edgard Varèse e Henry Cowell, levando a exploração da microtonalidade, inclusão do som ambiente na paleta sonora musical e um fascínio tanto por tecnologia como por músicas não- ocidentais.
+No Brasil, ideais modernistas estiveram vigentes sobretudo nas cidades do Rio de Janeiro, São Paulo, Salvador e Belo Horizonte.
+Para Neves (2008 [1981], p. 16) , duas forças, aparentemente a ntagônicas impulsionaram o percurso da música brasileira do século XX: "a força da tradição buscando garantir a manutenção dos elementos constitutivos da linguagem musical [tonal] do passado próximo; [e] a força inovadora entregando -se à busca de novos rec ursos expressivos independentes da herança tradicional" .
+Nesse contexto, a história do modernismo musical brasileiro contou com três momentos significativos : (1) a ocorrência da Semana de Arte Moderna, em 1922; (2) a criação do grupo Música Viva, em 1940, que culminou no Manifesto 1946; e (3) a criação do grupo Música Nova, em 1963, resultando no Manifesto Música Nova (SALLES, 2005, p. 183).
+A Semana de Arte Moderna, considerada marco oficial da abertura do movimento modernista brasileiro nas artes, ocorreu em São Paulo, entre os dias 11 e 18 de fevereiro 1 "Talvez seja necessário justificar a qualificação de 'moderna' no caso de uma música composta há mais de oitenta anos e num outro século, sobretudo se considerarmos que entre as obras musicalmente novas do período em que foi composto o Prélude , entre 1892 e 1894, estavam a Sinfonia Novo Mundo, de Dvořák, e a Patética , de Tchaikovsky.
+Mas é claro que, no contexto das artes, a expressão 'moderno' remete antes à estética e à técnica do que à cronologia" (GRIFFITHS, 1998, p. 7).
+Tradição e inovação: uma análise musical da obra Mutationen VI de C .
+Recebido em 25/07/21; aceito em 25/07/21.
+101 de 1922, reverberando em vários cantos do país.
+Em meio à "letargia e acanhamento" do ambiente musical brasileiro do início do século XX (KATER, 2001, p.17), reuniram -se artistas que vinham se alinhando ao ideário de modernização das linguagens artísticas calcado no enaltecimento de manifestações de caráter nacional (NEVES, 2008 [1981], p. 47, 119).
+De acordo com Taruskin (2001, [ s.n.
+], tradução nossa) 2, a corrente nacionalista foi considerada "uma contrad ição do que antes era tido como uma das principais prerrogativas da música, ou seja, seu caráter universal ou internacional, o que significava que as obras dos grandes mestres apelavam igualmente para qualquer público".
+Antokoletz (2012, p. 12) aponta para o surgimento de um nacionalismo emergente na Rússia, que se espalhou pela Europa oriental e, mais tarde, pela Europa ocidental e pelas Américas.
+Durante esse período, muitos compositores da Europa oriental buscavam, em suas fontes nacionais e de identidad e cultural, o desenvolvimento de uma nova linguagem musical, tais como nas primeiras obras do compositor russo de Igor Stravinsky.
+Abordagens mais científicas facilitaram a absorção e a utilização de elementos mais autênticos.
+Compositores como Vaughan Wil liams na Inglaterra, e Bartók e Kodály na Hungria, estudaram padrões rítmico- melódicos de cantos folclóricos, frequentemente baseados em modos e escalas não diatônicas.
+Já nos Estados Unidos, se destacaram os compositores Charles Ives e Aaron Copland, faze ndo uso de canções folclóricas, danças e marchas.
+No Brasil, o grande líder e mentor intelectual do modernismo foi Mário de Andrade (1893- 1945).
+Sua concepção nacionalista tripartida 3 restringia -se à aceitação de uma técnica musical que "consistia numa es tratégia de adoção de uma linguagem musical que superasse o italianismo e o romantismo alemão, sem ingressar no mundo atonal de Schoenberg" (SALLES, 2005, p. 147).
+2 "a contradiction of what was previously considered one of the chief prerogatives of music, i.e., its universal or international character, which meant that the works of the great masters appealed equally to any audience" (TARUSKIN, 2001, [s.n.]).
+3 "Respondendo às suas primeiras fases da famosa tríade definida por Mário de Andrade, ou seja, tese nacional (com todos aqueles compositores que se lançaram ao estudo e à análise da temática folclórica brasileira e ao seu emprego quase exclusivo, tentado, assim, atingir a própria identidade m usical da nacionalidade) e consciência nacional (um pouco posterior à precedente e representada pelos compositores que, de modo menos pragmático, faziam passar em suas obras o sopro do pensamento musical popular, com a intenção precisa de construir uma lin guagem essencialmente brasileira que se originasse e se destinasse ao povo)" (NEVES, 2008 [1981], p. 119).
+Revista Música , v. 2 1 n. 1 – Dossiê Música em Quarentena (parte II); Dossiê Encontro Internacional de Teoria e Análise Musical – 10 Anos Universidade de São Paulo, julho de 202 1 ISSN 2238 -7625 102 Em seu encalço, formou- se um grupo de compositores que ansiava por uma interlocução com movi mentos da vanguarda ocidental.
+Esse grupo viu em Villa -Lobos a possibilidade de se valer de recursos composicionais neoclássicos, como o polimodalismo e a textura em multiníveis, para a fruição do ideário nacionalista4.
+Assim, o "representante musical oficial" do Modernismo (NEVES, 2008 [1981], p. 59) foi sendo revestido de uma utópica noção de "simbiose" de influências presentes na base de formação do povo brasileiro (CARVALHO apud KATER, 2001, p. 32).
+Na tentativa de libertar a música de uma orientação u nilateral e exclusiva do nacionalismo brasileiro e interagir com outra forte tendência ocidental – o serialismo –, na década de 1940, um grupo de compositores brasileiros procurou assimilar "novas perspectivas de organização do espaço musical e a criação d e sistemas originais de alturas" (KATER, 2001, p. 14).
+À época, o serialismo que englobava o projeto do atonalismo estruturado por conjuntos e sua decorrência, o serialismo dodecafônico, eram ambos conduzidos por Schoenberg, sendo aplicados com diferentes enfoques por Webern e Berg.
+Propostos desde 1908, os recursos pré -composicionais seriais abriram espaço para a criação de obras musicais desvinculadas das conhecidas estruturas harmônicas e melódicas tonais ou modais, e expandiram as opções de utilização d o espaço sonoro, textural e rítmico; contudo, até a década de 1940, boa parte das noções de organização formal, planejamento dinâmico e direcionamento do fluxo sonoro continuavam preservadas.
+No Brasil, sendo conhecida simplesmente por "dodecafonismo", a t endência serial encontrou em Hans -Joachim Koellreutter (1915- 2005) 5 uma espécie de 4 "Por essa época, [Villa- Lobos] já havia composto algumas de suas obras mais significativas e já estruturara de modo quase definitivo sua linguagem musical.
+Villa -Lobos já compusera o Amazonas , o Uirapuru e a Prole do bebê nº 1, e iniciara a composição da Prole do bebê nº 2 e da longa série dos Choros , realizando no plano da criação musical todos os anseios modernistas" (NEVES, 2008 [1981], p. 59).
+5 "Ao chegar ao Brasil [vindo da Alemanha], Koellreutter trazia uma sólida bagagem musical recebida especialmente de Kurt Thomaz e de Hermann Scherchen, de quem foi discípulo dileto e assistente.
+buscava sempre aprofundar -se em novas técnicas co mposicionais, aliando o rigor clássico de Hindemith às buscas harmônicas e formais do dodecafonismo, tudo isso dentro de tendência primordialmente expressionista" (NEVES, 2008 [1981], p. 129).
+Koellreuter lecionou no Conservatório Brasileiro de Música do R io de Janeiro (1938) e no Instituto Musical de São Paulo (1940), produziu o programa Música Viva na Rádio MEC do Rio de Janeiro (1939- 1944) e publicou a revista de mesmo nome (1940) .
+Fundou a Escola Livre de Música Pró -Arte em São Paulo (1952) e foi seu di retor (1952 -1958), participou da fundação e dirigiu a Escola de Música da Universidade Federal da Bahia (1954 -1962), foi diretor do Conservatório Dramático e Musical de Tatuí (1983) e professor visitante do Instituto de Estudos Avançados da USP (1988- 1990) .
+Um ano após seu falecimento, foi criada (em 2006) a Fundação Koellreutter, na Universidade Federal de São João del -Rei (FUNDAÇÃO KOELLREUTTER, [s.n.
+]; ENCICLOPÉDIA ITAÚ CULTURAL, [s.n.
+Tradição e inovação: uma análise musical da obra Mutationen VI de C .
+Recebido em 25/07/21; aceito em 25/07/21.
+103 "representante oficial" e Koellreutter passou a polarizar "um intenso movimento de revitalização artística, pedagógica e cultural" (KATER, 2001, p. 15).
+Buscando incentivar a troca de experiências entre os compositores interessados na prática serial, em 1939 Koellreutter fundou o grupo Música Viva6.
+Dentre os compositores integrantes deste grupo destacamos o curitibano Brasílio Itiberê II, o catarinense Edino Krieger, o gaúcho Luiz Cosme, os cariocas Eunice Katunda, Luiz Heitor Corrêa de Azevedo, Otávio Bevilácqua e Cesar Guerra- Peixe, e o manauense Claudio Santoro.
+"Será em torno desses dois [últimos] nomes que se fará a propagação do movimento" (NEVES, 2008 [1981], p. 138).
+Novamente o ideário utópico do grupo trouxe palavras fortes, nesse caso "cultivar, proteger, promover a música contemporânea e aquela de todas as épocas e estilos" (KATER, 2001, p. 50).
+Durante sua duração, o grupo escreveu ao todo três manifes tos, o Manifesto 44, o Manifesto 1945 e o Manifesto 1946, sendo este último a "referência oficial do movimento".
+O Manifesto 1946 imbuiu o fato musical dos "enfoques estético, social e econômico, refletindo, antes de uma coerência propriamente, um mosaico de flashes intensos de consciência" (KATER, 2006, p. 92).
+Ao longo das discussões suscitadas pelo Manifesto 1946, polarizaram -se as duas grandes forças estéticas presentes no meio composicional brasileiro da época – de um lado havia "o posicionamento nacionalista, adepto, ou não, ao realismo- socialista, [.]
+enquanto do outro, com ideias universalizantes e modernistas, encontrava -se o grupo Música Viva" (RAMOS, 2008, p. 5).
+Contudo, este segundo ainda sofreria rupturas internas intensas quando integrantes do grupo passaram a se interessar por políticas ligadas a princípios do realismo- socialista, e descrições do dodecafonismo como "música burguesa decadente" ( Manifesto de Praga, 1948 apud MARIZ, 2012, p. 238) ecoaram em ofensivas como "r efúgio de compositores medíocres" que promoviam a "destruição do nosso caráter nacional" ( Carta aberta aos músicos e críticos do Brasil , 19507 apud SALLES, 2005, p. 148).
+6 A história do grupo é contada em detalhes por Ma riz (2012), Neves (2008) e Kater (2001), que realizou um amplo levantamento documental .
+7 A Carta Aberta aos Músicos e Críticos do Brasil encontra -se reproduzido no livro Música Viva e H.J.
+Koellreutter: movimentos em direção à modernidade (KATER, 2001, p. 119- 124).
+Revista Música , v. 2 1 n. 1 – Dossiê Música em Quarentena (parte II); Dossiê Encontro Internacional de Teoria e Análise Musical – 10 Anos Universidade de São Paulo, julho de 202 1 ISSN 2238 -7625 104 Contudo, ressalte -se que os integrantes do grupo Música Viva que defenderam o nacion alismo não se posicionaram em favor de uma vanguarda antinacionalista, mas de um nacionalismo de vanguarda: Ao invés de um nacionalismo baseado em citações de canções folclóricas e construído com uma técnica composicional neoclássica, como vinha sendo pra ticado durante a década de 1930, o grupo Música Viva defendia uma pesquisa das características técnicas do folclore musical que deveriam ser associadas às técnicas modernas de composição (EGG, 2005, p. 69) .
+Perante essa gama de conflitos, o movimento Músi ca Viva entrou em declínio desde o final de 1950, tendo se dissolvido em 19528.
+Após um breve hiato, uma nova geração de compositores que descendem diretamente do trabalho de Koellreutter9 se organizou para promover as músicas de seu tempo, formando o gr upo Música Nova10.
+Compositores como os paulistas Damiano Cozzella, Gilberto Mendes e Júlio Medaglia, o carioca Rogério Duprat e o pernambucano Willy Corrêa de Oliveira reforçaram a proposta em favor de uma internacionalização estético -musical, firmando um "compromisso total com o mundo contemporâneo" ( Manifesto Música Nova, 196311 apud MARIZ, 2012, p. 282).
+A essa altura, o serialismo ocidental havia se expandido a parâmetros musicais para além dos conjuntos e séries de alturas, atingindo reinterpretações de noções basilares sobre forma, espaço e tempo musical.
+Sobretudo, deparara -se com os dilemas das operações de acaso.
+8 Claudio Santoro e Eunice Katunda, figuras importantes do grupo, "passaram não só a produzir uma música que anos antes criticavam o chamado nacionalismo ortodoxo, como também iniciaram uma série de ataques, em jornais e revistas, contra a postura de Koellreutter" (RAMOS, 2011, p. 94).
+A atitude era justificada por posicionamentos políticos e ideológicos.
+9 "Koellreutter foi professor e orientador, pelo menos por algum tempo, dos principais 'colaboradores' e 'estimuladores' do gr upo [Música Nova].
+Além de Olivier Toni, que passou por sua orientação, e de Damiano Cozzella, outro bom exemplo do resultado do trabalho do maestro alemão foi a já citada Escola Livre de Música, que era ligada à Sociedade Pró -Arte, e que teve uma singular atuação na formação dos jovens compositores em São Paulo" (RAMOS, 2011, p. 119).
+10 Detalhes da trajetória do grupo Música Nova, podem ser encontrados nos trabalhos de Mariz (2012), Neves (2008), Mendes (1994) e Zeron (1991).
+11 "Lançado praticamente 17 ano s depois do último Manifesto Música Viva , reafirma -se neste documento alguns dos princípios do movimento, com ênfase na criação moderna, compromisso com a contemporaneidade, música como arte coletiva e refutação do 'mito da personalidade', importância da educação musical, da contribuição de outras áreas do saber, dos meios de informação, da comunicação, internacionalização da cultura e uma nova postura e tomada de posição frente à realidade" (KATER, 2001, p. 350).
+O Manifesto Música Nova encontra -se reprodu zido no livro História da Música no Brasil (MARIZ, 2012, p. 280 -283).
+Tradição e inovação: uma análise musical da obra Mutationen VI de C .
+Recebido em 25/07/21; aceito em 25/07/21.
+105 Os serialistas logo descobriram que quanto mais pré -determinavam certos aspectos de suas composições, mais eram forçados a abrir mão do controle sobre outros.
+Além disso, quanto mais preciso e complexo o sistema de controle, mais difícil era para os ouvintes perceberem sua influência sobre o que realmente ouviam; e, portanto, mais aleatório e arbitrário o resultado parecia soar.
+A elaborad a lógica estrutural falhou em produzir uma lógica auditiva correspondente (MORGAN, 1991, p. 22, tradução nossa)12.
+O acaso como recurso composicional deliberado ganha força na década de 1950, em grande parte, por influência de John Cage (1912- 1992)13.
+Ferramentas, como o I Ching14, possibilitaram ao compositor neutralizar qualquer critério de escolha subjetiva sobre os difere ntes parâmetros do discurso musical, tornando possível "desistir do desejo de controlar o som, limpar sua mente da música e começar a descobrir meios para permitir que os sons sejam eles mesmos, em vez de veículos para teorias feitas pelo homem ou expressão de sentimentos humanos" (CAGE, 2011, p. 10, tradução nossa)15.
+Os conceitos acaso , indeterminação e aleatoriedade estão intimamente relacionados, embora o s dois primeiro s estejam mais estreitamente vinculados a o envolvimento de Cage – acaso, como referên cia ao uso de procedimentos randômicos durante o ato composicional e indeterminação, como a habilidade de uma obra ser executada de maneiras substancialmente diferentes –, a aleatoriedade está mais vinculada ao trabalho de Pierre Boulez, que defende um a ap licação mais restrita da 12 "The serialists soon discovered that the more they predetermined certain aspects of their compositions, the more they were forced to surrender control over other.
+Moreover, the more pr ecise and complex the controlling system, the more difficult it was for listeners to perceived its influence on what actually heard; and thus, the more random and arbitrary the result appeared to sound.
+The elaborate structural logic failed to produce a corresponding aural logic" (MORGAN, 1991, p. 22).
+13 Importante lembrar que na música ocidental o indeterminado já se colocava presente de diferentes formas em épocas distintas da história: "o uso de indicações rubato ou ad libitum , fermatas e grandes pausas, improvisação em passagens cadenciadas, realização de baixo cifrado e até mesmo a eliminação da linha de compasso resultando em liberdade métrica, e nas fantasias de teclado de C. P. E. Bach" (ANTOKOLETZ, 1992, p. 474, tradução nossa).
+Porém, tais "atos de liberdade consciente" (POUSSEUR apud ECO, 2003, p. 41) estavam sujeitos a um universo em constante negociação com a liberdade dos músicos.
+14 "O que provoca essa imprevisibilidade é a utilização do método estabelecido no I -Ching (Livro das Mutações) para a obtenção de oráculos, o de lançar seis moedas seis vezes" (CAGE, 2011, p. 57, tradução nossa).
+Além do I Ching, o compositor buscou por outr as ferramentas, como o sistema formado a partir da ordenação de pontos ( point -drawing systems ) de Music for Carillon No.
+1 (1952), o sistema decorrente da interação com as imperfeições de uma folha de papel ( paper imperfections ) de Music for Piano (19521956), e a livre transposição musical de mapas, tanto celestes ( star map ) em Atlas Eclipticalis (1962), como urbanos ( city map ) em Solo nº3 dos Song Books (1970) etc.
+15 "Give up the desire to control sound, clear his mind of music, and set about discovering means to let sounds be themselves rather than vehicles for man- made theories or expression of human sentiments" (CAGE, 2011, p. 10).
+Revista Música , v. 2 1 n. 1 – Dossiê Música em Quarentena (parte II); Dossiê Encontro Internacional de Teoria e Análise Musical – 10 Anos Universidade de São Paulo, julho de 202 1 ISSN 2238 -7625 106 indeterminação16.
+Ambos envolvem "ambiguidades deliberadas por meio do sistema de notação musical acatado, com a utilização de signos que ampliam em alto grau as margens de interpretação, bem como a recorrência a elementos gráficos ou textuais que buscam expandir o horizonte de escolhas do intérprete" (ALMEIDA, 2010, p. 13).
+Buscando compreender inicialmente os caminhos que conduziram o serialismo de Webern a Boulez e Stockhausen, passando por Messiaen, os primeiros integrantes do grupo Música Nova transitaram de Darmstadt (1962) ao experimentalismo de John Cage.
+O contato com a autonomia deste último "os levou naturalmente a uma concepção livremente experimental", bem como a um amadurecimento de sua "'identidade' musical" (SALLES, 2 005, p. 150- 151).
+O relato de Gilberto Mendes reflete essa opção: "sintetizou -se clara em minha cabeça, [.]
+a ideia de que precisava construir a minha linguagem musical particular, e não seguir as linguagens dos outros" (MENDES, 1994 apud SALLES, 2005, p. 151) e "os novos músicos que surgiram foram encontrar apoio e mesmo orientação estética [.]
+junto aos poetas renovadores da língua portuguesa, como os poetas concretos paulistas" (MENDES, 1975 apud DELGADO de SOUZA, 2017, p. 471).
+O grupo paulista logo conquistou adeptos em diversas regiões do país, em grande parte, através do Festival Música Nova, idealizado por Gilberto Mendes 17.
+O depoimento dado pelo compositor Pe.
+José Penava (1924 -2002) apresenta uma ideia sobre as transformações estéticas pelas quais passou boa parte dos compositores brasileiros da segunda metade do século XX: 16 "Qualquer discussão sobre os tipos de técnicas de composição e performance envolvidas em tais obra s logo enfrenta o problema da terminologia.
+Na literatura sobre esse assunto, os termos 'acaso', 'indeterminação', e 'aleatoriedade' tem sido usado para descrever o uso de procedimentos randômicos na composição, na variabilidade da performance, ou ambos.
+Na terminologia de Cage, 'acaso' se refere ao uso de certos procedimentos randômicos no ato da composição.
+'Indeterminação', por outro lado, se refere a habilidade de uma peça ser executada de maneiras substancialmente diferentes – isso é, a obr a existe de tal forma que o artista recebe uma variedade de maneiras exclusivas de tocá- la" (PRITCHETT, 1993, p. 107- 108).
+Por sua vez, a aleatoriedade teve como finalidade, denominar uma aplicação mais restrita da indeterminação por parte dos compositores europeus.
+A proposta de Pierre Boulez pretendia "eliminar ambos os extremos do acaso e do serialismo, substituindo- os por um estilo que admite elementos limitados do acaso em um contexto que também mistura procedimentos seriais e escolhas intuitivas" (SIM MS, 1996, p. 354).
+Em suma, Boulez visou, por um lado, ampliar as possibilidades de permutação geradas pela série e, por outro, definir os limites interpretativos a fim de assegurar a integridade da obra.
+17 O Festival, que acontece anualmente desde 1962, tem como princípio norteador a divulgação da música de vanguarda produzida no Brasil e no exterior.
+Sua criação "era um meio de garantir que elas [as músicas] seriam estreadas e tocadas, bem como uma forma eficaz de estabelecer relações com músicos e adeptos da estética de vanguarda do exterior" (SOUZA, 2013 apud DELGADO de SOUZA, 2017, p. 471).
+Tradição e inovação: uma análise musical da obra Mutationen VI de C .
+Recebido em 25/07/21; aceito em 25/07/21.
+Depois, me apaixonei pela Pós-Vanguarda, que significou uma revolução contra o exclusivismo da Vanguarda.
+Hoje estamos num paraíso: cada um pode compor da maneira que quiser: pode -se escrever um acorde perfeito ao lado de um cluster , empregar melodias folclóricas dentro de um tecido atonal!
+Durante muito tempo escrevi música não figurativa que nem eu mesmo entendia – uma músic a hermética.
+Hoje prefiro uma música que comunique, que atinja.
+Acho que a música tem que passar emoção.
+Eu mesmo sou assim: eu preciso da emoção, eu sinto emoção!
+Sempre usei todos os meios novos não por eles mesmos, mas subjugando- os à ideia, ao texto, à mensagem.
+As novas técnicas servem para aumentar a palheta (sic), os recursos usados em direção a este objetivo maior que é a ideia (PENALVA, 1993 apud ZONTA, 2013, p. 23) .
+Claudio Santoro e "a liberdade sob todos os aspectos"18 Compositor inventivo, Claudio Santoro (1919- 1989) criou, no decorrer de cinco décadas, cerca de 600 obras19, abrangendo os mais variados materiais e técnicas composicionais.
+Suas transformações estilísticas desdobraram -se em composições atonais, dodecafônicas, neotonais, aleatórias e eletrônicas (MENDES, 2009).
+O próprio compositor segmenta sua produção em quatro fases distintas: Iniciei minha carreira como dodecafonista em 1939 [1ª fase].
+Entre 1948 e 1963 escrevi principalmente obras de tendência nacional [2ª fase] .
+Retornei posteriormente ao serialismo e à música experimental [3ª fase].
+Atualmente componho sem preconceitos de vanguardismos superados – minha preocupação é uma linguagem própria onde toda minha experiência esteja condensada numa síntese [4ª fase] (SAN TORO apud COELHO de SOUZA, 2011, p. 331) .
+A obra de Santoro foi objeto de estudo de muitos trabalhos.
+Diversos deles discutem a segmentação de sua trajetória em diferentes fases, compreendendo desde discussões comparativas de técnicas composicionais a con cepções ideológicas.
+Contudo, foi no trabalho de Mendes (2009), que encontramos uma segmentação que possibilitou um entendimento mais detalhado da sua produção.
+O autor se destaca por perceber a necessidade de uma revisão das obras compostas , principalment e, a partir da década de sessenta, subdividindo- a em seis fases distintas: ( 1) Serialismo Dodecafônico (1939 18 Cf.
+a Conclusão do presente artigo.
+Disponível em: <claudiosantoro.art.br>.
+Revista Música , v. 2 1 n. 1 – Dossiê Música em Quarentena (parte II); Dossiê Encontro Internacional de Teoria e Análise Musical – 10 Anos Universidade de São Paulo, julho de 202 1 ISSN 2238 -7625 108 1946) , (2) Transição (1946- 1948), ( 3) Nacionalismo (1949- 1960) , (4) Retorno ao serialismo (1961- 1966), ( 5) Avant -Garde (1966- 1977) e (6) Maturidade (1978- 1989) .20 Gradativamente caminhando em direção ao que denominaria como "forma e linguagem universais", Santoro, a partir de 1966, experimentou novos recursos composicionais, principalmente aqueles que surgiram através da expansão das fronteiras da or ganização sonora (MENDES, 2009, p. 169).
+Assim, iniciam os seus primeiros experimentos, com a indeterminação, a aleatoriedade e a improvisação.
+A expressão "filiação a avant -garde extrema" foi utilizada para justificar suas transformações estéticas .21 A pa rtir de então, a poética de Santoro se caracteriza pelo estabelecimento de limites muito bem definidos ao intérprete durante o fazer musical: "em geral, faço um aleatório controlado, eu não deixo fazer o que quiser.
+Por exemplo, coloco várias notas e digo: sobre essas notas, improvisar ritmos diferentes com intensidades diferentes.
+Não é um negócio assim, completamente caótico" (LÍVERO de SOUZA, 2003, p. 91).
+O controle a que o compositor se refere se assemelha ao que Costa (2009) denominou como "estr atégias de invariância".
+O termo faz alusão ao "desejo de que determinados itens se repitam a cada execução de uma peça, [.]
+no sentido de diminuir a probabilidade de que determinados itens musicais, considerados essenciais ao projeto composicional, deixem de figurar o resultado final" (COSTA, 2009, p. 54).
+A presença das estratégias "aumentam as chances de que se formem, para a obra, limites 20 "De imediato, substancia tal constatação a flagrante diferença entre as obras compreendidas em cada uma das três etapas sugeridas.
+Enquanto a produção da primeira exibe como principal referência a experiência dodecafônica da década de qua renta, o que obviamente levou o compositor a cunhar a expressão 'retorno ao serialismo', as obras da etapa seguinte distinguem -se, não apenas por rejeitar gradativamente as características diretamente associadas a uma expressão musical de caráter mais cons ervador, mas, principalmente, pela incorporação de novos recursos composicionais proporcionados pela ampliação das fronteiras da organização sonora.
+Somado a isto, temos que a elaboração de obras dedicadas ao meio eletroacústico, característica igualmente marcante no período vanguardista, somente ocorreria a partir de 1966, justamente o ano indicado para delimitar os dois períodos em questão.
+Finalmente, no que concerne à eclética fase da maturidade, de acordo com declarações do próprio compositor, tendo su perado a experiência vanguardista precedente, os esforços derradeiros se voltam para o desenvolvimento de uma expressão a mais pessoal possível, síntese de todos os estilos anteriormente abordados" (MENDES, 2009, p. 273).
+21 "Minha vida e música deram tremendos saltos nos últimos 10 anos.
+O último foi a minha decisão de deixar meu país para sempre.
+Mas isso não é tão revolucionário quanto a minha música hoje em dia, pois sou afiliado à 'avant -garde' extrema, fazendo experimentos inclusive com pinturas!"
+(SAN TORO apud MENDES, 2009, p. 169, tradução nossa).
+Tradição e inovação: uma análise musical da obra Mutationen VI de C .
+Recebido em 25/07/21; aceito em 25/07/21.
+109 morfológicos que a diferenciem de um entorno de aspecto distinto" (COSTA apud COSTA, 2018, p. 163), portanto, perm ite ao compositor controlar os níveis de liberdade.
+O objetivo desse trabalho,22 então, é a análise da obra Mutationen VI , para violino e fita magnética, composta por Claudio Santoro em 1972.
+Concentra -se, sobretudo, nos aspectos pertinentes à notação musi cal e às estratégias de invariância.
+Mutationen VI para violino e fita magnética (1972) de Claudio Santoro "Convicto da necessidade de 'estar em dia com o mais moderno', Santoro passa a afirmar que as obras de seu novo momento criativo deveriam refletir as mais modernas pesquisas científicas e os avanços tecnológicos em geral" (MENDES, 2009, p. 179).
+Mutationen VI faz parte de um ciclo de 12 peças para diferentes instrumentos e fita magnética, compostas entre os anos de 1968 e 1976, em grande parte, enquant o o compositor residia na Alemanha .23 Uma das mais importantes características dessa série é a intensa participação dos intérpretes durante a performance da obra.
+Dessa forma, "a partitura [se torna] um convite à fantasia criativa do intérprete, a quem é d elegada expressiva liberdade interpretativa dos signos gráficos" (VENTURA, 2007, p. 3).
+Nela, observamos o uso de instruções verbais, notação tradicional e de grafismos, alguns deles já conhecidos do repertório de música contemporânea e outros de criação do próprio compositor, que, na procura de uma grafia ideal, criou aquela que representasse a intenção do discurso musical proposto.
+A obra tem duração de 8 minutos.
+As partes do violino e da fita magnética estão notadas em paralelo, seguindo uma ordem linear e temporal.
+A notação é distribuída ao 22 Esta análise é um desdobramento da pesquisa de doutorado ainda em andamento, intitulada Acaso e indeterminação na música brasileira: uma análise do repertório violinístico após 1950.
+23 Algumas dessas obras podem ser tocadas em combinações, formando conjuntos de câmara com ou sem o uso da fita magnética, são elas: Mutationen I (1968) para cravo e fita magnética, Mutationen II (1969) para violoncelo e fita magnética; Mutationen III (1970) para piano e fita magnética; Mutationen IV (1972) para viola e fita magnética; Mutationen V (1972) para segundo violino e fita magnética; Mutationen VI (1972) para primeiro violino e fita magnética; Mutationen VII (1973) para quarteto de cordas ou qualque r combinação das Mutationen II , IV, V e VI, com ou sem fita magnética; Mutationen VIII (1975) para quarteto ou quinteto de cordas e piano (combinação das Mutationen II , IV e VI – para quarteto – ou as Mutationen II, IV, V e VI – para quinteto – , com ou sem fita magnética; Mutationen IX (1973) para vozes, objetos e/ou instrumentos indeterminados; Mutationen X (1976) para oboé com ou sem fita magnética; Mutationen XI (1976) para contrabaixo e fita magnética; e Mutationen XII (1976) para quinteto ou orquestra de cordas com ou sem fita magnética (combinação das Mutationen II , IV, V, VI e XI).
+Revista Música , v. 2 1 n. 1 – Dossiê Música em Quarentena (parte II); Dossiê Encontro Internacional de Teoria e Análise Musical – 10 Anos Universidade de São Paulo, julho de 202 1 ISSN 2238 -7625 110 longo de 97 quadros cronométricos24 e apenas 18 deles são executados em duo com a fita.
+A fita magnética não é fornecida com a obra; ela deve ser produzida pelo próprio intérprete, respeitando as instruções de gravação do compositor a partir de sons captados, editados e mixados do violino.
+Assim, durante a execução da obra, o intérprete experiencia a interação com uma parte fixa e relativamente inflexível.
+Para Ventura (2007) a fita funciona como uma possibilidade de ampliação e expansão do que é executado pelo violinista durante o ato performático.
+Nos quadros cronométricos iniciais, Santoro ap resenta o primeiro material.
+O gráfico, uma linha angulosa com pontos sobrepostos, representa alturas de notas nãodeterminadas que devem ser executadas com spic cato25 sobre as cordas Lá e Mi.
+Essas alturas caminham em crescendo de maneira não -linear, do r egistro médio ao agudo do violino e culminam em uma tétrade formada por (027), Sol -Ré-Lá, que corresponde às cordas soltas do instrumento, somados à figura de cabeça de nota triangular ,26 que corresponde à indicação "o som mais agudo possível" ( höchster ton), em fortíssimo.
+Nesse gesto inicial, há um certo nível de liberdade em contraste com o emprego de estratégias de invariância.
+Ao indeterminar as alturas de notas, Santoro define, cuidadosamente, o seu contorno melódico, a articulação e a progressão de s inais de dinâmica para a execução.
+Ainda, observamos a determinação sobre quais cordas esse material deve ser executado e a sua duração, que divide o material em três partes (1 segundo, 2 segundos e 1 segundo; F ig.
+A notação com cabeça de nota triangular também é encontrada no quadro cronométrico 60 (Fig.
+2), onde, após uma sequência de sete notas de livre duração em tenuto, há a figura em fusas que indica a execução de sons cada vez mais agudos em relação ao som anterior.
+Essa última figuração é intercalada pela corda solta Ré.
+24 Os breves segmentos marcados por barras e/ou linhas pontilhadas, não constituem compassos.
+Esses segmentos são utilizados como indicações temporais em segundos (p. ex.
+1" , 2") e/ou mudança de material.
+25 Nessa passagem, há a indicação "tocar spiccato.
+Sobre as cordas e com uma leve pressão do dedo (toque suavemente)" ( Spiccato spielen.
+Auf der Saiten a und e mit ganz leichtem Fingereindrück (sanft berühren).
+Dourado (1998, p. 106) define a mecânica do spicatto como similar à "de um detaché que passa a ser executado não na primeira metade do arco, junto do talão, mas próximo ao ponto de equilíbrio (fiel) da vara.
+O esforço de carregar o arco, deve ser, então, retirado – momento exato em que [.]
+o arco passa a saltar em virtude de sua própr ia flexibilidade".
+26 Essa figura de nota é chamada por Gould (2011, p. 12, tradução nossa) de "cabeça de nota triangular [e] indica a altura mais alta/mais baixa possível, onde tais notas não podem ser especificadas".
+Tradição e inovação: uma análise musical da obra Mutationen VI de C .
+Recebido em 25/07/21; aceito em 25/07/21.
+111 Figura 1 – Claudio Santoro: Mutationen VI , quadros cronométricos 3- 7.
+Apresentação do primeiro material: linha angulosa com pontos sobrepostos e cabeça de nota triangular.
+Figura 2 – Claudio Santoro: Mutationen VI , quadro cronométricos 60.
+Passagem com notas de livre duração e cabeça de nota triangular.
+Nos quadros cronométricos seguintes, o intervalo de 2M (Mi @-Fá) deve ser executado em tremolo .27 Nessa passagem, a notação tradicional se torna mista no momento em que Santoro faz uso do feixe estendido28 para determinar a duração do tremolo até o quadro cronométrico 9.
+Nos quadros seguintes (10- 11), o compositor confere liberdade ao intérprete nas escolhas das alturas de notas através do uso do glissando com tremolo .
+A escolha das alturas deve respeitar o contorno indicado, tal como na Figura 1.
+O tremolo inicial, Mi@ -Fá, retorna e é mantido em dinâmica estável até o fim do quadro 11.
+27 Dourado (1998, p. 109) descreve o tr emolo como a "sucessão de golpes alternados para cima e para baixo, executados com grande velocidade do meio para a ponta do arco".
+Patricia Strange e Allen Strange (2001, p. 29, tradução nossa) observam que quando "cuidadosamente articulado pode ser perce bido como um evento timbrístico ou rítmico".
+28 "Notas sem haste com feixe estendido são notações eficientes se a prioridade é mostrar o ponto de ataque [.]
+[e] são necessárias para indicar visualmente sua duração" (GOULD, 2011, p. 631, tradução nossa).
+"O espaço em branco entre o feixe representa a proporção de pausa [.]
+[ o que] torna a notação adequada para glissandos e para acordes com notas de diferentes durações" (GOULD, 2011, p. 632, tradução nossa).
+Revista Música , v. 2 1 n. 1 – Dossiê Música em Quarentena (parte II); Dossiê Encontro Internacional de Teoria e Análise Musical – 10 Anos Universidade de São Paulo, julho de 202 1 ISSN 2238 -7625 112 As indicações de pont os de contato29 são relacionadas às orientações dinâmicas: sul ponticello quando em diminuendo e normal quando em crescendo .
+As orientações de dinâmica, por sua vez, são relacionadas aos movimentos do gráfico: em crescendi para movimentos ascendentes e diminuendi para movimentos descendentes.
+Também percebemos a determinação referente a duração de execução dos materiais (10 segundos, 1 segundo, 1 segundo, 1 segundo e 15 segundos) ( Fig.
+3): Figura 3 – Claudio Santoro: Mutationen VI , quadros cronométricos 7- 11.
+Feixes estendido e glissando com tremolo .
+No quadro cronométrico 14, Santoro faz uso do intervalo de 2m como material composicional ( Fig.
+Essas formas do intervalo de 2m (Lá -Si@, Ré#-Mi e Ré- Mi@) devem ser executadas em tremolo , dinâmica piano com crescendo e diminuendo nas transições de uma altura intervalar à outra.
+Na partitura, há indicações para o uso de sul ponticello e surdina .30 Conforme o tamanho, o design e o material, a surdina modifica o 29 O termo "ponto de contato" se refere ao ponto da corda em que o arco é colocado e relaciona- se na peça com a posição normal, sul ponticello , sub ponticello e sul tasto .
+Para Patricia e Allen Strange (2001, p. 2, tradução nossa), os pontos de contato podem ser executados de sete formas distintas: "1) a rco colocado mais ou menos a meio termo entre o cavalete e o braço, ou em posição normal; 2) arco colocado próximo ou no cavalete: sul ponticello ; 3) arco colocado entre a ponte e o estandarte: sub ponticello ; 4) arco colocado sob as cordas; 5) arco coloca do sobre o braço, ou sul tasto ; 6) arco colocado na parte não ressonante das cordas, entre os dedos da mão esquerda e a pestana; 7) arco colocado na caixa de cravelhas ou no corpo".
+30 De acordo com Patricia e Allen Strange (2001), existem 11 tipos diferent es de surdinas, dos mais variados tamanhos, materiais e designs .
+Santoro não especifica qual deve ser utilizada na obra.
+"As surdinas estão disponíveis em uma variedade de tamanhos, formas e materiais, e cada uma produz um som diferente.
+A vibração do cavalete do violino será afetada em vários graus pelo material, tamanho, forma e massa da surdina.
+Tradicionalmente, a função das surdinas tem sido simplesmente a de tornar o instrumento mais suave" (STRANGE; STRANGE, 2001, p. 185, tradução nossa).
+Tradição e inovação: uma análise musical da obra Mutationen VI de C .
+Recebido em 25/07/21; aceito em 25/07/21.
+113 timbre do instrumento e afeta o volume de som.
+A barra de duração31 até o fim do quadro indica que o trecho se estende por 15 segundos, finalizando em pianíssimo.
+Figura 4 – Claudio Santoro: Mutationen VI , quadro cronométrico 14.
+Con sordina, sul ponticello e tremolo .
+O glissando32 é uma articulação bastante utilizada por Santoro em Mutationen VI .
+Sua notação é representada por uma linha ligando uma nota inicial e final do ornamento.
+Na Figura 5, a nota Fá  deve ser executada na corda Ré, indicada pela expressão "Sul D",33 que, em crescendo e glissando, caminha até o intervalo Sol -Dó, executado em fortíssimo .
+Em seguida, há um movimento inverso.
+A nota Dó , executada na corda Sol, "Sul G ", em mezzo piano e crescendo , se mantém durante o quadro cronométrico 20 e, a partir do quadro 21, caminha em glissando até a nota Lá, formando a tétrade (0237) em fortíssimo .
+Apesar de Santoro determinar as alturas, articulações, dinâmicas e cordas em que as notas devem tocadas, a d uração deve ser proporcional aos demais, tendo em vista que, nessa passagem, não há indicação cronométrica.
+31 "As longas durações (sustentadas) de notas são indicadas com barras de duração: quanto mais longa a barra, maior a duração de nota [.].
+Progressões ininterruptas de notas são conectadas à mesma barra de duração.
+Interrupções das barras de duração (int ervalos entre barras) significam silêncios (pausas)" (STONE, 1980, p. 138, tradução nossa).
+32 De acordo com Stone (1980, p. 19, tradução nossa), "não há um acordo universal com relação à execução 'adequada' de glissandos em instrumentos de arco (escorregadas suaves versus cadeias rápidas de alturas de notas).
+Se uma interpretação específica é desejada, ela deve ser explicada na sua primeira aparição".
+Os glissandi também podem aparecer combinados com outras articulações, tais como o glissando com tremolo nos quadros cronométricos 10 -11 e 37, o pizzicato glissando no quadro 23 e o glissando com ricochett no quadro 69.
+33 Essa expressão determina em quais cordas devem ser executadas passagens específicas e evidencia a preocupação do compositor com a definição timbrística da obra.
+Observamos o uso dessas expressões nos quadros cronométricos 25, 52 ( Sul A), 15, 18 ( Sul D ) e 15, 20 e 50 ( Sul G ).
+Revista Música , v. 2 1 n. 1 – Dossiê Música em Quarentena (parte II); Dossiê Encontro Internacional de Teoria e Análise Musical – 10 Anos Universidade de São Paulo, julho de 202 1 ISSN 2238 -7625 114 Figura 5 – Claudio Santoro: Mutationen VI , quadros cronométricos 18- 22.
+G lissando e determinação de execução de passagens em cordas específicas.
+Uma série de três sons em pizzicato34 glissando surge ao fim do quadro cronométrico 23 ( Fig.
+Apesar de não haver cabeças nas figuras de notas, o compositor indica a localização aproximada das alturas onde as notas devem estar através do local onde terminam as hastes.
+Conjeturamos que quaisquer das alturas próximas ao final dessas hastes possam ser tocadas, de maneira que o contorno é determinado, em detrimento das alturas exatas.
+Figura 6 – Claudio Santoro: Mutationen VI , quadro cronométrico 23.
+34 "Beliscar" é a tradução do termo italiano pizzicato .
+A técnica em sua forma básica, consiste em pinçar as cordas do instrumento com os dedos.
+A produção dessa técnica pode ser feita pela mão direita ou pela mão esquerda, e aplicada em qualquer ponto de contato das cordas.
+A técnica é dividida em quatro categorias principais: "1) usando a ponta (a almofada) do dedo; 2) usando a unha; 3) usando uma combinação de ponta e unhas; 4) usando palhetas" (STRANGE; STRANGE, 2001, p. 57, tradução nossa).
+"Uma variação relacionada a essa técnica é usar um pizzicato glissando […].
+Os glissandi devem ser contínuos, sem permanecer nas alturas de destino" (STRANGE; STRANGE, 2001, p. 88, tradução nossa).
+Santoro faz uso de pizzicati de diferentes formas: pizzicato convencional nos quadros cronométricos 49, 54, 55, 70 e 87; pizzicato glissando no quadro 23; Bártok ou snap pizzicato nos quadros 58 e 87; e pizzicato de mão esquerda no quadro 93.
+Tradição e inovação: uma análise musical da obra Mutationen VI de C .
+Recebido em 25/07/21; aceito em 25/07/21.
+115 Na Figura 7, quadro cronométrico 69, observamos a combinação de glissando com ricochet35 em movimento descendente e sem nota final definida, apenas aproximada.
+Stone (1980, p. 20) chama estes glissandi com nota final não -determinada de glissando com finalização aberta (open- ended glissando).
+Já no quadro cronométrico 37, percebemos o uso do t remolo de duas notas36 em crescendo através do intervalo de 3m (Fá-Lá, Fá-Lá, Sol -Si e Sol-Si).
+Essa passagem tem duração de 3 segundos em movimento ascendente e é finalizada com um glissando aberto com tremolo .
+Nesses exemplos, o uso do glissando aber to é similar ao uso das figuras de notas sem cabeça da Figura 6.
+Dessa forma, supomos que quaisquer das alturas próximas ao final da indicação do glissando possam ser executadas.
+Figura 7 – Claudio Santoro: Mutationen VI , quadros cronométricos 69 e 37, re spectivamente.
+Glissando aberto em combinação com ricochet e glissando aberto em combinação com tremolo .
+Fonte: SANTORO, 1972, p. 5 e 3.
+No quadro cronométrico 23 ( Fig.
+8), percebemos a inclusão de elementos de caráter percussivo.37 Há duas indicações, cada uma relativa a uma figura.
+A primeira, em alemão: "com golpes de arco nas cordas – col legno (com arco) com os dedos a golpear sobre o arco de violino" (mit Bogen Schläge auf die Saiten - col legno (mit Bogen) mit den Fingern Schl äge auf Geigenbogen) determina que o violinista deve percutir as cordas do 35 "Golpe que utiliza a elasticidade natural do arco.
+Ao se atirar uma bola de borracha ao chão, ela salta determinado número de vezes, de acordo com a força e a altura que é lançada.
+Neste golpe, o arco salta de maneira similar sobre a corda.
+Deve- se cuidar de controlar o rebote por um número determinado de notas, para cima ou para baixo.
+A intensidade do som, assim como o número de rebotes, dependem tanto do impulso com que o arco é lançado sobre a corda quanto da altura da qual ele é projetado" (DOURADO, 1998, p. 104).
+36 O tremolo de duas notas "é a alternância entre duas alturas de notas ou acordes diferentes" (GOULD, 2011, p. 225, tradução nossa).
+37 "A mão possui áreas que podem gerar sons percussivos no violino: pontas dos dedos, unhas, juntas e palma.
+Cada uma produz uma qua lidade diferente de som [.]
+tocando, batendo com a mão aberta, esfregando, batendo com a mão fechada, usando as juntas dos dedos ou utilizando uma técnica de tremolo " (STRANGE; STRANGE, 2001, p. 98, tradução nossa).
+Revista Música , v. 2 1 n. 1 – Dossiê Música em Quarentena (parte II); Dossiê Encontro Internacional de Teoria e Análise Musical – 10 Anos Universidade de São Paulo, julho de 202 1 ISSN 2238 -7625 116 violino em col legno.38 A segunda, "com os dedos no tampo do violino", que determina, de acordo com o grafismo, a execução de 13 sons percutidos no tampo do instrumento com certo co ntorno melódico.
+A duração dessa passagem deve ser de 15 segundos.
+Apesar desses materiais serem raramente encontrados no repertório violinístico tradicional, as estratégias de invariância utilizadas por Santoro, como a notação gráfica e as indicações verb ais correspondentes, aumentam as chances de uma execução equivalente ao resultado sonoro desejado.
+Figura 8 – Claudio Santoro: Mutationen VI , quadro cronométrico 23.
+Utilização de elementos de caráter percussivo: col legno e batidas "com os dedos no tampo do violino".
+Após duas fermatas, na Figura 9, uma sequência intervalar é iniciada e finalizada com o tricorde (027) Sol -Ré-Lá e possui as seguintes díades interiores: 2M (Mi -Fá#), 7m (Lá-Sol), 5J (Sol -Ré), 9m (Lá -Si@), 5J (S ol-Ré), 6m (Fá -Ré@), 5J (Ré -Lá), 4J (Fá -Si@) e 4J (Mi -Lá).
+Nessa sequência, um objeto representado pela figura de um triângulo, indica que o violinista deve "tocar com palheta de violão" ( mit guitarre palheta).
+Logo após, percebemos um intervalo de 2m ( Ré-Mib), tocado em sul ponticello e tremolo , descrevendo um crescendo e um diminuendo em notação proporcional ao grafismo.
+Essa 38 "Traduzido literalmente, col legno significa 'com a madeira', ou para brincar com a madeira do arco.
+Essa ação pode ser aplicada a qualquer parte do instrumento [.].
+Existem duas maneiras básicas pelas quais a vara pode gerar som a partir do violino.
+O primeiro é golpear o instrument o (col legno battuto) e o segundo é usar um golpe de legato , mantendo a vara em contato com o instrumento durante todo o golpe ( col legno tratto )" (STRANGE; STRANGE, 2001, p. 35, tradução nossa).
+Tradição e inovação: uma análise musical da obra Mutationen VI de C .
+Recebido em 25/07/21; aceito em 25/07/21.
+117 sessão é caracterizada por estar entre ritornelos e pela indicação "repetir ad libitum quando tocar só" ( Wiederholung ad lib.
+Figura 9 – Claudio Santoro: Mutationen VI , quadro cronométrico 74.
+O uso da palheta de violão para a execução dos intervalos.
+10), um intervalo de 7m (Ré -Dó) se mantém durante três módulos at ravés de uma notação com linhas planas, que Stone (1980, p. 139) denomina como "extensores de cabeça de nota" ( note-head extenders ).39 Santoro indica que a nota Dó deve ser tocada na corda Lá (segunda corda do violino), como uma nota pedal, enquanto a nota Ré executa um pequeno gesto, produzindo, dessa forma, uma sonoridade mais brilhante.
+O gesto em fusas, Mi -Ré-Mi@, caracterizado por uma barra ( /), indica appoggiatura.
+O trecho é finalizado por três notas que devem ser executadas em harmônico (natural).
+Figura 10 – Claudio Santoro: Mutationen VI .
+39 "As regras que governam as barras de duração são igualmente aplicáveis aos extensores de cabeça de nota.
+Esse método de notação é mais adequado para a música vocal ou para instrumentos monofônicos.
+Torna -se problemático quando usado para intervalos e acordes de textura estreita, porque os extensores provavelmente se encontrarão.
+Além disso, a falta de hastes torna praticamente nítidas as distinções gráficas entre duas ou mais partes da mesma pauta, a menos que sejam adicionados conectores verticais p ara mostrar o progresso de cada parte em casos de cruzamento de vozes ou em outras situações ambíguas" (STONE, 1980, p. 139, tradução nossa).
+Revista Música , v. 2 1 n. 1 – Dossiê Música em Quarentena (parte II); Dossiê Encontro Internacional de Teoria e Análise Musical – 10 Anos Universidade de São Paulo, julho de 202 1 ISSN 2238 -7625 118 O quadro cronométrico 47 ( Fig.
+11) também traz indicações de uso de material percussivo.
+Quatro indicações verbais em alemão são notadas: "improvisar com esses elementos" ( Improvisieren mit diesen Elementen ) (2) "3 gongos pequenos" ( 3 Klein Gong); (3) " col legno atrás do cavalete" ( c/ legno hinter den Steg); (4) " ponticello soando muito alto" ( Ponticello Kläng sehr hohe ).
+Entende -se que o i ntérprete deve utilizar três gongos pequenos como material percussivo.
+As três linhas enumeradas representam o espectro sonoro de cada um dos gongos.
+Deve -se tocar primeiro o gongo médio, depois o agudo e em seguida o grave, em dinâmica piano.
+A linha abai xo representa os golpes de arco em col legno .
+Logo, cinco golpes devem ser executados atrás do cavalete em mezzo forte e diminuendo.
+Seguidamente, retorna o gongo médio em dinâmica piano.
+A última linha representa o ponticello com tremolo em crescendo e diminuendo.
+O grafismo deve ser respeitado até o fim do quadro.
+Figura 11 – Claudio Santoro: Mutationen VI , quadro cronométrico 47.
+Inserção de materiais percussivos na obra: gongos, col legno atrás do cavalete e ponticello .
+Nessa passagem, percebemos uma escrita que se preocupa com a progressão dos sons, dinâmica e articulação.
+É interessante notar que Santoro não determina a duração dos materiais e nem a cronometragem do quadro.
+A duração das notas é espacial, proporcional à sua localização.
+Nos ataques em ponticello , representados pela última linha, não há determinação de altura de nota.
+12), o compositor faz uso do que Stone (1980, p. 142) chama de legato ondulado ( undulating legato).
+O legato é um m ovimento de arco "com ZOMER, A; MOREIRA, A .
+Tradição e inovação: uma análise musical da obra Mutationen VI de C .
+Recebido em 25/07/21; aceito em 25/07/21.
+119 a mínima interrupção entre as notas.
+As mudanças de direção devem ser quase imperceptíveis" (DOURADO, 1998, p. 79).
+Nessa passagem, o movimento de legato deve ser executado sobre as três primeiras cordas soltas do violino (Ré, Lá e Mi ).
+Esse movimento representa, literalmente, um movimento ondulado do arco que, de acordo com o grafismo, deve ser repetido sete vezes.
+A passagem possui alturas de notas e dinâmica determinada ( piano e crescendo ); entretanto, sua duração deve respeitar de maneira proporcional a posição em que se encontra o quadro.
+Figura 12 – Claudio Santoro: Mutationen VI , quadro cronométrico 55.
+13), verificamos uma grande variação timbrística em relação ao uso das articulações: pizzicato , legato, tenuto e staccato , acrescidos de mudanças de pontos de contato entre ponticello e normal.
+O intervalo de 7M (Dó- Si) em tremolo , apresenta um pequeno arco com quatro pontos que acreditamos ser a indicação de quatr o golpes de arco.
+É interessante identificar a tétrade (0147) que surge logo após a quinta cesura do segmento.
+A tétrade, em fusas, deve ser tocada em pizzicato cinco vezes e as setas indicam a direção de execução.
+O primeiro arpejo com setas40 deve ser executado da corda Sol para a Mi, depois, da Mi para a Sol e assim por diante.
+Por fim, percebemos o uso do harmônico natural41 representado por um pequeno losango na nota em que o 40 "Se um acorde estiver marcado como pizz., o executante entenderá que o acorde deve ser dedilhado (arpeggiado) de baixo para cima.
+Se o acorde for tocado para baixo, uma pequena seta para baixo deve ser colocada acima dele.
+Se uma sucessão rápida do mesmo acorde for tocada, o executante irá arpejá- lo para cima e para baixo.
+Pequenas setas podem, no entanto, ser coloc adas acima dos acordes para garantir a execução adequada" (STONE, 1980, p. 314, tradução nossa).
+O arpejo com setas aparece nos quadros cronométricos 55 e 93.
+No quadro 70, o compositor utiliza a notação tradicional para indicar mudança de direção de arco: (arco para cima) e (arco para baixo).
+No quadro 74, o arpejo de acordes sem setas possui a indicação "tocar com palheta de violão" ( mit guitarre palheta ).
+41 De acordo com Patricia e Allen Strange (2001), existem dois tipos básicos de harmônicos, os natura is e os artificiais.
+A produção de um harmônico natural se dá através do toque suave do dedo da mão esquerda Revista Música , v. 2 1 n. 1 – Dossiê Música em Quarentena (parte II); Dossiê Encontro Internacional de Teoria e Análise Musical – 10 Anos Universidade de São Paulo, julho de 202 1 ISSN 2238 -7625 120 dedo deve ser suavemente posicionado, no caso, a nota Si.
+A passa gem não possui duração cronométrica e deve ser proporcional às demais.
+Figura 13 – Claudio Santoro: Mutationen VI , quadro cronométrico 55.
+A rpejo com setas e harmônico natural.
+Nos quadros cronométricos 56- 57 (Fig.
+14), nota mos o uso do que Stone (1980, p. 141, tradução nossa) chama de acelerando com barras (beamed acelerando).
+Nesse caso, "se a pauta comum de cinco linhas for usada, as cabeças de notas devem ser omitidas.
+O final das hastes mostra as alturas de notas aproxim adas" (STONE, 1980, p. 66, tradução nossa).
+Essa notação é apropriada para indicar acordes repetidos e evidenciar apenas as mudanças.
+Na passagem, o intervalo de 7M (Ré -Dó#) deve ser executado em tenuto e piano.
+Este intervalo deve ser repetido em um acelerando quase sem controle, aliado a um crescendo e culminando em outro intervalo de 7M, Sol -Fá# em fortíssimo .
+No quadro subsequente (58) há um pizzicato com a indicação "x – puxar tão fortemente que a corda atingirá a madeira do braço" ( x – so stark zupfen, daß Saite auf Holz des Halses aufschlägt ).
+Esse pizzicato é chamado de snap pizzicato 42 e deve durar meio segundo.
+O último quadro da sessão, tem a mesma duração que o anterior e possui uma figura com cabeça de nota triangular e a indicação "peteleco".
+em um dos nós da corda solta, enquanto a mão direita fricciona ou percute a corda.
+O harmônico artificial é aquele que não pertencem à série harmôn ica, sendo reproduzido de forma não- natural.
+O intérprete deve criar a fundamental pressionando a corda em um determinado ponto (normalmente com o dedo indicador da mão esquerda) e, ao mesmo tempo, tocar suavemente um dos nós superiores.
+42 "Essa técnica to rnou- se conhecida desde o seu uso por Béla Bartók – daí seu nome, pizzicato 'Bártok' ou 'snap'.
+É produzido colocando a parte carnuda do indicador direito embaixo da corda, puxando- a diretamente para cima e soltando -a, permitindo que ela estale no braço.
+O som resultante no momento em que a corda ricocheteia na madeira é muito percussivo" (STRANGE; STRANGE, 2001, p. 58, tradução nossa).
+Tradição e inovação: uma análise musical da obra Mutationen VI de C .
+Recebido em 25/07/21; aceito em 25/07/21.
+121 Figura 14 – Claudio Santoro: Mutationen VI , quadro cronométrico 56 -59.
+Acelerando com barras, snap pizzicato e "peteleco".
+15) apresenta uma seção na qual três passagens estão dentro do que Stone (1980, p. 152) chama de caixas pesadas43 (heavy box ).
+Essas caixas indicam passagens de improvisação e sua indicação verbal, confirma: "combinar e misturar as possibilidades anter iores" ( die vorgegangenen Möglichkeiten kombinieren und mischen).
+Dentro da primeira caixa pesada há indicação para o uso do snap pizzicato.
+É curioso observar que, dessa vez, Santoro o representa de maneira diferente da anterior ( Fig.
+A primeira caixa pesada tem duração de 3 segundos, a segunda de 5 segundos e a terceira, 2 segundos.
+O compositor faz uso de uma notação tradicional para o material utilizado dentro de cada caixa.
+Há determinação de alturas de notas, articulações, pontos de contato e dinâmica.
+A indeterminação se encontra apenas nas possibilidades de permutação entre elas.
+Finalizando a sessão, em crescendo molto, percebemos o uso do acelerando com barras e da indicação "etc.
+improvisar dessa maneira" ( u.s.w.
+improvisieren in diese art ) para os intervalos de 5J (Lá -Mi, Lá @-Mi@), 6m (Ré -Si@), 7m (Lá -Sol), 5J (Ré -Lá) e 7M (Lá -Sol#).
+Ainda na parte da fita, no quadro cronométrico 87 (Fig.
+16), há determinação quanto ao uso de quatro materiais.
+Estes materiais devem s er executados em dinâmica piano e, após sua execução, devem "ser retomadas as possibilidades anteriores 3 ou 4 vezes e misturar" ( die vorangegangenen Möglichkeiten aufnehmen 3 oder 4 mal und mischen).
+43 "Passagens alternativas (frases, padrões rítmicos, alturas de notas para improvisação etc.)
+a serem escolhidas pelo(s) performer(s) no calor do momento, devem ser anotadas acima e/ou abaixo da música 'regular' e colocadas em molduras ou caixas visualmente pesadas [.].
+Não há preferência para a sua localização – acima, abaixo ou na pauta comum" (STONE, 1980, p. 152, traduç ão nossa).
+Revista Música , v. 2 1 n. 1 – Dossiê Música em Quarentena (parte II); Dossiê Encontro Internacional de Teoria e Análise Musical – 10 Anos Universidade de São Paulo, julho de 202 1 ISSN 2238 -7625 122 Figura 15 – Claudio Santoro: Mutationen VI , quadro cronométrico 87.
+Caixas pesadas e acelerando com barras .
+Figura 16 – Claudio Santoro: Mutationen VI , quadro cronométrico 87.
+O primeiro material é representado pelas notas Mi e Ré.
+Entre essas notas, há um gesto pontilhista em movimento ascendente.
+Todo este trecho deve ser executado uma oitava acima e é acompanhado da seguinte instrução "entre estes dois sons, spiccato muito rápido" ( zwischen diesen beiden Klängen spiccato und sehr Schnell ).
+O segundo material é caracterizado por cabeças de notas em x, chamadas por Gould (2011, p. 11) de cabeça de nota cruzada (crossed noteheads ).
+Essa figura de nota é utilizada na escrita instrumental para notar sons percussivos e sons de altura indefinida – nesse caso, "atrás do cavalete" ( hinter dem Steg ).
+O terceiro material é bastante semelhante ao primeiro.
+Nele, há duas notas, Sol e Mi, e entre elas, um pontilhismo com articulação em pizzi cato e a expressão rápido (Schnell ).
+O último material é similar ao segundo; o que o diferencia é a indicação col legno.
+Santoro faz uso da indeterminação, principalmente, para a execução do primeiro e do terceiro material.
+O pontilhismo entre as alturas iniciais e finais de cada um dos materiais indetermina as alturas de nota, mas define o registro e seu movimento (ascendente ou descendente ).
+Nessa passagem, há a determinação para o uso de certas articulações e dinâmica.
+Como no exemplo anterior ( Fig.
+15), também há indeterminação nas possibilidades de permutação entre os quatro materiais.
+Consideramos os desenhos ZOMER, A; MOREIRA, A .
+Tradição e inovação: uma análise musical da obra Mutationen VI de C .
+Recebido em 25/07/21; aceito em 25/07/21.
+123 da notação gráfica e as instruções verbais como elementos que compõem o desenvolvimento de estratégias de invariância.
+No trecho que compreende os quadros 62- 68 (Fig.
+17), Santoro faz uso da série dodecafônica (1, 0, 7, 9, 5, 4, 10, 6, 8, 3, 2, 11) em mezzo forte , sul ponticello e crescendo .
+As barras em vermelho indicam que a série é repetida três vezes e meia – a cada repetição, o composi tor transpõe a série uma oitava acima – em ordem original e com duração de 6 segundos.
+A duração tem notação espacial, ou seja, é relativa à sua localização dentro do seu respectivo quadro cronométrico.
+Cada quadro possui duração de 1 segundo.
+Figura 17 – Claudio Santoro: Mutationen VI , quadro cronométrico 62 -68.
+Série dodecafônica O: as barras em vermelho indicam repetições.
+Há outras inserções de série no decorrer da obra.
+Nos quadros cronométricos 68- 69 (Fig.
+18), na parte da fita magnética, surge a mesma série na forma I1 (1, 2, 7, 5, 9, 10, 4, 8, 6, 11, 0, 3) .44 Essa série é repetida três vezes por cada voz e em cânone (indicado pelas barras em vermelho).
+A dinâmica é piano e o ponto de contato indicado é ponticello .
+Ao final da série, três notas em feixe estendido formam o cluster Ré-Mi-Mi@.
+Esse cluster deve ser mantido em dinâmica estável até o fim do quadro cronométrico 72.
+As seguintes indicações de gravação são notadas: "gravar em 19 ou 9,5 e reproduzir no dobro de velocidade" ( aufnehmen in 19 oder 9,5 spielen in doppelter Geschwindigkeit ), "se junto com o II violino, as 3 notas (Ré -Mi-Mi@) são tocadas oitava acima" ( Wenn zusammen mit II.
+Geige, werden die 3 Töne (d -e-es) eine 8va höher gespielt ).
+44 Ao manipular a série original, na forma I1, Santoro aparentemente cometeu um equívoco, repetindo a nota Si (11) e omitindo Si @ (10): (1, 2, 7, 5, 9, 11, 4, 8, 6, 11, 0, 3).
+Revista Música , v. 2 1 n. 1 – Dossiê Música em Quarentena (parte II); Dossiê Encontro Internacional de Teoria e Análise Musical – 10 Anos Universidade de São Paulo, julho de 202 1 ISSN 2238 -7625 124 Figura 18 – Claudio Santoro: Mutationen VI , quadro cronométrico 68 -72.
+Série dodecafônica I1: as barras em vermelho indicam repetições.
+Na Figura 19, novamente na parte da fita magnética, observamos a inserção de uma nova série (9, 3, 7, 4, 11, 0, 1, 5, 4, 2, 10).
+Essa série apresenta algumas digressões, como a repetição da nota Mi (4) e as omissões de Sol @ (6) e Lá @ (8).
+A série é apresentada em cânone e é repetida duas vezes e meia na primeira e na segunda voz, e uma vez e meia na terceira voz.
+Antes da apresentação da série, Santoro introduz as notas Dó# , Dó, Sol, Lá@, Mi@, Ré, Lá, Dó e Si que, aparentemente, não t êm relação com nenhuma das séries anteriormente apresentadas.
+A instrução verbal indica "gravar em 1 min.
+7 ½ ou 3 4⁄5 (19 ou 9,5) reproduzir com 17 ou 7 ½, (38 ou 19)" ( Aufnahmen zwischen 1 Min 7 ½ oder 3 4/5 (19 oder 9,5) Wiedergabe mit 15 oder 7 ½, (38 oder 19).
+Figura 19 – Claudio Santoro: Mutationen VI , quadro cronométrico 36 -37.
+Série dodecafônica: as barras em vermelho indicam repetições da forma I1 da série.
+Tradição e inovação: uma análise musical da obra Mutationen VI de C .
+Recebido em 25/07/21; aceito em 25/07/21.
+125 Por fim, o quadro cronométrico 47 (Fig.
+20) apresenta o uso de harmônicos naturais e a indicação para que "cada um dos grupos de harmônicos gravem 2 ou 3 vezes em qualquer combinação de harmônicos como desejado, ou qualquer outro autoselecionado" ( Jede der Obertongruppen 2 oder 3 mal aufnehmen beliebior Kombination der Obertöne wie steht, oder andere Selbstgewählte ).
+O ritmo é variável, assim como o tempo: Moderato - Allegro - Andante etc."
+( Der Rhythmus ist gleichfalls variabel, ebenso das Tempo: Moderato - Allegro - Andante u.s.w.)
+Figura 20 – Claudio Santoro: Mutationen VI , quadro cronométrico 47.
+Indicação para harmônicos naturais.
+Considerações finais "Eu sempre fui a favor da liberdade sob todos os aspectos, e eu acho que a arte, uma das funções mais importantes da arte hoje em dia, é a de transmitir uma mensagem de liberação do homem" (SANTORO apud LÍVERO DE SOUZA, 2003, p. 79).
+Em Mutationen VI , Sant oro exibe a ampla capacidade sonora do violino ao utilizar toda a sua extensão.
+O material melódico manifesta grande variação intervalar e, por vezes, um contorno melódico anguloso.
+O uso de duas séries dodecafônicas, com restrito nível de liberdade, inser idas em uma obra indeterminada é uma aplicação curiosa: Revista Música , v. 2 1 n. 1 – Dossiê Música em Quarentena (parte II); Dossiê Encontro Internacional de Teoria e Análise Musical – 10 Anos Universidade de São Paulo, julho de 202 1 ISSN 2238 -7625 126 Porque cheguei à conclusão de usar o aleatório?
+Porque sempre me preocupei com o problema da interpretação [.].
+Achava um absurdo, que certas coisas que eu mesmo escrevi, dificílimas na execução, com o processo aleatório teria praticamente o mesmo resultado e sem tanta dificuldade técnica para fazer.
+Então é por isso que eu uso o aleatório – como um elemento de facilitar e que meu pensamento musical tenha melhor resultado na interpretação, na realização (LÍVERO de SOUZA, 2003, p. 91) .
+Acrescentam -se aos aspectos abordados o emprego de técnicas tradicionais do repertório violinístico combinado às técnicas mais recentes, como o uso percussivo dos dedos no tampo do instrumento.
+Também percebemos a dete rminação de diferentes pontos de contato do arco e articulações, como spiccato , ricochet , col legno , pizzicatos , harmônicos, tremolos e glissandos .
+No aspecto rítmico, a obra não mantém uma regularidade métrica, mas explora o campo da agógica.
+O interesse no aproveitamento de efeitos sonoros como glissandos , clusters, quartos de tom e multifônicos, além da utilização de outros tantos princípios, até então, ausentes de sua obra, tais como aleatoriedade, indeterminismo, improvisação, notação proporcional, me io eletroacústico e etc., teriam como consequência direta, em um primeiro momento, a unificação da maioria destas novas possibilidades com os princípios formais recorrentes nas obras anteriores, como por exemplo, a ordenação serial (MENDES, 2009, p. 169) .
+Na parte da fita, as seguintes manipulações são indicadas: gravação, superposição, mixagem e reprodução no dobro de rotação.
+Essas manipulações produzem ressonâncias e distorções que foram cuidadosamente empregadas para que um não- especialista em música eletroacústica pudesse realizar a tarefa.45 Logo, a obra demonstra "como é possível, com reduzido equipamento eletrônico (dois gravadores, microfones e material para edição de fita), produzir uma música imaginativa e engenhosa" (MAUÉS apud MENDES, 2009, p. 207).
+Para Santoro, Mutationen formam uma série de obras cujo 45 O trabalho de Guerra (2009) realiza uma releitura da obra Mutationen III para piano e fita magnética (1970), através dos atuais procedimentos de gravação, edição e processamento digital: "nosso problema é que esses equipamentos são difíceis de se encontrar nos dias de hoje e todas as descrições detalhadas na partitura precisam ser reinterpretadas para se obter os mesmos resultados utilizando -se as novas tecnologias" (GUERRA, 2009, p. 521).
+Tradição e inovação: uma análise musical da obra Mutationen VI de C .
+Recebido em 25/07/21; aceito em 25/07/21.
+127 objetivo "é uma tentativa de 'democratização' da música eletrônica" (SANTORO apud MENDES, 2009, p. 207, tradução nossa) :46 Para mim, pessoalmente, isto representa um empecilho à experimentação, pois o ato criador – que é algo estritamente individual – necessita, no meu entender de um certo recolhimento interior muito grande e, por que não dizer, de uma atitude quase de pudor.
+Ao pensar nos compositores que, para a utilização dos computadores, sin tetizadores, geradores de estrutura serial (como a da Universidade de Toronto, inventado por seus técnicos) necessitam de auxiliares técnicos, tem -se a medida do quão complexa tornou -se a tarefa criadora para o compositor contemporâneo (SANTORO apud MENDES , 2009, p. 205) .
+Diante dessa multiplicidade de recursos, Mutationen VI evidencia o uso das estratégias de invariâncias por meio de uma "aleatoriedade controlada" ao empregar uma notação mista e uma variedade de instruções verbais.
+As ideias musicais se desenvolvem num contínuo, sustentando um discurso musical muito bem arquitetado.
+Mendes (2009) corrobora com esse pressuposto quando observa que o uso da indeterminação na série Mutationen é predominantemente empregado em elementos de alturas de notas e duração, e que, em raros momentos de exceção, o intérprete poderá improvisar livremente.
+Neste sentido, o uso de operações de acaso em Santoro se aproxima mais da concepção composicional europeia do que da vertente norteamericana: 47 "tem camaradas que escrevem: aqui fazer o que quiser, ou tocar o que está na sua cabeça.
+Não sei se é val ido ou não, mas é uma experiência, que o Cage em geral fez" (SANTORO apud LÍVERO DE SOUZA, 2003, p. 91).
+verificamos que há um consenso de que existem duas grandes tendências relativas ao emprego da indeterminação na música deste século.
+Estas tendências s ão diferenciadas a partir de critérios distintos: geográficosculturais, manifestos por uma oposição entre Europa e os Estados Unidos da América; estéticos expressos por uma aceitação ou recusa da noção de obra de arte e dos princípios que ela envolve; lin guísticos, relacionados ao problema de sentido implicado na produção e na fruição da obra de arte (TERRA, 2000, p. 136) .
+Observamos que, essencialmente, a trajetória da música brasileira não se diferencia da trajetória da música norte- americana e europeia.
+Ambas manifestam "o antagonismo permanente entre o cultivo do intelectualismo racionalista da arte clássica, clara e medi da, 46 "MUTATIONEN is a series of works whose point of departure is an a ttempt at the 'democratization' of electronic music" (SANTORO apud MENDES, 2009, p. 207).
+47 A proposição a respeito do papel aparentemente passivo do compositor frente ao resultado da obra, foi tema central de divergências, especialmente, entre os dois pri ncipais expoentes dessa estético -composicional: Pierre Boulez e John Cage.
+"Por causa do forte compromisso com os princípios do serialismo integral e controle total do compositor, a geração mais jovem de compositores europeus passou a absorver técnicas ale atórias apenas gradualmente e com cautela" (ANTOKOLETZ, 1992, p. 487, tradução nossa).
+Revista Música , v. 2 1 n. 1 – Dossiê Música em Quarentena (parte II); Dossiê Encontro Internacional de Teoria e Análise Musical – 10 Anos Universidade de São Paulo, julho de 202 1 ISSN 2238 -7625 128 e o abandono aos imperativos da intuição e dos instintos, com a presença do insólito e do acaso na construção" (NEVES, 2008 [1981], p. 18).
+Entre o antagonismo da tradição e inovação há "uma gama infinita de posturas de compromissos justificáveis ora pelo desejo de modernizar as estruturas tradicionais, ora pela ânsia de dar maior equilíbrio às estruturas informais" (NEVES, 2008 [1981], p. 18).
+É preciso, todavia, lembrar que, se a força da tradição se apoiava sobre uma herança europeia já profundamente arraigada naquelas terras, as correntes renovadoras tiveram de contar quase exclusivamente com o dinamismo de figuras que se sentiam responsáveis pela colocação do Brasil em pé de igualdade com os grandes centros culturais do mundo – não mais para lhes copiar as modas, e sim para reafirmar a força daqueles países que buscam seu pleno desenvolvimento (NEVES, 2008 [1981], p. 312) .
+Referências ALMEIDA, Alexandre Zamith.
+Forma lírica e campos temporais: fundamentos das multiplicidades de performance em Klavier stück XI de Karlheinz Stockhausen.
+Prof. Dr. Mauricy Matos Martin.
+Tese (Doutorado em Música) – Instituto de Artes, Universidade Estadual de Campinas, Campinas, 2010.
+The M usical L anguage of the Twentieth Century : the discovery of a missing link.
+New Jersey: Prentice Hall, 1992.
+Disponível em: Acesso em: 18 mai o 2020.
+Middletown: Wesleyan University Press, 2011.
+CATÁLOGO DE OBRAS DE CLAUDIO SANTORO.
+A recepção das teorias do dodecafonismo nos últimos Quartetos de cordas de Cláudio Sa ntoro.
+Revista Brasileira de Música , Rio de Janeiro, v. 24, n. 2, p. 329- 350, jul./dez.
+Comentários sobre a possibilidade de autopoiese da obra musical e sobre o performer como seu componente sistêmico.
+Debates , Rio de Janeiro , v. 1, n. 21, p. 155178, nov. 2018.
+Da indeterminação à invariância : considerações sobre a morfologia musical a partir de peças de caráter aberto.
+Tese (Doutorado em Música) – Ins tituto de Artes, Universidade Estadual de Campinas, Campinas, 2009.
+Entre práticas e discursos: Gilberto Mendes, Willy Corrêa de Oliveira e o campo da música erudita brasileira pós 1980.
+Ciências Sociais Unisinos , Londrina, v. 53, n. 3, p. 467- 477, set./dez.
+Tradição e inovação: uma análise musical da obra Mutationen VI de C .
+Recebido em 25/07/21; aceito em 25/07/21.
+O arco dos instrumentos de cordas.
+O grupo Música Viva e o nacionalismo musical.
+In: FÓRUM DE PESQUISA CIENTÍFICA EM ARTE, 3 ., 2005, Curitiba.
+Curitiba: EMBAP, 2005. p. 60- 70.
+Disponível em: -joachim -koellreutter .
+Obra aberta: forma e indeterminação nas poéticas contemporâneas.
+Universidade Federal de São João del -Rei.
+Behind Bars: the definitive guide to music notation.
+A música moderna : uma história concisa e ilustrada de Debussy a Boulez.
+Rio de Janeiro: Jorge Zahar Ed., 1998.
+Mutationen III de Claudio Santoro: uma releitura eletroacústica.
+In: CONGRESSO DA ASSOCIAÇÃO NACIONAL E PESQUISA E PÓS -GRADUAÇÃO EM MÚSICA , 19., 2009, Curitiba.
+Goiânia: ANPPOM, 2009. p. 521- 525.
+IEA-USP, Instituto de Estudos Avançados da Universidade de São Paulo.
+Disponível em: ores-visitantes/exprofessores- visitantes -internacionais/hans- joachim -koellreutter .
+Revista textos do Brasil , v. 12 intitulado "Música erudita brasileira", Itamaraty Cultural, Ministério das Relações Ext eriores , Brasília, p. 88- 95, 2006.
+Música Viva e H. J Koellreutter : movimentos em direção à modernidade.
+São Paulo: Musa Editora: Atravez, 2001.
+LÍVERO de SOUZA, Iracele A. Vera.
+Santoro: uma história em miniaturas.
+Prof. Dr. Mauricy Matos Martin e Profa.
+Maria Lúcia Senna Machado Pascoal.
+Dissertação (Mestrado em Artes) – Instituto de Artes, Universidade Estadual de Campinas, Campinas, 2003.
+Rio de Janeiro: Nova Fronteira, 2012.
+Uma odisseia musical : dos mares do sul à elegância pop/art déco.
+São Paulo: Giordano: Edusp, 1994.
+O percurso estilístico de Cláudio Santoro : roteiros diverg entes e conjunção final.
+Prof. Dr. Silvio Ferraz Mello Filho.
+Tese (Doutorado em Música) – Instituto de Artes, Universidade Estadual de Campinas, Campinas, 2009.
+MORGAN, Robert P. Twentieth -Century Music: A History of M usical S tyle in M odern E urope and A merica.
+Música contemporânea brasileira.
+Rio de Janeiro: Contracapa, 2008.
+Revista Música , v. 2 1 n. 1 – Dossiê Música em Quarentena (parte II); Dossiê Encontro Internacional de Teoria e Análise Musical – 10 Anos Universidade de São Paulo, julho de 202 1 ISSN 2238 -7625 130 PRITCHETT, James.
+New York: Cambridge University Press, 1993.
+Música Viva e a nova fase da modernidade musical brasileira .
+Dissertação (Mestrado em História) – Departamento de Ciências Sociais, Universidade Federal de São João del -Rei, São João del -Rei, 2011.
+"Música V iva": atividades, engajamentos e rompimentos.
+In: CONGRESSO NACINAL DE HISTÓRIA DA UNIVERSIDADE FEDERAL DE GOIÁS, 1 ., 2008, Jataí.
+Anais de Uma corte europeia nos trópicos .
+Goiânia: FUNAPE, 2008. p. 1- 14.
+Aberturas e impasses: o pós -modernismo na música e seus reflexos no Brasil , 1970- 1980.
+São Paulo: Editora UNESP, 2005.
+SIMMS, Bryan R. Music of the T wentieth C entury : Style and S tructure.
+Music Notation in the 20th C entury : A Practical G uidebook.
+STRANGE, Patricia; STRANGE, Allen.
+The Contemporary Violin : Extended P erformance Techniques.
+Los Angeles: Universit y of California Press, 2001.
+Disponível em: Acesso em: 18 mai o 2020.
+Acaso e aleatório: um estudo da indeterminação nas poéticas de Cage e Boulez.
+Mutationen III de Cláudio Santoro: o pianista como co- autor.
+In: CONGRESSO DA ASSOCIAÇÃO NACIONAL E PESQUISA E PÓS -GRADUAÇÃO EM MÚSICA , 17., 2007, São Pa ulo.
+Goiânia: ANPPOM, 2007. p. 1 -6.
+ZOMER, Ana Letícia; MOREIRA, Adriana Lopes.
+Análise musical de Mutationen VI para violino e fita magnética de Claudio Santoro.
+In: ENCONTRO INTERNACIONAL DE TEORIA E ANÁLISE MUSICAL, 5., 2019, Campinas.
+Campinas, Universidade Estadual de Campinas, 2019. p. 375- 392.
+Disponível em : 2/EITAM5 -paper_27_ZomerA_MoreiraA -pp_375- 392.pdf .
+ZERON, Carlos Alberto de Moura Ribeiro.
+Fundamentos histórico -políticos da música nova e da música engajada no Brasil a partir de 1962 : o salto do tigre de papel.
+Prof. Dr. Arna ldo Daraya Contier.
+Dissertação (Mestrado em História Social) – Faculdade de Filosofia, Letras e Ciências Humanas, Universidade de São Paulo, São Paulo: 1991.
+Manhãs, poentes, zênites e noites : aspectos da representação de luz e sombra na música de Harry Crowl.
+Prof. Dr. Acácio Tadeu de Camargo Piedade.
+Dissertação (Mestrado em Música) – Centro de Artes.
+Universidade do Estado de Santa Catarina, Florianópolis: 2013.

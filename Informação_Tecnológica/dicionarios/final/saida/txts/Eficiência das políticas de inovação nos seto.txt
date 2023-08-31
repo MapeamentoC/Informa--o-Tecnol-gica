@@ -1,0 +1,662 @@
+Eficiência das políticas de inovação nos setores industriais brasileiros: sugestões para a crise da COVID-19 Efficiency of innovation policies in brazilian industrial sectors: suggestions for the COVID-19 crisis Michelle Márcia Viana Martins Chrystian Soares MendesSumário Parte 1: P olíticas Públicas .
+P olíticas Públicas : asPectos gerais .
+18 Um modelo Político de imPlementação Para as Políticas Públicas : os PaPéis do direito e dos jUristas .
+20 William H. Clune III evalU ación de las obras Públicas en gobiernos locales en méxico : desafíos de las Políticas Públicas de ParticiP ación ciUdadana .
+83 Louis Valentin Mballa e Arturo Bermúdez Lara Paternalismo libertário e Políticas Públicas : intervenção e transP arência .
+105 Marcia Carla Pereira Ribeiro e Victor Hugo Domingues 2.
+P olíticas Públicas e covid-19 .
+121 limites e Possibilidades Para o Uso secUndário de dados Pessoais no Poder Público : lições da Pandemia .
+123 Miriam Wimmer eficiência das Políticas de inovação nos setores indUstriais brasileiros : sUgestões Para a crise da covid-19 .
+144 Michelle Márcia Viana Martins e Chrystian Soares Mendes comPliance em tem Pos de calamidade Pública : análise sobre a flexibilização da transP arência de dados e informações dUrante o enfrentamento da covid-19 no brasil .
+169 Luciana Cristina da Conceição Lima , Alcindo Fernandes Gonçalves , Fernando Cardoso Fernandes Rei e Cláudio Benevenuto de Campos Lima 3.
+P olíticas Públicas e acco Untability .
+188 acco Untability e desenho instit Ucional : Um "Ponto cego " no direito Público brasileiro .
+190 Danielle Hanna Rached estratégias regUlatórias de combate à corr UPção .
+211 Eduardo Jordão e Luiz Carlos Penner Rodrigues da Costao controle e a avaliação Pelo tribUnal de contas da União das Políticas Públicas imPlementadas Por desonerações trib Utárias no brasil .
+243 Vinicius Garcia e Carlos Araújo Leonetti 4.
+P olíticas Públicas em matéria de saúde .
+266 a livre oPção Pela cesariana : Um "nUdge às avessas " .
+268 Bruna Menezes Gomes da Silva e Júlio Cesar de Aguiar aUtismo : asPectos jUrídicos da acessibilidade e resPeito .
+283 Fabiana Barrocas Alves Farah e Danilo Fontenele Sampaio Cunha saúde e doenças raras : análise da jUdicialização do acesso ao tratamento e sUas limitações .
+301 Danilo Henrique Nunes e Lucas de Souza Lehfeld 5. o Utras Políticas Públicas em esPécie .
+318 regUlação das ágU as: Uma análise emPírica da ProdUção normativa dos órgãos regUladores federais .
+320 Bianca Borges Medeiros Pavão , Natasha Schmitt Caccia Salinas e Thauany do Nascimento Vigar "let the algorithm decide ": is hUman dignity at stake ?
+343 Marcela Mattiuzzo das acePções dos direitos dos refUgiados às vozes silenciadas nas Políticas Públicas 371 Thaís Araújo Dias e Monica Mota Tassigny Planejamento familiar : "inimigo " a ser combatido , "aliado " libertador oU falso "amigo "?
+395 Vinicius Ferreira Baptista a aUsência de Políticas Públicas Para a jUvent Ude como ofensa aos direitos hUmanos .419 William Timóteo e Ilzver de Matos Oliveira análise cênica dos feminicídios em cUritiba : Pro Postas Preventivas e rePressivas .433 Ticiane Louise Santana Pereira , Octahydes Ballan Junior e Antonio Henrique Graciano Suxberger origin and conseq Uences of the war on drUgs.
+from the United states to andean coUntries .
+451 Silvio Cuneo e Nicolás Oxmantrabalho decente : com Portamento ético , Política Pública oU bem jUridicamente tUtelado ?
+471 Silvio Beltramelli Neto e Mônica Nogueira Rodrigues el final de Una Política Pública : análisis del ciclo Político del Proyecto destinos indUctores Para el desarrollo tUristico regional (didtr) – b rasil .
+496 María Belén Zambrano Pontón , Magnus Luiz Emmendoerfer e Suely de Fátima Ramos Silveira alternativa tecnológica Para com Pensação de créditos de icms: est Udo de caso da viabilidade do Uso de dlt em nota fiscal eletrônica .
+520 Danielle Mendes Thame Denny , Roberto Ferreira Paulo e Fernando Crespo Queiroz Neves Parte 2: t emas gerais .
+549 a constr Ução do direito hUmano ao alimento no Plano internacional .
+551 Tatiana de A. F. R. Cardoso Squeff grUPos vUlnerables de esPecial Protección Por Parte del instit Uto nacional de derechos hUmanos (indh) ¿ en qUién Podría y debería enfocarse en base a la doctrina y a la exPeriencia com Parada iberoamericana ?
+571 Juan Pablo Díaz Fuenzalida el sUfragio electrónico como alternativa al sUfragio tradicional : lUces y sombras de Un debate recUrrente .
+595 David Almagro Castro , Felipe Ignacio Paredes Paredes e Edgardo Lito Andres Cancino cognoscibilidade e controle social da transP arência Pública sob a égide da demodiversidade : est Udo emPírico de Portais eletrônicos ministeriais latinoamericanos .
+621 Ana Carolina Campara Verdum , Leonardo Fontana Trevisan e Rosane Leal da Silva desafios e benefícios da inteligência artificial Para o direito do consUmidor .
+655 Sthéfano Bruno Santos Divino qUem tem medo da resPonsabilização sUbjetiva ?
+a s teorias da condUta e da imPUtação , Para Um direito administrativo sancionador constit Ucionalizado .
+690 Sandro Lúcio Dezan e Paulo Afonso Cavichioli Carmona a insUficiência de trib Utação como fUndamento Para o afastamento da reserva do Possível na garantia do mínimo existencial e da dignidade hUmana .
+711 Dione J. Wasilewski e Emerson Gabardodoi: 10.5102/rbpp.v11i1.6645 Eficiência das políticas de inovação nos setores industriais brasileiros: sugestões para a crise da COVID-19* Efficiency of innovation policies in brazilian industrial sectors: suggestions for the COVID-19 crisis Michelle Márcia Viana Martins** Chrystian Soares Mendes*** Resumo Este artigo busca identificar os setores eficientes em utilizar os recursos públicos para promover incrementos nos gastos em P&D e inovação.
+Por meio das políticas industriais, o Estado tem papel fundamental no estímulo as atividades inovativas, induzindo a economia a retomada do crescimento econômico em um cenário de crise.
+Para avaliar a eficiência do apoio governamental, foi utilizado o método da Análise Envoltória de Dados e o cálculo do índice de Malmquist, com os dados da PINTEC para o período de 2009-2011 e 2012-2014 (período de dados mais recente).
+Os resultados fornecem uma noção dos segmentos que poderão contribuir para o crescimento econômico com o do apoio dos recursos públicos para a retomada da atividade industrial.
+Os setores mais eficientes foram aqueles cujos insumos básicos são obtidos em abundância no Brasil.
+Isso sugere que a contínua ação do Estado poderá promover a agregação de valor do produto nacional e permitir que os negócios brasileiros alcancem novos mercados.
+Além disso, é uma oportunidade de aprimorar a vantagem comparativa do Brasil na produção/extração de produtos primários.
+Contudo, ainda é necessária uma ação coordenada entre os setores públicos e privados para o delineamento de políticas industriais.
+Essa análise é simplória frente à complexidade em definir os setores-chave para a retomada do crescimento, sobretudo em um cenário no qual se espera uma alta taxa de desemprego e estagnação.
+Porém, é fornecida uma noção de como as indústrias nacionais responderam aos incentivos governamentais no âmbito da inovação.
+Para trabalhos futuros, recomenda-se definir os determinantes para o crescimento da indústria no cenário de crise.
+Abstract This article seeks to identify sectors that are efficient in using public resources to promote increases in spending on R&D and innovation.
+The discus -* Recebido em 07/04/2020 Aprovado em 06/05/2020 ** Economista, doutoranda em Economia Aplicada pela Universidade de São Paulo (PPGEA ESALQ/USP).
+Professora substituta na Universidade Federal do Rio Grande (FURG).
+E-mail: michellemartins@usp.br.
+*** Economista, doutor em Economia Aplicada pela Universidade Federal de Viçosa (UFV), Professor Adjunto do Departamento de Ciências Econômicas da Universidade Federal de Ouro Preto (UFOP).
+E-mail: csmendes@ufop.edu.br.MARTINS , Michelle Márcia Viana; MENDES, Chrystian Soares .
+Eficiência das políticas de inovação nos setores industriais brasileiros: sugestões para a crise da COVID-19.
+Revista Brasileira de Políticas Públicas, Brasília, v. 11, n. 1. p.143-167, 2021.145 sion is based on the role of the State in promoting innovative activities for the resumption of the economy in a crisis scenario.
+For that, the Data Envelopment Analysis method and the Malmquist index calculation were used, with PINTEC data for the period 2009-2011 and 2012-2014 (most recent data period).
+The results provide an idea of the segments that may contribute to economic growth with that of government support for the resumption of industrial activity.
+The most efficient sectors were those whose basic inputs are obtained in abundance in Brazil.
+This suggests that the continuous action of the State may promote the added value of the national product and allow Brazilian businesses to reach new markets.
+In addition, it is an opportunity to improve Brazil's comparative advantage in the production / extraction of primary products.
+However, there is still a need for coordinated action between the public and private sectors to design industrial policies.
+This analysis is simplistic given the complexity of defining the key sectors for the resumption of growth, especially in a scenario in which a high rate of unemployment and stagnation is expected.
+However, it is provided a notion of how national industries responded to government incentives in the scope of innovation for future work, it is recommended to define the determinants for the growth of the industry in the crisis scenario.
+1 Introdução Atualmente, o Brasil e o mundo enfrentam uma nova crise mundial associada à pandemia da COVID-19, trazendo aos debates econômicos perspectivas da retomada do crescimento em um cenário de recessão que poderá se estender por anos.
+Muito se questiona sobre as profundas alterações na dinâmica do desenvolvimento, além das iniciativas para reaver a estrutura existente que visam retardar ao máximo os investimentos já realizados.
+Nesse sentido, a atuação do Estado faz-se necessária por meio de políticas públicas e medidas regulatórias que criem condições para a retomada da atividade industrial e dos respectivos postos de trabalhos.
+A busca de respostas sobre os fatores que influenciam o crescimento dos países tem evidenciado um campo de pesquisas caracterizado pela complexidade e amplitude de possibilidades para o desenvolvimento científico.
+Os modelos1 postulados por Romer2, Grossman e Helpman3 e Aghion e Howitt4 incorporam às variáveis econômicas tradicionais outros elementos que possam ser determinantes do crescimento de longo prazo, entre eles o papel do Estado na regulação dos processos econômicos e a geração de novos produtos e/ou processos por um setor técnico-científico estruturado dentro de um mercado competitivo.
+De modo complementar, Rodrik e Hausmann, influentes na Escola de Governo de Harvard; Chang, na Escola de Economia de Cambridge e Sabel, na Escola de Direito de Columbia postulam como estratégia desenvolvimentista o estabelecimento de Políticas Industriais (PIs) como apoio ao setor produtivo5.
+Essa evolução possibilitou um melhor arcabouço científico e teórico para explicar as variações no Produto Interno Bruno (PIB), em que elementos não necessariamente econômicos, tais como pesquisa, desenvolvimento e inovação (P , D&I), passam a influenciar o nível de produção do país.
+1 Os autores partem da teoria do crescimento endógeno, ou seja, o crescimento econômico é resultado de forças endógenas, como investimento em capital humano, inovação, conhecimento e não de forças externas.
+Endogenous technological change.
+Journal of political Economy , v. 98, n. 5, Part 2, p. S71-S102, 1990.
+Growth based on increasing returns due to specialization.
+The American Economic Review , v. 77, n. 2, p. 56-62, 1987. p. 56.
+3 GROSSMAN, Gene Michael; HELPMAN, Elhanan.
+Trade, knowledge spillovers, and growth .
+European economic review , v. 35, n. 2-3, p. 525-526, 1991.
+4 AGHION, Philippe; HOWITT, Peter.
+A model of growth through creative destruction.
+National Bureau of Economic Research, Econometrica , v. 60, n. 2, p. 332, 1992.
+Política Industrial, Direito e Desenvolvimento: razões econômicas, experiências institucionais e racionalidades regulatórias.
+São Paulo: Saraiva, 2010. v. 1, p. 2.MARTINS , Michelle Márcia Viana; MENDES, Chrystian Soares .
+Eficiência das políticas de inovação nos setores industriais brasileiros: sugestões para a crise da COVID-19.
+Revista Brasileira de Políticas Públicas, Brasília, v. 11, n. 1. p.143-167, 2021.146 A contribuição dessas variáveis para o crescimento econômico pode ser entendida como incentivos produtivos que aprimoram a vantagem competitiva de um negócio.
+Não obstante, as mudanças tecnológicas fundamentadas pelos processos de P , D&I são caracterizadas pelos riscos e incertezas em torno da percepção das oportunidades econômicas ainda não exploradas.6 Nessa perspectiva, muitas empresas realizam investimentos nesse domínio de modo insuficiente, resultando em falhas de mercado com consequente dissociação entre as expectativas privadas de rentabilidade e os benefícios sociais resultantes dos empreendimentos.7 Desse modo, conforme apontado por Hall e Van Reenen8, o Estado atua, por meio das PIs, fornecendo recursos públicos que incrementam os dispêndios realizados pelo setor privado.
+Com efeito, buscam solucionar o problema da externalidade negativa e impulsionar os investimentos em P , D&I para um nível social ótimo9.
+O desenho das PIs varia entre os países, mas os principais instrumentos empregados para o fomento da inovação consistem na combinação de incentivos fiscais (redução de impostos para estimular determinado setor) com incentivos financeiros (créditos, subsídios e outros).
+10 Em regra, costuma-se conciliar medidas de incentivo e disposições regulatórias com o intuito de alterar a alocação dos recursos industriais, influenciando, assim, a estrutura e o desempenho do setor.
+Com isso, no contexto da adoção de estratégias inovadoras e da formação dos parques produtivos, os países, sobretudo aqueles em desenvolvimento, têm protagonizado diferentes experiências institucionais de implementação de políticas industriais.
+No caso brasileiro, o país adotou, no segundo pós-guerra, a mesma estratégia da Coreia do Sul, estabelecendo políticas industriais de corte desenvolvimentista, amplamente interventivas, destinadas a constituir os parques produtivos nacionais.
+11 Mas, no início dos anos 90, por sua vez, diante de profundas distorções macroeconômicas resultantes de um constante processo inflacionário e fraca aceleração econômica, as políticas públicas, com amparo das recomendações liberalizantes, visavam, além da redução dos preços, à abertura gradual da economia e privatizações, o que levou a um processo de desindustrialização e acirramento da competição.12 Após a crise inflacionária dos anos 1980 e meados de 1990, as PIs brasileiras passaram a ser consideradas sob o espectro da inovação tecnológica, assumindo um papel fundamental para a retomada da competitividade produtiva nas atividades industriais.13 Essa mudança no enfoque político vai de encontro à Teoria de Schumpeter,14 precursora na discussão da importância da atividade inovadora, tendo o empresário inovador uma posição central no desenvolvimento econômico, ao ser capaz de propiciar a chamada destruição criativa — aquela inovação que rompe os padrões preestabelecidos e conduz a economia, em um primeiro momento, a um ciclo de expansão.
+Posto de outra forma, a teoria shumpeteriana sugere que o crescimento econômico é determinado por incrementos oriundos da inovação, seja sobre produtos e processos e/ou a partir de aperfeiçoamentos que corroboram a eficiência dos setores de produção.
+Sicsu15 chama atenção para o consenso estabelecido entre os países desenvolvidos e em desenvolvimento sobre a correlação existente entre a taxa de crescimento de um país com sua dinâmica de inovação.
+Essa 6 NELSON, Richard R. The role of knowledge in R&D efficiency.
+The quarterly journal of economics, v. 97, n. 3, p. 453-455, 1982.
+7 MARINO, Marianna; LHUILLERY, Stephane; PARROTTA, Pierpaolo; SALA, David.
+An overall evaluation of public R&D subsidy on private R&D expenditure.
+Research Policy , v. 45, n. 9, p. 1715-1730, 2016. p. 1715.
+8 HALL, Bronwyn; VAN REENEN, John.
+How effective are fiscal incentives for R&D?
+Research Policy , v. 29, p. 449, 2000.
+9 Externalidades levam o mercado a ser ineficiente e, portanto, esta falha em maximizar bem-estar social.
+Industrial policy for the twenty-first century.
+Política Industrial, Direito e Desenvolvimento: razões econômicas, experiências institucionais e racionalidades regulatórias.
+São Paulo: Saraiva, 2010. v. 1, p. 15.
+12 LASTRES, Helena Maria Martins, CASSIOLATO, José Eduardo.
+Sistemas de inovação: políticas e perspectivas.
+Parcerias estratégicas , v. 5, n. 8, p. 246, 2000.
+Política de inovação: filiação histórica e relação com as políticas de desenvolvimento territorial.
+Revista Portuguesa de Estudos Regionais .
+Impérialisme et classes sociales .
+Paris: Flammarion, 1984. p. 37.
+A dinâmica de introdução de inovações pode levar a uma melhor inserção competitiva do Brasil pós crise atual?
+Gestão Pública: Práticas e Desafios, v. 1, n. 1, p. 2, 2010MARTINS , Michelle Márcia Viana; MENDES, Chrystian Soares .
+Eficiência das políticas de inovação nos setores industriais brasileiros: sugestões para a crise da COVID-19.
+Revista Brasileira de Políticas Públicas, Brasília, v. 11, n. 1. p.143-167, 2021.147 relação sublinha a importância de avaliar a introdução de políticas públicas de inovação para ampliar as condições de crescimento relacionado aos avanços técnicos e científicos.
+Alguns setores produtivos já dispõem de recursos governamentais significativos aplicados nesse tipo de atividade.
+Porém, indaga-se se, no Brasil, o apoio governamental, em outros momentos, estimulou as atividades inovadoras por parte das empresas brasileiras.
+Nesse sentido, dois questionamentos são levantados: (i) as PIs implementadas foram capazes de elevar o investimento da indústria brasileira em recursos destinados às atividades inovadoras?
+(ii) o número de empresas que promoveram esse tipo de investimento aumentou?
+A hipótese a ser verificada é positiva para essas questões.
+Embora não exista um planejamento industrial no plano nacional, tampouco um comando normativo vinculante na direção da política industrial, existem metas e resultados a serem alcançados por meio de leis acessórias, destinadas, sobretudo, ao objetivo de ascender a indústria nacional a um patamar superior de desenvolvimento e de geração de renda.16 Os macrofundamentos jurídico-institucionais são pautados, principalmente, na Lei da Inovação (n.º 10.973/04)17 e em outras leis acessórias: Lei da ABDI (11.080/04) 18 e Lei do Bem (11.196/05)19.
+Para o delineamento de futuras políticas que buscarão dar sobrevida aos setores afetados pela atual crise da COVID-19, será necessário ao governo estabelecer pré-requisitos que permitam identificar os setores prioritários para receber os benefícios dos planos e programas de financiamento e isenções, de modo que tenham, como contrapartida, o compromisso e a articulação aos interesses do Estado na retomada do crescimento.
+Diante do exposto, é importante discutir a interface entre o Estado e os setores produtivos, sublinhando o papel de políticas industriais bem desenhadas na promoção da inovação, ciência e tecnologia, promovendo o desenvolvimento econômico nacional.
+Logo, além de apresentar o marco legal da inovação e o arcabouço empírico que discorre a importância das PIs no plano de desenvolvimento de países no cenário de crise, o presente estudo busca, também, responder aos questionamentos (i) e (ii) considerando 24 setores das indústrias de transformação no Brasil.
+Especificamente, pretende-se analisar a eficiência conjunta dos programas de financiamento, incentivos fiscais e da subvenção econômica sobre os gastos com P , D&I nesses setores.
+Para atingir o objetivo geral desse trabalho, é utilizado o método de Análise Envoltória de Dados, para os triênios de 2009-2011 a 2012–2014.
+Partindo do pressuposto de que os gastos realizados nesse domínio podem contribuir para o crescimento da economia, principalmente em um momento pós-crise, o exercício proposto busca apontar os setores-chave que, em outros momentos, otimizaram os investimentos públicos ao promoverem iniciativas inovadoras e expandir o setor interno de P&D.
+Além disso, é possível obter respostas sobre os setores que mantêm a dinâmica temporal da eficiência, ou seja, que apresentaram resultados em termos de inovação e atividades de P&D sustentáveis ao longo dos anos.
+A ferramenta utilizada, apoiada em evidências empíricas internacionais e na experiência nacional, pode ser útil para delinear o desenho, a implementação e a avaliação 16 SCHAPIRO, Mario Gomes.
+Política Industrial, Direito e Desenvolvimento: razões econômicas, experiências institucionais e racionalidades regulatórias.
+In: DIREITO Econômico Regulatório.
+São Paulo: Saraiva, 2010. v. 1, p. 24-25.
+17 A lei 10.973/04, Lei da Inovação criou mecanismos financeiros e jurídicos para promover a integração entre governos, empresas e instituições técnico-científicas, estimulando a criação de um ambiente especializado e cooperativo de inovação para a geração de patentes e transferência de tecnologias das universidades públicas para o setor privado.
+PALUMA, Thiago; TEIXEIRA, Elaine Débora.
+Marco legal da inovação e o aumento da interação entre universidade e empresa: contribuições para a consolidação do direito fundamental ao desenvolvimento.
+Revista Brasileira de Políticas Públicas , v. 9, n. 1, p. 356, 2019.
+18 Por meio da Lei n. 11.080/2004, Lei da ABDI, foi criada a Agência Brasileira de Desenvolvimento Industrial (ABDI) com o objetivo de promover a execução da política industrial e de ciência, tecnologia e inovação, por meio do gerenciamento das políticas e de apoio técnico especializado.
+CZELUSNIAK, Vivian Amaro; RIBEIRO, Marcia Carla Pereira.
+O Papel do Direito nas Políticas Públicas para a Inovação.
+In: EM busca dos caminhos jurídicos e econômicos para a superação da crise.
+Curitiba: PUCPRess, 2016. p. 83-84.
+19 A lei 11.196/05, a Lei do Bem, instituiu regimes tributários diferenciados que permitiam a suspensão da exigência de pagamento dos tributos PIS e COFINS, para os setores de tecnologia da informação, software e bens de capital, desde que cumprissem as metas de desempenho de importação ou de exportação.
+Extra fiscalidade e incentivos à inovação tecnológica.
+Revista do Direito Público , v. 11, n. 2, p. 246, 2016.MARTINS , Michelle Márcia Viana; MENDES, Chrystian Soares .
+Eficiência das políticas de inovação nos setores industriais brasileiros: sugestões para a crise da COVID-19.
+Revista Brasileira de Políticas Públicas, Brasília, v. 11, n. 1. p.143-167, 2021.148 de futuras políticas industriais, já que a literatura nacional é relativamente escassa de estudos com propostas semelhantes.
+Essa análise é simplória frente à complexidade em definir os setores-chave para a retomada do crescimento, sobretudo em um cenário no qual se espera uma alta taxa de desemprego e estagnação.
+Porém, é fornecida uma noção de como as indústrias nacionais respondem aos incentivos governamentais no âmbito da inovação.
+A próxima seção dedica-se à exposição do marco legal da inovação.
+Na seção 3, é realizada a compreensão dos efeitos das políticas de inovação para superação de crises econômicas, e discorre, brevemente, acerca do papel do Estado nesse cenário.
+Na seção 4, são descritos os procedimentos metodológicos, a base de dados utilizada e o apontamento de alguns estudos que utilizaram a mesma técnica para avaliar os dispêndios governamentais no domínio da iniciativa inovadora.
+Na seção 5, é feita a apresentação e discussão dos resultados e, por fim, são sintetizados os principais resultados na forma de conclusões.
+2 O marco legal da inovação: consolidação do direito fundamental ao desenvolvimento Os formuladores de políticas públicas e os governantes brasileiros devem reconhecer que o investimento em P&D e inovação deve ser tema prioritário na agenda de desenvolvimento no Brasil e isso somente ocorre com a interação entre o setor público e privado.
+Para entender a dinâmica desse processo, deve-se considerar a ótica multidisciplinar dos fatos sociais, evidenciando a complementariedade entre as ciências da Economia e do Direito, emergente a partir dos anos 70, denominada Law and Economics20.
+O momento atual induz a reflexão sobre os mecanismos para a recuperação de uma potencial crise econômica associada a crise sanitária da COVID-19.
+Na esfera da inovação, as políticas podem fortalecer a indústria nacional, de modo que se tornem mais competitivas e gerem recursos a serem reinvestidos em educação e geração de empregos, além de promover a redução das desigualdades sociais.
+É necessário, portanto, valer do marco legal existente no país e avaliá-lo do ponto de vista jurídico e econômico para que esse fim seja alcançado.
+O artigo 219 da Constituição Federal determina que "o mercado interno integra o patrimônio nacional e será incentivado de modo a viabilizar o desenvolvimento cultural e socioeconômico, o bem-estar da população e a autonomia tecnológica do País, nos termos de lei federal".
+Apesar da previsão constitucional na Carta de 1988, apenas em 2004 foi criada a Lei de Inovação (n.º 10.973/2004)21.
+A referida Lei foi um importante marco de apoio ao progresso tecnológico e ao desenvolvimento industrial no Brasil.
+Estruturada em sete capítulos, quatro deles são voltados ao estímulo à atividade inovativa em diferentes campos, quais sejam: estímulo à construção de ambientes especializados e cooperativos de inovação (capítulo II); estímulo à participação das Instituições Científicas e Tecnológicas (ICT) no processo de inovação (capítulo III); estímulo à inovação nas empresas (capítulo IV); e estímulo ao inventor independente (capítulo V).22 Ademais, a Lei foi baseada na experiência americana do Bayh-Dole Act23 que visava estimular a contribuição 20 ZYLBERSZTAJN, Décio; STAJN, Rachel.
+São Paulo: Campus, 2005. p. 74.
+Lei n.º 10.973, de 2 de dezembro de 2004.
+Dispõe sobre incentivos à inovação e à pesquisa científica e tecnológica no ambiente produtivo e dá outras providências.
+Diário Oficial da República Federativa do Brasil , Brasília, DF, 3 dez.
+Disponível em: Acesso em: maio 2020.
+Lei nº 10.973, de 2 de dezembro de 2004.
+Dispõe sobre incentivos à inovação e à pesquisa científica e tecnológica no ambiente produtivo e dá outras providências.
+Diário Oficial da República Federativa do Brasil , Brasília, DF, 3 dez.
+Disponível em: Acesso em: maio 2020.
+23 SOUZA, Gustavo Costa de; BARBOSA, Cynthia Mendonça.
+A relação entre Empresas e Instituições de Ensino e Pesquisa e seu Papel no Desenvolvimento Econômico.
+In: SOARES, Fabiana de Menezes; PRETE, Esther Külkamp Eyng (org .).
+Marco MARTINS , Michelle Márcia Viana; MENDES, Chrystian Soares .
+Eficiência das políticas de inovação nos setores industriais brasileiros: sugestões para a crise da COVID-19.
+Revista Brasileira de Políticas Públicas, Brasília, v. 11, n. 1. p.143-167, 2021.149 das universidades e dos centros de pesquisa para o processo de inovação nas empresas.
+De fato, 15 dos seus 29 artigos já regulavam as bases de estímulo a essa questão.24 Em linhas gerais, a Lei 10.973/2004 foi um arcabouço jurídico-institucional voltado ao fortalecimento das áreas de pesquisa e da produção de conhecimento no país, dando condições, por meio de mecanismos financeiros e jurídicos, para a criação de ambientes cooperativos entre empresas, universidades e ICT, para a produção tecnológica e inovação25.
+Contudo, a partir da necessidade de reformulação dos conceitos legais, assim como a necessidade de otimização das políticas de interação estabelecidas pela referida legislação, a Lei de Inovação é alterada pelo novo Marco Legal da Inovação26 (Lei 13.243/2016), conhecida como Código de Ciência, Tecnologia e Inovação (C,T&I).
+A nova lei é resultado de um processo de cerca de cinco anos de discussões entre os agentes do Sistema Nacional de Inovação (SNI) nos âmbitos das Comissões de Ciência e Tecnologia da Câmara e do Senado.
+O principal propósito para os esforços dos atores é o reconhecimento e a necessidade de alterar pontos na Lei de Inovação de modo a reduzir obstáculos legais e burocráticos e conferir maior flexibilidade às instituições atuantes nesse sistema.27 Um dos principais entraves diagnosticados foi o da existência de barreiras jurídicas à maior integração do sistema público de P&D com o setor privado.
+Algumas das possibilidades sugeridas na revisão do marco legal, segundo Rauen28, seria conceder maior relevância aos artigos do capítulo IV da Lei de Inovação, que tratam do estímulo à inovação nas empresas que introduzem as modalidades de fomento empresarial (Artigo 19) e de contratações públicas de P ,D&I (Artigo 20).
+Nesse aspecto, o Estado — atuando de forma direta ou como detentor de seus próprios laboratórios ou agências, como acontece, por exemplo, no cenário americano — tem papel "empreendedor".
+A figura do setor público passa de exclusivamente "ofertista" para um demandante das encomendas ao setor privado, induzindo o desenvolvimento de tecnologias de interesse estratégico nacional ( mission-oriented ).29 Essas alterações, na revisão do marco legal, elevariam a temática da inovação tecnológica a configurações de atuação do Estado, estabelecendo possibilidades adicionais e de maior relevância à geração de políticas públicas para atingirem os níveis de desenvolvimento econômico desejáveis.
+Além do crescimento via acúmulo de riquezas e de capital, deve haver incremento no bem-estar da população do país representado por melhores condições de vida, com acesso facilitado ao sistema educacional, saúde, saneamento e a existência de um ambiente institucional mais democrático A Lei 10.973, em termos de desenvolvimento, estimula a conexão entre as pesquisas desenvolvidas na universidade e a transferência dessa tecnologia para o setor privado, permitindo que a população tenha acesso às pesquisas desenvolvidas no meio acadêmico-científico, caracterizando uma melhoria na qualidade de vidados indivíduos.
+Isso é particularmente verdadeiro quando verificado o modo com as quais as inovações em destaque, trazidas pela Emenda 85/15 — que alia o tema da ciência, tecnologia e inovação com o da regulatório em ciência, tecnologia e inovação: texto e contexto da Lei M321 nº 13.243/2016.
+Belo Horizonte: Arraes Editores, 2018. p. 88.
+Lei nº 10.973, de 2 de dezembro de 2004.
+Dispõe sobre incentivos à inovação e à pesquisa científica e tecnológica no ambiente produtivo e dá outras providências.
+Diário Oficial da República Federativa do Brasil , Brasília, DF, 3 dez.
+Disponível em: Acesso em: maio 2020.
+Hélice Tríplice: A interação entre Universidade, Empresa e Estado para Gerar Inovação.
+Revista de Direito, Inovação, Propriedade Intelectual e Concorrência , v. 2, n. 1, p. 118, 2016.
+26 PALUMA, Thiago; TEIXEIRA, Elaine Débora.
+Marco legal da inovação e o aumento da interação entre universidade e empresa: contribuições para a consolidação do direito fundamental ao desenvolvimento.
+Revista Brasileira de Políticas Públicas , v. 9, n. 1, p. 356, 2019.
+O novo marco legal da inovação no Brasil: o que muda na relação ICT-Empresa?
+Radar: tecnologia, produção e comércio exterior , Brasília, n. 43, p. 21-34, fev.
+O novo marco legal da inovação no Brasil: o que muda na relação ICT-Empresa?
+Radar: tecnologia, produção e comércio exterior , Brasília, n. 43, p. 21-34, fev.
+29 Segundo edição especial do periódico Research Policy , que aborda a temática das políticas orientadas ao objetivo de solucionar grandes desafios nacionais.
+FORAY, Dominique; MOWERY, David C.; NELSON, Richard R. Public R&D; and social challenges: What lessons from mission R&D; programs?.
+Research Policy , v. 41, n. ARTICLE, p. 1699, 2012.MARTINS , Michelle Márcia Viana; MENDES, Chrystian Soares .
+Eficiência das políticas de inovação nos setores industriais brasileiros: sugestões para a crise da COVID-19.
+Revista Brasileira de Políticas Públicas, Brasília, v. 11, n. 1. p.143-167, 2021.150 educação — relacionam-se, claramente, com um dos objetivos da política de C,T&I, qual seja, a da redução das desigualdades regionais.
+Haja vista a Lei 10.973 (com redação dada pela Lei 13.243), que estabelece que as medidas de incentivo à inovação, com vistas à capacitação tecnológica, devem alcançar a autonomia ao desenvolvimento do sistema produtivo nacional e regional do País.30 Essa determinação enfatiza a tônica do discurso recente dos países desenvolvidos e até mesmo daqueles de industrialização tardia, pautada na apropriação das atividades inovativas e dos avanços científicos e tecnológicos para ampliar as condições de desenvolvimento econômico.
+Quando na presença de uma crise com consequente queda na atividade econômica, certamente há um desestímulo em promover investimentos nesse horizonte, sobretudo pelo componente de risco empreendido pelo agente privado.
+É essencial, portanto, um ordenamento rigoroso da aplicação dos recursos públicos.
+Mesmo que o Estado não seja o agente diretamente responsável pela inovação, tem o papel de criar as condições para que ela ocorra.
+O sucesso das iniciativas de inovação está condicionado, em grande parte, pela capacidade institucional de estruturar as formas jurídicas, atribuir papéis, e desenhar arranjos capazes de coordenar as diversas linhas de ação no sentido político desejado.
+3 Investimentos em inovação e crise econômica Nesta seção são evidenciados a importância dos recursos públicos e seus efeitos sobre as atividades de P , D&I em cenários passados de crise.
+3.1 Contexto internacional A história de vários países ensina que, nos momentos de crise, é imprescindível manter o foco em investimentos prioritários.
+A literatura macroeconômica elucida que o efeito de longo prazo de uma recessão depende de como as capacidades de inovação nos negócios foram afetadas.
+Evidências empíricas comprovam essa afirmação e corroboram o efeito da intervenção governamental para superar esse impasse.
+Estudo desenvolvido para as economias europeias, no contexto da crise financeira global de 2008, aponta que 25% das empresas suspenderam os investimentos em inovação, mas os negócios que tinham acesso aos financiamentos públicos, no entanto, eram menos propensos a interromper seus projetos.31 Segundo Conte et al.32, além da aversão ao risco, as restrições de crédito impedem as firmas de aumentar suas atividades inovadoras em períodos de crise, desse modo, o aumento do financiamento público em P , D&I parece justificado.
+Outro estudo mostra que os países, cujas empresas contam com o apoio dos Sistemas Nacionais de Inovação33, apresentam maior tendências em preservar os dispêndios privados, isso ocorre, principalmente, pelas grandes empresas inovadoras, mas não é regra.
+No mesmo cenário de crise, um estudo de caso para a Itália evidenciou que as pequenas empresas foram mais inovadoras do que as grandes organizações.34 Assim, a afirmação de que os choques negativos na demanda (causados por uma crise financeira ou sanitária, por 30 PRETE, Esther Külkamp Eyng.
+Considerações para uma Abordagem Sistemática da Emenda Constitucional 85 de 2015.
+In: SOARES, Fabiana de Menezes; PRETE, Esther Külkamp Eyng (org.).
+Marco regulatório em ciência, tecnologia e inovação : texto e contexto da Lei M321 nº 13.243/2016.
+Belo Horizonte: Arraes Editores, 2018. p. 108.
+31 FILIPPETTI, Andrea; ARCHIBUGI, Daniele.
+Innovation in times of crisis: National Systems of Innovation, structure, and demand.
+Research Policy , v. 40, n. 2, p. 189, 2011.
+KANERVA, Michael; HOLLANDERS, Hill.
+The Impact on the Economic Crisis on Innovation, INNO Metrics Thematic Paper.
+European Commission, DG Enterprise , Brussels, p. 28-29, 2009.
+32 CONTE, Andrea; SCHWEIZER, Phillip; DIERX, Adriann; ILZKOVITZ, Fabienne.
+An analysis of the efficiency of public spending and national policies in the area of R&D .
+European Commission, Brussels, 2009.
+33 O Sistema Nacional de Inovação traduz, resumidamente, em um conjunto de instituições cujas políticas públicas colaboram de forma coordenada na determinação do desempenho inovador de um país.
+34 ANTONIOLI, Davide; BIANCHI, Annaflavia; MAZZANTI, Massimiliano; MONTRESOR, Sandro; PINI, Paolo.
+Economic crisis, innovation strategies and firm performance.
+Evidence from Italian firm-level data.
+2011. p. 32-34.MARTINS , Michelle Márcia Viana; MENDES, Chrystian Soares .
+Eficiência das políticas de inovação nos setores industriais brasileiros: sugestões para a crise da COVID-19.
+Revista Brasileira de Políticas Públicas, Brasília, v. 11, n. 1. p.143-167, 2021.151 exemplo) afetam os investimentos em inovação depende das economias analisadas, dados que as estruturas econômicas e institucionais, importantes em influenciar o comportamento das organizações durante as grandes recessões, diferem-se entre os países.35 Nesse sentido, ao contrário do que se espera, as crises podem ser um ambiente fértil para algumas empresas inovarem.
+Os países que mantêm sua capacidade de inovação, em cenários de recessão, são mais propensos a explorarem novas oportunidades tecnológicas e experimentarem a recuperação, e expansão dos mercados em novos setores emergentes.36 Estudo conduzido por Guellec, e Wunsch-Vincent37 mostra que, durante a crise de 2008, algumas empresas da Coreia do Sul e Finlândia optaram por elevar os gastos privados em inovação.
+Esse processo foi apoiado pelos governos por meio da expansão dos investimentos em P&D, bem como políticas direcionadas a estimular oportunidades de emprego para mão-de-obra qualificada.
+O apoio público adicional aos investimentos empresariais foi essencial para colocar essas economias em um caminho de crescimento mais forte e intensivo em conhecimento.
+Em síntese, nota-se que os recursos públicos são complementares aos investimentos privados (o chamado efeito " additionality ") ou os substituem (efeito "crownding out").
+Brautzsch et al.38 partiram da mesma indagação: "o financiamento público estimula gastos privados adicionais ou exclui atividades privadas?"
+A hipótese foi testada para as pequenas e médias empresas na Alemanha, durante a crise de 2008.
+As descobertas sugerem que o apoio governamental foi complementar aos investimentos das empresas e estimulou um efeito substancial de alavancagem no crescimento das organizações.
+Um negócio subsidiado em P&D apresentou resultados em termos de produção, valor agregado e emprego em pelo menos o dobro do valor obtido apenas com o financiamento privado.
+No geral, o programa de P&D do Estado neutralizou o declínio do PIB em 0,5% em 2009, assumindo a função de política fiscal para a retomada da atividade econômica no curto prazo e, também, proporcionando uma base sólida para o progresso tecnológico, essencial na construção de um crescimento sustentável no longo prazo.
+A experiência de todas as economias líderes tecnológicas mostra que, sem aportes públicos, não existe investimento privado.
+3.2 O caso brasileiro Embora não sejam verificados estudos empíricos sobre os investimentos públicos em inovação para períodos de crise no Brasil, Sicsu39 relacionou o padrão de financiamento do Estado no segmento de ciência, tecnologia e inovação no crescimento econômico do país após a crise financeira de 2008 e destacou alguns pontos: (i) é necessário o comprometimento dos agentes privados a um projeto nacional de inserção competitiva internacional, pois, sem esse compromisso, a indústria brasileira apresentará resultados pífios com pouca atração de capital nos setores dinâmicos; (ii) é fundamental que o Estado crie condições para aumentar a capacidade tecnológica do país como base de um Projeto de Desenvolvimento no qual devem ser definidas propostas efetivas para a defesa dos interesses nacionais.
+Com base no ponto de vista jurídico-institucional, Verde e Miranda40 apontam que a percepção dessa 35 FILIPPETTI, Andrea; ARCHIBUGI, Daniele.
+Innovation in times of crisis: National Systems of Innovation, structure, and demand.
+Research Policy , v. 40, n. 2, p. 189, 2011.
+After crisis: creative construction.
+Open Democracy, v. 5, n. 3, p. 8-10, 2009.
+37 GUELLEC, Dominique; WUNSCH-VINCENT, Sacha.
+Policy Responses to the Economic Crisis: Investing in Innovation.
+; GÜNTHER, Jutta; LOOSE, Brigitte; LUDWIG, Udo; NULSCH, Nulsch.
+Can R&D subsidies counteract the economic crisis?–Macroeconomic effects in Germany.
+Research Policy , v. 44, n. 3, p. 623-633.
+A dinâmica de introdução de inovações pode levar a uma melhor inserção competitiva do Brasil pós crise atual?
+Gestão Pública: Práticas e Desafios, v. 1, n. 1, p. 16, 2010.
+40 VERDE, Lucas Henrique Lima; DE RESENDE MIRANDA, João Irineu.
+Análise econômica dos resultados brasileiros no Índice Global de Eficiência em Inovação, frente ao novo Marco da Ciência, Tecnologia e Inovação (Lei n. 13.243/2016).
+Economic MARTINS , Michelle Márcia Viana; MENDES, Chrystian Soares .
+Eficiência das políticas de inovação nos setores industriais brasileiros: sugestões para a crise da COVID-19.
+Revista Brasileira de Políticas Públicas, Brasília, v. 11, n. 1. p.143-167, 2021.152 realidade no Brasil levou à promulgação do Marco da Ciência, Tecnologia e Inovação em 2016, mencionada na Seção 2 desse texto, com a finalidade de incentivar a inovação e a pesquisa científica e tecnológica no ambiente produtivo, na expectativa de aumentar a capacitação tecnológica e o alcance da autonomia do sistema produtivo do país.
+Contudo, dois anos depois da sua implementação, considerando um outro período de recessão econômica na economia brasileira em 2015 e 2016, constatou-se baixa eficácia da nova legislação, com resultados pouco satisfatórias em termos de reformas estruturais da economia nacional.
+Esse resultado demonstra pouca assertividade da política industrial para o estímulo da retomada do crescimento por meio da capacidade tecnológica da indústria nacional e esse desafio é enfrentado há décadas no país.
+Isso se deve ao arcabouço jurídico atuante nesse campo, resultante de uma ampla gama de instituições criadas em diferentes contextos e fases, desde a metade do século passado, o que sugere que os mais significativos "gargalos" à inovação no Brasil não resultam da falta de normas, mas da visível dificuldade de fazê-las operar de forma simultânea e coordenada.
+4 Metodologia 4.1 Análise Envoltória de Dados Para atender ao objetivo analítico de analisar a eficiência dos gastos públicos na promoção de iniciativas de P&D e inovação, é empregado a Análise Envoltória de Dados Data Envelopment Analysis (DEA).
+Trata-se de uma técnica baseada em programação matemática, cujo intuito é investigar o desempenho operacional de unidades independentes, denominadas unidades tomadoras de decisão– Decision Making Units (DMUs); que podem ser empresas, departamentos, divisões, entre outros.
+Neste estudo as DMUs serão os setores da indústria de transformação brasileira, conforme apontado na Tabela 1.
+Tabela 1 – setores da indústria de transformação utilizados como DMUs DMUs(n) Indústrias de transformação DMU_1 Fabricação de produtos alimentícios DMU_2 Fabricação de bebidas DMU_3 Fabricação de produtos do fumo DMU_4 Fabricação de produtos têxteis DMU_5 Confecção de artigos do vestuário e acessórios DMU_6 Preparação de couros e fabricação de artefatos de couro, artigos de viagem e calçados DMU_7 Fabricação de produtos de madeira DMU_8 Fabricação de celulose, papel e produtos de papel DMU_9 Impressão e reprodução de gravações DMU_10 Fabricação de coque, de produtos derivados do petróleo DMU_11 Fabricação de produtos químicos DMU_12 Fabricação de produtos farmoquímicos e farmacêuticos DMU_13 Fabricação de artigos de borracha e plástico DMU_14 Fabricação de produtos de minerais não-metálicos DMU_15 Metalurgia DMU_16 Fabricação de produtos de metal Analysis of Law Review , v. 9, n. 2, p. 310, 2018.MARTINS , Michelle Márcia Viana; MENDES, Chrystian Soares .
+Eficiência das políticas de inovação nos setores industriais brasileiros: sugestões para a crise da COVID-19.
+Revista Brasileira de Políticas Públicas, Brasília, v. 11, n. 1. p.143-167, 2021.153 DMUs(n) Indústrias de transformação DMU_17 Fabricação de equipamentos de informática, produtos eletrônicos e ópticos DMU_18 Fabricação de máquinas, aparelhos e materiais elétricos DMU_19 Fabricação de máquinas e equipamentos DMU_20 Fabricação de veículos automotores, reboques e carrocerias DMU_21 Fabricação de outros equipamentos de transporte DMU_22 Fabricação de móveis DMU_23 Fabricação de produtos diversos DMU_24 Manutenção, reparação e instalação de máquinas e equipamentos Fonte: elaboração própria a partir dos dados da CNAE.
+A medida de eficiência é dada de forma comparativa, ou seja, é relativa e dependente da amostra de dados, podendo ser classificada em eficiência técnica e alocativa.
+A primeira refere-se à capacidade de uma unidade produtiva maximizar seu produto estando restrita a um conjunto de insumos.
+Já a eficiência alocativa reflete a habilidade de uma unidade produtiva em utilizar os insumos em proporções ótimas, dados seus preços relativos.
+A combinação desses dois tipos de eficiência resulta uma medida de eficiência econômica total.
+Ao utilizar o modelo DEA, o pesquisador depara-se com dois tipos de orientações.
+A orientação produto, que visa à maximização dos outputs , mantendo fixos os inputs .
+Enquanto a orientação insumo é fundamentada na minimização dos inputs , mantendo-se fixo o nível de produção — outputs.
+O presente estudo segue a orientação produto, pois é desejável verificar a eficiência dos programas governamentais no sentido de expandir os gastos com inovação e com P&D pelos diversos setores da indústria de transformação brasileira.
+Duas pressuposições são fundamentais na técnica DEA: (i) não é necessário converter insumos e produtos em unidades monetárias, diferentemente de modelos baseados em análises puramente econômicas e; (ii) conceitua-se como eficiente o setor que opera com DMU igual a 1, sendo considerada benchmark para os setores ineficientes.
+A modelagem DEA comporta retornos constantes e variáveis à escala de produção.
+O modelo de retornos constantes (CCR), proposto por Charnes et al .41, estabelece que os inputs e outputs são proporcionais entre si, ou seja, somente pode haver aumento do produto se os insumos aumentarem na mesma proporção.
+Por outro lado, o modelo de retornos variáveis (BCC), indicado por Banker et al.42, determina que o emprego dos insumos conduz a um aumento mais que proporcional na produção.
+Como exemplo, assumindo um processo de produção que utilize n insumos para produzir uma quantidade m de produtos em cada um dos k setores, as matrizes de insumos X (de dimensões n x k) e de produtos Y (de dimensões n x m), representam os dados de todos os k setores (DMUs).
+Em que cada linha de X representa um insumo e cada coluna uma DMU.
+De maneira similar para a matriz Y, cada linha representa um produto.
+Tal modelo é representado pelo problema de programação matemática indicado na formulação (1), cujo resultado indica os escores de eficiência: 41 CHARNES, Abraão; COOPER, William W .
+Measuring the efficiency of decision making units.
+European journal of operational research , v. 2, n. 6, p. 431, 1978.
+42 BANKER, Rajiv D.; CHARNES, Abraham; COOPER, William WagerSome models for estimating technical and scale inefficiencies in data envelopment analysis.
+Management science , v. 30, n. 9, p. 1082, 1984.MARTINS , Michelle Márcia Viana; MENDES, Chrystian Soares .
+Eficiência das políticas de inovação nos setores industriais brasileiros: sugestões para a crise da COVID-19.
+Revista Brasileira de Políticas Públicas, Brasília, v. 11, n. 1. p.143-167, 2021.154 Máx Ø,λ ϕ, sujeito a: -ϕyi+Yλ ≥ 0 xi-Xλ ≥ 0 N'1 λ=1; λ ≥ 0; (1) em que N'1 λ=1 representa uma restrição de convexidade, sendo um vetor de algarismos unitários na ordem ( m x 1).
+A medida ϕ varia no intervalo de 1 ≤ ϕ ≤ ∞; ∅ - 1 corresponde ao aumento proporcional no produto considerado, dado constante o conjunto de insumos, ou seja, é a variação do produto necessária para que a DMU seja considerada eficiente.
+Já 1/ ∅ representa a eficiência técnica que varia no intervalo [0,1].
+Para a i-ésima observação: xi é um vetor ( k x 1) de quantidades de insumo; yi é um vetor ( n x 1) de quantidades de produto; o parâmetro λ é um vetor ( m x 1) de pesos, cujos valores são calculados de forma a obter uma solução ótima.
+Deve-se destacar que, se uma DMU é eficiente pelo modelo CCR, é também eficiente no modelo BCC.
+4.2 Fonte de dados, variáveis utilizadas e procedimentos metodológicos Os dados utilizados nesta pesquisa são provenientes da Pesquisa de Inovação – PINTEC, edições de 2014 (a mais recente disponibilizada pelo Instituto Brasileiro de Geografia Estatística – IBGE43 até abril de 2020) e 2011, tendo como referência os triênios de 2009-2011 e 2012-2014, respectivamente.
+Os setores da indústria de transformação seguem a Classificação Nacional de Atividades Econômicas – CNAE 2.0, seção C. A Tabela 2 descreve as variáveis utilizadas como produtos e insumos na análise DEA.
+Busca-se averiguar a eficiência das PIs no sentindo de expandir o gasto com inovação e com P&D em cada setor nacional de transformação, sendo essas variáveis tomadas como produtos (" outpus ").
+Os insumos (" imputs ") são o número de empresas em cada setor contempladas com algum tipo de financiamento público.
+Não há informações sobre o repasse financeiro para cada setor, desse modo, o número de empresas é utilizado como proxie para a abrangência das políticas em cada indústria.
+Tabela 2 – descrição dos insumos e produtos utilizados na análise DEA Output/ InputVariáveis Descrição ProdutosY1 Gasto com Inovação Y2 Gasto com Pesquisa e Desenvolvimento InsumosX1Número de empresas contempladas com incentivo fiscal à pesquisa e desenvolvimento X2Número de empresas contempladas por subvenção econômica X3Número de empresas contempladas por financiamento para projetos de P&D e inovação tecnológica X4Número de empresas contempladas por financiamento para a compra de máquinas e equipamentos utilizados para inovar X5Número de empresas contempladas por outros programas de apoio Fonte: elaboração própria dos autores.
+2020.MARTINS , Michelle Márcia Viana; MENDES, Chrystian Soares .
+Eficiência das políticas de inovação nos setores industriais brasileiros: sugestões para a crise da COVID-19.
+Revista Brasileira de Políticas Públicas, Brasília, v. 11, n. 1. p.143-167, 2021.155 Em um primeiro momento, utilizou-se o modelo DEA-BCC, estágio simples, em que todos os setores foram inclusos em dois períodos diferentes.
+Nessa etapa realizou-se a comparação dos escores obtidos para ambos os períodos amostrados.
+Posteriormente, fez-se o uso do índice Malmquist para verificar se os insumos utilizados no primeiro período de referência tiveram influência sobre os resultados do segundo período.
+O índice apresentado abaixo é definido em termos da razão entre a eficiência técnica total dos dois anos de análise: Indíce Malmquist= (Eficiência técnica total 2014)⁄(Eficiência técnica total 2011) (2) O índice é caracterizado por demonstrar variações entre diferentes períodos na eficiência total da DMU.
+Contextualizando para esse estudo, o uso do índice Malmquist permite verificar se apoio governamental, por meio das PIs em 2011, afetou os outputs em 2014.
+Essa análise torna-se imprescindível, visto que, de acordo com a PINTEC (2011), é necessário um período de dois anos para que as PIs de inovação — inputs tenham efeito sobre os gastos em atividade interna de P&D e inovação — outputs.
+De forma prática, o índice de Malmquist seria uma função de produção empregada implicitamente na abordagem DEA – BCC, de acordo com a equação a seguir: Yi,2014= f (X1i,2011, X2i,2011, X3i,2011, X4i,2011, X5i,2011) (3) com i = 1, 2, ., 24 e "f(.)"
+representando uma função com retornos variáveis à escala dos insumos defasados.
+Destaca-se que será realizada, apenas, a análise do efeito emparelhamento (catch-up effect), que verifica a eficiência técnica entre os dois períodos de análise.
+Segundo a PINTEC, as empresas que implementaram inovações são aquelas que apresentaram um produto e/ou processo novo, não sendo, necessariamente, novo para o mercado/setor de atuação, mas novo por ter sido desenvolvido pela empresa.
+No questionário aplicado a essas empresas, obtêm-se informações sobre o grau de novidade para o mercado (por novo entende-se: novo pela empresa, pelo mercado nacional e/ou para o mercado mundial); por quem foi desenvolvida a principal inovação — se pela própria empresa ou por outra do setor e; se houve cooperação com outras empresas ou institutos.
+Todas as empresas que afirmaram ter inovado em produto e/ou processo, dentre estes os projetos abandonados ou incompletos, e que realizaram mudanças organizacionais e/ou de marketing, são alvos do estudo deste trabalho.
+O grupo de empresas contempladas estão distribuídos em 24 setores da economia (Tabela 2) e é constituído pelas organizações que responderam "Sim" para pelo menos umas das questões 157 a 162 do questionário da PINTEC edições de 2011 e 201444.
+Vale ressaltar que os questionários não abordam os benefícios das políticas de inovação em termos monetários, logo, não há informações sobre o repasse governamental de cada política para as empresas individualmente.
+4.3 Evidências empíricas O método DEA é comumente empregado para verificar a eficiência dos gastos públicos, sendo uma ferramenta perspicaz para revelar ineficiências administrativas na entrega de programas governamentais em contraponto às métricas de desempenho tradicionais.45 Essa seção apresenta, brevemente, estudos que utilizaram da metodologia DEA para analisar eficiência dos recursos governamentais para o estímulo de iniciativas inovadoras.
+Questionários Pesquisa de Inovação .
+Disponível em: br/estatisticas/multidominio/ciencia-tecnologia-e-inovacao/9141-pesquisa-de-inovacao.html.
+45 PETTAS, Nikolaos; GIANNIKOS, Ioannis.
+Evaluating the delivery performance of public spending programs from an efficiency perspective.
+Evaluation and program planning , v. 45, p. 140, 2014.MARTINS , Michelle Márcia Viana; MENDES, Chrystian Soares .
+Eficiência das políticas de inovação nos setores industriais brasileiros: sugestões para a crise da COVID-19.
+Revista Brasileira de Políticas Públicas, Brasília, v. 11, n. 1. p.143-167, 2021.156 Conte et al.46 analisam o desempenho da inovação dos diferentes Estados-Membros da UE e fornecem estimativas da eficiência relativa do apoio governamental nos gastos em P&D.
+Evidenciou-se que muitos países têm um potencial significativo para melhorias adicionais, ou seja, são ineficientes.
+Os índices de eficiência indicam que todos os Estados-Membros da UE melhoraram seus níveis de inovação ao longo do tempo, com evidências de que a eficiência de P&D é mais alta em países com uma forte base de conhecimento.
+Além disso, verificou-se que a especialização da economia em alta tecnologia, investimentos em educação, participação de mão-de-obra qualificada em ciência e tecnologia, e o grau de proteção dos direitos de propriedade intelectual ampliam os ganhos de eficiência pelo apoio do Estado.
+Zabala-Iturriagagoitia et al.47 empregam o método DEA para avaliar a eficiência do desempenho do Sistema Regional de Inovação (SRI) europeu nos investimentos em tecnologia, para o período de 2002 e 2003.
+Foi demonstrado que as regiões com menor volume de recursos dedicados à inovação alcançam níveis excelentes de eficiência, enquanto as regiões com sistemas de inovação consolidados não mostram níveis de eficiência compatíveis com a competitividade esperada.
+Os resultados apontam que, quanto maior o nível tecnológico de uma região, maior a necessidade de coordenação do sistema.
+Além disso, as regiões menos contempladas com recursos detêm inovações por meio da adoção do conhecimento incorporado por outros, sendo categorizada como inovações de baixo risco.
+Lafarga e Balderrama48 também mediram a eficiência dos SRI estaduais do México a partir do volume de recursos que cada estado recebe e o seu desempenho inovativo.
+Os resultados evidenciariam a inexistência de uma relação positiva entre a quantidade de recursos de SRI e sua eficiência produtiva.
+Em um estudo de caso de pequenas e médias empresas da Coréia do Sul, Lee et al.49 usaram a técnica DEA e o índice de Malmquist para investigarem a eficiência da colaboração dos esforços de P&D na inovação colaborativa.
+Os resultados confirmam que a atividade de inovação por meio da colaboração é mais eficiente do que quando a colaboração é inexistente.
+Porém, a eficiência da comercialização colaborativa50 não mostrou diferença significativa em relação à não colaborada.
+Assim, para que as PMEs desenvolvam produtos otimizando o uso intensivo de tecnologia por meio do desenvolvimento tecnológico, é necessário um sistema que possa ser simultâneo ao programa de colaboração para comercialização.
+Análise complementar para a Coreia do Sul é desenvolvida por Min et al.51, que investigaram a eficiência do desempenho da inovação regional no desenvolvimento e comercialização de tecnologia para três grupos: regiões com grandes redes de inovação e investimentos privados predominantes (a), regiões com pequenas redes e investimentos públicos predominantes (b) e regiões com pequenas redes e investimentos privados predominantes (c).
+Os resultados mostram que a eficiência do desenvolvimento tecnológico é da ordem de b>a>c; enquanto a eficiência da comercialização é da ordem de a>c>b.
+Isso significa que áreas com apoio público significativo em P&D provavelmente produzirão conhecimento tecnológico de forma eficiente, mesmo que o tamanho da sua rede de inovação seja pequeno.
+Em áreas gerais em que a proporção de P&D 46 CONTE, Andrea; SCHWEIZER, Phillip; DIERX, Adriann; ILZKOVITZ, Fabienne.
+An analysis of the efficiency of public spending and national policies in the area of R&D .
+European Commission, Brussels, 2009. p. 49-50.
+47 ZABALA-ITURRIAGAGOITIA, Jon; VOIGT, Peter; GUTIÉRREZ-GRACIA, Antonio; JIMÉNEZ-SÁEZ, Fernando.
+Regional innovation systems: how to assess performance.
+Regional Studies , v. 41, n. 5, p. 670.
+48 LAFARGA, Cuitlahuac Valdez; BALDERRAMA, Jorge Inés León.
+Efficiency of Mexico's regional innovation systems: an evaluation applying data envelopment analysis (DEA).
+African Journal of Science, Technology, Innovation and Development, v. 7, n. 1, p. 3644.
+49 LEE, Jiyoung; KIM, Chulyeon; CHOI, Gyunghyun.
+Exploring data envelopment analysis for measuring collaborated innovation efficiency of small and medium-sized enterprises in Korea.
+European Journal of Operational Research , v. 278, n. 2, p. 533-545.
+50 Esse sistema permite que empresas coloborem entre si para promoverem o comércio, possibilitando que os negócios se concentrem no desenvolvimento de tecnologia e na colaboração de comercialização com grandes empresas ou organizações públicas que possuem redes de mercado.
+51 MIN, Sujin; KIM, Juseong; SAWNG, Yeong-Wha.
+The effect of innovation network size and public R&D investment on regional innovation efficiency.
+Technological Forecasting and Social Change , v. 155, n. 119998, p. 1-13.
+2020. p. 10-11.MARTINS , Michelle Márcia Viana; MENDES, Chrystian Soares .
+Eficiência das políticas de inovação nos setores industriais brasileiros: sugestões para a crise da COVID-19.
+Revista Brasileira de Políticas Públicas, Brasília, v. 11, n. 1. p.143-167, 2021.157 privado é maior, mas a rede não é grande, o aumento do investimento público em P&D ou a promoção de vínculos com fornecedores públicos de conhecimento podem ser úteis, pois os investimentos públicos complementam os privados com baixa capacidade tecnológica.
+No Brasil, o estudo desenvolvido por Mendes et al.52 empregou o método DEA para apurar a eficiência das indústrias do setor de transformação no Brasil no uso dos recursos com atividades inovativas, os autores indicaram queda na eficiência, pois, embora tenha havido aumento da receita líquida média das empresas, houve piora da qualidade dos gastos efetuados na compra de máquinas e equipamentos, treinamento e realização de P&D.
+Outras investigações que empregam o método DEA para avaliar a eficiência de diferentes variáveis sobre as atividades inovadoras por parte de empresas, setores ou países podem ser vistas em Torres et al.53 analisam a eficiência da atividade científica para a inovação nos setores econômicos da Colômbia.
+Wang et al.54 investigam a eficiência da inovação científica e tecnológica nas províncias e cidades da China.
+Dzemydaitė et al.55 avaliam a eficiência do SRI nos Estados-Membro da UE.
+Ramanathan et al.56 calculam a eficiência da flexibilidade dos regulamentos ambientais sobre a capacidade de inovação no desempenho financeiro das organizações do Reino Unido.
+Carayannis et al.57 quantificam a eficiência dos sistemas de inovação como uma ferramentas para a formulação de políticas e identificação das melhores práticas de ações e estratégias; entre outros.
+5 Resultados 5.1 Descrição dos setores contemplados por PIs Antes de apresentar os resultados de eficiência, são explanadas algumas estatísticas descritivas para obter um panorama dos setores da indústria de transformação nacional mais beneficiados por PIs e a difusão dos instrumentos de política adotados entre os períodos considerados.
+Nos anos de 2009-2011, 34,2% das empresas inovadoras receberam algum tipo de apoio governamental para financiar suas atividades em inovação.
+Esse percentual equivale a, aproximadamente, 39,1 mil empresas industriais.
+Entre 2012-2014, esae número elevou-se para cerca de 46,1 mil firmas, equivalente a 40%.
+O número de empresas industriais que implementaram inovação de produto ou processo também apresentou um aumento, em 2011 o percentual foi de 35,6% do total e em 2014, 36,4%.
+Detalhando-se as características das atividades de P&D realizadas, aproximadamente 7,6 mil empresas inovadoras realizaram dispêndios nesse segmento entre 2012-2014, o que corresponde a 191 empresas a mais do que no triênio de 2009-2011.
+Em relação aos gastos em inovação e P&D, em 2014 os dispêndios realizados somaram cerca de R$73.451.933.000, 13% mais altos em relação aos gastos em 2011, que contabilizaram R$64.844.383.000.
+52 MENDES, Chrystian Soares; LOPES, Luckas Sabione; GOMES, Adriano Provezano.
+Eficiência dos dispêndios em inovação nas indústrias de transformação do Brasil.
+Revista Brasileira de Inovação , v. 11, n. 1, p. 215, 2012.
+53 TORRES, Daniel Aristizábal; PEÑA, Monica Yuleni Castro; GUTIÉRREZ, Paola Andrea Echeverri; SALAZAR, Jesus David Valencia.
+Assessing the efficiency of science, technology and innovation using Data Envelopment Analysis (DEA): The case of Colombia.
+Dyna , v. 84, n. 202, p. 218-219, 2017.
+54 WANG, Song; ZHANG, Jianging; FAN, Fei; LU, Fei; YANG, Lisheng.
+The symbiosis of scientific and technological innovation efficiency and economic efficiency in China—An analysis based on data envelopment analysis and logistic model.
+Technology Analysis & Strategic Management , v. 31, n. 1, p. 59-61, 2019.
+55 DZEMYDAITĖ, Giedrė; DZEMYDA, Ignas; GALINIENĖ, Birutė.
+The efficiency of regional innovation systems in new member states of the European Union: a nonparametric DEA approach.
+Economics and business , v. 28, n. 1, p. 84, 2016.
+56 RAMANATHAN, Ramakrishnan; RAMANATHAN, Usha; BENTLEY , Yongmei.
+The debate on flexibility of environmental regulations, innovation capabilities and financial performance–A novel use of DEA.
+57 CARAYANNIS, Elias G.; GRIGOROUDIS, Evangelos; GOLETSIS, Yorgos.
+A multilevel and multistage efficiency evaluation of innovation systems: A multiobjective DEA approach.
+Expert Systems with Applications , v. 62, p. 78-79, 2016.MARTINS , Michelle Márcia Viana; MENDES, Chrystian Soares .
+Eficiência das políticas de inovação nos setores industriais brasileiros: sugestões para a crise da COVID-19.
+Revista Brasileira de Políticas Públicas, Brasília, v. 11, n. 1. p.143-167, 2021.158 Esses números respondem aos questionamentos levantados no início do estudo.
+As PIs foram capazes de elevar os investimentos da indústria brasileira em recursos destinados às atividades inovadoras, como também elevaram o número de empresas que promoveu investimentos em iniciativas de inovação.
+A Tabela 3 aponta a abrangência dos programas governamentais nos setores da indústria de transformação.
+A compra de máquinas e equipamentos foi o principal mecanismo de financiamento do Estado, beneficiando 29,9% das empresas inovadoras em 2009-2011 e 31,4% em 2012-2014.
+A aquisição desse ativo representa atividade de alta ou média importância para cerca de 74% das firmas que estiveram no âmbito da pesquisa em ambas as edições.
+Além disso, na perspectiva dos empresários, a compra de máquinas e equipamentos é vista como a atividade mais importante na estrutura dos gastos realizados com inovações, seguido dos investimentos para promover P&D interno.
+O setor mais beneficiado por esse programa, em ambos os triênios, foi o de fabricação de produtos alimentícios (DMU_1) e confecção de artigos de vestuário e acessórios (DMU_5).
+Tabela 3 – número de empresas da indústria brasileira de transformação que receberam financiamento do governo para inovar, em 2011 e 2014 Tipo de financiamento governamentalNº de empresas contempladas com incentivo fiscal à pesquisa e desenvolvimentoNº de empresas contempladas por subvenção econômicaNº de empresas contempladas por algum programa de apoio a projetos de P&D e inovação tecnológicaNº de empresas contempladas por financiamento para a compra de máquinas e equipamentos utilizados para inovarNº de empresas contempladas por outros programas de apoio 2011Total 1654 313 880 11185 3071 Média 69 13 37 446 128 Desvio Padrão96 20 39 458 158 Máximo 411 98 115 1616 619 Mínimo 2 0 0 0 0 2014Total 1809 233 1113 13047 3238 Média 75 10 85 544 135 Desvio Padrão86 14 97 621 148 Máximo 290 63 353 2512 592 Mínimo 2 0 2 0 0 Fonte: elaboração própria, a partir dos dados da PINTEC/IBGE.
+Outros instrumentos que beneficiaram as empresas industriais inovadoras foram os programas de incentivos fiscais, com destaque os setores de fabricação de equipamentos de informática, produtos eletrônicos e ópticos (DMU_17), produtos alimentícios (DMU_1) e fabricação de máquinas, aparelhos e materiais elétricos (DMU_18).
+Além dos programas de apoio a projetos de P&D e inovação, cujas empresas contempladas estão, em sua maioria, nas indústrias de fabricação de equipamentos de informática, produtos eletrônicos e ópticos (DMU_17), produtos químicos (DMU_11), produtos alimentícios (DMU_1) e fabricação de artigos de borracha e plástico (DMU_13).
+Os programas inclusos na categoria "Outros" agregam as bolsas oferecidas pela Fundação de Amparo à Pesquisa – FAPS, pelo Programa de Recursos Humanos para Áreas Estratégicas – RHAE, pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico – CNPq, além dos programas de apoio de capital de risco do Banco Nacional de Desenvolvimento Econômico e Social – BNDES, da Financiadora de Es -MARTINS , Michelle Márcia Viana; MENDES, Chrystian Soares .
+Eficiência das políticas de inovação nos setores industriais brasileiros: sugestões para a crise da COVID-19.
+Revista Brasileira de Políticas Públicas, Brasília, v. 11, n. 1. p.143-167, 2021.159 tudos e Projetos – FINEP e outros que incluem compra governamental, incentivos fiscais concedidos pelos estados para o desenvolvimento em P&D e incentivo fiscal pela Lei da Informática.
+Os programas inclusos nessa categoria beneficiaram cerca de 7,9% e 8,1% das empresas inovadoras, nas edições de 2011 e 2014 da PINTEC, respectivamente.
+Os setores mais beneficiados são confecção de artigos de vestuário e acessórios (DMU_5), produtos alimentícios (DMU_1), fabricação de produtos minerais não metálicos (DMU_14) e fabricação de artigos de borracha e plástico (DMU_13).
+Os programas de subvenção econômica representam o instrumento governamental de menor representatividade nos dois triênios.
+Esse tipo de programa é largamente aplicado em países desenvolvidos, cujo apoio financeiro permite a aplicação de recursos públicos não reembolsáveis diretamente nas empresas com o objetivo de compartilhar os custos e reduzir os riscos inerentes às atividades ligadas a inovação.
+A concessão de subvenção econômica é o programa de maior risco e incertezas quanto aos resultados esperados pelo formulador de política, justificando o baixo número de empresas beneficiadas.
+Os setores mais beneficiados por essa política foram o de fabricação de produtos químicos (DMU_11), fabricação de produtos farmoquímicos e farmacêuticos (DMU_12) e fabricação de componentes eletrônicos (DMU_17).
+Apesar da tendência crescente do número de empresas industriais contempladas por algum financiamento governamental para estimular atividades inovadoras, a principal fonte de financiamento das firmas é dada por recursos próprios da empresa.
+No período de 2009-2011 e 2012-2014, 85% e 83% do financiamento das atividades de P&D interno nas empresas da indústria de transformação foi realizado por recursos próprios, respectivamente.
+Nota-se, de antemão, que a indústria de fabricação de produtos farmoquímicos e farmacêuticos (DMU_12), essencial para a obtenção de remédios e vacinas contra a pandemia da COVID-19, em nenhum momento, esteve entre os setores mais contemplados pelas políticas do Estado para fomentar a atividade inovadora.
+Em uma análise detalhada, verificou-se que a porcentagem dos investimentos em inovação e em P&D proporcional à receita líquida de vendas foi de 4,16% e 2,24%, respectivamente.
+Esse valor é superior à média verificada entre os demais setores da indústria de transformação que é de 2,16% e 0,68%.
+A busca pelo desenvolvimento de novos medicamentos e a condução de estudos clínicos que validem descobertas relevantes levam o segmento a priorizar as atividades inovativas na agenda estratégica de 62% das empresas da área farmacêutica e de ciências da vida no Brasil, estando atrás apenas do setor de bens de consumo.58 Contudo, os empresários desse segmento afirmam que a falta de incentivo do governo está entre as principais barreiras enfrentadas pelo setor.59 5.2 Resultados da análise de eficiência Apresentam-se a seguir os resultados obtidos pela análise envoltória de dados (Tabela 4).
+Novamente, é importante ressaltar que essa pesquisa não faz inferências sobre eficiência absoluta, mas mede a eficiência relativa entre os setores da indústria de transformação brasileira.
+58 MELO, Camila Sirieiro Abreu.
+A gestão do conhecimento e o processo de inovação de medicamento : estudo de caso em uma indústria farmacêutica nacional de grande porte.
+Tese (Doutorado) Instituto de Tecnologia em Fármacos Fundação Oswaldo Cruz, Rio de Janeiro, 2019. p. 25.
+59 COUTO, Marcus Vinícius Lima; NEVES, Aline Rodrigues Venâncio das, FIGUEIREDO, Ester Ribeiro de, SILVEIRA, Larissa dos Santos da, COSTA, Luciana Veloso da, BARROSO, Wanise Borges Gouvea.
+Principais obstáculos que dificultam a inovação em instituições públicas da área farmacêutica no Brasil.
+Vigilância Sanitária em Debate: Sociedade, Ciência & Tecnologia , v. 4, n. 2, p. 4, 2016.
+TIGRE, Paulo Bastos; NASCIMENTO, Caio Victor Machado França do; COSTA, Laís Silveira.
+Janelas de oportunidades e inovação tecnológica na indústria brasileira de medicamentos.
+Cadernos de Saúde Pública , v. 32, e00103315, p. 58, 2016.MARTINS , Michelle Márcia Viana; MENDES, Chrystian Soares .
+Eficiência das políticas de inovação nos setores industriais brasileiros: sugestões para a crise da COVID-19.
+Revista Brasileira de Políticas Públicas, Brasília, v. 11, n. 1. p.143-167, 2021.160 Tabela 4 – resultados da análise de eficiência, para retornos variáveis (BCC), por setor da indústria de transformação – Brasil (2011, 2014) DMU SetorBCC 2011Retorno de EscalaBCC 2014Retorno de Escala 1 Fabricação de produtos alimentícios 1.000 Decrescente 1.000 Decrescente 2 Fabricação de bebidas 1.000 Constante 1.000 Constante 3 Fabricação de produtos do fumo 1.000 Constante 1.000 Constante 4 Fabricação de produtos têxteis 0.219 Decrescente 0.150 Crescente 5 Confecção de artigos do vestuário e acessórios 0.482 Decrescente 1.000 Crescente 6Prep.
+de couro, artigos de viagem e calçados0.136 Crescente 0.135 Crescente 7 Fabricação de produtos de madeira 0.459 Decrescente 0.639 Crescente 8Fabricação de celulose, papel e produtos de papel0.326 Crescente 0.245 Decrescente 9 Impressão e reprodução de gravações 1.000 Constante 0.109 Crescente 10Fabricação de coque, de produtos derivados do petróleo1.000 Constante 1.000 Constante 11 Fabricação de produtos químicos 0.728 Decrescente 0.784 Decrescente 12Fabricação de produtos farmoquímicos e farmacêuticos0.354 Decrescente 0.788 Decrescente 13 Fabricação de artigos de borracha e plástico 0.434 Decrescente 0.379 Decrescente 14Fabricação de produtos de minerais não metálicos0.263 Crescente 1.000 Decrescente 15 Metalurgia 1.000 Constante 0.495 Decrescente 16 Fabricação de produtos de metal 0.350 Decrescente 0.349 Crescente 17Fabricação de equip.
+de informática, produtos eletrônicos e ópticos0.329 Decrescente 0.554 Decrescente 18Fabricação de máquinas, aparelhos e materiais elétricos0.301 Decrescente 0.499 Decrescente 19 Fabricação de máquinas e equipamentos 0.340 Decrescente 0.448 Decrescente 20Fabricação de veículos automotores, reboques e carrocerias1.000 Decrescente 1.000 Decrescente 21Fabricação de outros equipamentos de transporte0.719 Decrescente 1.000 Decrescente 22 Fabricação de móveis 0.315 Decrescente 0.158 Crescente 23 Fabricação de produtos diversos 0.073 Crescente 0.106 Crescente 24Manutenção, reparação e instalação de máquinas e equipamentos0.164 Constante 0.412 Decrescente Eficiência média 0.541 0.594 Fonte: resultado da pesquisa.
+Entre os 24 setores da indústria de transformação, apenas sete foram eficientes nos dois períodos, são eles os indicados pelas DMUs 1, 2, 3, 9, 10, 15 e 20.
+Esse resultado demonstra que, embora alguns setores não tenham sido os mais contemplados pelas PIs, utilizaram, de maneira eficiente, os recursos governamentais repassados.
+Em outras palavras, esses setores otimizaram os benefícios públicos de modo a aumentar MARTINS , Michelle Márcia Viana; MENDES, Chrystian Soares .
+Eficiência das políticas de inovação nos setores industriais brasileiros: sugestões para a crise da COVID-19.
+Revista Brasileira de Políticas Públicas, Brasília, v. 11, n. 1. p.143-167, 2021.161 os investimentos em inovação e P&D.
+A indústria de produtos alimentícios (DMU_1) foi a mais beneficiada por PIs e apresentou eficiência relativa máxima, indicando que o esforço do Estado em promover novos processos, produtos ou aprimorar a produção nesse segmento foi satisfatório.
+Esse resultado é interessante em termos de delineamento de políticas em virtude de o Brasil ser um país essencialmente primário-exportador.
+Além disso, o investimento público nessa área pode representar uma tentativa de aproveitar a vantagem comparativa do país nesse segmento.
+O mesmo argumento é válido para as indústrias de fabricação de bebidas (DMU_2), cujos insumos básicos são provenientes da produção agrícola; metalurgia (DMU_15), que depende, essencialmente, de minerais, outro fator que o Brasil possui em abundância; e fabricação de produtos derivados de petróleo (DMU_10), matéria-prima da qual o país destaca-se no processo de extração.
+O investimento em inovação e P&D nessas áreas pode representar um avanço em termos de agregação de valor do produto nacional, elevando a competitividade e a inserção da indústria brasileira no mercado internacional.
+Além disso, são setores que empregam um grande volume de mão-de-obra, podendo ser fundamental para resolver o problema do desemprego esperado no fim da atual crise da COVID-19.
+A indústria de Fabricação de automotores (DMU_20) também se apresentou eficiente.
+Esse resultado pode ser atribuído pela alta frequência de atividades inovativas que demandam investimentos massivos em inovação e P&D.
+As demandas do consumidor e transformações dinâmicas exigidas pelo mercado, além da alta concorrência, exigem do setor uma grande capacidade de adaptação e formulação de novos produtos.
+É um setor interessante como alvo de políticas do Estado, pois estimula encadeamentos para trás, como a geração de novos combustíveis, a exemplo da energia elétrica e do combustível biodiesel que já vêm sendo implementados em diversas empresas do ramo.
+Além de estimular atividades econômicas mais complexas, relacionadas às novas tecnologias de mídia, conectividade, acessibilidade, inteligência artificial e outros.
+Embora existam PIs direcionadas ao setor, a instabilidade de incentivos voltados ao desenvolvimento tecnológico ainda é vista como um fator que compromete sua competitividade.60 O setor de fabricação de produtos de fumo (DMU_3) também obteve score de eficiência máxima, esse resultado pode se dar ao fato de, apesar de as empresas serem beneficiadas por apenas uma categoria de apoio público (incentivo fiscal à pesquisa e desenvolvimento), os recursos governamentais foram altamente eficientes para o desenvolvimento de atividades de P&D e inovação nesse segmento.
+Além do resultado de alta eficiência, é um setor particularmente interessante para as futuras PIs visto que o Brasil é líder mundial no cultivo e exportação de tabaco em folhas, mas o beneficiamento ocorre fora do território nacional.61 Consequentemente, a geração de empregos e a agregação de valor são realocadas a outras economias.
+Silveira62 ressalta que os maiores bancos mundiais apostam no ramo tabaqueiro como uma excelente oportunidade para a remuneração do capital pela alta demanda mundial de produtos oriundos do tabaco, e sublinha a alta absorção de mão-de-obra na agroindústria desse setor.
+Apesar de alguns setores não terem sido eficientes, alguns registram retornos crescentes de escala, ou seja, têm condições de elevar a sua capacidade inovativa com os recursos públicos recebidos e possivelmente tornarem-se eficientes.
+Como é o caso das indústrias de fabricação de celulose, papel e produtos de papel (DMU_8), produtos minerais não metálicos (DMU_14) e produtos diversos (DMU_23).
+Outros setores, por sua vez, além de serem não eficientes, apresentaram retorno de escala decrescente, ou seja, os incentivos recebidos pelo governo não foram satisfatórios para aumentar os gastos em inovação e P&D, indicando ine60 MONTEIRO, Maria Eduarda Medeiros; SANTOS CÂMARA, Rayane Pereira dos; CARVALHO, Zulmara Virgínia de.
+Desafios da indústria automobilística brasileira na agenda da Indústria 4.0–Discussões sobre políticas de inovação para impulsionamento econômico .
+Gestão do Conhecimento e Inovação , v. 10, n. 7, p. 2, 2018.
+61 SILVA, Leonardo Xavier da; TILLMANN, Eduardo André.
+Exportações e eficiência competitiva da cadeia brasileira do tabaco: vantagens comparativas reveladas e orientação regional.
+In: CONGRESSO BRASILEIRO DE ECONOMIA E SOCIOLOGIA RURAL.
+62 SILVEIRA, Rogério Leandro Lima.
+Globalização e dinâmica espacial do mercado mundial de tabaco: reflexos na organização e nos usos do território na região sul do Brasil.
+In: ENCONTRO DE GEÓGRAFOS DE AMÉRICA LATINA, 12., 2009, Montevideo - Uruguay.
+Montevideo: Easy Planners Congressos e Exposiciones, 2009. v. 1. p. 16-17, 2009.MARTINS , Michelle Márcia Viana; MENDES, Chrystian Soares .
+Eficiência das políticas de inovação nos setores industriais brasileiros: sugestões para a crise da COVID-19.
+Revista Brasileira de Políticas Públicas, Brasília, v. 11, n. 1. p.143-167, 2021.162 ficiência dos gastos públicos para atender essa finalidade.
+Na prática, esse resultado demonstra a aversão ao risco para os investimentos em inovações, sendo estes bastante sensíveis às expectativas dos agentes a partir de sinalizações do mercado dada a conjuntura econômica e política nacional e internacional.
+O ambiente de negócios, que tende a pautar o comportamento empresarial, quanto às suas atividades inovativas nos períodos de referência (2009-2011 e 2012-2014), é um prolongamento do cenário marcado pelo modesto desempenho econômico do período pós-crise internacional de 2008.
+Os resultados de eficiência associados aos retornos decrescentes de escala demonstram que tampouco os investimentos públicos foram suficientes para o estímulo da atividade inovativa no pleito das empresas industriais diante de um cenário cujas condições macroeconômicas eram pouco favoráveis às empresas Para que futuros planos de investimentos governamentais funcionem na superação da nova crise econômica da COVID-19, é necessário garantir uma colaboração estreita entre o setor público e privado, não apenas para obter informações sobre o momento certo e o volume necessário de suporte, mas também para identificar necessidades e oportunidades especiais em cada setor produtivo.
+Essa sugestão pode contribuir para uma abordagem mais sistêmica das políticas de P&D e inovação, ou seja, uma abordagem que está relacionada não apenas às questões de natureza técnica ou científica, mas também com as questões de ordem política, econômica, social, cultural, ética, entre outras.
+Esse tratamento sistêmico pode ser aprimorado, por exemplo, com a ampliação das parcerias com universidades e institutos de pesquisa.
+Além de possibilitar o acesso a recursos humanos altamente qualificados, viabiliza obtenção de informações que ajudam a reduzir os riscos envolvidos nos projetos de pesquisa e desenvolvimento.
+No geral a eficiência média de 2009-2011 foi de 0,541, elevando-se para próximo de 0.6 em 2012-2014.
+Todavia, é importante observar que, ainda, há um número substancial de setores ineficientes e com retornos decrescentes, o que pode estar relacionado ao número de empresas que foram ou não contempladas com a apoio público; a dificuldade em acompanhar as empresas de ponta em nível internacional, o que pode fazer com que elas percam parcela de mercado e sejam desestimuladas a inovar, e, ainda, conforme mencionado, a própria conjuntura econômica que afetou as decisões de investimento das empresas.
+A Tabela 5 apresenta os resultados obtidos pelo cálculo da análise global de produtividade Malmquist que demonstram que, embora se tenha registrado um número reduzido de setores eficientes para ambos os triênios, houve considerável mudança técnica em praticamente todos os setores, representado pelos valores maiores do que a unidade.
+Esses resultados sugerem que os investimentos públicos realizados no primeiro período investigado repercutiram positivamente nos gastos em inovação e P&D no período posterior, ou seja, os setores tiveram um uma melhoria técnica de um triênio para outro.
+É chamada atenção para os setores de Confecção de artigos do vestuário e acessórios (DMU_5) e Fabricação de produtos de minerais não-metálicos (DMU_14), que eram ineficientes em 2011 e passaram a ser eficientes em 2014, esse resultado pode ser atribuído aos transbordamentos das PIs entre os períodos, cujo índice de Malmquist indicou valores de 2.075 e 3.807, respectivamente.
+O mesmo foi verificado para as DMU's 12, 17, 18, 23 e 24 que, embora não tenham sido eficientes, obtiveram uma melhoria técnica expressiva no período.
+Tabela 5 – resultado da mudança técnica entre o período de 2011 e 2014 – Índice de Malmquist DMUs Setor Malmquist 1 Fabricação de produtos alimentícios 1.000 2 Fabricação de bebidas 1.000 3 Fabricação de produtos do fumo 1.000 4 Fabricação de produtos têxteis 0.684 5 Confecção de artigos do vestuário e acessórios 2.075 6Preparação de couros e fab.
+de artefatos de couro, artigos de viagem e calçados0.992MARTINS , Michelle Márcia Viana; MENDES, Chrystian Soares .
+Eficiência das políticas de inovação nos setores industriais brasileiros: sugestões para a crise da COVID-19.
+Revista Brasileira de Políticas Públicas, Brasília, v. 11, n. 1. p.143-167, 2021.163 7 Fabricação de produtos de madeira 1.392 8 Fabricação de celulose, papel e produtos de papel 0.752 9 Impressão e reprodução de gravações 0.109 10 Fabricação de coque, de produtos derivados do petróleo 1.000 11 Fabricação de produtos químicos 1.078 12 Fabricação de produtos farmoquímicos e farmacêuticos 2.223 13 Fabricação de artigos de borracha e plástico 0.874 14 Fabricação de produtos de minerais não-metálicos 3.807 15 Metalurgia 0.495 16 Fabricação de produtos de metal 0.996 17 Fabricação de equipamentos de informática, produtos eletrônicos e ópticos 1.685 18 Fabricação de máquinas, aparelhos e materiais elétricos 1.655 19 Fabricação de máquinas e equipamentos 1.315 20 Fabricação de veículos automotores, reboques e carrocerias 1.000 21 Fabricação de outros equipamentos de transporte 1.390 22 Fabricação de móveis 0.500 23 Fabricação de produtos diversos 1.466 24 Manutenção, reparação e instalação de máquinas e equipamentos 2.513 Fonte: resultados da pesquisa.
+Em suma, os resultados de eficiência reforçam a importância dos incentivos voltados para inovação na retomada da atividade econômica do Brasil.
+Os esforços públicos podem aprimorar a agregação de valor para a indústria nacional em alguns setores-chave.
+No entanto, a própria política do Estado precisa ser mais inovadora, no sentido de ser mais sistêmica e usar todas as ferramentas disponíveis para criar um plano nacional de desenvolvimento mais eficiente.
+Além disso, os resultados do índice de Malmquist reforçam que as PIs apresentam resultados de longo prazo.
+Portanto, as políticas devem ser consistentes e persistentes ao longo dos anos.
+6 Considerações Finais Esse trabalho apresenta uma proposta para a retomada da atividade econômica após a pandemia da COVID-19.
+O plano proposto é orientado para o apoio público no estímulo às atividades inovativas pelos setores da indústria de transformação brasileira.
+Por meio da análise de eficiência pelo método DEA, identificaram-se quais setores foram eficientes no passado em utilizar os recursos oriundos das políticas industriais do Estado para promover gastos em inovação e P&D.
+Os resultados obtidos podem corroborar o delineamento de futuros investimentos nesse sentido, sendo capaz de definir setores-chave para instituir o apoio público em inovação com vistas a um crescimento sustentado.
+Em síntese, os resultados apontam que os setores mais eficientes foram, particularmente, aqueles cujos insumos básicos são obtidos em abundância no Brasil.
+São eles, os setores de fabricação de produtos alimentícios, bebidas, produtos do fumo, metalurgia e fabricação de produtos derivados de petróleo.
+Isso sugere que o contínuo investimento público poderá promover, por meio das atividades inovativas, uma possibilidade de agregar valor ao produto nacional e alcançar novos mercados dentro e fora do país.
+Além disso, é uma oportunidade adicional para aprimorar a vantagem comparativa do Brasil na produção/extração de produtos primários.
+Outro setor eficiente foi o de fabricação de veículos automotores, reboques e carrocerias, o apoio público nesse setor pode levar a avanços tecnológicos e encadeamentos para frente e para trás, MARTINS , Michelle Márcia Viana; MENDES, Chrystian Soares .
+Eficiência das políticas de inovação nos setores industriais brasileiros: sugestões para a crise da COVID-19.
+Revista Brasileira de Políticas Públicas, Brasília, v. 11, n. 1. p.143-167, 2021.164 o que possibilitará maior absorção da mão-de-obra desempregada pela crise.
+Muitos setores tiverem resultados ineficientes e com retornos decrescentes de escala, o que sugere a má aplicação dos recursos públicos com a finalidade de desenvolver P&D e inovação no bojo empresarial.
+Esse resultado coloca em xeque a importância de um melhor delineamento das PIs, sobretudo em um momento de crise, em que o orçamento do Estado estará comprometido em pagar os altos déficits da dívida pública.
+Para tanto, é necessário dissolver os riscos públicos e privados e buscar setores-chaves para promover os investimentos em inovação.
+Além disso, é necessária uma ação coordenada entre o governo e empresas para que os interesses governamentais de emprego e crescimento econômico sejam factíveis.
+Para resultados mais robustos em termos de políticas públicas, recomenda-se, para trabalhos futuros, a inserção de modelagem econométrica para definir os determinantes da recuperação da indústria nacional.
+Referências AGHION, Philippe; HOWITT, Peter.
+A model of growth through creative destruction.
+National Bureau of Economic Research.
+Econometrica , v. 60, n. 2, p. 323-352, 1992.
+ANTONIOLI, Davide; BIANCHI, Annaflavia; MAZZANTI, Massimiliano; MONTRESOR, Sandro; PINI, Paolo.
+Economic crisis, innovation strategies and firm performance.
+Evidence from Italian firm-level data.
+BANKER, Rajiv D.; CHARNES, Abraham; COOPER, William WagerSome models for estimating technical and scale inefficiencies in data envelopment analysis.
+Management science , v. 30, n. 9, p. 1078-1092, 1984.
+Lei nº 10.973, de 2 de dezembro de 2004.
+Dispõe sobre incentivos à inovação e à pesquisa científica e tecnológica no ambiente produtivo e dá outras providências.
+Diário Oficial da República Federativa do Brasil , Brasília, DF, 3 dez.
+; GÜNTHER, Jutta; LOOSE, Brigitte; LUDWIG, Udo; NULSCH, Nulsch.
+Can R&D subsidies counteract the economic crisis?–Macroeconomic effects in Germany.
+Research Policy , v. 44, n. 3, p. 623-633, 2015.
+BUCCI, Maria Paula Dallari; COUTINHO, Diogo.
+Arranjos jurídico-institucionais da política de inovação tecnológica : uma análise baseada na abordagem de direito e políticas públicas.
+Inovação no Brasil: avanços e desafios jurídicos e institucionais.
+CARAYANNIS, Elias G.; GRIGOROUDIS, Evangelos; GOLETSIS, Yorgos.
+A multilevel and multistage efficiency evaluation of innovation systems: A multiobjective DEA approach.
+Expert Systems with Applications, v. 62, p. 63-80, 2016.
+CHARNES, Abraão; COOPER, William W .
+Measuring the efficiency of decision making units.
+European journal of operational research , v. 2, n. 6, p. 429-444, 1978.
+CONTE, Andrea; SCHWEIZER, Phillip; DIERX, Adriann; ILZKOVITZ, Fabienne.
+An analysis of the efficiency of public spending and national policies in the area of R&D .
+European Commission, Brussels, 2009.
+COUTO, Marcus Vinícius Lima; NEVES, Aline Rodrigues Venâncio das, FIGUEIREDO, Ester Ribeiro de, SILVEIRA, Larissa dos Santos da, COSTA, Luciana Veloso da, BARROSO, Wanise Borges Gouvea.
+Principais obstáculos que dificultam a inovação em instituições públicas da área farmacêutica no Brasil.
+Vigilância Sanitária em Debate: Sociedade, Ciência & Tecnologia , v. 4, n. 2, p. 2-7, 2016.MARTINS , Michelle Márcia Viana; MENDES, Chrystian Soares .
+Eficiência das políticas de inovação nos setores industriais brasileiros: sugestões para a crise da COVID-19.
+Revista Brasileira de Políticas Públicas, Brasília, v. 11, n. 1. p.143-167, 2021.165 CZELUSNIAK, Vivian Amaro; RIBEIRO, Marcia Carla Pereira.
+O Papel do Direito nas Políticas Públicas para a Inovação.
+EM busca dos caminhos jurídicos e econômicos para a superação da crise.
+Curitiba: PUCPRess, 2016. p. 77-107.
+DZEMYDAITĖ, Giedrė; DZEMYDA, Ignas; GALINIENĖ, Birutė.
+The efficiency of regional innovation systems in new member states of the European Union: a nonparametric DEA approach.
+Economics and business, v. 28, n. 1, p. 83-89, 2016.
+FILIPPETTI, Andrea; ARCHIBUGI, Daniele.
+Innovation in times of crisis: National Systems of Innovation, structure, and demand.
+Research Policy , v. 40, n. 2, p. 179-192, 2011.
+FORAY, Dominique; MOWERY, David C.; NELSON, Richard R. Public R&D; and social challenges: What lessons from mission R&D; programs?.
+Research Policy , v. 41, n. ARTICLE, p. 1697-1702, 2012.
+Hélice Tríplice: A interação entre Universidade, Empresa e Estado para Gerar Inovação.
+Revista de Direito, Inovação, Propriedade Intelectual e Concorrência , v. 2, n. 1, p. 114-128, 2016.
+GROSSMAN, Gene Michael; HELPMAN, Elhanan.
+Trade, knowledge spillovers, and growth.
+European economic review , v. 35, n. 2-3, p. 517-526, 1991.
+GUELLEC, Dominique; WUNSCH-VINCENT, Sacha.
+Policy Responses to the Economic Crisis: Investing in Innovation.
+HALL, Bronwyn; VAN REENEN, John.
+How effective are fiscal incentives for R&D?
+Research Policy , v. 29, p. 449-469, 2000.
+Disponível em: ibge.gov.br/estatisticas/multidominio/cienciatecnologia-e-inovacao/9141-pesquisa-de-inovacao.
+Questionários Pesquisa de Inovação .
+KANERVA, Michael; HOLLANDERS, Hill.
+The Impact on the Economic Crisis on Innovation, INNO Metrics Thematic Paper.
+European Commission, DG Enterprise , Brussels, p. 1-30, 2009.
+LAFARGA, Cuitlahuac Valdez; BALDERRAMA, Jorge Inés León.
+Efficiency of Mexico's regional innovation systems: an evaluation applying data envelopment analysis (DEA).
+African Journal of Science, Technology, Innovation and Development, v. 7, n. 1, p. 36-44, 2015.
+Extrafiscalidade e incentivos à inovação tecnológica.
+Revista do Direito Público , v. 11, n. 2, p. 230-259, 2016.
+LASTRES, Helena Maria Martins; CASSIOLATO, José Eduardo.
+Sistemas de inovação: políticas e perspectivas.
+Parcerias estratégicas , v. 5, n. 8, p. 238-254, 2000.
+LEE, Jiyoung; KIM, Chulyeon; CHOI, Gyunghyun.
+Exploring data envelopment analysis for measuring collaborated innovation efficiency of small and medium-sized enterprises in Korea.
+European Journal of Operational Research , v. 278, n. 2, p. 533-545, 2019.
+MARINO, Marianna; LHUILLERY, Stephane; PARROTTA, Pierpaolo; SALA, David.
+An overall evaluation of public R&D subsidy on private R&D expenditure.
+Research Policy , v. 45, n. 9, p. 1715-1730, 2016.
+A gestão do conhecimento e o processo de inovação de medicamento : estudo de caso em uma indústria farmacêutica nacional de grande porte.
+Tese (Doutorado) Instituto de Tecnologia em Fármacos Fundação Oswaldo Cruz, Rio de Janeiro, 2019.MARTINS , Michelle Márcia Viana; MENDES, Chrystian Soares .
+Eficiência das políticas de inovação nos setores industriais brasileiros: sugestões para a crise da COVID-19.
+Revista Brasileira de Políticas Públicas, Brasília, v. 11, n. 1. p.143-167, 2021.166 MENDES, Chrystian Soares; LOPES, Luckas Sabione; GOMES, Adriano Provezano.
+Eficiência dos dispêndios em inovação nas indústrias de transformação do Brasil.
+Revista Brasileira de Inovação , v. 11, n. 1, p. 193-218, 2012.
+MIN, Sujin; KIM, Juseong; SAWNG, Yeong-Wha.
+The effect of innovation network size and public R&D investment on regional innovation efficiency.
+Technological Forecasting and Social Change , v. 155, n. 119998, p. 1-13.
+MONTEIRO, Maria Eduarda Medeiros; SANTOS CÂMARA, Rayane Pereira dos; CARVALHO, Zulmara Virgínia de.
+Desafios da indústria automobilística brasileira na agenda da Indústria 4.0–Discussões sobre políticas de inovação para impulsionamento econômico .
+Gestão do Conhecimento e Inovação , v. 10, n. 7, p. 1-10, 2018.
+MONTMARTIN, Benjamin; HERRERA, Marcos.
+Internal and external effects of R&D subsidies and fiscal incentives: Empirical evidence using spatial dynamic panel models.
+Research Policy , v. 44, n. 5, p. 10651079, 2015.
+NELSON, Richard R. The role of knowledge in R&D efficiency.
+The quarterly journal of economics , v. 97, n. 3, p. 453-470, 1982.
+PALUMA, Thiago; TEIXEIRA, Eline Débora.
+Marco legal da inovação e o aumento da interação entre universidade e empresa: contribuições para a consolidação do direito fundamental ao desenvolvimento.
+Revista Brasileira de Políticas Públicas , v. 9, n. 1, p. 352-370, 2019.
+The global crisis and firms' investments in innovation.
+Research policy , v. 41, n. 1, p. 2435, 2012.
+After crisis: creative construction.
+Open Democracy, v. 5, n. 3, p. 8-12, 2009.
+PETTAS, Nikolaos; GIANNIKOS, Ioannis.
+Evaluating the delivery performance of public spending programs from an efficiency perspective.
+Evaluation and program planning , v. 45, p. 140-150, 2014.
+Considerações para uma Abordagem Sistemática da Emenda Constitucional 85 de 2015.
+In: SOARES, Fabiana de Menezes; PRETE, Esther Külkamp Eyng (org.).
+Marco regulatório em ciência, tecnologia e inovação: texto e contexto da Lei M321 n. 13.243/2016.
+Belo Horizonte: Arraes Editores, 2018. p. 93-115 RAMANATHAN, Ramakrishnan; RAMANATHAN, Usha; BENTLEY , Yongmei.
+The debate on flexibility of environmental regulations, innovation capabilities and financial performance–A novel use of DEA.
+Omega , v. 75, p. 131-138, 2018.
+O novo marco legal da inovação no Brasil: o que muda na relação ICT-Empresa?
+Radar: tecnologia, produção e comércio exterior , Brasília, n. 43, p. 21-34, fev.
+Industrial policy for the twenty-first century.
+Endogenous technological change.
+Journal of political Economy , v. 98, n. 5, Part 2, p. S71-S102, 1990.
+Growth based on increasing returns due to specialization.
+The American Economic Review , v. 77, n. 2, p. 56-62, 1987.
+Política de inovação: filiação histórica e relação com as políticas de desenvolvimento territorial.
+Revista Portuguesa de Estudos Regionais .
+ISSN 1645-586X SCHAPIRO, Mario Gomes.
+Política Industrial, Direito e Desenvolvimento: razões econômicas, experiências institucionais e racionalidades regulatórias.
+In: DIREITO Econômico Regulatório.
+São Paulo: Saraiva, 2010. v. 1. p. 425-473.MARTINS , Michelle Márcia Viana; MENDES, Chrystian Soares .
+Eficiência das políticas de inovação nos setores industriais brasileiros: sugestões para a crise da COVID-19.
+Revista Brasileira de Políticas Públicas, Brasília, v. 11, n. 1. p.143-167, 2021.167 SCHUMPETER, Joseph Alois.
+Impérialisme et classes sociales .
+Inter-country R&D efficiency analysis: An application of data envelopment analysis.
+Scientometrics , v. 76, n. 3, p. 483-501, 2008.
+A dinâmica de introdução de inovações pode levar a uma melhor inserção competitiva do Brasil pós-crise atual?
+Gestão Pública: Práticas e Desafios, v. 1, n. 1, p. 1-17, 2010.
+SILVA, Leonardo Xavier da; TILLMANN, Eduardo André.
+Exportações e eficiência competitiva da cadeia brasileira do tabaco: vantagens comparativas reveladas e orientação regional.
+In: CONGRESSO BRASILEIRO DE ECONOMIA E SOCIOLOGIA RURAL.
+SILVEIRA, Rogério Leandro Lima.
+Globalização e dinâmica espacial do mercado mundial de tabaco: reflexos na organização e nos usos do território na região sul do Brasil.
+In: ENCONTRO DE GEÓGRAFOS DE AMÉRICA LATINA, 12., 2009, Montevideo - Uruguay.
+Montevideo: Easy Planners Congressos e Exposiciones, 2009. v. 1. p. 1-19, 2009.
+SOUZA, Gustavo Costa de; BARBOSA, Cynthia Mendonça.
+A relação entre Empresas e Instituições de Ensino e Pesquisa e seu Papel no Desenvolvimento Econômico.
+In: SOARES, Fabiana de Menezes; PRETE, Esther Külkamp Eyng (org.).
+Marco regulatório em ciência, tecnologia e inovação: texto e contexto da Lei M321 nº 13.243/2016.
+Belo Horizonte: Arraes Editores, 2018. p. 79-92.
+TIGRE, Paulo Bastos; NASCIMENTO, Caio Victor Machado França do; COSTA, Laís Silveira.
+Janelas de oportunidades e inovação tecnológica na indústria brasileira de medicamentos.
+Cadernos de Saúde Pública , v. 32, e00103315, p. 51-59, 2016.
+TORRES, Daniel Aristizábal; PEÑA, Monica Yuleni Castro; GUTIÉRREZ, Paola Andrea Echeverri; SALAZAR, Jesus David Valencia.
+Assessing the efficiency of science, technology and innovation using Data Envelopment Analysis (DEA): The case of Colombia.
+Dyna , v. 84, n. 202, p. 215-220, 2017.
+VERDE, Lucas Henrique Lima; RESENDE MIRANDA, João Irineu de.
+Análise econômica dos resultados brasileiros no Índice Global de Eficiência em Inovação, frente ao novo Marco da Ciência, Tecnologia e Inovação (Lei n. 13.243/2016).
+Economic Analysis of Law Review , v. 9, n. 2, p. 308-337, 2018.
+WANG, Song; ZHANG, Jianging; FAN, Fei; LU, Fei; YANG, Lisheng.
+The symbiosis of scientific and technological innovation efficiency and economic efficiency in China—An analysis based on data envelopment analysis and logistic model.
+Technology Analysis & Strategic Management , v. 31, n. 1, p. 67-80, 2019.
+ZABALA-ITURRIAGAGOITIA, Jon; VOIGT, Peter; GUTIÉRREZ-GRACIA, Antonio; JIMÉNEZ-SÁEZ, Fernando.
+Regional innovation systems: how to assess performance.
+Regional Studies , v. 41, n. 5, p. 661-672, 2007.
+ZYLBERSZTAJN, Décio; STAJN, Rachel.
+São Paulo: Campus, 2005.Para publicar na revista Brasileira de Políticas Públicas, acesse o endereço eletrônico www.rbpp.uniceub.br Observe as normas de publicação, para facilitar e agilizar o trabalho de edição.

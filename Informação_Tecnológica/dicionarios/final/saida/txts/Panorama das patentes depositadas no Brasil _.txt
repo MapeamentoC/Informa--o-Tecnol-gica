@@ -1,0 +1,260 @@
+59 Moura , Ana Maria Mielniczuk de ; Gabriel Junior , Rene Faustino ; Magnus , Ana Paula Medeiros ; Bochi , Fernanda dos Santos ; Scartassini , Verônica Barboza .
+Panorama das patentes depositadas no brasil: uma análise a partir dos maiores depositantes de patentes na base Derwent Innovations Index // Brazilian Journal of Information Studies: Research Trends.
+PANORAMA DAS PATENTES DEPOSITADAS NO BRASIL: UMA ANÁLISE A PARTIR DOS MAIORES DEPOSITANTES DE PATENTES NA BASE DERWENT INNOV ATIONS INDEX Overview of patents deposited in Brazil: an analysis from the largest patent depositors in the Derwent Innovations Index base Ana Maria Mielniczuk de Moura (1), Rene Faustino Gabriel Junior (2), Ana Paula Medeiros Magnus (3), Fe rnanda dos Santos Bochi (4) Verônica Barboza Scartassini (5) (1) Universidade Federal do Rio Grande do Sul (UFRGS), ana.moura@ufrgs.br.
+(2) rene.ga briel@ufrgs.com, (3) magnus.ana@gmail.com , (4) nandabochi@gmail.com , (5) veronica.scartassini@ufrgs.br.
+Resumo Os documentos de patentes configuram importantes fontes de informação, além de sua relevância industrial e econômica.
+O presente estudo analisa o depósito de patentes no Brasil, a partir dos maiores depositantes de patentes indexadas na base de dados Der went Innovations Index (DII), no período de 2004 a 2016.
+O estudo é patentométrico com abordagem quantitativa e caráter descritivo, tendo o corpus formado pelos registros das patentes depositadas no Brasil, no escritório brasileiro de registro de patentes – Instituto Nacional da Propriedade Industrial (INP I) –, e que foram indexadas na base DII, no período destacado.
+A coleta dos dados resultou em um total de 208.064 registros.
+A partir dos registros coletados, criou -se uma base de dados em MySQL (sistema de gerenciame nto de banco de dados) e utilizou -se so ftwares —Excel, Thesa e Vosviewer — para a padronização dos nomes das instituições depos itantes de patentes, análise, mensuração e apresentação dos resultados.
+Ao longo do estudo, verificou -se predomínio de empresas multinacionais entre as maiores deposita ntes de patentes no Brasil, vinculadas às áreas da saúde, tecnologia de informação e eletrôn ica.
+Palavras -chave: Patente; Produção tecnológica; Brasil.
+Abstract The patents documents constitute an important information sources, in addition to their industr ial and economy relevance.
+The pr esent study analyzes the patent deposit in Brazil, based on verification of the largest depositor of patent indexed in the Der went Inn ovations Index from 2004 to 2016.
+The study is qualitative with descriptive character.
+It s corpus is formed by the records of patents deposited in Brazil that were indexed in the database Derwent Innovations Index in the period highlighted.
+The research was p erformed with temporal delimitation from 2004 to 2016 and result in a total of 208.064 records.
+Data collection was performed in March 2017 and with the records collected a database exported to a MySQL database was created.
+To analyze and measure the co llected data, Excel software, Thesa and Vosviewer were used to standardize the name of th e institutions patent applicants, analysis and presentation of the results.
+Throughout the study, there was a predominance of multinational corporations in the largest filing of patents in Brazil, related to the areas of health, information technology and electronics.
+Keywords : Technological Production.
+Patents 1 Introduction Os estudos sobre patentes realizados na área da Ciência da Informação têm gerado um crescente interesse por parte dos pesquisadores.
+No Brasil, algumas pesquisas apresenta m uma diversificação de aplicações de seus resultados, apontando relação direta entre o crescime nto científico e tecnológico com o socioeconômico (M a-ricato, 2010; Pavanelli e Oliveira, 2016; Moura e Sca rtassini, 2017).
+No âmbito internacional, não é raro encontrar trabalhos sobre patentes sob uma perspectiva bibliométrica e cientométrica.
+Dentre eles, destacam -se os trabalhos de Tijssen e Winnink (2018), os quais exploram a citação dos documentos de patente visando, a partir dos indicadores de citação, a ca tegorizar os de maior relevância; Yan e Guan (2018), que analisam a colaboração dentro do âmbito da produção tecnológica para o desenvolvimento de novos conhecimentos e 60 Moura , Ana Maria Mielniczuk de ; Gabriel Junior , Rene Faustino ; Magnus , Ana Paula Medeiros ; Bochi , Fernanda dos Santos ; Scartassini , Verônica Barboza .
+Panorama das patentes depositadas no brasil: uma análise a partir dos maiores depositantes de patentes na base Derwent Innovations Index // Brazilian Journal of Information Studies: Research Trends.
+ISSN 1981 -1640. aplicações; Patra e Muchie (2018), que abordam a produção tecnológica em universidades sob a perspe ctiva da Hélice Tripla; Yeh, Lo, Chang e Chen (2018), que mensuram o depósito de patentes dentro do campo da ortopedia; Zhang, Qian, Huang, Guo, Zhang e Lu (2017), os quais exploram o potencial dos documentos de patentes dentro dos estudos métr icos de informação, analisando indicadores para a mensuração de patentes; Ávila -Robinson e Sengoku (2017), que analisaram a citação e co -citação em patentes; e, por fim, o estudo de Chang, Yang e Huang (2017), que mensurara a produção tecnológica dentro do campo das células de combustíveis.
+Estudos dessa natureza demonstram o potencial de exploração das patentes em estudos em Ciência da Informação.
+Sob a perspectiva do que os depósitos de patentes r epresentam, Morais e Garcia (2012) afirmam que o número de patentes depositadas é indicador relevante no processo de avaliação da capacidade que uma d eterminada região ou um país tem de transformar o conhecimento científico bruto em produtos tecnológ icos.
+Devido a essa importância dos documentos de patentes, diver sos estudos são realizados nessa temática sob diferentes aspectos da ciência.
+A Ciência da Info rmação e, mais precisamente, os estudos em patentom etria buscam verificar o impacto que tais docume ntos geram em micro, média e macroescala.
+Compreendendo que es tudos em ciência, tecnologia e inovação englobam diferentes segmentos da sociedade e, quando realizados de forma panorâmica, possibil itam uma análise global das atividades em ciência e tecnologia no país, este estudo se torna necessário, pois possibilita e ntender as características dos registros de patentes no escritório nacional brasileiro.
+Entre essas características, será possível observar quem são os maiores depositantes de patentes no país, quais são os setores que atuam e a evolução temporal dos depós itos.
+Assim, este trabalho pretende responder o problema de pesquisa: quais são as características das patentes d epositadas no Brasil pelos maiores depositantes, index adas na base Derwent Innovations Index (DII), no per íodo de 2004 a 2016?
+E tem como objet ivos: identificar os maiores depositantes no Instituto Nacional de Pr opriedade Industrial (INPI), o escritório brasileiro de patentes, assim como verificar as características das patentes registradas por eles no país; verificar quais são as patentes priori tárias e as não prioritárias; relacionar a área temática das patentes com suas depositárias e verificar a evolução temporal das patentes indexadas na base DII.
+Trata -se de um estudo descritivo, com delineamento patentométrico.
+A utilização da base DII no e studo é em decorrência de sua abrangência e consolidação em ser uma fonte relevante para trabalhos dessa natureza.
+2 Ciência, Tecnologia e Inovação no Brasil Historicamente, a institucionalização da ciência e as dificuldades financeiras do Brasil levaram a um cre scimento lento e desorganizado da ciência no país.
+De acordo com Leta (2011), o Brasil só teve a institucion alização da pesquisa científico -tecnológica três séculos mais tarde que outros países, como Itália, I nglaterra e Estados Unidos.
+Dessa forma, faz-se necessário ressa ltar o papel da universidade no dese nvolvimento da ciência e tecnologia no cenário nacional.
+Schwartzman (2008) é categórico ao afirmar que não há como falar de pesquisa sem mencionar ensino, pois, no Brasil, ambos estão relacionado s. É necessário o bservar a estrutura do modelo científico nacional para, então, compreender a sua representatividade no cenário gl obal.
+Rocha e Ferreira (2004) apontam que é preciso entender a dinâmica das pesquisas em Ciência, Tecn ologia e Inovação (CT&I) regionalmente, avaliando os índices no setor por unidade federativa.
+Essa também pode ser considerada uma maneira de verificar como o país vem consolidando -se nesse âmbito, já que cada unidade federativa tem autonomia econômica e social, além de enfrentar realidades diferentes umas das o utras.
+Embora o Brasil tenha agências de financiamento a pesquisas atuantes, como a Coordenação e Aperfeiç oamento de Pessoal de Nível Superior (CAPES) e o Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) , ainda está em desenvolvimento nessa área.
+Isso porque, de acordo com Chaimovich e Melcop (2007), o país tem destinado pouco do seu PIB para o incentivo à pesquisa.
+Essa situação, segundo os autores, se repete em outros países latinos que não destinam mai s de 1% do seu PIB ao desenvolvimento de C&T.
+Mesmo assim, de acordo com os dados apr esentados pelo Ministério da Ciência, Tecnologia, In ovações e Comunicações (MCTIC) (Brasil, 2018), o Brasil investiu, em 2015, 1,28% do seu PIB no setor, ficando acima de países como Argentina (0,63%), México (0,53%), Rússia (1,10%), Índia (0,69%) e África do Sul (0,80%).
+Referente ao baixo investimento por parte do governo brasileiro no setor de C&T, Schwartzman (2008) apo nta que esse é um equívoco muito comum em países em desenvolvimento.
+O incentivo em frentes de pesquisa é uma vantagem econômica, e, em comparação aos pa íses que mais publicam artigos científicos e depos itam patentes, percebe -se que esses líderes em C&T poss uem indicadores econômicos elevados, como é o cas o dos EUA, da China, Coréia, Alemanha e Inglate rra.
+O autor complementa dizendo que uma sociedade com investimento maciço em C&T apresenta poucas cha nces de enfrentar problemas econômicos.
+Fazzio (2017) aponta que, apesar da situação de crise econômica que o país enfrenta, reduzir investimentos no desenvolvimento de pesquisas e inovações é pr o-61 Moura , Ana Maria Mielniczuk de ; Gabriel Junior , Rene Faustino ; Magnus , Ana Paula Medeiros ; Bochi , Fernanda dos Santos ; Scartassini , Verônica Barboza .
+Panorama das patentes depositadas no brasil: uma análise a partir dos maiores depositantes de patentes na base Derwent Innovations Index // Brazilian Journal of Information Studies: Research Trends.
+ISSN 1981 -1640. longar ainda mais o problema.
+Países que passaram por problemas econômicos no ano de 2008, como Japão e Estados Unidos, não deixaram de investir no setor, destinando p ouco mais de 3% e 2% do PIB em C&T, respectivamente, de acordo com os dados do MCTIC (Brasil, 2018).
+Bufrem, Silveira e Freitas (2018) sinalizam que o d esenvolvimento em CT&I no Brasil é em decorrência do pós-guerra, alavancado por agências de pesquisa que , por meio de normas e regulamentos, conseguem est imular e evidenciar as meritocracias científicas.
+Ainda de acordo com os autores, esse estímulo atrelado ao desenvolvimento científico e tecnológico é positivo para o desenvolvimento econômico -social.
+2.1 O depósito de patentes no Brasil Atrelado a essa ideia de desenvolvimento inovativo, encontra -se, dentro da Ciência da Informação, um campo do conhecimento que, por meio de estudos estatísticos, mensura e avalia os indicadores de CT&I.
+Dentro dos estudos mé tricos, destaca -se a patentom etria, que tem por objeto de estudo os documentos de patentes.
+Compreende -se que patente é um título de propriedade temporário sobre uma invenção ou um modelo de util idade, concedido pelo Estado aos titulares ou seus s ucessores (pessoa física ou jurídica).
+Os detentores desse documento possuem direitos de exclusividade sobre o produto, processo de fabricação ou aperfeiço amento do produto/processo já existente, impedindo que terceiros possam explorar o conteúdo dessa patente sem o consentimento prévio de seus titulares (Brasil, 2015).
+Ressalta -se que a patente é um documento com valor informacional importante.
+Além de resguardar info rmações atualizadas sobre determinada tecnologia, ela possui representatividade e peso em relação a aspectos industriais, sendo papel -chave no setor econômico.
+O valor econômico atribuído às patentes faz com que grandes empresas detenham grandes fatias do mercado industrial, pois estão ligadas ao desenvolvimento in ovativo e conhecem todos os caminhos pa ra o patente amento e, consequentemente, investem mais recursos, patenteando novos produtos e tecnologia.
+Apesar do seu valor econômico, nem toda patente será comercializada e trará lucros ao seu depositante.
+Essa situação pode gerar riscos às empresas que pretendem comercializar tecnologias patenteadas, fazendo com que as organizações comercializadoras de patentes utilizem estratégias para se manterem a frente do me rcado.
+Uma delas é patentear determinada tecnologia para ser a única detentora dos direitos d e comercializ ação: a empresa pode não produzir o produto patente ado, mas garante que nenhuma outra concorrente cons iga valer -se dessa nova tecnologia (Barbieri e Álvares, 2005; Reitzig, 2003).
+A competitividade é fundamental para que as empresas possam ter vantagens sobre as outras, invistam em tecnologia, inovação e patente amento, evitando que terceiras façam uso indevido dos seus inventos (Gavira, Ferro, Rohrich e Quadros, 2007).
+O processo que envolve a solicitação de um pedido de patente até a emissão d a carta patente é demorado, burocrático e tem custos elevados.
+Há três vias que podem ser utilizadas para a concessão da carta patente ao inventor: a primeira é diretamente no escritório nacional do país do inventor ou depositante (no caso brasileiro, o es critório nacional é o INPI – Instituto Nacional da Propriedade Industrial); a segunda é dep ositando em escritório nacional de outro país que não seja o do inventor ou depositante; e a terceira é quando o inventor ou depositante deposita a patente de sua invenção na via PCT (Patent Cooperation Treaty), diretamente na World Intellectual Property Organizat ion (WIPO), escritório internacional de patentes (World Intellectual Property Organization, 2001).
+Verificando a produtividade inovativa brasileira, os autor es Soares, Torkomian, Nagano e Moreira (2016) apontam que o Brasil tem apresentado os maiores índ ices de depósito de patentes dentre os países da América Latina.
+No entanto, observando o número de patentes depositadas no INPI, têm -se uma variação entre os depositantes residentes e os não residentes.
+Em 2015, o número de depósitos realizados por não residentes chegou ao percentual de 77,7% de 33.043 solicitações, muito superior ao número de solicitações de residentes no Brasil.
+Já no ano de 2017, embora o nú mero de solicitações tenha caído, o percentual de patentes dep ositadas por não residentes ainda foi superior ao de res identes, em torno de 79% de um total 25.658 pedidos de patentes de invenção.
+Os investimentos desses depos itantes estrangeiros no Brasil f azem com que aumente a difusão tecnológica, promova a economia local e ainda reflita em investimentos de pessoas e ideias, de acordo com Plonski (2005).
+Dentre esses depositantes estrangeiros, destacam -se as empresas multinacionais, as quais mais depositam patentes no Brasil, de acordo com o estudo de Cent urión e Quintella (2015).
+Os autores apontam que ainda é pequeno o interesse das empresas brasileiras em proteger seus inventos aqui.
+Isso, para Cornell Unive rsity, INSEAD e a World Intellectual Property O rganization (2017), só reforça a ideia de que o Brasil precisa ampliar a cooperação regional em P&D e inovação, para que possa estimular sua retomada econômica.
+Soares, Torkomian, Nagano e Moreira (2016) compl ementam, afirmando que o país tem crescido em n úmero de pedidos de patentes depositados.
+No entanto, o a umento nesses índices não representa os esforços naci onais para a promoção da ciência, tecnologia e inovação.
+No levantamento dos dados sobre depósitos de patentes no Brasil, faz -se necessária a disc ussão sobre patentes 62 Moura , Ana Maria Mielniczuk de ; Gabriel Junior , Rene Faustino ; Magnus , Ana Paula Medeiros ; Bochi , Fernanda dos Santos ; Scartassini , Verônica Barboza .
+Panorama das patentes depositadas no brasil: uma análise a partir dos maiores depositantes de patentes na base Derwent Innovations Index // Brazilian Journal of Information Studies: Research Trends.
+ISSN 1981 -1640. oriundas das universidades brasileiras — muitas delas de caráter público.
+Mueller e Perucchi (2014) apontam que o número de depósitos de patentes brasileiras tem aumentado gradativamente ao longo dos anos, porém ainda há presença super ior de patentes provenientes de empresas, se compararmos às patentes depositadas por universidades.
+As autoras discorrem que esse fenôm eno ocorre porque muitas organizações estrangeiras depositam suas invenções no país, e, por ser um núm ero elevado, esses depósitos se sobressaem aos das un iversidades.
+Por isso, o governo brasileiro vem realizando medidas para o incentivo do depósito de patentes, o que tem ampliado o número de patentes universitárias.
+Entre as medidas, estão as aprovações da Lei de Inovação (Lei nº 10.973/2004), Lei do Bem (Lei nº 11.196/2005) e Lei do Marco Legal de Ciência, Tecnologia e Inovação (Lei nº 13.243/2016), que apoiam o incentivo científ ico-tecnológico, e a parceria entre empresas e univers idades (Póvoa, 2010; Mueller e Perucchi, 2014).
+3 Metodologia O presente trabalho trata -se de um estudo patentom étrico que utiliza abordagem quantitativa e descritiva para a análise dos resultados encontrados.
+A coleta dos dados foi realizada na base de dados DII, no período de 13 a 22 de março d e 2017, recuperando todas as patentes que foram depositadas no Brasil e conte mplando os depositantes residentes e não residentes, no período entre 2004 e 2016.
+A DII é uma base de dados de patentes de propriedade da empresa Clarivate Analytics e que pode s er acess ada, mediante assinatura, pelo Portal de Periódicos da CAPES.
+Atualmente, é considerada uma das mais abrangentes fontes de informações sobre patentes, tendo seu uso consolidado em estudos métricos da informação para análises de indicadores em C&T (Consoni, 2017; Ferreira, 2012; Ferreira, 2015; Mar icato, 2010).
+A base foi escolhida como instrumento de coleta dos dados, por possuir um amplo potencial de recuperação de informações e documentos indexados de 47 escritórios de patentes e do escritório da Organ ização Mundial de Propriedade Intelectual (Consoni, 2017).
+Para realizar a identificação das patentes na DII, util izou-se a pesquisa avançada, empregando a expressão de busca: PN=BR*, em que "PN" corresponde ao n úmero da patente, e "BR" é o prefixo do país com pri oridade de depósito da patente.
+O recurso de truncagem (*) foi utilizado para recuperar todos os registros da base que contivessem o prefixo BR.
+O período selec ionado para a pesquisa justifica -se pela Lei nº 10.973, que entrou em vigor no ano de 2004 e dispõe sobre incentivos para a pesquisa científica e tecnológica e inovação no ambiente produtivo (Brasil, 2004).
+Para a delimitação temporal, a busca foi realizada através do campo GA (número de acesso primário na DII), que se refere à data em q ue uma patente passou a ter acesso público.
+Do resultado da busca, formou -se um corpus de 208.064 registros de patentes, que teve seus metadados desmembrados, gerando uma tabela com mais de 1,6 milhão de registros exportados para uma base MySQL criada com a finalidade de possibilitar identificação seletiva de registros e realizar as análises estatísticas que compõem o estudo.
+O uso do MySQL justifica -se por sua facilidade em processar um grande volume de dados.
+Com o desmembramento, foram analisados: o camp o AE, referente aos depositantes das patentes; o campo IP, que registra as diversas classificações de assunto atribuídas à patente; e o campo GA, para as análises temporais.
+A base DII (2018) apresenta uma codificação sobre os nomes de depositantes de pate ntes.
+Pela notação final do nome do depositante, consegue -se perceber se ele é uma pessoa física ou jurídica, além de uma empresa padronizada ou não.
+Segundo a base, essas empresas depositam regularmente um volume considerável de documentos de patentes.
+A DII atribui um código de quatro letras exclusivo para aproximadamente 21.000 empresas de todo o mundo, conforme os exemplos: a) ABCD -C (empresa padrão); b) ABCD -N não padrão; c) ABCD -R instituto soviético; d) ABCD -I individual.
+Os dados dos nomes dos depositantes fora m export ados do MySQL para uma planilha no Excel, e a padr onização dos nomes das instituições foi realizada no Thesa, que é um software livre e utilizado para criar tesauros, vocabulários e controle de autoridades (G abriel Junior e Laipelt, 2017), possibil itando a substitu ição automática das variações dos nomes das institu ições por um preferencial.
+As análises de temporalid ade, a frequência de assuntos, a verificação dos p edidos prioritários e secundários também foram realiz adas no Excel.
+Para gerar os gráf icos de relação, foi utilizado o software Vosviewer.
+Os dados da pesquisa estão arm azenados junto ao Laboratório de Dados de Pesquisa, Centro de Documentação e Acervo Digital da Pesquisa (CEDAP -UFRGS) e dentro do grupo de pesquisa em Patentes – Núcleo de E studos e Ciência, Inovação e Tecnologia (NECIT), do qual os autores fazem parte.
+4 Resultados O número total de registros, entre os anos de 2004 e 2016, de todos os depositantes, residentes e não res identes, somam um total de 298.546.
+A seguir, no Gr áfico 1, verifica -se a temporalidade dos registros rec uperados.
+63 Moura , Ana Maria Mielniczuk de ; Gabriel Junior , Rene Faustino ; Magnus , Ana Paula Medeiros ; Bochi , Fernanda dos Santos ; Scartassini , Verônica Barboza .
+Panorama das patentes depositadas no brasil: uma análise a partir dos maiores depositantes de patentes na base Derwent Innovations Index // Brazilian Journal of Information Studies: Research Trends.
+Período de depósito das patentes conced idas no Brasil, no período de 2004 a 2016, indexadas na DII Percebe -se que, a partir do ano de 2004 — ano em que entra em vigor a Lei nº 10.973 (Lei de Inovação), que dispõe de incentivos à inovação científica tecnológica no Brasil — até o ano de 2010, houve uma resposta à iniciativa legal representada no aumento do número de depósitos no Brasil.
+Apesar dessa iniciativa, o número de depósitos, em 2011, entrou em fase decrescente até o final do período estudado.
+Observa -se que boa parte das patentes depositadas no Brasil, nesse período, é oriunda de escritórios estra ngeiros.
+Os escritórios de depósito das patentes com extens ão "BR", arrolados na Figura 1 (ver APÊNDICE A), identificam os países dos escritórios que optaram por depositar as patentes no Brasil, prioritariamente.
+Destaca -se que o nó WO (WIPO) se constitui como central dos depósitos no Brasil, ou seja, a maior part e dos depósitos brasileiros (residentes ou não residentes) é originária desse escritório.
+Existem depositantes brasileiros que optam por efetuar pedido de patentes apenas na WIPO por meio da via PCT (Scartassini, et.
+Com elementos menos influen tes na rede, mas ainda assim destacados, estão os escritórios norte -americano, representado pelo nó US, e o Europeu de Patentes, nó EP.
+O INPI, nó BR, não se configura como um nó influente na rede, apesar de o fato da coleta dos dados da pesquisa ter sido realizada pela sigla BR no campo do registro da patente.
+Soares, Torkomian, Nagano e Moreira (2016) apontam que o depósito na via PCT é muito mais comum por depositantes estrangeiros do que propriamente pelos brasileiros.
+Constata -se um grande número de pa tentes depositadas via PCT (WO).
+Essa opção de depósito vem crescendo, pois é considerada uma das vias mais rápidas para a obtenção dos direitos de uma patente.
+Outra consideração importante a ser feita é a de que existe uma demora mais acentuada na conces são de pedidos no Brasil do que em outros países, o que faz com que muitos inventores residentes optem por dep ositar seus trabalhos em outros escritórios além do I NPI, conforme Gouveia (2007).
+Na Tabela I, é possível verificar os depositantes que mais real izaram depósitos de patentes no Brasil, no período pesquisado.
+A tabela é formada por empresas de diferentes setores da economia, como farmácia, química, eletrônica, compostos agrícolas, materiais de cuidados pessoais, automotivos e tecnologia da info rmaçã o. Depositantes Total de Patentes Unilever 4.541 BASF 4.035 Johnson & Johnson 3.953 Bayer 3.771 European Aeronautic Defence and Space Company 3.207 Roche Diagnostics Corporation 3.164 3M Innovative Properties Co mpany 2.521 Novartis 2.444 DuPont 2.409 Procter & Gamble 2.274 Schlumberger Technology 2.263 Qualcomm 2.223 Dow Global Technologies 2.207 Thomson Licensing 2.050 Philips Electronics 2.002 Sanofi 1.961 Michelin 1.946 Siemens 1.870 General Electric 1.817 Microsoft 1.779 Demais empr esas 246.109 Total 298.546 Tabela I .
+Maiores depositantes de patentes no Brasil, no período de 2004 a 2016, na base DII O total de patentes depositadas pelos 20 maiores dep ositantes foi de 52.437.
+Desses destacados, todos são empresas multinacionais, sen do a Unilever de maior destaque, com aproximadamente 9% do total de dep ósito de patentes das empresas estudadas.
+Trata -se de 64 Moura , Ana Maria Mielniczuk de ; Gabriel Junior , Rene Faustino ; Magnus , Ana Paula Medeiros ; Bochi , Fernanda dos Santos ; Scartassini , Verônica Barboza .
+Panorama das patentes depositadas no brasil: uma análise a partir dos maiores depositantes de patentes na base Derwent Innovations Index // Brazilian Journal of Information Studies: Research Trends.
+ISSN 1981 -1640. uma empresa que possui mais de 400 marcas, atuando em diferentes segmentos do mercado, como higiene, limpeza e alimentos (Unilever, 2019).
+Nota -se que, além da Unilever, a Procter & Gamble, sua concorre nte direta, encontra -se em 10° lugar no ranking.
+A BASF (Badische Anilin & Soda Fabrik), que apar ece em segundo lugar como depositante de patentes, com um total de 4.035 depósitos, atua no ramo do setor químico.
+É uma empresa de origem alemã e com sede em diversos países do mundo, também consider ada mundialmente uma das maiores empresas nesse setor, aliando pesquisas de química com questões su stentáveis.
+Realiza estudos com plásticos, ól eo e gás (Badische Anilin & Soda Fabrik, 2018).
+Outra empresa que se destaca no estudo e ocupa a terceira posição de empresa que mais deposita patente é a Johnson & Johnson, com 3.953 depósitos.
+Trata -se de uma empresa norte -americana que atua no setor de saúde, cuidados pessoais e farmacêuticos, há mais de 130 anos (Johnson & Johnson, 2018).
+Além disso, nota -se uma forte contribuição de patentes na área voltada ao desenvolvimento de novas tecnol ogias eletrônicas, evidenciando grandes marcas, como Philips E lectronics, marca holandesa de eletroeletrôn icos, e Siemens, alemã que investe seus recursos em tecnologia e inovação.
+O estudo ainda destaca que as multinacionais são as que mais depositam patentes no Brasil, o que ratifica o estudo de Centurión e Quintel la (2015), de que ainda é pequeno o interesse das empresas brasileiras em prot eger seus inventos .
+Para Cornell University, INSEAD, World Intellectual Property Organization (2017), isso só reforça a ideia de que o Brasil precisa ampliar a cooperação region al em P&D e Inovação, para que possa estimular sua economia.
+Ressalta -se a ausência de empresas nacionais e de universidades na tabela, demonstrando que a produção tecnológica das empr esas multinacionais é ainda superior à produtividade nacional, apesar do s incentivos governamentais, por exemplo, com a promulgação da Lei nº 13.243/2016, para melhorar os indicadores em C&T brasileiros em âmbito nacional e internacional.
+Na Tabela II, estão representados os assuntos com maior ocorrência encontrados no estudo.
+A tabela traz o código CIP (Classificação Internacional de Patentes) e a que ele se refere.
+Cabe ressaltar que a atribuição do código CIP é realizada pelo inventor (no momento em que preenche a documentação para o pedido da pate nte) e pelo examinador da p atente (no momento em que examina as informações do documento depositado), sendo que, em um único documento, pode existir mais de uma classificação agregada àquela invenção.
+A partir da Figura 2 (ver APÊNDICE A), decorrente da Tabela 1, é possível identifi car que existe correl ação entre os assuntos das patentes depositadas.
+Isso porque um documento de patente pode possuir mais de um código de CIP e nem sempre os códigos atribuídos pertencem à mesma classe.
+A formação de cluster apresenta os códigos que mais foram utilizados na classificação das patentes.
+Código Assunto Número de oco rrências % A61 Ciência Médica ou Veterin ária e Higiene (A61K, A61P, A61F) 59.615 10,60 C07 Química Orgânica (C07D, C07C, C07K) 28.365 5,04 H04 Técnica de Comunicação Elétrica ( H04L, H04B, H04W) 19.635 3,49 B01 Processos ou aparelhos fís icos ou químicos em geral (B01J, B01D) 11.696 2,08 G06F Processamento elétrico de dados digitais 11.178 1,99 B65D Recipientes para armazen amento ou transporte de art igos ou materiais 8.686 1,54 C12N Micro -organismos ou enz imas; suas composições 8.632 1,54 A01N Conservação de corpos de seres humanos ou animais ou plantas ou partes dos mesmos 7.668 1,36 B32B Produtos em camadas, em forma celular ou alveolar 7.451 1,33 G01N Investigação ou anál ise dos materiais pela determinação de suas propriedades quím icas ou físicas 7.006 1,25 C08L Composições de compostos macromoleculares 6.837 1,22 B29C Moldagem ou união de mat érias plásticas 5.734 1,02 Demais - 379.784 67,54 TOTAL - 562.287 100,00 Tabela II .
+Principais códigos de assuntos encontrados nas patentes depositadas pelos maiores depositantes de patentes no Brasil, no período de 2004 a 2016, index adas na DII O cluster no canto direito da figura, representado pela cor azul marinho, apresenta o s códigos A61K, C12N E A01N, que representam, respectivamente, os assuntos: "preparações para finalidades médicas, odontológicas ou higiênicas" (A61K), com 30.670 ocorrências; "m icro-organismos ou enzimas; suas composições" (C12N), com 8.632 ocorrências; e "conservação de corpos de seres humanos ou animais ou plantas ou partes dos mesmos (preservação de alimentos ou pr odutos alimentícios A23)" (A01N), com 7.668 ocorrê ncias.
+Esses assuntos estão relacionados à indústria farmacêutica e sua composição de reméd ios e vacinas, mas também se relacionam com o setor agrícola no desenvolvimento de agrotóxicos.
+65 Moura , Ana Maria Mielniczuk de ; Gabriel Junior , Rene Faustino ; Magnus , Ana Paula Medeiros ; Bochi , Fernanda dos Santos ; Scartassini , Verônica Barboza .
+Panorama das patentes depositadas no brasil: uma análise a partir dos maiores depositantes de patentes na base Derwent Innovations Index // Brazilian Journal of Information Studies: Research Trends.
+Na parte inferior esquerda do gráfico, representada pela cor verde, observa -se outro cluster com destaque na rede formada pelos códigos G06F e H04L, referidos aos assuntos: "processamento elétrico de dados digitais (sistemas de computadores baseados em modelos computacionais específicos)", com 11.178 ocorrências; e "transmissão de informação digital, p. Ex.
+Comun icação telegráfica (disposições comuns às comunic ações telegráficas e telefônicas H04M)", com 7.980 ocorrências, respectivamente.
+Esse cluster apresenta também outros códigos em sua formação, mas que são sobrescritos pelos já apresentados.
+Verifica -se que os assuntos mencionados se referem ao aspecto tecno lógico de aparelhos de comunicação e de informática.
+Na parte central da rede, é possível distinguir três clu sters que se inter -relacionam, representados pelos cód igos B01J na cor rosa, C08L na cor roxa e B65D na cor marrom.
+Os assuntos: "composições de co mpostos macromoleculares (composições baseadas em mon ômeros polimerizáveis C08F, C08G; filamentos ou f ibras artificiais D01f; composições para o tratamento de têxteis D06)" referem -se ao código C08L, com 6.837 ocorrências; "processos químicos ou físicos, p .
+Catálise ou química coloidal; aparelhos pertinentes aos mesmos" ao código B01J, com 5.978 ocorrências; e "recipientes para armazenamento ou transporte de artigos ou materiais" ao código B65D, com 8.686 ocorrências.
+Os códigos apresentados estão relac ionados a invenções que preveem aperfeiçoamento de e mbalagens de produtos, de uma maneira geral.
+Isso just ificaria a posição desses clusters na parte central do gráfico, relacionando -se uns com os outros e cone ctando outros grupos, devido à constante neces sidade de aperfeiçoamentos dos meios de armazenamento, co nservação e transporte de produtos em diferentes se gmentos englobando medicamentos, alimentos e prod utos de perfumaria.
+4 Conclusão Observou -se uma predominância de empresas voltadas à área de saúde, higiene e medicamentos e à área de tecnologia da informação e eletrônica, interessadas em depositar suas patentes no Brasil e que dominam o registro de patentes a nível mundial.
+Ressalta -se que os 20 principais depositantes são empresas multinaci onais.
+Ve rificando a temporalidade dos registros, abra ngido pelo início da Lei de Inovação no país, percebeuse que os depósitos realizados ocorreram de uma m aneira estável até o ano de 2010.
+Nos anos seguintes, o número de registros depositados sofreu um declínio.
+Constatou -se que houve uma predominância nas pe squisas nas áreas de medicamentos e assuntos relaci onados a compostos orgânicos (A61K, C12N, A01N); fabricação e desenvolvimento de sistemas eletrônicos e de informática (G06F, H04L); engenharia de materiais no desenvolvimento de recipientes para transporte, conservação e armazenamento de produtos de origem orgânica e inorgânica.
+Para outros estudos, sugere -se uma melhor compree nsão e percepção da colaboração dessas empresas no campo científico e tecnológico n o país, a partir do aprofundamento na interação universidade -empresa, verificando a ocorrência da Hélice Tripla (governoempresa -universidade), observando se há algum dir ecionamento para a participação dessas empresas na realização de pesquisas desenvolvid as no Brasil.
+Sug ere-se, também, estudos que relacionem a temporalid ade das patentes com o assunto de depósito.
+Neste est udo, não foi possível explorar essa relação devido à busca ter sido realizada pelo campo GA, que represe nta a data de indexação da pate nte na base DII, e não a data do documento.
+Essa diferença poderia gerar i nconsistências nos resultados.
+Refer ências Ávila -Robinson, A.; Sengoku, S. (2017).
+Tracing the knowledgebuilding dynamics in new stem cell technologies through technoscientific ne tworks.
+Barbieri, J. C.; Álvares, A. C. T. (2005).
+Estratégia de patenteamento e licenciamento de tecnologia: conceitos e estudo de caso.
+// R evista Brasileira de Gestão de Negócios.
+Badische An ilin & Soda Fabrik (2018).
+Ministério da Ciência, Tecnologia, Inovações e Comunic ações (2018).
+Comparações internacionais: recursos aplicados, 2018. r/mctic/opencms/indicadores/detalhe/co mparacoesInternaconais/8.1.2.html (08 -11-2018).
+Ministério da Indústria Comércio Exterior e Serviços.
+Instit uto Nacional de Propriedade Industrial (2015).
+Manual para o d epositante de patentes.
+-servicos/patente/arquivos/manualpara-o-depositante -de-patentes.pdf (18 -06-2018).
+Lei n° 10.973, de 2 de dezembro de 2004.
+Lei nº 11.196, de 21 de novembro de 2005.
+Lei nº 13.243, de 11 de janeiro de 2016.
+016/Lei/L13243.htm (01 -06-2019) Bufrem, L.; Silveira, M.; Freitas, J. L. (2018).
+Políticas de Ciência, Tecnologia e Inovação no Brasil: panorama histórico e conte mporâneo.
+Centurión, W. C.; Quintella, R. H. (2015).
+Paten tes como parte integrante das estratégias de inovação nas empresas inovadoras da rede Petrogas/ SE.
+// Anais do 16º Congresso LatinoIberoamericano de Gestão da Tecnologia.
+Chaimovich, H.; Melcop, P. D. (2007).
+Notas preliminares sobre financiamento à pesquisa no Brasil.
+Chang, Y.; Yang, H.; Huang, M. (2017).
+Interaction between science and technology in the field of fuel cells based on pa tent paper analysis.
+66 Moura , Ana Maria Mielniczuk de ; Gabriel Junior , Rene Faustino ; Magnus , Ana Paula Medeiros ; Bochi , Fernanda dos Santos ; Scartassini , Verônica Barboza .
+Panorama das patentes depositadas no brasil: uma análise a partir dos maiores depositantes de patentes na base Derwent Innovations Index // Brazilian Journal of Information Studies: Research Trends.
+Produção tecnológica em biodiesel: análise das características dos depósitos de patentes indexadas na De rwent Innovations Index entre 1983 e 2015.
+Porto Alegre: Universidade Federal do Rio Grande do Sul, 2017.
+Cornell University, INSEAD, World Intellectual Property Organiz ation (2017).
+The Global Innovation Index 2017: innovation Feeding the World, Ithaca, Fontainebleau, and Geneva.
+ex.org/gii -2017 -report (08 -012019).
+Derwent Innovations Index (2018).
+Disponível em: R/DII/hs_assignee_name.html (31 -10-2018).
+Uma breve análise do financiamento da pesq uisa no Brasil.
+-breve -analise -dofinanciamento -da-pesquisa -no-brasil (28 -05-2018).
+O vínculo entre documentos de patentes e a informação obtida em periódicos científi cos: estudo aplicado à área câncer de mama.
+Rio de Janeiro: Universidade Fed eral do Rio de Janeiro, 2012.
+Análise da produção científica e tecnol ógica do Programa de Pós -Graduação em Ciências Farmacêuticas da UFPE.
+Recife: Universidade Federal de Pernambuco, 2015.
+Gabriel Junior , R. F.; Laipelt, R. C. F. (2017).
+Thesa: ferramenta para construção de tesauro semântico aplicado interoperável.
+Inovação e patentes : o tempo de maturação no Brasil.
+8-23942007000300012&lng=en&nrm=iso (08 -01-2019).
+2018. about -jnj (17 -12-2018).
+Indicadores de desempenho, ciência brasileira e a cobertura das bases informacionais.
+Dinâmica das relações entre Ciência e Tecn ologia: estudo bibliométrico e cientométrico de múltiplos indic adores de artigos e patentes em biodiesel.
+São Paulo: Universid ade de São Paulo, 2010.
+Morais, S. M. P.; Garcia, J. C. R. (2012).
+Inovação tecnológica em publicações brasileiras da ciência da informação.
+// Anais do 13º Encontro Nacional de Pesquisa em Ciência Da Informação.
+Moura, A.M. M.; Scartassini, V. B.
+Depósito de patentes no estado do Rio Grande do Sul: uma abordagem patentométrica.
+Mueller, S. P. M.; Perucchi, V. (2014).
+Universidades e a produção de patentes: tópicos de interesse para o estudioso da informação tecnológica.
+// Perspectivas em Ciência da Informação.
+Patra, S. K.; Muchie, M. (2018).
+Research and innovation in South African universities: From the triple helix's perspective.
+Pavanelli, M. P.; Oliveira, E. F. T. (2016).
+Registro de patentes das universidades brasileiras em bases internacionais.
+// Anais do 17º Encontro Nac ional de Pesquisa em Ciência da Informação.
+Bases para um movimento pela inovação tecnológica no Brasil.
+A universidade deve patentear s uas inve nções?
+// Revista Brasileira de Inovação.
+Insights from a semiconductor industry.
+Rocha, E. M. P.; Ferreira, M. A. T. (2004).
+Indicadores de ciência, tecnologia e inovação: mensuração dos sistemas de CT&I nos estados brasileiros.
+Scartassini, V. B.; Bochi, F. S.; Gabriel Junior, R. F.; Moura, A. M. M. (2018) Estudo patentométrico das patentes brasile iras na via PCT.
+// Anais do 18º Encontro Nacional de Pesquisa em Ciência Da Informação.
+Pesquisa universitária e inovação no Brasil.
+// In: Avaliação de políticas de ciência, tecnologia e inovação: diálogo entre experiências internacionais e brasileiras.
+Brasília: Centro de Gestão e Estudos Estratégicos, (2008).
+Soares, T. J. C. C.; Torkomian, A. L. V.; Nagano, M. S.; Moreira, F. G. P. (2016).
+O sistema de inovação brasileiro: uma análise crít ica e reflexões .
+Tijssen, R. J. W.; Winnink, J. J.
+Capturing 'R&D exce llence': Indicators, international statistics, and innovative unive rsities.
+-we-are/introduction -tounilever/ (21 -03-2019).
+World Intellectual Property Organization (2017).
+World Intellectual Property Indicators 2017. f (11 -06-2018).
+World Intellectual Property Organization (2001).
+How multiple networks help in creating knowledge: Evidence from alternative energy patents.
+Yeh, H.; Lo, C.; Chang, K; Chen, S. (2018).
+Using hot patents to explore technological evolution: a case from the orthopaedic field.
+Zhang, Y.; Qian, Y.; Huang, Y.; Guo, Y.; Zhang, G.; Lu, J.
+(2017); An entropy -based indicator system for measuring the potential of patents in technological innovation: rejecting moderation.
+Moura, Gabriel Junior , Bochi, Scartassini.
+This is an open -access article distribu ted under the terms of the Creative Com mons CC Attrib ution-ShareAlike (CC BY -SA), which permits use, di stribution, and reprodu ction in any medium, u nder the identical terms, and provided the orig inal author and source are credited.
+Accepted: 2019 -06-17 Apêndices Apêndice A 67 Moura , Ana Maria Mielniczuk de ; Gabriel Junior , Rene Faustino ; Magnus , Ana Paula Medeiros ; Bochi , Fernanda dos Santos ; Scartassini , Verônica Barboza .
+Panorama das patentes depositadas no brasil: uma análise a partir dos maiores depositantes de patentes na base Derwent Innovations Index // Brazilian Journal of Information Studies: Research Trends.
+Países dos Escritórios que depositaram patentes no Brasil no período de 2004 a 2016, indexadas na DII.
+As cores i ndicam os principais agrupamentos (clusters) Fonte: dados da pesquisa 68 Moura , Ana Maria Mielniczuk de ; Gabriel Junior , Rene Faustino ; Magnus , Ana Paula Medeiros ; Bochi , Fernanda dos Santos ; Scartassini , Verônica Barboza .
+Panorama das patentes depositadas no brasil: uma análise a partir dos maiores depositantes de patentes na base Derwent Innovations Index // Brazilian Journal of Information Studies: Research Trends.
+Principais códigos de assuntos encontrados nas patentes depositadas pelos maiores depositantes de patentes no Brasil no p eríodo de 2004 -2016, indexadas na DII.
+As cores indicam os agrupamentos (clusters) dos códigos de assuntos por ocorrência nas patentes.

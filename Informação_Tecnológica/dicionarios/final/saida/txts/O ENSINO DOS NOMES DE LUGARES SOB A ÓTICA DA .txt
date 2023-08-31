@@ -1,0 +1,255 @@
+O ENSINO DOS NOMES DE LUGARES DA PERSPECTIVA DA INOVAÇÃO PEDAGÓGICA: UMA DISCUSSÃO SOBRE UM SOFTWARE TOPONÍMICO Rodrigo Vieira do Nascimento Karylleila dos Santos Andrade Submetido em 07 de junho de 2018.
+Aceito para publicação em 20 de setembro de 2018.
+Cadernos do IL , Porto Alegre, n.º 56, novembro.
+p. 197-212 POLÍTICA DE DIREITO AUTORAL Autores que publicam nesta revista concordam com os seguintes termos: (a) Os autores mantêm o s direitos autorais e concedem à revista o direito de primeira publicação, com o trabalho simultaneamente licenciado sob a Creative Commons Attribution License, permitindo o compartilhamento do trabalho com reconhecimento da autoria do trabalho e publicaçã o inicial nesta revista.
+(b) Os autores têm autorização para assumir contratos adicionais separadamente, para distribuição não exclusiva da versão do trabalho publicada nesta revista (ex.
+: publicar em repositório institucional ou como capítulo de livro), c om reconhecimento de autoria e publicação inicial nesta revista.
+(c) Os autores têm permissão e são estimulados a publicar e distribuir seu trabalho online (ex.
+: em repositórios institucionais ou na sua página pessoal) a qualquer ponto antes ou durante o p rocesso editorial, já que isso pode gerar alterações produtivas, bem como aumentar o impacto e a citação do trabalho publicado.
+(d) Os autores estão conscientes de que a revista não se responsabiliza pela solicitação ou pelo pagamento de direitos autorais referentes às imagens incorporadas ao artigo.
+A obtenção de autorização para a publicação de imagens, de autoria do próprio autor do artigo ou de terceiros, é de responsabilidade do autor.
+Por esta razão, para todos os artigos que contenham imagens, o auto r deve ter uma autorização do uso da imagem, sem qualquer ônus financeiro para os Cadernos do IL.
+_ POLÍTICA DE ACESSO LIVRE Esta revista oferece acesso livre imediato ao seu conteúdo, seguindo o princípio de que disponibilizar gratuitamente o conhecimento científico ao público proporciona sua democratização.
+Quinta -feira, 22 de novembro de 2018.
+198 O ENSINO DOS NOMES DE LUGARES DA PERSPECTIVA DA INOVAÇÃO PEDAGÓGICA: UMA DISCUSSÃO SOBRE UM SOFTWARE TOPONÍMICO THE TEACHING OF PLACE NAMES FROM THE PERSPECTIVE OF PEDAGOGICAL INNOVATION: A DISCUSSION ABOUT A TOPON YMIC SOFTWARE Rodrigo Vieira do Nascimento* Karylleila dos Santos Andrade** RESUMO : Este ensaio tem como objetivo discutir os princípios da inovação pedagógica sob o viés onomástico.
+A proposta do trabalho se vincula ao estudo da Toponímia aplicada ao ensino e consiste em identificar os nomes de lugares à luz da prática pedagógica interdi sciplinar e inovadora, analisando as contribuições dos estudos toponímicos no ensino básico .
+Este estudo visa à apresentação preliminar do Software Toponímico do Tocantins (SISTOP) na perspectiva do conceito de inovação pedagógica .
+Para realizar esta discu ssão, utilizaremos como subsídios teórico -metodológicos os trabalhos de Dick (1990) e Andrade (2010 ; 2012 ; 2013 ), no campo da Toponímia, e os estudos de Saviani (1995) e Correia (1989), no que diz respeito às discussões da inovação pedagógica .
+Os resultado s, em andamento, sugerem que o uso do software, de caráter pedagógico, pode ajudar os professores e alunos da Educação Básica, a fim de ampliar o conhecimento sobre toponímia tocantinense .
+Palavras -chave: nomes de lugares; inovação pedagógica ; Software Toponímico do Tocantins.
+ABSTRACT : This essay aims to discuss the principles of pedagogical innovation from the onomastic perspective.
+The proposal of this paper is linked to the study of Toponymy applied to teaching, which consists of identifying place names according to the interdisciplinary and innovative pedagogical practice, analyzing the contributions of toponymic studies to basic education.
+This study also focuses on the preliminary presentat ion of the Tocantins' Toponymic Software, discussing the concept of pedagogical innovation .
+In order to conduct this discussion, the studies of Dick (1990) and Andrade (2010, 2012, 2013 ), for the Toponymy field, and the studies of Saviani (1995) and Correi a (1989) regarding the discussions of pedagogical innovation will be used at the theoretical -methodological subsidies .
+The results, in progress, suggest that the use of the software, with a pedagogic nature , can assist basic education teachers and students in order to broaden the knowledge about Toponymy in the state of Tocantins.
+Key Words: place names ; pedagogical innovation ; Tocantins ' Topon ymic Software .
+1 Toponímia e inovação pedagógica: breves anotações * Doutorando pelo Programa de Pós -Graduação em Letras: Ensino de Língua e Literatura, da Universidade Federal do Estado do Tocantins (UFT).
+E -mail: rdrgviera@hotmail.com.
+** Doutora em Linguística, Professora Associada do Curso de Teatro e do Programa Pós -Graduação em Letras, campus de Araguaína e campus de Porto Nacion al.
+Bolsista Produtividade do CNPq PQ2.
+199 A língua, como instituição social, reflete o ambiente físico e cultural dos falantes.
+Estudar uma língua implica a identificação de fatos históricos, características físico -geográficas e evidências socioculturais, um resgate de memória coletiva e "uma verdadeira tomada de posse (simbólica ou real) do espaço" (CLAVAL, 2001, p. 189).
+Dentro de uma comunidade, a língua acaba se ajustando à cultura, criando ou se adaptando às novas formas de falar que acompanham quaisquer possíveis mudanças culturais (TITIEV, 1963).
+Lyons (1982, p. 274) afirma que "cada sociedade tem a sua própria cultura e diferentes subgrupos, dentro de uma sociedade, podem ter sua própria subcultura distintiva".
+Assim, sabe -se que determinado grupo social possui características culturais próprias que, inerentemente, influenciam n o seio denominativo, inclusive no processo de nomeação de nomes de lugares.
+Os signos linguísticos ordenam e categorizam o mundo, sendo uma atividade linguística que apreende a realidade.
+Os signos toponímicos (ou topônimos) representam uma projeção aproxi mada do real de um grupo, um universo transparente de valores, poder, códigos e usos convencionais.
+Aprofundar estudos acerca da toponímia é se envolver na complexa teia das diversas áreas do conhecimento quando investigamos os nomes de lugares.
+Os estudos toponímicos, caracterizados pelo seu caráter interdisciplinar, favorecem a aquisição de múltiplos conhecimentos, possibilitando ao sujeito se (re)encontrar com a identidade, história, etimologia do nome, tendo em vista o plano onomasiológico no ato de dar nomes aos lugares.
+A inovação é uma característica predominante dos herdeiros da modernidade.
+Em princípio, tal fato se justifica pelo aparecimento histórico da chamada sociedade da informação e do conhecimento.
+O conceito de inovação, voltado à educação, resultou dos avanços da ciência e da tecnologia, que influenciam no desenvolvimento econômico, social e cultural.
+A esse respeito, a tecnologia digital e suas influências trazem à escola a necessidade da sua incorporação nos processos educativos com a finalidade de inovar o ensino.
+A finalidade deste trabalho é a de proporcionar uma reflexão sobre como as informações socioculturais, históricas, geográficas, antropológicas, ideológicas e etimológicas a respeito dos topônimos (elementos1 físicos e humanos) p odem fomentar e ampliar, do ponto de vista do currículo escolar, o leque de conhecimentos de determinados conteúdos, haja vista que este estudo visa, preliminarmente, à apresentação de uma proposta de aplicação da Toponímia na educação básica , tendo em vista o conceito de inovação pedagógica .
+2 Possíveis relações entre Toponímia e ensino 1 Para este estudo, substituímos o termo " acidente" por " elemento" .
+Na Geografia, as paisagens revelam os elementos presentes no espaço geográfico, como os elementos naturais (clima, vegetação, relevo) e os elementos humanos ou culturais, que são relativos aos aspectos sociais, históricos e culturais do homem (cidades, fazenda, sítio, chácara, escola e outros ou relativos a vultos históricos, profissões, crenças religiosas, etnias etc.).
+Dessa forma, ao analisar um lugar, podemos nos deparar com elementos que formam a paisagem desse lugar: aspectos físicos, humanos e culturais.
+O termo "acidente" pode estar associado a qualquer alteração ou transformação que ocorre sobre a superfície te rrestre e poderia incidir em dúvidas ao longo do processo de investigação ; por isso , achamos conveniente modificar o termo, a fim de facilitar a compreensão.
+200 A Onomasiologia – situada no campo das denominações e designações – se apropria do processo semântico da nomeação e é reconhecida como um amplo campo científico e lingu ístico a estudiosos que se interessam pelas mutações das palavras ou buscam, a partir dos conceitos, os signos linguísticos.
+Neste ínterim, situa -se a Onomástica ou Onomatologia, uma disciplina científica com suas especificidades, taxionomias e metalinguag em.
+Ela se apropria do "estudo da origem e alterações (no sentido e na forma) dos nomes próprios, referindo -se, geralmente, a locais e pessoas" (VASCONCELOS, 1987 apud CARVALHINHOS, 2009, p. 2463).
+Ramos e Bastos (2010, p. 87 -88) asseveram que a origem da Onomástica está relacionada "às primeiras especulações filosóficas sobre o nome e, no Ocidente, está intimamente ligada às tradições gramaticais greco -latinas, uma vez que a distinção entre nome comum e próprio começa a ser elaborada por Dionísio de Trácia , primeiro gramático grego".
+Quanto ao seu tratamento científico, ele se deu no advento do Estruturalismo linguístico , na virada dos séculos XIX e XX, momento em que se privilegiou o enfoque das ciências dos signos, a semiótica ou semiologia, que passou a considerar a Onomástica .
+Sendo uma das ciências que integram a Lexicologia, segundo Ramos e Bastos (2010, p. 2), a onomástica " se constrói a partir do suporte de outros campos do saber, tendo o que, atualmente, se chama de caráter inter - ou ainda transdis ciplinar".
+Por essa razão, essa ciência assume "uma perspectiva capaz de integrar métodos e um número considerável de conhecimentos de campos muito diversos de maneira direta ou vertical e indireta ou horizontal, predominando, contudo, a perspectiva linguí stica, com valoração, em particular, da pesquisa etimológica" (RAMOS; BASTOS, 2010, p. 2).
+Servindo -se dos conhecimentos oriundos da Geografia, da História, da Botânica, da Antropologia e de estudos culturais e linguísticos (terminológicos e dialetológicos ), encontra -se a Toponímia, por trás dos procedimentos denominativos dos lugares.
+Dick (1990, p. 119) assevera que o conceito de Toponímia, aqui compreendida como disciplina com T maiúsculo, envolve o significado etimológico do próprio vocábulo (do grego, topos , "lugar" + onoma , "nome"), qual seja , o estudo dos nomes de lugares ou dos designativos geográficos, em sua bipartimentação: física (rios, córregos, morros, etc.)
+e humana, antrópica ou cultural (aldeias, povoados, cidades, etc.).
+Segundo Andrade (20 10, p. 105), procedente da Onomástica, a Toponímia "deve ser pensada como um complexo linguístico -cultural: um fato do sistema das línguas humanas" e seus trabalhos "articulam saberes linguísticos, geográficos, históricos, biológicos, antropológicos" (SOUS A, 2013, p. 297), pois, o signo toponímico constitui um meio para conhecer os seguintes elementos: A história dos grupos humanos que vivem ou viveram na região; as características físico -geográficas da região; as particularidades socioculturais do povo (o denominador); extratos linguísticos de origem diversa da que é utilizada contemporaneamente, ou mesmo línguas que desapareceram; e as relações estabelecidas entre os agrupamentos humanos e o meio ambiente.
+(SOUSA, 2013, p. 295) Por acreditarmos que os estudos dos nomes de lugares se revestem de particular significado para a compreensão das comunidades e dos povos, o estudo dos nomes de lugares pode possibilitar ao aluno, na multiplicidade de conhecimentos, (re)encontrar, no plano onomasiológico, no ato de dar nomes aos lugares, a etimologia do nome, a identidade, a história, o resgate da memória, a apreensão do modus vivendi de um grupo.
+Além disso, o estudo do nome dos lugares pode contribuir com a promoção da 201 cidadania e o senti mento de pertinência dos indivíduos a sua comunidade ou ainda promover a identidade local.
+2.1 Onoma nos P arâmetros Curriculares Nacionais e nas D iretrizes Curriculares Nacionais O Brasil possui uma união de diversidades socioculturais significativa.
+Os Parâmetros Curriculares Nacionais (PCN) de Geografia, elaborados para orientar os professores na busca de novas abordagens e metodologias, apontam que um dos objetivos de ensino é "conhecer e valorizar a pluralidade do patrimônio sociocultural brasileir o" e "conhecer características fundamentais do Brasil nas dimensões sociais, materiais e culturais como meio para construir progressivamente a noção de identidade nacional e pessoal e o sentimento de pertinência ao país" (BRASIL, 1998, p. 07).
+Conforme o s PCN, espera -se que os alunos construam um repertório de conhecimento sobre a formação do território nacional e [.]
+conheçam características de diferentes paisagens brasileiras, descobrindo a questão da diversidade humana e natural que marca profundament e o Brasil: a concentração e o despovoamento humano de determinadas regiões, as diferenças culturais, assim como as climáticas e sua influência socioambiental, a vegetação e o relevo nas diferentes paisagens, a formação cultural e suas relações socioambien tais (BRASIL, 1998, p. 114).
+O professor deve desenvolver projetos e/ou atividades que trabalhem ou incorporem as heterogeneidades regionais, pois os PCN de Geografia do Ensino Fundamental salientam, por exemplo, que, para o Ensino Fundamental, o professo r pode "buscar um trabalho com as heterogeneidades regionais, sem fragmentar a sua análise geográfica, para discutir como se deu o desenvolvimento desigual das regiões brasileiras dentro de uma visão sociocultural ampla e não apenas econômica" (BRASIL, 199 8, p. 110).
+Mais do que conhecer o espaço geográfico, o essencial é que os alunos percebam que além de um clima, vegetação e relevo, existe uma diversidade cultural, social e histórica riquíssima em nosso país .
+Tudo isso deve ser valorizado dentro de cada especificidade regional.
+Cada elemento deve ser observado, descrito, relacionado, comparado, questionado e interpretado, considerando os diversos aspectos geográficos das paisagens e do território do país (BRASIL, 1998, p. 112).
+Desta forma, depreendemos que o estudo dos PCN indica que o onoma está ligado à questão da identidade.
+Portanto, conhecer e compreender as motivações que levaram à nomeação e às origens da denominação de um local é uma das formas de evidenciar a história de ocupação, os processos migratórios e os aspectos socioculturais de determinada área.
+As Diretrizes Curriculares Nacionais Gerais para Educação Básica (DCN) estabelecem a "base nacional comum, responsável por orientar a organização, a articulação, o desenvolvimento e a avaliação das propostas pedagógicas de todas as redes de ensino brasileiras" (BRASIL, 2013, p. 04).
+Quanto à noção de lugar, as DCN associam a imagem do lugar à relação identitária estabelecida entre o indivíduo e o espaço geográfico vivido, experienciado e conquist ado.
+Ou seja, uma relação que enaltece o sentimento de pertencimento e afetividade entre o lugar, o seu nome e os indivíduos que interagem nesse espaço.
+O lugar, nesse documento, está associado às 202 dimensões ontológicas, isto é, aos aspectos da dominação te rritorial, bem como ao surgimento das identidades e significações para o lugar.
+O lugar não pode ser compreendido sem ser "experienciado" ou vivido, como bem postula Tuan (1979).
+Trata -se de um espaço geográfico -cultural de uso coletivo que, segundo as DC N, é caracterizado como necessidade "econômica e social, de necessidade cultural e política" do ser humano (BRASIL, 2013, p. 440).
+Nas palavras de Leite (1991, p. 31), supõe "tradição histórica e cultural construída através dos tempos".
+Desta forma, as DCN enfatizam, por intermédio das considerações de Milton Santos (2007), que é impossível "imaginar uma cidadania concreta que prescinda do componente territorial, já que o valor do indivíduo depende, em larga escala, do lugar em que está" (BRASIL, 2013, p. 4 39).
+O lugar passa a ser "o conceito -chave mais relevante, enquanto o espaço que adquire, para muitos autores, o significado de espaço vivido" ( CORREI A, 1991, p. 15).
+Nota -se que esses documentos têm em comum as relações subjetivas estabelecidas entre o homem e o seu meio e, desse modo, compreendem que "o conceito de lugar nasce das experiências e refere -se à afetividade que homem cultiva, a partir da convivência, pelo espaço em que habita" (SANTOS, 2010, p. 38).
+Assim, os estudos dos nomes de lugares deve m ser encarados como um instrumento de (re)posição cultural e de preservação de identidade, além de representarem toda simbologia histórico -cultural dos lugares e pessoas, já que os nomes de lugares "sugerem um movimento de aglutinação de múltiplos aspecto s sociohistóricos, culturais, geográficos e linguísticos" (ANDRADE, 2012, p. 214).
+Segundo Nunes (2015), o ensino dos nomes de lugares pode enaltecer o sentimento de pertencimento e a valorização do lugar, evidenciar os aspectos da trajetória do homem em determinado território e revelar dados importantes em relação à história dos grupos humanos.
+Além disso, possibilita o resgate de informações acerca da trajetória das comunidades que habitaram e/ou habitam determinada região, como características dos momen tos históricos vivenciados por esses grupos.
+3 Conceito de inovação pedagógica, as potencialidades das tecnologias da informação e a comunicação e o ensino A educação contemporânea deve ser construída em prol da proposição do conhecimento globalizante, transgressivo e integrador, pois a nova dinâmica planetária incide sobre o paradigma educacional emergente: em mudanças culturais e no saber, apresentando "desafios de reconfiguração e reorganização dos conhecimentos".
+Trata -se de a bandonar as antigas lentes e garantir novos olhares, posturas e percepções ; em suma, é uma mudança "ontológica".
+Essa atitude somente será possível quando tivermos "[.]
+uma nova visão de mundo" (MORAES, 2011, p. 20), quando, enfim, abandonarmos os paradi gmas tradicionais.
+Diante disso, como pensar a formação das novas gerações quando certas escolas ainda veneram o método positivista e resistem às exigências da atualidade?
+Parte -se, aqui, do pressuposto de que "a escola contemporânea precisa ser problemati zadora, desafiadora, agregadora de indivíduos pensantes, que constroem conhecimento colaborativamente e de maneira crítica" (FREIRE, 2011, p. 73).
+Neste sentido, é salutar afirmar que a "sociedade pede uma escola eficaz e inovadora" (GARCIA, 1995, p. 7), 203 uma vez que as pedagogias inovadoras podem ser denominadas como "verdadeira indústria da mudança" (CORREIA, 1989).
+As inovações pedagógicas desafiam as práxis educativas, o modo de pensar e de agir na educação.
+A inovação é concebida "como um conjunto de intervenções, decisões e processos que, com certo grau de intencionalidade e sistematização, tratam de alterar atitudes, culturas, ideias, conteúdos, modelos e práticas pedagógicas" (FERNANDES; BLENGINI, 2012, p. 31).
+Segundo Carbonell (2002), a inovação se refere à criação de projetos que busque transformar a escola em um espaço mais democrático, atrativo e estimulante.
+A inovação pedagógica não deve ser tão so mente encarada como sinônimo de inovação tecno lógica, mas contemplada como "uma ação concreta, pontual, física ou virtual, localizada num contexto de aprendizagem relativamente incomum, envolvendo aprendizes e professores, agentes do processo de mudanças" (CANDIDO; SILVEIRA, 2014, p. 90).
+Conforme Fino ( 2009 apud CANDIDO; SILVEIRA, 2014, p. 90), o termo "inovação pedagógica" implica em mudanças, em um salto qualitativo nas práticas pedagógicas, envolvendo um po sicionamento crítico, explícito, ou, ainda, uma ruptura paradigmática e/ ou uma descontinuidade ante as práticas pedagógicas tradicionais prevalentes nas culturas dos con textos de ensino .
+Trata -se, portanto, de uma mudança que deve começar primeiro em nós mesmos, ensinando -nos a abrir e não trancar noss as ideias e pensamentos prematuramente à novidade, ao surpreendente ou ao aparentemente radical e a repelir os assassinos de ideias que chacinam qualquer nova sugestão, alegando sua impraticabilidade (TOFFLER, 1970 apud CANDIDO; SILVEIRA, 2014, p. 90).
+O conceito de inovação, voltado à educação, refere -se não necessariamente à criação de algo novo, de ideia que ainda não foi pensada ou se restringe às inovações tecnológicas.
+Seu conceito, no âmbito educacional, perpassa, sobretudo, o sentido de invenção e d escoberta.
+A inovação educacional passa a ser entendida como "colocar a educação a serviço de novas finalidades, vale dizer, a serviço da mudança estrutural da sociedade" (SAVIANI, 1995, p. 26).
+Seja qual for a referência à inovação no âmbito do ensino -aprendizagem, explícita ou implicitamente, devemos "questionar o objetivo da ação educativa proposta no sentido de buscar novos meios que possam se adequar às novas finalidades da educação" (ANDRADE, 2013, p. 2).
+Ainda conforme Saviani (1995), e partindo do modelo de ensino tradicional, a inovação, nesta discussão, está associada à proposição da manutenção da instituição escolar e das finalidades de ensino.
+Em relação a isso, Andrade e Ribeiro (2014, p. 346) destacam que se trata de "conduzir um processo de provocações para que os métodos possam ser substancialmente alterados, transformados, reinventados, redimensionados" Associamos, então, o conceito de inovação às novas maneiras de pensar, a olhar os fenômenos e objetos de forma diferente, a pressupor algo agregador e a mudanças ontológicas que visam uma perspectiva positiva para as práticas educacionais.
+A ação de inovar, portanto, não deve ser compreendida como simples modernização da escola, como a introdução de modernos computadores ou a criação de eleva dores.
+Refere -se à implantação de projetos que almejem converter a escola "em um espaço mais democrático, atrativo e estimulante" (CARBONEL, 2002 apud FERNANDES; BLENGINI, 2012, p. 31).
+As Tecnologias da Informação e Comunicação (TIC) estão presentes em diversas áreas e setores do século XXI, como no espaço político, nos elos familiares e 204 afetivos, nas atividades agrícolas, nas produções industriais, nas modalidades de consumo e nas relaç ões econômicas (de modo geral), entre outras esferas.
+Percebe -se que a sociedade contemporânea vislumbra as TIC como fator que impulsiona determinadas potencialidades.
+Os PCN sinalizam que as TIC permeiam o cotidiano, independentemente do espaço físico, e criam necessidades de vida e convivência que precisam ser analisadas no espaço escolar.
+Cabe à escola "o esclarecimento das relações existentes, a indagação de suas fontes, a consciência de sua existência, o reconhecimento de suas possibilidades, a democra tização de seus usos" (BRASIL, 2000, p. 12).
+As demandas atuais exigem que a escola ofereça aos alunos, no entendimento dos PCN, sólida formação cultural e competência técnica, favorecendo o desenvolvimento de conhecimentos, habilidades e atitudes que p ermitam a adaptação e a permanênc ia no mercado de trabalho, [.]
+e a formação de cidadãos críticos e reflexivos, que possam exercer sua cidadania ajudando na construção de uma sociedade mais justa, fazendo surgir uma nova consciência individual e coletiva , que tenha a cooperação, a solidariedade, a tolerância e a igualdade como pilares (BRASIL, 1998, p. 138).
+Os PCN reconhecem que essas tecnologias contemporâneas afetam os sistemas e práticas educacionais e orientam que "as propostas didáticas que utiliza m as TIC, como instrumentos de aprendizagem, devem ser complementadas e integradas com outras propostas de ensino" (BRASIL, 1998, p. 153).
+Paralelamente, a incorporação de tecnologias no âmbito educacional pode contribuir para as atividades de ensino e par a o processo de aprendizagem dos alunos, porém, "não substitui o professor e, muito menos, os processos criativos do próprio estudante, na produção de conhecimento" (BRASIL, 1998, p. 155).
+Os PCN defendem que a introdução das TIC nas escolas somente tem se ntido se contribuir, de fato, para a melhoria da qualidade do ensino, pois a "simples presença de tecnologias na escola não é, por si só, garantia de maior qualidade na educação" (BRASIL, 1998, p. 139 -140).
+Os PCN orientam que as tecnologias no ensino dev em ser utilizadas na escola para ampliar as opções de ação didática, com o objetivo de criar ambientes de ensinoaprendizagem que favoreçam a postura crítica, a curiosidade, a observação e análise, a troca de ideias, de forma que o aluno possa ter autonomi a no seu processo de aprendizagem, buscando e ampliando conhecimento.
+Assim, "a tecnologia deve servir para enriquecer o ambiente educacional, propiciando a construção de conhecimentos, por meio de uma atuação ativa, crítica e criativa por parte de alunos e professores" (BRASIL, 1998, p. 140).
+As DCN, igualmente, preconizam que as TIC constituem, assim como o giz e os livros, recursos pedagógicos que podem apoiar e enriquecer o processo de ensinoaprendizagem, ou seja, como qualquer outro recurso educativo, devem ser usadas e adaptadas para servir a fins educacionais.
+As DCN apontam que a escola deve estimular "a busca de metodologias que promovam a melhoria da qualidade do ensino, tais como, o uso intensivo de tecnologias da informação e comunicação" (BRASI L, 2013, p. 190).
+As DCN complementam que a escola deve oportunizar ao aluno o seguinte: Condições para o desenvolvimento da capacidade de busca autônoma do conhecimento e formas de garantir sua apropriação.
+Isso significa ter acesso a diversas fontes, d e condições para buscar e analisar novas referências e novos conhecimentos, de adquirir as habilidades mínimas necessárias à utilização 205 adequada das novas tecnologias da informação e da comunicação, assim como de dominar procedimentos básicos de investigaç ão e de produção de conhecimentos científicos.
+É precisamente no aprender a aprender que deve se centrar o esforço da ação pedagógica, para que, mais que acumular conteúdos, o estudante desenvolva a capacidade de aprender, de pesquisar e de buscar e (re)co nstruir conhecimentos (BRASIL, 2013, p. 181) Atrelado a isso, as DCN sintetizam que a escola, em face das exigências da Educação Básica, precisa ser reinventada e remodelada e precisa priorizar processos capazes de gerar sujeitos " inventivos , participativos, cooperativos, preparados para diversificadas inserções sociais, políticas, culturais, laborais e, ao mesmo tempo, capazes de intervir e problematizar as formas de produção e de vida "; nesta perspectiva, a escola tem, diante de si, "[.]
+o desafi o de sua própria recriação ´[.]"
+Percebe -se, paralelo às orientações e direcionamento dos PCN e das DCN , que, indubitavelmente, existe, na escola contemporânea, uma essencialidade de inovar e criar novas estratégias de aprend izagem.
+Faz -se necessário compreender o ambiente educacional como um espaço de " espaço de reprodução e também de inovação pode contribuir para a construção de teorias pedagógicas alternativas, através das quais as práticas vivenciadas tornam -se a inspiraçã o para a construção de novos conhecimentos" (CUNHA , 2001, p. 43) .
+4 Sistema Toponímico do Tocantins: considerações sobre uma proposta didáticopedagógica O projeto de desenvolvimento de um software toponímico faz parte do Projeto Macro Atlas Toponímico do Tocantins (ATT) , registrado no diretório do Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq), que se propõe a produzir o mapeamento do Estado do ponto de vista da nomeação e da motivação dos designativos coletados em cartas municipai s. Em longo prazo, busca -se a produção e a implementação de um software toponímico no contexto da educação básica .
+A proposta é que o software possa auxiliar a prática pedagógica de professores de Língua Portuguesa, Geografia e História no ensino fundament al (anos finais) e médio quanto aos estudos dos nomes de lugares do estado do Tocantins.
+A ideia do projeto surgiu da necessidade de catalogar as informações referentes aos dados das fichas lexicográfico -toponímic as2 (com aspectos linguísticos , etimologia/origem , taxionomia , localização geográfica , dados demográficos, históricos e socioculturais e fontes históricas , entre outros), dos elementos humanos (nomes de municípios, povoados, distritos, vilas etc.)
+e dos elementos físicos (serras, morros , vales, ilhas, rios, córregos, riachos etc.)
+dos 139 municípios do estado do Tocantins.
+Cadastrado na linha de pesquisa Toponímia e Ensino do grupo de pesquisa ATT, atualmente a proposta de desenvolvimento do software toponímico se encontra em sua terceir a etapa de execução.
+A primeira etapa do projeto , que ocorreu em 2012, é resultado de um projeto de iniciação científica da Universidade Federal do Tocantins (UFT), campus Palmas, realizado e desenvolvido pelo Bacharel em Ciência da Computação Rodrigo Sant iago 2 Segundo Dick (2004) e adaptadas conforme Andrade (2010).
+206 da Costa, sob orientação do Professor Doutor Eduardo Ferreira Ribeiro.
+O objetivo inicial era a criação de um banco de dados para suprir a necessidade de cadastrar e compilar os dados das fichas lexicográfico -toponímicas, produzidas a partir dos traba lhos de iniciação científica de 2007 -2012.
+Em 2013, o grupo de pesquisa buscou aprimorar o banco de informações, no sentido de oferecer ao usuário (pesquisador) um mapeamento mais abrangente da realidade toponímica do Tocantins.
+Com a implantação do Sistema Mapa Toponímico do Tocantins , com integra ção da API (Application Programming Interface ) do Google Maps™, o segundo protótipo do software facilitou a busca de informações e possibilitou maior controle e segurança dos dados no que se refere às fichas lexicográfico -toponímicas.
+O terceiro esboço de software está sendo elaborado com base nos bancos de dados já desenvolvidos.
+A proposta é descrever o léxico toponímico da macrotoponímia do estado em um software, por meio da disponibilização de informações da macro e microtoponímia tocantinense, sejam el as de natureza física ou humana/antropocultural.
+Para essa etapa, estão sendo acrescentadas informações complementares sobre o Tocantins, como dados sobre a sua divisão político -administrativa, comunidades tradicionais, principais bacias hidrográficas e curiosidades e informações sobre lazer e turismo.
+A partir do Software Toponímico do Tocantins (SISTOP ), elaborado pelo programador Rodrigo Santiago da Costa (2014) , percebeu -se a possibilidade de utilizar o banco de dados toponímico na esfera educacional.
+Surgiu , então, em um terceiro momento, a ideia da produção, em longo prazo, devido à fal ta de recursos financeiros para a implementação de um software toponímico no contexto do ensino público do Tocantins.
+A ideia é que o software possa ser utilizado como apoio pedagógico e de letramento digital por professores de Língua Portuguesa, Geografia e História do ensino fundamental (anos finais) e ensino médio .
+A respeito da prática inovadora, tomamos como base teórica a discussão de Saviani (1995, p. 30) quando enfatiza que a inovação educacional deve ser compreendida como "colocar a experiência educacional a serviço de novas finalidades" Por isso, partimos do princípio de repensar e reavaliar, com outros olhares, novas posturas e novos comprometimentos, o estudo dos nomes de lugares nos conteúdos de Geografia do ensino fundamental .
+A ideia de um estudo toponímico mais pedagógico é recente, o que ressalta, ainda mais, o caráter e o viés inovador/criativo da proposta.
+Para isso, propomos uma discussão de inserção no campo prático -metodológico de como esse suporte lógico de dados poderá contribuir no processo, mediação e ampliação de conhecimento acerca das informações a respeito dos elementos urbanos e físicos tocantinenses, especificamente, na educação básica (AND RADE; RIBEIRO, 2014).
+Além de responder aos interesses dos pesquisadores, o foco principal é que o software toponímico possa atender ao ensino.
+Para isso, dois professores de Geografia, participantes do projeto, estão colaborando inteiramente com esta prop osta pedagógica.
+Suas contribuições têm se voltado para os aspectos referentes à aprendizagem ou às propostas curriculares e têm cooperado e auxiliado no planejamento geral do software de cunho educativo.
+Para este protótipo de software toponímico em andam ento, está sendo considerada a estrutura formal do léxico toponímico: a macroestrutura e a microestrutura dos topônimos tocantinenses.
+O ponto de partida são os macrotopônimos e os municípios do estado do Tocantins, pois os signos toponímicos dos 139 munic ípios 207 compõem o léxico onomástico -toponímico municipal de uma microtoponímia do estado , retratando as características peculiares e distintivas das suas mesorregiões e microrregiões, seja no que diz respeito às particularidades linguísticas, geofísicas ou sócio-histórico -culturais.
+Busca -se, ainda, dispor de informações complementares sobre o Tocantins, como dados sobre a sua divisão político -administrativa, comunidades tradicionais, principais bacias hidrográficas e curiosidades e informações sobre lazer e turismo.
+Almeja -se, com o software toponímico, disponibilizar uma gama de informações toponímicas, linguísticas, geo -históricas e socioculturais referentes aos nomes de lugares (elementos humanos e físicos) do estado .
+A respeito da divisão políticoadmini strativa do estado , o objetivo é transcrever os dados coletados na Secretaria de Planejamento do Estado (SEPLAN) e na base eletrônica do Instituto Brasileiro de Geografia e Estatística (IBGE) para nosso sistema computacional.
+A real finalidade dessa opção de acesso no software é possibilitar aos alunos o conhecimento sobre a configuração administrativa, cartográfica, política e demográfica do Tocantins.
+As populações tradicionais contempladas a priori são os povos indígenas e as comunidades remanescentes q uilombolas do Estado, devido à alta concentração de sete grupos indígenas e de 39 comunidades remanescentes de quilombolas no território tocantinense.
+Futuramente, outras comunidades tradicionais poderão integrar o sistema computacional toponímico.
+Intenci ona-se disponibilizar informações sobre a língua, a história, a população, a localização e outras informações complementares sobre esses povos e comunidades tradicionais.
+Devido a sua importância para o estado , a toponímia tocantinense não pode ser discut ida sem levar em conta a importância político -econômica da bacia TocantinsAraguaia.
+No software toponímico, almejamos disponibilizar informações pertinentes à hidrovia Tocantins -Araguaia, como dados hidrográficos e principais afluentes, origem/etimologia, contexto histórico dos rios, imagens e outros dados complementares.
+O objetivo de acesso do usuário (aluno, professor e pesquisador) à toponímia dos séculos XVII a XX é vislumbrar os aspectos etnoculturais e etnotoponímicos no processo de povoamento da região que abrange o atual estado do Tocantins.
+A ideia é demonstrar, nos diversos períodos da história, entre os séculos XVII e XX, a dinamicidade do processo de povoamento ao longo dos rios Araguaia e Tocantins.
+Intencionamo s despertar a curiosidade do aluno em conhecer, por meio da cartografia histórica da região, o território e o seu contexto etnocultural, além de proporcionar ao usuário um revisitar da história da Província de Goiás, dispondo de leitura paleográfica dos ri os Araguaia e Tocantins desses séculos.
+Serão disponibilizados alguns dados complementares sobre o Tocantins, como algumas curiosidades e dados sobre a cultura, o lazer e o turismo.
+Tais informações poderão permitir ao aluno a construção de conhecimentos sobre história (por meio dos centros históricos), cultura (artesanato e gastronomia), curiosidades (costumes, hábitos, crenças, mitos e religiões) e regiões turísticas (lagos, serras, cachoeiras e praias) da sua realidade local.
+Enquanto suporte pedagógico , o intuito da proposta é de que a escola, ao utilizar o SISTOP, possa desenvolver , nos sujeitos , a possibilidade de ampliar a compreensão do seu espaço e do lugar em que vive.
+Apresentamos, a seguir, alguns protótipos de acessos que estão sendo construíd os e testados para a verificação da satisfação dos requisitos iniciais do software pedagógico.
+A Figura 1 apresenta a tela de cadastro das regiões administrativas do Estado do Tocantins: 208 Fonte: Nascimento, 2017, p. 161 Figura 1 - Tela do atual software toponímico: cadastro de regiões administrativas A Figura 1 exemplifica o processo de inclusão das regiões administrativas da base de dados , a ser realizado somente pelo pesquisador/administrador.
+Cada município será cadastrado e mapeado conforme sua região administrativa.
+A Figura 2 apresenta a tela de cadastro dos povos indígenas: Fonte: Nascimento, 2017, p. 163 Figura 2 - Tela do atual software toponímico: cadastro de povos indígenas A Figura 2 ilustra o processo de inclusão dos povos indígenas na base de dados , a ser realizado somente pelo pesquisador/administrador.
+Cada aldeia será registrada conforme as espec ificidades da língua, saberes locais e traços culturais e histórico s. A Figura 3 apresenta a tela de cadastro das comunidades reconhecidas e/ou certificadas do estado : 209 Fonte: Nascimento, 2017, p. 164 Figura 3 - Tela do atual software toponímico: cadastro de comunidades remanescentes O processo de preenchimento de informações é uma função específica do pesquisador/administrador no ato da alimentação do banco de dados.
+5 Considerações finais: caminhos ainda a trilhar Nesta discussão, a inovação p edagógica foi compreendida como mudança, quebra de rupturas e paradigmas e/ou conjunto de intervenções que tratam de alterar atitudes, culturas, ideias, conteúdos, modelos e práticas pedagógicas.
+A ideia do uso do Software Toponímico do Tocantins (SISTOP), de caráter educativo, ainda é recente e se encontra em andamento.
+Entretanto, consideramos sua natureza pedagógica renovadora e inovadora, tendo em vista sua possível utilização como um material curricular, com estratégias de ensino e de aprendizagem e mo delos didáticos.
+Sua inserção no ensino básico poderá favorecer a possibilidade de um ensino e aprendizagem mais atrativo e estimulante no que concerne ao estudo dos nomes de lugares.
+Considerando a perspectiva interdisciplinar e o cunho inovador, o SISTO P poderá permitir que professores e alunos possam identificar, conhecer, descrever e analisar os topônimos do estado do Tocantins, bem como suas características.
+Acreditamos que o estudo dos nomes de lugares possibilita ao sujeito "ampliar seu leque de inf ormações pertinentes ao aspecto social, cultural, identitário e histórico de um lugar, evidenciando seu caráter interdisciplinar" (NUNES, 2015, p. 18).
+A ideia é de que se possa tratar o nome não pela sua simplicidade aparente, "um nome é apenas um nome" (ANDRADE, 2013, p. 5) , mas por todos os elementos que envolvem sua complexidade .
+Posterior a sua criação, a alimentação do banco de dados, o uso e a avalia ção do sistema, intenciona -se realizar as seguintes ações , segundo Andrade e Ribeiro: a) elaboração de propostas pedagógicas que possam introduzir o estudo dos nomes de lugares numa perspectiva interdisciplinar no processo ensinoaprendizagem do aluno, b) realização de oficinas pedagógicas com professores das disciplinas de Geografia e Hist ória para que possam conhecer e aprender a manusear o software com o intuito de reavaliar e repensar os 210 conteúdos já trabalhados e apreendidos pelos sujeitos (ANDRADE; RIBEIRO, 2014, p. 18) .
+O software se encontra em fase de desenvolvimento ; portanto, ain da não temos respostas claras e exatas de como será implementado e aplicado na prática.
+Porém, durante as etapas de trabalho, foi possível estreitar o diálogo com professores de Geografia da educação básica , o que nos permitiu avaliar previamente as potenc ialidades do software como um recurso educacional que possa contribuir para o conhecimento escolar.
+Os professores, ao terem contato com o SISTOP, identificaram eventuais pontos negativos e puderam, em um primeiro momento da pesquisa, reorientar os trabalh os da pesquisa no que tange ao realimento dos objetivos do software.
+Não se pretende , com este trabalho , alterar ou mudar os objetivos de ensino dos conteúdos de Geografia e outras disciplinas da educação básica .
+Andrade e Oliveira (2014, p. 74) explicitam que "as finalidades de ensino deverão ser mantidas, embora possam ser incrementadas ou reavaliadas sob outros olhares e outras perspectivas o estudo, por exemplo, dos nomes de lugares".
+Em tese, este trabalho é uma nova contribuição para o Atlas Toponímico do Tocantins (ATT) voltada à educação.
+Intenciona -se, com este estudo, fortalecer diretamente as pesquisas vinculadas à linha Toponímia e o ensino, contribuindo, nesse caso, para a implementação de um software pedagógico toponímico.
+REFERÊN CIAS ANDRADE, Karylleila dos Santos.
+Atlas toponímico de origem indígena do estado do Tocantins: Atito .
+Os nomes de lugares em rede: um estudo com foco na Interdisciplinaridade.
+Revista Eletrônica de Linguística D omínios de Linguagem , Uberlân dia, v. 6, n. 1, p. 205-225, mar./jun.
+Atlas Toponímico do Tocantins (ATT): criação de um software para a catalogação dos dados das fichas lexicográfico -toponímicas.
+Revista Percursos Linguísticos , Vitória, v. 3, n. 7, p. 67 -83, 2013 .
+ANDRADE, Karylleila dos Santos ; OLIVEIRA, José Manoel Miranda.
+Dos nomes de lugares à discussão do currículo escolar: apontamentos preliminares a respeito do uso do software Toponímico.
+Acta Semiótica , João Pessoa , v. 19, p. 61-75, 2014.
+ANDRADE, Karylleila dos Santos ; RIBEIRO, Eduardo.
+Implementação de software toponímico com perspectiva de atuação no ensino.
+In: GONÇALVES, Adair Vieira ; SILVA, Rodrigues Wagner ; GÓIS, Marcos Lúcio de Sousa.
+Visibilizar a linguística aplicada: aborda gens teóricas e metodológicas.
+Campinas: Pontes Editora, 2014 .
+Secretaria de Educação Fundamental.
+Parâmetros curriculares nacionais: Geografia.
+Parâmetros Curriculares Nacionais para o Ensino Médio .
+Disponível em: < rametros -curricularesnacionais >.
+Diretoria de Currículos e Educação Integral .
+Diretrizes Curriculares Nacionais Ger ais da Educação Básica/Ministério da Educação .
+Brasília: MEC /SEB/DICEI, 2013.
+CANDIDO, Francisca Francineide ; SILVEIRA, Selene Maria Penaforte .
+Inovação Pedagógica: novas formas de relacionamento e atuação na aprendizagem significativa.
+Mensagem: Revista do Conselho de Educação do Ceará , Fortaleza, v. 19, p. 1-19, 2014.
+A aventura de inovar : a mudança na escola.
+Porto Alegre: Artmed Editora, 2002.
+CARVALHINHOS, Patrícia de Jesus.
+Intersecções línguo -culturais na onomástica: a questão rel igiosa.
+In: MAGALHÃES, José S ueli de; TRAVAGLIA, Luiz Carlos (Org s.).
+Múltiplas perspectivas em linguística.
+Uberlândia: Edufu , 2009. p. 24632471 .
+Inovação pedagógica e formação de professores .
+Desenvolvimento de um sistema: mapa toponímico do Tocantins com integração da API do Google Maps TM .
+68 f. Monografia (Bacharelado em Ciência da Computação ) - Universidade Federal do Tocantins , Palmas, TO.
+O bom professor e sua prática .
+DICK, Maria Vicentina de Paula do Amaral.
+A motivação toponímica e a realidade brasileir a. São Paulo: Arquivo do Estado, 1990.
+Rede de conhecimento e campo lexical: hidrônimos e hidrotopônimos na onomástica brasileira.
+In : ISQUERDO , Aparecida Negri; KRIEGER, Maria das Graças.
+FERNANDES, Maria Cristina da Silveira Galan; BLENGINI, Gabrielle Dellela .
+Concepções e práticas pedagógicas inovadoras na educação infantil: limites e possibilidades para a transformação .
+In: ENDIPE - ENCONTRO NACIONAL DE DIDÁTICA E PRÁTICAS DE ENSINO , 16, 2012, Campinas .
+Tecnologia e educação: as mídias na prática docente.
+Inovação educacional no Brasil: problemas e perspectivas .
+Campinas: Editora dos Autores Associados , 1995.
+Terras e territórios de negros no Brasil .
+Santa Catarina: Editora UFSC, 1991.
+Língua(gem) e linguística: uma introdução.
+Rio de Janeiro: Zahar Editores, 1982.
+O paradigma educacional emergente .
+Proposta preliminar de um software toponímico : um estudo de caso sob a ótica de professores de geografia do ensino fundamental.
+213 f. Dissertação (Mestrado em Letras) - PPGL, Universidade Federal do Tocantins, Araguaína, TO .
+Toponímia e ensino : estudo dos nomes de lugares de origem indígena no livro didático de geografia.
+114 f. Dissertação (Mestrado em Letras) – PPGL , Universidade Federal do Tocantins, Araguaína – TO.
+RAMOS, Ricardo Tupiniquim; BASTOS, Gleyce Ramos.
+Onomástica e possibilid ades de releitura da história .
+Revista Augustus , Rio de Janeiro, ano 15, n. 30, p. 85-92, ago.
+O estudo do lugar no ensino de Geografia: os espaços cotidianos na geografia escolar.
+159 f. Dissertação (Mestrado em Geografia )Instituto de Geociências e Ciências Exatas , Universidade Estadual Paulista Júlio de Mesquita Filho , Campus de Rio Claro, Rio Claro , SP.
+A filosofia da educação e o problema da inovação em educação.
+Inovação educacional no Brasil: problemas e perspectivas.
+São Paulo : Cortez Editora, 1995. p.15 -29.
+Para a aplicação da toponímia na escola.
+Cadernos do CNLF , Rio de Janeiro, v. XVII, n. 2, p. 294 -306, 2013.
+Cooperação internacional pelas águas: metatema no estágio curricular do curso de Pedagogia.
+Complexidade, interdisciplinaridade e transdisciplin aridade na educação superior.
+Goiânia: Editora Espaço Acadêmico, 2015. p. 88 -103.
+Introdução à antropologia cultural .
+Lisboa: Fundação Calouste Gulbenkian, 1963.
+Space and place: humanistic perspective.
+In: GALE , Stephen; OLSSON , Gunnar (E ds.)
+Dordrecht: D. Reidel Publishing Company, 1979. p. 387 -428.

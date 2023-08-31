@@ -1,0 +1,161 @@
+ João Jesus | Guilherme Martins | Raquel Saraiva | José Grego | Margarida Oliveira 8 - 3 | 2020 Inovação de produto e de processo no tomate de estufa: monitorização em tempo real de parâmetros agronómicos Product and p rocess innovation in greenhouse toma to: real-time monitoring of agronomic parameters Innovación de producto y proceso en tomate de invernadero: monitorización en tiempo real de parámetros agronómicos Electronic version URL: ISSN: 2182 -9608 Publisher Revista UI _IPSantarém Printed version Date of publication: 31st October 2020 Number of pages: 49-59 ISSN: : 2182 -9608 Electronic reference Jesus, J ., Martins, G., Saraiva, R., Grego, J.
+Inovação de Produto e de Processo no tomate de estu fa: Monitorização em tempo real de parâme tros agronómicos.
+Edição Temática: Ciências Naturais e do Ambiente.
+8(3), 49-59. revistauiips@ipsantarem.pt Complexo Andaluz, Apartado 279 2001 -904 Santarém Rev UI _IPSantarém .
+50 Revista da UI_IPSantarém – Unidade de Investigação do Instituto Politécnico de Santarém , Vol.
+49-59, Santarém ISSN: 2182 -9608 INOVAÇÃO DE PRODUTO E DE PROCESSO NO TOMATE DE ESTUFA: MONITORIZAÇÃO EM TEMPO REAL DE PARÂMETROS AGRONÓMICOS Product and pro cess innovation in greenhouse tomato: real-time monitoring of agronomic parameters Innovación de producto y proceso en tomate de invernadero: monitorización en tiempo real de parámetros agronómicos João Jesus Escola Superior Agrária de Santarém , Instituto Politécnico de Santarém , Portugal joao.jesus17@hotmail.com Guilherme Martins Escola Superior Agrária de Santarém , Instituto Politécnico de Santarém , Portugal guilherme.martins@esa.ipsantarem.pt Raquel Saraiva Escola Superior Agrária de Santarém , Instituto Politécnico de Santarém , Portugal Unidade de Investigação do Instituto Politécnico de Santarém , Portugal raquel.saraiva @esa.ipsantarem.pt | ORCID 0000 -0002 -7761 -9931 | Ciência ID 9C18 -9681 -D348 José Grego Esco la Superior Agrária de Santarém, Instituto Politécnico de Santarém, Portugal Unidade de Investigação do Instituto Politécnico de Santarém, Portugal jose.grego@esa.ipsantarem.pt Margarida Oliveira Esco la Superior Agrária de Santarém, Instituto Politécnico de Santarém, Portugal Unidade de Investigação do Instituto Politécnico de Santarém, Portugal Linking Landscape, Environment, Agriculture and Food , Portugal margarida.oliveira@esa.ipsantarem.pt | ORCID 0000 -0003 -2491 -0669 | Ciência CV B71B -11DE0042 Rev UI _IPSantarém .
+51 RESUMO O tomate , devido ao seu equilibrado potencial nutricional, integra uma posição relevante na economia e gastronomia .
+Sendo uma cultura de elevada produção, a procura por técnicas de cultivo que incrementem a qualidad e do produto final é uma constante , por forma a satisfazer as exigências dos consumidores e, concomitantemente, assegur ar uma aplicação eficiente dos recursos associados à produção .
+Neste âmbito, a automatização da agricultura constitui um passo fundamental para a inovação, sustentabilidade e apoio à decisão.
+No presente estudo, propõe -se conceber e implementar um sistema de monitorização em tempo real , à escala piloto, para a produção de tomate de estufa em hidroponia climatizada .
+O sis tema apresentado dispõe de vários tipos de sensores que emitem sinal para um nó central, os dados são detetados e enviados para um computador ou telemóvel do agricultor.
+Est e estudo encontra -se inserido no projeto TomatInov e decorreu na região do Oeste, e m Portugal.
+Palavras -chave : Agricultura sustentável , Dados em tempo real , Eficiência de recursos , Parâmetros agronómicos , Tomate hidropónico ABSTRACT Due to its balanced nutritional potential, tomato stands in a relevant position in economy and gastronomy.
+Considering that it is a high production culture, the pursue of new techniques that increase the quality of the final product is constant , in order to satisfy consumer demand and concomitantly ensure an efficient application of the resources associated to production.
+In this context, the automation of agriculture is a fundamental step towards innovation, being known as precision agriculture.
+In the present study, a pilot -scale real -time monitoring system , to produc e greenhouse tomatoes in acclimatized hydroponics is proposed.
+The presented system has several types of sensors that send a signal to a central node, the data is then detected and sent to a farmer's computer or mobile phone.
+This study is part of the Toma tInov project and took place in the West region (Oeste ), in Portugal.
+Keywords: Agronomic parameters, Hydroponic tomato, Real-time monitoring , Resource efficiency , Sustainable agriculture 1 INTRODUÇÃO O tomateiro é uma planta da família das solanáceas, originária da zona andina da América do Sul (Costa & Heuvelink, 2005; Dam , Goffau, Hilmi, Jeude & Naika, 2006) .
+Apesar de ser cultivado de forma anual, é uma planta herbácea perene, alcançando alturas de dois metros e possibilitando a colheita de frutos ao longo de vários anos.
+O tomate (S. lycopers icum ) apresenta um equilibrado potencial nutricional , desta forma, o seu consumo é bastante difundido, integra ndo uma fração significativa da economia e gastron omia mundiais (Brasesco, Asgedom & Casari, 2019 ; Dam et al., 2006) .
+Globalmente , é a terceira cultura hortícola mais produzida sendo apenas superada pela batata e batata -doce .
+No entanto, ocupa o primeiro lugar das cultura s hortícolas mais processada s (Brasesco et al.
+À semelhança da situação global, a nível nacional , a cultura apresenta também grande relevância.
+Segundo INE (2019), v erifica -se que apesar da área d e cultivo ao ar livre ser mais representativ a, a produção em estufa representa 8,6% da área total ocupada e 7,8% da produção total , possuindo grande importância no mercado pois através do condicionamento ambiental é possível ajustar a produção às janelas de mercado .
+Na região do Oeste, o tomate para consumo em fresco apresenta grande expressão, verificando -se cada vez mais o acréscimo em área, número de explorações e técnicas inovadoras de cultivo, em parte, para colmatar a competitividade empresarial espanhola (Mota, 2007) .
+52 Habitualment e, utiliza -se o conceito de hidroponia para designar cultivo sem solo (CSS), no entanto, ainda que não seja errado pela sua praticabilidade, hidroponi a é apenas uma derivação dos sistemas de cultivo sem solo, que assume o desenvolvimento da cultura e m solução nutritiva (Jones Jr., 2005).
+Destacam -se três principais sistemas de CSS: hidropónico (NFT, em água, por nebulização, entre outros), aeropónico e em substrato (inorgânico ou orgânico), notando -se como pontos comuns transversais a todos os métodos , a ausência de solo como meio de cultura e a utilização de solução nutritiva ou água enriquecida em nutrientes, como fonte nutricional (Almeida & Reis, 2017).
+Os problemas ambientais associado s à eliminação dos resíduos dos substratos de cultivo têm contri buído p ara a adoção de substratos que utiliz am resíduos orgânicos , compostados ou não, menos agressivos para o ambiente , como é o caso da fibra de c oco (Gavilán, 2004).
+Os sistema s hidropónico s são particularmente exigentes a nível técnico e económico, no entanto apresentam -se como uma nova forma de produ ção altamente rentável e intensiva , assegurando a redução dos inputs (Miranda et al., 2004; Mourão , Brito, Moura & Rodrigues, 2013) .
+A eficiente gestão dos inputs que a cultura requer , apresenta grande importância, tanto por questões económic as como ambientais.
+Por forma a garantir a máxima eficiência no processo produtivo , é fundamental monitorizar uma série de parâmetros .
+Nos sistemas de cultivo sem sol o, pelo condicionalismo do crescimento radicular, as alterações bruscas nas condições ambientais sentemse mais rapidamente.
+É importante manter sempre a dotação de água adequada, tendo em conta a sua importância nos processos metabólicos e manutenção da turgescência na planta (Louro & Reis, 2020) .
+Nestes sistemas , também os nutrientes são incorporados na rega sob a forma de sol uçõesmãe, altamente concentrad as, uma vez que as culturas são muito exigentes em solução nutritiva e desta forma se contorna o gasto de grandes quantidades de água para a sua preparação (Almeida & Reis, 2017).
+A temperatura ambiente influência o consumo de água e a absorção de nutrientes, na medida em que o seu aumento favorece o consumo de água e nutrientes.
+Porém, caso se atinja a temperatura máxima biológica, por motivos fisiológicos, dá -se uma paralisação da absorção dos nutrientes e assim, o ideal é que para culturas protegidas as temperaturas oscilem entre os 17 °C e os 27 °C (Jones Jr., 2007; Louro & Reis, 2020; Mota, 2007).
+A nível mundial o aquecimento global e consequentes situações de clima atípico são cada vez mais frequentes , tornando a disponibilidade de água um fator preocupante (De Wrachien & Goli, 2015 ; Rosa -Rodríguez et al., 2020 ).
+Segundo a World Health Organization (2019) , estima -se que em 2025 metade da população mundial resida em zonas de stress hídrico.
+Assim, os sistemas de CSS em estufa assumem -se como medida mitigadora do problema da escassez de água , uma vez que reduzem as perdas por evaporação e percolação , devido ao condicionamento ambiental (De Wrachien & Goli, 2015 ).
+(2020) , os sistemas hidropónicos são mais eficientes no uso de água e fertilizantes que a agricultura convencional, verificando -se também que face aos sistemas abertos, os sistemas hidropónicos fechados são cerca de 23 % mais eficazes na eficiência de uso de água e fertilizantes.
+Tendo em conta a translucidez das coberturas das estufas, é normal que no período diurno as temperaturas sejam mais elevadas e, que o contrário aconteça no período noturno , podendo até verificar -se situações de inversão térmica face ao exterior.
+Em locais menos propícios a nível térmico, deve ponderar -se a implantação de sistemas de aquecimento caso a temperatura média diária seja ≤ 12 °C ou, caso se verifiquem temperaturas próximas de 0 °C ameaçando o congelamento dos tecidos.
+Ao passo que , caso a temperatura média diária seja ≥ 22 °C, aconselhase a integração de sistemas de arrefecimento.
+A temperatura do substrato influencia proporcionalmente o aporte de água e nutrientes .
+Em 1977 , Harssema observou que , a 20 °C, o aporte era mais significativo, no entanto , considerou o intervalo de temperatura s ótimo de desenvolvimento entre os 20 °C e os 30 °C, constatando um decréscimo no crescimento para valores discrepantes (Jones Jr., 2007) .
+Temperaturas inferiores a 15 °C afetam negativamente a absorção de fósforo e potássio (Alarcón, 200 0).
+O pH exerce grande influência na absorção iónica, deve ndo ser monitorizado frequentemente , em especial para garantir que os gotejadores e tubagens de rega não ent upam devido à precipitação dos sais presentes nos adubos , contribuindo para u m desenvolvimento deficiente das plantas (Almeida & Reis, 2017).
+O pH das drenagens , por norma , altera consoante o estado fisiológico da cultura .
+Na fase de crescimento vegetativo, há uma tendência para a alcalinização , porém quando se inicia a maturação dos frutos , e consequente aumento da absorção catiónica, há tendência para a acidificação (Jones Jr., 2007 ).
+De acordo com Almeida (2006) , a cultura do tom ate apresenta resistência moderada à acidez, no entanto , para Rev UI _IPSantarém .
+53 valores entre os 6 a 6,5 a absorção de nutrientes é ótima e a probabilidade de precipitação de sais é baixa.
+A condutividade elétrica corresponde à salinidade das soluções nutritivas (Almeida & Reis, 2017 ).
+Existem alterações na CE consoante o período d o dia, podendo haver necessidade de adotar intervalos de CE, utilizando valores mais altos para o período diurno, e o contrário para o período noturno.
+Para a cultura do tomate, durante o dia pode usar-se 2,2 dS m-1, e durante a noite 2,5 dS m-1(Miranda et al., 2004) .
+Uma CE inferior ao mínimo mencionado nas águas de drenagem revela a necessidade de aumentar a concentração de nutrientes, ao passo que, para leituras de CE superiores ao máximo mencio nado, deve diminuir -se a CE da solução nutritiva e, simultaneamente , adaptar a frequência e /ou dotação das regas (Mota, 2007) .
+A CE é em grande parte condicionada pela qualidade da água , uma vez que uma água de menor qualidade apresenta valores de CE mais elevados, deixando uma margem mais reduzida para a inserção de nutrientes , sem que se exceda os 2,5 dS m-1 que, segundo Almeida (2006) é um valor de referência máximo para o qual não se verifica efeitos contraditórios ao desenvolvimento da cultura (Miranda et al., 2004).
+A humidade relativa (HR) corresponde à razão entre a quantidade de vapor de água presente na atmosfera a uma determinada temperatura e a quantidade máxima de vapor de água que o ar pode reter, para o mesmo valor de temperatura e é e xpressa em percentagem (Dam et al., 2 006; Gavilán, 2004).
+A humidade relativa af eta a evapotranspiração, a polinização e a presença de inimigos da cultura , em especial doen ças, dado que nas primeiras horas do dia a condensação do orvalho pode favorecer a germinação dos esporos de fungos.
+No caso do tomate, c ondições de elevada s HR e transpiração contribuem favoravelmente na circulação do cálcio na planta , diminuindo o risco de podridão apical.
+Em contrapartida, em situações de baixa HR , a nível geral a percentagem de cálcio e fósforo diminuem e, nas folhas mais jovens, o mesmo se verifica no caso do potássio e magnésio (Miranda et al., 2004) .
+Para garant ir a monitorização d e todos os parâmetros acima mencionados , bem como outros parâmetros agronómic os das cult uras, o leque de soluções disponíveis é alargado.
+É reconhecido que cada vez mais a tecnologia fará a diferença na forma como a agricultura evoluirá nas próximas décadas, cada vez mais alavancada na recolha de dados, na informação condensada a partir desses dados e na capacidade de gerar atem padamente as melhores decisões suportadas por essa informação.
+As soluções existentes dividem -se em dois grupos: a) as que têm um forte cariz de investigação e desenvolvimento e estão neste momento a ser desenvolvidas em parcerias entre empresas e institui ções de ensino/investigação , e b) as que já estão suficientemente maduras e robustas, já disponíveis no mercado na forma de produto ou serviço.
+Um exemplo do primeiro grupo é o Projeto AgriNuPes ( um projeto europeu cujos princip ais objetivos são o desenvolvimento de um sensor NPK (a cargo do INESC -TEC) e de um biossensor para deteção de dois pesticidas bastante utilizados em horticultura.
+Tipicamente , estes equipamentos representam um grande salto na capacidade de analisar os fatores agronómicos abordados, mas não t êm ainda maturidade para entrar no mercado.
+No outro lado da balança, existe um grande número de produtos que já provaram as suas capacidad es e estão no mercado há vários anos e, neste caso, assumem -se três segmentos.
+No topo estão soluções extremamente robustas, redundantes e bem desenvolvidas que estão muitas vezes integradas com outras soluções utilizadas em agricultura , como por exemplo , soluções de fertirrega e hidroponia.
+É uma ligação simbiótica, uma vez que estes sistemas já utilizam uma variedade de sensores de monitorização das condições ambientais, incluindo algumas características físico -químicas da água.
+Estas soluções, representa m, contudo, um enorme investimento financeiro na ordem das dezenas de milhares de euros que não são compatíveis com a grande maioria das pequenas e médias explorações agrícolas .
+No outro extremo encontram -se as soluções muito simples, financeiramente acess íveis e que geralmente são originárias de outras atividades, como por exemplo, a aquariofilia e o tratamento de piscinas, mas que , no geral , servem os propósitos mais simples da monitorização das variáveis mais relevantes para o desenvolvimento agronómico da maior parte das culturas.
+Entre estes dois segmentos existe um grande intervalo , ocupado por empresas capazes de disponibilizar produtos personalizados e, simultaneamente responderem a necessidades muito específicas dos seus clientes, mantendo alguma si mplicidade.
+Foi nesta premissa que , no projeto TomatInov , se está a desenvolver uma solução de monitorização em tempo real , adequada às necessidades da cultura do tomate num si stema de cultura sem solo Rev UI _IPSantarém .
+A solução proposta passa pela utilização de um equipamento de monitorização modular construído com as especificações pretendidas , possibilitando assim a análise das diferentes variáveis com relevância agronómica na cultura do tomate e, concomitantemente , disponibilizandoas em tempo re al, de forma direta e conveniente .
+Desta forma , pretende -se atingir o objetivo de increment ar a eficiência da utilização dos recursos, em especial água e fertilizantes e, simultaneamente , possibilitar uma melhoria na produtividade e qualidade do produto final, contribuindo para o posicionamento do Oeste como um território de excelência para a produção de tomate para consumo em fresco, sem resíduos e de qualidade sensorial consistente.
+2 MÉTODO 2.1 Estudo de caso O ensaio decorreu numa estufa de hidrop onia, pertencente a uma empresa dedicada à produção de hortícolas em estufa, localizada na região do Oeste.
+A estufa apresenta ventoinhas de circulação de ar (Figura 1) e é climatiza da com recurso a uma caldeira de biomassa alimentada com caroço de azeitona (Figura 2) , que canaliza o calor por tubagens secundárias junto à base da planta .
+Possui nove sondas de temperatura com set point médio de 14 °C.
+A variedade em estudo foi a Runner em porta -enxerto Emperor .
+Figura 1: Ventoinhas de circulação de ar.
+Figura 2: Depósito de caroço de azeitona e caldeira.
+2.2 Monitorização em tempo real O equipamento de monitorização em tempo real (Figura 3) encontra -se instalado ao centro da estufa e abrange uma bandeja de inox (sem marca - modelo construíd o por encomenda) com d uas placas de fibra de c oco revestid as a polietileno branco/preto , onde constam duas plantas por placa (Figura 4).
+Os sensores ( Figura 5) conect ados à unidade de controlo (PLC HORNER XLT 240 -C116 com uma carta de expansão SMART STIX HE559ADC970 , um HERMES M100 MODBUS e respetiva fonte de alimentação de 24V , WEIDMULLER) possibilitam a monitorização em tempo real das seguintes variáveis agronómicas: temperatura do substrato (1- sonda RESIPREL PT -100); pH à saída (2 - sonda PH HI1001) ; condutividade elétrica à saída (3 - sonda EC HI3002) ; monitoriza ção do fluxo de saída de água através de um pluviómetro de báscula (4 - PM1) ; temperatura e humidade do ar (5 - sonda DHT22) ; peso do sistema, através das c élulas de carga horizontais e verticais (6respetivamente RSC -1 de 50KG e RSC -1 de 30KG) ; e monitoriza ção d o fluxo de entra da de água através do uso de caudal ímetro (KOBOLD -DRG DE 1,5 A 30L/H) .
+É emitido um sinal para um nó central, os dados são detetados e enviados em tempo real para a plataforma Meteoagri , ficando disponíveis para consulta num computador ou telemóvel.
+De salientar que se executam as leituras do pH e CE na drenagem do sistema, ou seja, na saída do tabuleiro por forma a comparar com os valores registados na entrada os quais são registados pelo sistema de rega da exploração.
+Desta forma , temos os caudais de água da entrada e da saída assim como as variações de pH e CE.
+55 Figura 3: Unidade de controlo do equipamento .
+Sensores de temperatura e humidade (acima) .
+Figura 4: Bandeja de inox e respetivas plantas em substrato .
+Figura 5: Conjunto dos sensores do equipamento (1- sonda RESIPREL PT -100; 2 - sonda PH HI1001; 3sonda EC HI3002; 4 - pluviómetro de báscula PM1; 5- sonda DHT22 ; 6- célula de carga RSC -1) Rev UI _IPSantarém .
+56 3 RESULTADOS E DISCUSSÃO Este ensaio incidiu sobre a fase de conceção e implementação de um sistema de monitorização em tempo real para a cultura do tomate em hidroponia e ambiente climatizado.
+Esta etapa, ainda q ue não apresente resultados em termos numéricos , foi muito importante para realizar todas as calibrações e melhorias necessárias para a obtenção de dados com caráter fidedigno e relevância técnico -científica.
+O processo de montagem do equipamento obrigou a uma abordagem recursiva, de forma a eliminar as dificuldades que surgiam e melhorar o desempenho do equipamento.
+Neste tipo de equipamento a precisão e a calibração dos sensores é um fator primordial.
+Uma das primeiras dificuldades técnicas foi a integra ção entre a sonda de pH e a placa principal.
+Apesar da compatibilidade entre os componentes, o equipamento não conseguia ler os valores da sonda com toda a sua resolução, mas sim, com menos dois bits.
+Isto significa que o intervalo entre o valor mínimo e m áximo de leitura da sonda estava a ser transmitido numa escala que tem menos intervalos e, por isso, menos resolução.
+Este tipo de anomalia não inviabiliza a sua utilização, mas reduz a sua precisão.
+A questão foi contornada substituindo a sonda por outra com nova versão de Firmware , ou seja, o mesmo equipamento, mas com diferente software interno.
+Por outro lado, foram encontrados também desafios funcionais, por exemplo, as células de carga que sustentam e pesam a parte aérea das plantas estavam idealizada s para suportar um ramo por célula .
+No entanto, a forma de condução adotada nesta cultura é de três braços por planta, significando que de cada planta saem três hastes.
+Este método de condução da cultura colocou então um problema relacionado com a fixação das hastes pois as células de carga apenas apresentavam um ponto de suporte, o que iria diminuir a distância entre hastes, causando maior ensombramento e enviesando os resultados do estudo.
+Assim, por forma a obter resultados fidedignos e adequados à reali dade, foi necessário contruir uma estrutura piramidal que é suportada pela célula de carga vertical, suportando ela própria em cada um dos seus vértices cada uma das hastes da planta.
+As melhorias alcançadas após a calibração de todos os componentes e as a finações realizadas nesta fase contribuíram para que o equipamento possa ser utilizado no novo ciclo de monitorização, que já se encontra a decorrer .
+Os sensores utilizados são adquiridos já calibrados na fábrica, no entanto , foram calibrados de acordo com as indicações dos fabricantes no momento da montagem.
+Dada a relevância deste assunto para a precisão dos resultados obtidos, está prevista uma ação de manutenção preventiva aos sensores (limpeza e calibração) antes do início da próxima campanha, em data a definir.
+Neste momento tentaremos cruzar os dados encontrados com leituras de outras sondas e com análises laboratoriais (para o caso do pH e CE).
+Só assim, será possível consolidar os dados sobre a variação encontrada durante o período de funcionamento decorrido, isto em ambiente de produção.
+Os testes à consulta em tempo real dos valores lidos pelos equipamentos , via interface gráfica (Figura 6) , decorreram sem problemas, tendo -se obtido uma solução que funciona em qualquer dispositivo com browser .
+57 Figura 6: Interface gráfica e respetivos dados em tempo real.
+Em simultâneo, o s dados são registado s a cada 30 segundos e podem ser consultados por intervalo de data ou parâmetro específico (Figura 7 ), permit indo ainda a sua exportação para folha de cálculo para que os mesmos sejam trabalh ados em software externo.
+Fazendo uma análise abrangente sobre o panorama global da implementação deste tipo de tecnologias tanto no setor agrícola como n a industria alimentar, vemos que existe uma acelerada vaga de fundo que em simultâneo tenta inovar na capa cidade dos sensores por forma a registar , de forma automática e precisa , novos dados que até agora requeriam análises laboratoriais ou morosos processos de trabalho humano , como reutilizar tecnologia já comprovada para atingir novos resultados de forma eco nómica e prática.
+São inúmeras as publicações académicas nesta área, refere-se o trabalho realizado na Indonésia com o objetivo de automatizar a gestão de explorações em modo hidropónico NFT de forma económica, utilizando hardware e software de fonte abert a (Crisnapati , Wardana, Aryanto & Hermawan , 2017) e a revisão sistemática sobre a integração de IOT e Arduino para avaliação da qualidade do leite realizada no Brasil (Comachio & Bortolotti, 2020).
+Alterando o foco para a especificidade da atividade agríco la, e em particular com recurso a estufa , é necessário referir que esta se encontra com um nível de desenvolvimento da componente de Rev UI _IPSantarém .
+58 monitorização e otimização menos evoluído e que se espera um forte crescimento nesta área nos próximos anos, através do surgimento de novos produtos e serviços.
+4 CONCLUSÃO Os sistemas de cultivo sem solo são bastante exigentes a nível técnico -científico, bem como, a nível económico , o que leva a que a sua adoção esteja dependente da produção e rentabilidade das culturas.
+O tomate , pela sua importância e elevada produção, justifica o investimento no incremento das t écnicas de produção .
+A nível nacional, a cultura apresenta grande expressão na região Oeste, no entanto, a competitividade espanhola é uma ameaça, exigindo da parte dos produtores a máxima eficiência, em especial na gestão dos inputs da cultura.
+Nesse sentido, o equipamento de monitorização cont ínua e transmissão de dados em tempo real são uma mais valia para os produtores e apresentam vantagens de longo prazo para a produção protegida .
+O equipamento concebido e proposto neste estudo, permitiu definir as variáveis agronómicas p ara a monitorização em tempo real, selecionar os sensores , adaptar sensores face às incompatibilidades detetadas e compreender a complexidade d a integração dos componentes e interfaces no equipamento .
+Futuramente, será essencial proceder à validação dos resultados e evoluir para uma análise que permita relacionar os dados e extrair informação relevante para os produtores que utilizam si stemas de hidroponia .
+Em particular, a fundamentação da variação de massa da plan ta em função dos elementos consumidos em correlação com os restantes dados ambientais recolhidos.
+5 AGRADECIMENTOS O projeto TomatInov PDR2020 -101-032136 é financiado pelo PDR2020 e cofinanciado pelo FEADER no âmbito da Operação - 1.0.1 Grupos Operacionais.
+FCT - Fundação para a Ciência e Tecnologia, I.P., no âmbito do projeto UID/AGR/04129/2020 (LEAF) 6 REFERÊNCIAS Alarcón, A.
+Tecnologia para cultivos de alto rendimiento.
+Manual das Culturas Hortícolas - Volume II.
+Almeida, D.P., Reis, M. (2017).
+Porto: Publindústria – Agrobook, 237 pp.
+Brasesco, F., Asgedom, D., Casari, G. (2019).
+Strategic an alysis and intervention plan for fresh and industrial tomato in the Agro -Commodities Procurement Zone of the pilot Integrated Agro -Industrial Park in Central -Eastern Oromia, Ethiopia .
+Comachio, K.O., Bortolotti , S.L.V.
+Integração da IOTe arduino para avaliação da qualidade do leite: uma revisão sistemática .
+In Brazilian Jornal of Development (2020).
+Costa, J.M., Heuvelink , E. (2005) .
+Introduction: the tomat o crop and industry.
+Crisnapati, P.N., Wardana , N.K., Aryanto, K.A.A, Hermawan, A.
+Hydroponic management and monitoring system for an IOT based NFT farm using web technology .
+In 2017 5th International Conference on Cyber and IT Service Management (CITSM) .
+Dam, B.V., Goffau, M., Hilmi M., Jeude, J., Naika, S. (2006).
+A cultura do tomate: produção, processamento e comercialização.
+Wageningen: Fundação Agromisa e CTA, 104 pp.
+Global Warming Effects on Irrigation Development and Crop Production: A World -Wide View .
+Disponível em : Rev UI _IPSantarém .
+59 chgate.net/publication/281064910_Global_Warming_Effects_on_Irrigatio n_Development_and_Crop_Production_A_World -Wide_View .
+Instituto Nacional de Estatística (2019).
+Lisboa: Instituto Nacional de Estatística, I.P.
+Hydroponics: A pra ctical guide for the soilless grower .
+Tomato plant culture in th e field, greenhouse, and home garden.
+Aspetos teóricos e práticos do s cultivos hidropónicos e em substrato.
+Miranda, C.S., Henriques, S., Rodrigues, L., Rodrigues, A.S., Monteiro, A.A., Caço, J., Reis, M., Antunes, L.E.
+Manual de Culturas Hortícolas Sem Solo.
+Associação Interprofissional de Horticultura do Oeste (AIHO), 152 pp .
+Acompanhamento da cultura do tomate em substrato de lã de rocha.
+Relatório de Projeto do Curso de Engenharia dos Sistemas Agrícolas e Ambientais.
+Beja: Escola Superior Agrária – Instituto Politécnico de Beja, 82 pp.
+Mourão, I., Brito, L.M, Moura , M.L., Rodrigues , R., (2013).
+Avaliação da pr odutividade e qualidade de tomate produzido no solo e em hidroponia na região Noroeste de Portugal .
+Rosa -Rodríguez, R., Lara -Herrera, A., Trejo -Téllez, L., Padilla -Bernal, L., Solis -Sanchéz, L., OrtizRodr íguez, J.
+Water and fertilizers use efficiency in two hydroponic systems for tomato production .
+Disponível em : #B4 World Health Organization (2019).
+Disponível em : -sheets/detail/drinking -water .

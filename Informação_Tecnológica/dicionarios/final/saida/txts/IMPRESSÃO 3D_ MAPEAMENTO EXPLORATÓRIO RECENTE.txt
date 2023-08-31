@@ -1,0 +1,145 @@
+Technology Innovation Management Review March 2014 19 www.timreview.ca3D Printing: A Revolutionary Advance for the Field of Urology?
+Rebecca Neu Introduction Not long ago, it was thought that space travel was beyond the scope of human capacity, yet astonishingly, technological advances allowed a human to walk on the surface of the moon in 1969 – a feat unimaginable to humans living a mere century before.
+Since that time, humanity has seen the emergence of a number of truly impactful scientific and technological breakthroughs such as the development of personal computers, the establishment of the World Wide Web, and the complete mapping of the human genome.
+In line with such impactful discoveries, research has progressed to include the concept of three-dimensional (3D) printing, which may be one of the top ten most disruptive technologies of the coming decade (Hyman, 2011; tinyurl.com/m9vdytj).
+What is of concern to manufacturers is that the process of 3D printing has the potential to pose a significant threat to traditional forms of manufacturing.
+In fact, 3D printing has most recently been described as a sort of "futuristic hot glue gun" (Hart, 2012, tinyurl.com/8xosxgm).
+Such sophisticated technology is truly remarkable in that it provides access to items with complex interior designs using digital templates created using wellknown computer-aided design (CAD), computer-aided Over the past decade, 3D printing has garnered considerable attention due to its broad applications, its ease of customization, and its increasing affordability.
+What began as the straightforward replication of simple objects has now progressed into a sophisticated industry for the fabrication of detailed products, which stands to threaten conventional forms of manufacturing and change the face of consumerism.
+More recently, the technology has found a footing within the medical field with the promise of applying 3D printing for the process of organ generation.
+With the reality of an aging population, the need for replacement organs globally will increase proportionately, while the number of donors remains static.
+In the field of urology specifically, the need for organ transplants is ever increasing as the number of patients in renal failure continues to rise.
+This article reviews the development of biological 3D printing, or biofabrication, within the field of urology and examines both the pros and the cons of this emerging technology.
+The cost implications of this technology for healthcare facilities are considered, as well as the entrepreneurial opportunities that arise from the emergence and evolution of 3D printing.There's actually a major health crisis today in terms of the shortage of organs.
+The fact is that we're living longer.
+Medicine has done a much better job of making us live longer, and the problem is, as we age, our organs tend to fail more, and so currently there are not enough organs to go around.
+In fact, in the last 10 years, the number of patients requiring an organ has doubled, while in the same time, the actual number of transplants has barely gone up.
+So this is now a public health crisis.
+Anthony Atala Surgeon and Professor of Urology tinyurl.com/pzyr55b" "Technology Innovation Management Review March 2014 20 www.timreview.ca3D Printing: A Revolutionary Advance for the Field of Urology?
+Rebecca Neu engineering (CAE), and computer-aided manufacturing (CAM) software (Díaz Lantada and Lafont Morgado, 2012; tinyurl.com/p7k4xx4).
+This technology is predicted to have a significant impact on consumerism, allowing customers to instantly manufacture a series of tangible items using readily available and inexpensive personal printing systems (Hyman, 2011; tinyurl.com/m9vdytj).
+This innovation will eliminate the need for consumers to travel to conventional "brick and mortar" stores to purchase physical products and will ultimately spark a retail movement which will transition from selling the physical (i.e., manufactured goods) to selling the virtual (i.e., paying for intellectual property or software files) (D'Aveni, 2013: tinyurl.com/puxnkgz; Hyman, 2011: tinyurl.com/m9vdytj).
+Although the applications of 3D printing in the manufacturing world are evident and numerous, this technology has the potential to have a multitude of applications transcending numerous industries.
+As one can imagine, application of the art of 3D printing within the medical field, such as in the synthesis of replacement organs, could have the potential to effect significant social change.
+The inherent benefit of 3D printing technology is that the resulting goods are completely customizable, where subsequent alteration does not require significant retooling but rather only involves changing small portions of code in a design file (D'Aveni, 2013; tinyurl.com/ puxnkgz).
+This new approach holds significant benefits for the medical field, such as in the design of customized prosthetic limbs, for the generation of ceramic scaffolds for use in bone replacement therapies (Leukers et al., 2005; tinyurl.com/lswrb9s), and for applications in organ biofabrication, also known as organ printing (Kasyanov et al., 2011; tinyurl.com/kvfodab).
+As the world's population continues to grow as a result of extended life expectancy, there will be a considerable increase in the need for replacement organs (Atala, 2011; tinyurl.com/ 62ew9wl).
+In fact, over the past ten years, the need for organ transplants has doubled in number; however, unfortunately, the number of organ donors has remained static, leading to a global health crisis (Atala, 2011; tinyurl.com/62ew9wl).
+The advent of both open source and 3D printing technologies will allow physicians the world round to offer revolutionary and customized medical solutions to patients while mitigating the organ shortage crisis (Ozbolat and Yu, 2013; tinyurl.com/km8bqw5).
+As a secondary consideration, the concept of biofabrication will become invaluable in the realm of teaching hospitals.
+Ready access to biologically perfect organ replicas via 3D printing could provide specimens from which medical students could be taught.
+These biological models would enable young physicians to hone their diagnostic and surgical skills (Díaz Lantada and Lafont Morgado, 2012; tinyurl.com/p7k4xx4).
+Organ models derived from 3D printers could further be combined with 3D reconstruction technologies or virtual training in order to create opportunities for more multi-disciplinary training (Díaz Lantada and Lafont Morgado, 2012; tinyurl.com/p7k4xx4).
+In this article, the applications of 3D printing will be directly applied to the field of urology, focusing on the pros and cons of this technology in the area of organ generation.
+The benefits and challenges faced by medical facilities keen on adopting this technology will be investigated, and some of the entrepreneurial opportunities that such innovation creates will be discussed.
+Application of 3D Printing to the Field of Urology The current statistics regarding the possibility of renal disease and the number of patients living with the illness are staggering.
+In Canada, Turin and colleagues (2012; tinyurl.com/m2ugz22) estimate that 1 in 40 males and 1 in 60 females will develop end-stage renal disease in their lifetime.
+Furthermore, the number of patients in the end stages of renal disease has tripled over the past 20 years, with the greatest increase being observed among older patients (Canadian Institute for Health Information, 2011; tinyurl.com/pyy7rzd).
+In 2009, over 37,000 people in Canada were living with end-stage renal disease; approximately 3,000 of them were on the waiting list for a kidney transplant in 2009, but only about 2,000 kidney transplants were performed (Canadian Institute for Health Information, 2011; tinyurl.com/pyy7rzd).
+These patients must endure regular dialysis visits until a suitable organ can be located for transplant.
+In a recent TED Talk, Anthony Atala (2011; tinyurl.com/ 62ew9wl) demonstrated the power of 3D printing in the field of urology by illustrating its potential application to the science of kidney regeneration.
+This technology holds significant promise, especially considering the high death rate and costs associated with treating the disease, as discussed in the next section.
+Atala's research demonstrated how large organs with complicated vascular systems are difficult to replicate, but given sophisticated 3D imaging technologies, physicians can gain an accurate representation of the organ's characteristics.
+A biological blueprint can then be formulated from which a new organ can be printed, employing the patient's own cells, in as little as seven hours (Atala, 2011; tinyurl.com/62ew9wl).
+Technology Innovation Management Review March 2014 21 www.timreview.ca3D Printing: A Revolutionary Advance for the Field of Urology?
+Rebecca Neu The process of biofabrication is not unlike that of regular printing; however, it involves the deposition of living cells and other biological material that can be grown into new human organs (Song et al., 2010; tinyurl.com/ pvyrdrx).
+Bioprinting is flexible in that it can accommodate a broad variety of materials including organ-specific cells, blood vessels, smooth muscle, and endothelial cells (Ozbolat and Yu, 2013; tinyurl.com/km8bqw5).
+If successful, this technology could ultimately revolutionize the field of nephrology, reducing or eliminating the need for kidney donation from living or deceased donors, and would eliminate complications arising from immune suppression and transplant rejection.
+Managing End-Stage Renal Failure Given the changing demographics in Canada and elsewhere in the world, healthcare systems globally will be further financially burdened in the coming years due to an aging population and consequently, medical systems will be severely strained as they attempt to meet the complicated and costly needs of their aging populations.
+As a result, the possibility of providing 3D-printed replacement kidneys presents an attractive solution for nephrology departments, thereby severing the longterm patient dependence on the department and its resources.
+Currently, the annual cost to administer dialysis in Canada is around $60k per patient (requiring three visits a week to the hospital for haemodialysis treatments lasting roughly four to five hours each) where comparatively, a kidney transplant costs roughly $23k per procedure followed by $6k in annual costs for anti-rejection medications (Canadian Institute for Health Information, 2011; tinyurl.com/pyy7rzd).
+Further options exist such as peritoneal dialysis, which allows a patient to dialyze at home using a portable cycler and a series of solutions of varying concentrations.
+From the perspective of a hospital's nephrology department, this form of dialysis is preferable – second only to organ transplant – because it does not require the patient to come into the hospital three times weekly, is less costly, reduces the demand for dialyzing machines, and reduces the need for nursing staff.
+However, although less expensive than haemodialysis, this option requires daily dialysis (using a cycler) or multiple sessions within a 24-hour period (employing gravity) and remains a cost to the healthcare system while placing a social burden on the patient.
+Considering the social and financial costs of current therapy options, the technology of 3D kidney printing holds promise for not only providing a superior quality of life for suffering patients but also reducing the longterm costs of care.
+In the sections that follow, the benefits and challenges of 3D printing within the field of urology are examined with a focus on the problem of kidney transplants specifically.
+Benefits of 3D Printing within the Field of Nephrology Improved survival rates and quality of life Despite modern advances in medicine, 36 Canadians died of end-stage renal failure while awaiting a kidney transplant in 2012 alone (Sher, 2012; tinyurl.com/ pw5haap).
+Unfortunately, this equates to 36 lives that could have potentially been saved by 3D printing technology, which could help meet the ever-growing organ demand and reduce the number of deaths from renal disease.
+From a social perspective, being on dialysis is extremely debilitating.
+Haemodialysis, as an example, requires that the patient be dialyzed multiple times a week.
+Although this treatment must be incorporated into the patient's routine, it can be both physically and mentally exhausting.
+Dependence on a machine for one's existence can leave a patient feeling completely isolated and depressed.
+The surgical input of a port through which a patient receives their therapy can make simple tasks such as bathing or swimming either challenging or impossible.
+Ultimately, end-stage renal failure can leave a patient feeling completely helpless.
+The development of 3D biofabrication could reduce the waiting times for organ transplants, and minimize the dependency on dialysis for many patients.
+More relevant models and less dependency on animal testing The process of tissue regeneration is very complicated.
+The growing of organ tissues has been tested and improved upon using animal test subjects, typically mice and rats.
+The advent of 3D printing means that both scientists and physicians can come to more relevant results using biofabricated models while lessening the need for animal involvement as part of the research and development process (Hart, 2012; tinyurl.com/8xosxgm).
+Reduction or elimination of organ waiting lists There are 93,000 people in the United States (Danovitch, 2013; tinyurl.com/odrl7hf) and 3,000 people in Canada (Canadian Institute for Health Information, 2011; tinyurl.com/pyy7rzd) waiting for a kidney transplant.
+Unfortunately, as noted by Atala (2011; tinyurl.com/Technology Innovation Management Review March 2014 22 www.timreview.ca3D Printing: A Revolutionary Advance for the Field of Urology?
+Rebecca Neu 62ew9wl), the need for kidney transplants continues to grow while the number of donations has remained steady.
+The advent of on-demand kidney fabrication (in addition to other organ fabrication) should, in the short- to medium-term, reduce the stress on organ waiting lists and should eventually reduce the amount of time that patients spend awaiting an organ.
+Elimination of organ rejection When a patient receives an organ, from a living or a deceased donor, the organ is matched to the recipient based on blood- and tissue-type compatibility.
+Although significant advances have been made with respect to the development of post-operative kidney anti-rejection medications (Kidney Foundation of Canada, 2013; tinyurl.com/n5w4skc), organ rejection remains a hurdle that is difficult to overcome given the frequent lack of perfect organ match.
+However, the ability to print a living organ, with the appropriate vascular system built from the patient's own cells, nearly eliminates the risk of kidney rejection.
+The costs associated with both anti-rejection medications and hospital care for patients suffering from organ rejection would be substantially reduced.
+Reductions in the illegal trade of organs The scarcity of organs available to patients internationally has spurred an underground market for the sale of both organs and tissues.
+The need for organs is further amplified in some countries where formal programs for the donation of kidneys from deceased patients are hindered by sociocultural, political, or legal reasons (Shimazono, 2013; tinyurl.com/nmv5kw).
+The trading of organs across international borders is of considerable concern and remains a significant health policy issue for organizations such as the World Health Organization (Shimanozo, 2013; tinyurl.com/nmv5kw).
+However, using 3D printing technology to build replacement organs such as kidneys will help to increase the supply of viable organs and to meet the increasing international demand, thereby reducing the incidence of illegal "organ harvesting" activities for the black market.
+Challenges of 3D Printing within the Field of Nephrology Complexity of printing process 3D printing brings about images of technology with the same complexity as printing with an inkjet printer (Sangani, 2013; tinyurl.com/lb56t7d); however, the process of biofabrication is complex and requires many sequential steps.
+As described by Kasyanov and colleagues (2011; tinyurl.com/kvfodab), the process begins with the genera-tion of a prototyping blueprint specific to the patient.
+Although kidneys are similar from person to person, each kidney bears unique features.
+This uniqueness requires the generation of a kidney design that is specific to each patient.
+Next, robotic printers follow the biological process of tissue growth using sophisticated bioreactors that accelerate the process of tissue maturation.
+To further complicate the matter, intricate vascular trees must be incorporated into the system in order to ensure viability of the organ once it has been printed.
+Altogether, the process is extremely complicated – far more complicated that the common examples of consumer 3D printing, such as printing a rubber duck or a replacement bolt.
+Complexity of design software Unfortunately, physicians cannot simply convert X-ray and MRI images into design templates from which biological scaffolds can be replicated.
+For example, due to shrinkage of the model after printing, a kidney's vascular tree – through which blood will be circulated –cannot readily be predicted (Díaz Lantada and Lafont Morgado, 2012; tinyurl.com/p7k4xx4).
+Because such size changes cannot be accurately predicted and incorporated into a printing file, the design process needs to be iterative.
+The required interventions complicate the design and execution process while increasing the cost (Díaz Lantada and Lafont Morgado, 2012; tinyurl.com/ p7k4xx4).
+Mimicking kidney functions It is not enough to produce a structural replica of an organ; the new organ must be able to perform all its required functions before being transplanted into a patient.
+As an example, if a bioprinted kidney is incapable of secreting erythropoietin (which serves to stimulate red blood cell production), then the organ is worthless.
+In order for the printed organ to fully replace the real organ, complex structures containing cells of different types must be printed (Ozbolat and Yu, 2013; tinyurl.com/km8bqw5).
+Potential trivialization Some researchers have expressed the concern that the readily accessible nature of products via 3D printing will cause people to be careless with their health (Ratto, 2012; tinyurl.com/k4armur).
+The ease of obtaining a replacement item might encourage people to engage in risky behaviours, thinking that 3D organ replacements offer a quick and simple remedy.
+However, the availability of replacement organs must not be taken for granted and must not be perceived as an excuse for increased risky behaviour such as heavy drinking, Technology Innovation Management Review March 2014 23 www.timreview.ca3D Printing: A Revolutionary Advance for the Field of Urology?
+Rebecca Neu which increases the risk of sclerosis of the liver, or smoking, which increases the risk of lung cancer.
+Even once the technology is further refined, the biofabrication of replacement organs, and the surgery and care associated with them, will by no means constitute a trivial solution and should not be regarded as such.
+Technological limitations Although the field of biofabrication has developed considerably over the past years and remains promising for the future, the technology surrounding 3D bioprinters is still in the developmental stages (Díaz Lantada and Lafont Morgado, 2012; tinyurl.com/p7k4xx4).
+Even though there are many biological applications for the technology, most are not currently feasible given the existing technology limitations.
+The research field of tissue engineering has seen explosive growth over the past five years where testing is still primarily limited to animal specimens (Díaz Lantada and Lafont Morgado, 2012; tinyurl.com/p7k4xx4).
+However, it is anticipated that such prototyping technologies will continue to be developed at an accelerated rate in the coming years.
+A key area for further research focuses on the complex stages of organ replication, which must be strictly defined and standardized to improve overall organ quality and production efficiency (Díaz Lantada and Lafont Morgado, 2012; tinyurl.com/p7k4xx4).
+Such standardization will allow physicians to benefit from the technology and to assist each other throughout the fabrication process.
+Given the numerous possibilities that biologically based 3D printing presents the medical field, research must become more multidisciplinary, bringing researchers, universities, private companies, doctors, research facilities, and biomedical engineers together via the collective exchange of information (Díaz Lantada and Lafont Morgado, 2012; tinyurl.com/ p7k4xx4).
+Cooperation among numerous disciplines will not only prove to develop the technology more quickly, making it accessible to deserving patients, but it will drive innovation as more applications are unveiled.
+Recommendations to Nephrology Departments and Hospitals Although much work remains to develop and refine the process of 3D printing for the biofabrication of organs, such as kidneys, hospitals should become engaged in the development and advancement of the research so that they may one day offer the fruits of this technology as solutions to their patients' needs.
+In the short-term, research funds would need to be allocated to researching nephrologists that can work collectively with other research facilities in refining the technology.
+Research objectives should include the development of sophisticated printers that have the ability to print cells or aggregates in a layer-by-layer fashion, for example, by sequentially depositing layers of a gel that is impregnated with a patient's cells (Mironov et al., 2003; tinyurl.com/lyywbus).
+Ozbolat and Yu (2013; tinyurl.com/ km8bqw5) suggest a focus on improving cell and biomanufacturing technologies in addition to technologies for in vivo integration.
+However, one of the largest obstacles for 3D organ printing is vascularization, or the development of blood vessels within the printed organ, which is required to keep the organ viable and functioning after transplantation (Ozbolat and Yu, 2013: tinyurl.com/km8bqw5; Mironov et al., 2003: tinyurl.com/ lyywbus).
+Further, the adoption of such new technology will necessitate the standardization of kidney bioprinting techniques and design software.
+Such software, as previously indicated, can be very complex (Díaz Lantada and Lafont Morgado, 2012; tinyurl.com/p7k4xx4) and is further complicated by the intricate nature of the body's vascular system (Kasyanov et al., 2011; tinyurl.com/kvfodab).
+As a result, significant financial resources would have to be expended by healthcare facilities to purchase such proprietary software in addition to providing in-depth training programs to surgeons.
+Such training programs should include the fundamental aspects of prototyping and bioengineering, given that surgeons would now be assuming the roles of bioengineers.
+As with the introduction of any new technology, there is likely to be some degree of resistance, which may impede the adoption of the technology.
+Support from all levels of management and the identification of champions for the technology are key ingredients for encouraging adoption, as would be training and other opportunities to expose staff to the new technology.
+Entrepreneurial Opportunities As an emerging technology, 3D printing is a rich field for entrepreneurs.
+However, given the ongoing exploration into biofabrication using 3D printing technology, it is not possible to delimit the full scope of entrepreneurial opportunities in this domain.
+Thus, just a few examples of such opportunities are listed below: 1.
+Printer supplies and maintenance: Given the highly sophisticated and intricate nature of biological 3D printers, the printing apparatuses will require regular Technology Innovation Management Review March 2014 24 www.timreview.caCitation: Neu, Rebecca.
+3D Printing: A Revolutionary Advance for the Field of Urology?
+Technology Innovation Management Review.
+Keywords: 3D printing, biological 3D printing, bioprinting, biofabrication, renal failure, organ transplants, nephrology, entrepreneurship About the Author Rebecca Neu is a recent graduate of the Sprott School of Business MBA program at Carleton University in Ottawa, Canada.
+She holds a PhD in Inorganic Chemistry from the University of Toronto, Canada, in addition to an BScH in Inorganic Chemistry from Dalhousie University in Halifax, Canada.
+Currently, her principal area of interest relates to science and technology transfer and commercialization in addition to innovation management.3D Printing: A Revolutionary Advance for the Field of Urology?
+Rebecca Neu maintenance to maintain the highest levels of accuracy and precision.
+A company equipped to deal with printer maintenance could similarly provide repair services and printing supplies.
+3D print shops: To take advantage of this new technology, hospitals may have to purchase bioprinting machines, which will further necessitate the construction of printing or manufacturing labs that would preferably be adjoined to operating rooms for utmost efficiency (Díaz Lantada and Lafont Morgado, 2012; tinyurl.com/p7k4xx4).
+Alternatively, hospitals could partner with third-party print shops that specialize in biofabrication.
+Research and development: Currently, most 3D printing uses readily available materials, such as polyethylene, which are deposited layer-by-layer to yield a tangible object.
+Organ biofabrication, however, uses gels and matrices that are impregnated with donor cells and are then used in the printing process.
+Although, large pharmaceutical and biotechnology companies may come to dominate this space, opportunities exists for niche R&D companies.
+Software development: Bioprinting software will require continual iteration and improvement as the 3D printing technology evolves and matures.
+Given that the scope of biological printing will likely continue to change, the need for specialized biological blueprint software will increase accordingly.
+As per the evolving nature of the technology, such firms could attempt to establish partnerships with researchers, bioengineers, physicians, and hospitals that are currently researching this technology.
+Such relationships could provide an opportunity for a company to grow and mature in conjunction with the technology.
+Software firms not only have potential to contribute to the early stages of software design but can also hope to seek long-term benefits by offering technical support and software training services to the hospitals that carry their software.
+Conclusion Although the process of 3D organ printing hold much promise for patients suffering from renal failure, the technology remains in the development phases.
+The replication of complicated venous systems embedded in most organs remains a significant hurdle and makes organ biofabrication more complicated than, for instance, the 3D printing of simple mechanical parts.
+However, these obstacles may be overcome in the near future through collaborative research partnerships.
+Beyond the current paradigm of printing and then transplanting a biofabricated organ, the future holds the prospect of printing 3D mini-organs, which will fulfill only a certain lacking function of a major organ (Ozbolat and Yu, 2013; tinyurl.com/km8bqw5), and would not necessitate replacing the entire organ, thereby avoiding invasive surgery.
+Similarly, there is the prospect of in situ biofabrication, where a replacement organ would be directly printed into a patient while they undergo a surgical procedure (Ozbolat and Yu, 2013; tinyurl.com/km8bqw5).
+Thus, the technology continues to advance at an astonishing rate, targeting human problems which were previously deemed to be insurmountable or even hopeless.
+Despite the challenges that remain, as time progresses, sustained research and development may continue to yield groundbreaking discoveries in 3D biofabrication to improve the lives of those suffering from renal failure.

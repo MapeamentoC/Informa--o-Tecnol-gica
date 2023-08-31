@@ -1,0 +1,236 @@
+, Ponta Grossa, v. 15, n. 3 , p. 237-252, Jul./Set.
+Página | 237 O mecanismo de patenteamento como estímulo à inovação t ecnológica no Brasil RESUMO Bruno Setton Gonçalves Bruno.setton @arapiraca l.ufal.br Universidade Federal de Alagoas (UFAL ), Arapiraca , Alagoas , Brasil Vanusa Maria de Souza Rito vanusarito @hotmail .com Universidade Federal de Sergipe (UFS), São Cristóvão , Sergipe , Brasil José Nilton de Melo niltonmelo @yahoo .com .br Instituto Federal de Sergipe (IFS), Aracaju , Sergipe , Brasil Gabriel Francisco da Silva gabriel @ufs.br Instituição (SIGLA), Cidade, Estado, País José Ricardo de Santana Jrsantana.ufs @gmail .com Universidade Federal de Sergipe (UFS), São Cristóvão, Sergipe, Brasil O presente artigo identificar á como as variáveis de desempenho (explicativas), representadas pelo financiamento público, gastos com P& D das empresas e capital humano influenciam o processo de inovação, representado pelo mecanismo de patenteamento (variável dependente), e analisar essas variáveis na perspectiva regional.
+Para realização do estudo, foi utilizado o método econométrico de re gressão com dados em painel, considerando os últimos dez anos, distribuídos por triênio (2005, 2008, 2011 e 2014) e por região brasileira.
+Para este estudo, foram analisados dados da Pesquisa de Inovação (PINTEC), nas edições 2005, 2008, 2011, e 2014, dado s do Instituto Nacional da Propriedade Industrial (INPI), do Sistema de Informações Geo rreferenciadas (GEOCAPES), da FINEP e do BNDES, no período de 2005 a 2014.
+Quanto aos resultados encontrados apesar da presença de outliers , ter gerado algumas distorçõe s na interpretação dos testes estatísticos aplicados às amostras, pode -se inferir que as variáveis de desempenho elencadas no modelo explicam em 57% o número de depósitos de patentes no Brasil, confirmando a hipótese adotada.
+, Ponta Grossa, v. 15, n. 3, p. 237-252, Jul./Set.
+Página | 238 INTRODUÇÃO Atualmente a inovação se tornou uma das principais estratégias competitivas para os mercados nacionais e internacionais, e é vista como foco indispensável nas atividades produtivas e no desenvolvimento tecnológico do país (CONTO e ANTUNES, 2013).
+E, por outro lado, a proteção do conhecimento, através do mecanismo de patenteamento, é considerada como indicadores do esforço inovativo brasileiro (CAMPOS e DENIG, 2011).
+A geração de estímulos e de parcerias para apoiar ações conjuntas entre as instituições de ensino e pesquisa e o setor produtivo é extremamente essencial para facilitar o intercâmbio de informações específicas para agilizar os processos de registros de patentes e a definição do s parâmetros de comercialização e transferência de tecnologia (MATIAS -PEREIRA, 2010).
+Para Cativelli e Lucas (2016), a patente é considerada uma valiosa fonte de informação tanto para os pesquisadores quanto para o meio empresarial, podendo gerar uma nova tecnologia.
+Os esforços realizados tanto pelos pesquisadores como pelas empresas brasileiras em prol do avanço industrial e tecnológico do país são importantes, todavia, se faz relevante estudar os mecanismos de patenteamento recente no Brasil.
+O objetivo geral deste capítulo é identificar como as variáveis de desempenho (explicativas), representadas pelo financiamento público, gastos com P&D das empresas e capital humano influenciam o processo de inovação, representado pelo mecanismo de patenteamento (vari ável dependente), e analisar essas variáveis na perspectiva regional.
+A INTRODUÇÃO DA INOVAÇÃO A PARTIR DA TEORIA NEOSCHUMPETERIANA A relação entre inovação tecnológica e sistema econômico foi definida nas últimas décadas a partir de estudos de diversos au tores contemporâneos, chamados de neoschumpeterianos, que tiveram como inspiração nas obras de Joseph Schumpeter (SOUZA, 2016), autor pioneiro no tratamento à importância das inovações e dos avanços tecnológicos no sistema econômico.
+De acordo com Carrijo (2011), os estudos de Schumpeter estabeleceram a definição de que os avanços tecnológicos no desenvolvimento das organizações e da economia são responsáveis por promover a movimentação do sistema capitalista mundial.
+Para a autora, esse conceito abrange as pectos modernos nos processos de geração e difusão de novas tecnologias, observando sua relação com a concentração de capitais, instituições bancárias e ambiente favorável aos mercados.
+A teoria neoschumpeteriana trata das grandes mudanças do capitalismo e dos avanços tecnológicos no desenvolvimento das organizações e da economia nos chamados sistemas nacionais de inovação (AMORIM; FISCHER, 2013).
+No âmbito dessa discussão, Vieira (2010) afirma que na visão dos autores neoschumpeterianos a evolução tecnológ ica é resultante do desenvolvimento de inovações que dependem não somente da natureza do setor de uma economia em que as inovações são geradas, mas também de fatores institucionais.
+O conceito de economia baseada em conhecimento foi idealizado pela corren te neoschumpeteriana, na intenção de evidenciar os fundamentos econômicos da valorização da aprendizagem e do conhecimento nas R. Gest.
+, Ponta Grossa, v. 15, n. 3, p. 237-252, Jul./Set.
+Página | 239 organizações atuais (AMORIM; FISCHER, 2013), compreendendo o campo da ciência e da tecnologia como geradores de produtividade e d esenvolvimento.
+Haddad (2010) destaca ainda que, para uma empresa iniciar um processo de mudança tecnológica, precisa, inicialmente, investir em P&D para a produção de novos produtos ou processos que venham ser disponibilizados e reconhecidos no mercado.
+Dosi (1982) ressalta o papel da inovação tecnológica como determinante para o aumento da produtividade e do desenvolvimento, criando e transformando as estruturas de mercado, envolvendo o surgimento de novos produtos e processos em várias áreas do conhecime nto e, assim, diferenciar -se dos demais concorrentes.
+Por outro lado, Rauen (2015) destaca que a simples introdução de um produto ou processo novo para o mercado não é garantia de diferenciação.
+O processo de inovação também é caracterizado por um ambiente de incerteza, tanto no contexto tecnológico, quanto econômico, em que os resultados e esforços inovativos não são reconhecidos (VIEIRA, 2010).
+Em suma, a corrente neoschumpeteriana estabelece a relação entre o conhecimento, avanço tecnológico e desenvolvi mento econômico, no âmbito do ambiente institucional no qual se encontram as empresas, o setor público, as universidades e centros de pesquisa, e, tem sido a base para parte das intervenções públicas recentes no campo da ciência e da tecnologia, principalm ente no tocante às políticas de investimentos em pesquisa e desenvolvimento para o processo de inovação (RAUEN, 2015).
+SISTEMAS DE INOVAÇÃO E DESENVOLVIMENTO A transformação do conhecimento em inovação tecnológica é considerada um dos maiores desafios da a tualidade, além da geração, aplicação e difusão desse conhecimento produzido (VILLELA; MAGACHO, 2009).
+O processo de inovação necessita de articulação entre setor produtivo, universidade e governo, cujas atividades e interações gerem novas tecnologias.
+O e nvolvimento dessas instituições busca estreitar essa interação formando um sistema de inovação compartilhado.
+O Sistema de Inovação pode ser definido como um conjunto de instituições que contribuem para o desenvolvimento inovativo e aprendizado de um país, setor ou localidade.
+O sistema pode ser constituído de elementos e relações que interagem na produção, difusão e uso do conhecimento, a partir da interação entre atores econômicos, políticos e sociais (CASSIOLATO; LATRES, 2005).
+Em outras palavras, os aut ores reforçam que o processo de inovação deve ser gerado e sustentado através de relações entre empresas, instituições de ensino e pesquisa e agentes de setores públicos e privados, aparentemente distantes da ciência e tecnologia.
+Para Cassiolato e Latres (2005) a implementação das políticas de ciência e tecnologia e políticas industriais, são direcionadas ao sistema de inovação, que passa a ser considerado o mais importante componente das estratégias do processo de desenvolvimento econômico e tecnológico.
+Contudo, esse processo é caracterizado por mudanças estruturais na economia, que afetam diretamente a estrutura produtiva, política, institucional e social do país, seguido pelo esforço interno de geração de novas tecnologias (patentes).
+, Ponta Grossa, v. 15, n. 3, p. 237-252, Jul./Set.
+Página | 240 AS PATENTES COMO U M MECANISMO DE APROPRIAÇÃO DAS INOVAÇÕES A geração de tecnologias dispõe de diversos meios para a proteção das inovações, que vão desde o segredo industrial até o registro de patentes (INÁCIOJÚNIOR, 2012).
+Para Dahlin e Behrens (2005), entre os meios de proteção do conhecimento, a patente é considerada uma das variáveis mais exploradas e pesquisadas no processo de inovação, como também é considerada um produto intermediário do resultado inovativo, uma vez que os lucros podem ser obtidos a partir da prátic a do patenteamento.
+De acordo com Inácio -Júnior (2012), parte da literatura sobre o tema considera a patente como um indicador de resultado que permite comparar o desempenho inventivo e inovativo.
+A proteção do conhecimento está relacionada ao direito de p ropriedade sob um bem que produz ou adquire no mercado, resultante da criatividade da mente humana (GARNICA, 2007).
+Assim, a partir do registro da invenção busca -se a apropriação privada dos resultados econômicos do uso produto ou processo inovador.
+Para C ampos e Denig (2011), o sistema de propriedade intelectual foi criado para garantir a propriedade e exclusividade de algum ativo intangível resultante do esforço intelectual humano, tanto na área industrial, científica, literária e artística.
+Esses ativos intangíveis são os bens que não possuem existência física e são frutos do conhecimento humano.
+A proteção do conhecimento – em especial das patentes – é considerada de grande relevância para o desenvolvimento econômico e tecnológico do país.
+Para Albuquerq ue (1996), na vertente econômica, é ressaltada a questão da apropriabilidade, na qual as patentes devem ser estudadas enquanto um dos mecanismos de apropriação de inovações utilizados em economias capitalistas.
+Com foco no estímulo à inovação, as patentes têm importância cada vez maior para compensar gastos crescentes em P&D (SOUZA, 2016).
+OS SEGMENTOS DE CONHECIMENTO DAS PATENTES As patentes são relevantes indicadores de avaliação da capacidade de transforma ção do conhecimento cientifico em produtos ou inovações tecnológicas, podendo ser utilizadas como base de conhecimento tanto para aquisição , quanto para transferência de tecnologia (TATUM et al , 2018 ).
+Ainda segundo Tatum et al (2018) o sistema de patentes possui um conjunto de informações que possibi litam identificar a evolução de tecnologias no tempo e sua localização geográfica bem como o perfil de seus depositantes (governos, empresas, universidades) ; identificação de novas tecnologias e sua evolução; identificação de potenciais rotas para aperfeiç oamentos em produtos e processos existentes; monitoramento de concorrentes; identificação de mudanças na estratégia de P&D; rastreamento de competência tecnológica .
+Considerando essas informações sobre a base de patentes é possível afirmar que o Brasil apesar de avançar no número de patentes e nas interações entre áreas da ciência e setores da tecnologia, sua produção ainda estar muito atrás do que é praticado pelos países da OCDE, entretanto esse avanço tem o importante papel de diminuir o gap tecnológico do país (BASTOS e BRITO, 2017).
+Outro tema que permeia a discussão é a correlação existente entre produção científica e inovação tecnológica, contudo a utilização de patentes e produção cientifica (artigos) para construção de indicadores de inovação tecnológica, não R. Gest.
+, Ponta Grossa, v. 15, n. 3, p. 237-252, Jul./Set.
+Página | 241 estão pacificadas no estado da arte, para estas variáveis estão associadas a dois processos independentes, ciência e tecnologia, ent retanto, inter -relacionadas, onde para compreender a interação entre a produção proveniente dessas duas variáveis analíticas, é imprescindível que se leve em consideração as especificidades e pontos em comum existentes a essas duas variáveis (BASTOS e BRIT O, 2017 , MOURA e CAREGNATO 2011).
+Estudos que analisam a interação entre C&T constatam que artigos científicos com alto fator de impacto em patentes mostram avanços científicos para o desenvolvimento da inovação tecnológica.
+Onde as citações a artigos científicos nas patentes são conferidas ao pesquisador -inventor e, possivelmente, se referem às ligações diretas, mas, não fundamentalmente a uma relação de causalidade entre C&T.
+Conceitualmente a ciência é compreendida como o caminho pelo qual se busca o ent endimento dos fenômenos, a medida que a tecnologia é vista como um processo que tem por finalidade gerar artefatos.
+Onde a publicação das pesquisas científicas representa o trabalho cientifico, e a tecnologia se materializa no próprio invento e sua represe ntação é a patente (MOURA e CAREGNATO, 2011).
+Ainda para Moura e Caregnato (2011) a produção cientifica é fundamentada em um regime de "ciência aberta", no qual a ciência se enquadraria como um bem público, uma vez que seus resultados são difundidos livrem ente, não gerando rivalidade ou exclusão entre seus demandantes.
+Em oposição a esse regime aberto tem o regime de "tecnologia proprietária", no qual o conhecimento passa a ter um caráter privado e sua disseminação está restrita, através de diversos mecanis mos de proteção à propriedade intelectual, dentre eles a patente.
+Logo, a produção de artigos científicos ao ser publicada está sujeita a críticas e sugestões de aperfeiçoamento, já na produção tecnológica seja no desenvolvimento de produtos ou processos, a publicação dos resultados parciais ou finais só é realizada no momento em que lhe é concedida a patente e sua propriedade intelectual esteja devidamente protegida.
+Ou seja, patentes e artigos pertencem a duas categorias distintas de conhecimento e com ob jetivos diferentes o que faz com haja dificuldades de interação.
+Ainda que exibam diferenças expressivas, artigos e patentes não deixam de serem, expressões da pesquisa, podendo, até mesmo ser produzidos pelos mesmos atores.
+Diante do exposto o estado da a rte tem questionado se a coautoria e convenção interpessoal e interinstitucional, existentes em artigo e patente, expressam uma interação entre ciência e tecnologia (MOURA e CAREGNATO, 2011).
+PROCEDIMENTOS METODOLÓGICOS Nesta seção serão expostos os métod os e técnicas utilizados para a estimação de um painel de dados por meio do método Ordinary least squares (OLS) e do método Panel Corrected Standard Errors (PCSE), desenvolvido por Beck e Katz (1995).
+AS FONTES DAS BASES DE DADOS A base de dados utilizada para a construção do modelo econométrico a ser estimado, partiu da combinação de diferentes fontes, como o Instituto Nacional R. Gest.
+, Ponta Grossa, v. 15, n. 3, p. 237-252, Jul./Set.
+Página | 242 da Propriedade Industrial (INPI); a Pesquisa de Inovação (PINTEC) para a formação das variáveis de desem penho das empresas, para os dados de financiamento público foram utilizadas as bases da Financiadora de Estudos e Projetos (FINEP) e do Banco Nacional de Desenvolvimento Econômico e Social (BNDES) e por fim os dados do Sistema de Informações Georreferencia das da Capes (GEOCAPES) para a construção da proxy de capital humano.
+A amostra, para a elaboração do modelo, é formada pelas 05regiões brasileiras para o período de 2005 a 2014, esse período de 10 anos foi distribuído por triênio (2005, 2008, 2011 e 2014)1.
+O período supracitado foi selecionado de acordo com a disponibilidade das informações divulgadas para a construção de um painel balanceado.
+O recorte territorial (regiões) usado deve -se ao fato de que grande parte das informações disponibilizadas não es tá disponível em níveis territoriais mais desagregados.
+É válido ressaltar as limitações existentes da pesquisa a qual pretende identificar como os mecanismos de financiamento público e privado, influenciando processo de inovação brasileiro, uma vez que cada região possui estruturas econômicas e estruturas de apoio às atividades inovativas distintas.
+No entanto, a unidade de análise tomada representa um avanço no sentido de explorar a dimensão temporal e regional distribuídas no País.
+DESCRIÇÃO DAS VARIÁVEI S INSERIDAS NO MODELO A descrição das variáveis utilizadas nas estimações, assim como seus referenciais teóricos e empíricos será retratada abaixo.
+a) Variável dependente (Patente): é a proxy utilizada para o processo de inovação escolhida como sendo o somatório dos depósitos de Patentes Industrial, Modelos de Utilidade e Certificados de Adição.
+As variáveis explicativas usadas no trabalho foram as seguintes: b) Financiamento Público (Recfin): Re cursos da FINEP e BNDES contemplam os financiamentos reembolsáveis e não reembolsáveis a instituições de pesquisa e empresas brasileiras abrange todas as etapas e dimensões do ciclo de desenvolvimento científico e tecnológico: pesquisa básica, pesquisa apl icada, inovações e desenvolvimento de produtos, serviços e processos.
+A Finep apoia, ainda, a incubação de empresas de base tecnológica, a implantação de parques tecnológicos, a estruturação e consolidação dos processos de pesquisa, o desenvolvimento e a i novação em empresas já estabelecidas, e o desenvolvimento de mercados.
+c) Empresas inovadoras (Empinov): Nos períodos pesquisados, foram consideradas as empresas que implementaram produto e/ou processo tecnologicamente novo ou substancialmente aprimorado, que desenvolveram projetos que foram abandonados ou ficaram incompletos, e que realizaram mudanças organizacionais.
+d) Empresas Inovadoras beneficiadas (Inovbenef): Beneficiadas através de Incentivo fiscal à Pesquisa e Desenvolvimento (Lei nº 8.661, de 02 de jun ho de 1993, e Cap.
+III da Lei nº 11.196, de 21 de novembro de 2005).
+Incentivo fiscal Lei 1 Não é possível incluir o triênio 2014 -2017 , uma vez que a última edição disponível, da Pesquisa de Inovação ( PINTEC ) é 2014.
+, Ponta Grossa, v. 15, n. 3, p. 237-252, Jul./Set.
+Página | 243 de informática (Lei nº 10.664 de 22 de abril de 2003, e Lei nº 11.077 de 30 de dezembro de 2004).
+E pelos programas destinados à compra de máquinas e equipamentos uti lizados para inovar.
+e) Total de Empresas (Totalemp): Total de empresas que participaram da PINTEC nos anos (2005, 2008, 2011 e 2014).
+f) Receita Líquida de Vendas (Recliqvendas): Receita líquida de vendas de produtos e serviços, estimada a partir dos dados das amostras da Pesquisa Industrial Anual.
+g) Dispêndios realizados nas atividades inovativas (Dispinov): Foram consideradas as empresas que implementaram produto e/ou processo tecnologicamente novo ou substancialmente aprimorado.
+h) Capital Humano (KH): é uma proxy , escolhida como sendo número de pesquisadores doutores cadastrados nos censos do diretório dos grupos de pesquisa no Brasil , sem dupla contagem.
+Cabe ainda destacar que as atividades que as empresas empreendem para inovar são de dois tipos: pesquisa e de senvolvimento - P&D (pesquisa básica, aplicada ou desenvolvimento experimental); e outras atividades não relacionadas com P&D, envolvendo a aquisição de bens, serviços e conhecimentos externos.
+A mensuração dos recursos alocados nestas atividades revela o esforço empreendido para a inovação e é um dos principais objetivos das pesquisas de inovação.
+Como os registros são efetuados em valores monetários, é possível a sua comparação entre setores e países, podendo ser confrontados com outras variáveis econômic as (faturamento, custos, valor agregado, etc.).
+O Quadro 1 resume a relação esperada entre o número de registro de patentes nas regiões e as variáveis explicativas selecionadas.
+A análise em questão compreende os anos de 2005, 2008, 2011 e 2014, sob a hipó tese de que as variáveis escolhidas são fatores de influência significativa no registro de patentes nesse período.
+Quadro 1 – Descrição das variáveis utilizadas Variável Sinal Esperado Referencial Teórico e Empírico Fonte PATENTE n/c Bernades, Motta e Alburquerque (2003); Hegde (2005); Sousa (2013); Montenegro, Diniz e Simões (2015).
+INPI RECFIN + Howells (2005); Serra e Vergolino (2010).
+FINEP E BNDES EMPINOV + Rocha e Dufloth (2009), Silva (2015) e Souza (2016).
+PINTEC INOVBENEF + Rocha e Dufloth (2009), Silva (2015) e Souza (2016).
+PINTEC TOTALEMP + Rocha e Dufloth (2009), Silva (2015) e Souza (2016).
+PINTEC RECLIQVENDAS + Rocha e Dufloth (2009), Silva (2015) e Souza (2016).
+PINTEC DISPINOV + Rocha e Dufloth (2009), Silva (2015) e Souza (2016).
+PINTEC KH + Jaffe (1989); De Negri et.
+al ., (2005); Gonçalves (2006); Garcia et al .
+(2014);Montenegro, Diniz e Simões (2015) GEOCAPES Fonte: Elaborado pelos autores R. Gest.
+, Ponta Grossa, v. 15, n. 3, p. 237-252, Jul./Set.
+Página | 244 MODELO DE REGRESSÃO COM DADOS EM PAINEL O procedimento metodológico adotado empregará a técnica de dados em painel, onde, serão apresentadas as estimações por Ordinary least squares (OLS) para dados em painel, efeito aleatório e efeito fixo, além do teste de Hausman para a escolha do melhor mode lo econométrico.
+Os modelos de regressão com dados em painel, geralmente se referem a um tipo particular de dados multiníveis, uma medida no decorrer do tempo, onde são também chamados de dados combinados, por agregar uma combinação longitudinal (séries te mporais) e de observações (N) em corte transversal ( crosssectional ) multiplicadas por períodos de tempo.
+Onde, se N é maior que T, o banco de dados é dominante transversalmente ( cross -sectionally dominant ).
+Se T é maior que N, o banco é dominante em série s de tempo ( time -series dominant ).
+O modelo tratado neste artigo apresenta um banco com N grande e T pequeno, um caso típico de cross -sectionally dominant (GREENE, 2012).
+Contudo para Beck (2009), o importante é se T é grande o suficiente, de forma que ao calcular médias no decorrer do tempo obtenha -se resultados estáveis.
+Os dados em painel também podem ser tipificados em balanceados e não balanceados, o painel é balanceado se as informações de cada evento estiverem disponíveis para todos (T's).
+Caso contr ário, havendo a indisponibilidade de dados ( missing ), para alguns eventos em certos pontos no tempo o banco de dados caracteriza -se por não balanceado (GUJARATI, 2011).
+A opção pelos dados de painel está embasada no argumento de que o método permite o estu do de processos dinâmicos, proporciona um melhor entendimento das relações causais entre as variáveis, permitem ainda o controle de heterogeneidade individual e consentem uma melhor investigação de problemas que são obscuros em dados transversais (GREENE, 2012).
+Contudo, no modelo de dados em painel pode ocorrer problemas relacionados ao enviesamento de seleção, resultantes de dados que não formam uma amostra aleatória (auto -seletividade) e que apresentam ausência de resposta, são os chamados efeitos não ob servados (GREENE, 2012 e WOOLDRIDGE, 2010).
+Logo para a modelagem dos efeitos não observados há duas possibilidades: os efeitos fixos e os efeitos aleatórios.
+No modelo de efeitos fixos parte -se do pressuposto que o intercepto específico de cada evento pod e estar correlacionado com um ou mais regressores.
+Quanto ao modelo de efeitos aleatórios, pressupõe -se que o intercepto (aleatório) de um evento individual não está correlacionado com as variáveis explicativas (WOOLDRIDGE, 2010).
+Nesse caso, ao considerar que as variáveis não são correlacionadas, o método de efeitos aleatórios é o mais apropriado.
+Por outro lado, se os efeitos não observados estão correlacionados com alguma variável explicativa, a estimação por efeitos fixos seria a mais apropriada.
+Para a seleção do método, será realizado o teste de Hausman (WOOLDRIDGE, 2010).
+Diante do exposto, para fins de identificar como os mecanismos de financiamento público e privado, influenciam no processo de inovação brasileiro será adotado um modelo econométrico a ser estimado, na forma empilhada, pela seguinte forma funcional: R. Gest.
+, Ponta Grossa, v. 15, n. 3, p. 237-252, Jul./Set.
+Página | 245 Patente it =β 0 +β 1 Recfin it +β 2 Empinov it +β 3 Inovbenef it +β 4 Totalemp it +β5 Recliqvendas it +β6 Dispinov it +β7 Doutores it +μi +εit em que i = 1, 2,.5 refere -se a cada uma das 5 regiões, t = 1, 2,.,10 contabiliza as 10 observações anuais para as variáveis de cada região (período 2005 -2014), o β0 refere -se ao parâmetro do intercepto , o valor da média da distribuição de Y. Os β1,2.
+7 são os coeficientes angulares, μ são os efeitos individuais não observáveis dos estados e Ԑ termo de erro da região i no ano t (GUJARATI, 2011).
+RESULTADOS E DISCUSSÕES Nesta seção busca -se analisar a relação entre a variável dependente "patente" - proxy utilizada para o processo de inovação - e as variáveis explicativas mencionadas nos procedimentos metodológicos.
+Os dados coletados referem -se às cinco regiões brasileiras, compreendendo os anos de 2005, 2008, 2011 e 2014 .
+Inicialmente percebe -se que em algumas regiões diversas variáveis acompanham a mesma evolução das patentes.
+É o caso das regiões Norte e Nordeste, por exemplo.
+Contudo, a região Sudeste não apresentou essa mesma tendência, pois os anos de 2011 e 2014 registraram uma queda no número de patentes se comparados aos anos de 2005 e 2008, ao passo que muitas variáveis mostraram crescimento nesse mesmo período, é o caso do número de doutores, financiamento público, número de empresas inovadoras, empresas inovadoras beneficiadas, receita líqu ida de vendas e dispêndios realizados nas atividades inovativas.
+O intuito deste estudo é analisar o impacto das variáveis explicativas sobre o número de patentes depositadas nas regiões brasileiras.
+Na tabela 1 são apresentadas as estatísticas descritivas de cada proxy empregada, trazendo um sumário com o número de observações, médias, desvio padrão e os valores de mínimo e de máximo de todas as variáveis.
+Observa -se que em algumas variáveis o desvio padrão é bastante alto, como nos casos do número de empr esas inovadoras e na receita líquida de vendas, cujos desvios padrões ultrapassam suas médias.
+Isso acontece em virtude da amplitude dos dados.
+Como exemplo, o valor mínimo de empresas inovadoras foi de 944 (referente à região Norte em 2005) e o valor máxi mo foi de 21089 (referente à região Sudeste em 2011).
+Tabela 1: Estatísticas descritivas Variáveis Observações Média Desvio Padrão Mínimo Máximo Patente 20 1512.35 1735.839 82 4805 Recefin 20 9.29e+08 1.96e+09 0 8.62e+09 Empinov 20 7656.6 7137.783 944 21089 Inovbenef 20 2312.65 2402.571 217 7640 Totalemp 20 21308.95 20388.28 2919 61288 Reciliqvendas 20 3.91e+08 5.33e+08 2.26e+07 1.86e+09 Dispinov 20 9325555 1.28e+07 578269 3.98e+07 KH 20 12398.95 11796.6 1420 42465 Fonte: Elaborado pelos autores via Stata versão 14.1 R. Gest.
+, Ponta Grossa, v. 15, n. 3, p. 237-252, Jul./Set.
+Página | 246 Outra informação relevante a ser apresentada é o coeficiente de correlação de Pearson, descrito pela seguinte fórmula: 𝑟=∑ (𝑥−𝑥)𝑛 𝑖=1(𝑦−𝑦)/√∑ (𝑥−𝑥)𝑛 𝑖=12×∑ (𝑦−𝑦)²𝑛 𝑖=1 Segundo Gujarati (2011), o coeficiente de Pearson (p) varia entre -1 e 1.
+O sinal indica a direção, que pode ser positiva ou negativa, da relação e o valor indica a força da relação entre as variáveis.
+Desta forma, caso o coeficiente seja negativo, a relação entre as duas variáveis é inversa, ao passo que se for positivo , sua relação é direta.
+Por outro lado, quanto mais próximo dos extremos, mais forte é a relação entre as duas variáveis, sendo que se o coeficiente for igual a 1, pode -se afirmar que existe uma correlação perfeita entre elas.
+De acordo com os dados contid os na tabela 2, há uma forte correlação positiva entre patentes e seis das sete variáveis explicativas do modelo, com valores que variam de 0,83 a 0,98, conforme pode ser visto na segunda coluna.
+Apenas a variável referente ao financiamento público (recurs os da FINEP e BNDES) apresentou uma média correlação positiva (0,58).
+Essa forte correlação positiva entre essas variáveis corrobora com a hipótese deste trabalho, isto é, as variáveis explicativas utilizadas no modelo de fato influenciam positivamente no número de patentes de uma região.
+Tabela 2: Correlação entre as variáveis Pat Recefin Empinov Inovben Totalem Reciliq Disp KH Pat 1.0000 Recefin 0.5796 1.0000 Empinov 0.9752 0.6483 1.0000 Inovben 0.8324 0.7864 0.9216 1.0000 Totalem 0.9851 0.6651 0.9939 0.9074 1.0000 Reciliq 0.9156 0.8151 0.9198 0.8865 0.9407 1.0000 Disp 0.9467 0.7304 0.9270 0.8492 0.9515 0.9891 1.0000 KH 0.9117 0.7758 0.9275 0.8882 0.9477 0.9688 0.9631 1.0000 Fonte: Elaborado pelos autores via Stata versão 14.1 Conforme a tabela 3 o modelo apresentou um grau de ajustamento global satisfatório, apresentando um coeficiente de determinação R² (R quadrado) de 0,57.
+O R² representa a proporção da variabilidade na variável dependente "patente" explicada pelas variáveis explicativas utiliza das.
+Neste caso, pode -se inferir que as variáveis explanatórias explicam em 57% a variação do número de depósitos de patentes nas regiões brasileiras.
+Esse indicador foi utilizado como proxy para o processo de inovação e refere -se ao somatório dos depósito s de Patente Industrial, Modelo de Utilidade e Certificado de Adição.
+Como o processo inovativo de qualquer região é um processo complexo e dinâmico, outras variáveis não contempladas no presente trabalho certamente também exercem forte influência no númer o de patentes depositadas, o que explica os 43% restantes do R quadrado.
+, Ponta Grossa, v. 15, n. 3, p. 237-252, Jul./Set.
+Página | 247 Tabela 3: Dados em painel – efeitos aleatórios R² = 0,5670 Teste F = 0,0000 Patentes depositadas no INPI Coef.
+Err z p-valor Recefin 1,01e -07 4.63e -08 2.19 0.029 Empinov 0.1069229 .0390868 2.74 0.006 Inovben -.19111273 .0356174 -5.37 0.000 Totalem .0644706 .152799 4.22 0.000 Reciliq -2,45e -06 8.32e -07 -2.95 0.003 Disp .0001257 .0000305 4.11 0.000 KH -.0335301 .008314 -4.03 0.000 Cons -129.2131 40.96705 -3.15 0.002 Fonte: Elaborado pelos autores via Stata versão 14.1 Outras medidas estatísticas ainda apresentadas na tabela 3 como o teste "F", que também mede a qualidade global do ajustamento.
+Este apresentou alta relevância, ficando inferior a 0,05, tendo em vista qu e o nível de significância adotado foi superior a 95%.
+Neste caso, valores inferiores a 0,05 demonstram aceitação do modelo.
+O teste t, teste de significância dos coeficientes de regressão, é utilizado para verificar a veracidade ou a falsidade de uma hipó tese nula.
+Esse tipo de teste é utilizado quando a estatística de teste segue uma distribuição normal, mas a variância da população é desconhecida.
+Nesse caso, é usada a variância amostral s2 e, com esse ajuste, a estatística de teste passa a seguir uma di stribuição t- Student .
+A decisão de aceitar ou rejeitar a hipótese nula é tomada com base no valor desse teste (GUJARATI, 2011).
+Nesse trabalho utilizou -se o nível de corte para o "p -valor" de 5% e nível de confiança de 95%.
+Todos os valores referentes aos parâmetros utilizados foram relevantes para o modelo, visto que apresentaram níveis de corte inferiores a 0,05, o que representa um nível de confiança de no mínimo 95% nas estimações dos parâmetros , conforme apresentado na tabela 3.
+Quanto aos sinais espe rados, a hipótese inicial apontava para valores positivos em relação a todas as variáveis explicativas e a variável dependente "Patente", demonstrando uma correlação positiva entre elas.
+Contudo, das sete variáveis explicativas adotadas, três demonstraram sinais negativos, quais sejam: empresas inovadoras beneficiadas (Inovbenef), receita líquida de vendas (Recliqvendas) e capital humano (KH).
+A alta amplitude dessas variáveis em relação às regiões pode ter contribuído para esses resultados.
+Como ilustração , o número de doutores na região Sudeste em 2014 foi de 42465, ao passo que na região Norte foi de 3905, sendo que a média geral do número de doutores para todas as regiões em todos os períodos foi de 12398.
+A presença dos chamados outliers , tanto na variável capital humano como em outras do modelo, pode ter gerado essas inconsistências de resultado.
+A existência de outliers implica, tipicamente, em prejuízos à interpretação dos resultados dos testes estatísticos aplicados às amostras (GUJAR ATI, 2011).
+Sugere -se, portanto, que futuros trabalhos dessa temática incluam outras variáveis explicativas e de controle, bem como realize outros testes específicos no intuito de detectar a alteração do sinal R. Gest.
+, Ponta Grossa, v. 15, n. 3, p. 237-252, Jul./Set.
+Página | 248 esperado de positivo para o negativo em alguns parâmetros, mesmo quando o coeficiente de correlação entre as variáveis apresente correlação positiva.
+CONSIDERAÇÕES FINAIS O estímulo à inovação é uma estratégia de suma importância para promover a competitividade das empresas, principalmente no caso de países em desenvolvimento, como é o caso do Brasil.
+A combinação de políticas públicas e privadas são essenciais para promover o ambiente inovador, tanto nas instituições de pesquisa quanto nas empresas.
+Cabe ressaltar que o objetivo dessa pesquisa não foi demonstrar de maneira definitiva todas as variáveis que influenciam em maior ou menor grau do depósito de patentes nas regiões brasileiras.
+Sabe -se que cada região do Brasil possui suas características socioeconômicas e que essas regiões absorvem de maneira diferente os estímulos em P&D que recebem.
+O objetivo desse estudo foi mostrar, empiricamente, como , os mecanismos de financiamento público e privado influenciam diretamente no processo inovativo de qualquer nação ou região.
+A partir da inclusão de u ma regressão com dados em painel com efeitos aleatórios, pode -se verificar que cerca de 57% (R quadrado) das variáveis elencadas no modelo explicam o número de depósitos de patentes no Brasil, confirmando a hipótese adotada.
+, Ponta Grossa, v. 15, n. 3, p. 237-252, Jul./Set.
+Página | 249 The patenting mechanism a s an i ncentiv e to technological innovation in Brazil ABSTRACT This article aims at identifying how the (explanatory) performance variables, represented by public financing, business R & D expenditures and human capital influence the innovation process, represented by the patenting mechanism (dependent variable), and analyze these variables from a regional perspective .
+For the study, the econometric method of regression with panel data, considering the last ten years, was used for three years (2005, 2008 , 2011 and 2014) and by Brazilian region.
+For this study, data from the Innovation Survey (PINTEC) were analyzed in the 2005, 2008, 2011, and 2014 editions, data from the National Institute of Industrial Property (INPI), the Georeferenced Information Syste m (GEOCAPES), FINEP and BNDES, from 2005 to 2014.
+Regarding the results found despite the presence of outliers, it has generated some distortions in the interpretation of the statistical tests applied to the samples, it can be inferred that the performance variables listed in the model explain in 57% the number of patent deposits in Brazil, confirming the hypothesis adopted.
+, Ponta Grossa, v. 15, n. 3, p. 237-252, Jul./Set.
+Página | 250 REFERÊNCIAS ALBUQUERQUE, E. M. Sistema Nacional de Inovação no Brasil: uma análise introdutória a partir de dados disponíveis sobre a ciência e a tecnologia.
+Revista de Economia Política , v. 16, n. 3 (63), p. 56 -72, 1996.
+AMORIM, W. A. C.; FISCHER, A. L. A aprendizagem organizacional e suas bases econômicas.
+Nova Economia , v. 23, n. 2, p. 329 -366, 2013.
+e BRITTO, J. Inovação e geração de conhecimento científico e tecnológico no Brasil: uma análise dos dados de cooperação da Pintec segundo port e e origem de capital.
+Inov ., Campinas (SP), 16 (1), p. 35 -62, janeiro/junho 2017.
+BECK, N.; KATZ, J. N. What to do (and not to do) with time -series cross -section data.
+The American Political Science Review , V.89, Issue 3 (Sep, 1995), 634 -647.
+CAMPOS, A. C.; DENIG, E. A. Propriedade intelectual: uma análise a partir da evolução das patentes no Brasil.
+v. 13, n. 18, p. 97 -120, 2011.
+CARRIJO, M. C. Inovação e Relações de Cooperação: uma análise sobre o Programa de Apoio à Pesquisa em Empresas ( Pappe).
+216 f. Tese (Doutorado em Economia) Programa de Pós -Graduação em Economia , Universidade Federal de Uberlândia (UFU), Uberlândia/MG, 2011.
+CASSIOLATO, J. E.; LASTRES, H. M. M. Sistemas de inovação e desenvolvimento: as implicações de política.
+São Paulo: São Paulo em Perspectiva , v. 19, n.1, p.p.34 -45, 2005.
+CATIVELLI, A. S.; LUCAS, E. R. O. Patentes universitárias brasileiras: perfil dos inventores e produção por área do conhecimento.
+Encontros Bibli: Revista Eletrônica de Biblioteconomia e Ciência da Informação , v. 21, n. 47, 2016.
+A. V. Sistema Nacional de Inovação: uma análise qualitativa de publicações do site web of knowledge.
+Estudo & Debate , Lajeado, v. 20, n. 2, p. 159 -176, 2013.
+DAHLIN, Kristina B.; BEHRENS, Dean M. When is an invention really r adical?
+: Defining and measuring technological radicalness.
+Research Policy , v. 34, n. 5, p. 717-737, 2005.
+, Ponta Grossa, v. 15, n. 3, p. 237-252, Jul./Set.
+Página | 251 DOSI, G. Technological paradigms and technological trajectories: a suggested interpretation of the determinants and directions of technical change.
+GARNICA, L. A. Transferência de Tecnologia e gestão da propriedade intelectual em universidades públicas no estado de São Paulo.
+206 f. Dissertação (Mestrado em Engenharia de Produção) – Universidade Federal de São Carlos, São Carlos, 2007.
+GREENE, W. H. Análise Econométrica .
+GUJARATI , D. N. Econometria Básica - 5ª Ed.
+HADDAD, E. W. Inovação Tecnológica em Schumpeter e na ótica Neoschumpeteriana.
+Disponível em: < > Acesso em 07/11/2016 .
+INÁCIO -JÚNIOR, E. PMEs x Inovação: Desempenho: o que elas obtêm.
+Um estudo exploratório a partir dos microdados da PINTEC.
+São Paulo: Blucher Acadêmico, 2012.
+MATIAS -PEREIRA, J. Fragilidades e perspectivas do sistema de proteção à propriedade intelectual no Brasil.
+Revista Gestão Industrial , Ponta Grossa, v. 6, n .
+MOURA, Ana Maria Mielniczuk e CAREGNATO, Sônia Elisa.
+Co -autoria em artigos e patentes: um estudo da interação entre a produção científica e tecnológica.
+Perspectivas em Ciência da Informação , v.16, n.2, p.153 -167, abr/jun.
+RAUEN, A. T. Taxa de inovação à luz da teoria neoschumpeteriana.
+Repositório do Conhecimento do Ipea, p. 37 -43, 2015.
+Disponível em: /handle/11058/3556.
+SOUZA, V. M. Inovação e desenvolvimento regional no Brasil: indicadores de desempenho e mecanismos de financiamento.
+107 f. Dissertação (Mestrado em Ciência da Propriedade Intelectual) - Universidade Federal de Sergipe (UFS), São Cristovão, 2016.
+Patentes do Brasil: História e Atualidades.
+Em: RUSSO, S.L, SILVA, M.B da e SANTOS, V.M.L dos.
+Propriedade Intelectual e Gestão de tecnologias .
+Aracaju: Associação Académica de Propriedade Intelectual, 2018.
+, Ponta Grossa, v. 15, n. 3, p. 237-252, Jul./Set.
+Página | 252 VIEIRA, R. M. Teoria da firma e inovação: um enfoque neo -schumpeteriano.
+Revista Cadernos de Economia , v. 14, n. 27, p. 36 -49, 2010.
+VILLELA, T. N.; MAGACHO, L. A. M. Abordagem histórica do Sistema Nacional de Inovação e o papel das Incubadoras de Empresas na interação entre agentes deste sistema.
+Seminário Nacional de Parques Tecnológicos e Incubadoras de Empresas , v. 19, 2009.
+WOOLDRIDGE, J. M. Introdução a Econometria: uma abordagem moderna .
+Tradução da 4ª edição Norte -Americana.
+São Paulo: Cengage Learning, 2014 .
+Recebido : 10 Nov. 2018 Aprovado : 30 Set .
+2019 DOI: 10.3895/ gi.v15n3 .9044 Como citar : GONÇALVES , B.S.
+O Mecanismo de Patenteamento como Estímulo à Inovação Tecnológica no Brasil .
+Industr ., Ponta Grossa, v. 15, n. 3, p. 237-252, Jul./Set.
+Correspondência: Bruno Setton Gonçalves Universidade Federal de Alagoas , Alagoas, , Brasil .
+Direito autoral: Este artigo está licenciado sob os termos da Licença Creative Commons -Atribuição 4.0 Internacional.

@@ -1,0 +1,187 @@
+DOI: 563Sistematização de um Modelo de Prospecção Tecnológica com as Ferramentas Espacenet e Iramuteq: aplicação para banco de dados de patentes verdes do elemento fósforo Systematization of a Model of Technological Prospection With the Spacenet and Iramuteq Tools: application to the bank of green patent data of the phosphorus element T atiana Costa Nascimento1 Erick Samuel Rojas Cajavilca1 Aline T eles Santos1 1Universidade Federal do Oeste da Bahia - UFOB, Barreiras, BA, Brasil.
+Resumo A presente pesquisa busca sistematizar um modelo com ferramentas open source a fim de auxiliar pesquisadores, oficinas de transferência de tecnologia, startups , universidades, empresas e outras instituições nas atividades de mineração de dados textuais e prospecção tecnológica de patentes.
+Para isso, desenvolvemos um software denominado Espaceteq para contribuir nas tarefas de agrupamento, classificação e análise das associaçõe s por meio de relatórios gráficos e numéricos do banco de dados pesquisado.
+Esse sistema pode ser operado off-line/on-line e em vários sistemas operacionais: Unix, Windows e OS.
+Por fim, é um software de tamanho médio, operando com mais de 10.000 registros.
+Palavras-chave: Prospecção tecnológica.
+Abstract This research seeks to systematize a model with open source tools to assist researchers, technology transfer workshops, startups, universities, companies and other institutions in the construction of textual data mining and technology patents prospecting.
+For this, we developed a software called Espaceteq to contribute in "key words" grouping, classification and analysis of the associations through graphical and numerical reports taken from the researched database.
+This system can be operated offline/online and in various operating systems: Unix, Windows and OS.
+Finally, it is a medium-sized software, operating with over 10,000 records.
+Keywords: Technology prospecting.
+Área tecnológica: Tecnologia, Propriedade intelectual.
+Artigo recebido em: 08/07/2018 Revisado em: 12/08/2018 Aprovado em: 05/09/2018Direito autoral e licença de uso: Este artigo está licenciado sob uma Licença Creative Commons.
+Com essa licença você pode compartilhar, adaptar, para qualquer im, desde que atribua a autoria da obra, forneça um link para a licença, e indicar se foram feitas alterações.564Cadernos de Prospecção – Salvador, v. 12, n. 3, p. 563-575, setembro, 2019Tatiana Costa Nascimento, Erick Samuel Rojas Cajavilca, Aline Teles Santos 1 Introdução Em nenhuma outra época da história da humanidade encontramo-nos tão saturados por um grande volume de informação, ao passo que estamos, cada vez mais, sedentos pelo conhecimento.
+Se, por um lado, o avanço tecnológico facilitou o compartilhamento e o acesso a toda sorte de dados, por outro lado, proporcionou o surgimento de um mercado globalizado altamente incerto e competitivo.
+Nessa atual conjuntura, o desafio não se resume em ter acesso a uma vasta rede de informações, mas sim, em saber como reter dados relevantes, analisá-los e transformá-los em conhecimento para a construção do planejamento estratégico e de perspectivas futuras.
+Afinal, vivemos hoje na sociedade do conhecimento, e esse conhecimento é, sem dúvida, o ativo mais importante que indivíduos, empresas, setores, instituições, regiões e países podem investir para que obtenham vantagem competitiva.
+Nesse contexto, o conhecimento de perspectivas futuras é uma importante ferramenta estratégica para as economias, sociedades e organizações.
+É essa essência que está por trás das definições de prospecção.
+Prospecção é "toda atividade que melhora a compreensão sobre as consequências futuras dos desenvolvimentos e das escolhas atuais" (COELHO, 2003).
+O conceito de prospecção parte de uma abordagem sistêmica a qual considera o todo, fatores e atores envolvidos, bem como suas inter-relações (PELAEZ, 2006).
+Ademais, procura identificar futuros possíveis, futuros desejáveis e futuros alcançáveis (EU, 2006).
+A prospecção também pode ser caracterizada como um processo sistematizado que procura avaliar, descobrir e examinar o futuro a longo prazo, seja da ciência, da tecnologia, da economia e da sociedade.
+Seu objetivo final é o descobrimento de áreas estratégicas para pesquisa e tecnologias emergentes que tenham futuro, isto é, que sejam capazes de gerar benefícios econômicos e sociais crescentes e escaláveis (MARTIN et al., 1998).
+"Os exercícios de prospecção funcionam como meio de atingir dois objetivos: o primeiro é preparar os atores na indústria para aproveitar ou enfrentar oportunidades ou ameaças futuras.
+O segundo objetivo é desencadear um processo de construção de um futuro desejável" (KUPFER; TIGRE, 2004).
+De acordo com o Community Reseachand DevelopmentInformation Service of Science (CORDIS) da Comissão Europeia, a prospecção tecnológica engloba atividades que procuram pensar, debater, analisar e modelar o futuro (EU, 2006).
+É isto que está por trás das metodologias de prospecção tecnológica: a necessidade de se conhecer o futuro (MAYERHOFF , 2008).
+Nessa perspectiva, a análise de tecnologias, em especial de patentes, e suas implicações são vitais para a obtenção de vantagem competitiva e para o processo de inovação.
+Entretanto, as ferramentas mais utilizadas para a prospecção tecnológica são comerciais.
+Devido aos seus valores elevados, elas inibem a pesquisa daqueles que não possuem recursos suficientes para adquirir as licenças de uso (ROJAS CAJAVILCA, 2015).
+Por outro lado, as ferramentas open source são acessíveis, mas possuem mais restrições técnicas.
+Assim, através de uma pesquisa acadêmica, a presente pesquisa busca sistematizar um modelo de prospecção tecnológica, com ênfase na prospecção tecnológica de patentes.
+De forma específica, este artigo tem como propósito sistematizar um modelo de prospecção tecnológica com as ferramentas open source Espacenet e Iramuteq, de modo que eventuais restrições sejam suprimidas, a fim de aplicá-lo em um banco de dados de patentes verdes do elemento fósforo para testar e validar o procedimento.
+Esse objetivo é, por sua vez, constituído pelos seguintes objetivos específicos: (1) Montar um banco de dados através da busca de patentes verdes do 565Cadernos de Prospecção – Salvador, v. 12, n. 3, p. 563-575, setembro, 2019Sistematização de um Modelo de Prospecção Tecnológica com as Ferramentas Espacenet e Iramuteq: aplicação para banco de dados de patentes verdes do elemento fósforo elemento fósforo na base de dados on-line Espacenet, utilizando os códigos de patentes relacionados no Inventário Verde do IPC; (2) Desenvolver um software para facilitar o processo de importação de patentes no Iramuteq; e (3) Realizar a análise textual das patentes no Iramuteq, gerando tabelas e gráficos.
+Para cumprir seus objetivos, esta pesquisa está estruturada em seções, incluindo esta introdução.
+Na segunda seção, Metodologia, expusemos a orientação metodológica que norteou o andamento da pesquisa.
+Na terceira seção, Resultados e Discussão, listamos os resultados alcançados e discutimos a realização deste trabalho a partir de seus objetivos específicos.
+Na quarta seção, Considerações Finais, apresentamos as considerações finais deste trabalho, esclarecendo suas limitações e levando desafios e sugestões para o desenvolvimento de mais pesquisas e soluções neste âmbito.
+Por fim, na última sessão, apontamos as referências norteadoras da pesquisa.
+2 Metodologia O mapeamento científico e tecnológico futuro de patentes permite a projeção de um cenário estratégico para subsidiar a tomada de decisão.
+Todavia, as ferramentas mais utilizadas para a prospecção tecnológica são comerciais.
+Nesse sentido, esse dilema acaba inviabilizando a pesquisa para aqueles que não possuem recursos suficientes para adquirir as licenças de uso.
+Por outro lado, as ferramentas open source são acessíveis, mas possuem mais restrições técnicas que aquelas e acabam limitando o estudo.
+Sendo assim, procuramos desenvolver um modelo de prospecção tecnológica com ferramentas open source que imponha o mínimo de dificuldades, orientando os profissionais que desejam explorar os recursos da documentação de patentes na realização de coleta de informações para estudos de prospecção.
+Para isso, utilizamo-nos da abordagem de pesquisa enquadrada como pesquisa acadêmica, sendo realizada na própria academia como projeto de iniciação científica sob supervisão do orientador, enfatizando a metodologia de análise de patentes para a construção do modelo.
+A primeira etapa do modelo trata do exame de ferramentas open source para a prospecção tecnológica de patentes, objetivando a seleção das mais aptas para este fim.
+Primeiramente, como escolha metodológica, é importante definir a base de dados a ser utilizada.
+Sendo assim, inicialmente, para se fazer uma prospecção tecnológica de patentes é necessário escolher a base de dados na qual se pretende realizar a pesquisa, podendo ser pública ou privada.
+Entretanto, a principal limitação de qualquer uma delas são os 18 meses de sigilo do documento que ainda não foi publicado.
+Ainda assim, elas constituem a melhor fonte de informação tecnológica.
+Para o modelo proposto nesta pesquisa foram investigadas bases de dados gratuitas, já que estão mais prontamente acessíveis.
+Dentre essas bases, temos: a) Instituto Nacional da Propriedade Industrial – INPI; b) Escritório Europeu de Patentes – EPO; c) OMPI – PATENTSCOPE; d) Escritório Norte-americano de Marcas e Patentes – USPTO; e) Escritório Japonês de Patentes – JPO; f) Escritório Koreano de Patentes – KIPO; 566Cadernos de Prospecção – Salvador, v. 12, n. 3, p. 563-575, setembro, 2019Tatiana Costa Nascimento, Erick Samuel Rojas Cajavilca, Aline Teles Santos g) Escritório Chinês de Patentes – SIPO; h) Escritório Indiano de Patentes – IP .
+Cada base de dados possui suas peculiaridades com respeito ao escopo geográfico, à forma do tratamento dos dados recuperados, ao intervalo de tempo escolhido para análise e à disponibilidade de acesso.
+Portanto, escolhemos a base de dados Espacenet porque cumpre com maiores requisitos, pode ser acessado a partir do Portal de Periódicos da CAPES e também está disponível na Internet.
+Com essa ferramenta, podemos pesquisar e encontrar publicações de patentes, acompanhar o progresso das tecnologias emergentes, o estado da arte e conhecer o que concorrentes estão a desenvolver.
+Figura 1 – Base de Dados Espacenet Fonte: Elaborada pelos autores deste artigo (2016) Espacenet é uma base de dados on-line do Escritório Europeu de Patentes, possuindo cobertura internacional em mais de 90 países e acesso livre a mais de 90 milhões de documentos.
+As pesquisas nessa ferramenta são feitas com a utilização de palavras-chaves em inglês no título e∕ou no resumo e com o preenchimento dos demais campos de busca.
+São eles: números de publicação, do pedido e de prioridade, com ou sem o código do país; data de publicação; nome de uma ou mais pessoas/organizações (requerentes e inventores); e símbolos de classificação CPC e IPC.
+O limite é de dez termos por campo e vinte no total da busca.
+Essas informações encontram-se disponíveis no site da base de dados Espacenet.
+Para fins de aplicação deste trabalho, utilizamos códigos de patentes relacionados no Inventário Verde do IPC, refinando ao máximo a pesquisa.
+O sistema de Classificação Internacional de Patentes (IPC) utiliza-se de símbolos para classificar patentes e modelos de utilidade de acordo com sua área de tecnologia.
+As áreas tecnológicas são divididas nas classes A a H, onde há também subclasses organizadas através de um sistema hierárquico.
+A Classificação Cooperativa de Patentes (CPC), por sua vez, é baseada no IPC, sendo mais detalhada.
+Enquanto a IPC possui por volta de 70 mil grupos, a CPC possui em torno de 200 mil grupos.
+Essas informações encontram-se disponíveis no site do Instituto Nacional da Propriedade Industrial (INPI).567Cadernos de Prospecção – Salvador, v. 12, n. 3, p. 563-575, setembro, 2019Sistematização de um Modelo de Prospecção Tecnológica com as Ferramentas Espacenet e Iramuteq: aplicação para banco de dados de patentes verdes do elemento fósforo Para montar um banco de dados mais apurado podemos ainda combinar os termos de pesquisa usando os operadores booleanos AND, OR e NOT, respeitando o limite de até nove operadores por campo de pesquisa e dezenove na pesquisa inteira.
+A plataforma permite ainda a truncagem para incluir, por exemplo, a forma plural de uma palavra.
+O Espacenet, como toda ferramenta gratuita, possui algumas restrições técnicas.
+Uma delas é a impossibilidade de se visualizar mais de 25 itens por vez, sendo necessário carregar os próximos registros.
+Além disso, o limite de exibição e, consequentemente de download , é de 500 resultados por consulta.
+O banco de dados baixado na plataforma possui o formato .csv e .xls, podendo ser visualizado em Excel.
+Como vimos, as bases de dados podem ser gratuitas ou comerciais e dependem de uma série de variáveis.
+Sendo assim, escolhemos a bases de dados Espacenet por que, além de gratuita, satisfaz maiores necessidades quanto ao escopo geográfico, à forma de acesso e ao tratamento das informações.
+Em seguida, investigamos outra ferramenta que dialogue com os dados obtidos nessa plataforma e facilite a visualização dos resultados.
+A ferramenta open source escolhida para a análise dos dados foi o software Iramuteq, que se ancora à linguagem e ambiente de desenvolvimento integrado R, devido à sua praticidade e reconhecimento.
+A análise de patentes permite ao pesquisador monitorar o ecossistema, quantificar dados qualitativos, obter informações relevantes sobre patentes, identificar tecnologias emergentes e seu estágio, projetar avanços, dentre outros.
+Para a análise de patentes realizaremos uma análise textual.
+Não se trata de investigar palavras isoladas, mas sim, vocábulos inseridos em seu contexto.
+Essa metodologia de prospecção tecnológica representa um grande avanço para os pesquisadores sociais.
+Para realizar a análise textual, escolhemos o Iramuteq por ser um software open source e específico já consagrado para este fim.
+Além disso, possui um ambiente amigável de fácil manuseio e compreensão.
+O Iramuteq é uma interface do software R para análise multidimensional de textos e questionários, dependendo totalmente deste para seu perfeito funcionamento.
+Portanto, antes de instalar e utilizar o Iramuteq, devemos instalar o R. O software R, por sua vez, é um ambiente de software próprio para computação estatística e gráficos, compatível com uma ampla variedade de plataformas UNIX, Windows e Mac OS.
+Figura 2 – Software Iramuteq Fonte: Elaborada pelos autores deste artigo (2016)568Cadernos de Prospecção – Salvador, v. 12, n. 3, p. 563-575, setembro, 2019Tatiana Costa Nascimento, Erick Samuel Rojas Cajavilca, Aline Teles Santos A segunda etapa representa o recorte metodológico de seleção de tecnologias pesquisadas, utilizando os códigos de patentes relacionados no Inventário Verde do IPC.
+Essa parte da pesquisa é crucial, pois permite realizar a seleção de dados mais adequada aos objetivos propostos para a montagem do banco de dados.
+Nesse sentido, realizamos a coleta de dados com a busca de patentes verdes do elemento fósforo na base de dados on-line Espacenet.
+A terceira etapa da pesquisa consiste no desenvolvimento de um software para facilitar e agilizar o processo de importação do banco de patentes ao Iramuteq, contando com o conhecimento técnico de informática no tocante à programação.
+A realização desse estágio é imprescindível para o sucesso do modelo proposto neste trabalho, contribuindo para a viabilização da pesquisa nesse âmbito.
+Para tornar mais eficiente o processo de importação de patentes foi desenvolvido um software capaz de suportar diversas arquiteturas e sistemas operacionais.
+Caso contrário, o processo de integração das plataformas Espacenet e Iramuteq seria realizado manualmente pelo próprio pesquisador, patente por patente.
+Tal atividade mecânica demandaria muito tempo, em se tratando de grande volume de dados, e conhecimento prévio acerca de comandos e formatações do Iramuteq.
+O Espaceteq transforma os dados textuais do banco de dados obtido na plataforma Espacenet em comando entendível para o Iramuteq processar a análise textual.
+Esse procedimento pode ser feito com diversos documentos baixados no Espacenet.
+Figura 3 – Especeteq realizando a importação de patentes Fonte: Elaborada pelos autores deste artigo (2016) Por fim, a quarta e última etapa compreende a análise de dados, onde realizamos a análise textual das patentes a fim de visualizar o resultado do modelo ao desenhar tabelas e gráficos.
+Essa etapa é determinante, uma vez que implica apresentar de forma acessível e de fácil entendimento os resultados da pesquisa.
+3 Resultados e Discussão Para testar e validar o modelo de prospecção tecnológica proposto neste trabalho, aplicamos as ferramentas aqui sugeridas em patentes ambientalmente relevantes.
+A aplicação da prospecção tecnológica para o descobrimento de tecnologias emergentes que respeitem o meio ambiente tem a ver com as preocupações ambientais atuais.
+Questões como a mudança climática, a perda da biodiversidade, esgotamento de recursos colocam em cheque os diagnósticos mais otimistas sobre a sustentabilidade.
+Alternativas a contrabalançar estes cenários indicam a necessidade de evolução das tecnologias ambientais e seu impacto na mudança climática (ROJAS CAJAVILCA, 2015).
+Uma das medidas principais mencionadas no debate ambiental é assegurar o uso eficiente dos recursos e a ecoinovação.
+Não considerar o meio ambiente pode ocasionar a amplificação das falhas de mercado e das políticas e intensificar as pressões sobre o ambiente.
+569Cadernos de Prospecção – Salvador, v. 12, n. 3, p. 563-575, setembro, 2019Sistematização de um Modelo de Prospecção Tecnológica com as Ferramentas Espacenet e Iramuteq: aplicação para banco de dados de patentes verdes do elemento fósforo Através da busca de patentes verdes na base de dados Espacenet, mais especificamente, de patentes do elemento fósforo, que possui extrema relevância na agricultura, como exemplo, montamos um banco de dados composto por 21.839 patentes.
+Em seguida, executamos o Espaceteq para importar esse banco de dados.
+Depois, abrimos no Iramuteq o arquivo de texto, denominado corpus textual, gerado pelo Espaceteq.
+Após o corpus textual ser configurado (definições e limpeza de dados) e importado com sucesso, uma pasta principal de análise foi criada.
+É nela que estarão armazenadas todas as análises textuais geradas pelo software .
+Por fim, o Iramuteq poderá processar análises textuais, produzindo tabelas e gráficos.
+O Iramuteq processa 5 tipos de análises textuais: Estatísticas, Especificidades e AFC (Análise Fatorial de Correspondência), Método de Reinert ou CHD (Classificação Hierárquica Descendente), Análise de Similitude e Nuvem de Palavras.
+Nesse sentido, produzimos com sucesso essas análises, como evidenciado nos exemplos a seguir.
+Figura 4 – Diagrama de Zipf Fonte: Elaborada pelos autores deste artigo (2016) O Diagrama de Zipf é um tipo de análise estatística que demonstra o comportamento das frequências.
+Figura 5 – Tabelas de Análises de Especificidades e AFC (Análise Fatorial de Correspondência) Fonte: Elaborada pelos autores deste artigo (2016)570Cadernos de Prospecção – Salvador, v. 12, n. 3, p. 563-575, setembro, 2019Tatiana Costa Nascimento, Erick Samuel Rojas Cajavilca, Aline Teles Santos Na Análise de Especificidades e AFC (Análise Fatorial de Correspondência) podemos verificar a probabilidade de existência da correlação entre as formas (palavras) e as variáveis ou modalidades selecionadas.
+Figura 6 – Análise Fatorial de Correspondência das Variáveis Ativas Fonte: Elaborada pelos autores deste artigo (2016) Ao processar a Análise denominada Método de Reinert ou CHD (Classificação Hierárquica Descendente), três abas são geradas.
+Na aba "CHD" temos a representação gráfica das classes divididas em cores, mostrando quantas possuem no corpus textual e qual a sua porcentagem.
+Na aba "Perfis", temos uma tabela para cada classe contendo número sequencial do registro, frequência, porcentagem, qui², tipo e probabilidade de cada forma (palavra).
+Na aba "AFC" temos quatro representações gráficas do corpus textual acerca do posicionamento dos elementos que se complementam, dos que concentram o corpus e dos que se distanciam do centro e mostram certa especificidade, exibindo as variáveis ativas, como mostra a figura acima, as suplementares, as ilustrativas e as classes.571Cadernos de Prospecção – Salvador, v. 12, n. 3, p. 563-575, setembro, 2019Sistematização de um Modelo de Prospecção Tecnológica com as Ferramentas Espacenet e Iramuteq: aplicação para banco de dados de patentes verdes do elemento fósforo Figura 7 – Análise de Similitude com representação em cores, enfatizando os grupos de palavras mais relacionados entre si Fonte: Elaborada pelos autores deste artigo (2016) A Análise de Similitude possibilita enxergarmos a ligação entre palavras devido à sua proximidade, bem como entre grupo de palavras através da intensidade da espessura da linha.
+Além do grafo padrão, podemos gerar a análise de similitude com círculos coloridos de agrupamento 572Cadernos de Prospecção – Salvador, v. 12, n. 3, p. 563-575, setembro, 2019Tatiana Costa Nascimento, Erick Samuel Rojas Cajavilca, Aline Teles Santos ou com representação em cores, enfatizando os grupos de palavras mais relacionados entre si, como na figura acima.
+Figura 8 – Nuvem de Palavras Fonte: Elaborada pelos autores deste artigo (2016) Finalmente, a Nuvem de Palavras é considerada a análise textual mais típica e simples, embora graficamente interessante.
+Ela agrupa palavras na forma de nuvem e as organiza em função da frequência.
+Assim, quanto maior a palavra, maior sua relevância no corpus textual.
+4 Considerações Finais A capacidade de prospectar o futuro é uma ferramenta indispensável para que atores sociais obtenham conhecimento e vantagem competitiva.
+Entretanto, existe um potencial público-alvo que não está sendo assistido, como pesquisadores, oficinas de transferência de tecnologia, 573Cadernos de Prospecção – Salvador, v. 12, n. 3, p. 563-575, setembro, 2019Sistematização de um Modelo de Prospecção Tecnológica com as Ferramentas Espacenet e Iramuteq: aplicação para banco de dados de patentes verdes do elemento fósforo startups , universidades, empresas e outras instituições, pois não possuem elevados recursos financeiros para utilizar as ferramentas proprietárias para prospecção tecnológica.
+Desse modo, a presente pesquisa teve como finalidade sistematizar um modelo de prospecção tecnológica com ferramentas open source .
+Além disso, foi desenvolvido um software para integração das plataformas selecionadas.
+O modelo aqui proposto utiliza a patente como importante fonte de informação sobre tecnologias.
+Portanto, aplicamos as ferramentas em um banco de dados de patentes verdes do elemento fósforo para testar e validar o procedimento.
+Diversas habilidades foram desenvolvidas ao longo da pesquisa para o alcance dos objetivos propostos.
+Uma delas diz respeito ao conhecimento técnico referente à prospecção tecnológica e sua metodologia para análise de patentes.
+Dessa maneira, compreendemos a prospecção tecnológica à luz da teoria, enfatizando a prática da metodologia de análise de patentes.
+Outra competência se refere à criação de massa crítica no processo de exame de ferramentas gratuitas que podem contribuir para a prospecção tecnológica.
+Sendo assim, a base de dados escolhida foi a Espacenet e o software para análise textual de patentes foi o Iramuteq, que se ancora ao R. As capacidades técnica e analítica para realizar atividades relativas à busca de patentes e para montar um banco de dados foram potencializadas.
+Para fins específicos de aplicação deste trabalho, utilizamos os códigos de patentes relacionados no Inventário Verde do IPC para realizar a busca de patentes verdes do elemento fósforo na base de dados on-line Espacenet.
+Com o objetivo de tornar o processo de importação do banco de patentes com grande volume de dados mais eficiente, foi desenvolvido um software multiplataforma, capaz de transformar os dados textuais obtidos na base de dados Espacenet em arquivo com comando entendível para o Iramuteq processar a análise textual.
+O Espaceteq possui comandos e formatações próprias do Iramuteq que teriam que ser implementados manualmente pelo próprio pesquisador.
+Assim, variáveis como tempo, conhecimento específico e número elevado de patentes seriam consideradas grandes restrições.
+Pretendemos também fomentar as pesquisas de análises de patentes para a prospecção tecnológica através do desenvolvimento do Espaceteq, reconhecendo e integrando as poderosas ferramentas Espacenet e Iramuteq.
+A criação do Espaceteq contribuiu para uma inovação de processo, melhorando significativamente o processo de importação de banco de dados de patentes em software open source de análise.
+O software desenvolvido automatizou uma atividade manual.
+Essa inovação produz ganhos expressivos no aumento de produtividade do pesquisador com redução de tempo e a custo zero.
+Aprendemos também a utilizar o Iramuteq para análise de grande volume de dados.
+Dessa forma, após o processo de importação do arquivo gerado pelo Espaceteq, compreendemos as configurações internas e logramos êxito ao realizar a análise textual de patentes, com a produção de tabelas e gráficos.
+Devemos considerar ainda a limitação desta pesquisa.
+Como o seu foco se concentra na sistematização do modelo de prospecção tecnológica, outros aspectos significativos foram inviabilizados devido ao fator tempo na curva de aprendizagem.
+Outros pesquisadores podem ser desafiados a fazerem uma análise mais profunda dos conceitos aqui apresentados e dos gráficos gerados pelo Iramuteq, o que implica um olhar multidisciplinar, envolvendo várias áreas de conhecimento.
+574Cadernos de Prospecção – Salvador, v. 12, n. 3, p. 563-575, setembro, 2019Tatiana Costa Nascimento, Erick Samuel Rojas Cajavilca, Aline Teles Santos Em última análise, sugerimos que o modelo aqui apresentado seja testado e que outros pesquisadores reportem questionamentos, sugestões e melhorias, visando a aperfeiçoar esse procedimento e contribuir para essa área de pesquisa.
+Referências COELHO, G. M. Prospecção tecnológica : metodologias e experiências nacionais e internacionais.
+Rio de Janeiro: INT/FINEP/ANP .
+Projeto CTPetro Tendências Tecnológicas, Nota Técnica 14.
+Disponível em < Acesso em 8 de abril.
+ESPACENET [Base de dados – Internet].
+Disponível em: < https:// worldwide.espacenet.com/> Acesso em: 03 abr.
+Disponível em: <https:// pt.espacenet.com/> Acesso em: 03 abr.
+Disponível em: <https:// worldwide.espacenet.com/advancedSearch> Acesso em: 03 abr.
+Improving the science/policy relationship with the help of Foresight : a European Perspective.
+INPI – Instituto Nacional da Propriedade Industrial.
+Disponível em: < Acesso em: 15 abr.
+B. Modelo SENAI de Prospecção: Documento Metodológico.
+Capítulo 2: Prospecção Tecnológica.
+In: Organizacion Internacional Del Trabajo CINTERFOR.
+Papeles de La Oficina Técnica , n. 14, Montevideo: OIT/CINTERFOR, 2004.
+Identifying research priorities in public-sector funding agencies: mapping science outputs onto user needs.
+Technology Analysis and Strategic Management , v. 10, 1998.
+Uma Análise Sobre os Estudos de Prospecção Tecnológica.
+Cadernos de Prospecção , Salvador: EDUFBA, Ano 1, n° 1, 2008.
+PELAEZ, V .Pprospectiva tecnológica.
+Economia da inovação tecnológica .
+São Paulo: Hucitec, 2006. p. 212-231.
+R: A language and environment for statistical computing.
+R Foundation for Statistical Computing, Vienna, Austria.2005.Disponível em: < org> Acesso em: 13 abr.
+IRAMUTEQ : Interface de R pour les Analyses Multidimensionnelles de Tex-tes et de Questionnaires [Computer software].
+Disponível em: < <http:// iramuteq.org/front-page/presentation_view>; < Acesso em: 13 abr.
+ROJAS CAJAVILCA, E. S. Prospecção tecnológica como ferramenta estratégica para o mapeamento patentário do uso de terras raras em tecnologias ambientalmente relevantes .
+CIENAM – Universidade Federal da Bahia - UFBA, Salvador, 2015.575Cadernos de Prospecção – Salvador, v. 12, n. 3, p. 563-575, setembro, 2019Sistematização de um Modelo de Prospecção Tecnológica com as Ferramentas Espacenet e Iramuteq: aplicação para banco de dados de patentes verdes do elemento fósforo Sobre os autores Tatiana Costa Nascimento E-mail : tatiana-cn@hotmail.com Graduada em Administração pela Universidade Federal do Oeste da Bahia (UFOB).
+Mestranda em Propriedade Intelectual e Transferência de Tecnologia para Inovação (PROFNIT) na UFOB.
+Endereço profissional: Universidade Federal do Oeste da Bahia - Campus Reitor Edgard Santos.
+Rua Bertioga, 892, Morada Nobre I. Barreiras - BA.
+Erick Samuel Rojas Cajavilca E-mail : rojascajavilca@gmail.com Graduado em Economia (1995).
+Especialista em Innovación, Desarrollo Territórial y Competitividad, pela Universidad Politecnica de Valencia (2005).
+Especialista em Comércio Exterior (1999), pela Universidade Federal do Rio de Janeiro (UFRJ).
+Mestre em Desenvolvimento, Agricultura e Sociedade, pela Universidade Federal Rural do Rio de Janeiro (UFRRJ) (1998).
+Doutor em Energia e Ambiente, pela Universidade Federal da Bahia (UFBA).
+Endereço profissional: Universidade Federal do Oeste da Bahia - Campus Reitor Edgard Santos.
+Rua Bertioga, 892, Morada Nobre I. Barreiras - BA.
+Aline Teles Santos E-mail : allyne_ts@hotmail.com Graduada em Administração (2015), pela Universidade Federal do Oeste da Bahia (UFOB).
+Especialista em Gerenciamento de Projetos (2016) e em Docência do Ensino Superior (2017), pelo Instituto Pró Saber da Universidade Candido Mendes (UCAM).
+Endereço profissional: Universidade Federal do Oeste da Bahia - Campus Reitor Edgard Santos.
+Rua Bertioga, 892, Morada Nobre I. Barreiras - BA.

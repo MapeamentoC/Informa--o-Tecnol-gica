@@ -1,0 +1,59 @@
+ XI EPCC Anais Eletrônico 29 e 30 de outubro de 2019 PRINCÍPIOS TEÓRICOS DA GESTÃO TECNOLÓGICA 4.0 Arian Félix de Souza1, Luan Amann Oliveira2, Pedro Gerstner Ferreira3, Edson Ribeiro de Britto de Almeida Junior4 1Acadêmic a do Curso de Gestão de Cooperativas, Faculdade União de Campo Mourão – UNICAMPO, arian_felix@hotmail.com 2Acadêmico do curso de Gestão de Cooperativas, Faculdade União de Campo Mourão – UNICAMPO, luanoliveira1921@hotmail.com 3Acadêmico do Curso de Gestão d e Cooperativas, Faculdade União de Campo Mourão – UNICAMPO, gerstnerpedro@gmail.com 4Orientador, docente do Colegiado de Gestão, Faculdade União de Campo Mourão – UNICAMPO, erbaj13@gmaill.com RESUMO A indústria 4.0 é concebida por diversos autores como a quarta revolução industrial, cujo o objetivo principal refere -se a intensificar a produção em diversos setores da sociedade .
+O avanço tecnológico minimiza a necessidade da mão de obra braçal e requer profissionais qualificados para executar as atividades empresariais e industriais condizentes a tais inovações .
+Nesse sentido, o presente trabalho apresenta uma reflexão teórica a respeito do perfil profissional necessário para a indústria 4.0.
+Acreditamo s que a inteligência artificial, a Internet das Coisas, entre outras inovações tecnológica, proporciona m mudanças constan tes no dia a dia das indústrias.
+Assim, a gestão 4.0 , aqui denominada, refere -se ao quadro de competências e habilidades que um gestor deve desenvolver com o intuito de obter sucesso na indústria 4.0 , são elas: a capacidade de adaptação, o senso crítico, o bom relacionamento, a fluência em outros idiomas e a capacidade de realizar pesquisas para atualizações constantes.
+PALAVRAS -CHAVES: Indústria 4.0 ; Profissional 4.0 ; Gestão Tecnológica .
+1 INTRODUÇÃO A conjuntura da tecnologia aliada à gestão iniciou no fim da década de 1950 com o surgimento dos mainframes , que eram computadores capazes de auxiliar o controle corporativo dos estoques, por meio do uso de sistemas.
+No entanto, apesar desses process adores serem caros e lentos, proporcionavam a otimização da atividade manual.
+Assim, n a década de 1970 com o crescimento econômico e a expansão tecnológica, s urge o termo Material Requirement Planning (MRP ), um sistema que determinava o atendimento de uma demanda de produção, evitando assim a produção de estoques sem saída de mercado.
+Em 1980 ocorre a revolução do gerenciamento e da logística de produção, devido as redes interligadas de computadores.
+Assim, o MRP se transformou em MRP II que proporcionava, além do planejamento dos recursos de manufatura , o controle de outras atividades , como mão-de-obra e maquinário.
+Na prática, o MRP II já poderia ser chamado de ERP1 pela abrangência de controles e gerenciamento, porém, não se sabe ao certo quando o conjunto de sistemas ganhou essa denominação (PASQUALINI; LOPES; SIEDENBERG, 2010) .
+A agilidade dos processos e na comunicação entre os setores atingiu dire tamente departamentos administrativos e de apoio a produção, já que os chamados "pacotes", que eram os conjuntos de sistemas, conversavam entre si possibilitando o planejamento, automação, armazenamento e análise dos insumos das mais diversas etapas dos processos produtivos.
+O ERP, planejamento de recursos empresariais, ganhou força na década de 90 com a explosão do desenvolvimento tecnológico, principalmente pela evolução das redes de comunicação dos computadores, com microcomputadores ligados a servidores e com preços mais competitivos.
+Essa ferramenta se tornou uma filosofia na gestão de controle corporativo, com aspectos que estão presentes ainda hoje.
+1 ERP é a sigla para Enterprise Resource Planning .
+Esse termo se refere a um Sistema I ntegrado de Gestão Empresarial que visa automatizar os processos e integra as atividades de vendas, finanças, contabilidade, estoque, Recursos Humanos, produção e logística, entre outros.
+XI EPCC Anais Eletrônico 29 e 30 de outubro de 2019 2 PRINCÍPIOS BÁSICOS DA INDÚSTRIA 4.0 Os princípios teóricos da I ndústria 4.0 surgem devido as evoluções industriais e aos avanços tecnológicos proporcionado s pelas revoluções industriais passadas.
+Por exemplo: a Internet, ou seja, a conexão em rede de objetos físicos, ambientes, veículos e máquinas por meio de dispositivos eletrônicos; o Big Data Analytics , que são estruturas para a captura, análise e gerenciamento de informações; e questões relacionada a s egurança , ou seja, o aprimoramento na comunicação de máquina -máquina sem que ocorra t ranstornos na linha de produção .
+A indústria 4.0 é compreendida como a quarta revolução industrial e tem o objetivo de intensificar a produção.
+Para isso , as empresas apropria m-se de novas tecnologias para integrar as máquinas e os humanos na cadeia produtiva, gerando uma planta em equilíbrio nas áreas localizadas em posições geograficamente dispersas, favorecendo serviç os e produtos que operam de modo autônomo (KOLBERG; ZUHLKE , 2015).
+Todavia, a implantação desse método requer o romp imento d os métodos tradicionais empregados para a análise de sistemas de controle.
+Como alternativa , destacamos novas técnicas de modelagem de sistemas, por exemplo o uso de dispositivos tipo " smart " nas fábricas ou até mesmo o uso de sistemas de controle e suporte para a reconfiguração plugand-play dos seus componentes.
+Esta reconfiguração se faz necessária para adição, modificação e remoção de recurso de workflow do processo produtivo (KOLBERG; ZUHLKE , 2015).
+Assim , além de atender os requisitos supra citados, esse método deve explorar as relações juntamente com as colaborações das partes envolvidas , objetivando atender as demandas dos produtos e as possíveis situações de falha.
+No entanto, apesar da ideia ser atrativa, a definição do método não é trivial.
+Afinal, t rata-se de um sistema complex o que aborda técnicas de modularização para a aplicação e análise d e conceitos envolvidos durante a forma sistemática.
+3 PERFIL DO PROFISSIONAL 4.0 O acelerado ritmo de globalização da sociedade contemporânea, devido ao fluente avanço tecnológico , proporcionou o desenvolvimento em grande escala da revolução industrial, possibilitando o desenvolvimento de tecno logias até então surreais para a população .
+Esse avanço não é puro e traz inúmeros entraves sociais, no sentido de aumentar o desemprego pois, em geral, tais inovações minimizam a necessidade da mão de obra braçal.
+No entanto, apesar de minimizar a mão do de obra braçal, surge a necessidade de profissionais competentes para realizar a manutenção e operação de tais máqu inas e outros recursos tecnológicos .
+Diante das condições supracitadas, surge a necessidade de refletirmos a respeito de como será o profissional dess a indústria 4.0.
+É certo que toda essa mudança no cenário industrial requer profissionais q ualificados para o desempenho de funções específicas .
+Segundo Boston (2017 ): A automatização atrelada à internet das coisas vai exigir um profissional qualificado, focado em tarefas estratégicas e no controle de projetos.
+Os profissionais vão deixar de desempenhar f unções repetitivas, para então exercer atividades mais complexas e criativas, que exigirão novas habilidades técnicas e interpessoais bem específicas.
+Estes profissionais terão que lidar com máquinas dotadas de sensores que se comunicam entre si e, consequ entemente, tornam o processo produtivo mais eficiente.
+O ambiente das fábricas do futuro vai ser desafiador.
+É preciso estar aberto às mudanças, ter flexibilidade e disposição para se adaptar a interagir com XI EPCC Anais Eletrônico 29 e 30 de outubro de 2019 robôs com maior frequência, e se habituar a uma aprendizagem rotineira e contínua frente a uma indústria que sempre estará se reinventando (BOSTON, 2017, p. 1).
+Assim, inferimos que o profissional que deseja ter sucesso na indústria 4.0 necessita desenvolver algumas qualidades e especificações necessária s atuar nessa nova realidade.
+Boston (2017) apresenta algumas características a serem desenvolvidos pelos profissionais da indústria 4.0, são elas: a capacidade de adaptação, o senso crítico, o bom relacionamento, flu ência em outros idiomas e a capacidade de realizar pesquisas para atualizações constantes.
+A capacidade de adaptação consiste em estar familiarizado com possíveis mudanças que podem e devem acontecer a qualquer momento .
+Diante de tais mudanças , frequentem ente, os profissionais terão acesso aos dados emitidos em tempo real, sendo exigido a tomada de decisões.
+Portanto, "muito além de apenas apertar botões, os profissionais da indústria 4.0 precisam ser capazes de interpretar informações produzidas por robôs inteligentes e tomar decisões" (BOSTON, 2017, p .
+O Senso Crítico será de responsabilidade do recurso humano , o qual deve analisar os dados que forem automaticamente entregue a eles e, assim como na habilidade supracitada , será exigido em tempo real a tomada as decisões para que se co nclua todo o processo produtivo.
+A divergência de opiniões dos funcionário, é algo recorrente no âmbito profissional.
+Nesse sentido, é de fundamental importância a boa re lação entre o s trabalhadores da indústria 4.0, pois de nada adianta toda a eficiência das máquinas se uma divergência de opinião human a comprometer todo o processo produtivo.
+Nesse sentido, Boston (2017, p. 2) nos lembra que "o avanço dos processos automatizados exige diferentes competên cias dos profissionais, e manter um bom relacionamento com os demais colaboradores da indústria continua sendo importante para equilibra r as relações."
+Outra habilidade crucial do profissional 4.0 é a habilidade de comunicar -se em outros idiomas que, além de proporcionar relações profissionais, permite a migração de tecnologias provenientes de outros países.
+Assim, faz -se necessário estar atento as mudanças no cenário mundial pois , as novas tecnologias "geram mudanças constantes no dia a dia das indústrias e para acompanhar essas evoluções em ritmo acelerado, é preciso estar envolvido em um processo de aprendizado contínuo ".
+4 CONSIDERAÇÕES FINAIS A sociedade contemporânea está sujeita a constantes evoluções econômica, políticas e principalmente, tecnológicas.
+Diante desse cenário, inferimos alguns pressupostos da indústria 4.0 e do profissional 4.0 que interferem no perfil profissional do trabalhad or.
+Essa evolução, por um lado, minimiza a necessidade de serviços braçais e por outro, amplia as opor tunidades trabalhadores altamente qualificados ou, pelo menos, interessados em aperfeiçoar -se a respeito das inovações do mercado.
+A gestão 4.0 apresenta -se como uma vantagem competitiva frente a um mercado inovador, pois ela traz consigo novos líderes e novos modelos de gestão.
+Com a automatização dos processos, a integração dos setores e a rápida troca de informação entre as áreas, ganha -se mais tempo para focar em novas e mais fortes estratégias que aumentam ainda mais os rendimentos da empresa e melhores condições de trabalhos para seus colaboradores.
+REFERÊNCIAS XI EPCC Anais Eletrônico 29 e 30 de outubro de 2019 BOSTON, Douglas, CONHEÇA O PROFISSIONAL DA INDÚSTRIA 4.0, 2017.
+Disponível em: -promotion.com/conheca -o-profissional -da-industria -4-0-e-vejacomo -se-tornar -um/ (Acesso em: 11/06/2019 ás 11h06min).
+KOLBERG, Dennis; ZÜHLKE, Detlef.
+Lean automation enabled by industry 4.0 technologies.
+IFAC -PapersOnLine , v. 48, n. 3, p. 1870 -1875, 2015.
+PASQUALINI, Fernanda; LOPES, Alceu de Oliveira; SIEDENBERG, Dieter.

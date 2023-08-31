@@ -1,0 +1,136 @@
+RESEARCH BRIEF ISMAEL PEÑA-LÓPEZCITIZEN PARTICIPATION AND THE RISE OF THE OPEN SOURCE CITY IN SPAIN IT FOR CHANGE I 2017 Cover photo: Hashtag by Rico Reinhold from the Noun Project.Meeting by Iris Roijakkers from the Noun Project CONTENTSTABLE OFINCREASING THE QUALITY OF DEMOCRACY THROUGH SOVEREIGNTY DEVOLUTION POLITICS 2.0, E-POLITICS, E-PARTICIPATION AND THE 15M SPANISH INDIGNADOS MOVEMENT THE MOVEMENTS ENTER THE INSTITUTIONS DECIDE.MADRID & DECIDIM.BARCELONA1 2 3 4 IT for Change Research Brief 1.
+Increasing the quality of democracy through sovereignty devolution In September 2015, Madrid, the capital of Spain, initiated a participatory democracy project, Decide Madrid (Madrid decide), to enable participatory strategic planning for the municipality.
+Less than half a year after, in February 2016, Barcelona – the second largest city in Spain and the capital of Catalonia – issued their own participatory democracy project: decidim.barcelona (Barcelona we decide).
+Both cities use the same free software platform as a base, and are guided by the same political vision.
+Since the 15M Spanish Indignados Movement, Spain has witnessed a silent but thorough democratic turn, from a crisis of representation to new experiments in participatory democracy, just like Decide Madrid or decidim.Barcelona .
+Grounded in the techno-political movements of the 15M, this turn reflects the critical role of ICTs (and their hacker ethics) in reconstructing politics, as discussed below.
+Politics 2.0, e-politics, e-participation and the 15M Spanish Indignados movement On March 11 2004, Spain suffered its worst terrorist attack ever in history.
+Al-Qaeda claimed the lives of almost 200 people in Madrid, after bombing several trains during rush hour.
+The event happened three days before the general elections that also decided the Prime Minister.
+This incident occurred one year after the Spanish government had supported the invasion of Iraq, going against the will of almost the entire Spanish population 1.
+In the period between 2004 and 2011, the Spanish political arena was witness to many citizen initiatives where ICTs played a major role, especially in accessing extrainstitutional information 2 and circumventing state institutions to coordinate and engage in political action.
+Realising the potential of horizontal communication, extrarepresentative3 and extra-institutional ways of organising flourished during these years, weaving a dense but distributed network of activists who self-organised and harmonised their ideas, protocols, tools and procedures.
+Finally, on May 15 th, 2011 came the outburst of the 15M Spanish Indignados Movement.
+Hundreds of thousands took to the streets and squares of dozens of cities in Spain, demanding better democracy, camping for a full month.
+The reasons that brought the citizens on the streets, and, later on, in local assemblies, were many – financial crisis, housing crisis, high unemployment (with the highest youth unemployment), corruption, and an overwhelming sense of lack of political legitimacy of 1 Traficantes de Sueños (Ed.)
+Relatos y análisis sobre el 11-M y los días que le siguieron.
+2 In the period referred to here, many citizens moved away from traditional institutions (governments, political parties, mainstream media outlets, labour unions, non-profits) to get information or influence the public agenda, and instead, self-organised.
+3 According to Cantijoch (2009), extra-representational actions are activities in which, even if participants may be trying to reach an institutional agent as the target of a demand, the action is realised in parallel to the institutional framework.
+1IT for Change Research Brief democratic institutions.
+One of the clearest demands of the movement was the improvement of democratic processes and institutions, especially by increasing transparency, accountability and participation with a keen recognition regarding the key role that ICTs could play in realising the same.
+Ideas of direct democracy, deliberative democracy and liquid democracy were intensively brought to the public agenda, often times by using prototypes 4 that used open, public data, building ICT-assisted decisionmaking platforms, and/or by making arcane information publicly available and accessible to enable whistle-blowing against corruption (Calvo et al., 2011; Castells, 2012; Holmberg, 2012) 5.
+The movements mentor the institutions In the short term, the 15M had little effect.
+It only marginally affected the municipal elections of May 2011 6, but there was an increase of null and blank votes, and a clear shift of votes from the two major parties to minority/alternative ones.
+Notwithstanding this, it did contribute to strengthening the network of those citizens who had been active outside of institutions such as organised civil society/NGOs, labour unions and political parties.
+The local elections of 2015, however, brought significant changes to many city councils – Madrid, Barcelona, Cádiz and Badalona, to name a few – with the emergence of parties that were a result of the institutionalisation of some currents within the 15M Indignados Movement.
+But changes were not restricted only to these municipalities.
+Even municipalities led by right-wing parties, like Premià de Mar and Manresa, seized the chance to foster participation, with the belief that it was about time to open up institutions, thus answering to increasingly strong demands for openness, transparency and accountability.
+The new local governments took office in an environment of strong digital development but a weak culture of participation – arguably caused by the many legal and political barriers to political engagement.
+As the data from the World Economic Forum's Networked Readiness Index 7 shows, the overall digital performance of Spain is not very low (35 th in the global ranking), but the economic and political frameworks usually drag the country downwards in the global ranking.
+The indicators under the readiness sub-index perform quite well, including what concerns individual usage.
+But the political and regulatory environment (47 th in the sub-ranking), human capital or skills (57 th) as well as business usage (43 rd) are very low, and government usage and social impact only barely higher (32 nd and 39th) respectively.
+In the public sector, Spain has made big efforts not to lag behind digital leaders in terms of public e-readiness and e-government.
+As data from United Nations Public 4 Quickly designed and released digital tools that worked for real, with the purpose to proof that a specific goal or task could easily be achieved.
+5 Calvo Borobia, K., Gómez-Pastrana, T. & Mena, L. (2011).
+"Movimiento 15M: ¿quiénes son y qué reivindican?".
+In Zoom Político, Especial 15-M , (2011/04), 4-17.
+Madrid: Fundación Alternativas.
+Redes de indignación y esperanza.
+A study on the 15-M movement in Spain .
+Uppsala: Uppsala University 6 Anduiza, E., Martín, I.
+"Las consecuencias electorales del 15M en las elecciones generales de 2011".
+Ciencia, Pensamiento y Cultura , 188 (756).
+7 Baller, S., Dutta, S. & Lanvin, B.
+Global Information Technology Report 2016.
+Innovating in the Digital Economy.
+Geneva: World Economic Forum and INSEAD.
+2IT for Change Research Brief Administration Network (UNPAN) 8 shows, the efforts have had very good results both in terms of absolute values (as measured by e-government an d e-participation indices, ranking 17th and 7th respectively) and in terms of its relative position in the global ranking.
+However, the relatively slower development of the digital economy is in stark contrast to the strong advancement of the digital government 9.
+While legal frameworks still need to be updated for the digital era to address issues of the economy, the public administration has been committed to digitising public services and fostering digital uptake.
+And, despite the fact that participation is generally – and increasingly – agreed to be a good thing, the reality is that as a concept it still belongs to an industrial era understanding tha t is almost exclusively institution-led and discrete.
+This results in isolated initiatives where citizen voice is heard (Peña-López, 2011) 10.
+The literature shows that the crisis of participation and representation is pushing citizens outside of institutional politics (Fuster & Subirats, 2012) 11 and into new kinds of organisations (Peña-López, et al., 2014; Espelt et al., 2016) 12 which are strong in digital and social media (Sádaba, 2012) 13.
+However, these efforts do not seem to be able to establish a dialogue with the institutions of representative democracy in order to perform the task that is needed – reform of the aforementioned institutions (Font et al., 2012)14.
+Decide.Madrid & decidim.barcelona Madrid, from late 2015, and Barcelona, from early 2016, engaged in a participatory process based on the open source solution CONSUL 15.
+CONSUL is the web software initially developed by the City Council of Madrid to support its strategy for open 8 UNPAN (2016).
+E-Government in Support of Sustainable Development.
+9 Overall, while the political and regulatory environment doesn't particularly support or foster the growth of e-commerce and digital content business in Spain, it has been possible for the public sector to invest in setting up e-services and enabling higher levels of interoperability among institutions like the police and the judiciary.
+'Striving behind the shadow – The dawn of Spanish politics 2.0.'
+In van der Hof, S. & Groothuis, M.
+Normative, policy and technological dimensions of modern government , Chapter 8, 129-147.
+Crisis de representación y de participación.
+¿son las comunidades virtuales nuevas formas de agregación y participación ciudadana?
+Ciencia, Pensamiento y Cultura, 188 (756), 641-656.
+Berkeley: Berkeley Electronic Press.
+Retrieved September 14, 2012 from 12 Peña-López, I., Congosto, M. & Aragón, P. (2014).
+"Spanish Indignados and the evolution of the 15M movement on Twitter: towards networked parainstitutions".
+In Journal of Spanish Cultural Studies, 15 (12), 189-216.
+Retrieved August 24, 2014 from Espelt, R., Peña-López, I.
+"Activismo desde el consumo cooperativo de productos agroalimentarios: ¿Economía alternativa o tecnopolítica?".
+), Building a European digital space.
+Proceedings of the 12th International Conference on Internet, Law & Politics.
+Universitat Oberta de Catalunya, Barcelona, 7-8 July, 2016.
+Barcelona: UOC-Huygens Editorial.
+"Acción colectiva y movimientos sociales en las redes digitales.
+Aspectos históricos y metodológicos".
+Ciencia, Pensamiento y Cultura, 188 (756), 781-794.
+Berkeley: Berkeley Electronic Press.
+Retrieved September 14, 2012 from 14 Font, J., Navarro, C., Wojcieszak, M. & Alarcón, P. (2012).
+¿"Democracia sigilosa" en España Preferencias de la ciudadanía española sobre las formas de decisión política y sus factores explicativos.
+Madrid: Centro de Investigaciones Sociológicas.
+Retrie 15 3IT for Change Research Brief government and e-participation, that was later on adopted by the Barcelona county 16.
+While the former ( Decide Madrid) mostly focuses on particular proposals and participatory budgeting, the second one ( decidim.barcelona) has been used as a supporting tool to draft the strategic plan of the city for 2016-2019.
+Both city governments have ambitious plans so that the platforms become the axis of all decision making of the city, where the citizens will have a personal profiles through which they can propose, engage with, and monitor all the activities, topics, etc.
+that they might be interested in.
+The success of the initiatives and the strong political vision behind them have caused a proliferation of plenty of other initiatives around the whole state, especially in Catalonia, working to emulate the two big cities.
+These efforts share free-software-based technology, procedures and protocols and reflections, both on open events as well as informal official meetings.
+What began as seemingly a one-time project, has expanded in scope and longevity, with the Barcelona County Council leading the regional level efforts, and other municipalities across Spain sharing the same principles as the Mayors of Barcelona and Madrid.
+Of course, the big question is whether this has had any positive impact on the quality of democracy, which was the very first intention of the promoters of the participatory initiative in Barcelona.
+The abundance of open documentation 17 available demonstrates that decidim.barcelona has increased the amount of information in the hands of citizens, created momentum around key issues, and has led to an increase in citizen participation.
+There are several citizen-contributed proposals that have been widely supported and legitimated, and accepted to be part of the municipality strategic plan.
+There has been an increase in pluralism without damage to existing social capital.
+The active push for deliberation and openness, combined with an influx of elected representatives in the city council who share a hacker ethic, has resulted in an adoption of free software and open processes as a pathway to achieving these goals.
+Which has meant that instead of introducing deliberative processes that are pre-set, participation is overlain on a platform that is open source and collaborative from the get go.
+An unintended outcome of such participatory cultures has been greater legitimacy around decision making.
+This can be summarised in four key points: Deliberation becomes the new democracy standard.
+Openness as the pre-requisite for deliberation.
+16 Barcelona county is an administrative division that comprises the city of Barcelona and 310 other municipalities.
+It has an independent government body elected by the local representatives of all the municipalities.
+17 Ajuntament de Barcelona (2015).
+Procés participatiu per a l'elaboració del Programa d'Actuació Municipal (PAM) i dels Programes d'Actuació dels Districtes (PAD) 2016-2019.
+Barcelona: Ajuntament de Barcelona.
+Ajuntament de Barcelona (2016).
+Cap a la ciutat dels drets i les oportunitats.
+Programa d'Actuació Municipal 2016-2019 .
+Barcelona: Ajuntament de Barcelona.
+Barcelona: Ajuntament de Barcelona.
+Ajuntament de Barcelona (2016).
+El procés de participació per a l'elaboració del PAM i els PAD s'obre a tota la ciutadania.
+Nota de premsa, 1 de febrer de 2016.
+Ajuntament de Barcelona (2016).
+Cap a la ciutat dels drets i les oportunitats.
+Barcelona: Ajuntament de Barcelona.
+Retrieved August 01, 2016 from 4IT for Change Research Brief Accountability and legislative footprint as an important by-product to achieve legitimacy.
+Participation leads to more pluralism and stronger social capital, which fosters deliberation, thus closing the (virtuous) circle of deliberative democracy.
+Although the scheme may be simple, we believe that it already features most of the components of a new democratic participation in the digital age.
+What remains to be measured and analysed is the strength and stability of the new relationships of power and how exactly these will challenge the preceding systemic structures and lead to newer ones.
+Some aspects of this shift have been identified in what relates to new relationships between citizens and institutions.
+They are also evident in the emergence of new tacit communities, para-organisations and relational spaces.
+However, the real trends and the hypothetical final scenario will only become clear after several iterations of the same project evolve over a continuum of participations, radically different from the discrete participatory structures of the present-past.
+What is clear is that the engaged and transformative citizenship initiated by decidim.barceona has established some reference points that need to be thoroughly measured and compared with former parameters used to define and assess democracy.
+Some such directions include, a deeper study of: The diminishing role of intermediation and traditional institutions (e.g.
+governments) and civic organisations, in favour of individual participation and new liquid collectives and para-institutions.
+The increasing role of informed deliberation, evidenced more than in the number of proposals submitted in the number of interactions and exchanges among participants; both tacit – as in supports or comments and explicit – as in real communication between participants in the digital platform, in events or in social networking sites.
+The balance between institutions (representation), experts (local leaders) and individual citizens, who now make up a new ecosystem of actors with new roles and relationships.
+There is an increase in the amount of networks and communities; a multiple, liquid and reconfiguring affiliation to these networks that are sometimes indistinguishable from ad-hoc clustering.
+These aspects can be summarised in one point: the devolution of some sovereignty in matters of democracy to the citizen in a structural, and not temporary, way.
+By leveraging the power of ICTs to bring more actors and more resources into the political arena, democratic processes can improve the state of democracy.
+Time will tell whether the outcome will be as positive as expected.
+5IT FOR CHANGE I 2017 This research has been produced with the financial support of Making All Voices Count.
+Making All Voices Count is a programme working towards a world in which open, effective and participatory governance is the norm and not the exception.
+This Grand Challenge focuses global attention on creative and cutting-edge solutions to transform the relationship between citizens and their governments.
+Making All Voices Count is supported by the U.K. Department for International Development (DFID), U.S. Agency for International Development (USAID), Swedish International Development Cooperation Agency, and Omidyar Network (ON), and is implemented by a consortium consisting of Hivos, the Institute of Development Studies (IDS) and Ushahidi.
+The programme is inspired by and supports the goals of the Open Government Partnership.About the project Disclaimer: The views expressed in this publication do not necessarily reflect the official policies of Making All Voices Count or our funders.
+Copyright: Research outputs from this project are licensed under a Creative Commons License Attribution- NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4).
+Ismael Peña-López is a lecturer at the School of Law and Political Science, and a researcher at the Internet Interdisciplinary Institute and the eLearn Center, at the Open University of Catalonia.
+Lead Researcher: Anita Gurumurthy Research Associates: Deepti Bharthur & Nandini Chami Design - Deepti Bharthur & Swati Mehta Editorial Support - Swati Mehta Author profile Research coordination team

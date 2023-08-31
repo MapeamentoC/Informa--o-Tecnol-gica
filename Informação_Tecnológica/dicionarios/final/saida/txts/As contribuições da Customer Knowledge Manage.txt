@@ -1,0 +1,309 @@
+ The customer knowledge management lifecycle in PSS value networks : towards process characterization Citation for published version (APA): Bagheri, S., Kusters, R., & Trienekens, J.
+The customer knowledge management lifecycle in PSS value networks : towards process characterization.
+In A. Garlatti, & M. Massaro (Eds.
+), Proceedings of the 16th European Conference on Knowledge Management, ECKM 2015 (pp.
+Document status and date: Published: 01/01/2015 Document Version: Publisher's PDF, also known as Version of Record (includes final page, issue and volume numbers) Please check the document version of this publication: • A submitted manuscript is the version of the article upon submission and before peer-review.
+There can be important differences between the submitted version and the official published version of record.
+People interested in the research are advised to contact the author for the final version of the publication, or visit the DOI to the publisher's website.
+• The final author version and the galley proof are versions of the publication after peer review.
+• The final published version features the final layout of the paper including the volume, issue and page numbers.
+Link to publication General rights Copyright and moral rights for the publications made accessible in the public portal are retained by the authors and/or other copyright owners and it is a condition of accessing publications that users recognise and abide by the legal requirements associated with these rights.
+• Users may download and print one copy of any publication from the public portal for the purpose of private study or research.
+• You may not further distribute the material or use it for any profit-making activity or commercial gain • You may freely distribute the URL identifying the publication in the public portal.
+If the publication is distributed under the terms of Article 25fa of the Dutch Copyright Act, indicated by the "Taverne" license above, please follow below link for the End User Agreement: www.tue.nl/taverne Take down policy If you believe that this document breaches copyright please contact us at: openaccess@tue.nl providing details and we will investigate your claim.
+Aug. 2023The Customer Knowledge Management Lifecycle in PSS Value Networks: Towards Process Characterization Samaneh Bagheri, Rob Kusters and Jos Trienekens School of Industrial Engineering, Eindhoven University of Technology, Eindhoven, The Netherlands s.bagheri@tue.nl r.j.kusters@tue.nl j.j.m.trienekens@tue.nl Abstract: Following a service orientation paradigm, value is no long er restricted to product functionalities.
+Value is in particular based on co-creation with customers, making us e of their experiences and leading to so-called integrated solutions.
+The longitudinal view on relationships with custom ers requires networked collaboration of multiple partners with their mutual customers within the context of a product-servic e system (PSS) value network.
+A customer-centric view on solution offerings motivates PSS value netw orks to enhance their understanding of customers' needs.
+To achieve a shared understanding of customers' needs across a network, customer knowledge can be seen as a prerequisite.
+Prior research has been primarily focused on an intra-organizational perspe ctive on customer knowledge management (CKM), in which customer knowledge (CK) is obtained in a one-to-one relati onship.
+In the context of PSS value networks, besides the individual CK of each partner, CK is also co-created through the interaction of several partners with customers during solution processes.
+However, this asks for a broader conceptualization of CKM.
+Moreov er, a long term relationship with customers demonstrates new opportunities for CKM.
+Hence, a firm-centr ic approach is inadequate for managing the network-level processes of CK creation, storage / retr ieval, transfer, and applicati on across a PSS value network.
+Based on a systematic literature review on both CKM within a PSS value network, and collaborative knowledge management, we present in this paper a conceptual framework of the value network custom er knowledge management (V N-CKM) lifecycle.
+We will characterize its four main processes based on the novel characteristics of a PSS value network.
+Keywords: customer knowledge management, co-creation , integrated solution, PSS value network 1.
+Introduction To respond to customers' unique and rapidly changing needs, many companies transcend from manufacturing products to co-creating Product-Servic e Systems (PSS) or integrated solutions.
+Apart from bundles of products and services, PSS refers to longitudinal relational processes among multiple partners and their mutual customers, aimed at meeting customer's needs and providing an outstanding customer experience (Gr ӧnroos 2011; Hakanen 2014; Tuli et al.
+Th erefore, firms together with their partners and customers co-create value in the context of a PSS value network (Lusch & Webster 2011).
+Customers expect solutions which include processes such as understanding their requirements, customizing and integrating products and services, deploying them, and supporting them on an ongoing basis (Tuli et al.
+Co-creation of value embraces the idea that value is no longer based on determined outp ut.
+Value is considered as a jointly created phenomenon that emerges in interaction among multiple partners and customers (Tax et al.
+For that reason, the PSS literature emphasizes a deep understanding of customers' needs, experiences, and contexts (Frow & Payne 2007).
+This is regarded as a first step in offering solutions in which customer knowledge (CK) is considered as a prerequisite.
+Although there is considerable re search on customer knowledge ma nagement (CKM), and co-creation integrated solutions, surprisingly li ttle is known about the characteristic s of CKM processes that support cocreation in the context of a PSS value network.
+In fact, jointly managing the CK distributed across a network is a complex task involving multiple partners and customers.
+We aim to contribute to this research gap by defining the CKM lifecycle of a PSS value network, called a Value Network CKM (VN-CKM).
+By ap plying a standard process characterisation model, i.e.
+input process output (I PO), and Nonaka knowledge model (Nonaka 1994), we characterize the four processes of a VN-CKM lifecycle.
+The proposed conceptual framework can help integrated solution partners and customers to collaboratively manage CK more effectively.
+In this paper we will answer the following research question: What are main characteristics of the VN-CKM proc esses within the context of a PSS value network?
+66 Samaneh Bagheri, Rob Kust ers and Jos Trienekens This study contributes to CKM literature in twofold: First, extending the scope of analysis from a firm-level to a network-level; second, characterizing the VN-CKM lifecycle in accordance with the no vel characteristics of a PSS value network environment.
+The outline of the paper is as follo ws.
+Current work is discussed in se ction two.
+Section three describes the research methodology.
+Section four analyses and discusse s the results from a systemat ic literature review, while section five defines the VN-CKM lifecycle and characterizes each process of the VN-CKM lifecycle.
+The final section presents conclusions and indic ates directions for further research.
+Current work Customer knowledge management (CKM), which is root ed in Knowledge-based theory, considers customer knowledge as one of the strategic sour ces of firm competitive advantage (G ibbert et al.
+CKM have been introduced as an ongoing process of CK creation, storag e / retrieval, transfer, and application with an emphasis on interaction between firms and customers (Belkahla & Triki 2011; Gibbert et al.
+CKM changes the role of customers from passive recipients of products or services to active know ledge partners (Gibbert et al.
+By managing CK, organizations can better understand cust omers' characteristics, needs, and preferences (Weng et al.
+Recently the CK flows between a firm an d its customers has been transcended from a unilateral direction from a firm to a customer (e.g.
+knowledge about product), or a customer to a firm (e.g.
+feedback), into a bi-directional relationship which is called knowledg e co-creation "with" a customer.
+"With" refers to productive dialogue and cooperation of a company with its customers in orde r to create new CK for joint value creation,(Buchnowska 2011; Smith & McKeen 2005).
+Many studies have focused on defining CKM concepts a nd processes, (e.g.
+2006), in which a ge neral knowledge management (KM) lifecycle has been used.
+The general KM lifecycle consists of four main processes of knowledge creation, storage / retrieval, transfer, and application (Alavi & Leidner 2001; Sedera & Gable 2010).
+We focus at CKM in the PSS value network literature.
+In this context, the focus of KM in general and CK in particular, has shifted from improving product innova tion and operational efficiency towards improving customer experience of integrated solutions (Salonen 2011; Raja et al.
+(2008) propose to build KM practices around customers' processes and experi ences rather than products.
+A customer has an active role in the integrated solution processes of identifi cation, development, deployment and post-deployment support (Aarikka-Stenroos & Jaakkola 2012; Tuli et al.
+This indicates the necessity of managing CK throughout the solution processes within the PSS va lue network environment (Bagheri et al.
+The importance of knowledge as a most fundamental resource , and customer as a knowledge provider in co-creating value, also regard as main premises of service-domina nt (S-D) logic (Vargo & Lusch 2006).
+(2007) advise that knowledge usage and collabo ration should be the key drivers for firms to more successfully enhanced customer experience.
+Although knowledge emerged as the mo st frequently mentioned attribute in this field (Lusch et al.
+2013; Vargo & Lusch 2006), this research stream ha s some limitations.
+First, it makes generic comments on the role of customer knowledge in providing integr ated solutions (Aarikka-Stenroos & Jaakkola 2012; Payne et al.
+2008) rather than describing the CKM lifecycle expl icitly.
+Second, while integrat ed solutions are inherently co-created by a firm and its network of partners and customers, many studies are still limited to a customer– firm dyad (Aarikka-Stenroos & Jaakkola 2012; Tuli et al.
+As a consequence, the opportunity of involving all the network partners and customers in CKM processes across the PSS value network has mostly remained under-explored.
+Since research on CKM at a network level is still in its nascent phase, we also searched within the wider literature on related field of the collaborative KM lifecycle, to find relevant information that can be used in our research.
+Collaborative KM refers to the collective activities that partners engage into manage knowledge across firms boundaries, to enhance the cooperative performance (Li et al.
+(2012) examine the effect of four main processes of collaborative KM on knowledge quality and supply chain integration.
+(2011) contend that collabora tive KM is about knowledge acquisition and transfer between partners, innovation and improved performance.
+(2012) examine the role of knowledge creation an d transfer within networked innovation.
+(2009) identify 67 Samaneh Bagheri, Rob Kust ers and Jos Trienekens how the relationship between the partners affects the effectiveness of inter-firm knowledge transfer in promoting innovation and continuous improvement.
+This research stream still has limitations.
+First, scholars primarily discuss the management of knowledge with part ners and not jointly with both customers and partners.
+Second, even though the KM processes transcend from firm boundaries the focus of KM is still to improve product innovation and operationa l efficiency, and less emphasis is given to co-creating customer experience(Valkokari et al.
+By taking into account the above limitations of both research fields (i.e.
+CKM within PSS value network, collaborative KM), we look at the potential synergies of connecting them.
+Therefore, this study aims to enhance the existing literature on the VN-CKM lifecycle by us ing relevant information from the collaborative KM literature.
+Consequently, we develop a conc eptual framework of the VN-CKM lifecycle.
+Research methodology The goal of this study is to develop a VN-CKM lifecycle framework that facilitates the co-creation of integrated solutions.
+We used terms proposed by Alavi & Leidner (2 001) in developing the VN-CKM lifecycle that involves iterative and continuous processes of value netw orked customer knowledge (VN-CK) creation, VN-CK storage/retrieval, VN-CK transfer, and VN-CK application, within the context of PSS value networks (figure1).
+We systematically characterised those pr ocesses through the following steps: Figure 1: VN-CKM lifecycle- a research framework 1.
+Identifying, characterizing, and classifying th e existing literature on VN-CKM processes.
+Identifying, characterizing, and classifying the existing literature on collaborative KM processes.
+Analyzing and discussing the results from both research areas.
+Defining the VN-CKM lifecycle and developing its conceptual framework to characterize its processes.
+In step one, direct information on th e VN-CKM lifecycle has been investigated.
+However, since this research area is still under progress, in step two we also obtained indi rect information from a relevant related research area.
+In both steps one and two a systematic literature revi ew, based on the guidelines proposed by Kitchenham (2004), has been conducted in order to summarize the exis ting insights and to identify the eventual research gaps.
+In general the systematic review embraces the following stages (Kitchenham 2004): Developing a review protocol (e.g.
+research questions, se arch strategy and process), identification of research studies, selection of papers, quality assessment, data extraction, summary and synthesis of study results.
+In fact we conducted two systematic reviews to iden tify research on the VN-CKM processes in PSS value networks and KM processes in collaborative networks .
+A number of keywords including a number of synonyms were identified and used in the search process.
+The different combinations of th e search terms 'customer knowledge', 'creation', 'storage', 'retrieval', 'transfer', 'application'; 'co-creating value', 'integrated solution', 'value network' were used in the search process for pr imary studies in literature since 2005 in step one.
+The following search terms were used in step two: 'knowl edge'; 'creation', 'storage', 'retrieval', 'transfer', 'application'; 'inter-firm collaboratio n', 'supply chain', 'supply network', 's trategic alliance', 'collaborative network'.
+The selected papers should address the CK or KM processes (also by explicitly considering the concept of collaboration) and should be publis hed in an academic journal or conference proceedings.
+After reviewing 68 Samaneh Bagheri, Rob Kust ers and Jos Trienekens titles and abstracts, the selection processes led to an in -depth evaluation of the full text of 9 (step one) and 16 papers (step 2).
+Since the results were mixed and researchers define and describe (VN-CKM) KM processes from different perspectives, we decided to identify and characterize them in a structured way.
+Hence, in the data extraction phase we coded the text, using three instruments as guidelines.
+These are respectively the KM lifecycle approach, the IPO and the Nonaka model (c .f.
+Applying the KM lifecycle approach enabled us to identify different processes and to put them into the four main processes of creation, storage, retrieval, transfer, and application.
+The main characteristics of a process (i.e.
+input, resource, control, activi ties, output, and objective) were identified by using the IPO model.
+Input and output refer to explicit or tacit knowledge.
+Resource refers to both actors and tools required for processing input in to output.
+Regarding the control aspect, we made a distinction between formal and informal control.
+Form al control relies on criter ia such as contractual agreements, rules, procedures, regulations, reports, incentive system, and also performance monitoring.
+Informal (social) control is realized through shared no rms and values, trust, meetings, open communication, and interaction(Fang et al.
+2013; Hoetker & Mellewigt 2009 ; Langfield-Smith & D. Smith 2003; Dekker 2004).
+The organizational knowledge creation model of Nonaka explains how new knowledge is created through a continuous interplay between tacit and explicit knowledge.
+By using this wi dely accepted model we looked in the selected literature at how knowledge is dealt with.
+Figure 2: The IPO and Nonaka models Subsequently, in group discussions, we incorporated the results, removed duplications and summarized the findings.
+This part resulted in the development of two classification frameworks, one for step one and one for step two (c.f.
+In step three, the analysis of the results was conducted in a structured way to identify the gaps and weaknesses of the current literature on VN-CKM and to discuss abou t our suggestions to provide a more completed view on VN-CKM lifecycle.
+In doing so, table 1 was considered as a starting point.
+Its content was compared with table 2 by identifying and discussing the following issues: ƒ Weakness: regarding the identified limitations of exis ting literature on VN-CKM we modified the content whenever it was needed (weakness-modification).
+The modification was done with regard to the characteristics of a PSS value network, i.e.
+collaborati on with both partners an d customers as well as the customer experience view on providing integrated solutions.
+ƒ Confirmation: the content of table 1 was suppo rted by table 2.
+ƒ Enrichment: something missing in table 1 could be completed by using table 2. ƒ Gap: in the case of empty spaces in table 1, we made a decision: to keep it empt y similar to table 2 (emptyconfirmation) or fill it by using relevant inform ation from table 2 after modification based on the characteristics of a PSS value network (gap-completion).
+In step four, since there was no common definition on VN -CKM lifecycle in the existing literature, we modified the basic definition of the CKM lifecycle (from section 2) in accordance with the characteristics of a PSS value network and proposed our definition .
+We then developed the conceptual framework of a VN-CKM lifecycle based on the results of the analysis.
+Classification frameworks, analys is and discussion of the results The result of the systematic literature review of on the one hand VN-CKM and on the other hand the collaborative KM lifecycle literature is provided in tables 1 and 2.
+69 Samaneh Bagheri, Rob Kust ers and Jos Trienekens Table 1: Classification framework of VN-CKM lifecycle from the literature review P I/O Main activities Control Resource Objective source Formal Informal Creation T/T Ideations, identifying the business customer's problem, customers explain their challenges, obtaining deep customer insight and contextual understanding of customer experience (CE) and emotions through brainstorming, empathic methods, and ethnographic research techniques besides traditional market research.
+Briefing session, frequent and reciprocal interaction , trust, dialogue.
+Network of solution partners and customers Mutual understanding of the customer problem, directing and evaluating solution, providing usercentered perspectives on solution offerings.
+(2012) ;Zomerdij k & Voss (2011) ;Tax et al.
+(2013) ;AarikkaStenroos & Jaakkola (2012) ;Hakanen (2014); Payne et al.
+(2008); Frow & Payne (2007); WetterEdman et al.
+(2007) T/E Analyzing and interpreting the customer preference, explicitly describing customer knowledge and service offerings, Storytelling and visualizing, mapping out the service encounters (firmcustomer touch points)from the customer's perspective by utilizing mapping tools (e.g.
+process mapping, serviceblueprinting, and customer- firm touch point analysis),formalizatio n of all the solution processes, clarify roles and responsibilities, reporting structure.
+Network of solution partners and customers.
+Create common understanding of the content of the solution, elicit customer experiences, to ensure that customer requirements define, meet, and support accurately.
+Hakanen (2014) ; WetterEdman et al.
+(2008); Frow & Payne (2007) E/E E/T Providing knowledge for customer at deployment phase.
+Solution provider and customer.
+Enhance the value they derive from solution.
+(2007) Storage / 70 Samaneh Bagheri, Rob Kust ers and Jos Trienekens P I/O Main activities Control Resource Objective source Formal Informal Transfer T/T Sharing knowledge of the customer's problem, needs, and value expectations, identifying the customer's preference for centralized or decentralized knowledge flows between partners and customers.
+Network of solution partners and customers.
+Hakanen (2014) E/E Application E/E Providing integrated solution from identification to postdeployment support are based on using CK.
+Network of solution partners and customers.
+provide outstanding customer experience, enhance the customer's business Hakanen (2014); Tuli et al.
+(2007); AarikkaStenroos & Jaakkola (2012) P: process, I/O: input/output, T: tacit, E: explicit Table 2 : Classification framework of collaborative KM lifecycle from the literature review P I/O Main activities Control Resource Objective Source Formal Informal CreationT/T Collaboratively involve in exploring, leveraging, and pursuing potential synergy by integrating knowledge, sharing idea and experience.
+Face to face communicati on, frequent interaction, feedback, formal/infor mal meeting, shared interests and value, trust, dialogue.
+Joint exploration of new opportunity, Develop network specific knowledge.
+(2015); Fang & Zou (2010); Mahr et al.
+(2014) T/E Codification and articulation the knowledge, giving clear expression, documenting their experience, institutionalizing new knowledge Defining a joint contract, Archiving document, rules, routines, procedure s, and directives.
+Formal meeting, metaphors, analogies, stories, workshop.
+shared interpretatio n. Samuel et al.
+(2012); Fang & Zou (2010) E/E Reconfiguring the existing knowledge - by sorting, combining, and categorizing from scatters sources, Integrating information system (IS).
+Developing common tools, establishin g communic ation routines, guideline and standards.
+(2011) 71 Samaneh Bagheri, Rob Kust ers and Jos Trienekens Storage and retrievalE/E Linking multiple knowledge repositories, storing integrated knowledge of different partners in knowledge database, Coordinating data format, and storage location between partners, defining a unified access for retrieval.
+Formal knowledge representa tions, standards, organizatio nal routines.
+network' s collective memory Ensuring the efficient knowledge preservation and access to the stored knowledge across a network Li et al.
+(2014) T/E Documenting and organizing both effective and ineffective experiences of networked activities.
+Tacit knowledg e Inventory chart or map, partners.
+TransferE/E Documenting, Transferring present explicit knowledge in a transaction network.
+Formal contract, common platform, standards, organizatio nal routines, document, network's institution al agreement .
+Provide timely, accurate, reliable access to the required knowledge across a network.
+(2012); Gupta & Polonsky (2014) ;EasterbySmith et al.
+(2008); Fang & Zou (2010); Pak et al.
+(2015) T/T Sharing a common knowledge base, knowledge adaptation to the new context, publicizing the existence of knowledge.
+Face-to-face communicati on, discussion, and dialogue, shared value, mutual norm, trust, Joint training program.
+Reciprocal learning, recognize the value of partner knowledge.
+applicationE/E Utilizing the collaboratively acquired, stored, and shared knowledge created in a network.
+Organizati onal routines, directives, contractua l agreement .
+Collective decision making, coordinated response.
+(2015); Tai Tsou (2012) In the following the main findings of the analysis of table 1 against table 2, based on the process defined in section 3, are discussed.
+Similar to the collaborative KM creation process, the info rmal control in tacit to tacit CK conversion and both informal and formal controls in tacit to explicit CK conversion have been regarded as appropriate mechanisms within the VN-CK creation process.
+This can be considered as a confirmation.
+Regarding creation new explicit CK from tacit CK, bo th a gap-completion and a weakness-modification can be recognized.
+While the former is related to the formal co ntrol, the latter is related to the resources.
+Similar to table 2, we suggest using formal cont rol such as developing network rout ines facilitate this type of VN-CK creation process.
+We also recommend considering the ne twork of partners and customers as resources.
+Because providing integrated solutions principally require network collabora tion of multiple partners with customers in 72 Samaneh Bagheri, Rob Kust ers and Jos Trienekens response to evolving customer needs during solution ex perience.
+Creation new explicit CK from explicit CK regards can be considered as a gap-completion.
+To fill the gap and in line with collaborative KM literature, we propose that solution partners and customers jointly reconf igure their existing explicit CK -that are resulted from analysing transactional information- by sorting, combin ing and categorizing scatters sources.
+We also suggest that they integrate their CK data warehouses, and defi ne routines, standards, and guidelines across a value network.
+These activities can lead to identify the ne w pattern of fit between customer needs and solution offerings.
+VN-CK storage/retrieval process can be considered as a gap-completion.
+To fill the gap and comparable to collaborative KM literature, we suggest that KM storage/ retrieval process explicit CK should be recorded and stored in the value network collective CK memory.
+To ensu re that the explicit CK preserve efficiently across the value network, we propose to link CK repositories of all partners and customers, and to coordinate data format and location among partners and customers.
+For document ing and organizing tacit CK, we propose that solution partners and customers should collaboratively develop a tacit CK inventory chart or CK maps.
+Such a tacit CK inventory can be created by interviewing customers ab out their experience and needs.
+Likewise solution partners can be interviewed about their past experiences in developing solutions for multiple customers.
+Then set of scenarios can be developed and documented to de scribe a typical solution-related situation and check whether providers' customer-related experiences ar e matched with a new customer's requirements.
+The documentation ensures that they access to codified CK wi thin solution processes from identification to post deployment support.
+For CK retrieval from stored CK, it is proposed to define a unified access to the CK repositories across a PSS value network through techni cal interfaces, standard routines, or formal CK representations.
+Regarding tacit VN-CK transfer process, formal control a nd activities can be regarded as an empty-confirmation and enrichment respectively.
+Both informal control and objective can be considered as a gap-completion.
+Cocreation integrated solution take place at a network le vel in which customers engage in dialog with solution partners during each stage of solution processes.
+We propose to consider solution processes as a reciprocal learning process through which solution partners share and transfer their knowledge of the customers' needs and expectation with other.
+Through such processes customers can also share their knowledge, manifested in their idea, and value experience with solution partners .
+So, they can publicize their CK across a network through discussion, dialogue, trust, face-to-face communication, or joint training program provided by partners and customers.
+These informal control mech anisms can facilitate the discussion on recognizing the value of CK.
+Explicit VN-CK transfer process can be regard as gap-comp letion.
+The explicit CK treats similarly as explicit knowledge.
+Therefore, we fill table 1 by using the characteristics of tran sfer explicit collaborative knowledge (table2).
+Regarding VN-CK application process, fo rmal and informal control can be co nsidered as a gap-completion emptyconfirmation respectively.
+Similar to collaborative kn owledge application process, we advise partners and customers develop a routines and cont ractual agreement to coordinate task s in using CK during all stages of solution processes.
+Define VN-CKM lifecycle and develop the framework In this section we define the VN-CKM lifecycle and subs equently the conceptual framework is presented in table 3.
+Within the context of a PSS value network, the VN-CKM lifecycle refers to ongoing collaborative processes of CK creation, storage/retrieval, transfer, and application, pertaining to the solution processes with emphasis on multilateral interaction of partners and customers, and to the benefits of all partners and customers .
+The VNCKM lifecycle facilitates a shared understanding of customers' needs among partners which results in the creation of superior integrated solutions.
+Comparing this with the aforementioned definition of CKM the novel aspects of our definition are: ƒ Collaborative efforts of all partners and customers in the VN-CKM processes take place across the network.
+ƒ We highlight the multilateral interaction which goes beyond the two-actor focus to a multi-actor focus through the customer experience of integrated solution processes.
+73 Samaneh Bagheri, Rob Kust ers and Jos Trienekens ƒ Put emphasis on the solution processes, because customers are actively involved in identifying, designing, developing, deployment and post-d eployment processes of integrated solutions.
+These processes offer ample opportunities for managing CK across the PSS value network.
+The discussions on analysis the results in the previous section enable us to develop a more comprehensive framework on VN-CKM lifecycle in comp arison with what is av ailable in table1.The proposed VN-CKM lifecycle framework is presented in table3.
+The four types of anal ysis and the origin of the used data are mentioned in the brackets in table3.
+Table 3: VN-CKM lifecycle- a conceptual framework P I/O Main activities Control Resource Objective Formal Informal Creation T/T Ideations, identifying the business customer's problem, customers explain their challenges, obtaining deep customer insight and contextual understanding of customer experience (CE) and emotions through brainstorming, empathic methods, and ethnographic research techniques besides traditional market research.
+(From table 1) (empty- confirmation) briefing session, frequent, collective and reciprocal interaction, trust, dialogue (confirmation) Network of solution partners and customers.
+(From table 1) Mutual understanding of the customer problem, directing and evaluating solution, providing usercentered perspectives on solution offerings.
+(From table 1) T/E Analyzing and interpreting the customer preference, explicitly describing customer knowledge and service offerings, Storytelling and visualizing, mapping out the service encounters (firmcustomer touch points)from the customer's perspective by utilizing mapping tools (e.g.
+process mapping, serviceblueprinting, and customer -firm touch point analysis),formalizati on of all the solution processes, clarify roles and responsibilities, reporting structure.
+(From table 1) Rules and guidelines.
+(confirmation) Workshop, forum.
+(confirmation) Network of solution partners and customers.
+(From table 1) Create common understanding of the content of the solution, elicit customer experiences, ensure that customer requirements define, meet, and support accurately.
+(From table 1) 74 Samaneh Bagheri, Rob Kust ers and Jos Trienekens P I/O Main activities Control Resource Objective Formal Informal E/E Reconfiguring the existing CK - by sorting, combining, and categorizing, integrating CK data warehouses.
+(gap-completion) Developing common tools, establishing communication routines, guideline and standards.
+(gap-completion) (empty- confirmation) IS.
+(gapcompletion) Find new patterns of fit between customer needs and solution offerings.
+(gap-completion) E/T Providing knowledge for customer at deployment phase.
+(From table 1) Network routines (gap -completion) Training (confirmation) Network of solution partners and customers.
+(weaknessmodification) Enhance the value customers derive from solution.
+(From table 1) Storage/ retrieval E/E Integrating CK repositories, defining a unified access to the CK repositories, coordinating data formats and storage locations, making access to the stored CK.
+(gap-completion) Formal CK representations, standards, routines.
+(gap -completion) (empty- confir mation) Network collective CK memory.
+(gapcompletion) Ensuring the efficient CK preservation and access to the stored knowledge across a value network.
+(gap-completion) T/E Documenting and organizing past experiences of both solution providers and customers.
+(gap-completion) Documentation (gap -completion) Interview (gapcompletion) CK inventory map, network of solution partners and customers.
+(gapcompletion) Transfer E/E Documenting, transferring present explicit CK in a transaction network.
+(gap-completion) Formal contract, common platform, standards, organizational routines, document, network's institutional agreement.
+(gap-completion) (empty- confirmation) IT tools.
+(gapcompletion) Provide timely, accurate, reliable access to the required CK across a PSS value network.
+(gap-completion) T/T Sharing knowledge of the customer's problem, needs, and value expectations, identifying the customer's preference for centralized or decentralized knowledge flows between partners and customers.
+(enrichment) (empty- confirmation) Face-to-face communication , discussion, and dialogue, shared value, mutual norm, trust, Joint training program.
+(gapcompletion) Network of solution partners and customers.
+(From table 1) Reciprocal learning during solution processes.
+(gap-completion) 75 Samaneh Bagheri, Rob Kust ers and Jos Trienekens P I/O Main activities Control Resource Objective Formal Informal Application E/E Integrated solution proposes from identification to post- deployment support are based on using CK.
+(From table 1) Network routines, directives, contractual agreement.
+(gap -completion) (empty- confirmation) Network of solution partners and customers.
+(From table 1) Provide outstanding customer experience, Enhance the customer's business.
+Conclusion Although customer knowledge emerged as the most fr equently mentioned attribute of PSS value network environments, little is known about CKM processes in such contexts.
+These CKM processes differ from CKM processes in more traditional settings in two ways.
+Fi rst, there is a move from single organizations to collaborative networks of partners and customers.
+Second, there is a focus on co-creation customer experience during integrated solution processes.
+These novel aspects strongly affect CKM processes and offer new opportunities for collaboration.
+This research has pres ented a concepual framework to characterize the four processes of VN-CKM lifecycle.
+In doing so, we conducte d a systematic literature review on both the VN-CKM lifecycle and the collaborative KM lifecycle approach , by using the IPO and Nonaka knowledge models as guidelines.
+The proposed VN-CKM lifecycle can serve as a descriptive mechanism that ai ms to generate in-depth insight into how partners work together and with cust omers, to more effectively manage customer knowledge across a PSS value network.
+In future research we will conduct case studies to as sess the usability of the proposed VN-CKM lifecycle framework in practice.
+Moreover, we suggest investigating the applications of informat ion systems in facilitating VN-CKM lifecycle in future research.
+References Aarikka-Stenroos, L. & Jaakkola, E. (2012) "Value co-creation in knowledge intensive business services: A dyadic perspective on the joint problem solving process", Industrial Marketing Management , 41(1), pp.15–26.
+(2001) "Review: Knowledge mana gement and knowledge management systems: Conceptual foundations and research issues", MIS quarterly , pp.107–136.
+Bagheri, S., Kusters, R.J. & Trienekens, J.J.C., 2015.
+Busi ness-IT Alignment in PSS Value Networks: linking customer knowledge management to social cu stomer relationship management.
+(2011) "Customer knowledge enable d innovation capability: proposing a measurement scale", Journal of knowledge management 15(4), pp.648–674.
+Buchnowska, D. (2011) "Customer Knowledge Mana gement Models: Assessment and Proposal", In Research in Systems Analysis and Design: Models and Methods .
+Dekker, H.C. (2004) "Control of inter-orga nizational relationships: evidence on appropriation concerns and coordination requirements", Accounting, Organizations and Society , 29(1), pp.27–49.
+Easterby-Smith, M., Lyles, M.A.
+(2008) "Inter-o rganizational knowledge transfer: Current themes and future prospects", Journal of management studies , 45(4), pp.677–690.
+(2012) "Customer integration within se rvice development—A review of methods and an analysis of insitu and exsitu contributions", Technovation , 32(7), pp.419–429.
+Fang, E. & Zou, S. (2010) "The effects of absorptive and joint learning on the instability of international joint ventures in emerging economies" International Business Studies , 41(5), pp.906–924.
+Fang, S.-C., Yang, C.-W. & Hsu, W.-Y.
+( 2013) "Inter-organizational knowledge tr ansfer: the perspective of knowledge governance", Journal of Knowledge Management , 17(6), pp.943–957.
+& Smeds, R. (2009) "Inter-partner relationship, knowledge transf er mechanisms, and improved capability to manage R\&D alliances: eviden ce from the telecommunications industry", Technology Management , 47(4), pp.346–370.
+(2007) "Towards the "perfect"customer experience", Journal of Brand Management , 15(2), pp.89– 101.
+Gibbert, M., Leibold, M. & Probst, G. (2002) "Five styles of customer knowledge management", European Management Journal , 20(5), pp.459–469.
+Grӧnroos, C. (2011) "A service perspective on business relationships: The value creation, interaction and marketing interface", Industrial Marketing Management , 40(2), pp.240–247.
+Gupta, S. & Polonsky, M. (2014) "Inter-firm learning and kn owledge-sharing in multinational networks: An outsourced organization's perspective", Journal of Business Research , 67(4), pp.615–622.
+76 Samaneh Bagheri, Rob Kust ers and Jos Trienekens Hakanen, T. (2014) "Co-creating integrated solutions within business networks: The KAM team as knowledge integrator", Industrial Marketing Management .
+Harryson, S.J., Dudkowski, R. & Stern, A.
+(2008) "Transform ation networks in innovation alliances-the development of Volvo C70", Journal of Management Studies , 45(4), pp.745–773.
+Hoetker, G. & Mellewigt, T. (2009) "Choic e and performance of governance mechanis ms: matching alliance governance to asset type", Strategic Management Journal , 30(10), pp.1025–1044.
+(2004) "Procedures for performing systematic reviews", Keele, UK, Keele University .
+Langfield-Smith, K. & Smith, D. (2003) "Management control systems and trust in outsourcing relationships", Management accounting research , 14(3), pp.281–307.
+Li, Y., Tarafdar, M. & Subba Rao, S. (2012) "Collaborative knowledge management practices: Theoretical development and empirical analysis", International Journal of Operations \& Production Management , 32(4), pp.398–422.
+& Chien, S. (2006) "A knowledge-enab led procedure for customer relationship management", Industrial Marketing Management , 35(4), pp.446–456.
+& O'Brien, M. (2007) "Competing through service: Insights fr om service-dominant logic", Journal of retailing , 83(1), pp.5–18.
+(2011) "A stakeholde r-unifying, cocreation philosophy for marketing", Journal of Macro marketing , 31(2), pp.129–134.
+& Blazevic, V. (2014) "The value of customer cocreated knowledge during the innovation process", Journal of Product Innovation Management , 31(3), pp.599–615.
+(1994) "A dynamic theory of organizational knowledge creation", Organization science , 5(1), pp.14–37.
+(2015) "An integrated multi- stage model of knowledge management in international joint ventures: Identifying a trigger for knowle dge exploration and knowledge harvest", Journal of World Business , 50(1), pp.180–191.
+Parent, M.M., MacDonald, D. & Goulet, G. (2014) "The theory and practice of knowledge management and transfer: The case of the Olympic Games", Sport Management Review , 17(2), pp.205–218.
+Payne, A.F., Storbacka, K. & Frow, P. ( 2008) "Managing the co-creation of value", Journal of the academy of marketing science , 36(1), pp.83–96.
+(2013) "Achieving custom er satisfaction through integrated produc ts and services: An exploratory study", Journal of Product Innovation Management , 30(6), pp.1128–1144.
+(2006) "Advancing CRM initiatives with knowledge management", Journal of Information Science and Technology , 3(2), pp.23–44.
+(2011) "Service transition st rategies of industrial manufacturers", Industrial Marketing Management , 40(5), pp.683–690.
+(2011) "Knowledge management in supply chain: An empirical study from France", The Journal of Strategic Information Systems , 20(3), pp.283–306.
+(2010) "Knowledge manage ment competence for enterprise system success", The Journal of Strategic Information Systems , 19(4), pp.296–306.
+Shang, S.S., Lin, S.-F. & Wu, Y.-L. (2009) "Service innovation through dynamic knowledge management", Industrial Management \& Data Systems , 109(3), pp.322–337.
+(2012) "Knowledge sharing—A key role in the downstream supply chain", Information \& Management , 49(2), pp.70–80.
+(2005) "Developments in practice XVIII-customer knowledge management: adding value for our customers", Communications of the Association for Information Systems , 16(1).
+Tai Tsou, H. (2012) "Collaboration comp etency and partner match for e-service product innovation through knowledge integration mechanisms", Journal of Service Management , 23(5), pp.640–663.
+Tax, S.S., McCutcheon, D. & Wilkinson, I.F.
+(2013) "The serv ice delivery network (SDN) a customer-centric perspective of the customer journey", Journal of Service Research , 16(4), pp.454–470.
+& Bharadwaj, S.G. (2007) "Rethinkin g customer solutions: from product bundles to relational processes", Journal of Marketing , 71(3), pp.1–17.
+& Ran tala, T. (2012) "Managing knowledg e within networked innovation", Knowledge Management Research \& Practice , 10(1), pp.27–40.
+(2006) "Service-dominant logic.
+The service-dominant logic of marketing: Dialog, debate, and directions ", ME Sharpe Armonk, NY.
+& Lo, H. (2012) "The impact of customer knowledge capa bility and relational capability on new service development performance: The case of health service", Journal of Management \& Organization , 18(5), pp.608–624.
+(2014) "Design fo r Value Co-Creation: Exploring Synergies between Design for Service and Service Logic", Service Science , 6(2), pp.106–121.
+(2011) "NSD proces ses and practices in experiential services", Journal of product innovation management , 28(1), pp.63–80.

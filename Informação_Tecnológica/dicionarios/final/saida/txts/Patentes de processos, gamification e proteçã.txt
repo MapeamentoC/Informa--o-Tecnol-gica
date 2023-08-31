@@ -1,0 +1,145 @@
+ Página | 172 Patentes de processos , gamification e proteção ao us uário a partir da análise do software Iramuteq RESUMO Washington Sales do Monte wsalesmkt@gmail.bom Professor Permanente do PROFNIT/UFERSA Elis Regina Monte Feitosa elisrmf@gmail.com Professora de Administração UERN – Pau dos Ferros Robelius De -Bortoli robelius@yahoo.com.br Professor Permanente do PPGPI /UFS As novas tecnologias interativas juntamente com o desenvolvimento da inteligência artificial, t êm levantado discuss ões não só por suas transformações na sociedade como também a busca pelo entendimento da proteção propriedade intelectual das organizações como dos usuários que utilizam.
+Proteger os processos proveniente s de inovações tecnológicas é importante assim com també m proteger os usuários .
+Autores como Negroponte (1999), Pierre Lévy (2009) e Yuval Harari (2018), ajudam a compreender essas transformações técnico -social e seus impactos na sociedade .
+Esse artigo tem como objetivo analisar a inter -relação entre as virávei s: patentes, processos, gamification e proteção só usuário.
+Através do software IRAMUTEQ, com nove corpus textuais (conclusões de artigos) foram utilizados para análise 50 segmentos de textos, dos quais 40 foram considerados corresponde 74,67% dos dados.
+O Método utilizado foi exploratório descritiv o com abordagem qualitativa .
+A partir do corpus analisado sug iram 6 classes que foram agrupadas em: conceitos Gerais, Patentes de Processos/Tecnologia e Proteção ao Usuário, os resultados confinaram a inter -relação entre as variáveis, ou seja , apresentando assim a necessidad e de um debate quanto a proteção aos usuá rios que estão expostos à quantidade cada dia maior de tecnologias e inovações, desenvolvida com o propósito de modificar o seu comportamento .
+Esse estudo busca contribuir para a reflexão sobre a importância da construção de uma visão bem como políticas so bre a proteção ao usuário que estão cada mais envolvidos em tecnologias e inovações que buscam mudança de comportamento .
+PALAVRAS -CHAVE: Patentes de Processos , Gamification , Iramuteq .
+Página | 173 INTRODUÇÃO Na década de 1990 , enquanto a expansão da banda larga acontecia nos países em desenvolvimento, o Nicholas Negroponte apresentava a discussão sobre a transformação dos átomos em bits, referindo -se à evolução que aconteceria em muitos processos industriais.
+Ao mesmo tempo em que levantava o debate sobre o processo de interação do homem com as máquinas, onde os computadores seriam o s grande s responsáv eis por isso.
+O desafio para o futuro próximo era que os computadores conhecessem melhor o usuário, o que ele chamou de 'facilida de de uso', ou seja, na era da pós -informação os processos de interação ser ão uma via de mão dupla, ou seja, tanto o usuário terá condições de buscá -las como o próprio agente de interação fará isso para o usuário (NEGROPONTE, 1996, 1999; LEMOS, 1997).
+A In teração Homem -Computador, vem sendo estudada para que os seres humanos possam interagir de forma a tornar a sua experiência mais fácil, prática e agradável (SANTOS; TEIXEIRA, 2010).
+Dessa forma , as tecnologias tendência para uma transformação técnico -socia l ou sociotécnic a. O Pierre Lévy ao apresenta r os conceitos dos termos 'ciberespaço' e 'cibercultura', o impacto social e cultural, levanta essa discussão sobre o desenvolvimento da tecnologia e da técnica (LEMOS, 2002).
+No processo de evolução dos sistemas sociotécnicos (SIMONETTE, 2010), a técnica ganha importância , porque é produzida dentro de uma cultura , além disso uma sociedade encontra -se condicionada por suas técnicas.
+Segundo o autor, para que uma técnica seja considerada boa ou má , deve -se levar em consideração os contextos de uso e os pontos de vista .
+Essa visão abre uma perspectiva ainda maior quanto a relação do homem e o desenvolvimento de novas tecnologias (LÉVY, 2009).
+Assim como para o Negroponte, Yuval Harari também corr obora com o entendimento que a revolução das novas tecnologias teve início na década de 1990 , destacando a popularização da internet.
+Na atualidade , o debate das questões de controle e políticas dos sistemas democráticos entra em pauta com choque trazido pela Inteligên cia Artificial e a revolução da tecnologia blockchain (sistema de segurança para transformações e troca de informações no regime de moeda virtual.
+Tecnologia de registro distribuído).
+Para Yuval Harari , a união da informação com a biotecnologia é um dos pr incipais desafios atuais da humanidade, as revoluções nesse campo permitirão arquitetar e fabricar vida e ninguém sabe quais serão as consequências disso (HARARI, 2018).
+Esse artigo traz uma abordagem qualitativa do tipo exploratória, sobre uma pesquisa que envolve patentes, processos, gamification como um tipo processo que pode mudar o comportamento humano , levantando uma discussão referente a necessidade de proteção dos usuários .
+Os textos utilizados fazem de um conjunto de estudo que busc ou demonstrar que o patenteamento de processo do tipo gamification protege o usuário.
+Assim sendo, est e artigo tem como objetivo analisar a inter -relação entre as viráveis : patentes, processos, gamification e proteção ao usuário.
+Essa análise foi feit a por meio mineração de dados com a ajuda d o software , mediante ao vocabulário de palavras, bem como, as palavras mais frequentes.
+A ideia de se buscar pesquisar a patente de processo tendo como background o gamification , compreende m que o gamification é processo que é utilizado para modificação do comportamento humano um conceito ainda pouco compreendido e suas ações estão sendo catalogadas e mapeadas, esse conceito pode ser Página | 174 interpretado pela utilização de elementos de games para estratégias de engajamento de usuários (WALZ; DETERDING, 2014).
+O gamification não significa a criação ou desenvolvimento de jogos, mas sim utilizar o pensamento da mecânica do jogo em contexto de não -jogo (DICHEV, et al., 2014) .
+O estudo desse tema vem crescendo a cada ano e se to rnando popular no ambiente acadêmico (HAMARI; KOIVISTO; SARSA, 2014).
+O gamification pode ser considerad o como um fenômeno emergente, derivad o da popularização dos games , principalmente da capacidade intrínseca de motivar para ação, resolução de problemas , potencializar aprendizagens ou outras ações que envolvem indivíduos (MENEZES, BORTOLI E ALMEIDA, 2017).
+Duarte e Cruz (2018), apresentam o gamification como uma tecnologia que pode ser inserida no processo de ensino -aprendizagem, para melhor ar a interação dos alunos.
+Inchamnan (2019), apresenta uma proposta de gamification utilizado para mudança de comportamento de pessoas idosas na Tailândia.
+Esse autor disserta o gamification como uma ferramenta persuasiva que pode ser utilizada para mudança da mentalidade e cultura das pessoas.
+Para esse estudo , foi organizado um conjunto de textos ( corpus ), a partir d o qual o processamento e análise dos dados fo ram realizado s por meio do software IRAMUTEQ (CAMARGO; JUSTO, 2013).
+Este software trata-se de um programa que se ancora no software -R e permite diferentes formas de análises estatísticas sobre corpus textuais (um conjunto de textos previamente organizado) , base ando -se na mineração de textos (BARION; LAGO, 2015).
+METODOLOGIA Trata -se de uma análise descritiva com uma abordagem qualitativa (GODOY, 1995; SILVA; MENEZES, 2005), realizada através de um software como ferramenta de apoio ao processamento de dados na pesquisa qualitativa, baseada em mineração de texto.
+A construção d o corpus foi realizada utilizando 9 textos (artigos), sendo que para análise no software foram utilizadas as conclusões de cada artigo.
+Cada texto foi organizado conforme instrução do manual de softwareIRAMUTEQ , separado **** *Artigo_1, **** Artigo_2 até **** *Artigo_09 (RATINAUD, P. IRAMUTEQ, 2009).
+Após a transcrição realizada no LibreOffice Writer do pacote LibreOffice.org, o arquivo foi salvo como documento de texto que usa codificação de caracteres no padrão UTF -8 (Unicode Transformation Format 8 bit codeunits ), formato indicado para uma melhor leitura do software IRAMUTEQ .
+O software IRAMUTEQ (Interface de R pour les Analyses Multidimensionnelles de Textes et de Questionnaires ) foi escolhido por utilizar o qui -quadrado (χ2) como teste estatístico para determinar a correlação e associação entre os vocábulos, permitindo o estabelecimento de distribuição de classes de palavras por meio do uso da estatística descritiva .
+Para a análise textual, foi utilizada a classificação hierárquica descendente – CHD, na qual os segmentos de texto são classificados em função dos seus respectivos vocabulários, organizado na forma de um dendograma de classes.
+Também foi utilizada a Análise Fatorial de Correspondência – AFC, representado por um plano fatorial, uma Análise de Similitude compõe a parte final das análises.
+O número de segmentos de textos foi 50, dos quais 40 foram considerados para análise que corresponde a 74,67% dos dados, acima do valor aceitável de que Página | 175 é de 70%.
+O software IRAMUTEQ levou 10s (segundos) para organização da CHD , sendo o Número de textos 9, Número de segmentos de textos 75, Número de formas distintas 851, Número de ocorrências 2686, Número de classes 6, Retenção de segmentos de texto 56 segmentos.
+RESULTADOS E DISCUSSÕES Após o processamento e o agrupamento quanto às ocorrências das palavras, a CHD cria o dendograma das classes.
+A Figura 1, além de apresentar as classes, demonstra a ligação entre elas, bem como, os seus níveis de associação entre si.
+Cada class e possui uma cor diferenciada e as Unidades de Contexto ElementarUCE de cada uma possui a mesma cor da classe.
+Figura 1 – Dendograma para Classificação Hierárquica Descendente com o seu conteúdo lexical.
+Fonte : Dados da Pesquisa, 2019 .
+Para uma melhor compreensão do dendograma, suas ligações e subligações das classes, foi construído o Quadro 1 do corpus feito pelo software IRAMUTEQ.
+Quadro 1 – Categorias utilizadas no estudo resultantes das técnicas de análise empregada s no conteúdo das entrevistas.
+CATEGORIAS TEMÁTICAS CLASSES PELO software -IRAMUTEQ SUBCLASSES PELO software -IRAMUTEQ Conceitos Gerais Classe 6 Classe 3; Classe 4 Patentes de Processos/Tecnologia Classe 6 Classe 1; Classe 2; Classe 5 Proteção ao Usuário Classe 1 Classe 2; Classe 5; Fonte: Dados da Pesquisa, 2019 .
+A partir do corpus de textos selecionados para a análise no software IRAMUTEQ foi possível identificar que o conteúdo textual se divide em seis classes, assim como apresentado na Figura 1, dessa forma, é possível nomear de acordo com seu grupo de palavras, como visto no Quadro 1.
+A Classe 6 possui como subclasse as classes 3 e 4, que foram denominadas 'conceitos gerais', por Página | 176 apresentar 16% das principais palavras presentes nas demais classes.
+Por meio do dendograma é possível verificar outra ligação da Classe 6 e as subclasses 1, 2 e 5, a qual classificamos como Patente de P rocesso e Tecnologia, essas correspondem a 53%.
+Por fim, existe uma subligação entre a subclasse 1 com as subclasses 2 e 5, classificada como Proteção ao Usuário, correspondendo a 34% da relação entre as palavras.
+Dessa forma, de acordo com a análise do de ndograma, é possível perceber que o corpus analisado correspondente se concentra na discussão sobre as patentes de processos e as tecnologias, bem como sobre a proteção ao usuário.
+O próximo passo foi realizar uma Análise Fatorial de Correspondência – AFC.
+Com o corpus organizado a partir das conclusões dos artigos, as palavras foram distribuídas em plano fatorial, como pode ser constatado na Figura 2.
+Figura 2 - Análise Fatorial de Correspondência Fonte: Dados da Pesquisa, 20 19.
+É possível perceber a d istinção das palavras no plano fatorial, que o software IRAMUTEQ considera a frequência das palavras, conforme é apresentado no dendograma das seis classes (Figura 1).
+Observa -se, dessa forma, que as palavras usuário, proteção, plataforma, obedecem a uma correção no canto superior do plano.
+É plausível que essa disposição das palavras obedeça à construção temporal dos artigos.
+A Figura 03 ap resenta uma melhor visualização desse desenvolvimento comparada com uma linha temporal de construção e ligação com cada artigo.
+Página | 177 Figura 3 - Análise Fatorial de Correspondência Fonte: Dados da Pesquisa, 2019 .
+Essa análise torna -se importante por confirmar as três principais variáveis presentes na discussão sobre patentes de processos do tipo gamification para proteger o usuário .
+O Artigo_1 corresponde a uma revisão de literatura dos principais termos que envolv em o estudo do gamification : Gameful , Playful , Affordance .
+Na compreensão desse estudo torna -se importante fazer a ligação entre o desenvolvimento de tecnologias, inovação, usuários e mudança de comportamento.
+O Artigo_2, apresenta uma análise das Leis 9.6 09/1998 que trata sobre proteção da propriedade intelectual de programa de computador, Lei 9.610/1998 que consolida a legislação sobre direitos autorais e dá outras providências, também da Lei 9.279/1996 que regula direitos e obrigações relativos à Proprie dade Industrial.
+A Resolução nº 158/2016 que apresenta e estabelece as diretrizes do exame técnico de pedidos de patente envolvendo invenções implementadas por programa de computador.
+Esse estudo possui uma aproximação com os demais artigos servindo como u m elo da base teórica e dados levantados.
+O Artigo_3 apresenta uma análise de conteúdo e uma patentometria nas bases internacionais CANADA; ESPACENET; USPTO e na nacional INPI (Instituto Nacional da Propriedade Industrial).
+Essa análise apresenta a importâ ncia dos produtos e processos para organização, e a necessidade das organizações protegerem seus processos para obterem vantagens competitivas.
+O Artigo_4 apresenta o avanço das tecnologias persuasivas e sua popularização através do mercado de desenvolvime nto de software , surgem questionamentos sobre a proteção dos usuários em relação às ferramentas que contêm processos do tipo gamification .
+O Artigo_5 descreve o interesse mundial quanto à dignidade, qualidade de vida, bem -estar e saúde humana, sua relação com produtos e serviços que devido ao avanço tecnológico tem modificado não apenas o ambiente externo ao homem, mas o seu comportamento de consumo, causa impactos irremediáveis ao meio que habitam.
+No Artigo_6 a pesquisa apresentou os processos presentes em tecnologias e inovações, por meio da descrição de patentes que possuem processos de gerenciamento de rastreabilidade de alimentos, essa a nálise foi realizada por meio de uma patentometria na base nacional INPI.
+Página | 178 O Artigo_7 analisou o crescimento exponencial das tecnologias interativas, e a utilização de serviços presentes em dispositivos móveis instalados como smartphones, por meio de softwa re para as mais diversas atividades.
+A área da saúde é o setor que mais apresenta tecnologias dessa natureza, dessa forma, é uma das principais tecnologia s que pode m trazer transtornos para os usuários, como os danos materiais (prejuízos financeiros) e dan os morais (insatisfação, psicológicos).
+O Artigo_8 buscou comple men tar o estudo do gamification enquanto processo e seu crescimento em várias áreas do conhecimento, hoje sendo aplicado ao desenvolvimento de produtos, serviços e a interação com usuários num a busca de tornar a sua experiência mais significativa e promover a mudança de seu comportamento.
+Esse trabalho tem como objetivo apresentar uma visão dialética sobre o conceito do gamification enquanto processo a sua relação com mudança de comportamento d o usuário.
+O Artigo_9 buscou demonstrar a importância das patentes de processos e o principal tipo de patente depositada pelas Universidades do Nordeste.
+Com esse estudo foi possível constatar que existe uma necessidade de um maior entendimento quanto ao d epósito de pedidos de patentes de processos e da representatividade quanto às patentes de produtos em relação às patentes de processos.
+Em seguida, realizou -se uma Análise de Similitude, com a finalidade de analisar a conexão entre as palavras e inferência da relação entre elas.
+O resultado apresentou cinco agrupamentos de palavras, centralizadas a partir da palavra criança.
+Quando se emprega esse tipo de análise busca -se observar o comportamento de uma variável ou grupos de variáveis em covariação com outr as.
+O termo "processo" é o mais central na imagem e aparece ligado a três situações específicas dos estudos relacionados às palavras -chave utilizadas na base de dados da pesquisa.
+A primeira é a questão "usuário" que se liga diretamente com autismo e "pate ntes".
+A importância da ligação é representada pela espessura dos filamentos que ligam as palavras uns a outras.
+Figura 4 – Análise de similitude - palavras de intercessão: processo; usuário e patente Fonte: Dados da Pesquisa, 2019 .
+Página | 179 A ligação de "processo" com os demais termos (patentes e usuário) mostra os esforços e interesses das pesquisas em concentra r os esforços da discussão da frequência das palavras -chave do corpus.
+A variável processo apresenta -se ligada na mesma proporção com patentes li gadas as suas dimensões (redação e pedido), a ligação com o usuário apresenta -se mais forte com as dimensões serviços e proteção, outras também podem ser destacadas, como tecnologia, informação e garantia.
+CONSIDERAÇÕES FINAIS Pela análise das classes repr esentadas pelo dendograma, análise fatorial de correspondência e análise de similitude, foi possível entender a li gação e a relação entre o principal debate dessa pesquisa: patenteamento do processo do tipo gamification para proteger o usuário.
+A representação da informação fornecida pela construção do corpus analisado por meio do software IRAMUTEQ, confirmou a interligação dos estudos.
+O software IRAMUTEQ permitiu um olhar criterioso sobre a construção do objetivo e da problemática levantada quanto às variáveis: Processo do tipo Gaminfication , Patentes e Proteção ao Usuário, consequentemente, dos resultados do estudo, potencializando o entendimento e a relação entre os textos construídos em espaço temporal.
+A análise fat orial de correspondência apresenta de forma clar a o crescimento e a conexão entre os textos, bem como, a análise de similitude, ajuda a compreender os elos entre as variáveis presentes na discussão.
+As etapas do processo mediante a utilização do software IRAMUTEQ requerem uma organização sistemática, destacando a importância da pesquisa qualitativa, a possibilidade de construção e análise de dados por meio de textos, proporcionando nesse estudo um melhor processamento e apresentação dos resultados, possibil itando entender que essa forma de análise permitiu uma melhor interpretação dos resultados processados com rigor científico.
+Foi possível verificar a ligação da discussão de processo com desenvolvimento de produto, patentes e usuário Desse modo, espera -se que este estudo possa contribuir para a reflexão sobre a importância da construção de um debate sobre a proteção aos usuários que estão expostos à uma quantidade cada dia maior de tecnologias e inovações, desenvolvida s com o propósito de modificar o seu comportamento.
+A ideia é promover uma perspectiva de visão crítico -reflexiva, bem como despertar o interesse pelos estudos das patentes de processo e do gamification como processo.
+A utilização do software IRAMUTEQ, poss ibilit ou o processamento de dados em uma quantidade bem maior do que a realizada nessa pesquisa, dessa forma é possível viabilizar futuros aprimoramentos dessa pesquisa, incluindo um número maior de textos, análise por variáveis pré -selecionadas, bem como, a possibilidade de promover estudo sobre estado da arte dentro dessa dimensão, envolvendo, assim, uma maior quantidade de textos e tema específico ou correlacionado a esse tema .
+Página | 180 Process patents, gamification and user protection from the Iramuteq softwa re analysis ABSTRACT The new interactive technologies together with the development of artificial intelligence, have raised discussions not only for their transformations in society but also the search for understanding the protection not only of the organizations' intellectua l property but also of the users they use.
+Protecting processes from technological innovations is important as well as protecting users.
+Authors such as Negroponte (1999), Pierre Lévy (2009) and Yuval Harari (2018), help to understand these technical -socia l transformations and their impacts on society.
+This article aims to analyze the interrelationship between the viable ones: patents, processes, gamification and only user protection.
+Through the software IRAMUTEQ, with nine textual corpus (conclusions of a rticles), 50 text segments were used for analysis, of which 40 were considered to correspond to 74.67% of the data.
+The method used was exploratory descriptive with a qualitative approach.
+From the analyzed corpus, 6 classes were suggested, which were grou ped into: General concepts, Process/Technology Patents and User Protection, the results confined the interrelationship between variables, that is, thus presenting the need for a debate on protection to users who are exposed to the increasing amount of tech nologies and innovations, developed with the purpose of modifying their behavior.
+This study seeks to contribute to the reflection on the importance of building a vision as well as policies on user protection that are increasingly involved in technologies and innovations that seek behavior change.
+KEYWORDS: Process Patent s, Gamification, Iramuteq.
+Página | 181 REFERÊNCIAS BARION, E. C. N.; LAGO, D. Mineração de textos.
+Revista de Ciências Exatas e Tecnologia , v. 3, n. 3, p. 123 -140, 2015.
+CAMARGO, B. V.; JUSTO, A. M. IRAMUTEQ: um software gratuito para análise de dados textuais.
+Temas em psicologia , v. 21, n. 2, p. 513 -518, 2013.
+From Gamification to Gameful Design and Gameful Experience in Learning.
+Cybernetics And Information Technologies , Carolina do Norte, v. 14, n. 4, p.80 -100, jul.
+Disponível em: < Acesso em: 19 jun.
+DUARTE, S.; CRUZ, M. The gamification octalysis framework within the primary english teaching process: The que st for a transformative classroom.
+Revista Lusófona de Educação , v. 41, p. 63 -82, 2018.
+GODOY, A. S. Introdução a pesquisa qualitativa e suas possibilidades.
+Revista de Administração de Empresas , v. 35, n. 2, p. 57 -63, 1995.
+HARARI, Y. N. 21 lições para o século 21.
+HAMARI, J.; KOIVISTO, J.; SARSA, H. Does Gamification Work?
+: A Literature Review of Empirical Studies on Gamification.
+Hawaii International Conference On System Science , Hawaii, v. 1, n. 1, p.3025 -3034, 2014.
+Disponível em: < goo.gl/y5MtK2>.
+The GAMIFICATION DESIGN PROCESS FOR THE AGING SOCIETY IN THAILAND.
+Humanities & Social Sciences Reviews , v. 7, n. 1, p. 47 -54, 2019.
+LEMOS, A. Ciber -socialidade: tecnologia e vida social na cultura contemporânea.
+Logos , v. 4, n. 1, p. 15 -19, 1997.
+MENEZES, C.; BORTOLI, R.; ALMEIDA, C. P. de.
+Mapeamento tecnológico de patentes relacionadas a gamificação.
+Encontros Bibli: Revista Eletrônica de Biblioteconomia e Ciência da Informação , Santa Catarina, v. 22, n. 49, p.33 -41, abr.
+NEGROPONTE, N. Books without pages.
+ACM SIGDOC Asterisk Journal of Computer Documentation , v. 20, n. 3, p. 2 -8, 1996.
+São Paulo: Companhia das Letras, 1999.
+Página | 182 SANTOS, S. L.; TEIXEIRA, F. G. Design de uma interface de interação tridimensional com foco na usabilidade e no desempenho gráfico.
+Design e Tecnologia , v. 1, n. 01, p. 39 -50, 2010.
+SILVA, E. L.; MENEZES, E. M. Metodologia da pesquisa e elaboração de dissertação .
+RATINAUD, P. IRAMUTEQ: Interface de R pour les Analyses Multidimensionnelles de Textes et de Questionnaires, Computer software .
+Disponível em: Acesso em: 15 dezembro 2019.
+WALZ, S. P.; DETERDING, S. The Gameful World .
+Indian Trail, North Carolina, Eua: Mit Press, 2014.
+688 p. Recebido: 06/04/2020 Aprovado: 30/01/2021 DOI: 10.3895/rts.v17n47.11924 Como citar: MONTE, W.S.
+; DE-BORTOLI, R. ; FEITOSA, E.R.M.
+Patentes de processos, gamification e proteção ao usuário a partir da análise do software Iramuteq.
+Soc ., Curitiba, v. 17, n. 47, p. 172-182, abr./jun., 2021.
+Correspondência: _ Direito autoral: Este artigo está licenciado sob os termos da Licença Creative Commons -Atribuição 4.0 Internacional.

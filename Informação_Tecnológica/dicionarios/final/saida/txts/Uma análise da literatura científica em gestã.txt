@@ -1,0 +1,400 @@
+UNIVERSIDADE FEDERAL DE SANTA CATARINA CENTRO SOCIOECONÔMICO DEPARTAMENTO DE CIÊNCIAS DA ADMINISTRAÇÃO Bianca dos Santos Simon UMA ANÁLISE DE LITERATURA EM GESTÃO DE PROJETOS DE INOVAÇÃO SOB A ÓTICA DA SINGULARIDADE E GESTÃO DE RISCOS Florianópolis 2019 Bianca dos Santos Simon UMA ANÁLISE DE LITARURA EM GESTÃO DE PROJETOS DE INOVAÇÃO SOB A ÓTICA DA SINGULARIDADE E GESTÃO DE RISCOS Trabalho de Curso apresentado à disciplina CAD 7305 como requisito p arcial para a obtenção do grau de Bacharel em Administração pela Universidade Federal de Santa Catarina.
+Enfoque: Monográfico – Artigo Área de concentração : Gestão de Projetos Orientador (a): Prof. Dr. Rogério T. de Oliveira Lacerda Florianópolis 2019 Catalogação na fonte elaborada pela biblioteca da Universidade Federal de Santa Catarina Bianca dos Santos Simon UMA ANÁLISE DE LITERATURA EM GESTÃO DE PROJ ETOS DE INOVAÇÃO SOB A ÓTICA DA SI NGULARIDADE E GESTÃO DE RISCOS Este Trabalho de Curso foi julgado adequado e aprovado na sua forma final pela Coordenadoria Trabalho de Cu rso do Departamento de Ciências da Administração da Universidade Federal de Santa Catarina.
+Florianópolis, 05 de Ju lho de 20 19.
+Prof. Márcia Barros de Sales Coordenador de Trabalho de Curso Avaliadores: Prof. Dr. Rogério Tadeu de Oliveira Lacerda Orientador Universidade Federal de Santa Catarina Prof. Dr. Ricardo Niehues Buss Avaliador Universidade Federal de Santa Catarina Doutoranda Mayara Lúcia Bernardes Avaliador Universidade Federal de Santa Catarina O sucesso é ir de fracasso em fracasso sem perder entusiasmo.
+(Winston Churchill) AGRADECIMENTOS Aos meus pais Pedro Simon e Iédy Simon, que apesar de todas as dificuldades, me incentivaram e apoiaram na busca por um ensino superior de qualidade.
+As minhas irmãs Andréia, Heloisa e Leila por estarem ao meu lado me dando o suporte necessário durante minha trajetória acadêmica.
+A minha amiga Mayara Lameira, que foi minha parcei ra e companheira durante os 4 anos em que dividimos apartamento em Florianóp olis.
+A minha amiga Mariane Borges, que mesmo tendo poucas disciplinas junto comigo, estávamos sempre ajudando uma a outra.
+Aos amigos que a UFSC me deu Fernanda Rossetti, Charles Sch mitt, João Victor Laurindo e Pedro Henrique Bodanese pela parceria di ária nas aulas, horas de estudos e risadas.
+Ao Rogério Lacerda, que além de orientador, foi meu amigo, meu mentor e principal influenciador em minha carreira profissional.
+Gratidão por toda a paciência, dedicação e confiança em meu potencial.
+A equipe de TMT - Regulatório da KPMG por todo o incentivo, paciência e dedicação na ampliação dos meus conhecimentos.
+Gostaria de deixar meu profundo agradecimento a todo o corpo docente e discente de dentro e fora do Departamento de Ciência s da Administração qu e de alguma forma fizeram parte desse período em que estive na faculdade.
+Por fim, deixo minha gratidão à Universidade Federal de Santa Catarina por me proporcionar a oportunidade de desenvolvimento e evolução nas três esferas: ensino, pesquisa e extensã o. Gratidão!
+RESUMO A busca por vantagens competitivas nas organiza ções tem se tornado cada vez mais emergente.
+Até pouco tempo atr ás a preocupa ção das grandes empresas estabelecidas no mercado era melhorar sua capacidade de gerenciar os neg ócios, reduzindo custos e efetuando melhorias na qualidade.
+No entanto, com a ascendente era tecnol ógica e o crescente dinamismo de mercado, as empresas buscam a inova ção como forma de manter a vantagem competitiva.
+Assim, a inova ção tem se mostrado um fator crítico de sucesso para ganhos de competitividade.
+Dessa forma, torna -se necess ário compreender as caracter ísticas inerentes aos projetos de inova ção para poder desenvolver pr áticas gerenciais apropriadas.
+Portanto, o presente estudo tem como objetivo evi denciar o estado da arte a respeito do tema gest ão de projetos de inova ção, a fim de contribuir com a pesquisa e melhorar o desempenho e compreens ão dos projetos de inova ção e, consequentemente, facilitar gerentes e gestores de inova ção.
+Para alcan çar os o bjetivos deste estudo, utilizou -se o m étodo Knowledge Development Process - Construtivist (ProKnow -C) para a realização da análise bibliométrica e análise sistêmica dos 16 artigos que compõem o portfólio bibliográfico.
+Identificou -se oportunidades de pesqu isa por meio das lentes de análise, como a singularidade, onde há a necessidade de c riação de um modelo de gestão que leve em consideração o contexto único em que o projeto está inserido, bem como os valores e preferências do gestor.
+Palavras -chave : Gestão de Projetos .
+ProKnow -C. ABSTRACT The search for competitive advantage in organizations has become increasingly more emerging.
+Until recently, the concern of large established companies was to improve their ability to manage their business, reduce costs and improve quality.
+However, with the rising technological era and growing market dynamism, companies seek innovation as a way to maintain competitive advantage.
+Thus, innovation has proven to be a critical success factor for competitive gains.
+Thus, it is necessary to understand the inherent characteristics of innovation projects in order to develop appropriate management practices.
+Therefore, the present study aims to evidence the state of the art regarding the topic of innov ation project management in order to contribute to research and improve the performance and understanding of innovation projects and, consequently, to facilitate innovation managers and managers .
+In order to achieve the objectives of this study, the Knowl edge Development Process - Construtivist (ProKnow -C) method was used to perform the bibliometric analysis and systemic analysis of the 16 articles that compose the bibliographic portfolio.
+Research opportunities have been identified through analysis lenses , such as singularity, where there is a need to create a management model that takes into account the unique context i n which the project is inserted, as well as the values and preferences of the manager .
+ProKnow -C. 9 1 INTRODUÇÃO As grandes empresas já estabelecidas no mercado geralmente se concentram em melhorar sua capacidade de gerenciar seus negócios, com ênfase em redução de custos, melhorias de qualidade e inovação incremental em produtos e processos existentes (O'CONNOR, 2013).
+Porém, para que essas empresas mantenham sua competitividade a longo prazo, precisam desenvolver paralelamente inovações radicais a fim de d ominar novos mercados .
+Dessa forma, a inovação tem sido um fator crítico d e sucesso para ganhos de competitividade e crescimento empresarial no contexto econômico (PACHECO, GOMES, SILVEIRA, 2013).
+Sem inovação, as empresas têm dificuldade de adaptação às mudanças, e as organizações precisam aprender a explorar as oportunidades q ue as mudanças provocam, pois essa capacidade é fundamental para se tornar competitiva no mundo da inovação (HASHIMOTO, 2006).
+Portanto, é preciso entender as características de projetos de inovação e a sua natureza incerta que os permeiam para desenvolve r práticas gerenciais apropriadas, que considerem o contexto único em que estão inseridas ( O'CONNOR, 2013 ).
+A gestão de projetos por muito tempo foi tida como um modelo mecanicista de controle (SHENHAR; DVIR, 2007; JOUINI; MIDLER; SILBERZAHN, 2016).
+Também , as técnicas e ferramentas aplicáveis ao gerenciamento de projetos ficaram restritas a gestão de projetos simples em ambientes estáveis (POLLACK, 2007).
+Porém, esta concepção é limitada e não consegue abordar contextos de incerteza como é o caso de projet os de inovação ou novos mercados (JOUINI; MIDLER; SILBERZAHN, 2016).
+Assim, saber os métodos apropriados de gerenciar projetos de inovação permite reduzir a imprevisibilidade e incerteza e melhorar o desempenho (YORDANOVA, 2018).
+Tendo isso em vista, a presente pesquisa tem por objetivo geral evidenciar o estado da arte sobre os temas de Gestão de Projetos e Inovação, s ob a ótica da singula ridade e gestão de riscos , especificamente: (i) Identificar na literatura científica um portfólio bibliográfico de artigos relevantes sobre os temas de gestão de projetos e inovação; (ii) Realizar um estudo bibliométrico para eviden ciar os mais destacados autores e periódicos e suas referências; (iii) Realizar uma análise de conteúdo do portfólio bibliográfico a luz de le ntes de análise ligadas ao empreendedorismo; (iv)Evidenciar quais técnicas e ferramentas são citadas no portfólio bibliográfico; (v) E videnciar oportunidades de pesquisa à respeito dos tema s gestão de projetos e inovação.
+10 Esse artigo está dividido da seg uinte forma: introdução, referencial teórico abordando os temas de gestão de projetos e inovação, metodologia explicitando o método ProKnow -C utilizado para o desenvolvimento da pesquisa, resultados obtidos a partir da análise sistêmica sob as lentes de ge stão de riscos e singularidade e, por fim, conclusões.
+2 FUNDAMENTAÇÃO TEÓRICA 2.1 Gestão de Projetos O gerenciamento de projetos é uma atividade cada vez mais reconhecida no mundo (VALLE, FERREIRA, JOIA, 2014) , no entanto, o conhecimento em gestão de pro jetos se tornou tema de estudo de áreas de gestão recentemente, visto que até meados dos anos 1980 era limitado às áreas como engenharia e tecnologia da informação (TURN ER; ANBARI E BREDILLET, 2013).
+Atualmente é possível encontrar na literatura diferente s conceitos à cerca de projetos e gestão de projetos (OLIVEIRA, 2007).
+De acordo com ICB (1999) projeto é um conjunto único de atividades coordenadas que visam atender objetivos específicos dentro de parâmetros definidos como prazo, custo e desempenho.
+A inda segundo ICB (1999) gestão de projetos é o planejamento, organização, monitoração e controle de todos os aspectos de um projeto, bem como a motivação de todos os envolvidos para atingir os objetivos do projeto.
+Já para Kerzner (2002) projeto é um empr eendimento com um objetivo identificável, que consome recursos e opera sob pressão de prazos, custos e qualidade.
+No que tange a visão de Kerzner (2002) sobre gestão de projetos, é o planejamento, programação e controle de uma série de tarefas integradas a fim de atingir seus objetivos com êxito.
+Vargas (2003) conceitua projetos como: Um empreendimento não repetitivo, caracterizado por uma sequência clara e lógica de eventos, com início, meio e fim, que se destina a atingir um objetivo claro e definido, sendo conduzido por pessoas dentro de parâmetros predefinidos de tempo, custo, recursos envolvidos e qualidade (VARGAS, 2003).
+Por outro lado, Maximiano (1997) considera que a administração de um projeto é o processo de tomada de decisões para a execução de atividades temporárias que, culminarão em um resultado.
+Ainda para o PMI (2013), um projeto é um esforço temporário empreendido para criar um produto, serviço ou resultado único e o gerenciamento de projetos é entendido como a 11 aplicação de conhecimen to, habilidades, ferramentas e técnicas às atividades do projeto a fim de atender aos seus requisitos.
+A partir da década de 1960, alguns órgãos e entidades desenvolveram metodologias de apoio ao gerenciamento de projetos (BERNARDES, 2016) como: a) ISO 10006 – Padrão internacional desenvolvido pela ISO, são diretrizes focadas principalmente na qualidade de projetos; b) PRINCE2 – Criado na década de 90, é utilizado para qualquer tipo ou tamanho de projeto; c) PMBOK – Manual desenvolvido pelo Project Mana gement Institute (PMI) abrange os conhecimentos necessários ao gerenciamento de projetos.
+Atualmente, tornou -se referência para quase todas as outras metodologias.
+Consequentemente, emerge o princípio de que o gerenciamento de projetos é um conjunto de pad rões, ferramentas e técnicas que podem ser aplicados em todos os tipos de projetos (BERNARDES, 2016).
+2.2 Inovação O principal formulador da teoria da inovação foi Joseph Schumpeter e sua primeira contribuição para o tema ocorreu ao dividir o processo de mudança tecnológica em três fases (SCHUMPETER, 1934): • Invenção: resultado de um processo de descoberta, de novos princípios técnicos abertos para a exploração comercial; • Inovação: processo de desenvolvimento de uma invenção de forma comercial; • Difusão: e xpansão de uma inovação em uso comercial.
+A inovação, para Schumpeter (1934), é caracterizada pela comercialização de um novo produto ou a implementação de um novo processo de fabricação.
+Em outras palavras, para ele, a inovação só se concretiza ao real izar-se a primeira transação comercial do novo produto ou processo.
+A Organização para a Cooperação e Desenvolvimento Econômico (OCDE) adota a seguinte definição para inovação: A implementação de um produto (bem ou serviço) novo ou significativamente melhorado, ou um processo, ou um novo método de marketing, ou um novo método organizacional nas práticas de negócios, na organização do local de trabalho ou nas relações externas (OCDE, 2005 ).
+Nas últimas décadas, o foco do tema inovação deixou de ser exclu sividade das instituições e nvolvidas com ensino e pesquisa, tornando -se atividade necessária para qualquer 12 tipo de organização e preocupação central dos gestores e, a partir disso, as empresas procuram adaptar -se e desenvolver -se para sobreviver (TIDD; BES SANT; PAVITT, 2008; TROTT, 2012 ; OTOWICZ, 2018; BERNARDES, 2016).
+Para isso, faz -se necessário que as organizações compreendam os conceitos e métodos que guiam as atividades inovadoras, para que possam colocar em prática e, consequentemente, obter resultad os inovadores e relevantes, resultando em maior vantagem competitiva (DEES; PICKEN, 2000; CALIK; CALISIR; CETINGUC, 2017 ; OTOWICZ, 2018 ).
+Por isso, a inovação não deve ser considerada um atributo automático das organizações (BESSANT et al., 2005) A inovaçã o pode ser classificada como incremental ou radical/disruptiva, dependendo do grau de mudança que irá provocar no mercado ( OTOWICZ, 2018 ).
+A inovação incremental representa pequenas melhorias na funcionalidade ou desempenho de produtos, serviços ou process os existentes (TIDD; BESSANT; PAVITT, 2008; OTOWICZ, 2018 ).
+Já a inovação radical/disruptiva, causa impacto significativo no mercado e representa o surgimento de uma solução ainda não apresentada no mercado (OECD/EUROSTAT, 2005 ; OTOWICZ, 2018 ).
+3 METODOLO GIA Esta seção visa enquadrar o presente trabalho científico de forma a dar -lhe sustentação metodológica e contextualizar sob qual ótica a pesquisa foi delineada e executada para atingir seus objetivos e resultados finais.
+Por ser tratar de um método cujo processo é estruturado e estático, esta seção foi baseada em trabalhos como de Lacerda, Ensslin, Ensslin (2012); Calvetti (2018); Oliveira (2016).
+3.1 ENQUADRAMENTO METODOLÓGICO Em relação ao enquadramento metodológico desta pesquisa, a Figura 01 visa e xplicitar o método que esta pesquisa adotou durante sua execução, explicitando as premissas que foram utilizadas desde seu planejamento até a obtenção dos resultados finais.
+Enquadramento metodológico adotado pelo presente trabalho.
+Fonte: Adaptado de Tasca et al., (2010).
+14 A presente pesquisa possu í natureza descritiva, pois tem o objetivo de descrever um determinado fenômeno, que neste caso é o estado da arte do tema gestão de projetos de inovação (GIL, 2007 ).
+A lógica da pesquisa class ificou -se como indutiva por gerar conhecimento no decorrer do processo de identificação dos dados científicos, utilizando lentes de análises a respeito da gestão de projetos de inovação, por meio da leitura de um tema emergente que exprime novos esclarecim entos (ENSSLIN et al., 2013a; ENSSLIN et al., 2013d; OLIVEIRA , 2016).
+Como parte do processo de pesquisa, a coleta de dados abrangeu dados secund ários.
+Visto que trata -se de uma revisão de literatura, foram utilizados para a pesquisa dados apurados, já pu blicados e desenvolvidos, por meio de pesquisas científicas que atendem os objetivos deste trabalho (ROSA et al., 2011; LACERDA et al., 2014a).
+Também, adotou -se uma abordagem de pesquisa qualitativa -quantitativa.
+É considerada qualitativa durante o proce sso de seleção do portfólio bibliográfico, baseada no contexto da pesquisa e nos critérios de interpretação do pesquisador, não envolvendo modelos matemáticos e estat ísticos (CASARIN et al., 2012).
+Entretanto, a pesquisa é considerada quantitativa no deco rrer das análises bibliométricas, coletando e analisando dados, dentro do conceito difundido por Lacerda et al.
+(2012) e adotado por outros autores (AFONSO et al., 2012b; ENSSLIN et al., 2013a; KNOFF et al., 2014) .
+O resultado desta pesquisa é aplicado pois o conhecimento gerado permite a aplicação prática voltado para um problema em específico (ROSA, et al., 2011).
+Ou seja, o conhecimento gerado a partir do estudo do tema pode ser utilizado diante de oportunidades identificadas.
+O procedimento técnico e mpregado foi a pesquisa bibliográfica , visto que a mesma foi desenvolvida a partir de materiais expostos em periódicos, em conformidade com o tema de gestão de projetos de inovação, possibilitando estruturar a fundamentação teórica desta pesquisa (CASARIN et al., 2012; LACERDA et al., 2014a).
+O instrumento utilizado para a realização da análise bibliométrica e análise sistêmica foi o método conhecido como Knowledge Development Process – Constructivist (ProKnow -C).
+Adotou -se este método pois apoia e auxilia o pesquisador diante de diversas informações científicas, conduzindo o processo de ponderação sobre as diferentes formas de extração d o conhecimento necessário acerca do tema estudado (CALVETTI, 2016) .
+O ProKnow -C permite um processo estruturado e guiado pelo enquadramento definido pelo pesquisador (ENSSLIN et al., 2015).
+15 3.2 COMPOSIÇÃO DO PORTFÓLIO BIBLIOGRÁFICO Para esta finalidade, utilizou -se o método Knowledge Development ProcessConstructivist (Proknow -C), proposto por Ensslin et al.
+O processo proposto pelo (Proknow -C) possui quatro etapas: 1) seleção do portfólio bibliográfico; 2) análise bibliométrica do portfólio bibliográfico; 3) análise sistêmica do portfólio bibliográfico; e 4) elaboração dos objetivos de pes quisa.
+Para esta pesquisa, utilizou -se as seguintes etapas: a seleção do portfólio de artigos sobre o tema de pesquisa, a análise bibliométrica e a análise sistêmica.
+3.2.1 Seleção do Portfólio Bibliográfico A seleção do portfólio bibliográfico por meio do ProKnow -C ocorre de forma recursiva por meio das etapas: a) definição dos artigos científicos nas bases de dados; b) estabelecimento de um Banco de Artigos Brutos, seguindo uma série de procedimentos pré -estabelecidos até a fase de filtragem e seleção do por tfólio bibliográfico relevante e alinhado ao tema do pesquisador (AFONSO et al.
+, 2011 ; SARTORI, ENSSLIN, CAMPOS, ENSSLIN, 2014).
+3.2.1.1 Seleção do banco de artigos bruto Para a definição do banco de artigos bruto, parte -se da determinação dos eixo s de pesquisa, conforme percepção do pesquisador.
+Neste trabalho, tem -se dois eixos de pesquisa: a) Project management ; b) Innovation.
+A seleção do Banco de Artigos Bruto é composta por: a) Definição das palavras -chave: "Project management"; "Innovation"; b) Definição dos bancos de dados: Scopus.
+Referente ao conteúdo dessa base de dados , registrase qu e foi efetuada a busca pela combinação das palavras -chave.
+A delimit ação temporal é de 10 anos (2008 a 2018 ) e publicações única e exclusivamente do tipo "a rtigo".
+c) Levantamento dos artigos no banco de dados com as palavras -chave : após conclusão da busca das 2 palavras -chave na base de dados Scopus , foram selecionadas 1.048 pu blicações para compor o portfólio denominado Banco de Artigos Bruto.
+3.2.1.2 Filt ragem do banco de artigos brutos Quanto ao processo de filtragem do Banco de Artigos Brutos, analisaram -se os 1.048 artigos quanto aos seguintes aspectos: a) artigos repetidos; b) títulos dos artigos alinhados ao 16 tema de pesquisa; c) artigos com reconheci mento científico; d) resumos alinhados ao tema de pesquisa; e e) texto integral dos artigos alinhados com o tema da pesquisa.
+Utilizou -se a ferramenta Endnote para a importação das publicações selecionadas na base Scopus .
+Após a importação, buscou -se por d uplicações, mas neste caso, não houve artigos duplicados.
+Analisando o alinhamento do título em relação ao tema, foram detectados 898 artigos fora do escopo da pesquisa.
+Assim, restaram 150 artigos não duplicados e com título alinhado ao tema de pesquisa, que foram submetidos à análise quanto ao reconhecimento científico no Google Scholar .
+Para fins dessa análise, entende -se por reconhecimento científico de um artigo como sendo o número de citações encontradas para o artigo após consulta ao Google Scholar .
+Nesta etapa, os artigos foram divididos em dois grupos: a) primeiro grupo com reconhecimento científico; e b) segundo grupo sem reconhecimento científico (SARTORI, ENSSLIN, CAMPOS, ENSSLIN, 2014).
+Então, tomando por base o Princípio de Pareto que afirma qu e, em muitas situações, 80% das consequências de um acontecimento são devido a 20% de suas causas, arbitrou -se este valor (80%) como o ponto de corte do total de citações encontradas.
+No primeiro grupo, foram selecionados 38 artigos, que são aqueles com pe lo menos 38 citações, aferidos pelo Google Scholar .
+Restaram 23 artigos não duplicados, com reconhecimento científico e com título e resumo alinhado ao tema de pesquisa, com 56 autores identificados para uso posterior.
+No segundo grupo composto por 112 ar tigos, foram analisados sob o critério d o ano de publicação do artigo, visto que artigos recentes tendem a ter um menor número de citações, mas isso não significa que não sejam relevantes.
+Para isso, considerou -se a data de publicação igual a 2017 e 2018 e descartou -se os a rtigos com datas inferiores a estas .
+No entanto, os artigos não considerados recentes, ainda foram analisados sob o critério de que se houvesse neles algum autor que estava dentre os 56 autores do banco de dados da etapa anterior, ainda seriam analisados e poderiam retornar ao portfólio.
+O resultado desta atividade foram 2 artigos que foram incorporados aos 23 com re conhecimento científico e título/resumo alinhados.
+Assim sendo, obteve -se 25 artigos não repetidos, com título e resumo alin hados, e com reconhecimento científico.
+Em seguid a, os 25 artigos selecionados foram analisados em relação ao alinhamento do texto integra l com o tema de pesquisa.
+Dos 25 artigos, 09 foram e xcluídos por não estarem alinhados.
+Os 16 artigos foram considerad os constituintes do Portfólio Bibliográfico dos artigos relevantes e alinhados ao tema.
+17 Portanto, o processo de filtragem resultou em um Portfó lio Bibliográfico formado por 16 artigos (Apêndice A).
+3.2.2 Análise Bibliométrica do Portfólio Bibliográfico A análise bibli ométrica do portfólio bibliográfico envolve a aplicação de métodos matemáticos e estatísticos em um determinado conjunto de artigos com o objetivo de gerar conhecimento científico pertinente ao tema em estudo, quantificando as informações e fornecendo características das publicações que compõem o referencial teórico (AFONSO et al., 2012b; ENSSLIN et al., 2013a; ENSSLIN et al., 2013d; KNOFF et al., 2014 ; CALVETTI, 2018 ).
+Nessa etapa foram analisados os 16 artigos selecionados na etapa anter ior, suas referências, autores, números de citações e periódicos mais r elevantes.
+Iniciou -se pela análise bibliométrica dos artigos selecionados, destacando -se o reconhecimento científic o, a distribuição dos artigos por periódicos em que os mesmo s foram pu blicados e a rel evância d os autores.
+O Quadro 03 (Apêndice B) representa o reconhecimento científico dos 16 artigos que compõem o portfó lio bibliográfico, e a Figura 06 (Apêndice C) ilustra o número de a rtigos por periódico científico.
+Na Figura 06 (Apêndi ce C) observa -se que os artigos selecionados para o portfólio bibliográfico foram publicados em 8 periódicos diferentes, evidenciando o International Journal of Project Management como o periódico de maior relev ância, com 7 artigos publicados, seguido do Journal of Product Innovation Management com 3 artigos.
+Ao analisar as referências dos artigos do portfólio bibliogr áfico, identificou -se 523 refer ências.
+Os periódicos em destaque nas referências do portfólio bibliográfico, considerando os 20 mais represe ntativos, e stão representados na Figura 07 (Apêndice D) .
+Ainda avaliando as referências de cada artigo pertencente ao portfólio bibliográfico, de acordo com a representação da Figura 08 (Apêndice E) , é possível identificar os autores mais citados, excluind o aqueles com apenas uma única citação, destacando -se os autores contendo mais de 5 citações.
+Também, realizou -se um cruzamento entre o número de artigos de cada autor do portfólio bibliográfico com o número de artigos que o mesmo possui relacionado nas referências , conforme ilustrado na Figura 09 (Apêndice F) .
+18 A Figura 10 (Apêndice G) sintetiza a relevância dos autores quanto ao número de artigos no portfólio bibliográfico e em suas refer ências.
+Completadas as etapas do processo ProKnow -C, possibili tou-se selecionar os principais trabalhos científicos que dão sustentabilidade em termos de referencial teórico apoiando esta pesquisa sobre os eixos delineados nesta bibliometria: gestão de projetos e inovação.
+A próxima seção apresentará os resultados obtidos por meio da análise sistêmica a partir do portfólio bibliográfico aqui estabelecido.
+4 RESULTADOS Esta seção destina -se a apresentar a análise sistêmica da literatura em gestão de projetos de inovação frente as lentes de análise de gestão de ris cos e singularidade , a fim de compreender o estado da arte à respeito do tema.
+4.1 REVISÃO SISTÊMICA DA LITERATURA SOB AS LENTES DE GESTÃO DE RISCOS E SINGULARIDADE 4.1.1 Considerações Lente 01: Gestão de Riscos Um aspecto que possui consideração por um gerente são os riscos de um projeto, que segundo o PMBOK ® (2004) são eventos ou condições incertas que, caso ocorram, tem um efeito positivo ou negativo no projeto.
+Dessa forma, a gestão de riscos tem por objetivo maximizar a exposição dos eventos positivo s e minimizar a exposição aos eventos negativos.
+O PMBOK ® sugere um método de gestão de risco universal que pode ser replicado em diferentes contextos e encontra -se explicitado no Anexo A. Os riscos são inerentes em projetos e quando trata -se de projetos de inovação, os riscos tornam -se ainda mais elevados, necessitando de atenção especial devido aos graus de incerteza que esses projetos assumem (YEOW, 2012; WANG, 2010; O'CONNOR , 2013).
+Quando os riscos não são bem gerenciados, a probabilidade de resulta r em falhas aumenta .
+Assim, alguns autores apresentam novas formas de gerenciar riscos em projetos de inovação a fim de melhorar as t axas de sucesso do projeto (WANG , 2010).
+A partir disso, essa lente tem por objetivo identificar as formas de gestão de r isco sugeridas pelos autores do portfólio bibliográfico que levem em consideração as características dos projetos de inovação.
+Os autores Yordanova (2018), Wang (2010) e Yeow (2012) apresentam em seus artigos ferramentas que foram adaptadas por eles para projetos de inovação.
+19 Yordanova (2018) desenvolveu e testou uma ferramenta, denominada IPT, que é composta por um conjunto de características provindas de um estudo realizado com 60 especialistas em gestão de projetos .
+Estes gestores elencaram a s caracter ísticas que consideram mais impactantes em um projeto de inovação e, posteriormente, Yordanova (2018) priorizou as 10 mais relevantes, confor me especificado no Anexo B. Nota -se que entre as principais especificidades, encontra -se "unstable and flexible customer needs " (YORDANOVA, 2018) .
+Essa é uma das características que torna os projetos de inovação imprevisíveis, porque as necessidades dos cl ientes mudam dinamicamente (HAHN , 2007).
+Outra especificidade " innovation projects ar e based on business needs, no t on scope " mostra como é importante o foco nas expectativas do cliente, ou seja, torna -se fundamental incluir os clientes no processo de gestão como forma de antecipar riscos e melhorar os re sultados dos projetos (YORDANOVA , 2018).
+No entanto, essa ferram enta ape nas apresenta as características como forma de categorizar os projetos, mas não apresenta métodos para lidar com essas características , ou seja, é uma ferramenta para melhor compreensão dos projetos de inovação mas não uma ferramenta prática.
+Já W ang (2010) sugere um procedimento sistemático desenvolvido para identificação, avaliação, planejamento de resposta e controle de riscos.
+O método proposto integra o BSC (Balanced Scorecard ) (KAPLAN, NORTON , 1996) e o QFD ( Quality Function Deployment ) (MIZU NO, AKAO , 1994) de maneira a gerenciar os riscos que têm efeitos adversos sobre resultados do projeto.
+O modelo multidimensional Balanced Scorecard traduz a missão e as estratégias de organizações em um conjunto de medidas de desempenho e objetivos finan ceiros, incluindo os indicadores de desempenho de cada um dos objetivos (KAPLAN, NORTON, 1996; SILVA, COSTA, DUARTE , 2018).
+Também, o BSC mede o desempenho organizacional sob quatro aspectos: financeiro, cliente, processos internos, aprendi zagem e crescime nto (KAPLAN, NORTON, 1996; SILVA, COSTA, DUARTE , 2018).
+O Desdobramento da Função Qualidade, do inglês Quality Function Deployment (QFD), é um método utilizado para o desenvolvimento e melhoria de produtos e serviços.
+O QFD visa garantir a qualidade no d esenvolvimento de produtos por meio de uma abordagem orientada pelo consumidor, onde suas necessidades são traduzidas em ca racterísticas de produto (MIZUNO; AKAO , 1994; MARX, ECHEVESTE e PAULA , 2011 ).
+O procedimento de gerenciamento de risco proposto por Wang (2010) está explicitado no Anexo C. 20 O procedimento exposto acima está dividido em 8 etapas.
+As etapas de 1 -4 consistem em identificar os riscos; as etapas 5 e 6 objetivam a avaliação dos riscos e, por fim, as etapas 7 e 8 são responsáveis por pla nejar, monitorar e controlar os riscos.
+Estas etapas estão discriminadas abaixo.
+Seguindo a mesma linha de pensamento, Yeow (2012) também abordou o uso tradicional de gerenciamento de riscos que é sugerido pela gestão de projetos do PMBOK ®.
+Yeow (2012) tr ata do tema de aquisição de inovação pelo setor público, e por se tratar de aquisição de inovação, o risco se torna um assunto relevante dado que envolve todos os tipos de riscos para todas as partes interessadas envolvidas (TSIPOURI et al., 2009) .
+Yeow co nsidera o uso do gerenciamento de projetos como estratégia para a aquisição de inovações que ainda não existem e como parte disso sugere a "projeção" do processo de aquisição como uma maneira de superar a questões de recursos, além de conter e gerenciar ri scos.
+Outros autores como Soderholm, (2008); O'Connor (2013) não abordam o tema 'gestão de risco' diretamente, mas apresentam formas de lidar com eventos inesperados e a incerteza.
+A discussão levantada por Soderholm (2008) é a de que é comum situações i nesperadas ocorrerem durante a execução de projetos, e que a forma de lidar com essas situações normalmente não é incluída nas tradicionais práticas de gerenciamento de projetos.
+O resultado da sua pesquisa mostra quatro diferentes abordagens para se lidar com eventos inesperados: ação inovadora, aplicação de estratégias de destacamento, configuração de cronogramas intensivos de reuniões e negociar as condições do projeto.
+As abordagens consistem no seguinte: ▪ Ação inovadora: criar criativamente padrões de ação para lidar com mudanças inesperadas, incluindo realocação de recursos, o que atrasa algumas partes do projeto enquanto ajuda outras partes, fazendo uso de recursos que possam estar sobrando no projeto.
+▪ Estratégias de desapego: isolar as consequências das revisões de projetos a fim de minimizar as consequências para outras partes do projeto.
+▪ Reuniões: acompanhar de perto uma sequência problemática do projeto e assegurar um fluxo contínuo de informações e construção de compromisso entre os membros da equipe.
+▪ Negociação do projeto: negociar com departamentos funcionais, comitês diretores, clientes ou outras partes interessadas para ter mais recursos atribuído ao projeto ou para alterar alguns dos pontos (tempo, funcionalidade, etc.).
+21 O'Connor (2013) não aborda a gestão de risco diretamente, mas nos induz a concluir que a incerteza pode se tornar um risco, pois se a incerteza for gerenciada pode trazer impactos relevantes em um projeto.
+O objetivo de O'Connor (2013) em seu artigo é o desenvolvimento de uma teoria a respeito da inovação radical no grande contexto corporativo.
+Assim, a autora propõe uma estrutura analítica composta de categorias de incerteza (O'CONNOR, 2013), conforme Anexo D. A elaboração dessas categorias ajuda pesquisas futuras a desen volver e validar medidas para a incerteza em projetos de inovação.
+Uma vez que medidas forem desenvolvidas e validadas com técnicas de análises, outros pesquisadores podem começar a avaliar o impacto relativo de cada medida no progresso de um projeto e, as sim, poder avaliar abordagens alternativas para gerenciá -las.
+Por fim, alguns autores como Lenfle (2008), Kapsali (2011), Hobbs (2008), Conforto (2015), Chiesa (2009), Bygstad, (2009), Boscherini (2010), Blindenbach -Driessen (2010) e Artto (2011), Turner (2010) não abordam esse tema em seus estudos, pelo menos não de forma específica.
+Assim emerge a oportunidade de pesquisas futuras relacionadas a gestão de projetos de inovação com maior foco na gestão de riscos destes tipos de projetos.
+Alguns autores co mo Yordanova (2018), Wang (2010), Yeow (2012) e O'Connor (2013) fizeram adaptações em modelos já existentes para que estes se adequem ao ambiente dinâmico que são os projetos de inovação.
+Deste modo, é importante que continuem pesquisas que considerem este s tipos de ambiente, devido à crescente alta de startups que lidam com a dinamicidade da tecnologia.
+4.1.2 Considerações Lente 02: Singularidade A singularidade é reconhecida pela abordagem construtivista e a mesma propõe que os trabalhos realizados sob essa perspectiva não podem ser replicados, dado que só são aplicados no contexto em que foram criados, uma vez que os modelos são desenvolvidos a partir dos valores e preferências de um decisor específico (ROY, 1993; OLIVEIRA, 2016).
+Desse modo, Teece (200 7) corrobora com este conceito ao salientar que são as escolhas dos decisores, baseadas em seus valores e preferências, que determinam a arquitetura de negócios da organização, a tornando difícil de imitar e, por consequência, diferenciada das demais (OLIV EIRA, 2016).
+Assim, esta lente pode ser categorizada em duas vertentes.
+A primeira, são os autores que entendem que o gestor e os recursos fazem parte do contexto onde as decisões são tomadas, ou seja, eles reconhecem o paradigma da singularidade, e a seg unda, são os autores que ignoram 22 o gestor e a singularidade de cada organização e apresentam modelos genéricos que acreditam que possam ser replicados a todos os contextos e, assim, ignoram o paradigma da singularidade.
+As grandes empresas já estabelecida s no mercado geralmente se concentram em melhorar sua capacidade de gerenciar seus negócios, com ênfase em redução de custos, melhorias de qualidade e inovação incremental em produtos e processos existentes (O'CONNOR , 2013).
+Porém, para que essas empresas mantenham sua competitividade a longo prazo, precisam desenvolver paralelamente inovações radicais a fim de dominar novos mercados.
+Portanto, é preciso entender as características de projetos de inovação e a sua natureza incerta que os permeiam para desen volver práticas gerenciais apropriadas, que considerem o contexto único em que estão inseridas (O'CONNOR , 2013).
+Neste aspecto, os autores Turner (2010), Yordanova (2018) não reconhecem o paradigma da singularidade e apresentam modelos genéricos e univers ais que podem ser replicados independentemente de seu contexto.
+Turner (2010) fez um estudo com 18 empresas europeias, distribuídas entre micro, pequenas e médias empresas.
+Seu estudo buscou identificar a natureza de gerenciamento de projetos exigidos por essas empresas, dado que as mesmas requerem formas menos burocráticas de gestão em comparação com as organizações tradicionais maiores.
+Turner (2010) observou em seus resultados que micro e pequenas empresas utilizam -se de abordagens de gestão mais "laissez-faire " e que empresas de médio porte preferem modelos mais autocráticos de gestão.
+Do ponto de vista geográfico, empresas do Sudeste da Europa e Suécia preferem seguir planos de projeto padrão que são replicados, enquanto na Irlanda as empresas se mostr am mais resistentes a padrões comuns de gerenciamento.
+A partir disso, Turner (2010) sugere uma versão micro " lite" de gerenciamento de projetos para as micro e pequenas empresas, enquanto uma versão " lite" é sugerida para as de médio porte.
+Mas o que é es sa versão "lite"?
+O Project Management Lite (ou PM Lite, abreviado) é uma abordagem prática para gerenciamento de projetos que visa auxiliar na conclusão de projetos de forma rápida, sem toda a confusão de técnicas tradicionais de gerenciamento de projetos (CRAIG, 2019).
+Embora Turner (2010) por vezes apresente em seu artigo fragmentos e aspectos que demonstram que as SMEs ( small to medium enterprises ) necessitam de uma forma menos burocrática de gestão, o autor não reconhece o paradigma da singularidade, pois ele sugere um modelo menos burocrático mas ainda genérico que pode ser replicado em qualquer contexto, sem levar em conta as especificidades do projeto e um decisor em específico.
+23 Seguindo nessa linha, Yordanova (2018) apresenta uma ferramenta de ca tegorização de projetos de inovação com vistas a evitar falhas, diminuir a imprevisibilidade, melhorar o desempenho e sucesso dos projetos de inovação.
+Essa ferramenta, denominada IPT, surgiu a partir da visão de 60 gestores de projetos e categorizada dent ro das categorias sugeridas pelo PMBOK ®.
+O autor sugere essa ferramenta para melhor planejar, organizar, monitorar e controlar os projetos de inovação.
+Embora Yordanova (2018) tente apresentar uma nova ferramenta de gestão, com modificações e adaptações p rovindas da experiência e visão de profissionais de gerenciamento de projetos, ainda sim o autor desenvolve uma ferramenta universal baseada nas categorias genéricas do PMBOK ®, sem levar em consideração o contexto e os valores e preferências do decisor.
+Por outro lado, os autores Kapsali (2011), O'Connor (2013), Yeow (2012), Wang (2010), Söderholm (2008) reconhecem o paradigma da singularidade e entendem a limitação dos modelos genéricos.
+Kapsali (2011) buscou discutir o porquê as práticas convencionais de gerenciamento levam ao fracasso projetos de implementação de inovação no setor público.
+O estudo foi realizado em 12 projetos pertencentes a 2 programas governamentais e do mesmo setor (assistência médica), denominadas de ETEN e EARSS.
+Enquanto o programa ETEN utilizou de métodos convencionais de gerenciamento impedindo que os gerentes controlassem a complexidade da implementação devido a inflexibilidade de desviar dos planos e dificultando os decisores de ajustar -se aos contextos locais, o EARSS variava s uas abordagens de maneira contingente, dando aos gerentes a liberdade de adotar atividades condizentes com o ambiente em que estavam inseridos, lidando com a incerteza, desenvolvendo seus próprios métodos baseados em seus valores e preferências.
+Kapsali (2011) justifica essa diferença entre os programas pelo fato de o EARSS utilizar uma abordagem de sistemas abertos inspirada pelo pensamento sistêmico, que parece aumentar a eficácia de projetos de inovação.
+Assim, o estudo de Kapsali (2011) defende que o uso do pensamento sistêmico pode contribuir para o sucesso dos projetos por incorporar flexibilidade nas atividades gerenciais e, dessa forma, a autora reconhece a singularidade pois identifica que os gestores poderem se adequar ao contexto e ambiente em que estão inseridos é fator determinante para o desempenho do projeto.
+Seguindo a mesma linha de pensamento, O'Connor (2013) também faz parte do grupo de autores que reconhecem a singularidade.
+O'Connor (2013) caracterizou as incertezas que um projeto de inovação pode assumir , conforme fragment o extraído de seu texto que encontrase no Anexo D. 24 O'Connor (2013) explica que a "matriz de incerteza" é altamente dinâmica e complicada pois um ou mais elementos podem interagir entre si em qualquer dado momento.
+Em seus casos estudados isso ocorreu e a equipe teve que organizar seus próprios recursos e competências e, por vezes, adquirir recursos e competências de parceiros internos e externos, reavaliando e reconfigurando os elementos da matriz.
+Posto isso, O'Co nnor (2013) não apresenta um novo modelo de gestão que reconheça a singularidade do contexto como parte integrante, mas desenvolve uma categorização de incertezas que, de forma intrínseca reconhece a singularidade por permitir que constantemente as pessoas envolvidas no projeto possam estar revendo e adaptando suas estratégias para o dado momento que estão vivenciando.
+Nesse sentido, Yeow (2012) apresenta que em seu caso objeto de estudo observou -se que o gestor procura encontrar a solução certa para sua o rganização, mas somente por meio da interação acidental com outros de fora da organização (como stakeholders ) que ele tomou conhecimento da possibilidade de resolver seu problema de outra forma.
+Corroborando com isso, Yeow (2012) escreveu: Given the skill s and even more the knowledge needed to procure innovations in such complex settings, it is not realistic to arm procurers with the full arsenal of commercial skills, but rather to allow for flexible, tailored project approaches to combine exactly the skil l set needed (YEOW, 2012).
+Estes elementos vão ao encontro da singularidade, evidenciando que Yeow (2012) entende cada modelo decisório é criado frente a realidade em que está inserido com referência as pessoas envolvidas naquele momento.
+Na mesma linha d e raciocínio, Wang (2010) propõe um modelo de gerenciamento de risco onde ele reconhece a singularidade, pois ele apresenta o modelo e afirma que quando se tem uma equipe multidisciplinar é possível criar e identificar novas alternativas para resolução de problemas, integrando as diversas perspectivas dos membros e reforçando o compromisso do grupo na implementação das decisões.
+Também, o autor reflete que o gerenciamento de riscos é um processo iterativo, em vez de um passo a passo e sua proposta de aborda gem permite essa iteração para constantemente estar revendo os riscos e adaptando a realidade do contexto.
+Soderholm (2008) reconhece a singularidade.
+Ele afirma que os projetos devem ser contextualmente dependentes e continuamente dependem de relações a mbientais, e que podese concluir que há gerentes de projetos que participam de práticas, a fim de permanecer no caminho certo, enquanto o projeto é exposto a eventos inesperados.
+Também reconhece que as relações entre as partes interessadas impactam na execução dos projetos.
+25 Do mesmo modo, Lenfle (2008), compreende que a singularidade precisa ser reconhecida a fim de gerenciamento de projetos de inovação.
+Em sua pesquisa visa identificar métodos de gestão adequados a projetos mais inovadores.
+Ele abord a dois tipos de projetos em seu trabalho: projeto de "exploração" e projetos de "desenvolvimento".
+Nos projetos de desenvolvimento, a estratégia é formulada para a implementação do projeto.
+Em projetos de exploração, tal definição prévia de uma estratégia é difícil, porque não há compreensão dos fenômenos e causalidades necessárias para formular uma estratégia.
+Ele traz a reflexão de que é impossível definir a estratégia e depois iniciar o projeto.
+Pelo contrário, o projeto é que possibilitará graduar e def inir a estratégia a medida em que é executado, levando em consideração suas especificidades e o cenário em que está inserido.
+O modelo de gestão proposto pelo autor se baseia na experimentação, onde a gestão realiza testes e vai experimentando e realizando os ajustes no decorrer dos projetos.
+Pode -se observar que a maior parte dos autores reconhecem o paradigma da singularidade.
+Em suas pesquisas elaboram e desenvolvem novos modelos de gestão de projetos de inovação, realizando adaptações em seus modelos a fim de atender as características destes projetos, como a natureza incerta e a dinamicidade.
+No entanto, embora os modelos sofram modificações e adaptações, em sua maioria são baseados em critérios genéricos e apresentados como modelos que podem ser repl icados, sem considerar cada modelo como único por ter sido criado unicamente pelas pessoas e pelo ambiente daquele momento.
+Embora nenhum autor tenha apresentado um modelo que seja totalmente singular, a ideia difundida por Wang (2010) apresentou mais elem entos característicos da singularidade, por entender esse processo iterativo que flexibiliza as decisões tomadas.
+5 CONSIDERAÇÕES FINAIS As grandes empresas já estabelecidas no mercado geralmente se concentram em melhorar sua capacidade de gerenciar seu s negócios, com ênfase em redução de custos, melhorias de qualidade e inovação incremental em produtos e processos existentes (O'CONNOR, 2013).
+No entanto, a inovação radical tem se tornado um fator crítico de sucesso para ganhar competitividade (PACHECO, GOMES, SILVEIRA, 2013) e sem ela as organizações têm dificuldades de adaptação às mudanças que o dinâmico mercado exige (HASHIMOTO, 2006).
+Portanto, é preciso entender as características de projetos de inovação e a natureza incerta que os permeiam para d esenvolver práticas gerenciais apropriadas, que considerem o contexto único em que estão inserido s (O'CONNOR, 2013 ).
+26 Neste sentido, o atual trabalho tinha como objetivo geral evidenciar o estado da arte sobre os temas de gestão de projetos e inovação, sob a ótica da gestão de riscos e da singularidade.
+Para isso realizou -se uma análise bibliométrica e uma análise sistêmica dos artigos que compõem o portfólio bibliográfico.
+Para o atendimento do primeiro objetivo espec ífico realizou -se a primeira etapa do ProKnow -C que é a seleção dos artigos que compõem o portfólio bibliográfico, retornando aqui 16 referências finais.
+Deste modo, a partir do segundo objetivo específico proposto por este artigo, buscou -se identificar os mais destacados a utores , periódicos e suas referências , por meio da análise bibliométrica.
+Este objetivo não foi atingido totalmente uma vez que não realizou -se a análise das referências, ficando como limitação da pesquisa.
+A análise dos periódicos e autores retornou o periódico Internation al Journal of Project Management como o de ma ior relevância e o autor O'Connor, G. C. como o mais citado nas referências do portfólio bibliográfico.
+Em relação ao terceiro objetivo específico realizou -se a análise sistêmica dos 16 artigos do portfólio b ibliográfico sob as lentes de gestão de risco e singularidade, evidenciando o estado da arte da literatura científica frente a estes temas .
+Os objetivos quatro e cinco foram alcançados juntamente com o terceiro objetivo, dado que eles se inter -relacionam.
+Por fim, a não realização da análise das referências dos artigos do portfólio bibliográfico durante a análise bibliométrica foi a principal restrição encontrada durante o desenvolvimento do artigo, e assim colocada como limitação da pesquisa.
+27 REFERÊ NCIAS AFONSO , M. H. F. et al .
+Como construir conhecimento sobre o tema de pesquisa?
+Aplicação do processo Proknow -C na busca de literatura sobre avaliação do desenvolvimento sustentável .
+Revista de Gestão Social e Ambiental , v.5, n.2, p.47 -62, 2011.
+AFO NSO, M. H. F.; SOUZA, J. V.; ENSSLIN, S. R.; ENSSLIN, L. Como construir conhecimento sobre o tema de pesquisa?
+Aplicação do processo ProKnow -C na busca de literatura sobre avaliação do desenvolvimento sustentável 10.5773/rgsa.
+Revista de Gestão Social e Ambiental, v. 5, n. 2, p. 47 -62, 2012b .
+The integrative role of the project management office in the front end of innovation.
+International Journal of Project Management, v. 29, n. 4, p. 408 -421, 2011.
+BERNARDES, M. L. Gestão d e projetos de inovação : O uso de novas metodologias de apoio à gestão de projetos de inovação em orga nizações de base tecnológica.
+Trabalho de Conclusão de Curso - Curso de Administração, Universidade Federal de Santa Catarina, Florianópolis, 2016.
+BESSANT, J.; PHILLIPS, W.; LAMMING, R.; NOKE, H. Managing innovation beyond the steady state .
+Technovation, v. 25, n. 12, p. 1366 - 1376, 2005.
+BLINDENBACH -DRIESSEN, F.; VAN DEN ENDE, J.
+Innovation management practices compared: The example of project -base d firms .
+Journal of Product Innovation Management, v. 27, n. 5, p. 705 -724, 2010.
+BLINDENBACH -DRIESSEN, F; VAN DALEN; VAN DEN ENDE, J. Subjective performance assessment of innovation projects.
+Journal of Product Innovation Management, v.27, p. 572 -592, 201 0.
+How to use pilot projects to implement open innovation.
+International Journal of Innovation Management, v. 14, n. 6, p. 1065 -1097, 2010.
+BYGSTAD, B.; LANESTEDT, G. ICT based service innovation - A challenge for project management .
+International Journal of Project Management, v. 27, n. 3, p. 234 -242, 2009.
+CALIK, E.; CALISIR, F.; CETINGUC, B.
+A Scale Development for Innovation Capability Measurement.
+Journal of Advanced Management Science.
+CALVETTI, E. S. Mensuração do grau de agilidade no processo de desenvolvimento de software: uma abordagem construtivista.
+Dissertação (Mestrado em Administração) – Universidade Federal de Santa Catarina.
+CASARIN, H. C. S.; CASARIN, S. J .
+Pesquisa científica: da teoria à prática .
+Exploring management control in radical innovation projects .
+European Journal of Innovation Management, v. 12, n. 4, p. 416 -443, 2009.
+28 CONFORTO, E. C.; AMARAL, D. C. Agile project management a nd stage -gate model —A hybrid framework for technology -based companies.
+Journal of Engineering and Technology Management - JET-M, v. 40, p. 1 -14, 2015.
+DESS, G.; PICKEN, J. C. Changing roles: leadership in the 21st century .
+Organizational Dynamics, v. 28, p. 18 –34, 2000.
+Avaliação do desempenho de empresas terceirizadas com o uso da metodologia multicritério de apoio à decisão -construtivista .
+Revista Pesquisa Operacional , v.30, n.1, p.125 -152, 2010.
+Um estudo sobre segurança em estádios de futebol baseado na análise da literatura internacional .
+Perspectivas em Ciências da Informação , v.17, n.2, p.71 -91, 2012.
+ENSSLIN, L.; ENSSLIN, S. R.; DE MORAES PINTO, H .
+Processo de inve stigação e Análise bibliométrica: Avaliação da Qualidade dos Serviços Bancários .
+RAC -Revista de Administração Contemporânea, v. 17, n. 3, p. 325 -349, 2013a.
+ENSSLIN, S. R.; ENSSLIN, L.; LACERDA, R. T. O.; MATOS, L. S .
+Evidenciação do estado da arte do tem a avaliação do desempenho na regulação de serviços públicos segundo a percepção dos pesquisadores.
+Gestão Pública: Práticas e Desafios, v. 4, n. 1, 2013d.
+ENSSLIN, L.; LACERDA, R. T. O.; SOARES, M. A.; LIMA, C. R. M .
+Avaliação de desempenho nas empresas d e saneamento básico: Construção de um portfólio bibliográfico relevante ao tema .
+Revista de Gestão Ambiental e Sustentabilidade, v. 4, n. 1, 2015.
+ProKnow -C, knowledge development process - constructivist .
+Processo técnico com patente d e registro pendente junto ao INPI.
+GIL, A. C. Como elaborar projetos de pesquisa .
+HAHN, M. Reasons for Changes in Customers' Needs .
+HASHIMOTO, M. Espírito Empreendedor nas organiz ações: Aumentando a competitividade através do intra -empreendedorismo.
+São Paulo, Saraiva, 2006, 277 p. HOBBS, B.; AUBRY, M.; THUILLIER, D. The project management office as an organizational innovation.
+International Journal of Project Management, v. 26, n. 5, p. 547555, 2008.
+International Project Management Association, 1999.
+29 JOUINI, S. MIDLER, C. SILBERZAHN.
+Contributions of Design Thinking to Project Management in an Innovation Context.
+The Balanced Scorecard: Translating Strategy into Action .
+KAPSALI, M. Systems thinking in innovation project management: A match that works.
+International Journal of Project Management, v. 29, n. 4, p. 396 -407, 2011.
+KERZNER, H. Gestão de Projetos: As Melhores Práticas .
+KNOFF, L. C.; LACERDA, R. T. O.; ENSSLIN, L.; ENSSLIN, S .
+Mapeamento de publicações científicas sobre estrat égia de manufatura: uma abordagem baseada em processos .
+Revista Produção Online, v. 14, n. 2, p. 403 -429, 2014.
+LACERDA, R. T. O; ENSSLIN, L.; ENSSLIN, S. R. Uma análise bibliométrica da literatura sobre estratégia e avaliação de desempenho .
+Gestão e Prod ução, v.19, n.1, p. 59 -78, 2012.
+LACERDA, R. T. O.; ENSSLIN, L.; ENSSLIN, S. R. Research opportunities in strategic management field: a performance measurement approach .
+International Journal of Business Performance Management, v. 15, n. 2, p. 158 -174, 2 014a.
+LACERDA, R. T. O. Metodologia de apoio à decisão estratégica para geração contínua de vantagens competitivas a partir dos recursos organizacionais .
+Universidade Federal de Santa Catarina, 2012.
+LENFLE, S. Exploration and project management.
+Interna tional Journal of Project Management, v. 26, n. 5, p. 469 -478, 2008.
+; PAULA, I. C. Desdobramento da função qualidade aplicado ao projeto de um detergente sustentável .
+MAXIMIANO, A. C. A. Admini stração de projetos: como transformar ideias em resultados .
+MIZUNO, S.; AKAO, Y. QFD : the costumer -driven approach to quality planning and development.
+Tokyo: Asian Productivity Association, 1994.
+MONTES, E. Gerenciamento dos risc os do projeto.
+Disponível em: < -dos-riscos -do-projeto>.
+O'CONNOR, G. C; RICE, M. P. A Comprehensive Model of Uncertainty Associated with Radical Innovation.
+Journal of Product Innov ation Management, v.30, p. 2 -18, 2013.
+Oslo Manual: Guidelines for collecting and interpreting innovation data .
+30 OLIVEIRA, L. V. Aplicação de uma metodologia de avaliação de desempenho construtivista pa ra apoiar a gestão de projetos em startups de tecnologia.
+Dissertação (Mestrado em Administração) – Universidade Federal de Santa Catarina.
+OLIVEIRA, A. F. Gestão de Projetos Estratégicos: Um Estudo de Caso.
+Dissertação de Mestrado – Escola Politéc nica da Universidade de São Paulo, São Paulo, 197f, 2007.
+OTOWICZ, M. H. Capacidade absortiva e desempenho inovador em pequenas empresas na grande Florianópolis.
+Dissertação (Mestrado em Engenharia e Gestão do Conhecimento) – Universidade Federal de Sant a Catarina.
+PACHECO, L. M., GOMES, E., SILVEIRA, M. A. Metodologias de gestão da inovação em uma perspectiva comparada: contribuição para aplicação em pequenas e médias Empresas .
+Publicado em Associação LatinoIberoamericano de Gestão de Tecnologia, 2013.
+Guide to the project Management body of knowledge.
+Project Management Institute, Pennsylvania USA.
+The changing paradigms of project management .
+International Journal of Project Management, v. 25, n. 3, p. 266 -274, 2007.
+ROSA, I. O.; ENSSLIN, L.; ENSSLIN, S. R .
+Visão conceitual de modelos de gerenciamento de riscos à segurança organizacional.
+Revista Eletrônica de Ciência Administrativa, v. 10, n. 2, 2011.
+Decision scie nce or decision -aid science?
+European Journal of O perational R esearch, v. 66, n. 2, p. 184 -203, 1993.
+SARTORI, S.; ENSSLIN, L. CAMPOS, L. M. S.; ENSSLIN, S. R. Mapeamento do estado da arte do tema suste ntabilidade ambiental direcionado para a tecnologia da informação .
+The Theory of economic development: an inquiry into profits, capital, credit, interest, and the business cycle .
+Cambridge (MA ): Harvard University Press, 1934.
+; DUARTE, M. S. Avaliação do desempenho das Unidades Pernambucanas de Atenção Especializada (Upae) tipo II, 2016 .
+SHENHAR, A., DVIR, D. Reinventing p roject management: The diamond approach to successful growth and innovation - Harvard Business Review, Cambridge, MA , 2007.
+Project management of unexpected events .
+International Journal of Project Management, v. 26, n. 1, p. 80 -86, 2008.
+31 SOUZA, V. H. A. Avaliação de desempenho no apoio à gestão de projetos de vendas e marketing de uma indústria multinacional: desenvolvimento de um modelo construtivista .
+Universidade Federal de Santa Catarina, 2015.
+An approach for selecti ng a theoretical framework for the evaluation of training programs .
+Journal of European Industrial Training, v. 34, p. 631 -655, 2010.
+TEECE, D. J. Explicating dynamic capabilities: the nature and micro foundations of (sustainable) enterprise performance .
+Strategic M anag ement Journal, v. 28, n. 13, p. 13191350, 2007.
+TIDD, J.; BESSANT, J.; PAVITT, K. Gestão da Inovação .
+593 p. TROTT, P. Gestão da Inovação e Desenvolvimento de Novos Produtos .
+648 p. TURNER, R.; ANBARI, F.; BREDILLET, C. Perspectives on research in project management: the nine schools.
+International Network of Business and Management, p. 3 -28.
+TURNER, R.; LEDWITH, A.; KELLY, J.
+Project management in small to medium -sized enterprises: Matching processes to the nature of the firm .
+International Journal of Project Management, v. 28, n. 8, p. 744 -755, 2010.
+S; FERREIRA, V. C. P; JOIA, L. A.
+A representação social do escritório de gerenciamento de projetos na percepção de profissionais da área.
+Análise de valor agregado em projetos: revolucionando o gerenciamento de custos e prazos.
+Rio de Janeiro: Brasport, 2003.
+Gerenciamento de projetos: estabelecendo diferenciais competitivos .
+Rio de Janeiro: Brasport, 2003.
+WANG, J.; LIN, W.; HUANG, Y. H. A performance -oriented risk management framework for innovative R&D projects.
+Technovation, v. 30, n. 11 -12, p. 6 01-611, 2010.
+Innovation procurement as projects .
+Journal of Public Procurement, v. 12, n. 4, p. 472 -504, 2012.
+Innovation projec t tool for outlining innovation projects .
+International Journal of Business Innovation Re search, v.16, n.1, p. 63 -78, 2018.
+32 APÊNDICE A – Portfólio Bibliográfico ARTTO, K. et al.
+The integrative role of the project management office in the front end of innovation.
+International Journal of Project Management, v. 29, n. 4, p. 408 -421, 2011 .
+BLINDENBACH -DRIESSEN, F.; VAN DEN ENDE, J.
+Innovation management practices compared: The example of project -based firms.
+Journal of Product Innovation Management, v. 27, n. 5, p. 705 -724, 2010.
+BLINDENBACH -DRIESSEN, F ; VAN DALEN; VAN DEN ENDE, J .
+Subje ctive performance assessment of innovation projects.
+Journal of Product Innovation Management, v.27, p. 572 -592, 2010.
+How to use pilot projects to implement open innovation.
+International Journal of Innovation Management, v. 14, n. 6, p. 1065 -1097, 2010.
+BYGSTAD, B.; LANESTEDT, G. ICT based service innovation - A challenge for project management.
+International Journal of Project Management, v. 27, n. 3, p. 234 -242, 2009.
+Exploring management control in radical in novation projects.
+European Journal of Innovation Management, v. 12, n. 4, p. 416 -443, 2009.
+CONFORTO, E. C.; AMARAL, D. C. Agile project management and stage -gate model —A hybrid framework for technology -based companies.
+Journal of Engineering and Technol ogy Management - JET-M, v. 40, p. 1 -14, 2015.
+HOBBS, B.; AUBRY, M.; THUILLIER, D. The project management office as an organisational innovation.
+International Journal of Project Management, v. 26, n. 5, p. 547 -555, 2008.
+KAPSALI, M. Systems thinking in i nnovation project management: A match that works.
+International Journal of Project Management, v. 29, n. 4, p. 396 -407, 2011.
+LENFLE, S. Exploration and project management.
+International Journal of Project Management, v. 26, n. 5, p. 469-478, 2008.
+O'CON NOR, G. C.; RICE, M. P. A comprehensive model of uncertainty associated with radical innovation.
+Journal of Product Innovation Management, v. 30, n. SUPPL 1, p. 2 -18, 2013.
+Project management of unexpected events.
+International Journal of Pr oject Management, v. 26, n. 1, p. 80 -86, 2008.
+TURNER, R.; LEDWITH, A.; KELLY, J.
+Project management in small to medium -sized enterprises: Matching processes to the nature of the firm.
+International Journal of Project Management, v. 28, n. 8, p. 744 -755, 2010.
+WANG, J.; LIN, W.; HUANG, Y. H. A performance -oriented risk management framework for innovative R&D projects.
+Technovation, v. 30, n. 11 -12, p. 601 -611, 2010.
+Innovation procurement as projects.
+Journal of Public Procurement, v. 12, n. 4, p. 472504, 2012.
+Innovation project tool for outlining innovation projects.
+International Journal of Business Innovation and Research, v. 16, n. 1, p. 63 -78, 2018.
+33 APÊNDICE B – Número de citações dos artigos do Portf ólio Bibliográfico Periódico Título Ano Citações International Journal of Project Management The project management office as an organizational innovation 2008 206 International Journal of Project Management Project management of unexpected events 2008 187 Technovation A performance -oriented risk management framework for innovative R&D projects 2010 153 International Journal of Project Management Project management in small to medium -sized enterprises: Matching processes to the nature of the firm 2010 147 International Journal of Project Management The integrative role of the project management office in the front end of innovation 2011 143 International Journal of Project Management Systems thinking in innovation project management: A match that works 2011 143 International Journal of Project Management Exploration and project management 2008 131 Journal of Product Innovation Management A comprehensive model of uncertainty associated with radical innovation 2013 110 Journal of Product Innovation Mana gement Subjective performance assessment of innovation projects 2010 94 Journal of Product Innovation Management Innovation management practices compared: The example of project -based firms 2010 85 International Journal of Project Management ICT based se rvice innovation - A challenge for project management 2009 82 European Journal of Innovation Management Exploring management control in radical innovation projects 2009 74 Journal of Engineering and Technology Management - JET-M Agile project management and stage -gate model —A hybrid framework for technology -based companies 2015 45 International Journal of Innovation Management How to use pilot projects to implement open innovation 2010 41 Journal of Public Procurement Innovation procurement as projects 2012 40 International Journal of Business Innovation and Research Innovation project tool for outlining innovation projects 2018 2 34 APÊNDICE C – Número de artigos por periódico 7 3 1 1 1 1 1 1International Journal of Project… Journal of Product Innovation… European Journal of Innovation… Journal of Engineering and… Technovation Journal of Public Procurement International Journal of Business… International Journal of Innovation…Número de Artigos 35 APÊNDICE D - Distribuição dos artigos por periódico científico em des taque nas referências do portfólio 40 40 23 23 22 21 19 16 15 15 13 12 12 11 9 9 9 8 7 7Journal of Product Innovation Management International Journal of Project Management Research Policy Management Science R&D Management Administrative Science Quarterly Academy of Management Harvard Business Review Organization Science Research Technology Management California Management Review Project Management Journal Strategic Management Journal Technovation Academy of Management Review Organization Studies MIT Sloan Management Review Journal of Engineering and Technology… PMBOK Accounting, Organizations and SocietyPeriódicos36 APÊNDICE E - Distribuição dos autores mais citados nas referên cias do portfólio bibliográfico 12 12 9 8 7 7 7 7 6 6 5 5 5 5 5 4 4 4 4 4 4 4 4 4 4 4 4 4O'Connor, G. C. Tushman, M. L. Eisenhardt, K. M. Cooper, R. G. Gemuenden, H.G.
+Project Management… Rice, M. Turner, J. R. Kleinschmidt, E. J. Montoya-Weiss, M. M Griffin, A. Hobbs, B. Loch, C. H. Müller, R. Van de Ven, A. H. Artto, K. Burgelman, R. A. Chiesa, V. Child, J. Crawford, L. De Brentani, U. Leifer, R. MacKenzie, S. B. McDermott, C. M. Podsakoff, P. M. Salomo, S. Salter, A. Soderlund, J.Número de Citações Autores37 APÊNDICE F - Comparação dos autores do portfólio bibliográfico com os artigos citados nas referências 0 1 2 3 4 5 6 7 8 910 11 12 13 14 15Chiesa, V.Frattini, FVan Den Ende, J.Blindenbach-Driessen, F.O'Connor, G. C.Rice, M.Turner, J. R.Hobbs, B.Artto, K. Aubry, M.Chiaroni, D.Conforto, E. C.Thuillier, D. Amaral, D. C.Edler, J.Kapsali, M.Kelly, JLedwith, A.Lenfle S,Poskela, J.Söderholm, A. Número de artigos AutoresAutores de artigo no PB Autores de artigos nas referências do PB38 APÊNDIC E G – Relevância dos autores no portfólio bibliográfico e em suas referências – número de artigos 0123 0 2 4 6 8 10 12 14N°de artigos do autor no Portfólio Bibliográfico N°de artigos do autor do Portfólio Bibliográfico nas Referências do Portfólio Bibliográfico Chiesa, V. Frattini, F Van Den Ende, J. Blindenbach-Driessen, F. Thuillier, D. Kelly, J Ledwith, A. Lenfle S, Poskela, J. O'Connor, G. C. Rice, M. Hobbs, B. Artto, K. Aubry, M. Chiaroni, D. Amaral, D. C. Kapsali, M. Turner, J. R. Conforto, E. C. Edler, J. Söderholm, A. Tushman, M. L. Salter, A. Podsakoff, P. M. Salomo, S. Van de Ven, A. H. Montoya-Weiss, M. M Child, J. MacKenzie, S. B. Müller, R. Eisenhardt, K. M. Cooper, R. G. Gemuenden, H.G.
+Kleinschmidt, E. J. Griffin, A. Burgelman, R. A. Crawford, L. De Brentani, U.
+Project Management Institute Loch, C. H. Leifer, R. McDermott, C. M.39 ANEXO A - Modelo de gerenciamento de riscos proposto pelo PMBOK ® Fonte: Montes (2019).
+40 ANEXO B - As características de inovação mais bem cla ssificadas com base no impacto Fonte: Yordanova (2018).
+41 APÊNDICE C - Mapeamento de processos entre organização de P&D e projeto de P&D.
+42 ANEXO D - As três dimensões de incerteza em um projeto de inovação Fonte: O'Connor (2013).

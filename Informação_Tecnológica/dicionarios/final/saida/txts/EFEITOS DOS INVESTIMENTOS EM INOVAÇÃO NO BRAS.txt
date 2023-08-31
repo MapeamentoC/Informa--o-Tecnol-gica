@@ -1,0 +1,215 @@
+ E&G Economia e Gestão , Belo Horizonte, v. 17, n. 47, Maio/Ago.
+2017 164 EFEITOS DOS INVESTIMENTOS EM INOVAÇÃO NO BRASIL: UMA ANÁLISE DA DINÂMICA ENTRE INOVAÇÃO, P OPULAÇÃO ECONOMICAMENTE ATIVA E PRODUTO INTERNO BRUTO (2005 -2015) EFFECTS OF INVESTMENTS IN INNOVATION IN BRAZIL: AN ANALYSIS OF THE DYNAMICS BETWEEN INNOVATION, ECONOMICALLY ACTIVE POPULATION AND GRO SS DOMESTIC PRODUCT (2005 -2015) Fabrini Quadros Borges UEPA - Universidade do Estado do Pará doctorborges@bol.com.br Fabricio Quadros Borges Programa de Pós Graduação em Administração da Universidade da Amazônia – Unama posdoctorborges@gmail.com Educélio Gaspar Lisbôa UEPA - Universidade do Estado do Pará masterborges@bol.com.br Submissão: 30/08/2017 Aprovação: 25/11 /2017 E&G Economia e Gestão , Belo Horizonte, v. 17, n. 47, Maio/Ago.
+2017 165 RESUMO O objetivo desse estudo é o de analisar a influência dos investimentos em inovação e da população economicamente ativa junto a o PIB brasileiro entre 200 5 e 201 5.
+Os investiment os em inovação são sinônimos de crescimento e produtividade e os governos de muitos países buscam desenvolver diretrizes de gestão que orientem estrategicamente estes investimentos.
+Todavia, as relações entre variáveis como investimentos em inovação, Popul ação economicamente ativa e Produto interno bruto precisam ter seus meandros melhor compreendidos e mensurados.
+Na metodologia do estudo foi utilizada a correlação linear e o modelo de regressão linear múltipla através do software de análise estatística SP SS.
+O estudo concluiu que cada incremento de uma unidade monetária no investimento em inovação está associado a um aumento 24,69 unidades no PIB.
+E para um aumento de cada unidade na taxa da variável população economicamente ativa, o PIB aumenta, em média, 0,024 unidades.
+A dinâmica de relação entre as variáveis observada neste estudo revela com maior precisão o papel relevante dos investimentos em inovação.
+Palavras -chave : Investimento.
+População Economicamente Ativa.
+ABSTRACT The objective of this study is to analyze the influence of investments in technological innovation and the economically active population with the Brazilian gross domestic product between 200 5 and 201 5.
+Investments in innovation are synonymous with growth and productivity, and governments in many countries seek to develop guidelines that strategically guide these investments.
+However, the relationships between variables such as investment in innovation, economically active population and gross domes tic product need to have their meanderings better understood and measured.
+In the methodology of the study was used the linear correlation and the multiple linear regression model through the software of statistical analysis SPSS.
+It has been found that ea ch increment of one monetary unit in investment in technological innovation is associated with an increase of 24.69 units in gross domestic product.
+And for a one -unit increase in the rate of the variable economically active population, gross domestic prod uct increases by an average of 0.024 units.
+The dynamics of the relationship between the variables observed in this study reveals with greater precision the relevant role of investments in innovation.
+Economically active population.
+E&G Economia e Gestão , Belo Horizonte, v. 17, n. 47, Maio/Ago.
+Introdução O objetivo desse estudo é o de analisar a influência dos investimentos em inovação e da população economicamente ativa junto ao PIB brasileiro entre 200 5 e 201 5.
+Os investimentos em inovação são sinônimo s de crescimento e produtividade (VICENTE e LOPES, 2015).
+Neste contexto, Vicente e Lopes (2015), destacam que "os países começaram a buscar propostas e diretrizes que norteassem a coleta e interpretação de dados sobre atividades inovadoras da indústria".
+O Brasil verificou a urgência de um sistema de informações sobre as atividades de inovação das empresas.
+O Instituto Brasileiro de Geografia e Estatística (IBGE) desde 2000, com o apoio da Financiadora de Estudos e Projetos (FINEP) e do Ministério da Ciênc ia e Tecnologia (MCT) tem realizado a Pesquisa de Inovação (PINTEC), em que o objetivo é pesquisar as atividades inovativas e seus resultados nas empresas industriais (CARVALHO e CARVALHO, 2011; VICENTE e LOPES, 2015).
+Nesta perspectiva, a inovação promov eria condições de fortalecimento da produção nacional e o Produto interno bruto apresentaria , em princípio , uma relação direta com os investimentos em inovação .
+Todavia, d e acordo com Vollrath (2009), a inovação não necessita aumentar o PIB porque a inovaç ão deve reduzir os insumos de recursos usados, mais do que elevar a quantidade de produto produzida, isto é, a inovação libera recursos.
+Destaca -se ainda, como observa o autor, se estes recursos liberados forem direcionados para produzir outros bens e serviços, o PIB ainda deverá aumentar.
+Assim, a inovação e o PIB apresentam aspectos dependentes e independentes entre si, o que recomenda ria o desenvolvimento de estudos estatísticos sobre a dinâmica entre estas variáveis.
+O Produto Interno Bruto - PIB é um a variável medida em valores monetários e compreende o agregado de todos os bens e serviços finais produzidos , em um país, uma região, um estado ou município, durante certo período de tempo.
+A interpretação mais aprofundada sobre a influência das inovações junto ao PIB contribuiria substancialmente para a percepção desta dinâmica.
+Entretanto, igualmente relevante à questão de aprimorar a compreensão e mensuração da influência dos investimentos em inovação junto ao PIB está a de se analisar outras variáveis e perceber a medida de suas interferências junto ao PIB.
+Nesta oportunidade de investigação também foi objeto de observação a População Economicamente Ativa - PEA .
+A PEA compreende uma definição criada para d enominar a população que está inserida no merca do de trabalho ou que, de cert o modo , se encontra a procura de oportunidade no mercado de trabalho e exercer algum modo de atividade remunerada.
+Assim, uma análise entre as variáveis : inovação, PIB e PEA contribuirão ao aperfeiçoamento do entendimento da d inâmica que envolve não apenas os aspectos crescimento e produtividade, mas também poderão fornecer elementos a interpretações preliminares do processo de desenvolvimento de países ou regiões.
+Neste sentido, o que se pretende nesta investigação é questiona r: qual a influência dos investimentos em inovação e da população economicamente ativa junto ao PIB brasileiro entre 2005 e 201 5?
+O estudo pretende contribuir ao aperfeiçoamento do entendimento da dinâmica de relações entre as variáveis: investimento em inovação, população economicamente ativa no Brasil e PIB do país, de maneira a fornecer subsídios à elaboração de instrumentos de mensuração dos efeitos dos investimentos em inovação.
+Diante deste desafio , o estudo est á dividido em quatro seções, além desta introdução.
+Os procedimentos metodológicos, o referencial teórico, a discussão e resultados e as considerações finais.
+E&G Economia e Gestão , Belo Horizonte, v. 17, n. 47, Maio/Ago.
+Referencial Teórico Diante de um panorama globalizado, onde a integração das economias apresenta -se como tendência crescente, o ambi ente de mercado está caracterizado por constantes transformações que promovem a competitividade entre as empresas, que se deparam cada vez mais com um mercado formatado por comandites, tendo então, que lançar ideias, processos e tecnologias que as diferenc ie neste ambiente e garantam de certa forma, crescimento sustentável e expansão de mercado.
+E é neste contexto que surge o termo inovação (VICENTE e LOPES, 2015).
+A inovação compreende uma categoria geralmente atribuída a uma novidade empregada no setor pr odutivo através de pesquisa ou investimentos.
+Esta novidade tende a elevar a eficiência do processo de produção e resulta n a melhoria do produto (MANUAL DE OSLO, 1997 ; CASSIOLATO e LASTRES , 2005 ; ROMERO et al.
+De acordo com Torres (2010), o conceit o de inovação geralmente é desdobrado em dois tipos: inovação de produto e inovação de processo, sendo que este último englobaria as demais definições de Schumpeter (19 97) que não novos produtos.
+Torres (2010) destaca a argumentação de Blaug ( 2003) e Rosen berg ( 2006 ) que afirmam que a divisão inovação de produtos e inovação em processos é um tanto artificial.
+A produção mais eficiente de mercadorias já utilizadas no passado pode ser feita mediante o uso de um novo equipamento.
+No entanto, tal equipamento pode ser um novo produto introduzido pela indústria de bens de capital que melhora o processo produtivo das demais indústrias.
+Da mesma forma, melhorias no processo produtivo que reduzam os custos de produção podem viabilizar o lançamento de novos produtos.
+Apesar disso, ainda sobra o caso em que o simples rearranjo ainda não tentado da forma de produzir (inovação organizacional) dá margem para redução dos custos unitários.
+Assim, do ponto de vista analítico novas formas de fazer coisas antigas podem ser dist inguidas das velhas formas de fazer novidades (TORRES, 2010) .
+A inovação está se tornando mais aberta, exigindo alterações no modo como as organizações a gerenciam; fontes externas de conhecimento tornam -se mais relevantes nessa nova dinâmica, enquanto can ais externos de mercado também oferecem grandes promessas (COSTA e BRAGA JUNIOR, 2016).
+A inovação compreende produto do conhecimento gerado por meio da experiência prática ou de esforços sistemáticos de P&D, realizados na própria organização , ou gerados externamente, frutos de P&D realizados em outras organizações empresariais e instituições de pesquisa, ou de pesquisa científica desenvolvida no ambiente acadêmico (HOFFMANN e AMAL, 2011).
+Portanto, uma inovação de processo pode ser compreendida como qualqu er aperfeiçoamento na técnica de produção que reduza os custos unitários da produção mesmo que os preços dos insumos não se modifique m propriamente .
+As inovações são habitualmente diferenciadas por seu grau de mudança no tocante aos produtos e processos qu e existiam anteriormente (SOUZA et al., 2015).
+Torres (2010) menciona a teoria do desenvolvimento econômico de Schumpeter que faz uma enfática distinção entre invenção e inovação.
+Para o autor, a invenção é a criação de um novo artefato que pode ou não ter relevância econômica.
+A invenção só se torna uma inovação se ela for transformada em uma mercadoria ou em uma nova forma de produzir mercadoria, e que seja explorada economicamente (TORRES, 2010) .
+A inovação refere -se a novas combinações de recursos já ex istentes para produzir novas mercadorias, ou para produzir mercadorias antigas de uma forma mais eficiente, ou ainda mesmo para acessar novos mercados.
+Torres (2010) chama a E&G Economia e Gestão , Belo Horizonte, v. 17, n. 47, Maio/Ago.
+2017 168 atenção para os c inco tipos de inovação na teoria de Schumpeter (1997) : novos prod utos, novos métodos de produção, novas fontes de matéria -prima, exploração de novos mercados e novas formas de organizar as empresas .
+A inovação tende a diminuir os insumos de recursos utilizados e ao mesmo tempo libera parte destes recursos para a possibi lidade de elevação do PIB ( VOLLRATH , 2009) , o que revela uma relação estreita entre inovação e PIB.
+O PIB costuma ser entendido como "a capacidade de oferta de uma economia.
+Ou como a capacidade produtiva instalada da economia.
+Também pode ser definido com o a capacidade de crescimento da economia sem causar pressões inflacionáriasse a economia crescer além do PIB potencial, surge pressões inflacionárias" (SOUZA, 2008).
+Para mensurá -lo, há várias medidas indiretas, como capacidade instalada da indústria, infraestrutura, geração de energia elétrica, etc., mas faltam medidas diretas, e os resultados dependem fortemente das metodologias escolhidas (SOUZA, 2008).
+A variação da população economicamente ativa também exerce influência no PIB , conforme Souza (2008 ), na medida em que uma PEA menor exigiria maior produtividade d o PIB .
+A PEA corresponde à parcela da população em idade de trabalhar, que se encontra no mercado de trabalho, seja na condição de ocupado, seja na condição de desempregado.
+Devido às caract erísticas do mercado de trabalho brasileiro marcado pela inserção precoce da população jovem, segundo Ramos e Ferreira (2006 ), que a população economicamente ativa refere -se ao conjunto de pessoas com idade igual ou superior a 10 anos.
+Através do dimension amento da PEA pode -se obter a magnitude da força de trabalho isto é, do contingente populacional que, num dado momento, pressiona o mercado de trabalho.
+Neste sentido, a projeção da PEA é importante, uma vez que indica qual deve ser a capacidade futura na economia de gerar novos postos de trabalho .
+Em suma, a inovação e a PEA possuem relações de interferência direta e indireta junto ao PIB de qualquer país ou região e a compreensão do grau destas influências contribuirá ao levantamento de subsídios e para a elaboração de ferramentas de auxílio ao processo decisório no âmbito do setor público.
+Procedimentos Metodológicos A pesquisa caracteriza -se como a nalítico -discursiva e utiliza -se do método indutivo na medida em que permite chegar a conclusões particulares a partir de conheci mentos gerais, vislu mbrados pelas relações entre as variáveis macroeconômicas estudadas.
+O estudo possui sua metodologia dividida em três etapas: coleta de dados, tratamento de dados e, por fim, a análise de dados.
+a) Coleta de dados Os dados utilizados na pesquisa possuem natureza secundária e foram obtidos junto ao IBGE - Instituto Brasileiro de Geografia e Estatística e ao IPEA - Instituto de Pesquisa Econômica Aplicada entre fevereiro e abril 2016.
+O espaço temporal deste es tudo abrangeu o período entre 200 5 e 201 5.
+Os dados foram coletados junto a relatórios e documentos elaborados E&G Economia e Gestão , Belo Horizonte, v. 17, n. 47, Maio/Ago.
+2017 169 por estes órgãos e foram levantados em escalas anuais.
+As variáveis selecionadas foram: investimentos em inovação no Brasil, população economicam ente ativa brasileira e Produto Interno Bruto registrado no país.
+b) Tratamento de d ados Esta etapa foi realizad a com auxílio do software de análise estatística SPSS versão 23 que permitiu a contagem e elaboração de gráficos a partir dos dados coletados.
+As ferramentas estatísticas utilizadas foram : a correlação linear e o modelo de regressão linear múltipla.
+Na correlação linear pode -se investigar se duas variáveis estão correlacionadas ou conectadas umas às outras (BUGLEAR, 2005).
+Pode -se estudar isso po r meio de um diagrama de dispersão para retratar os dados.
+Este diagrama fornece uma ferramenta visual para associação entre duas variáveis.
+Para maior precisão na avaliação faz -se necessário calcular um coeficiente de relação entre as variáveis.
+Segundo S chultz e Schultz (1992), o método mais utilizado para medir a correlação entre duas variáveis é o Coeficiente de Correlação Linear de Pearson.
+Equação de Correlação: No modelo de regressão linear múltipla foram comparados os dois coe ficientes tanto da correlação como o da regressão .
+A regressão linear múltipla é um modelo matemático que serve para verificar se duas ou mais variáveis estão relacionados de alguma forma.
+Barbieri (2011) alerta que se as equações de regressão são calculad as com base em dados passados, elas não poderão ser utilizadas para predição de casos futuros, caso a relação entre y e x se modifique.
+Assim, não se recomenda a utilização da equação para predizer y em situações nas quais os valores de x estão fora do int ervalo dos valores de x observados quando do desenvolvimento da equação.
+Por se tratar de previsão adicionou -se a margem de erro que será cometida.
+E&G Economia e Gestão , Belo Horizonte, v. 17, n. 47, Maio/Ago.
+2017 170 c) Análise de dados Nesta etapa o s dados foram analisados de maneir a a comparar anualmente as variáveis : investimento em inovação e população economicamente ativa junto ao Produto Interno Bruto brasileiro no período analisado .
+A etapa foi composta pela análise da correlação linear e pel a análise do modelo de regressão lin ear múltipla Na análise da correlação linear considerou -se que o coeficiente de correlação de Pearson varia de -1 a 1.
+O sinal indica direção positiva ou negativa do relacionamento e o valor sugere a força da relação entre as variáveis.
+Uma correlação perf eita ( -1 ou 1) indica que o escore de uma variável pode ser determinado exatamente ao se saber o escore da outra.
+No outro oposto, uma correlação de valor zero indica que não há relação linear entre as variáveis.
+A correlação forte positiva refere -se a um grau entre os coeficientes envolvidos, perfeitamente alinhados em um período de tempo T. por outro lado a correlação moderada representa um coeficiente de correlação intermediário e pouco correlacionado, ao passo que a correlação fraca refere -se a um grau de coeficiente que não a influência entre as variáveis envolvidas no período de tempo T. E por último a forte negativa tem uma tendência de um coeficiente de correlação bem significativo, mas em escala decrescente.
+A análise de regressão linear múltipla sintetiz ou os dados, predi sse, control ou e estim ou.
+Neste modelo a comparação entre os coeficientes da correlação e da regressão foram efetuados na perspectiva de verificar um melhor desempenho das variáveis, como também de analisar o grau de multicolineari dade, e as hipóteses de homo e heterocedasticidade .
+Em cômputo geral, nesta etapa procurou -se analisar a relação de mensuração entre cada incremento de uma unidade monetária investida em inovação e as unidade s do PIB brasileiro ; e entre cada unidade de tax a variável da População Economicamente Ativa no Brasil e o aumento do PIB em unidades.
+Discussão e Resultados Nesta seção, apresenta -se a análise da influência dos investimentos em inovação e da População economicamente ativa (PEA) junto ao Produto Interno Bruto (PIB) brasileiro Inicialmente realizou -se uma estatística descritiva das variáveis e em seguida foram realizados os procedimentos adequados para a utiliza ção d a regressão linear múltipla.
+Na Tabela 1 são apresentadas as medidas descritivas deste estud o. O que se observa é que o valor mínimo do PIB foi de 3546144,90 e seu valor máximo foi de 5074363,80 .
+A média obtida para essa variável foi de 4172669,5636 .
+Além disso, nota -se que o desvio padrão apresentou valor 521457,78436.
+E&G Economia e Gestão , Belo Horizonte, v. 17, n. 47, Maio/Ago.
+2017 171 Tabela 1: Es tatística Descritiva do Produto Interno Bruto dos investimentos em inovação e da População Economicamente Ativa N Mínimo Máximo Média Desvio Padrão PIB 11 3546144,90 5074363,80 4172669,5636 521457,78436 INOV 11 15839,10 62223,40 32381,7455 15064,1489 2 PEA 11 81510000 101094000 93246000,00 6999472,552 Fonte : Elaborado pelos autores.
+Em relação a variável PEA, os valores de máximo e mínimo são respectivamente, 101094000 e 81510000 .
+O valor da média foi de 85318636,36 e apresentou o valor do desvio padrão de 6999472,552 .
+Em se tratando da variável de investimentos em inovação (INOV), apresenta -se o valor máximo igual a 62223,40 e o valor mínimo foi de 32381,7455.
+O desvio padrão apresentou valor de 26013737,979 .
+Análise d e correlação para as variáveis : PIB, PEA e o valor investido em inovação (INOV) revelaram -se significativa s. Conforme se observa no Quadro 1, a correlação entre as variáveis PIB e INOV é igual a 0,981 com um nível de significância de 1% ( p -valor 0,000 <0,01).
+Já a correlação entre as variáveis PIB e PEA devolveu o valor de 0,939 com um nível de significância de 1% (p -valor 0,000 < 0,01).
+E a correlação entre PEA e INOV foi de 0,886 com um nível de significância de 1% (p -valor 0,000 < 0,01).
+Deste modo, t êm-se evidências suficientes para afirmar que as variáveis analisadas são correlacionadas.
+Para que a análise dos dados possa ser realizada com confiabilidade e rigor estatístico é necessário à verificação de alguns pressupostos.
+Um deles é de que a variá vel resposta PIB tenha distribuição normal.
+E as análises seguintes abordam esta situação através de gráficos e tabelas, e o teste utilizado para a verificação deste pressuposto foi o de Kolmogorov -smirnov.
+Quadro 1: Correlações entre as variáveis do P roduto Interno Bruto, dos investimentos em inovação e da População Economicamente Ativa PIB INOV PEA PIB Pearson Correlation 1 Sig.
+(2 -tailed) N 11 INOV Pearson Correlation ,981** 1 Sig.
+(2 -tailed) ,000 N 11 11 PEA Pearson Correlation ,939** ,886** 1 Sig.
+(2 -tailed) ,000 ,000 N 11 11 11 Fonte : Elaborado pelos autores.
+** Correlação é significant e ao nível de 0.01 (2-tailed).
+E&G Economia e Gestão , Belo Horizonte, v. 17, n. 47, Maio/Ago.
+2017 172 Na Tabela 2 apresenta m-se os resultados do teste de norma lidade.
+Após realizar o teste de normalidade de Kolmogorov -smirnov, que apresentou o valor de significância igual a 0 .200.
+A regra decisão é a seguinte: se valor deste teste for superior a 0.05 há evidências suficientes para aceitar a hipótese de que os d ados tem distribuição normal, caso contrário rejeita -se a hipótese de normalidade.
+Portanto, como o valor obtido no teste é superior a 0.05, pode -se afirmar que o "PIB" segue uma distribuição normal.
+Tabela 2: Teste de normalidade de Kolmogorov -smirnov KOLMOGOROV -SMIRNOVA SHAPIRO -WILK Statistic df Sig.
+PIB ,090 11 ,200* ,968 11 ,870 Fonte : Elaborado pelos autores.
+a. Lilliefors Significance Correction * This is a lower bound of the true significance.
+A inovação é e lemento estratégico nesta relação de variáveis na medida em que é por meio dela que as empresas fortalecem a sua capacidade de geração de riqueza de maneira contínua e sustentada diante da competitividade de mercado.
+Esta riqueza gerada em termos globais s e traduz no PIB, que compreende uma espécie de mensuração do fluxo de riqueza.
+A PEA, no momento em que corresponde aos habitantes que representam o potencial de geração desta riqueza, reflete o esforço de inovação no PIB por meio do uso justamente da inov ação.
+Assim, as correlações se evidenciam nesta dinâmica de análise.
+A Figura 1 apresenta o box -plot da variável PIB, e este gráfico é composto pelas medidas separatrizes, onde o primeiro quartil é 3701872,8 , o segundo quartil (mediana) 4083929,9 e o Terceiro quartil 4717238,7 .
+Pode -se observar que as medidas: mediana e primeiro quartil estão mais próximos.
+Figura 1: Box -plot da variavel PIB.
+Fonte : Elaborado pelos autores.
+E&G Economia e Gestão , Belo Horizonte, v. 17, n. 47, Maio/Ago.
+2017 173 Na sequência , demonstra -se a F igura 2 que apresenta o gráfico Q -Q plot da variável PIB, pode -se observar que os dados estão bem próximos da reta, indicando graficamente que a variável estudada tem distribuição normal possibilitando a execução da técnica estatística Regressão linear múltipla.
+Figura 2: Q -Q plot da variável PIB Fonte : Elaborado pelos autores.
+A Tabela 3 apresenta o resumo do modelo .
+Observou -se que não há autocorrelação entre os resíduos e que há independência entre os erros, por meio do teste de Durbin -watson que tem valor igual 1,6 24.
+Para este teste a regra é a seguinte, valores próximos de 2 é o ideal em decorrência desse resultado não ser significativo, pois, garante a suposição de independência entre os erros, entretanto quando o valor deste teste for menor do que 1 e superior a 3, há suposição não é satisfeita.
+Outro ponto a se destacar na análise é o R2, ou também chamado de coeficiente de determinação, que neste estudo apresentou R2 = 0,985.
+Pode -se constatar que as variáveis preditoras influenciam/explicam em 98,5% a variável resposta PIB.
+A próxima análise deste estudo será mostrada na Tabela 4, que nos apresenta a Análise de variância (ANOVA), que visa verificar se o modelo é adequado, isto é, se ele tem um bom poder de explicação dos dados.
+Tabela 3 : Resumo do modelo Mod elo R R2 R2 ajustado Erro padrão da estimativa Durbin -watson 1 ,993a ,985 ,981 70975,12867 1,624 Fonte : Elaborado pelos autores.
+a. Preditoras : (Constant e), INOV, PEA b. Variável Dependente : PIB E&G Economia e Gestão , Belo Horizonte, v. 17, n. 47, Maio/Ago.
+2017 174 Na tabela 4 a seguir, demonstra -se que o modelo é adequado para explicar os dados, pois, o valor do p -valor foi 0,000, desse modo se tem evidências suficientes para afirmar que há uma relação entre as variáveis analisadas ao nível de 5%, ou seja, as v ariáveis independentes explicam o PIB.
+Nesta perspectiva, destaca -se que o aumento do PIB representa um estado onde a economia adentra um processo de crescimento global de sua riqueza em decorrência de um conjunto de mecanismos de inovação capazes de mo dificar significativamente as condições anteriores a este crescimento, logo, as variáveis independentes e sclarecem o PIB na dinâmica macroeconômica.
+Tabela 4: Anova Modelo Soma de quadrados Graus de liberdade Quadrado médio F Sig.
+Regressão 2,679E12 2 1,339E12 265,896 ,000a Residual 4,030E10 8 5,037E9 Total 2,719E12 10 Fonte : Elaborado pelos autores.
+a. Preditoras: (Constante), INOV, PEA b. Variável Dependente: PIB Na tabela 5, destacam -se os val ores dos coeficien tes estimados e a sua respectiva significância.
+Daqui pode m-se obter as seguintes conclusões: para um incremento de uma unidade com investimento em inovação está associado a um aumento 24,69 unidades no PIB.
+Este aumento é bastante signif icativo, porque p -valor < 0,000.
+Esta relação estatística deve observar as considerações de Vollrath (2009), quando destaca dois aspectos desta relação: no primeiro, a inovação não necessitaria aumentar o PIB porque a inovação deve reduzir os insumos de re cursos usados; no segundo, quando a inovação reduz recursos ela também libera os recursos não utilizados, para a produção de outros bens e serviços.
+Assim, a inovação e o PIB possuem relações que precisam melhor ser compreendidos para um direcionamento mai s preciso no processo decisório no ambiente público, e quando se verifica que cada incremento de investimento em inovação se traduz em uma elevação de 24,69 unidades no PIB , se obtém uma mensuração desta re lação que pode fornecer subsídios ao referido proc esso decisório.
+Já para um aumento de uma unidade na taxa da variável PEA, o PIB aumenta, em média, 0,024 unidades.
+Este aumento é bastante significativo, porque p -valor < 0,008.
+Esta constatação ganha maior relevância ainda quando se observa a afirmação de Souza (2008) que destaca que a variação da população economicamente ativa também exerce influência no PIB na medida em que uma PEA menor exigiria maior produtividade do PIB.
+Este estudo destaca que es ta constatação de crescimento médio de 0,024 unidad es de Produto Interno Bruto a partir do crescimento de cada unidade da P opulação Economicamente Ativa , demonstra a necessidade de uma maior atenção diante de possíveis reduções na PEA , o E&G Economia e Gestão , Belo Horizonte, v. 17, n. 47, Maio/Ago.
+2017 175 que o casiona ria um reflexo significativo em direção a um crescimento de produtividade do PIB no Brasil .
+Tabela 5: Coeficientes do modelo de regressão Modelo Coeficientes não padronizados Coeficientes padronizados B Erro padrão Beta t Sig.
+1 (Constante) 1147531,043 554129,507 2,071 ,072 INOV 24,050 3,207 ,695 7,500 ,000 PEA ,024 ,007 ,323 3,490 ,008 Fonte : Elaborado pelos autores.
+Dependent Variable: PIB Diante desta análise infere -se que a equação de regressão linear múltipl a resultante dest a investigação é a seguinte: PIB= 1147531,043 + 24,050 INOV+ 0,024 PEA Portanto, a equação de regressão linear múltipla chegou a uma nova identidade de regressão a partir dos coeficientes das variáveis explicativas : investimento em inovaçã o (INOV ) e População Economicamente Ativa (PEA) , no modelo de identidade positiva , isto é, o modelo é aceitável.
+A variação da PEA exerce influência no PIB na medida em que uma PEA menor exigiria maior produtividade do PIB e uma PEA maior, proporcionaria m aior potencial de fomento e operação da inovação existente.
+O aumento da inovação de maneira sistêmica e planejada produz estrategicamente uma maior capacidade de geração de PIB.
+O Brasil ainda se situa a margem do ambiente de inovação das grandes corporaç ões do mercado global e a percepção desta dinâmica por meio do modelo apresentado neste estudo agrega aos alicerces do processo decisório.
+Considerações Finais O estudo procurou questionar qual a influência d os Investimentos em inovação e da Populaçã o Economicamente Ativa no PIB brasileiro entre 200 5 e 201 5.
+O questionamento pretendeu contribuir ao aperfeiçoamento do entendimento da dinâmica de relações entre as E&G Economia e Gestão , Belo Horizonte, v. 17, n. 47, Maio/Ago.
+2017 176 variáveis : Investimentos em inovação, PEA e PIB no Brasil, de maneira a fornecer subsídios para a elaboração de instrumentos de mensuração dos efeitos dos investimentos em inovação.
+Os resultados do modelo proposto, diante do período considerado nesta investigação, indicam que existem correlações existe uma correlação significativa entre as v ariáveis: produto interno bruto, população economicamente ativa e os investimentos em inovação.
+A dinâmica de relação entre as variáveis revela o papel importante dos investimentos em inovação.
+O modelo PIB=1147531,043+24,050 INOV+0,024 PEA apontou que cada incremento de investimento em inovação reflete um aumento de 24,69 unidades no PIB.
+Verificou -se ainda um crescimento médio de 0,024 unidades de PIB a partir do aumento de cada unidade da PEA.
+Nesta constatação, o aumento do PIB representa um estado o nde a economia inicia um crescimento global de riqueza em decorrência de um processo de inovação que foi capaz de alterar condições iniciais de equilíbrio.
+A PEA, por sua vez, compreende os braços que se utilizam dos mecanismos de inovação em direção à pro dução de riqueza representada pelo PIB.
+Nesta perspectiva, a maior contribuição deste estudo está na contribuição ao aprofundamento do conhecimento da proporcionalidade desta s relações de variáveis, como subsídio ao processo de tomada de decisão.
+O Brasil precisa estar direcionad o a compressão d o ambiente da dinâmica macroeconômica entre a influência dos investimentos em inovação e da população economicamente ativa junto ao seu PIB.
+Assim, o país deve observar primeiramente estudos que contribuem ao entend imento dos meandros desta influência e, em seguida, por uma abordagem sistemática e planejada de ações do ambiente público e privado , em direção a novos produtos e/ou serviços que estimulem o progresso tecnológico.
+Novos estudos devem ser desenvolvidos no intuito de aperfeiçoa mento desta investigação.
+A inserção de novas variáveis , como o grau de escolaridade , e a abrangência de períodos mais longos poderá colaborar substancialmente a o entendimento mais detalhado da dinâmica que envolve o processo de desen volvimento brasileiro.
+E&G Economia e Gestão , Belo Horizonte, v. 17, n. 47, Maio/Ago.
+2017 177 REFERÊNCIAS BARBIERI, J .
+C. Gestão ambiental empresarial : conceitos, modelos e instrumentos.
+BLAUG , M. A survey of the theory of process -innovations .
+BUGLEAR, J. Stat significa o ne gócio: um guia para negócios .
+Estatística ButterworthHeinemann Press, 2005 CASSIOLATO, J. E. e LASTRES, H. M. M. Sistemas de inovação e desenvolvimento: as implicações de política.
+CARVALHO, D. F. e CARVALHO, A. C. Desindustrialização e reprimarização da economia brasileira contemporânea num contexto de crise financeira global : conc eitos e evidências, 2011.
+COSTA, P. R. da; BRAGA JUNIOR, S. S. Atuação dos núcleos de inovação tecnológica na gestão d a cooperação universidade -empresa.
+Belo Horizonte v. 15 n. 4 p. 25 -45 out./dez.
+HOFFMANN, M. G.; AMAL, M. Estratégia, estrutura e redes de cooperação: relações com a capacidade de inovação de um cluster têxtil.
+Belo Horizonte · v. 10 · n. 4, p. 63 -85, out./dez.
+Diretrizes para coleta e interpretação de dados sobre inovação .
+Disponível em: -efinanciamento/manualoslo.pdf .
+RAMOS, L.; FERREIRA, V. Padrões espacial e setorial da evolução da informalidade no período 1991 -2005 .
+Rio de Janeiro: Pesquisa e Planejamento Econôm ico, IPEA, v. 36, n. 3, 2006.
+Una aplicación para medir el Nivel de Innovación en empresas de Software y Servicios Informáticos.
+In: Encuentro nacional de docentes en investigación operativa (ENDIO), 26., XXI V Escuela de perfeccionamiento en investigación operativa (EPIO), 24., 2013.
+ROSENBERG , N. Por dentro da caixa -preta: tecnologia e economia.
+SCHULTZ, D. P.; SCHULTZ, S. E. História da psicologia mode rna.
+SCHUMPETER , J. Teoria do desenvolvimento econômico: uma investigação sobre lucros, capital, crédito, juro e o ciclo econômico .
+São Paulo: Nova Cultural, 1997.
+E&G Economia e Gestão , Belo Horizonte, v. 17, n. 47, Maio/Ago.
+C. de; BARBOSA, J. G. P.; BOUZADA, M. A. C.; TAVARES, A. G. E. Melhores práticas em inovação: uma pesquisa em empresas do setor de T I. Rev.
+Adm. UFSM , Santa Maria, v. 8, n º.
+4, p. 685 -705, O ut., Dez, 2015 .
+TORR ES, R. L. A inovação na teoria econômica: uma revisão.
+Disponível em: logia%20e%20Inova%C3%A7ao/Artigo -3-Autoria.pdf .
+VICENTE, H. F.; LOPES, P. de L. A importância de investimentos em inovação tecnológica como fator chave para o desenvolvimento econômico .
+XII Seminário de excelência em Gestão e Tecn ologia , Outubro de 2015.
+VOLLRATH, D. How important are dual economy effects for aggregate productivity?
+Journal of Development Economics , 88(2), pp.325 -334, 2009.

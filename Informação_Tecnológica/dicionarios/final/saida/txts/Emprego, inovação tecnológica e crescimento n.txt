@@ -1,0 +1,358 @@
+Emprego, inovação tecnológica e crescimento no Brasil: um resultado a partir da Matriz de Insumo-Produto *· Employment, technical change and growth in Brazil: a conclusion from Input-Output Matrix RAFAEL DE ACYPRESTE ** RESUMO : O debate sobre o desemprego tecnológico se acentua quando as inovações disruptivas ganham destaque, como é o caso recente da inteligência artificial.
+No entanto, tais análises frequentemente ignoram o crescimento econômico e a demanda agregada no tratamento do desemprego.
+Este artigo analisa o que vem acontecendo com os empregos no Brasil a partir da decomposição estrutural da Matriz Insumo-Produto.
+O que constatamos é que, com exceção da agricultura, os setores foram geradores de empregos de 2000 a 2015.
+Além disso, os ganhos de demanda foram capazes de compensar as perdas de empregos decorrentes do progresso tecnológico.
+PALAVRAS-CHAVE : Matriz de Insumo-Produto; mudança estrutural; desemprego tecnológico; crescimento da demanda.
+ABSTRACT : The debate on technological unemployment is accentuated when disruptive innovations gain eminence, as is the recent case of artificial intelligence.
+However, such analyses often ignore economic growth and aggregate demand in the treatment of unemployment.
+This article analyses what has been happening about the jobs in Brazil from the structural decomposition of the Input-Output Matrix.
+What we find is that, except for agriculture, sectors were job generators from 2000 to 2015.
+In addition, demand gains were able to compensate for job losses resulting from technological progress.
+KEYWORDS : Input-Output Matrix; structural change; technological unemployment; demand growth.
+JEL Classification: J21; J23; C67; O33.Revista de Economia Política, vol.
+460-480, abril-junho/2022 460 • Revista de Economia Política 42 (2), 2022 O autor agradece os comentários e sugestões de Maria de Lourdes Rollemberg Mollo e Lorena Brandão bem como as recomendações de dois pareceristas anônimos.
+Eventuais erros e omissões são de inteira responsabilidade do autor.
+** Universidade de Brasília – UnB, Brasília-DF, Brasil.
+E-mail: rafaeldeacyprestemr@gmail.com.
+Orcid: Submetido: 15/Fevereiro/2021; Aprovado: 7/Abril/2021.461 Revista de Economia Política 42 (2), 2022 • pp.
+460-480INTRODUÇÃO O debate sobre a perda de empregos com as inovações tecnológicas tende a aparecer de forma recorrente ao longo do tempo, em particular quando surtos de inovações mais importantes ocorrem.
+Assim é que o debate recente tem produzido um aumento expressivo de publicações sobre a Inteligência Artificial (IA), relacionando-a com a perda significativa de empregos efetiva e esperada (Acemoglu e Restrepo, 2020; Autor, 2015; Benanav, 2019; Frey e Osborne, 2017; Hagemann, 2012; Mazzucato, 2013; Pasquinelli, 2019; Pellegrino, Piva e Vivarelli, 2019; Schwab, 2017).
+Por outro lado, as políticas mais recentes de austeridade fiscal, ao comprometer o ritmo de crescimento econômico, também desempregam.
+De forma a verificar o que vem acontecendo no Brasil a este respeito, este artigo busca analisar a evolução do emprego ou da criação deles, conforme suas causas, por meio da decomposição estrutural da Matriz de Insumo-Produto (MIP).
+São comparados os períodos 2000-2005 e 2010-2015 de modo a avaliar os impactos do desenvolvimento tecnológico e da demanda agregada sobre os empregos.
+Tanto as visões otimistas quanto as pessimistas a respeito do impacto da IA sobre os empregos encontram guarida em algum setor econômico.
+Nessa linha, análises multissetoriais fornecem mais elementos para avaliar o que de fato ocorre e podem ser úteis para uma análise macroeconômica mais apurada.
+Grande complexidade está envolvida quando se analisa, conjuntamente, produtividade, emprego, salários e demanda agregada (Gentili et al., 2020).
+Questões estruturais adicionadas às conjunturais impedem análises determinísticas.
+Buscando melhorar a apreensão do problema e tratar com mais detalhe a evolução deste fenômeno na estrutura macroeconômica brasileira, de maneira multissetorial, este artigo usa a Matriz Insumo-Produto.
+Alguns trabalhos avaliaram a estrutura de empregos no Brasil a partir da MIP em períodos anteriores ou com enfoques distintos do trabalho atual.
+(2015) investigaram a evolução dos empregos nos setores industriais no período 2000-2009.
+Como resultado, notaram que houve aumento do emprego industrial no período e que o progresso técnico e os aumentos de demanda contribuíram para tal crescimento.
+Resultados semelhantes foram encontrados para os setores de comércio e de serviços no mesmo período (Fiuza-Moura et al., 2016).
+Por outro lado, o setor primário apresentou declínio de empregos devido ao progresso técnico, também no período 2000-2009 (Fiuza-Moura et al., 2017).
+Uma comparação entre países foi realizada em Luquini et al.
+Assim, por meio da decomposição estrutural da Matriz de Insumo-Produto, foi possível separar a geração de ocupações de trabalho e então seu resultado líquido por setor da economia.
+Também é possível identificar a razão para essa criação ou perda de empregos: mudança na demanda; alteração na produtividade do trabalho em razão de inovações tecnológicas poupadoras de mão de obra, ou mudanças nas técnicas de produção no que tange aos requisitos de insumos usados no processo produtivo.
+Este último caso, embora haja possibilidade de perda de empregos, não é fruto de inovações tecnológicas que aumentam a produtividade do trabalho, de 462 Brazilian Journal of Political Economy 42 (2), 2022 • pp.
+460-480forma a poupar custos salariais, mas decorre de mudanças nos preços relativos ou economias de escala que buscam redução no custo dos insumos utilizados.
+Na primeira seção, descreve-se a decomposição estrutural da MIP.
+Na segunda seção, são introduzidas as formas de decomposição dos empregos por causa determinante.
+Na terceira seção, analisam-se os resultados.
+A quarta seção, das considerações finais, será responsável pelas conclusões gerais obtidas nas seções anteriores.
+DECOMPOSIÇÃO ESTRUTURAL E TRATAMENTO DA MATRIZ DE INSUMO-PRODUTO PARA O EMPREGO A Matriz de Insumo-Produto fornece uma série de informações para análise macroeconômica multissetorial.
+A maior capacidade computacional recente conferiu ainda mais versatilidade a tais análises, uma vez que maiores desagregações e aplicações matemáticas podem ser feitas.
+Em síntese, uma MIP é um sistema de equações lineares simultâneas que descrevem a distribuição da produção entre as atividades econômicas de uma dada economia (Miller e Blair, 2009), com níveis de agregação e abrangência espacial distintas.
+A informação central de uma MIP é a matriz de consumo intersetorial que descreve o fluxo de produtos de um setor industrial para si mesmo ou para outros em um determinado período de tempo, geralmente um ano.
+Na matriz, são descontadas as importações.
+Nas colunas, há a indicação dos insumos que determinada atividade demanda de si mesma e das demais.
+As linhas indicam os insumos fornecidos (em quantidades físicas ou em valores correntes) por um setor para os vários setores da economia1.
+É a partir dessa matriz que se pode inferir a matriz de coeficientes técnicos, que mede a quantidade de insumos que um setor demanda de si e dos demais por unidade produzida.
+Da matriz de coeficientes, infere-se a "matriz inversa de Leontief", que indica a técnica de produção em termos de requisitos diretos e indiretos dos insumos usados por um setor e provenientes de todos os setores, cujos valores são dados por unidade monetária de demanda final.
+Há ainda colunas adicionais que representam a demanda final da economia — em que podem ser identificados consumo das famílias, gastos do governo, exportações etc.
+— e linhas adicionais que representam o valor adicionado da economia e contabilizam os salários, depreciação do capital, tributação indireta e importações (Miller e Blair, 2009, p. 3).
+Para o Brasil, a MIP é elaborada a partir das Tabelas de Recursos e Usos (TRU) produzidas pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
+Como as TRUs não fazem distinção entre a origem nacional ou importada de bens e serviços e são apresentadas a preços de consumidor, o IBGE vem divulgando quinquenalmente as MIPs, com detalhamento dos consumos intermediário e final por origem 1 Os detalhes mais elementares das manipulações algébricas com a MIP podem ser vistos em Miller e Blair (2009).
+Para as especificidades e transformações da MIP brasileira, consultar IBGE (2015).463 Revista de Economia Política 42 (2), 2022 • pp.
+460-480e a preços básicos (IBGE, 2016).
+As mudanças constantes de metodologia e os poucos dados impõem restrições nas análises para o caso brasileiro ainda que, para os períodos 2000-2005 e 2010-2015, os dados sejam apresentados de maneira satisfatória.
+Uma das possibilidades de uso da MIP é realizar a chamada "análise de decomposição estrutural" — Structural Decomposition Analysis (SDA).
+Partindo das igualdades contábeis tradicionais que podem ser feitas com as Contas Nacionais, objetiva-se descrever a origem das mudanças econômicas setoriais em itens como valor adicionado, valor bruto de produção, fontes de demanda final (Miller e Blair, 2009), crescimento econômico, requisitos de insumos para produção (Belegri-Roboli e Markaki, 2010) etc.
+O interesse deste trabalho é identificar as origens das mudanças setoriais na evolução do emprego.
+Para isso, serão avaliadas as alterações do número de ocupações da economia brasileira causadas pelas alterações no coeficiente técnico do trabalho (quantidade de trabalho por unidade de produto, que pode ser tratada como uma proxy para o inverso da produtividade do trabalho2), na tecnologia de produção (expressa pela "matriz inversa de Leontief") e na demanda final.
+Isso pode ser feito por meio de análises de estática comparativa, a partir das decomposições estruturais da MIP brasileira.
+Uma análise de decomposição estrutural para os empregos no Brasil ajuda a identificar setores que apresentaram maiores perdas de emprego devido a inovações tecnológicas ou mudanças de origens dos insumos bem como analisar geração de empregos decorrente de aumentos de demanda.
+Análises anteriores de decomposição estrutural para emprego no Brasil podem ser encontradas em Sesso-Filho et al.
+(2015) e Figueiredo e Oliveira (2015).
+Tratamento dos dados da Matriz de Insumo-Produto Considerando a estrutura da MIP, uma das formas mais usuais de fazer a análise é identificar o destino da produção de cada setor, representado por suas linhas e fazer derivações analíticas3.
+É comum que os valores sejam representados em unidades monetárias.
+Portanto, representando por xi a produção de cada setor4, pode-se denotar por ziJ a produção do setor i que é vendida ao setor j e por fi a 2 A medida mais comumente utilizada para calcular a produtividade é a razão entre as ocupações e o valor adicionado no setor.
+No presente artigo, utiliza-se o valor total da produção para o cálculo.
+Vale ressaltar que a correlação entre o valor adicionado e a produção total ficou próxima da unidade, com diferença na segunda casa decimal, para todos os setores nos quatro períodos analisados.
+A menor medida de correlação foi de 0,965 para o setor de Indústrias Extrativas.
+Ademais, como se trata de uma análise de variação temporal cujo objetivo é identificar os efeitos de uma variação de intensidade no trabalho, a medida por meio da produção total não traz vieses significativos.
+3 As derivações foram feitas tendo por base, essencialmente, o trabalho de Miller e Blair (2009).
+4 A notação aqui adotada é mais próxima à usada por Miller e Blair (2009) e difere da nomenclatura utilizada pelo IBGE.464 Brazilian Journal of Political Economy 42 (2), 2022 • pp.
+Para a presente análise, foram considerados como demanda final o consumo final do governo, consumo final das instituições sem fins de lucro a serviço das famílias, consumo final das famílias, exportações, formação bruta de capital fixo e variação de estoques.
+Portanto, a distribuição da produção total do setor i numa economia formada por n setores é dada por: !!=!!!+.+!!"+.+!!"+!!
+(1) Pode-se representar os termos da equação (1) em forma matricial para os n setores, configurando o chamado modelo "fechado" (Miller e Blair, 2009), de forma que: !=!!
+(2) em que x e f são vetores-coluna representando, respectivamente, o produto total e demanda final por setor e Z é a matriz representativa das vendas entre os setores.
+As letras minúsculas em negrito representarão os vetores-coluna — x' = (x1,x2,.,xn), os vetores-linha — e as letras maiúsculas em negrito, as matrizes.
+Com isso, a equação (1) pode ser reescrita como: x = Zi + f (1a) onde i é um vetor de dimensão n x 1 formado pelo número 1 em todas suas entradas, conhecido como vetor de soma de linhas.
+A partir da matriz Z, pode-se derivar a matriz A de coeficientes técnicos de produção, que indica a quantidade de insumos que um setor demanda de si mesmo e dos demais para produzir uma unidade monetária de produto final.
+Esta razão será representada por aij tal que: !!"=!!"
+(3) A relação estabelecida entre Z e A é tal que: !=!!=!!,!
+é a matriz diagonal — cuja notação será mantida ao longo do trabalho — em que os valores da produção de cada setor estão na diagonal e o restante da matriz é formada por zeros, o que permite multiplicar todos os elementos de uma 465 Revista de Economia Política 42 (2), 2022 • pp.
+460-480coluna por um único valor.
+Vale notar que tal operação só é possível a partir da hipótese de que todos os setores em análise terão alguma produção e, portanto, xj > 0 para todo j. Pode-se, com isso, substituir (4) em (1a) de modo que: !=(!−!)!!!=!"
+(5) em que se considera I a matriz identidade n x n e a notação sobrescrita em (I – A)-1f co mo indicação da matriz inversa de uma matriz não singular (I – A) Ademais, define-se ( I – A)-1 = L, em que L é a "matriz inversa de Leontief", indicativa da estrutura produtiva de uma dada economia e também conhecida como matriz de requisitos diretos e indiretos de produção (Miller e Blair, 2009; Ricardo-Schuschny, 2005).
+Portanto, a equação (5) representa a equação básica de análise da estrutura da MIP.
+A partir dela, pode-se avaliar a evolução do emprego ao adicionar alguns elementos.
+Para tanto, deve-se considerar como requisito de trabalho a quantidade necessária de ocupações de postos de trabalho para a produção de uma unidade monetária em certo setor, ou seja, !!,!=!!
+!, em que ec,i é o coeficiente de trabalho do setor i e eié o total de ocupações do setor i .
+Em notação matricial, pode-se escrever o emprego como: !=ê!!=!!
+(6) em que êc é a matriz diagonal com os coeficientes de trabalho dos setores e e = (e1, e2,.,en)' é o vetor-coluna com o número de empregados de cada setor.
+Diante disso, para a análise do emprego na economia, pode-se substituir a equação (5) em (6), de onde se tem que: e = ê c L f (7) Por conseguinte, pode-se partir de (7) para formas que permitam fazer a análise da evolução do emprego no tempo.
+FORMAS DE DECOMPOSIÇÃO DA VARIAÇÃO DO EMPREGO As formas apresentadas na seção anterior podem ser organizadas para que indiquem, adiciona lmente, informação temporal.
+Para isso, doravante, o sobrescrito nas expressões das matrizes e vetores indicarão a marcação temporal.
+Por simplicidade, admita-se apenas dois períodos t = 0 e t = 1.
+Assim, a equação (7) pode ser reescrita como: 466 Brazilian Journal of Political Economy 42 (2), 2022 • pp.
+(8) A partir de (8), pode-se estudar os efeitos de uma variação no tempo do emprego, denotada por: Δ!=!!−!!=ê!!!!!!−ê!!!!!!
+(9) A análise de decomposição estrutural permite analisar as variações de emprego a partir do coeficiente de trabalho (variações de produtividade), da alteração da estrutura de produção (mudança tecnológica) e da demanda final.
+A decomposição exige que a equação (9) seja escrita em função das variações dos demais termos, quais sejam: Δê!=ê!!−ê!
+Porém, as formas de decomposição sofrem do problema da não unicidade de solução, cujas alternativas dependem da quantidade de variáveis do modelo.
+Isso faz com que, para n determinantes, tenhamos n!
+formas para decompor as mudanças de maneira isolada (Dietzenbacher e Los, 1998)5.
+Para o caso em análise, há seis (3!)
+Como exemplo, pode-se considerar as seguintes variações: ê!!=ê!!+!ê!,!!=!!−!!!!!=!!−!!
+(10) Substituindo estas variações em (9) tem-se que: Δ!=(ê!!+!ê!)!!!!−ê!!(!!−!!)(!!−!!)
+e fazendo as devidas manipulações, pode-se chegar a: Δ!= !ê!!!!!
+!"#$%ç!!"!"#$.!"!"#$#%!!+ê!!!!!!
+"#$%!$ (11) Assim, é possível avaliar a contribuição da variação de cada elemento para a mudança total do emprego.
+Como se pode ver em (11), o termo referente à mudança no coeficiente de trabalho está ponderado pela matriz inversa de Leontief e pela demanda final do período t = 1.
+Por outro lado, o termo referente à variação de demanda está ponderado pela estrutura de emprego e pela matriz inversa do período t = 0.
+Assim, percebe-se que (11) é uma das duas chamadas "decomposições polares" (Dietzenbacher e Los, 1998) e é solução para (9).
+A outra decomposição polar é dada adotando-se as variações "refletidas" de (10), quais sejam: ê!!=ê!!−!ê!,!!=!!+!!!!!=!!+!!
+(12) Substituindo (12) em (9) tem-se que: Δ!=ê!!(!!+!!)(!!+!!)−(ê!!−!ê!)!!!!
+5 Ao se permitir a multiplicação de variação dos fatores, o número será ainda maior do que n!
+(BelegriRoboli e Markaki, 2010).467 Revista de Economia Política 42 (2), 2022 • pp.
+460-480e fazendo as devidas manipulações, pode-se chegar a: Δ!= !ê!!!!!
+!"#$%ç!!"!"#$.!"!"#$#%!!+ê!!!!!!
+"#$%!$ (13) No caso de (13), o termo referente à mudança no coeficiente de trabalho está ponderado pela matriz inversa de Leontief e pela demanda final do período t = 0.
+Já o termo referente à variação de demanda está ponderado pela estrutura de emprego e da matriz inversa do período t = 1.
+Há trabalhos que usam a média das duas composições polares (Dietzenbacher e Los, 1998; Figueiredo e Oliveira, 2015).
+Entretanto, além das soluções polares em (11) e (13), pode-se encontrar, alterando-se a forma das variações de cada termo em (10), mais quatro soluções para a variação do emprego com distintas ponderações, quais sejam: Δ!=!ê!!!!!+ê!!!!!!+ê!!!!!!
+(14) Δ!=!ê!!!!!+ê!!!!!!+ê!!!!!!
+(15) Δ!=!ê!!!!!+ê!!!!!!+ê!!!!!!
+(16) Δ!=!ê!!!!!+ê!!!!!!+ê!!!!!!
+(17) Portanto, para dar conta da devida variabilidade das soluções neste trabalho, será contabilizada a média das seis soluções distintas representadas em (11) e (13) a (17), como sugerido por Dietzenbacher & Los (1998).
+Para que o leitor possa fazer o julgamento da acurácia das respostas, são apresentadas as Tabelas 1 e 2 adiante, que trazem medidas de dispersão dos valores entre as distintas soluções.
+Porém, antes das análises, é necessário que os preços sejam deflacionados para neutralizar os efeitos das variações monetárias, que poderiam mascarar mudanças não reais do fenômeno sob análise.
+Para que as MIPs de diferentes anos sejam comparadas, é necessário que os preços sejam constantes, ou seja, avaliados em termos de um mesmo período.
+Neste trabalho, o ano de 2015 foi adotado como base.
+Com o objetivo de atualizar os valores, foram utilizados os dados das Tabelas de Recursos e Usos (TRU) para os anos de 2001 a 2015 elaboradas pelo IBGE (2016).
+Como o IBGE segue a orientação de que os preços constantes sejam divulgados apenas a preços do ano anterior, foi preciso avaliar as tabelas do período completo (2000 a 2015), ainda que o interesse seja apenas em atualizar os preços de 2000, 2005 e 2010.
+A deflação dos preços dos insumos intermediários, demanda final e produto total foi realizada a partir dos dados da oferta total a preço básico por produto disponibilizados nas tabelas 1 e 3 de recursos de bens e serviços, que se referem aos preços correntes e aos preços do ano anterior respectivamente (IBGE, 2016).
+Com isso, utilizando o fato de que os dados da oferta total a preços básicos do ano anterior preservam as quantidades, as manipulações algébricas abaixo permitiram deflacionar as informações para o consumo intermediário e a demanda final, preservando apenas os efeitos sobre as quantidades.
+O nível desagregado e compatível com as informações da Matriz de Insumo-Produto tem a vantagem de permitir 468 Brazilian Journal of Political Economy 42 (2), 2022 • pp.
+460-480variações setoriais do efeito dos preços.
+Como tais tabelas se referem aos preços por produtos, a conversão de preços dos setores era necessária para que a análise no presente trabalho pudesse ser realizada considerando as atividades da economia.
+Por fim, esta conversão de produtos para setores foi realizada conforme orientação do próprio IBGE (2015).
+Para a Tabela 1 da TRU, de valores correntes, o dado apresentado indica o valor da oferta total a preço básico (v) tal que, para cada produto vale a seguinte igualdade6: !!!=!!!!
+(18) em que o subscrito indica o período para o qual os dados foram gerados e o sobrescrito indica o ano de referência para os preços (p ).
+Em (18), tem-se que as informações se referem ao ano t = 1 avaliados em preços correntes, ou seja, nos termos do próprio ano t = 1 com a produção física q1.
+Os valores de (18) podem também ser avaliados com base no tempo anterior t = 0 de modo que: !!!=!!!!
+(19) onde se vê que a produção do período t = 1 está medida em termos dos preços de t = 0, de modo que os valores do período t = 1 estão avaliados a preços do ano anterior.
+Resolvendo ambas as equações (18) e (19) para a quantidade q1 e igualando-as, tem-se o seguinte: !!!
+(20) de onde se pode notar que a razão entre os preços de um período e do anterior se iguala à razão entre os valores da produção a preços correntes e os valores a preços do ano anterior.
+Esta última informação é disponibilizada pelo IBGE e permite fazer a devida atualização dos preços.
+Assim, a partir da equação (20), é possível escrever os valores da produção do ano t = 0 em termos dos preços do ano t = 1 conforme o que segue: !!!
+(21) Como o objetivo é colocar todos os valores das MIPs em termos de 2015 e o IBGE oferece apenas os valores em preços do ano anterior, há ainda um passo necessário.
+As manipulações algébricas abaixo podem ser feitas para a atualização de intervalos maiores do que um período usando os dados referentes apenas ao período anterior.
+Assim, para um período de tempo n ≥ 2 e com base em (20): 6 Os índices referentes aos preços foram omitidos para clareza da notação.469 Revista de Economia Política 42 (2), 2022 • pp.
+(22) em que os dados à direita da última igualdade estão disponibilizados nas tabelas de recursos de bens e serviços das TRUs dos anos de interesse.
+Com isso, todos os cálculos apresentados anteriormente foram realizados a preços de 2015.
+RESULTADOS DA DECOMPOSIÇÃO ESTRUTURAL Para realizar as análises, foram usados os dados das Matrizes de Insumo-Produto de 2000, 2005, 2010 e 2015.
+Como interessam os efeitos de médio e longo prazos para o emprego, utilizar as matrizes divulgadas diretamente pelo IBGE contribui para a manutenção da metodologia de estimação da MIP.
+Por outro lado, o período adjunto 2005-2010 não pôde ser realizado devido a uma mudança metodológica realizada pelo próprio IBGE no período.
+Ademais, as reestruturações do emprego no período de cinco anos permitem verificar de maneira mais acurada as consolidações de novas tecnologias e as mudanças de números de ocupações nos vários setores.
+Como limitação analítica dos dados sobre emprego, vale destacar que o IBGE divulga, nas Contas Nacionais, apenas o número de ocupações e não exatamente o de trabalhadores.
+Como uma pessoa pode ter mais de uma ocupação, a quantidade de pessoas empregadas é, provavelmente, menor do que o indicado.
+A análise em termos de ocupações também pode gerar medidas distorcidas de aumento ou redução de produtividade uma vez que mudanças de jornada de trabalho alteram as medidas de produtividade, mas não têm relação com desenvolvimento tecnológico.
+Essas são variações cíclicas originadas de uma resposta incompleta e defasada do emprego e das horas de trabalho com respeito a flutuações de demanda e não de um choque tecnológico exógeno (Gordon, 2010).
+Portanto, parte do efeito de variação do número de ocupações pode não estar relacionado a mudança tecnológica no sentido de poupança de mão de obra, mas sim como uma resposta à demanda, o que corrobora as reflexões centrais do trabalho, detalhadas abaixo.
+Os dados são apresentados como variações de 2000 a 2005 e 2010 a 2015 para as matrizes indicadas como 12 setores7.
+Para a apresentação subsequente, quando necessário, foram usadas abreviações explicitadas no Quadro 1.
+7 Essa divisão de setores segue uma classificação das Contas Nacionais em nível mais agregado e segue a Classificação Nacional de Atividades Econômicas (CNAE) 2.0 do IBGE.
+Uma estrutura que separa os setores a partir da sua produção ou não de mais-valor pode ser encontrada em Tregenna (2018).
+470 Brazilian Journal of Political Economy 42 (2), 2022 • pp.
+460-480Quadro 1: Lista de abreviaturas Setores Abreviatura Agropecuária Agro Indústrias extrativas Ind_Extr Indústrias de transformação Ind_Transf Eletr.
+e gás, água, esgoto e gestão de resíduos Eletr_gas Construção Constr Comércio Comercio Transporte, armazenagem e correio Transp Informação e comunicação Info_comu Ativ.
+financeiras, de seguros e serviços relacionados Financeiras Atividades imobiliárias Imobiliarias Outras atividades de serviços Outros_Serv Adm., defesa, saúde e educação púb.
+e seguridade social Adm_pub Como detalhado acima, há seis decomposições diretas para cada análise, em que os valores referentes aos três componentes das variações do emprego podem apresentar resultados distintos.
+Como são analisados três períodos de variação com três variáveis cada, suguem abaixo as tabelas com a menor (Tabela 1) e a maior (Tabela 2) soma dos valores absolutos das razões percentuais entre o intervalo das medidas e a média (Tabela 2) soma dos valores absolutos das razões percentuais entre o intervalo das !
+Em todas essas tabelas são apresentados a média µ, o desvio-padrão ( ρ), medidas máxima ( máx) e mínima (mín ), intervalo ( range , em inglês) entre os valores máximo e mínimo (r) e o coeficiente de variação (razão percentual entre o desvio-padrão e a média) !
+Tabela 1: Elaboração própria com dados das TRUs e da MIP .
+Variação de empregos por mudanças do coefi ciente de trabalho nos anos 2010-15.
+Menor soma das razões em termos absolutos µ ρ máx mín r!
+(%) Agro -4.760.559,4 378.044,5 -4.361.390,4 -5.152.898,6 791.508,1 -16,6 -7,9 Ind_Extr 366,5 17,4 387,4 347,2 40,1 11,0 4,8 Ind_Transf 698.087,8 29.903,5 731.325,4 664.763,9 66.561,5 9,5 4,3 Eletr_gas -110.953,4 6.420,2 -103.824,8 -118.179,8 14.355,0 -12,9 -5,8 Constr 750.696,9 5.509,3 759.056,0 742.621,7 16.434,4 2,2 0,7 Comércio 95.765,3 2.297,0 98.270,9 93.229,9 5.041,0 5,3 2,4 Transp 147.042,2 6.178,1 153.327,8 140.601,5 12.726,3 8,7 4,2 Info_comu -27.611,6 2.541,7 -25.129,6 -30.082,7 4.953,1 -17,9 -9,2 Financeiras 12.576,4 554,9 13.167,8 11.996,0 1.171,8 9,3 4,4 Imobiliárias 10.254,1 924,3 11.105,1 9.408,6 1.696,6 16,5 9,0 Outros_Serv 1.275.578,2 48.625,9 1.325.761,4 1.227.381,5 98.379,9 7,7 3,8 Adm_pub 45.862,4 1.396,4 47.163,2 44.565,7 2.597,5 5,7 3,0471 Revista de Economia Política 42 (2), 2022 • pp.
+460-480Portanto, percebe-se que, apesar das variações, o uso das médias representa eficazmente as informações utilizadas na análise.
+Ademais, há uma tendência de que os sinais, que indicam a criação ou destruição de empregos, se mantenham ao longo de todas as seis formas de decomposição.
+Portanto, passa-se à análise da decomposição estrutural do emprego a partir das médias.
+Tabela 2: Elaboração própria com dados das TRUs e da MIP .
+Variação de empregos por mudanças tecnológicas nos anos 2010-15.
+Maior soma das razões em termos absolutos µ ρ máx mín r!
+(%) Agro 569.031,9 117.927,4 696.706,3 448.187,3 248.519,0 43,7 20,7 Ind_Extr 25.319,3 915,2 26.177,6 24.462,4 1.715,2 6,8 3,6 Ind_Transf -470.979,0 16.677,1 -454.517,4 -487.526,9 33.009,5 -7,0 -3,5 Eletr_gas 44.548,4 3.706,6 49.136,3 40.156,1 8.980,1 20,2 8,3 Constr -67.848,8 4.878,2 -62.493,0 -73.346,6 10.853,6 -16,0 -7,2 Comércio 349.696,9 9.076,4 359.184,4 340.268,9 18.915,5 5,4 2,6 Transp 307.679,3 7.871,7 319.963,4 295.705,5 24.257,9 7,9 2,6 Info_comu 22.954,1 952,1 23.964,0 21.955,3 2.008,7 8,8 4,1 Financeiras 26.980,3 1.672,5 28.605,2 25.366,1 3.239,1 12,0 6,2 Imobiliárias -255,7 168,8 -100,8 -413,4 312,6 -122,2 -66,0 Outros_Serv -167.021,1 38.254,6 -130.306,6 -204.728,9 74.422,3 -44,6 -22,9 Adm_pub -8.541,7 778,1 -7.820,5 -9.264,9 1.444,3 -16,9 -9,1 Análises das decomposições médias O uso das médias das seis decomposições apresenta uma forma melhor de apresentação e análise dos dados, sem maiores perdas de detalhamento e, especialmente, de tendências nas origens das alterações do número de ocupações entre os setores.
+No Gráfico 1 e nas Tabelas 3 e 4 estão representadas a variação total de empregos (∆e ) e sua origem entre variação da produtividade (∆ ec), da estrutura (tecnologia) de produção (∆L) e da demanda final (∆f).
+A variação de produtividade (∆e c) é o efeito que interessa ao presente trabalho, pois se trata de quantificar a relação entre aumentos de produtividade do trabalho e o desemprego nos setores.
+Apesar das limitações contábeis já identificadas, avalia-se que este é um indicador eficaz do aumento de produtividade do trabalho obtido com inovações.
+Além da heterogeneidade entre os agentes econômicos, sabe-se que, em momentos de crise econômica, a produtividade do trabalho tem quedas mais acentuadas do que o decréscimo do produto.
+Isso ocorre porque, como há custo de demissão de mão de obra, a redução da produção gera um efeito contábil na produtividade maior do que o efeito real, uma vez que os trabalhadores mantidos estão produzindo menos em resposta à menor demanda.
+É o que parece ocorrer entre os anos de 472 Brazilian Journal of Political Economy 42 (2), 2022 • pp.
+460-4802010 e 2015, como se verá abaixo.
+A recíproca funciona de maneira semelhante.
+Quando há retomada da produção do setor, a produtividade do trabalhador tem elevação mais acentuada sem que exista sempre desenvolvimento tecnológico subjacente, pois há retomada de capacidade ociosa de modo que os mesmos trabalhadores estão produzindo maior quantidade para responder à demanda acrescida.
+Tais questões já denotam um papel da demanda mais acentuado na configuração do emprego.
+A despeito destas ressalvas, as variações do coeficiente de trabalho descrevem, em cada um dos setores, o que ocorreu com a quantidade de trabalhadores necessários para produção de uma unidade monetária de produto final do setor (no caso da MIP brasileira, a quantidade de trabalhadores para produzir 1 milhão de reais em valores de 2015).
+Em geral, com o desenvolvimento tecnológico, espera-se que esse coeficiente diminua e, portanto, aumente a produtividade do trabalho, fazendo com que parte dos trabalhadores se torne supérflua, para aquela estrutura produtiva.
+Este é um efeito considerável apenas no setor de Agropecuária, como se pode ver no Gráfico 1 (na página ao lado).
+As alterações domésticas da tecnologia, representadas por mudanças na "matriz inversa de Leontief" (∆L), indicam mudanças nos padrões de ligações entre as cadeias produtivas dos setores na forma de variações de demanda por insumos, isto é, de estrutura de produção.
+Em análises envolvendo a MIP, é comum que essa matriz também seja chamada de matriz de multiplicadores (Miller e Blair, 2009, p. 58), pois é capaz de fornecer todo o encadeamento produtivo necessário para que uma economia responda a um determinado choque de demanda.
+Este é um dado que se torna útil em atividades preditivas.
+Além desse efeito mais imediato, há algumas causas dessa variação levantadas pela "matriz inversa de Leontief" (Figueiredo e Oliveira, 2015; Miller e Blair, 2009, p. 303-4).
+Como já mencionado, a mudança de preços relativos pode fazer com que um setor altere sua estrutura produtiva variando a origem dos seus insumos (efeito mais bem visto na MIP mais desagregada, como a de 67 atividades e 127 produtos).
+Economias de escala também podem reduzir as demandas por insumos por unidade produzida de setores específicos.
+Inovações tecnológicas e mudança da cesta de insumos geram alterações da estrutura de insumos entre as atividades.
+As dinâmicas das importações e de substituição de importações também são capazes de alterar a demanda interna de produção.
+Entretanto, apesar de contabilizar estes e outros efeitos, não é possível identificar quais as reais causas para a mudança na origem dos insumos, mas apenas seu efeito final.
+Em que pese apresentar efeitos positivos em uns setores e negativos em outros, o período 2000-2005 é o que menos gerou empregos por alterações na estrutura produtiva.
+Por fim, o crescimento da demanda final foi geralmente responsável por aumento de empregos nos dois períodos.
+No último, observou-se uma queda de demanda e de ocupações nas indústrias extrativas e de transformação.
+Do ponto de vista das teorias econômicas, especialmente as heterodoxas, são os aumentos de demanda que geram as compensações capazes de contrabalançar 473 Revista de Economia Política 42 (2), 2022 • pp.
+460-480Demanda Coefiente de Trabalho Estrutura Produtiva (Leontief) Variação Total do Emprego-6000 -3000 0 3000 6000 2000 - 2005 2005 - 2010 2010 - 2015 -6000 -3000 0 3000 6000 -6000 -3000 0 3000 6000 -6000 -3000 0 3000 6000 Agro Ind_Extr Ind_ Transf Eletr_gas Constr Comércio Transp Info_comu Financeiras Imobiliárias Outros_Serv Adm_pub Agro Ind_Extr Ind_Tr ansf Eletr_gas Constr Comércio Transp Info_comu Financeiras Imobiliárias Outros_Serv Adm_pub Agro Ind_Extr Ind_Tr ansf Eletr_gas Constr Comércio Transp Info_comu Financeiras Imobiliárias Outros_Serv Adm_pub Gráfico 1: Representação gráfica das Tabelas 3 e 4.
+Milhares de ocupações Fonte: Médias das Decomposições Estruturais.
+Elaboração própria com dados das MIPs e TRUs do IBGE.474 Brazilian Journal of Political Economy 42 (2), 2022 • pp.
+460-480a tendência de desemprego causada pelos aumentos de produtividade e demais variações tecnológicas.
+Quando há perda líquida de ocupações no total, também é a queda de demanda que melhor explica esta perda.
+Vale ressaltar que fazem parte da demanda final o consumo final do governo, consumo final das instituições sem fins de lucro a serviço das famílias, consumo final das famílias, exportações, formação bruta de capital fixo e variação de estoques.
+Estas são as estruturas identificadas na economia brasileira como fontes de aumento da demanda das atividades econômicas levantadas e, consequente, variação das ocupações.
+Numa análise mais específica, pode-se notar que a variação de empregos entre 2000 e 2005 (ver Tabela 4) foi marcada por aumento líquido das ocupações (∆e c) em quase todos os setores, exceto o de atividades imobiliárias.
+Os setores que mais criaram ocupações foram os de outros serviços, comércio e indústria de transformação, nesta ordem.
+Nota-se, assim, uma extensa terciarização da economia, com o comércio e outras atividades de serviços sendo responsáveis, conjuntamente, por quase 6 milhões de novas ocupações no período.
+Ainda para o comércio, parte considerável dos empregos foi criada em resposta a aumentos do coeficiente de trabalho em consequência de redução de produtividade.
+Esse fenômeno pode estar ligado a crescimento de informalidade ou de ocupações com produtividade baixa.
+Tabela 3 Origens da variação dos empregos entre 2000 e 2005.
+Elaboração própria com dados das TRUs e da MIP .
+Dados referentes às médias das decomposições Setor ∆e ∆ec ∆L ∆e Agropecuária 1.313.443 -2.312.959 1.681.652 1.944.750 Indústrias extrativas 34.325 -17.399 5.744 45.980 Indústrias de transformação 2.011.900 1.040.873 113.208 857.819 Eletr.
+e gás, água, esgoto e gestão de resíduos62.648 3.442 36.256 22.950 Construção 556.023 581.285 -85.244 59.981 Comércio 2.545.204 2.437.839 -271.997 379.361 Transporte, armazenagem e correio 567.999 230.610 113.685 223.704 Informação e comunicação 198.100 -36.637 60.999 173.738 Ativ.
+financeiras, de seguros e serviços relacionados83.287 -7.487 -35.426 126.200 Atividades imobiliárias -7.775 -75.693 10.737 57.181 Outras atividades de serviços 3.324.218 1.373.088 -459.332 2.410.462 Adm., defesa, saúde e educação púb.
+e seguridade social1.104.936 -328.188 -14.837 1.447.960 Do ponto de vista do aumento da produtividade do trabalho, o setor agropecuário destacou-se, no período, por elevados ganhos de produtividade com mais de 2,3 milhões de vagas fechadas devido ao progresso técnico no campo.
+Esta é uma tendência que se repete nos períodos seguintes.
+Administração pública, atividades imobiliárias, informação e comunicação, indústrias extrativas também perdem 475 Revista de Economia Política 42 (2), 2022 • pp.
+460-480ocupações por este motivo, mas em bem menor proporção e compensados por aumentos de ocupações provenientes de crescimento de demanda.
+No que se refere às mudanças técnicas por modificação no uso de insumos, a agropecuária e, em menor escala, a indústria de transformação representaram o maior aumento de ocupações.
+Uma explicação possível é o aumento da participação desses setores nas cadeias produtivas dos demais.
+Já os outros setores, em particular os de comércio e de serviços, apresentaram as maiores quedas, com as intermediações na cadeia produtiva podendo explicar ao menos parte desse fenômeno.
+Por fim, nota-se que os aumentos de demanda final levaram a aumentos da ocupação em todos os setores, com outros serviços, agropecuária e administração pública liderando a geração de ocupações relacionadas a esta razão.
+A variação entre 2010 e 2015 (Tabela 4) foi marcada por redução líquida de ocupações na agropecuária, na indústria de transformação e no setor de eletricidade e gás.
+No primeiro caso, principalmente por aumento da produtividade do trabalho.
+No segundo, por queda da demanda.
+O setor de eletricidade e gás perdeu poucos empregos por mudanças nas origens dos insumos.
+Os recuos tecnológicos em termos de queda da produtividade do trabalho e consequente aumento de ocupações foram mais acentuados no setor de outros serviços e indústria de transformação.
+A demanda final se mostrou reduzida em todos os setores, chegando a apresentar, pela primeira vez, nos períodos analisados, efeitos negativos sobre a geração de ocupações na indústria de transformação e na indústria extrativa.
+Tabela 4: Origens da variação dos empregos entre 2010 e 2015.
+Elaboração própria com dados das TRUs e da MIP .
+Dados referentes às médias das decomposições Setor ∆e ∆ec ∆L ∆e Agropecuária -2.343.408 -4.760.559 569.032 1.848.119 Indústrias extrativas 20.615 367 25.319 -5.071 Indústrias de transformação -391.462 698.088 -470.979 -618.571 Eletr.
+e gás, água, esgoto e gestão de resíduos-21.540 -110.953 44.548 44.865 Construção 795.433 750.697 -67.849 112.585 Comércio 1.061.374 95.765 349.697 615.912 Transporte, armazenagem e correio532.457 147.042 307.679 77.736 Informação e comunicação 197.107 -27.612 22.954 201.765 Ativ.
+financeiras, de seguros e serviços relacionados118.772 12.576 26.980 79.215 Atividades imobiliárias 72.673 10.254 -256 62.675 Outras atividades de serviços 3.153.801 1.275.578 -167.021 2.045.244 Adm., defesa, saúde e educação púb.
+e seguridade social643.036 45.862 -8.542 605.715476 Brazilian Journal of Political Economy 42 (2), 2022 • pp.
+460-480Do que foi visto nas análises dos dois períodos acima, a flutuação de empregos está muito mais relacionada às variações de demanda efetiva do que propriamente aos efeitos de aumento de produtividade.
+Isso ocorre porque o crescimento da demanda — salvo no último período e para dois setores recém-mencionados — e quase todos os saldos líquidos de geração de ocupações são positivos.
+Como os efeitos de aumento da demanda tendem a ser mais robustos do que a redução de empregos via aumento de produtividade, déficits crônicos de demanda tais como os que acompanham as políticas de austeridade fiscal mostram-se bastante nefastos.
+A agropecuária foi o setor que, em todos os períodos, mostrou perda mais significativa de ocupações por aumento de produtividade do trabalho.
+Isso e a perda de empregos por mudança estrutural neste setor impediu que os aumentos de demanda compensassem de forma liquida a perda de ocupações, mesmo nos períodos de demanda mais aquecida.
+Em todos os outros casos, não se verifica desemprego tecnológico como principal razão do desemprego medido pela perda de ocupações.
+O período de 2000 a 2005 é o que apresenta uma relação mais sólida entre os resultados e o que se pode esperar dadas as hipóteses de desenvolvimento tecnológico e dinâmica do emprego.
+Nessa linha, percebe-se que momentos de expansão econômica ampliam ganhos de produtividade do trabalho (algo em linha com a análise marxista e, por razões distintas, com a hipótese de Kaldor-Verdoorn).
+Mas, apesar disso, a perda é mais que compensada pelos empregos gerados com o crescimento da demanda.
+Nesse sentido, no caso do Brasil, crescimento econômico deprimido se configura como uma ameaça à dinâmica capitalista mais evidente do que o risco de desemprego via total automação da força de trabalho.
+Cabe salientar uma última questão a respeito da qualidade dos empregos destruídos pela tecnologia e/ou gerados por aumento de demanda, conforme a mudança na estrutura dos empregos gerados.
+Uma das medidas para avaliar essa mudança de estrutura se dá pelo cálculo do chamado "índice de mudança estrutural" — Structural Change Index (SCI), em inglês —, que é elaborado pela média da soma dos valores absolutos das alterações percentuais dos empregos8 entre os setores de uma economia em dado período (Productivity Commission, 1998).
+O SCI mede as magnitudes do crescimento dos setores no que se refere ao número de ocupações e pode ser calculado por !"#=!
+!| (23) em que εi,t indica a razão entre o emprego no setor i e o total de ocupações no período t. Importa salientar que há algumas limitações ao SCI.
+Em primeiro lugar, é uma medida sensível à quantidade de setores, ou seja, quanto maior a quantidade de 8 Pode também ser calculada para a variação da produção total.477 Revista de Economia Política 42 (2), 2022 • pp.
+460-480setores, maiores tendem a ser as variações observadas.
+Em segundo, essa medida tende a ser sensível a flutuações cíclicas de curto prazo, que indicam mais uma mudança conjuntural de demanda do que mudança estrutural propriamente dita, de modo que se indica o uso de períodos mais longos para a análise (Productivity Commission, 1998), como é o caso do presente trabalho.
+Diante disso, utilizando-se o intervalo entre 2000 e 2015, tem-se que o SCI para o Brasil foi de 8.37, indicando que, nesse período de 15 anos, pouco mais de 8% dos empregos foram realocados entre os 12 setores listados.
+Os resultados por setor podem ser vistos na Tabela 5, em que se pode notar que o setor da agropecuária foi o que teve a maior redução na participação dos empregos.
+Tabela 5: Elaboração própria com dados do total de ocupações segundo os grupos de atividades do IBGE Emprego (milhares)Participação* (%) Setores 2000 2015 2000 2015 Variação (%) Agropecuária 16.729 13.138 21,24 12,89 -8,36 Indústrias extrativas 189 288 0,24 0,28 0,04 Indústrias de transformação 8.288 11.214 10,53 11,00 0,47 Eletr.
+e gás, água, esgoto e gestão de resíduos530 677 0,67 0,66 -0,01 Construção 5.580 8.640 7,09 8,47 1,39 Comércio 13.677 18.873 17,37 18,51 1,14 Transporte, armazenagem e correio 3.285 4.721 4,17 4,63 0,46 Informação e comunicação 756 1.350 0,96 1,32 0,36 Ativ.
+financeiras, de seguros e serviços relacionados891 1.200 1,13 1,18 0,04 Atividades imobiliárias 312 417 0,40 0,41 0,01 Outras atividades de serviços 20.754 30.270 26,36 29,69 3,33 Adm., defesa, saúde e educação púb.
+e seguridade social7.753 11.168 9,85 10,95 1,11 Total 78.745 101.955 100 100 *A soma pode apresentar pequenas variações devido a arredondamento.
+Os setores de outras atividades de serviços, de comércio e de construção foram os que mais aumentaram sua participação.
+Como tais setores costumam oferecer empregos de menor qualidade, observa-se que, tal como em outros países desenvolvidos (Bastani, 2019; Benanav, 2019; Mason, 2019), o desemprego não aumenta.
+Porém, o que ocorre com as mudanças na demanda e no progresso tecnológico em termos de resultado líquido é uma piora ou precarização nos empregos gerados.
+Mesmo quando o progresso técnico é importante e a redução de empregos significativa, a situação da geração líquida de empregos mostra uma importâcia explicativa maior por parte da demanda do que por parte da inovação tecnológica.478 Brazilian Journal of Political Economy 42 (2), 2022 • pp.
+460-480Assim, para o caso brasileiro no período em análise, essa ampliação dos setores ligados aos serviços e à construção sugerem ocupações mais precárias, com menores salários e maior insegurança no emprego.
+Ainda que o problema do emprego seja, em grande medida, sustentado por aumento de demanda, a qualidade desses novos empregos coloca em cena debates sobre alternativas políticas para lidar com essa tendência de "precarização estrutural do trabalho" (Antunes, 2014).
+O caso brasileiro é um reflexo do processo de desindustrialização (Oreiro e Feijó, 2010), espalhado globalmente, mas precocemente ocorrido no Brasil, o que significa não só baixos salários, mas também "elimination of jobs that were exploitative but meaningful (the steel worker in a bustling factory) and the rise of jobs that are exploitative but feel meaningless (like security guard in a shopping mall)" (Harvey, 2018).
+Há que se considerar também que essa transição dos trabalhadores entre setores não é, em geral, simples e rápida.
+Trabalhadores têm que mudar de local de trabalho, realizar novos treinamentos, sujeitar-se a empregos mais inseguros, alteração de salários — em geral, redução — etc.
+No caso brasileiro, ainda envolve uma migração para as cidades em processos de urbanização normalmente conturbados.
+Isso gera ainda mais pressões para as questões relativas à desigualdade, tanto de salários quanto, mais amplamente, de renda.
+CONSIDERAÇÕES FINAIS O Gráfico 1 resume os resultados encontrados de geração de ocupações por período e por razões para a geração de empregos.
+Trata-se de quatro séries de gráficos, um para cada motivo de geração de empregos (variação de demanda; variação de produtividade do trabalho e variações de estrutura de produção em termos de requisitos de insumos), e o resultado líquido total de geração de ocupações.
+Em cada motivo e no total, há dois períodos em análise: 2000-2005 e 20102015.
+Ao comparar os períodos quanto às razões das variações nas ocupações, foi possível perceber que em todos os períodos há geração de ocupações.
+Como exceções, há apenas o caso da agropecuária, cuja geração de ocupações cai no último período, e os setores de indústria de transformação e extrativa que veem suas ocupações caindo de forma líquida no último período.
+Ao comparar os motivos dos ganhos e perdas de ocupações, pôde-se notar que, no período em que o crescimento do produto e da demanda foram maiores, os ganhos de produtividade do trabalho se destacaram como maiores causadores de desemprego, confirmando o desemprego tecnológico de maneira geral.
+Porém, os ganhos por crescimento da demanda compensaram as perdas, com exceção do caso da agropecuária, o único que de maneira líquida apresenta desemprego tecnológico relevante.
+No primeiro período, que também é de crescimento da demanda, embora em níveis modestos, ao invés de desemprego, há geração de ocupações por piora da 479 Revista de Economia Política 42 (2), 2022 • pp.
+460-480produtividade do trabalho.
+Este processo está aliado à geração de empregos de pior qualidade ou mais precários, principalmente nos setores de serviços.
+O último período é o de crescimento da demanda menos pronunciado, que não consegue compensar sempre a perda de empregos por outros motivos.
+Observa-se algum recuo na produtividade do trabalho e avanço desta produtividade somente na agropecuária.
+Do exposto, é possível afirmar que, no caso do Brasil, pelo menos nos períodos analisados, não é a perda de ocupações com o progresso tecnológico o principal determinante do desemprego.
+Quando ocorrem perdas por este motivo e o período é de crescimento da demanda, a destruição de empregos é compensável.
+Quando este crescimento da demanda não ocorre, ou é pouco importante, o desenvolvimento tecnológico apenas funciona no sentido de reduzir ou precarizar os postos de trabalho.
+Tendo em vista que o desenvolvimento tecnológico é fundamental para melhorar a competitividade brasileira, torna-se necessário fornecer um núcleo de desenvolvimento endógeno que deixe o país menos vulnerável ao que ocorre na economia internacional e melhorar as condições de trabalho e de vida dos trabalhadores.
+Portanto, as indicações provenientes deste artigo mostram que é preciso perseguir uma política de crescimento sustentada e permanente, o que exige um papel do Estado estimulando e garantindo esta demanda.
+REFERÊNCIAS BIBLIOGRÁFICAS ACEMOGLU, D.; RESTREPO, P. The wrong kind of AI?
+Artificial intelligence and the future of labour demand.
+Cambridge Journal of Regions, Economy and Society, v. 13, n. 1, p. 25–35, 2020.
+ANTUNES, R. A nova morfologia do trabalho e as formas diferenciadas da reestruturação produtiva no Brasil dos anos 1990.
+Revista da Faculdade de Letras da Universidade do Porto, v. XXVII, p. 11–25, 2014.
+AUTOR, D. H. Why Are There Still So Many Jobs?
+The History and Future of Workplace Automation.
+Journal of Economic Perspectives, v. 29, n. 3, p. 3–30, 2015.
+Fully automated luxury communism.
+BELEGRI-ROBOLI, A.; MARKAKI, M. Employment determinants in an input-output framework : structural decomposition analysis and production technology Article.
+Bulletin of Political Economy, v. 4, n. 2, 2010.
+Automation and the Future of Work.
+New Left Review, v. 119, p. 5–38, 2019.
+Structural decomposition techniques: Sense and sensitivity.
+Economic Systems Research, v. 10, n. 4, p. 307–324, 1998.
+FIGUEIREDO, H. L. DE; OLIVEIRA, M. A. S. Análise De Decomposição Estrutural Para a Economia Brasileira Entre 1995 E 2009.
+Revista de Economia, v. 41, n. 2, p. 31–56, 2015.
+Tecnologia e emprego nos setores comércio e de serviços no Brasil entre 2000 e 2009.
+Revista Brasileira de Inovação, v. 15, n. 1, p. 87–112, 2016.
+Criação e destruição de empregos no setor primário no Brasil entre 2000 e 2009.
+Revista de Economia e Sociologia Rural, v. 55, n. 1, p. 137–156, 2017.
+The future of employment: How susceptible are jobs to computerisation?
+Technological Forecasting & Social Change, v. 114, p. 254–280, 2017.
+Are machines stealing our jobs?
+Cambridge Journal of Regions, Economy and Society, v. 13, n. 1, p. 153–173, 2020.
+480 Brazilian Journal of Political Economy 42 (2), 2022 • pp.
+460-480GORDON, R. J. Okun's law and productivity innovations.
+American Economic Review, v. 100, n. 2, p. 11–15, 2010.
+HAGEMANN, H. Luigi pasinetti's structural economic dynamics and the employment consequences of new technologies.
+In: Structural Dynamics and Economic Growth.
+Cambridge - UK: Cambridge University Press, 2012. p. 204–217.
+HARVEY, D. Universal alienation.
+TripleC, v. 16, n. 2, p. 424–439, 4 maio 2018.
+Matriz de insumo-produto : Brasil : 2015.
+Sistema de Contas Nacionais Brasil Brasil : ano de referência 2010.
+Rio de Janeiro: Instituto Brasileiro de Geografia e Estatística - IBGE, 2016.
+Relação entre emprego e tecnologia: Em estudo para quarenta países (19952009).
+MASON, P. Clear bright future: A radical defence of the human being.
+MAZZUCATO, M. Financing innovation: Creative destruction vs. destructive creation.
+Industrial and Corporate Change, v. 22, n. 4, p. 851–867, 2013.
+MILLER, R. E.; BLAIR, P. D. Input-Output Analysis.
+New York, NY, US: Cambridge University Press, 2009.
+Decomposição estrutural da variação do emprego nos setores industriais no brasil entre os anos de 2000 e 2009.
+Revista de Economia Contemporânea, v. 19, n. 2, p. 235–260, ago.
+OREIRO, J. L.; FEIJÓ, C. A. De-Industrialization: concept, causes, effects and the Brazilian case.
+Revista de Economia Politica, v. 30, n. 2, p. 219–232, 2010.
+PASQUINELLI, M. On the origins of Marx's general intellect.
+Radical Philosophy, v. 2, n. 06, 2019.
+PELLEGRINO, G.; PIVA, M.; VIVARELLI, M. Beyond R&D: the role of embodied technological change in affecting employment.
+Journal of Evolutionary Economics , v. 29, n. 4, p. 1151–1171, 2019.
+Aspects of Structural Change in Australia.
+Disponível em: < Acesso em: 26 out.
+RICARDO-SCHUSCHNY, A. Tópicos sobre el Modelo de Insumo-Producto: teoría y aplicaciones: Estudios estadísticos y prospectivos.
+SCHWAB, K. The fourth industrial revolution.
+New York, NY, US: Currency, 2017.
+Decomposição estrutural da variação do emprego no Brasil, 1991-2003.
+Economia Aplicada, v. 14, n. 1, p. 99–123, 2010.
+TREGENNA, F. Sectoral Structure and Change: Insights from Marx.
+Review of Political Economy, v. 30, n. 3, p. 443–460, 3 jul.

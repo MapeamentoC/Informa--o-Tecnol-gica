@@ -1,0 +1,302 @@
+DOI: 843Análise Prospectiva de Tecnologias Frugais Relacionadas à Segurança Pública e à Perícia Forense: mapeamento tecnológico por meio de depósitos de patentes Prospective of Frugal Technologies Related to Public Safety and Forensic: mapping from patent analysis Allynson T akehiro Fujita1 Osvaldo de Freitas Fogatti1 1Universidade do Estado de Minas Gerais, Frutal, MG, Brasil Resumo Um dos fatores para os altos índices brasileiros de criminalidade é a carência de recursos tecnológicos nos institutos de criminalística e órgãos policiais, fato que estimula a busca por soluções tecnológicas acessíveis e de qualidade, adequadas ao conceito de inovação frugal.
+O trabalho busca realizar mapeamento de tecnologias frugais nas áreas de segurança pública e perícia forense, por meio da pesquisa patentária junto ao Instituto Nacional da Propriedade Industrial (INPI).
+As pesquisas resultaram em 32 documentos relevantes, 11 deles sobre tecnologias frugais.
+Concluiu-se que inovações de alta tecnologia provinham de grandes empresas estrangeiras, ao passo que 10 das 11 inovações de cunho frugal provieram de universidades públicas nacionais, corroborando a função social das pesquisas desenvolvidas nessas instituições.
+Constatou-se baixa incidência de patentes de medicina e balística forenses, e nenhuma nas áreas da morfologia, contabilidade, engenharia, documentoscopia e fonética forenses, tampouco na área da perícia forense ambiental.
+Palavras-chave: Inovação Frugal.
+Abstract One of the causes for the high rates of crimes in Brazil is the lack of technological resources in criminal institutes and police agencies, which stimulates the search for technological solutions with accessibility and quality, suitable for the frugal innovation concept.
+The work seeks frugal technologies in the areas of public security and forensic expertise, through patent research in the Brazilian National Institute of Industrial Property database.
+The research resulted in 32 relevant documents, 11 of them on frugal technologies.
+It was concluded that high-tech innovations came from large foreign companies, while 10 of the 11 frugal innovations came from national public universities, corroborating the social function of the research developed in these institutions.
+Low incidence of forensic medicine and ballistic patents were found, and none in the areas of morphology, accounting, engineering, documentoscopy and phonetics, nor in the environmental forensics.
+Área Tecnológica: Prospecção Científica.
+Artigo recebido em: 30/07/2020 Revisado em: 06/12/2020 Aprovado em: 07/03/2021Direito autoral e licença de uso: Este artigo está licenciado sob uma Licença Creative Commons.
+Com essa licença você pode compartilhar, adaptar, para qualquer im, desde que atribua a autoria da obra, forneça um link para a licença, e indicar se foram feitas alterações.844Cadernos de Prospecção – Salvador, v. 14, n. 3, p. 843-857, setembro, 2021Allynson Takehiro Fujita, Osvaldo de Freitas Fogatti 1 Introdução A América Latina possui as maiores taxas de mortes violentas no mundo (UNODC, 2019), conjuntura sintomática do baixo desenvolvimento social, mas também de problemas específicos do aparato de justiça criminal dos países latino-americanos, como precariedade na coleta de dados e nos setores de inteligência das polícias militar e civil, carência de recursos humanos e materiais, além da adoção de modelos de treinamento antiquados e da falta de capacitação das forças policiais (VILALTA, 2015; ONU, 2019; PONCIONI, 2005).
+Com a profissionalização das atividades investigativas no âmbito policial, a tecnologia passou a ser importante aliada no combate à violência (RABELLO, 1996; KIRK, 1953).
+A título exemplificativo, pode-se citar o emprego de machine learning e data science para análise de manchas de criminalidade e predição de crimes (AGUIRRE; BADRAN; MUGGAH, 2019), de drones e escâneres 3D para produção de ortofotos e modelos tridimensionais de locais de crimes (OLIVEIRA, 2017) ou de softwares para extração de dados de computadores, celulares e dispositivos eletrônicos com aplicação de internet das coisas (ALENEZI et al.
+No entanto, a carência de recursos estatais, que comumente traz a reboque o sucateamento dos órgãos de segurança pública (SOARES, 2006), impõe a busca por soluções tecnológicas, que, a despeito do baixo custo, sejam eficientes para suas finalidades.
+Esse balanço entre tecnologia de qualidade e redução de custos evoca o conceito de inovação frugal.
+Desde a veiculação na revista The Economist do artigo Health care in India: Lessons from a frugal innovator , de Tom Pietrasik, em abril de 2009, a frugalidade foi trazida ao cerne dos debates sobre tecnologia e inovação (RAO, 2013).
+Na medida em que foram surgindo conceitos sobre o que seriam inovações frugais, algumas características elementares se sobressaíram, nomeadamente (i) primazia pela seleção das características essenciais ou básicas, (ii) baixo custo e boa relação custo-benefício, (iii) presença de alta escalabilidade e acessibilidade; e (iv) destinação precípua aos mercados de países emergentes (TIWARI; KALOGERAKIS; HERSTATT, 2016; BIRTCHNELL, 2011; KOERICH; CANCELLIER, 2019; RAMAMURTI, 2012; HOSSAIN, 2020; NIROUMAND et al., 2020; LIM et al., 2020).
+Inovações frugais são conceitualmente relevantes porque são capazes de alterar o enfoque de produção de tecnologia, associando a ela um viés mais "humanizado", na busca por soluções tecnológicas de qualidade, a baixo custo, para melhoria de vida de grupos vulneráveis em países em desenvolvimento (RAMAMURTI, 2012).
+Considerando a importância do conceito de inovação frugal para a produção de soluções tecnológicas capazes de contribuir para a redução dos índices de criminalidade em países em desenvolvimento, o presente trabalho busca, por meio da análise de pedidos de patentes depositados no Instituto Nacional da Propriedade Industrial (INPI), ou concedidas pelo mesmo órgão, identificar inovações tecnológicas frugais relacionadas às áreas de segurança pública e de perícia forense.
+845Cadernos de Prospecção – Salvador, v. 14, n. 3, p. 843-857, setembro, 2021Análise Prospectiva de Tecnologias Frugais Relacionadas à Segurança Pública e à Perícia Forense: mapeamento tecnológico por meio de depósitos de patentes 2 Metodologia No âmbito metodológico, para obtenção de uma visão ampla sobre o setor de tecnologias de segurança pública e forenses, foram realizadas pesquisas de artigos científicos nos bancos de dados virtuais Scielo, Scopus e Web of Science, com emprego das expressões " public safety ", "technology " e "forensic technology ".
+A pesquisa teve recorte temporal de 15 anos.
+Os artigos encontrados foram analisados de modo aleatório, visando, precipuamente, à extração de informações sobre a espécie, a natureza ou as características relevantes das soluções tecnológicas mais demandadas para incremento da segurança pública e facilitação dos trabalhos periciais forenses.
+A prospecção tecnológica propriamente dita foi realizada por meio do levantamento de dados de patentes relacionadas às ciências forenses e à segurança pública, por meio da ferramenta de pesquisa do Instituto Nacional da Propriedade Industrial (INPI).
+O INPI é uma autarquia federal, com sede no Rio de Janeiro, cuja finalidade é executar as normas que regulam a propriedade industrial (artigos 2º da Lei n. 5.648/70, 12, II, e parágrafo único, 19, caput , 30, § 2º, 40, parágrafo único, e outros da Lei n. 9.279/96).
+Por meio de página institucional mantida pelo INPI, é possível realizar pesquisas dos processos registrados junto ao órgão.
+A base de dados é atualizada semanalmente, de acordo com informações publicadas na Revista de Propriedade Industrial (RPI) .
+Foram realizadas pesquisas no referido banco de dados com as expressões "forense", "segurança pública" e "tecnologia de segurança pública" entre os dias 29 a 30 de julho de 2020.
+Considerando o notório " backlog " de pedidos de patente do INPI, optou-se por não realizar recortes temporais nas buscas.
+Os pedidos de patente ou as patentes concedidas encontrados foram individualmente analisados para identificação de características frugais, como redução de custos, escalabilidade, simplicidade e boa relação custo-benefício.
+3 Resultados e Discussão As pesquisas de patentes no site do INPI tiveram como resultado 28 depósitos com o termo "forense" e 10 resultados com o termo "segurança pública", pesquisados no título ou resumo, totalizando, assim, 38 depósitos de pedidos de patentes.
+Não foram obtidos resultados por meio do emprego da expressão "tecnologia de segurança pública".
+Da leitura individualizada de cada pedido depositado, foi possível constatar que, dos 38 documentos, dois não tinham relação direta com segurança pública ou perícias forenses.
+O primeiro deles – BR 10 2015 027719 9 – consiste em tecnologia para autenticação de usuários de telefonia pública com uso de sinal DTMF , sendo classificado no IPC H04Q 5/10 (BHATT; OSTI; NAKAMURA, 2015).
+O segundo documento – PI 0925417-0, IPC G01T 1/24 – trata de um analisador de parâmetros de dispositivo detector de partículas e fótons, de interesse de segurança nuclear, na área de produção de energia termoelétrica, não necessariamente vinculado à esfera pericial ou de segurança pública (SANTOS, 2009).
+Dos 36 pedidos de patentes restantes, dois deles pertencem ao mesmo inventor – Eduardo Merwyn Cattonar (PI 1107414-0 e BR 20 2012 010309 0) – e tratam de derivações de uma espécie de semáforo educativo, acoplado com painéis que permitem a veiculação de informações de relevância e de utilidade públicas, podendo incluir fotografias de suspeitos, alertas sobre 846Cadernos de Prospecção – Salvador, v. 14, n. 3, p. 843-857, setembro, 2021Allynson Takehiro Fujita, Osvaldo de Freitas Fogatti áreas de alta criminalidade, informações da defesa civil, entre outros dados para o presente estudo.
+Não se pode afirmar que reúnem características frugais, porquanto dependem de outras tecnologias que não possuem baixo custo ou destinação precípua a mercados emergentes, como display de LED/LCD/plasma ou similares, conforme descrito nos próprios documentos (CATTONAR, 2011; CATTONAR, 2012).
+Foram encontrados cinco pedidos de patente a versar sobre uso de tecnologia de dados e telecomunicações para fins de segurança pública, quais sejam: (i) sistema de monitoramento de linhas telefônicas públicas e privadas e envio das informações coletadas para centrais públicas (PI 0201241-3, IPC G08B 25/08) (FERRAZ, 2002); (ii) sistema integrado de segurança pública e privada (PI 0605083-2, IPC G08B 25/00) (LOUREIRO; LOUREIRO; CAMPONEZ, 2006); (iii) sistema de transmissão de dados na forma remota e digital e localização por satélite a partir de terminais móveis ou fixos, além de câmeras de vigilância urbana para reconhecimento facial, detector de disparos, localização de pessoal de segurança pública e pessoas perdidas ou sequestradas (PI 0717672-4, IPC G08B 13/196) (FLORES, 2007); (iv) método e aparelho para segurança melhorada em um sistema de comunicação de segurança pública (BR 11 2012 025027 2, IPC H04W 4/90) (MONKS; BLANCO, 2010); e (v) subcabeçalho MAC para comunicação por difusão D2D para segurança pública (BR 11 2016 008357 1, IPC H04W 76/02) (BAGHEL, 2014).
+Referidos pedidos de patente são, em sua maioria, pertencentes a renomadas multinacionais do ramo tecnológico, como Qualcomm Technologies, Motorola Solutions, GlobalSight SA e VeriSign, corporações expressivas no mercado internacional de produção de alta tecnologia.
+Um pedido de patente de modelo de utilidade depositado em 1994 (MU 7400418-2; F41B 15/02), de autoria dos inventores brasileiros Paulo Celso Cerello Pereira e Paulo Celso Cerello Pereira Filho, trata de um bastão retrátil para emprego como cassetete (ou tonfa) por forças policiais (PEREIRA; PEREIRA FILHO, 1994).
+Pode-se dizer que, à época, representava um exemplo de inovação frugal, consistente na disposição de peças cilíndricas concêntricas, com grampos e travas, que permitiam a retratação de cada uma das partes constituintes.
+Pelos materiais e técnicas empregados para fabricação, tinha baixo custo, alta escalabilidade e balanço positivo entre custos e benefícios.
+A pesquisa com a expressão "forense" trouxe resultados mais convergentes aos propósitos da presente pesquisa.
+No caso, foram 28 documentos, embora alguns não reúnam as características procuradas no presente trabalho.
+O pedido de patente BR 10 2018 067992 9 dispõe sobre o processo para obtenção de uma membrana compósita que pode ter aplicações forenses, em kits para extração e purificação de DNA (MELO et al., 2018).
+No entanto, essa aplicação é apenas uma de muitas, não se podendo afirmar que a invenção é vocacionada à área forense.
+O mesmo pode se dizer do pedido de patente BR 10 2018 002354 3, um dispositivo para ionização ambiente na espectrometria de massas que, apesar de útil para perícias em investigação de crimes, tem variadas aplicações laboratoriais (VAZ et al., 2018).
+Depositado pela empresa de segurança virtual Zerum Research and Technology do Brasil, o pedido de patente BR 20 2017 019310 7 dispõe sobre modelo de utilidade que, por meio de recursos de hardware e software, poderia reconstruir e indexar em formato de texto dados de diversos protocolos de rede (RODRIGUES, 2017).
+Posto que possui algumas aplicações na área forense, sua multifuncionalidade não o torna apropriado para a análise proposta no presente trabalho.
+Ainda, o pedido de patente BR 11 2017 003913 3 discorre sobre um dispositivo de visualização de imagens sobre modelos anatômicos, com aplicação principal na medicina, mas 847Cadernos de Prospecção – Salvador, v. 14, n. 3, p. 843-857, setembro, 2021Análise Prospectiva de Tecnologias Frugais Relacionadas à Segurança Pública e à Perícia Forense: mapeamento tecnológico por meio de depósitos de patentes que pode ser utilizado para reconstrução forense e antropológica para o reconhecimento de pessoas mortas (SEQUEIROS, 2014).
+Assim como as invenções supracitadas, entende-se que apenas reflexamente está vinculada à área forense.
+A patente de analisador de parâmetros de dispositivo detector de partículas e fótons (PI 0925417-0, IPC G01T 1/24), concedida em julho de 2018, também foi descartada para os propósitos do presente estudo, pois suas variadas aplicações não necessariamente são vinculadas ao campo forense (SANTOS, 2009).
+Os 22 documentos remanescentes, selecionados pela pesquisa do termo "forense" no sistema de busca do INPI, podem ser dispostos conforme mostra o gráfico, considerando a área de aplicação: Gráfico 1 – Resultados da pesquisa de patentes de acordo com a área forense Fonte: Elaborado pelos autores deste artigo (2020) Após leitura individualizada de cada um dos 22 documentos remanescentes depositados junto ao INPI, concluiu-se que 11 dispõem sobre inovações frugais, a saber: BR 10 2016 030615 9; BR 10 2014 030942 0; BR 10 2018 071232 2; BR 10 2018 009038 0; BR 10 2017 024093 2; BR 10 2017 024005 3; BR 10 2016 022377 6; BR 10 2014 014163 4; BR 10 2012 021611 6; PI 1104489-6; e MU 7400418-2.
+A exceção do documento MU 7400418-2, os demais pedidos de patentes ou patentes encontrados com características frugais provinham de universidades públicas brasileiras, tratando de tecnologias que reúnem expressiva redução de custos para a realização de análises forenses, em especial a identificação de drogas de abuso, análises genéticas e periciais odontológicas, mas que também trouxeram outras vantagens em relação às tecnologias consolidadas no mercado (PIVA et al., 2016; STEFANI; BARROS, 2014; SILVA; RAMALHO NETO; SANTOS, 2018; RIBEIRO et al., 2018; CONCEIÇÃO; LEITE; MASOTTI, 2017; CONCEIÇÃO; LEITE, 2017; OLIVEIRA et al., 2016; LOPES; LOPES; FERREIRA, 2014; OLIVEIRA; ANDRADE; OLIVEIRA, 2012; OLIVEIRA; BALBINO, 2011; PEREIRA; PEREIRA FILHO, 1994).
+Pode-se inferir dessa observação que a produção de inovação por universidades públicas brasileiras costuma ter em vista o contexto e as necessidades sociais, conclusão corroborada em outros estudos (AUDY , 2017; REZENDE; CORRÊA; DANIEL, 2013).
+Observou-se também baixa incidência de pedidos de patentes ou patentes concedidas de áreas relevantes das ciências forenses, como balística e medicina, ambas desprovidas de 848Cadernos de Prospecção – Salvador, v. 14, n. 3, p. 843-857, setembro, 2021Allynson Takehiro Fujita, Osvaldo de Freitas Fogatti características frugais (BR 10 2017 014386 4 e BR 11 2015 010438 0) (LIMA; CARVALHO, 2017; SENGUL; YALCINER, 2012), as quais com apenas um documento cada, e a inexistência de pedidos de patentes na área da morfologia forense, especialmente quanto às técnicas de modelagem em três dimensões de impressões de pegadas e pneumáticos, ainda feitas a gesso, cera ou parafina, pelos institutos de criminalística (DEL-CAMPO, 2008).
+Não foram encontrados pedidos de patentes ou patentes concedidas em outras áreas relevantes, como contabilidade forense, engenharia forense, perícia forense ambiental, documentoscopia e fonética forenses.
+3.1 Química Forense Os documentos BR 10 2016 022377 6, BR 10 2012 021611 6 e PI 1104489-6 referem-se a métodos para identificação de drogas (OLIVEIRA et al., 2016; OLIVEIRA; ANDRADE; OLIVEIRA, 2012; OLIVEIRA; BALBINO, 2011).
+Convém ressaltar que a Lei n. 11.343/06 (Lei Antidrogas) determina a realização de exames periciais para configuração da materialidade de diversos crimes nela dispostos, a exemplo do tráfico de drogas ou de porte de drogas para consumo (artigos 32, caput , e 50, §§ 1º e 3º) (BRASIL, 2006).
+Todavia, a identificação das substâncias proibidas por lei é complexa e, em relação a algumas drogas, especialmente tormentosa.
+Os testes químicos Fast Blue B e Duquenóis-Lavine , por exemplo, utilizados no Brasil para identificação da maconha, nome usual da matéria vegetal seca da planta Cannabis sativa L., são alvos de diversas críticas, sobretudo pela ineficácia para distinção de outros compostos fenólicos semelhantes ao canabinol e canabidiol (BORDIN et al., 2012).
+Há também críticas ao teste colorimétrico de Scott – tiocianato de cobalto, em razão de possíveis falso-positivos para substâncias utilizadas adulterantes comumente empregadas por narcotraficantes, como lidocaína, ácido bórico, cafeína e fenacetina (CONCEIÇÃO et al., 2014; SILVA et al., 2019).
+Apesar dos problemas mencionados, citados métodos continuam a ser utilizados nos institutos de criminalística do país pelo fato de utilizarem reagentes de baixo custo e que podem ser aplicados com relativa facilidade, inclusive fora dos laboratórios (MOTA; DI VITTA, 2014).
+Acerca da dietilamida do ácido lisérgico – LSD, droga consumida ao menos uma vez na vida por aproximadamente 2,61% da população do Brasil (BASTOS et al., 2017), também existem entraves técnicos para sua detecção, principalmente a falta de equipamentos para espectrometria de massa nos laboratórios dos setores locais de criminalística, haja vista os elevados custos para sua aquisição, manutenção e operação (MARINHO; LEITE, 2010).
+Com tais considerações, é de todo desejável o surgimento de novos testes capazes de, a um só tempo, aumentar a precisão na detecção das precitadas drogas e manter a praticidade e os baixos custos.
+Nesse sentido, o pedido de patente BR 10 2012 021611 6, depositado pela Universidade de São Paulo (USP), dispõe sobre um mecanismo eletroquímico para detecção de cocaína, portátil e de baixo custo.
+Constituído por uma célula eletroquímica e três eletrodos, o equipamento e métod o patenteados permitem realizar a medição voltamétrica de amostras de cocaína, com bom índice de diferenciação da lidocaína e procaína.
+Por associar tecnologia química de ponta à redução de custos e criação de soluções para problemas concretos que afetam a sociedade brasileira, nomeadamente a dificuldade de se identificar adequadamente drogas apreendidas em ações policiais, entende-se que a invenção objeto do pedido de patente BR 10 2012 021611 6 poderia ser classificada como exemplo de inovação frugal (OLIVEIRA; ANDRADE; OLIVEIRA, 2012).849Cadernos de Prospecção – Salvador, v. 14, n. 3, p. 843-857, setembro, 2021Análise Prospectiva de Tecnologias Frugais Relacionadas à Segurança Pública e à Perícia Forense: mapeamento tecnológico por meio de depósitos de patentes O pedido de patente BR 10 2016 022377 6, também depositado pela USP , versa sobre processo voltamétrico para quantificação de LSD.
+O método utiliza o eletrodo de pasta de carbono modificado pelo complexo metálico com as bases de Schiff, permitindo a criação de dispositivos portáteis de custo reduzido, capazes de detectar, segundo o documento em tela, até mesmo ínfimas quantidades de LSD.
+Também nesse caso, pode-se afirmar que o invento reúne características típicas de inovação frugal, dada a redução de custos, a versatilidade, a alta escalabilidade e a solução de problemas nacionais vinculados ao baixo desenvolvimento econômico e social (OLIVEIRA et al., 2016).
+O emprego de método voltamétrico para detecção da droga maconha também foi objeto de patente PI 1104489-6, concedida em dezembro de 2020, titularizada pela USP .
+A patente descreve um processo químico que poderia ser empregado em detectores portáteis, feitos de eletrodos sólidos encontrados facilmente no comércio, com notável redução de custos e possibilidade de transporte para outros locais, fatores que, pelas mesmas razões citadas anteriormente, a tornam exemplo de inovação frugal (OLIVEIRA; BALBINO, 2011).
+Ainda no campo da química forense, é notória a falta de equipamentos e substâncias adequadas para a coleta de impressões digitais em locais de crime (ARAUJO, 2012), circunstância decisiva para que apenas 6% dos casos de homicídio sejam esclarecidos no Brasil (RIBEIRO; LIMA, 2020; MORAES et al., 2014).
+Contribuindo para a apresentação de soluções ao problema de coletas de digitais, o documento BR 10 2014 0309420 dispõe sobre método químico para obtenção de derivados benzazólicos como corantes para revelação de impressões digitais latentes.
+Desenvolvida por pesquisadores da Universidade Federal do Rio Grande do Sul (UFRGS), a invenção permite corar as impressões digitais em superfícies de qualquer cor, com a vantagem de ter alta estabilidade fotoquímica e fotofísica, além de ser transparente sob luz visível, o que facilita a visualização e o registro fotográfico de impressões digitais, sem o comprometimento da amostra.
+A mais, os insumos utilizados são de baixo custo, fácil utilização e remoção (solúveis em água), e compostos similares não mostraram toxicidade ou comportamento carcinogênico ou mutagênico (STEFANI; BARROS, 2014).
+A Universidade Federal de Alagoas (UFAL) depositou pedido de patente de processo para visualização de impressões digitais latentes em camadas metálicas, por meio de bicamada de compostos poliméricos eletrocrômicos e fluorescentes (BR 10 2018 009038 0).
+A invenção emprega materiais de baixa toxicidade e fácil produção, processamento e manipulação, apresentando melhor contraste entre a impressão digital latente e a superfície metálica, em relação aos métodos tradicionais (RIBEIRO et al., 2018).
+É possível afirmar, portanto, que as tecnologias tratadas nos documentos BR 10 2014 030942 0 e BR 10 2018 009038 0 constituem exemplos de inovações frugais.
+Por sua vez, o documento BR 10 2014 014163 4 corresponde à invenção de processo síntese do luminol, reagente utilizado para detecção de resíduos de sangue (LOPES; LOPES; FERREIRA, 2014).
+De saída, é importante destacar a importância do luminol na apuração de casos de crimes contra a vida.
+Um caso emblemático de sua relevância ocorreu nas investigações do assassinato de Eliza Samudio, em que foram encontradas manchas de sangue no sítio do goleiro Bruno Fernandes, em Belo Horizonte, por meio de luminol (KATTAH, 2010).
+A Universidade Federal do Rio de Janeiro (UFRJ), titular do pedido de patente BR 10 2014 014163 4, teve êxito em descobrir novo processo de síntese do luminol, possibilitando a produção de reagente mais barato do que similares já disponíveis no mercado, além de envolver baixos riscos operacionais e não gerar resíduos de metais tóxicos, danosos ao equilíbrio ecológicos, características que o tornam notável exemplo de inovação frugal (LOPES; LOPES; FERREIRA, 2014).
+850Cadernos de Prospecção – Salvador, v. 14, n. 3, p. 843-857, setembro, 2021Allynson Takehiro Fujita, Osvaldo de Freitas Fogatti 3.2 Genética Forense No campo da genética forense, cinco documentos foram encontrados: PI 1104979-0; BR 10 2012 028699 8; PI 9201715-0; BR 10 2013 008577 4; e BR 10 2018 0712 32 2 (CICARELLI et al., 2011; CICARELLI; BRAGANHOLI, 2012; SAIKI; NASARABADI, 1992; SANTIAGO et al., 2013; SILVA; RAMALHO NETO; SANTOS, 2018).
+Os quatro primeiros possuem aplicações forenses, tratando de kits ou métodos para definição de vínculo de parentesco e sequenciamento genético.
+Contudo, não são invenções relevantes do ponto de vista frugal, dados os altos custos envolvidos para sua implementação.
+Porém, o pedido de patente BR 10 2018 071232 2, depositado pela UFAL, discorre sobre um kit para coleta de DNA de toque, material genético depositado em superfícies quando uma pessoa entra em contato com objetos, que pode ser fundamental para identificação de suspeitos em cenas de crimes.
+O kit elaborado pela UFAL possui um custo expressivamente mais acessível do que as fitas industrializadas disponíveis no mercado, como ressalta o pedido de patente em comento.
+Ademais, pode ser facilmente executado no próprio local do crime, quando o toque com a pele foi feito em materiais não porosos (metal, vidro ou plástico).
+Por tais razões, constitui caso de inovação frugal (SANTIAGO et al., 2013; SILVA; RAMALHO NETO; SANTOS, 2018).
+3.3 Odontologia Forense Entre os pedidos de patente encontrados na área da odontologia forense, há exemplos de inovações frugais.
+Destaca-se que o campo da odontologia forense é profícuo, especialmente em grandes desastres, nas quais comumente ocorre destruição de cadáveres (FISHER; FISHER, 2012; GARDNER; BEVEL, 2009), a exemplo do rompimento da barragem da Mina Córrego Feijão, em Brumadinho, MG, ou da Barragem do Fundão, em Mariana, MG, em que algumas vítimas foram identificadas pela arcada dentária (PEREIRA, 2019; AUGUSTO, 2015).
+A invenção de depósito BR 10 2017 024005 3 consiste na composição de corantes capazes de melhorar a identificação visual, pelo perito, das restaurações e trabalhos estéticos, pois estes podem comprometer a identificação da vítima a partir da identificação dentária ante mortem e post mortem .
+Os materiais empregados para composição podem ser facilmente obtidos, visto que são de uso corrente no comércio de materiais médicos (CONCEIÇÃO; LEITE, 2017).
+A Universidade Federal de Pelotas (UFPEL) também contribuiu com um exemplo de inovação frugal na área de odontologia forense.
+Trata-se da invenção objeto do pedido de patente BR 10 2017 024093 2, a versar sobre dispositivo e o processo de análise de escala de fluorescência de tecidos dentários e materiais odontológicos.
+O dispositivo é constituído por uma câmera fotográfica, uma fonte de luz ultravioleta, uma caixa e uma mesa, e contribui para a identificação de restaurações em arcadas dentárias, para efeito de comparações post mortem .
+Os materiais utilizados são encontrados sem maiores dificuldades, tornando o invento típico exemplo de tecnologia eficiente e de baixo custo (CONCEIÇÃO; LEITE; MASOTTI, 2017).
+O pedido de patente BR 10 2016 030615 9 segue o mesmo caminho dos anteriores, na medida em que aborda diferentes composições de substâncias para identificação de restaurações dentárias.
+Os compostos são de fácil aplicação e uso, podendo ser transportados até a cena do crime, além de serem encontrados facilmente no mercado (PIVA et al., 2016).
+Desse modo, as tecnologias tratadas nos pedidos de patente BR 10 2017 024005 3, BR 10 2017 024093 2 e BR 10 2016 030615 9 preenchem os requisitos para classificação como exemplos de inovações frugais.
+851Cadernos de Prospecção – Salvador, v. 14, n. 3, p. 843-857, setembro, 2021Análise Prospectiva de Tecnologias Frugais Relacionadas à Segurança Pública e à Perícia Forense: mapeamento tecnológico por meio de depósitos de patentes 3.4 Entomologia Forense A entomologia forense compreende o estudo de artrópodes, especialmente insetos, para solução de casos judiciais (BAXTER JR., 2015).
+Nessa área pericial, destacou-se o pedido de patente de modelo de utilidade MU 8901734-0, que dispõe sobre uma câmara para criação, reprodução e pesquisa de insetos que pode ser utilizada em finalidades diversas, inclusive forenses (PACINI, 2009).
+A invenção é confeccionada em material plástico, em contraposição aos terrários tradicionalmente utilizados que costumam ser feitos de vidro, o que não apenas a torna mais barata e, portanto, acessível, como também mais versátil, características associadas ao conceito de inovação frugal.
+4 Considerações Finais Conforme apontam os resultados das pesquisas de patentes no sítio do INPI, observou-se que tecnologias relacionadas ao uso de sistemas informáticos e de dados para fins de segurança pública são predominantemente patenteadas por empresas estrangeiras.
+Quando foram analisados os pedidos de patente sobre invenções de cunho forense, observou-se que grande parte são titularizados por universidades públicas brasileiras, a sinalizar a preocupação dessas instituições em entregar para a sociedade resultados positivos das pesquisas.
+Concluiu-se que tal constatação se reforça na análise das patentes com cunho frugal encontradas – 11 documentos, 10 dos quais pertencentes a universidades públicas nacionais.
+Por fim, verificou-se que algumas áreas relevantes das ciências forenses foram contempladas com poucos depósitos de patentes, como a medicina e a balística, ou não tiveram depósitos encontrados, como morfologia forense, contabilidade forense, engenharia forense, perícia forense ambiental, documentoscopia e fonética forenses.
+Referências AGUIRRE, Katherine; BADRAN, Emile; MUGGAH, Robert.
+Future crime: assessing twenty first century crime prediction.
+Rio de Janeiro: Igarapé Institute, 2019.
+IoT Forensics: a State-of-the-Art Review, Challenges and Future Directions.
+In: 4TH INTERNATIONAL CONFERENCE ON COMPLEXITY , FUTURE INFORMATION SYSTEMS AND RISK – COMPLEXIS, Creta, Grécia, 2019.
+Só é preso quem quer: bastidores do sistema de punição seletiva.
+A inovação, o desenvolvimento e o papel da Universidade.
+Estudos Avançados , São Paulo, v. 31, n. 90, p. 75-87, maio 2017.
+Corpo é identificado em Mariana; número de mortes sobe para 9.
+O Estado de São Paulo – Estadão , [s.l.
+Disponível em: geral,corpo-e-identificado-em-mariana-n-de-mortes-sobe-para-9,10000003127.
+852Cadernos de Prospecção – Salvador, v. 14, n. 3, p. 843-857, setembro, 2021Allynson Takehiro Fujita, Osvaldo de Freitas Fogatti BAGHEL, Sudhir Kumar.
+Subcabeçalho mac para comunicação por difusão D2D para segurança pública .
+Depositante: Qualcomm Incorporated.
+BASTOS, Francisco Inácio Pinkusfeld Monteiro et al.
+III Levantamento Nacional sobre o uso de drogas pela população brasileira .
+Rio de Janeiro: Fiocruz/ICICT, 2017.
+Complete crime scene investigation handbook .
+Boca Raton (Flórida): CRC Press, 2015.
+BHATT, Parth; OSTI, André Almeida; NAKAMURA, Emílio Tissato.
+Método de segurança para autenticação de usuários via telefonia pública com uso de sinal DTMF .
+Depositante: Fundação CPQD – Centro de Pesquisa e Desenvolvimento em Telecomunicações.
+Procurador: Ana Lúcia Forni Poppi.
+Jugaad as Systemic Risk and Disruptive Innovation in India.
+Contemporary South Asia , [s.l.
+], v. 19, p. 357-372, 12 jan. 2011.
+BORDIN, Dayanne Cristiane et al.
+Análise forense: pesquisa de drogas vegetais interferentes de testes colorimétricos para identificação dos canabinóides da maconha ( Cannabis Sativa L.).
+Química Nova , São Paulo, v. 35, n. 10, p. 2.040-2.043, 2012.
+Lei n. 11.343, de 23 de agosto de 2006.
+Institui o Sistema Nacional de Políticas Públicas sobre Drogas – Sisnad; prescreve medidas para prevenção do uso indevido, atenção e reinserção social de usuários e dependentes de drogas; estabelece normas para repressão à produção não autorizada e ao tráfico ilícito de drogas; define crimes e dá outras providências.
+Brasília, DF: Presidência da República, 2006.
+Disponível em: br/ccivil_03/_Ato2004-2006/2006/Lei/L11343.htm.
+Semáforo educativo, informativo, de segurança e de utilidade pública .
+Depositante: Eduardo Merwyn Cattonar.
+Semáforo educativo, informativo, de segurança e de utilidade pública .
+Depositante: Eduardo Merwyn Cattonar.
+CICARELLI, Regina Maria Barretto et al.
+Método e kit para identificação genética humana por meio de polimorfismos do DNA mitocondrial para aplicação em populações miscigenadas .
+Depositante: Universidade Estadual Paulista "Júlio de Mesquita Filho".
+Procurador: Leopoldo Campos Zuaneti.
+CICARELLI, Regina Maria Barretto; BRAGANHOLI, Danilo Faustino.
+Método e kit para a identificação de polimorfismos associados à morte súbita cardíaca (MSC) .
+Depositante: Universidade Estadual Paulista "Júlio de Mesquita Filho".
+Procurador: Leopoldo Campos Zuaneti.
+Estudo do teste de Scott via técnicas espectroscópicas: um método alternativo para diferenciar cloridrato de cocaína e seus adulterantes.
+Química Nova , São Paulo, v. 37, n. 9, p. 1.538-1.544, 2014.
+CONCEIÇÃO, Luciana Domingues; LEITE, Fábio Renato Manzolli; MASOTTI, Alexandre Severo.
+Dispositivo, processo de análise e escala de fluorescência de biomateriais .
+Depositante: Universidade Federal de Pelotas.
+Depósito: 9 nov. 2017.853Cadernos de Prospecção – Salvador, v. 14, n. 3, p. 843-857, setembro, 2021Análise Prospectiva de Tecnologias Frugais Relacionadas à Segurança Pública e à Perícia Forense: mapeamento tecnológico por meio de depósitos de patentes CONCEIÇÃO, Luciana Domingues; LEITE; Fábio Renato Manzolli.
+Substâncias corantes para uso na detecção de biomateriais .
+Depositante: Universidade Federal de Pelotas.
+DEL-CAMPO, Eduardo Roberto Alcântara.
+Exame e levantamento técnico pericial de locais de interesse à justiça criminal: abordagem descritiva e crítica.
+Tese (Doutorado) – Universidade de São Paulo, São Paulo, 2008.
+Sistema de segurança integrado à central pública .
+Depositante: Danilo de Almeida Ferraz.
+FISHER, Barry A. J.; FISHER, David.
+Techniques of Crime Scene Investigation .
+Sistema de transmissão de dados na forma remota e digital e localização por satélite a partir de terminais móveis ou fixos com câmeras de vigilância urbana para reconhecimento facial, detector de disparos, localização de pessoal de segurança pública e pessoas perdidas ou sequestradas e alarme pessoal, veículos roubados, aplicação de multas eletrônicas e a cobrança das mesmas através de um sistema de identificação pessoal por meio de um cartão multifuncional, assim como a cobrança de serviços transmitindo todos os elementos a uma central de controle.
+Procurador: Bicudo & Sborgia Prop.
+Practical crime scene analysis and reconstruction .
+Frugal innovation: Conception, development, diffusion, and outcome.
+Journal of Cleaner Production , [s.l.
+Polícia encontra sangue humano e fios de cabelo em sítio de Bruno.
+O Estado de São Paulo – Estadão , São Paulo, 14 jul.
+Disponível em: noticias/geral,policia-encontra-sangue-humano-e-fios-de-cabelos-em-sitio-de-bruno,581189 .
+Physical evidence and police laboratory .
+California: University of California, 1953.
+KOERICH, Graziele Ventura; CANCELLIER, Éverton Luís Pellizzaro de Lorenzi.
+Inovação Frugal: origens, evolução e perspectivas futuras.
+Cadernos EBAPE , Rio de Janeiro, v. 17, n. 4, p. 1.0791.093, out.
+Frugal innovation and leapfrogging innovation approach to the Industry 4.0 challenge for a developing country.
+Asian Journal of Technology Innovation , [s.l.
+LIMA; Júlio César Marques de; CARVALHO, Endrigo Rosa de.
+Sistema gerador de imagens 3D da face para fins médicos-odontológicos e forenses .
+Depositante: Helena Willhelm de Oliveira.
+Procurador: Ernesto Luiz Holderbaum.
+LOPES, Cláudio Cerqueira; LOPES, Rosângela Sabbatni Capella; FERREIRA, Letícia Gomes.
+Processo de síntese do luminol, kit para a detecção de resíduos de sangue oculto e seus usos .
+Depositante: Universidade Federal do Rio de Janeiro.
+2014.854Cadernos de Prospecção – Salvador, v. 14, n. 3, p. 843-857, setembro, 2021Allynson Takehiro Fujita, Osvaldo de Freitas Fogatti LOUREIRO, Ronaldo Silveira; LOUREIRO, Carlos Augusto Silveira; CAMPONEZ, Marcelo Oliveira.
+Sistema integrado de segurança pública e privada .
+Depositante: Ronaldo Silveira Loureiro, Carlos Augusto Silveira Loureiro e Marcelo Oliveira Camponez.
+Procurador: Wagner José Fafá Borges.
+MARINHO, Pablo Alves; LEITE, Edna Maria Alvarez.
+Quantification of LSD in illicit samples by high performance liquid chromatography.
+Brazilian Journal of Pharmaceutical Sciences, São Paulo, v. 46, n. 4, p. 695-703, dez.
+Membrana compósita porosa de polimetilmetacrilato/quitosana/ polianilina – processo para sua obtenção e seu uso para a extração, purificação e concentração de biomoléculas .
+Depositante: Universidade Federal de Pernambuco.
+MONKS, Deborah J.; BLANCO, Alejandro G. Método e aparelho para segurança melhorada em um sistema de comunicação de segurança pública .
+Depositante: Motorola Solutions Inc. Procurador: Orlando de Souza.
+Investigação criminal de homicídios .
+Brasília, DF: Secretaria Nacional de Segurança Pública (SENASP), 2014.
+MOTA, Leandro; DI VITTA, Patrícia Busko.
+Química forense: utilizando métodos analíticos em favor do poder judiciário.
+Frugal innovation enablers: a comprehensive framework.
+International Journal of Innovation Science , [s.l.
+OLIVEIRA, Olegário Augusto da Costa.
+Utilização de aeronaves remotamente pilotadas (drones) na produção de ortofotos e modelos 3D na área forense .
+Goiânia: Universidade Estadual de Goiás, 2017.
+OLIVEIRA, Marcelo Firmino et al.
+Processo voltamétrico para a quantificação da dietilamida do ácido lisérgico (LSD) .
+Depositante: Universidade de São Paulo.
+OLIVEIRA, Marcelo Firmino de; ANDRADE, Yuri Alexandre Pepe de; OLIVEIRA, Laura Siqueira.
+Sistema eletroquímico para a detecção de cocaína e método para a detecção de cocaína utilizando o referido sistema .
+Depositante: Universidade de São Paulo.
+Procurador: Maria Aparecida de Souza.
+OLIVEIRA, Marcelo Firmino de; BALBINO, Marco Antônio.
+Método de análise química, direta, qualitativa e quantitativa de A9-tetraidrocanabinol .
+Titular: Universidade de São Paulo e Fundação de Amparo à Pesquisa do Estado de São Paulo.
+Procurador: Maria Aparecida de Souza.
+ONU – ORGANIZAÇÃO DAS NAÇÕES UNIDAS.
+Segurança deve ser garantida com respeito à vida e à dignidade, diz assessor especial da ONU .
+Rio de Janeiro: UNIC Rio, 2019.
+Disponível em: Acesso em: 2 maio 2020.
+Câmara para criação, reprodução e pesquisas de insetos de interesse forense, de saúde, agrícola, biotecnológica, e lazer exótico .
+Depositante: Diogo Barth Pacini e Paulo Roberto Queiroz da Silva.
+2009.855Cadernos de Prospecção – Salvador, v. 14, n. 3, p. 843-857, setembro, 2021Análise Prospectiva de Tecnologias Frugais Relacionadas à Segurança Pública e à Perícia Forense: mapeamento tecnológico por meio de depósitos de patentes PEREIRA, Pablo.
+Tragédia de Brumadinho: IML já identificou 245 vítimas; 25 estão desaparecidas.
+O Estado de São Paulo – Estadão , 30 maio 2019.
+Disponível em: com.br/blogs/blog-da-garoa/tragedia-de-brumadinho-iml-ja-identificou-245-vitimas-25-estaodesaparecidos/.
+PEREIRA, Paulo Celso Cerello; PEREIRA FILHO, Paulo Celso Cerello.
+Bastão telescópico para uso na segurança pública .
+Depositante: Paulo Celso Cerello Pereira Filho e Paulo Celso Cerello Pereira.
+Procurador: Sul América Marcas e Patentes S/C Ltda.
+Composições para identificação dentária em investigação forense .
+Depositante: Universidade Federal de Pelotas.
+O modelo policial profissional e a formação profissional do futuro policial nas academias de polícia do Estado do Rio de Janeiro.
+Sociedade e Estado , Brasília, v. 20, n. 3, p. 585-610, dez.
+Porto Alegre: Sagra-Luzzatto, 1996.
+Competing with Emerging Market Multinationals.
+], v. 55, n. 3, p. 241-249, maio 2012.
+RAO, Balkrishna C. How disruptive is frugal?
+], v. 35, n. 1, p. 65-73, 2013.
+REZENDE, Adriano Alves; CORRÊA, Carolina Rodrigues; DANIEL, Lindomar Pegorini.
+Os impactos da política de inovação tecnológica nas universidades federais-uma análise das instituições mineiras.
+Revista de Economia e Administração , [s.l.
+RIBEIRO, Ludmila; LIMA, Flora Moara.
+Determinantes da elucidação dos homicídios dolosos em uma cidade brasileira.
+Opinião Pública , Campinas, v. 26, n. 1, p. 6697, abr.
+Processo de preparação e uso de sistema bicamada de compostos poliméricos para visualização de impressões digitais latentes em superfícies metálicas .
+Depositante: Universidade Federal de Alagoas.
+Aperfeiçoamento introduzido em conjunto de appliances .
+Depositante: Zerum Research and Technology do Brasil LTDA.
+Procurador: Carlos Eduardo Gomes da Silva.
+SAIKI, Randall K.; NASARABADI, Shanavaz L. Processos para detectar a presença de uma sequência variante do locus de g-gama-globina que define um alelo c em uma amostra e para determinar o genótipo de locus de g-gama-globina de um indivíduo; sonda de SSO; painel de pelo menos duas sondas de SSO; kit utilizável para determinar o genótipo de um indivíduo no locus de g-gama-globina; e método para a provisão de prova forense referente à derivação de uma amostra .
+Procurador: Dannemann, Siemsen, Bigler & Ipanema Moreira.
+SANTIAGO, Samara Cardoso da Silva et al.
+Composição haplotípica de polimorfismos presentes em loci do imprintoma humano para genotipagem forense multiplex .
+Depositante: Samara Cardoso da Silva Santiago.
+2013.856Cadernos de Prospecção – Salvador, v. 14, n. 3, p. 843-857, setembro, 2021Allynson Takehiro Fujita, Osvaldo de Freitas Fogatti SANTOS, Luiz Antônio Pereira.
+Analisador portátil de parâmetros de dispositivo quadripolar detector de partículas e fótons .
+Titular: Comissão Nacional de Energia Nuclear.
+Procurador: Daniela Lima Cerqueira Archila.
+SENGUL, Orhan; YALCINER, Levent Burak.
+Sistema de suporte de balas para segurar uma bala atirada com energia de vácuo para uso em investigações forenses de marcas balísticas sobre balas atiradas .
+Titular: Tübitak – Conselho de Pesquisa Científica e Tecnológica da Turquia.
+Procurador: David do Nascimento Advogados Associados.
+Dispositivo de visualização de imagens e método de geração e projeção de imagens .
+Depositante: Carlos Ortigoza Sequeiros.
+Procurador: Ana Paula Santos Celidônio.
+A confiabilidade do teste de Scott frente a interferência dos adulterantes na detecção da cocaína.
+Brazilian Journal of Development , [s.l.
+], v. 5, n. 8, p. 12.391-12.397, 2019.
+SILVA, Rosana Coutinho Freire; RAMALHO NETO, Cícero Eduardo; SANTOS, Alessandro Lucas do Nascimento.
+Kit para coleta e extração de DNA de toque .
+Depositante: Universidade Federal de Alagoas.
+Segurança pública: presente e futuro.
+Estudos Avançados , São Paulo, v. 20, n. 56, p. 91-106, abr.
+Disponível em: arttext&pid=S0103-40142006000100008&lng=en&nrm=iso.
+STEFANI, Valter; BARROS, Hélio Lopes Barbosa.
+Método de obtenção de derivados benzazólicos fluorescentes e sua aplicação em ciência forense como reveladores de impressões digitais latentes .
+Depositante: Universidade Federal do Rio Grande do Sul.
+TIWARI, Rajnish; KALOGERAKIS, Katharina; HERSTATT, Cornelius.
+Frugal Innovations in the mirror of scholarly discourse: Tracing theoretical basis and antecedents.
+Reino Unido: R&D Management Conference – Cambridge, 2016.
+UNODC – ESCRITÓRIO DAS NAÇÕES UNIDAS SOBRE DROGAS E CRIME.
+Global Study on Homicide: Executive summary.
+Viena: Division for Policy Analysis and Public Affairs, 2019.
+Dispositivo para ionização ambiente na espectrometria de massas .
+Depositante: Instituto Federal de Educação Ciência e Tecnologia do Espírito Santo, Universidade Federal do Espírito Santo, Universidade Federal de Goiás.
+Tendencias y proyecciones globales en la violencia homicida 2000 a 2030 .
+Rio de Janeiro: Instituto Igarapé, 2015.
+Disponível em: wp-content/ uploads/2016/04/Homicide-Dispatch_2_ES-22-04-16.pdf.
+Acesso em: 1º maio 2020.857Cadernos de Prospecção – Salvador, v. 14, n. 3, p. 843-857, setembro, 2021Análise Prospectiva de Tecnologias Frugais Relacionadas à Segurança Pública e à Perícia Forense: mapeamento tecnológico por meio de depósitos de patentes Sobre os Autores Allynson Takehiro Fujita E-mail : allynson.fujita@uemg.br ORCID: Doutor em Química Analítica pela UNESP em 2007.
+Endereço profissional: Universidade do Estado de Minas Gerais, campus de Frutal, Av.
+Professor Mario Palmério, n. 1001, Universitário, Frutal, MG. CEP: 38200-000.
+Osvaldo de Freitas Fogatti E-mail : fogatti@gmail.com ORCID: Graduado em Direito pela UNIFEB em 2010.
+Endereço profissional: Universidade do Estado de Minas Gerais, campus de Frutal, Av.
+Professor Mario Palmério, n. 1001, Universitário, Frutal, MG. CEP: 38200-000.

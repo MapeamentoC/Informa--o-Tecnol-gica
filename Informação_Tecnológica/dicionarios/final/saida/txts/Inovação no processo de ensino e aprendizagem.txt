@@ -1,0 +1,111 @@
+Brazilian Journal of Development Braz.
+J. of Develop., Curitiba, v. 5, n. 9, p. 1 5095 -15105 sep. 2019 ISSN 2525 -8761 15095 Inovação no processo de ensino e aprendizagem de álgebra linear usando o software geogebra Innovation into the learning and teaching process of linear algebra using geogebra software DOI: 10.34117/bjdv5 n9-099 Recebimento dos originais: 29/08/2019 Aceitação para publicação: 16/09/2019 Fabiana Tristão de Santana Doutora em Engenharia Elétrica e Computação pela Universidade Federal do Rio Grande do Norte Instituição: Universidade Federal do Rio Grande do Norte Endereço: Campus Universitário Lagoa Nova, CEP 59078 -970, Caixa Postal 1524, NatalRN, Brasil E-mail: fabianatsantana@gmail.com Igor Michael Araujo de Macedo Graduando em Bacharelado em Ciências e Tecnologia pela Universidade Feder al do Rio Grande do Norte Instituição: Universidade Federal do Rio Grande do Norte Endereço: Campus Universitário Lagoa Nova, CEP 59078 -970, Caixa Postal 1524, NatalRN, Brasil E-mail: igor_parelhas@hotmail.com Marcos Henrique Fernandes Marcone Graduando em Bacharelado em Ciências e Tecnologia pela Universidade Federal do Rio Grande do Norte Instituição: Universidade Federal do Rio Grande do Norte Endereço: Campus Universitário Lagoa Nova, CEP 59078 -970, Caixa Postal 1524, NatalRN, Brasil E-mail: marcosma rcone48@gmail.com Fágner Lemos de Santana Doutor em Sistemas e Computação pela Universidade Federal do Rio Grande do Norte Instituição: Universidade Federal do Rio Grande do Norte Endereço: Campus Universitário Lagoa Nova, CEP 59078 -970, Caixa Postal 1524 , NatalRN, Brasil E-mail: fagner@ccet.ufrn.br RESUMO Este trabalho aborda estratégias pedagógicas aplicadas na disciplina de Álgebra Linear utilizando o software educativo GeoGebra para inovar o processo de ensino e aprendizagem de alguns temas específicos, como: vetores, matrizes, projeções ortogonais e o método dos mínimos quadrados.
+O tratamento desses e de outros tópicos utilizando o software GeoGebra é feito especificamente na Janela CAS (ambiente de programação com uma linguagem simples e acessível a todos os estudantes), Janela de Visualização (ambiente de esboços gráficos em Brazilian Journal of Development Braz.
+J. of Develop., Curitiba, v. 5, n. 9, p. 1 5095 -15105 sep. 2019 ISSN 2525 -8761 15096 duas e três dimensões) e Janela de Álgebra (ambiente de edição e armazenamento de escalares, funções, vetores e variáveis definidos).
+Os principais comandos utilizados no estudo desses tópicos serão apresentados juntamente com a resolução e análise gráfica de três sistemas lineares.
+Para finalizar, o método dos mínimos quadrados será utilizado e implementa do no software com o objetivo de encontrar a melhor função que ajusta um conjunto de dados experimentais obtidos em laboratório de física.
+O uso do software no ensino da Álgebra Linear tem ajudado os estudantes a compreenderem melhor alguns conceitos traba lhados na sala de aula, além de deixar o estudo mais prazeroso e interessante.
+Palavras -chave: Álgebra linear.
+ABSTRACT This paper presents pedagogical strategies using GeoGebra software to innovation the learning and teaching process of some topics of Linear Algebra, such as: vectors, matrices, orthogonal projections and the least squares methods.
+The approach to these and other topics using GeoGebra software is made specifically in the CAS window (programming environment with a simple language and accessible to all students), graphic window (environment for sketching graphic of two and three dimensional) and algebra window (environment for editing and storing scalars, functions, vectors and defined variables).
+The main commands used in the study of these topics will be presented together with the resolution and graphical analysis of three linear systems.
+To finish, the least squares methods will be used and implemented in software with the ob jective of finding the best function that approximates a set of experimental data obtained in physics laboratory.
+The use of the software in the learning and teaching process of Linear Algebra has helped students to better understand some concepts worked i n the classroom, besides ensuring a more pleasant and interesting study.
+INTRODUÇÃO A Álgebra Linear é uma importante área da Matemática que se encarrega de analisar e solucionar sistemas lineares e apresenta aplicações em diversos domínios das Ciências e Engenharias, como redes elétricas, cadeias de Markov, aproximação de funções, computação gráfica, dentre outras (ANTON, 2001), (LAY, 199 9).
+A solução de problemas utilizando a Álgebra Linear como ferramenta, na maioria das vezes, usa vetores, matrizes e sistemas lineares em seu desenvolvimento e análise (LEON, 1998).
+Na prática, é comum que os problemas tenham um número elevado de informa ções e variáveis, o que corresponderá à vetores com muitas coordenadas gerando assim sistemas lineares de difícil resolução.
+Mas, existe um estudo extenso nessa área para solucionar esse problema.
+São os algoritmos de resolução de sistema que propõem uma f orma sistemática de resolução, possível de ser implementada em qualquer linguagem de programação, e que permite a análise e a solução dos sistemas com muita facilidade.
+Brazilian Journal of Development Braz.
+J. of Develop., Curitiba, v. 5, n. 9, p. 1 5095 -15105 sep. 2019 ISSN 2525 -8761 15097 Muitas vezes, os sistemas lineares oriundos de um modelo matemático podem não apresent ar solução devido a erros cometidos durante a modelagem do problema.
+Porém, mesmo nessas condições, a Álgebra Linear fornece uma solução aproximada para o problema, que é na verdade a melhor solução aproximada.
+Tal solução, utilizando os conceitos de proje ções ortogonais e aproximações, é obtida através de um importante método conhecido como Método dos Mínimos Quadrados (ANTON, 2001).
+Para contribuir com a inovação do ensino/aprendizagem da Álgebra Linear, este trabalho propõe como estratégia pedagógica o uso do software educativo GeoGebra.
+Esse software foi desenvolvido como tese de doutorado de Markus Hohenwarter em 2001, na Universidade de Salzburgo, para ser uma ferramenta de utilização em sala de aula e, hoje em dia, conta com a colaboração de muitos pesquisadores e membros de comunidades, que continuam trabalhando em seu aprimoramento e divulgação (GEOGEBRA, 2019).
+O software GeoGebra será utilizado na obtenção da função de ajuste dos dados.
+Para isso, serão apresentados nas próximas seções os princ ipais comandos e funções utilizados na Janela CAS do GeoGebra, o estudo de vetores, matrizes e sistemas na Janela CAS, o método dos Mínimos Quadrados e, por fim, uma aplicação na qual se obtém a função que melhor se ajusta a um conjunto de dados.
+O SOF TWARE GEOGEBRA O software GeoGebra é um software matemático livre com linguagem acessível.
+Seus recursos possibilitam melhor compreensão e visualização de teorias, muitas vezes vistas apenas em sala de aula (HOHENWARTER, 2009) .
+Sua interface, composta por Janelas, trazem muitas contribuições para o ensino de um modo geral, como mostra a Figura 1.
+Figura 1 - Janelas do Software Geogebra Fonte: Acervo dos autores Brazilian Journal of Development Braz.
+J. of Develop., Curitiba, v. 5, n. 9, p. 1 5095 -15105 sep. 2019 ISSN 2525 -8761 15098 A Janela CAS é um ambiente simples de programação que exige poucos pré -requisitos, estimula a compreensão dos padrões matemáticos e desenvolve o raciocínio lógico.
+As operações básicas desenvolvidas nessa janela são apresentadas na Figura 2.
+A Janela de Visualização é um ambiente de esboço para gráficos de dimensão dois ou três.
+Por fim, a Janela de Álgebra é um ambiente de edição e armazenamento de escalares, funções, vetores e variáveis definidos na Janela CAS.
+Os cálculos na Janela CAS podem ser apresen tados de forma exata ou aproximada e a quantidade de casas decimais pode ser definida no menu Opções e submenu Arredondamento.
+O comando $Nº é usado para representar o conteúdo da célula de número Nº.
+No Quadro 1, são exibidas as operações básicas dese nvolvidas na Janela CAS.
+Operação Símbolo Exemplo Adição + 2+6 Subtração - 2-6 Multiplicação * 2*6 Divisão / 6/2 Potenciação ^ 2^6 Módulo abs() abs(-2) Raiz Quadrada sqrt() sqrt(4) Raiz ^(m/n) 8^(1/3) = √83 Fatorial !
+Número Primo ÉPrimo() ÉPrimo(5), resposta: true ÉPrimo(4), resposta: false Mínimo Múltiplo Comum MMC(,) MMC(3,2) Máximo Divisor Comum MDC(,) MDC(4,12) Fonte: Acervo dos autores.
+O comando Elemento( A, i, j) é utilizado para especificar algum elemento de listas, como coordenadas de vetores e termos de matrizes.
+Brazilian Journal of Development Braz.
+J. of Develop., Curitiba, v. 5, n. 9, p. 1 5095 -15105 sep. 2019 ISSN 2525 -8761 15099 2.1 PONTO, VETOR, MATRIZ E SISTEMA O Quadro 2 mostra os comandos que definem na Janela CAS ponto, vetor, matriz e sistema.
+Esses conceitos são muito importantes na Álgebra Linear e serão utilizados neste trabalho.
+Quadro 2 – Definições de ponto, vetor, matrizes e sistema.
+Ponto LetraMaiúscula:=(coordenadas separadas por vírgula) Vetor LetraMinúscula:=(coordenadas separadas por vírgula) Matriz 𝐴𝑚𝑥𝑛 𝐴∶={{𝑎11,𝑎12,…,𝑎1𝑛},⋯,{𝑎𝑚1,𝑎𝑚2,…,𝑎𝑚𝑛}} Sistema {equação 1, equação 2, ., equação n} Fonte: Acervo dos autores.
+O Quadro 3 apresentada alguns comandos aplicados em procedimentos envolvendo matrizes, como o escalonamento e a obtenção da inversa.
+Quadro 3 – Comandos usados em operações matriciais.
+Escalonamento de A MatrizEscalonada(A) Transposta de A MatrizTransposta(A) Inversa de A MatrizInversa(A) Matriz Identidade de Grau n MatrizIdentidade(n) Termo 𝑎𝑖𝑗 Elemento(A,i,j) Determinante de A Determinante(A) Fonte: Acervo dos autores.
+Os comandos dos Quadros 2 e 3 podem ser usados para solucionar sistemas lineares de duas formas.
+Primeiro, utilizando o comando Resolver(Equação, Variável) ou Soluções(Equação, Variável).
+Segundo, escalonando a matriz aumentada do sistema, como mostram os exemplos abaixo.
+Exemplo 1: Resolva o sistema {3x−y=10 x+y=18.
+A Figura 2 mostra a solução do sistema obtida através do escalonamento da matriz aumentada do sistema definido na célula 1 da Janela CAS pelo comando {3x−y=10,x+ y=18}.
+Em seguida, a matriz aumentada correspondente ao sistema foi definida na célula 2 com o comando M≔{{3,−1,10},{1,1,18}} e escalonada na célula 3 com o comando 𝑁≔Brazilian Journal of Development Braz.
+J. of Develop., Curitiba, v. 5, n. 9, p. 1 5095 -15105 sep. 2019 ISSN 2525 -8761 15100 MatrizEscalonada (M), dando origem à matriz N≔{{1,0,7},{0,1,11}}.
+Esta matriz corresponde ao escalonam ento de Gauss Jordan (LAY, 1999) e, os termos 7 e 11 são exatamente os valores das variáveis.
+É possível fazer uma interpretação geométrica que permite uma melhor compreensão dos valores obtidos.
+As equações 3x−y=10 e x+y= 18 podem ser esboçadas digitando -as novamente e habilitando as células correspondente a cada uma delas ou habilitando a célula 1, onde o sistema foi representado.
+Observe na Figura 2 que as retas correspondentes às equações se intersectam em um único ponto.
+Este ponto de interseção é exata mente a solução do sistema, que pode ser definido com o comando P≔ (Elemento (N,1,3),Elemento (N,2,3)).
+Figura 2 – Resolução do sistema do Exemplo 1 no GeoGebra.
+Exemplo 2: Resolva o sistema {4𝑥−2𝑦=1 16𝑥−8𝑦=4.
+Procedendo como no Exemplo 1, a matriz escalonada equivalente à matriz ampliada do sistema possui uma linha de zeros e uma variável sem pivô.
+Quando esta situação acontece o sistema possui infinitas soluções.
+Como pode ser observado na Figura 3 , as retas correspondentes às equações do sistema são colineares, isto é, possuem infinitos pontos em comum.
+Brazilian Journal of Development Braz.
+J. of Develop., Curitiba, v. 5, n. 9, p. 1 5095 -15105 sep. 2019 ISSN 2525 -8761 15101 Figura 3 – Resolução do sistema do Exemplo 2 no GeoGebra.
+Exemplo 3: Resolva o sistema {𝑥+𝑦=4 3𝑥+3𝑦=6.
+Realizando os passos dos exemplos anteriores, desta vez, a matriz escalonada do sistema possui uma linha na qual apenas o último termo é diferente de zero, logo o sistema é inconsistente.
+Neste caso, não existe nenhum ponto comum às duas equaçõ es.
+Na Figura 4, observe que as retas são paralelas e, por isso, não possuem pontos em comum.
+Figura 4 – Resolução do sistema do Exemplo 3 no GeoGebra Fonte: Acervo dos autores Brazilian Journal of Development Braz.
+J. of Develop., Curitiba, v. 5, n. 9, p. 1 5095 -15105 sep. 2019 ISSN 2525 -8761 15102 3.
+AJUSTE DE DADOS UTILIZANDO A ÁLGEBRA LINEAR O problema dos mínimos quadrados consiste em encontrar uma solução aproximada para o sistema inconsistente 𝐴𝑥⃗=𝑏⃗⃗ com erro mínimo.
+O que torna o sistema inconsistente é o fato do vetor 𝑏⃗⃗ não pertencer ao espaço gerado pelos vetores coluna da matriz 𝐴, denotado aqui por 𝑊.
+A projeção do vetor 𝑏⃗⃗ em 𝑊, denotada por 𝑝𝑟𝑜𝑗 𝑊𝑏⃗⃗, é o vetor de 𝑊 mais próximo de 𝑏⃗⃗, como ilustra a Figura 5.
+Substituindo 𝑏⃗⃗ por 𝑝𝑟𝑜𝑗 𝑊𝑏⃗⃗, o sistema consistente 𝐴𝑥⃗=𝑝𝑟𝑜𝑗 𝑊𝑏⃗⃗ forne cerá a melhor solução aproximada para 𝐴𝑥⃗=𝑏⃗⃗.
+O vetor 𝑏⃗⃗−𝑝𝑟𝑜𝑗 𝑊𝑏⃗⃗ , equivalente à 𝑏⃗⃗− 𝐴𝑥⃗, é ortogonal a 𝑊 e, por isso, pertence ao espaço nulo de 𝐴𝑇 (ANTON, 2006).
+Assim, o sistema 𝐴𝑇(𝑏⃗⃗−𝐴𝑥⃗)=0⃗⃗, equivalente à (𝐴𝑇𝐴)𝑥⃗=𝐴𝑇𝑏⃗⃗, fornece a melhor solução aproximada para o sistema inconsistente 𝐴𝑥⃗=𝑏⃗⃗.
+Este método é conhecido por Mínimos Quadrados.
+Figura 5 – O vetor 𝑔⃗ representa a projeção do vetor 𝑏⃗⃗ em 𝑊. Fonte: Acervo dos autores.
+O método dos Mínimos Quadrados é muito útil para estimar funções que melhor se ajustam a um conjunto de dados (KOLMAN & HILL, 2012).
+Este método será aplicado aqui para obter a melhor função horária 𝑥=𝑥0+𝑣0𝑡+𝛼 2𝑡2 que ajusta o conjunto de dados (0.211, 0.25), (0.391, 0.3), (0.527,0.35), (0.710,0.4), (0.918, 0.5), (1.080, 0.6), (1.393, 0.8) e (1.639,1), obtidos de um experimento realizado em Laboratório de Física, em que o carro se movia livremente com aceleração co nstante sobre um trilho de ar com uma inclinação fixa.
+A função horária 𝑥=𝑥0+𝑣0𝑡+𝛼 2𝑡2 fornece a posição em função do tempo de um móvel que descreve um Movimento Retilíneo Uniformemente Variado (MRUV), partindo no instante 𝑡=0 da posição inicial 𝑥0 com uma velocidade inicial 𝑣0 e aceleração 𝛼 (JEWETT JR. & SERWAY, 2012).
+A função foi determinada obtendo -se os coeficientes a = 𝛼 2, 𝑏=𝑣0 e 𝑐=𝑥0.
+Para isso, considerou -se que todos os dados, da forma (𝑡,𝑥(𝑡)), satisfaziam a equação 𝑥=𝑎𝑡2+𝑏𝑡+ Brazilian Journal of Development Braz.
+J. of Develop., Curitiba, v. 5, n. 9, p. 1 5095 -15105 sep. 2019 ISSN 2525 -8761 15103 𝑐. Esta suposição gerou o sistema inconsistente 𝐴𝑣⃗=𝑢⃗⃗ representado na Figura 6, juntamente com o esboço dos dados.
+Figura 6 – Sistema 𝐴𝑣⃗=𝑢⃗⃗ e esboço dos dados.
+Aplicando o método dos Mínimos quadrados, os coeficientes obtidos com a resolução do sistema 𝐴𝑇𝐴𝑣=𝐴𝑇𝑢 foram a = 0.23, 𝑏=0.09 e 𝑐=0.23, como mostra a Figura 7, juntamente com o esboço da função 𝑔(𝑥)=0.023 𝑥2+0.09𝑥+0.23, que é a curva que melhor se ajusta aos dados experimentais.
+Figura 7 – Resolução do sistema 𝐴𝑣=𝑢 e esboço da função aproximada.
+Brazilian Journal of Development Braz.
+J. of Develop., Curitiba, v. 5, n. 9, p. 1 5095 -15105 sep. 2019 ISSN 2525 -8761 15104 4.
+CONSIDERAÇÕES FINAIS Neste trabalho foi mostrado como o software GeoGebra pode ser aproveitado na disciplina de Álgebra Linear.
+A aplicação consistiu na obtenção da melhor curva, utilizando o método dos mínimos quadrados, para um experimento físico que descreve o movimento de um carro em um plano inclinado, o qual é classificad o como movimento retilíneo uniformemente variado.
+Como base para a implementação do programa foi usada a Janela CAS do GeoGebra que além de ser simples mostrou -se uma ferramenta poderosa.
+Adotar e incentivar o uso de softwares educativos, como o GeoGebra, no ensino e estudo de conteúdos matemáticos do ensino superior contribui com a aprendizagem dos estudantes.
+A possibilidade de ilustrar graficamente as soluções, algumas vezes analisadas apenas de forma abstrata, e realizar cálculos complexos de forma si mples e segura torna o ensino mais atrativo e interessante.
+A divulgação do uso de tecnologias em diversos níveis de estudo tem aumentado nos últimos anos e com ela novos professores vêm adotando softwares como ferramentas para aprimorar suas práticas pedagógicas e torná -las mais produtivas.
+AGRADECIMENTOS Os autores agradecem à Universidade Federal do Rio Grande do Norte pelo incentivo ao desenvolvimento de pesquisas e apoio financeiro.
+8ª edição, Porto Alegre: Bookman, 2001.
+Disponível em: Acesso em: 29 mar.
+HOHENWARTER, M.; HOHENWARTER, J. Ajuda GeoGebra manual oficial da versão 3.2, 2009.
+JEWETT JR., John W.; SERWAY, Raymond A. Física para cientistas e engenheirosmecânica.
+8ª edição, São Paulo: Cengage Learning, v.1, 2012.
+Brazilian Journal of Development Braz.
+J. of Develop., Curitiba, v. 5, n. 9, p. 1 5095 -15105 sep. 2019 ISSN 2525 -8761 15105 KOLMAN, Bernard; HILL, David.
+Introdução à Álgebra Linear com Aplicações.
+Álgebra Linear e suas Aplicações .
+2ª edição, Rio de Janeiro: LTC, 1999.
+Algebra Linear com Aplicações .
+4ª edição, Rio de Janeiro: LTC, 1998.

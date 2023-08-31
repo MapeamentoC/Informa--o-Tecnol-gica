@@ -1,0 +1,355 @@
+2018;23(4): 485-504 ISSN 1980-6973 (Online) ISSN 0104-9224 (Print) Artigos Técnicos Este é um artigo publicado em acesso aberto (Open Access) sob a licença Creative Commons Attribution Non-Commercial, que permite uso, distribuição e reprodução em qualquer meio, sem restrições desde que sem fins comerciais e que o trabalho original seja corretamente citado.Recebido: 07 Nov., 2018 Aceito: 08 Fev., 2019 E-mails: fabricio.alvesdealmeida@gmail.com (FAA)Resumo: Neste estudo, buscou-se analisar a variabilidade de instrumentos utilizados na indústria para avaliar as características geométricas de um ponto de solda.
+Para tal, inicialmente, utilizou-se da técnica de planejamento de experimentos para gerar um arranjo fatorial fracionado para as configurações dos parâmetros de soldagem em corpos de prova de aços galvanizados por imersão a quente, a fim de representar a amplitude real do processo de soldagem por pontos.
+Para as análises, utilizou-se o estudo de repetitividade e reprodutibilidade (GR&R), pelo método de análise de variância, para identificar os componentes de variação do sistema de medição avaliando três instrumentos distintos, comparando as medições realizadas por um analisador de imagens, a partir do ensaio metalográfico, e métricas de instrumentos convencionais de metrologia como o relógio apalpador e o paquímetro manual.
+Foram avaliadas duas características da qualidade, sendo elas: a profundidade de indentação e o diâmetro do ponto.
+A partir dos resultados foi possível verificar que o analisador de imagem apresentou uma menor variabilidade nas medições, caracterizando-se como a melhor escolha para as medições das respostas de qualidade do processo de solda por pontos apresentando um GR&R classificado como aceitável.
+Palavras-chave: Profundidade de indentação; Diâmetro do ponto; Análise do sistema de medição; GR&R; Variabilidade.
+Variation Causes Analysis Attributed to Different Metrological Instruments to Verify the Geometric Characteristics of a Spot Welding Process Abstract: In this study, we sought to analyze the variability of instruments used in industry to evaluate the geometric characteristics of a welding point.
+For this purpose, the design of experiments technique was used to generate a fractional factorial design for the welding parameter configurations in test specimens of hot dip galvanized steels in order to represent the real amplitude of the resistance spot welding process.
+For the analyzes, the repeatability and reproducibility (GR&R) study was used by the analysis of variance method to identify the variation components of the measurement system by evaluating three different instruments, comparing the measurements performed by an image analyzer, from the metallography and measurements of conventional metrology instruments such as the dial-gauge and the caliper.
+Two quality characteristics were evaluated: indentation depth and nugget width.
+From the results it was possible to verify that the image analyzer presented a lower variability in the measurements, being the best choice for the measurements of the quality responses of the spot welding process, presenting a GR&R classified as acceptable.
+Key-words: Indentation depth; Nugget width; Measurement system analysis; GR&R; Variability.
+Introdução O processo de soldagem por pontos, ou simplesmente RSW ( Resistance Spot Welding ) é um método de junção de estruturas amplamente utilizada no setor automobilístico [1], se destacando entre os processos de soldagem por apresentar características que favorecem a indústria com operação ágil, facilmente adequada para processos automáticos, manuseio simples, aplicações diversas e baixo custo [2-7].
+Dada sua ampla aplicabilidade e importância na indústria, novas metodologias para ajuste de parâmetros são aplicadas para aperfeiçoar o RSW, favorecendo o controle e a capabilidade desse processo [8].Análise das Causas de Variação Atribuídas a Diferentes Instrumentos Metrológicos para Verificação das Características Geométricas de um Processo de Soldagem por Pontos Fabrício Alves de Almeida1*, José Henrique de Freitas Gomes1 , Guilherme Ferreira Gomes2 , Estevão Luiz Romão1 , Pedro Paulo Balestrassi1  1 Universidade Federal de Itajubá – UNIFEI, Instituto de Engenharia de Produção e Gestão, Itajubá, MG, Brasil.
+2 Universidade Federal de Itajubá – UNIFEI, Instituto de Engenharia Mecânica, Itajubá, MG, Brasil.Almeida et al.
+2018;23(4): 485-504   486/504Para verificação da qualidade, destacam-se alguns métodos que acompanham o processo de soldagem em tempo real, tais como o ultrassom [9,10] , deslocamento do eletrodo [11,12] e raio X [13].
+Em outras situações consegue-se a análise por meio de instrumentos convencionais, muito utilizados na indústria [14], como também por métodos que permitem avaliar diversas características geométricas do produto soldado, como a análise por imagem.
+O relógio apalpador mensura a característica profundidade de indentação (PI) e o paquímetro, após realizado o cisalhamento da peça, mensura a característica diâmetro do ponto soldado (DP).
+Já a análise de imagem é feita a partir de um ensaio metalográfico, e é capaz de medir ambas características em uma mesma imagem.
+Normalmente as medições não são realizadas durante a soldagem, como em testes destrutivos no setor automotivo.
+Neste caso, faz-se uso de métodos quantitativos para verificar a qualidade desse processo, onde, segundo Majeske [15], deve-se validar o dispositivo de medição antes da coleta de dados.
+Em ambientes industriais geralmente encontram-se profissionais qualificados que realizam a medição das características geométricas, como PI e o DP , utilizando instrumentos mecânicos convencionais, tais como o relógio apalpador e o paquímetro [14].
+Ambas as medições são consideradas críticas para a qualidade, onde considera-se o valor de PI aceitável desde que seja inferior a 30% da espessura da chapa a ser soldada, já que uma maior indentação impacta diretamente a superfície e a capacidade de carga da solda.
+A indentação excessiva pode criar uma ligação fraca entre soldas e chapas de metal, especialmente em chapas empilhadas de soldagem de espessuras diferentes [16].
+Estas análises permitem avaliar a qualidade do ponto soldado e apresentam ampla aplicabilidade nas indústrias, impulsionando-as a melhorarem sua eficiência.
+Entretanto, melhorar apenas a produção pode não favorecer o processo como um todo, uma vez que os procedimentos de medição apresentam variabilidade, que pode ter origem no próprio sistema de medição (SM) (causa especial), bem como no processo de fabricação (causa comum) [17-22] .
+Portanto, faz-se necessário verificar a variabilidade do sistema de medição utilizado em processos industriais, como no RSW.
+Além disso, é importante destacar que em processos industriais, o erro de medição deve ser evitado, para que seja possível avaliar variabilidade e capabilidade do processo em si.
+Em metodologias voltadas essencialmente para a qualidade, como a metodologia Seis Sigma, antes de analisar o processo, verifica-se se o SM é capacitado [18].
+Uma das técnicas utilizada para avaliar os componentes de variação do SM, de acordo com Peruchi et al.
+[23], é o estudo de repetitividade e reprodutibilidade, ou simplesmente GR&R (Gage Repeatability and Reproducibility ), no qual quantifica-se a variabilidade do sistema, segregando e comparado a variação do SM, além de avaliar a variabilidade do processo de medição por meio da análise de variância (ANOVA).
+A repetitividade ( Figura 1a ) se caracteriza pela variação dentro do sistema em condições fixas e já definidas de medições (peça, ambiente, operador, instrumento entre outras), ou seja, a variação adquirida em um equipamento de medição utilizado várias vezes por um operador medindo uma única peça [15,24-28] .
+Deste modo, a reprodutibilidade (Figura 1b ) caracteriza-se pela variação média entre sistemas avaliados, sendo a variação encontrada na média de diferentes operadores utilizando um mesmo equipamento para realizar a medição de uma única peça [22,24,29-33] .
+Sob o mesmo ponto de vista, dentre os métodos aplicados junto ao GR&R, o ANOVA é amplamente utilizado em trabalhos como [21,25-26,29,34-41] .
+Alguns estudos recentes também realizam análise do sistema de medição no processo de RSW como [11,42-44] .
+Entretanto, ainda é escasso o número de trabalhos que comparam os instrumentos de medição utilizados no processo de RSW.
+Além disso, não se encontram disponíveis na literatura trabalhos que contrastam as características geométricas do ponto soldado utilizando o método ANOVA.
+Assim, dada a importância que um sistema de medição apresenta em processos industriais, sobretudo em RSW, este artigo se propõe a realizar uma análise comparativa dos seguintes métodos de medição: ensaios metalográficos e por meio de instrumentos convencionais como o relógio apalpador e paquímetro.
+Os dados obtidos nas medições e que, utilizou-se para comparação dos instrumentos, foram as características de DP e PI, já que essas são respostas de qualidade avaliadas durante a verificação dos produtos soldados no processo de RSW.
+Se faz necessário destacar que o processo de soldagem seguiu a técnica de planejamento de experimentos, ou DOE ( Design of experiments ), visando obter os dados que representam a amplitude real do processo de soldagem e realizando o menor número de experimentos possível sem prejudicar a análise estatística provida por essa metodologia.
+Para analisar a variabilidade das medições, utilizou-se o GR&R a partir do método univariado ANOVA para verificar a capabilidade do sistema de medição destes instrumentos no processo de soldagem a ponto Soldagem & Inspeção .
+2018;23(4): 485-504  487 487/504Análise das Causas de Variação Atribuídas a Diferentes Instrumentos Metrológicos para Verificação das Características Geométricas de um Processo de Soldagem por Pontos por resistência elétrica.
+Dessa forma, o presente artigo tem como objetivo avaliar a consistência das medições realizadas pelos instrumentos, permitindo inferir a identificação e análise de causas de variação encontradas, além de avaliar qual dos instrumentos apresenta maior confiabilidade nas medições para o processo RSW, sendo que ambos instrumentos são amplamente utilizados, tanto na indústria, como em pesquisas [14].
+Além disso, é possível verificar o grau de consistência dos operadores, atribuindo a eles, caso necessário, a variabilidade nas medições.
+É válido destacar que, não consta no escopo desse trabalho avaliar o processo de soldagem em si, mas sim analisar e, consequentemente, comparar a variabilidade atribuída aos instrumentos de medição avaliando características como DP e PI em diferentes corpos de prova, gerados a partir de um DOE em um processo de RSW.
+Este artigo segue a seguinte sequência: uma revisão bibliográfica sobre o processo RSW e a técnica de GR&R pelo método ANOVA.
+Na sequência, a seção 3 descreve os materiais e métodos empregados na elaboração do trabalho.
+Resultados experimentais e estatísticos são exibidos na seção 4.
+Por fim, a seção 5 trata das conclusões pertinentes e relevantes do assunto.
+O processo de soldagem por pontos Caracterizado por ser utilizado em grande escala na manufatura, o processo de soldagem a ponto se dá pela junção de duas peças de metal por meio da fusão do metal, sobrepostas por dois eletrodos que geram uma força e aquecimento suficiente no ponto de solda, perante a passagem de uma corrente elétrica [14].
+Resultados de (a) repetitividade e (b) reprodutibilidade de um sistema de medição considerando diferentes operadores para um mesmo processo.Almeida et al.
+2018;23(4): 485-504   488/504O ciclo de soldagem do RSW apresenta uma série de etapas, essa sequência do processo pode ser verificada na Figura 2 .
+No Passo 1 , os eletrodos interceptam as peças a serem soldadas fornecendo uma determinada força ( F) sobre as mesmas garantindo um bom assentamento; Passo 2 , ainda sob pressão, a corrente elétrica ( Iw) passa pelo sistema iniciando a formação do ponto de solda; Passo 3 , após o ponto ser formado, a corrente elétrica é interrompida, mas mantem-se a pressão mecânica dos eletrodos sobre as peças até que o ponto se solidifique; Passo 4 , a força F exercida se cessa; por fim, Passo 5 , os eletrodos deixam de interceptar as peças.
+O ciclo de soldagem por pontos exibindo as cinco principais fases do processo.
+Do mesmo modo, um processo de soldagem apresenta três conjuntos de parâmetros principais de regulagem, sendo eles: Corrente de soldagem, tempo de soldagem e força, ou pressão, do eletrodo.
+Estes parâmetros de controle estão presentes em diversos trabalhos que utilizam a RSW, tais como: [45-57] .
+Conhecer os fatores controláveis e incontroláveis do processo, bem como configurar adequadamente os parâmetros para a realização do processo de soldagem, favorecem para garantir um bom produto soldado, uma vez que esses fatores impactam na sua geometria e qualidade final [58].
+É possível verificar a qualidade do RSW através de ensaios específicos [59].
+Durante o processo é possível atribuir algumas geometrias que servem de caracterização da qualidade da solda a ponto, como a profundidade de indentação (PI) e o diâmetro do ponto soldado (DP) [58].
+Tais características podem ser verificadas conforme a Figura 3 .
+[46], o nugget , ou ponto de solda, deve apresentar como condições principais para avaliação da qualidade a aparência e força adequada, ou seja, é importante que o ponto soldado tenha um tamanho adequado.
+Segundo Zhang e Senkara [14], os requisitos sobre tamanhos de solda são possivelmente os critérios mais comumente usados em relação à qualidade da solda, onde o tamanho do nugget pode ser significativamente distinto para diferentes aplicações.
+O nível da penetração da solda deve estar entre 3 th e 6th, onde th é a espessura da peça, estando a maioria dos requisitos localizados entre de 4th e 5th e muitos tamanhos nominais de solda são ajustados nesta faixa [14].
+O ponto de solda pode ser medido através do seu diâmetro, que é exposto após um teste de cisalhamento.
+A Figura 4 descreve o procedimento para medir o diâmetro do ponto (DP), na qual sua métrica se dá pela média aritmética entre o diâmetro maior com o diâmetro menor, DP = ½ × ( Dmín + Dmáx).Soldagem & Inspeção .
+2018;23(4): 485-504  489 489/504Análise das Causas de Variação Atribuídas a Diferentes Instrumentos Metrológicos para Verificação das Características Geométricas de um Processo de Soldagem por Pontos Deste modo, este artigo utilizará o analisador de imagens e instrumentos mecânicos de metrologia, como o paquímetro e relógio apalpador, para mensurar as características de qualidade de diâmetro do ponto e profundidade de indentação.
+Estudo de Repetitividade e Reprodutibilidade (GR&R) O estudo de Repetitividade e Reprodutibilidade busca avaliar os elementos de variação de um sistema de medição, determinando se essa variabilidade é menos significativa que a apresentada no processo [25, 33, 60] .
+Pode-se considerar dois casos de controle para o SM, sendo eles o de produto e o de processo : • Produto : associado a decisões binárias, para produtos aprovados e não aprovados, perante inspeções por amostragem ou inspeções 100%, onde o GR&R visa estimar a tolerância do produto, não verificando o processo; • Processo de medição : associado a decisões direcionadas à adequação do SM para controlar o processo, visando o mesmo.
+Busca a estabilidade e entendimento da variabilidade natural do processo de medição.
+Em pesquisas voltadas a análise do sistema de medição, ou MSA (Measurement System Analysis ), tem-se o %R&R e ndc como os dois principais indicadores comumente utilizados para mensurar e avaliar o SM [19-20,24-25,41,61-63] : • %R&R : a estatística de porcentagem de Repetitividade & Reprodutibilidade (R&R), que dimensiona o desvio padrão do SM perante o desvio padrão total.
+• ndc: também conhecido como índice Sinal-Ruído, ou SNR ( Signal-to-Noise Ratio ), o número de categorias distintas, ou simplesmente ndc (number of distinct categories ), na qual dimensiona a variabilidade do SM.
+Procedimento manual de medição do diâmetro do ponto.
+Caracterização geométrica do ponto soldado.Almeida et al.
+2018;23(4): 485-504   490/504% & 100%SM TRRσ σ=  (1) 2 221.41PP SM SMndcσσ σ σ= = (2) O processo pode ser dividido em uma determinada quantidade de categorias e podendo ser representado a partir da estatística de variabilidade do sistema de medição chamada de ndc [15,19-20,24-25,33,61-62] .
+Se faz importante mencionar que o número de categorias distintas deve ser maior ou igual a 5.
+A Tabela 1 apresenta as diretrizes de aceitação do SM [15,18-20, 24-25,33,41,61-64] .
+Critério de classificação para o sistema de medição.
+Sistema de Medição %GR&R Aceitável < 10% Marginal 10% - 30% Inaceitável > 30% Em estudos GR&R onde se avalia uma única característica da qualidade, analisa-se uma única variável de resposta a fim de verificar a mesma diante a capabilidade do sistema de medição.
+Diante aos métodos usualmente utilizados, Wang e Chien [33] enfatizam, para abordagens univariadas, o método de análise de variância (ANOVA) e o método de Média e Amplitude (M&A).
+O método ANOVA se destaca, perante o M&A, pois estima com maior precisão as variâncias, além de proporcionar um maior número de informações, uma vez que fornece dados de interação entre operador e peça [24].
+2.2.1 Método de Análise de Variância (ANOVA) A variabilidade em medições de casos univariados pode originar do erro do operador, variabilidade do instrumento de medição ou mesmo erro do próprio produto.
+Assim, para um estudo GR&R completo, tem-se o seguinte modelo descrito na Equação 3 [18,25-27,29,61,65-67] : 1,2,., ( ) 1,2,., 1,2,.,i j ij ijkip y jo krµ α β αβ ε= =+++ + =  = (3) Sendo, y referente à variável de resposta, µ a média dos valores, αi ~N(0,σα) é a variável aleatória para peça, βj ~N(0,σβ) a variável aleatória para operador, αβij ~N(0,σαβ) refere-se à interação e εijk ~N(0,σε) o termo de erro estimado.
+Tem-se para p o número de peças, o número de operadores e r a quantidade de réplicas.
+Posteriormente, tratando-se de ensaios destrutivos, ou seja, no qual a repetitividade é realizada em uma nova réplica, o modelo apresenta termo de interação não significativo.
+Desta forma, tem-se a Equação 4. i j ijk yµα β ε=+++ (4) A representação dos componentes de variação estimados para um GR&R com interação significativa e não significativa estão descritos na Tabela 2 [19-20,22,38,41,62] .
+Sendo MQP, MQO, MQPO e MQE respectivamente, a média quadrática para a parte fatorial, média quadrática para o fator operador, a média quadrática para o termo de interação e a média quadrática para o termo do erro.Soldagem & Inspeção .
+2018;23(4): 485-504  491 491/504Análise das Causas de Variação Atribuídas a Diferentes Instrumentos Metrológicos para Verificação das Características Geométricas de um Processo de Soldagem por Pontos 3.
+Processo Experimental e Definição de Parâmetros Todos os corpos de prova empregados neste estudo foram preparados em uma máquina de soldagem de classificação estacionária (marca Presol Transweld ®, modelo TWPRV50) de potência nominal de 50 kVA, AC e corrente máxima de 6kA, como ilustrado na Figura 5 .
+Em adição, eletrodo de cromo-zircônio (Grupo A, classe 2), foi empregado para soldagem dos corpos de prova.
+Os materiais de estudo utilizados foram chapas de aço carbono galvanizado à quente (AISI 1012 – 0.10-0.15% C, 0.3-0.6% Mn, 0.005% Al, ≤ 0.03% P, ≤ 0.05% S, 40-50 g/m3 Zn) com 0.8 mm de espessura.
+As chapas foram preparadas de acordo com as especificações de dimensionalidade de acordo com a norma da Sociedade Americana de Soldagem, ou AWS ( American Welding Society ) [67], como exibido na Figura 6 .Tabela 2.
+Componentes de variação estimados para o GR&R.
+Com interação Sem interação Processo =2ˆMQP MQPO orασ−=2ˆMQP MQE orασ−= Repetitividade =2ˆ MQEεσ=2ˆ MQEεσ= Reprodutibilidade =22ˆˆMQO MQPO MQPO MQE pr rβ αβσσ−−+= +2ˆMQO MQE prβσ−= Sistema de Medição =22 repetitividade reprodutibilidadeˆˆσσ +22 repetitividade reprodutibilidadeˆˆσσ + Variação Total =22ˆˆP MSσσ+22ˆˆP MSσσ+ Figura 5.
+Equipamento utilizado para a soldagem dos corpos de prova.
+Máquina TWPRV50 Presol Transweld ®.Almeida et al.
+2018;23(4): 485-504   492/504A metodologia de planejamento de experimentos foi utilizada para executar adequadamente o procedimento experimental.
+De acordo com [68], o DOE é uma importante estratégia estatística para modelar experimentos.
+Assim, para a coleta de dados, uma matriz experimental foi criada utilizando-se de tal metodologia, para que as características das peças possam representar uma amplitude real do processo de RSW.
+Os limites para os parâmetros de soldagem foram determinados com base em testes preliminares, a fim de evitar o modo de falha do tipo "interfacial" no ponto de solda.
+A Tabela 3 exibe os valores definidos (valores máximos e mínimos), ressaltando que a pressão do eletrodo foi fixada em 2 bar.
+Dimensões dos corpos de prova utilizados.
+Limite dos parâmetros de regulagem para um processo de soldagem.
+Parâmetros UnidadeNíveis trabalhados -1 +1 Tpré-aquecimento[Ciclos ] 5 11 Ipré-aquecimento[%kA] 66 74 Tsoldagem[Ciclos ] 7 17 Isoldagem[%kA] 75 83 Diante aos limites especificados na Tabela 3 , gerou-se um Arranjo Fatorial Fracionado ( Tabela 4 ), com finalidade de se obterem peças de características distintas e que representem bem a amplitude do processo de soldagem.
+A coleta das características críticas da qualidade utilizando os instrumentos mecânicos convencionais, iniciou-se com a medição da profundidade de indentação (PI) a partir do relógio apalpador da marca Mitutoyo com resolução de 0.01 milímetros ( Figura 7a ) acoplados para as medições a partir de um bloco magnético.
+Em seguida, os corpos de prova foram submetidos ao teste de cisalhamento para exposição do ponto soldado e realização da métrica do diâmetro do ponto (DP) a partir do um paquímetro universal Digimess com graduação 0,05mm/1/128" (Figura 7b ).
+O teste de cisalhamento fora realizado a partir de um servomotor hidráulico Instron ® modelo 8801 com força axial de 100 kN.
+A coleta dos dados de medições por imagem foi realizada com uma nova réplica idêntica a partir da preparação metalográfica.
+Os corpos de prova foram marcados no centro do ponto, destacando o diâmetro real do mesmo e foram particionados, utilizando um disco abrasivo e com refrigeração.
+Em seguida, realizou-se o embutimento a quente das amostras utilizando a baquelite com particulado MP39, o que permitiu um melhor manuseio para Soldagem & Inspeção .
+2018;23(4): 485-504  493 493/504Análise das Causas de Variação Atribuídas a Diferentes Instrumentos Metrológicos para Verificação das Características Geométricas de um Processo de Soldagem por Pontos realizar o acabamento das peças.
+Diante disto, os corpos de prova foram lixados em uma máquina semiautomática com lixas de diferentes granulometrias (100, 200, 400 e 1200 respectivamente), o que possibilitou a melhoria da rugosidade superficial.
+Por fim, realizou-se o polimento dos corpos de prova e um ataque químico com Reativo de Iodo durante 15 segundos, de forma a possibilitar a identificação e visualização das características geométricas do produto soldado.
+A captura das imagens com um estereoscópio modelo SZ61 da marca Olympus® , com aumento de 20 vezes e analisado através do software Analysis Five® , Figura 8 .
+Para contemplar todas os itens necessários para um estudo de GR&R, contou-se com a colaboração, para coleta de dados em ambos os instrumentos, 4 operadores distintos nos quais: 1 operador especialista em metrologia dimensional, 1 operador com ampla experiência industrial e 2 operadores com alta experiência acadêmica em processos de soldagem e metalurgia.
+Antes da coleta de dados os operadores foram devidamente treinados pelo operador especialista em metrologia.
+Todos os ensaios de medições foram realizados de modo aleatorizado com 8 medições cada, para 3 réplicas, utilizando 4 operadores distintos, totalizando 96 dados para cada ensaio coletando duas características distintas da qualidade (DP e PI), apresentando um total de 384 dados de medição, descritos na Tabela 5 .
+É importante ressaltar que a medição da profundidade de indentação foi realizada na face superior do corpo de prova para ambos os instrumentos (relógio apalpador e análise de imagem), na qual apresenta maior valor de profundidade de indentação.Tabela 4.
+Arranjo fatorial fracionado para execução dos ensaios experimentais.
+NConfiguração de entrada Tpré-aquecimentoIpré-aquecimentoTsoldagemIsoldagem (ciclos ) (%kA ) (ciclos ) (%kA ) 1 11 74 7 83 2 11 66 17 83 3 5 74 7 83 4 11 74 7 75 5 5 66 17 83 6 11 66 17 75 7 5 74 17 83 8 11 74 17 83 Figura 7.
+Instrumentos mecânicos de medição: (a) Relógio apalpador Mitutoyo e (b) Paquímetro Universal Digimess .Almeida et al.
+2018;23(4): 485-504   494/504 Figura 8.
+Captura da imagem de uma das peças do estudo.
+Medições realizadas pelos instrumentos para cada característica da qualidade para o GR&R.
+p oAnálise por imagem - PI Análise por imagem - DP Relógio Apalpador Paquímetro r = 1 r = 2 r = 3 r = 1 r = 2 r = 3 r = 1 r = 2 r = 3 r = 1 r = 2 r = 3 1 A 0.1910 0.2023 0.1919 4.2946 4.2741 4.3528 0.1400 0.1200 0.1700 5.4000 5.3000 5.3000 1 B 0.2021 0.1909 0.2016 4.3239 4.3246 4.2935 0.2000 0.2000 0.2000 5.1000 5.1000 5.2000 1 C 0.2010 0.1916 0.1912 4.3440 4.3542 4.3542 0.1800 0.1800 0.1300 5.4500 5.4500 5.4500 1 D 0.1915 0.1908 0.1921 4.3843 4.3542 4.3843 0.2000 0.1900 0.2100 5.5000 5.7000 5.8000 2 A 0.2107 0.2116 0.2117 4.6539 4.7241 4.7844 0.1300 0.0500 0.1100 4.4000 4.4500 4.4000 2 B 0.2021 0.2122 0.2211 4.7436 4.7246 4.7544 0.1050 0.2100 0.2000 4.2500 4.3500 4.4000 2 C 0.2120 0.2222 0.2220 4.7342 4.7248 4.7335 0.2000 0.1800 0.0800 4.5500 4.5500 4.5500 2 D 0.2117 0.2016 0.2118 4.7243 4.8439 4.8544 0.1800 0.1700 0.2000 4.8500 4.8000 4.6500 3 A 0.1314 0.1214 0.1227 3.5340 3.6637 3.6440 0.1000 0.1000 0.1000 5.2000 5.2000 5.3000 3 B 0.1333 0.1217 0.1215 3.6045 3.6148 3.5648 0.2100 0.2100 0.2100 4.9000 4.7500 4.8500 3 C 0.1217 0.1214 0.1316 3.6448 3.6350 3.6444 0.1000 0.1000 0.1000 4.8000 4.8500 4.8500 3 D 0.1216 0.1310 0.1318 3.6741 3.6739 3.6546 0.1300 0.1400 0.1000 4.4000 4.4000 4.8000 4 A 0.0687 0.0723 0.0704 3.5444 3.5442 3.5643 0.0900 0.0700 0.0600 4.7500 4.8500 4.7000 4 B 0.0714 0.0691 0.0709 3.5745 3.5455 3.5344 0.1300 0.1300 0.1100 4.2000 4.3000 4.4500 4 C 0.0694 0.0689 0.0707 3.5343 3.5642 3.5138 0.1100 0.1200 0.1000 4.4500 4.5500 4.4500 4 D 0.0677 0.0718 0.0722 3.5251 3.5743 3.5743 0.1300 0.1200 0.1200 4.4000 4.1500 4.6000 5 A 0.2518 0.2524 0.2612 4.5848 4.5141 4.5237 0.1700 0.2100 0.1600 4.3000 4.4000 4.3000 5 B 0.2616 0.2612 0.2714 4.5540 4.5438 4.5639 0.2300 0.2800 0.2850 4.0500 4.1500 3.6000 5 C 0.2618 0.2511 0.2612 4.6136 4.6437 4.5847 0.1900 0.1200 0.1300 4.9000 5.0000 5.0000 5 D 0.2717 0.2711 0.2519 4.5336 4.5239 4.6239 0.2200 0.2200 0.2600 5.0000 4.6000 4.3000 6 A 0.2017 0.1918 0.2018 3.8045 3.7843 3.7950 0.1000 0.1500 0.1100 4.1000 4.0500 4.0500 6 B 0.1914 0.1915 0.2014 3.7946 3.8041 3.8246 0.2000 0.1500 0.1900 4.0000 4.1500 4.2000 6 C 0.2017 0.2013 0.2015 3.8439 3.8334 3.8341 0.1800 0.1800 0.0900 5.0000 5.1000 5.1000 6 D 0.2023 0.2019 0.1929 3.8439 3.8745 3.8744 0.2100 0.1600 0.1200 5.0000 5.2000 4.9500 7 A 0.1689 0.1715 0.1720 4.7939 4.8639 4.7944 0.1500 0.0600 0.1000 4.4000 4.4500 4.4000 7 B 0.1818 0.1715 0.1712 4.8237 4.8050 4.8139 0.3200 0.2000 0.2000 4.2000 4.3500 4.4000 7 C 0.1682 0.1725 0.1709 4.8346 4.8143 4.8248 0.1200 0.1400 0.1300 4.5000 4.6000 4.4500 7 D 0.1712 0.1638 0.1708 4.8144 4.9245 4.8441 0.2000 0.1500 0.2000 4.6500 4.9000 4.3000 8 A 0.1416 0.1430 0.1417 4.0739 4.1646 4.0846 0.1900 0.2700 0.2600 5.5000 5.4500 5.4500 8 B 0.1414 0.1410 0.1416 4.1445 4.1242 4.1339 0.3200 0.3300 0.3100 5.6500 5.7500 5.8000 8 C 0.1407 0.1421 0.1392 4.1841 4.1639 4.0938 0.1800 0.1800 0.1500 4.5500 4.6000 4.5000 8 D 0.1375 0.1415 0.1429 4.1243 4.1945 4.1841 0.3400 0.3200 0.3200 5.3500 5.1500 5.4500 Todos os valores apresentam escala em milímetros (mm).Soldagem & Inspeção .
+2018;23(4): 485-504  495 495/504Análise das Causas de Variação Atribuídas a Diferentes Instrumentos Metrológicos para Verificação das Características Geométricas de um Processo de Soldagem por Pontos 4.
+Resultados e Discussão A partir dos dados coletados, a aplicação e análise foram realizadas separadamente para as duas características de qualidade, sendo elas a profundidade de indentação ( PI) e o diâmetro do ponto ( DP).
+Resultados para a Profundidade de Indentação (PI) Inicialmente, visando calcular a diferença entre os pares de medições, utilizou-se o teste t pareado para determinar a média e mediana das suas variações e verificando se a média e mediana das diferenças, respectivamente, são significativas.
+A Tabela 6 apresenta os testes pareados para a profundidade de indentação considerando os dois instrumentos de medição.
+É possível verificar que as médias das diferenças são estatisticamente iguais, apresentando um t-value = -0.18, com probabilidade de 85.5% desta hipótese ser verdadeira.
+Testes pareados para profundidade de endentação.
+Amostra N Média DesvPad EP Média Relógio Apalpador 32 0.1696 0.0620 0.0110 Analysis Five 32 0.1719 0.0559 0.0099 Diferença Pareada 32 -0.0023 0.0709 0.0125 Teste t da diferença das médias = 0 (vs ≠ 0) t-value -0.18 p-value 0.855 Através da aplicação da ANOVA, tem-se que o termo de interação não é significativo para as medições realizadas pelo analisador de imagens, com p-value = 0.396 conforme apresentado na Figura 9a .
+Entretanto, para o instrumento relógio apalpador, pode-se verificar que o termo de interação é significativo, como ilustrado na Figura 9b com p-value = 0.000.
+O valor do nível de significância α, considerado para remoção do termo de interação, é igual a 5%.
+Ainda pela ANOVA é possível verificar que, para ambos instrumentos de medição, rejeita-se as hipóteses nulas das peças serem iguais, no qual apresentam p-value = 0.000.
+Entretanto, apenas para o analisador de imagem rejeita a hipótese nula dos operadores replicarem a mesma medição para a uma mesma peça ( p-value = 0.000), uma vez que, para as métricas realizadas pelo Relógio Apalpador apresentou, para esta análise, p-value = 0.683.
+Realizando um estudo de repetitividade e reprodutibilidade de caráter univariado para cada um dos instrumentos de medição, tem-se os indicadores de avaliação GR&R descritos na Tabela 7 .
+A partir da aplicação Figura 9.
+Gráfico de interação para (a) Analisador de imagem e (b) Relógio apalpador.Almeida et al.
+2018;23(4): 485-504   496/504do estudo, é possível verificar que a %R&R se classificou como inaceitável para o relógio apalpador, enquanto o estudo das medições pelo analisador de imagens fora classificado como aceitável , com %R&R = 8.63 e o número de categoria distintas identificadas pelo sistema igual a 16.
+Com finalidade de avaliar e comparar a distribuição das medições para cada um dos instrumentos, foi gerado um gráfico do tipo " Boxplot " que visa exibir a forma, tendência central e variabilidade da amostra analisada.
+Para tal, tem-se o comparativo para cada uma das 8 peças, ilustradas na Figura 10 .
+Deste modo, é possível verificar, graficamente, a diferença da variabilidade dos dois instrumentos, onde o relógio apalpador se mostrou menos eficaz quando comparado à medição realizada através do analisador de imagens.
+Além disso, destaca-se a presença de valores discrepantes ( outliers ) nas métricas da peça 7.Tabela 7.
+GR&R para profundidade de endentação.
+FonteAnalisador de imagem Relógio Apalpador σ % Contribuição σ % Contribuição σGR&R0.0050865 8.63 0.0541768 76.31 σrepetitividade0.0050865 8.63 0.0315651 44.46 σreprodutibilidade0 0 0.0440315 62.02 σoperadores0 0 0.0383582 54.03 σpeça×operadores– – 0.0216199 30.45 σpeça-a-peça0.0587189 99.63 0.0458871 64.63 σpeça0.0587189 99.63 0.0458871 64.63 σT0.0589388 100 0.0709982 100 ndc 16 1 Figura 10.
+Boxplot para profundidade de endentação.Soldagem & Inspeção .
+2018;23(4): 485-504  497 497/504Análise das Causas de Variação Atribuídas a Diferentes Instrumentos Metrológicos para Verificação das Características Geométricas de um Processo de Soldagem por Pontos 4.2.
+Resultados para o Diâmetro do Ponto (DP) O segundo estudo realizado foi para analisar os resultados da medição do diâmetro do ponto de solda.
+Após realizar todas as medições pelo relógio apalpador, os corpos de provas foram submetidos ao teste de cisalhamento, com intuito de realizar a ruptura e consequentemente expor o ponto soldado para que o mesmo fosse medido.
+A partir de um paquímetro universal Digimess , Figura 7b , e através do software analisador de imagens Analysis Five® fora realizado as medições, seguindo a aleatoriedade da coleta, obtendo, assim, 96 dados de medições, coletadas randomicamente, disponíveis na Tabela 5 .
+Nos testes pareados para tal característica da qualidade, Tabela 8 , é possível verificar que a média das diferenças não são estatisticamente iguais para um nível de significância de 5%, apresentando p-value = 0.000.
+Gráfico de interação para (a) Analisador de imagem e (b) Paquímetro.Aplicando a análise de variância para as leituras do DP , constatou-se que, a partir das métricas do analisador de imagem, pode-se inferir que se rejeita as hipóteses nulas dos operadores replicarem a mesma medição para a uma mesma peça, bem como das peças serem iguais, tendo ambas um p-value = 0.000.
+Para as métricas realizadas pelo paquímetro, rejeita-se também a hipótese nula das peças serem iguais, porém não se rejeita a hipótese nula dos operadores realizarem as mesmas medições para uma única peça, apresentando p-value = 0.003 e p-value = 0.448, respectivamente.
+No que diz respeito ao nível de interação entre peça e operador para cada um dos instrumentos utilizados, as métricas realizadas pelo analisador de imagens apresentaram termo de interação não significativo, com p-value = 0.567.
+Entretanto, para o instrumento paquímetro, pode-se verificar que o termo de interação é significativo, caracterizando-se pelo p-value = 0.000.
+O comportamento das interações entre peça e operador para o analisador de imagem e o paquímetro pode ser melhor visualizado na Figura 11a e 11b , respectivamente.Tabela 8.
+Testes pareados para o diâmetro do ponto.
+Amostra N Média DesvPad EP Média Paquímetro 32 4.7542 0.4753 0.0840 Analysis Five 32 4.2034 0.4751 0.0840 Diferença Pareada 32 0.551 0.701 0.124 Teste t da diferença das médias = 0 (vs ≠ 0) t-value 4.44 p-value 0.000Almeida et al.
+2018;23(4): 485-504   498/504Diante aos indicadores de avaliação GR&R na Tabela 9 , verifica-se que a %R&R para o paquímetro se classificou como inaceitável, apresentando uma alta porcentagem de variação das leituras para este instrumento.
+Entretanto, o analisador de imagens se classificou como aceitável para os dois índices ( %R&R = 8.04 e ndc = 17), mostrando que neste estudo tal instrumento apresentou menor variabilidade, consequentemente, menor erro de medição.
+FonteAnalisador de imagem Relógio Apalpador σ % Contribuição σ % Contribuição σGR&R0.040278 8.04 0.369652 73.96 σrepetitividade0.033796 6.75 0.134145 26.84 σreprodutibilidade0.021912 4.38 0.344453 68.92 σoperadores0.021912 4.38 0 0 σpeça×operadores– – 0.344453 68.92 σpeça-a-peça0.499109 99.68 0.336376 67.30 σpeça0.499109 99.68 0.336376 67.30 σT0.500732 100 0.499792 100 ndc 17 1 Visando realizar uma análise comparativa graficamente da variabilidade e tendência central das mensurações realizadas com o analisador de imagens e o paquímetro, gerou-se gráficos do tipo " Boxplot " com intuito de avaliar as métricas para cada uma das oito peças.
+A partir da Figura 12 , é possível verificar graficamente a diferença da variabilidade dos dois instrumentos, onde é possível verificar que há uma grande diferença na repetitividade das medições entre o analisador de imagens e o paquímetro, uma vez que a variabilidade das medições pelo paquímetro é visivelmente maior, caracterizando o que fora confirmado a partir dos testes pareados na Tabela 8 .
+Boxplot para a característica diâmetro do ponto.Soldagem & Inspeção .
+2018;23(4): 485-504  499 499/504Análise das Causas de Variação Atribuídas a Diferentes Instrumentos Metrológicos para Verificação das Características Geométricas de um Processo de Soldagem por Pontos Além disso, verifica-se a presença de dois outliers nas métricas realizadas na peça 7, tanto para o analisador de imagem quanto pelo paquímetro, caracterizando um possível erro sistemático no processo.
+Análise dos Resultados Após verificar os resultados da aplicação do estudo GR&R a partir do método ANOVA, constatou que apenas as métricas realizadas pelo analisador de imagem ( Analysis Five® ) obteve uma classificação considerada aceitável (%R&R e ndc).
+Além disso, constatou-se pelos testes pareados e pelo Boxplot que tal instrumento apresentou menor variabilidade perante aos demais, relógio apalpador e paquímetro.
+Diante as análises é possível inferir que existe uma grande variabilidade atribuída aos instrumentos mecânicos, apresentando menor repetitividade nas medições, além de pontos fora de controle para a peça 7 .
+Com finalidade de verificar o comportamento dos operadores, gerou-se gráficos de ensaios de medição (Gage Run Chart ) para cada instrumento e para cada uma das características analisadas.
+A Figura 13 apresenta o resultado do Gage Run Chart para a profundidade de indentação (PI), onde é possível verificar que as leituras realizadas pelo analisador de imagem ( Figura 13a ) apresenta maior homogeneidade nos resultados de leitura comparado aos do relógio apalpador ( Figura 13b ).
+Gage Run Chart para (a) analisador de imagem e (b) relógio apalpador.Almeida et al.
+2018;23(4): 485-504   500/504Aplicando o mesmo procedimento para a característica diâmetro do ponto (DP), verifica-se pelo Gage Run Chart da Figura 14a que o comportamento das métricas dos operadores não apresenta resultados discrepantes para o analisador de imagem.
+Entretanto, na Figura 14b , o comportamento dos operadores com paquímetro ilustra uma alta variabilidade, apresentando pouca homogeneidade nas mensurações.
+Faz-se necessário ressaltar que, para esta característica, o operador D apresentou maior variabilidade em seus resultados diante aos demais operadores.
+Gage Run Chart para (a) analisador de imagem e (b) paquímetro.Soldagem & Inspeção .
+2018;23(4): 485-504  501 501/504Análise das Causas de Variação Atribuídas a Diferentes Instrumentos Metrológicos para Verificação das Características Geométricas de um Processo de Soldagem por Pontos Além da avaliação dos resultados práticos sobre a variabilidade dos instrumentos, se faz necessário discutir também o que isso implica ao processo de soldagem.
+Sabe-se que no processo RSW, o ponto de solda muitas vezes pode ser irregular (não sendo perfeitamente esférico), além de não apresentar profundidade de indentação constante dado a diversos ruídos incontroláveis, como vibrações, que podem existir durante o processo.
+Deste modo, o ideal seria medir a região que apresente menor valor de diâmetro no ponto de solda e, consequentemente, a região que apresente maior valor de profundidade de indentação, caracterizando como uma das limitações deste estudo, visto que, na análise por metalografia, fora realizada apenas uma única seção macrográfica para cada peça.
+O procedimento experimental desse estudo foi realizado de maneira minuciosa para que apresentasse a imagem adequada, proporcionando um plano no centro do ponto, entretanto, as inspeções de rotina em ambientes industriais podem não apresentar o mesmo cuidado, caracterizando maior variabilidade ao verificar a qualidade do produto soldado, onde o valor real das suas características geométricas pode não ser devidamente apresentado, como o diâmetro do ponto e a profundidade de indentação.
+Diante aos resultados apresentados, pode-se inferir que as medições realizadas pela inspeção metalográfica apresentam uma menor variabilidade e maior consistência das medições.
+Entretanto, em termos de processo de soldagem, tem-se que esse tipo de inspeção pode não apresentar valores adequados, onde se faz necessário um estudo de bias e linearidade junto a uma avaliação por um método de medição tridimensional, como por tomografia, para avaliar, com precisões exatas, todas as características geométricas do ponto para cada um dos corpos de prova.
+Isso proporcionaria verificar a exatidão do instrumento de medição e, consequentemente, se os valores encontrados condizem aos valores reais das características de qualidade analisadas.
+Assim, diante ao que fora discutido, tem-se como limitação do estudo que as características das medições por inspeção metalográfica podem não apresentar um valor real das características geométricas para avaliar a qualidade do ponto de solda.
+Conclusões As leituras dimensionais através de instrumentos mecânicos são amplamente utilizadas na indústria por sua rápida avaliação e facilidade, enquanto a análise de imagem demanda mais tempo e disponibilidade para sua análise.
+Com intuito de verificar a variabilidade atribuída de diferentes instrumentos de medição para o processo de soldagem a ponto por resistência elétrica, este artigo realizou a comparação de distintos instrumentos de medição, verificando as características de profundidade de indentação e diâmetro do ponto.
+Para esta análise, utilizou-se testes pareados, com intuito de verificar a média das diferenças, e o estudo de repetitividade e reprodutibilidade, no qual fornece os componentes de variação e a classificação dos índices do sistema de medição.
+Além disso, verificou-se a variabilidade das métricas e comportamento dos operadores em relação aos dados coletados pelo analisador de imagem e os instrumentos mecânicos.
+Diante o estudo, verificando o grau de confiabilidade dos resultados para o processo de RSW, é possível inferir: • Para a característica profundidade de indentação (PI), verificou-se através de testes pareados que a média das diferenças são estatisticamente iguais, para os dados coletados dos dois instrumentos.
+Diante ao estudo GR&R, o analisador de imagens classificou-se como aceitável, apresentando %R&R = 8.63 e o número de categorias distintas identificadas pelo sistema igual a 16.
+Entretanto, o relógio apalpador foi classificado como inaceitável .
+Constatou-se também que há uma coerência maior nas medições realizadas pelo analisador de imagem, onde as métricas do relógio apalpador apresentam uma alta variabilidade nos resultados, além de um valor discrepante ( outlier ) nas métricas da peça 7; • O outro comparativo dos instrumentos de medição se dá entre o paquímetro e as medições realizadas pelo analisador de imagem para característica diâmetro do ponto.
+Neste caso, a média das diferenças não é estatisticamente igual para os dois instrumentos de medição, além de ser evidente a alta variabilidade dos dados coletados pelo paquímetro ( GR&R inaceitável ), diferentemente do que se constatou a partir das medições realizadas pelo analisador de imagem, que classificou seus resultados %R&R e ndc como aceitáveis, valores iguais a 8.04 e 17, respectivamente; • Infere-se também que medições feitas através da análise por imagem apresentam um erro de medição menor, com resultados de maior coerência e confiabilidade para o processo produtivo.
+Os instrumentos mecânicos analisados neste estudo tendem a apresentar maior variabilidade nas leituras, o que pode ser Almeida et al.
+2018;23(4): 485-504   502/504causado por erros de histerese (relógio apalpador) e por um posicionamento difícil para a medida da largura da pepita (paquímetro); • Ambos os instrumentos foram capazes de identificar causas de variação no processo de RSW, como no caso da peça 7 que apresentou maior variabilidade nas métricas realizadas para os instrumentos mecânicos, apresentando outliers nas leituras e sendo caracterizada como um erro sistemático do processo de medição.
+No entanto, o analisador de imagens forneceu resultados de medição mais consistentes e precisos.
+Assim, é possível que, em um primeiro momento, os instrumentos mecânicos não sejam a melhor escolha para avaliar a qualidade da solda por pontos com precisão.
+Diante aos resultados, é possível concluir que a análise por inspeção metalográfica apresentou resultados mais consistentes entre as repetitividades e reprodutibilidades, apresentando baixa variabilidade diante aos instrumentos mecânicos.
+Contudo, visando a qualidade de solda a ponto e como proposta para estudos futuros, se faz necessário verificar se tais resultados apresentam os valores reais das características geométricas, onde um estudo de bias e linearidade seria capaz de avaliar a exatidão dos dispositivos, mediante a valores de referência, como em análises tridimensionais, por tomografia.
+Agradecimentos Os autores gostariam de agradecer o suporte do CNPq, CAPES e FAPEMIG.
+Referências [1] Gomes GF, Viéville P, Durrenberger L. Dynamic behavior investigation of spot welding machines and its influence on weld current range by modal analysis.
+Journal of the Brazilian Society of Mechanical Sciences and Engineering.
+[2] Zhang Y, Li Y, Luo Z, Yuan T, Bi J, Wang ZM, et al.
+Feasibility study of dissimilar joining of aluminum alloy 5052 to pure copper via thermo-compensated resistance spot welding.
+2016;106:235-246. matdes.2016.05.117 .
+[3] Bi J, Song J, Wei Q, Zhang Y, Li Y, Luo Z. Characteristics of shunting in resistance spot welding for dissimilar unequalthickness aluminum alloys under large thickness ratio.
+2016;101:226-235. matdes.2016.04.023 .
+Critical review of automotive steels spot welding: process, structure and properties.
+Science and Technology of Welding and Joining.
+2013;18(5):361-403. http:// dx.doi.org/10.1179/1362171813Y.0000000120 .
+[5] Li YB, Li YT, Shen Q, Lin ZQ.
+Magnetically assisted resistance spot welding of dual-phase steel.
+[6] Li YB, Shen Q, Lin Z, Hu SJ.
+Quality improvement in resistance spot weld of advanced high strength steel using external magnetic field.
+Science and Technology of Welding and Joining.
+[7] Pereira AM, Ferreira JM, Loureiro A, Costa JDM, Bártolo PJ.
+Effect of process parameters on the strength of resistance spot welds in 6082-T6 aluminium alloy.
+[8] Marques PV, Modenesi PJ, Bracarense AQ.
+Welding: fundamentals and technology.
+[9] Andreoli AF, Chertov AM, Maev R. Correlation between Peel Test and Real Time Ultrasonic Test for Quality Dignosis in Resistance Spot Welding.
+2016;21(3):282-289. http:// dx.doi.org/10.1590/0104-9224/SI2103.04 .
+[10] Ulbrich D, Kowalczyk J, Jósko M, Selech J.
+The analysis of spot welding joints of steel sheets with closed profile by ultrasonic method.
+Case Stududies in Nondestructive Testing and Evaluation.
+[11] Amaral FF, Almeida FA, Costa SC, Leme RC, Paiva AP.
+Aplicação da Metodologia de Superfície de Resposta para Otimização do Processo de Solda a Ponto no Aço Galvanizado AISI 1006.
+2018;23(2):129-142. org/10.1590/0104-9224/si2302.02 .
+Characteristics of shunting effect in resistance spot welding in mild steel based on electrode displacement.
+2018;115:233-242. org/10.1016/j.measurement.2017.10.049 .
+[13] Shibalov MV, Kurkov AA, Maslov AE.
+A method for evaluating the reliability of welded joints on the basis of statistical processing of radiographic inspection results.
+Resistance welding: fundamentals and applications.
+Boca Raton: CRC press; 2011. org/10.1201/b11752 .
+Approval criteria for multivariate measurement systems.
+AWS D8.7: ecomended Practices for Automotive Weld Quality - Resistance Spot Welding.
+[17] Pereira RBD, Peruchi RS, De Paiva AP, Da Costa SC, Ferreira JR.
+Combining Scott-Knott and GR&R methods to identify special causes of variation.
+2016;82:135-144. http:// dx.doi.org/10.1016/j.measurement.2015.12.033 .
+[18] Peruchi RS, Balestrassi PP, De Paiva AP, Ferreira JR, Carmelossi MS. A new multivariate gage R&R method for correlated characteristics.
+International Journal of Production Economics.
+2013;144(1):301-315.Soldagem & Inspeção .
+2018;23(4): 485-504  503 503/504Análise das Causas de Variação Atribuídas a Diferentes Instrumentos Metrológicos para Verificação das Características Geométricas de um Processo de Soldagem por Pontos [19] Woodall WH, Borror CM.
+Some relationships between gage R&R criteria.
+Quality and Reliability Engineering International.
+Improving wooden parts' quality by adopting DMAIC procedure.
+Quality and Reliability Engineering International.
+[21] Costa R, Angélico D, Reis MS, Ataíde JM, Saraiva PM.
+Paper superficial waviness: Conception and implementation of an industrial statistical measurement system.
+2005;544(1):135-142. aca.2005.02.027 .
+[22] Senol S. Measurement system analysis using designed experiments with minimum α–β Risks and n. Measurement.
+[23] Peruchi RS, Paiva AP, Balestrassi PP, Ferreira JR, Sawhney R. Weighted approach for multivariate analysis of variance in measurement system analysis.
+[24] Automotive Industry Action Group.
+Measurement systems analysis - Reference Manual.
+Michigan: General Motors Supplier Quality Requirements Task Force; 2010.
+[25] Al-Refaie A, Bata N. Evaluating measurement and process capabilities by GR&R with four quality measures.
+[26] Awad M, Erdmann TP, Shanshal Y, Barth B.
+A measurement system analysis approach for hard-to-repeat events.
+2009;21(3):300-305. org/10.1080/08982110902852344 .
+[27] Burdick RK, Borror CM, Montgomery DC.
+A review of methods for measurement systems capability analysis.
+[28] Wu CW, Pearn WL, Kotz S. An overview of theory and practice on process capability indices for quality assurance.
+International Journal of Production Economics.
+2009;117(2):338-359. http:// dx.doi.org/10.1016/j.ijpe.2008.11.008 .
+[29] Erdmann TP, Does RJ, Bisgaard S. Quality quandaries*: a gage R&R study in a hospital.
+[30] Knowles G, Vickers G, Anthony J.
+Implementing evaluation of the measurement process in an automotive manufacturer: a case study.
+Quality and Reliability Engineering International.
+[31] Polini W, Turchetta S. Test protocol for micro-geometric wear of sintered diamond tools.
+2004;257(3):246-256. http:// dx.doi.org/10.1016/j.wear.2003.12.008 .
+[32] Van Den Heuvel, E. R., Trip, A.
+Evaluation of measurement systems with a small number of observers.
+Process-oriented basis representation for a multivariate gauge study.
+Computers & Industrial Engineering.
+An approach for simple linear profile gauge R&R studies.
+Discrete Dynamics in Nature and Society.
+[35] Deshpande AA, Ramya A, Vishweshwar V, Deshpande GR, Roy AK.
+Applications of gage reproducibility & repeatability (GRR): understanding and quantifying the effect of variations from different sources on a robust process development.
+Organic Process Research & Development.
+[36] Zhu X, Zhao Z, Wang L, Zhang L. A new method to measure fat content in coconut milk based on Y-type optic fiber system.
+Optik-International Journal for Light and Electron Optics.
+2014;125(20):6172-6178. ijleo.2014.06.115 .
+Number of distinct data categories and gage repeatability and reproducibility.
+A double (but single) requirement.
+2013;46(8):2514-2518. http:// dx.doi.org/10.1016/j.measurement.2013.04.065 .
+[38] Kaija K, Pekkanen V, Mäntysalo M, Koskinen S, Niittynen J, Halonen E, et al.
+Inkjetting dielectric layer for electronic applications.
+2010;87(10):1984-1991. http:// dx.doi.org/10.1016/j.mee.2009.12.028 .
+Gauge capability studies for attribute data.
+Quality and Reliability Engineering International.
+[40] Johnson JA, Widener S, Gitlow H, Popovich E. A "Six Sigma"© black belt case study: GEP Box's paper helicopter experiment part A.
+2006;18(4):413-430. org/10.1080/08982110600875894 .
+[41] Dejaegher B, Jimidar M, De Smet M, Cockaerts P, SmeyersVerbeke J, Vander Heyden Y.
+Improving method capability of a drug substance HPLC assay.
+Journal of Pharmaceutical and Biomedical Analysis.
+2006;42(2):155-170. org/10.1016/j.jpba.2006.01.001 .
+[42] Almeida FA, Gomes GF, Sabioni RC, Gomes JHF, Paula VR, Paiva AP, et al.
+A Gage Study Applied in Shear Test to Identify Variation Causes from a Resistance Spot Welding Measurement System.
+Journal of Mechanical Engineering.
+2018;64(10):621-631. http:// dx.doi.org/10.5545/sv-jme.2018.5235.
+[43] Wan X, Wang Y, Zhao D, Huang Y, Yin Z. Weld quality monitoring research in small scale resistance spot welding by dynamic resistance and neural network.
+[44] Degidi M, Caligiana G, Francia D, Liverani A, Olmi G, Tornabene F. Strain gauge analysis of implant-supported, screw-retained metal frameworks: Comparison between different manufacturing technologies.
+Proceedings of the Institution of Mechanical Engineers, Part H: Journal of Engineering in Medicine.
+[45] Wan Z, Wang HP, Chen N, Wang M, Carlson BE.
+Characterization of intermetallic compound at the interfaces of Al-steel resistance spot welds.
+Journal of Materials Processing Technology.
+[46] Zhang Y, Shan H, Li Y, Guo J, Luo Z, Ma CY.
+Joining aluminum alloy 5052 sheets via novel hybrid resistance spot clinching process.
+2017;118:36-43. org/10.1016/j.matdes.2017.01.017 .
+[47] Pouranvari M. Fracture toughness of martensitic stainless steel resistance spot welds.
+Materials Science and Engineering A.
+[48] Wan X, Wang Y, Zhao D, Huang Y, Yin Z. Weld quality monitoring research in small scale resistance spot welding by dynamic resistance and neural network.
+[49] Ighodaro OL, Biro E, Zhou YN.
+Comparative effects of Al-Si and galvannealed coatings on the properties of resistance spot welded hot stamping steel joints.
+Journal of Materials Processing Technology.
+2016;236:64-72. jmatprotec.2016.03.021 .Almeida et al.
+2018;23(4): 485-504   504/504[50] Fan, Q., Xu, G., Gu, X.
+Expulsion characterization of stainless steel resistance spot welding based on dynamic resistance signal.
+Journal of Materials Processing Technology.
+[51] Sun M, Niknejad ST, Zhang G, Lee MK, Wu L, Zhou Y. Microstructure and mechanical properties of resistance spot welded AZ31/AA5754 using a nickel interlayer.
+[52] Shafee S, Naik BB, Sammaiah K. Resistance spot weld quality characteristics improvement by Taguchi method.
+2015;2(4-5):2595-2604. org/10.1016/j.matpr.2015.07.215 .
+[53] Moos S, Vezzetti E. Resistance spot welding process simulation for variational analysis on compliant assemblies.
+Journal of Manufacturing Systems.
+2015;37:44-71. org/10.1016/j.jmsy.2015.09.006 .
+[54] Wang J, Wang HP, Lu F, Carlson BE, Sigler DR.
+Analysis of Al-steel resistance spot welding process by developing a fully coupled multi-physics simulation model.
+International Journal of Heat and Mass Transfer.
+2015;89:1061-1072. org/10.1016/j.ijheatmasstransfer.2015.05.086 .
+[55] Alizadeh-Sh M, Marashi SPH, Pouranvari M. Resistance spot welding of AISI 430 ferritic stainless steel: phase transformations and mechanical properties.
+[56] Luo Y, Li J, Wu W. Characterization of nugget nucleation quality based on the structure-borne acoustic emission signals detected during resistance spot welding process.
+2013;46(3):1053-1060. measurement.2012.11.016 .
+[57] Florea RS, Bammann DJ, Yeldell A, Solanki KN, Hammi Y. Welding parameters influence on fatigue life and microstructure in resistance spot welding of 6061-T6 aluminum alloy.
+2013;45:456-465. matdes.2012.08.053 .
+Relationships between quality and attributes of spot welds.
+2003;82(4): 72-S. [59] Darwish SM, Al-Dekhial SD.
+Micro-hardness of spot welded (BS 1050) commercial aluminium as correlated with welding variables and strength attributes.
+Journal of Materials Processing Technology.
+[60] Shiau YR. Decision support for off-line gage evaluation and improving on-line gage usage.
+Journal of Manufacturing Systems.
+New York: John Wiley and Sons, Inc.; 2012.
+Two-dimensional guidelines for measurement system indices.
+Quality and Reliability Engineering International.
+[63] De Mast J, Van Wieringen W. Measurement system analysis for bounded ordinal data.
+Quality and Reliability Engineering International.
+Multivariate measurement system analysis in multisite testing: An online technique using principal component analysis.
+Expert Systems with Applications.
+2011;38(12):14602-14608. eswa.2011.05.022 .
+[65] Deldossi L, Zappa D. Measurement uncertainty with nested mixed effect models.
+Quality and Reliability Engineering International.
+[66] Gong L, Burdick RK, Quiroz J.
+Confidence Intervals for Unbalanced Two-factor Gauge R&R Studies.
+Quality and Reliability Engineering International.
+Recommended practices for test methods for evaluating the resistance spot welding behavior of automotive sheet steel materials.
+Florida: American Welding Society; 2002.
+[68] Almeida, F. A., Gomes, G. F., Paula, V. R., Corrêa, J. E., Paiva, A. P., Gomes, J. H. F., Turrioni, J.
+A Weighted mean square error aproach to the robust optimization of the surface roughness in an AISI 12L14 Free-Machining Steel-Turning Process.
+Journal of Mechanical Engineering.

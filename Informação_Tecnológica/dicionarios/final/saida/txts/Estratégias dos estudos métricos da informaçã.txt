@@ -1,0 +1,263 @@
+ 3 Comunicação & Inovação | São Caetano do Sul, S P | v.22 | n. 5 0 | p. 3-20 | 2021 | ISSN 2178 -0145 DOI : https//doi.org/10.13037/ci.vol22n 50.7975 Estratégias dos estudos métricos da informação para o mapeamento de inovação Strategies of metric information studies for innovation mapping Mateus Rebouças Nascimentoai ORCID: 0001- 9211- 32 Ana Clara Cândidobii ORCID: 0003- 1897- 3946 Ricardo Augusto Zimmermannciii ORCID: 0002- 3398- 7134 Patrícia Wielewickidiv ORCID: 0002- 9848- 8328 Recebido em: 15/07/2 021.
+Resumo O presente artigo objetiva identificar estratégias metodológicas existentes no âmbito dos estudos métricos da informação que contribuem para o mapeamento de inovação.
+Em termos metodológicos, este estudo qualitativo de carát er expl oratório e descritivo parte do levantamento da produção de conhecimento relacionada às tipologias dos estudos métricos na base de dados Web of Science, por meio da relação d o termo inovação nas palavras -chave e keywords plus dos artigos.
+Os resultad os dest acam a aplicação da inovação na s metrias da informação no âmbito da altmetria, bibliometria, cientometria, patentometria e w ebometria .
+Estudos Métricos da Informação.
+Abstract This paper aims to i dentify existing methodological strategies within the metrics studies of information that contr ibute to the mapping of innovation.
+In methodological terms, this qualitative exploratory and descriptive study is part of the search for knowledge production related to the typologies of metric studies in the Web of Sci ence database, through the relationship of the term innovation in the keywords and keywords plus of the articles.
+The results highlight the application of innovation in information metrics in the s cope of altm etry, bibliometrics, scientometrics, patentomet ry and webometrics.
+a Universidade Federal de Santa Catarina.
+E-mail: maateusreboucas@gmail.com b Universidade Federal de Santa Catarina.
+E-mail: ana.candido@ufsc.br c Instituto de Engenharia de Sistemas e Computadores, Tecnologia e Ciência .
+E -mail: ricard o.a.zimme rmann@inesctec.pt d Universidade do Porto.
+E-mail: patriciafw@gmail.com Mateus Rebouças Nascimento, Ana Clara Cândido, Ricardo Augusto Zimmermann & Patrícia Wielewicki 4 Comunicação & Inovação | São Caetano do S ul, SP | v.22 | n. 50 | p. 3-20 | 2021 | ISSN 2178 -0145 - Introdução A aplicação de métodos na Ciência da Informação extrapola a investigação de suas propriedades e fluxos de infor mação .
+O caráter multidisciplinar dessa área favo rece a análise da constituição de informações de naturezas diversas, o que é feito a partir da utilização de metodologias aplicadas à disseminação, gestão, organização e recuperação da informação em múltiplo s conte xtos.
+Em termos científicos , a investigaç ão do conhecimento registrado por meio de canais comunicativos do processo científico, como artigos, capítulos de livros, teses e dissertações , ocorre mediante a aplicação de estudos métricos da informação, compreendido como "métodos e técnicas de mensuraç ão e avaliação quantitativa (estatístico -matemático) da produção, circulação e uso da informação" (ARAÚJO, 2015, p. 44).
+A avaliação de caráter quantitativo dos estudos métricos da informação colabor a na identifica ção de como o conhecimento é prospectado , construindo indicadores que destacam os principais atores de determinada área do conhecimento, seus impactos para disciplinas, temáticas discutidas, relações de colaboração entre pesquisadores, unive rsidades e país es, registro de patentes, análise de acessos na web, dentre outros indicadores métricos informativos .
+Nesse cenário, os estudos métricos permitem mapear estratégias para inovação, compreendendo a inovação como "um processo contínuo que ocor re de fo rma ord enada e organizada, por isso, depende de um gerenciamento para que ocorra com plenitude" (CÂNDIDO; BERTOTTI; VIANNA, 2017, p. 674) .
+Além de propiciar o desenvolvimento de novos produtos e processos, diversificação, qualidade e absorção de te cnologia s aplic adas avançadas (TOMAÉL; ALCARÁ; CHIARA , 2005, p. 99).
+A identificação e análise das estratégias utilizadas nos estudos métricos da informação no âmbito da inovação podem contribuir para verificar se o emprego das métricas têm acompanhado as tendên cias at uais na produção de conhecimento regis trado.
+Nesse sentido, sublinha -se a aplicação da altmetria, bibliometria, cientometria, informetria, webometria e patentometria, es sa última voltada para análise de patentes, tipo de propriedade intelect ual rela cionada diretamente com a inovação.
+O objet ivo deste artigo é identificar os aportes metodológicos dos estudos métricos da informação com foco no mapeamento de inovação.
+Para tanto, são analisadas as estratégias que podem ser adotadas em processos inovati vos, le vantando a produção de conhecimento sobre cada tipologia métric a na base de dados Web of Science.
+Além disso, Estratégias dos estudos métricos da informação para o mapeamento de inovação 5 Comunicação & Inovação | São Caetano do Sul, SP | v.22 | n. 50 | p. 3-20 | 2021 | ISSN 2178 -0145 são apresentadas as relações des ses estudos para o campo da inovação e suas aproximações mediante a ocorrência nas palavras -chave e keyword s plus dos artigos.
+No plano científico, e ste estudo impacta o domínio da Ciência da Informação à medida que contribui para a construção da analogia dos estudos métricos da informação com o processo de inovação em diferentes áreas do conhecimento.
+Além di sso, fa vorece a identificação de estratégias métricas que contribuem para o mapeamento e análise da inovação, bem como indicadores de inovação voltados às metrias que compõem es se cenário.
+Estudos métricos da informação: conceituações norteadoras A com unicação na ciência é compreendida por Gar vey (1979) como o c onjunto das atividades constituídas na produção, disseminação e uso da informação desde o início do processo de criação científica – da geração de ideias até o aceite e publicação dos resultados.
+Segundo Mugnaini, Carvalho e Campanatti -Ostiz (2006, p. 316) , "para se entender a evolução da ciência, como forma de expressão do conhecimento humano produzido, são utilizadas técnicas de medição".
+Nesse processo comunicativo de criação, geração e dissemi nação d e conhecimento, é possível analisar e construir indicadores que prospectam como o conhecimento produzido na ciência está sendo desenvolvido, por meio dos estudos métricos da informação, culminando como subsídios para áreas do conhecimento, na medida em que se aproximam, oferecendo conceitos, metodologias, procedimentos e recursos (OLIVEIRA, 2018, p. 33).
+Noronha e Maricato (2008, p. 122) ressaltam como os estudos métricos podem ser aplicados no âmbito do conhecimento na: [.]
+dinâmica e a pa rticipaç ão da C &T em escala internacional (através da comparação entre dois ou mais países), nacional (entre dois ou mais estados), local (entre instituições de uma mesma cidade ou região).Cada uma dessas categorias de análise podem ser subdividida e aprof undada, surgindo novas variáveis e abordagens, po r campo de atuação (linhas de pesquisa), por pesquisadores (formação, titulação), por colaboração (trabalhos em co -autoria, sociabilidade entre autores), assuntos, tipos documentais (periódicos, teses, disse rtações, evento s, etc .
+), instituições (universida des, centros de pesquisa, empresas), departamentos, cursos, disciplinas, etc.
+Compreendendo que os estudos métricos são "reflexos atuais da atividade da informação científica/tecnológica/empresarial e de s eus sist emas de controle, como as estratificações científicas" (STANCATTI; PINTO, 2021, p. 6), existem subcampos dentro dos estudos métricos da informação que aplicam métricas em tipos de objetos distintos Mateus Rebouças Nascimento, Ana Clara Cândido, Ricardo Augusto Zimmermann & Patrícia Wielewicki 6 Comunicação & Inovação | São Caetano do S ul, SP | v.22 | n. 50 | p. 3-20 | 2021 | ISSN 2178 -0145 - como a altmetria, arquivometria, bibliometria, ciberm etria, cientometria, informetria, patentometria e webometria, apresentadas no quadro abaixo as suas aplicações conforme a visão de teóricos da área.
+Métrica da Informação Aplicação Altmetria Novo grupo de métricas baseadas em eventos de mídia socia l relacionados com a comunicação científica ( BORBA; MARINHO; CAREGNATO, 2017).
+Arquivometria O objeto de estudo é o fundo documentário e seus usuários, contando com variáveis da estrutura do Arquivo (ações e gestão) e circulação de consultas, abordando métodos de frequênci as e distribuição ( PINTO , 2011).
+Bibliometria Produção e uso de documentos, organização de serviços bibliográficos, documentos (livros, artigos, teses), autores, usuários ( NORONHA; MARICATO, 2008).
+Cibermetria Internet, ciberespaço como chats, mailin g lists , grupos de discussão, muds e a WWW (V ANTI , 2005) Cientometria Estudo dos aspectos quantitativos da ciência enquanto uma disciplina ou atividade econômica ( MACIAS -CHAPULA, 1998).
+Infor metria Estudo dos aspectos quantitativos da infor mação em qualq uer formato, e não apenas registros catalográficos ou bibliografias, referente a qualquer grupo social, e não apenas aos cientistas ( MACIAS -CHAPULA, 1998).
+Patentometria Conhecer atividades tecnológica s e inovadora s de países, áreas e instit uições (NORONHA ; MARICATO , 2008).
+Webometria Estudo dos aspectos quantitativos da construção e uso dos recursos de informação, estruturas e tecnologias da Web a partir de abordagens ( SANTOS; ALBUQUERQUE , 2017).
+Quadro 1 - Tipos de estudos métricos e suas aplicações Fonte: Elaborado pelos autor es (2021).
+As tipologias dos estudos métricos da informação são inter -relacionad as na perspectiva de diversos autores (BJÖRNEBORN; INGWERSEN, 2004; PINTO, 2011; GOUVEIA, 2013; S ANZ -CASADO; GARCIA- ZORITA, 2014; ARAÚJO, 2015) como destacado por Curty e Delbian co (2020) , com semelhanças e particularidades entre modelos destacadas em formato de elipses .
+Após a análise d os modelos citados , Curty e Delbianco (2020, p. 16) apresentam a representação das diferentes metrias por meio de três di mensões: espaço ( locus ), foco ( focus ) e fluxo ( fuxus ) – (Figura 1) .
+Estratégias dos estudos métricos da informação para o mapeamento de inovação 7 Comunicação & Inovação | São Caetano do Sul, SP | v.22 | n. 50 | p. 3-20 | 2021 | ISSN 2178 -0145 Figura 1 - Abordagens dos estudos métricos e suas dimensões Fonte: Curty e Delbianco (2020, p .
+A primeira dimensão (locus ) destaca o ambiente no qual as métricas são capturadas, m apeando em universos on- line e off-line.
+Segundo as autoras, infere -se que a arquivomet ria e bibliometria geram métricas nos dois universos, enquanto a patentometria, informetria e a c ientometria aplicam no universo on-line, todavia, a a ltmetria, cibermetr ia e webometria possuem foco total no amb iente on- line na análise dos dados de pesquisa .
+Quanto ao focu s de aplicação d as tipologias dos estudos métricos da informação, as autoras pontuam que a arquivometria, bibliometria e patentometria são norteadoras em práticas informacionais, destacando que "aplicação genérica e metonímica da Bibliomet ria não coaduna com os desdobramentos métricos resultantes dos avanços conceituais e de aplicação dos EMI" (CURTY; DELBIANCO, 2020, p. 16).
+A circulação desses subcampos , pontuada na última dimensão ( fluxus ), são explicitados na c ientometria voltada para o fluxo científico, a bibliometria e patentometria em seguida, avaliando e mensurando métricas na ciência, pelos quais as autoras reforçam a infometria e w ebometria como posição central no eixo, tendo em vista s eus tipos de estudo em âmbito científico e social, perpassando nos dois contextos.
+Com isso, considerando a natureza interdisciplinar e a constante transformação das tipologias de estudos métricos , consoante as múltiplas formas de comunicar ciência (SANTOS ; ALBUQUERQUE, 2017, p. 9), é possível verificar como a inovação acontece nesse meio .
+Para tanto, entende -se que os indicadores métricos favoreçam o mapeamento de inovação em diversos pretextos, no âmbito de produtos e serviços.
+Mateus Rebouças Nascimento, Ana Clara Cândido, Ricardo Augusto Zimmermann & Patrícia Wielewicki 8 Comunicação & Inovação | São Caetano do S ul, SP | v.22 | n. 50 | p. 3-20 | 2021 | ISSN 2178 -0145 - Inovação: perspectivas teórico-conceituais Sáenz e Capote (2002, p. 69) contextualizam o processo de inovação como "a integração de conhecimentos novos e de outros existentes para criar produtos, processos, sistemas ou serviços novos ou melhorados".
+Na perspectiva do conceito bá sico de inovação, o Manual de Oslo ( OECD, 2018, p. 32, tradução nossa ) aponta a atividade como "um produto ou processo novo ou aprimorado (ou combinação dos mesmos) que difere significativamente dos produtos ou processos anteriores da unidade e que foi disponibi lizado para usuários potenciais (produto) ou col ocado em uso pela unidade (processo)".
+Nesse sentido, o conhecimento norteia a inovação aplicada a cenários distintos ; Souza Neto, Orlandi e Santos (2014, p. 520) destacam o foco da inovação aplicada em servi ços nos "investimentos no desempenho dos empregados, inovação operacional contínua, inovação estratégica contínua, modelo de negócios que facilite a escalabilidade".
+Assim, sublinha -se a importância d o uso de estratégias aplicadas no âmbito da inovação, constituído na composição de serviços inovadores para sociedade utilizar em seu cotidiano.
+No âmbito da relação entre inovação e academia, Audy (2017, p. 76) sugere que ela "envolve a criação de novos projetos , conceitos, formas de fazer as coisas, sua exploração comercial ou aplicação social e a consequente difusão para o restante da economia ou sociedade".
+Assim, essa interação desenvolve -se na interface entre empresas, universidades, centros de pesquisa , espaços propiciadores de inovação e envolve a gest ão da propriedade intelectual.
+Todavia, para propor a inovação em produtos e serviços , existe a necessidade de apoio financeiro oriundo de fontes diversas .
+No Brasil, a título de exemplo, destacam -se três tipos de fomento público: fundos setoriais, s ubve nção econômica e o Sistema Brasileiro de Tecnologia (SIBRATEC) .
+Os fundos setoriais colaboram no fortalecimento do Sistema de Ciência e Tecnologia (C&T), ofertando editais que visam à inovação , mediados pelo M inistério de Ciência, Tecnologia e Inovação (MC TI).
+Por meio da Lei de Inovação nº 10.973 (BRASIL, 2004), o marco legal brasileiro concretizou -se mediante a es sa prescrição, permitindo o uso de recursos públicos não reembolsáveis diretamente em empresas n o âmbito público e privado com foco no desenvol vimento de produtos inovativos para o paí s, contribuindo assim para práticas inovativas.
+Estratégias dos estudos métricos da informação para o mapeamento de inovação 9 Comunicação & Inovação | São Caetano do Sul, SP | v.22 | n. 50 | p. 3-20 | 2021 | ISSN 2178 -0145 O SIBRATEC, criado mediante ao Decreto nº 6.259, de 21 de novembro de 2007, apoia empresas que utilizam a inovação em s uas práticas .
+Esse mecanismo oferece suport e no desenvolvimento tecnológico de empresas brasileiras, propiciando e incentivando o mercado para propor inovações em produtos e serviços.
+Nesse sentido, este estudo defende a relevância de iniciativas de mapeamento das estratégias de inovação com vistas à oferta de recursos para es sas práticas na sociedade.
+As dimensões aplicadas nos estudos métricos da informação são sinalizadas como um recurso de pesquisa capaz de contribuir para potencializar a inovação.
+Procedimentos metodológicos Do ponto de vist a metodológico, a pesquisa pode ser conside rada do tipo exploratóri o e descritiv o, uma vez que tem como objetivo proporcionar maior aproximação com o problema, com vistas a torná- lo mais explícito ou a construir h ipóteses (GIL, 2002, p. 41) .
+O estudo prete nde, ainda, descrev er com exatidão os fatos e fenômenos aplicáveis (FIGUEIREDO, 2008, p. 94).
+Quanto à abordagem do problema, trata -se de um estudo qualitativo, pois busca compreender a relação dos estudos métrico s da informação com a inovação, mediante os estudos desenvolvidos no campo por meio da análise de conteúdo.
+Para identificar a relação entre estes sub campos, foi realizado um levantamento dos artigos voltados à temática de estudos métricos da informação com a inovação na base de dados Web of Science (WOS ) em junho de 2021, por meio d e uma est ratégia de busca sistematizada (Quadro 2) .
+Foi utilizad a como filtro de pesquisa a ocorrência dos termos no título, resumo e palavras -chave, utilizando as principais m étricas informativas relacionad as ao termo ino vação: altmetrics, archivometrics, biblio metrics, cybermetrics , scientometrics, informetrics, patentometrics e webometrics.
+No levantamento inicial foram totalizados 4 70 artigos , posteriormente submetidos a uma etapa de refinamento.
+Nessa seleção foram co nsiderados os artigos que possuíam o tipo de estudo métrico e o termo inovação nas palavras -chave do autor e keywords plus , de modo a identificar os documentos que destacam a relação direta para o mapeamento de inovação .
+Esse processo culminou na seleção e análise de 272 documentos .
+Mateus Rebouças Nascimento, Ana Clara Cândido, Ricardo Augusto Zimmermann & Patrícia Wielewicki 10 Comunicação & Inovação | São Caetano do S ul, SP | v.22 | n. 50 | p. 3-20 | 2021 | ISSN 2178 -0145 - Métrica da Informação Estratégia de Busca Artigos Recuperados Artigos considerados Altmetria "Altmetrics" AND "Innovation" 14 7 Arquivometria "Archivometrics" AND "Innovation" 0 0 Bibliometria "Bibliometrics" AN D "Innovati on" 345 211 Cibermetria "Cybermetrics " AND "Innovation" 0 0 Cientometria "Scientometrics" AND "Innovation" 99 44 Informetria "Infometrics" AND "Innovation" 1 0 Patentometria "Patentometrics " AND "Innovatio n" 12 6 Webometria "Webometrics" AN D "Innovati on" 9 4 Quadro 2 – Estratégias de busca sistematizada na WOS Fonte: Dados da pesquisa (2021).
+Com isso, foram extraídose os registro s completo s e referências citadas desses documentos na WOS , no formato separ ado por tabulações , para posteriormente a aplicação em um software métrico .
+Os termos arquivometria , informetria e cibermetria não tiveram artigos recuperados em relação à inovação.
+A escolha da WOS como base de dados para o mapeamento desta pesquisa justifica- se pelo seu impacto e relevância em várias dis ciplinas acadêmicas, permitindo acesso a diferentes bancos de dados que fazem referência à pesquisa interdisciplinar (CLARIVATE ANALYTICS, 2017).
+Para geração dos grafos de análise das temáticas principais que formam a relação da inovação com os estudos mé tricos da informação, utilizou- se o software métrico VOSViewerf na versão 1.6.16.
+A composição da rede de conhecimento teve como base as palavras -chav e e keywords plus dos artigos , considerando o mínimo de 5 ocorrências d o termo para compor o mapa , utilizando o layout networking visualizat ion para visualização dos resultados, compreendendo que na rede, os itens são representados por círculos e o tamanho significa o determinado peso da temática, quanto maior o peso, maior é o círculo (VAN ECK; WALTMAN, 2018, p. 8).
+e Como extrair a coleta de dados na Web of Science para aplicação em análises de estudos métricos da informação: f O software VOSviewer pode ser instalad o gra tuitamente disponível para Microsof t Windows, MAC Os X e outros sistemas: Estratégias dos estudos métricos da informação para o mapeamento de inovação 11 Comunicação & Inovação | São Caetano do Sul, SP | v.22 | n. 50 | p. 3-20 | 2021 | ISSN 2178 -0145 Resultados e discussão A relação entre as estratégias dos estudos métricos para o mapeamento de inovação foi analisada com base em estudos pautad os nos tipos de metrias da informação .
+A partir dos 272 artigos analisados observou -se que as d imensõ es dos estudos altmétricos, biblio métricos, cientométricos , patentométricos e webométricos contribuem para mensurar a produção de : (i) conhecimento sobre a inovação em bases de dados, (ii) uso de métricas alternativas , (iii) as disciplinas transversais ao contexto de estudo; (iv) o investi mento econômico no âmbito da inovação; (v) registro de patentes e de invenções ( mediante ao uso de indicadores contextualizados na patentometria ).
+O Quadro 3 a presenta as estratégias cuja aplicação foi identificada n o âmbi to da bibliometria e da cientometr ia para o mapeamento de inovação .
+Métrica da Informação Estratégias Estudos aplicados Bibliometria e Cientometria Mapeamento das princi pais regiões e tópicos de tendê ncias em pesquisa de políticas de inovação .
+Analisa a estrutura intelectual do domínio, os desafios estratégicos, o desenvolvimento e a aplicação industrial Lopez -Rubio, Roing -Tierno & Mas-Tur (2021); D'Angelo & Magnusson (2021) Análise cientométrica de p ublicações em diferentes áreas do conhecimento visando avaliar as pesquisas e potencialidades, assim como identificar o nível de inovação por meio dos produtos mencionados nos artigos Masara; Van der Poll & Maaza (2021) Identificação dos grupos de pesqui sa mais atua ntes em inovação.
+Mapeia os componentes importantes para potencialidades do grupo Forouldi; Akarsu, Marvi & Balakrishnan (2021) Avaliação da evolução e perspectivas dos sistemas de inovação .
+Mapeia os principais atores que o constituem Lopez -Rubio, Roing- Tierno & Mas-Verdu (2021) Anális e de periódicos que publicam sobre inovação .
+Identifica o panorama temático, compreendendo a influência das publicações da revista e caminhos inovativos futuros Rose; Holzle & Bjork (2020) Quadro 3 – Dimensões na bibliometria e cientometria para o mapeamento de inovação Fonte: Dados da pesqui sa (2021).
+As estratégias dos estudos bibliométricos e cientométricos prospecta m por meio da análise de cocitações , da identificação das origens de processos inovativos em artigos científicos, além do aco plam ento bibliográfico.
+Esses element os permitem a visualização abrangente do status de pesquisa sobre inovação, pontuando também como estratégia a identificação da colaboração em sistemas de inovação .
+Isso coloca em evidência os principais atores inovativos (instituições e países ) mediante a perspectiva em análise de Mateus Rebouças Nascimento, Ana Clara Cândido, Ricardo Augusto Zimmermann & Patrícia Wielewicki 12 Comunicação & Inovação | São Caetano do S ul, SP | v.22 | n. 50 | p. 3-20 | 2021 | ISSN 2178 -0145 - redes sociais, além de destacar os respectivos graus de influência no sistema e medir o impacto dos periódicos e suas comunicações sobre inovação.
+O Quadro 4 apresenta as dimensões do mapeam ento de inovação na aplicação de métricas alternativas e contexto da web .
+No âmbito da utilização da alt metria observou -se o foco nas hélices da inovação em redes sociais, com vistas ao mapeamento dos resultados de inovaç ão em rede na perspectiva do conhe cimento, inovação, consenso e governo – estudo de avaliação do desempenho de múltiplos grupos de pessoas que formam ecossistemas de inovação desenvolvidos por Moradi e Dohkani (2020) .
+Métrica da Informação Estratégi as Estudos aplicados Altmetria Avali ação do desempenho de indivíduos, organizações, instituições e países nas redes sociais focadas para inovação, por meio do modelo de Hélice Quádrupla examinando os resultados da inovaç ão, conhecimento, consenso e gove rno na s redes .
+Moradi e Dohkani (2020) Análise de formas de inovação em espaços abertos por meio do impacto em redes sociais .
+Frias e Garcia (2017) Webometria Mapeamento na web para avaliação de menções e redes de hiperl inks com foco em práticas de inovação, indicando interações entre ator es, número de acessos, órgãos inovativos .
+Kim e Park (2014) Análise de links para investigação de apoio a P&D em inovação por meio da webometria, identificando redes de setores industr iais, universidades e órgãos públ icos que fomentam o desenvolvimento de inovação em parques científicos .
+Minguillo e Thelwall (2012) Quadro 4 – Dimensões na altmetria e webometria para o mapeamento de inovação Fonte: Dados da pesquisa (2021).
+No contexto da web, o mapeamento de inovação culm ina na análise de menções e acesso em hiperlinks textuais de sites , com destaque para a visualização em órgãos e instituições .
+Essa situação permite a identificação dos principais atores organizacionais que propiciam o financiamento e apoio a P&D em inovaç ão mediante ao uso de metodol ogias we bométricas .
+A análise é realizada por meio do número de acessos, o quantitativo de páginas recuperadas em mecanismos de busca que comunicam processos inovativos, além dos downloads que são analisados, propiciando indica dores que inferem o impacto de determ inado documento.
+Estratégias dos estudos métricos da informação para o mapeamento de inovação 13 Comunicação & Inovação | São Caetano do Sul, SP | v.22 | n. 50 | p. 3-20 | 2021 | ISSN 2178 -0145 Métrica da Informação Estratégias Estudos aplicados Patentometria Análise sistemática de tecnologias emergentes à inovação por meio de banco de dados de patentes .
+Li; Pak e Bi (2019) Análise de pat entes concedidas a instit uições registradas em banco de dados de patentes .
+Aponta as tendências de processos e produtos de inovação tecnológica .
+Hurtado (2018) Mapeamento de pedidos de patentes ou modelo de utilidade para levantar as tecnologias de pr ocessos e produtos inovativos .
+Fagundes, Ferreira, Motta e Leal (2016) Construção de indicadores patentométricos que apresentam estatísticas de patentes .
+Watanabe, Tsuhi e Brown (2001) Quadro 5 – Dime nsões na patentometria para o mapeamento de inovação Fonte: Dados da pesquisa (2021).
+O emprego da patentometria para o m apeamento de inovação consiste na construção de indicadores que perpassam a análise de patentes concedidas e registradas, além da avaliação da velocidade de comercialização e o esforço de comercialização por parte das organi zações responsáveis .
+São explora dos dados sobre inovações mediante ao registro de patentes em bancos de dados (SILVA et al., 2018) para analisar , por exemplo: (i) o volume de produtos tecnológicos, processos e técnic as desenvolvidos, (ii) a internacionaliz ação de pesquisas na relação de publicações em revistas internacionais, (iii) as patentes internacionais, dentre outras demandas que podem ser analisadas no mapeamento de inovação.
+Quanto às facetas e temáticas norte adoras dos estudos métricos focadas na inovação, a Figura 2 ( gerada n o software VOSViewer ) apresenta, por meio da análise de concorrência de palavras -chave e keywords plus dos artigos analisados , quais são os conhecimentos inerentes à aplicação estratégica para inovação .
+Foi identi ficado um tota l de 118 vertentes que cons tituem o mapa e incluem: a aplicação da inovação na ciência e seus impactos, a gestão e o conhecimento produzido para inovação, além da tecnologia e o empreendedorismo permeando es ses aspectos.
+Mateus Rebouças Nascimento, Ana Clara Cândido, Ricardo Augusto Zimmermann & Patrícia Wielewicki 14 Comunicação & Inovação | São Caetano do S ul, SP | v.22 | n. 50 | p. 3-20 | 2021 | ISSN 2178 -0145 Figura 2 – Mapa d e conhecimentos dos estudos métricos focados para inovação Fonte: Dados da pesquisa (2021).
+Destaca -se como temática principal o termo bibliometria , apresentado no centro do mapa com 204 ocorrências e 1.064 conexões com outras vertentes .
+Identificou- se que muitos estu dos bibliométricos mensura m a produção de conhecimento sobre a inovação (178 ocorrências e 968 conexões).
+Analisando os dados por meio da coloração dos clusters – definidos a partir das aproximações da inovação com a s temáticas – destaca -se que a bibliometria (tonalidade vermelha ) é pautada no mapeamento da estrutura intelectual, estratégias, acoplamento bibliográfico, análise de cocitação, dinâmicas, desenvolvimento de produto, gestão da inovação, desafios, modelos de negócios, inovação abert a e empreended orismo.
+A análise da relação entre o cluster vermelho e o cluster roxo, demonstra que ambos são relacionados a escolhas metodológicas dos estudos bibliométricos como: (i) a base de dados para coleta (WOS e Scopus) (ii) os campos a serem extr aídos (autores , títulos, periódicos) ; e (iii) os softwares utilizados para geração dos gr afos (vosviewer).
+Quanto à inovação, as temáticas emergentes estão tonalizadas de azul, possuindo relação direta com a cientometria e a gera ção de indicadores, pontua da na análise de tendências, ciência e tecnologia, mineração de texto para o mapeamento de inovação, além de patentes e modelos inovativos.
+Nes se sentido, a cientometria corrobora para o uso de frameworks , citespace e previsão de tecnologias emergentes , por meio do estudo de Estratégias dos estudos métricos da informação para o mapeamento de inovação 15 Comunicação & Inovação | São Caetano do Sul, SP | v.22 | n. 50 | p. 3-20 | 2021 | ISSN 2178 -0145 disciplinas da ciê ncia e aspectos de P&D .
+A cientometria, portanto, é particularmente relevante para análises que prospectam o desenvolvimento da ciência em áreas do conhecimento que são inerentes à inovação , como a Ciência da Informação, Ciência da Computação, Engenharias , dentre outras.
+Os indicadores mapeados na análise do cluster apresentado s na cor azul culmina m em: avaliação, colaboração, identificação de capacidades, tendências, análise de redes de inova ção, tecnologias emergente s, patentes, difusão e impacto e spil lovers .
+Esse último é pautado na difusão do conhecimento para aplicação da inovação, de forma a que um conhecimento deixe de s er exclusividade de uma empresa e que o acesso seja disponibilizado a outros, contribuindo pa ra a consolida ção do conhecimento coletivo .
+Esse processo contribui para a superação de barreiras à inovação em empresas menores – como altos custos para obter informações críticas, dimensionados em aspectos gerenciais, estratégicos e relacionais (VILELA J UNIOR, 2010).
+Considerações Finai s O objetivo desse artigo foi identificar estratégias metodológicas sistematizadas existentes no âmbito dos estudos métricos da informação que contribuem para o mapeamento de inovação.
+A partir das análises realizadas, pode -se inferir que os estudos métricos da informação colaboram para o mapeamento d a inovação, uma vez que favorecem a identificação d os atores principais no domínio científico que investiga m temáticas inovativas por meio de técnic as bibliométricas .
+Também foram analisad os os indicadores científicos voltados para análise da produtividade , como os tipos de documentos publicados, colaboração com outros atores na análise de redes sociais , assim como internacionalização das práticas de inovação em suas produções intelectuais.
+Conclui -se que as métricas da informação permeiam a análise de inovação em múltiplos aspectos , como a cientometria pontuada para estudos de disciplinas na ciência contextualizando o desenvolvimento econômico, propiciando estratégias que id entifiquem o fomento para inovação e a importância de P&D em inovação para disciplinas em diversas áreas do conhecimento .
+Destaca- se que a webometria corrobora na análise da inovação no contexto da web no estudo de links e do impa cto de iniciativas inovadoras.
+Neste con texto, a patentometri a torna -se o elo norteador estratégico de análise da inovação no meio da propriedade intelectual, no sentido de que as patentes são invenções que se utilizam de preceitos inovativos para sua cons olidação, em um processo que ocorre seguindo critérios estabe lecidos para definir se a criação é algo inovador para sociedade.
+A Mateus Rebouças Nascimento, Ana Clara Cândido, Ricardo Augusto Zimmermann & Patrícia Wielewicki 16 Comunicação & Inovação | São Caetano do S ul, SP | v.22 | n. 50 | p. 3-20 | 2021 | ISSN 2178 -0145 - análise explicita quais países mais prospectam a inovação em documentos de patentes, empresas e universidades que possuem maior quantitativo de registros , áreas do conhecimento nos quais os registros de patentes de inovação acontecem , dentre outros indicadores patentométricos.
+Para trabalhos futuros, sugere -se a construção de indicadores de inovação baseado s nos estudos métricos da informação para cada metria , analisan do a necessidade de p ropor a consolidação da relação das métricas com a inovação .
+Sugere -se uma análise mediante a definição de quais indicadores podem ser gerados com viés inovativo a colaborar com agências de fomen to para financiamento de p ráticas inovat ivas, assim como na c onstrução de ecossistemas de inovação da produção de conhecimento sobre inovação na ciência.
+Estudos métricos da informação na web e o papel dos profissionais da informação.
+Univ., Belo Horizonte, v. 2, n. esp ., p. 42-65, 2015.
+Di sponível em: Acesso em: 20 maio.
+A inovação, o desenvolvimento e o pa pel da Universidade.
+Estudos Avançados , v. 31, n. 90, p. 75- 87, 2017.
+Disponível em: 4014- ea-31-90-0075.pdf.
+BJÖRNEBORN, L.; INGWERSEN, P. Toward a basic framework for webometrics.
+Journal of the Am erican Society for I nformation Science and Technology, Nova York , v. 55, n. 14, p. 1216- 1227, 2004.
+Disponível em: Acesso em: 10 maio.
+BORBA, V. R.; MARINHO, A. C. M.; CAREGNATO, S. E. Análi se do termo "Reposit ório Institucional" no Twitter: um estudo altmétrico.
+Disponível em: Acesso em: 10 maio.
+Le i n. 10.973, de 02 de dezembro de 2004.
+Dispõe sobre incentivos à inovação e à pesquisa científica e tecnológica no ambiente produtivo e dá outras providências.
+Diário Oficial da República Federativa do Brasil, Brasília, 03 dez.
+CÂNDIDO, A. C.; BER TOTTI, P. S. da S.; V IANNA, W. B. Análise de Redes Sociais das temáticas: Gestão da Informação e da Inovação.
+RDBCI , Campinas, v. 15, n. 3, p. 670–692, 2017.
+Disponível em: Acesso em: 26 maio.
+Estratégias dos estudos métricos da informação para o mapeamento de inovação 17 Comunicação & Inovação | São Caetano do Sul, SP | v.22 | n. 50 | p. 3-20 | 2021 | ISSN 2178 -0145 CLARIVATE ANALYTICS.
+CURTY, R. G. ; DELBIANCO, N. R .
+As diferentes metrias dos estudos métricos da informa ção: evolução epistemológica, inter -relações e representações.
+D'ANGELO, V.; MAGNUSSON, M. A Bibliometric Map of Intellectual Communities in Frugal Innovation Literature.
+IEE Tran saction s on Engineering Management, v. 68, n. 3, 2021.
+Disponível em: Acesso em: 20 jun.
+FAGUNDES, M. C.; FERREIRA, M. D.; MOTTA, G. D.; LEAL , I. C. Patentometric analysis of the process Technologi es of companhia siderurgica nacional (CSN).
+Revista Geintec Gestão Inovação e Tecnologias , v. 6, n. 2, p. 43- 47, 2016.
+Disponível em: -library/jaefa -vol-5-number -1-2015/ .
+Método e metodologia na pesquisa científica.
+São Caetano do Sul: Yendis Editora, 2008.
+FOROUDI, P.; ARKASU, T. N.; MARVI, R.; BALAKRISHNAN, J.
+Intellectual evolution of social innovation: a bibliometric analysis and avenues for future r esearch trends .
+Industrial Marketing Management , v. 93, p. 446- 465, 2021.
+Disponível em: Acesso em: 20 jun.
+FRIAS, E. R.; GARCIA, N. R. Socia l Labs in Universitie s: Innovation and impact in Medialab U GR.
+Comunicar , v. 25, n. 51, p. 29- 38, 2017.
+GARVEY, W. D. Communication: the essence of science.
+GIL, A. C. Como elab orar projeto de pesquisa.
+GOUVEIA, F. C. Altmetria: métricas de produção científica para além das citações.
+Liinc em Revista , Rio de Janeiro, v. 9, n. 1, p. 214- 227, maio.
+Disponível em: vista.ibict.br/liinc/art icle/view/3434.
+HURTADO, R. E. G. Patent analysis of Colombia n technologic al innovation 1991- 2013.
+Investigacion Bibliotecologica , v. 32, n. 77, p. 133- 150, 2018.
+Disponível em: A cesso em: 20 jun.
+KIM, J. H.; PARK, H. W. Food policy in cyberspace: A webometric analysis of national food clusters in South Korea.
+Government Information Quarterly , v. 31, n. 3, p. 443453, 2014.
+Disponível em: Aces so em: 20 jun.
+Analysis of the development trends and innovation characteristics of Internet of Things technology – based on patentometrics and Mateus Rebouças Nascimento, Ana Clara Cândido, Ricardo Augusto Zimmermann & Patrícia Wielewicki 18 Comunicação & Inovação | São Caetano do S ul, SP | v.22 | n. 50 | p. 3-20 | 2021 | ISSN 2178 -0145 - bibliometrics.
+Technology Analysis & Strategic Management , v. 32, n. 1, p. 1- 14, 2020.
+DOI 10.1080/09537325.2019.1636960.
+LÓPEZ- RUBIO, P.; ROING- TIERNO, N.; MAS -TUR, A.
+Which regions produce themost innovation policy research?.
+Policy Studies , p. 1- 23, 2021.
+LOPEZ- RUBIO, P.; ROING- TIERNO, N.; MAS -VERDU, F. Assessing the Origins, Evolution and Prospects of National Innovation Systems.
+Journal of The Knowledge Economy, p. 1- 24, 2021.
+Disponível em: htt ps://link.springer.com/article/10.1007/s13132020-00712- 7.
+MACIAS -CHAPULA, C. A. O papel da Informetria e da cienciometria e sua perspectiva nacional e internacional.
+Ciência da Informação, Brasília, v. 27, n. 2, p. 134- 140, maio/ago.
+Disponível em: t.br/ciinf/article/view/794.
+; MAAZA, M. A nanotechnology- foresight perspective of South Africa.
+Journal of Nanoparticle Research, v. 23, n. 4, p. 1- 22, 2021.
+Disp onível em: /article/1 0.1007/s11051- 021-05193- 6.
+MINGUILLO, D. ; THELWALL, M. Mapping the network structure of science parks An exploratory study of cross -sector alinteractions reflected on the web.
+Aslib Proceedings, v. 64, n. 4, p. 332- 357, 2012.
+Disponível em: Acesso em: 21 jun.
+MORADI , S.; DOHKANI, F. Using the Quadruple Helix Model for evaluation of health science researches Case study of D8 countries.
+Library Hi Tech, v. 38, n. 4, p. 723- 739, 2020.
+Disponí vel em: rald.com/insight/content/doi/10.1108/LHT -082019- 0156/full/html.
+MUGNAINI, R. ; CARVALHO, T. ; CAMPANATTI -OSTIZ, H. Indicadores de produção científica: uma discussão conceitual.
+In: POBLACION, D. A. ; WITTER, G. P.; SILVA, J. F. M .
+Comunicação & produção científica: contexto, indicadores e avaliaçã o. São Paulo: Angellara, 2006. p. 313- 340.
+NORONHA, D. P.; MARICATO, J. de M. Estudos métricos da informação: primeiras aproximações.
+Disponível em: 2924.2008v13nesp1p116.
+Oslo Manual 2018: guidelines for collecting, reporting and using data on innovation.
+Estudos métricos da informação no Brasil: indicadores de produção, colaboração, impacto e visibilidade.
+São Paulo: Cultura Acadêmica, 2018.
+ÁGORA: Arquivolog ia em debate, Flor ianópolis, v. 21, n. 42, p. 59- 69, jan./jun.
+Disponível em: Acesso em: 15 maio 2021.
+Estratégias dos estudos métricos da informação para o mapeamento de inovação 19 Comunicação & Inovação | São Caetano do Sul, SP | v.22 | n. 50 | p. 3-20 | 2021 | ISSN 2178 -0145 ROSE, R.; HOLZLE, K.; BJORK, J.
+More than a quarter century of Creativity and Innovation Manage ment: t he journal's characteristics, evolution, and a look ahead.
+Creativity and Inno vation Management , v. 29, n. 1, p. 5- 20, 2020.
+Disponível em: Acesso em: 20 jun.
+SÁENZ, T. W.; GARCÍA, Emílio C. Ciência, inovação e gestão tecnológica.
+Brasília: CNI/IEL/SENAI/ABIPTI, 2002.
+SANTOS, P. W. Q. D.; ALBUQUERQUE, J. P. S. Altmetria: uma nova lente para os estudos métricos da informação.
+Biblionline , v. 13, n. 3, p. 3- 12, 2017.
+Disponível em: index.php/biblio/article/view/35874.
+SANZ -CASADO, E.; GARCÍA- ZORITA, C. Evolução dos fundamentos epistemológicos dos estudos métricos da informação.
+In : ENCONTRO BRASILEIRO de Biblio metria e Cientometria, 4., 2014, Recife.
+Disponível em: mages/elias.pdf.
+SILVA, A. P. L. da; PEDROZA, F. J.
+A.; SOBRAL, N. V.; BUFREM, L. S. Indicadores científicos, tecn ológicos e acadêmicos: uma proposta para a Univa sfa partir das demandas institucionais.
+Informação & Sociedade, v. 28, n. 3, p. 95- 114, 2018.
+Disponível em: /index.php/ies/article/view/39129.Acesso em: 20 maio.
+SOUZA NETO, J.; ORLANDI, T. R. C.; SANTOS, D. L. N dos.
+Inovação: estratégia, gestão e cultura, 2014.
+STANCATTI, D. H.; PINTO, A. L .
+Análise da publicação pela citação como critério de qualida de: estudo da produção científica em arquivologia.
+ÁGORA: Arquivologia Em Debate, v. 31, n. 62, p. 1 –21, 2021.
+Disponível em: Acesso em: 20 maio.
+TOMAÉL, M. I.; AL CARÁ, A. R.; CHIARA, I. G. D. Das r edes sociais à inovação.
+Inf., Brasília, v. 34, n. 2, p. 93- 104, maio/ago.
+Disponível em: 19652005000200010.
+VAN ECK, N. J.; WALTMAN, L. Vosviewe r manual.
+Holanda: Universite it Leiden, 2018.
+Disponível em: Acesso em: 15 jun.
+VANTI, N. A. P. Os links e os estudos webométricos .
+Ciência da Informação, Brasília, v. 34, n. 1, p.78- 88, jan./abr.
+Disponível em: Acesso em: 10 maio .
+VILELA JUNIOR, D. C. A criação de conhecimento em clusters industriais, 2010.
+Tese (Doutorado em Administração) – Universidade Federal do Rio Grande do Sul, Porto Alegre, 2010.
+WATANABE , C.; TSUJI, Y. S.; BROWN, C. G. Patent statistics: decipher ing a 'real' versus a 'pseudo' proxy of innovation.
+Technovation , v. 21, n. 12, p. 783- 790, 2001.
+DOI 4972(01)00025- 6 Mateus Rebouças Nascimento, Ana Clara Cândido, Ricardo Augusto Zimmermann & Patrícia Wielewicki 20 Comunicação & Inovação | São Caetano do S ul, SP | v.22 | n. 50 | p. 3-20 | 2021 | ISSN 2178 -0145 - i Mestrando do Programa de Pós -Graduação em Ciência da Informação pela Universidade Federal de Santa Catarina (UFSC).
+Possui Graduação em Biblioteconomia pela Universidade Federal do Amazonas (UFAM) (201 9).
+Foi presidente do Centro Acadêmico de Biblioteconom ia do Amazonas (CABAM) (2019 -2020), representante discente no colegiado do curso de Biblioteconomia da Universidade Federal do Amazonas (2019- 2020) e estagiário do Tribunal Regional Eleitoral do Amazon as (TRE -AM) na Seção de Biblioteca, Arquivo e Editoraçã o (SEBIB) no período de 2018 a 2019.
+Atualmente, é Bolsista da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) em nível mestrado e membro do Grupo de Pesquisa Gestão da Informação e do Conhecimen to na Amazônia (GICA).
+Tem experiência na área de Ciência da Informação, com ênfase em estudos métricos da informação com foco na bibliometria e cientometria, ecossistemas de conhecimento e competência em informação.
+ii Doutora em Avaliação de Tecnologia pela Faculdade de Ciências e Tecnologia da Universidade Nova de Lisboa (FCT -UNL).
+Possui graduação em Ciências Econ ômic as pela Universid ade Regional de Blumenau (2007) e Mestrado em Economia e Gestão da Inovação pela Universidad e do Porto - Portugal (2010).
+Atuou com consultoria em processos de inovação, gestão da inovação.
+Pesquisadora Associada ao Centro Interdiscipl inar de Ciên cias Soci ais da Universidade Nova de Lisboa (CICS.NOVA).
+Membro do Grupo de Estudos em Avaliação de Tecnologia (GrEA T).
+Tem-se ded icado à análise da adoção de Inovação Aberta, Avaliação de Tecnologia, Inovação Disruptiva e Inovação Tecnológica.
+Atualmente é Professora Adjunta no Departamento de Ciência da Informação (CIN) da Universidade Federal de Santa Catarina.
+iii Pesquisador no I nstitute for Systems and Computer Engineering, Technology and Science (INESC TEC), Porto, Portugal.
+Doutor em Enge nharia e Gestão Industrial pela Universidade de Aveiro, Portugal.
+Possui graduação em Administração pela Un iversidade Federal de Santa Catarin a (2004), Mestrado em Gestão pela Universidade de Aveiro (2010) e MBA em Gestão para a Excelência pelo SENAI/SC (2 008).
+Seus principais interesses de pesquisa são gestão da cadeia de suprimentos, transformação dig ital nas cadeias de supriment os, gestão da inovação e gestão estratégica.
+Possui experiência em empresas no Brasil e em Portugal, com ênfase nas áreas de planejamento estratégico, gestão da qualidade, gestão da cadeia de suprimentos, gestão de custos e gestão de projetos.
+iv Doutorand a em Arte e Design pela Universidade do Porto - Portugal.
+Mestre em Design com ênfase em Design Estratégico pela Universidade d e Aveiro - Portugal (2010), com diploma validado pela Universidade Estadual do Rio de Janeiro - UERJ.
+Graduação em Design Industr ial com habili tação em Projeto de Produto pela Universidade do Estado de Santa Catarina - Brasil (2005).
+Colabora com o Institu to de Investigação em Design, Media e Cultura - ID+ (certificado pela Fundação para a Ciência e a Tecnologia - FCT) vinculado à U niversidade do Porto e à Universidade de Aveiro.
+Atuou como pesquisadora do Conselho Nacional de Desenvolvimento Científico e T ecnológico - CNPq junto à Universidade do Estado de Santa Catarina - UDESC, à Universidade Federal de Santa Catarina - UFSC, e ao Instituto Euv aldo Lodi de Santa Catarina desenvolvendo pesquisas nas áreas de inovação e projectos em Design.
+Tem experiência na ár ea de ensino, consultoria empresarial, desenvolvimento de projetos em Design de Produto, Gestão do Design e Gestão da Inovação, e na media ção de trabalhos conjuntos entre universidades e empresas com foco na implementação de núcleos de gestão da inovaç ão.
+Os interesses atuais de investigação concentram -se no desenvolvimento de estratégias de gestão da inovação para PEs baseadas no Design Est ratégico com ênfase no estudo de modelos de gestão da criatividade em diferentes domínios .

@@ -1,0 +1,465 @@
+ UM MODELO CONCEITUAL PARA A RELAÇÃO ENTRE PESQUISA E DESENVOLVIMENTO E GESTÃO DA INOVAÇÃO A CONCEPTUAL MODEL FOR RESEARCH & DEVELO PMENT AND INNOVAT ION MANAGEMENT RELATIONSHIP Fernanda Eirado Souza, UFF, Brasil.
+E-mail: fernandaeirado@id.uff.br Ramon Baptista Narcizo , UFF, Brasil.
+E-mail: ramon_narcizo@id.uff.br Rodolfo Cardoso , UFF, Brasil.
+E-mail: rodolfo_cardoso@id.uff.br Iara Tamella , UFF, Brasil.
+E-mail: iaratammela@id.uff.br Submetido: Janeiro 2021 Aceito: Abril 2021 *Contato para Correspondência Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n. 3, Maio /Agosto – 2022 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n 3.01 Página | 2 Resumo A inovação representa uma vantagem competitiva para as empresas, no entanto, o s dinamismo s tecnológico e de mercado comprometem a manutenção de uma vantagem competitiva perdurável.
+Para contrapor os impactos do dinamismo tecnológico e potencializar o desempenho d e inovação, "pesquisa e desenvolvimento " (P&D) é um fator crítico .
+A P&D atua como uma importante fonte de co nhecimento que pode ser transferido e apoiar rápidos avanços da inovação.
+Outro fator fundamental para o sucesso das inovações é a forma pela qual seu processo é projetado e gerenciado.
+Assim, tanto o acervo intangível de conhecimento utilizado em suas ope rações , que pode ser conferido principalmente pela P&D, quanto a capacidade de gestão da inovação e seus processos , impactam diretamente a competitividade das empresas.
+Entretanto, ainda há oportunidades para uma melhor compreensão d o relacionamento existe nte entre esses dois aspectos organizacionais .
+Nesse sentido, este artigo apresenta uma revisão sistemática da literatura afim de sistematizar conceitualmente a relação existente entre as atividades de P&D e a abordagem sistêmica da gestão da inovação.
+Para isso, foi utilizada a metodologia de Revisão Sistemática da Literatura orientada para o desenvolvimento de artefatos oriundos da Design Science Research .
+Como principal resultado, a pesquisa propõe um modelo conceitual enfatizando o relacionamento e os fluxos de retroalimentação que existem entre a gestão da inovação e a P&D, incluindo os conceitos subjacentes ao processo de inovação e ao processo de desenvolvimento de novos produtos .
+Palavras -chave: mode lo conceitual; gestão da inovação; pesquisa e desenvolvimento; processo de inovação; desenvolvimento de novos produtos.
+Abstract: Innovation represents a competitive advantage for companies; however, technological and market dynamism compromise the mainte nance of a lasting competitive advantage.
+To counteract the impacts of technological dynamism and enhance innovation performance, "research and development " (R&D) is a critical factor.
+R&D acts as an important source of knowledge that can be transferred and support rapid advances in innovation.
+Another fundamental factor for the success of innovations is the way in which the innovation process is conceived and managed.
+Thus, both the intangible collection of knowledge used in its operations, which can be conferred mainly by R&D, and the capacity to manage innovation and its processes, directly impact the competitiveness of companies .
+However, there are still opportunities for a better understanding of the relationship between these two organizational aspects.
+In this sense, this article presents a systematic review of the literature in order to conceptually systematize the relationship between R&D activities an d the systemic approach to innovation management.
+For that, the methodology of Systematic Literature Review was used, oriented to the development of artifacts originating from Design Science Research.
+As a main result, the research offers a conceptual fram ework emphasizing the relationship and feedback flows that exist between innovation management and R&D, including the concepts underlying the innovation process and the new product development process.
+Keywords: conceptual framework; innovation management; research and development; innovation process; development of new products.
+Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n. 3, Maio /Agosto – 2022 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n 3.01 Página | 3 1 INTRODUÇÃO É amplamente reconhecido que a inovação representa uma vantagem competitiva para as empresas (Crossan & Apaydin, 2010; Trott, 2012; Kumazawa & GomisPorqueras , 2012).
+No entanto, o dinamismo do mercado e a capacidade de imitação da concorrência comprometem a manutenção d e uma vantagem competitiva perdurável (Tidd, Bessant , & Pavitt , 2015).
+Nesse sentido, a pesquisa e o desenvolvimento ( P&D) são i mportante s fator es para contrapor os impactos do dinamismo tecnológico (Huang , 2011) e para a melhoria do desempenho em inovação (Siguaw, Simpson , & Enz, 2006 ; Tidd et al., 2015; Trott , 2012 ).
+A P&D atua como uma importante fonte de conhecimento explícito que pode ser transferido para apoiar rápidos avanços ( Huang , 2011).
+Ademais, quando aliada a estratégias e operações bem -sucedidas , a P&D contribui significativamente para o êxito das o rganizações ( Artz, Norman , & Hatfield , 2013) .
+Segundo Raymond e St. -Pierre (2010), embora existam diversos estudos sobre a P&D como fator determinante para a inovação, ainda há necessidade de maiores esclarecimentos na literatura sobre o relacionamento exi stente entre esses temas.
+Estudos reforçam a relação e representatividade entre as atividades de P&D e os resultados bem -sucedidos de inovação (Martínez -Roman, Gamero , & Tamayo, 2011), particularmente para as inovações de produtos ( Mu & Di Benedetto , 2011) .
+Kumazawa e Gomis -Porqueras (2012) afirmam que a maioria dos avanços tecnológic os decorrem de esforços de P&D .
+A capacidade de gestão de uma organização impacta diretamente em sua competitividade, assim como o acervo intangível de conheci mento utilizado em suas operações, que pode ser conferido, principalmente, pela P&D (Huang, 2011).
+Segundo Adams, Bessant e Phelps (2006), para se obter êxito e competitividade é imprescindível uma gestão bem -sucedida do processo de inovação .
+(2015), a inovação, em geral, é dada por um conjunto de esforços executados e repetidos ao longo de um período associado a um ciclo de aprendizado que é orientado por rotinas de gestão da inovação.
+A literatura reforça a importância de uma gestão sistê mica que vise coordenar e alinhar esforços, gerando condições favoráveis para o desempenho da inovação nas organizações (Pellicer, Correa, Yepes , & Alarcon, 201 2).
+Estudos sobre a gestão d a P&D associam suas atividades a o processo de inovação (OECD/ Eurostat , 2018) , assim como o Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n. 3, Maio /Agosto – 2022 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n 3.01 Página | 4 gerenciamento d a P&D tem sido representado de forma integrad a às estratégias e à gestão da inovação (Brem & Voigt , 2009) .
+Em face do exposto, este artigo tem por objetivo realizar uma revisão sistemática da literatura para fundamentar a construção de um quadro conceitual capaz de explicitar a relação entre as atividades de pesquisa e desenvolvimento (P&D) e a gestão da inovação enquanto um processo organizacional .
+A pesquisa possui foco na análise de esforços de inovação que envolvam a P&D formal e institucionalizada, direcionad os primariamente a desenvolvimento s de novos produtos em empresas de base tecnológica .
+Dessa forma , no âmbito específico da P&D , não foram enfatizad as as pesquisas básicas ou as investigações sem aplicaç ões diretas ao mercado .
+2 PROCEDIMENTOS METODOLÓGICOS Uma Revisão Sistemática da Literatura (RSL) é uma investigação científica que abrange a análise e síntese de documentos originais e primários relevantes relacionados ao estudo, baseada em estratégias científicas e métodos sistemáticos preestabelecidos que possam ser reproduzidos (Cook, Mulrow, & Hay nes, 1997) .
+Revisões sistemáticas podem ser quantitativas ou qualitativas.
+Para a presente pesquisa foi adotada uma abordagem qualitativa, visto que é orientada para casos em que os resultados dos documentos não possam ser combinados de forma estatística ( Cook et al.
+Dresch, Lacerda e Antunes Jr (2015 , p. 146 ) propõem um método para a condução de uma RSL orientada ao desenvolvimento de artefatos associados à Design Science .
+O método é composto por sete passos sequencia is, conforme apresenta o Quadro 1 .
+Passos de uma RSL conforme Dresch et al.
+Definição da questão e do framework conceitual O tópico central da revisão é definido e delimit ado em uma questão -chave , que permitirá o entendimento da abrangência e profundidade científica da revisão, bem como a definição sobre como essa questão será respondida.
+Escolha da equipe de trabalho A quantidade de participantes na construção da revisão é defini da, tomando por base o escopo da pesquisa e o conhecimento da equipe.
+Estratégia da busca A partir da estrutura conceitual da pesquisa e da questão -chave, se avança para o entendimento do que se deve buscar, como, onde e como reduzir o viés e a extensão da pesquisa com base nos recursos disponíveis.
+Busca, elegibilidade e codificação Partindo da estratégia, se busca um conjunto extenso de documentos, dos quais uma parte será considerad a relevante para a revisão com base em um processo estrutu rado de seleção que inclui critérios de inclusão e exclusão.
+Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n. 3, Maio /Agosto – 2022 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n 3.01 Página | 5 5.
+Avaliação da qualidade A qualidade e relevância da revisão é avaliada levando em consideração se a condução do processo seguiu os padrões definidos e se os estudos selecionados foram sustenta dos por dados e fatos.
+Além disso, os documentos são avaliados quanto à aborda gem ao tema central e à questão da revisão.
+Síntese dos resultados A partir da análise e identificação de padrões nos documentos selecionados, os resultados são combinados e conectados para gerar novos conhecimentos, transformando dados em conhecimento para responder à questão da revisão.
+Apresentação do estudo Os resultados devem ser adequadamente apresentados permitindo o entendimento das descobertas por seus possíveis usuários .
+Fonte: Adaptado de Dresch et al.
+A aplicação do método à pesquisa segue adaptações pertinentes a uma estratégia de revisão configurativa.
+A estratégia configurativa explora o tema de forma abrangente com o objetivo de alcançar uma síntese coerente com base em estudos primários qualitativos por meio do método indutivo (D resch et al., 2015).
+Assim, a adaptação do método adotou os passos apresentados a seguir.
+Passo 1 : Para o entendimento inicial do domínio teórico sob estudo, seus principais conceitos, relações e variáveis de interesse , foi realizad o um estudo exploratório assistemático, isto é , uma revisão narrativa da literatura .
+Para isso foram utilizados 17 documentos considerados como relevantes sobre os temas "inovação ", "gestão da inovação" e "P&D ", incluindo manuais, guias metodo lógicos e livros avaliados como referência s essenciais .
+A revisão narrativa inicial – suprimida em grade parte deste artigo, ma s apresentada parcialmente na seção de introdução – suportou o entendiment o da estrutura conceitual elementar da pesquisa, a definição da questão -chave e a tomada de decisão sobre os parâmetros de busca que sustentaram a execução d o método .
+Em decorrência, a questão -chave definida para nortear a execução da RSL é fundamenta da do seguinte modo : "como o processo de P&D se relaciona com a gestão da inovação nas organizações , potencialmente influenciando -a?"
+Passo 2 : Em relação à escolha da eq uipe de trabalho, a busca e a leitura dos documentos foram realizadas por um pesquisador.
+E sse quantitativo foi considerado suficiente para a condução da revisão, dado o escopo definido pela questão -chave.
+Passo 3 : Para a estratégia da busca , foram definidos os termos da busca e os critérios de inclusão e exclusão de documentos , constituindo o protocolo básico da pesquisa.
+Assim, f oram definidas palavras -chave que fazem alusão aos grandes temas da pesquisa .
+A palavras e seus respectivos e eventuais s inônimos e abreviações foram utilizadas na construção do código de busca avançada (também conhecido como " string Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n. 3, Maio /Agosto – 2022 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n 3.01 Página | 6 de pesquisa") .
+A busca inicial foi realizada na base Scopus em 30 de abril de 2019 , resultando em 3702 documentos .
+Em seguida, foram aplicados filtros para a busca inicial, restringindo os resultados por áreas de conhecimento, ano e idioma , result ando em 1822 documentos como universo de estudo inicial .
+Os principais resultados são explicitados na Tabela 1 .
+Passo 4 : Constituído o universo de estudo, se iniciou a condução da busca, da análise de elegibilidade e da codificação , realizad os com base no processo e atividades propostas por Dresch et al.
+Dado o quantitativo de 1822 documentos do universo de estudo , foi adotado o critério de exclusão a partir do número de citações dos documentos .
+Tal contagem é fornecida pela base Scopus e para isso foram considerados os dados de 30 de abril de 2019 .
+Partindo da premissa de que artigo s com altos número s de citações possuirão maior relevância à comunidade acadêmica , se optou por utilizar os documentos com mais de 30 citações .
+Essa primeira seleção result ou em 192 documentos .
+Esses documentos foram analisados em função da leitura d e seus títulos e resumos .
+Para essa análise, f oi definido como critério de inclusão o alinhamento direto com os conceitos de "gestão da inovação", "desenvolvimento de novos produtos" ou "P&D ".
+Como resultado da análise qualitativa, foram identificados 46 documentos com aderência ao critério, e esses foram destinados para uma leitura aprofundada dos documentos completos .
+Nessa análise final, foram mantidos os documentos cujos focos estavam orientados a empresas , organizações ou instituições.
+Considerando esse critério , 42 documentos foram considerados relevantes , sendo quatro excluídos.
+A Tabela 1 apresenta , em síntese , os quantitativo s encontrado s em cada etapa do levantamento e da seleção dos documentos utiliz ados pra construção da revisão.
+A codificação consistiu em uma codificação aberta, haja visto que o estudo se caracteriz ou como uma pesquisa configurativa.
+Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n. 3, Maio /Agosto – 2022 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n 3.01 Página | 7 Tabela 1.
+Número de documentos selecionados em cada etapa Parâmetro de seleção Descrição Documentos Busca inicial : Aplicação do código de busca avançada ("R&D" OR "research and development") AND ("new product* development" OR "product* development" OR "NPD" OR "product* design") AND (organization* OR compan* OR firm* OR institution* OR business OR corporation* OR enterprise*) AND ("innovation* management" OR "management of innovation*" OR "managing innovation*") 3702 Universo de estudo : Aplicação de filtros para a busca inicial Período de publicação documentos indexados na plataforma a partir de 2010 até 2019; idioma inglês e português; e Área s de estudo : Engenharia; Negócios, Gestão e Contabilidade; Ciências da decisão; e Economia, Econometria e Finanças .
+1822 Critério de exclusão : Contagem de citaç ões Retira os documentos com n úmero de citações m enor ou igual a 30.
+192 Critério de inclusão 1: Alinhamento com os conceitos Avalia se o documento aborda como tema central os conceitos "gestão da inovação ", "desenvolvimento de novos produtos" ou "P&D " a partir da l eitura d os títulos e resumos .
+46 Critério de inclusão 2 : Alinhamento ao tema Avalia se o documento aborda como tema central os conceitos gestão da inovação", "desenvolvimento de novos produtos" ou "P&D" no contexto de empresas ou instituições , a partir da l eitura dos textos completos .
+Passo 5 : Para esta aplicação da RSL , não foi realizada a análise de duplicidade, visto que os documentos foram obtidos a partir d e uma busca conduzida por um único termo de pesquisa e em uma única base de dados .
+A leitura e análise dos documentos foram realizadas s omente por um único avaliador, por isso a questão referente aos índices de concordância fo i considerada dispensável .
+Com o propósito de garantir que as principais informações de interesse da pesquisa , definidas no protocolo da RSL, t ivessem fundamentação suficiente para a síntese do estudo , foi criado o guia de codificação apresentado no Quadro 3.
+Questões d a revisão e número de referências relacionadas Questões da revisão Referências N. 1.
+Apresenta conceitos ou abordagens sobre a gestão da inovação ?
+Brettel, Mauer, Engelen e Küpper (2012); Cheng, Chang e Li (2013); Gassmann , Enkel e Chesbrough ( 2010); Tran, Hsuan e Mahnke (2011); Vaccaro, Parente e Veloso (2010); Yang ( 2010 ) 6 2.
+Aborda os diferentes processos ou configurações para a execução da P&D ?
+Barge -Gil (2010); Berchicci (2013); Bogers (2011); Brettel et al.
+(2012); Brettel, Heinemann, Engelen e Neubauer (2011); Cui et al.
+(2012); Enberg (2012); Füller et al.
+(2011); Huang e Yu (2011); Lee, Kelley, Lee e Lee (2012); Nieto e Rodríguez (2011); Rese e Baier (2011); Salter, Ter Wal, Criscuolo e Alexy (2015); Sieg, Wallin e Von Krogh (2010); Song e Song, (2010); Spithoven e Teirlinck (2015); Um, Cuervo -Cazurra e Asakawa ( 2010); Un e Asakawa (2015); Van 22 Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n. 3, Maio /Agosto – 2022 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n 3.01 Página | 8 Beers & Zand (2014); Whelan, Teigland e Donnellan (2010); Wu (2014); Yang ( 2010 ) 3.
+Explora a relação entre P&D e inovação ?
+(2013) ; Berchicci (2013); Cainelli, De Marchi e Grandinetti (2015) ; Cui et al.
+(2012); De Luca, Verona e Vicari (2010); de Massis, Frattini e Lichtenthaler (2013); Di Minin, Frattini e Piccaluga (2010); Ernst, Hoyer e Rübsaamen (2010); Hoang e Rothaermel (2010); Holahan, Sullivan e Markham (2014); Huang (2011); Huang e Yu (2011); Marion , Friar e Simpson (2012); Markham (2013); Mu e Di Benedetto (2011); Raymond e St-Pierre (2010); Un e Asakawa (2015); Van Beers e Zand (2014); Whelan et al.
+(2010); Wynarczyk (2013); Yang (2010) 21 4.
+Explora a relação entre P&D e gestão da inovação ?
+(2012); Du, Leten e Vanhaverbeke (2014); Holahan et al.
+(2011 ); Yang (2010); 6 Fonte: Elaboração própria .
+Passo 6 : Como a metodologia de condução da RSL prevê, foram adicionados documentos complementares .
+Destes, 17 foram documentos utilizados no Passo 1 , considerados como relevantes , porém, em sua maioria não indexados à base Scopus .
+Também foram incluídos 11 documentos extraídos a partir de uma análise de redes de citação, apresentadas na Seção 2.1 deste artigo .
+A literatura complementar contribuiu para uma maior robustez e amplitude d a revisão, em especial para os aspectos indicados no Quadro 3 .
+Por fim, a partir da leitura dos 4 2 documentos encontrados pela RSL e dos 28 documentos complementares , foi elaborada a síntese configurativa da literatura , apresentada na Seção 3 deste artigo .
+Passo 7 : Apresentação dos resultados da pesquisa é dada por um modelo conceitual fundamentado no quadro teórico sintetizado a partir das interpretações e conclusões das informações e conhecimentos adquiridos pela leitur a, análise e síntese dos 70 documentos .
+A construção dessa representação conceitual foi orientada por meio do raciocínio abdutivo , que é "uma operação lógica que induz a uma nova ideia" ( Fischer & Gregor , 2011, p. 20), cujo método consiste em estudar fatos e criar hipóteses que expliquem determina da situação (Dresch et al., 2015).
+Os resultados são apresentados na Seção 4 deste artigo.
+2.1 Pesquisa bibliométric a Para entender a extensão, evolução e capilaridade do conceito de "gestão da inovação " ao longo dos anos, foi utiliz ada a ferramenta CitNetExplorer , que permite mapear redes de citações de publicações científica s (Van Eck & Waltman , 2014) .
+Em 21 Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n. 3, Maio /Agosto – 2022 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n 3.01 Página | 9 de maio de 2019 foi realizada uma pesquisa da expressão "innovation management " nos resumos dos 500 documentos mais citados na ba se Web of Science , considerando um escopo mínimo de 10 citações por documento.
+Usando esses dados como entrada, foi construído um mapa de redes de citações sobre o tema "gestão da inovação", ilustrado pela Figura 2.
+O uso da ferramenta CitNetExplorer também permitiu o agrupamento de pesquisas convergentes em linhas teóricas específicas , identificando seis diferentes abordagens presentes na literatura sobre o tema .
+Para interpretar as seis principais abordagens encontradas, foram analisa dos os títulos e resumos, de forma qualitativa, dos documentos mais relevantes para cada agrupamento.
+Para isso, foram considerados mais relevantes os documentos mais citados e (ou) mais recentes, objetivando identificar as características principais de ca da abordagem e delinear as principais diferenças entre eles.
+Após a leitura dos títulos e resumos dos documentos selecionados, foram lidos os textos completos de pelo menos três documentos de cada agrupamento.
+Visão gera L das redes de citações Fonte: Elaboração própria a partir do software CitNetExplorer .
+Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n. 3, Maio /Agosto – 2022 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n 3.01 Página | 10 O Quadro 4 apresenta a caracterização dos agrupamentos identificad os.
+A última coluna do quadro apresenta o número de documentos , referentes a cada abordagem , incluídos à RSL.
+Foram incluídos à RSL apenas documentos que respondessem a pelo menos uma questão do guia de codificação apresentado no Quadro 3 .
+Em decorrência, foram obtidos 11 documentos que contribuíram principalmente para um aprofundamento sobre a Qu estão 1 e a Questão 4 do guia de codificação (Quadro 3), que eram exatamente as questões que apresentavam o menor número de publicações a elas associadas.
+Abordagens sobre gestão da inovação identificadas nos agrupamentos Grupo Características principais Incluído(s) 1 Estudos sobre fatores, capacidades, competências, dimensões ou abordagens organizacionais que contribuem para ( ou mensuram ) a inovação ou a gestão da inovaçã o nas organizações .
+4 2 Estudos empíricos sobre inovação ou gestão da inovação, com foco nos processos produtivos e em melhores práticas para o desenvolvimento de novos produtos , serviços ou processos .
+4 3 Análises e sínteses, tanto teóricas quanto conceituais , da literatura sobre gestão da inovação a partir de análise de dados, revisões da literatura , análises bibliométricas etc.4 Estudos sobre inovação com foco primário em P&D e tecnologia, englobando vigilância tecnológica, transferência e aq uisição de tecnologias , digitalização, produção mais limpa, produção eficiente etc.
+2 5 Estudos voltados ao marketing e à estratégia organizacional no contexto da inovação, englobando análise s de mercado, proposta de valor, competitividade, desempenho e eficiência nas empresas .
+1 6 Estudos focados nas dinâmicas inerentes às relações sociais no âmbito organizacional, englobando aprendizado, liderança, responsabilidade social , interações sociais etc.Fonte: Elaboração própria.
+O quantitativo de documentos aproveitados a partir de cada agrupamento está alinhado com a proximidade conceitual da abordagem sobre gestão da inovação adotada neste artigo .
+Dessa forma, os agrupamentos 1 e 2 apresentaram expressiva contribuição adicional à pesquisa , pois apresenta vam intensa aderência conceitual .
+Por outro lado, devido à baixa aderência conceitual ao tema , não foram encontrad os documentos relevantes à pesquisa presentes nos agrupamentos 3 e 6.
+Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n. 3, Maio /Agosto – 2022 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n 3.01 Página | 11 3 SÍNTESE DA REVISÃO SISTEMÁTICA DA LITERATURA 3.1 Inovação Na literatura científica, o tema "inovação " pode ser entendid o tanto como um resultado quanto um processo (Crossan & Apaydin; 2010; Raymond & St-Pierre , 2010 ).
+A inovação na forma de resultado está associada ao sucesso decorrente da exploração bem-sucedida de uma nova ideia ou oportunidade .
+Pode ser classificada como incremental ou radical em função do grau de novidade envolvida, bem como do nível de impacto d os resultados alcançados (Crossan & Apaydin, 2010) .
+Ainda em termos de resultado, também pode ser classificada em uma tipologia composta por inovação de produto , e inovação de processos de negócios (OECD/Eurostat, 2018 , pp.
+Por outro lado, a inovação e nquanto um processo organizacional é fomentada internamente pelo conhecimento e pelos recursos disponíveis na organização, e externamente a partir de oportunidades de mercado e regulamentações ( Crossan & Apaydin ; 2010 ).
+Um ambiente interno favorável à inovação é constituído por um conjunto de fatores habilitadores que permitem a transformação contínua de ideias e conhecimentos em novos produtos, processos e sistemas (Van de Ven , 1986 ).
+Esse conjunto de atributos organizac ionais é comumente referido como " capacidade de inovação " (numa tradução livre da expressão inglesa " innovation capability "), que é formada por práticas e processos que reforçam, estimulam e medem a inovação em uma empresa ( Lawson & Samson , 2001) .
+Essa capacidade é considerada como impulsionadora de um alto desempenho competitivo nas organizações (Forsman, 2009; Crossan & Apaydin, 2010 ; Saunilla & Ukko , 2014).
+Integrando diferentes definições para a "c apacidade de inovação ", a mesma pode ser entendida como o potencial de gerar inovações continuamente , sustentad o pela integração entre procedimentos, habilidades e processos internos orientados à inovação e informações externas, impulsionad a por uma cultura focada em inovação (Peng, Schroeder , & Shah, 2008, Martínez -Román et al., 2011, Lawson; Samson, 2001, Francis & Bessant, 2005, Forsman, 2009 ).
+Para Saunila e Ukko (2012) a capacidade de inovação permeia tanto a exploração de inovações em potencial e seus processos transformadores pelos quais a inovaç ão é construída , quanto seus resultados , que geram efeitos para o s ambiente s interno e externo à organização .
+Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n. 3, Maio /Agosto – 2022 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n 3.01 Página | 12 Particularmente , para orientar o desenvolvimento e a comercialização de novos produtos , existem abordagens, ferramentas, métodos e processos especificamente orientados a esse fim, comumente referidos no idioma inglês a partir da expressão genérica " new product development " (em português: desenvolvimento de novos produtos) ou pela sigla NPD.
+No contex to das inovações de produto , existem diferentes formas de interação entre o processo de desenvolvimento de produtos e o processo de inovação .
+É comum que ambos sejam compreendidos de forma agrupada , a partir de um processo integrado .
+Porém, também podem ser entendidos como dois processos independentes , onde o processo de inovação alimenta o processo de NPD com componentes inovadores ao longo de suas etapas (Jost, Lorenz & Mischke, 2005 ).
+Em geral, um processo de inovação é definido p or uma sequência de estágios ( Van de Ven , 1986) que pode m ser conduzido s de modo informal, com metodologias específicas de NP D (Holahan et al., 2014 ) ou ainda, via terceirização (T ran et al., 2011; Cui et al ., 2012).
+As características do processo de inovação podem variar significativamente de acordo com o ambiente interno das organizações (Adams et al , 2006) .
+Ademais, as influências externas também exercem impacto relevante .
+Brem e Voigt (2009) expõem seis fatores principais: polític os, socioculturais, ambientais, econômic os, tecnológic os e legais.
+3.2 Pesquisa e desenvolvimento (P&D) Um esforço de p esquisa e desenvolvimento pode ser definid o como " (.)
+o trabalho criativo e sistemático realizado para aumentar o estoque de conhecimento – incluindo o conhecimento da humanidade, cultura e sociedade – e para conceber novas aplicações do conhecimento disponível " (OECD, 2015, p. 44) .
+Em outras palavras, é a exploração e aplicação do conhecimento científico de forma sistêmica e intencional para o desenvolvimento de novos conhecimentos e artefatos (T rott, 2012).
+A P&D se divide em três tipos de atividades principais , que podem ser integradas , a saber : pesquisa básica, pesquisa aplicada e desenvolvimento experimental (OECD, 2015) .
+As atividades de P&D podem ser conduzidas dentro da organização ou externamente , ou mesmo equilibrando a P&D interna e externa (B erchicci , 2013).
+A P&D externa ou terceirizada diz respeito às atividades de pesquisa e desenvolvimento realizadas por um fornecedor ou parceiro (Spithoven & Teirlinck, 2015 ; Nieto & Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n. 3, Maio /Agosto – 2022 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n 3.01 Página | 13 Rodríguez, 2011 ).
+A P&D externa possui diferentes configurações possíveis, com o aquisição de tecnologia s, aquisição de serviços, pesquisa comissionada ou conjunta.
+Nesses casos, as empresas comumente configuram suas redes com diferentes parceiros e formas de colaboração ( Huang & Yu , 2011).
+A P&D colaborativa é entendida como a atuação entre as áreas internas de P&D da organização de forma conjunta com instituições externas , tais como universidades, fornecedores, centros de pesquisa, clientes ou concorrentes ( Berchicci, 2013; Huang & Yu, 2011; Sieg et al., 2010; Un & Asakawa, 2015; Un et al.
+, 2010; Whelan et al., 2010; Wu, 2014).
+Esse relacionamento pode promove r a expansão do conhecimento interno, a partilha de riscos, o intercâmbio social , a redução de custos ( Rese & Baier, 2011; Bogers , 2011 ) e o aumento d a competitividade ( Hoang & Rothaermel , 2010).
+Por outro lado , os resultados advêm em detrimento da diminuição da autonomia e da geração de uma relação de dependência entre as partes (Rese & Baier , 2011) , podendo inclui r custos de gerenciamento das entradas de conhecimento e das parcerias (S alter et al., 2015 ; Van Beers & Zand , 2014 ).
+Mas essas contrapartidas pode m ser amenizad as por uma gestão de conflitos ( Rese & Baier , 2011) ou administradas por métodos de condução e controle da troca de conhecimentos (Enberg , 2012).
+Segundo OECD/Eurostat (2018 , p. 87), "todos os tipos de P&D realizados ou pagos por empresas são considerados, por definição, atividades de inovação dessas empre sas".
+Assim, a P&D é uma atividade que propicia ganhos de conhecimento para a inovação, podendo gerá -la ou não.
+Raymond e St-Pierre (2010, p. 54) afirmam que a "P&D não é sinônimo de inovação", entretanto é uma atividade que gera impactos positivos em seus resultados (Huang , 2011).
+A P&D pode ser entendida como um d entre vários outros insumos ou atividades do processo de inovação (A dams et al ., 2006).
+Para Trott (2012), n os processos de inovação , a P&D deve estar integrada a diferentes áreas e atores.
+Nessa direção , a literatura sugere que a integração entre P&D e marketing gera resultados positivos para a inovação (Brettel et al., 2011; Brettel et al., 2012; De Luca et al., 2010; Fortuin & Omta , 2009; Song & Song , 2010), assim como a integração com a área de comercialização (Ernst et al ., 2010 ).
+Assim, t anto a P&D interna como a externa contribuem para a inovação , em especial , para o processo de NP D (Cainelli et al., 2015).
+Em termos de impactos positivos para a inovação, se destaca m a P&D colaborativa (Füller et al., 2011; Huang & Yu, 2011; Un & Asakawa, 2015; Un et al.
+, 2010; Van Beers & Zand, 2014 ) e a Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n. 3, Maio /Agosto – 2022 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n 3.01 Página | 14 inovação aberta potencializa ndo as capacidades internas de P&D ( Fortuin & Omta, 2009; Di Minin et al., 2010 ; Barge -Gil, 2010 ).
+3.3 Gestão da inovação Segundo a OECD (2018, p. 91), a gestão da inovação "inclui todas as atividades sistemáticas para planejar, governar e controlar os recursos internos e externos para a inovação".
+Assim, é compreendida como uma gestão sistêmica que sustenta e gerencia diferentes rotinas que propiciam a inovação, sendo um processo que permeia tanto a alocação eficiente de recursos, a tomada de decisão, o monitoramento de resultados e o suporte à aprendizagem, promovendo a conexão entre diferentes aspectos organizacionais e o ambiente externo ( Martínez -Román et al., 2011 ; Yepes, Pellicer, Alarcón, & Correa , 2016; OECD/Eurostat, 2018 ).
+A gestão da inovação visa reunir rotinas que contribuam para os desafios do processo de inovação e garantir a capacidade de inovação nas empresas (Tidd et al., 2015; Canongia , Santos, Santos, & Zackiewicz , 2004; Assimakopoulos , Carayannis, & Dossani , 2012 ).
+Além disso, é responsável pelo estabelecimento de políticas, processos, estratégias e mecanismos de avaliação de procedimentos e resultados relacionados à inovação (OECD/Eurostat , 2018), sendo parte integrante de todo o sistema de gestão organizacional ( Yepes et al ., 201 6).
+Com o crescimento da importância e resultados atribuídos às atividades de inovação para além das fronteiras organizacionais, a gestão da inovação pode suportar um gerenciamento de processos de inovação de forma descentraliza da (Gassmann et al., 2010).
+(201 6) os objetivos principais da gestão da inovação incluem aumentar a competitividade tecnológica da empresa, favorecendo um espírito inovador e criativ o; e melhorar a gestão do conhecimento interno, propiciando mais valor agregado a seus clientes.
+Para Yang (2010), estratégias de gestão do conhecimento devem estar integradas a rotinas habilitadoras da inovação e à criação de valor.
+A gestão do conhecimento diminui riscos em perda de experiência e retrabalho, favorece a geração de inteligência e as relações de colaboração, e propicia a melhoria nos processos de desenvolvimento (Vaccaro et al., 2010).
+No contexto do desenvolvimento de produtos , a gestão da inovação requer esforços para reduzir os riscos e as taxas de ins ucesso comercial (Cormican & O'Sullivan , 2004).
+Nesse sentido, o sucesso das inovações de Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n. 3, Maio /Agosto – 2022 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n 3.01 Página | 15 produto está associado a u m ambiente interno propício para inovações, equipes capacitadas e processos estruturados de desenvolvimento (Cheng et al., 2013) .
+4 APRESENTAÇÃO E DISCUSSÃO DOS RESULTADOS A literatura sugere que a relação entre a "gestão da inovação " e a "P&D " em gera l não é direta, perpassa ndo pelos conceitos de "desenvolvimento de novos produtos " e de "processo de inovação ".
+Uma forma de estrutura ção desse relacionamento é explicitada pela Figura 4, ainda de forma genérica .
+Essa estrutura hierárquica objetiva representar os conceitos em termos de escopo e abrangência, tendo sido identificada a partir da interpretação dos documentos oriund os da revisão sistemática da literatura.
+A gestão da inovação é exposta como um conceito que abrange o gerenciamento holístic o da inovação e suas atividades (Martínez -Román et al., 2011 ; Yepes et al., 201 6), enquanto o processo de inovação, o NPD e a P&D são visto s como aspectos pertencentes ou incluídos em seu escopo (Brem & Voigt , 2009; OECD/Eurostat, 2018 ), que pode m ser realizado s de forma integrada ou mesmo isolada ou independente .
+No último caso, geralmente fornecem uns aos outros informaç ões e conhe cimento (Jost et al., 2005) .
+O relacionamento hierárquico apresentado pela Figura 4 é fundamentalmente direcionado pelo foco adotado neste artigo , que está orientado primariamente a empresas de base tecnológica .
+Assim como indicado por Trott (2012) , a P&D foi considerada como parte do processo de inovação e de NPD .
+Como consequência, as atividades de P&D podem ser consideradas como um estágio do NPD , e não um processo de desenvolvimento como um todo (OECD, 2015).
+Relacionamento entre os constructos Fonte: Elaboração própria .
+Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n. 3, Maio /Agosto – 2022 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n 3.01 Página | 16 Objetivando aprofundar esses relacionamentos, a Figura 7 apresenta uma proposta de modelo na forma um framework conceitual.
+Esse modelo representa uma integração entre os constructos "gestão da inovação", "inovação" (em termos de processo e resultado) , "NPD " e "P&D ", a partir das suas relações e interações .
+Na construção d esse framework se optou por representar o processo de NPD de forma subordinada ao processo de inovação, como sugerido por Jost et al .
+Adicionalmente, as principais atividades associadas ao processo de NPD foram identificadas, sintetizando diferentes abordagens sobre o tema na literatura.
+Essas atividades foram então agrupadas em um processo genérico de três etapas, front -end, desenvolvimento e comercialização, suportadas por fluxos de informação e conhecimento.
+Os resultados finais obtidos são apresentad os no Quadro 5 .
+Atividades do processo de NP D na literatura Aspecto Atividades Referências Front -end Planejamento Assimakopoulos et al.
+(2011) Identificação de Oportunidades Brem e Voigt (2009); Markham (2013) Geração de Ideias Assimakopoulos et al.
+(2012 ); Brem e Voigt (2009); Ernst et al.
+(2012); Markham (2013) Seleção de ideias Assimakopoulos et al.
+(2012) ; Brem e Voigt (2009); Ernst et al.
+(2014); Markham (2013) Geração de conceitos; business case; plano de negócios Assimakopoulos et al.
+(2012 ); Brem e Voigt (2009); Ernst et al .
+(2012 ); Markham (2013); Tran et al.
+(2011) Desenvolvimento Protótipo Assimakopoulos et al.
+(2005 ) Desenvolvimento do produto Assimakopoulos et al.
+(2012 ); Markham (2013); Tran et al.
+(2011) Testes Assimakopoulos et al.
+(2011) Marketing Assimakopoulos et al.
+(2011) Comercialização Vendas; lançamento; produto comercial; implementação Assimakopoulos et al.
+(2012) Informação e Conhecimento Geração de aprendizagem e conhecimento Assimakopoulos et al.
+(2012) ; Brem e Voigt (2009); Ernst et al.
+(2010); Mu e Di Benedetto (2011 ) Fonte: Elaboração própria.
+Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n. 3, Maio /Agosto – 2022 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n 3.01 Página | 17 Para Jost (2005) a principal diferença dos processos de NPD para a inovação reside no fato de que a primeira está mais orientad a ao atendimento às demandas do mercado em detrimento do grau de novidade e maturidade do desenvolvimento.
+Para Trott (2012) , empresas cujo impulso para a inovação é empurrado pela tecnologia comumente consideram as atividades de marketing após a fabricação .
+Dessa forma , em alinhamento com o referido autor, para a configuração do processo de NPD se optou por manter tais atividades agrupadas na etapa de desenvolvimento.
+Analogamente ao processo de NPD , o processo de inovação está fundamentado em diferentes aspectos críticos , como apresenta o Quadro 6 .
+Sua representação está estrutura da em macroprocessos sequencia is, iniciando pelo "front-end", que inclu i a identificação de oportunidades, ideação e conceituação, seguido pela etapa de "desenvolvimento " que engloba as atividades de P&D e NPD , passando pela "f abricação " e pelo "m arketing " até a "comercialização " do produto no mercado .
+Assim, entende -se que o processo de inovação é capaz de abranger tanto as atividades de P&D quanto de NPD .
+Atividades do processo de inovação na literatura Aspecto Atividades Referências Front -end Front -end Trott ( 2012 ) Insumos de Massis et al.
+(2013 ) Identificação de oportunidades Jost et al.
+(2005); Saunilla e Ukko (2012); Tidd et al.
+(2015) Geração de ideias Barrand, Sanséau e Ferrante (2012); Oke (2007); Saunilla e Ukko (2012) Seleção de ideias Oke (2007); Saunilla e Ukko (2012); Tidd et al.
+(2015 ) Geração de conceitos Jost et al.
+(2005 ); Saunilla e Ukko (2012) Suporte à inovação Barrand et al.
+(2012) Desenvolvimento Protótipo Saunilla e Ukko (2012) Testes Saunilla e Ukko (2012) P&D Trott (2012); Tidd et al.
+(2015) Desenvolvimento do produto Barrand et al.
+(2005 ); Oke ( 2007 ) Produção Produção Jost et al.
+(2005) ; Oke (2007); Saunilla e Ukko (2012); Trott (2012) Marketing Marketing Trott (2012) Comercialização Vendas; lançamento; produto comercial; implementação; saídas Barrand et al .
+(2013 ); Oke (2007 ); Saunilla e Ukko (2012); Tidd et al.
+(2015); Trott (2012) Informação e Conhecimento Geração de aprendizagem e conhecimento Tidd et al.
+(2015); Trott (2012) Fonte: Elaboração própria.
+Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n. 3, Maio /Agosto – 2022 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n 3.01 Página | 18 A partir do levantamento da literatura sobre as diferentes atividades dos processos de NPD e inovação , uma representação da integração entre os conceitos com a P&D é apresentada n a Figura 6.
+As atividades de NP D são representadas pelas caixas em cinza, enquanto o processo de inovação engloba todo o modelo .
+Como evidenciado por Assimakopoulos et al.
+(2012) e Brem e Voigt (2009) , para o processo de NPD , e por Trott (2012) para o processo de inovação, ambos possuem fluxos de conhecimento e informação, evidenciados pelas setas finas .
+Esses fluxo s também promove m um modelo interativo que permite aprendizagem e aprimoramento dos processo s ao longo do tempo .
+Visão integrada entre os processos de NP D e inovação Fonte: Elaboração própria.
+Como potenciais resultado s do processo de inovação, há inovações de produto ou processo (OECD/EUROSTAT, 2018 ).
+Os resultados da inovação também podem ser dividid os, de acordo com o impacto e grau de novidade da inovação no mercado , como radical ou incremental (Crossan & Apaydin , 2010 ).
+Conforme explicitado por Saunila e Ukko (2012) os resultados eficazes da inovação são consequência de processos transformad ores bem -sucedidos que são habilitados por capacidades de inovação que são retroalimentados positivamente pelos resultados .
+Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n. 3, Maio /Agosto – 2022 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n 3.01 Página | 19 Figura 7.
+Framework teórico: Relações entre gestão da inovação, inovação, NPD e P&D Fonte: Elaboração própria.
+Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n. 3, Maio /Agosto – 2022 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n 3.01 Página | 20 Assim, h abilitando o processo de inovação e as atividades nele contempladas , estão as capacidade s de inovação , ou " innovation capabilities " (Forsman, 2009; Crossan & Apaydin, 2010 ; Saunilla & Ukko, 2014 ; Lawson & Samson , 2001 ).
+Essas capacidades constit uem um fluxo interno de melhoria contínua (Forsman , 2009) que promove a geração de inovações (Lawson & Samson , 2001 ).
+Dessa forma, esse fluxo contínuo é representado pela linha cheia em cinza na Figura 7, e as setas entrando e saindo do processo ilustram seus efeitos, visto que, segundo Saunila e Ukko (2012), o adequado gerenciamento dessas capacidades propicia efeitos tanto para os níveis superiores e inferiores, assim como para os ambientes interno e externo à organização .
+A gestão da inovação apresenta um papel integrador das atividades que abrangem o processo de inovação , seus res ultados e as mudanças tecnológicas e de mercado relativas ao ambiente (Pellicer et al., 2012 ), sendo também responsável pelo planejamento e controle dessas atividades ( Brem & Voigt , 2009 ).
+Esse gerenciamento estabelece um fluxo de conhecimento das experiên cias geradas pelos processos transformado res, pelas relações com o ambiente externo e pelos resultados da inovação (OECD/EUROSTAT, 2018 ; Tidd et al, 2015 ) e seus efeitos (Assimakopoulos et al.
+No modelo conceitual proposto na Figura 7 , a gestão da inovação é simbolizada pelo fluxo em linha dupla , abrange ndo todos os processos transformadores , as capacidades e os resultados relacionados à inovação, gerenciando também seus impactos nos ambiente s externo e interno.
+Sendo um esforço sistêmico, a gestão da inovação considera os diferentes fatores e mudanças do ambiente externo, tanto em termos de aprendizado como de operação (Martínez -Román et al., 2011; Pellicer et al., 2012; Brem & Voigt, 2009; OECD/EUROSTAT, 2018 ).
+Trott (2012) apresenta aspectos externos às organizações no processo de inovação no âmbito do mercado e dos avanços tecnológicos.
+Em concordância e de forma complementar, Brem e Voigt (2009) apresentam seis influências externas principais: tecnológica, sociocul tural, política, ambiental, legal e econômica.
+Em linhas gerais, é possível traçar um paralelo entre o modelo obtido e as estruturas de gestão da inovação encontradas no universo de estudo analisado, embora o framework apresentado tenha foc o específico em empresas de base tecnológica e esteja focado fundamentalmente em explicitar as atividades P&D e NPD.
+O Quadro 7 apresenta Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n. 3, Maio /Agosto – 2022 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n 3.01 Página | 21 uma comparação com quatro estruturas de gestão da inovação relevantes na literatura, considerando as principais caract erísticas do framework proposto.
+Considerando o Quadro 7, o modelo proposto não apenas reforça, mas também integra e compatibiliza o alinhamento das estruturas conceituais de diferentes linhas teóricas e orientações sobre a gestão da inovação encontradas n a literatura.
+Cabe destacar ainda que a representação conceitual explicitada neste artigo apresenta também as atividades e os esforços relativos aos processos transformadores, nível de detalhamento não explicitado nas demais representações de estruturas de gestão da inovação associadas às referências apresentadas no Quadro 5.
+Comparativo com outros frameworks disponíveis na literatura Características principais Oke (2007) Siguaw et al.
+(2012) Framework proposto Entradas, incluindo ideias, competências, informações etc.
+x x x x Saídas, incluindo seus tipos e efeitos relacionados ao desempenho x x x x Processo de inovação ou NPD dentro do escopo da gestão da inovação x x x Capacidades de inovação fomentando os processos transformadores x x x Gestão da inovação como melhoria contínua e geração de conhecimento x x Influência de fatores externos aos aspectos internos x x x Fonte: Elaboração própria.
+O modelo é o resultado das interpretações e conclusões oriundas da revisão da literatura, e objetiva sintetizar esse conhecimento acumulado por meio de uma estrutura conceitual genérica.
+No entanto, é relevante destacar que a literatura alerta ao fato de q ue essas relações não são necessariamente lineares, e que a sequência das atividades pode variar significativamente de acordo com as configurações e a dinâmica particular de cada organização (Adams et al., 2006).
+5 CONCLUSÕES Este artigo se propôs a compreender conceitualmente como o processo de P&D se relaciona com a gestão da inovação nas organizações, e se em alguma medida a P&D Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n. 3, Maio /Agosto – 2022 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n 3.01 Página | 22 potencialmente poderia influenciar a gestão da inovação .
+Os resultados obtidos , sistematizados n a Figura 7, indicam que a gestão da inovação primariamente engloba, direciona e influencia o processo de P&D, não tendo sido evidenciada na literatura estudada uma relação direta no sentido inverso .
+O entendimento sobre a gestão da inovação de forma sistêmica contribui para a supe ração do desafio que as empresas enfrentam para estruturar um ambiente interno e implementar processos de gestão favoráveis a um alto desempenho em inovação.
+O framework proposto , cuja construção foi orientad a pelo pensamento abdutivo , contribui com um avanço teórico nessa direção.
+Porém, cabe destacar que, como qualquer modelo, ele representa uma forma de como as coisas podem ser .
+Cabe enfatizar ainda que a essa representação conceitual é delimitada pelo conte xto específico da análise, focada em empresas de base tecnológica que realizam P&D institucionalmente, com ênfase particular no desenvolvimento de novos produtos.
+Por isso , embora seja sustentado por uma ampla fundamentação teórica, esse modelo não é unive rsal e ainda carece de uma validação empírica.
+Por fim, ainda que a literatura indique claramente uma subordinação da P&D à gestão da inovação, tanto em termos operacionais e estratégicos, quanto da própria estrutura das organiza ções, o modelo conceitual i ndica que a P&D é potencialmente capaz de "retroalimentar" a gestão da inovação via a s capacidades de inovação ( innovation capabilities ).
+Isso se d aria por meio de fluxos e feedbacks das saídas, das informações , dos conhecimentos e dos aprendizados gerados a partir da condução das atividades de P&D e do processo de inovação ao longo do tempo .
+Tal análise implica que, apesar de estar submetida à gestão da inovação, há a possibilidade de que a P&D ger e fluxos de alimentação "de baixo para cima" , eventualmente , influenciando decisões e abordagens adotadas até o nível da gestão da inovação .
+Essa implicação em potencial é relevante à literatura e merece, por si só, um estudo mais aprofundado a fim de compr eender a natureza, relevância, extensão e amplitude dessa relação.
+REFERÊNCIAS Adams, R., Bessant, J., & Phelps, R. (2006).
+Innovation management measurement: A review.
+International Journal of Management Reviews , 8(1), 21 –47.
+-2370.2006.00119.x Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n. 3, Maio /Agosto – 2022 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n 3.01 Página | 23 Artz, K. W., Norman, P. M., Hatfield, D. E., & Cardinal, L. B.
+A Longitudinal Study of the Impact of R&D, Patents, and Product Innova tion on Firm Performance.
+Journal of Product Innovation Management , 27(5), 725 –740.
+-5885.2010.00747.x Assimakopoulos, D. G., Carayannis, E. G., & Dossani, R. ( 2012).
+Knowledge Perspectives of New Product Development (D. G. Assimakopoulos, E. G. Carayannis, & R. Dossani, eds.).
+-1-4614 -0248 -0 Barge -Gil, A.
+Cooperation -based innovators and peripheral cooperators: An empirical analysis of their characteristics and behavior.
+Technovation , 30(3), 195 –206.
+6/j.technovation.2009.11.004 Barrand, J., Sanséau, P. -Y., & Ferrante, G. (2012).
+The Leader –Member Relationship at the Core of Innovation Development: Member Perceptions, Positions, and Expectations.
+In D. G. Assimakopoulos, E. G. Carayannis, & R. Doss ani (Eds.
+), Knowledge Perspectives of New Product Development (pp.
+-0248 -0_7 Berchicci, L. (2013).
+Towards an open R&D system: Internal R&D investment, external knowledge acquisition and innovative performance.
+Research Policy , 42(1), 117 –127.
+The open innovation paradox: Knowledge sharing and protection in R&D collaborations.
+European Journal of Innovation Management , 14(1), 93–117.
+Integration of market pull and technology push in the corporate front end and innovation management -Insights from the German software industry.
+Technovation , 29(5), 351 –367.
+Brettel, M., Heinemann, F., Engelen, A., & Neubauer, S. (2011).
+Cross -Functional Integration of R&D, Marketing, and Manufacturing in Radi cal and Incremental Product Innovations and Its Effects on Project Effectiveness and Efficiency.
+Journal of Product Innovation Management , 28(2), 251 –269.
+1.00795.x Brettel, M., Mauer, R., Engelen, A., & Küpper, D. (2012) .
+Corporate effectuation: Entrepreneurial action and its impact on R&D project performance.
+Journal of Business Venturing , 27(2), 167 –184.
+Cainelli, G., De Marchi, V., & Grandinetti , R. (2015).
+Does the development of environmental innovation require different resources?
+Evidence from Spanish manufacturing firms.
+Journal of Cleaner Production , 94, 211 –220.
+1016/j.jclepro.2015.02.008 Canongia, C., Santos, D. M., Santos, M. M., & Zackiewicz, M. (2004).
+Foresight, inteligência competitiva e gestão do conhecimento: instrumentos para a gestão da inovação.
+Gestão & Produção , 11(2), 231 –238.
+Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n. 3, Maio /Agosto – 2022 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n 3.01 Página | 24 Cheng, C. F., Chang, M. L., & Li, C. S. (2013).
+Configural paths to successful product innovation.
+Journal of Business Research , 66(12), 2561 –2573.
+Cook, D. J., Mulrow, C. D., & Haynes, R. B.
+Systematic Reviews: Synthesis of Best Evidence for Clinical Decisions.
+Annals of Internal Medicine , 126(5), 376.
+6/0003 -4819 -126-5-199703010 -00006 Cormican, K., & O'Sullivan, D. (2004).
+Auditing best practice for effective product innovation management.
+Technovation , 24(10), 819 –829.
+A Multi -Dimensional Framework of Organizational Innovation : A Systematic Review of the Literature .
+Journal of Management Studies , 47(6), 1154 –1191.
+Cui, Z., Loch, C., Grossmann, B., & He, R. (2012).
+How provider selection and management contribute to successful innovation outsourcing: An empirical study at siemens.
+Production and Operations Management , 21(1), 29 –48.
+-5956.2011.01237.x De Luca, L. M., Verona, G., & Vicari, S. (2010).
+Market orientation and R and D effectiveness in high -technology firms: An empirical investig ation in the biotechnology industry.
+Journal of Product Innovation Management , 27(3), 299 –320.
+-5885.2010.00718.x de Massis, A., Frattini, F., & Lichtenthaler, U.
+Research on Technological Innovation in Family Firms: Present Debates and Future Directions.
+Family Business Review , 26(1), 10 –31.
+Di Minin, A., F rattini, F., & Piccaluga, A.
+Fiat: Open Innovation in a Downturn (1993 –2003).
+California Management Review , 52(3), 132 –159.
+Dresch, A., Lacerda, D. P., & Antunes Jr, J.
+Design Science Research: A Method for Science and Technology Advancement .
+Springer International Publishing.
+-3-319-07374 -3 Du, J., Leten, B., & Vanhaverbeke, W. (2014).
+Managing open innovation projects with science -based and market -based partners.
+Research Policy , 43(5), 828 –840.
+Enabling knowledge integration in coopetitive R&D projects - The management of conflicting logics.
+International Journal of Projec t Management , 30(7), 771 –780.
+Ernst, H., Hoyer, W. D., & Rübsaamen, C. (2010).
+Sales, marketing, and research -anddevelopment cooperation across new product development stages: Implications for success.
+Journal of Marketing , 74(5), 80 –92.
+Fischer, C., & Gregor, S. (2011).
+Forms of Reasoning in the Design Scie nce Research Process.
+In H. Jain, A. P. Sinha, & P. Vitharana (Eds.
+), Service -Oriented Perspectives Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n. 3, Maio /Agosto – 2022 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n 3.01 Página | 25 in Design Science Research (Vol.
+-3-642-20633 -7_2 Forsman, H. (2009).
+Improving Innovation Capabilities of Small Enterprises: Cluster Strategy As a Tool.
+International Journal of Innovation Management , 13(02), 221 – 243.
+Fortuin, F. T. J. M., & Omta, S. W. F. (2009).
+Innovation drivers and barriers in food processing.
+British Food Journal , 111(8), 839 –851.
+Targeting innovation and implications for capability development.
+Technovation , 25(3), 171 –183.
+Füller, J., Hutter, K., & Faullant, R. (2011).
+Why co -creation experience matters?
+Creative experience and its impact on the quantity and quality of creative contributions.
+R&D Management , 41(3), 259 –273.
+-9310.2011.00640.x Gassmann, O., Enkel, E., & Chesbrough, H. (2010).
+R&D Management , 40(3), 213 –221.
+-9310.2010.00605.x Hoang, H., & Rothaermel, F. T. (2010).
+Leveraging internal and external experience: exploration, exploitation, and R&D project performance.
+Strategic Management Journal , 31, 734 –758.
+Product development as core competence: How formal product development prac tices differ for radical, more innovative, and incremental product innovations.
+Journal of Product Innovation Management , 31(2), 329 –345.
+Technology competencies in competitive environment.
+Journal of Business Research , 64(2), 172 –179.
+The effect of competitive and non -competitive R&D collaboration on firm innovation.
+Journal of Technology Transfer , 36(4), 383 – 403.
+-010-9155 -x Jost, A. P., L orenz, T., & Mischke, G. (2005).
+Modeling the Innovation -Pipeline.
+Proceedings of the 23rd International Conference of the System Dynamics Society , 87.
+Kumazawa, R., & Gomis -Porqueras, P. (2011).
+An empirical analysis of patents flows and R&D flows around the world.
+Applied Economics , 44(36), 4755 -4763.
+Lawson, B., & Samson, D. (2001).
+Developing innovation capability in organisations: A dynamic capabilities approach.
+International Journal of Innovation Management , 05(03), 377 –400.
+Lee, H., Kelley, D., Lee, J., & Lee, S. (2012) .
+SME survival: The impact of internationalization, technology resources, and alliances.
+Journal of Small Business Management , 50(1), 1 –19.
+-627X.2011.00341.x Marion, T. J., Friar, J. H., & Simpson, T. W. (2012).
+New product development practices and early -stage firms: Two in -depth case studies .
+Journal of Product Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n. 3, Maio /Agosto – 2022 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n 3.01 Página | 26 Innovation Management , 29(4), 639 –654.
+The impact of front -end innovation activities on product performance.
+Journal of Product Innovation Management , 30(SUPPL 1), 77 –92.
+Analysis of innovation in SMEs using an innovative capability -based non -linear model: A study in the province of Seville (Spain).
+Technovation , 31(9), 459 –475.
+10.1016/j.technovation.2011.05.005 Mu, J., & Di Benedetto, C. A.
+Strategic orientations and new product commercialization: Mediator, moderator, and interplay .
+R&D Management , 41(4), 337–359.
+-9310.2011.00650.x Nieto, M. J., & Rodríguez, A.
+Offshoring of RD: Looking abroad to improve innovation performance.
+Journal of International Business Studies , 42(3), 345 –361.
+Frascati Manual 2015 : Guidelines for Collecting and Reporting Data on Research and Experimental Development .
+In The Measurement of Scientific, Technological and Innovation Activities .
+Innovation types and innovation management practices in service companies.
+International Journal of Operations & Production Management , 27(6), 564–587.
+Pellicer, E., Correa, C. L., Yepes, V., & Alarcón, L. F. (2012).
+Organizational Improvement Through Standardization of the Innovation Process in Construction Firms.
+Engineering Management Journal , 24(2), 40–53.
+Peng, D. X., Schroeder, R. G., & Shah, R. (2008).
+Linking routines to operations capabilities: A new perspective.
+Journal of Operations Management , 26(6), 730 –748.
+R&D as a determinant of innovation in manufacturing SMEs: An attempt at empirical clarification.
+Technovation , 30(1), 48 – 56. novation.2009.05.005 Rese, A., & Baier, D. (2011).
+Success factors for innovation management in networks of small and medium enterprises.
+R&D Management , 41(2), 138–155.
+0.1111/j.1467 -9310.2010.00620.x Salter, A., Ter Wal, A. L. J., Criscuolo, P ., & Alexy, O.
+Open for ideation: Individual -level openness and idea generation in R&D.
+Journal of Product Innovation Management , 32(4), 488 –504.
+A conceptual framework for the measurement of innovation capability and its effects.
+Baltic Journal of Management , 7(4), 355 –375.
+Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n. 3, Maio /Agosto – 2022 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n 3.01 Página | 27 Saunila, M., & Ukko, J.
+Intangible aspects of innovation capability in SMEs: Impacts of size and industry.
+Journal of Engineering and Technology Management , 33, 32–46.
+Sieg, J. H., Wallin, M. W., & Von Krogh, G. (2019).
+Managerial challenges in open innovation: a study of i nnovation intermediation in the chemical industry.
+A., Simpson, P. M., & Enz, C. A.
+Conceptualizing innovation orientation: A framework for study and integration of innovation research.
+Journal of Product Innovation Management , 23(6), 556 –574.
+Song, L. Z., & Song, M. (2010).
+The role of information technologies in enhancing R and D -marketing integration: An empirical investigation.
+Journal of Product Innovation Management , 27(3), 382 –401.
+Spithoven, A., & Teirlinck, P. (2015).
+Internal capabilities, network resources and appropriation mechanisms as determinants of R&D outsourcing.
+Research Policy , 44(3), 711 –725.
+Tidd, J; Bessant, J, & Pavitt, K. (2015).
+Tran, Y., Hsuan, J., & Mahnke, V. (2011).
+How do innovation intermediaries add value?
+Insight from new product development in fashion markets.
+R&D Management , 41(1), 80 –91.
+11/j.1467 -9310.2010.00628.x Trott, P. (2012).
+Innovation management and new product development (5th ed).
+Un, C. A., & Asakawa, K. (2015).
+Types of R&D collaborations and process innovation: The benefit of collaborating up stream in the knowledge chain.
+Journal of Product Innovation Management , 32(1), 138 –153.
+Un, C. A., Cuervo -Cazurra , A., & Asakawa, K. (2010).
+R&D collaborations and product innovation.
+Journal of Product Innovation Management , 27(5), 673 –689.
+-5885.2010.00744.x Vaccaro, A., Parente, R., & Veloso, F. M. (2010).
+Knowledge Management Tools, Inter -Organizational Relationships, Innovation and Firm Performance.
+Technological Forecasting and Social Change , 77(7), 1076 –1089.
+Van Beers, C., & Zand, F. (2014).
+R&D cooperation, partner diversity, and innovation performance: An empirical analysis.
+Journal of Product Innovation Management , 31(2), 292 –312.
+Central Problems in the Management of Innovation.
+Management Science , 32(5), 590 –607.
+van Eck, N. J., & Waltman, L. (2014).
+CitNetExplorer: A new software tool for analyzing and visualizing citation networks .
+Journal of Informetrics , 8(4), 802 –823.
+Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n. 3, Maio /Agosto – 2022 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n 3.01 Página | 28 Whelan, E., Teigland, R., Donnellan, B ., & Golden, W. (2010).
+How Internet technologies impact information flows in R&D: reconsidering the technological gatekeeper .
+R&D Management , 40(4), 400 –413.
+Cooperation with competitors and product innovation: Moderating effects of technological capability and alliances with universities.
+Industrial Marketing Management , 43(2), 199 –209.
+Open innovation in SMEs: A dynamic approach to modern entrepreneurship in the twenty -first century.
+Journal of Small Business and Enterprise Development , 20(2), 258 –278.
+The knowledge management strategy and its effect on firm performance: A contingency analysis.
+International Journal of Production Economics , 125(2), 215 –223.
+Yepes, V., Pellicer, E., Alarcón, L. F., & Correa , C. L. (2016).
+Creative Innovation in Spanish Construction Firms.
+Journal of Professional Issues in Engineering Education and Practice , 142(1), 04015006.

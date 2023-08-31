@@ -1,0 +1,422 @@
+Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n.1, Setembro /Dezembro – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n1.0 8 A GESTÃO DA INOVAÇÃO EM PME'S E SUAS PERSPECTIVAS ATUAIS: UM ESTUDO DE META -SÍNTESE INNOVATION MANAGEMENT IN SMES'S AND THEIR CURRENT PERSPECTIVES: A META -SYNTHESIS STUDY Luís Filippe Serpe *, Universidade Federal do Paraná (UFPR).
+E-mail: luisfserpe@gmail.com Vivien Mariane Massaneiro Kaniak , Universidade Federal do Paraná (UFPR).
+E-mail: vivikaniak@gmail.com Submetido: Setembro 2020 Aceito: Janeiro 2021 *Contato para Correspondência Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n.1, Setembro /Dezembro – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n1.0 8 Página | 166 Resumo As pequenas empresas constituem parte importante da produção de renda.
+Visando contribuir nesse contexto, e sta pesquisa teve por objetivo mapear as principais problemáticas que foram levantadas em estudos de caso qualitativos sobre gestão da inovação em PM Es nos últimos 5 anos, fazendo uma análise aprofundada desses estudos .
+Foi utilizada a metodologia de metasíntese por meio de uma seleção de estudos de casos relevantes .
+Os estudos avaliados versa ram sobre assuntos relacionados às vantagens e necessidades de inovação em pequenos negócios, desde o contexto latino -americano para a inovação em PMEs , as vantagens competitivas na clusterização de pequenos negócios , conexões para o aprendizado em inovação , necessidade de criação de novos produtos , acumulação de capacidades para a inovação , inovação como vantagem competitiva e desenvolvimento da inovação de produto em pequenas empresas .
+A análise dos artigos aponta para uma d ificuldade de empresas de pequeno porte em desenvolverem atividades de inovação, devido a fatores cruciais, como falta de apoio externo e dificuldade de compreensão sobre as dimensões envolvidas em um processo de inovação.
+Por meio desses estudos foi possível construir um framework teóric o que emergiu da análise dos casos e explica o ciclo da inovação no contexto das PMEs e constitui -se como contribuição teórica.
+Acredita -se que esse modelo possa servir de base para estudos futuros que avancem na temática .
+Como contribuição prática foi oferecido um mapeamento de aspectos sob re inovação tecnológica em PMEs, auxiliando gestores a melhorar a rentabilidade e a competitividade organizacional.
+Palavras -chave : Gestão da inovação .
+Abstract Small businesses are an important part of income generation.
+Aiming to contribute in this context, this research aimed to map the main problems that were raised in qualitative case studies on innovation management in SMEs in the last 5 years, making an in -depth analysis of these studies.
+The meta -synthesis methodology was used through a selection of relevant case studies.
+The evaluated studies deal with issues related to the advantages and needs of innovation in small businesses, from the Latin American context t o innovation in SMEs; the competitive advantages in small business clustering; connections for learning in innovation; need to create new products ; accumulation of capacities for innovation; innovation as a competitive advantage and development of product innovation in small companies.
+The analysis of the articles points to a difficulty for small companies in developing innovation activities, due to crucial factors, such as lack of external support and difficulty in understanding the dimensions involved in an innovation process.
+This work presents a theoretical framework that emerged from the analysis of cases and explains the innovation cycle in the context of SMEs and consists of theoretical contribution .
+We believe this model can serve as a basis for futu re studies that advance the theme.
+As a practical contribution a mapping of aspects on technological innovation in SMEs was offered which can help managers to improve profitability and organizational competitiveness.
+Keywords: Innovation management .
+1 INTRODUÇÃO A compreensão sobre a relevância da gestão da inovação em PMEs tem se transformado ao longo do tempo.
+Inicialmente tratada de forma não -estruturada, compreendia um conjunto de práticas intuitivas e oportunas que acreditava -se ocorre r de maneira eventual.
+Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n.1, Setembro /Dezembro – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n1.0 8 Página | 167 Isso significa que nessa fase a inovação não era compreendida como um tema de pesquisa , os estudos ainda era escassos e nem mesmo acreditava -se que a inovação pudesse ser mensurad a ou quanti ficad a, ou mesmo s istematizad a (Marković, Janaćković, Simeunović, & Lalić, 2020) .
+As origens do interesse da inovação pelas empresas passa, d e acordo com Schumpeter (1957), pela evolução da sociedade industrial e das relações entre as organizações, quando o mundo industrial se transforma em pós-industrial .
+Esse fato colaborou para que a inovação tivesse um valor central na competitividade de pa íses e organizações .
+Mais tarde Freeman (1975), afirma que as instituições sociais são o suporte às inovações e à política tecnológica e uma década depois, Dosi (1988) define inovação como a procura, descoberta, experimentação , desenvolvimento, imitação e adoção de novos produtos aos novos processos de produção incluindo novas formas de organização.
+Diamond (1997) indica que a inovação se apresenta como um conjunto de práticas, procedimentos e desenvolvimento de ferramentas que tornaram a relação do homem com o meio mais fácil, ou que permitiram que o ser humano realizasse mais do que sua força era capaz de prover, à medida em que sua inteligência poderia ser utilizada para estender sua capacidade de domínio sobre materiais e elementos.
+Já para Reis (2008) a inovação se caracteriza como o uso de conhecimentos (técnicos, tecnológicos), que geram novos produtos, processos ou serviços, bem como aperfeiçoamento destes, quanto à utilidade, funcionalidades ou características.
+No âmbito do Manual de Oslo , OCDE (2010 ) a inovação engloba algo mais do que apenas mudança em produtos, processos e produtos, mas também alterações de cunho paradigmático, estrutural, como novas maneiras de se estruturar a organização, e em se realizar a análise mercadológica.
+Além disso, para que uma inovação seja implantada, deve -se sempre observar o conceito de retorno comercial, um dos pontos focais da inovação.
+Assim, a "P&D isoladamente não é suficiente para o progresso técnico, se a inovação tecnológica não traz retornos comerciais a ntes de ser empregada na produção" (H uisman & Cort, 2003 , p. 01 ).
+Atualmente, a aplicação e gestão da inovação desenvolveram -se num processo estruturado em princípios e regras, determinando conceitos e paradigmas que geram benefícios de diversos tipos, com o a geração de renda e a competitividade (Sales, Duarte, Maculan, & Campos, 2020) .
+Analisando -se os diversos modelos de gestão da inovação surgidos a partir da década de 90 é possível constatar que existem padrões de evolução que se iniciam em modelos lineares e aperfeiçoam -se para modelos interativos.
+Ou seja, na primeira geração de est udos Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n.1, Setembro /Dezembro – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n1.0 8 Página | 168 estariam os chamados modelos lineares simples cuja inovação era empurrada pela tecnologia e na segunda geração os modelos de inovação puxados pelo mercado.
+Já na terceira geração encontram -se combinações de tecnologia e mercado e retorno entre a fases .
+Na quarta geração os modelos são protagonizados por alianças e parcerias e, por fim, na quinta geração a inovação passa a ser vista como processo contínuo ou rede ampla de relações (Silva, Bagnob, & Salerno, 2014) .
+Quando se trabalha a inovação no âmbito de pequenas e médias empresas, Santos, Alves e Almeida (2007) indicam que as PME's compõe uma parte importante da produção nacional.
+No entanto, há poucos esforços no sentido de compreender suas dificuldades e desenvolver soluções a este grupo de empresas.
+Tal cenário torna necessário compreender a forma como a inovação se desenvolve nestas em presas (Pacheco & Gomes, 2016; Rodrigues & Martins, 2020) .
+Rothwell e Zegveld (1986) indicam que o tamanho de uma empresa pode afetar indiretamente o resultado de um processo de inovação.
+Indiretamente porque outros fatores estão ligados ao sistema, como por exemplo, o tipo de indústria e de incentivo existente para um determinado setor.
+Ettlie e Rubenstein (1987 ) são enfáticos ao descrever como os tipos de inovação afetam a eficácia do resultado, mais do que o tamanho da organização.
+É importante frisar que, neste caso, porte e setor são importantes, mas os autores pontuam que tipos específicos de inovação estão ligados a setores específicos.
+No entanto, os autores são bastante claros ao perceberem a inovação como um componente essencial no desenvolvimento de organizações, sejam estas de qualquer porte ou setor.
+Como empresas de pequeno porte possuem alta flexib ilidade de produção, ou seja, são capazes de adaptar aos mais diversos cenários externos , isso se configura como uma vantagem das pequenas e médias empresas (Marković et al.
+No entanto, existem outros elementos que devem ser considerados.
+Gunday, Ulusoy, Kilic, & Alpkan (2011), explicitam que para que uma inovação se estabeleça e permita a geração de valor, deve existir interesse entre todos os autores que participam do proc esso, e que de alguma forma possuem sua parcela de contribuição.
+Além disso deve haver também um consenso no que tange ao significado de uma inovação, ou seja, concordância conceitual.
+Nesse contexto buscou -se mapear quais foram as principais problemátic as levantadas em pesquisas qualitativas anteriores sobre gestão da inovação em PMEs.
+Para tanto , foi realizada uma pesquisa de meta -síntese visando trazer luz ao fenômeno da inovação e intervenientes em empresas desse porte .
+Dessa forma, artigos sobre o tema foram levantados, analisados, discutidos e serviram de base para a elaboração de um framework teórico que, Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n.1, Setembro /Dezembro – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n1.0 8 Página | 169 espera -se, possa contribuir de maneira teórica para impulsionar futuros estudos .
+Além disso espera -se que a discuss ão apresentada possa auxiliar gestores de PMEs que desejam alcançar maior competitividade via inovação.
+Este artigo está estruturado em quatro partes.
+Além dessa introdução, no tópico seguinte será tratad o referencial teórico do tema, seguido d a metodolog ia que elucida os passos seguidos para realização da meta -síntese.
+No quarto tópico serão expostos os resultados contendo os artigos considerados, sua análise e consequente apresentação do framework teórico.
+Por fim, considerações finais serão apresentadas bem como limitações e sugestões para pesquisas futuras.
+2 REFERENCIAL TEÓRICO 2.1 A gestão da inovação Ao longo das últimas décadas muito foi discutido sobre a gestão da inovação com o objetivo de melhor compreender seus aspectos para o desenvolvimento das empresas e da economia em geral (Lemos, 2000) .
+Para Freeman (1988) , a inovação tecnológica consiste na força fundamental para a transformação da economia e, assim como Schumpeter, acredita que a inovação tecnológica é fator crucial para a compreensão da dinâmica do crescimento econômico.
+A fim de melhor explicitar o fen ômeno da inovação Schumpeter (1939) define -a como aquilo que ainda ninguém fez e que é novo para o mercado.
+Portanto, dentro do conceito de inovação apresentado por Schumpeter haviam cinco formas de ino var: a) introduzir um novo bem no mercado; b) introduzir um novo processo; c) abrir um novo mercado, d) conquistar uma nova fonte de insumos e e) criar uma nova organização ou negócio na forma de monopólio (Dalfovo & Hoffmann, 2010) .
+Já outros autores consideram que As inovações podem ser divididas em radicais ou incrementais (Leifer, O'Connor, & Rice, 2002; T idd, Bessant, & Pavitt , 2008) .
+A inovação radical está ligada ao desenvolvimento e introdução de um novo produto, processo ou forma de organ ização da produção.
+Neste tipo de inovação inédita pode haver a ruptura estrutural com o modelo tecnológico anteriormente utilizado, o que termina por original novos mercados ou indústrias.
+Já na inovação incremental, uma melhoria é realizada a partir de u m processo, tecnologia, produto ou serviço que já existe.
+Quando isso acontece cria -se a melhoria em um produto já existente, levando a um diferencial competitivo ou maior Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n.1, Setembro /Dezembro – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n1.0 8 Página | 170 produtividade para a empresa (Cantú & Zapata, 2006; Dalfovo & Hoffmann, 2010; Lemos, 2000) .
+Muitas inovações incrementais, são até mesmo imperce ptíveis para o consumidor, mas para a empresa pode gerar eficiência técnica, aumento da produtividade, redução de custos e aumento de qualidade.
+Também podem ser consideradas inovações deste tipo a otimização de processos de produção, o design de produtos ou a diminuição na utilização de materiais e componentes na produção de um bem (L emos , 2000).
+Já no que tange os conceitos de inovação na dinâmica empresarial, esses são numerosos na literatura.
+Ainda em 1986, Kline e Rosenberg afirmaram que para uma novação ter êxito era preciso haver um encontro entre cumprimento de requisitos técnicos e necessidades de mercado.
+Mais tarde, Beuren (2000) definiu a inovação como um processo em que uma pessoa ou um grupo de pessoas cria uma ideia e a implementa com algum valor agregado para a organização.
+(2008), por outro lado , a inovação é o encontro entre uma necessidade de mercado e uma tecnologia ou modelo de negócio que cria valor tanto para a empresa como para os seus clientes.
+Baregheh, Rowley e Sambrook (2009) definiram a inovação como um processo de múltiplos estágios pelo qual as organizações transformam ideias em novos produtos, serviços ou processos, com o objetivo de avançar, competir e se dif erenciar com êxito em seus mercados.
+Entretanto , para que uma empresa obtenha sucesso na geração de inovação é possível encontrar na literatura que o processo de inovação deve apresentar algumas atividades básicas comuns que vão desde a geração de ideias para novos produtos e a gestão do processo para a completa inovação.
+Tais atividades são a geração de ideias que tem potencial pata se tornarem produtos ou processos após sua implementação, aquisição do conhecimento necessário e monitoramento do mercado após a implementação da ideia a fim de verificar a satisfação do consumidor (Cagnazzo et al.
+E é na complexidade da introdução de um processo de gestão da inovação que começam a se diferenciar as pequenas, médias e grandes empresas.
+Enquanto em uma grande empresa essa gestão encontram -se muitas vez es estruturada, nas PMEs a realidade é diferente devido as limitações de suas estratégias para entrada no mercado, menor quantidade de recursos financeiros e até mesmo falta de habilidades em gestão da inovação (Sales et al.
+Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n.1, Setembro /Dezembro – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n1.0 8 Página | 171 2.2 Inovação aplicada a pequenas e médias empresas Embora a gestão da inovação seja considerada um fator fundamental para o crescimento das empresas, ele ainda é pouco estudo no que diz respeito às PMEs (Sales et al.
+, 2020 ; Santos , Alves & Almeida , 2007 ).
+Entretanto, a importância das PMEs reside no fato de que elas são importantes integrantes das economias de mercado participando com sua capacidade de flexibilidade, oportunidades de inovação e cobert ura de segmentos de mercado, cada vez mais diferenciados (Rodrigues & Martins, 2020) .
+Para que essas empresas possam se manter no mercado atual competitivo é necessário que possam inovar (Santo s & Rocha, 2017) .
+Entretanto para inovar é mister que as PMEs possam superar obstáculos em relação a aplicação da inovação para impulsionar o seu crescimento.
+Dentre esses obstáculos os mais citados na literatura estão a falta de recursos para inovação, tratar a inovação de forma intuitiva e pouco sistemática além d a tomada de decisão centralizada em poucas pessoas (Adams, Bessant, & Phelps, 2006; Premkumar, 2003) .
+Mas se há obstáculos que caracterizam as PMEs em relação a inovação, também existe m, por outro lado, alguns fatores considerados impulsionadores e que são próprios de sua natureza como pequenas empresas (Pacheco & Gomes, 2016; Santos & Rocha, 2017) .
+Uma pesquisa realizada por Fragoso (2019) em parceria com a revista E xame apresentou algumas características das PMEs que mais crescem no Brasil.
+Dentre as características dessas PMEs estão a constante busca por talentos e inovação, sendo que , para a maioria delas , a criação de novos produtos e s erviços foi considerada a principal responsável pelo seu crescimento.
+Outro fator que merece atenção é o fato de que boa parte das PMEs declararam que disseminar uma cultura aberta a novas perspectivas na solução de problemas na empresa era considerado fat or crucial.
+Dessa forma, os autores da pesquisa concluem que o sucesso do desempenho das PMEs que mais crescem é fruto de combinação e diversificação de estratégias de crescimento e inovação.
+Assim evidencia -se que, com a evolução tecnológica e a atual di nâmica no mundo dos negócios, a PMEs devem estar alinhadas com a busca de inovações que resulta em maior produtividade , eficiência e competitividade.
+Além disso, a inovação nessas empresas é de suma importância pois termina por blindá -las em meio as constantes ameaças do mercado (Santos & Rocha, 2017) .
+Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n.1, Setembro /Dezembro – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n1.0 8 Página | 172 3 METODOLOGIA Este trabalho possui uma natureza qualitativa, uma vez que utiliza uma pesquisa profunda para a compreensão dos fenômenos abordad os (Creswell , 2006) , dentro de uma lógica indutiva, na qual os dados coletados tiveram por objetivo a construção de teoria (Neuman, 2014) .
+A presente pesquisa envolve u o processo de extração, análise e síntese de trabalhos (estudos de ca sos) associados à inovação em PM E's.
+A meta -síntese é identificada como uma pesqui sa exploratória e descritiva, cuja função principal é a de sintetizar os resultados dos estudos de casos selecionados, no sentido de observar a contribuição de cada um ao tema central e, a partir disso, extrair deles relações que vão além dos estudos semin ais (Hoon, 2014) .
+Observa -se que os trabalhos selecionados devem lançar luz e trazer uma compreensão mais detalhada sobre o fenômeno estudado, suas características e pormenores (Eisenhardt, 1989; Yin, 2011) .
+A pesquisa foi realizada no segundo semestre de 2019 e utilizou -se de dados secundários que f oram obtidos em estudos desenvolvidos por outros pesquisadores sobre o mesmo tema proposto.
+Para o processo de análise que norteou o desenvolvimento deste estudo, foi utilizada a meta -síntese, conforme os passos propost os por Hoon (2014), que est ão detalhados no Quadro 1: Quadro 1: Estrutura ção da meta -síntese (continua) Passos Objetivo analítico Estratégia/Procedimento analítico utilizado Resultado para gerar contribuições teóricas 1 Enquadramento da questão de pesquisa Enquadrar a metasíntese no campo da pesquisa em inovação em PM E's, se sentido de observar a compreensão da inovação nos casos estudados.
+Buscas de pesquisas, em bases científicas, e leituras preliminares para compreender a relação entre as palavras -chave definida s. Compreensão dos conceitos de inovação em PM E's, e como esta inovação se expressa em cada caso (especificidades da inovação).
+2 Localização de pesquisas relevantes Identificar estudos que abordem os temas em conjunto e apresentem suas definições .
+Definição das palavras chave: " innovation management *" AND " case study" AND "SME", aplicando -as em buscas nas bases Science Direct, Scopus e EBSCO (busca em todos os campos).
+Considerando -se somente os artigos completos publicados em periódicos científicos, excluindo -se revisões e outros , nos últimos 5 anos , os resultados foram: Science Direct (22); Scopus (17) e EBSCO (19) totalizando 58 artigos.
+Após Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n.1, Setembro /Dezembro – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n1.0 8 Página | 173 (conclusão ) Passos Objetivo analítico Estratégia/Procedimento analítico utilizado Resultado para gerar contribuições teóricas identificação de artigos repetidos nas bases, ficaram como amostra total: Science Direct (18), Scopus (9 ) e EBSCO (3 ), totalizando uma amostra de 30 artigos.
+3 Critérios de inclusão Determinar os critérios de inclusão dos artigos que irão compor a meta -síntese e, automaticamente, de exclusão de artigos que não servem para atender ao objetivo proposto Leitura e seleção dos artigos, selecionando os que se enquadram nos critério s: estudo de caso qualitativo, com aplicação prática (excluindo -se revisões) , com defin ições de gestão da inovação e PM E's (alinha dos com a pergunta de pesquisa) .
+Amostra final de 7 artigos (23 excluídos ).
+4 Extração e codificação dos dados Proceder com a leitura dos artigos selecionados e identificar suas características relevantes para o objetivo da metasíntese.
+Elaboração de planilha eletrônica para comportar as informações de cada artigo, sendo: base encontrada, título, autor (es), perió dico, ano, contexto, abordagem de gestão da inovação em PME's.
+Observação detalhada de cada trabalho, atentando para características específicas.
+5 Análise em nível específico de cada caso Identificar e analisar, individualmente os conceitos de gestão da inovação, PME's Construção de uma estrutura , por meio de uma sequência lógica para relacionar aos temas pesquisados.
+Sequência ilustrativa, que demonstre os relacionamentos en tre a gestão da inovação e as PME's.
+6 Síntese no nível do estudo Visualizar e analisar os casos e extrair informações acerca do contexto e relações entre os temas.
+Levantamento de dados na planilha para encontrar relações entre os temas definidos Identif icação dos temas em que se aplicam os conceitos de gestão da inovação em PM E's e os conceitos observados entre estas aplicações.
+7 Construção da teoria a partir da meta -síntese Identificar os principais conceitos que emergem em inovação em PM E's Extração dos conceitos aplicados em cada estudo Identificação de aspectos comuns que relacionem os conce itos de gestão da inovação em PM E's 8 Discussão Discutir os resultados encontrados na metasíntese , suas potencialida des de pesquisa e limitações.
+Discussão do rigor e validade do trabalho desenvolvido Legitimar o estudo em termos de confiabilidade e validade.
+Fonte: Os autores (2019) a daptado de Hoon (2014); Morais da Silva , Takahashi e Segatto (2016).
+A seguir cada um dos passos seguidos será detalhado , conforme sua ordem de execução.
+Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n.1, Setembro /Dezembro – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n1.0 8 Página | 174 2.1 Passo 1: enquadramento da pergunta de pesquisa A fim de nortear o processo de construção da meta -síntese, Hoon (2014 ) sugere a elaboração de uma pergunta de pesquisa, que serve de base às próximas fases de construção.
+Para essa pesquisa a pergunta de base foi caracterizada por: quais as principais problemáticas que foram levantadas em pesquisas qualitativas anteriores sob re Gestão da Inovação em empresas de pequeno e médio porte (PMEs)?
+A fim de responder a essa pergunta de pesquisa, o próximo passo envolveu a localização de literatura relacionada.
+2.2 Passo 2: localização de pesquisas relevantes A partir da definição da pergunta de pesquisa, buscou -se definir algumas palavraschave, que fossem capazes de reunir trabalhos que trouxessem uma elucidação sobre o tema.
+No Quadro 2 são detalhadas as palavras -chave utilizadas bem como a justificativa de seu uso e autores de referência.
+Relação de termos de busca, justificativa de utilização e autores Palavras -chave Justificativa Autores Innovation management Conceitos de inovação; atividades de inovação; implantação e manutenção da inovação.
+SCHUMPETER (1957); DIAMOND (1997); REIS (2008); MANUAL DE OSLO , OCDE (2010 ); HUISMAN AND CORT (2003) LAFORET (2008), LOPES E TEIXEIRA (2009), DRESCHSLER AND NATTER (2012) Case study Casos significativos que trazem luz ao fenômeno YIN (2010); EISENHARDT (1989) SME Flexibilidade produtiva; adaptabilidade; diversidade conceitual .
+ROTHWELL E ZEGVELD (1986); SANTOS, ALVES E ALMEIDA (2007); KUANDYKOV E SOKOLOV (2010); ETTLIE E RUBENSTEIN (1987); GUNDAY ET AL.
+(2011) Fonte: Elaborado pelo s autor es (2019).
+Assim, a partir da definição das palavras -chave, foram realizadas buscas nas bases Science Direct , Scop us e EBSCO, nas quais foram encontrados 50 artigos.
+Entretanto, ao eliminar os artigos repetidos nas bases obteve -se ao final 30 artigos , localizados em diversos periódicos, conforme apresentado na Tabela 2: Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n.1, Setembro /Dezembro – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n1.0 8 Página | 175 Tabela 2 .
+Periódicos, artigos e ano de publicação Periódico Qtd Ano Procedia Engineering 1 2017 Journal of Engineering and Technology Management 1 2015 Resources Policy 2 2015 /2017 Procedia CIRP 1 2014 Journal of Cleaner Production 1 2017 Procedia – Social and Behavioral Sciences 1 2018 International Journal of Project Management 1 2014 Technological Forecasting and Social Change 1 2017 Technology in Society 1 2017 Annals of Tourism Research 1 2014 Industrial Marketing Management 2 2014/ 2016 IFAC – Papers Online 1 2015 International Journal of Information Management 1 2014 International Journal of Globalization and Small Business 1 2016 International Journal of Entrepreneurship and Innovation Management 1 2015 Innovation: Management, Policy and Practice 1 2013 IFIP – Advances in Information and Communication Technology 2 2012/2013 Systemic Practice and Action Research 1 2014 International Journal in Learning and Intellectual Capital 1 2014 Journal of Technology Management and Innovation 1 2013 International Journal of Technology Intelligence and Planning 1 2014 Problems and Perspectives in Management 1 2014 International Journal of Innovation Management 1 2017 International Conference of the American Society for Engineering Management 1 2017 International Journal of Business Innovation and Research 1 2016 International Journal of Business and Systems Research 2 2013/2017 Amostra total – N = 30 Fonte: Elaborado pelo s autor es (2019).
+Observa -se que, com exceção dos periódicos Resources Policy, Industrial Marketing Management, IFIP – Advances in Information and Communication Technology e International Journal of Business and Systems Research que possuíam duas publicações no tema, os demais periódicos possuíam apenas uma.
+3.3 Passo 3: critérios de inclusão Esta fase, de acordo com Hoon (2014), tem por objetivo refinar a busca inicial e selecionar os trabalhos que possuem maior relevância e contribuição ao tema pesquisado.
+Além disso, o estabelecimento de critérios de inclusão e exclusão permitem a seleção de uma quantidade menor de trabalhos, porém com uma profundidade e proximidade muito maior à proposta de p esquisa ( Hoon , 2014).
+Assim, para realização dessa fase todos os resumos foram lidos e f oram utilizados dois critérios de inclusão : trabalhos que apresentassem elementos de gestão da inovação em PME's (a fim de responder a pergunta de pesquisa) e trabalho s oriundos de estudos de caso Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n.1, Setembro /Dezembro – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n1.0 8 Página | 176 qualitativos (a fim de garantir a profundidade dos estudos).
+O quadro 3 apresenta os critérios de inclusão aplicados, bem como sua descrição e uma lista dos trabalhos que foram excluídos nessa fase.
+Quadro 3: Critérios de inclusão e trabalhos excluídos Critério de Inclusão Descrição Trabalhos excluídos Trabalhos que apresentem elementos de gestão da inovação em PME 's Abordagens que envolvam descrição de conceitos de gestão da inovação em PME's REBELO, SANTOS E SILVA (2016); MELLE E RUSSO SPENA (2015); VILLA -REAL E CALVO (2015); ORBEGOZO, VICENTEMOLINA E VILLARREAL -LARRINAGA (2017); JAEGER , HOLD , OTT E SIHN (2014); FERRERAS -MENDEZ , FERNÁNDEZ -MESA , VIDAL E CHIVA (2015); REZQUI E MILES (2010); XU, HOUSSIN, CAILLAUD E GARDONI (2011); WAIT, SEIDEL E SEIDEL (2011); SCHUURMAN , MAREZ E BALLON (2016 ); ARAMO -IMMONEN LEPPÄNIEMI, SOINI E JOEL -EDGAR, (2017); MALDONADO, DIAS E VARVAKIS (2012) .
+Estudo de caso qualitativo Artigos que demonstrem estudos de caso qualitativos.
+Tal critério deve estar presente nos métodos, ou em suas características.
+FERNANDES , CESÁRIO E BARATA (2017 ); KOKSHAGINA , LE MASSON E BORIES (2017); RODRÍGUEZ, WILLIAMS E HALL (2014 ); URBAN (2015); NAPPI E ROZENFELD (2015); BATTI STELA, DE TONI E PILLON (2015); MEDEIROS , LAGO , COLLING, RIBEIRO E MARCON (2018); MARCELINOSÁDABA, PÉREZ -EZCURDIA, LAZCANO E VILLANUEVA (2014); MAJID (2014) ; REYPENS, LIEVENS E BLAZEVIC (2016) .
+Fonte: Os autores (2019) a daptado de Hoon (2014).
+Observa -se que o primeiro critério de inclusão considerou os estudos que continham elementos conceituais de gestão da inovação em PME's.
+Estes elementos são importantes para ajudar a construir a base teórica subsequente, seguindo a metodologia proposta por Hoon (2014).
+O segundo critério considerou os trabalhos que apresentassem estudos de caso relevantes, de modo expresso na metodologia , no resumo, ou que tivessem uma estrutura que seguisse um estudo de caso.
+Desta forma, considerando os artigos que se encaixavam nos critérios de inclusão e excluindo os trabalhos que não estavam diretamente ligados ao tema, obteve -se um total de sete trabalhos considerados relevantes para o escopo dessa pesquisa .
+O quadro 4 revela os autores em ordem de publicação, o título e a que periódico esses trabalhos estão relacionados: Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n.1, Setembro /Dezembro – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n1.0 8 Página | 177 Quadro 4.
+Artigos incluídos Autor (es) Título Periódico HERNÁNDEZ, MONTOYA E MARTINEZ (2014) Development Of A Model For Evaluating The NPD Process In SMEs: A Latin American Experience Procedia - Cirp SARACENI , RESENDE E SERPE (2015) A Comparative Analysis Between Clustered And Non -Clustered Companies Using Innovation Indicators.
+IFAC – Papers Online FIGUEIREDO E PIANA (2016) When "one thing(almost) leads to another": A micro -level exploration of learning linkages in Brazil's mining industry Resources Policy EDWARDS (201 7) SME Innovation: A case study 2017 International Annual Conference of the American Society for Engineering Management FIGUEIREDO E PIANA (2017) Innovative capability building and learning linkages in knowledge -intensive service SMEs in Brazil's mining industry Resources Policy MARTÍNEZROMÁN, TAMAYO E GAMERO (2017) Innovativeness and its influence on growth and market extension in construction firms in the Andalusian region Journal of Engineering and Technology Management LÖFQVIST (2017) Product innovation in small companies: Managing resource scarcity through financial bootstrapping .
+International Journal of Innovation Management Fonte: Elaborado pelo s autor es (2019).
+A partir da seleção des ses artigos, foi possível partir para o desenvolvimento da próxima fase da construção da meta -síntese .
+2.4 Passo 4: extração e codificação dos dados Com o objetivo de elencar aspectos relevantes dos trabalhos selecionados alguns dados foram extraídos e codificados a fim de facilitar a organização e catalogação das informações mais importantes .
+O Quadro 5 apresenta o roteiro que foi utilizado para codificação dos artigos selecionados.
+Roteiro de codif icação dos artigos (continua) Roteiro de codificação 1) Dados gerais 1.1) Título 1.2) Autor (es) 1.3) Ano 1.4) Periódico 2) Foco 2.1) Pergunta de pesquisa 2.2) Objetivo 3) Referencial teórico 3.1) Abordagem de gestão da inovação Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n.1, Setembro /Dezembro – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n1.0 8 Página | 178 (conclusão ) 4) Contexto da pesquisa 4.1) País 4.2) Setor 4.3) Contexto em que se aplica a gestão da inovação nas PM E's avaliadas 5) Procedimentos metodológicos 5.1) Estratégia 5.2) Nº de casos 5.3) Técnica de coleta 5.4) Análise 5.5) Descrição dos procedimentos 6) Abordagem de análise dos dados 6.1) Descrição dos estudos de caso 6.2) Avaliação quanto ao tema gestão da inova ção em PM E's 7) Principais conclusões 7.1) Insights gerados 7.2) Frameworks 8) Discussão 8.1) Co ntribuições para a gestão da inovação em PM E's 9) Análise geral 9.1) Relevância do estudo 9.2) Limitações 9.3) Comentários Fonte: Os autores (2019) adaptado de Hoon (2014); Morais -da-Silva, Takahashi e Segatto (2016).
+Os 23 códigos sugeridos por Hoon (2014) foram aplicados pelos pesquisadores para extrair os dados mais relevantes das pesquisas e melhor organizar as contribuições de cada uma.
+Observa -se que, o primeiro grupo de códigos se refere aos dados gerais dos artigos, e possuem a função de situa r o artigo quanto a elementos básicos e preliminares, como o título, o autor, o ano e o periódico.
+Este procedimento inicial ajuda a visualizar os periódicos que publicam os temas tratados.
+No aspecto do foco de trabalho, são trabalhadas a pergunta e os objetivos dos trabalhos, verificando a maneira com que estes se alinham à presente pesquisa e expandindo a compreensão quanto a outros objetivos.
+No conjunto representado pelo referencial teórico, são incluídas todas as teorias aplicadas à área que se propõ e a pesquisar, analisando os elementos associados à sua temática.
+No aspecto de procedimentos metodológicos e análise dos dados foram utilizados códigos que permitem o enquadramento de cada pesquisa em uma estrutura que seja capaz de definir todos os proc edimentos para organização e análise dos dados obtidos, ainda levando em consideração a temática descrita no presente estudo, e nos estudos selecionados.
+Na sequência foram trabalhados os aspectos de conclus ão e discussão, buscando verificar a existência de insights gerados pela pesquisa nos trabalhos selecionados, e na própria análise da meta -síntese.
+Além disso, foi possível visualizar frameworks e outros pontos relevantes que estes artigos ofereciam .
+Para concluir esse passo , a codificação enfocou a importância geral do artigo para o Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n.1, Setembro /Dezembro – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n1.0 8 Página | 179 campo estudado, identificando pontos limitantes e desenvolvendo outras discussões, no sentido de ajudar o s pesquisador es a reconstituir os pontos positivos e as falhas em cada um dos trabalhos selecionados para a meta -síntese.
+Uma vez definidos estes códigos, os artigos selecionados foram lidos de maneira detalhada, organizando os dados mais relevantes e destacando -os.
+A seguir, na seção de resultados, serão apresentadas as análises de cada um dos artigos selecionados (passo 5 de Hoon, 2014) bem como a análise cruzada dos mesmos (passo 6 de Hoon, 2014) seguida pela construção da teoria (passo 7 de Hoon, 2014).
+3 RESUL TADOS E DISCUSSÃO 3.1 Análise dos artigos selecionados Ao analisar cada estudo de caso considerado, foi possível reunir elementos no sentido de melhor compreender os conceitos de gestão da inovação em PME's e demais informações oferecidas pelos autores.
+O quadro 5 antecipa uma síntese de cada um dos artigos bem como seu contexto e abordagens de gestão da inovação e PMEs.
+Síntese individual dos estudos (contin ua) Autor (es) Contexto Abordagem de Gestão da In ovação Abordagem de PME HERNÁNDEZ, MONTOYA E MARTINEZ (2014) Desenvolvimento de diagnóstico para manufatura em PME's colombianas.
+Análise do contexto latinoamericano para inovação em PME's.
+Implantação de sistemas de inovação em manufatura utilizando o conceito de "processo de aprendizado", ou construção de competências para sustentar a Gestão da Inovação Dificuldades das PME's em desenvolver estratégias, gestão de portfolio, processos e métricas para inovação.
+As SME's não conseguem criar uma base local de conhecimento.
+(2015) Discussão do processo de clusterização de organizações como gerador de vantagens em inovação.
+Comparação com empresas isoladas de pequeno porte e os resultados em índices de inovação.
+Disseminação de ideias, habilidades, conhecimento e informações acerca de determinado processo.
+Criação de vantagens em competitividade e manutenção no mercado.
+Organizações de pequeno porte organizadas em clusters produtivos, com o objetivo de construir vantagens compet itivas com relação a grandes organizações internacionais.
+FIGUEIREDO E PIANA (2016) Exploração de conexões de aprendizado e o papel de políticas Construção de capacidades de inovação locais e o estabelecimento de As dificuldades de empresas de pequeno porte associadas à ausência de ligações horizontais de cooperação com Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n.1, Setembro /Dezembro – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n1.0 8 Página | 180 (conclusão) Autor (es) Contexto Abordagem de Gestão da In ovação Abordagem de PME governamentais em manter estas ligações.
+redes para a difusão de conhecimentos e processos de aprendizado organizacional para inovação.
+universidades e com outras organizações.
+EDWARDS (201 7) Estudo de uma organização de médio porte que apresentou a necessidade de desenvolver e lançar novos produtos.
+Desenvolvimento de competências em inovação no sentido de atender mercados de nicho.
+O uso de vantagens locais permite a competiçã o com grandes organizações.
+O desenvolvimento da inovação em PME's depende do desenvolvimento de capacidades e competências internas no processo de gestão da Inovação a médio e longo prazos.
+FIGUEIREDO E PIANA (2017) Exame de com o PME's intensivas em capital acumulam capacidades inovativas e tecnológicas e os tipos de inovação utilizados por empresas intensivas em capital no contexto da indústria de mineração brasileira.
+Construção de capacidades inovativas em PME's por meio de recursos de conhecimento que permitam gerar e administrar mudanças tecnológicas através de habilidades, conhecimento e experiências.
+Flexibilidade e adaptabilidade de PME's em construir alianças com grupos maiores no sentido de fomentar o processo de diversifica ção de mercado em empresas locais.
+MARTÍNEZ -ROMÁN, TAMAYO E GAMERO (2017) Estudo em empresas da Andaluzia (Espanha) com o intuito de verificar o impacto da inovação como fator que evidencia as vantagens competitivas locais.
+Associação entre a desempenho de inovação com as características organizacionais locais e o ambiente das organizações.
+Análise de elementos contextuais no processo de inovação.
+Dificuldades enfrentadas por PME's em construção de competências internas pela distância existente entre es tas organizações e o conhecimento produzido em centros de pesquisa.
+LÖFQVIST (2017) Estudo de três pequenas empresas e o desenvolvimento da inovação de produto.
+A inovação de produto como um processo de inovação incremental, por meio da observação de informações obtidas diretamente no mercado.
+Flexibilidade, agilidade e capacidade de resposta de pequenas e médias empresas, além de capacidade de decisão, comunicaç ão facilitada e proximidade com os consumidores.
+Fonte: Elaborado pelo s autor es (2019).
+O primeiro artigo, de Hernández, Montoya e Martínez (2014), descreve resultados obtidos em PME's localizadas em Medellín, na Colômbia, identificando aspectos de inovação em PME's locais do setor de manufatura.
+Os resultados demonstraram que existe um ciclo de aprendizado contínuo que contribui para a sustentação de um processo de inovação local, que ajuda as organizações a absorver as inovações disponibilizadas pelo meio.
+A importância para este estudo reside no fato de que o artigo enfatiza de que forma o processo de aprendizado Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n.1, Setembro /Dezembro – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n1.0 8 Página | 181 contribui na construção de competências em PME's, para tornar possível a geração e manutenção de processos inovativos a médio e longo prazo.
+O segundo trabalho, de Saraceni et al.
+(2015), discorre sobre um estudo comparativo, que visa demonstrar as vantagens obtidas por empresas de pequeno porte clusterizadas sobre grandes or ganizações independentes.
+Por meio da identificação de índices de inovação, podese observar que a união de empresas de pequeno porte em clusters produtivos é uma alternativa que permite a sustentação da competitividade local e a difusão de inovações.
+Assim, o artigo indica que um dos elementos mais importantes em PME's é a difusão de competências no sentido de desenvolver inovações locais.
+Figueiredo e Piana (201 6), identifica m PME's da área de serviços intensivas em conhecimento, no contexto da indústria de mineração brasileira, e como elas acumulam e constroem capacidades inovativas e tecnológicas.
+Os resultados demonstraram que o desenvol vimento destas capacidades está associado ao estabelecimento de alianças com grupo maiores, permitindo a diversificação a nível local.
+A importância está na demonstração das formas apresentadas para a implantação da inovação em PME's.
+No quarto estudo avaliado, Edwards (201 7) descreve o caso de uma empresa de médio porte que demonstrou a necessidade de desenvolver e lançar novos produtos.
+O artigo então discorre sobre a construção de competências internas e o atendimento a nichos específicos de mercado, no sentido de explorar vantagens sobre gran des organizações.
+O artigo enfatiza como as competências internas são fundamentais em sustentar o processo de gestão da inovação .
+No quinto artigo, também de autoria de Figueiredo e Piana (2017), a construção de capacidades de inovação local e a importânc ia das redes no processo de difusão de conhecimentos e processos de aprendizado são discutidos.
+Realizado na indústria de mineração brasileira, o estudo enfatiza as dificuldades inerentes de empresas de pequeno porte em estabelecer ligações horizontais de cooperação que permitam a implantação de atividades inovadoras em seu contexto.
+A seguir o trabalho de Martínez -Román, Tamayo e Gamero (2017), centram a discussão na inovação e seu papel no desenvolvimento de vantagens competitivas.
+O estudo foi realizado em 113 empresas da área de construção na Andaluzia, Espanha.
+O estudo permitiu a identificação de fatores internos das empresas pesquisadas e como estes elementos produzem a inovação, além de associar a inovação de processo com a expansão des sas organizações.
+Assim, o artigo contribui ao fornecer informações sobre as características de inovação em PME's.
+Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n.1, Setembro /Dezembro – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n1.0 8 Página | 182 Por fim, o ar tigo de Löfqvist (2017) explora a questão de como pequenas organizações administram a escassez de recursos para gerar a inovação de produto.
+Os casos estão separados da seguinte forma: o primeiro e o terceiro consistem em empresas de manufatura; o segundo caso é uma empre sa de software.
+Os resultados demonstraram que, no sentido de lidar com a escassez de recursos, as pequenas empresas pesquisadas trabalham estratégias de inovação que favorecem tecnologias e mercados conhecidos.
+Assim, a inovação aqui está associada princi palmente a inovação incremental em produtos, minimizando os riscos.
+Dentre os artigos avaliados, foram extraídos aspectos cruciais à conceituação da inovação e sua relação com a especificidade das PME's.
+O primeiro ponto a ser observado é que os artigos conseguem trazer uma contribuição ao tema discutido, isto é, a conceituação de elementos da Gestão da Inovação em PME's.
+Em segundo lugar, foi possível constatar que vários dos artigos selecionados estão incluídos em periódicos de engenharia e não de administração como era esperado incialmente.
+Observou -se também que as principais contribuições estão concentradas na questão dos elementos focais da gestão da inovação em pequenas e médias empresas, ou seja, levantam a problemática das dificuldades para inovar ( Figueiredo & Piana, 2016 ; Hernández , Martínez -Román, Tamayo , & Gamero, 2017 ; Montoya & M artinez , 2014 ), bem como a questão da flexibilidade de adaptação e o foco na construção de compe tências essenciais para a sustentação do processo de inovação (Edwards, 201 7; Figueiredo & Piana, 2016 ; Löfqvist , 2017 ; Saraceni et al.
+Portanto, os elementos identificados nos artigos englobam aspectos conceituais, identificação de fatores contextuais e comparativos, bem como insights, fornecendo contribuições à literatura sobre questões pertinentes às particularidades da Gestão da Inovaç ão em pequenas e médias empresas.
+Embora haja uma diversidade de conceitos e abordagens utilizadas pelos autores estudados, os artigos refletem a ideia central de que são necessárias competências internas em PME's, no sentido de implantar, sustentar e cria r uma gestão da inovação que seja capaz de auxiliar na construção da competitividade nestas organizações.
+É interessante pontuar que o mesmo conceito central também é encontrado em autores mais atuais (Rodrigues & Martins, 2020; Sales et al.
+, 2020; Santos & Rocha, 2017) quanto em autores seminais (Freeman,1975 ; Schumpeter , 1939) .
+Para Schumpeter (1939) a inovação era considerada não só uma condição para impulsionar mu danças mundiais , mas também para a diferenciação da empresa que ao produzir produtos ou serviços raros e difíceis de imitar se sobressairia no mercado, tonando -se competitiva.
+Observa -se que essa ideia está intrínseca nos estudos individuais de caso analisados e pode -se sugeri r que eles foram influenciados pela Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n.1, Setembro /Dezembro – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n1.0 8 Página | 183 teoria schumpeteriana , e que cada empresa contida nos casos estudados, estavam buscando a competitividade via inovação.
+3.2 Constru indo teoria a partir da análise A partir da análise dos elementos extraídos nos artigos selecionados foi possível inferir que existe uma relação causal que pode ser identifica da nos contextos e especificidades da inovação, ou seja, a identificação dos tipos de inovação, a abrangência da inovação , os potenciais para inovar e as limitaç ões.
+Partindo -se deste pressuposto teórico, emergiu a criação de um framework que pudesse expressar de forma visual essas relações, tal qual apresentado pela figura 1: Figura 1.
+Framework de gestão da inovação em PME's Fonte: Elaborado pelos autores (2020 ).
+A partir do framework apresentado, primeiramente define -se inovação como a aquisição e aperfeiçoamento das chamadas vantagens competitivas em produtos, processos e marketing, que possibilitam a organização aumentar sua participação no merc ado ou em seu setor de atuação, sendo que a rentabilidade e a competitividade são uma consequência desse processo ( Edwards, 201 7; Figueiredo & Piana, 2016; Löfqvist, 2017 ; Saraceni et al.
+No primeiro quadro retrata -se o contexto e ou as especificidades da inovação para a organização, ou seja, o tipo de inovação, sua abrangência, os potenciais para inovar bem como as limitações para inovar.
+Este cenário está presente no contexto das PMEs que são, por Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n.1, Setembro /Dezembro – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n1.0 8 Página | 184 sua vez, organização que apresentam características como possibilidade de flexibilidade na produção, adaptabilidade, estabelecimento de parcerias e criatividade no desenvolvimento de novas ideias (segundo quadro) .
+A construção deste framework bu scou os principais conceitos dentro da literatura de inovação em P ME's, de forma a demonstrar como o ciclo da inovação se desenvolve em negócios de pequeno porte.
+Quanto ao contexto, foram utilizados os conceitos estabelecidos por Reis (20 08), de diagnósti co para a inovação, considerando os tipos de inovação (produto, processo, marketing e organizacional); a abrangência (neste caso, se inovação de impacto local, regional, nacional ou mundial); embora outros autores, como Dreschsler e Natter (2012), e Edward s (2017) classifiquem abrangência como intensidade de inovação, ou seja, incremental ou radical.
+Sobre inovação de produto em pequenos empreendimentos, foi utilizado o estudo seminal de Ettlie e Rubenstein (1987) .
+O potencial para inovar envolve todos os recursos não utilizados no processo de inovação, como recursos humanos, financeiros, materiais, equipamentos e processos de gestão do conhecimento que podem ser considerados como recursos potenciais, mas cujo mapeamento não tenha sido realizado de ntro do ambiente da empresa.
+( Edwards, 2017 ; Souza Rodrigues & Martins, 2020 ; Santos & Rocha , 2017).
+Conceitualmente, as limitações consideram barreiras de todos os tipos ao processo de inovação, muito presentes em pequenos empreendimentos, como barreiras culturais (Pacheco & Gomes , 2016; Santos & Rocha , 2017) barreiras de ordem financeira ( Pacheco & Gomes , 2016) , o que também pode ser traduzido como dificuldade de acesso a recursos externos ou crédito .
+Além disso, c oncorrência com empresas de maior porte e falta de estrutura organizacional que permita a criaçã o de uma estratégia voltada à inovação também são apontados (Silva, Bagnob, & Salerno, 2014) .
+Dessa forma, é importante pontuar que as limitações, segundo Santos e Rocha (2017) são espelhos dos recursos potenciais.
+Ou seja, todo potencial esconde uma falha estrutural que pode impedir todo o processo.
+Quanto à questão das vantagens dos pequenos negócios, os autores estabelecem que, embora pequenos empreendimentos possuam uma séri e de limitações, conforme relatado nas fraquezas ou fragilidades, possuem maior facilidade em adaptar -se a novas situações de mercado, tendências ou interesses da demanda (Santos & Rocha, 2017 ).
+Mais do que isso, também são vantagens nas PMEs a rapidez nas modificações em produtos ou serviços e capacidade de exploração de nichos de mercado específicos ( Pacheco & Gomes, 2016 ; Silva, Bagnob, & Salerno , 2014 ).
+Santos e Rocha (2017) destacam ainda que o processo intuitivo é Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n.1, Setembro /Dezembro – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n1.0 8 Página | 185 uma vantagem da pequena empresa que lhe permite operar com mais criatividade, já que seu processo de comunicação pode se dar mais rápido.
+Ainda, as PMEs conseguem estabelecer parcerias ou redes de cooperação com ou tras empresas do mesmo ramo, compartilhando ideias e recursos potenciais para atingir mercados mais amplos e competir com empresas maiores ( Marković et al.
+Outra vantagem citada é a percepção das necessidades de melhoria estrutural ou de adaptaç ão da demanda , que também ocorrem mais rapidamente nas PMEs , devido ao menor nível hierárquico (Rodrigues & Martins , 2020), facilitando o intercâmbio de ideias e entre empresa e mercado ( Santos & Rocha , 2017).
+Uma vez estabelecidos os processos de inovação, o terceiro quadro aponta para as consequências desta, no caso a competitividade organizacional, já que, as PMEs que inovam criam vantagens competitivas de médio prazo, aumentam o ciclo de vida dos produtos, g eram renda e expandem a lucratividade, além de criar novas demandas no mercado.
+Quanto ao aspecto de competitividade, o trabalho de Santos e Rocha (2017) destaca as vantagens de pequenos negócios ligados à flexibilidade de produção e acesso mais rápido ao s interesses da demanda, fazendo com que a empresa consiga gerar inovações que estejam de acordo com os desejos desta demanda, de forma muito mais rápida do que uma empresa de grande porte.
+Outro ponto da competitividade se liga à capacidade de pequenos negócios em atender a nichos específicos da demanda ( Marković et al.
+, 2020) diferente de uma grande empresa, em que a massificação da produção impede o atendimento de interesses muito específicos ou de criação de inovações condizentes com os interesses destes nichos, criando um distanciamento entre os objetivos da empresa e as necessidades ou desejos da demanda (Marković et al.
+, 2020 ; Rodrigues & Martins , 2020).
+Ao atender a nichos específicos, a pequena empresa, segundo Santos & Rocha (2017) , consegue estender o ciclo de vida de seus produtos ou serviços, adequando sua produção aos interesses da demanda.
+Justamente por estar próxima destes interesses, as políticas de inovação possuem menos chance de erros, podendo sustentar estes ciclos de pro duto por mais tempo.
+Segundo Rodrigues e Martins (2020) constitui -se numa vantagem competitiva, uma vez que as grandes empresas, de forma geral, não conseguem atender interesses específicos de nichos de mercado na velocidade em que isso é necessário.
+Todos estes processos chamam a atenção dos autores de inovação, como destacado por Marković et al.
+, (2020) porque ajudam a sustentar o crescimento e a manutenção destas pequenas empresas no mercado, articulando sua produção aos interesses do mercado, ainda Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n.1, Setembro /Dezembro – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n1.0 8 Página | 186 que mais localizado, gerando renda sustentada para estes negócios.
+Segundo Rodrigues e Martins (2020), isso ajuda também no teste de inovações, permitindo não apenas a criação de uma demanda para seus produtos, mas uma sustentação desta demanda no longo praz o. Por fim é relevante pontuar que todo o processo acontece como um ciclo, representado na figura 1 pelas flechas.
+Tal ciclo de desenvolve por meio da avaliação contextual das condições de inovação na organização que, analisado no contexto das PMEs apresentam vantagens em relação a sua própria característica, o que, por sua vez pode levar a expansão da competitividade dessas organizações.
+Dessa forma, considera -se a inovação como a chave do sucesso para a PMEs na atualidade, pois ela está especialmente ligada a competitividade, crescimento e sustentabilidade dessas organizações tão importantes para o c enário de negócios atual.
+Nesse sentido, acredita -se que as PMEs carregam um potencial de inovação ainda maior do que as empresas de grande porte, devido as suas características únicas já citadas anteriormente .
+Além disso as PMEs podem possibilitar o aumen to no ciclo de vida de seus produtos/serviços bem como criar novas demandas no mercado com maior agilidade.
+4 CONSIDERAÇÕES FINAIS Esta pesquisa utilizou -se d a metodologia da meta -síntese, conforme os passos sugeridos por Hoon (2014), a fim de sistematizar estudos de casos qualitativos relacionados a Gestão da Inovação em PME's.
+Tendo por objetivo mapear as principais problemáticas que foram levantadas em pesquisas qualitativas anteriores sobre o tema, encontrou -se que, dentre os artigo s pesquisados, os principais elementos que emergem estão relacionados às dificuldades para inovar bem como na necessidade de flexibilidade e adaptação que são requeridos para que as empresas deste porte possam sustentar o processo de inovação.
+Desta forma acredita -se que a principal questão de pesquisa foi respondida o que pode contribuir para o avanço da literatura.
+Além disso, a análise do conteúdo dos artigos mostrou -se aderente a base de autores seminais como Schumpeter (1939) ao expor que a inovação, baseada em seus pressupostos de flexibilidade, adaptabilidade e disposição para parcerias, é o caminho para o a manutenção e destaque das PMEs no mercado.
+Por fim, a análise realizada também propiciou a criação de um framework teórico que representa o ciclo da inovação nas PMEs com destaque para seu contexto e especificidades da inovação nessas empresas.
+Uma vez que PMEs possibilitam maior flexibilidade e Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n.1, Setembro /Dezembro – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n1.0 8 Página | 187 adaptabilidade no fornecimento de seus produtos e serviços, acredita -se que essas mesmas características são essenciais para gerar competitividade, se comparadas às grandes empresas.
+Assim, e spera -se que esse framework possa ser útil tanto como inspiração para pesquisas futuras quanto para que gestores das PMEs possam melhor compreender os aspectos da gestão da inovação em suas empresas a fim de melhorar a rentabilidade e a competitividade organizacional.
+Como toda pesquisa, esse estudo não está livre de limitações.
+Dentre elas, destacam -se a pequena quantidade de trabalhos selecionados, que, se por um lado propiciou um aprofundamento maior na análise dos artigos, por outro , restringiu o poder explicativo sobre o tema.
+Assim, o arcabouço teórico aqui levantado de maneira alguma esgota o tema, d e forma que se sugere que pesquisas futuras possam realizar levantamentos teóricos mais amplos e ou abordar outros aspectos das pesquisas em gestão da inovação, que não só sua problemática.
+Outra limitação é referente ao framework apresentado, que por sua característica teórica, carece de experimentações empíricas para sua validação.
+Assim, sugere -se que estudos futuros possam validar o framework e sua utilidade na prática, aplicando -o a uma organização de pequeno ou médio porte.
+REFERÊNCIAS Adams, R., Bessant, J., & Phelps, R. (2006).
+Innovation Management Measurement .
+Journal of Management Reviews , 21(47), 21-47.
+Baregheh , A., Rowley, J., & Sambrook, S. (2009).
+Towards a multidisciplinary definition of innovation.
+Management Decision, 47(8), 1323 –1339.
+& Pillon, R. (2015) The Extended Map methodology: Technology roadmapping for SMES clusters.
+Journal of Engineering and Technology Management, 38, 123.
+Gerenciamento da informação: um recurso estratégico no processo de gestão empresarial.
+Cagnazzo, L., Taticchi, P., Botarelli, M., Cagnazzo, L., Taticchi, P., & Botarelli, M. (2008).
+A literature review on innovation management tools.
+Revista de Administração da Universidade Federal de Santa Maria , 1(3), 316 –330.
+Cantú, S. O., & Zapata, Á. R. P. (2006).
+¿Que es la Gestión de la Innovación y la Tecnología (GInnT)?
+Journal of Technology Management & Innovation , 1(2), 64 –82.
+(2006) Qualitative Inquiry and Research Design: Choosing among Five Approaches .
+Dalfovo, M. S., & Hoffmann, V. E. (2010 , novembro ).
+O Quê, Como e Onde da Inovação: Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n.1, Setembro /Dezembro – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n1.0 8 Página | 188 Análise da Produção Científica em Administração sob a Perspectiva da Abordagem de Schumpeter.
+Anais do Simpósio de Gestão da Inovação Tecnológica ANPAD , Vitória -ES, Brasil, XXVI.
+(1997) Guns, Germs, and Steel: The Fates of Human Societies .
+The nature of the innovative process (10, 221-238).
+Dreschsler, W.; Natter, M. (2012) Understanding a firm's openness decisions in innovation.
+Journal of Business Research 65(3), 438-445.
+Edwards, T. V. (2017 , October ) SME Innovation: a case study.
+International Annual Conference of the American Society for Engineering Management , ASEM , Charlotte, North Carolina, USA .
+Building Theories from Case Study Research.
+Academic Management Review , 14(4), 532 –550.
+; Rubenstein, A.H. (1987) Firm size and product innovation.
+Journal of Product Innovation management 4, 89-108.
+(2016) When "one thing(almost)leads to another": A micro -level exploration of learning linkages in Brazil's mining industry.
+Resources Policy 49(3), 404-415.
+(201 7) Innovative capability building and learning linkages in knowledge -intensive service SMEs in Brazil's mining industry.
+Fragoso, R. (2019) As PMEs que Mais Crescem no Brasil 2019: investimentos e inovação para enf rentar os desafios .
+1 -27, São Paulo , Editora Deloitte.
+Recuperado em 26 de dezembro de 2019, de -mais -crescemFreeman, C. (1975).
+La teoria econômica de la innovac ión industrial .
+Gunday, G.; Ulusoy, G.; Kilic, K & Alpkan, L. (2011) Effects of innovation types on firm performance.
+International Journal of Production Economics , 133(2), 662-676.
+Hernández, M. C.; Montoya, M. V. & Martínez, J. F. (2014) Development of a Model for Evaluating the NPD Process in SMEs: A Latin American Experience.
+Hoon, C. (2014) Meta -synthesis of qualitative case studies: an approach to theory building.
+Organizational Re search Methods , 16 (4), 522 -556.
+; Cort, P.M. (2003) Strategic investment in technological innovations.
+European Journal of Operational Research , 144, 209 –223.
+Kline, S. J., & Rosenberg, N. (1986).
+Studies on Science and the Innovation Pr ocess .
+Singapore: World Scientific Printers.
+Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n.1, Setembro /Dezembro – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n1.0 8 Página | 189 Kuandykov, L; Sokolov, M. (2010) Impact of social neighborhood on diffusion of innovation S-curve.
+Decision Support Systems 48, 531 –535.
+Laforet , S. (2008) Size, strategic, and market orientation effects on innovation .
+Journal of Business Research 61 (7), 753-764.
+Leifer, R., O'Connor, G. C., & Rice, M. (2002).
+A implementação de inovação radical em empresas maduras.
+Revista de Administração de Empresas , 42(2), 17 –30.
+Inovação na Era do Conhecimento.
+Parcerias Estratégicas , 5(8), 157 –180.
+Product innovation in small companies: Managing resource scarcity through financial bootstrapping .
+International Journal of Innovation Managemen t, 21 (2), 127.
+Open Innovation in firms located in an intermediate technology developed country, FEP Working Papers 314, Universidade do Porto, Faculdade de Economia do Porto.
+Marković, D. (2020) Identifying and ranking novel indicators of MSMEs innovation potential.
+Technology Analy sis and Strategic Management 32 (5), 529 –541.
+Marković, D., Janaćković, G., Simeunović, N., & Lalić , B.
+Identifying and ranking novel indicators of MSMEs innovation potential.
+Technology Analysis and Strategic Management , 32(5), 529 –541.
+(2017) Innovativeness and its influence on growth and market extension in construction firms in the Andalusian region.
+Journal of Engineering and Technology Mana gement 43, 19–33.
+Melle, C. & Russo -Spena, T. (2015).
+Infomediary agency and practices in shaping Market innovation.
+Industrial Marketing Management, 44 , 42-53.
+; Takahashi, A. R. W. & Segatto , A.P.
+(2016) Scaling up social innovation: a meta -synthesis.
+RAM, Mackenzie Management Review , 17(6), Special Edition, 134-163.
+Social Research Methods: Qualitative and Quantitative Approaches .
+Cambridge: Cambridge University Press.
+OCDE , Organização para Cooperação Econômica e Desenvolvimento (2010).
+Manual de Oslo: Proposta de diretrizes para coleta e interpretação de dados sobre inovação .
+FINEP – Financiadora de Estudos e Projetos.
+Departa mento Estatístico da Comunidade Europeia.
+Modelos de gestão da inovação em uma perspectiva comparada: contribuição para aplicação em pequenas e médias empresas.
+Revista da Micro e Pequena Empresa , 10(1), 63 –79.
+A meta -analysis of research on information technology implementat ion in small business.
+Journal of Organizational Computing and Electronic Commerce , 13(2), 91 -121.
+Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n.1, Setembro /Dezembro – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n1.0 8 Página | 190 Reis, D. R. (2008) Gestão da Inovação Tecnológica .
+Rodrigues, J., & Martins, R. (2020 , junho ).
+Encontro Científico , ISLA , Santarém -PA, Brasil, VI.
+Rothwell, R. & Zegveld, W. (1986) Innovation and the small and medium sized firm.
+Sales, R. L., Duarte, F. J. de C. M., Maculan , A. M., & Campos, N. A.
+Comercialização de inovações: uma análise dos problemas enfrentados por pequenas empresas de base tecnológica graduadas em uma incubadora brasileira.
+Revista da Micro e Pequena Empresa , 14(1), 79 –100.
+Santos, L. L.; Alves, R. C. & Almeida, K. N.T.
+(2007) Formação de estratégia nas micro e pequenas empresas: um estudo no Centro -Oeste Mineiro.
+Santos, P. V. S. & Rocha, M. F. B.
+Inovação No Processo De Desenvolvimento de Estratégias Competitivas em Pequenas e Médias Empresas.
+Revista Mundi Engenharia, Tecnologia e Gestã o, 2(2), 1 –20.
+Saraceni, A. V.; Resende, L. M. Serpe, L. F. & Andrade Jr., P. P. (2015) A comparative analysis between clustered and non -clustered companies using innovation indicators.
+IFACPapersOnLine 48(3),155–160.
+(1957) The theory of economic development .
+Cambridge : Harvard University .
+Business Cycles: A Theoretical, Historical, and Statistical Analysis of the Capitalist Process .
+Silva, D. O., Bagnob, R. B., & Salerno, M. S. (2014).
+Modelos para a gestão da inovação: revisão e análise da literatura.
+Tidd, J., B essant , J., & P avitt, K. (2008).
+Yin, R. K. (2010) Estudo de caso: planejamento e métodos.
+Qualitative Research from Start to Finish .
+REFERÊNCIAS DE ARTIGOS CONSULTADOS MAS EXCLUÍDOS DA ANÁLISE (QUADRO 3 – PÁGINA 11 ) Aramo -Immonen, H.; Leppäniemi, J.; Soini, J.; Joel -Edgar, S.; (2017) Mediator's role in a innovation ecossystem.
+International Journal of Business and Systems Research.
+11(3), 229242. oi.org/10.1504/IJBSR.2017.085467 Battistela, C.; de Toni, A.; Pillon, R. (2015) The Extended Map methodology: Technology roadmapping for SMES clusters.
+Journal of Engineering and Technology Management .
+Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n.1, Setembro /Dezembro – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n1.0 8 Página | 191 Fernandes, S.; Cesário, M.; Barata, J.M.
+(2017) Ways to open innovation: Main agents and sources in the Portuguese case.
+; Fernández -Mesa, A.; Vidal, J.A.
+; Chiva, R. (2015) IT competency and the comercial success of innovation .
+Industrial Management and Data Systems.
+DOI: 10.1108/IMDS -09-2013 -0389 .
+Jaeger, A.; Hold, P.; Ott, K.; Sihn, W. (2015) Tangible Industry 4.0: A Scenario -Based Approach to Learning for the Future of Production .
+6.03.162 Kokshagina, O.; Le Masson, P.; Bories, F. (2017) Fast-connecting search practices: On the role of open innovation intermediary to accelerate the absorptive capacity.
+Technological Forecasting and Social Change .
+(2014) Future of Untouchables in India: A Case Study of Dalit Abdul Majid University of the Punjab, Lahore.
+South Asian Studies 27(1), 263-285.
+Maldonado, M.; Dias, N.; Varvakis, G. (2012) Managing innovation in small high technology firms: a ca se study in Brazil.
+Journal of technology management & innovation , 4(2), 130-142.
+Marcelino -Sádaba, S., Pérez -Ezcurdia, A. , Lazcano, A. M., Villanueva, P. (2014), Project risk management methodology for small firms.
+International Journal of Project Management .
+Medeiros, Lago; N. C.; Colling, C.; Ribeiro; J. L. D. Marcon, A.
+(2018) Proposal of a novel reference system for the gre en product development process.
+Journal of Cleaner Production 187(20), 93–118.
+Mele, C.; Russo -Spena, T. (2015).
+Innomediary agency and practices in shaping Market innovation.
+Industrial Marketing Management.
+DOI: 10.1016/j.indmarman.2015.10.006 .
+Nappi, V.; Rozenfeld, H. (2015) The Incorporation of Sustainability Indicators into a Performance Measurement System.
+12th Global Conference on Sustainable Manufacturing .
+DOI: 10.1016/j.procir.2014.07.114 Orbegozo , U.; Vicente -Molina, M.A.
+(2017) Eco -innovation strategic model.
+A multiple -case study from a highly eco -innovative European region.
+Journal of Cleaner Production .
+(2016) Integration of management systems: towards a sustained success and development of organizations.
+Journal of Cleaner Production .
+Reypens, C.; Lievens, A.; Blazevic, V. (2016) Leveraging value in multi -stakeholder innovation networks: A process framework for value co-creation and capture.
+Industrial Marketing Management .
+(2010), "Exploring the potential of SME alliances in the construction sector", Journal of Construction, Engineering and Management , 136 (55), 558-567.
+Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n.1, Setembro /Dezembro – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n1.0 8 Página | 192 Rodriguez, I.; Williams, M.; Hall, M. (2014).
+Tourism innovation policy: Implementation and outcomes.
+Schuurman, D.; Marez, L.; Ballon, P. (2016).
+The Impact of Living Lab Methodology on Open Innovation Contributions and Outcomes .
+Technology Innovation Management Review .
+Urban, F. (2015) Environmental Innovation for Sustainable Development: The Role of China.
+Villareal, O.; Calvo, N. (2015).
+From the Triple Helix model to the Global Open innovation model.
+Journal of Engineering and Technology Management .
+Wait, A.; Seidel, R. & Seidel, M. (2011).
+A new approach to innovation management in SME's.
+IEEE International Conference on Industrial Engineering and Engineering Management.
+Xu, J., Houssin, R., Caillaud, E., & Gardoni, M. (2010).
+Macro process of knowledge management for continuous innovation.
+Journal of Knowledge M anagement , 14(4), 573 –591.

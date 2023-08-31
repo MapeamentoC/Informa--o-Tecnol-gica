@@ -1,0 +1,351 @@
+Revista de Dir eito, Governanç a e No vas Tecnologias Smart Contracts no âmbito dos Non-Fungible T okens (NFT s): desafios e perspectivas de normatização Anaïs Eulálio Brasileiro 1 * Eugênia Cristina Nilsen Ribeiro Barza 2 ** Aurelio Agostinho Da Boaviagem 3 *** Resumo Percebe-se o crescimento do mercado de arte digital.
+Uma ferramenta essencial para as transações de NFTs é o smart contract .
+Questiona-se: há desafios em relação ao entendimento dos smart contracts no âmbito dos NFTs?
+O objetivo geral é determinar quais os desafios apresentados em relação a sua linguagem; e como objetivos específicos: compreender a sociedade informacional e a blockchain ; analisar a conceituação de NFTs, seu crescimento, popularização e transações; determinar o que são os smart contracts ; para, por fim, avaliar seus desafios e perspectivas.
+Este estudo possui método dedutivo a partir da pesquisa bibliográfica e documental acerca do tema.
+Palavras-chave: Blockchain ; NFT s; Smart Contract ; linguagem; regulamentação Smart Contracts in the context of Non-Fungible Tokens (NFT s): challenges and perspectives of standardization Abstract The growth of the digital art market is evident.
+An essential tool for NFT transactions is the smart contract.
+The question is: are there challenges in understanding smart contracts in the context of NFTs?
+The general objective is to determine the challenges presented in relation to their language; and as specific objectives: to understand the informational society and the blockchain; to analyze the concept of NFTs, their growth, popularization, and transactions; to determine what smart contracts are; and, finally , to evaluate their challenges and perspectives.
+3*** Professor Emérito da Universidade Federal de Pernambuco.
+Professor Permanente da Pós-Graduação da Faculdade de Direito do Recife.
+Doutor em Direito pela UFPE, Mestre em Direito pela UFPE, graduado em Direito pela UFPE.
+E-mail: aurelioboaviagem@gmail.com 2 ** Professora Titular de Direito Internacional Privado na UFPE, Doutorado em Direito pela UFPE, Mestre em Direito pela UFPE, Graduada em Direito pela UFPE.
+E-mail: eugenia.barza@ufpe.br 1 * Doutoranda em Direito na UFPE, Mestre em Direito pela UFRN, Especialista em Direito Penal e Processo Penal pela UNIFACISA, graduada em Direito pela UNIFACISA.
+E-mail: anais.eulalio.br@gmail.com Revista de Direito, Governança e Novas Tecnologias | e-ISSN: 2526-0049 | Encontro Virtual |v.
+8 | n. 1 | p. 47 – 67 | Jan/Jul.
+2022.47SMART CONTRACTS NO ÂMBITO DOS NON-FUNGIBLE TOKENS (NFTS): DESAFIOS E PERSPECTIVASDE NORMATIZAÇÃO This study uses the deductive method as from bibliographic and documental research on the topic.
+Keywords: Blockchain; NFT s; Smart Contract; language; regulation 1 INTRODUÇÃO Os últimos anos têm evidenciado um grande avanço de novas tecnologias que influenciam diretamente na sociedade informacional.
+Nesse cenário, temos a tecnologia da blockchain , que possui características promissoras capazes de atrair a atenção do público em diferentes tipos de contextos devido a principalmente seu caráter inovador , seguro e imutável.
+Um dos contextos em que mais visualizamos a importância da blockchain é o mundo da arte digital com inclusão dos tokens não-fungíveis: os famosos NFTs (do inglês, Non-Fungible Tokens ).
+A pandemia causada pelo vírus COVID-19, declarada em 2020, intensificou o mercado de arte digital que antes já estava em crescimento.
+A título ilustrativo, um ano atrás a sociedade testemunhou a compra de um único NFT por milhões de dólares, algo nunca imaginado antes.
+Podendo ser considerado como uma forma de combustível que dá mais energia ao mercado de arte digital, os NFTs atraem cada vez mais o interesse de indivíduos que querem investir em algo inovador e que traga um bom montante de lucro.
+No entanto, a forma não-tradicional que as transações acontecem no âmbito dos NFTs e na blockchain dificulta o entendimento das pessoas que querem se inserir nessa esfera.
+Uma das características da forma que as transações de NFTs são realizadas é a utilização da ferramenta denominada de smart contracts , que, apesar de a tradução indicar em tese no que consiste, não pode ser considerado como um contrato inteligente de fato.
+Os smart contracts possuem um papel essencial na transação de NFTs, mas além de muitos dos indivíduos envolvidos não entenderem essa importância, muitos não conseguem compreender como ler e escrever o documento, que por vezes acaba contendo diferentes lacunas e vulnerabilidades.
+Considerando o contexto envolvido, a pergunta problema que guiou esta pesquisa foi se há desafios em relação a linguagem e semântica dos smart contracts no âmbito das transações dos NFTs, e, em caso positivo, identificá-los e tentar encontrar uma solução.
+Para isso, o objetivo geral deste estudo é determinar qual(is) o(s) desafio(s) e limitações que os Revista de Direito, Governança e Novas Tecnologias | e-ISSN: 2526-0049 | Encontro Virtual |v.
+8 | n. 1 | p. 47 – 67 | Jan/Jul.
+2022.48Anaïs Eulalio BrasileiroEugênia Cristina Nilsen Ribeiro BarzaAurelio Agostinho Da Boaviagem smart contracts apresentam em relação a sua linguagem natural e codificada, assim como em relação a semântica da ferramenta no cenário dos NFT s. Como objetivos específicos, o estudo se propõe a compreender a conjuntura da sociedade informacional e como a tecnologia da blockchain está inserida; analisar a conceituação de NFTs, seu crescimento e popularização, bem como investigar como funcionam suas transações; determinar o que são os smart contracts e como eles se encaixam no mundo dos NFTs; para, por fim, avaliar os desafios e limitações existentes nos smart contracts relacionados à sua linguagem e semântica e as suas perspectivas.
+Para atingir os objetivos pretendidos, este estudo se utilizou do método dedutivo a partir da pesquisa bibliográfica e documental acerca do tema.
+Em razão da novidade do tema, a maior parte das fontes utilizadas foi internacional no formato de artigos científicos devidamente publicados em plataformas digitais.
+2 A SOCIEDADE INFORMACIONAL E A BLOCKCHAIN Na era da globalização, a Internet é uma das ferramentas mais importantes para a ampla comunicação, com troca de informações de maneira instantânea que ultrapassa as fronteiras físicas de países.
+A presença de dispositivos tecnológicos de informação caracteriza a sociedade de informação (RODRIGUES, 1993, p. 24), que, por sua vez, se caracteriza pela forma que os dados se apresentam como informações e como eles são transmitidos e processados, fazendo com que a produção de conhecimento seja relevante (BARBOZA; SCHERREIER FERNEDA, 2021, p. 101) na atualidade.
+A sociedade informacional engloba diferentes critérios que incluem a perspectiva tecnológica, econômica, ocupacional, espacial e cultural.
+A captação de informação através de novas técnicas se dá no âmbito tecnológico, com o surgimento de novas ferramentas; a relação intrínseca com a economia global é interligada ao critério econômico; a necessidade e dependência da informação são diretamente relacionadas às tarefas ocupacionais; e por fim, temos a aproximação de cultura (critério espacial e cultural) através do compartilhamento de informação (LOPES, 2010, p. 29 e 30).
+No âmbito da economia, a informação se mostra cada vez mais importante, tendo em vista que a economia internacional é construída a partir das informações econômicas de cada país (LOPES, 2010, p. 30).
+Os novos tempos de novas tecnologias de informações admitem Revista de Direito, Governança e Novas Tecnologias | e-ISSN: 2526-0049 | Encontro Virtual |v.
+8 | n. 1 | p. 47 – 67 | Jan/Jul.
+2022.49SMART CONTRACTS NO ÂMBITO DOS NON-FUNGIBLE TOKENS (NFTS): DESAFIOS E PERSPECTIVASDE NORMATIZAÇÃO novas modalidades de governanças, com diferentes instâncias e regulamentações capazes de antecipar possíveis conflitos mediantes regras de harmonização.
+Além disso, com o auxílio dos dispositivos eletrônicos, a sociedade de informação conta com mercado próprio e sua própria moeda, conhecida por criptomoedas.
+Conforme estudo de Follador (2018, p. 100), as criptomoedas são as moedas do mundo digital que possuem como principais características serem conversíveis, descentralizadas e protegidas por uma forma de tecnologia específica denominada de criptografia assimétrica.
+Por não ser formalmente emitida por um Estado, a criptomoeda enfrenta desafios legais para se adequar aos ordenamentos internos, já que não é supervisionada por autoridades centrais (FOLLADOR, 2018, p. 87).
+No entanto, os governos não podem ignorar a presença das criptomoedas no mercado digital, em constante crescimento.
+Prova disso é a conversão das criptomoedas para o dólar americano em websites de amplo acesso, como o CoinMarketCap , que atualiza constantemente os valores das principais criptomoedas, como Bitcoin e Ether eum , e das demais moedas.
+Em forma simplificada de entendimento, o CoinMarketCap calcula o valor das criptomoedas a partir de quanto as pessoas estão dispostas a realizar transações, já que o mercado digital é considerado livre.
+Em paralelo com a bolsa de valores no período da pandemia, por exemplo, observa-se que mesmo em um período volátil, as criptomoedas subiram mais de 170% em 2020 (BBC News Brasil, 2020).
+Uma das possíveis causas para a valorização das criptomoedas é a sua inserção no modelo de tecnologia introduzido em 2009, denominado blockchain (corrente de blocos em tradução literal).
+Inicialmente, a blockchain surgiu como parte da infraestrutura do Bitcoin para que possibilitasse que a criptomoeda tivesse seu próprio sistema descentralizado.
+No entanto, a tecnologia cresceu tanto que tem sido utilizada em vários diferentes contextos e, hoje, existe independentemente do Bitcoin.
+Com características singulares, a blockchain é compreendida como uma tecnologia que elimina a necessidade de confiança das partes, de uma forma descentralizada, segura e incorruptível (FILIPPI e HASSAN, 2016).
+Tapscott e Tapscott (2018, p. xxiv) explicam que a blockchain é uma solução que revoluciona o modo de realizar transações, já que é capaz de garantir não apenas a identidade das partes, como também protege a informação transferida.
+Os autores também adentram sobre a eliminação da necessidade de confiança entra as partes em uma transação, Revista de Direito, Governança e Novas Tecnologias | e-ISSN: 2526-0049 | Encontro Virtual |v.
+8 | n. 1 | p. 47 – 67 | Jan/Jul.
+2022.50Anaïs Eulalio BrasileiroEugênia Cristina Nilsen Ribeiro BarzaAurelio Agostinho Da Boaviagem argumentando que a blockchain oferece o elemento de confiança pelo simples fato de ser constituída de elementos criptografados a partir de códigos inteligentes e colaborativos.
+As partes acabam criando uma confiança entre si em razão do conhecimento mútuo de que os dados compartilhados não podem ser modificados, o que confere à tecnologia um caráter muito mais seguro.
+Um dos fatores na blockchain que merece ser melhor detalhado é a sua natureza descentralizadora.
+Com essa tecnologia, as partes de uma transação não mais precisam de uma terceira parte que intermede a relação (GOVERNA TORI et al., 2018, p. 9).
+Para Tapscott e Tapscott (2018, p. xxiv), em uma transação ordinária, essa terceira parte é o elemento que estabelece a confiança e integridade entre as partes, e pode ser exemplificada pelos bancos ou pelas próprias entidades governamentais.
+De acordo com a visão dos autores, a terceira parte possui limitações operacionais e pode ser mais vulnerável a ataques de outras partes que não integram a transação de forma direta.
+Além disso, como bem acrescentam Dwivedi e Norta (2018, p. 3), quando uma transação utiliza a blockchain , os custos e taxas adicionais que seriam pagas aos intermediários deixam de existir .
+As transações na blockchain são consideradas seguras e imutáveis principalmente pelo componente da criptografia.
+Primeiramente, a criptografia garante a identidade das partes e evita qualquer tentativa de fraude na relação.
+Para Singhal, Dhameja e Panda (2018, p. 34), a criptografia é o elemento mais relevante da blockchain em razão da sua capacidade de manter dados confidenciais.
+De forma geral, a criptografia permite que apenas as partes específicas possam ter as informações compartilhadas na transação, de forma privada.
+Oferece também integridade aos dados, pois qualquer tentativa de modificação intencional que vise possíveis fraudes será identificada pelos membros da blockchain , que serão capazes de ver exatamente o que foi modificado e quando aconteceu.
+A criptografia também confere a autenticação e garante que as partes assumam o que foi compartilhado na transação (SINGHAL, DHAMEJA e PANDA, 2018, p. 35).
+A blockchain é assim chamada em razão da rede criada pela interação denominada peer-to-peer (também conhecida por ponto a ponto em português) realizada por indivíduos chamados de nodes , que são responsáveis por validar as transações reunidas e compartilhadas em blocos.
+Singhal, Dhameja e Panda (2018, p. 128) tentam exemplificar a blockchain a partir da sequência de ações: a) novas transações são criadas e compartilhadas na rede para que Revista de Direito, Governança e Novas Tecnologias | e-ISSN: 2526-0049 | Encontro Virtual |v.
+8 | n. 1 | p. 47 – 67 | Jan/Jul.
+2022.51SMART CONTRACTS NO ÂMBITO DOS NON-FUNGIBLE TOKENS (NFTS): DESAFIOS E PERSPECTIVASDE NORMATIZAÇÃO todos os indivíduos participantes ( nodes ) vejam; b) os nodes , por sua vez, possuem a opção de aceitar ou rejeitar a autenticidade das transações; e, c) a partir disso podem reuni-las em blocos, para que sejam compartilhadas em outra rede.
+Quando os nodes concordam em relação a um bloco de transações e o validam, chamamos esse momento de consenso.
+Esse conceito de consenso dos nodes garante que todos os participantes da blockchain possuem os mesmos dados de transação e podem ver qualquer tentativa de modificação desses, o que diminui as chances de alguém hackear a transação.
+Há duas formas possíveis de consenso: a Proof of Work (PoW) e a Proof of Stake (PoS) 4 .
+De forma resumida, o mecanismo PoW consiste no desafio do primeiro node que descobrir a solução de um quebra-cabeças de códigos, que ganha um prêmio em criptomoeda, enquanto o PoS considera maior a probabilidade de um node ganhar recompensa a partir da quantidade de criptomoeda que cada um investe (DWIVEDI e NOR TA, 2018, p. 4).
+3 BLOCKCHAIN: OS NON-FUNGIBLE TOKENS (NFTS) E SUAS TRANSAÇÕES Além do contexto das criptomoedas, que são consideradas fungíveis, a blockchain é a base da infraestrutura dos Non-Fungible Tokens (NFT s – token não-fungível em português), presente no mundo dos jogos online, arte digital e mais.
+Gerado através da criptografia que utiliza a blockchain , o NFT se refere a um ativo digital único que não pode ser replicado e nem substituído.
+De acordo com Vermaak (2021), os NFTs são raros, indivisíveis e únicos, pois seu valor surge a partir de sua escassez.
+No mais, apresentam vantagens específicas que consistem na possibilidade de serem transferidos por valores que variam de acordo com seus elementos raros, com autenticidade intrínseca garantida pela tecnologia da blockchain , não podendo ser modificados.
+Os tokens não fungíveis consistem, portanto, em certificados digitais exclusivos que cada vez mais se tornam populares.
+O estudo de Wang et al (2021, p. 2) evidencia a crescente popularidade dos NFTs afirmando que tokens de diferentes tipos têm se destacado no mercado, chamando atenção de grandes marcas que querem se inserir nesse contexto.
+É o caso do NBA Top Shots, que passou a comercializar NFTs de vídeos curtos dos jogos da liga de basquete NBA, 4 Para entendimento mais profundo acerca do tema, Singhal, Dhameja e Panda (2018, p. 131-134) detalham os mecanismos de consenso, não especificados no presente estudo por não ter relação direta com os objetivos aqui apresentados.
+Revista de Direito, Governança e Novas Tecnologias | e-ISSN: 2526-0049 | Encontro Virtual |v.
+8 | n. 1 | p. 47 – 67 | Jan/Jul.
+2022.52Anaïs Eulalio BrasileiroEugênia Cristina Nilsen Ribeiro BarzaAurelio Agostinho Da Boaviagem acumulando mais de 7,6 milhões de vídeos.
+Além de vídeos e itens de jogos, NFTs podem ser também imagens digitais, que se movem ou não, ou até um tweet originado da plataforma do Twitter .
+Com base nesses tipos diferentes de tokens, Jeong (2022, p. 1 e 2) afirma que os NFTs podem ser classificados em seis categorias: jogos, colecionáveis, metaverso, utilidade, esportes (como o caso do NBA Top Shots) e arte.
+No contexto de jogos, Teshirogi (2022, p. 3) evidencia que antes dos NFTs, os itens digitais do mercado da franquia do jogo só poderiam existir e ser relevantes no próprio jogo.
+No entanto, com o surgimento dos NFTs, os itens comprados podem ser registrados na blockchain e deixam de pertencer apenas ao jogo, passando a pertencer ao jogador que efetuou a compra.
+Essa prática se torna relevante quando se considera que antes dos NFTs, os itens digitais comprados em jogos com dinheiro real poderiam ser perdidos para sempre caso o jogo deixasse de existir , por exemplo.
+Os NFTs colecionáveis ocupam a maior parte de tokens, correspondente a 76% do mercado digital.
+Oferecem oportunidades para colecionadores adquirirem e manter itens raros, destacando-se o projeto CryptoPunks e Bored Ape Yacht Club .
+Já os NFTs do metaverso, como Decentraland e Sandbox , os indivíduos que adquirem os tokens podem ter terras virtuais e construir prédios, podendo criar seu próprio avatar .
+Os tokens de utilidade envolvem nomes de domínios, músicas e itens que possibilitam os indivíduos que compram a ter acesso a certos direitos, como o Ether eum Name Service (ENS) (JEONG, 2022, p. 3).
+O mundo dos NFTs passou a ser ainda mais conhecido pela sociedade em 2021, quando Mike Winkelmann, conhecido pelo nome artístico Beeples, disponibilizou sua arte 5 para leilão.
+A arte digital, criada a partir de uma colagem ao longo de anos em arquivos em JPEG, foi vendida por $69,3 milhões de dólares (NORMAN, 2021).
+Armazenada dentro da blockchain , a arte digital de Beeple garante ao comprador sua autenticidade, demonstrando a relevância em ascensão do mercado digital.
+Para Kugler (2021), essa grande venda de um NFT contribuiu para a guinada no mercado artístico, modificando o modo em que a arte é comercializada e também aumentando ainda mais o interesse pela tecnologia da blockchain , que garante as vantagens dos NFT s. 5 Entitulada " Everydays – The First 5000 Days ", a obra consiste emu ma colagem de imagens, diariamente adicionada com novas imagens desde 2007, vendida na plataforma Christie's.
+Revista de Direito, Governança e Novas Tecnologias | e-ISSN: 2526-0049 | Encontro Virtual |v.
+8 | n. 1 | p. 47 – 67 | Jan/Jul.
+2022.53SMART CONTRACTS NO ÂMBITO DOS NON-FUNGIBLE TOKENS (NFTS): DESAFIOS E PERSPECTIVASDE NORMATIZAÇÃO De acordo com Robertson (2005, p. 3), arte e economia compartilham uma relação extremamente valiosa e inviolável, tendo em vista que muitas vezes as obras são consideradas bens que precisam ter contato com a sociedade para que adquira valor econômico.
+O autor explica tal relação de forma brilhante, afirmando que: A arte, aqui, é apresentada como uma mercadoria de luxo, como 'bem de experiência' que tem que ser testado ou consumido antes que tenha sua verdadeira qualidade revelada.
+É também tratada como 'bens informacionais', já que muito do seu valor é atrelado a uma ideia.
+A aquisição de arte, um 'bem de consumo' tangível com 'capital social' também é visto como um vício positivo; o quanto mais é consumido, mais é desejado (ROBERTSON, 2005, p. 3, tradução nossa 6 ).
+Nesse panorama, a arte digital criptografada segue com o seu valor determinado a partir de seus elementos e sua respectiva raridade.
+Para isso, há um mercado online dedicado apenas para NFTs, destacando-se a plataforma OpenSea que oferece aos membros a possibilidade de comprar , vender , transferir e/ou doar os tokens a partir de páginas de perfis de diferentes projetos.
+Os próprios projetos de NFTs costumam indicar plataformas secundárias, como o rarity .tools , para que os interessados possam consultar a raridade e possível valor da obra.
+Bsteh (2021, p. 3) apresenta em seu estudo que o mercado digital de artes previa mover em torno de $ 4.82 bilhões em 2019, verificando mais à frente que no primeiro semestre de 2021, o mercado de NFTs já havia excedido a expectativa.
+Tal pesquisa demonstra a relação entre arte e economia antes prevista por Robertson (2005) e ainda evidencia que pelo menos no momento, o mercado digital está longe de se estagnar , demonstrando ainda mais a relevância da temática para a sociedade.
+No intuito de atribuir mais eficácia ao entendimento de NFTs e seu marcado, e também para facilitar o restante do presente estudo, foi elaborado o diagrama a seguir , que trata de forma breve sobre como se dão as transações dos tokens: FIGURA 1 – AS TRANSAÇÕES DE NFTS 6 Do inglês: "Art, here, is presented as a luxury commodity, an 'experience good' that has to be tested or consumed before its true quality is revealed.
+It is also treated as an 'information good', since so much of its value is tied to an idea.
+The acquisition of art, a tangible 'consumption good' with 'social capital', is also seen as a positive addiction; the more that it is consumed, the more that it is desired."
+Revista de Direito, Governança e Novas Tecnologias | e-ISSN: 2526-0049 | Encontro Virtual |v.
+8 | n. 1 | p. 47 – 67 | Jan/Jul.
+2022.54Anaïs Eulalio BrasileiroEugênia Cristina Nilsen Ribeiro BarzaAurelio Agostinho Da Boaviagem Fonte: Elaborada pelos autores, 2022.
+O primeiro passo a ser identificado é a criação da obra digital pelo artista.
+Em conjunto com o idealizador do projeto, eles irão armazenar a referência da imagem ou vídeo no InterPlanetary File System (IPFS) 7 , que, apesar de não ser construído na tecnologia da blockchain , foi criado para atuar em conjunto com os seus protocolos, já que a blockchain não consegue armazenar uma grande quantidade de arquivos.
+Uma das plataformas que pode ser utilizada para acessar o IFPS é a NFT.Storage , que garante que uma vez registrados no IFPS, os dados serão sempre armazenados e verificados a partir de cada identificador que recebem, denominados de hash (NFT .STORAGE, 2022).
+A partir do link IPFS gerado, o indivíduo poderá prosseguir , criando o documento chamado smart contract 8 com esse link.
+Doravante, é possível dar início ao processo de mint , que corresponde à criação de um NFT por indivíduos interessados no projeto, aqui chamados de titulares.
+Esses indivíduos são titulares de carteiras descentralizadas digitais, originadas por plataformas como Metamask , e eles possuem a habilidade de vender e comprar NFTs, além de colecionar .
+Para isso, plataformas como o OpenSea , autodenominado maior mercado de NFTs da atualidade, 8 Conceito que será estudado em detalhes no item a seguir, neste estudo.7 O IPFS, ao contrário do HTTP, é orientado pelo recurso, e não pela localização.
+Um de seus principais propósitos é melhorar a forma de armazenamento de dados, de forma descentralizada (BIT2ME ACADEMY, 2022).
+Revista de Direito, Governança e Novas Tecnologias | e-ISSN: 2526-0049 | Encontro Virtual |v.
+8 | n. 1 | p. 47 – 67 | Jan/Jul.
+2022.55 SMART CONTRACTS NO ÂMBITO DOS NON-FUNGIBLE TOKENS (NFTS): DESAFIOS E PERSPECTIVASDE NORMATIZAÇÃO oferecem a opção de listar os NFTs à venda, sendo possível fazer outras transações lá mesmo.
+Nesses exemplos, a criptomoeda utilizada é Ether eum .
+O mercado de NFTs aparece no diagrama como a figura que se relaciona diretamente com o smart contract em razão do registro de transferência de propriedade dos NFTs.
+Nele, é registrado todas as transações, identificando as carteiras digitais, quem foi o comprador e quem foi que vendeu ou que doou.
+Como podemos verificar na Figura 01, smart contracts aparecem com grande destaque em razão de sua importância para todo o processo de transação de NFT s. 4 TRANSAÇÕES DE NFTS A PARTIR DOS SMART CONTRACTS Introduzido por Szabo (1996), a partir da conceituação legal de contratos em conjunto com a conjuntura da sociedade informacional e o advento de computadores, o termo smart contracts surge como promessas no formato digital que incluem protocolos nos quais as partes terão suas obrigações executadas de forma automática.
+Dwivedi e Norta (2018, p. 2) afirmam que podemos considerar um smart contract como um acordo digital em que são escritos os direitos e deveres que assegura às partes a devida integridade e execução.
+Apesar de a tradução literal do termo ser "contratos inteligentes", eles não se caracterizam por ser de fato contrato, e nem inteligente.
+Na verdade, eles são pedaços de códigos que descrevem de forma lógica a relação em questão através da linguagem de programação.
+O exemplo mais clássico trazido para compreender o funcionamento do smart contract é a máquina de vendas automática.
+Considerada por Szabo (1996) como sendo a forma primitiva dos smart contracts , ela recolhe primeiramente o dinheiro do indivíduo, e, a partir de um simples sistema de automatização, identifica o produto escolhido e faz ela mesma a sua entrega, eliminando a figura de uma terceira parte como um possível vendedor ou caixa que antes era necessária.
+Seguindo o mesmo raciocínio, os smart contracts possuem um sistema de automatização que assegura às partes o cumprimento das obrigações, sem a participação de terceiros, como bancos.
+Alharby e Van Moorsel (2017, p. 125) explicam que os smart contracts podem ser entendidos como um sistema de códigos que constrói uma relação entre partes que não necessariamente confiam uma na outra, fazendo com que o próprio sistema garanta a confiança, sem uma terceira parte.
+As cláusulas contidas no smart contract são Revista de Direito, Governança e Novas Tecnologias | e-ISSN: 2526-0049 | Encontro Virtual |v.
+8 | n. 1 | p. 47 – 67 | Jan/Jul.
+2022.56Anaïs Eulalio BrasileiroEugênia Cristina Nilsen Ribeiro BarzaAurelio Agostinho Da Boaviagem traduzidas para linguagem informática através de códigos binários (se/então), prevendo a condição e a respectiva consequência caso a condição aconteça (FRAZÃO, 2020).
+Os autores (ALHARBY e VAN MOORSEL, 2017, p.127 e 128) ainda acrescentam que os smart contracts podem ser compreendidos em duas diferentes categorias: podem ser smart contract code ou smart legal contract ; deterministas ou não deterministas.
+A primeira modalidade se classifica o próprio código em si, que é armazenado e tratado dentro da blockchain e depende da estritamente da linguagem de programas para existir e se auto executar .
+O smart legal contract envolve pedaços de códigos que complementem os contratos legais, podendo até mesmo os substituir , dependendo do contexto legal.
+Já o smart contract determinista é quando ele não necessita de informações do mundo externo para se executar , enquanto o não determinista depende dessas informações que são dispostas através de plataformas externas, como a Oracle .
+De acordo com Mack (2018), os smart contracts possuem três funcionamentos: eles armazenam dados, verificam esses dados e, posteriormente, se auto executam.
+De forma mais séria e definitiva, quando inseridos na tecnologia da blockchain os smart contracts se tornam ainda mais poderosos, pois é distribuído na rede para vários e diferentes nodes que verificam sua imutabilidade.
+Quando o smart contract verifica que houve a ação descrita que dispara o gatilho das obrigações, ele se auto executará e garantirá as promessas realizadas pelas partes de maneira irreversível.
+Para a autora, os smart contracts possuem ampla capacidade de resolver problemas que nunca conseguimos antes.
+Em relação à sua aplicabilidade, os smart contracts possuem um extenso panorama.
+Alharby e Van Moorsel (2017, p. 128) aduzem que, de forma resumida, eles podem ser utilizados como ferramenta na Internet para serviços e transações que envolvem bens digitais e reais, como o caso da companhia alemã que utiliza smart contracts para alugar , vender e comprar qualquer produto.
+Também podem estar presentes na indústria da música e direitos autorais, podendo aprimorar o pagamento para os autores de músicas de acordo com o seu desempenho.
+Ademais, temos também os smart contracts no comércio eletrônico, facilitando as transações sem que seja preciso envolver terceiras partes; na indústria de seguros; hipotecas; e até votação eletrônica.
+No entanto, a aplicabilidade escolhida para ser o foco deste estudo é a de smart contracts no contexto de transações de NFTs, como pôde ser observado na figura 01, Revista de Direito, Governança e Novas Tecnologias | e-ISSN: 2526-0049 | Encontro Virtual |v.
+8 | n. 1 | p. 47 – 67 | Jan/Jul.
+2022.57SMART CONTRACTS NO ÂMBITO DOS NON-FUNGIBLE TOKENS (NFTS): DESAFIOS E PERSPECTIVASDE NORMATIZAÇÃO principalmente nos casos de utilização na plataforma Ether eum , a mais utilizada para esses fins.
+É através dos smart contracts nas transações de NFTs que valorizamos o leque de opções contidas nos NFT s, como bem verificam Wang et al.
+(2021, p. 2): Para ser específico, ao utilizar NFTs em smart contracts (em Ethereum [119]), o criador pode facilmente provar a existência e propriedade de ativos digitais na forma de vídeos, imagens, artes [83], ingressos de eventos [103], etc.
+Adicionalmente, o criador também pode ganhar royalties a cada vez que exista uma transação bem-sucedida em qualquer mercado NFT ou através de transações entre pares.
+Histórico completo de comercialidade, a profunda liquidez e a interoperabilidade conveniente permitem que o NFT se torne uma solução promissora de proteção da propriedade intelectual (PI) (WANG ET AL., 2021, p.2, tradução nossa 9 ).
+Em outras palavras, os NFTs que são administrados por smart contract s possuem uma verificação de propriedade específica a partir de uma identificação permanente.
+É através do documento do smart contract que é possível garantir que o NFT é único, irreplicável e indivisível.
+O papel importante do smart contract pode ser visualizado no diagrama anteriormente apresentado (figura 01), em que se verifica que os titulares das carteiras criam os NFTs a partir do próprio smart contract , fazendo o mint .
+Ao fazer isso, eles estão basicamente escrevendo o código original do smart contract de maneira paralela, mas é o smart contract original que decide os itens, qualidades e relevância dos NFT s. Na plataforma Ether eum , há diferentes modelos de smart contract s para criação de NFTs, conhecidos como standar d , sendo o ERC 721 um dos mais populares.
+O ERC 721 standar d explica como criar os NFTs na plataforma e define como o smart contract funcionará a partir do endereço e do identificador do token.
+Na maior parte dos casos, os smart contract s na plataforma Ether eum são escritos na linguagem chamada Solidity 10 e seguem a interface do standar d (MUDGIL, 2021).
+Como Chirtoaca, Ellul e Azzorpadi (2020, p. 100) esclarecem, o ERC 721 é bem documentado e explicado, com detalhes sobre as funções de cada elemento, facilitando a aplicação na feitura dos smart contract .
+Todavia, apesar de indicar campos e funcionamentos, o ERC 721 não consegue impor requisitos necessários, deixando lacunas para serem preenchidas de forma subjetiva pelo programador .
+Por ser um tema que ainda está em desenvolvimento, o formato do smart contract ainda é variado e sem regras, não tendo nem ao menos um desenho definido de sua 10 Linguagem informática semelhante ao Javascript9 Em inglês: To be specific, by using NFTs on smart contracts (in Ethereum [119]), a creator can easily prove the existence and ownership of digital assets in the form of videos, images, arts [83], event tickets [103], etc.
+Furthermore, the creator can also earn royalties each time of a successful trade on any NFT market or by peer-to-peer exchanging.
+Full-history tradability, deep liquidity, and convenient interoperability enable NFT to become a promising intellectual property (IP)-protection solution Revista de Direito, Governança e Novas Tecnologias | e-ISSN: 2526-0049 | Encontro Virtual |v.
+8 | n. 1 | p. 47 – 67 | Jan/Jul.
+2022.58Anaïs Eulalio BrasileiroEugênia Cristina Nilsen Ribeiro BarzaAurelio Agostinho Da Boaviagem estrutura (MAGAZZENI e MCBURNEY , 2017, p. 52).
+Ao ir ainda mais fundo no conteúdo do smart contract na plataforma Ether eum , é importante perceber que nela é possível escrever os documentos com alto nível de complexidade através de linguagens de programação específicas, pois a plataforma possui um sistema descentralizado chamado de Ether eum Virtual Machine (EVM), responsável por executar os códigos (ZOU et al., 2019, p.3).
+Além da linguagem de programação Solidity , em tese é possível utilizar outras como a Vyper e Bamboo , mas grande parte dos programadores de smart contract acreditam que a Solidity é a mais avançada, enquanto as outras ainda estão em fase de desenvolvimento (ZOU et al., 2019, p.8 e 9).
+Tendo em vista o aumento de transações de NFTs com utilização de smart contract s, temos um número de pessoas cada vez maior investindo dinheiro nessa nova modalidade de mercado.
+Cegos pelo possível lucro, muitos dos interessados não estudam o campo a fundo antes de adentrar nele, o que facilita erros que poderiam ser evitados.
+Porém, mais preocupante do que isso, temos pessoas que dedicam seu tempo para estudar e dedicar seu tempo para essa nova área, e mesmo assim se deparam com dificuldades técnicas e transacionais não esperadas: os smart contract s não são iguais, não possuem uma forma técnica e são difíceis de serem compreendidos.
+5 OS DESAFIOS DOS SMART CONTRACT S: A LINGUAGEM CODIFICADA E A LINGUAGEM NA TURAL Em conformidade com o estudo de Magazzeni e McBurney (2017, p. 52), os smart contract s se encontram em um espectro que vai refletir o grau da linguagem de programação (que pode ser 100%) e o grau do documento relacionado com a linguagem natural, a que utilizamos no dia a dia.
+Nesse sentido, a linguagem pode ser escrita inteiramente em códigos; pode ser duplicada em códigos a partir de uma versão em linguagem natural; pode ser dividida entre as linguagens de código e a natural; e, por fim, pode ser oriunda de um contrato escrito em linguagem natural, mas com mecanismos automatizados de pagamento codificado.
+Para os autores, os acordos que são puramente em códigos ainda assim devem traduzir no smart contract as intenções compartilhadas pelas partes.
+Revista de Direito, Governança e Novas Tecnologias | e-ISSN: 2526-0049 | Encontro Virtual |v.
+8 | n. 1 | p. 47 – 67 | Jan/Jul.
+2022.59SMART CONTRACTS NO ÂMBITO DOS NON-FUNGIBLE TOKENS (NFTS): DESAFIOS E PERSPECTIVASDE NORMATIZAÇÃO Nesse contexto do espectro da linguagem dos smart contract s, Mik (2019, p. 4) observa o embate de duas profissões ligadas ao tema: programadores e advogados.
+De um lado, temos os programadores que entendem a linguagem técnica codificada e afirmam que smart contract s não precisam de advogados ou leis e muito menos tribunais, já que por si só a linguagem validaria o conteúdo e evitaria qualquer tipo de problema.
+No entanto, do outro lado temos os advogados, que afirmam que contratos devem ter termos e requisitos legais para serem válidos.
+Mik (2019, p. 4) acredita que esse embate é um mal-entendido, pois os smart contract s precisam dos dois tipos de profissionais, tendo em vista que envolvem direitos, termos legais e códigos – ou seja, envolve tanto a linguagem natural, quanto a codificada.
+De forma objetiva, Mik (2019, p. 4-6) apresenta três exemplos que demonstram a necessidade dos dois tipos de conhecimento e linguagem nos smart contract s: o termo legal "transação"; sistema de confiança; e a validação dos documentos.
+No primeiro exemplo, a autora traz a noção de que certos termos utilizados no âmbito dos smart contract s possuem significados diferentes nas duas linguagens diferentes, como a palavra "transação".
+Sob a perspectiva da linguagem codificada, "transação" significa a modificação ou execução do programa, enquanto a parte legal poderia interpretar que seria a troca de bens.
+Nesse caso, Mik afirma que o sentido utilizado nos smart contract s é o técnico, já que eles estão inseridos no contexto da blockchain e se referem a transações unilaterais de modificação de estado, contrárias às transações no sentido legal da palavra, que procura relações bilaterais.
+O segundo exemplo trazido pela autora (MIK, 2019, p. 5) é o sistema de confiança.
+Na perspectiva legal, é necessária a presença de uma terceira parte para aferir confiança às partes, como um sistema de segurança, geralmente na figura de uma pessoa.
+Já no sentido codificado, a confiança reside no próprio sistema de tecnologia, como já afirmado anteriormente.
+Não obstante, como Mik afirma, para que seja possível confiar no código, é necessário confiar na figura do programador e na figura dos nodes , que irão verificar qualquer tentativa de modificação.
+Isso é, apesar da linguagem codificada afirmar que é um sistema que não precisa que as partes confiem uma na outra, e sim na tecnologia, ainda é um elemento necessário para que a transação seja progredida.
+Por último, o terceiro exemplo que Mik (2019, p. 5 e 6) ressalta é a validação dos documentos, transações e demais eventos que acontecem.
+Sob a linguagem natural na perspectiva legal, admitir que a própria linguagem codificada é capaz de validar o próprio Revista de Direito, Governança e Novas Tecnologias | e-ISSN: 2526-0049 | Encontro Virtual |v.
+8 | n. 1 | p. 47 – 67 | Jan/Jul.
+2022.60Anaïs Eulalio BrasileiroEugênia Cristina Nilsen Ribeiro BarzaAurelio Agostinho Da Boaviagem sistema seria admitir que a conformidade com a lei seria sobreposta.
+Apesar desse possível entendimento, a autora ressalta que a validação nos smart contract s ocorre a partir de duas etapas: a primeira tem nos nodes a verificação da validade da transação unilateral, observando se ela segue critérios técnicos como tamanho, estrutura dos dados e sintaxe do documento; enquanto a segunda etapa se verifica na validação dos blocos da cadeia pelo processo conhecido em português como minerar (envolve os sistemas de consenso mencionados anteriormente, o PoW e PoS).
+Acerca da linguagem codificada de forma específica, Zou et al.
+(2019, p. 8) afirmam que os usuários consideram a linguagem de programação como grande e significativa barreira no campo do desenvolvimento dos smart contract s, ainda que considerem apenas a Solidity , a mais avançada e que ainda possui diversos problemas e limitações.
+Para os entrevistados na pesquisa de Zou et al.
+(2019, p. 9), a Solidity possui sete limitações que afetam diretamente os smart contract s: a) ausência de bibliotecas de uso geral; b) ausência de suporte de registro e notificação de erros; c) ausência de standar ds e regras; d) ausência de verificações de segurança; e) maneiras inconvenientes de convocar funções externas; f) ausência de suporte para gerenciamento de memória; e, por fim, g) possui um número restrito de variáveis locais.
+Em relação à primeira limitação, Zou et al.
+(2019, p.9) afirmam que o número de bibliotecas de smart contract s ainda não é suficiente para o ritmo de crescimento que eles estão tendo, considerando que os códigos existentes nas bibliotecas podem ser utilizados em novos smart contract s. Esse recurso não apenas facilita o trabalho dos programadores, como também evita a presença de falhas na linguagem, já que os códigos disponíveis nas bibliotecas possuem ampla visibilidade que indicariam qualquer falha a ser corrigida.
+Já a segunda limitação exposta pelos autores demonstra a dificuldade dos programadores em avançar na questão de erros da linguagem, já que quando encontram um, não possuem a opção de o registrar , o que resulta em outros programadores encontrando o mesmo erro em outras ocasiões.
+A ausência de standar ds e regras, destacada como terceira limitação pelos autores, é considerada como mais grave do que a ausência de biblioteca de uso geral (ZOU et al., 2019, p. 9), pois deixa os smart contract s a critério de cada programador .
+(2021, p. 18) explicam que muitas das lacunas que existem nos smart contract s advém da falta de Revista de Direito, Governança e Novas Tecnologias | e-ISSN: 2526-0049 | Encontro Virtual |v.
+8 | n. 1 | p. 47 – 67 | Jan/Jul.
+2022.61SMART CONTRACTS NO ÂMBITO DOS NON-FUNGIBLE TOKENS (NFTS): DESAFIOS E PERSPECTIVASDE NORMATIZAÇÃO concordância mútua entre as áreas de programação e advocacia, pois eles envolvem a semântica de direitos e obrigações, tal qual os contratos legais tradicionais.
+Essa é uma das grandes razões que explicam o porquê os smart contract s não são considerados de fato, contrato.
+Apenas a título comparativo, o direito brasileiro apresenta no art.
+108 do Código Civil os requisitos essenciais de um contrato, determinando que as partes devem ser capazes, que o objeto deve ser lícito, possível, determinado ou determinável, e precisa ter forma prescrita ou não defesa em lei.
+Apesar de permitir a forma livre, o negócio jurídico precisa conter esses requisitos para ser válido.
+A ausência de verificação de segurança dos tipos de dados dificulta a própria identificação de erros e falhas no smart contract s que está sendo elaborado, enquanto as maneiras inconvenientes de convocar funções externas demonstram que a Solidity e as demais linguagens codificadas precisam de mais desenvolvimento para estabilizar as funções dos smart contract s. Acerca das últimas duas limitações, Zou et al.
+(2019, p. 9) aduzem que os programadores encontram dificuldades em desenvolver os smart contract s quando não conseguem ter controle sobre a memória do documento, assim como possuir um número restrito de variáveis locais acaba afetando diretamente a eficiência do código que está sendo criado.
+Ademais de tais limitações, Alharby e Van Moorsel (2017, p. 132) destacam que as dificuldades em escrever os smart contract s na linguagem codificada acaba abrindo margens para grandes consequências caso as falhas não sejam verificadas antes da publicação do documento.
+É o caso de smart contract s que possuem falhas na execução automatizada e resultam na perda ou deslocamento de criptomoedas, que pode ser observado no caso do ataque de Distributed Autonomous Organisation (DAO) que resultou na transferência de 60 milhões de dólares para uma conta diversa da pretendida (ALHARBY e VAN MOORSEL, 2017, p. 132).
+6 NECESSIDADE DE HARMONIZAÇÃO JURÍDICA DE SMART CONTRACTS A Organização das Nações Unidas (ONU) define a governança da internet como o desenvolvimento de regras e princípios através de governos, setores privados e sociedade civil que regulam tomadas de decisões (UN, 2005, p. 4), evidenciando o papel de diferentes instâncias que regulamentam temas específicos.
+Apesar de essas instâncias não tratarem sobre Revista de Direito, Governança e Novas Tecnologias | e-ISSN: 2526-0049 | Encontro Virtual |v.
+8 | n. 1 | p. 47 – 67 | Jan/Jul.
+2022.62Anaïs Eulalio BrasileiroEugênia Cristina Nilsen Ribeiro BarzaAurelio Agostinho Da Boaviagem smart contracts de forma direta, algumas delas lidam atualmente com o comércio eletrônico e determinam de forma harmônica regras acerca desse âmbito, merecendo ser destacadas.
+Sobre o processo de harmonização das regras, temos o entendimento de que ele consiste em um mecanismo envolvendo uma situação de acordo, combinação ou adaptação de partes e elementos que, em conjunto, formam um só documento harmônico, de maneira coerente e sem perder suas características individuais.
+A harmonização jurídica consegue facilitar que diferentes espécies de regramentos funcionem juntos, ainda que partam de jurisdições distintas (BOODMAN, 1991, p. 703).
+Apesar de ser uma espécie de soft law , ou direito flexível, a harmonização é de fundamental importância para aproximar regras diferentes sobre o mesmo conteúdo e promover uma governança coesa.
+A Organização para a Cooperação e Desenvolvimento Econômico (OCDE) é uma das instâncias que trata sobre o comércio, sendo uma organização internacional que objetiva estimular tanto a economia quanto o comércio mundial.
+O lema da organização tem sido criar políticas para melhoria da vida, algo que pode ser alcançado com a participação conjunta da sociedade civil, mercado e cidadãos para firmar alguns padrões internacionais.
+Essa função harmonizadora tem sido direcionada para os vários temas de interesse da instância, prova disso são as ações para áreas como concorrência comercial, inovação tecnológica, assuntos digitais e governança, dentre outros.
+Os novos tempos trazem soluções como os princípios da OCDE sobre Inteligência Artificial, adotados em maio de 2019, ainda em tom recomendatório, mesmo teor constante de um relatório de discussão sobre blockchain e concorrência, parte de questões debatidas em reunião anteriormente realizada, contendo pontos de potenciais desafios, como a perturbação no modelo de fazer negócios, se haveria como obter acesso aos blockchains , como lidar com a colusão e o abuso de posição dominante ou condutas unilaterais (OECD, 2018, p. 5-7).
+Além da OCDE, a Comissão das Nações Unidas para Direito do Comércio Internacional ( United Nations Commission On International Trade Law , UNCITRAL) tem destacada competência no processo de harmonização e modernização do Direito do comércio internacional.
+Considerando áreas temáticas diversas, tem no comércio eletrônico um dos pontos de interesse desde 1998, nos trabalhos iniciais sobre assinatura digital, até o Projeto de Lei Uniforme (2000).
+Nos anos seguintes, outros aspectos foram incorporados aos debates Revista de Direito, Governança e Novas Tecnologias | e-ISSN: 2526-0049 | Encontro Virtual |v.
+8 | n. 1 | p. 47 – 67 | Jan/Jul.
+2022.63SMART CONTRACTS NO ÂMBITO DOS NON-FUNGIBLE TOKENS (NFTS): DESAFIOS E PERSPECTIVASDE NORMATIZAÇÃO como as barreiras jurídicas ao desenvolvimento do comércio eletrônico, os aspectos jurídicos do comércio eletrônico (em 2002).
+Em conjunto com essas organizações internacionais, temos o Instituto Internacional para a Unificação do Direito Privado (UNIDROIT), que possui como função modernizar , harmonizar e coordenar o direito privado, apresentando instrumentos jurídicos, princípios e regras uniformes.
+Apresenta dentre os temas de trabalho recentes questões de Direito e Tecnologia, sendo objeto de análise a criação de lei modelo sobre vários tópicos relacionados, desde informática empresarial até tecnologia de contabilidade distribuída (incluindo a tecnologia da blockchain ).
+7 CONCLUSÕES Demonstrado o interesse crescente na participação do mercado de arte digital de NFTs, resta evidente a relevância do tema principalmente para o âmbito do direito, que acompanha as movimentações e evoluções da sociedade.
+A inserção nesse campo de transações de NFTs tem levantado tentativas de afastamento da esfera legal, considerando-se em tese que apenas as figuras dos programadores que seriam essenciais para o desenvolvimento de smart contracts , ferramenta indispensável que se utiliza da tecnologia da blockchain .
+Esta pesquisa demonstra que há desafios na compreensão de smart contracts , e não apenas para os que não possuem estudos técnicos sobre a linguagem codificada: as dificuldades existem para todos.
+Muito disso se dá em razão da novidade do tópico, que possui poucos anos de desenvolvimento, mas este estudo corrobora também com o fato de que os smart contracts não possuem requisitos legais que ditem os modelos que devem seguir , sendo o critério subjetivo dos programadores algo que varia fortemente de um caso para o outro.
+Apesar de as plataformas de criptomoedas conterem previsões de standar ds com informações e blocos de códigos para feitura dos smart contracts , eles não possuem critérios que preencham as lacunas existentes e as que porventura venham a existir .
+Essa ausência de critérios contribui para uma feitura pobre da ferramenta dos smart contracts , essencial na transação de NFT s que tem movimentado milhões de dólares por ano.
+A perspectiva de possível solução para os desafios encontrados reside na harmonização de regras que tratam sobre a tecnologia da blockchain e os smart contracts .
+Revista de Direito, Governança e Novas Tecnologias | e-ISSN: 2526-0049 | Encontro Virtual |v.
+8 | n. 1 | p. 47 – 67 | Jan/Jul.
+2022.64Anaïs Eulalio BrasileiroEugênia Cristina Nilsen Ribeiro BarzaAurelio Agostinho Da Boaviagem Regras essas que sejam capazes de assegurar os usuários pelo menos o mínimo de segurança jurídica, uniformizando critérios básicos para a formulação da linguagem codificada.
+A esfera do direito precisa avançar em conjunto com a informática, e não de forma isolada.
+Inclusive, o direito possui diferentes instâncias internacionais que já começaram a estudar o contexto digital, devendo aprofundar de forma colaborativa para que harmonizem suas regras e consigam de fato auxiliar os indivíduos interessados nas transações de NFT s. Defende-se, portanto, a necessidade de haver uma regulamentação sobre os smart contracts no âmbito dos NFTs que seja efetivamente harmônica, garantindo a relevância do uso em conjunto da linguagem natural com a linguagem codificada.
+Certo que este estudo não esgota a temática, tendo em vista ser uma matéria em pleno desenvolvimento.
+O que esta pesquisa ressalta é a importância de mais investigações a respeito de smart contracts, sobretudo em transações de NFT s em razão de sua alta complexidade.
+8 REFERÊNCIAS ALHARBY , Maher; VAN MOORSEL, Aad.
+Blockchain Based Smart Contracts: A Systematic Mapping Study .
+Computer Science & Information Technology (CS & IT) , 2017.
+Disponível em: < .org/abs/1710.06372>.
+BARBOZA, Hugo Leonardo; SCHERREIER FERNEDA, Ariê.
+A garantia de autenticidade e autoria por meio de Non-Fungible Tokens (NFT s) e sua (in)validade para a proteção de obras intelectuais.
+International Journal of Digital Law , v. 2, n. 2, 2021.
+Disponível em: < .academia.edu/60778423/International_Journal_of_Digital_Law_Belo_Horizont e_v_2_n_2_maio_ago_2021>.
+Como o Bitcoin atingiu valor recorde em meio à pandemia.
+Disponível em: < .bbc.com/portuguese/geral-55349371>.
+Disponível em: < .bit2me.com/pt/que-es-ipfs/>.
+The Myth of Harmonization of Laws.
+The American Journal of Comparative Law , vol.
+4, p. 699, 1991. g/10.2307/840738.
+From Painting to Pixel: Understanding NFT artworks .
+Master Cultural Economics & Entrepreneurship, ResearchGate Erasmus University Rotterdam, 2021.
+Disponível em: < .researchgate.net/publication/351346278_From_Painting_to_Pixel_Understandi ng_NFT_artworks>.
+CHIR TOACA, Dan; ELLUL, Joshua; AZZOP ARDI, Geor ge.
+A Framework for Creating Revista de Direito, Governança e Novas Tecnologias | e-ISSN: 2526-0049 | Encontro Virtual |v.
+8 | n. 1 | p. 47 – 67 | Jan/Jul.
+2022.65SMART CONTRACTS NO ÂMBITO DOS NON-FUNGIBLE TOKENS (NFTS): DESAFIOS E PERSPECTIVASDE NORMATIZAÇÃO Deployable Smart Contracts for Non-fungible Tokens on the Ethereum Blockchain.
+2020 Ieee International Confer ence On Decentralized Applications And Infrastructur es (Dapps) , [S.L.
+g/10.1 109/dapps49028.2020.00012.
+Disponível em: 10.1109/dapps49028.2020.00012.
+DWIVEDI, Vimal Kumar; NOR TA, Alex.
+A Legally Relevant Socio-T echnical Language Development for Smart Contracts.
+2018 IEEE 3Rd International Workshops On Foundations And Applications Of Self* Systems (Fas*W) , [S.L.
+DWIVEDI, Vimal; NOR TA, Alex; WULF , Alexander; LEIDING, Benjamin; SAXENA, Sandeep; UDOKWU, Chibuzor .
+A Formal Specification Smart-Contract Language for Legally Binding Decentralized Autonomous Or ganizations.
+Institute of Electrical and Electronics Engineers (IEEE).
+g/10.1 109/access.2021.3081926.
+FILIPPI, Primavera de; HASSAN, Samer .
+Blockchain technology as a regulatory technology: from code is law to law is code.
+], v. 1, n. 1, p. 1-1, 14 nov .
+University of Illinois Libraries.
+CRIPT OMOEDAS E COMPETÊNCIA TRIBUTÁRIA.
+Revista Brasileira de Políticas Públicas , [S.L.
+Centro de Ensino Unificado de Brasília.
+O que são contratos inteligentes ou smart contracts?
+Disponível em: .jota.info/opiniao-e-analise/colunas/constituicao-empresa-e-mercado/o-que-sao-c ontratos-inteligentes-ou-smart-contracts-10042019.
+GOVERNA TORI, Guido; IDELBERGER, Florian; MILOSEVIC, Zoran; RIVERET , Regis; SAR TOR, Giovanni; XU, Xiwei.
+On legal contracts, imperative and declarative smart contracts, and blockchain systems.
+Artificial Intelligence And Law , [S.L.
+Springer Science and Business Media LLC.
+Value of NFT s in the Digital Art sector and Its Market Resear ch .
+ProQuest Number 28962678, ProQUest, 2021.
+Disponível em: < .proquest.com/docview/2640413280?pq-origsite=gscholar&fromopenview=true >.
+Non-fungible tokens and the future of art.
+Communications Of The Acm , [S.L.
+Association for Computing Machinery (ACM).
+Ciberspaço, cibercultura e a utilização da web 2.0 na aprendizagem colaborativa através da ferramenta google docs.
+155 f. Dissertação (Mestrado) - Curso de Tecnologias da Inteligência e Design Digital, Pontifícia Universidade Católica de São Paulo, São Paulo, 2010.
+Revista de Direito, Governança e Novas Tecnologias | e-ISSN: 2526-0049 | Encontro Virtual |v.
+8 | n. 1 | p. 47 – 67 | Jan/Jul.
+2022.66Anaïs Eulalio BrasileiroEugênia Cristina Nilsen Ribeiro BarzaAurelio Agostinho Da Boaviagem MACK, Olga.
+How Smart Contracts Will Change the World | Olga Mack | TEDxSanFrancisco .
+Disponível em: < Acesso em: 5 out.
+MAGAZZENI, Daniele; MCBURNEY , Peter; NASH, William.
+Validation and Verification of Smart Contracts: a research agenda.
+], v. 50, n. 9, p. 50-57, 2017.
+Institute of Electrical and Electronics Engineers (IEEE).
+Ssrn Electr onic Journal , [S.L.
+How to Write & Deploy an NFT (Part 1/3 of NFT Tutorial Series) .
+ethereum.or g. Disponível em: < g/en/developers/tutorials/how-to-write-and-deploy-an-nft/>.
+NFT Storage - Fr ee decentralized storage and bandwidth for NFT s on IPFS and Filecoin.
+Disponível em: < NORMAN, Jeremy .
+The NFT of Beeple' s "Everydays - The First 5000 Days" Sells for $69.3 Million at Christie' s Online : History of Information .
+Disponível em: < Acesso em: 10 abr .
+ORGANISA TION FOR ECONOMIC CO-OPERA TION AND DEVELOPMENT - OCDE.
+Blockchain Technology and Competition Policy .
+Available at: g/document/DAF/COMP/WD(2018)47/en/pdf.
+Understanding International Art Markets and Management .
+Disponível em: < A13&dq =Robertson>.
+Comunicação e cultura : a experiência cultural na era da informação.
+SINGHAL, Bikramaditya; DHAMEJA, Gautam; P ANDA, Priyansu Sekhar .
+Smart Contracts: Building Blocks for Digital Markets .
+Disponível em: < .fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOT wint erschool2006/szabo.best.vwh.net/smart_contracts_2.html>.
+TAPSCOTT , Don; TAPSCOTT , Alex.
+Blockchain r evolution how the technology behind Bitcoin and other cryptocurr encies is changing the world .
+]: New York, Ny Portfolio/Penguin June, 2018.
+NFT Mechanism and Legal Issues of NFT Transactions | Publications | OH-EBASHI LPC & P ARTNERS .
+Oh-Ebashi Feature article and Oh-Ebashi Newsletter 2022 January Issue (in Japanese).
+Disponível em: < .ohebashi.com/en/publication/year/2022/202201OHB-T eshirogi.php>.
+Acesso Revista de Direito, Governança e Novas Tecnologias | e-ISSN: 2526-0049 | Encontro Virtual |v.
+8 | n. 1 | p. 47 – 67 | Jan/Jul.
+2022.67SMART CONTRACTS NO ÂMBITO DOS NON-FUNGIBLE TOKENS (NFTS): DESAFIOS E PERSPECTIVASDE NORMATIZAÇÃO em: 10 abr .
+Report of the Working Gr oup on Internet Governance .
+Disponível em: < .wgig.or g/docs/WGIGREPOR T.pdf >.
+What Is a Non-Fungible Token (NFT)?
+Disponível em: < Acesso em: 9 abr .
+WANG, Qin; LI, Rujia; WANG, Qi; et al .
+Non-Fungible Token (NFT): Overview , Evaluation, Opportunities and Challenges.
+Disponível em: < .org/abs/2105.07447>.
+ZOU, Weiqin; LO, David; KOCHHAR, Pavneet Singh; LE, Xuan-Bach Dinh; XIA, Xin; FENG, Yang; CHEN, Zhenyu; XU, Baowen.
+Smart Contract Development: challenges and opportunities.
+IEEE Transactions On Softwar e Engineering , [S.L.
+47, n. 10, p. 2084-2106, 1 out.
+Institute of Electrical and Electronics Engineers (IEEE).
+Revista de Direito, Governança e Novas Tecnologias | e-ISSN: 2526-0049 | Encontro Virtual |v.
+8 | n. 1 | p. 47 – 67 | Jan/Jul.

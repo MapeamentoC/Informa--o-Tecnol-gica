@@ -1,0 +1,285 @@
+Analise Bibliométrica 1 990-2014: inteligencia competitiva Anderson Evandro do Prado; Fernando Celso de Campos Perspectiva s em Ciência da Inform ação, v.23, n.1, p. 71-88, jan./març .
+2018 71 Analise bibliométrica 1990 -2014: inteligência competitiva Anderson Evandro do Prado Mestrando em Engenharia de Produção Universidade Metodista de Piracicaba (UNIMEP) .
+Graduado em Ciência da Computação.
+Fernando Celso de Campos Doutorado em Engenharia Mecânica .
+Graduado em Ciência da Computação.
+Mestrado em Engenharia Mecânica .
+-5344/ 2375 A inteligência competitiva (IC) fornece inteligência estratégica par a a tomada de decisão, que proporciona vantagem competitiva nas empresas, porém, sem um processo adequado não é fácil desenvolver inteligência competitiva.
+O presente estudo tem o objetivo de identificar quais são os processos de IC existentes na literatur a, concentrando -se na produção cientifica de proposta de modelos de IC.
+Pretende -se atingir este objetivo por meio de uma análise bibliométrica ao longo do tempo sobre IC para identificar e analisar os modelos.
+Com a finalidade de identificar a literatura relevante, foram utilizados bancos de dados acadêmicos e motores de busca eletrônica.
+Para garantir a confiabilidade, foram utilizados apenas os artigos revisados por pares.
+A produção científica em torno do tema não é predominantemente feita por uma única revista ou um único porte de empresas, apresentando lacunas em alguns campos de IC em especial, a possibilidade do uso de normas que possam auxiliar os processos do ciclo de Inteligência, podendo ser uma grande oportunidade de desenvolvimento de trabalhos e pesquisas científicas.
+Portanto neste contexto explorado existe uma oportunidade significativa para realizar vários estudos experimentais para evoluir as soluções de práticas úteis para os analistas de IC.
+Analise Bibliométrica 1 990-2014: inteligencia competitiva Anderson Evandro do Prado; Fernando Celso de Campos Perspectiva s em Ciência da Inform ação, v.23, n.1, p. 71-88, jan./març .
+2018 72 Palavras -chave: Bibliometria.
+Analysis bibliometric 1990 -2014: competitive intelligence Competitive intelligence (CI) provides strategic intelligence for decision making, which provides competitive advantage in business.
+But without a proper process is not easy to develop competitive intelligence, this study aims to identify what are the existing IC processes in the literature, focusing on the scientific production of IC models proposal.
+It is intended to achieve this objective through a bibliometric an alysis over time on IC to identify and analyze the models.
+To identify the relevant literature, were used banks of academic data and electronic search engines.
+To ensure reliability, we used only peer -reviewed articles.
+A single magazine does not predomina ntly make the scientific literature on the theme or single -sized companies, with gaps in some IC fields in particular, the possibility of using standards that can help the processes of intelligence cycle, and may be a great opportunity to development work and scientific research.
+In this context explored, there is a significant opportunity to conduct several experimental studies to evolve the solutions of useful practices for CI analysts.
+Recebido em 25.06.2015 Aceito em 09.03.2018 1 Introdução As últimas décadas testemunharam a emergente economia do conhecimento como uma importante área de pesquisa (COZZARIN; PERCIVAL, 2006; PERCIVAL; COZZARIN, 2008; SUIRE; VICENTE, 2008; SEWDASS; DU TOIT, 2014).
+Isto porque o uso do conhecimento (COZZARIN; PERCIVAL, 2006; SCHMIEDEBERG, 2008; WEBER; KHADEMIAN, 2008, SEWDASS; DU TOIT, 2014), e sua gestão tornaramse aspectos a serem considerados na formulação estratégica das empresas, onde a informação passa a ser recurso competitivo especialmente para empresas atuarem no mercado globalizado, assim, as empresas necessitam dispor deste recurso competitivo em tempo hábil para suas práticas rotineiras (FRANCO et al., 2011).
+Analise Bibliométrica 1 990-2014: inteligencia competitiva Anderson Evandro do Prado; Fernando Celso de Campos Perspectiva s em Ciência da Inform ação, v.23, n.1, p. 71-88, jan./març .
+2018 73 A globalização fez com que a conc orrência se tornasse uma preocupação constante por meio do aumento da necessidade de avaliação contínua do ambiente competitivo e das informações que chegam de fora (MELO; MEDEIROS, 2007).
+Assim surge a necessidade de uma ferramenta que auxilie as organiza ções neste processo de avaliação continua do ambientes competitivo e que analise as informações externas e internas de forma a obter uma vantagem competitiva.
+Neste contexto a Inteligência Competitiva (IC) surge com uma ferramenta para auxiliar as organiza ções a definir seu posicionamento estratégico (ROUACH; SANTI, 2001), ou seja, um processo sistemático de coleta, tratamento, análise e disseminação da informação, servindo de apoio ao processo de planejamento estratégico (STAREC; GOMES; BEZERRA, 2006).
+O presente estudo tem por objetivo identificar quais são os modelos de IC existentes e verificar quais são as particularidades e semelhanças de cada modelo.
+Para atingir tal objetivo foi realizado uma análise bibliométrica no período de 1990 a 2014.
+O present e estudo tende a analisar e demonstrar a possibilidade de se utilizar normas internacionais de boas práticas em governança de TI (CobiT 4.1) em ambiente de IC, utilizando -se tais normas para padronizar e avaliar o processo de IC, por meio de seus processos e avaliações.
+Esse artigo está estruturado da seguinte forma nas próximas seções: revisão bibliográfica envolvendo a Inteligência Competitiva e Cobit 4.1; Metodologia; Análise Bibliométrica; Análise dos Modelos de IC; Conclusão.
+2 Inteligência competitiva IC pode ser compreendida como técnica oriunda dos meios militares e políticos largamente utilizada em período de conflitos, no campo empresarial como um processo sistemático de coleta, tratamento, análise e disseminação da informação sobre atividades dos concorrentes, fornecedores, clientes, tecnologias e tendências gerais dos negócios, visando atingir metas estratégicas da empresa (GOMES; BRAGA, 2004).
+A IC começou a ser adotada pelas empresas no início da década de 1980 como uma resposta às nova exigênci as de um mercado globalizado e de acirrada concorrência, devido a este cenário tornou -se necessário realizar um acompanhamento frequente da concorrência.
+No Brasil, a atividade de Inteligência Competitiva teve início durante a década de 1990 e esta ativida de vem crescendo principalmente após a fundação da Associação Brasileira dos Analistas de Inteligência Competitiva (ABRAIC ), em 2000.
+Conforme ABRAIC (2015) IC é uma atividade corporativa utilizadas por empresas no mundo para captar e interpretar informaçõ es sobre competidores, consumidores e mercados em que atuam, tornando -se uma importante ferramenta para alavancar a competitividade e seu posicionamento no mercado.
+A mesma ABRAIC (2015), define IC como sendo um processo informacional pro - ativo que condu z à melhor tomada Analise Bibliométrica 1 990-2014: inteligencia competitiva Anderson Evandro do Prado; Fernando Celso de Campos Perspectiva s em Ciência da Inform ação, v.23, n.1, p. 71-88, jan./març .
+2018 74 de decisão, seja ela estratégica ou operacional, com a finalidade de descobrir as forças que regem o negócio, como minimizar os riscos e conduzir o tomador de decisão a agir antecipadamente, protegendo assim o conhecimento gerado.
+A defi nição dada pela Strategic and Competitive Intelligence Professionals (SCIP, 2015): IC pode ser compreendida como um programa sistemático e ético para coleta, análise e gerenciamento de informação externa que pode afetar planos, decisões e operações de uma empresa.
+Portanto, IC é um processo que pode proporcionar maior competitividade às empresas para atuarem no mercado, por auxiliar o melhor entendimento dos concorrentes e do ambiente competitivo em geral.
+Outras definições para a atividade de Inteligência Competitiva são encontradas na literatura e estão sintetizadas no Quadro 1.
+Quadro 1 - definições de IC na visão de alguns autores Fuld (1985) Processo analítico de transformação de inteligência desagregada do concorrente em conhecimento estratégico releva nte, preciso e utilizável sobre sua posição, desempenho, capacidades e intenções, ou seja, informação especifica em tempo hábil.
+Jakobiak (1995) Atividade de gestão estratégica da informação, que tem por objetivo permitir que os tomadores de decisão se an tecipem às tendências dos mercados e à evolução das práticas e ações da concorrência.
+Fuld (1995) Em outro estudo apresentado acredita que a inteligência competitiva deve ser sedimentada em torno da cultura da organização.
+Os sistemas de inteligência são muitas vezes relacionados com tecnologias de informação, mas na realidade é muito mais uma questão humana.
+Kahaner (1996) Programa sistemático de reunião e análise de informação sobre as atividades dos seus concorrentes e tendências gerais dos negócios pa ra que a organização possa atingir seus objetivos estratégicos.
+IC pode ser compreendida como parte crucial da economia do conhecimento pois analisa os movimentos da concorrência, deste modo, as empresas tornam -se proativas no desenvol vimento do mercado em vez de simplesmente ser reativa (ABRAIC, 2015), a IC pode vir a ajudar as empresas a se organizarem melhor, principalmente internamente.
+Conforme citado Quadro 1 a IC pode ser compreendida como um processo existindo a necessidade de u m modelo de IC que contemple as etapas de inteligência para auxiliar as organizações, assim, fica claro que com a falta de um modelo estruturado adequado de inteligência acaba sendo difícil desenvolver a IC, ainda é importante destacar que sem o apoio da g estão de topo, o processo vai ser falho (PASSOS, 2005).
+Ou seja, o apoio da alta gestão é fundamental para o sucesso e existência dos processos de IC.
+3 Cobit 4.1 Com o crescente aumento das informações e a necessidade de processá -las em busca de vantagem competitiva surgiu a necessidade de utilização de tecnologias de gerenciamento de informações dentro das empresas surgindo organizações dependentes do uso de Tecnologias de Informação (TI) que procuram ter serviços e soluções tecnológicas cada Analise Bibliométrica 1 990-2014: inteligencia competitiva Anderson Evandro do Prado; Fernando Celso de Campos Perspectiva s em Ciência da Inform ação, v.23, n.1, p. 71-88, jan./març .
+2018 75 vez mais efi cientes e inovadoras em busca de vantagem competitiva.
+Quando os benefícios da TI são reconhecidos e utilizados para direcionar os valores das partes interessadas no negócio, os elementos -chave que constituem a essência da governança corporativa de TI são entendidos como, valor, risco e controle ( INFORMATION SYSTEM AUDIT AND CONTROL ASSOCIATION – ISACA, 2014).
+Atualmente a área de TI deveria ser compreendida como uma área estratégica da empresa pois a TI passaria a ser uma área que necessita de controles c onforme os conceitos de Governança de TI.
+A Governança de TI é parte integrante da Governança Corporativa, assim existe a necessidade de avaliar a TI, gerenciar seus riscos e ter maior controle.
+Andrade e Rossetti (2004), descreveram que o termo governanç a corporativa teve início nos anos de 1990 com o objetivo de "designar os princípios que regem as melhores práticas de gestão".
+Portanto a Governança de TI é parte integrante da governança corporativa, pois aplica conceitos semelhantes a governança corpor ativa com o objetivo de gerir estrategicamente e controlar a TI especialmente em relação a dois aspectos fundamentais: o valor que a TI proporciona a organização, e o controle e a mitigação dos riscos relacionados a TI (PETERSON, 2004; HARDY, 2006; LUNARDI et al., 2014).
+Governança de TI tem sido tratada como uma preocupação importante para as empresas o crescente interesse das empresas no assunto pode ser justificado pelo papel relevante da TI nas organizações existindo assim a necessidade de geri -lo corre tamente (LUNARDI et al.
+Muito se tem explorado em pesquisas sobre a necessidade que as empresa tem em alinhar a TI aos negócios e tratá -la como um ativo, (COMPUTERWORLD, 2007; COMPUTERWORLD, 2010; CIO BRASIL, 2009) –como uma importante área conform e algumas tendências internacionais apontam.
+A participação da área de TI nas estratégias empresariais são alguns dos mecanismos de governança de TI que incentivam as organizações a olharem para TI como parte da missão da organização, estratégia, valores, normas e cultura (WEILL; ROSS, 2004).
+Assim o CobiT vem em apoio as organizações trazendo um guia de boas práticas para auxiliar as empresas a atingirem uma governança de TI.
+O Cobit foi desenvolvido na década de 1990 pela ISACA e tem por objetivo fornec er boas práticas em governança de TI, por intermédio de um modelo de domínios e processos apresentando atividades em uma estrutura lógica e gerenciável (ISACA, 2014).
+As orientações do CobiT consistem em objetivos de negócios ligados a objetivos de TI pro vendo métricas e modelos de maturidade para medir a sua eficácia e identificando as responsabilidades relacionadas aos processos de negócios e de TI (ISACA, 2014).
+Por se tratar de orientações o Cobit possui uma ampla área de aplicação não somente em TI.
+O CobiT prove uma metodologia que visa assegurar as principais áreas foco: i.)
+que a área de TI esteja alinhada com os negócios; ii.)
+que a área de TI maximize o negócio e os benefícios; Analise Bibliométrica 1 990-2014: inteligencia competitiva Anderson Evandro do Prado; Fernando Celso de Campos Perspectiva s em Ciência da Inform ação, v.23, n.1, p. 71-88, jan./març .
+que os recursos de TI sejam usados responsavelmente; iv.)
+que os riscos de TI sejam gerenciados apropriadamente (ISACA, 2014).
+Por meio destes gerenciamento de processos o CobiT também trata as informações por meio de seus critérios de informação que tem o foco atender aos objetivos dos negócios, ou seja, as informa ções precisam se adequar a certos critérios de controles aos quais o CobiT denomina necessidades de informação da empresa.
+Baseado em abrangentes requisitos de qualidade, segurança, sete critérios de informação distintos e sobrepostos são definidos, como s egue: a) efetividade: lida com a informação relevante e pertinente para o desenvolvimento do processo em relação ao negócio bem como a mesma entregue em tempo, de maneira correta, consistente e utilizável ; b) eficiência: relaciona -se com a entrega da informação através do melhor (mais produtivo e econômico) uso dos recursos ; c) confidencialidade: está relacionada com a proteção de informações confidenciais para evitar a divulgação indevida ; d) integridade: relaciona -se com a fidedignidade e totalidade da informação bem como sua validade de acordo os valores de negócios e expectativas ; e) disponibilidade: relaciona -se com a disponibilidade da informação quando exigida pelo processo de negócio hoje e no futuro.
+Também está ligada à salvaguarda dos recursos necessários e capa cidades associadas ; f) conformidade: lida com a aderência a leis, regulamentos e obrigações contratuais aos quais os processos de negócios estão sujeitos, isto é, critérios de negócios impostos externamente e políticas internas ; g) confiabilidade: relaciona -se com a entrega da informação apropriada para os executivos para administrar a entidade e exercer suas responsabilidades fiduciárias e de governança.
+O CobiT especifica 34 processos de segurança (atividades e riscos) chave de controle de TI e que deve ser ger enciado para a governança de TI eficaz (ISACA, 2014).
+Os processos de TI estão organizados em quatro domínios (Figura 1), que correspondem às principais áreas de responsabilidade dentro da TI: Planejar e Organizar (PO) – Provê direção para entrega de solu ções e serviços; Adquirir e Implementar (AI) – Provê as soluções e as transfere para tornarem -se serviços; Entregar e Suportar (DS) – Recebe as soluções e as torna passíveis de uso pelos usuários finais; Monitorar e Analise Bibliométrica 1 990-2014: inteligencia competitiva Anderson Evandro do Prado; Fernando Celso de Campos Perspectiva s em Ciência da Inform ação, v.23, n.1, p. 71-88, jan./març .
+2018 77 Avaliar (ME) – Monitora todos os process os para garantir que a direção definida seja seguida.
+O CobiT dispõe também de um Modelo de Maturidade que serve para o gerenciamento e controle dos processos de TI e é baseado num método de avaliar a organização, permitindo que ela seja pontuada de um nível de maturidade não -existente (0) a otimizado (5).
+Essas práticas por meio do modelo de maturidade irão ajudar a aperfeiçoar os processos da IC, assegurando a entrega dos serviços provendo métricas para julgar quando as coisas saem erradas.
+Figura 1 – Grupos e Processos do CobiT Fonte: COBIT (2008).
+Fazer com que a TI seja compreendida como estratégica é uma das finalidades da governança de TI, incentivando as organizações a olharem para TI como parte da missão da organização, estratégia, valores, norm as e cultura (WEILL; ROSS, 2004).
+Se a TI for compreendida como área estratégica da empresa ela poderá ser alto valor para a área de IC uma vez que as informações internas podem ser manipuladas e auxiliar o processo de IC com a situação interna da empresa.
+Portanto pretende -se identificar se é possível aplicar os objetivos de controles do CobiT juntamente com as etapas do processos de IC, com a finalidade de auxiliar as etapas de construção de inteligência, provendo métricas e modelos, checando sua eficáci a e identificando as responsabilidades dos donos dos processos relacionados a IC.
+4 Abordagem metodológica O método utilizado foi a Revisão Sistemática da Literatura (RSL) sobre o tema Inteligência Competitiva (IC).
+Na RSL são aplicados métodos de pesquisa com maior rigor científico (COOK et al.
+Portanto espera -se melhores resultados, já que os erros e tendências derivados das buscas e avaliações subjetivas são minimizados.
+Analise Bibliométrica 1 990-2014: inteligencia competitiva Anderson Evandro do Prado; Fernando Celso de Campos Perspectiva s em Ciência da Inform ação, v.23, n.1, p. 71-88, jan./març .
+2018 78 Figura 2 - Fases da Revisão Sistemática da Literatura Fase I - Planejamento da Revisão 1º Passo: Identificação da necessidade de uma revisão da literatura 2º Passo: Desenvolvimento de um Protocolo da Revisão da Literatura Fase II - Coleta e Seleção 3º Passo: Busca dos artigos nas bases de dados de acordo com o protocolo estabelecido 4º Passo: Seleção dos artigos relevantes para a pesquisa Fase III - Analise 5º Passo: Extração dos dados 6º Passo: Síntese dos Dados Fase IV - Resultado 7º Passo: Conclusões Fonte: Adaptado de TRANFIELD ; DENYER ; SMART (2003) e LEITE (2012).
+Na RBS uma coletânea artigos científicos são a principal fonte de informação (OKUBO, 1997).
+Após a identificação de artigos em bases científicas, a análise bibliométrica dedica -se a aplicação de técnicas estatísticas e matemáticas para descrever aspectos da literatura e de outros meios de comunicação (OTLET, 1986).
+As fases envolvidas no processo de desenvolvimento da pesquisa serão descritas a seguir conforme Figura 2.
+Portanto no segundo passo foi necessári o desenvolver um protocolo para a revisão da literatura.
+Esse protocolo foi desenvolvido e será apresentado no Quadro 1.
+Essa pesquisa foi realizada em fevereiro de 2015.
+Quadro 1 – Protocolo Revisão da Literatura Palavras-Chaves pesquisadas Competitive Intelligence, Model Operador Booleano AND Base de Dados Portal de Periódicos Capes Domínios da PesquisaPrincipais Bases de Dados Nacionais e Internacionais Áreas de pesquisaInformação como Recurso Estratégico; Vantagem Competitiva; Ciclos de Inteligência Critérios de exclusão1- Artigos que não contemplavam modelos de IC.
+2- Artigos que não possuem texto completo.
+Idioma Português e Inglês Tipos de documento Artigos e Livros Anos de Publicação 1990 / 2014 Fonte: Os autores.
+Como descrito anterio rmente foi utilizado a bibliometria como ferramenta auxiliar para o desenvolvimento da pesquisa, a bibliometria é um campo da ciência da informação que atua sobre a produção Analise Bibliométrica 1 990-2014: inteligencia competitiva Anderson Evandro do Prado; Fernando Celso de Campos Perspectiva s em Ciência da Inform ação, v.23, n.1, p. 71-88, jan./març .
+2018 79 bibliográfica de um determinado autor, de uma determinada localização geográfica ( país), campo de pesquisa e/ou área do conhecimento (PRITCHARD, 1969).
+Com o objetivo de identificar tendências e também medir a produtividade e por meio dos resultado criar métodos de comparação entre as informações obtidas.
+O processo da pesquisa foi real izado em 7 etapas, descritas em detalhes na sequência.
+A primeira etapa consistiu na pesquisa das palavras -chave "Competitive Intelligence + Model " nos periódicos internacionais selecionados, considerando os últimos 25 anos.
+Essa pesquisa foi realizada com foco nas revistas internacionais ( Journals ) que estavam disponíveis nas bases do Portal.
+Em relação à etapa dois foram selecionados os tópicos para aproximar os conteúdos dos artigos ao tema a ser desenvolvido.
+Na etapa três foi feita uma tabulação com o objetivo de visualizar os idiomas em que os artigos internacionais foram escritos.
+Na etapa quatro foi feita uma tabulação com o objetivo de conhecer as coleções que estavam participando na produção dos artigos.
+Na etapa cinco o recurso utilizado e o foco dado ao tipo de documento aplicado.
+Na etapa seis a seleção dos artigos pela data de publicação.
+Etapa sete análise dos modelos encontrados na literatura, a partir de todos os títulos, resumos, palavras chave, suas metodologias de pesquisa e conclusões.
+Ao final dessas etapas de triagem e da leitura dos artigos, seguiu -se então para a tabulação e avaliação de suas características, os resultados encontrados estão apresentados e discutidos na próxima seção.
+5 Analise bibliométrica Esta pesquisa partiu de dad os gerados no processo de consulta ao Portal de Periódicos da Capes e o primeiro dado a ser computado foi o número total de artigos internacionais disponíveis na base.
+Observa -se que utilizando as palavras chaves: "Competitive Intelligence+ Model s" encontr ou 1091 artigos disponíveis, sendo desses artigos os revisados por pares totalizaram 613, e essa foi a base inicial trabalhada.
+Em continuidade à seleção foram adicionados os tópicos para aproximar os conteúdos dos artigos ao tema a ser desenvolvido.
+Encon trou-se 135 artigos com o tópico Competitive Intelligence que representa uma participação de 34% do total selecionado.
+Pode -se notar que a segunda participação mais significativa foi o tópico Models com 22%, seguido pelo tópico Studies .
+Para o restante dos tópicos encontrouse 143.
+Posteriormente foi feita uma tabulação com o objetivo de conhecer as coleções que estavam participando na produção dos artigos na Figura 4 apresentam -se quais bases de dados estão compondo as publicações.
+Observa -se que a maior ocorrência de publicações aparece principalmente na base Scopus (Elsevier) com 63 publicações seguido por OneFile (Gale) com 56 publicações, seguida da base Tecnology Research Analise Bibliométrica 1 990-2014: inteligencia competitiva Anderson Evandro do Prado; Fernando Celso de Campos Perspectiva s em Ciência da Inform ação, v.23, n.1, p. 71-88, jan./març .
+2018 80 database com 45 e Science Direct (Elsevier) com 40 publicações e as demais parti cipações totalizam 80 publicações e estão nas bases restantes.
+Outro dado apresentado e que contribui para a seleção dos artigos é a data de publicação conforme se apresenta na figura 5.
+Figura 5 – período de publicação os artigos Fonte: Os autor es.
+Verificou-se então que existe um pico na produção de artigo no tema pesquisado no período de 2008 a 2012 onde apresenta -se um total de 48% dos artigos pesquisados, já a produção referente ao ano de 2012 a 2014 representam 14% do total de artigos pesquisados.
+D estaca -se que o posicionamento temporal considerou apenas àqueles anos nos quais ocorreram publicações e que temos desde 1990 até o ano de 2014.
+Outra informação analisada foram os artigos encontrados de acordo com a pesquisa realizada com base em todos o s periódicos visando analisar quais estudos traziam modelos de IC.
+Percebeu -se que mais da metade dos periódicos não apresentavam modelos, mas muitos estudos de casos demostrando a importância da IC, existem artigos que trazem modelos de diferentes autores , anos, e ainda possuem modelos melhorados e modelos de autores que renovam seu modelo em parceria com os outros autores.
+Na próxima seção serão discutidos os modelos e como cada autor tratou cada etapa.
+5.1 Análise dos ciclos de IC Esta seção está organi zada em dois grandes agrupamentos dos modelos que serão apresentados: Internacional e Nacional.
+Além disso, dentro dessas subseções serão apresentados os trabalhos em ordem cronológica crescente de publicação, de modo a ser uma tentativa de linha do tempo evolutiva dos trabalhos.
+Os autores Du Toit e Muller (2004), descrevem que sem um processo adequado de Inteligência e uma estrutura que o comporte, é difícil desenvolver inteligência, ainda conforme (PASSOS , 2005) é importante destacar que sem o apoio da g estão de topo as dificuldades Analise Bibliométrica 1 990-2014: inteligencia competitiva Anderson Evandro do Prado; Fernando Celso de Campos Perspectiva s em Ciência da Inform ação, v.23, n.1, p. 71-88, jan./març .
+2018 81 serão grandes, afinal, o apoio da alta gestão é fundamental para o sucesso e existência dos processos de IC.
+Dada a necessidade de se conhecer mais sobre os processos de IC em relação a forma de como o processo de IC deve ser estruturado, conforme um estudo apresentado Pellissier; Nenzhelele (2013), verificouse que os especialistas em IC descrevem os processos de IC como um ciclo, como um processo infinito, onde ao fim de cada etapa se inicia a outra.
+Os seguintes modelos de processo de IC foram identificados ao se analisar a literatura internacional , perfazendo um total de 22 modelos.
+De acordo com Calof (1998), o processo de IC é constituído de obtenção de um pedido IC, a coleta de informações, análise e síntese da informaç ão, comunicação da inteligência, e Gestão dos processos.
+Calof e Skinner (1998) veem o processo IC como um ciclo composto por quatro fases: planejamento e direção, a coleta de dados, análise e disseminação de inteligência.
+Kahaner (1998) também define IC como um processo de ciclo de quatro fases: planejamento e direção, coleta de dados e informações, análise e divulgação de informações.
+Rouach e Santi (2001) destacam 5 atitudes de IC, embora descrito como atitudes podem ser facilmente compreendidas como um modelo, e são 5 etapas: Incubação, Concepção, Implementação, Estrutura, Avaliação.
+A fase de incubação pode ser compreendida como fase de "Avaliação das Necessidades de IC".
+Já a fase de Concepção pode ser compreendida como "Definição das Responsabilida de do Projeto".
+Implementação pode ser compreendida como "Definição de ferramentas e Analistas".
+Estrutura pode ser compreendida como "Definição dos Peritos que trabalham na Unidade de IC".
+Avaliação pode ser entendido como "Lições aprendidas", rever o que esta sendo feito pontos fortes e fracos, e assim aprender com as experiências anteriores.
+Cruywagen (2002 ) considera que o processo de IC como um ciclo com uma série de fases distintas, incluindo o planejamento e direção, coleta, avaliação, análise e dif usão.
+Dishman e Calof (2002) estabelecem seis fases do processo de CI: planejamento e foco, coleta, análise, comunicação, processo ou estrutura e consciência e da cultura organizacional.
+Muller (2002) identifica seis fases no processo de CI: planejamento e foco; coleção; análise; comunicação; processo e estrutura e consciência e cultura organizacional.
+De acordo com Viviers, Saayman e Muller (2005), o processo de CI é um ciclo composto de planejament o e foco; coleta; análise ; comunicação; e consciência, cultura, processos e estrutura.
+Este modelo de processo CI também omite a captura de informações e armazenamento e feedback.
+Wright e Calof (2006) identificam quatro fases do processo de CI: planejamen to ou foco, recolha, análise e comunicação.
+Botha e Boon (2008) veem o processo CI como um ciclo que consiste em sete fases: as necessidades de inteligência e determinação de Analise Bibliométrica 1 990-2014: inteligencia competitiva Anderson Evandro do Prado; Fernando Celso de Campos Perspectiva s em Ciência da Inform ação, v.23, n.1, p. 71-88, jan./març .
+2018 82 temas de inteligência chave; planejamento e direção; coleção; processamento de i nformação; análise; divulgação; e os usuários de inteligência e tomadores de decisão.
+Bose (2008) considera que o processo de CI como um ciclo composto de planejamento e direção, coleta, análise, disseminação e feedback.
+De acordo com Sawka e Hohhof (200 8), o processo de CI é um ciclo composto pelas seguintes fases inter -relacionadas: planejamento e direção, coleta, análise e produção e divulgação.
+De acordo com Cucuí (2009), a CI é um processo que consiste nos seguintes passos: monitoramento do ambiente de negócios, recolha, análise e filtragem e disseminação de informações.
+Inteligência competitiva, de acordo com Shi, Mou e Wan (2009), é um processo de ciclo formado por definição demanda CI, a recolha de informação, processamento de informações e prest ação de serviços finais para atender a demanda.
+De acordo com Haddadi, Dousset e Berrada (2010), a CI é um processo cíclico formado por entender a necessidade, pesquisa e recolha de informação, processamento de informações e divulgação de informações.
+Strauss e Du Toit (2010) propõem uma sétima fase com base no modelo de Muller (2002): a fase é "desenvolvimento de competências".
+De acordo com eles, o processo de IC não está completo sem o desenvolvimento de competências.
+O processo de IC, de acordo com M cGonagle e Vella (2012), é dividida em cinco fases, cada uma ligada à outra por um ciclo de feedback.
+Essas fases são: estabelecer as necessidades de IC, coletando os dados brutos, avaliar e analisar os dados brutos, comunicando a inteligência e agir.
+O modelo de Pellissier e Nenzhelele (2013), apresenta um ciclo onde existem 5 etapas de processos de IC: Planejamento e direção; Coleta da Informação; Triagem, Captura e Armazenamento das Informações; Analise das Informações; Disseminação da Inteligência.
+O m odelo do autor também comtempla os fatores ambientais que outros modelos apesar de citarem não são apresentados, como fatores culturais, processos e estrutura organizacionais, feedback de cada etapa do processo de IC para acompanhamento de todo processo e desenvolvimento de competências.
+O modelo proposto está baseado em outros 13 modelos que foram analisado s pelo autor, modelos estes que foram aqui analisados também.
+De acordo com SCIP (2015), a CI é um ciclo com cinco fases: planejamento e direção, as ati vidades de coleta, análise, disseminação e feedback.
+Modelos de autores Nacionais Gomes e Braga (2004), descrevem seu modelo em 5 etapas: planejamento e coordenação; coleta, processamento e armazenamento da informação; análise e validação da informação; di sseminação e utilização da informação estratégica e avaliação.
+Tratam cada etapa separadamente Analise Bibliométrica 1 990-2014: inteligencia competitiva Anderson Evandro do Prado; Fernando Celso de Campos Perspectiva s em Ciência da Inform ação, v.23, n.1, p. 71-88, jan./març .
+2018 83 em uma linguagem simples e de fácil compreensão, detalhando um passo a passo para cada etapa e sobre quais são os atores e as vigilâncias envolvidos em todo o pr ocesso.
+Melo e Medeiros (2007) acrescentam avaliação do ciclo no processo de IC (KAHANER, 1998) para torna -lo um ciclo de cinco fase composta de planejamento, coleta, análise, disseminação e avaliação.
+Motte (2007), propõem um ciclo de inteligência em 6 e tapas: Planejar; Coletar; Filtrar; Interpretar; Comunicar e memorizar; Avaliação.
+No presente estudo o autor propõe um a fase de filtro e outra de interpretação, que outros autores descrevem tais atividades na fase de análise das informações.
+Ficou claro qu e alguns estudos destacam muitas fases no processo de IC, enquanto outros identificam menos fases, também, ainda ficou evidente que, alguns estudos citam as mesmas fases de maneira diferente, o que agrava a confusão no campo da CI.
+5.1 Achados da pesquisa bibliométrica Nesta seção serão discutidos os principais achados da pesquisa.
+Ao final da pesquisa foram encontrados um total de 22 modelos disponíveis, sendo 2 modelos nacionais e 20 modelos internacionais conforme ilustrado pela Figura 6 .
+Figura 6 – Total de Modelos Fonte: Dados da pesquisa.
+Em todos os estudos houve uma evidência onde os modelos possuem coleta de informações e fases de divulgação de inteligência em seus modelos de IC, portanto, constatou -se aqui que houve um consenso entre os autores s obre tais etapas do processo.
+Seguido por análise de informações (93%) e planejamento e direção (74%), alguns estudo apresentam em seus modelos seguintes fases: estabelecer as necessidades de IC; processo e estrutura; consciência e cultura organizacional e feedback representando 24%, apenas 21% dos estudiosos tiveram uma fase de "processamento de informação" e 8% dos estudio sos tiveram uma fase de 'Ação', enquanto que apenas 9% dos Analise Bibliométrica 1 990-2014: inteligencia competitiva Anderson Evandro do Prado; Fernando Celso de Campos Perspectiva s em Ciência da Inform ação, v.23, n.1, p. 71-88, jan./març .
+2018 84 estudiosos tiveram uma fase de desenvolvimento de competências em seu modelo de processo de IC.
+Ficou evidente em todos os estudos que a Alta Gestão estar envolvida no processo de IC pode ser cons iderada como um fator crítico de sucesso, ainda a cultura organizacional é outro fator que deve ser considerado uma vez é necessário a colaboração de toda a organização para o sucesso da IC.
+Passos (2005) destaca que o princípio para se iniciar um processo s de IC é a alta gestão entender o seu valor.
+As principais lacunas encontradas estão nas necessidades de desenvolvimento de um modelo que contemple boas práticas em governança com o objetivo de auxiliar as organizações durante as etapas do processo, e qu e contemple também uma avaliação das etapas verificando a maturidade dos processos.
+Ainda os fatores críticos de sucesso e as ferramentas utilizadas nas fases do ciclo de IC, não foram citados ou analisados pelos autores pesquisados, aprofundando ainda mais o tema sobre as ferramentas mais utilizadas ou sobre os Fatores Críticos de Sucesso envolvidos no desenvolvimento de uma área de inteligência.
+O CobiT demonstra -se como uma ferramenta que pode ser fundamental aos processos de IC, uma vez que o mesmo trat a as informações de forma estratégica por meio de seus controles.
+O desenvolvimento de um modelo de IC alinhado as normas do CobiT poderiam ser de interesse da academia uma vez que nenhum dos autores apresentaram tal alinhamento, ainda o CobiT corrobora co m o fato que todos seus controles estão baseados em experiências vividas que deram certo, sendo este mais um fator relevante no alinhamento entre as duas ferramentas.
+6 Conclusão Diversos modelos de processo IC foram encontrados na literatura (22 modelos) e descritos anteriormente na pesquisa realizada.
+Ficou evidente que a maior parte das fases destes modelos diferem uma da outra porque estudiosos usam nomes diferentes para as mesmas fases, outros adicionam ou subtraem fases.
+Há divergência sobre o número de fases entre os modelos, e a necessidade de se avaliar quais são os fatores críticos de sucesso envolvidos em um ambiente de IC.
+A produção científica em torno do tema não é predominantemente feita por uma única revista apresentando lacunas em alguns cam pos de IC em especial a possibilidade de utilização de normas que possam auxiliar os processos do ciclo de Inteligência por meio do guia do CobiT propor um modelo de IC, tornando -se um facilitador em cada uma das etapas do processo., ou ainda o desenvolvim ento de um modelo para avaliação de cada etapa dos processos de IC com o objetivo de medir o desempenho dos processos por meio de uma análise de maturidade, sendo uma grande oportunidade de desenvolvimento de trabalhos e pesquisas científicas.
+Neste contex to explorado existe uma oportunidade significativa para Analise Bibliométrica 1 990-2014: inteligencia competitiva Anderson Evandro do Prado; Fernando Celso de Campos Perspectiva s em Ciência da Inform ação, v.23, n.1, p. 71-88, jan./març .
+2018 85 realizar vários estudos experimentais para evoluir as soluções de práticas úteis para os analistas de IC.
+Ainda existem as ferramentas que são utilizadas no processo de IC, e não houve nem um estudo q ue analisou quais são as ferramentas mais utilizadas, ou quais ferramentas utilizar em qual fase do processo.
+A contribuição desta pesquisa está no apontamento das oportunidades referente à continuidade dos trabalhos de pesquisas científicas e de desenvol vimento dos processos de apoio a tomada de decisão Por meio de ferramentas de IC juntamente com normas que podem servir como um facilitador podendo até mesmo quebrar algumas barreiras como no caso da necessidade de relação da alta direção com a área de IC que pode ser compreendida como um fator crítico de sucesso, conforme citado nas discussões anteriores ao longo do artigo.
+Assim como trabalho futuro destaca -se a elaboração de um modelo de avaliação de cada etapa do processo de IC e que o mesmo auxilie as organizações por meio de uma auto avaliação da situação da IC e assim mostre quais são as melhorias necessárias para melhorar todo o processo.
+Destaca -se também a proposta de um modelo alinhado a normas internacionais de Governança de TI (CobiT) com o obje tivo de auxiliar as organizações em cada etapa do processo de IC.
+Outro trabalho seria o mapeamento das ferramentas utilizadas e um levantamento via survey nas empresas que para validar quais são as ferramentas mais utilizadas nos processos de IC.
+Portanto conclui -se que existem muitos modelos na literatura que auxiliam as organizações, porém nem um deles contempla boas práticas ou modelo de avaliação das etapas da IC, assim conclui -se que existe a necessidade de maior aprofundamento no tema e desenvolvimen to de novas pesquisa e experimentos com o objetivo de trazer contribuições a área de IC por meio das lacunas encontradas nesta pesquisa.
+Referências ASSOCIAÇÃO BRASILEIRA DE INTELIGÊNCIA COMPETITIVA (ABRAIC).
+Disponível em: < Acesso e m: 9 mar.
+ANDRADE, A.; ROSSETTI, J. P. Governança corporativa : fundamentos, desenvolvimento e tendências.
+BOSE, R. Competitive intelligence process and tools for intelligence analysis .
+Industrial Management & Data Systems , v. 108, n. 4, p. 510528, 2008.
+Competitive intelligence in support of strategic training and learning .
+South African Journal of Information Management , v. 10, n. 3, p. 1-6, 2008.
+Increasing your CIQ: the competitive intelligence edge.
+The Economic Development Journal of Canada , 1998.
+Competitive intelligence for government officers: a brave new world .
+Optimum , v. 28, n. 2, p. 38 -42, 1998.
+Analise Bibliométrica 1 990-2014: inteligencia competitiva Anderson Evandro do Prado; Fernando Celso de Campos Perspectiva s em Ciência da Inform ação, v.23, n.1, p. 71-88, jan./març .
+Apenas 38% das empresas brasileiras tem governan ça de TI .
+Disponível em: < -brasileiras -tem-governanca -de-ti/>.Acesso em: 18 nov. 2014.
+Modelo, objetivos de controle, diretrizes de gerenciamento e modelos de matur idade .
+Disponível em: <www.isaca.org>.
+Governança de TI é prioridade para empresas brasileiras até 2008 .
+Disponível em: < -0829.3294816102/2007.
+Disponível em: <computerworld.com.br/blog/opiniao/2010/09/13/amadurecimento -da-tie-a-necessidade -de-governanca -por-renato -jose-ferreira>.
+COOK, D. J.; MULROW, C. D.; HAYNES, R. B. Systema tic reviews: synthesis of best evidence for clinical decisions method.
+Annals of Internal Medicine , v. 126, n. 5, p. 375 -380, 1997.
+COZZARIN, B. P.; PERCIVAL, J.C. Complementarities between organizational strategies and innovation .
+Economics of Innovation and New Technology , v. 15, n. 3, p. 195 ‐217, 2006.
+Establishing the profile of a successful competitive intelligence practitioner .
+In: COMPETITIVE INTELLIGENCE WORLD 2002 CONFERENCE , Midrand, Johannesburg, South Africa, 20 Nov. 2002 .
+Proceedi ngs… Johannesburg, 2002.
+CRUZ, C. & RIBEIRO, U. Metodologia Científica: Teoria e Prática.
+RIO DE JANEIRO: AXCEL BOOKS, 2004.
+A framework for enhancing competitive intelligence capabilities using decision support system based on web mining techniques .
+International Journal of Computers, Communications and Control , v. 4, n. 4, p. 326-334, 2009.
+DISHMAN, P; CALOF, J. L The intelligence process : front­end to strategic planning, Ottawa : University of Ottawa, 2002.
+FRANCO, M. ; MAGRINHO, A. ; SILVA , J. R. Competitive intelligence: a research model tested on Portuguese firms .
+Business Process Management Journal , v. 17, n. 2, p. 332-356, 2011.
+FULD, L. M. The new competitor intelligence.
+GIL, A. C. COMO ELABORAR PROJETOS DE PESQUISA.
+Analise Bibliométrica 1 990-2014: inteligencia competitiva Anderson Evandro do Prado; Fernando Celso de Campos Perspectiva s em Ciência da Inform ação, v.23, n.1, p. 71-88, jan./març .
+2018 87 GOMES, E.; BRAGA, F. Como transformar informação em um negócio lucrativo .
+Rio de Janeiro: Elsevier, 2004.
+HADDADI, A. E.; DOUSSET, B. ; BERRADA, I. Xplor every where : the competitive intelligence system for mobile .
+HARDY , G. Using IT governance and COBIT to deliver value with it and respond to legal, regulatory and compliance challenges.
+Inf Secur Tech Rep, p. 55-61, 2006.
+INFORMATION SYSTEM AUDIT AND CONTROL ASSOCIATION (ISACA ).
+Disponível em: <www.isaca.org>.
+KAHANER, L. Competitive intelligence : how to gather, analyze and use information to move your business to the top .
+LEITE, L. R. Systematic literature review on performance measurement and sustainability.
+In: American Society for Engineering Management 2012 International Annual Conference.
+Virginia Beach, VA: ASEM, 2012 LUNARDI, G. L. et al.
+The impact of adopting IT governance on financial performance: an empirical analysis among Brazilian firms.
+Internation al Journal of Accounting Information Systems , v. 1 5, n. 1, p. 66-81, 2014.
+McGONAGLE, J. J.; VELLA, C. M. Proactive intelligence .
+London : Springer­Verlag , 2012.
+MELO, M. A. N.; MEDEIROS, D. D. A model for analyzing the competitive strategy of health plan i nsurers using a system of competitive intelligence .
+The TQM Magazine , v. 19, n. 3, p. 206 -216, 2007.
+MOTTE, M. Relatório do seminário internacional inteligência estratégica.
+MULLER, M. L. Managing competitive intelligence .
+Johannesburg : Knowres Publishing , 2002.
+OKUBO, Y. Bibliometric indicators and analysis of research systems: methods and examples.
+OECD Science ; Technology and Industry Working Papers, 1997 OTLET, P. O livro e a medida: bibliometria .
+PERCIVAL, J. C.; COZZARIN, B. P. Compl ementarities affecting the returns to innovation .
+Industry and Innovation , v. 15, n. 4, p. 371 ‐92, 2008.
+PETERSON , R. Integration strategies and tactics for information technology governance.
+Strategies for information technol ogy governance .
+Hershey: Idea Group Publishing , 2004.
+Statistical bibliography or bibliometricas?
+Journal of Documentation , v. 25, n. 4, p. 348 -349, 1969.
+ROUACH, D. ; SANTI, P. Competitive intelligence adds value: five intelligence attitudes .
+European Management Journal , v. 19, n. 5, p. 552559, 2001.
+Analise Bibliométrica 1 990-2014: inteligencia competitiva Anderson Evandro do Prado; Fernando Celso de Campos Perspectiva s em Ciência da Inform ação, v.23, n.1, p. 71-88, jan./març .
+Starting a competitive intelligent function.
+Alexandria : Competitive Intelligence Foundation, 2008 .
+SCHMIEDEBERG, C. Complementarities of innovation activities: an empiric al analysis of the German manufacturing sector .
+Research Policy , v. 37, p. 1492 ‐503, 2008.
+STRATEGIC AND COMPETITIVE INTELLIGENCE PROFESSIONALS (SCIP).
+Disponível em: < Acesso em : 9 mar .
+Current state of competitive intelligence in South Africa.
+International Journal of Information Management , v. 34, n. 2, p. 185-190, 2014.
+Designing a network acquisition system of competitive intelligence', paper presented at the 8th IEEE Intern ational Conference on Dependable, Autonomic and Secure Computing, Chengdu, China, 12 –14th December.
+STAREC, C.; GOMES, E.; BEZERRA, J. Gestão estratégica da informação e inteligência competitiva.
+STRAUSS, A. C.; DU TOIT, A. S. A.
+Competitive Intelligence skills needed to enhance South Africa's competitiveness .
+Aslib Proceedings: New Information Perspective , v. 62, n. 3, p. 302-320, 2010.
+SUIRE, R. ; VICENTE, J. Théorie Economique des Clusters et Management des Réseaux d'Entrepr ises Innovantes .
+Revue Française de Gestion, v. 184, p. 119 ‐36, 2008.
+TRANFIELD, D.; DENYER, D.; SMART, P. Towards a methodology for developing evidence -informed management knowledge by means of systematic review.
+British Journal of Management , v. 14, n. 3, p. 207 -222, 2003.
+VIVIERS, W. ; SAAYMAN, A. ; MULLER, M. En hancing a competitive intelligence culture in South Africa .
+International Journal of Social Economics , v. 32, n. 7, p. 576-589, 2005.
+WEBER, E. P.; KHADEMIAN, A. M. Wicked problems, knowledge challenges, and collaborative capacity builders in network setti ngs.
+Public Administration Review , v. 68, n. 2, p. 334 ‐49, 2008.
+IT governance: how top performers manage it decisions rights for superior results.
+Watertown: Harvard Business School Press, 2004.
+WEILL, Peter; ROSS, JEANNE W. Governança de TI: Tecnologia da Informação.
+São Paulo: M. Books do Brasil Ltda., 2006.
+WRIGHT, S. ; CALOF, J. L. The quest for competitive, business and marketing intelligence: a country comparison of current practices .
+European Journal of Marketing , v. 40, n. 5/6, p. 453-465, 2006.

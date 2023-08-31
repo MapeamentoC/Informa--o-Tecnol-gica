@@ -1,0 +1,196 @@
+Universidade de São Paulo – Escola de Enfermagem.
+Email: thaispola@hotmail.com 2 Doutora, professora associada.
+Universidade de São Paulo – Escola de Enfermagem.
+Email: lislaine@usp.br 3 Doutora, professora associada sênior.
+Unive rsidade de São Paulo – Escola de Enfermagem.
+Email: amchiesa@usp.br 4 Mestranda.
+Universidade de São Paulo – Escola de enfermagem.
+Email: silvaleticia@gmail.com 5 Doutor, professor.
+Faculdade de Medicina do ABC - Departamento de Saúde da Coletividade.
+Email: hugomacedojr@hotmail.com 6 Doutor, professor associado.
+Universidade de São Paulo – Instituto de Matemática e Estatís tica.
+Email: correadasilva_f2001@yahoo.com.br Correspondência : Av.
+Dr. Enéas Carvalho de Aguiar, 419 - Cerqueira César, São Paulo – SP – Brasil.
+EDU., Fortaleza, CE, v. 4, n.2, p.08-19, ago./dez.
+ISSN: 2525 -9063 8 A abordagem Design Thinking como proposta de inovação social em um Programa de Visitação Domiciliar na Primeira Infância The Design Thinking approach as a proposal for social innovation in an early Childhood Home Visiting Program Thaís Pola Baptista Coelho1, Lislaine Aparecida Fracolli2, Anna Maria Chiesa3, Letícia Aparecida da Silva4, Hugo Macedo Ferraz e Souza Júnior5, Flavio Soares Correa da Silva6 Resumo Objetivo: Utilização da abordagem Design Thinking para melhoria dos protocolos de visitação através da criação de um protótipo escalável, atrativo e que forneça recurso de monitoramento dos resultados do Programa de Visitação Domiciliar "Jovens Mães Cuidadoras".
+Método: Estudo de desenvolvimento tecnológico por prototipação através da abordagem Design Thinking (DT) .
+Resultados: O protótipo foi criado em papel ( cards ) e, após a validação pelos participantes do programa, foi transformado em arquivo de texto digital, cuja íntegra está disponível no anexo deste artigo.
+Conclusão: o público -alvo deste Programa são gestantes adolescentes e crianças que vivem sob alta vulnerabilidade.
+Se a compreensão por parte dos gestores for padronizada e inflexível quanto à formulação do programa, corre -se o risco de se negligenciar as camadas que formam o ecossistema da criança atendida.
+Na melhor das hipóteses, pode -se projetar soluções ou intervenções que tenham um impacto social moderado; e, na pior das hipóteses, é possível que o pro grama, além de não ter eficácia, reforce as injustiças e a desigualdade social.
+Por esta razão, recomenda -se que qualquer programa ou serviço de impacto social priorize o desenho de escopo de forma a se adaptar ao contexto de sua aplicação.
+Palavras -Chave : Inovação Social .
+Abstract Objective: Application of Design Thinking to improve visitation protocols by creating a scalable and attractive prototype that provides results monitoring of the "Young Mother Caregiver " Home Visiting Program.
+Methodology: Technological development study by RE.
+EDU., Fortaleza, CE, v. 4, n.2, p.08-19, ago./dez.
+ISSN: 2525 -9063 9 prototyping using Design Thinking (DT).
+Results: The prototype was created on paper (cards) and, once validated by the program participants, was transformed into a digital text file, which is fully available in the appendix to this article.
+Conclusion: The target audience of this Program are teenage pregnant women and children living under high vulnerability.
+If managers' understanding become standardized and inflexible about the progr am design, there is a risk of neglecting the layers that compose the ecosystem of the assisted child.
+At best, solutions or interventions with a moderate social impact can be designed; and at worst, the program may not only be ineffective, but also reinfor ce injustice and social inequality.
+Hence, it is recommended that any social impact program or service prioritize scope design in order to become tailored to the context of its application.
+Introdução Os primeiros 1000 dias de vida representam uma janela de oportunidade de estimulação para que a criança possa atingir o seu potencial máximo de crescimento e desenvolvimento na vida adulta.
+Cuidados precários de saúde, desnutrição, estimulação inadequada e estressores ambientais nessa janela de tempo que compreende as 40 semanas de gestação (280 dias) somadas aos 2 primeiros an os de vida (730 dias), comprometem o desenvolvimento infantil e aumenta a chance de que o potencial dos indivíduos não seja alcançado ao longo da vida1.
+Intervenções para melhorar os cuidados de saúde, as competências pessoais de mães vulneráveis, começand o durante a gravidez, são estratégias promissoras para proteger o cérebro em desenvolvimento de seus filhos e sua própria saúde física e mental2,3,4.
+Estas intervenções parecem ser particularmente importantes para pais com história de adversidades no iníci o de suas vidas, não tendo com isso oportunidades de desenvolver as habilidades necessárias para criar um ambiente propício para que suas crianças desenvolvam suas próprias capacidades adaptativas3,5.
+Embora este cenário esteja presente mundialmente, el e ocorre principalmente em países com predomínio de populações de baixa renda, como o Brasil.
+Mais de 200 milhões de crianças menores de cinco anos nestes países não atingem o seu potencial de desenvolvimento por causa da insuficiência e da baixa qualidade da estimulação que seus pais conseguem oferecer6.
+Em países desenvolvidos, a valorização das relações precoces entre mãe-bebê tem sido um foco importante dos gestores públicos nos últimos 30 anos 1.
+Baseado em análises objetivas de custo -benefício, os programas de visitas domiciliares com foco no aprimoramento das relações mãe -bebê têm recebido grande atenção.
+Estes programas são considerados uma ferramenta importante para melhorar a saúde e o desenvo lvimento da criança e, para isso tem por objetivo melhorar, além da saúde RE.
+EDU., Fortaleza, CE, v. 4, n.2, p.08-19, ago./dez.
+ISSN: 2525 -9063 10 da mãe no pré -natal, as ferramentas que os pais possuem para cuidar e estimular seu bebê adequadamente7,8 Desafios sociais requerem soluções sistêmicas baseadas nas necessidades de seus usuários por tanto exigem uma abordagem centrada nas pessoas para a identificação coletiva dos problemas e resolução compartilhada, não apenas de produtos , como também serviços ou programas sociais9.
+Na última década o Design Thinking (DT) vem sendo ut ilizado como um meio de desenvolver inovações nas organizações.
+Esta abordagem envolve o processo de geração de ideias em um grupo multidisciplinar como foco na resolução de problemas, assim, a utilização do design vai além da aparência dos produtos, sendo aplicado na concepção de soluções, que englobam os aspectos estratégicos d e projetos e/ou negócios10.
+A abordagem Design Thinking (DT) teve origem em 1991 , nos Estados Unidos pela empresa de inovação e design global IDEO, com o foco de melhoria em de produtos entre eles a escov a de dente Oral B, o IPod da Apple e a cadeira Aeron da Herman Miller – sob a seguinte premissa: se você projeta uma cadeira, projete -a para a pessoa que estará sentada nela oito horas por dia9.
+Atualmente vem sendo incorporado na área da saúde em centros hospitalares , numa publicação da Harvard Business Review destaca a transformação de um Hospital de Olhos de Roterdã na Holanda .
+Segundo os autores o objetivo do Design Thinking neste caso, foi cr iar uma estrutura que torn asse todos os envolvidos responsáveis pelos resultados.
+A área da saúde é um ecossistema complexo, tem muitas pessoas envolvida s. Nesta esfera deve -se considera r o usuário/paciente, os familiares , os profissionais diretamente ligados ao cuidado (recepcionistas, técnicos, enfermeiros, médicos e equipe multiprofissional), além d os profissionais que dão suporte a estrutura física e administrativa .
+Na maioria dos casos, o serviço é orientado pelo hospital, pensando no que gera meno r custo e o que é mais viável.
+O que acontece, atualmente, é essa revolução de pensar mais no usuário.
+É preciso, por exemplo, repensar a espera na emergência, a falta de uma triagem com processos mais rápidos12.
+Por este motivo, a área da saúde possui uma grande demanda por inovação, as soluções de melhoria devem reconhecer a experiência d e toda s as pessoas envolvidas n o processo de cuidado .
+Desde os usuários/ pacientes a os recepcionistas, enfermeiros e médicos.
+O usuário deve ser pensado em todas as etapas .
+"Como é o contato do usuário com o serviço ?
+Isso vai desde o momento que ele sente a necessidade e se desloca para o hospital , até o momento que a sua demanda é avaliada e atendida .
+A saúde tem muitas possibilidades para o design, mas exige uma visão de viabilidade para que haja equilíbrio entre a demanda do RE.
+EDU., Fortaleza, CE, v. 4, n.2, p.08-19, ago./dez.
+ISSN: 2525 -9063 11 usuário e a capacidade de resposta da equipe12.
+Mais recentemente afirmam Bernstein & Lisnky, que os praticantes do DT começaram a aplicar esse método para melhoria de serviços públicos – como aqueles destinados aos cuidados em saúde de baixo custo e melhorias organizacionais de centros de educação – como a criação de escolas públicas melhores9.
+O design é algo novo em todas as áreas, não apenas na saúde.
+O ideal é que seja implantado por gestores, administradores, mas há a possibilidade de começar a ser utilizado aos poucos, com os próprios profissionais analisando oportunidades de melhorar produtos e serviços.
+A inovação guiada pelo design tem chamado atenção do mundo todo, do universo de negócios à área social, devido aos seus processos abertos e colaborativos para o desenvolvimento de projetos12.
+O design não é apenas estético , é um modelo mental, uma forma de pensar para resolver problemas complexos12.
+O setor social tem se envolvido com a menta lidade e os métodos ágeis de projetos centrados no ser humano, com o foco de melhorar vidas ao invés d a melhoria de produtos13.
+Entretanto até o presente momento não há qualquer publicação que evidencie a utilização da abordagem DT para a melhoria de programa s de visitação domiciliar voltada a primeira infância no Brasil, o que demonstra a natureza inovadora deste artigo .
+Diante de ste cenário, no que diz respeito a operacionalização e a escalabilidade do Programa Jovens Mães Cuidadoras , foi propost a a abordagem Design Thinking para melhoria d os protocolos de visitas de forma a se estabelecer um protótipo escalável, atrativ o que forneçam recursos de monitoramento dos resultados do programa .
+Métodos Este é um estudo de desenvolvimento tecnológico por prototipação através da abordagem Design Thinking (DT ).
+O D T não é uma metodologia e sim uma abordagem.
+Isso porque quando se pensa em método se cria uma expectativa de uma fórmula matemática que se apliq ue indistintamente em qualquer situação, o inverso do que se espera neste caso .
+O processo consiste em tentar mapear e mesclar a experiência cultural, a visão de mundo e os processos inseridos na vida dos indivíduos, no intuito de obter uma visão mais comp leta na solução de problemas e, dessa forma, melhor identificar as barreiras e gerar alternativas viáveis para transpô -las.
+Os sujeitos do estudo foram as partes envolvidas direta mente com o Programa Jovens Mães Cuidadoras , ou seja, as Enfermeiras Visitad oras, a RE.
+EDU., Fortaleza, CE, v. 4, n.2, p.08-19, ago./dez.
+ISSN: 2525 -9063 12 Gestora PJMC e a Supervisora Clínica, conforme figura 1 em anexo.
+As etapas do DT são 5 e devem ser realizadas de maneira cíclica pois combina m o percurso do pensamento (reconhecimento do problema e clareza das ideias de enfrentamento) com a sistem atização da gestão de um projeto , são elas: 1) Descoberta, 2) Imersão, 3) Ideação, 4) Experimentação e 5) Evolução.
+Resultados DESCOBERTA – FASE 1 A primeira fase consiste na observação das pessoas envolvidas no processo para que se possa compreender seus pain points (pontos de dor) antes de se começar a pensar no projeto.
+Este momento foi realizado na escola de enfermagem com entrevistas da pesquisa dora com os stakeholders principais: enfermeira visitadora , gestora e supervisora clínica, conforme informações da Tabela 1 abaixo .
+Tabela 1: Descoberta - Identificação dos pontos de dor pain points dos stakeholders do PJMC Enfermeira Visitadora Dificuldade de acessar as informações relevantes nas visitas passadas.
+Falta de espaço para escrever o lembrete para a próxima visita.
+Tomada de decisão da enfermeira mais focada na fotografia do momento do que na evolução e desempenho da gestante no deco rrer do PJMC.
+Excesso de material para transportar (cadernos e manuais técnicos).
+Supervisora Clínica Não tem informações de desempenho da gestante e pontos de atenção de uma forma simplificada para a discussão clínica.
+Gestora Assistencial O PJMC presci nde de identidade visual e organização padrão e afetam a sua escalabilidade.
+Como gestora não consigo acompanhar a evolução da assistência a não ser pela leitura na íntegra do protocolo ou pelo relato da enfermeira.
+Não consegue saber se a visita foi boa o u ruim se não perguntar a enfermeira.
+E não tem uma maneira de conhecer os imprevistos e propor estudos sentinelas.
+Fonte: Imagem extraí da da dissertação COELHO, TPB, 2018 .
+IMERSÃO – FASE 2 Esta etapa tem o objetivo de captar percepções ( insights ), compartilhar anotações e registros de pensamento, observações e histórias e também foi realizado na escola de enfermagem com entrevistas da pesquisadora com os stakeholders principais: enfermeira, gestora e supervisora do programa.
+EDU., Fortaleza, CE, v. 4, n.2, p.08-19, ago./dez.
+ISSN: 2525 -9063 13 IDEAÇÃO – FASE 3 Este é o momento conhecido como brainstorming , onde acontece a geração de ideias em que todos os participantes apresentam suas ideias por meio de palavras ou desenhos sem preocupação com a seleção, o importante é deixar fluir desejos e possibilidades.
+Foram gravadas as entrevistas e os desejos dos stakeholders envolvidos e transcritos como histórias em papel.
+Tabela 2 – Ideação – Brainstorming dos stakeholders do PJMC Enfermeira Visitadora Que o novo material possa facilitar a preparação para a visita, mos trando o material a ser utilizado de uma forma resumida.
+Que tenha espaço para evoluir os pontos principais a serem trabalhados ou retomados no momento da visita.
+Que reúna a maioria dos materiais impressos na intervenção para não carregar muito peso.
+Supervisora Clínica Que tenha um campo de evolução do desempenho da gestante e dos pontos críticos para discutir na supervisão clínica de maneira resumida e rápida.
+Gestora Assistencial Ter um aplicativo que apresente uma videoteca ou um material impresso que indique os vídeos a serem baixados.
+Ter um campo quantitativo com estatísticas da evolução das gestantes no programa.
+Ter o monitoramento das visitas realizadas e não realizadas no PJMC para avaliação da macrogestão e na supervisão clínica.
+Visão gera l dos resultados das escalas aplicadas.
+Fonte: Imagem extraí da da dissertação COELHO, TPB, 2018 .
+EXPERIMENTAÇÃO – FASE 4 A fase de dar vida as ideias.
+Criar protótipos para tornar as ideias tangíveis e depois apresentar as pessoas para que se possa analisar e refinar a compreensão coletiva.
+Tabela 3 - Protótipo do protocolo do PJMC : fase de construção dos requisitos de negócio Protocolo de Visitas Que seja replicável e escalável para as diferentes realidades enfermeiras ; Que facilite o acesso as visitas realizadas e a evolução da gestante no programa para apoiar a tomada de decisão da enfermeira ; Que apresente um lembrete dos pontos relevantes da visita anterior para a enfermeira visitadora na visita atual ; Que ofereça as escalas como tarefa prioritária no acompanhamento das visitas - reforçando como lembrete Material de apoio Que possa ter lembretes dos materiais de apoio nos protocolos impressos utilizados pelas enfermeiras ; Que além de abrigar o conteúdo técnico conhecido possa ser atualizado com alimentação das enfermeiras no decorrer do programa (passível de atualização); Que possa ser alimentado com materiais que contribuem para a parentalidade (artesanato, móbile pa ra bebê, receita de papinhas.
+); Que possa ser um documento que lembre da i mportância da busca de vídeos, mídias ou aplicativos que favoreçam a parentalidade Gestão assistencial e Supervisão Clínica Que seja possível uma visão global da evolução das gestantes em relação as intervenções preconizadas pelo programa ; Que durante a reunião com a enfermeira, a supervisora tenha acesso ao desempenho global da enfermeira no programa ; Que o protocolo seja replicável e escalável RE.
+EDU., Fortaleza, CE, v. 4, n.2, p.08-19, ago./dez.
+ISSN: 2525 -9063 14 Atratividade e Comunicação Que seja mais atrativo que o protocolo atual ; Que o protocolo atual seja passível de atualização/adaptação de acordo com a realidade do PJMC e seja intuitivo e amigável para as enfermeiras visitadoras ; Que as cores e a interface do protótipo favoreçam a parentalidade ; Que as informações importantes sejam inseridas como lembrete na prepa ração da visita.
+Quantificação Que seja possível mensurar os dados com o resultado das intervenções realizadas de uma forma fácil e replicável ; Que armazene os registros de quantas gestantes e famílias estão em acompanhamento ; Que possibilite uma avaliação ainda que subjetiva (carinhas) do profissional paciente em cada visita ; Que possibilite uma avaliação dos macro resultados do programa de uma forma analítica e quantificável.
+Escalabilidade e Tecnologia de informação Que o protocolo seja padroni zado de modo que sua especificação e programa ção seja facilitada no futuro; Que seja futuramente transformado num app compatível com o sistema operacional Android (tablets) ; Que futuramente o ap licativo possa funcionar "offline " ao se operacionalizar na vi sita e possa ser atualizado em rede wifi ou 4G posteriormente .
+Fonte: Imagem extraí da da dissertação COELHO, TPB, 2018 .
+EVOLUÇÃO – FASE 5 Uma vez criado o produto, é importante planejar os passos futuros para que ele seja realizado, acompanhado e avaliado.
+A construção e aprendizado são permanentes.
+O protótipo foi criado em papel pela pesquisadora em forma de CARDS (cartões por assunto) e a pós a apresentação e aprovação dos stakeholders foi transformado em arquivo digital, podendo ser consultado em sua íntegra no anexo 2 e as principais criações e modificações também foram inseridas na tabela 4, ambos no final deste artigo por sua extensão .
+Conclusão O desafio posto para implementadores de políticas ou programas sociais consiste na inovação da maneira de pensar e planejar os processos de cuidado e os programas na saúde.
+É preciso ter clareza de onde se quer chegar e principalmente a quem se destina a intervenção, antes de padronizar e sistematizar o cuidado.
+Comuni car, registrar e gerir os resultados em saúde é um desafio cotidiano que se torna imprescindível diante do subfinancia mento do Sistema Único de Saúde .
+Esta escassez de recurso s nos conv oca a uma gestão mais criativa e eficiente dos programas existentes.
+Repensar os programas e o cuidado em saúde sob uma lógica digital pode uma estratégia de eficácia e inovação em saúde.
+A tecnologia digital em síntese representa o acesso rápido à informação.
+Adotar a mentalidade digital implica em assumir uma atitude de constante construção, padronização e renovação.
+É preciso ter a percepção de como as novidades que nos permeiam criarão impactos no futuro.
+Pensar digitalmente não é somente ter acess o às informações da rede eletrônica ou de um aplicativo, mas também ser capaz de RE.
+EDU., Fortaleza, CE, v. 4, n.2, p.08-19, ago./dez.
+ISSN: 2525 -9063 15 utilizar o conteúdo destes e transformá -los em um valor ou benefício.
+No setor social ou se saúde não se trata de desenvolver um produto, mas sim de melhorar vidas.
+Além do q ue, as vidas humanas são inerentemente complexas e inseridas em contextos únicos que moldam cada passo que damos e cada decisão que tomamos.
+Portanto, para projetar um programa com eficácia, é preciso analisar e levar em conta o contexto em que as vidas sã o conduzidas.
+Para além das etapas e preceitos adotados no Design Thinki ng, é preciso adaptar os mesmos em situações que envolvam o setor social, para que se alcance em essência o contexto de maneira profunda.
+No caso do Programa Jovens Mães Cuidadoras, as gestantes são adolescentes e vivem sob alta vulnerabilidade .
+Se a compreensão por parte dos gestores for padronizada e inflexível quanto a formulação do programa, corre -se o risco de negligenciar as camadas que formam o ecossistema das crianças atendidas , na melhor das hipóteses, pode -se projetar soluções ou intervenções que tenham um impacto moderado na população atendida ; e na pior das hipóteses, é possível que o programa além de não ter eficácia reforce as injustiças e desigualdades que a mãe e a crian ça estão submetidas.
+Por fim recomenda -se que programas ou serviços de impacto social devem ser submetidos a redesenhos de escopo de forma contínua e cooperativa.
+É necessário sentar lado a lado com o público atendido e demonstrar total consideração ao seu contexto atual, pois a vida é dinâmica e exige um processo onde se aprende, idealiza, testa e se adapta.
+A tecnologia não resolve os problemas que não são pensados com a nossa própria cabeça.
+Um registro digital em saúde exige o conhecimento de múltiplos conceitos envolvidos no processo de entender o que se quer com um diagnóstico antes de se diagnosticar.
+Por este motivo as necessidades relacionadas à assistência e à gestão do PJMC foram amplamente exploradas antes de produzir a nova versão do instrumento de trabalho de trabalho das enfermeiras visitadoras , até o momento em que se identifique novas soluções para as necessidades encontradas e este ciclo cooperativo recomece .
+Agradecimentos A professora Lislaine Fracolli por me apresentar o universo da prim eira infância.
+A professora Anna Chiesa por me encorajar a assumir o desafio de cursar o Curso Executivo em Liderança em Política Pública em Primeira Infância em Harvard , que me iluminou para produção deste artigo.
+Ao meu esposo Ediléu Cardoso, que sempre me incentiva na busca de conhecimento e me apresenta ao universo da inovação.
+EDU., Fortaleza, CE, v. 4, n.2, p.08-19, ago./dez.
+ISSN: 2525 -9063 16 Conflito de interesse: Este artigo é desprovido de qualquer conflito de interesse ou interesse pessoal/comercial.
+O raciocínio da enfermagem na era digital: uma versão renovada do protocolo de intervenção do Programa Jovens Mães Cuidadoras.
+Dissertação [Mestrado em Ciências da Saúde].
+– Escola de Enfermagem da Universidade de São Paulo; 2018.
+IN: 7/7144/tde -05112018 -123324/pt -br.php 2.
+Shonkoff JP et al An Integrated Scientific Framework for Child Survival and Early Childhood Development.
+Pediatrics; 129 (2): 1 -13; 2012.
+Building a new biodevelopmental framework to guide the future of early childhood policy.
+Child Dev ;81(1):357 -67; 2010.
+Protecting brains, not simply stimulating minds.
+Science;333(6045):982 -984; 2010.
+Kieling C, Baker -Henningham H, Belfer M, Conti G, Ertem I, Omigbodun O, Rohde LA, Srinath S, Ulkuer N, Rahman A Child and adolescent mental health worldwide: evidence for action.
+The Lancet ;378(9801):1515 -25; 2011.
+Olds DL, Sadler L, Kitzman HJ .
+Programs for parents of infants and toddlers: recent evidence from randomized trials.
+Child Psychol Psychiatry;48(3 -4):355 -91. Review; 2007.
+Wo rks for Home visiting programs: lesson from experimental evaluations of program and interventions.
+Donelan -McCall N, Eckenrode J, Olds DL .
+Home visiting for the prevention of child maltreatment: lessons learned during the past 20 years.
+PediatrClin North Am; 56(2):389 -403; 2009 .
+Design Thinking for Social Innovation.
+Stanford Social Innovation Review.
+Macedo M, Miguel PA, Casarotto Filho N. A caracterização do Design Thinking como um modelo de inovação.
+29set.2015 [citado 20nov.2019];12(3):157 -82.
+Bernstein M, Lisnky, M. Leading Change Trough Adaptative Design.
+Stanford Social Innovation Review.
+How Design Thinking Turned One Hospital into a Bright and Comforting Place.
+Harvard Bussiness Review, 2016.
+-designthinking -turned -one-hospital -into-a-brightand-comforting -place 13.
+Martin, R. The design of business: Why design thinking is the next competitive advantage.
+Boston: Harvard Bussiness Press, 2009.
+EDU., Fortaleza, CE, v. 4, n.2, p.08-19, ago./dez.
+ISSN: 2525 -9063 17 Anexos Figura 1: Apresentação dos stakeholders do Programa Jovens Mães Cuidadoras.
+Fonte: Imagem extraí da da dissertação C oelho , TPB, 2018 , de sua própria autoria.
+Anexo 2: Protocolo de Visita de Intervenção RE.
+EDU., Fortaleza, CE, v. 4, n.2, p.08-19, ago./dez.
+ISSN: 2525 -9063 18 Tabela 4 – Protótipo final -Principais pontos de formatação do novo protocolo de visitas de intervenção SEÇÃO Atratividade Organização Escalabilidad e Quantificação Pré-Visita Inserção de ícones com padrão de orientação e organização em seções.
+Construção do tutorial de utilização do protocolo renovado Formatação do cadastro e cabeçalho da visita.
+Reorganização do roteiro de preparação de visita.
+Padronização das instruções por intervenção, material didático e instrumento de apoio.
+Fase de instrução não exige quantificação Assistencial - visita domiciliar Inserção de ícones com padrão de orientação e de intervenção.
+Organização em seções e numeração das intervenções.
+Sistematização das intervenções de acordo com as premissas do programa ( Cuidados com a Saúde, Saúde Ambiental, Curso de Vida, Família, Rede Social, Parentin g) Criação do campo de intervenção da Visita Domiciliar .
+Inclusão das instruções o que e como no cabeçalho das intervenções.
+Construção de campos quantificáveis: (check -list) booleanos, combo, listas.
+Redução dos campos de texto ou string que não permite a quantificação.
+Pós visita – resultados Inserção de ícones com padrão de avaliação de resultado e organização em seções.
+Inclusão da fase final: o resultado é o produto final da intervenção realizada na visita.
+Criação de um padrão de avaliação (fórmula) que prioriza o parenting e o cuidado em saúde e contempla as demais premissas do PJMC Construção do Diagn óstico Geral da Gestante no PJMC; Criação da ficha de resultado e Desempenho Final da Gestante no programa PJMC.
+Fonte: Imagem extraída da dissertação C oelho , TPB, 2018.
+EDU., Fortaleza, CE, v. 4, n.2, p.08-19, ago./dez.
+ISSN: 2525 -9063 19 _ Como citar este artigo Coelho TPB, Fracolli LA, Chiesa A, Silva L, Ferraz HMS, Silva FSC.
+A abordagem Design Thinking como proposta de inovação social em um Programa de Visitação Domiciliar na Primeira Infância.
+Revista de Saúde Digital e Tecnologias Educacionais.
+Editor responsável: Luiz Roberto de Oliveira.
+Fortaleza, mês e ano, p. 08-19.
+Disponível em: Acesso em "dia/mês/ano".
+Data de recebimento do artigo: 22/09/2019 Data de aprovação do artigo: 09/11/2019 _

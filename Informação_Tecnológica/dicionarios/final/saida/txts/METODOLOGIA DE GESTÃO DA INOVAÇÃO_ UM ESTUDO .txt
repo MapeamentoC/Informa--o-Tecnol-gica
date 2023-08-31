@@ -1,0 +1,404 @@
+Página | 1 METODOLOGIA DE GESTÃO DA INOVAÇÃO: UM ESTUDO DE CASO DE MICRO E PEQUENAS EMPRESAS NA INDÚSTRIA DO ESTADO DE ALAGOAS INNOVATION MANAGEMENT METHODOLOGY: A CASE STUDY OF MICRO AND SMALL COMPANIES IN THE INDUSTRY OF THE STATE OF ALAGOAS Bruna Pinto Cerqueira Pedrosa de Oliveira , Universidade Federal de Alagoas (UFAL).
+E-mail: brunapcpo@gmail.com Tatiane Luciano Balliano , Universidade Federal de Alagoas (UFAL).
+E-mail: tlballiano@gmail.com Luciana Peixoto Santa Rita *, Universidade Federal de Alagoas (UFAL).
+E-mail: lupsantarita@gmail.com Reynaldo Rubem Ferreira Júnior , Universidad e Federal de Alagoas (UFAL).
+E-mail: rrfj@uol.com.br Eliana Maria Oliveira Sá, Federação das Indústrias do Estado de Alagoas (FIEA).
+E-mail: eliana.sa@fiea.org.br Josealdo Tonholo , Universidade Federal de Alagoas (UFAL).
+E-mail: tonholo@gmail.com Submetido: Maio 2020 Aceito: Junho 2020 *Contato para Correspondência Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.8, n.3, Maio /Agosto – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v8n3.01 Página | 2 Resumo Os modelos de maturidade fornecem uma análise para a elaboração de medidas de melhoria para a gestão da inovação.
+Este estudo tem c omo objetivo geral analisar as micro e pequenas empresas na indústria de Alagoas na perspectiva de uma metodologia de Gestão da Inovação (GI).
+Especificamente, analisa -se o grau de maturidade das variáveis: (a) liderança comprometida com a inovação; b) p essoas orientadas à inovação; c) estratégia orientada à inovação; d) relacionamento com o ambiente externo; e) marketing para à inovação e f) estrutura favorável à inovação, além da eficiência das empresas por meio da metodologia de Análise por Envoltória de Dados (Data Envelopment Analysis -DEA).
+O estudo é quantitativo, sendo descritivo quanto aos objetivos.
+Trata -se de um estudo de caso realizado com 19 (dezenove) indústrias, participantes de um projeto de GI na Federação da Indústria do Estado de Alago as.
+Sobre os resultados encontrados, a participação no projeto e a metodologia de GI possibilitou novas práticas nas unidades industriais.
+Os testes empíricos apontaram uma otimização da maturidade após a participação no projeto por meio da evolução na men suração em dois momentos, denominados de T0 e T1, antes e após a participação no projeto.
+Metodologia de gestão da inovação .
+Abstract The maturity models provide an analysis for the development of improvement measures for innovation management.
+This study aims to analyze micro and small enterprises in the industry of Alagoas from the perspective of an Innovation Management (IM) methodol ogy.
+Specifically, the degree of maturity of the variables is analyzed: (a) leadership committed to innovation; (b) innovation oriented people; (c) innovation oriented strategy; (d) relationship with the external environment; (e) marketing for innovation a nd (f) structure favorable to innovation, in addition to the efficiency of the companies through the methodology of Data Envelopment Analysis (DEA).
+The study is quantitative, being descriptive about the objectives.
+It is a case study carried out with 19 ( nineteen) industries participating in an IM project in the Federation of Industry of the State of Alagoas.
+About the results found, the participation in the project and the methodology of IM made possible new practices in the industrial units.
+The empirica l tests indicated an optimization of maturity after the participation in the project through the evolution in the measurement in two moments, called T0 and T1, before and after the participation in the project.
+Innovation management methodology .
+1 INTRODUÇÃO A literatura está repleta de estudos empíricos (Liyanage, Greenfield, & Don, 1999; Miller, 2001; Berkhout, Hartmann, Van Der Duin, & Ortt, 2006) que descrevem a Gestão da Inovação (GI) como elemento impulsionador na consolidação de processos sistêmicos no ambiente empresarial, promovendo o fluxo de conhecimento, cooperação com outras instituições e, consequentemente, contribuindo para o fortalecimento dos sistemas de inovação e do desenvolvimento econômico.
+A despeito da alta pressão para inovar, micro e pequenas empresas são menos suscetíveis em estabelecer inovações estratégicas na gestão de negócios.
+Em comparação com Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.8, n.3, Maio /Agosto – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v8n3.01 Página | 3 as grandes empresas, as micro e pequenas empresas enfrentam desafios específicos, entre o financiamento limitado, estrutura de apoio e recursos humanos (Niewöhner, Asmar, Wortmann, Röltgen, Kühn, & Dumitrescu, 2019).
+Tidd e Bessant (2015) afirmam que as micro e pequenas empresas inovadoras crescem duas vezes mais rápido do que aquelas que não desenvolvem inovações.
+Aquelas bemsucedidas na Gestão da Inovação (GI) refletem desempenho superiores em termos de crescimento, resultados financeiros e geração de emprego.
+Entretanto, a GI não é algo simples, conforme apontam Canongia, Santos, Santos, & Zackiewicz (2004), pois requer esforços que reúnam os métodos e instrumentos imprescindíveis à garantia da capacidade de inovar das empresas.
+De acordo com a Universidade Cornell e a Organização Mundial da Propriedade Intelectual [OMPI] (2018), o Brasil ocupava em 2011 a 47ª posição no desenvolvimento de projetos inovadores, em uma relação de 127 países.
+No Índice Global de Inovação de 2018 passou para 64ª colocação, entre 126 nações, com uma diferença de 34,96 em relação ao primeiro colocado (Suíça).
+Segundo o relatório da Organização das Nações Unidas para a Educação, a Ciência e a Cultura [UNESCO] (2018), o Brasil aparece em 2017 em nono lugar, investindo US$ 42,1 bilhões ao ano em pesquisa e desenvolvimento, ou 2,3% do investimento global em P&D.
+At é o ano de 2016 ocorreu o fim e a reversão de um ciclo, que durou quatro anos ininterruptos em que os investimentos do Brasil em Pesquisa e Desenvolvimento (P&D) cresceram de forma regular e consistente.
+De acordo com dados da Pesquisa Industrial de Inov ação Tecnológica (PINTEC), publicada em relatório do Instituto Brasilerio de Geografia e Estatística [IBGE] (2020), de um universo de 116.952 empresas brasileiras que realizaram P&D entre 2014 -2017, apenas 39.329 implementaram inovações de produto e/ou pr ocesso.
+É um número muito baixo e explica, em boa medida, a crescente defasagem tecnológica entre empresas brasileiras e internacionais e o déficit comercial e o crescimento das importações.
+O percentual de empresas que inovaram caiu de 36% no triênio enc errado em 2014 para 33,6% (uma em cada três) entre 2015 e 2017, em um universo de 116.962 companhias com dez ou mais trabalhadores.
+Entre os três setores, a indústria – extrativa e de transformação - foi a mais afetada, com o percentual de empresas inovado ras retraindo de 36,4% em 2014, para 33,9% em 2017, o menor índice das três últimas edições da pesquisa.
+Destaca -se que o percentual das receitas investidas em atividades inovadoras caiu de 2,12% em 2014 para 1,65%.
+Considerando os resultados das pesqui sas citadas, percebe -se que a taxa de inovação Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.8, n.3, Maio /Agosto – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v8n3.01 Página | 4 nas empresas brasileiras ainda é bastante tímida, reforçando um senso de urgência para que agentes públicos e instituições assimilem a necessidade em desenvolver políticas e instrumentos capazes de impulsion ar a gestão da inovação, aliadas ao desenvolvimento de capacitações tecnológicas regionais e esforços ao preenchimento da lacuna existente entre insumos (instituições, recursos humanos, pesquisa, infraestrutura, acesso a mercado e empresarial) e produtos d e inovação (Moncada -Paterno -Castello, Grassano, & Vezzani, 2017; Mulkay, 2019; Romano, 2019).
+Segundo dados da Federação da Indústria do Estado [FIEA] (2018), a atual estrutura industrial alagoana é formada por 14 (catorze) setores que durante o período em análise (2018) apresentou faturamento médio de R$ 25 bilhões com uma maior participação dos setores Sucroenergético, Químico, Produtos Alimentares e Bebidas e Extração e Tratamento de Minerais, sendo mais de 90% composto de Micro e Pequenas Empresas (MPE) .
+De forma geral, o estudo não aponta achados comuns às pesquisas análogas, ilustrando a existência de resultados robustos, mas analisa a aplicação de uma metodologia de gestão de inovação para MPE em um Estado em que a indústria é pouco diversificada e c om baixa densidade tecnológica.
+O artigo baseia -se em duas premissas de estudo.
+A primeira define a gestão da inovação em uma visão da abordagem tradicional ( mainstream ), conforme Cooper (1994), Berkhout et al.
+(2006), Tigre (2006), Paladino (2010), Zawislak, Zen, Fracasso, Reichert e Pufal (2013) e Tidd e Bessant (2015), apesar de não se refutar o papel difusor de novas tecnologias das grandes indústrias sobre a gestão da inovação (Acs, Audretsch, Lehmann, & Li cht, 2017; Miklian & Hoelscher, 2017; Ode & Ayavoo, 2020).
+Entretanto, examina -se, em primeiro lugar, em que medida as práticas de fomento e a oferta de recursos para as atividades inovativas são suficientes para compensar o baixo esforço inovativo e a ma turidade das MPE.
+Em segundo lugar, aponta que o objetivo de uma metodologia de gestão da inovação, mesmo em uma região com grandes fragilidades na composição das atividades econômicas, possa promover a geração e difusão de inovações, bem como fortalecer práticas internas de gestão.
+Deste modo, objetiva -se analisar a maturidade da gestão da inovação, sem desconsiderar os argumentos da caracterização industrial, apontando as assimetrias tecnológicas e as capacitações tecnológicas necessárias em uma metolod ologia de gestão da inovação.
+Como justificativa da pesquisa, destaca -se que, ao longo dos últimos anos, constatou -se que não é suficiente e apropriado que a dinâmica do desenvolvimento econômico se baseie no surgimento espontâneo de empreendimentos inova dores.
+Torna -se necessário investir e permitir o acesso Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.8, n.3, Maio /Agosto – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v8n3.01 Página | 5 de práticas inovadoras no setor empresarial, fomentando assim os ambientes de inovação e negócios inovadores (Santa Rita, Ferreira Júnior, & Sá, 2013).
+A aplicação de metodologias de gestão da inovaçã o vem sendo condição para o alcance de desempenho em muitas regiões e países.
+Para delimitar e aprofundar estas reflexões iniciais, este artigo pretende aprofundar o entendimento acerca da seguinte questão: como se avalia as MPE na indústria de Alagoas na perspectiva de uma metodologia de Gestão da Inovação (GI)?
+Assim, objetiva -se analisar as MPE na indústria de Alagoas na perspectiva de uma metodologia de Gestão da Inovação (GI).
+Especificamente, analisa -se o grau de maturidade das variáveis: (a) lider ança comprometida com a inovação; b) pessoas orientadas à inovação; c) estratégia orientada à inovação; d) relacionamento com o ambiente externo; e) marketing para a inovação e f) estrutura favorável à inovação, além da eficiência das empresas por meio d a metodologia de Análise por Envoltória de Dados (Data Envelopment Analysis -DEA).
+O artigo está dividido em cinco seções, além desta introdução.
+Na seção 2 apontam -se as bases conceituais sobre o tema abordando conceitos sobre inovação, gestão de inovaçã o e metodologias de gestão de inovação.
+Posteriormente, na seção 3, descrevem -se os procedimentos metodológicos.
+Os resultados obtidos são ilustrados na seção 4.
+Por fim, na seção 5 são registradas as considerações finais do estudo.
+2 REVISÃO DA LITERATURA 2.1 Inovação Na literatura, se observa o emprego de diversos referenciais para definir inovação.
+Por um lado, entre as correntes alternativas ao mainstream, a evolucionista privilegia o progresso técnico e a competitividade como meio para aumentar o desempenho e parti cipação no mercado.
+A lógica do pensamento dessa corrente é que os processos de inovação e sua difusão proporcionam forte impacto na atividade econômica e na competitividade (Dosi, 1982; Dosi, 1983; Freeman, 1987; Lundval, 1992).
+Schumpeter (1982) apontou uma base conceitual sobre inovação, diferenciando invenção, inovação e difusão.
+Como tal, a invenção é o desenvolvimento de um processo ou produto com sentido de explorar comercialmente a descoberta, até o momento, não realizada.
+A inovação é a transformação da invenção em um produto, processo ou modelo organizacional comercialmente e mercadologicamente rentável.
+Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.8, n.3, Maio /Agosto – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v8n3.01 Página | 6 Em particular, os termos tecnologia, técnicas, inovação, invenção e capacidade tecnológica estão sendo usualmente menc ionados e empregados no cotidiano da agenda empresarial (Figueiredo, 2002).
+Sob a perspectiva conceitual, a primeira distinção gira em torno da diferença dos termos tecnologia e técnicas.
+Para Tigre (2006), a tecnologia é definida como o conhecimento sobre técnicas.
+Por outro lado, as técnicas abrangem a aplicação desse conhecimento nos produtos, métodos organizacionais e processos.
+Chen et al., (2018) destacam recentes paradigmas sobre a concepção da inovação que originou do contexto europeu, em especial, a inovação orientada pelo design (Verganti, 2008), inovação social (Nicholls & Murdock, 2012), inovação pública (Swann, 2014), inovação orientada à missão (Massucatto & Pena, 2014) e inovação responsável (Ortiz, 2016) que enfatiza a integração de parad igmas de inovação tecnológica e de inovação por atributos de valor.
+Uma das lições mais importantes da literatura recente sobre gestão da inovação, é o fato de que o conceito ganhou amplitude, ou seja, de inovação tecnológica de forma restrita desdobrou -se para inovação de forma complexa (mercadológica, organizacional, o que levou ao conceito de capacidade inovativa e o desenvolvimento de sistemas de inovação, de redes de colaboração, de sistemas de transferências de tecnologias, capacidade inovativa e met odologias de gestão da inovação (Malerba & Orsenigo, 1997; Robertson & Smith, 2008; Valladares, Vasconcellos, & Serio, 2014; Zawislak, Gamarra, Alves, Barbieux, & Reichert, 2014).
+A extensa literatura tem investigado, ainda, muitos aspectos em que a inovaç ão é percebida como um processo dinâmico e tem concentrado esforços em capacidades que impulsionam a vantagem competitiva sustentável e o crescimento econômico para empresas individuais e nações (Teza, Miguez, Fernandes, Dandolini, & Souza; Chen, Yin, & Me i, 2018; Coad, Grassano, Hall, Moncada -Paternò -Castello, & Vezzani, 2019).
+Considerando o aumento da concorrência, impulsionada pela globalização e avanço das economias regionais e globais, a inovação é um elemento imperativo para a competitividade (Chen , 2017).
+2.2 Gestão da inovação A gestão da inovação tem sido amplamente considerada como o processo central para o crescimento econômico e a competitividade, tanto das empresas quanto das nações, além de impulsionar o desenvolvimento sustentável global, p ermitindo, assim, uma visão estratégica para apoiar e melhorar o sistema de inovação regional e o sistema de transferência de tecnologia para o desempenho das organizações (Hu & Mathews, 2005; Lopes, Kumiko, Salerno, Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.8, n.3, Maio /Agosto – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v8n3.01 Página | 7 Laurindo, & Carvalho, 2012; Acs, Audre tsch, Lehmann, & Licht, 2017; Chen, 2017; Miklian & Hoelscher, 2017; Ode & Ayavoo, 2020).
+Para Kuhlmann and Rip (2014), com o recente avanço das economias global e regional, a orientação de GI nas empresas cria um grande desafio para a ciência, tecnologia e inovação dos países.
+Dickel and Mour a (2016) observam que a capacidade de gestão da inovação das empresas é uma das principais características de organizações competitivas e dinâmicas.
+A gestão da inovação faz referência a um processo contínuo e sistemático de gerenciamento de ideias e inov ações dentro de uma empresa.
+Trata -se do desenvolvimento, implementação e o gerenciamento das condições (ambiental e cultural) que possibilitam e incentivam a implantação da cultural organizacional, ou seja, gerenciam a inovação nos processos, metodologias e mecanismos de incentivo de transferências de tecnologia.
+Miklian and Hoelscher (2017) destacam que a gestão da inovação tem um importante valor para a compreensão das práticas inovadoras dos principais campos tecnológicos das empresas industriais, ajudando -as a implementarem estratégias de atualização tecnológ ica, apoiada na capacidade baseada em inovação estratégica, na maximização do seu desempenho inovador, além de implicações de grande valor na otimização de design estratégico, aprimorando as vantagens da indústria ao proporcionar às empresas uma visão sis temática capaz de combinar gestão estratégica, design organizacional, construção cultural e pensamento divergente.
+Brandl, Kagerer and Reihart (2018) demonstram que o aprendizado organizacional está positivamente relacionado à gestão inovação.
+Na literatur a recente, autores como Mulkay (2019) argumentam que a gestão da inovação é muito ambígua, sendo difícil de replicar e, portanto, mais é provável que leve a uma vantagem competitiva sustentável.
+A inovação em gestão constitui regras e rotinas pelas quais se trabalha dentro das fronteiras de uma organização.
+Zawislak (2013) sintetiza a gestão da inovação como a organização de todos os conhecimentos e informações, sejam eles internos ou externos.
+Neste contexto, a gestão da inovação (GI) pode ser definida co mo o processo de criação de um ambiente e condições organizacionais que sejam propícias para aumentar o nível da capacitação inovativa da organização, tendo como objetivo influenciar o nível de inovação que ocorre na organização.
+Considerando o padrão evol utivo, diversos estudos (Liyanage, Greenfield, & Don, 1999; Miller, 2001; Berkhout et al., 2006) identificam quatro gerações da gestão da inovação.
+Buscando especificar cada uma delas, é importante pontuar que cada uma tem sua base construída na geração a nterior, tendo ênfase questões relacionadas ao planejamento, Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.8, n.3, Maio /Agosto – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v8n3.01 Página | 8 organização e processos modificados.
+O início da primeira geração se registrou em meados de 1900, a segunda por volta de 1950 e a terceira em 1985.
+A quarta geração permitiu que a P&D acelerasse a inovação de novos projetos dominantes.
+Segundo Geisler e Coral (2008) são encontrados quatro processos importantes para a gestão da inovação, entre: 1) identificação de oportunidade de novos produtos e serviços; 2) gerenciamento do portfólio de pesquisa e desenvolvimento; 3) projeção e desenvolvimento de novos produtos e serviços e 4) lançamento de novos produtos e serviços no mercado.
+Por fim, a gestão da inovação compreende a organização e o direcionamento de recursos humanos e financeiros com o intuit o de expandir a geração de novos conhecimentos, ideias, produtos e processos, como também a melhoria dos já existentes.
+Nesse sentido, são desenvolvidos métodos de gestão que agregam tanto as características objetivas (planejamento, metas, indicadores) com o subjetivas (criatividade, cooperação) da inovação tornando a GI um conceito menos dependente de sorte ou da criatividade, mas passível de gerenciamento (Hu & Mathews, 2005; Chen, 2018; Acs, Audretsch, Lehmann, & Licht, 2017).
+2.3 Metodologias de gestão da inovação Existem na literatura distintas maneiras de mensurar o grau de inovação e diferentes modelos de metodologias de gestão da inovação.
+Faz -se necessário, contudo, a adaptação de um modelo que seja implantado com ferramentas que permitam gerir a inovação de fo rma contínua, sistemática e sistêmica (CNI, 2018).
+Nessa direção é importante ser avaliado o ambiente interno e suas necessidades.
+A literatura tem apresentado diversos modelos, sendo algumas metodologias consolidadas que possibilitam mensurar a capacida de inovativa de uma empresa (Clark & Wheelwright,1992; Cooper, 1994, 2003; Docherty, 2006; Tidd, Bessant, & Pavitt, 2008; Hansen & Birkinshaw, 2007; Barbieri & Alvares, 2016; Julnes & Gibson, 2016; Zen, Machado, López, Borges, & Menezes, 2017; IEL, 2018).
+De forma geral, as metodologias desenvolvidas por Clark e Wheelwright (1992), bem como por Cooper (1994) correspondem aos modelos de referência para a gestão da inovação, reconhecendo que as intervenções exibem diferentes graus de compatibilidade com os o bjetivos do mercado.
+A metodologia de Cooper (1994), Stage -Gate , é direcionada a condução de projetos para o desenvolvimento de novos produtos por meio de um modelo gráfico em várias etapas, que alcança desde a geração da ideia até seu lançamento e etapa s posteriores.
+Por sua vez, a metodologia de Clark e Wheelwright (1992), Funil de Desenvolvimento, Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.8, n.3, Maio /Agosto – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v8n3.01 Página | 9 abrange três etapas diferentes, sendo a primeira desenhada pela ampliação da boca do funil.
+Os autores sublinham que a organização possui uma base de conhe cimento com acesso a informações que possibilitam o surgimento de novas ideias e produtos.
+A segunda etapa busca diminuir o centro do funil, ou seja, após geradas e analisadas várias ideias, o corpo organizacional foca esforços e recursos nas ideias mai s valorosas à organização.
+Outra metodologia bastante utilizada, principalmente nos modelos de ecossistema de inovação, é a Docherty (2006), conhecida como funil de inovação aberta, em que as organizações procuram soluções externas para suas demandas, p or meios de universidades, startups e outras fontes disponíveis para serem utilizadas de forma colaborativa.
+Nessa metodologia, é possível que as empresas adquiram inovações externas que já estão no mercado ou realizem transferência de tecnologia.
+Há, ai nda, a metodologia do processo de gestão da inovação desenvolvida pelo Instituto Euvaldo Lodi [IEL] (2018) que foi criada com o propósito de fomentar o desenvolvimento de competências empresariais, visando aumentar a capacidade inovadora das empresas por m eio do envolvimento da alta direção e colaboradores da organização, integração das áreas e uso de ferramentas adequadas do processo de gestão da inovação.
+Tal metodologia aborda o processo integralmente, além de especificar as etapas da gestão da inovação quanto ao interesse e ao nível de maturidade existente.
+Neste contexto, além dos modelos mencionados, vale salientar que outras metodologias vêm sendo aplicadas e customizadas.
+Contudo, observa -se que entre as metodologias clássicas até as mais contemporâ neas sempre há uma evolução no sentido de não focar apenas na geração de ideias e condução dos processos de inovação, como no caso das clássicas, mas também almeja a promoção de um ambiente favorável a GI, com vistas ao fomento da cultura organizacional.
+De modo geral, verifica -se que o processo é iniciado pela etapa de geração de ideias, na sequência de oportunidades decorrentes do desenvolvimento tecnológico e demandas identificadas do mercado (ou combinados), sendo fundamental o envolvimento da direção e de todos os colaboradores da organização, conforme elencado por Katz (2011).
+Um constante desafio é demonstrar claramente as diversas dimensões do processo de inovação tecnológica, sendo comum encontrar modelos de proposições gráficas com menor utilida de do que algumas exposições teóricas e artigos explicativos.
+A reflexão sobre práticas internas e grau de maturidade do processo de gestão da inovação é discutido nos estudos (Ahern, Clousea, & Turner, 2004;; Crawford, 2006; Raber,Winter, & Wortmann, 201 2; Torres, 2016) em que os modelos de maturidade nas Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.8, n.3, Maio /Agosto – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v8n3.01 Página | 10 organizações almejam as melhores práticas ou práticas comuns e optam por instrumentos ou questionários para avaliar a maturidade internamente com vistas à otimização da gestão da inovação através de ava liações e modelos que permitem a definição da situação, a elaboração de um plano de ação, a avaliação de sua implementação e o reforço do princípio do Deming "Se você não pode medir, você não pode gerenciar".
+Como tal, uma análise bem fundamentada, iden tificando os estímulos para a otimização da gestão da inovação, permite, por um lado, um maior envolvimento dos colaboradores na avaliação por meio de questionários e, por outro, workshops de análise e derivação de medidas permite a consolidação do planej amento estratégico (Brunswicker & Ehrenmann, 2013).
+Além do valor agregado através das diferentes perspectivas e competências, a mensuração da GI também tem um efeito colateral positivo no processo de mudança.
+A integração com a mensuração aumenta a consciência na gestão da i novação e comprometimento com medidas definidas para reduzir os custos, melhorar a qualidade e reduzir o tempo dos processos (Torres, 2016).
+3 PROCEDIMENTOS METODOLÓGICOS Descreve -se a metodologia da pesquisa.
+Quanto aos objetivos, a pesquisa caracteriza -se como estudo descritivo tendo por finalidade observar, registrar e analisar os fenômenos ou sistemas técnicos, sem entrar no mérito dos conteúdos (Triviños, 2009).
+Por s ua vez, quanto à natureza, segundo Bryman (2011), a pesquisa é quantitativa.
+A pesquisa quantitativa tem como objetivo examinar a maturidade das indústrias quanto às práticas de GI a partir da aplicação de um survey (Prodanov & Freitas, 2013).
+Como tal, o estudo realizado teve natureza aplicada, de cunho descritivo, sendo desenhada a partir do método survey .
+As fontes de informações foram as diretorias executivas.
+As informações foram coletadas por meio de questionários preenchidos, segundo procedimento de levantamento no ano de 2018, identificados em dois momentos do projeto, como T0 e T1.
+A investigação contemplou a população das empresas selecionadas para participar da metodologia de gestão de inovação do Instituto Euvaldo Lodi – IEL (2018), em Alagoas, ou seja, dezenove empresas incluídas no Cadastro Industrial da Federação da Indústria do Estado de Alagoas (FIEA).
+No estudo, as empresas foram investigadas com base na metodologia de gestão da inovação do IEL (2018), sendo submetidas ao projeto de GI, cuj as etapas previstas foram essenciais para a identificação da maturidade, bem como para orientar as etapas seguintes, Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.8, n.3, Maio /Agosto – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v8n3.01 Página | 11 inclusive para gerar um maior envolvimento das pessoas com poder decisório dentro das empresas.
+Para atender ao objetivo descritivo, o estu do de caso foi escolhido, tendo em vista a necessidade de apresentar a situação do contexto em que está sendo realizada a investigação, ou seja, a situação das indústrias participantes do projeto de gestão da inovação (Prodanov & Freitas, 2013; Yin, 2005).
+Pelo tamanho da população obtida, com apenas 19 elementos, que é considerado pequeno, foi necessário o uso de testes estatísticos não -paramétricos visto que não exige supor o tipo de distribuição de probabilidade ilustrada pelas variáveis analisadas (Sie gel, 1975).
+Para Meyer (1983), uma amostra deve ter um número de elemento suficientemente grande, no mínimo 30, para que se possa fazer alguma suposição sobre a distribuição da população da qual foi retirada a amostra.
+A seleção das empresas, objeto da pe squisa, teve como ponto de partida as empresas atendidas pelo "Projeto de Gestão de Inovação para Micro e Pequenas Empresas Industriais", conforme termo de adesão das empresas ao convênio de cooperação técnica nº 46/2014 Confederação Nacional da Indústria/ Federação da Indústria do Estado de Alagoas.
+Outros prérequisitos de seleção foram: serem empresas de micro e pequeno porte (faturamento de até 3,6 milhões em 2015) e serem classificadas na atividade principal de Indústria.
+O critério final baseou -se na concordância da empresa em participar do estudo em tela e na disponibilidade em receber a pesquisadora para realização da pesquisa.
+Para analisar a maturidade da GI entre o T0 e o T1, utilizou -se o método não paramétrico por meio da metodologia de Análise por Envoltória de Dados (DEA).
+O tempo médio do intervalo entre T0 e T1 foi de doze meses.
+A metodologia DEA possui uma grande ampli tude de aplicação (Gomes, 2008).
+A escolha para o T1 com a metodologia foi vinculada a necessidade de se identificar empresas que conseguiram alcançar eficiência com o desenvolvimento do projeto, distinguindo as variavéis eficientes das ineficientes.
+A DEA tem o intuito de mensurar o grau de eficiência técnica das unidades tomadoras de decisão por meio de um ou mais inputs (entrada ou insumo) para produção de um ou vários outputs (saída ou produto) (Mariano, Almeida, & Rebelatt, 2006; Souza & Rutalira, 2016).
+A avaliação desses itens aconteceu mediante a seleção de uma posição em uma escala de likert de 7 pontos.
+A escala possuía uma variação entre os rótulos da posição mínima ( 1) e máxima (7).
+Utilizou -se a média de todos os itens em cada uma das 7 variáveis estudadas, conforme os graus (1 a 7).
+O momento de entrada fez relação ao momento inicial (T0) e o momento final contemplou o (T1).
+Como base nos dados, foram coletadas ta mbém a partir da estrutura de mensuração do Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.8, n.3, Maio /Agosto – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v8n3.01 Página | 12 manual de Oslo: inovação na empresa, interações com outras empresas, papel da demanda e estrutura institucional.
+Tendo em vista que a área inovação na empresa compreendia três variáveis, foi realizada uma média d e todos os itens em cada variável por empresa, somando a média das três variáveis.
+Os inputs e outputs foram retratados a partir da análise de quatro outputs considerando os dados no momento T1 (inovação na empresa; interações com outras empresas; estrutur a institucional e demandas) e quatro inputs, considerando o momento T0 (inovação na empresa; interações com outras empresas; estrutura institucional e demanda).
+O questionário de GI consistiu em perguntas abertas e fechadas aos gestores da empresa, nas qua is foram identificadas seis variáveis: a) liderança comprometida com a inovação; b) pessoas orientadas à inovação; c) estratégia orientada à inovação; d) relacionamento com o ambiente externo; e) marketing para a inovação e f) estrutura favorável à inovaç ão.
+Para isso, o questionário, utilizado na metodologia do IEL (2018), foi dividido em dois blocos.
+No primeiro bloco foram coletadas as informações relacionadas ao perfil da empresa.
+No segundo bloco, inferiu -se o grau de relevância dos critérios a partir das variáveis estudadas, conforme apresentado nos parágrafos anteriores.
+A escala foi classificada em 3 intervalos, conforme a pontuação de sete pontos.
+A análise da variável foi mensurada a partir da soma da média geral de pontos de todas as empresas pesquisadas nos itens da variável específica, em cada momento: momento anterior - T0 e momento posterior - T1, sendo a média final da variável classificada em: 1 - a 3 pontos (nível de maturidade mínimo); 3,1 a 5 pontos (nível de maturidade intermediário) e 5, 1 a 7 pontos (nível de maturidade máximo).
+4 ANÁLISE DOS RESULTADOS E DISCUSSÃO Arrolaram -se os dados relativos às dimensões e fatores da pesquisa.
+Em um primeiro momento, a análise individual dos fatores examinou o conteúdo, sem a exigência de uma análise do problema e suas devidas associações, utilizando -se para isso a estatística d escritiva.
+No segundo momento, procedeu a análise não paramétrica por meio da metodologia de Análise por Envoltória de Dados (DEA).
+4.1 Metodologia de gestão da inovação na empresa A seguir são apresentados por meio da Figura 1 os quatro itens que compõem a variável "liderança orientada à inovação": liderança inovadora, inspiração dos funcionários, valorização Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.8, n.3, Maio /Agosto – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v8n3.01 Página | 13 do trabalho criativo e reconhecimento da importância da mudança.
+Média variável: liderança orientada à inovação Fonte: Dados da Pesquisa .
+De acordo com a Figura 1, no item "liderança inovadora", buscou -se averiguar se a alta administração estava comprometida com o desenvolvimento de novos produtos (bens ou serviços) e processos.
+As empresas que apresentavam o nível de maturidade mínimo possuíam uma l iderança que atuava de maneira informal e eventual, ao contrário do nível de maturidade máximo que situava empresas que possuíam um modelo sistemático, com metas estabelecidas, empregando processos e práticas de gestão.
+Observa -se que na maioria das empre sas pesquisadas, os líderes perceberam a gestão de inovação para atingir melhores resultados e competitividade, condição que pode ser verificada tendo em vista a média de 4,78 no cenário inicial, momento T0, refletindo uma maturidade intermediária e 5,78 n o T1.
+A partir do desenvolvimento do projeto de GI, as empresas passaram a utilizar ferramentas, como o plano de gestão da inovação.
+O plano contribuiu para a otimização dos resultados, uma vez que possibilitou um resumo das diretrizes e ações inovativas da empresa.
+Também serviu para o monitoramento do gestor da empresa em verificar os erros, propor ações corretivas, agregar valor e analisar os ganhos gerados.
+Ademais, ocorreu uma estruturação com base na entrega dos materiais e ferramentas aplicadas e de senvolvidas durante o projeto.
+Observa -se dessa forma um avanço na média para 5,78, com maturidade máxima.
+Os itens liderança inovadora e reconhecimento da importância da mudança alcançaram maturidade máxima no momento T1.
+Tal fato reflete que a liderança tinha conhecimento da necessidade de inovar e estava comprometida com a mudança passando a encorajar seus colaboradores.
+T0T1 01234567 Liderança inovadoraInspiração dos funcionáriosValorização do trabalho criativoReconhecimento da importância da mudança4,78 2,57 2,575,055,78 3,94 3,896,21 T0 T1Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.8, n.3, Maio /Agosto – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v8n3.01 Página | 14 Figura 02 .
+Média variável: estratégia orientada à inovação Fonte: Dados da pesquisa Na variável "Estratégia orientada à inovação", descrita na Figura 02, destaca -se o maior crescimento da média no item "alinhamento estratégico" com um cenário mais positivo uma vez que contemplou um aumento em 2,52 pontos da média, alcançando no momento T1 o nível de maturidade máximo, com média de 5,94 pontos.
+O item "clareza dos objetivos" também obteve um avanço com um aumento da média em 1,84 pontos, alcançando maturidade máxima no T1.
+Todos os itens da variável alcançaram maturidade de inovação máxim a, após desenvolvimento do projeto.
+Outro ponto relevante para o avanço das práticas inovadoras foi o maior enfoque na gestão dos colaboradores, descrito na média da variável "Pessoas orientadas à inovação", Figura 03, sendo oferecidas oportunidades par a que os envolvidos pudessem ter meios para desenvolver seu potencial em um ambiente favorável à inovação.
+Assim, a existência de mecanismos de recrutamento, bem como iniciativas, como programas de incentivos, gerenciamento de desempenho e oportunidades d e crescimento na carreira, foram essenciais para desenvolver um ambiente inovador dentro das empresas.
+As práticas puderam ser estabelecidas a partir de mecanismos de recrutamento, incentivos para lidar com desafios e implementação de ferramentas para o d esempenho e desenvolvimento de carreira.
+Quanto à variável "estratégia orientada à inovação", observa -se a divisão nos quatro itens: "equipes de trabalho definidas", "equipes capacitadas para inovar", "diversidade cultural e ideológica" e "agilidade das de cisões".
+T0T1 0123456 Antecipação tecnológica Alinhamento estratégico Clareza de objetivosPioneirismo estratégico2,783,424,05 3,264,685,94 5,89 4,68 T0 T1Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.8, n.3, Maio /Agosto – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v8n3.01 Página | 15 Figura 03 .
+Média variável: pessoas orientada à inovação Fonte: Dados da pesquisa A partir do projeto, foram estipuladas no plano de inovação, as metas, objetivos, impactos e ideias a serem desenvolvidas a respeito de produtos, processos, marketing, organizacional e modelo de negócio.
+Destaca -se o maior crescimento da média no item "alinhamento estratégico" com um cenário mais positivo que contemplou um aumento em 2,52 pontos da média, alcançando no momento T1 o nível de maturidade máximo, com média de 5,94 pontos.
+Observou -se, inicialmente, que as indústrias tinham disponíveis ferramentas com a finalidade de identificar a opinião e as preferências de seus clientes, a exemplo da pesquisa de satisfação e dos canais digitais (site institucional, redes sociais e aplicat ivo).
+A participação no projeto de GI permitiu o progresso das indústrias em 1,7 pontos na média, correspondendo ao nível alto.
+Além do fomento ao registro das informações adquiridas no contato com o cliente, a aplicação de ferramentas como o "Business Mo del Canvas" possibilitou uma ampla visualização de cada ideia, bem como da viabilidade de sua transformação em oferta de valor.
+De acordo com a Figura 4, o item "lançamento de novos produtos" permitiu identificar se as empresas eram capazes de lançar novo s produtos (bens ou serviços) empregando ações de marketing.
+As práticas eventuais e realizadas de maneira desestruturada caracterizam as organizações situadas no nível mais baixo.
+Em contrapartida, as empresas localizadas no nível mais alto se caracteriza m por adotar práticas sistemáticas, visando seu melhor aproveitamento competitivo.
+T0T1 0123456 Equipes de trabalho definidasEquipes capacitadas para inovar Diversidade cultural e ideológicaAgilidade das decisões4,16 2,633,002,745,21 4,11 4,21 4,16 T0 T1Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.8, n.3, Maio /Agosto – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v8n3.01 Página | 16 Figura 04 .
+Média variável: marketing para à inovação Fonte: Dados da Pesquisa Os relacionamentos externos visam identificar ideias advindas de clientes, fornecedores, concorrentes, universidades e outras organizações de pesquisa (públicas e privadas) a fim de orientar esforços de inovação.
+Empresas podem inovar por conta própria, ma s o processo pode ser facilitado pela existência de um conjunto de relações e pela troca de conhecimentos entre envolvidos na sociedade.
+As relações com outras instituições também podem facilitar o fluxo de informações e conhecimentos através da criação e intensificação de redes de contato e cooperação.
+No momento inicial, os dados apontavam o posicionamento das indústrias no nível intermediário com média 4,5.
+Essa realidade corresponde ao fato dos gestores perceberem a importância não só do apoio externo quando necessário, mas também o compartilhamento de ideias e criações.
+Nesse sentido, identificou -se a atuação contínua das indústrias no compartilhamento de conhecimentos mediante reuniões sindicais, eventos, recebimento de visitas de instituições de ensi no e relações mais próximas com clientes ou fornecedores.
+Como tal, a variável "Relacionamento com o ambiente externo", Figura 05, demonstrou um panorama bastante positivo por parte dos itens, o que demonstrou, em boa medida, uma boa atuação dos gestores p ara condições do ecossistema de inovação, conforme os dados apresentados.
+Destaca -se o crescimento da média em 1,5 pontos para o item "participação dos clientes", inserindo as empresas do nível de maturidade intermediário avançando para o nível máximo em r azão das técnicas implementadas durante o projeto.
+Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.8, n.3, Maio /Agosto – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v8n3.01 Página | 17 Figura 05 .
+Média variável: relacionamento com o ambiente externo Fonte: Dados da Pesquisa Empresas inovadoras estimulam a criação de fronteiras nos seus negócios, ajudando a quebrar barreiras entre funções, departamentos e grupos.
+Quanto mais orgânica a estrutura se tornou no projeto, maior o potencial para que ideias inovadoras surgissem dura nte o período do T0 e T1.
+Um sistema de comunicação fluiu entre todas as direções, departamentos e funções, bem como um sistema de recompensa foi motivador para a mudança de comportamento e, portanto, fundamental para iniciativas de inovação bem -sucedida s, conforme descrito nas médias da Figura 06.
+Para as empresas que já usufruíram desta atividade, buscou -se aperfeiçoar os modelos já existentes.
+Média variável: estrutura favorável à inovação Fonte: Dados da Pesquisa Os principais pontos na análise para o desenvolvimento da capacidade de gestão da T0T1 01234567 Abertura externa Participação dos clientes no desenvolvimentoRelacionamento com fornecedoresAtuação em redes de conhecimento externas4,534,054,58 4,685,895,585,95 6,05 T0 T1 Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.8, n.3, Maio /Agosto – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v8n3.01 Página | 18 inovação das empresas, após o momento T0 para T1, refere -se ao fato de que a maioria das empresas não utilizava ou tinha desconhecimento das práticas de inovação estabelecid as no desenvolvimento do projeto durante o período.
+4.2 Grau de maturidade e eficiêcia - análise envoltória dos dados – DEA A utilização do método DEA verificou a maturidade e eficiência das empresas quanto à aplicação do projeto e o desempenho de suas variáveis do momento T0 ao momento T1.
+Por meio do método DEA foram analisadas as dezenove empresas com dados relativos às en tradas e às saídas, considerando -se o manual de Oslo para mensuração da eficiência das empresas, conforme as seis variáveis da metodologia, baseando em quatro parâmetros de entrada (Inovação na empresa; Interações com outras empresas; Estrutura institucion al e Demandas) e quatro parâmetros de saída (Inovação na empresa; Interações com outras empresas; Estrutura institucional e Demandas).
+Para as entradas ou insumos ( input ), foi utilizada a média das variáveis em cada empresa no momento T0, sendo os dados relativos às saídas ou produtos (outputs) a média da variável em cada empresa no momento T1.
+O resumo do desempenho de eficiência, calculado por meio do método DEA, pode ser observado na Tabela 01.
+Tabela 01 – Método DEA Fonte: Dados da Pesquisa Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.8, n.3, Maio /Agosto – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v8n3.01 Página | 19 É importante ressaltar que o método DEA analisou a eficiência relativa.
+O ranking dependia da medida de desempenho adotada, que, por sua vez, esteve atrelada aos fatores escolhidos para análise.
+O grau de eficiência foi um indicad or de consistência no balanceamento dos inputs e outputs .
+A obtenção da eficiência máxima não significou a inexistência de debilidades à medida que os problemas identificados nas unidades ineficientes permitiram identificar fragilidades.
+Como tal, os resultados demonstram que os níveis gerais de eficiência das empresas quanto ao alcance máximo de pontuação corresponderam a mais de 50% das empresas pesquisadas.
+Cerca de onze empresas passaram a operar com 100% de eficiência, refletindo em uma maturidade na implementação de práticas inovadoras após o desenvolvimento do projeto, corroborando um alcance de maturidade máxima de inovação das empresas.
+Percebese que mesmo não apresentando dados de entrada baixos, a matriz possui dados de saída a ltos, ou seja, uma melhor variável de aproveitamento.
+Assim, o resultado é considerado adequado a partir do compartilhamento contínuo de conhecimento e aprendizado com os parceiros, instituições de pesquisa, clientes e fornecedores.
+A participação gerou ga nhos para as empresas ao ser ofertadas técnicas e acesso aos instrumentos de gestão para uma melhor efetividade de GI.
+Alguns canais não eram utilizados e o segundo melhor desempenho foi o da variável demanda para a inovação por meio das ações de marketing e lançamento de produtos.
+O menor desempenho foi o da empresa 18 apresentando uma eficiência de 79%, mas observa -se também o crescimento no momento T1 nas variáveis demanda e interação com o ambiente externo.
+Ademais, a análise das variáveis possibilitou ao gestor das empresas os ajustes necessários nas áreas com debilidades.
+5 CONCLUSÕES O estudo objetivou analisar as MPE na indústria de Alagoas na perspectiva de uma metodologia de Gestão da Inovação (GI).
+Especificamente, analisou o grau de maturidade d as variáveis: (a) liderança comprometida com a inovação; b) pessoas orientadas à inovação; c) estratégia orientada à inovação; d) relacionamento com o ambiente externo; e) marketing para a inovação e f) estrutura favorável à inovação, além da eficiência das empresas por meio da metodologia de Análise por Envoltória de Dados (DEA).
+A metodologia do processo de gestão da inovação desenvolvida pelo Instituto Euvaldo Lodi [IEL] (2018) forneceu uma estrutura para ancorar essas indagações.
+Na revisão bibliográfica, percebeu -se que a maior lacuna em termos do papel gestão da inovação esta va Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.8, n.3, Maio /Agosto – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v8n3.01 Página | 20 situada no aprendizado organizacional e nas práticas internas das organizações (Lia Hua, 2017; Bertoni, Le Nadant, & Perdreau, 2020).
+Portanto, no estudo, priorizou -se uma metodologia de gestão da inovação com envolvimento e comprometimento da administ ração como elemento importante para o modelo de maturidade no sentido da gestão da mudança e resultado representativo de GI, além de uma ampla integração de todas as áreas funcionais, conforme Katz (2011) e Brandl, Kagerer and Reihart (2018).
+A avaliação por meio de modelos de maturidade pode envolver um esforço considerável, dependendo da escolha do modelo e do escopo da integração.
+Este esforço deve ser aceitável em relação ao benefício.
+Assim, as MPE têm muito mais chances de alcançarem resu ltados positivos por meio da implementação de um processo contínuo de gestão da inovação na empresa, como apontado nos estudos de Miklian and Hoelscher (2017) e comprovados nos resultados da aplicação da metodologia de GI do IEL (2018) na indústria em A lagoas.
+Em relação ao atendimento do objetivo geral, pode -se ilustrar que a maioria das empresas não utilizava ou tinha desconhecimento das práticas estabelecidas no momento T0.
+Alguns gestores não tinham acesso ou não aplicavam as ferramentas de forma am pla e contínua, o que dificultava um bom gerenciamento da inovação.
+A partir da orientação recebida durante o período do projeto e T0, as empresas adquiriram maturidade por meio de práticas específicas de GI.
+A análise dos objetivos específicos da pesqu isa permitiu diagnosticar a maturidade de inovação das micro e pequenas empresas industriais nos períodos do T0 e T1.
+Diante dos resultados obtidos foi verificado evolução da maturidade no tocante as práticas de gestão da inovação.
+Na análise, a variável l iderança foi a única que não obteve maturidade máxima em todos os seus itens no momento T1.
+Apenas os itens liderança inovadora e reconhecimento da importância da mudança alcançaram maturidade máxima no momento T1.
+Esse fato reflete que a alta administraçã o tem conhecimento sobre a necessidade de inovar.
+Todavia, há o medo e o risco, associado ao conservadorismo dos gestores e colaboradores.
+Os gestores desconhecem quais ferramentas devem adotar e receiam contar com a influência das ideias positivas dos colaboradores para a empresa.
+Ademais, verificou -se que a única variável que obteve maturidade intermediária no momento do T1 foi a liderança.
+Dentre as variáveis que se destacaram, apresentando um melhor aproveitamento com aumento da média dos momentos T0 a T1, estratégia para a inovação, alcançou em todos os itens, maturidade de inovação máxima e crescimento total dos itens das médias de 7,68 pontos Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.8, n.3, Maio /Agosto – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v8n3.01 Página | 21 de T0 a T1.
+Esta variável obteve também o maior aumento no tocante ao alinhamento estratégico, após impleme ntação do projeto em relação aos itens das variáveis em estudo, exceto o item mecanismo de inovação (variável estrutura).
+Outra variável que obteve o maior crescimento da soma das médias do momento T0 a T1 foi estrutura voltada para a inovação com um cres cimento de 7,16 pontos.
+Todos os itens obtiveram um bom aproveitamento com alcance de maturidade máxima no momento T1.
+Destaca -se o item mecanismo de avaliação, com crescimento de 2,9 pontos no momento T1.
+No mais, foram implementadas nas empresas ferrame ntas e mecanismos que fortaleceram a prática da inovação, conforme a identificação de ações em cada variável.
+Por meio da aplicação da metodologia DEA foi possível verificar a eficiência para as empresas participantes, uma vez que após a obtenção dos índ ices DEA, foi possível verificar que a maioria das empresas do projeto havia ajustado as variáveis, denotando maturidade no desenvolvimento do projeto e eficiência.
+Em adição, entre as limitações do trabalho, destaca -se o pequeno número de empresas do pr ojeto e a dificuldade das empresas em disponibilizarem as informações, o que resultou em um período de tempo maior para a aplicação dos questionários nos períodos T0 e T1.
+Contudo, através das informações obtidas, percebeu -se a necessidade de um maior inv estimento em políticas que incentivem a cooperação e fortalecimento do ecossistema de inovação na indústria de Alagoas.
+Por fim, os resultados não apontaram conclusões definitivas, mas a necessidade de continuidade das linhas de pesquisa e de outros proje tos de metodologia de GI que permitam considerar a diversidade das MPE na indústria de Alagoas REFERÊNCIAS Acs, Z. J., Audretsch, D. B., Lehmann, E. E., & Licht, G. (2017).
+National systems of innovation.
+The Journal of Technology Transfer , 42(5), 997e1008.
+Ahern, D. M., Clousea., Turner, R. (2004).
+CMMI distilled: a practical introduction to integrated process improvement.
+Addison -Wesley Professional , 2004.
+Recuperado em 31 maio, 2020, de -BR&lr=&id=N Baregheh, A., Rowley, J. Sambrook, S. (2009) .
+Towards a multidisciplinary definition of innovation.
+Management Decision, 47(8), 1323 -1339.
+Barbieri, J. C., & álvares, A. C. T. (2016).
+Sixth Generation Innovation Model: Description of a Success Model.
+Innovation and Management Review , 13(2), 88 -112.
+Berkhout, A. J., Hartmann, D., Van Der Duin, P., & Ortt, R. (2006).
+Innovating the Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.8, n.3, Maio /Agosto – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v8n3.01 Página | 22 innovation p rocess.
+International journal of technology management, 34(3 -4), 390404.Bertoni, F., Le Nadant, A -L., & Perdreau, F.(2020), Management innovation in leveraged buyout companies.
+An International Journal of Entrepreneurial Finance .
+Volume 22, Issue 3, Page s 261 -279.
+Brandl, F. J., Kagerer, M., & Reinhart, G. (2018).
+A Hybrid Innovation Management Framework for Manufacturing - Enablers for more Agility in Plants.
+Procedia CIRP , 72, 1154 –1159.
+Brunswicker, S. & Ehr enmann, F. (2013).
+Managing open innovation in SMEs: a good practice example of a German software firm.
+International Journal of Industrial Engineering and Management (Ijiem) , 4 (1), 33 -41.
+Oxford: Oxford Univer sity Press.
+Canongia, C., Santos, D. M., Santos, M. M., & Zackiewicz, M. (2004).
+Foresight, inteligência competitiva e gestão do conhecimento: instrumentos para a gestão da inovação.
+Gestão & Produção , 11(2), 231 -238.
+Towards new and multi ple perspectives on innovation.
+International Journal of Innovation Studie s, 1(1), 1.
+Chen, J., Yin, X., & Mei, L. (2018).
+Holistic Innovation: An Emerging Innovation Paradigm.
+International Journal of Innovation Studies , 2, 1-13.
+Chen, B., Wan J., Shu, L., Li, P., Mukherjee, M., & Yin, B.
+Smart factory of industry 4.0: key technologies, application case, and challenges, IEEE Acces s, 6, 6505 -6519.
+Clark, K. B., & Wheelwright, S. C. (1992).
+Structuring the Development Funnel.
+Revolutionizing Product Development : Quantum Leaps in Speed, Efficiency.
+Coad, A., Grassano, N., Hall, B. H., Moncada -Paternò -Castello, P., & Vezzani, A.
+Innovation and industrial dynamics, Structural Change and Economic Dynamics , 50(C), 126131. Cooper, R. G. (1994) Third -Generation New Product Processes.
+Journal of Pr oduct Innovation Management , 11, 3-14. Cooper, R. G. (2003).
+Perspective: The Stage -Gate (R) idea -to launch process -update, what's new, and NexGen systems.
+Journal of Product Innovation Management , 25 (3), 213 -232.
+Confederação Nacional da Indústria.
+[CNI] (2017) Desempenho do Brasil no índice global de inovação 2011 -2017.
+Recuperado em 02 setembro, 2019, de: < -do- brasil -no-indiceglobal -de-inovacao -2011 -2017/>.
+Confederação Nacional da Indústria.
+Dese mpenho do Brasil no Índice Global de Inovação 2011 -2018 .
+Recuperado em 02 setembro, 2019, de: -do- brasil -no-indiceglobal -de-inovacao -2011 -2017/>.
+Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.8, n.3, Maio /Agosto – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v8n3.01 Página | 23 Crawford, J. K. (2006).
+The project management maturity model .
+Boca Raton , FL: Auerbach Publications, Recuperado em 31 maio, 2020, de Dickel, D. G., & Moura, G. L. d. (2016).
+Organizational performance evaluation inintangible criteria: A model based on knowledge management and innovation management.
+Review of Administration and Innovation, 13(3), 211 –220 Docherty, M. (2006).
+Primer on Open Innovation: Principles and Practice.
+Technological paradigms and technological trajectories – a suggested interpretation of the d eterminants and directions of technical change.
+Research Policy , 11(3), 147-162.
+Technology gaps and cost -based adjustment: some explorations on the determinants of international competitiveness.
+Metroeconomica , 35(3),197 -222.
+Federação da Indústria do Estado de Alagoas [FIEA] (2018).
+Relatório de Pesquisa de Desempenho Industrial , Maceió.
+Recuperado em 31 outubro 2019, de Figueiredo, P. N. (2002).
+Does Technological Learning Pay Off?
+Implications for Inter -Firm Differences in Operational Performance Improvement.
+Research Policy , 31 (1), p.73 -94.
+Technology Policy and Economic Performance : Lessons from Japan , London, Pinter.
+Geisler, L, & Coral, E. (2008).
+In: Coral; E; Ogliari, A; Abreu, A. F. de (org).
+Gestão integrada da inovaç ão: estratégia, organização e desenvolvimento de produtos .
+Uso de modelos DEA em agricultura: revisão da literatura.
+Engevista , [Rio de Janeiro], v. 10, n. 1, p. 27 -51, jun.
+Disponível em: rapa.br/alice/bitstream/doc/657598/1/UsodemodelosDEAemagri cultura.pdf.
+Harvard Business Review, 85, (6,) 121 -130.
+National innovative capacity in East Asia.
+Research Policy , 34(9), 1322 e1349.
+Metodologia NUGIN Gestão integrada da inovação tecnológica Instituto Euvaldo Lodi [IEL].
+Metodologia NUGIN Gestão integrada da i novação tecnológica nas empresas .
+Recuperado em 1 outubro, 2019, de file:///C:/Users/bruna/Downloads/IEL%20 -%20SC%20Natalino%20Uggioni%20(1).PDF.
+Instituto Brasilerio de Geografia e Estatística [IBGE].
+Pesquisa Industrial de Inovação Tecnológica – PINTEC .
+Recuperado em 31 maio, 2020, de Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.8, n.3, Maio /Agosto – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v8n3.01 Página | 24 Julnes, P. D. L. & Gibson, E. (2016).
+Innovation in the Public and Nonprofit Sectors : A Public Solutions Handbook.
+Rethinking the Product Development Funnel.
+Recuperado de: -insights.com/our -latest -thinking/articles/rethinking -product -development -funnel/ Kuhlmann, S., & Rip, A.
+The Challenge of addressing grand challenges: A think piece on how innovation can be driven towards the "Grand Challenges" as defined under the prospective European union framework programme horizon 2020 .
+Relatório da European Research and Innovation Area Board (ERIAB).
+Liyanage, S., Greenfield, P. F. & Don, R. (1999).
+Towards a fourth generation R&D management model -research networks in knowledge management.
+International J ournal Technology Manageme nt, 18, (¾).
+China's embracing innovation leads to its peaceful rise.
+China Policy Institute: Analysis , (5).
+Lopes, A.P., Kumiko, K., Salerno, S.S., Laurindo, F. J.B, & Carvalho, M.C.
+(2012), Innovation management: a literature review about the evolution and the different innovation models.
+In: International Conference on Industrial Engineering and Operations Man agement.
+Malerba, F., & Orsenigo, L. (1997) Technological Regimes and Sectoral Patterns of Innovative Activities, Industrial and Corporate Change , 6(1), 83 -117.
+Mazzucato, M., & Penna, C. C. R. (2014).
+Beyond market failures: State investment banks and the 'mission -oriented' finance for innovation.
+SPRU Working Paper Series , 21.
+Mariano, E. B., Almeida, M. R. & RebelattO, D.A.N.
+Princípios básicos para uma proposta de ensino sobre análise envoltória de dados.
+Probabilidade:Aplicaç ões à Estatística .
+São Paulo: Livros Técnicos e Científicos Editora.
+Miklian, J., & Hoelscher, K. (2017).
+A new research approach for peace innovation.
+Innovation and Development, 0(0), 1e19.
+Innovation for Business Growth.
+Research -Technology Management , 44, 26 -4.
+Moncada -Paterno -Castello, P., Grassano, N. & Vezzani, A.
+Innovation andindustrial dynamics: challenges for the next decade (No.
+How does competition affect innovation ?
+The nature of social innovation.
+In A. Nicholls, & A. Murdock (Eds.
+), Social in novation: Blurring boundaries to reconfigure markets (pp.
+Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.8, n.3, Maio /Agosto – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v8n3.01 Página | 25 London: Palgrave Macmillan UK.
+Niewöhner, N., Asmar, L., Wortmann, F,.
+Design fields of agile innovation management in small and medium sized e nterprises.
+Procedia CIRP , 84, p. 826 -831 Ode, E., Ayavoob, R, (2020).
+The mediating role of knowledge application in the relationshipbetween knowledge management practices and firm innovationEgena.
+Journal of Innovation & Knowledge 5.
+Quantum management: A new vision for organizations: The quantum physics applied to organizations .
+CreateSpace Independent Publishing Platform.
+Organisation For Economic Co -Operation And Development.
+Gerenciar a inovação: um desafio para as empresas .
+Raber, D, Winter, R, Wortmann, F. (2012).
+Using quantitative analyses to construct a capability maturity model for business int elligence.
+In: System Science (HICSS) 45th Hawaii International Conference on.
+Recuperado em 31 maio, 2020, de < a pability+Maturity+Model+for&btnG=&hl=pt -BR&as_sdt=0%2C5>.
+Explaining growth differences across firms: the interplaybetween innovation and management practices.
+Prodanov, C. C. & Freitas, E. C. (2013).
+Metodologia do Trabalho Científico: Méto dos e Técnicas da Pesquisa e do Trabalho Acadêmico .
+Rio Grande do Sul: Editora Feevale, 277 p. Santa Rita, L, P, S., Ferreira Junior, R, R., & Sá.
+Estimativa do Índice de Competitividade da Indústria: O caso de Alagoas.
+RAI - Revista de Ad ministração e Inovação, 10 (4) 136 -163.
+Estatística não -paramétrica (para ciências do comportamento) .
+Tradução de Alfredo Alves de Farias; revisão de Eva Nick.
+Eficiência d o gasto público em educação de nível:fundamental: Uma análise dos Estados brasileiros.
+Interface - Revista do Centro de Ciências Sociais Aplicadas , 13, (1), 33 -5.
+Teoria do desenvolvimento econômico .
+Common Innovation: How We Createthe Wealth of Nations .
+Teza, P., Miguez, V. B., Fernandes, R. F., Dandolini, G. A., & Souza, J.
+Ideias para a inovação: um mapeamento sistemático da literatura.
+Gestão & Produção, 23(1), 60 -83 Tidd, J.
+Tidd, J, Bessant, J & Pavitt, K. (2008).
+Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.8, n.3, Maio /Agosto – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v8n3.01 Página | 26 Tigre, P. B.
+(2006) Gestão da Inovação : A economia da tecnolo gia no Brasil .
+Rio de Janeiro: Elsevier.DOI: <10.3968/j.ibm.1923842820130602.1030>.
+Proposta de um Modelo de Maturidade para Gestão da Inovação .
+Dissertação de Mestrado, Universidade FUMEC, Belo Horizonte, Mg, Brasil.
+Organiza ção das Nações Unidas para a Educação, a Ciência e a Cultura.
+Relatório anual da UNESCO no Brasil de 2018 .
+Recuperado em 10 novembro, 2019, de Triviños, A. N. S. (2009).
+Introdução à Pesquisa em Ciências Sociais .
+Universidade Cornell, INSEAD e OMPI (2018).
+Índice Global de Inovação de 2018: Energizando o Mundo com Inovação .
+Ithaca, Fontainebleau e Genebra.
+Estudo de caso: planejamento e métodos .
+Valladares, P. S. D, Vasconcellos, M. A.
+& Serio, L. C. Capacidade de inovação: revisão sistemática da literatura.
+Revista de Administ ração Contemporânea , 18 (5), 598, 2014.
+Design, meanings, and radical innovation: A metamodel and a research agenda.
+Journal of Product Innovation Management , 25(5), 436 - 456.
+Zawislak, P. A., Zen, A. C., Fracasso, E. M., Reichert, F. M. & Pufal, N. A.
+(2013).Types of innovation in low -technology firms of emerging markets: an empirical study in Brazilian Industry.
+Revista de Administração e Inovação , 10 (1)212 -231.
+Zawislak, P. A, Tello -Gamarra, J, Alves, A.
+C, Barbieux, D & Reichert, F. M. (2018).
+The different innovation capabilities of the firm: further remarks upon the Brazilian Revista Produção Online, 18 (1), 3-35.
+Zen, A. C., Machado, B. D., López, A. I .
+J., Borges, M. C., & Menezes, D. C. de.
+Rota da Inovação: Uma Proposta de Metodologia de Gestão da Inovação.
+Revista de Administração Contemporânea , 21(6), 875 -892.

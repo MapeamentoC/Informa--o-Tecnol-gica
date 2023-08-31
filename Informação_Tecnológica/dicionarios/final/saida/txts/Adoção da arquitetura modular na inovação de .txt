@@ -1,0 +1,329 @@
+Adoption of modular architecture in product innovation: a preliminary literature analysis Suzana Regina Moro1 - Universidade Federal de Santa Catarina Paulo Augisto Cauchick Miguel2 - Universidade Federal de Santa Catarina - Dep.
+de Engenharia de Produção e SistemasAdoção da arquitetura modular na inovação de produtos: uma análise preliminar da literatura Devido aos benefícios percebidos pelas organizações na adoção de uma arquitetura modular, esta vem sendo muito utilizada para a inovação de produtos, principalmente nos setores que a concorrência e a competitividade são mais intensas.
+Nesse sentido, o objetivo deste trabalho é identificar, com base em uma análise bibliográfica, os benefícios do uso da arquitetura modular e os trade-offs existentes com relação ao projeto modular.
+Para tal, foi feita uma revisão sistemática da literatura visando identificar publicações que investigaram a relação entre a adoção do projeto modular e o desempenho de inovação.
+O presente trabalho apresenta os principais benefícios do uso da arquitetura modular como, por exemplo, custo e tempo de produção; trade-offs do projeto modular que influenciam na inovação de produtos, como proteção da propriedade intelectual e impacto ambiental dos produtos.
+As oportunidades para pesquisas futuras identificadas relacionam-se, principalmente, a necessidade de estudos empíricos e que avaliem as restrições do uso da modularidade.
+Verifica-se a importância de avaliar as vantagens e desvantagens do uso do projeto modular de acordo com as estratégias da organização e conclui-se que as pesquisas direcionadas para a verificação dos impactos ambientais das inovações modulares, assumem importante papel no contexto atual.Palavras-chave: Inovação de produtos.
+Due to the benefits perceived by organizations in adopting modular architecture, this has been widely used for product innovation, especially in sectors where competition and competitiveness are more intense.
+In this sense, the objective of this work is to identify, based on a bibliography analysis, the benefits of using modular architecture as well as existing trade-offs with respect to the modular design.
+For this purpose, a systematic literature review was conducted to identify studies that investigated the relationship between the adoption of modular design and innovation performance.
+The paper presents the main benefits of using modular architecture in, for example, cost and production time; trade-offs of modular design that influence product innovation, such as intellectual property protection and the environmental impact of products; and opportunities for future research were identified, primarily associated with the need for empirical studies and to assess the restriction of the use of modularity.
+The importance of assessing the advantages and disadvantages of the use of modular design according to the organization's strategies can be verified and it can be concluded that research aimed at verifying the environmental impacts of modular innovations plays an important role in the current context.Keywords: Product innovation.
+Literature review.RESUMO Abstr ActRecebido 05/09/2016 ApRovAdo 24/11/2016 1. suzana.moro19@gmail.com; 2.
+Campus Reitor João David Ferreira Lima, s/n, Trindade, Florianópolis, CEP: 88040-900, Santa Catarina, paulo.cauchick@ufsc.br MoRo, S. R.; Mig UEL , P .
+A. C. Adoção da arquitetura modular na inovação de produtos: uma análise preliminar da literatura.
+Gestão da Produção, Operações e Sistemas , Bauru, Ano 13, nº 2, abr-jun/2018, p. 89-111.
+DOI : 10.15675/gepros.v13i2.1847Adoção da arquitetura modular na inovação de produtos: uma análise preliminar da literatura90 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 13, nº 2, abr-jun/2018, p. 89-1111.
+INTRODUÇÃO Para manterem-se competitivas no mercado, mediante a concorrência em mercados cada vez mais dinâmicos, as organizações são impulsionadas a desenvolver produtos diferenciados, de maneira eficaz, com menores custos e melhor desempenho.
+A inovação não só permite adaptação a mudanças rápidas e até mudanças ruptivas em ambientes tecnológicos, econômicos, regulamentares e sociais das empresas, mas também proporciona um meio para conduzir e estruturar esta mudança (GANTER; HECKER, 2014).
+A arquitetura do produto tem um efeito implícito no princípio da inovação (HENDERSON; CLARK, 1990; ULRICH, 1995; SCHILLING, 2000).
+A escolha da arquitetura de um produto - integral ou modular - é importante na tomada de decisão gerencial e pode ser um fator-chave para o desempenho das organizações (FIXSON, 2005; RAMACHANDRAN; KRISHNAN, 2008).
+Assim, para a escolha, os gestores organizacionais precisam investigar os possíveis benefícios e limitações de ambos os tipos de arquitetura do produto (SHAMSUZZOHA et al., 2013).
+A literatura associa a modularidade de produto com melhorias de desempenho da organização, tais como em custos, variedade de produtos oferecidos, atendimento ao cliente, flexibilidade e entrega (JACOBS et al., 2007; LAU et al., 2007), tempo de desenvolvimento de novos produtos (SANCHEZ; MAHONEY, 1996; DANESE; FILIPPINI, 2013), bem como o desempenho do produto e suas características (ULRICH, 1995; WORREN et al., 2002; DANESE; FILIPPINI, 2013).
+Devido aos seus benefícios para a concepção e fabricação, o projeto modular do produto tem sido amplamente aceito como uma estratégia útil (MA; KREMER, 2016).
+Nesse contexto, a arquitetura modular tem sido considerada uma importante perspectiva na pesquisa de inovação de produtos (SHAMSUZZOHA et al., 2013).
+Porém, apesar de apresentar vários benefícios, a modularidade não deve ser considerada uma panaceia, porque em alguns contextos da inovação de produtos, algumas medidas de desempenho do produto podem se beneficiar da adoção de uma estratégia modular enquanto outras medidas podem diminuir (DANESE; FILIPPINI, 2013).
+O objetivo deste trabalho é analisar a literatura, identificando os principais benefícios do uso da arquitetura modular durante o ciclo de vida do produto e os trade-offs que impactam no desempenho das inovações de produtos, assim influenciando na escolha do tipo de arquitetura a ser utilizada para o projeto de produtos.Adoção da arquitetura modular na inovação de produtos: uma análise preliminar da literatura91 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 13, nº 2, abr-jun/2018, p. 89-111O restante deste trabalho é estruturado da seguinte forma: a seção 2 apresenta os principais conceitos de inovação de produtos e da arquitetura modular.
+A seção 3 descreve os métodos adotados para a busca, organização e análise da literatura.
+Na sequência, na seção 4 são apresentados os principais benefícios da utilização da arquitetura modular e os trade-offs identificados que influenciam no uso da inovação modular com relação a: proteção da propriedade intelectual, grau de inovação, variedade de produtos, velocidade de desenvolvimento e impacto ambiental.
+Na seção 5 é apresentada a discussão dos resultados e as oportunidades de trabalhos futuros identificadas na revisão de literatura com relação ao uso da arquitetura modular e o desempenho de inovação.
+O trabalho finaliza com as conclusões relativas à adoção da arquitetura modular e os impactos sobre a inovação de produtos, bem como as limitações da pesquisa.
+FUNDAMENTAÇÃO TEÓRICA: INOVAÇÃO DE PRODUTOS E ARQUITETURA MODULAR Uma inovação de produto é uma nova tecnologia ou combinação de tecnologias introduzida comercialmente para atender um usuário ou uma necessidade de mercado (UTTERBACK; ABERNATHY, 1975).
+As inovações de produtos geralmente visam oferecer benefícios aos clientes, reduzir os de custos para a empresa ou ainda oferecer a oportunidade de criar novos negócios (SLATER et al., 2014).
+A arquitetura do produto pode ser definida como a maneira pela qual os elementos funcionais de um produto são atribuídos aos componentes físicos e o modo pelo qual esses componentes interagem (ULRICH, 1995).
+Uma inovação é considerada modular (ou inovação de componente) se implicar alterações em um ou mais componentes, mas não afetar significativamente a configuração geral do sistema (SCHILLING, 2000).
+Já uma inovação arquitetônica ou integral implica em alterar a concepção global do sistema ou a forma que os componentes interagem uns com os outros (HENDERSON; CLARK, 1990).
+A modularidade é um conceito geral que descreve o grau em que os componentes de um sistema podem ser separados e recombinados, e o grau em que a arquitetura do sistema permite ou proíbe a mistura e a combinação de componentes (SCHILLING, 2000).
+Especificamente, a modularidade do produto é um conceito de agrupamento dos componentes independentes em unidades lógicas que são relativamente independentes umas das outras em funções (SAKUNDARINI et al., 2015).
+Porém, para sistemas complexos, obter os benefícios da modularização é um grande desafio (HOLMQVIST et al., 2003).Adoção da arquitetura modular na inovação de produtos: uma análise preliminar da literatura92 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 13, nº 2, abr-jun/2018, p. 89-111Objetivando facilitar o desenvolvimento de inovações modulares, existem na literatura alguns métodos para o projeto modular, que consistem em um conjunto de regras e ferramentas para construir um grupo de produtos diferentes partilhando a mesma plataforma (SCALICE et al., 2015).
+(2003) desenvolveram uma revisão de literatura apontando os principais métodos para o desenvolvimento da modularização.
+(2016), além de apontarem os métodos, avaliaram sua aplicabilidade e ferramentas utilizadas.
+Um dos mé-todos mais usados é o Design Structure Matrix (DSM), (HÖLTTÄ; OTTO, 2005; HELMER et al., 2010), desenvolvido por Pimmler e Eppinger (1994), que viabiliza encontrar alternativas de arquitetura para otimizar a qualidade do projeto através de uma matriz, resultando em potenciais grupos de módulos a serem avaliados por uma equipe de projeto (SCALICE et al., 2015).
+Já Martin e Ishii (2002) desenvolveram o Design for Variety (DfV), que trata-se de um método passo-a-passo que auxilia as empresas no desenvolvimento de arquiteturas de plataforma produto, descrevendo o fluxo dentro do projeto de desenvolvimento de produto.
+(2000) apresentaram um método heurístico para identificar a quantidade ideal de módulos para um produto.
+Há ainda outros métodos tais como o Modular Product Development (MPD), (PAHL; BEITZ, 1988), Modular Function Deployment (MFD), (ERIXON, 1998), House of Modular Enhacement (HoME), (SAND et al., 2002) e Fuzzy logic-based (NEPAL et al., 2005).
+PROCEDIMENTOS METODOLÓGICOS Nesta seção são apresentados os procedimentos utilizados para a realização da revisão de literatura.
+Objeto de estudo Inicialmente foi definido o objetivo do trabalho, sendo este verificar os benefícios e trade-offs do uso da arquitetura modular na inovação de produtos.
+Na sequência, foram verificadas as palavras-chave mais utilizadas nos contextos de inovação e arquitetura modular, sendo assim definidas as palavras-chaves para a busca: "component modularity"; "component innovation"; "modular decomposition"; "modular production"; "modular design"; "product architecture"; "product modularity"; "modular construction"; "modular architecture"; "decomposability"; "modular approach"; "modular structure"; "modular model"; "modular-in-use"; "modular product structure"; "modular system"; "modular manufacturing"; "near decomposity"; "technology modularization"; "module* and design", que foram combinadas com "innovation ".Adoção da arquitetura modular na inovação de produtos: uma análise preliminar da literatura93 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 13, nº 2, abr-jun/2018, p. 89-1113.2.
+Procedimentos de coleta de dados Para realização da busca, foram utilizadas as bases de dados ISI Web of Science da Thomson Reuters e Scopus da Elsevier .
+Foi utilizado o software Endnote 7® para registro e organização das publicações, considerando somente artigos em periódicos.
+Através das buscas nas duas bases obteve-se um total de 2456 artigos.
+Após a busca nas bases de dados anteriormente citadas, foram inicialmente excluídos os artigos duplicados e, na sequência, foram desconside-rados os periódicos de áreas não relacionais à engenharia tais como medicina, psicologia, ciências planetárias, genética, biologia, etc., restando 1275 artigos.
+Procedimentos de análise de dados Para a seleção dos artigos alinhados com o tema, foram lidos o título, palavras-chave e resumo, tendo sido selecionados 400 artigos.
+Na sequência foram baixadas as versões completas dos artigos e foi feita a leitura da introdução e conclusão, que resultou em 187 publicações alinhadas com os propósitos do trabalho, que foram lidas na totalidade.
+Durante a leitura foram selecionadas as publicações que abordam os benefícios da utilização da arquitetura modular na inovação de produtos, os potenciais trade-offs e as oportunidades futuras de pesquisa.
+Ao final, 49 artigos compuseram o portfólio do estudo.
+BENEFÍCIOS E tr ADE-OFF s DA UTILIZAÇÃO DA ARQUITETURA MODULAR A utilização da arquitetura modular pode oferecer muitas vantagens (KAMRAD et al., 2013), sendo a inovação modular importante no que diz respeito às exigências dos clientes de diferenciação do produto (SHAMSUZZOHA et al., 2013).
+Jose e Tollenaere (2005) apontam que o projeto modular tem benefícios claramente superiores no que diz respeito ao tempo de produção e custo, além de possibilitar que as empresas ofereçam uma maior variedade de produtos aos seus clientes, assim atingindo necessidades específicas destes.
+Adoção da arquitetura modular na inovação de produtos: uma análise preliminar da literatura94 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 13, nº 2, abr-jun/2018, p. 89-111Diversos produtos que nasceram com uma arquitetura integral estão se tornando mais modulares devido a várias pressões, como a necessidade de ciclos de vida do produto mais curtos e as demandas cada vez mais sofisticadas dos clientes (RO et al., 2007).
+Nesse sentido, os benefícios da utilização da arquite-tura modular podem ser percebidos durante todo o ciclo de vida do produto.
+A Figura 1 apresenta um mapeamento dos benefícios da utilização da arquitetura modular durante o ciclo de vida do produto.
+Figura 1 - Benefícios do uso da arquitetura modular durante o ciclo de vida do produto.
+Fonte: Construído pelos autores com base na análise da literatura.Adoção da arquitetura modular na inovação de produtos: uma análise preliminar da literatura95 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 13, nº 2, abr-jun/2018, p. 89-111O projeto de produto é uma preocupação crítica para os desenvolvedores, já que a maior parte do custo do produto e da qualidade do produto é determinada durante esta fase (MA; KREMER, 2016).
+A escolha da arquitetura de produto no início do processo de desenvolvimento de novos produtos é uma decisão estratégica crucial para as organizações, visto que a maneira que a modularidade pode contribuir para a capacidade de inovação do produto é fortemente influenciada pela qualidade das etapas iniciais do processo de desenvolvimento de produtos - PDP (FIORINESCHI et al., 2014).
+(2013), o uso da modularidade pode melhorar as atividades de gestão e os resultados do desenvolvimento de novos produtos já que permite que as empresas facilmente dissociem tanto o projeto quanto a fabricação dos componentes que constituem o produto e assegura a integração fácil e o bom desempenho dos componentes fornecidos externamente na arquitetura do produto final.
+Há uma relação forte e positiva entre o desenvolvimento da arquitetura modular do produto e os re-sultados do projeto (MARION et al., 2015).
+As organizações podem utilizar capital nos avanços na tecnologia de dado componente através da concepção e produção apenas desse componente (minimizando, assim, os custos de desenvolvimento e de produção), ao invés de proje-tar e produzir o produto inteiro como seria necessário com um projeto integral (KAMRAD et al., 2013).
+No entanto, para sistemas de engenharia complexos geralmente não é possível identificar trabalhos altamente modulares durante as fases de projeto e desenvolvimento, embora possa seja possível identificar componentes modulares durante as fases de fabricação e cadeia de suprimentos (TRIPATHY; EPPINGER, 2013).
+Diversos autores investigaram o impacto da modularidade no envolvimento de fornecedores e alianças interorganizacionais (LAU et al., 2007; RO et al., 2007; CABIGIOSU; CAMUFFO, 2012; DANESE; FILIPPINI, 2013; ETHIRAJ; POSEN, 2013; SALV ADOR; VILLENA, 2013; BOUNCKEN et al., 2015).
+Nesse contexto, a modularidade pode ser um antecedente importante no envolvimento no processo de inovação e, assim, contribuir para a compreensão dos fatores contextuais que podem facilitar a integração bem sucedida dos fornecedores no desenvolvimento de inovações (DANESE; FILIPPINI, 2013).
+A modularidade também pode reduzir a complexidade das inovações quando a empresa utiliza rede de inovação (SONG et al., 2013).
+Nesse sentido, os benefícios da integração com fornecedores podem ser melhorados quando os fabricantes se concentram no desenvolvimento de produtos modulares (SALV ADOR; VILLENA, 2013).Adoção da arquitetura modular na inovação de produtos: uma análise preliminar da literatura96 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 13, nº 2, abr-jun/2018, p. 89-111Apesar de a literatura existente (e.g.
+SANCHEZ; MAHONEY, 1996; DORAN, 2007, MA; KREMER, 2016) concentrar-se em prever benefícios modularidade do produto, nenhum tipo de arquitetura é ideal em todos os casos e, assim, é importante identificar e discutir os trade-offs associados com a escolha da arquitetura ideal em contextos diferentes (YIN et al., 2014).
+Um trade-off define uma situação em que há conflito de escolha, assim, são apontados os aspectos do uso do projeto modular que levam a melhoria em alguns aspectos do desempenho da inovação, porém acarretam perda em outros aspectos.
+Na sequência são abordados cada um dos trade-offs identificados, com base na revisão da literatura, que impactam o uso do projeto modular na inovação de produtos com relação aos seguintes aspectos: proteção da propriedade intelectual, grau de inovação, variedade de produtos, velocidade de desenvolvimento e impacto ambiental.
+Proteção da propriedade intelectual modular Henkel e Baldwin (2009) apontam que proteção intelectual modular suporta tanto a criação quanto a captura de valor, porém, o impacto da modularidade na apropriação de valor foi menos estudado.
+Nem sempre é fácil para as empresas a capturar valor e proteger sua propriedade intelectual (BALDWIN; HENKEL, 2015).
+Gerenciando os mecanismos de proteção intelectual e a estrutura modular do novo produto em conjunto, a captura de valor é otimizada se a proteção intelectual de cada módulo e as suas fronteiras são claramente definidas (HENKEL et al., 2012).
+A proteção da propriedade intelectual em módulos pode favorecer o co-desenvolvimento, já que permite determinar o status da propriedade intelectual no nível dos componentes, empregando desenvolvedores internos nas interfaces e comprando partes fechadas de fornecedores, assim alguns módulos podem ser divulgados publicamente e outros mantidos em sigilo (RAASCH, 2011).
+A modularidade facilita a criação de valor principalmente quando os atores envolvidos no desenvolvimento da inovação possuem habilidades heterogêneas (RAASCH, 2011).
+Porém, provavelmente aumentará o custo do projeto, já que exigirá esclarecimentos legais, e poderá implicar em perda de desempenho do produto (HENKEL et al., 2012).
+Contudo, nos casos de necessidade de habilidades críticas para o desenvolvimento que a empresa não possui, a modularidade pode reduzir atrasos (RAASCH, 2011).
+Nesse contexto, o aumento dos custos com a proteção intelectual modular devem ser avaliados em relação aos benefícios percebidos (HENKEL; BALDWIN, 2009).Adoção da arquitetura modular na inovação de produtos: uma análise preliminar da literatura97 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 13, nº 2, abr-jun/2018, p. 89-111A escolha do uso da arquitetura modular pode também ser influenciada pelas leis locais e setoriais de propriedade intelectual.
+Os direitos de propriedade intelectual sancionados pelo Estado podem servir como barreiras que aumentam o poder de barganha da empresa focal e permitir que esta se aproprie do valor dos recursos de conhecimento (LA VIE, 2007).
+Quando as leis de proprie-dade intelectual em determinada região são ineficazes ou inacessíveis financeiramente, a modularidade pode ser usada para ocultar informações, assim protegendo a propriedade intelectual (BALDWIN; HENKEL, 2015).
+Contudo, se a estratégia da empresa para se apropriar de valor repousa pesadamente sobre a propriedade de ativos complementares, a proteção intelectual modular pode não ser necessária (HENKEL et al., 2012).
+Como alternativa, em certos casos, contratos relacionais podem proteger o conhecimento (BALDWIN; HENKEL, 2015).
+Nesse aspecto, quanto maior e mais variada a necessidade de adaptações do produto, mais vantajosa é a modularização da propriedade intelectual (HENKEL; BALDWIN, 2009).
+Grau de inovação dos produtos modulares A arquitetura modular é amplamente implementada para a inovação incremental, onde as práticas inovadoras estão direcionadas principalmente para o desenvolvimento dos módulos de acordo com funcionalidades requeridas (SHAMSUZZOHA et al., 2013).
+Contudo, as características da modularidade têm sido associadas à redução no caráter radical da inovação (FLEMING; SORENSON, 2001; FIXSON, 2007).
+O uso demasiado da modularidade pode afetar também o grau de novidade do produto (SONG et al., 2013), assim, quando os clientes exigem um grau mais elevado de diferenciação, os fabricantes são forçados a reduzir a modularidade da inovação (SHAMSUZZOHA et al., 2013).
+Quando as tecnologias apresentam extrema interdependência, os engenheiros devem promover ativamente os esforços para tornar a tecnologia mais modular (FLEMING; SORENSON, 2001).
+A modularidade pode reduzir a comple-xidade das inovações quando a empresa utiliza rede de inovação (SONG et al., 2013), e ainda aumentar o potencial de difusão das inovações (FIXSON, 2007).
+A modularidade da tecnologia e a evolução da cadeia de valor industrial baixam o limiar da inovação disruptiva e permitem que as empresas retardatárias em Adoção da arquitetura modular na inovação de produtos: uma análise preliminar da literatura98 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 13, nº 2, abr-jun/2018, p. 89-111questão de inovação em economias emergentes alcancem o nível tecnológico das inovações disruptivas (LIU et al., 2015).
+No caso de tecnologias complexas, as empresas retardatárias podem, através do uso da modularidade buscar evoluir as relações de colaboração na cadeia de valor industrial, criar novos mode-los de negócios e desenvolver inovações disruptivas para atender as demandas de nichos de mercado específicos negligenciadas por empresas líderes já estabe-lecidas (LIU et al., 2015).
+Quando o esforço de padronização em uma empresa envolve muito conhecimento codificado, os resultados da inovação incremental e arquitetônica são promovidos, enquanto as inovações modulares e radicais são prejudicadas (XIE et al., 2016).
+Empresas com base modular podem melhorar a sua eficiência nos mercados de alta tecnologia e maduros, e explorar plenamente os seus recursos (BENASSI, 2009).
+Quando os produtos e processos são altamente inovadores, as vantagens em relação ao custo de fabricação do envolvimento de fornecedores e da capacidade de desenvolvimento modular diminuem (SALV ADOR; VILLENA, 2013).
+Para lidar com a inovação de produtos precisa-se formular a opção para a inovação modular a partir do qual as diferenciações dos produtos evoluirão, e esta perspectiva de inovação pode ser definida em termos de restrição a modularidade e o número de componentes originais dentro de um sistema de produção (SHAMSUZZOHA et al., 2013).
+Variedade de produtos A modularidade tende a acelerar o processo de inovação nas organizações e aumentar a variedade de produtos ofertados (ULRICH, 1995).
+Os produtos modulares permitem a oferta de maior variedade de produtos, possibilitando economia de escala e maior flexibilidade na reutilização de componentes (JOSÉ; TOLLENAERE, 2005).
+A partir da arquitetura dos produtos, as organizações podem desenvolver habilidades para lidar com os problemas trazidos pela variedade de produtos (YIN et al., 2014), pois com o uso de componentes comuns com base na modularidade, a capacidade de produzir maior variedade de produtos aumenta exponencialmente (WAN; DRESNER, 2015).Adoção da arquitetura modular na inovação de produtos: uma análise preliminar da literatura99 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 13, nº 2, abr-jun/2018, p. 89-111Usar a arquitetura modular para desenvolver componentes comuns é uma forma útil de oferecer uma variedade de produtos com baixo custo (DESAI et al., 2001; FIXSON, 2007; YIN et al., 2014).
+A modularidade pode aumentar a taxa de inovação porque oferece mais opções de escolha (FIXSON, 2007).
+Para cada módulo, podem ser feitas inovações, e os módulos podem ser recombinados para criar novos produtos (LIU et al., 2015), ou para atender às mudanças dinâmicas de demandas do mercado (BALDWIN; CLARK, 1997).
+Nesse contexto, a modularidade é reconhecida como uma abordagem particularmente útil, já que permite as empresas enfrentar a complexidade resultante da variedade de produto elevada e em constante mudança de acordo com a demanda dos consumidores (WOOREN et al., 2002; DORAN et al., 2007; DANESE; FILIPPINI, 2013).
+Para as empresas que são bem sucedidas aumentando a variedade de produtos, esse sucesso vai ser um fator positivo na introdução de produtos futuros, contudo as empresas não podem esperar alcançar a mesma magnitude de retornos de futuros lançamentos de novos produtos como os alcançados com introduções passadas (WAN; DRESNER, 2015).
+A dependência de componentes pode também restringir as escolhas de esforços de inovação da organização (ETHIRAJ; POSEN, 2013).
+O valor no uso da modularidade diminui quando a taxa global de inovação na tecnologia dos componentes é alta (KAMRAD et al., 2013).
+Os componentes caracterizados por mudança tecnológica rápida podem ter o processo de inovação facilitado pela troca de informações com terceiros, se utilizarem a arquitetura modular (FURLAN et al., 2014).
+Por outro lado, o valor da modularidade aumenta com a dife-rença nas taxas de melhoria entre os componentes e quando os clientes são mais tecnicamente sofisticados e assim, os custos de produção são elevados e quando a perda de desempenho devido à modularização é baixa (KAMRAD et al., 2013).
+Quando interdependências de componentes são não triviais e as empresas são especializadas em fabricação de componentes, os retornos da inovação modular não são independentes da taxa e direção da mudança na arquitetura do produto (ETHIRAJ; POSEN, 2013).
+Contudo, em mercados com usuários tecnicamente pouco sofisticados, a utilização de estratégia de atualização modular tem o potencial de retardar a absorção da inovação (KAMRAD et al., 2013).Adoção da arquitetura modular na inovação de produtos: uma análise preliminar da literatura100 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 13, nº 2, abr-jun/2018, p. 89-1114.4.
+Velocidade do desenvolvimento de produtos Com o uso de estratégias modulares, a capacidade de dissociar a introdução dos subsistemas pode reduzir o tempo de desenvolvimento de inovações de produto (ULRICH, 1995; BALDWIN; CLARK, 1997; RAMACHANDRAN; KRISHNAN, 2008) e melhorar significativamente o desempenho dos novos produtos (DANESE; FILIPPINI, 2013).
+Dessa forma, quando o desenvolvimento de produtos precisa responder rapidamente a uma demanda heterogênea, a solução modular é atrativa (SCHILLING, 2000).
+A modularidade decompõe e simplifica o sistema de conhecimento complexo, cada módulo tem a mesma base de conhecimento e está ligado a outro com a mesma interface, e assim, várias inovações podem ser desenvolvidas simultaneamente (ZHU et al., 2014).
+No que diz respeito à programação de lançamento de produtos, o uso da arquitetura modular pode acelerar a criação de valor, pois permite ciclos de lançamento curtos para alguns módulos, independente de outros módulos que precisam ser mantidos mais estáveis por razões técnicas ou estraté-gicas (RAASCH, 2011).
+A taxa de inovação nas organizações também é acelerada com o uso de atualizações modulares, já que devido ao aumento nas receitas, a empresa investe mais em desenvolvimento de componentes e lança atualizações modulares antecipadamente (RAMACHANDRAN; KRISHNAN, 2008).
+A modularidade pode ser utilizada como um mecanismo para aumentar a velocidade de evolução de sistemas globais (FRENKEN; MENDRITZKI, 2012).
+Se os clientes exigem um alto grau de customização e a velocidade de mudança é alta, é mais vantajoso para a empresa optar por adotar arquiteturas de produtos modulares (MAGNUSSON; PASCHE, 2014), já que o nível ótimo de utilização da modularidade minimiza o tempo necessário para otimizar um sistema (FRENKEN; MENDRITZKI, 2012).
+Contudo, é um desafio para a empresa visualizar qual o nível ideal de utilização da modularidade, principalmente quando se trata de inovações de caráter mais radical e com fronteiras tecnológicas ainda não claras.
+Para tal, podem ser utilizados métodos para auxiliar na identificação da quantidade ideal de módulos para um produto, como o método heurístico (STONE et al., 2000).Adoção da arquitetura modular na inovação de produtos: uma análise preliminar da literatura101 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 13, nº 2, abr-jun/2018, p. 89-1114.5.
+Impacto ambiental dos produtos modulares O projeto modular pode fornecer benefícios para aspectos diversos do ciclo de vida do produto, como funcionalidade do produto, fabricação, facilidade de montagem e manutenção, reutilização e reciclagem (GU; SOSALE, 1999).
+Como resposta às crescentes preocupações e exigências de respeito pelo ambiente, harmonia social e benefício econômico de produtos, o projeto de produto tornou-se um dos temas mais importantes que influenciam a sustentabilidade global (MA; KREMER, 2016).
+Com uma estratégia de atualização modular, apenas alguns componentes são substituídos, efetivamente estendendo a vida útil do produto e reduzindo os recursos utilizados e a poluição (RAMACHANDRAN; KRISHNAN, 2008).
+As atualizações modulares podem ainda reduzir a taxa de obsolescência de subsistemas com elevado impacto ambiental e acelerar a adoção de novas unidades com um impacto menor de utilização (AGRAWAL; ÜLKÜ, 2012).
+Do ponto de vista do bem-estar social e econômico dos consumidores, os produtos modularmente atualizáveis podem levar a geração de menor quantidade de resíduos e menor consumo de energia e de outros recursos naturais e ao mesmo tempo permitir que os consumidores se beneficiem da tecnologia mais recente (KAMRAD et al., 2013).
+Nesse contexto, as atualizações modulares têm sido promovidas por grupos ambientalistas e adotada por várias empresas como uma estratégia de design ambientalmente correta (AGRAWAL; ÜLKÜ, 2012).
+Contudo, para determinadas categorias de produtos (e.g.
+computadores), a atualização modular pode aumentar o impacto ambiental devido à obsolescência acelerada decorrente da introdução e substituição mais frequente, e ainda assim as empresas podem adotá-la devido à maior rentabilidade (AGRAWAL; ÜLKÜ, 2012).
+No entanto, a obsolescência acelerada, sob algumas condições, pode tornar as atualizações modulares mais corretas ambientalmente (AGRAWAL; ÜLKÜ, 2012).
+Podem ser citados casos de atualizações de produtos com consumo mais eficiente de energia, que neste caso apesar do resíduo gerado, consumirão menos recursos durante o seu ciclo de vida.
+Os efeitos relacionados com a cadeia de suprimentos sobre o desempenho do ciclo de vida do produto são significativos e a estrutura modular é eficaz na redução dos custos do ciclo de vida e consumo de energia durante o ciclo de vida causado por vários agentes da cadeia de suprimentos (CHUNG et al., 2014).
+Adoção da arquitetura modular na inovação de produtos: uma análise preliminar da literatura102 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 13, nº 2, abr-jun/2018, p. 89-111Além disso, deve-se considerar que a concepção de produtos para reutilização, por exemplo, fazendo uso de sistemas modulares e componentes normalizados, deve tornar-se norma (STAHEL, 2016), forçando as organizações a adotarem estratégias modulares.
+(2016) desenvolveram um método de projeto para verificar a quantidade ideal de módulos de um produto para minimizar os impactos ambientais sem impactar no desempenho produtivo.
+(2015) formularam um método de otimização para auxiliar os projetistas na concepção de produtos com estratégias de fim de vida adequadas e reduzir o impacto ambiental durante a retirada do produto do mercado.
+Assim, com o constante aumento da preocupação com o impacto ambiental dos produtos, estratégias modulares tendem a oferecer mais benefícios neste aspecto para as empresas num futuro próximo.
+DISCUSSÃO DE RESULTADOS E OPORTUNIDADES DE PESQUISAS FUTURAS Apesar dos benefícios advindos da modularidade, o desempenho global só pode ser otimizado por meio de uma arquitetura integral, de acordo com Ulrich (1995).
+Contudo, a modularidade pode melhorar significativamente o desempenho dos novos produtos, se mediada pelo envolvimento de fornecedores no processo de inovação (DANESE; FILIPPINI, 2013).
+As organizações que possuem capacidades superiores de desenvolvimento de produtos modulares se beneficiam mais do envolvimento dos fornecedores em seus esforços para o de-senvolvimento de novos produtos em relação ao custo de fabricação e desempe-nho técnico (SALV ADOR; VILLENA, 2013).
+Embora a interação de estruturas de produtos modulares com uma estratégia de inovação aumenta o desempenho da inovação de produtos, esta contingência também reduz o efeito positivo da estratégia de inovação no desempenho competitivo (BOUNCKEN et al., 2015).
+Estruturas de produtos modulares aumentam o desempenho competitivo tanto diretamente quanto indiretamente através da velocidade da inovação para o mercado e radicalidade (BOUNCKEN et al., 2015).
+Contudo, no caso de ne-cessidade de proteção da propriedade intelectual, a estrutura modular, apesar de diminuir a complexidade e facilitar o desenvolvimento simultâneo de módulos, pode acarretar aumento no custo de desenvolvimento.Adoção da arquitetura modular na inovação de produtos: uma análise preliminar da literatura103 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 13, nº 2, abr-jun/2018, p. 89-111Entre os artigos selecionados foram verificadas algumas oportunidades de pesquisas futuras mostradas no Quadro 1, principalmente relativo a tópicos emergentes e sobre os trade-offs identificados.
+As sugestões de oportunidades de pesquisa identificadas referem-se principalmente a estudos empíricos e que avaliem as diferenças entre fatores contigênciais entre setores, e também que verifiquem o impacto do envolvimento de fornecedores no desenvolvimento de inovações.
+Quadro 1 - Sugestões de trabalhos futuros identificados na literatura recente.
+Referências oportunidade de pesquisa Chiu et al.
+(2016)Comparar as vantagens e desvantagens da modularidade, utilizando indicadores verdes, para ajudar os decisores a realizar uma avaliação mais diversificada em relação ao uso da modularidade.
+(2016)Realizar estudos em indústrias com atividades de inovação intensiva.Explorar casos em que os esforços de padronização resultaram em desvantagens competitivas, por exemplo, criando ineficiências burocráticas ou comotização da indústria.
+(2015)Investigar os efeitos da interação entre a tecnologia da informação (TI), o projeto digital e outras tecnologias de TI que podem potencialmente apoiar as atividades de P&D.
+(2014)Abordar a divergência entre a modularidade-como-propriedade e modularidade como processo, a fim de verificar as diferenças entre os níveis reais e pretendidos de modularidade e entre interdependências visíveis e ocultas, em diferentes tipos de indústria.
+Magnusson e Pasche (2014)Identificar os fatores de contingência que podem ajudar a explicar a aplicabilidade e utilidade da modularidade.Realizar estudos sobre as limitações e potenciais efeitos negativos do uso da modularidade.
+Danese e Filippini (2013)Investigar o impacto da modularidade em inovação de produtos, no desempenho do produto em relação à qualidade e redução de custos e na capacidade de inovar no nível dos componentes arquitetônicos em diferentes contextos e tipos de indústrias, através de pesquisas empíricas.
+Salvador e Villena (2013)Analisar os efeitos do envolvimento de fornecedores e da capacidade de desenvolvimento modular no desempenho dos novos produtos, tais como tempo de mercado e os resultados financeiros de um determinado projeto, bem como com medidas mais refinadas de inovação de produtos e processos.
+(2013)Realizar estudos empíricos para medir o nível de modularidade formulado teoricamente e assim permitir generalizar as conclusões.
+(2013)Considerar o ciclo de vida de redes de inovação para resolver os problemas em diferentes fases da inovação de produtos.
+Fonte: Construído pelos autores com base na análise da literatura (2016).Adoção da arquitetura modular na inovação de produtos: uma análise preliminar da literatura104 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 13, nº 2, abr-jun/2018, p. 89-111Existem poucos estudos sobre as restrições do uso da arquitetura modular e seus potenciais efeitos negativos (MAGNUSSON; PASCHE, 2014), que representariam importantes contribuições para a percepção dos problemas a modularidade pode ocasionar.
+Frente a regulamentação ambiental e necessidade de diminuição do impacto ambiental dos produtos, também representam oportunidades emergentes as pesquisas direcionadas para a verificação dos impactos ambientais das inovações modulares, principalmente os efeitos da redução de resíduos e diminuição de consumo de energia dos produtos.
+Visto que alguns estudos apontam métodos utilizados para o desenvolvimento modular, representariam importantes contribuições verificar quais mé-todos conduziriam a melhores desempenhos das inovações modulares desenvolvidas através de seu uso.
+Além disto, novos métodos que visem promover o desenvolvimento eficaz de módulos e o dimensionamento da quantidade ideal módulos representam ainda oportunidades emergentes para solucionar os trade-offs identificados nesta revisão.
+CONCLUSÕES A escolha do tipo de arquitetura depende das estratégias da organização para o desenvolvimento de produtos.
+Pode-se perceber que o uso da arquitetura modular tem benefícios claramente superiores no que diz respeito ao tempo de produção e custo, além de possibilitar que as empresas ofereçam uma maior variedade de produtos aos seus clientes, assim atingindo necessidades específicas destes.
+Além disso, com o aumento da preocupação com o impacto ambiental dos produtos, as estratégias modulares despontam como solução para minimizar o consumo de materiais.
+Este trabalho apresenta algumas limitações, principalmente no que diz respeito à falta de delimitação de setores estudados nas publicações selecionadas, já que podem ser percebidas diferenças significativas entre os setores.
+Outra limitação foi a busca restrita em duas bases de dados e as palavras-chave utilizadas, que podem não ter incluído trabalhos relevantes.
+Para a discussão dos trade-offs , uma limitação da pesquisa foi a escassez de estudos sobre as restrições do uso da arquitetura modular e seus potenciais efeitos negativos, já que a maioria dos estudos identificados foca nos benefícios do uso da arquitetura modular.
+Adoção da arquitetura modular na inovação de produtos: uma análise preliminar da literatura105 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 13, nº 2, abr-jun/2018, p. 89-111Cada um dos trade-offs do uso da inovação modular que impactam na escolha da arquitetura a ser utilizada nos projetos de inovação de produtos poderiam ser explorados em maior profundidade e mais trabalhos poderiam ser direcionados nesse sentido.
+Além disso, podem ser feitas comparações entre os setores visando verificar se algumas conclusões referem-se a setores específicos ou se apresentam contradições entre os setores.
+Como implicações gerenciais, este trabalho pode auxiliar as organizações a perceberem os benefícios e trade-offs do uso da arquitetura modular para a de inovação de produtos, além de apontar trabalhos específicos para busca de informações mais amplas.
+Dessa forma, de acordo com sua estratégia, a organização pode direcionar o tipo de arquitetura ideal para o desenvolvimento de suas inovações de produtos.
+AGRADECIMENTOS Os autores agradecem aos avaliadores do artigo pela contribuição para a sua melhoria.
+Também agradecem a Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) pelo apoio e ao Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) pelo apoio financeiro à pesquisa.
+REFERêNCIAS AGRAWAL, V. V.; ÜLKÜ, S. The role of modular upgradability as a green de-sign strategy.
+Manufacturing & Service Operations Management , v. 15, n. 4, p. 640-648, 2012.
+Managing in an age of modularity.
+Harvard Business Review , v. 75, p. 84-93, 1997.
+BALDWIN, C. Y.; HENKEL, J. Modularity and intellectual property protection.
+Strategic Management Journa l, v. 36, n. 11, p. 1637-1655, 2015.
+BENASSI, M. Investigating modular organizations.
+Journal of Management & Governance , v. 13, n. 3, p. 163-192, 2009.
+BOUNCKEN, R. B.; PESCH, R.; GUDERGAN, S. P. Strategic embeddedness of modularity in alliances: Innovation and performance implications.
+Journal of Business Research , v. 68, n. 7, p. 1388-1394, 2015.Adoção da arquitetura modular na inovação de produtos: uma análise preliminar da literatura106 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 13, nº 2, abr-jun/2018, p. 89-111CABIGIOSU, A.; CAMUFFO, A.
+Beyond the mirroring hypothesis: Product modularity and interorganizational relations in the air conditioning industry.
+Organization Science , v. 23, n. 3, p. 686-703, 2012.
+CABIGIOSU, A.; ZIRPOLI, F.; CAMUFFO, A. Modularity, interfaces definition and the integration of external sources of innovation in the automotive industry.
+Research Policy , v. 42, n. 3, p. 662-675, 2013.
+Redesign for sustainability and assemblability using particle swarm optimization method.
+Journal of Industrial and Production Engineering , v. 33, n. 2, p. 103-113, 2016.
+CHUNG, W. H.; KREMER, G. E. O.; WYSK, R. A.
+Life cycle implications of product modular architectures in closed-loop supply chains.
+The International Journal of Advanced Manufacturing Technology , v. 70, n. 9-12, p. 2013-2028, 2014.
+DANESE, P.; FILIPPINI, R. Direct and mediated effects of product modularity on development time and product performance.
+Engineering Management, IEEE Transactions on , v. 60, n. 2, p. 260-271, 2013.
+DESAI, P.; KEKRE, S.; RADHAKRISHNAN, S.; SRINIV ASAN, K. Product differentiation and commonality in design: Balancing revenue and cost drivers.
+Management Science , v. 47, n. 1, p. 37-51, 2001.
+DORAN, D.; HILL, A.; HWANG, K.S.
+; JACOB, G. Supply chain modularization: Cases from the French automobile industry.
+International Journal of Production Economics , v. 106, n. 1, p. 2-11, 2007.
+ERIXON, G. Modular function deployment: a method for product modularisation.
+of Technology, Department of Manufacturing Systems, Assembly Systems Division, 1998.
+ETHIRAJ, S. K.; POSEN, H. E. Do product architectures affect innovation productivity in complex product ecosystems.
+Advances in Strategic Management , v. 30, p. 127-166, 2013.
+FIORINESCHI, L.; RISSONE, P.; ROTINI, F. Modularization vs.
+International Journal of Innovation Science , v. 6, n. 1, p. 29-42, 2014.Adoção da arquitetura modular na inovação de produtos: uma análise preliminar da literatura107 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 13, nº 2, abr-jun/2018, p. 89-111FIXSON, S. K. Product architecture assessment: a tool to link product, process, and supply chain design decisions.
+Journal of Operations Management , v. 23, n. 3, p. 345-369, 2005.
+Modularity and commonality research: past developments and future opportunities.
+Concurrent Engineering , v. 15, n. 2, p. 85-111, 2007.
+Technology as a complex adaptive system: evidence from patent data.
+Research policy , v. 30, n. 7, p. 1019-1039, 2001.
+FRENKEN, K.; MENDRITZKI, S. Optimal modularity: a demonstration of the evolutionary advantage of modular architectures.
+Journal of Evolutionary Economics , v. 22, n. 5, p. 935-956, 2012.
+FURLAN, A.; CABIGIOSU, A.; CAMUFFO, A.
+When the mirror gets misted up: Modularity and technological change.
+Strategic Management Journal , v. 35, n. 6, p. 789-807, 2014.
+GANTER, A.; HECKER, A. Configurational paths to organizational innovation: qualitative comparative analyses of antecedents and contingencies.
+Journal of Business Research , v. 67, n. 6, p.1285-1292, 2014.
+GERSHENSON J. K.; PRASAD G. J.; ZHANG Y.
+Product modularity measures and design methods.
+Journal of Engineering Design, v. 15, n. 1, p. 33-51, 2004.
+GU, P.; SOSALE, S. Product modularization for life cycle engineering.
+Robotics and Computer-Integrated Manufacturing , v. 15, n. 5, p. 387-401, 1999.
+HELMER, R.; YASSINE, A.; MEIER, C. Systematic module and interface definition using component design structure matrix.
+Journal of Engineering Design , v. 21, n. 6, p. 647-675, 2010.
+Architectural innovation: The reconfiguration of existing product technologies and the failure of established firms.
+Administrative science quarterly , v.35, n.1, p. 9-30, 1990.
+HENKEL, J.; BALDWIN, C. Y. Modularity for value appropriation: drawing the boundaries of intellectual property.
+Harvard Business School Working Paper , Boston, MA, 2009.Adoção da arquitetura modular na inovação de produtos: uma análise preliminar da literatura108 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 13, nº 2, abr-jun/2018, p. 89-111HENKEL, J.; BALDWIN, C. Y.; SHIH, W. IP modularity: profiting from innovation by aligning product architecture with intellectual property.
+Harvard Business School Finance Working Paper , n. 13-12, p. 1-25, 2012.
+HOLMQVIST, T. K. P.; PERSSON, M. L. Analysis and improvement of product modularization methods: Their ability to deal with complex products.
+Systems Engineering , v. 6, n. 3, p. 195-209, 2003.
+HÖLTTÄ, K. M. M.; OTTO, K. N. Incorporating design effort complexity measures in product architectural design and assessment.
+Design studies , v. 26, n. 5, p. 463-485, 2005.
+HUANG, C. C. Overview of modular product development.
+Proceedings- National Science Council Republic of China Part A Physical Science and Engineering , v. 24, n. 3, p. 149-165, 2000.
+JACOBS, M.; VICKERY, S. K.; DROGE, C. The effects of product modularity on competitive performance: do integration strategies mediate the relationship?
+International Journal of Operations & Production Management , v. 27, n. 10, p. 1046-1068, 2007.
+JOSE, A.; TOLLENAERE, M. Modular and platform methods for product family design: literature analysis.
+Journal of Intelligent Manufacturing , v. 16, n. 3, p. 371-390, 2005.
+KAMRAD, B.; SCHMIDT, G. M.; ULKU, S. Analyzing product architecture under technological change: Modular upgradeability tradeoffs.
+IEEE Transactions on Engineering Management , v. 60, n. 2, p. 289-300, 2013.
+LAU, A. K. W.; YAM, R. C. M.; TANG, E. P. Y.
+Supply chain product co-development, product modularity and product performance: Empirical evidence from Hong Kong manufacturers.
+Industrial Management & Data Systems , v. 107, n. 7, p. 1036-1065, 2007.
+LA VIE, D. The competitive advantage of interconnected firms: An extension of the resource-based view.
+Academy of management review, v. 31, n. 3, p. 638-658, 2006.
+LIU, X.; XIE, Y.; WU, M. How latecomers innovate through technology modularization: Evidence from China's Shanzhai industry.
+Innovation , v. 17, n. 2, p. 266-280, 2015.
+Adoção da arquitetura modular na inovação de produtos: uma análise preliminar da literatura109 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 13, nº 2, abr-jun/2018, p. 89-111MA, J.; KREMER, G. E. O.
+A sustainable modular product design approach with key components and uncertain end-of-life strategy consideration.
+The International Journal of Advanced Manufacturing Technology , v. 85, p. 741-763, 2016.
+MAGNUSSON, M.; PASCHE, M. A Contingency‐Based Approach to the Use of Product Platforms and Modules in New Product Development.
+Journal of Product Innovation Management , v. 31, n. 3, p. 434-450, 2014.
+MARION, T. J.; MEYER, M. H.; BARCZAK, G. The Influence of Digital Design and IT on Modular Product Architecture.
+Journal of Product Innovation Management , v. 32, n. 1, p. 98-110, 2015.
+MARTIN, M. V.; ISHII, K. Design for variety: developing standardized and modularized product platform architectures.
+Research in Engineering Design, v. 13, n. 4, p. 213-235, 2002.
+MIKKOLA, J. H. Management of product architecture modularity for mass customization: modeling and theoretical considerations.
+Engineering Management, IEEE Transactions on, v. 54, n. 1, p. 57-69, 2007.
+NEPAL, B; MONPLAISIR, L; SINGH, N. Integrated fuzzy logic-based model for product modularization during concept development phase.
+International Journal of Production Economics , v. 96, n. 2, p. 157-174, 2005.
+PAHL, G.; BEITZ, W. Engineering design - a systematic approach, Springer-Verlag, London, 1988.
+PETERS, L.; SAIDIN, H. IT and the mass customization of services: the challenge of implementation.
+International Journal of Information Management , v. 20, n. 2, p. 103-119, 2000.
+PIMMLER, T. U.; EPPINGER, S. D. Integration analysis of product decompositions.
+Proceedings of the ASME Design Theory and Methodology Conference, Minneapolis, USA, 1994.
+RAASCH, C. Product development in open design communities: A process perspective.
+International Journal of Innovation and Technology Management , v. 8, n. 4, p. 557-575, 2011.Adoção da arquitetura modular na inovação de produtos: uma análise preliminar da literatura110 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 13, nº 2, abr-jun/2018, p. 89-111RAMACHANDRAN, K.; KRISHNAN, V. Design architecture and introduction timing for rapidly improving industrial products.
+Manufacturing & Service Operations Management , v. 10, n. 1, p. 149-171, 2008.
+RO, Y. K.; LIKER, J. K.; FIXSON, S. K. Modularity as a strategy for supply chain coordination: The case of US auto.
+Engineering Management, IEEE Transactions on , v. 54, n. 1, p. 172-189, 2007.
+SAKUNDARINI, N.; TAHA, Z.; GHAZILLA, R. A. R.; ABDUL-RASHID, S. H. A methodology for optimizing modular design considering product end of life strategies.
+International Journal of Precision Engineering and Manufacturing , v. 16, n. 11, p. 2359-2367, 2015.
+SALV ADOR, F.; VILLENA, V. H. Supplier integration and NPD outcomes: Conditional moderation effects of modular design competence.
+Journal of Supply Chain Management , v. 49, n. 1, p. 87-113, 2013.
+SANCHEZ, R.; MAHONEY, J. T. Modularity, flexibility, and knowledge management in product and organization design.
+Strategic Management Journal , v. 17, n. S2, p. 63-76, 1996.
+SAND, J. C.; GU, P.; WATSON, G. HOME: House of modular enhancement - a tool for modular product redesign.
+Concurrent Engineering , v. 10, n. 2, p. 153164, 2002.
+SCALICE, R. K.; DA SILV A, J. O.; OSTETTO, J. N.; DE PAULA, G. A. Modular deployment using TRM and function analysis.
+Technological Forecasting and Social Change , v. 92, p. 1-11, 2015.
+Toward a general modular systems theory and its application to interfirm product modularity.
+Academy of Management Review , v. 25, n. 2, p. 312-334, 2000.
+SHAMSUZZOHA, A. H. M.; KRISTIANTO, Y.; HELO, P. Implications of interface management for modularity degree.
+Journal of Modelling in Management , v. 8, n. 1, p. 6-24, 2013.
+SLATER, S. F.; MOHR, J. J.; SENGUPTA, S. Radical product innovation capability: literature review, synthesis, and illustrative research propositions.
+Journal of Product Innovation Management , v. 31, n. 3, p. 552-566, 2014.Adoção da arquitetura modular na inovação de produtos: uma análise preliminar da literatura111 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 13, nº 2, abr-jun/2018, p. 89-111SONEGO, M.; ECHEVESTE, M. S. Seleção de métodos para modularização no desenvolvimento de produtos: revisão sistemática.
+Production , v. 26, n. 2, p. 476 -487, 2016.
+SONG, W.; MING, X.; WANG, P. Collaborative product innovation network: Status review, framework, and technology solutions.
+Concurrent Engineering , v. 21, n. 1, p. 55-64, 2013.
+Nature , v. 531, n. 7595, p. 435-438, 2016.
+; CRAWFORD, R.H. A heuristic method for identifying modules for product architectures.
+Design studies , v. 21, n. 1, p. 5-31, 2000.
+TRIPATHY, A.; EPPINGER, S. D. Structuring work distribution for global product development organizations.
+Production and Operations Management , v. 22, n. 6, p. 1557-1575, 2013.
+ULRICH, K. The role of product architecture in the manufacturing firm.
+Research Policy , v. 24, n. 3, p. 419-440, 1995.
+UTTERBACK, J. M.; ABERNATHY, W. J.
+A dynamic model of process and product innovation.
+Omega , v. 3, n.6, p. 639-656, 1975.
+WAN, X.; DRESNER, M. E. Closing the Loop: An Empirical Analysis of the Dynamic Decisions Affecting Product Variety.
+Decision Sciences , v. 46, n. 6, p. 1141-1164, 2015.
+WORREN, N.; MOORE, K.; CARDONA, P. Modularity, strategic flexibility, and firm performance: a study of the home appliance industry.
+Strategic Management Journal , v. 23, n. 12, p. 1123-1140, 2002.
+XIE, Z.; HALL, J.; MCCARTHY, I. P.; SKITMORE, M.; SHEN, L. Standardization efforts: The relationship between knowledge dimensions, search processes and innovation outcomes.
+Technovation , v.48-49, p.69-78, 2016.
+YIN, Y.; KAKU, I.; LIU, C. Product architecture, product development process, system integrator and product global performance.
+Production Planning & Control , v. 25, n. 3, p. 203-219, 2014.
+ZHU, F.; XIU-XIA, S.; JANIS, M.; ZHI-JUN, D. Innovations in Knowledge Management: Applying Modular Design.
+International Journal of Innovation Science , v. 6, n. 2, p. 83-96, 2014.

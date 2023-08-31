@@ -1,0 +1,460 @@
+ Prefeitura de Florianópolis Instituto de Planejamento de Florianópolis (IPUF) Florianópolis: dinâmica demográfica e pr ojeção da população por sexo, grupos et ários, distritos e bairros (1950-2050) Paulo Campanário, Ph.D. em demografia Novembro de 2007 Índice 1.
+Preparação e homogeneização da s populações censitárias 1 3.
+Ajuste da população de 1950 1 3 .
+D e s c r i ç ã o d o M o d e l o E v a d a n 1 3.b.
+Cálculo da TGF repr esentativa do período anterior a 1950 2 3.c.
+Cálculo dos saldos migratórios por sexo e idades representativos do período anterior a 1950 3 3.d.
+A mortalidade do período 1650-1950 3 3.e.
+Estimativa do número total de habitantes em 1950 e da o m i s s ã o c e n s i t á r i a 3 3.f.
+Outras observações com respeito à população de 1950 4 G r á f i c o s 6 a 8 4 4.
+Correção da população entre 1950 e 2010 4 4 .
+Primeira etapa da correção: o ajuste de todas as coortes por sexo e idades já existentes no Censo de 1950 4 4.3.
+Segunda etapa da correção: o ajuste de todas as coortes por sexo e idades existentes entre 1950 e 2000 5 4.4.
+Ligações elétricas e tendências do período 2000-2010 6 5.
+Projeção da população total até 2050 7 6.
+A projeção dos distritos e dos bairros 9 7.
+A projeção da população flutuante por distritos 9 B i b l i o g r a f i a 1 0 G r á f i c o s 1 1 T a b e l a s 2 2 11.
+Introdução Devido à crescente necessidade de dados demográficos, os novos dados do Censo Demográfico de 2000 levaram o IPUF a elaborar uma nova proj eção populacional do Município de Florianópolis co m o horizonte de 2050.
+Um est udo do período 1950-2000 foi necessário para entender a dinâmica demográf ica das últimas décadas, ou seja, as mudanças na fecundidade, na mortalidade e nos saldos migratórios, para projetá-las e assim poder estimar a população futura com maior segurança.
+A população futura foi projetada por distritos e bairros e, no caso dos primeiros, discr iminada por idades, informações necessárias par a o planejamento a médio e l ongo prazos da saúde, da educação, da construção civil, do transporte etc.
+Foi estimada também a população flutuante, tão importante para o planejamento turístico e de infr a-estrutura.
+É importante assinalar a importância estr atégica de uma projeção populaci onal para o Plano Diretor Participativo de Florianópolis, em plena realização atualmente, sob a coordenação do IPUF.
+O presente texto explica as di ferentes metodologias utilizadas e descreve os principais resultados obtidos1.
+Aqui se explica como funciona o Modelo Evadan, principal ferramenta empregada neste trabalho para os cá lculos demográficos; o que é o Método dos Componentes para projetar populações; como foi feit a a correção da estrutura por sexo e idades da população dos diferentes censos (1 950, 1960,.
+2000); quais são os níveis de omissão censitária; como foram estimadas as taxas das principais variáveis demográficas neste período e quais as hipóteses de tendências futuras das mesmas, im prescindíveis para fazer projeções pelo citado método.
+Para a realização deste esforço foram aplicadas diferentes técnicas e várias etapas.
+Grosso modo , numa primeira, se estimou, para o municípi o em sua totalidade, uma nova população por sexo e idades para o dia 30 de Junho de 1 950 a partir do censo deste mesmo ano, ou seja, se aplicou uma técnica específica para co rrigir e ajustar a população deste ano, ponto de partida da projeção.
+Numa segunda etapa fo ram corrigidas as populações do período 1950-2000 a partir de novos conjuntos de taxa s de fecundidade por idades, de saldos migratórios e de relações de sobrevivência por sexo e idades e períodos qüinqüenais.
+Numa terceira, foram feitas hipóteses de com portamento futuro das va riáveis estimadas no período 1950-2000, as quais foram usadas par a projetar a população.
+Estabelecida a mesma por sexo e idades até 2050, foram projetados os distritos e, finalmente, os bairros.
+Adicionalmente, foram projet ados os domicílios, a população flutuante e as populações dos distritos por idades e anos simples.
+Finalmente, agradeço a aj uda do Arquiteto José Rodrigues da Rocha, coordenador geral do Plano Diretor, da Sra.
+Celzina Maria Pereira, economista e dos técnicos do IPUF que, nas inumeráveis reuniões realizadas, fizeram crítica s, sugeriram modificações e forneceram dados, o que redundou num trabalho mais ac orde com a realidade de Florianópolis2.
+Tabelas em formato de planilha, para facilitar consultas e cálculos, estão disponíveis no IPUF.
+Preparação e homogeneizaç ão das populações censitárias 1 Os dados numéricos deste estudo estão disponíveis em planilhas para um uso mais ágil e prático 2 Celzina Maria Pereira, Amilton Vergara de Souza, Josian e das M. B. Caldas, Ênio Martins, Silvia Ribeiro Lenzi, Cleide C. Locks, Marcos Ramos, Candido B. R ego Neto.
+Márcia M. O. Silveira, Vera Lúcia G. da Silva.
+A primeira etapa para a prepar ação e homogeneização das populações censitárias se fez com a população por sexo e idades do grupo fi nal aberto.
+No presente caso, este grupo foi o de 75 e mais anos.
+O segundo passo foi solucionar o problema da população com idades ignoradas, que aparece em alguns casos.
+O procedimento clássico é distribuir esta população proporcionalmente nos difer entes grupos de idades, por sexo.
+A partir de 1950 foram realizados seis censos de população no país (1950, 1960, 1970, 1980, 1991 e 2000) 3.
+Os ajustes e correções dos mesmos, no período 1950-2000, é feito por períodos qüinqüenais exatos; consequent emente, foi necessário deslocar a população de 1991 para 1990, por meio de uma interp olação a partir dos grupos etários e por sexo, tendo como pontos de referência 1980 e 2000.
+A população dos anos terminados em cinco foi obt ida a partir de interp olação geométrica por coortes ou gerações.
+Po r exemplo, o grupo de homens de 5-9 anos de 1955 foi estimado através da interpolação do grupo 0-4 de 1950 com o grupo 10- 14 de 1960 etc.
+Nos grupos 0-4 e 75 e mais, ta l procedimento não é possível, pelo que se procedeu a uma interpolação geométrica "horizontal".
+Dessa forma, o grupo 0-4 de 1955 foi obtido com a interpolação entre o grupo 0-4 de 1950 e o 0-4 de 1960.
+Estes deslocamentos das populações para dat as exatas e homogêneas não resolvem os dois principais problemas a elas ligados, que são o das omissões e o das más declarações de idade.
+Estas populações interpoladas são, portanto, apenas o ponto de apoio e de partida para a correção das populações entre 1950 e 2000.
+Ajuste da população de 1950 3.a.
+Descrição do Modelo Evadan Sob a suposição de que as estruturas das ta xas específicas de fecundidade e as relações de sobrevivência sejam conhecidas e confiáve is ou corretas, o model o aqui empregado se presta, com relativa precisão, para: 1) estimar os saldos migratórios po r sexo e idades do período 1950-2005; 2) os níveis das Taxas de Fecundidade To tais de 1950 até 1995 (dez anos antes de 2005, último ponto analisado) e 3) os níveis de omissão por sexo e idades do período 1950-2000, ou seja, estima as populações de todo esse período.
+Essas informações permitem fazer hipóteses r obustas com respeito às tendências futuras das variáveis demográficas ou, com outros té rminos, permitem fazer uma projeção mais confiável, apesar das incertezas que envolvem toda e qualquer previsão.
+A dinâmica demográfica depende essencialment e das variáveis demográficas fecundidade, mortalidade e migrações.
+Faz-se uso universalmente do conhecido Método dos 3 Foi realizada também, em 1996, uma contagem populacional que foi, depois de comparada com os resultados do Censo Demográfico de 2000, descartada pel os demógrafos por apresentar elevados níveis de omissão 2Componentes Demográficos para projetar e analisar populações, o qual separa ou decompõe cada uma destas três variáveis.
+Essa mesma técnica foi utilizada neste trabalho para corrigir a população de Florianópolis de 1950 e fazer o mesmo com a dos outros anos.
+O software aqui aplicado, denominado Evadan, é um modelo .
+Um mapa de transportes de uma cidade, por exemplo, é um modelo , e para criá-lo foi necessári a uma teoria explicativa, implícita ou explícita, com respeito ao fu ncionamento do transporte dessa cidade.
+O mapa descreve visualmente o funcionamento dos tr ansportes de tal cidade e é uma tentativa de aproximação à realidade da mesma sob determinado ponto de vista.
+Podem ser construídos infinitos outros modelos para descrever essa mesma cidade, abarcando seus mais variados aspectos.
+O modelo Evadan de screve uma população no tempo - sua dinâmica - e possui em seu interior outros sub-modelos (Diagr ama de Lexis, fecundi dade, mortalidade, migrações etc.)
+e a teoria ne le implícita é a das populações teóricas, a qual relaciona matematicamente as principais variáveis demográficas numa totalidade coerente, em determinado período de tempo .
+Adicionalmente, o Modelo Evadan é um método de aproximações sucessivas à realidade demográfica em estudo, ou seja, parte de uma situação simples e se vão introduzindo nele, uma a uma, novas variáveis e, paulatinamente, ele fica mais complexo e mais próximo da população estudada.
+Devido a essa peculiar ca racterística, quanto mais informações confiáveis sobre a realidade es tudada haja, mais preciso se torna.
+Seu objetivo básico é descrever a dinâmica demográfic a básica de populações com pouc as fontes de dados e, portanto pode servir como complemento de outros métodos que têm o mesmo objetivo, como os denominados métodos indiretos de estimativa demogr áfica.
+Como é um método de aproximações sucessivas, é também, por cons eqüência e definição, um método aberto e, por este motivo, se serve também destes outros métodos.
+Mais especificamente, este modelo pode ser descrito como uma planilha que tem como base e estrutura dos cálculos o Diagrama de Lexis .
+A principal variável de controle do modelo são as populações por sexo e grupos qüinqüenais de idades de determinados censos.
+Neste diagrama se introduzem estas populações por sexo e grupos qüinqüenais de idades, sem nenhuma correção.
+Foram calculadas por interpolação e introduzidas também as populações dos anos terminados em cinc o, entre 1950 e 2000.
+Paralelamente, se introduzem relações de sobrevivência por se xo e grupos de idades qüinqüenais; Taxas Globais de Fecundidade com suas respecti vas distribuições por idades também qüinqüenais, ou seja, taxas específicas de fe cundidade por idade da mãe; índice de masculinidade ao nascimento e saldos migratórios por se xo e grupos qüinqüenais de idades.
+O modelo gera uma população teórica que pode ser sempre comparada com a do censo correspondente do mesmo ano o qual, como se afirmou, sempre é a principal informação para a construção paul atina da população teórica.
+A diferença básica desta técnica e as mais comumente empregadas é que as correções se fazem principalmente sobre a base do seguimento de coortes ou ger ações no período 1950-2000, de tal forma que todos os dados fiquem coerentes entre si nes te período, processo que ficará mais claro conforme se vá entendendo todos os passos se guidos até chegar ao resultado final.
+Diferenças desta técnica com outras também serão esclarecidas pouco a pouco.
+Outras observações concernentes ao modelo se rão comentadas no momento oportuno.
+Cálculo da TGF representativa do período anterior a 1950 Antes de 1950 a dinâmica demográfica de Fl orianópolis, do Brasil e de quase todos os países de América Latina se caracterizava pelos elevados níveis tanto de Taxas Globais de Fecundidade (TGF), em torno de 6 filhos por mulher, como de mortalidade.
+Mesmo nas zonas urbanas estas variáveis ostentavam ní veis elevados.
+Foi somente a partir dos anos 50 do século passado que se deu partida, no começo tímida, de uma queda desses valores.
+Por isso se suporá aqui que nas décadas ante riores a 1950 a popula ção do município era essencialmente estável4, com altas taxas de crescimento, relativamente constantes, e uma estrutura por idades muito jovem, result ado da dinâmica demográfica especificada.
+A população teórica de 1950 é gerada pelo Modelo Evadan a par tir de uma população estável por sexo e grupos qüinqüenais de idade , introduzida na planilha no ano remoto de 1650, 300 antes de 1950.
+Esta população de 1650 foi gerada, por sua vez, a partir de uma TGF de 5 filhos por mulher, com migração nul a e relações de sobrevivência do Modelo Latino de Nações Unidas correspondentes a um a esperança de vida para ambos os sexos de 47,5 anos (50 anos para as mulheres e 45 para os homens), valor aproximadamente 4 anos mais baixo que a do período 1950-55.
+É importante notar que o essencial nessa etapa é a estrutura da população inicial por sexo e idades e não o número absoluto de pessoas.
+Pois bem: a partir de 1650, com a estrut ura por sexo e idades dada, foi adotada uma mortalidade constante até 1950, ou seja, se introduziu em cada qüinqüênio entre 1650 e 1950 as mesmas relações de sobrevivência por sexo e idades especificadas anteriormente.
+Foi feita a suposição, numa primeira aproxi mação, de que nesse mesmo período os saldos migratórios são nulos.
+Através de várias t entativas de erro e acerto se introduziram diferentes TGF, nesse mesmo período ( 1650-1950), com uma estrutura de taxas específicas de fecundidade derivada de um modelo de fecundidade5.
+Como cada uma dessas TGF gera uma diferente população t eórica, se consider ou que a TGF mais representativa de antes de 1950 é a que gera uma es trutura populacional a mais parecida possível com a da população por idades do cens o de 1950, mais especificamente, a mais parecida com a estrutura dos grupos de idade entre 25 e 60 anos.
+A forma de medir essa maior o menor igualdade é com os mínimos quadrados relativos 6 entre os grupos do modelo e os do censo de 1950.
+Esses grupos qüi nqüenais, entre 25 e 60 anos, para ambos os sexos, são geralmente considerados os de m enor omissão e, portanto os mais confiáveis.
+O menor valor do mínimo quadrado encontrado foi 0,385, correspondente a uma TGF de cinco filhos por mulher.
+O Gráfico 1 mostra as duas estruturas por idades.
+Podem-se notar as clássicas diferenças com os valores esper ados, devidas, entre outros fatores, à má declaração da idade, à atraçã o que exercem os dígitos 0 e 5 no momento da declaração da idade pelo(a) entrevistado(a) e à omissão mu ito elevada nos primeiros grupos etários.
+Apesar dessas diferenças, há uma grande similitude entre a população teórica e a recenseada, o que reforça que a hipótese de ex istência de uma população mais ou menos estável antes de 1950.
+Cabe uma observação com respeito a dar a pa rtida no modelo remo tamente, em 1650.
+Como se afirmou acima, se começa aí co m uma população estável, produto de uma TGF de 5 filhos por mulher e mortalidade elevada.
+Es ta estrutura populacional não é nem tem de ser parecida com a de Florianópolis em 1950.
+O que se faz é assumir esta população inicial de alta fecundidade e alta mortalidade e in troduzir no qüinqüênio 1650-1655 uma TGF de 5 filhos, assim como relações de sobrevivência representativas de uma Esperança de Vida ao 4 Uma população estável apresenta taxas de mortalidade, fecundidade e de saldos migratórios constantes durante um longo período; como resultado, mesmo hav endo crescimento da população, a estrutura por sexo e idades da mesma é constante ou estável.
+5 Ver Campanário, P. e Godinho, R., 1997.
+6 Os valores desse índice variam entre 0 e 1 3Nascer cinco anos mais baixa que a do qüinqüênio 1950-55, e repetir es tas mesmas taxas e relações de sobrevivência em todos os qüinqüênios, até 1950.
+Ao chegar a 1900, ou seja, 250 anos depois, a população torna- se praticamente estável e va i, portanto, a partir deste ponto, conservar a mesma estrutura por se xo e idades entre este ano e 1950.
+Por conseqüência, o objetivo de começar o m odelo em 1650 é o de obter uma população estável no período 1900-1950.
+Como o que se está comparando é a estrutura resultante do modelo em 1950 com a do censo desse mesmo ano, a TGF de 5 filhos é, portanto, representativa do período imedi atamente precedente a 1950 e não do período 1650-1950 e a população introduzida em 1650 foi apenas um estratagema para gerar uma população estável entre 1900 e 1950.
+Cálculo dos saldos migratórios por sexo e idades representativos do período anterior a 1950 Até este ponto se considerou que os saldos migratórios7 são nulos, ou seja, a porcentagem de população por idades gerada pelo modelo, vist a no Gráfico 1, se produziu somente a partir das diferentes mortalidad es por idade e sexo escolhid as, do índice de masculinidade ao nascer (104/204 = 0,510), do nível da TGF (5 filhos) e das taxas específicas de fecundidade.
+É conhecido o fato de Florianópolis possuir saldos migratórios positivos, como quase todas as capitais do país.
+Por outro l ado, ao examinar os índices de masculinidade por idades de 1950, a linha azul no Gráf ico 2, se notam ziguez agues devidos à má declaração da idade e à omissão, sempre maior no sexo masculi no.
+A linha preta mostra os índices obtidos pelo modelo, com a TGF de 5,0 filhos, mortalidade elevada e constante e saldo migratório nulo, ou seja, uma situaç ão na qual esse índice depende somente da fecundidade, do índice de masculinidade ao nascer e da mortalidade e é normal que vá diminuindo por causa da menor mortalidade feminina com respeito à masculina.
+Fica evidente que esta curva sem migrantes é muito diferente da curva censitária, em azul.
+Os índices de masculinidade da população teórica podem muda r substancialmente quando se introduz, no período 1650-1950, uma estrutura de saldos migrat órios por sexo e idades, uma porcentagem de migrantes com respeito à população média dos períodos qüinqüenais, uma porcentagem dos migrantes masculinos com re speito aos femininos e se controla todo isso pelo índice de masculini dade da população total de 1950.
+Depois de várias tentativas de erro e acerto, devido à falta quase total de dados confiáveis sobre migrações, foram obtidos índices de masculinid ade que respeitam as grandes tendências do censo, representado pela linha vermelha no citado gráfico.
+Considerou -se inicialmente que os grupos 0-4 e 5-9 tinham migraç ão nula, o mesmo ocorrendo com todos os grupos a partir dos 75 anos de idade.
+O "buraco" nas idades entre 10 e 45 anos, tanto do censo como do modelo, mostra a existência de um saldo positivo mais el evado de mulheres com respeito ao de homens neste tramo, mas também uma omissão masculina mais elevada.
+Para que o modelo ficasse com estes índices de masculinidade, se adotou, sempre através de diferentes tentativas de erro e acerto, a estrutura dos saldos por sexo e idades do Gráfico 3.
+Os saldos migratórios femininos são deslocados para a esquerda com respeito aos masculinos.
+Considerou-se, ademais, que o saldo migratório é positivo, que o mesmo representa 3% da população media de cada qüinqü ênio.
+Estimou-se finalmente que apenas 43% dos migrantes são do sexo masculino.
+Ad otou-se esta última porcentagem a partir da observação de que o índice de masculinidade da população tota l oficial de 1950, igual a 91,47, é muito provavelmente menor que o índice real, pois é conhecido o fato de que a 7 Em determinado período e lugar, saldo migratório é a diferença entre o número de pessoas que entram para morar e as que deixam de morar neste lugar omissão é maior no sexo masculino.
+Com efei to, o modelo chega a um valor de 93,02, coerente com tais omissões diferenciais e com a curva azul do censo.
+A mortalidade do período 1650-1950 O cálculo do nível de Esperança de Vida ao Na scer só está disponível para Florianópolis a partir de 1990.
+Para períodos anteriores, entre 1950 e 1990, foram aproveitados uma série de dados sobre regiões brasileiras, o Est ado de Santa Catarina etc., e se fez uma compatibilização com os níveis encontrados a partir de 1990.
+Antes de 1950, como já foi explicado, considerou-se que a Esperanç a de Vida ao Nascer era cinco anos menos elevada que no período 1950-55.
+As relaç ões de sobrevivência prévias a 1950 foram obtidas a partir do Modelo Latino das Nações Unidas e entre 1950 e 1990, a partir do Modelo Brasil do IBGE.
+Com o objetivo de suav izar mudanças no tempo, foram adotadas relações de sobrevivência crescentes no período 1925-50, para chegar de forma não abrupta no qüinqüênio 1950-55, base da projeção.
+Estimativa do número total de ha bitantes em 1950 e da omissão censitária Nada foi considerado ainda com respeito ao número de habitantes de 1950.
+O modelo começa em 1650 com uma estrutura populac ional por sexo e i dades estável sem se importar com o número de habitantes.
+São impostos ao modelo determinados padrões de mortalidade, fecundidade e de saldos migrat órios num período de 300 anos, para que essa população se estabilize por volta de 1900.
+As conclusões obtidas não dependem, portanto, do número de habitantes de Florianópolis e concernem ap enas às suas estruturas demográficas.
+De fato já temos uma estrutura por sexo e idades (Gráfico 1), índices de masculinidade por idades (Gráfico 2), uma estrutura de saldos migr atórios também por sexo e idades (Gráfico 3) etc.
+Mas não se estimou ainda o número de habitantes nem os saldos migratórios absolutos.
+Pode-se, sem mudar nenhuma das estrut uras já vistas, introduzir no modelo um determinado número de habitantes em 1650 e ir mudando-o, aumentando-o ou diminuindoo, com o objetivo de obter uma população pr óxima à de 1950, com determinado nível de omissão.
+Neste ano, a população do censo é de 67.630 pessoas e a do modelo de 79.251, o que resulta numa omissão para todas as idades e ambos os sexos de 17,2%, bastante razoável para um trabalho realizado por entrevistadores despreparados, com poucos recursos, pequena tradição em pesquisa e capt ação de dados e níveis de analfabetismo elevados.
+Como o modelo estimou este número de habitantes e esta omissão?
+No Gráfico 4 se observam as porcentagens de omissão por sexo e idades.
+Numa situação em que se impusesse, por exemplo, uma omissão total m enor que a elegida, di gamos, de 10%, estas curvas se manteriam idênticas em sua estrutura, mas baixari am com respeito à linha de omissão zero, indicada no gráfico.
+Decidiu- se pela cifra de 17,2% porque nela o grupo de jovens entre 15 e 20 anos e adultos entre 50 e 60 anos, de ambos os sexos, se encontra um pouco acima do nível de omissão zero, em torno de 5%.
+Seria incongruente optar por uma omissão abaixo de zero nestas idades, o que significaria que o censo teria superestimado a população, o que quase nunca oc orre (adiante se fará uma hipótese com 10% de omissão total, para compará-la com a escolhida).
+Observe-se que a partir dos 65 anos a omissão se amplifica mu ito, ficando em torno de 30%, para logo em seguida declinar para um nível inferior a 30%.
+Neste caso es pecífico, o que acontece é que as pessoas com certa idade se declaram mais jovens do que realmente são e a par tir de um determinado patamar a propensão é contrária, ou seja, exager am a idade e, ademais, preferem declarar que têm idades terminadas em 5 ou 0 (preferênc ia de dígitos).
+Este fenômeno é universal 4nos países com índices elevados de analfabet ismo, situação em que as pessoas não sabem suas idades exatas e muito menos seus anos de nascimento.
+Considere-se, adicionalmente, que se está lidando com dados de 1950!
+O resultado destas opções todas traz como resultado uma população por idades ou pirâmide que pode ser vista no Gráfico 5.
+Outras observações com respeito à população de 1950 À primeira vista, os valores de fecundidade, mortalidade e de estrutura de saldos migratórios por idade adotados, dev ido à sua relativa precisão , parecem ser arbitrários.
+Para mostrar que isso não é assim, é import ante tomar em conta que quando se introduzem no modelo valores diferentes dos escolhidos, algumas cara cterísticas demográficas da população de 1950 se distanciam significativamente dos parâmetros normalmente aceitos na demografia.
+Vejam-se alguns exemplos para esclarecer o afirmado.
+No Gráfico 7 se aumentou, no modelo, a porcentagem de homens imigrantes com respeito ao de mulheres, passando-o do valor selecionado de 43% para 50%, ceteris paribus .
+Esta aparentemente pequena troca modifica os índices de ma sculinidade, tornando-os demograficamente inaceitáveis, muito distanciados dos dados c ensitários, nosso principal parâmetro de realidade.
+Neste caso, a curv a do índice de masculinidade, em negro, fica exageradamente acima da curva do censo, em azul.
+Observe- se que a vermelha é a mesma que se encontra no Gráfico 2, já comentado, ou seja, é a escolhi da.
+No Gráfico 7 se procedeu ao contrário: diminuiu-se a porcentagem de homens migrantes com respeito à de mulheres, passando-a de 43% para 37%.
+O resultado é que agora a curva do índice de masculin idade, em negro, fica muito abaixo da linha azul do censo.
+A continuação, no Gráf ico 8, se pode vislumbrar o que aconteceria caso fosse escolhido um índi ce de omissão total de 10%, em contraste com o de 17,2%: agora as curvas feminina e mascu lina do índice de omissão por idades do grupo 15-19 (indicado com uma flecha vermel ha) e do 50-60 (com flecha amarela) se encontram inequivocamente abaixo da linha de omissão zero.
+Nesta situação se tem uma situação insólita: omi ssão negativa, ou seja, superesti mação da população nestes grupos indicados, o que é inaceitável demograficamente.
+Correção da população entre 1950 e 2010 4.1.
+Introdução Já se descreveu como foi ajustada a população florianopolitana por sexo e idades de 1950.
+Depois desta data foram realizados os c ensos de 1960, 1970, 1980, 1991 e 2000.
+O primeiro que se fez foi transladar, por inte rpolação, essas populações para 30 de Junho dos anos terminados em zero.
+Em seguida, também por meio de interpolação, foram calculadas as populações por sexo e idades dos anos termi nados em cinco, como já se descreveu no Capítulo 2.
+A partir de 2005 o que se faz é uma projeção.
+É mu ito importante compatib ilizar as variáveis demográficas do período 1950-2000 entre si e com a populaçã o, já que é a partir dessa operação que se corrigem as populações por sexo e idades de todos os censos, incluindo o de 2000, ponto de partida da pr ojeção.
+Ademais, com as taxas de fecundidade, de mortalidade e de saldos migratórios de cada qüi nqüênio, se pode ter uma visão histórica, de cinquenta anos, da dinâmica demogr áfica de Florianópolis, a qual é a principal ferramenta para fazer hipóteses sobre o futuro e projetar a população a partir de 2005.
+Primeira etapa da correção: o ajuste das coortes por sexo e idades já existentes no Censo de 1950 A principal característica da técnica utilizada aqui é o ajuste das coortes8 ou gerações de grupos qüinqüenais, que podem ser acompanhadas pelos recenseamentos de 1950, 1960, 1970, 1980, 1990 9 e 2000.
+Há algumas coortes que podem ser acompanhadas durante esse período de 50 anos: são as que, em 195 0, vão do grupo 0-4 até o 50-54, caso haja gente ainda viva em 2005 no grupo 100 e mais anos.
+As outras gerações não podem ter um seguimento tão longo, pois são formadas po r pessoas que nasceram posteriormente a essa data ou, então, pertencem, em 1950, a al gum grupo mais avançado que o de 50 a 54 anos.
+Corrigida e ajustada a população de 1950, por sexo e grupos de idades, detalhada no capítulo antecedente, foram introduzidas também as populações censitárias e as interpoladas, nos anos terminados em cinco, as relações de sobrevivência estimadas até 2005 e, finalmente, as TGF.
+A seguir se faz o primeiro ti po de acerto do perí odo 1950-2000 com a exem plificação visual do Gráfico 9, que mostra diferentes coorte s femininas selecionadas.
+As quatro linhas ou coortes localizadas na parte de abaixo do gráfico, nos anos 1950, 1955,., 2000, representam as mulheres na scidas entre 1910 e 1915 e qu e tinham, portanto, em 1950, entre 35 e 40 anos.
+Especifica mente, a linha vermelha com triângulos brancos, representa a população censitária no período 1950-2000, o dado básico que o m odelo emprega como entrada (input).
+Em 1950, o contingente de mu lheres recenseadas nesse grupo etário foi de 2125; em 1960 esse mesmo grupo já m udava para 1956 etc.
+A curva vai diminuindo lentamente até 1985, mas, em 1990, salta inesperadamente para 2656 e, em 2000, desaparece, ou seja, o censo já não detecta nenhuma mulher nessa coorte.
+Estes são os dados empíricos, estimados pelos dife rentes recenseamentos entre 1950-2000.
+O Modelo Evadan, como já se explicou, aj usta a população de 1950 por sexo e grupos etários.
+Por isso as outras três curvas, r epresentativas da mesma coorte de mulheres nascidas entre 1910 e 1915, começam com um contingente de 2528 mulheres e não com as 2125 recenseadas.
+A curva preta com círcul os brancos representa essa mesma coorte, mas com a suposição de que não existem migrantes, ou seja, não entram nem saem pessoas no município.
+Neste caso, a evolução dessa coorte teórica, a partir de 1950, é sempre descendente, pois resulta unicamente das mortes que vão ocorrendo.
+Com outras palavras, a curva vai diminuindo lentamente até o momento em que a última mulher morra.
+Como neste exemplo elas nasceram entre 1910 e 1915, ainda estão vivas 71 mulheres com idades entre 85 e 90 anos de id ade em 2000.
+Essa curva é bem diferente da censitária.
+Em primeiro lugar, porque o contingent e inicial, em 1950, é maior, pois foi recalculado para eliminar as omissões.
+Em segundo lugar, ele descende rapidamente ao passo que a outra curva o faz lentamente, sobe repentinamente e depois desaparece.
+Se a mortalidade nas duas é igual, a diferença entre elas se deve a três fatores básicos: do contingente inicial, que foi modificado pelo modelo, dos saldos mi gratórios, que não foram considerados na curva preta e, finalmente, das omissões dos cinco censos.
+Se fosse feita uma projeção da população de 1950, modificada pelo modelo, considerando-se somente as mortes, sem tomar em conta as migrações, a população total em 2000 seria muito menor que a realmente existente e isso simplesmente porque os saldos migratórios são tradicionalmente 8 Coorte ou geração é o conjunto de pessoas que têm aproximadamente a mesma idade ou, mais especificamente, que nasceram entre duas datas pré-determinadas 9 Em realidade, trata-se do Censo de 1991, interpolado para 1990 por exigência o modelo 5positivos em Florianópolis.
+O pr oblema, portanto, a partir desse momento, passa a ser o de redefinir a curva preta de tal maneira a elimi nar as omissões que se seguem às de 1950, eliminar as oscilações devidas à atração de dígitos e introduzir saldos migratórios tais que a população fique coerente com todos os dados empíricos disponíveis.
+A primeira aproximação que faz o modelo está representada pela linha pr eta contínua.
+Nela foram eliminadas as oscilações e agreg ados saldos migratórios; por i sso ela se encontra acima da linha preta com círculos brancos, na qual os sa ldos tinham sido eliminados.
+Depois de uma série de operações realizadas pelo modelo, a curva final é a azul com círculos brancos.
+Estes diferentes acertos serão explicados mais à frente.
+O conjunto de quatro linhas na par te superior do mesmo gráfic o representa a coorte das nascidas entre 1925 e 1930, mulheres que têm, em 1950, entre 20 e 25 anos de idade.
+A linha vermelha com triângulos da mesma cor mo stra a evolução desta coorte segundo os diferentes levantamentos demográficos.
+Ostent a os mesmos problemas de qualquer coorte, ou seja, omissão, atração de dígitos etc.
+Este valor se mantém mais ou menos estável até 1970, aum enta até 1980, diminui de forma repentina, aumenta novamente e, a partir de 1985, começa a diminuir de maneira sustentada.
+A linha preta com círculos representa a mesma coorte na suposição de que n ão há migrantes, ou seja, ela descende de forma sustentada por efei to das mortes.
+No início, em 1950, ela é constituída de 3494 mulheres, um valor refeito, maior que as 3369 recenseadas.
+O fato de a curva ve rmelha exibir valores superiores que a preta significa que os saldos migratórios nesta coor te são positivos, inequivo camente.
+A primeira retificação, representada pela linha negra co ntínua, está sempre por cima da curva censitária, e a curva final, redefinida depois de diferentes procedimentos, representada pela linha azul com círculos azuis.
+No Gráfico 10 há outro exemplo, o de uma coor te mais jovem de mu lheres, que nasceram entre 1970 e 1975 e somam, em 1975, 9816 mulher es (tome-se em cont a que aqui o gráfico começa em 1975 e não em 1950).
+Se não houvesse m saldos migratórios, a curva seria a negra com círculos.
+A negra contínua mostra a primeira modificação feita e a azul com círculos é a que foi corrigida depois de vários procedimentos que serão explicados adiante.
+A diferença básica entre esta coorte e as outra s duas, é que os saldos migratórios aqui são muito mais elevados e por isso ela sobe com uma inclinação maior.
+A curva ajustada da coorte das nascidas em 1925-30 sobe, mas, a partir de determinado ponto começa a descer.
+Isto se explica porque as linhas de sa ldos migratórios por idades têm sempre a forma de uma campana: sobem no início, chegam a um máximo em idades adultas jovens para depois baixar, refletindo a regra geral de que os migrant es são normalmente poucos na infância, numerosos em idades adultas jov ens e escassos novamente em idades adultas mais avançadas e na terceira idade.
+A coorte das mulheres do gráfic o agora examinado não desce porque termina em 2000, quando estas mulher es são ainda jovens, com idades entre 25 e 30 anos.
+Esta mesma curva, no futuro re censeamento de 2010, provavelmente já terá começado a descender, pois estas mulheres, neste ano, terão entre 35 e 40 anos de idade.
+Dessas observações e exemplos, pode-se inferir que as coortes têm de ser refeitas várias vezes, num processo repetitiv o de idas e voltas, para que os dados fiquem coerentes entre si, pelo que o Modelo Evadan é um método que supõe um processo de aproximações sucessivas, como já foi comentado.
+Na primeira série de voltas se faz uma suavização somente a partir das coortes existentes no censo de 1950, pois as popula ções por sexo e idades des te ano são as únicas até agora corrigidas e explicadas no capítulo pregresso .
+São, portanto, um verdadeiro ponto de partida e de apoio do recálculo dos rec enseamentos posteriores.
+Todos os grupos qüinqüenais diferenciados por sexo, em 1950, são, portanto, pontos de partida seguros e por conseqüência não são arbitrários (as om issões podem ser vistas no Gráfico 5).
+A primeira retificação tenta, a pa rtir destes pontos fixos de 19 50, subir ou baixar a curva das coortes introduzindo somente saldos migratór ios, sem preocupar-se com a fecundidade.
+Já se afirmou acima que as taxa s de fecundidade foram introduzidas no modelo em todos os qüinqüênios entre 1950 e 2000 e que, por enqua nto essa primeira aproximação basta.
+Devido às observações e conclusões precedent es, como regra geral, o ajuste por coortes deve gerar uma nova curva cuja trajetória passa por cima e paralelamente da curva censitária.
+Nas coortes que chegam a 2000 com idades avançadas, a nova curva pode inclusive cruzar a censitária, por causa do costume que têm as pessoas com idades mais avançadas de exagerar a idade que têm, o que já foi comentado e pode ser visto no Gráfico 5 nos dois últimos grupos etários.
+No entanto, como não se tem por agora nenhuma informação a respeito, a regra é manter, na primeira aproximação, a curva do modelo sempre por cima da censitária.
+Depois dessa primeira série de voltas pode-se observar que os saldos migratórios de Flor ianópolis entre 1950 e 2000 cont inuam positivos e ainda mais elevados com respeito aos períodos anterio res a 1950, confirmando a informação obtida de saldos positivos em torno de 3% da população media de cada qüinqüênio.
+Segunda etapa da correção: o ajuste de todas as coortes por sexo e idades existentes entre 1950 e 2000 Grosso modo, depois da primeira série de voltas, as coortes dos que nasceram depois de 1950 se expandem, por causa dos saldos migr atórios positivos.
+A par tir desse momento já se obtiveram também taxas de migração de muitos grupos de idad es e sexo, em 10 períodos qüinqüenais, de tal forma a se te r uma idéia muito apr oximada da forma das curvas de saldos migratórios por idade, ma s somente das gerações que já tinham nascido antes de 1950, ou seja, as que foram recenseadas neste ano.
+Já se tem também uma aproximação razoável do valor das coortes que nasceram depois de 1950 e por isso é possível, numa segunda séri e de voltas, fazer o acerto também dessas novas curvas, que foram geradas "dentro" do modelo .
+A partir dessa segunda série se terá, para cada qüinqüênio, curvas completas de sa ldos migratórios por sexo e idades, ou seja, para todas as coortes do período 1950-2000.
+Outras etapas do ajuste A partir da terceira série de voltas, de qui nquênio a qüinqüênio, as retificações, sempre em separado para cada sexo, são feitas tomando em conta os níveis de omissão de cada idade, comparando-os com as curvas de omi ssão do qüinqüênio anterior e do posterior, na suposição de que eles mudam com o tempo dent ro de uma tendência compatível com os conhecimentos demográficos e com o bom sens o: as omissões masculinas devem estar geralmente num nível mais elevado que as femi ninas, as atrações pel os dígitos coerentes etc.
+A partir de esse mom ento, se há ainda incoerências entre os níveis de fecundidade (TGF), introduzidos inicialmente no modelo a partir dos dados do Registro Civil, se aumentam ou diminuem as taxas de tal maneira a obter coortes que não cruzem as curvas censitárias em idades jovens e se respeitem os níveis de omissão, principalmente os dos 6mais jovens10.
+Neste momento pode-se ter uma i déia muito precisa das taxas de fecundidade por qüinqüênio e das taxas de sal dos migratórios por sexo e idades, mas se podem fazer muitas outras correções ainda.
+O Gr áfico 11 exibe como ficaram, no final de todas as modificações, as omissões por idades em 2000.
+Na quarta série de voltas se manipulam os índices de masculinid ade por idade, ainda não considerados.
+Normalmente, no m odelo, eles seguem um sent ido claro por idade, mas com oscilações, pois não foram tomados em conta qua ndo foram feitas as alterações das curvas e pequenas mudanças podem produzir grandes di storções nos mesmos.
+Estes novos ajustes redistribuem no modelo, de forma mu ito fina, a quantidade de mulheres com respeito à de homens, tanto nos saldos como na população em geral.
+No final destes processos se compara também o índice de masculinidade total do censo com o do modelo.
+Normalmente, como a omissão de homens é mais elevada que a de mulheres, o índice do modelo tem que ser um pouco mais elevado que o do censo.
+No Gráfico 12 visualizam-se os índices de masculinidade em 2000.
+Numa quinta série de voltas se manipula a forma das curvas de saldos migratórios dos grupos qüinqüenais de idades po r sexo, ou seja, se compara, por exemplo, o grupo 20-24 de homens de 1950 com o de 1955, o de 1960 etc ., até 2005.
+O mesmo grupo 20-24 em 1950 pertence a uma coorte dife rente da do grupo 20-24 de 19 55 e assim sucessivamente.
+Supõe-se que estas curvas mudam em seus va lores absolutos porque se está examinando o longo período entre 1950 e 2000 de diferentes coortes, durante o qual muitas coisas aconteceram em termos socioeconômicos, políti cos, culturais etc.
+No entanto, se supõe aqui que tais mudanças são mais o menos s uaves de um qüinqüênio a outro e mostram uma tendência observável visto que os fenô menos sociodemográficos possuem uma certa inércia e não mudam abruptament e. Por exemplo, o grupo 20-24, de adultos jovens, revela em geral saldos migratórios elevados (positivos, no caso de Florianópolis) e se há mudanças neste padrão, se sup õe que ocorrerão pouco a pouco, de tal forma que se possa suavizar as oscilações detectadas.
+Por outro lado, as populações interpoladas nos anos terminados em cinco não são muito confiáveis, visto que são estimadas por procedimentos matemáticos.
+Por esse motivo, os saldos to tais de migrantes dos qüinqüênios entre dois censos podem estar corretos, mas exagerados num qüinqüênio e subestimados em outro (ou vice-versa), ou seja, podem ocorrer oscila ções.
+Ao observar as sequências do período 1950-2000 dos grupos etários por sexo, se podem fazer suavizações nas curvas.
+É importante neste momento observar o que oco rre nos grupos próximos, pois normalmente têm comportamentos parecidos, ademais das tendências globais, de todo o período, que em geral têm um sentido ine quívoco, livre de oscilações.
+No Gráfico 13, há o exemplo dos homens de 50-54 anos em difer entes períodos.
+Apesar das oscilações, pode-se constatar que os saldos migratórios tendem a aumentar com o passar dos anos, passando de mais ou menos 100 homens por qüinqüêni o (1950-55) a 500 no último (1995-00).
+A suavização respeita esta sequência.
+Ao suavizar todas as curvas de todos os grupos de idades, as taxas de saldos migratórios por qüinqüênio e por idades adquirem uma forma na qual se podem observar claramente certas tendências.
+O total de migrantes também fica suavizado por tabela (Gráfico 14).
+Una observação final sobre "idas" e "voltas": a cada nova variável que se retifica no modelo, acontecem modificações às vezes importantes nas outras variáveis.
+Um exemplo simples é 10 Se a região ou cidade estudada tem um bom sistema de registro civil, pode-se aumentar ou diminuir a fecundidade controlando-a por meio do número de nascim entos registrados e os ge rados pelo modelo.
+Neste caso, o modelo adquire uma precisão muito elevada.
+quando se sobe o saldo migrat ório de mulheres férteis em determinado período: neste caso, o número delas aumenta e, mesmo sem mudar a fecundidade, aumenta também o número de nascimentos.
+Todas as variáveis estão relacionadas dinamicamente.
+Dessa maneira, quando se ajusta uma nova variável faz-se imperativo observar novamente o que ocorreu com as outras e, se for o caso, reajustá-las por sua vez.
+Quanto mais se avança nesse processo, as mudanças vão ficando progressivam ente menores e mais sutis, pois o modelo se aproxima pouco a pouco da realidade.
+Os Gráficos 15, 16 e 17 exem plificam saldos migr atórios por sexo e i dades em períodos escolhidos, depois de finalizado esse processo e, finalmente, no 18, as populações por grupos de idades do modelo em 2000.
+É importante remarcar aqui que a redefinição da população de Florianópolis por sexo, por grupos etários e total foi feita a partir do Censo Demo gráfico de 2000 com a ajuda do Modelo Evadan, mas o valor final da população total foi feito com o número de ligações elétricas fornecido pela Celesc, como se explicará no item seguinte.
+Ligações elétricas e tendências do período 2000-2010 Os recenseamentos são a fonte tradicional e of icial dos totais populacionais.
+Infelizmente, as omissões censitárias falsificam o verda deiro tamanho das populações, como se pode constatar nas Tabelas 19, 20 e 21.
+Por exempl o, o Censo de 2000 estipulou a população do Município de Florianópolis em 342.315 alma s, ao passo que no presente estudo a mesma foi estimada em 395.396.
+Este último valor, 16,1% maior que o do censo foi, em realidade, calculado através do Modelo Evadan e do número de ligações elétricas, como se explicará a seguir.
+A cifra obtida com o Modelo Evadan para 2000 ficou apenas 1% mais baixa que a estabelecida com as ligações elétricas.
+Esses valores significam que os censos não servem como fonte de informações?
+Estes dados se referem, em grande parte, a porcentagens, proporções e números relativos: porc entagem de analfabetos, porcentagem de desempregados etc., quase sempre imprescind íveis para qualquer planejamento ou estudo e, independentemente das omissões, são proporç ões válidas, pois em geral são parecidas tanto no denominador como no numerador.
+No pr esente trabalho foi necessário eliminar as omissões pois a principal vari ável involucrada é o total absoluto de população.
+Claro está que a situação ideal seria que todos os dados fossem corrigidos por meio de diferentes técnicas, existentes em abundância, o que infelizmente geral mente não acontece por diferentes motivos.
+Por outro lado, é voz corrente entre técnic os e a população em geral que o fluxo de imigrantes que se estabeleceram em Florianópolis, pouco antes e depois da virada do século, aumentou enormemente.
+No entanto, verdadeiras ou não, são opiniões não fundamentadas com os necessários dados empíricos confiáveis.
+Por este motivo decidiu-se utilizar fontes alternativas para o cálculo da população a pa rtir de 2000, pois o próximo censo só será realizado em 2010.
+Depois da análise de uma série possibilidades (coleta de lixo, IP TU, registro eleitoral etc.
+), concluiu-se que a fonte mais confiável para a finalidade de ajustar a população seriam as ligações elétricas de residências ocupadas, qu e têm a vantagem de estarem desagregadas por distritos, o que facilitou também sua proj eção.
+Qualquer escolha tem desvantagens e, no caso, pode-se citar que há os chamados " gatos ", ligações clandestinas, não listadas pela Celesc, e também residências que têm eletrici dade fornecida informalmente por acordo com vizinhos, tampouco contabilizadas.
+Concluiu-se que tanto gatos como ligações com vizinhos 7existem, mas são desprezíveis no cômputo geral do município e se localizam em manchas específicas de alguns bairros.
+Um terceiro fa tor é que o número de residências não fornece automaticamente o número de pessoas que nelas habitam.
+Para obter a média de pessoas por ligação de residência ocupada concluiu-se que esta equivale ao número médio de pessoas por domicílio , fornecido pelo recenseamento de 2000, informação confiável, pois depende de uma relação entre duas variáveis que apresentam omissões provavelmente muito parecidas.
+A Tabela A, parágrafos abaixo, mostra o número de ligações elétricas no meio do ano, por distrito, no período 2000-2010.
+Como a informação fornecida pela Celesc ia só até Julho de 2007 e se observou que os incrementos dos distritos tinham uma forma progressiva e praticamente sem oscilações, decidiu-se projetar gr aficamente as linhas de cada um del es até 2010.
+Os Gráficos 19 e 20 e 21 complementam visual mente a citada tabela.
+Em seguida se estimou o número de pessoas por domicílio.
+Este núm ero varia um tanto segundo o distrito, diminui com o passar do tem po e a última informação é de 2000.
+Para resolvê-lo, partiu-se da hipótese de que há uma clara nuclearização das famílias, constituidas por apenas uma ou duas gerações, os pais (ou mesmo só um deles) e os filhos e que, por outro lado, com a diminuição da fe cundidade, o número de pe ssoas por domicílio irá diminuir com o tempo.
+Pelos motivos expostos, se decidiu projetar essa variável com a ajuda de uma função logística.
+Os valores do c enso de 2.000, por distrito, juntamente com os de 1980 foram os pontos empíricos da função.
+A assíntota inferior - o valor num futuro remoto – foi definida como 2, 60, obtida de uma média de pess oas por domicílio de alguns países desenvolvidos nos dias de hoje (EUA, S uécia, Japão etc.).
+A assíntota superior foi definida como sendo 35% maio r que o valor de cada distrito em 1980.
+A conferir os resultados na Tabela 33 e no Gráfico 2, adiante.
+O número de habitantes entre 20 00 e 2010 foi calcul ado multiplicando o número de pessoas por domicílio pelo número de ligaç ões elétricas.
+Dessa forma, já se tem, por ora, a projeção da população de Florianópolis e de seus distritos neste perí odo.
+Tendo em mãos estes totais, a tarefa seguinte foi projetar es ta população total entre 2010 e 2050, operação explicada no item seguinte.
+Tabela A. Número de ligações elétricas no meio do ano (2000-2007) e projeção até 2010 Florianópolis, 2000-2010 Distritos 2.000 2.001 2.002 2.003 2.004 2.005 2.006 2.007 2.008 2.009 2.010 Sede ilha 49.958 51.940 53.632 54.569 55.521 56.490 58.442 61.479 64.000 66.710 68.792 Continente 28.694 29.709 30.575 31.060 31.553 32.054 32.436 32.697 33.200 33.710 34.176 Barra da Lagoa 1.708 1.819 1.915 1.973 2.031 2.092 2.154 2.217 2.289 2.365 2.455 Cach.
+Bom Jesus 4.422 4.962 5.472 5.850 6.255 6.688 7.021 7.236 7.552 7.838 8.165 Campeche 6.593 7.082 7.545 7.999 8.480 8.991 9.524 10.081 10.640 11.190 11.783 Canasvieiras 5.204 5.864 6.520 7.199 7.949 8.777 9.332 9.553 9.990 10.360 10.768 Ingleses 6.427 7.210 7.966 8.643 9.377 10.174 10.815 11.262 11.880 12.470 13.036 Lagoa Conceição 3.747 4.036 4.303 4.517 4.743 4.979 5.202 5.408 5.637 5.874 6.132 Pântano do Sul 2.110 2.216 2.317 2.436 2.561 2.692 2.801 2.886 2.996 3.089 3.215 Ratones 957 998 1.036 1.070 1.104 1.139 1.191 1.261 1.322 1.387 1.457 Ribeirão da Ilha 6.113 6.419 6.703 6.975 7.257 7.551 7.730 7.800 8.029 8.190 8.372 Rio Vermelho 2.216 2.509 2.782 2.955 3.138 3.333 3.571 3.860 4.100 4.360 4.621 Sto.
+Lisboa 1.817 1.868 1.917 1.973 2.030 2.089 2.150 2.213 2.289 2.362 2.449 Florianópolis 119.966 126.633 132.684 137.217 141.999 147.048 152.369 157.952 163.924 169.905 175.420 Fontes: Censos de população de 1950 a 2000; Re igistro Civil, número de ligações elét ricas residenciais e Modelo Evadan (Paulo Campanário) 5.
+Projeção da população total até 2050 Com as duas ferramentas utilizadas por enquanto - o Modelo Evadan e o número de ligações elétricas - foi possível estimar a populaç ão de Florianópolis até 2010 com relativa precisão - o que inclui, além do ajuste das popul ações censitárias, os níveis de fecundidade, de mortalidade e de saldos mi gratórios.
+Por consequência, as informações acumuladas sobre a dinâmica demográfica da cidade abar cam um período de 60 anos (1950-2010), o que permite projetá-la da maneira mais fidedigna possível.
+No Gráfico 22 e na Tabela 2 constata-se que a fecundidade de Florian ópolis, medida com a Taxa de Fecundidade Total (TFT), é elevada no quinquênio 1.950-55, com 5,3 filhos por mulher (TFT).
+A partir daí, declin a rapidamente até 2000-05, quan do atinge 1,75, taxa muito baixa, mesmo se comparada co m as de países desenvolvidos11.
+Por já estar neste patamar e pela diminuição mais lenta a partir de 1995-00, foi feita a hipó tese de que, a partir de 2.005, a taxa irá diminuindo mais lentamente chegando em 2.035 a 1,50 filho por mulher, mantendo-se assim entre este ano e 2050.
+A fecundi dade das mulheres de Florianópolis já atingiu um patamar muit o abaixo do necessário para a denominada "reposição populacional12.
+Na mesma Tabela 2 e no Gráfico 23 encontram-s e as esperanças de vida ao nascer, que, no gráfico, estão discriminadas por sexo.
+No quinquênio 1.950-55, Florianópolis já ostentava uma elevada esperança de vida ao nascer, se comparada com a do resto do país.
+O período em estudo começa com 57,6, para am bos os sexos, e atin ge, em 2000-05, 74,4 anos.
+Supõe-se, para o futuro, um descenso da mortalidade relativamente lento, condizente com as características sociais e econômicas da região e do país, pois, a partir do nível elevado alcançado no presente, obtido principa lmente através da diminuição da mortalidade infantil, com a ajuda de medida s profiláticas, o descenso será mais lento, exigindo grandes investimentos em infra-estrut ura médico-hospitalar e em qualificação da força de trabalho e um desenvolvimento econômico geral seguido de aumento do bem-estar social etc.
+Em 2.045-50 a esperança de vida alcançará, segundo a hipótese, 81,9 anos, um valor elevado, similar ao dos países desenvolvidos atualmen te e um pouco mais elevada que a dos países de América Latina que ostentam hoje os maio res valores (Cuba, Argentina, Chile, Costa Rica e Uruguai) .
+Note-se, ademais, que a Esperança de Vi da ao Nascer masculina tem se mostrado, em Florianópolis e no país, excessivamente inferior à feminina, o que pode ser constatado no citado gráfico.
+Isso se explic a principalmente pela mortalidade elevada por causas externas no caso do sexo "forte"; em outros países essa diferença é menor, apesar de sempre existir, pois tem causas biológic as, segundo a maior parte das pesquisas sobre o assunto.
+Por outro lado, deve-se sempre tomar em c onta que, tanto na projeção da fecundidade quanto na da mortalidade, com níveis já atualmente relativamente baixos, hipóteses 11 No Brasil como um todo, incluindo as zonas rurais, a taxa, na década de sessenta, era de aproximadamente 6,0 filhos e hoje, em 2005-10, é de 2,1.
+Na América La tina, somente Cuba, com 1,6, tem taxa menor.
+Outros países com taxas baixas são a Argentina e o Chile, com 2,3 e o Uruguai com 2,2.
+Os que ostentam as taxas mais elevadas são a Guatemala, com 3,9; o Haiti, co m 3,6 e a Bolívia, com 3,5 (Centro Latino-americano de Demografia, www.eclac.cl ) 12 Com taxas menores que 2,1 filhos por mulher, as populações passam a decrescer, pois cada mulher, ao ter dois filhos, gera, em média, uma filha que a substi tuirá e um filho que substituirá o pai.
+O decrescimento começa a ocorrer depois de um período variável, em torno de 20 anos, lapso que se deve ao fenômeno denominado "inércia demográfica" e a fração de 0,1 f ilho é para repor os nascidos que morrerão antes de atingir a idade adulta e varia um pouco segundo o nível de mortalidade 8alternativas que mudassem um pouco para cima ou para baixo os valores aqui adotados não afetariam de maneira significativa os resultados da projeção populacional.
+O verdadeiro problema para projetar populações , hoje, nos municípios brasileiros e, especificamente, em Floria nópolis, é estimar com relativa prec isão os fluxos migratórios.
+Na capital catarinense isto é especialmente váli do, pois os saldos têm sido relativamente importantes.
+Como já foi explicado acima, o cálculo dos mesmos entre 1950 e 2000 foi indireto, realizado com a ajuda do Modelo Ev adan e, entre 2000 e 2010, pela via das ligações elétricas residenciais.
+Na Tabela 2 e no Gráfico 24 podem-se ver os saldos migratórios absolutos e na Tabela 1 e Gráfico 25 as taxas de saldos migratórios.
+Entre 1950 e 2000 foram estimados com a ajuda do Model o Evadan; a partir daí e até 2010, como se explicou anteriormente, a população foi determinada a pa rtir do número de ligações elétricas residenciais e do número de pess oas por domicílio.
+Estas populações foram introduzidas no modelo, juntamente com os dados de mortalidade e de fecundidade e, por diferença, se chega facilmente aos saldos migr atórios deste período.
+A primeira constatação é que em todo o período 1950-2010 os saldos migratórios são inequivocamente positivos, apesar das oscilações.
+Entr e 1950 e 1975, em termos absol utos, são relativamente pequenos, mas crescentes, atingindo um máxi mo de 10000 em 1970-75.
+Entre 1975 e 1985 diminuem e começam a aumentar de nov o, rapidamente, c hegando em 1995-00 a 40000, quatro vezes mais que em 1970-75.
+Entre 1995 e 2010, ou seja, durante 15 anos, os saldos se estabilizam em torno destes 40000.
+Por outro lado, é muito importante observar também as taxas, os saldos relativos.
+O Gráfic o 25 mostra as mesmas oscilações do gráfico precedente, com exceção da comentada estabilizaç ão entre 1995 e 2000, que em realidade não existe.
+Com efeito, quando há estabilização nos saldos absolutos, mas a população continua crescendo, as taxas diminuem.
+É o que ocorre a partir de 1995-00 em Florianópolis.
+As taxas não são muito elevadas, ou seja , no seu momento de auge, em 1995-00, não passam de 2,5 por cem habitantes por ano ou, com outras palavras, o saldo positivo de migrantes é de 2,5 pessoas por 100 habitantes residentes por an o. Apesar disso, no Gráfico 29 se constata a grande importância dos sal dos migratórios no crescimento da cidade a partir de 1990-95: a curva das taxas de saldos migratórios sobe, forçando a ascenção da taxa de crescimento.
+Em contraposição, a taxa de natalidade, refl exo principalmente da diminuição rápida da fecundidad e, diminui de forma sistem ática no período 1950-2010.
+Não fossem, portanto, os incrementos nas taxas de saldos migratórios no período 1985-2000, o crescimento populacional teria tido a tendência de diminuir mu ito no período.
+As taxas de crescimento populacional, por influência princi palmente da diminuição das taxas de saldos migratórios, começam a diminuir a partir de 2000, passando dos 3,42% anuais do período 1995-00 a 2,70% em 2005-10.
+Deve-se observar que saldos migratórios decresc entes têm ocorrido, via de regra, em todo o país, em quase todos os municípios.
+Tal co mportamento pode ser explicado por alguns fatores.
+Em primeiro lugar, nossa economia tem crescido pouco nos últimos 20 anos, mas a produtividade, principalmente no campo, tem aumentado de forma sustentada.
+Ora, a migração rural-urbana subiu rapidamente nestes anos por efeito da enorme elevação da produtividade rural, onde a terra é concent rada, como se sabe, em poucas mãos, expulsando trabalhadores para os grandes centros.
+No entanto, há hoje relativamente muito menos trabalhadores rurais, pois esse movim ento todo provocou uma metamorfose no país: de rural e agrícola passou a ur bano e industrializado num cur tíssimo espaço de tempo.
+Com outras palavras, as fortes migrações rural- urbanas que explicavam o rápido crescimento urbano deixaram de ser um fator importante para o cr escimento das cidades.
+Por outro lado, o incremento rápido da produtividade nas indústrias e serviços, paralelo ao pequeno crescimento econômico, gerou uma elevação paul atina da taxa de desemprego urbano, que só recentíssimamente tende a diminuir, mas, ainda assim, lentamente.
+Os grandes centros urbanos, que no passado eram fonte de inúmer os e fortes atrativos para o imigrante tornaram-se verdadeiros pesadelos, como oco rre em São Paulo, que pode ser citada como ícone desse fenômeno, pois seus saldos mi gratórios têm sido neg ativos nos últimos quinquênios, rompendo talvez definitivam ente uma tradição migratória secular.
+Especificamente em Florianópolis há alguma s características que a diferenciam de outras urbes de porte similar.
+Em primeiro lugar, não tem vocação industrial e sim de serviços (turismo, universidades, serviços públicos, ev entos).
+Talvez a inclin ação mais promissora seja o turismo, apesar de ter a enorme desva ntagem de ser sazonal, limitando muito o seu desenvolvimento sustentável a longo prazo.
+Há os imigrantes de classe média alta, aposentados ou não, que se estabelecem em Fl orianópolis para evitar os inconvenientes das grandes capitais (São Paulo, Porto Aleg re, Curitiba, entre outras), mas seu número é por definição limitado, pois estes setores são minoritários na população.
+Pelos argumentos expostos, a hipótese de saldos migratórios a partir de 2010 é de diminuição paulatina, mas com manutenção de signo positivo.
+Em termos de taxas, elas passariam de 2,15% ao ano em 1995-00 a 0,5% em 2045-50.
+Em valores absolutos, os saldos, passariam de 40000 em 2005-10 à met ade em 2045-50 (Gráfico 24, Tabela 2).
+Com o objetivo de testar o efeito real e relativo destes saldos no crescimento populacional, duas outras hipóteses foram lançad as, uma com saldos mais baix os e outras com saldos mais elevados; os valores podem ser observados no Gráfico 26 e na Tabela 27.
+Na "hipótese adotada" considerou-se que em 2045-50 o saldo absoluto será 50% do saldo do período 2000-2005, que na "elevada" o mesmo será 80% do saldo desse mesmo período e que na "baixa" esta porcentagem será de apenas 25%.
+Foram feitas, portanto, hipóteses radicalmente diferentes de saldos futuros e, no entanto, na Tabela 26, fica demonstrado que o efeito na projeção populacional é mínimo.
+Na hipótese baixa, chega-se a 825 mil pessoas em 2050, na alta a 919 e na es colhida a 876 mil.
+A diferença porcentual entre a escolhida e a baixa é menor que 6% e na elevada é menor que 5%.
+Em 20 25, data mais estratégica para o Plano Diretor que o de 2050, as dife renças são irrisórias, menores que 1%.
+Estas pequenas diferenças dão muita r obustez à projeção populacional.
+Por outro lado, foram realizadas as projeç ões dos principais municípios da Região Metropolitana de Florianópolis, até 2030.
+Palhoç a se destaca pelas taxas de crescimento, de 1980 a 2000, mais elevadas, em média, que todos os outros.
+Biguaçu e Florianópolis têm comportamentos parecidos, intermediários; São José ostenta taxas ligeiramente menos elevadas que estes dois últimos e os restante s exibem taxas de crescimento sensivelmente inferiores (Gráfico 22 e Tabela 24).
+Os maiores, por crescerem de maneira parecida a Florianópolis, ou seja, em torno da média, s ão já hoje, objetivamente, polos de atração populacional, evitando o crescimento exce ssivamente desordenado da capital.
+Apesar destas áreas de expansão periféricas, Floria nópolis será o município que mais crescerá no futuro (ver números absolutos no Gráfico 23 e na Tabela 23).
+Os Gráficos 30 e 31 mostram um dos princi pais efeitos das mudanças na dinâmica demográfica florianopolitana, qual seja, o inev itável envelhecimento populacional.
+Em 1950, a idade média da população, que era de 25 anos e hoje está um pouco acima de 30, passará a 45.
+O grupo de crianças e jovens, entre 0 e 14 anos de ida de, que representava 40% da população em 1950 e, hoje, a met ade deste valor, alcançará 15% em 2050.
+A porcentagem de idosos, com 60 e mais anos , passará dos atuais 10% a 30% em 2050.
+A projeção dos distritos e dos bairros No item 4.5 ( Ligações elétricas e t endências do período 2000-2010) já foram explicadas as técnicas adotadas para projetar a populaç ão de Florianópolis entre 2000 e 2010.
+Em realidade se projetou a população de cada distrito até 2010 e a de Florianópolis foi definida simplesmente como a somatória dos mesmos.
+A partir de 2010, o processo se inverteu, pois a somatória dos distritos teve que adaptar-se à projeção do município como um todo, já examinada no capítulo anterior e segui u a sequência explicada a seguir.
+Primeiramente foram ajustadas as populações dos distritos, em 198013, 1990 e 2000, com o mesmo grau de omissão encontrado pelo Modelo Evadan para o total municipal.
+Em segundo lugar, foram calculadas as taxas de crescimento entre 1980-85 e 2005-10.
+Em terceiro lugar, observando esta sequência hi stórica de 30 anos e tomando-se em conta a hipótese de que em 2045-50 a taxa deverá ser próxima de zero, foi feita uma interpolação das taxas de crescimento de cada distrito entre 2010-15 e 2045 -50.
+Em quarto lugar, estas taxas foram aplicadas às populações dos dist ritos a partir de 2010, população já projetada.
+O resultado fornece a primeira projeção – provisória - dos distritos entre 2010 e 2050.
+Provisória porque a soma dos distritos pr ojetados não coincide nem tem de coincidir necessariamente com a projeç ão de Florianópolis como um todo, realizada antes.
+No entanto as diferenças são pequenas: em 2010- 15, por exemplo, a soma dos distritos resultou em 593128 habitantes ou 0,6% a mais que os 589720 projetados pelo Modelo Evadan; em 2050, a diferença foi de -2,1% (857702 versus 876159).
+Por conta destas somas divergentes, mas pequenas, os distrito s, em cada ano, foram recalculados proporcionalmente de tal forma que a soma da projeção dos mesmos coincidisse com a projeção da capital.
+Os resultados estão na Tabela 27 e nos Gráficos 34, 35 e 36.
+A projeção dos bairros foi feita de maneira similar à dos distrito s, mas a partir de 1990, e não de 1980, por falta de informações precisas sobre os bairros atuais antes desta data.
+Primeiramente suas populações foram extra poladas de 1991 para 1990.
+Em segundo lugar, foram retificadas, em 1990 e 2000, de acordo co m as omissões estimadas pelo Modelo Evadan para manter a coerêrncia entre as partes e o todo.
+Para encontrar as populações dos bairros em 1995 foi feita uma interpolaç ão entre 1990 e 2000.
+As mesmas também foram ajustadas para manter suas somas coin cidentes com as dos distritos aos quais pertencem.
+A esta etapa seguiu -se a de determinar as taxas anuais de crescimento geométrico dos períodos 1990-95 e 1995-00.
+A segui r, de maneira similar à dos distritos e tomando-se em conta a hipótese de que em 2045- 50 a taxa deverá ser próxima de zero, foi feita uma interpolação das taxas de crescim ento de cada bairro entre 1995-00 e 2045-50.
+Estas taxas projetadas foram suavizadas e a seguir foram aplicadas às populações de 2000, 2005, 2010 etc.
+Chegou-se assim a uma primei ra projeção – provisóriados bairros entre 2000 e 2050.
+A soma dos bairros projetados com este procedimento também não coincide com a projeção dos distritos, já consolidada.
+Foram feitos os ajustes necessários, de maneira similar ao que foi feito com os distritos.
+Além destes procedimentos puramente matemáticos, foram realizadas inúmer as reuniões com a equipe técnica do IPUF para proceder a outras correções de acordo co m a realidade dos bairros.
+Os resultados encontram-se na Tabela 30.
+13 Antes de 1980 não há informações precisas sobre a população dos distritos, pois os mesmos sofreram mudanças 7.
+A projeção da população flutuante por distritos A população flutuante é definida aqui como o número médio de visitantes não residentes num dia no mês de maior fluxo turístico (Janei ro, no caso de Florianópolis).
+Em sua forma clássica, necessita-se, para estimá-la, sabe r a quantidade desses visitantes no mês de Janeiro, além do número m édio de dias de permanência deles na cidade.
+Segundo os dados da Santur, visitaram a cidade 588.759 pessoas em Janeiro e Fevereiro de 2006 e sua permanência média foi de 6,5 dias.
+Para se chegar à população flutuante, se supôs arbitrariamente, por causa da falta de dados, que 65% destes turistas estiveram na capital em Janeiro, ou seja, 382.693.
+Estes, divi didos por 31, o número de dias deste mês, e multiplicados por 6,5, dão como resultado 80 .242.
+Ou seja, segundo esta estimativa, num dia típico de Janeiro de 2006, estavam visita ndo a cidade 80.242 turistas, 17%, apenas, dos 471.735 residentes neste mesmo ano.
+Como não há informação sobre o número de tu ristas por distrito, tentou-se calculá-los através da quantidade de lixo recolhida por mês, dado fornecido gentilmente pela Cosan.
+Em todos os distritos o mês de Janeiro é o de maior produção de lixo.
+Entre Maio e Setembro, em contraposição, a produção é pr óxima de uma constante e, além disso, bem menor que a do mês de Janeiro.
+Em base a esta s constatações foi construida a Tabela B, abaixo, com a quantidade mensal de toneladas de lixo produzidas em Janeiro e no período Maio-Setembro.
+A diferença porcentual entre a produção mais baixa e a mais alta encontrase na coluna "Diferença porcentual em 2006", na mesma tabela.
+Em m édia, Florianópolis produz 52% mais lixo em Janeiro que nos me ses do período Maio-Setembro.
+Se se supõe que a produção é aproximada mente proporcional à população presente em determinado momento, independentemente de ela ser residente ou visitante, pode-se afirmar que Janeiro recebe o equivalente a 52% de turistas com re speito à sua população residente.
+Como esta última, em 2006, era de 471.735, a flutuante te ria sido de 246.391 (52 % da primeira), num total de 718.126 pessoas em Janeir o, em média.
+Estes 246.391 tu ristas de um dia típico são três vezes mais que os 80.242 obtidos com os dados da Santur e nos pareceram mais realísticos, pelo que foram adotados, além de terem a vantagem de estarem discriminados por distrito.
+Tabela B. Distritos de Florianópolis: produção de lixo (*) em Janeiro (maior volume) e média de Maio a Setembro (menor volume); diferenças porcentuais entre estes extremos e projeção das diferenças para 2031 e 2050 (ano de referência: 2006) Média Média Difer.
+% Mai/Set Jan 2006 2031 2050 Centro 3.964 4.271 7,7 11,1 11,1 Continente 1.622 1.767 9,0 12,9 12,9 Barra da Lagoa 181 395 118,4 170,0 170,0 C. Bom Jesus 341 1.017 198,4 285,0 285,0 Campeche 465 592 27,4 39,4 39,4 Canasvieiras 429 1.676 290,8 417,5 417,5 Ingleses 584 1.487 154,5 221,8 221,8 Lagoa 325 632 94,2 135,3 135,3 P. Sul 125 159 27,0 38,8 38,8 Ratones 129 154 19,5 28,0 28,0 Ribeirão 431 548 27,0 38,8 38,8 Rio Vermelho 174 244 40,4 58,0 58,0 Sto.Ant.Lisboa 155 189 22,1 31,8 31,8 Total 8.924 13.129 52,2 75,0 75,0 (*) em toneladas Fonte: Cosan, tabelas com a produção de lixo em 2006 (Jan-Dez) e 2007 (Jan-Ag o) 10Para determinar a população flutuante por distrito, as porcentagens de 2006 foram multiplicadas pela população pr ojetada residente por distrito de 2006.
+Note-se que as variações são enormes.
+Canasvieiras tinha, em Janeiro deste ano, 290,8% a mais população flutuante que residente, ao passo que o Centro-Ilha e o Continente menos que 10%.
+Para projetar se supôs que em 2031, 25 anos depois de 2006, os 52% do total de Florianópolis de 2006 passariam a 75% e a partir daí se estabilizariam, acompanhando apenas o crescimento da população residente (ver coluna de 2031 na mesma tabela)14.
+As porcentagens por distritos foram aument adas proporcionalmente e as dos anos intermediários foram interpoladas.
+Bibliografia Campanário, P. Projeção da População das Regi ões Econômicas, Municípios e Distritos do Estado da Bahia segundo Zonas Urbanas e Rurais no Pe ríodo 2000-2020.
+Embasa (Empresa de Saneamento Básico do Esta do da Bahia) e Fetead (Universidade Federal da Bahia), Salvador, 2.002.
+Campanário, P. Projeção da População do Muni cípio de Guarulhos por Bairros, Sexo e Grupos de idades.
+Prefeitura do Municípi o de Guarulhos, Guarulhos, 2.001.
+Campanário, P. e Godinho, R. Projeção da Fecundidade: Model o Relacional entre Nível e Estrutura, X Encontro Na cional de Estudos Populacionais da ABEP, Caxambu, 1997.
+Campanário, P. e Morell, G. Hipótese da Ho mogeneização da Anticoncepção: Evidências para uma Polêmica, X Encontro Naciona l de Estudos Populacionais da ABEP, Caxambu, 1997.
+Campanário, P. e Yazaki, L. "Aspectos Teór icos e Empíricos da Tr ansição da Fecundidade no Estado de São Paulo" em Informe Dem ográfico 25, F.SEADE, 1994, São Paulo.
+Campanário, P. e Morell, G. "Transição da Fecundi dade: Resposta da Sociedade civil?"
+em São Paulo em Perspectiva, vol.8, n.3, Jul/Set 1994, F.SEADE, São Paulo, 1994.
+Campanário, P. e Yazaki, L. "A Fecundidade em São Paulo e Suas Regiões de Governo: Níveis e Tendências" em Informe Demogr áfico 25, F.SEADE, 1994, São Paulo.
+Campanário, P. e Borlina, P. "A Mortali dade por Causas no Estado de São Paulo no Período 1980-1992" em Informe Demográf ico 26, F.SEADE, 1994, São Paulo.
+Chackiel, J. Proyección de la Fecundidad: Criterios e Procedi mientos utilizados en CELADE.
+Seminario de Proyecciones de Población, Documento de Discusión, CELADE, San José, 1982.
+Apontamentos da Disciplina de Demografia, Versão Revisada, Faculdade de Medicina Agostinho Neto, Luanda, 1996.
+Censos Demográficos de 1950, 1960, 1970, 1980, 1991 e 2000.
+14 Numa cidade como Barcelona, na Espanha, reconhecid a mundialmente como de grande fluxo turístico, a relação residentes-turistas é de um para um no mês de Agosto, o de maior movimento Laurenti, R. "A questão demográfica e a transiç ão epidemiológica".
+1o Congresso Brasileiro de Epidemiologia.
+Environment and Health in Developing Countries: an Analysis of Intra-Urban Differentials Using Ex isting Data, London School of Hygiene & Tropical Medicine, 1994, Londres.
+Martine, G. Processos recentes de concentração e desconcentração urbana no Brasil: determinantes e implicações.
+Tabulações com taxas derivadas do Registro Civil (mortalidade e fecundidade), em meio elet rônico.
+Pr ojeção da População da Área Metropolitana de Sa lvador por Regiões Administrativas, Sexo e Idades.
+Secretaria do Planejamento da Prefeitura do Município de Salvador e Planejament o & Pesquisa Ltda, Salvador, 2000.
+Desenvolvimento de Metodologias Alternativas para a Análise de Banco de Dados Secundários, SEADE-COADE-CENEPI-FNA-Vigisus, Relatório, Brasília, Julho de 2001 (Coordenador do Pr ojeto: Paulo Campanário), a ser publicado na Revista IESUS em 2002.
+Patterns of Fertility in Low-fertility Settings .
+Department of Economic and Social Development, New York, 1992.
+Florianópolis, 1950: porcentagem de população de ambos sexos por grupos quinquenais de idades do censo e do Modelo E vadan, com TGF de 5 filhos por mulher e saldo migratório nulo (primeira aproximação entre modelo e censo) 0,02,55,07,510,012,515,017,5 00-04 10-14 20-24 30-34 40-44 50-54 60-64 70-74Modelo Censo Gráfico 2.
+Florianópolis, 1950: índices de masculinidade por idades do censo e do modelo, com e sem migrações (segunda aprox.
+entre modelo e censo) 60,0065,0070,0075,0080,0085,0090,0095,00100,00105,00 00-04 05-09 10-14 15-19 20-24 25-29 30-34 35-39 40-44 45-49 50-54 55-59 60-64 65-69 70+Censo Mod.
+Florianópolis 1925-50: saldos migratórios por sexo e grupos de idades calculados por tentativas de erro e acerto 051015202530 00-04 05-0910-1415-19 20-24 25-2930-3435-3940-4445-4950-5455-5960-6465-69 70+Hom e ns Mulheres Gráfico 4.
+Florianópolis, 1950: omissão por sexo e grupos de idades com respeito ao modelo (omissão total de 17,2%) -50,0-40,0-30,0-20,0-10,00,010,020,030,040,0 00-04 05-09 10-14 15-19 20-24 25-2930-34 35-39 40-44 45-49 50-5455-59 60-64 65-6970-74 75+Hom e ns Mulheres 13Gráfico 5.
+Florianópolis, 1950: população do censo e do modelo, de ambos sexos por grupos quinquenais, com saldos migratórios e omissão de 17,2% 02.0004.0006.0008.00010.00012.00014.000 00-04 10-14 20-24 30-34 40-44 50-54 60-64 70-74Censo Modelo Gráfico 6.
+Florianópolis, 1950: índices de masculinidade por idades do censo e do modelo (comparação com 43% e 50% de migrantes homens) 60,0065,0070,0075,0080,0085,0090,0095,00100,00105,00110,00 00-04 05-09 10-14 15-19 20-24 25-29 30-34 35-39 40-44 45-49 50-54 55-59 60-64 65-69 70+Censo 43% migr.
+Florianópolis, 1950: índices de masculinidade por idades do censo e do modelo (comparação com 43% e 37% de migrantes homens) 60,0065,0070,0075,0080,0085,0090,0095,00100,00105,00 00-04 05-0910-1415-1920-2425-2930-3435-3940-4445-4950-5455-5960-6465-69 70+Censo 43% migr.
+Florianópolis, 1950: omissão por sexo e grupos de idades com respeito ao modelo (hipótese com omissão total de 10%) -50,0-40,0-30,0-20,0-10,00,010,020,030,040,0 00-04 10-14 20-24 30-34 40-44 50-54 60-64 70-74Hom e ns Mulheres 14 Gráfico 9.
+F lorianópolis, coortes de mulheres nascidas entre 1925-30 e entre 1910-15, do censo, do modelo e do modelo sem migração 05001.0001.5002.0002.5003.0003.5004.0004.500 1.950 1.955 1.9601.9651.970 1.975 1.980 1.985 1.9901.9952.0001910-15 (censo) 1910-15 (mod.
+final) 1910-15 (semmigração) 1925-30 (censo) 1925-30 (mod.final) 1925-30 (semmigração) 1910-15 (1o.ajuste) 1925-30 (1o.ajuste) Gráfico 10.
+Florianópolis, coortes de mulheres nascidas entre 1970-75, do censo, do modelo e do modelo sem migração 7.50010.00012.50015.00017.50020.000 1.975 1.980 1.985 1.990 1.995 2.0001970-75 (censo) 1970-75 (mod.
+final) 1970-75 (semmigração) 1970-75 (1o.ajuste) 15Gráfico 11.
+Florianópolis, 2000: omissão por sexo e grupos de idades com respeito ao modelo (hipótese com omissão total de 15,5%) -50,0-40,0-30,0-20,0-10,00,010,020,030,040,0 00-04 10-1420-2430-34 40-44 50-54 60-64 70-74Hom e ns Mulheres Gráfico 12.
+Florianópolis, 2000: índices de masculinidade por idades do censo e do modelo 50,0060,0070,0080,0090,00100,00110,00 00-04 10-14 20-24 30-34 40-44 50-5460-64 70-74Censo Modelo Gráfico 13.
+Florianópolis, 1950-2000: saldos migratórios de homens do grupo 50-54 anos antes e depois da suavização 0100200300400500600 1950-55 1955-60 1960-65 1965-70 1970-75 1975-80 1980-85 1985-90 1990-95 1995-00depois da suavização antes da suavização Gráfico 14.
+Florianópolis 1950-2000: saldos migratórios absolutos por sexo 05.00010.00015.00020.00025.00030.00035.00040.000 1950-55 1955-60 1960-65 1965-701970-75 1975-80 1980-85 1985-90 1990-95 1995-00Hom e ns Mulheres Ambos os sexos 16Gráfico 15.
+Florianópolis 1950-55: saldos migratórios por sexo e grupos de idades 0100200300400 00-04 10-14 20-2430-34 40-44 50-54 60-64 70-74Hom e ns Mulheres Gráfico 16.
+Florianópolis 1980-85: saldos migratórios por sexo e grupos de idades 02505007501.0001.250 00-04 10-14 20-24 30-3440-44 50-54 60-6470-74Hom e ns Mulheres Gráfico 17.
+Florianópolis 1995-00: saldos migratórios por sexo e grupos de idades 05001.0001.5002.0002.5003.0003.500 00-04 10-1420-2430-3440-4450-5460-6470-74Hom e ns Mulheres Gráfico 18.
+Florianópolis, 2000: população por grupos de idades do censo e do Modelo Evadan 05.00010.00015.00020.00025.00030.00035.00040.000 00-04 10-14 20-24 25-30 40-44 50-54 60-64 70-74 80-84 90-94 100+Censo Modelo 17 Gráfico 19.
+Distritos selecionados de Florianópolis: número de ligações elétricas de 2000 a 2007 e projeção até 2010 02.0004.0006.0008.00010.00012.00014.000 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010Canasvieiras Lagoa Conceição Cach.
+Bom Jesus Campeche Ribeirão da Ilha Gráfico 20.
+Distritos selecionados de Florianópolis: número de ligações elétricas de 2000 a 2007 e projeção até 2010 010.00020.00030.00040.00050.00060.00070.00080.000 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010Sede ilha Continente Ingleses Gráfico 21.
+Distritos selecionados de Florianópolis: número de ligações elétricas de 2000 a 2007 e projeção até 2010 01.0002.0003.0004.0005.0006.000 2000 2001 2002 2003 2004 2005 2006 20072008 2009 2010Barra da Lagoa Pântano do Sul Ratones Rio Vermelho Sto.
+Florianópolis: Taxas Globais de Fecundidade (registro civil de 1950 a 2005 e projeção de 2005 a 2050) 1,502,503,504,505,50 1950-55 1960-65 1970-751980-851990-95 2000-05 2010-152020-25 2030-35 2040-45 18Gráfico 23.
+Florianópolis 1950-2050: Esperanças de Vida ao Nascer por sexo 50,0055,0060,0065,0070,0075,0080,0085,00 1950-55 1960-65 1970-75 1980-851990-95 2000-05 2010-15 2020-25 2030-352040-45Mulheres Hom e ns Gráfico 24.
+Florianópolis: saldos migratórios absolutos por sexo (estimativa 1950-2010 e projeção 2010-2050) 05.00010.00015.00020.00025.00030.00035.00040.00045.000 1950-55 1960-65 1970-75 1980-85 1990-95 2000-05 2010-15 2020-25 2030-35 2040-45Hom e ns Mulheres Ambos os sexos Gráfico 25.
+Florianópolis: saldos migratórios absolutos por sexo (estimativa 1950-2010 e projeção 2010-2050), por 100 habitantes -0,501,001,502,002,50 1950-55 1960-651970-75 1980-85 1990-95 2000-05 2010-15 2020-25 2030-35 2040-45 Grafico 26.
+Florianópolis, 2000-2050, saldo migratório segundo três hipóteses (saldo elevado, baixo e adotado) 10.00015.00020.00025.00030.00035.00040.00045.000 2000-05 2005-10 2010-15 2015-20 2020-25 2025-30 2030-35 2035-40 2040-45 2045-50S.
+migratório adotado S. migratório elevado S. migratório baixo 19Gráfico 27.
+Florianópolis, 2000-2050: popul ação total segundo três hipóteses de saldos migratórios 350.000450.000550.000650.000750.000850.000950.000 2.000 2.005 2.010 2.015 2.020 2.0252.030 2.035 2.040 2.045 2.050S.
+migratório adotado S. migratório elevado S. migratório baixo Gráfico 28.
+Florianópolis, 1950- 2050: população total, feminina e masculina -100.000200.000300.000400.000500.000600.000700.000800.000900.000 1.950 1.960 1.970 1.980 1.990 2.000 2.0102.020 2.030 2.0402.050Ambos os sexos Hom e ns Mulheres Gráfico 29.
+Florianópolis, 1950-2050: taxas brutas de natalidade, mortalidade, saldos migratórios e crescimento (por cem habitantes) -0,501,001,502,002,503,003,504,004,50 1950-55 1960-65 1970-751980-85 1990-95 2000-05 2010-15 2020-25 2030-352040-45Natalidade Mortalidade S. migratório Crescimiento Gráfico 30.
+Florianópolis 1950-2050: idade média da popul ação 20,025,030,035,040,045,050,0 1.950 1.960 1.9701.980 1.990 2.0002.010 2.020 2.0302.0402.050 20Gráfico 31.
+Florianópolis, 1950-2050: porcentagens de população de ambos os sexos por grandes grupos etários -10,020,030,040,050,060,070,080,0 1.950 1.9601.9701.980 1.990 2.0002.010 2.020 2.0302.040 2.0500-14 15-59 60 e + Gráfico 32.
+Taxas de crescimento da população de Florianópolis e alguns de seus municípios, 1980-2030 0,001,002,003,004,005,006,007,00 198085198590199095199500200005200510201015201520202025202530Florianópolis São José Palhoça Biguaçu Outros R. Metrop.
+População de Florianópolis e alguns de seus municípios, 1980-2030 0200.000400.000600.000800.0001.000.0001.200.0001.400.0001.600.000 1980 1985 1990 1995 20002005 2010 2015 2020 2025 2030Florianópolis São José Palhoça Biguaçu Outros R. M e tr op.
+Florianópolis, população de alguns municípiois selecionados, 2000-2050 050.000100.000150.000200.000250.000300.000350.000400.000 2.000 2.0052.0102.015 2.020 2.0252.030 2.035 2.040 2.0452.050Sede - Ilha Sede - Continente 21Gráfico 35.
+Florianópolis, população de alguns municípiois selecionados, 2000-2050 010.00020.00030.00040.00050.00060.00070.00080.000 2.000 2.0052.010 2.015 2.020 2.025 2.030 2.035 2.040 2.045 2.050Cach.
+B. Jesus Campeche Canasvieiras Ingleses Ribeirão da Ilha Gráfico 36.
+Florianópolis, população de alguns municípiois selecionados, 2000-2050 05.00010.00015.00020.00025.00030.00035.00040.000 2.000 2.005 2.010 2.0152.020 2.025 2.0302.035 2.040 2.0452.050Barra da Lagoa Lagoa Conceição Pântano do Sul Ratones Rio Vermelho Sto.

@@ -1,0 +1,300 @@
+A literature review about innovation related to product-service system Camila Silva de Mattos1 - Universidade Federal de Santa Catarina Paulo Augusto Cauchick Miguel2 - Universidade Federal de Santa CatarinaUma revisão de literatura sobre inovação relacionada a sistemas produto-serviço O desafio de constantes mudanças no ambiente de negócios, no crescimento populacional, bem como nas alterações na legislação e nos padrões de consumo conduzem as empresas a buscarem soluções mais sustentáveis e que atendam às necessidades cada vez mais específicas dos consumidores.
+Abordagens denominadas como Sistemas Produto-Serviço ( Product-service Systems - PSS) têm sido consideradas como uma resposta inovadora a esse desafio, por apresentarem soluções completas, com produtos físicos e serviços que trazem benefícios aos consumidores e fornecedores, ao mesmo tempo em que otimizam recursos e mitigam impactos ambientais.
+A partir de uma revisão sistemática da literatura, aspectos relevantes sobre a inovação de sistemas tradicionais para modelos PSS são apresentados e discutidos.
+Tais aspectos compreendem os métodos de transição para PSS, fatores que influenciam na transição, métodos para avaliação do PSS, bem como os facilitadores a sua implementação.
+Os resultados demonstram fatores indispensáveis para implementação do PSS, tais como: compreensão dos conceitos do PSS, participação dos diversos stakeholders, organização interna com conhecimento de serviços e inserção da dimensão social.
+Finalmente, são apresentadas sugestões para trabalhos futuros, a partir das lacunas de pesquisa identificadas e limitações dos estudos existentes.Palavras-chave: Revisão de literatura.
+The constant change in the business environment, population growth, changes in the legislation and consumption patterns, lead companies to seek more sustainable solutions that meet the increasingly specific needs of consumers.
+Approaches known as Product-Service Systems (PSS) have been considered an innovative response to this challenge by presenting complete solutions, with physical products and services that bring benefits to consumers and suppliers, while optimizing resources and mitigating environmental impacts.
+From a systematic literature review, relevant issues of innovation related to the transition from traditional systems to PSS models are presented and discussed.
+These issues include the transition methods for PSS, factors that influence the transition, methods for evaluation of PSS and facilitating factors for the PSS implementation.
+The results present essential factors for the PSS implementation, such as the understanding of PSS concepts, the participation of various stakeholders, the internal organization with knowledge related to services, and the adoption of the social dimension.
+Finally, the paper presents suggestions for future work, based on the identified research gaps and limitations of the existing studies.Keywords: Literature review.
+Innovation.RESUMO Abstr ActRecebido 27/09/2016 ApRovAdo 16/12/2016 1. camilamattos05@gmail.com; 2.
+Campus Reitor João David Ferreira Lima, s/n, Trindade, Florianópolis-SC, 88040-900, paulo.cauchick@ufsc.br MATT oS, C. S.; Mig UeL, P .
+A. C. Uma revisão de literatura sobre inovação relacionada a sistemas produto-serviço.
+Gestão da Produção, Operações e Sistemas , Bauru, Ano 13, nº 2, abr-jun/2018, p. 184-205.
+DOI : 10.15675/gepros.v13i2.1863Uma revisão de literatura sobre inovação relacionada a sistemas produto-serviço185 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 13, nº 2, abr-jun/2018, p. 184-2051.
+INTRODUÇÃO As empresas desenvolvem políticas sustentáveis motivadas pelo impacto da regulamentação, oportunidades de mercado ou mesmo a necessidade de alternativas para enfrentar a crise (LAPERCHE; PICARD, 2013).
+A degradação ambiental produzida pela atividade humana leva as empresas a buscarem soluções mais preocupadas com o meio ambiente, evoluindo de abordagens tradicionais de controle da poluição para o ecodesign ou design para o ciclo de vida (VEZZOLI et al., 2015).
+Além disso, as inovações em design devem atender às necessidades cada vez mais específicas dos consumidores, além de oferecer serviços que contemplem aspectos econômicos, sociais, ambientais e de sustentabilidade (COLEY; LEMON, 2009; CESCHIN, 2013).
+Para atender a estes desafios, as empresas desenvolveram modelos de negócio conhecidos como Sistemas Produto-Serviço (PSS – Product-service Systems ), cuja parte central da proposição de valor ou oferta é o binômio produto-serviço (WILLIAMS, 2007; COOK et al., 2012; GAIARDELLI et al., 2014), sendo que o objetivo é satisfazer às necessidades da sociedade de forma econômica e ambientalmente sustentável (SAKAO et al., 2009; HANNON et al., 2015).
+Os PSS representam um modelo de negócio promissor para modificar padrões atuais de produção e consumo (TUKKER; TISCHNER, 2006; BAINES et al., 2007).
+Diversos autores argumentam que a transição de modelos tradicionais para o modelo PSS implica geralmente em inovações nos níveis organizacional (SAKAO et al., 2009; CESCHIN, 2013; VEZZOLI et al., 2015; WALLIN et al., 2015) e operacional (MONT, 2002; TIETZE et al., 2013; SMITH et al., 2014).
+Além disso, implica em inovações na estratégia dos modelos de negócios (WAGNER et al., 2012; KASTALLI et al., 2013; GAIARDELLI et al., 2014) e nos métodos para a sua avaliação (FORNASIERO; SORLINI, 2010; YOON et al., 2012; CHOU et al., 2015).
+Tais inovações sofrem barreiras culturais, corporativas, de conhecimento e aprendizado para a sua implementação (COLEY; LEMON, 2009).
+Em linhas gerais, a literatura trata dessas inovações e suas respectivas barreiras para implementação.
+Além disso, existem algumas revisões de literatura que demonstram o estado da arte sobre a pesquisa em PSS (e.g., BEUREN et al., 2013; BOEHM; THOMAS, 2013; TUKKER, 2015).
+No entanto, até o momento, Uma revisão de literatura sobre inovação relacionada a sistemas produto-serviço186 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 13, nº 2, abr-jun/2018, p. 184-205ainda não foi conduzida uma revisão de literatura sobre as contribuições realizadas e as principais oportunidades de pesquisa no que diz respeito ao processo de inovação para transição para esses novos modelos de negócio.
+Sendo assim, o objetivo do presente trabalho é analisar a literatura qualificada sobre o tema e oferecer uma visão mais abrangente, conjugando as informações destas diferentes abordagens.
+A partir dessa análise, a contribuição deste trabalho consiste em apresentar um panorama do conhecimento atual das condições de implementação do PSS, bem como sugestões para trabalhos futuros, a partir das lacunas indicadas na literatura.
+Este texto é estruturado em cinco seções, além dessa primeira seção.
+A segunda seção apresenta conceitos sobre o PSS e suas inovações.
+A terceira se-ção descreve os métodos adotados na revisão sistemática de literatura.
+A quarta seção apresenta os resultados da análise da literatura e a discussão destes re-sultados.
+Finalmente, a quinta seção estabelece as conclusões e sugestões para trabalhos futuros.
+BASE TEÓRICA SOBRE PSS Existem variações na terminologia relativa ao PSS, que são descritas em mais detalhes por Sakao et al., (2009).
+Para este trabalho, foram adotadas as definições de Tukker (2004) e Baines et al., (2007), por serem utilizadas na construção teórica da maioria dos artigos analisados.
+O Sistema Produto-Serviço é uma inovação promissora de um modelo de negócio (TUKKER; TISCHNER, 2006; BAINES et al., 2007), que consiste em um sistema integrado de produto e serviço capaz de entregar valor de uso, no qual o foco está na venda do uso do produto ao invés da venda da propriedade do produto (BAINES et al., 2007).
+Esse modelo de negócio implica em mudança de paradigma, na qual o foco do negócio muda da venda de produtos para entrega de uma função, por meio de uma combinação de produtos e serviços (MANZINI; VEZZOLI, 2002; YOON et al., 2012).
+Tal mudança faz com que as empresas tenham que repensar a sua estratégia e adaptar sua cultura corporativa (FORNASIERO; SORLINI, 2010), implicando geralmente em inovações no nível organizacional (SAKAO et al., 2009; VEZZOLI et al., 2015) e operacional (MONT, 2002; TIETZE et al., 2013; SMITH et al., 2014).Uma revisão de literatura sobre inovação relacionada a sistemas produto-serviço187 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 13, nº 2, abr-jun/2018, p. 184-205Tukker (2004) classifica o PSS em três tipos: PSS orientado para o produto (e.g., serviços de manutenção e consultoria pós-venda), PSS orientado ao uso (e.g., sistema de compartilhamento de carros e bicicletas) e PSS orientado a re-sultados (e.g., serviço de lavanderia).
+Dentre esses tipos, os de maior potencial inovador são os orientados ao uso e ao resultado, por terem como característica a não transferência da propriedade e alto grau de liberdade para encontrar soluções para atender às necessidades dos clientes (WILLIAMS, 2007; SAKAO et al., 2009).
+Similarmente, a OECD (2009) propôs diretrizes para soluções ecoinovadoras que demonstram que algumas das mudanças mais significativas ocorrem com introdução de serviços para substituir a funcionalidade de um produto.
+Com relação à literatura sobre o tema inovação em PSS, alguns autores propõem classificações para as inovações habilitadas pelo PSS, baseadas na oferta (GAIARDELLI et al., 2014), fatores de mudança (WILLIAMS, 2007) ou características (TITZE et al., 2013).
+Além disso, outros abordam inovações na oferta do serviço (HARA et al., 2009; XING et al., 2013; TITZE et al., 2013), no modelo de negócio (WAGNER et al., 2012; KASTALLI et al., 2013; GELBMANN; HAMMERL, 2015) ou organizacionais (CESCHIN, 2013; WALLIN et al., 2015).
+Ademais, a avaliação do PSS requer abordagens também inovadoras (FORNASIERO; SORLINI, 2010; CHOU et al., 2015).
+No entanto, apesar da literatura sobre o tema ter evoluído, até o momento não foi identificado nenhum estudo que aborde as inovações relacionadas ao PSS de forma abrangente.
+Nesse sentido, o presente trabalho tem como objetivo apresentar uma visão geral do estado da arte envolvendo diferentes aspectos da inovação para transição para esses novos modelos de negócio.
+A seção a seguir apresenta os procedimentos metodológicos para condução de uma revisão sistemática de literatura.
+PROCEDIMENTOS METODOLÓGICOS Uma revisão de literatura foi conduzida no presente trabalho para garantir um processo estruturado, transparente e replicável, conforme recomendado por Tranfield et al.
+O objeto de estudo do presente trabalho compreende os aspectos associados às inovações na transição de modelos de negócio tradicio -Uma revisão de literatura sobre inovação relacionada a sistemas produto-serviço188 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 13, nº 2, abr-jun/2018, p. 184-205nais para os do tipo PSS, identificados nos artigos.
+Para a seleção dos artigos, foram considerados aqueles que explicitavam com clareza no seu conteúdo os conceitos, processos, abordagens, ferramentas e condições relacionadas à inovação de um PSS.
+Além disso, apenas artigos de periódicos indexados pelas bases consideradas foram levados em conta na análise.
+A partir da busca e seleção das publicações, observou-se que nenhuma delas correspondia a uma revisão abrangente de literatura sobre as inovações em PSS.
+Desse modo, espera-se fornecer esta visão do conhecimento atual associado às inovações associadas ao PSS, bem como evidenciar as lacunas de pesquisa para direcionar novos trabalhos sobre o assunto.
+Procedimentos de coleta de dados Para a coleta de dados, foram utilizadas as bases ISI Web of Knowledge , Scopus e Compendex .
+A pesquisa nessas bases de dados foi realizada por meio da combinação das palavras-chave "PSS" ou " product service systems " e " innov*", nos títulos, palavras-chave e resumo dos artigos.
+O termo inovação foi utilizado em sua forma mais abrangente, para que as bases retornassem todas as categorias de inovação relativas ao PSS.
+A busca foi limitada aos filtros de artigo completo, língua inglesa, com recorte temporal até 2015.
+Além disso, o software Endnote ® foi empregado para organização e gerenciamento dos artigos identificados.
+Procedimentos de análise de dados Foram identificados 393 artigos, dos quais 223 publicações não estavam em duplicidade.
+Com auxílio do Endnote® , os artigos indexados nas três bases foram classificados de acordo com os seguintes filtros: títulos, resumos e palavras-chave, análise de disponibilidade e leitura prévia dos textos.
+Ao final da aplicação dos filtros, 67 artigos compuseram o portfólio final.Uma revisão de literatura sobre inovação relacionada a sistemas produto-serviço189 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 13, nº 2, abr-jun/2018, p. 184-205As informações do portfólio final de artigos foram organizadas em uma planilha do MS Excel™, para permitir a análise de suas informações bibliográficas (meta dados) e de conteúdo que são apresentadas a seguir.
+O Quadro 1 apresenta o número dos artigos encontrados nas bases de dados e os resultados após os filtros utilizados na seleção das publicações.
+Quadro 1 - Estratégia de busca em bases de dados.
+estratégia de busca bases de dados Total "PSS" OU "product service systems " E innov *Scopus 162 ISI Web of Knowledge 127 Compendex 104 Total nas bases de dados 393 Total sem duplicados 223 Total após leitura de título, resumo e palavras-chave86 Total de artigos disponíveis 77 Leitura prévia do artigo 67 Fonte: Elaborado pelos autores com base na busca e organização bibliográfica.
+Análise bibliométrica Foram selecionados 67 artigos para análise, dos quais a maior parte das publicações é referente ao Journal of Cleaner Production (23), seguido pelos periódicos International Journal of Advanced Manufacturing Technology e International Journal of Production Research (ambos com 4 publicações cada).
+A Figura 1 ilustra o número de publicações no horizonte de tempo analisado (2003-2015).Uma revisão de literatura sobre inovação relacionada a sistemas produto-serviço190 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 13, nº 2, abr-jun/2018, p. 184-205Figura 1 - Número de artigos no horizonte de tempo.
+Fonte: Elaborado pelos autores com base na busca, organização e análise bibliográfica.
+O crescimento na quantidade de publicações entre 2003 e 2015, mostra que o tema é relativamente recente.
+Além disso, o maior número de publicações encontra-se entre 2013 e 2015, com 79% das publicações entre 2010 e 2015, o que demonstra um crescente interesse, nos últimos anos, sobre inovações em PSS.
+Do total de publicações, 13 são artigos teóricos e 54 são empíricos (sendo 40 com dados de natureza qualitativa e 14 quantitativos).
+Análise de conteúdo Em relação à análise de conteúdo, foi adotado o procedimento sugerido por Mayring (2003) para a classificação do material, onde o conteúdo é classificado em categorias de análise que podem ser definidas dedutivamente (i.e., antes das publicações serem analisadas) ou indutivamente (i.e., a partir da análise das publicações por meio de generalização).
+No presente trabalho, as categorias para classificação foram definidas indutivamente, durante a análise das publicações.
+As categorias definidas foram: (i) barreiras e oportunidades; (ii) fatores políticos e sociais; (iii) fatores organizacionais; (iv) modelos de transição para o PSS; e (v) métodos para avaliação do PSS.
+Tais temas são apresentados nas seções seguintes.Uma revisão de literatura sobre inovação relacionada a sistemas produto-serviço191 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 13, nº 2, abr-jun/2018, p. 184-2054.
+Barreiras e oportunidades O PSS traz oportunidades de relacionamento de longo prazo, uma vez que a nova perspectiva do marketing abandona as transações do modelo tradicional da economia para modelos baseados no relacionamento (WILLIAMS, 2007; RICHTER et al., 2010; MITTERMEYER et al., 2011).
+Além disso, a oferta de produtos e serviços integrados, com a não transferência da propriedade, estimula mudanças no design, pois este tipo de solução é menos sensível a mudanças de preço (SAKAO et al., 2009).
+No entanto, as novas relações estabelecidas com o PSS também criam diversas barreiras relativas à sua adoção, conforme apresentado no Quadro 2.
+Quadro 2 - Barreiras para implementação do PSS.
+barreiras descrição Referências Culturais, corporativas, de conhecimento e aprendizadoAs organizações possuem rotinas bem estabelecidas, o que gera dificuldade na implementação de novos conceitosColey e Lemon (2009) Falta de confiança no fornecedorConsumidores têm dificuldade em acreditar na capacidade do fornecedor de oferecer determinado serviço ou resultadoRexfelt e Hiort Af Ornäs (2009), Armstrong et al.
+(2015) Convencer o cliente dos benefícios relativos ao PSSEmpresas têm dificuldade em demonstrar como a adoção do PSS poderia implicar positivamente para consumidores/clientesSakao et al.
+(2009), Rexfelt e Hiort Af Ornäs (2009) Variedade da demanda do consumidorAs necessidades e expectativas dos clientes estão em constante evolução, gerando a necessidade de adaptações na oferta de produtos e serviçosSmith et al.
+(2015) Riscos operacionais e comportamentais relacionados com o consumidorA não transferência de propriedade e responsabilidade pode gerar comportamentos oportunistas no consumidor, gerando problemas operacionais para o fornecedorRichter et al.
+(2014) Riscos relativos à variação da regulamentaçãoA mudança da regulamentação pode trazer restrições à um determinado PSSSakao et al.
+(2013) Mudança ou retirada da posse do produtoGera resistência por parte dos consumidores devido a aspectos emocionaisBriceno e Stagl (2006), Armstrong et al.
+(2015) "Paradoxo do serviço"Situações nas quais as empresas têm investido fortemente para aumentar suas ofertas de serviços, incorrendo em custos mais elevados, mas sem qualquer retornoGaiardelli et al.
+(2015) Fonte: Elaborado pelos autores com base na busca, organização e análise bibliográfica.Uma revisão de literatura sobre inovação relacionada a sistemas produto-serviço192 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 13, nº 2, abr-jun/2018, p. 184-205Para transpor as barreiras relativas ao PSS, alguns autores sugerem algumas alternativas, tais como: negociação com clientes e degradação das funções do PSS, considerando aspectos ambientais e expectativas dos clientes (SALAZAR et al., 2015) e flexibilidade na oferta do PSS (REXFELT; HIORT AF ORNÄS, 2009; RICHTER et al., 2010).
+Essa flexibilidade pode se dar por meio do refinamento do PSS, absorvendo as mudanças nas necessidades dos clientes e evitando compromissos com consequências imprevisíveis (REXFELT; HIORT AF ORNÄS, 2009) ou pela realocação de direitos de propriedade para distribuir riscos de forma mais uniforme entre clientes e fornecedores (RICHTER et al., 2010).
+Outras alternativas para a elaboração de um PSS são: a colaboração dos clientes para formular o PSS (EV ANS et al., 2007; REXFELT; HIORT AF ORNÄS, 2009; MITTERMEYER et al., 2011; ARMSTRONG et al., 2015; WALLIN et al., 2015), manutenção das propriedades intelectuais do lado do fornecedor (SAKAO et al., 2013), desenvolvimento de capacidades para operar infraestrutura técnica (TIETZE et al., 2013) e uso de estratégia de plataforma (EV ANS et al., 2007).
+Fatores políticos e sociais As políticas públicas podem desempenhar um papel importante para o desenvolvimento do PSS, influenciando a produção e o consumo (BRATT et al., 2013; HANNON et al., 2015).
+Algumas práticas apontadas como promissoras para apoiar o desenvolvimento do PSS são apresentadas no Quadro 3.Uma revisão de literatura sobre inovação relacionada a sistemas produto-serviço193 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 13, nº 2, abr-jun/2018, p. 184-205Quadro 2 - Práticas para apoiar o desenvolvimento do PSS.
+práticas descrição Referências Desenvolvimento de contratos públicos ecológicosDesenvolvimento dos contratos públicos ecológicos com transparência, boa documentação e alto nível de participação dos membros do grupo de corpo de peritos do governoBratt et al.
+(2013) Ações do governoAções de sensibilização, padronização de contratos de serviço para reduzir custo de transação, acordos comerciais e apoio de autoridades locais e organizaçõesHannon et al.
+(2015) Consideração da dimensão humanaA adoção do PSS envolve mudança nos padrões de consumo que requerem o engajamento social para sua adoçãoBriceno e Stagl (2006); Xing et al.
+(2015) Ferramentas para integrar aspectos sociaisFerramentas que integram as perspectivas de diversos stakeholders como CATWOE ( Customer-ActorTransformation-Worldview-Owner-Environment ) e Sustainable LivingLabs (SLL)Xing et al.
+(2015) Fonte: Elaborado pelos autores com base na busca, organização e análise bibliográfica.
+Fatores organizacionais Para alguns autores, as inovações do PSS não estão relacionadas às tecnologias utilizadas, mas sim ao modo como estas diferentes tecnologias estão sistematizadas e os aspectos organizacionais (MANZINI; VEZZOLI, 2003; SAKAO et al., 2009; CESCHIN, 2013).
+Os principais fatores organizacionais que influenciam a implementação do PSS nas empresas foram identificados e são apresentados no Quadro 4.Uma revisão de literatura sobre inovação relacionada a sistemas produto-serviço194 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 13, nº 2, abr-jun/2018, p. 184-205Quadro 3 - Fatores organizacionais que influenciam na implementação do PSS.
+Fator descrição Referências Comunicação efetivaComunicação interna (entre departamentos) e externa (parceiros e clientes) efetivas para compartilhar a visão do conceito do PSSCeschin (2013), Laperche e Picard (2013), Hernandez-Pardo et al.
+(2015) Parcerias Construção de uma rede de parceiros para estimular e proteger a construção do PSSCeschin (2013), Laperche e Picard (2013), Wallin et al.
+(2015) Gestão do conhecimentoMudanças nos processos de gestão do conhecimento para sustentar a inovação do PSSCeschin (2013), Laperche e Picard (2013), Wallin et al.
+(2015) Abordagem flexívelA organização deve ser flexível para responder às mudanças nas expectativas do mercadoCeschin (2013), Laperche e Picard (2013), Wallin et al.
+(2015) Fonte: Elaborado pelos autores com base na busca, organização e análise bibliográfica.
+A comunicação efetiva das potencialidades do PSS auxilia na atração e envolvimento de atores estratégicos, além de auxiliar na construção de uma visão compartilhada entre os mesmos (CESCHIN, 2013).
+Algumas das medidas para melhorar a comunicação são: uso de tecnologias de informação e comunicação (TIC) (HERNANDEZ-PARDO et al., 2013), criação de um vocabulário compartilhado, equipes de inovação e organização interna de P&D (LAPERCHE; PICARD, 2013).
+(2015) sugerem ainda rotinas para melhorar a comunicação, promovendo interação contínua com cliente e formação de equipes multidisciplinares.
+As rotinas de comunicação propostas por Wallin et al.
+(2015) auxiliam também na construção do conhecimento sobre o consumidor, criando oportunidades para a criação de valor.
+Outras medidas para melhorar a gestão do conhecimento apresentadas nos estudos são: formação de equipes de inovação e organização interna de P&D (LAPERCHE; PICARD, 2013) e a implementação de experimentos para estimular os processos de aprendizado (CESCHIN, 2013).
+Além da comunicação e gestão do conhecimento, a transição para o modelo PSS promove outras mudanças que envolvem aspectos internos e externos à organização.
+Laperche e Picard (2013), afirmam que as mudanças externas, com de-senvolvimento de parcerias, captura de conhecimento externo e inovação aberta são mais cruciais para a gestão da inovação, enquanto as mudanças internas são incrementais e não mudam profundamente o modelo de negócio da empresa.Uma revisão de literatura sobre inovação relacionada a sistemas produto-serviço195 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 13, nº 2, abr-jun/2018, p. 184-2054.4.
+Modelos de transição para o PSS Alguns modelos para transição do PSS têm sido propostos na literatura, envolvendo diferentes perspectivas, aspectos e ferramentas que são apresentados no Quadro 5.
+Quadro 4 - Principais modelos para transição para o PSS.
+Métodos e ferramentas descrição Referências Abordagem de Processo Interativo de Acessibilidade, Mobilidade e Receptividade (AMR)Modelo para auxiliar na transferência de conceitos PSS do meio acadêmico para empresas de manufaturaCook et al.
+(2006) Modelo de gestão do conhecimento integrado para reutilização do conhecimentoBaseado na gestão do ciclo de vida, o modelo utiliza o conhecimento existente de uma empresa para apoiar o desenvolvimento do PSSBaxter et al.
+(2009) Modelos de negócio específicos ou PSS orientado ao ciclo de vidaModelos que abordam todo ciclo de vida do PSS, combinando abordagem de Engenharia de Serviços e modelos de negóciosAurich et al.
+(2010) Abordagem sistemática de tomada de decisãoBusca equilíbrio entre requisitos dos clientes e fabricantes, utilizando pesos para as necessidades dos clientes e o modelo Kano para avaliar o desempenho desses requisitosGeng et al.
+(2011) AMRModelo AMR usado para analisar receptividade do PSS para a construção de residênciasCook et al.
+(2012) QFD ( Quality Function Deployment ) e TRIZ (Teoria da Resolução Inventiva de Problemas)As ferramentas são aplicadas para construir o conceito de um car sharing , usando o QFD para analisar funções do produto e serviço e TRIZ para solucionar as contradições dessas funçõesKim e Yoon (2012) Abordagem de transições fluídasSistemas flexíveis para responder às mudanças no contexto, compromisso e pragmatismo na execução e maior participação dos stakeholdersCook (2014) QFD e AHP ( Analytic Hierarchy Process )QFD é usado para desdobrar funções de um serviço de ensino de inglês e AHP é usado para priorizar as funções e construir consenso na equipeKim et al.
+(2015) Abordagem baseada no QFDO QFD é aplicado em 3 empresas de PSS orientado ao produto, combinando requisitos dos clientes com princípios de sustentabilidade.
+A metodologia foi validada com teste de usabilidade e satisfação do cliente com protótipos que simulam o novo PSSPeruzzini et al.
+(2015) Fonte: Elaborado pelos autores com base na busca, organização e análise bibliográfica.Uma revisão de literatura sobre inovação relacionada a sistemas produto-serviço196 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 13, nº 2, abr-jun/2018, p. 184-205Alguns autores propõem a aplicação do QFD, como forma de captar as necessidades dos clientes e traduzi-las em funções do PSS (KIM; YOON, 2012; PERUZZINI et al., 2015; KIM et al., 2015), em combinação com técnicas como Teoria da Resolução Inventiva de Problemas (TRIZ), para a eliminação de possíveis contradições (KIM; YOON, 2012) ou com Analytic Hierarchy Process (AHP) para priorizar as funções (KIM et al., 2015).
+Além disso, a partir da abordagem AMR, Cook et al.
+(2012) determinaram fatores para a aceitação e transferência do conceito do PSS como sendo a combinação de fatores externos favoráveis (legislação e mercado) e fatores internos tal como competência para transação em serviços.
+Similarmente, outros autores afirmam que o conhecimento em serviço é essencial para o desenvolvimento do PSS (BAXTER et al., 2009; AURICH et al., 2010).
+Métodos para avaliação do PSS A literatura acerca de modelos de avaliação do PSS é emergente e ainda carece de maior aprofundamento nos estudos (BAINES et al., 2007; SAKAO et al., 2009; YOON et al., 2012; CHOU et al., 2015).
+Além disso, métodos tradicionais para avaliação de produtos e serviços isolados não são adequados para avaliação do PSS que considera diversas perspectivas (de diferentes stakeholders ) e envolve elementos tangíveis e intangíveis (CHOU et al., 2015), bem como viabilidade do negócio, regulação e normas institucionais (YOON et al., 2012).
+Algumas propostas de ferramentas de avaliação do PSS são apresentadas no Quadro 6.
+Quadro 5 - Abordagens propostas para a avaliação do PSS.
+Abordagem Aspectos considerados na análise Referências Análise para o ciclo de vida (ACV) Entrada e saídas dos processos e recursosResta et al.
+(2009) Plataforma de ferramentas para apoiar o processo de inovação em pequenas e médias empresasPotencial técnico, comercial e financeiroFornasiero e Sorlini (2010) Avaliação sob diversas perspectivas dos stakeholdersValor esperado (cliente), relações com outros prestadores de serviços e viabilidade econômica, tecnológica, política e legalYoon et al.
+(2012) Cálculo do índice da eficiência do PSSQualidade, satisfação do cliente, sustentabilidade, percepção dos funcionários, recursos consumidos, resíduos e emissões geradas, custos, condições de trabalho e aspectos culturaisChou et al.
+(2015) Fonte: Elaborado pelos autores com base na busca, organização e análise bibliográfica.Uma revisão de literatura sobre inovação relacionada a sistemas produto-serviço197 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 13, nº 2, abr-jun/2018, p. 184-205O ACV conduzido por Resta et al.
+(2009) no contexto da indústria automotiva foi capaz de identificar oportunidades de redução do consumo de recursos e prevenção de poluição, indicando que o modelo pode ser bem sucedido na avaliação do PSS.
+No entanto, os autores reconhecem que o ACV pode ser integrado ao marketing para investigar como e quanto à sustentabilidade impacta na satisfação e retenção do consumidor.
+(2015) consideram que a abordagem ACV utilizada atualmente não é capaz de avaliar o PSS, pois não abrange a visão de todos os stakeholders .
+Síntese e discussão dos resultados Um dos fatores importantes para o sucesso do PSS, discutido pelos autores nas diversas abordagens, foi a consideração da perspectiva de todos os stakeholders ao longo do processo de transição (YOON et al., 2012; CESCHIN, 2013; HANNON et al., 2015; CHOU et al., 2015; WALLIN et al., 2015).
+Isto ocorre de-vido ao estabelecimento de relações de longo prazo entre fornecedores e clientes (WILLIAMS, 2007; RICHTER et al., 2010; MITTERMEYER et al., 2011), que gera diversas oportunidades e obstáculos.
+Dentre os obstáculos citados na literatura está a variedade da demanda do cliente ao longo do tempo (SMITH et al., 2014; SALAZAR et al., 2015), que pode ser transposta pela flexibilização da oferta do PSS (REXFELT; HIORT AF ORNÄS, 2009; SALAZAR et al., 2015; ARMSTRONG et al., 2015), realocação de direitos de propriedade (RICHTER et al., 2010) e manutenção das propriedades intelectuais do lado do fornecedor (SAKAO et al., 2013).
+Outro obstáculo citado é a dificuldade na adoção de modelos que não proveem a transferência da propriedade, devido a aspectos emocionais humanos (ARMSTRONG et al., 2015; BRICENO; STAGL, 2006).
+Nesse sentido, os autores apontam oportunidades de pesquisas futuras sobre padrões de consumo e comportamento (LIEDTKE et al., 2012; MYLAN, 2015) ou envolvimento dos atores na entrega do PSS (XING et al., 2013).
+Com relação aos métodos para transição do PSS, alguns autores consideram como oportunidade o uso de abordagens como o QFD para considerar os requisitos dos clientes e traduzi-los em funções do PSS (KIM; YOON, 2012; PERUZZINI et al., 2015, KIM et al., 2015).
+No entanto, tais ferramentas são aplicadas principalmente no desenvolvimento do conceito ou ideação do PSS, com Uma revisão de literatura sobre inovação relacionada a sistemas produto-serviço198 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 13, nº 2, abr-jun/2018, p. 184-205poucas ferramentas focando na realização do PSS e fim de vida.
+Assim sendo, mais estudos para as fases de operação e lançamento do PSS, por exemplo, são necessários (KIM et al., 2015).
+Outros autores sugerem abordagens baseadas no gerenciamento do ciclo de vida para transição dos modelos para PSS (e.g., BAXTER et al., 2010; AURICH et al., 2010) ou para avaliação, como Resta et al.
+(2009) que sugerem o ACV para avaliação do PSS.
+No entanto, o ACV pode ser considerado inadequado para avaliação do PSS por desconsiderar aspectos tangíveis e intangíveis, além de desconsiderar as perspectivas dos diferentes stakeholders (CHOU et al., 2015).
+(2015) afirmam que como a avaliação do PSS é um campo emergente, diversas pesquisas são necessárias, como por exemplo, mensurar como o impacto da sustentabilidade e outros indicadores variam para diferentes tipos de empresas.
+Já com relação aos aspectos organizacionais, aqueles considerados importantes para a implementação do PSS nas empresas foram: comunicação efetiva, desenvolvimento de parcerias, flexibilidade e gestão do conhecimento (CESCHIN, 2013; LAPERCHE; PICARD, 2013; WALLIN et al., 2015).
+A comunicação pode ser aprimorada por meio do desenvolvimento de um vocabulário compartilhado (LAPERCHE; PICARD, 2013), desenvolvimento das competências de comunicação (WALLIN et al., 2015), ou pelo uso de tecnologias de informação e comunicação (HERNANDEZ-PARDO et al., 2013).
+Além disso, outro fator organizacional importante é a gestão do conhecimento, que é condicionado pelo conhecimento prévio e competência das empresas em serviços.
+Assim sendo, empresas com baixa competência em serviços (BAXTER et al., 2009; AURICH et al., 2010; COOK, 2014) e a ausência de capacidade cognitiva no staff das empresas para pensar em um modelo de negócios de produto que incluam serviços e legislação (COOK et al., 2006; COOK et al., 2012; COOK, 2014), enfrentam dificuldades na transição para modelos PSS.
+Algumas possibilidades para transpor o obstáculo do aprendizado são: gestão da inovação interna (times de inovação e P&D) e gestão externa (desenvolvimento de parcerias e captura do conhecimento) (LAPERCHE; PICARD, 2013), rotinas como mobilidade do pessoal entre as divisões (WALLIN et al., 2015), bem como experimentos planejados e gerenciados englobando dimensões culturais (CESCHIN, 2013; LIEDTKE et al., 2015).Uma revisão de literatura sobre inovação relacionada a sistemas produto-serviço199 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 13, nº 2, abr-jun/2018, p. 184-205Para além do contexto das empresas, é importante perceber que as inovações relativas ao PSS não se dão de forma isolada, mas sim de forma complexa envolvendo diversos fatores, como desenvolvimento de novas tecnologias e novas práticas.
+Isso faz com que o estabelecimento de parcerias seja essencial para o desenvolvimento do PSS.
+Além disso, as políticas públicas desempenham um papel importante para o desenvolvimento do PSS (BRATT et al., 2013; LAPERCHE; PICARD, 2013; HANNON et al., 2015), bem como o contexto social em que está inserido o PSS (BRICENO; STAGL, 2006; XING et al., 2013; LIEDTKE et al., 2015).
+(2015) sugerem que estudos futuros analisem como outros atores (associações comerciais, entidades públicas não-departamentais, organizações comunitárias e autoridades locais) influenciam no apoio ao PSS.
+Finalmente, algumas publicações apontam para a necessidade de mais estudos empíricos (GAIARDELLI et al., 2014; VEZZOLI et al., 2015; WALLIN et al., 2015), com número maior de empresas como indicado por Bohem e Thomas (2013).
+Nesse sentido, mais estudos sobre PSS orientados ao uso e ao resultado precisam ser conduzidos, pois tais modelos representam uma mudança de paradigma para uma economia focada na oferta de funções ao invés da transferência de propriedade de produtos (AURICH et al., 2010).
+Porém, há diversas lacunas que precisam ser abordadas, como por exemplo, o desenvolvimento e avaliação desses modelos de negócios (COOK et al., 2006; LAPERCHE; PICARD, 2013).
+CONCLUSÕES A principal contribuição desse trabalho diz respeito a uma visão geral da pesquisa sobre o tema inovação em PSS, uma vez que revisões de literatura têm sido conduzidas, mas as publicações disponíveis não abordam aspectos abrangentes das inovações relacionadas à transição para esses novos modelos de negócio.
+Nesse sentido, as principais barreiras são apresentadas, de forma a demonstrar os aspectos relevantes e que precisam ser abordados em trabalhos futuros, a fim de avançar o conhecimento sobre o tema.
+Em nível prático, o pre-sente trabalho traz elementos para as equipes de desenvolvimento, no sentido de demonstrar as contribuições e limitações existentes, principalmente no que diz respeito a modelos de transição e ferramentas e métodos para avaliação.Uma revisão de literatura sobre inovação relacionada a sistemas produto-serviço200 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 13, nº 2, abr-jun/2018, p. 184-205No entanto, este trabalho apresenta limitações, notadamente, por só utilizar artigos em língua inglesa, exclusivamente de periódicos (não foram considerados artigos de eventos focados em PSS, como o IPSS- Industrial Product-Service System ), bem como limitações em relação às palavras-chave utilizadas.
+Considera-se relevante para trabalhos futuros, revisões críticas da literatura, que abordem, por exemplo, modelos para desenvolvimento de PSS e aspectos relacionados a métodos para sua avaliação, a fim de identificar possíveis padronizações, bem como lacunas específicas relacionadas ao desenvolvimento e implementação de PSS sustentáveis.
+REFERêNCIAS ARMSTRONG, C. M.; NIINIMÄKI, K.; KUJALA, S.; KARELL, E.; LANG, C. Sustainable product-service systems for clothing: exploring consumer perceptions of consumption alternatives in Finland.
+Journal of Cleaner Production, v. 97, p. 30-39, 2015.
+AURICH, J. C.; MANNWEILER, C.; SCHWEITZER, E. How to design and offer services successfully.
+CIRP Journal of Manufacturing Science and Technology , v. 2, n. 3, p. 136-143, 2010.
+BAINES, T. S.; LIGHTFOOT, H. W.; EV ANS, S.; NEELY, A.; GREENOUGH, R.; PEPPARD, J.; ROY, R.; SHEHAB, E.; BRAGANZA, A.; TIWARI, A.; ALCOCK, J.R.; ANGUS, J. P.; BASTI, M.; COUSENS, A.; IRVING, P.; JOHNSON, M.; KINGSTON, J.; LOCKETT, H.; MARTINEZ, V.; MICHELE, P.; TRANFIELD, D.; WALTON, I. M.; WILSON, H. State-of-the-art in product-service systems.
+Proceedings of the Institution of Mechanical Engineers, Part B: Journal of Engineering Manufacture , v. 221, n. 10, p. 1543-1552, 2007.
+BAXTER, D.; ROY, R.; DOULTSINOU, A.; GAO, J.; KALTA, M. A knowledge management framework to support product-service systems design.
+International Journal of Computer Integrated Manufacturing , v. 22, n. 12, p. 1073-1088, 2009.
+BEUREN, F. H.; FERREIRA, M. G. G.; CAUCHICK MIGUEL, P. A. Product-service systems: a literature review on integrated products and services.
+Journal of Cleaner Production, v. 47, p. 222-231, 2013.Uma revisão de literatura sobre inovação relacionada a sistemas produto-serviço201 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 13, nº 2, abr-jun/2018, p. 184-205BOEHM, M.; THOMAS, O.
+Looking beyond the rim of one's teacup: a multidisciplinary literature review of Product-Service Systems in Information Systems, Business Management, and Engineering & Design.
+Journal of Cleaner Production , v. 51, p. 245-260, 2013.
+BRATT, C.; HALLSTEDT, S.; ROBÈRT, K. H.; BROMAN, G.; OLDMARK, J.
+Assessment of criteria development for public procurement from a strategic sustainability perspective.
+Journal of Cleaner Production, v. 52, p. 309-316, 2013.
+BRICENO, T.; STAGL, S. The role of social processes for sustainable consumption.
+Journal of Cleaner Production, v. 14, n. 17, p. 1541-1551, 2006.
+CESCHIN, F. Critical factors for implementing and diffusing sustainable product-service systems: insights from innovation studies and companies' experiences.
+Journal of Cleaner Production, v. 45, p. 74-88, 2013.
+CHOU, C. J.; CHEN, C. W.; CONLEY, C. An approach to assessing sustainable product-service systems.
+Journal of Cleaner Production, v. 86, p. 277-284, 2015.
+COLEY, F. J. S.; LEMON, M. Exploring the design and perceived benefit of sustainable solutions: a review.
+Journal of Engineering Design, v. 20, n. 6, p. 543 554, 2009.
+COOK, M. Fluid transitions to more sustainable product service systems.
+Environmental Innovation and Societal Transitions , v. 12, p. 1-13, 2014.
+COOK, M. B.; BHAMRA, T. A.; LEMON, M. The transfer and application of Product Service Systems: from academia to UK manufacturing firms.
+Journal of Cleaner Production , v. 14, n. 17, p. 1455-1465, 2006.
+COOK, M.; GOTTBERG, A.; ANGUS, A.; LONGHURST, P. Receptivity to the production of product service systems in the UK construction and manufacturing sectors: a comparative analysis.
+Journal of Cleaner Production, v. 32, p. 61-70, 2012.
+EV ANS, S.; PARTIDÁRIO, P. J.; LAMBERT, J. Industrialization as a key element of sustainable product-service solutions.
+International Journal of Production Research , v. 45, n. 18-19, p. 4225-4246, 2007.
+FORNASIERO, R.; SORLINI, M. Developing an assessment tool for innovation of product and service systems.
+International Journal of Internet Manufacturing and Services , v. 2, n. 2, p. 166-185, 2010.Uma revisão de literatura sobre inovação relacionada a sistemas produto-serviço202 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 13, nº 2, abr-jun/2018, p. 184-205GAIARDELLI, P.; RESTA, B.; MARTINEZ, V.; PINTO, R.; ALBORES, P. A classification model for product-service offerings.
+Journal of Cleaner Production , v. 66, p. 507-519, 2014.
+GELBMANN, U.; HAMMERL, B. Integrative re-use systems as innovative business models for devising sustainable product–service systems.
+Journal of Cleaner Production , v. 97, p. 50-60, 2015.
+GENG, X.; CHU, X., XUE, D.; ZHANG, Z.
+A systematic decision-making approach for the optimal product–service system planning.
+Expert Systems with Applications , v. 38, n. 9, p. 11849-11858, 2011.
+HANNON, M. J.; TIMOTHY J. F.; GALE, W. F. 'Demand pull'government policies to support Product-Service System activity: the case of Energy Service Companies (ESCos) in the UK.
+Journal of Cleaner Production, v. 108, p. 900-915, 2015.
+HARA, T.; ARAI, T.; SHIMOMURA, Y.
+A CAD system for service innovation: integrated representation of function, service activity, and product behaviour.
+Journal of Engineering Design, v. 20, n. 4, p. 367-388, 2009.
+HERNANDEZ-PARDO, R. J.; BHAMRA, T.; BHAMRA, R. Exploring SME perceptions of sustainable product service systems.
+IEEE Transactions on Engineering Management , v. 60, n. 3, p. 483-495, 2013.
+HONG, Y. P.; KIM, Y. J.; CIN, B. C. Product-Service System and Firm Performance: The Mediating Role of Product and Process Technological Innovation.
+Emerging Markets Finance and Trade , v. 51, n. 5, p. 975-984, 2015.
+KASTALLI, I. V.; V AN LOOY, B.; NEELY, A.
+Steering manufacturing firms towards service business model innovation.
+California Management Review , v. 56, n. 1, p. 100-123, 2013.
+Developing a process of concept generation for new product-service systems: a QFD and TRIZ-based approach.
+Service Business , v. 6, n. 3, p. 323-348, 2012.
+KIM, S.; SON, C.; YOON, B.; PARK, Y.
+Development of an Innovation Model Based on a Service-Oriented Product Service System (PSS).
+Sustainability , v. 7, n. 11, p. 14427-14449, 2015.Uma revisão de literatura sobre inovação relacionada a sistemas produto-serviço203 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 13, nº 2, abr-jun/2018, p. 184-205KINDSTRÖM, D. Towards a service-based business model–Key aspects for future competitive advantage.
+European Management Journal , v. 28, n. 6, p. 479-490, 2010.
+LAPERCHE, B.; PICARD, F. Environmental constraints, Product-Service Systems development and impacts on innovation management: learning from manufacturing firms in the French context.
+Journal of Cleaner Production , v. 53, p. 118-128, 2013.
+LIEDTKE, C.; BAEDEKER, C.; HASSELKUß, M.; ROHN, H.; GRINEWITSCHUS, V. User-integrated innovation in Sustainable LivingLabs: an experimental infrastructure for researching and developing sustainable product service systems.
+Journal of Cleaner Production, v. 97, p. 106-116, 2015.
+LIEDTKE, C.; JOLANTA WELFENS, M.; ROHN, H.; NORDMANN, J.
+LIVING LAB: user-driven innovation for sustainability.
+International Journal of Sustainability in Higher Education, v. 13, n. 2, p. 106-118, 2012.
+MANZINI, E.; VEZZOLI, C. Product-service systems and sustainability: Opportunities for sustainable solutions.
+MANZINI, E.; VEZZOLI, C. A strategic design approach to develop sustainable product service systems: examples taken from the 'environmentally friendly innovation' Italian prize.
+Journal of Cleaner Production, v. 11, n. 8, p. 851-857, 2003.
+MAYRING, P. Qualitative Inhaltsanayse (Qualitative Content Analysis).
+MONT, O. K. Clarifying the concept of product–service system.
+Journal of Cleaner Production , v. 10, n. 3, p. 237-245, 2002.
+MITTERMEYER, S. A.; NJUGUNA, J.
+A.; ALCOCK, J. R. Product–service systems in health care: case study of a drug–device combination.
+The International Journal of Advanced Manufacturing Technology , v. 52, n. 9-12, p. 1209-1221, 2011.
+Understanding the diffusion of Sustainable Product-Service Systems: Insights from the sociology of consumption and practice theory.
+Journal of Cleaner Production , v. 97, p. 13-20, 2015.Uma revisão de literatura sobre inovação relacionada a sistemas produto-serviço204 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 13, nº 2, abr-jun/2018, p. 184-205OECD.
+Enabling Green Growth, Paris, 2009.
+PERUZZINI, M.; MARILUNGO, E.; GERMANI, M. Structured requirements elicitation for product-service system.
+International Journal of Agile Systems and Management , v. 8, n. 3-4, p. 189-218, 2015.
+RESTA, B.; GAIARDELLI, P.; PEZZOTTA, G. Sustainability in the auto repair industry: a life cycle assessment application.
+International Journal of Product Lifecycle Management , v. 4, n. 1-3, p. 146-165, 2009.
+REXFELT, O.; HIORT AF ORNÄS, V. Consumer acceptance of product-service systems: designing for relative advantages and uncertainty reductions.
+Journal of Manufacturing Technology Management , v. 20, n. 5, p. 674-699, 2009.
+RICHTER, A.; SADEK, T.; STEVEN, M. Flexibility in industrial product-service systems and use-oriented business models.
+CIRP Journal of Manufacturing Science and Technology , v. 3, n. 2, p. 128-134, 2010.
+SAKAO, T.; ÖLUNDH SANDSTRÖM, G.; MATZEN, D. Framing research for service orientation of manufacturers through PSS approaches.
+Journal of Manufacturing Technology Management , v. 20, n. 5, p. 754-778, 2009.
+SAKAO, T.; ÖHRWALL RÖNNBÄCK, A.; ÖLUNDH SANDSTRÖM, G. Uncovering benefits and risks of integrated product service offerings—Using a case of technology encapsulation.
+Journal of Systems Science and Systems Engineering , v. 22, n. 4, p. 421-439, 2013.
+SALAZAR, C.; LELAH, A.; BRISSAUD, D. Eco-designing Product Service Systems by degrading functions while maintaining user satisfaction.
+Journal of Cleaner Production , v. 87, p. 452-462, 2015.
+SMITH, L.; MAULL, R.; NG, I. C. L. Servitization and operations management: a service dominant-logic approach.
+International Journal of Operations & Production Management , v. 34, n. 2, p. 242-269, 2014.
+TIETZE, F.; SCHIEDERIG, T.; HERSTATT, C. Firms' transition to green product service system innovators: cases from the mobility sector.
+International Journal of Technology Management , v. 63, n. 1-2, p. 51-69, 2013.Uma revisão de literatura sobre inovação relacionada a sistemas produto-serviço205 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 13, nº 2, abr-jun/2018, p. 184-205TRANFIELD, D.; DENYER, D.; SMART, P. Towards a methodology for developing evidence‐informed management knowledge by means of systematic re-view.
+British Journal of Management , v. 14, n. 3, p. 207-222, 2003.
+Eight types of product–service system: eight ways to sustainability?
+Business Strategy and the Environment , v. 13, n. 4, p. 246-260, 2004.
+TUKKER, A.; TISCHNER, U. Product-services as a research field: past, present and future.
+Reflections from a decade of research.
+Journal of Cleaner Production , v. 14, n. 17, p. 1552-1556, 2006.
+Product services for a resource-efficient and circular economy–a review.
+Journal of Cleaner Production, v. 97, p. 76-91, 2015.
+VEZZOLI, C.; CESCHIN, F.; DIEHL, J. C.; KOHTALA, C. New design challenges to widely implement 'Sustainable Product–Service Systems'.
+Journal of Cleaner Production , v. 97, p. 1-12, 2015.
+WAGNER, L.; BAUREIS, D.; WARSCHAT, J.
+How to develop product–service systems in the fuzzy front end of innovation.
+International Journal of Technology Intelligence and Planning , v. 8, n. 4, p. 333-357, 2012.
+WALLIN, J.; PARIDA, V.; ISAKSSON, O.
+Understanding product-service system innovation capabilities development for manufacturing companies.
+Journal of Manufacturing Technology Management , v. 26, n. 5, p. 763-787, 2015.
+Product service systems in the automobile industry: contribution to system innovation?
+Journal of Cleaner Production, v. 15, n. 11, p. 1093-1103, 2007.
+XING, K; NESS, D.; LIN, F. A service innovation model for synergistic community transformation: integrated application of systems theory and product-service systems.
+Journal of Cleaner Production, v. 43, p. 93-102, 2013.
+An evaluation method for designing a new product-service system.
+Expert Systems with Applications , v. 39, n. 3, p. 3100-3108, 2012.

@@ -1,0 +1,149 @@
+ Página | 89 Fatores que influenciam a inovação tecnológica nos estados brasileiros: uma abordagem em 2020 RESUMO Waldecy Rodrigues waldecy@uft.edu.br Professor do Programa de Pósgraduação em Desenvolvimento Regional (UFT) Igor Feitosa Lacorte Ayrosa igor.ayroza@gmail.com Embrapa Aquicultura e Pesca Manoel Xavier Pedroza Filho manoel.pedroza@embrapa.br Professor do Programa de Pósgraduação em Desenvolvimento Regional (UFT) Pesquisador da Embrapa Aquicultura e Pesca Airton Cardoso Cançado airtoncardoso@uft.edu.br Professor do Programa de Pósgraduação em Desenvolvimento Regional (UFT) David Nadler Prata dnprata@uft.edu.br Professor do Programa de Pósgraduação em Modelagem Computacional (UFT) O objetivo deste estudo é verificar os fatores que mais influenciam o processo de inovação tecnológica nos estados brasileiros no ano de 2020 e, por consequência, também pretende gerar parâmetros para o estabelecimento de direcionadores para a política reg ional de ciência e tecnologia no país.
+Para a realização do estudo foram utilizados dados secundários de inovação de instituições brasileiras governamentais e não governamentais.
+Os dados foram trabalhados por matriz de correlação e regressão linear múlt iplas.
+Os principais resultados apontaram que o processo de inovação nos estados brasileiros depende fundamentalmente da estrutura e complexidade de suas economias, porém políticas indutoras são muito relevantes, tais como: o estímulo da formação de capit al humano na área de engenharias e ciências aplicadas, a qualidade da infraestrutura disponível para inovação na forma de incubadoras e programas de startups e, programas que promovam a inserção de mestres e doutores na indústria.
+PALAVRAS -CHAVE: Inovaçã o tecnológica .
+Página | 90 INTRODUÇÃO A Organização Mundial de Propriedade Intelectual (WIPO) em parceria com a Universidade Cornell (EUA), publica anualmente o Índice Global de Inovação (IGI) para mensurar a inovação gerada por um país.
+Falvo e Cunha (2018) consideraram o IGI a publicação de maior relevância mundial no campo da inovação.
+Neste documento é disponibilizado o ranking dos países que mais inovaram ao longo do ano.
+A Suíça lidera o ranking de 2020 e contabiliza seu décimo ano consecutivo na primeira colocação.
+Suécia e Estados Unidos completam o podium dos três países mais inovadores do mundo (WIPO, 2020).
+O destaque no ranking da inovação ficou com a República da Coréia que pela primeira vez figurou entre os dez países mais inovadores do mundo.
+O Brasil ocupa apenas a 62° posição e sua melhor colocação foi obtida no ano de 2011, quando ficou na 47ª posição.
+Embora o país seja um dos mais fortes economicamente na América Latina, no IGL, o Brasil fica atrás de países como Chile (54º), México (55º) e Costa Rica (56º) (WIPO, 2020).
+A inovação tecnológica pode ser vista como uma importante aliada no processo de desenvolvimento dos países, tornando suas economias mais complexas e com maiores níveis de produtividade sistêmica.
+Silva, Quintino e Santana (2018) destacam que o processo de inovação pode ser considerado sistêmico e interativo.
+Isto porque depende de agentes, estruturas e instituições em constante interação entre si para dar suporte e propor soluções aos problemas das mais diversas naturezas no âmbito de seus territórios.
+Em obra seminal, Furtado (1967) considera que o subdesenvolvimento está relacionado ao baixo avanço tecnológico dos países.
+Neste sentido compreender os fatores que influenciam o processo de inovação tecnológica nos estados brasileiros é um importante passo p ara subsidiar políticas que alavanquem o avanço tecnológico do país a partir de uma perspectiva regional.
+Pela sua grande extensão territorial a dimensão regional do processo de inovação brasileiro ganha uma dimensão muito relevante.
+Casali, Silva e Carva lho (2010) destacam o papel preponderante do desenvolvimento tecnológico nos estados e regiões.
+Cada unidade federativa possui suas peculiaridades e isso faz com que suas respectivas políticas de inovação sejam elaboradas e aplicadas pensando em seu benefí cio próprio, tendo como pano de fundo fatores locais como cultura, política e economia (SILVA; QUINTINO; SANTANA, 2018).
+O Brasil busca a algum tempo incorporar a inovação como um de seus pilares de desenvolvimento, aqui inclusa a dimensão regional.
+Para tanto, é necessário o estabelecimento de indicadores que permitam mensurar o nível de inovação tecnológica que o país se encontra.
+Silva, Quintino e Santana (2018) apontam que apesar de alguns pontuais esforços, ainda são escassos os estudos que trabalham com a geração e análise de indicadores de inovação nas regiões e estados brasileiros.
+Rocha e Ferreira (2004) abordaram a construção de uma medida que possibilitou caracterizar e classificar os sistemas de inovação existentes nos estados brasileiros locali zados n as regiões Sudeste e Sul do país.
+Apontou, por óbvio, que o estado de São Paulo era o sistema de inovação mais avançado da região, seguido por Rio de Janeiro, Rio Grande do Sul, Santa Catarina, Paraná, Minas Gerais e Espírito Santo.
+Casali et al (2010), at ravés de uma análise estatística Página | 91 de regress ão múltipla, analisaram o processo de convergência de renda das regiões brasileiras, utilizando o conceito de gap tecnológico.
+Segundo os autores, só é possível as regiões menos desenvolvidas atingirem patamares s uperiores de inovação tecnológica com um maior investimento no processo de desenvolvimento e apropriação de novas tecnologias por parte dos governos regionais.
+Santos (2011) construiu um indicador sintético de Ciência, Tecnologia e Inovação (CT&I) em nível estadual , aplicou -o nos estados do Sul e Sudeste brasileiro e verificou uma heterogeneidade nos processos regionais de inovação.
+A autor a concluiu que em alguns casos fo ram verifica das evidências de que melhor es índice s de produção científica e tecnológica promove m incrementos no setor empresarial (São Paulo, Santa Catarina e Rio Grande do Sul) .
+O Paraná teve uma boa dinâmica em termos inovativos empresariais, mas com pouca relevânci a em termos de produção científica e tecnológica e níveis de dispêndio em C&T .
+Por sua vez, o Rio de Janeiro obteve elevados volumes de gastos em C&T, notada presença de mão de obra qualificada e razoável nível de produção científica e tecnológica, porém , com um menor desempenho do setor produtivo no âmbito da atividade inovativa.
+Ante o exposto, o objetivo deste estudo é contribuir com esta trajetória de investigação no país, realizando a verificação dos fatores que mais influenciam a inovação tecnológica nos estados brasileiros no ano de 2020 e, por consequência, gerando parâmetros para o estabelecimento de direcionadores para a política de ciência e tecnologia no país em uma perspectiva regional .
+O artigo foi estruturado da seguinte f orma: a primeira parte formada por esta introdução; a segunda parte apresenta o detalhamento da metodologia utilizada no trabalho; a terceira parte trará as discussões a respeito dos resultados obtidos com a aplicação dos modelos estatísticos propostos na metodologia; e por fim, na quarta parte serão realizadas as considerações fin ais.
+METODOLOGIA Para verificar os fatores que influenciam a inovação tecnológica nos estados brasileiros, optou -se pelos seguintes passos metodológicos: 1) busca de estudos que abordaram temas afetos a inovação tecnológica (definição e como o tema foi tratado); 2) levantamento e análise dos dados com utilização dos modelos estatísticos de estimação do coeficiente de correlação de Pearson, com apresentação dos resultados em uma matriz de correlação e regressão linear múltipla (RM), a fim de descrever a inte ração entre a variável dependente e as variáveis independentes utilizadas no estudo.
+Para a realização da RM foram utilizados dados secundários extraídos do Instituto Nacional de Propriedade Industrial (INPI), Instituto Nacional de Estudos e Pesquisas Educ acionais Anísio Teixeira (INEP) e Federação das Indústrias do Estado do Ceará (FIEC).
+Do INPI, foram extraídos dados relacionados ao número de patentes, desenho industrial, programas de computador e contratos de tecnologia produzidos em cada unidade federa tiva (UF) no ano base de 2019.
+No caso do INEP, foi utilizada a Sinopse Estatística da Educação Superior 2019, publicada no ano de 2020, de onde foi extraída o número de doutores de cada UF.
+Página | 92 A variável dependente do estudo, Índice de Produção Tecnológica Média (IPRODUTEC) foi construída com os dados obtidos no INPI e INEP.
+Somou -se o quantitativo de patentes, desenho industrial, programas de computador e contratos de tecnologia de cada UF e dividiu -se o total pelo número de doutores de cada UF.
+Desta forma, obteve -se a média de produtividade tecnológica por doutor nos estados.
+Já os dados relacionados às variáveis independentes foram extraídos do Índice de Inovação dos Estados 2020 publicado pela FIEC.
+Foram considerados os indicadores que a instituição util izou para elaborar seu ranking bem como os pesos atribuídos a cada um deles para os estados.
+Os indicadores utilizados como variáveis independentes foram: investimentos públicos em ciência e tecnologia, capital humano – graduação, capital humano – pós-grad uação, inserção de mestres e doutores na indústria, instituições, competitividade global, intensidade tecnológica, propriedade intelectual, produção cientifica e infraestrutura de inovação.
+Optou -se pela escolha do Índice de Inovação dos Estados 2020 para extração dos indicadores pelo fato de ser a fonte com os dados disponíveis mais recente.
+A maior parte dos dados a respeito de indicadores de inovação encontrados é referente ao ano de 2017 (quando muito 2018).
+O Índice de Inovação foi publicado no ano de 2020 e levou em consideração o ano base de 2019.
+Outro fator importante para a escolha do Índice como fonte de dados dos indicadores é a uniformidade da apresentação e tratamento dos dados.
+A atribuição de valor de todos os indicadores varia de 0 (para o p ior nível de desempenho) a 1 (para o melhor nível de desempenho).
+A seguir segue tabela síntese com as variáveis adotadas no estudo e o que elas se propõem a medir: Tabela 01 – Descrição das variáveis do estudo Tipo variável Nome Sigla Descrição Dependente Produção Tecnológica IPRODUTEC Média do número de produção tecnológica por doutor Independente Investimento Público em ciência e tecnologia INVCT Investimento do estado em C&T Capital humano – graduação CAPGRA Quantidade de concluintes de ensino superior per capta em áreas tecnológicas e qualidade da formação Capital Humanopós-graduação CAPPOS Quantidade de concluintes em cursos de pósgraduação per capta em áreas tecnológicas e qualidade da formação Inserção de mestres e doutores na indústria INSER Mensuração do investimento e aproveitamento de mão de obra qualificada em prol do avanço tecnológico Página | 93 Fonte: FIEC (2020) adaptado pelo autor DESENVOLVIMENTO (RESULTADOS E DISC USSÕES ) O índice de inovação (FIEC, 2020) classificou as variáveis independentes em dois grupos.
+O índice de capacidades e o índice de resultados.
+O índice de capacidades mensura o ambiente de inovação dos estados enquanto o índice de resultados buscou mensurar a inovação em si produzida nos estados.
+Conforme pode ser visto na Tabela 2, os estados que apresentaram maior desenvolvimento no ambiente de inovação no ano 2019 foram São Paulo, Santa Catarina, Paraná e Espírito Santo.
+Ou seja, as primeiras colocações fora m ocupadas por estados integrantes da região Sul e Sudeste.
+Por outro lado, os quatro estados que apresentaram menor desenvolvimento no ambiente de inovação são todos integrantes da região Norte: Roraima, Tocantins, Amapá e Acre.
+No meio do ranking, estão estados integrantes das regiões Centro Oeste e Nordeste.
+Instituições INSTIT Segurança jurídica, transparência e saúde fiscal dos estados Competitividade global COMGLO Mensura a participação das exportações de média -alta e alta tecnologia no total das exportações e a diversidade dessas exportações Intensidade tecnológica INTTEC produtividade do trabalhador aliada com investimento de capital em P&D Propriedade intelectual PROINT Quantidade de patentes por habitante Produção científica PROCIEN Mensura a quantidade e qualidade da produção científica Infraestrutura de inovação INFRA Mensura a interrelação entre a dinâmica das infraestruturas de inovação e a comunicabilidade dos agentes inseridos no ecossistema de inovação Produção Tecnológica IPRODUTEC Média do número de produção tecnológica por doutor Página | 94 Tabela 0 2 – Índice de Capacidade de Inovação dos Estados Brasileiros – 2020.
+ESTADO Índice de Capacidades INVCT CAPGRA CAPPOS INSER INSTIT São Paulo 1,00 1,00 0,99 0,82 0,87 1,00 Santa Catarina 0,65 0,34 1,00 0,73 0,48 0,84 Paraná 0,64 0,51 0,76 0,69 0,61 0,73 Espírito Santo 0,61 0,35 0,94 0,47 0, 40 0,97 Distrito Federal 0,49 0,17 0,75 1,00 0, 43 0,53 Rio Grande do Sul 0,46 0,09 0,74 0,94 0,69 0,39 Goiás 0,45 0,45 0,48 0,37 0,27 0,82 Amazonas 0,44 0,34 0,60 0,25 0,71 0,59 Minas Gerais 0,42 0,25 0,99 0,67 0,33 0,34 Rio de Janeiro 0,4 0,00 0,71 0,88 1,00 0,12 Ceará 0,38 0,14 0,39 0,48 0,39 0,80 Paraíba 0,29 0,31 0,56 0,55 0,30 0,26 Pernambuco 0,28 0,22 0,18 0,51 0,27 0,61 Mato Grosso do Sul 0,28 0,10 0,55 0,47 0,16 0,56 Pará 0,28 0,13 0,30 0,34 0,18 0,78 Rio Grande do Norte 0,26 0,01 0,71 0,60 0,36 0,28 Piauí 0,23 0,08 0,08 0,20 0,06 0,99 Bahia 0,13 0,19 0,30 0,36 0,53 0,00 Sergipe 0,12 0,12 0,48 0,39 0,21 0,13 Rondônia 0,11 0,05 0,36 0,09 0,09 0,51 Mato Grosso 0,11 0,00 0,49 0,27 0,08 0,35 Alagoas 0,09 0,13 0,18 0,13 0,09 0,46 Maranhão 0,09 0,20 0,04 0,11 0,02 0,53 Roraima 0,06 0,38 0,00 0,14 0,03 0,26 Tocantins 0,02 0,01 0,28 0,16 0,00 0,34 Amapá 0,02 0,06 0,31 0,00 0,05 0,32 Acre 0 0,09 0,30 0,20 0,00 0,14 Fonte: FIEC (2020) adaptado pelo s autor es No que se refere aos resultados de inovação em si, o predomínio dos estados das regiões Sul/Sudeste prevalece.
+Encabeçado por São Paulo como estado com melhor desempenho em inovação no país, o ranking de resultados trouxe em sequência os estados da região Sul, Santa Catarina, Rio Grande do Sul e Paraná.
+Com exceção do Piauí, integrante da região nordeste, os estados que menos inovaram no ano de 2019 foram os estados do norte do Brasil.
+Observa -se desta maneira uma discrepância muito grande entre os estados integrantes das regiões Sul/Sudeste e os estados da região Norte, reforçando as presentes desigualdades regionais no Brasil.
+Tanto no que se refere a construção de um ambiente que possibilite e fomente o desenvolvimento de práticas inovadoras quanto na consecução de resultados relacionados à produção e implementação de ações inovadoras (Tabela 3).
+Página | 95 Tabela 0 3 – Índice de Resultado de Inovação dos Estados Brasileiros – 2020 ESTADO Índice de resultados COMGLO INTTEC PROINT PROCIEN INFRA São Paulo 1,00 1,00 0,76 0,60 0,83 1,00 Santa Catarina 0,88 0,69 0,66 1,00 0,78 0,57 Rio Grande do Sul 0,86 0,69 0,62 0,66 0,96 0,61 Paraná 0,84 0,65 0,54 0,71 0,89 0,70 Rio de Janeiro 0,64 0,36 0,31 0,42 1,00 0,51 Minas Gerais 0,62 0,54 0,38 0,43 0,81 0,41 Distrito Federal 0,57 0,29 0,27 0,50 0,92 0,36 Amazonas 0,5 0,58 1,00 0,10 0,24 0,07 Pernambuco 0,48 0,69 0,29 0,18 0,64 0,23 Paraíba 0,45 0,22 0,07 0,65 0,82 0,16 Bahia 0,39 0,58 0,18 0,13 0,63 0,17 Goiás 0,37 0,34 0,29 0,28 0,52 0,14 Ceará 0,35 0,14 0,22 0,15 0,73 0,20 Rio Grande do Norte 0,33 0,22 0,08 0,22 0,77 0,10 Sergipe 0,28 0,27 0,19 0,33 0,32 0,22 Espírito Santo 0,27 0,35 0,20 0,42 0,16 0,21 Mato Grosso do Sul 0,27 0,26 0,12 0,35 0,35 0,19 Alagoas 0,11 0,19 0,08 0,20 0,07 0,15 Maranhão 0,11 0,41 0,09 0,12 0,03 0,06 Mato Grosso 0,11 0,12 0,11 0,18 0,13 0,10 Acre 0,11 0,35 0,02 0,10 0,11 0,12 Rondônia 0,1 0,41 0,06 0,14 0,00 0,07 Pará 0,1 0,11 0,09 0,11 0,18 0,10 Amapá 0,08 0,23 0,03 0,21 0,10 0,00 Piauí 0,05 0,02 0,08 0,11 0,12 0,05 Tocantins 0,03 0,00 0,03 0,15 0,11 0,05 Roraima 0 0,21 0,00 0,00 0,01 0,02 Fonte: FIEC (2020) adaptado pelos autores O processo de inovação nos espaços regionais depende de um conjunto sistêmico de variáveis, que são interdependentes.
+A matriz de correlação dos estados brasileiros na dinâmica do processo de inovação, aponta que a produção de patentes nos estados (PROINT) está fortemente correlacionada com o processo de formação de capital humano na área de engenharias na graduação (rCAPGRA = 0,702) e a qualidade da infraestrutura disponível para inovação na forma de incubadoras e programas de startups (rINFRA = 0,780) (T abela 3).
+Por sua vez, a infraestrutura em inovação (INFRA) apresenta correlação forte com o investimento em ciência e tecnologia (r INVCT = 0,711) , a competividade global da economia (r COMGLO = 0,752) , o processo de formação de capital humano na área de engenharias na pós -graduação (r CAPPOS = 0,772) e inserção de mestres e doutores na indústria (r INSER = 0,737).
+Por fim, o nível de competitividade global do estado (CONGLO), também se correlacionou fortemente com a intensidade tecnológica da mão -de-obra (r INTTEC = 0,750).
+Infere -se desta forma o papel preponderante de um ecossistema de inovação bem estruturado para dar o devido suporte as ações de pesquisa, desenvolvimento e Página | 96 inovação.
+A estrutura da economia é determinante nos resultados da inovação e vice-versa (Tabela 4).
+Tabela 0 4 – Matriz de correlação das variáveis tecnológica nos estados brasileiros – 2020.
+PROINT INVCT CAPGRA INSTIT INFRA COMGLO PROCIEN CAPPOS INSER INTTEC PROINT 1 INVCT ,468* 1 CAPGRA ,702** ,460* 1 INSTIT ,513** 0,386 0,129 1 INFRA ,780** ,711** ,703** 0,276 1 COMGLO ,661** ,622** ,483* 0,234 ,752** 1 PROCIEN ,521** ,584** ,702** 0,181 ,774** ,586** 1 CAPPOS ,564** 0,371 ,754** 0,068 ,772** ,454* ,863** 1 INSER ,505** ,558** ,635** 0,097 ,737** ,639** ,842** ,728** 1 INTTEC ,600** ,531** ,600** 0,330 ,653** ,750** ,738** ,486* ,736** 1 *.
+A correlação é significativa no nível 0,05 (2 extremidades).
+A correlação é significativa no nível 0,01 (2 extremidades).
+Fonte: Elaborado pelos autores Outra variável que merece destaque a partir da análise da matriz de correlação é produção cientifica, que demonstrou forte correlação com cinco das nove variáveis disponíveis.
+A produção científica se mostrou intimamente ligada a disponibilidade de capital humano de qualidade oriundos de cursos bemconceituados de graduação e pós -graduação.
+Por outro lado, a produção científica demonstrou uma menor correlação a geração de propriedade intelectual (patentes), o que demonstra uma relação ainda em construção entre a produção científica e tecnológica.
+O que os dados indicam que são ainda necessárias pontes que construam uma relação mais forte entre a produção científica e a geração de produtos tecnológic os, principalmente nas áreas das ciências aplicadas (Tabela 4).
+Na continuidade da análise de dados sobre os determinantes do processo de inovação dos estados brasileiros, foi utilizada a regressão linear múltipla (RM).
+Com o uso deste método buscou -se v erificar as variáveis que interativamente conseguem melhor explicar as variações entre a produção tecnológica média dos estados brasileiros.
+Utilizando a RM com a técnica stepwise , os preditores que melhor se destacaram para explicar o modelo foram CAPGRA, INSTIT e INFRA.
+Estas três variáveis independentes foram consideradas estatisticamente significativas pelo modelo RM.
+Tabela 05 – Regressão linear múltipla dos determinantes da produção tecnológica média (IPRODUTEC) dos estados brasileiros – 2020 Variáveis dependentes Coeficientes padronizados Beta T Sig.
+(Constante) 0,034 0,075 0,445 0,661 CAPGRA 0,282 0,131 0,334 2,148 0,044 INSTIT 0,297 0,102 0,333 2,909 0,008 INFRA 0,450 0,158 0,453 2,847 0,010 Fonte: Elaboração dos autores Página | 97 Verifica -se que pela regressão linear múltipla, considerando níveis aceitáveis de significância estatística, que a produtividade tecnológica média dos estados está diretamente relacionada a : quantidade e qualidade do capital humano formado nas áreas de Ciê ncia, Tecnologia, Engenharia e Matemática (CTEM) ; segurança jurídica e transparência pública das instituições ; saúde fiscal das contas públicas ; e qualidade e diversidade de infraestruturas disponíveis para o fomento dos ecossistemas de inovação.
+O coef iciente de determinação R² foi estimado em 0,743.
+Isso quer dizer que 74,3% da variação da produtividade tecnológica média dos estados está relacionada linearmente com as variações no capital humano oriundo das graduações de CTEM, instituições sólidas e ef icazes e infraestrutura adequada para implantação e implementação das ações de inovação.
+Em outras palavras, as três variáveis independentes juntas ajudam a explicar 74,3% da variação da produtividade tecnológica média dos estados.
+CONSIDERAÇÕES FINAIS Este trabalho buscou verificar os fatores que influenciam a inovação tecnológica nos estados brasileiros.
+Para tanto estimou o coeficiente de correlação de Pearson das variáveis independentes a fim de verificar a intensidade (força) com que elas se relaciona m entre si.
+Para apresentação destes resultados valeu -se da matriz de correlação.
+Posteriormente por meio do modelo estatístico de regressão linear múltipla utilizando a técnica stepwise buscou -se descrever o comportamento da variável dependente produtivid ade tecnológica por meio dos preditores adotados no estudo.
+A partir da análise de correlação pode -se inferir que o processo de inovação nos estados brasileiros está fortemente correlacionado com o processo de formação de capital humano na área de engenhar ias na graduação, a qualidade da infraestrutura disponível para inovação na forma de incubadoras e programas de startups.
+Já, a infraestrutura em inovação apresenta correlação forte com o investimento em ciência e tecnologia e competividade global, com o p rocesso de formação de capital humano na área de engenharias na pós -graduação com a inserção de mestres e doutores na indústria.
+Por fim, o nível de competitividade global dos estados também se correlacionou fortemente com a intensidade tecnológica da mão -de-obra na indústria.
+Infere -se desta forma o papel preponderante de um ecossistema de inovação bem estruturado para dar o devido suporte as ações de pesquisa, desenvolvimento e inovação.
+A estrutura da economia é determinante para a evolução do processo de inovação e vice e versa.
+Também, ficou demonstrada uma correlação não muito forte entre produção científica e tecnológica, demonstrando que é um processo ainda em construção de pontes.
+Por outro lado, a produção científica nos estados se associou forte mente com a formação de capital humano – pós-graduação e a inserção de mestres e doutores na indústria e intensidade tecnológica.
+Percebe -se desta forma a que a produção científica possui uma característica de transversalidade, e seu estímulo normalmente e stá ligado ao ingresso ou ao desenvolvimento das variáveis com as quais obteve forte correlação.
+Ou seja, a formação em nível de graduação de capital humano de qualidade estimula a continuidade da formação no âmbito das pós -graduações.
+Página | 98 Normalmente exige -se que o candidato para ingressar nas pós -graduações stricto sensu tenham tido alguma experiência p révia (graduação) de produção científica.
+Nestes programas stricto sensu a produtividade cientifica será lapidada e servirá de combustível para os candidatos a mestres e/ou doutores concluírem suas formações.
+Quanto mais mestres e doutores formados, maior a probabilidade de serem inseridos e absorvidos pelo mercado de trabalho (indústrias).
+Outrossim, poderão servir de mão de obra qualificada apta aos setores de média -alta e alta intensidade tecnológica.
+As condições adequadas para este continuum de desenvolvimento perpassam por uma infraestrutura tecnológica robusta que dê o devido respaldo a seus usuários e beneficiários conforme evidenciado pela matriz de correlação.
+Isto é, se de fato almeja -se que o Brasil saia da desconfortável 62ª posição n o índice global de inovação e avance resolutamente em direção aos principais países inovadores do mundo , é preciso que haja melhorias no processo de produtividade tecnológica realizado no país.
+Para tanto, necessário se faz o estabelecimento de metas de cu rto prazo considerando os resultados obtidos e os aspectos conjunturais vigentes, bem como o estabelecimento de metas de longo prazo visando mudanças estruturais, levando -se em consideração o desenvolvimento pleno das capacidades descritas no estudo.
+O cam inho é longo e necessita do engajamento de todos para viabilizar esta realidade transformadora: governo, universidades /instituições de pesquisa e sociedade civil.
+Página | 99 Factors that influence technological innovation in brazilian states: an appro ach in 2020 ABSTRACT The objective of this study is to verify the factors that most influence the process of technological innovation in Brazilian states in the year 2020 and, consequently, it also intends to generate parameters for the establishment of guidelines for the regional science and technology policy in the country.
+To carry out the study, secondary innovation data from Brazilian governmental and non -governmental institutions were used.
+Data were processed by correlation matrix and multiple linear regression.
+The main results showed that the process of innovation in Brazilian states fundamentally depends on the structure and complexity of their economies, but inducing policies are very relevant, such as: the encouragement of huma n capital formation in the engineering area, the quality of infrastructure available for innovation in the form of incubators and startup programs and with programs that promote the insertion of masters and doctors in the industry.
+KEYWORDS: Technologic innovation .
+Página | 100 REFERÊNCIAS BRASIL.
+Lei n. 10.973, de 02 de dezembro de 2004.
+Dispõe sobre incentivos à inovação e à pesquisa científica e tecnológica no ambiente produtivo e dá outras providências CASALI, Giovana.
+M. A. Sistema regional de inovação: estudo das regiões brasileiras.
+Revista de Economia Contemporânea, v. 14, n. 3, p. 515 -550, 2010 COLLET, Luana.
+Mensuração das Inovações: constru ção de um índice de Ciência, Tecnologia e Inovação (IC,T&I) para os Estados brasileiros.
+112 p. Dissertação (Mestrado em Economia do Desenvolvimento) - Programa de Pós -graduação em Economia, Faculdade de Administração, Contabilidade e Economia, Ponti fícia Universidade Católica do Rio Grande do Sul, Brasil, 2012.
+C. Desempenho do Brasil no Índice Global de Inovação 2011 -2018: apresentação.
+Disponível em r/handle/uniepro/264.
+FEDERAÇÃO DAS INDÚSTRIAS DO ESTADO DO CEARÁ (FIEC) Índice FIEC de Inovação dos Estados 2020.
+Disponível em: Inovacao/Indice -FIEC -Inovacao_2020_V10.pdf.
+FIGUEIREDO FILHO, Dalson Britto; SILVA JÚNIOR, José Alexandre.
+Desvendando os Mistérios do Coeficiente de Correlação de Pearson (r).
+Teoria e política do desenvolvimento econômico .
+São Paulo: Companhia Nacional, 1967.
+MEDEIROS, Juliana Corrêa Crepalde.
+Parcerias tecnológicas e inovação incremental.
+T. O esforço dos Estados nordestinos na construção de capacitações para a inovação: Uma análise para 2010, 105 p. Dissertação (Mestrado em Economia) - Programa de Pós -Graduação em Economia, Universidade Federal de Alagoas, Brasil, 2014.
+Página | 101 ROCHA, Elisa Maria.
+T. Indicadores de ciência, tecnologia e inova ção: mensuração dos sistemas de CTeI nos Estados brasileiros.
+Inf., Brasília, v. 33, n. 3, p. 61 -68, set./dez., 2004.
+SANTOS, Ester Carneiro do C. Índice estadual de Ciência, Tecnologia e Inovação como contribuição à melhoria da capacidade de gerência pública.
+Nova Economia, Belo Horizonte, v. 21, n. 3, p. 399 -421, set./dez., 2011.
+A Dimensão espacial do Sistema Nacional de Inovação e seus impactos regionais na economia brasileira, 197 p. Tese (Doutorado em Economia) – Centro de Desenvolvimento e Planejamento Regional, Faculdade de Ciências Econômica, Universidade Federal de Minas Gerais, Brasil, 2014.
+P. S. Inovação: um estudo sobre a evolução do conceito de Schumpeter.
+Revista da Faculdade de Administração da FEA v. 5, n. 1, 2011.
+R. Proposição de indicadores subnacionais de ciência, tecnologia e inovação: uma aplicação aos estados brasileiros.
+Revista de Dese nvolvimento Econômico – RDE - V. 3 - N. 41 – Salvador, BA – p. 100 – 129, 2018.
+A teoria do desenvolvimento econômico.
+São Paulo: Nova Cultural, 1988.
+WORLD INTELLECTUAL PROPERTY ORGANIZATION (WIPO).
+ÍNDICE GLOBAL DE INOVAÇÃO DE 2020 : Quem financiará a inovação?
+Ithaca, Fontainebleau e Genebra.
+Universidade Cornell, INSEAD, 13ª edição, 2020.
+Recebido: 07/07/2021 Aprovado: 25/08/2021 DOI: 10.3895/rts.v17n49.14496 Como citar: RODRIGUES , W. et al.
+Fatores que influenciam a inovação tecnológica nos estados brasileiros: uma abordagem em 202 0.
+Soc., Curitiba, v. 17, n. 49, p.89-101, out./dez., 2021.
+Correspondência: _ Direito autoral: Este artigo está licenciado sob os termos da Licença Creative Commons -Atribuição 4.0 Internacional.

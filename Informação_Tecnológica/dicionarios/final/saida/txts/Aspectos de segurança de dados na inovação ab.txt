@@ -1,0 +1,221 @@
+ ARTIGO DOI: 73-87 Esta obra está licenciada sob uma Licença Creative Commons (Attribution 4.0 International) P2P & INOVAÇÃO, Rio de Jan eiro, v. 6, n. 2, Ed.
+ASPECTOS DE SEGURANÇA DE DADOS NA INOVAÇÃO ABERTA: REVISÃO DA LITERATURA Pedro Silvino Campos Junior Universidade Federal do Paraná pedro.silvino@ufpr.br Ricardo Mendes Junior mendesjr@ufpr.br Resum o Atualmente as empresas tem buscado, como forma de diferenciação dentro do mercado, processos inovadores em especial a inovação aberta.
+Há entretanto uma preocupação genuína em entender de que forma o processo de inovação pode impactar a segurança de informação e por consequência o negócio.
+Este estudo tem como objetivo analisar a produção científica em inovação aberta e segurança da informação no período de 2008 a 2018.
+Pretendese verificar oportunidades de avanço do tema.
+Foram encontrados 85 artigos relacionados aos dois temas.
+Os resultados mostram que apesar do crescimento recente em torno do tema, há muit o pouco material em língua inglesa e os disponíveis em língua portuguesa são quase inexistentes.
+A análise constatou que a maioria dos artigos são referentes a pesquisa exploratória e que englobam mais especificamente um dos temas pesquisados: inovação ou segurança da informação, e que a temática de interseção desses dois temas é extremamente rara, o que pode indicar uma oportunidade de avanço em pesquisas acadêmicas.
+DATA SECURITY ASPECTS IN OPEN INNOVATION: LITERATURE REVIEW Abstract Organizations have been looking for innovative processes, especially open innovation, as a form of differentiation in the market.
+There is a genuine concern, however, to understand how the innovation process can influence information security and therefore the business.
+This study aims to analyze the scientific production in open innovation and information security from 2008 to 2018.
+It intends to verify the opportunities for the adv ancement of the theme.
+The search found 85 articles related to both themes.
+The results show that, despite recent growth around the subject, there is very little material in English and those available in Portuguese are almost non -existent.
+The results hig hlight that the majority articles have an exploratory nature, and they address more specifically one of the topics researched: innovation or information security, the subject of intersection of these two themes being extremely rare, which may indicate an o pportunity for academic advancement research.
+ARTIGO P2P & INOVAÇÃO, Rio de Janeiro, v. 6 , n. 2, Ed.
+74 1 INTRODUÇÃO Atualmente na sociedade do conhecimento, a constante demanda de melhoria de processos nas organizações ocorre com a busca de valor por meio de um processo de inovação.
+Diversas melhorias surgem quando as organizações e a sociedade em geral necessitam se adequar às rápidas transformações impostas pelo mercado, isso demanda uma participação importante do capital intelectual e o aumento a complexidade das informações.
+Dessa forma, a gestão eficiente do capital intelectual se mostra de grande importância e necessária para atuação no mercado.
+E a geração dessa vantagem competitiva se mostra cada vez mais complexa.
+Uma das formas de tentar se manter sempre à frente no mercado é com o uso de estratégias envolvendo inovação.
+Uma delas é a utilização do modelo de i novação aberta.
+O modelo "fechado" é um sistema verticalizado em que as atividades voltadas à inovação são centralizadas nas organizações e dependem de alto investimento (CHESBROUGH et al., 2006; FREITAS et al., 2017) A Inovação Aberta, ou Open Innovation , é um paradigma na qual as empresas utilizam recursos e conhecimentos externos nos processos de pesquisa e desenvolvimento, reduzindo as necessidades de investimentos (CHESBROUGH, 2003; SÉRGIO et al., 2018).
+Esses modelos de inovação aberta exploram a pos sibilidade de as organizações utilizarem parcerias com diversos atores: universidades, institutos, empresas especializadas, estudantes, entre outros.
+Porém com a busca de inovação por meio de atores externos, há um receio de que o processo de pesquisa, inf ormações críticas possam ser comprometidas.
+Informações são consideradas ativos estratégicos dentro das organizações, dessa forma os processos envolvendo o compartilhamento desses recursos devem seguir rigorosos protocolos de segurança (MATEUS et al., 201 7).
+Um dos processos relacionados à segurança da informação das organizações é o relacionado a gestão de propriedade intelectual dentro de uma instituição (ARAÚJO, 2009; PEREIRA, 2018).
+Dessa forma entender qual o impacto da segurança da informação nos pro cessos de inovação aberta é de grande relevância na área de gestão de informação.
+Portanto, explorar o que a literatura apresenta fala sobre segurança de informação dentro dos processos de inovação aberta se faz essencial em uma sociedade baseada em inform ação e conhecimento.
+ARTIGO P2P & INOVAÇÃO, Rio de Janeiro, v. 6 , n. 2, Ed.
+75 Diante do exposto, propõe -se a seguinte questão: qual é o perfil da pesquisa científica sobre inovação aberta e segurança da informação no Brasil entre 2008 e 2018?
+Assim, o objetivo principal desta pesquisa é analisar o perfil da pesq uisa científica sobre inovação aberta e segurança da informação no Brasil entre 2008 e 2018 tendo três objetivos específicos: (1) examinar a evolução em volume de produção científica nos temas inovação aberta e segurança da informação; (2) identificar as t emáticas as quais os assuntos inovação aberta, segurança da informação e propriedade intelectual estão relacionada nos artigos; (3) identificar os métodos técnicos adotados nos artigos encontrados.
+A presente pesquisa tem natureza quantitativa e descritiv a e trata -se de uma pesquisa bibliográfica, na qual se empreendeu a análise de artigos científicos publicados em revistas nacionais de administração, e que estavam disponibilizados nas bibliotecas eletrônicas: Scopus , Sciello, Science Direct e Bussiness Sc ience Ultimate a partir de 2008.
+Nessa direção, esta pesquisa busca, a partir das contribuições apresentadas pela literatura, entender os conceitos abordados e contribuir para a área a partir dessa abordagem de estudo.
+Esta pesquisa foi estruturada em cinc o seções.
+A primeira seção, introdutória, busca elucidar os principais assuntos a serem abordados nesta pesquisa.
+Na segunda, delimita -se conceitualmente a fundamentação que dá sustentação para todo estudo.
+Na terceira seção apresenta -se os procedimentos m etodológicos, que representam todo o planejamento previamente executado para o desenvolvimento eficiente e coeso desta pesquisa.
+Na quarta seção são apresentados os resultados obtidos, com a contribuição gerada a partir da literatura.
+Na quinta seção são a presentadas as considerações finais, contendo as percepções geradas a partir dos resultados ao final da pesquisa.
+2 DESENVOLVIMENTO Nesta seção são apresentados os conceitos que serviram de fundamento para o desenvolvimento desta pesquisa, sendo que primeiramente abordou -se quesitos referentes à inovação aberta e, em seguida, como aos conceitos de segurança de informação e, por fim, os aspectos de propriedade intelectual relacionados a estes dois conceitos.
+ARTIGO P2P & INOVAÇÃO, Rio de Janeiro, v. 6 , n. 2, Ed.
+76 2.1 INOVAÇÃO ABERTA De um modo geral, a inovação é um elemento que possibilita que organizações alcancem ou sustentem uma vantagem competitiva perante seus concorrentes (JONASH; SOMMERLATTE, 2001; FREITAS et al., 2017).
+Esse conceito se refere ao processo de inovação "fechada" que, desde a conc epção da ideia, passando pelo desenvolvimento até a comercialização, ocorre internamente na organização.
+A capacidade das organizações em conhecer e se adaptar às cada vez mais rápidas mudanças tecnológicas e econômicas é vital para a sobrevivência desta n o mercado.
+Dessa forma a diferenciação de uma empresa frente a concorrência pode ser obtida pela inovação, proporcionando por vezes até a participação em novos mercados (CHRISTENSEN, 2012).
+O aumento de produtividade e competitividade desde a segunda metad e do século passado foram alavancados por inovações, que passaram a ter importante papel nas discussões acadêmicas (CHESBROUGH et al., 2006).
+O contexto tecnológico que propicia a inovação impacta também outras dimensões como a economia.
+Quando se aumenta a qualidade na produção e desenvolvimento de produtos também se incrementa a produtividade e lucratividade o que reflete no uso de conhecimento e informação (TIGRE, 2006, ANDRADE et al., 2017).
+Em organizações onde a pesquisa e desenvolvimento ficam reclu sos a recursos internos o processo de inovação é mais desafiador e depende exclusivamente das competências, recursos e investimentos das empresas (CHESBROUGH, 2003).
+A inovação "fechada" envolve invenção, desenvolvimento interno proteção por patentes e disponibilização para mercado.
+Uma solução inovadora que vai trazer vantagens na competitividade só é alcançada por grandes investimentos: seja em pesquisa e desenvolvimento, capital, ideias ou tempo (CHESBROUGH et al., 2006; STAL et al., 2014).
+Conhecimento s externos são de relevância estratégica na inovação.
+Em muitos casos a inovação precisa não apenas dos recursos internos da organização, mas também o acesso a recursos de outras entidades, orientados por alianças e acordos (DAHLANDER; GAN, 2010; SILVEIRA et al., 2016).
+Esta dificuldade aliada ao alto custo e complexidade dos processos de inovação motivam que as organizações busquem fontes externas.
+Considerando isso foi que surgiu o conceito de inovação aberta, como o paradigma de utilizar conhecimentos ex ternos e internos da empresa nos processos de inovação e pesquisa.
+Outros atores como institutos, universidades, ARTIGO P2P & INOVAÇÃO, Rio de Janeiro, v. 6 , n. 2, Ed.
+77 comunidade, profissionais, entre ouros também podem participar junto com a organização para acelerar o processo de desenvolvimento e inovação.
+Nesse sentido a ideia de inovação aberta considera que o processo de pesquisa e desenvolvimento interno contribui juntamente com o processo externo de pesquisa para a criação de valor e inovação.
+A participação dos recursos internos na colaboração com ent idades externas garante que seja criado um conjunto de insumos necessários para a sobrevivência da organização dentro mercado (CHESBROUGH, 2003; WOERTER; ROPER, 2010).
+Essas exigências de mercado obrigam as organizações a adotarem novos modelos de negócio e a utilização de tecnologias adquiridas pode reduzir a incerteza no desenvolvimento de novos produtos e serviços (KAFOUROS; FORSANS, 2012).
+Um modelo de inovação aberta tende a apresentar um novo paradigma de aquisição de conhecimento, fundamental para a inovação, e que estes novos conhecimentos passam também a ser adquiridos em parceria com outras organizações (WANG, 2012).
+A discussão sobre o modelo de inovação aberta pode gerar algumas questões como: de que forma capturar o valor das inovações com a ev olução tecnológica?
+Como adaptar esse modelo reduzindo incertezas das decisões ou ainda como atuar na proteção de patentes?
+(TEECE, 2010, WIRTZ et al, 2016) Além disso esse assunto promove um debate a respeito de internacionalização e globalização, devido às necessidades de alguns processos de inovação ultrapassarem os limites das empresas em direção a uma troca de informações e conhecimento por todo o mundo (FIGUEIREDO; GRIECO, 2013).
+O conceito de inovação aberta foi criado a partir da ideia que uma empre sa tem dificuldades de inovar de maneira isolada.
+Dessa forma surge a necessidade do envolvimento de diferentes atores, para que possa como um conjunto, agregar conhecimento de diversas áreas e processos diferentes para a organização consiga resolver seus problemas, reinventar produtos, serviços e modelos de negócios, e contribuir com a sobrevivência no mercado, sendo necessário o relacionamento com diferentes atores para aquisição de ideias e recursos externos com o objetivo de manter a competitividade no mercado.
+Essa abertura é impactada tanto pela diversidade dos relacionamentos entre atores quanto pelas experiências externas nas atividades das empresas (DAHLANDER; GAN, 2010).
+Para que o processo de inovação seja efetivo é necessária troca de conheciment o entre as organizações, por meio de contrato comercial ou não, e que tenha a incorporação do conhecimento externo nas atividades dos participantes ( CHESBROUGH et al.
+ARTIGO P2P & INOVAÇÃO, Rio de Janeiro, v. 6 , n. 2, Ed.
+78 Os processos de inovação aberta podem ser classificados de três formas: 1.
+Inovação aberta de fora para dentro: onde as empresas melhoram sua própria base de conhecimento por meio da integração de atores externos para aumentar sua capacidade de inovação; 2.
+Inovação aberta de dentro para fora, quando a empresa busca maximizar seu lucro por meio da venda de propriedade intelectual e transferência de ideias internas; 3.
+Inovação aberta acoplada ou mista: seria a mistura dos outros dois tipos anteriores, ou seja, quando a organização utiliza parceria complementares para tanto inovando os processos internos quanto aumentando o faturamento vendendo inovações (SANTORO et al, 2018).
+Dessa forma a inovação aberta pode ser entendida como um processo de entradas e saídas, com a troca de conhecimentos entre as empresas e demais organizações para aceleração da inovação interna e ampliação de mercados no uso externo da inovação ( CHESBROUGH , 2003; DAHLANDER; GAN, 2010).
+2.2 SEGURANÇA DA INFORMAÇÃO Considerando os processos da gestão de informação e os fluxos de informação dentro da organização, sabe -se que a capacidade de processamento da informação é de extrema importância, pois facilita as atividades de criação de conhecimento que por sua vez influencia a estratégia (CHOU et al, 2007).
+Consequentemente é necessário identificar quais informações estão alinha das aos objetivos estratégicos para que a organização possa garantir que essas informações são gerenciadas da mesma forma que os recursos financeiros ou humanos (POLTRICH et al, 2013).
+A gestão da informação representa uma cadeia de valores da informação, que incluem, dentre outras coisas, definição das necessidades de informação, coleta, armazenamento distribuição e recuperação para a utilização das informações (CIANCONI, 2003).
+Levando em consideração a informação como recurso importante para a organizaçã o as atividades que envolvem os fluxos de informação também podem ser consideradas estratégicas, isto implica que a atividade de proteção da informação também englobe o mesmo aspecto.
+Conforme Sêmola (2003, p. 45), a segurança da informação é definida como um conjunto de conhecimentos dedicados à proteção de ativos da informação, no que tange a acessos não autorizados, alterações indevidas, indisponibilidade e não repúdio das informações, ARTIGO P2P & INOVAÇÃO, Rio de Janeiro, v. 6 , n. 2, Ed.
+79 além de práticas de gestão de riscos de incidentes que afetem confide ncialidade, integridade e disponibilidade da informação.
+Outra definição, conforme a norma ABNT (2005, p.10), é que segurança da informação é a proteção da informação quanto a vários tipos de ameaças, visando garantir a continuidade do negócio, minimizar o risco do negócio, maximizar o retorno sobre os investimentos e as oportunidades do negócio.
+A gestão de segurança de informação envolve mudanças dentro da organização que implicam em ações para institucionalizar essas atividades.
+A forma que os processos de negócios são redesenhados, considerando aspectos formais, informais e técnicos compõe a segurança da informação de uma empesa (DHILLON et al, 2016).
+A segurança da informação tem um aspecto importante dentro das organizações, pois há uma crescente preo cupação com um constante aumento de incidentes de segurança da informação e uma alta exposição de novas formas de ataque (FONTES, 2006).
+Diversos estudos avaliam a questão dos riscos de segurança e a gestão de dados, informação e conhecimento.
+Uma classifi cação desses riscos relacionados a segurança da informação é a separação em duas categorias: riscos internos que tem como origem a própria organização e riscos externos que provém dos ambientes externos (TICKLE, 2002, SCHNEIDER; SOUZA, 2017).
+Outra classi ficação separa os riscos em: humanos, com as ameaças relacionadas a atos das pessoas e não -humanos que se refere a ameaças relacionadas a fenômenos naturais e falhas técnicas (NASSIMBENI et al, 2012).
+De acordo com outros levantamentos as ações de colabora dores são as principais ameaças relacionadas à segurança da informação que uma organização pode enfrentar (CHANG; YEH, 2006).
+Alguns estudos verificam outra questão nesse contexto: o crescimento dos riscos externos devido ao aumento da terceirização ou offshoring de serviços.
+Como os dados passam de um ambiente interno para externo, e às vezes internacional, existe o aumento de risco relacionados a diversos agentes: provedores, intermediários e subcontratados com acesso a dados sensíveis (NASSIMBENI et al.
+Um outro assunto relevante discutido nesse tema são as ferramentas de proteção e práticas para mitigar riscos de segurança, internos e externos.
+Existe uma classificação destas ferramentas de acordo com as dimensões: técnica, legal e organizacional (NASSIMBENI et al., 2012; PEREIRA et al, 2017).
+ARTIGO P2P & INOVAÇÃO, Rio de Janeiro, v. 6 , n. 2, Ed.
+80 As ferramentas de proteção técnica são tecnologias implementadas para garantir a proteção contra -ataques, intencionais ou não, a sistemas de informação.
+Podem ser sistemas de criptografia, aut orização, assinaturas, firewall , antivírus, etc.
+Já as ferramentas legais são relacionadas a contratos de propriedade intelectual.
+Registros de propriedade intelectual fornecem as organizações o direito de explorar um determinado conhecimento de modo exclu sivo, uma forma de proteger os dados compartilhados é através de contratos com cláusulas específicas.
+Porém a eficácia dessa ferramenta vai depender da estrutura judicial que a empresa opera (NASSIMBENI et al, 2012).
+O último tipo, as ferramentas de proteç ão organizacional são os conjuntos de políticas, procedimentos e controles que a própria empresa adota para impedir determinadas ameaças e garantir ações de recuperação.
+Alguns desses instrumentos são de natureza estrutural com a atribuição de responsabili dade (NASSIMBENI et al, 2012).
+Quando as empresas têm contratos do tipo outsourcing ou offshoring , alguns trabalhos sugerem a seleção de determinadas atividades que serão externalizadas ou descentralizadas para prestadores externos, a criação de relacionam ento de confiança e fornecimento de treinamento de segurança podem mitigar alguns riscos inerentes a esse tipo de processo (BLIND; THUMM, 2004, MOURA JUNIOR, 2017).
+2.3 PROPRIEDADE INTELECTUAL Atualmente a inovação tecnológica é determinante para os mec anismos de desenvolvimento econômico e do sucesso da inovação que depende da capacidade dos autores como pesquisadores, organizações e governo, de desenvolver e aplicar novos conhecimentos (CYSNE, 2005, VIDIGAL et al, 2018 ).
+A inovação tecnológica tem rela ção com o sistema de propriedade intelectual da seguinte maneira: a propriedade intelectual pode ser entendida como parte do direito internacionalizado, como um conjunto de direitos imateriais que incidem sobre o intelecto humano e que são possuidores de v alor econômico (BARBOSA, 2003; BOCCHINNO et al., 2010).
+Estudos mostram que a proteção de direitos tem como finalidade respeitar a autoria e incentivar a divulgação da ideia, sendo que a propriedade intelectual se caracteriza como um instrumento importan te na proteção do conhecimento (BOCCHINO et al 2010).
+A Organização Mundial de Propriedade Intelectual define a patente como um documento expedido por um governo que descreve a invenção e cria a condição legal para esta ARTIGO P2P & INOVAÇÃO, Rio de Janeiro, v. 6 , n. 2, Ed.
+81 possa normalmente ser fabricada, imp ortada, vendida e utilizada com autorização do titular (WIPO, 2011).
+Conforme alguns autores, a propriedade industrial tradicionalmente afeta de forma mais incisiva o interesse da indústria de transformação e do comércio, bem como os direitos relacionados a patentes e marcas das organizações (BARBOSA, 2003).
+Dessa forma a propriedade intelectual atua como parte das ferramentas que a organização tem, juntamente com outras práticas de segurança da informação, com o intuito de proteção de seu conhecimento, que pode vir ou não da inovação.
+2.4 METODOLOGIA A presente pesquisa, em termos de delineamento pode ser caracterizada como exploratória de abordagem quantitativa e de cunho bibliográfico.
+Com intuito de atender o objetivo proposto foi realizada uma anális e bibliométrica em artigos que tenham sido publicados entre 2008 e 2018.
+Na coleta de dados para a análise foi empregada uma pesquisa bibliográfica que teve como fonte as seguintes bases de dados: Scopus, Science Direct, Scielo e Business Source Ultimate.
+A estratégia de busca foi vincular a presença das palavras chaves "Inovação aberta" e "Segurança da Informação" por meio do conector " AND " para a base Business Source Ultimate .
+Nas outras bases foram utilizados os vocábulos em inglês, e em todas as buscas foram considerando apenas artigos (" articles ") entre os anos 2008 e 2018.
+Quadro 1 – Estratégia de busca e resultados Palavras -chave e operadores de combinação Base Artigos Encontrados "Inovação Aberta" AND "Segurança da Informação" Business Source Ultimate 3 "Open Innovation" AND "Information Security" Scopus 66 "Open Innovation" AND "Information Security" Science Direct 18 "Open Innovation" AND "Information Security" Scielo 2 Fonte: O autor (2018).
+Os únicos resultados da busca em português foram três artigos na base Business Source Ultimate .
+No caso da busca com os termos em inglês as buscas das outras bases totalizaram 86 artigos, porém 4 desses artigos estavam constando em duas bases, então o tota l é de 82 artigos.
+ARTIGO P2P & INOVAÇÃO, Rio de Janeiro, v. 6 , n. 2, Ed.
+82 Na análise dos artigos encontrados foi utilizada a técnica de análise de conteúdo.
+Tratase de uma metodologia utilizada para explicar e interpretar o conteúdo de documentos e textos, onde são conduzidas descrições que auxiliam na reinte rpretação das mensagens e na conseguinte compreensão de significados num nível de leitura comum (MORAES, 1999).
+A análise busca verificar dentro dos artigos encontrados quais estão relacionados com a inovação aberta e com as questões de segurança de inform ação.
+Na sequência procura -se identificar: (1) a cronologia das publicações; (2) os principais temas presentes nos artigos e (3) a metodologia ou método utilizado na pesquisa.
+3 APRESENTAÇÃO DOS RESULTADOS Considerando a análise dos resultados do levantamento de artigos ligados à inovação aberta e segurança da informação foi possível constatar que as intersecções desses dois assuntos são pouco exploradas pela academia.
+Como pode ser visualizado no Quadro 2, a produção científica em torno desse tema vem seguindo um aumento relevante nos últimos anos.
+A partir do ano de 2013 em que há um acréscimo no número de artigos sobre esse assunto, e após isso o tema mantém uma média aproximadamente constante.
+Quadro 2 – Evolução da produção nos temas inovação aberta e segurança da informação ANO PUBLICAÇÕES 2018 15 2017 18 2016 15 2015 10 2014 10 2013 9 2012 5 2011 1 2010 1 2009 1 2008 0 Fonte: O autor (2018).
+Considerando a constância do número de publicações, é possível constatar uma tendência de crescimento linear da pesquisa e publicação no decorrer dos últimos 4 anos, sendo que a média nesse período foi de aproximadamente 13 publicações.
+ARTIGO P2P & INOVAÇÃO, Rio de Janeiro, v. 6 , n. 2, Ed.
+83 Foram verificados em todos os artigos indicados, por meio dos resumos e das palavraschaves disponíveis, quais são as temáticas de cada documento.
+Foram encontrados 85 periódicos diferentes sendo que os temas mais recorrentes foram "Tecnologia da Informação", "Sistema da Informação" e "Inovação Aberta".
+Abaixo se gue o Quadro 3 com os dez temas mais recorrentes na análise: Quadro 3 – Temática dos artigos pesquisados Temática Incidências Tecnologia da Informação 11 Sistemas de Informação 9 Inovação Aberta 7 Segurança da Informação 7 Colaboração 6 Inovação 5 Internet das Coisas 5 Big Data 4 Cadeia de Suprimentos 4 Padronização 4 Fonte: O autor (2018).
+Considerando as principais temáticas relacionadas à inovação aberta e segurança da informação, verificou -se que a maioria dos artigos abordam outros temas não relacionados a esses dois temas.
+Dentro da pesquisa apenas um artigo abordou os temas "Segurança da Informação" e "Inovação Aberta", uma pesquisa de 2017 que investiga o efeito da adoção de inovação aberta nas estratégias de gestão de conhecimento em e mpresas biofarmacêuticas.
+A respeito da temática de propriedade intelectual, as buscas retornaram apenas três artigos com essa temática, sendo duas revisões bibliográficas e uma pesquisa exploratória Em relação aos métodos mais utilizados nos artigos, foi verificada que a metodologia "Pesquisa Exploratória" foi a mais utilizada, seguida por "Revisão Bibliográfica".
+A disposição dos métodos dos artigos segue conforme Quadro 4.
+Quadro 4 – Metodologia dos artigos pesquisados Método de Pesquisa Quantidade Cientometria 1 Estudo de caso 10 Experimental 6 Não identificada 7 Pesquisa exploratória 38 Revisão bibliográfica 23 Fonte: O autor (2018).
+ARTIGO P2P & INOVAÇÃO, Rio de Janeiro, v. 6 , n. 2, Ed.
+84 4 CONSIDERAÇÕES FINAIS O objetivo geral do estudo foi a realização de uma análise da produção científica em relação aos temas inovação aberta, segurança da informação e propriedade intelectual no período de 2008 a 2018.
+Apesar disso, a quantidade de estudos dedicados a esses temas ainda é escassa – média de 13 artigos por ano nos últimos cinco anos.
+Considerando o primeiro objetivo específico, o estudo verificou que as publicações envolvendo a relação entre os dois temas vêm seguindo uma tendência de aumento considerável, principalmente nos últimos cinco anos.
+Em relação ao segundo objetivo específico, as temátic as mais recorrentes juntamente aos temas de inovação aberta, segurança da informação e propriedade intelectual, desconsiderados os termos de pesquisa e correlatos, foram: Colaboração, Internet das Coisas, Big Data , Cadeia de Suprimentos e Padronização Quanto ao terceiro objetivo específico, foi constatado que os métodos mais utilizados nas pesquisas realizadas são os Pesquisa Exploratória e Revisão Bibliográfica.
+Devido à pouca disponibilidade de estudos relacionados a estes temas, como sugestão de pesquisas futuras sugere -se uma pesquisa relacionada a aplicação prática do tema de segurança de informação em organizações que já usam os processos de inovação aberta.
+ARTIGO P2P & INOVAÇÃO, Rio de Janeiro, v. 6 , n. 2, Ed.
+O Impacto Da Tecnologia Nos Processos De Produção .
+Revista Livre de Sustentabilidade e Empreendedorismo , Curitiba, v. 2, n. 3, p. 4 -15, 2017.
+ARAÚJO, W. A segurança do conhecimento nas práticas de gestão da segurança de informação e da gestão do conhecimento .
+Tese – Departamento de Ciência da Informação e Documentação, Universidade de Brasília, Brasília, DF, 2009.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS.
+NBR ISO/IEC 17799 : Tecnologia da informação, técnicas de segurança - código de prática para a gestão da segurança da informação.
+BARBOSA, D. Uma Introdução à Propriedade Intelectual .
+Rio de Janeiro: Lumen Juris, 2003.
+BLIND, K.; THUMM, N., Interrelation between patenting and standardization strategies: empirical evidence and policy implications.
+Research Pol icy, [s. l.], v. 33, n. 10, p. 1583 -98, 2004.
+Publicações da Escola da AGU : Propriedade Intelectual - conceitos e procedimentos.
+Brasília, DF: Advocacia -Geral da União, 2010.
+CIANCONI, R. B. Gestão do conhecimento : visão de indivíduos e organizações no Brasil.
+298 f. Tese – Departamento de Ciência da Informação, Instituto Brasileiro de Informação e Ciência e Tecnologia, Rio de Janeiro, 2003.
+On security preparations against possible IS threa ts across industries.
+Information Management & Computer Security , Bingley, v. 14, n. 4, p. 343 -360, 2006.
+CHESBROUGH, H. Open innovation: the new imperative for creating and profiting from technology.
+CHESBROUGH, H.; VANHAVERBEKE, W.; WEST, J.
+Open innovation: researching a new paradigm.
+Oxford: Oxford University Press, 2006.
+CHRISTENSEN, C. O dilema da inovação: quando as novas tecnologias levam empresas ao fracasso.
+São Paulo: M. Books do Brasil, 201 2.
+CHOU, T. C.; CHANG, P. L.; CHENG, Y. P.; TSAI, C. T. A path model linking organizational knowledge attributes, information processing capabilities, and perceived usability.
+Information Management , [s. l], v. 44, n. 4, p. 408 -417, 2007.
+CYSNE, F. P. Tr ansferência de Tecnologia entre a Universidade e a Indústria.
+Rev Eletrôn Bibl Ciênc Inf, Florianópolis, v. 10, n. 20, 2005.
+DAHLANDER, L.; GANN, D. M. How open is innovation?
+Research Policy , [s. l.], v. 39, n. 6, p. 699 -709, jul.
+ARTIGO P2P & INOVAÇÃO, Rio de Janeiro, v. 6 , n. 2, Ed.
+86 DHILLON, G.; SY ED, R.; PEDRON, C. Interpreting information security culture: An organizational transformation case study.
+Computers & Security , [s. l.], v. 56, p. 63 -69, 2016 FIGUEIREDO, J.; GRIECO, A. O papel da inovação aberta na internacionalização de empresas em red e: o caso Brasil Foods.
+Rev Admin Inovação , São Paulo, v. 10, n. 4, p. 63 -84, 2013 FONTES, E. Segurança da Informação : o usuário faz a diferença.
+FREITAS, A. S.; FILARDI, F.; LOTT, A. C. O.; BRAGA, D. Inovação Aberta nas Empresas Brasileiras: Uma Análise da Produção Acadêmica no Período de 2003 a 2016.
+Revista IberoAmericana de Estratégia , São Paulo, v. 16, n. 3, p. 22 -38, 2017.
+JONASH, R.; SOMMER LATTE, T. O valor da inovação : como as empresas mais avançadas atingem alto desempenho e lucratividade.
+; FORSANS, N. The role of open innovation in emerging economies: do companies profit from the scientific kn owledge of others?
+Journal of World Business , [s. l.], v. 47, n. 3, p. 362 -370, 2012.
+MATEUS, B.; YANZER, A.; BASSO, E. Metodologias de gestão do conhecimento considerando melhores práticas para a segurança da informação.
+In: ATAS DA CONFERÊNCIA DA ASSOCIAÇÃO PORTUGUESA DE SISTEMAS DE INFORMAÇÃO, 2017, Porto.
+MORAES, R., Análise de conteúdo.
+Revista Educação , Porto Alegre, v. 22, n. 37, p. 7 -32, 1999.
+MOURA JUNIOR, P. J. Outsourcing as knowledge management strategy.
+BR, [s. l.], v. 15, n. 2, p. 229 -255, 2017.
+NASSIMBENI, G.; SARTOR, M.; DUS, D. Security risks in service offshoring and outsourcing.
+Industrial Management and Data Systems , [s. l], v. 112, n. ¾, mar.
+PEREIRA, F. L; JACOBSEN, A., MARTINA, J. E.; LENGLER, F. R. A importância da inovação na gestão de processos administrativos da Universidade Pública, por meio da implementação da Tecnologia de Certificação Digital.
+Revista da UNIFEBE , Brusque, v. 1, n. 21, p. 1 -23, 2017.
+A. R.; DINIZ, R. H. N.; RIOS, J. M. F. Análise da percepção de segurança da informação de uma cooperativa de crédito do Centro Oeste/MG por parte de seus colaboradores.
+Ciências Gerenciais em Foco , Belo Horizonte, v. 9, n. 6, 2018.
+SANTORO, G.; FERRARIS, A.; GIACOSA, E.; GIOVANDO, G. How SMEs Engage in Open Innovation: a Survey.
+Journal Knowledge Economy , [s. l.], v. 9, n. 2, p. 561 –574, 2018.
+SCHNEIDER, J.; SOUZA, A. R. A importância da Segurança da Informação e dos Controles Internos na Prevenção de Riscos à Estabilidade Financeira de uma Instituição Bancária.
+Pensar Contábil , v. 19, n. 69, p. 30 -39, maio/ago.
+ARTIGO P2P & INOVAÇÃO, Rio de Janeiro, v. 6 , n. 2, Ed.
+Contr ibuições das redes sociais no processo de inovação aberta: uma revisão de literatura.
+Navus - Revista de Gestão e Tecnologia , v. 8, n. 2, p. 57 -72, 2018 .
+SÊMOLA, M. Gestão de segurança da informação : visão executiva da segurança da informação: aplicada ao Security Officer.
+SILVA, G.; DACORSO, A. Da Ideia à Inovação: O Caminho Percorrido Por um Inventor.
+Revista de Empreendedorismo e Gestão de Pequenas Empresas , v. 6, n. 1, p. 217 -233, 2017.
+SILVEIRA, L. M.; SANTOS, J. L. S.; HANSEN, P. B. Coopetição e Inovação: Uma Análise das Publicações Científicas na Base Web Of Science.
+In: SIMPÓSIO INTERNACIONAL DE GESTÃO DE PROJETOS,, 5., 2016, São Paulo.
+SODA, G. The management of firms' alliance network positioning: implications for innovation.
+European Management Journal , [s. l.], v. 29, p. 377 -388, 2011.
+STAL, E., NOHARA, J.; CHAGAS, M. Os conceitos da inovação aberta e o desempenho de empresas brasi leiras inovadoras.
+Revista de Administração e Inovação , [s. l.], v. 11, n. 2, p. 295-320, 2014.
+Business Models, Business Strategy and Innovation.
+Long Range Planning , [s. l.], v. 43, n. 2, p. 172 -194, 2010.
+Data integrity assuran ce in a layered security strategy, Computer Fraud & Security , [s. l.], v. 10, pp.
+VIDIGAL, F.; GONÇALVES, C. A.; SILVA, J. R. Inteligência competitiva e capacidade de inovação: uma análise de uma indústria de classe mundial no setor automotivo de veículos pesados.
+Perspectivas em Ciência da Informação , Belo Horizonte, v. 23, n. 3, p. 20 6-220, 2018.
+WANG, M. Exploring potential R&D collaborators with complementary technologies: the case of biosensors.
+Technological Forecasting & Social Change , [s. l.], v. 79, p. 862 -874, 2012.
+WIRTZ, B.; PISTOIA, A.; ULLRICH, S.; GÖTTEL, V. Business models: Origin, development and future research perspectives.
+Long range planning , [s. l.], v. 49, n. 1, p. 36 -54, 2016.
+World Intellectual Property Organization (WIPO).
+Intellectual Property and Ge netic Resources, Traditional Knowledge and Traditional Cultural Expressions .
+WOERTER, M.; ROPER, S. Openness and innovation - home and export demand effects on manufacturing innovation: panel data evidence for Ireland and Switzerland.
+Research Policy , [s. l], v. 39, n. 1, p. 155 -164, 2010.

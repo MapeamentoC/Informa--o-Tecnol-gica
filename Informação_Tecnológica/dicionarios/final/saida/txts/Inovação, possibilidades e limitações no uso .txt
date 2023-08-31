@@ -1,0 +1,497 @@
+Reciis – Revista Eletrônica de Comunicação, Informação & Inovação em Saúde, Rio de Janeiro, v. 15, n. 4, p. 914-937, out./dez.
+2021 [www.reciis.icict.fiocruz.br ] e-ISSN 1981-6278 ARTIGOS ORIGINAIS Inovação, possibilidades e limitações no uso de rastreador ocular na pesquisa em divulgação da ciência: um estudo sobre a importância da fonte de informação em textos sobre saúde Innovation, possibilities and limitations in the use of an eye tracker in science communication research: a study on the importance of the source of information in health news Innovación, posibilidades y limitaciones en el uso de un seguidor ocular en la investigación de divulgación científica: un estudio sobre la importancia de la fuente de información en textos de salud Luís Amorim1,2,a lha2000@gmail.com | Luisa Massarani1,2,b luisa.massarani7@gmail.com | Thierry Baccino3,c tbaccino@univ-paris8.fr | 1 Fundação Oswaldo Cruz, Casa de Oswaldo Cruz.
+2 Instituto Nacional de Comunicação Pública da Ciência e Tecnologia.
+Sanit-Denis, Île-de-France, França.
+a Doutorado em Ensino em Biociências e Saúde, Ensino de Ciências pela Fundação Oswaldo Cruz.
+b Doutorado na Área de Gestão da Educação e Difusão em Biociências pela Universidade Federal do Rio de Janeiro.
+c Doutorado em Psicologia Cognitiva pela Aix-Marseille Université.
+RESUMO Nosso estudo, fruto de uma parceria internacional, buscou aferir a importância dada por 23 leitores ao nome do veículo de publicação de quatro diferentes textos sobre temas de saúde, utilizando uma metodologia inovadora no campo de estudo acadêmico da divulgação científica – um rastreador ocular.
+Com ele, é possível mapear a cada instante o olhar do leitor e os pontos de fixação do olho sobre o texto, indicando a atenção do leitor.
+Apesar de o local de publicação ser considerado um critério importante de credibilidade da informação, nossos resultados, a partir da análise de 35.394 medições de fixações aferidas pelo rastreador ocular, indicam a pouca importância dada ao nome do veículo de publicação, ainda que o texto apresente características de notícias falsas.
+Palavras-chave: Divulgação científica; Rastreador ocular; Notícias falsas; Desinformação e saúde; Jornalismo.Reciis – Revista Eletrônica de Comunicação, Informação & Inovação em Saúde, Rio de Janeiro, v. 15, n. 4, p. 914-937, out./dez.
+2021 [www.reciis.icict.fiocruz.br ] e-ISSN 1981-6278 Artigo original | Inovação, possibilidades e limitações no uso de rastreador ocular na pesquisa em divulgação da ciência: um estudo sobre a importância da fonte de informação em textos sobre saúde 915ABSTRACT Our study, the result of an international partnership, sought to assess the importance given by 23 readers to the name of the publication source for four different texts on health topics, using an innovative methodology in the academic study field of scientific communication – an eye tracker.
+With an eye tracker, it is possible to map at every moment the reader's eyes and points of fixation of the eye on the text, indicating the reader's attention.
+Although the source of publication is considered an important criterion for the credibility of the information, our results, from the analysis of 35,394 measurements of fixations measured by the eye tracker, indicate the little importance given to the name of the publication source, even though the text presents fake news characteristics.
+Keywords: Science communication; Eye tracker; Fake news; Misinformation and health; Journalism.
+RESUMEN Nuestro estudio, resultado de una colaboracion internacional, buscó evaluar la importancia que le dan 23 lectores al nombre del vehículo de publicación de cuatro textos diferentes sobre temas de salud, utilizando una metodología innovadora en el campo de estudio académico de la divulgación científica – un seguidor ocular.
+Con él, es posible mapear en todo momento los ojos del lector y los puntos de fijación de la mirada sobre el texto, indicando la atención del lector.
+Si bien el lugar de publicación se considera un criterio importante para la credibilidad de la información, nuestros resultados, del análisis de 35.394 medidas de fijaciones medidas por el seguidor ocular, indican la poca importancia que se le da al nombre del vehículo de publicación, aunque que el texto presenta características de noticias falsas.
+Palabras clave: Divulgación científica; Seguidor ocular; Noticias falsas; Desinformación y salud; Periodismo.
+INFORMAÇÕES DO ARTIGO Contribuição dos autores: Concepção e desenho do estudo: Luís Amorim, Luisa Massarani, Thierry Baccino.
+Aquisição, análise ou interpretação dos dados: Luís Amorim, Luisa Massarani, Thierry Baccino.
+Redação do manuscrito: Luís Amorim.
+Revisão crítica do conteúdo intelectual: Luís Amorim, Luisa Massarani, Thierry Baccino.
+Declaração de conflito de interesses: não há.
+Fontes de financiamento: Coordenação de Aperfeiçoamento de Pessoal de Nível Superior – Brasil (Capes), por meio do edital Capes-Cofecub.
+Agradecimentos/Contribuições adicionais: não há.
+Histórico do artigo: submetido: 11 fev.
+2021 | publicado: 10 nov. 2021.
+Apresentação anterior: não houve.
+Licença CC BY-NC atribuição não comercial.
+Com essa licença é permitido acessar, baixar ( download ), copiar, imprimir, compartilhar, reutilizar e distribuir os artigos, desde que para uso não comercial e com a citação da fonte, conferindo os devidos créditos de autoria e menção à Reciis.
+Nesses casos, nenhuma permissão é necessária por parte dos autores ou dos editores.Reciis – Revista Eletrônica de Comunicação, Informação & Inovação em Saúde, Rio de Janeiro, v. 15, n. 4, p. 914-937, out./dez.
+2021 [www.reciis.icict.fiocruz.br ] e-ISSN 1981-6278 AMORIM, Luís; MASSARANI, Luisa; BACCINO, Thierry 916INTRODUÇÃO As atividades de divulgação científica, aqui entendida de forma abrangente como toda a busca por estabelecer relações, sejam elas unidirecionais ou dialógicas, entre a ciência e a sociedade, não são novas.
+Sem a pretensão de traçar um panorama histórico da divulgação científica, vale citar que, no Brasil, estudos de Oliveira (1999) e Massarani e Moreira (2016) mostram que já com a chegada da corte real portuguesa ao país, em 1808, foram realizadas publicações sobre ciência, seguidas por atividades com diferentes ênfases e amplitudes nesses mais de 200 anos, denominadas ondas de atenção pública à ciência por Bauer (2012).
+No século XVIII, atividades de divulgação científica aconteceram, ainda que de forma incipiente, em outros países da América Latina (MASSARANI; MOREIRA, 2004).
+Em nível internacional, mesmo que seja difícil precisar o início das atividades de divulgação científica, a decisão de Galileu Galilei de publicar sua obra Dialogo sopra i due massimi sistemi del mondo, de 1632, em italiano, e não em latim, língua usual da academia na época, é um marco importante, como destaca Cazaux (2010).
+Foi, porém, no século passado, com o fim da Segunda Guerra Mundial, em 1945, e o lançamento do satélite Sputnik-1, em 1957, que a ciência e a necessidade de um melhor ensino e uma maior comunicação da ciência ao público começaram a ganhar especial atenção da sociedade e dos governantes em diferentes países (LEWENSTEIN, 2000; MILLER, 2005; FERREIRA, 2014).
+No Reino Unido, um dos casos mais bem estudados na área de divulgação científica (MILLER, 2005), o processo de valorização da ciência levou à criação em 1985, pela Royal Society, do relatório The Public Understanding of Science (BODMER, 1985).
+A partir do relatório Bodmer, como ficou conhecido, foram alocados grandes volumes de recursos para atividades práticas de divulgação da ciência.
+Esse crescimento de atividades foi seguido de um grande aumento de pesquisas e análises sobre as ações empreendidas (LEWENSTEIN, 2000; MILLER, 2005).
+O aumento de aportes teóricos ao campo, ocorrido no Reino Unido, mas também em outros países, fez crescer a necessidade de revistas científicas específicas na área da divulgação científica.
+São de 1979 e 1992 as duas principais revistas acadêmicas da área: Science Communication (SC) e Public Understanding of Science (PUS), respectivamente.
+Dez anos após a criação da PUS, soma-se outro periódico de grande relevância, Journal of Science Communication (JCOM), em 2002.
+Assim, por mais que as atividades científicas e mesmo a divulgação dessas atividades datem de séculos, a pesquisa sobre os processos de divulgação científica é ainda recente.
+Como pontuam Trench e Bucchi (2010), "a divulgação científica como um campo de estudo definido cresceu nos últimos 20, 30 anos nas interseções do ensino de ciências, nos estudos sociais da ciência, na comunicação de massa, na museologia e em várias outras atividades acadêmicas e profissionais estabelecidas há mais tempo" (p. 3, tradução nossa).
+Em relação à América Latina, Rocha e Massarani (2017) corroboram esse quadro.
+As autoras dizem que, apesar do crescimento, a área de pesquisa em divulgação científica ainda pode ser considerada um campo em desenvolvimento no Brasil e na América Latina.
+Como define Massarani (2018, p. 13): "avançamos, mas não o suficiente".
+Uma nova metodologia, um olhar sobre a recepção da divulgação científica e o fortalecimento da pesquisa no campo Como uma área em expansão, mas ainda jovem, é importante que grupos de pesquisas debatam e estejam atentos às questões relevantes para o fortalecimento do campo da divulgação científica, em busca da consolidação de um campo de pesquisa autônomo.
+Segundo Fensham (2004), há diferentes critérios para a identificação de um novo campo de pesquisa científico.Reciis – Revista Eletrônica de Comunicação, Informação & Inovação em Saúde, Rio de Janeiro, v. 15, n. 4, p. 914-937, out./dez.
+2021 [www.reciis.icict.fiocruz.br ] e-ISSN 1981-6278 Artigo original | Inovação, possibilidades e limitações no uso de rastreador ocular na pesquisa em divulgação da ciência: um estudo sobre a importância da fonte de informação em textos sobre saúde 917Na América Latina há diversos esforços – como a criação de um periódico científico específico na área1, a realização de eventos acadêmicos2 e a criação de cursos de formação em nível de pós-graduação3 – que demonstram o crescimento na área da pesquisa em divulgação científica, com características que preenchem algumas das especificidades destacadas por Fensham (2004).
+Um outro critério estabelecido por Fensham (2004) é nomeado como "metodologias de pesquisa".
+Este critério é tanto preenchido com a adaptação de metodologias preexistentes em outros campos como com a criação de novas metodologias próprias à área.
+Massarani (2018) aponta, a partir da análise de 609 artigos na área da pesquisa em divulgação científica na América Latina, que ainda é preciso inovar nas metodologias de pesquisa na região, assim como estabelecer novas colaborações para fortalecimento da pesquisa.
+Uma outra questão relevante sobre a pesquisa em divulgação científica na região é a falta de estudos com foco no leitor, na audiência do jornalismo e, de forma mais geral, nas atividades de divulgação científica; dito de outra forma, na recepção de informações de ciência pelo público, como mostra a análise de mais de 200 artigos feita por Almeida, Amorin e Massarani (2017).
+A falta de estudos desse tipo é também o ponto de Fog (2002), que ressalta que são necessárias pesquisas que forneçam o perfil dos receptores dos diferentes canais de divulgação da ciência.
+De fato, levando-se em conta o jornalismo científico, são muito mais numerosos os trabalhos feitos sobre a mensagem, ou seja, a notícia de ciência propriamente dita, seja ela escrita ou apresentada na televisão, como exemplificam trabalhos de Massarani, Amorin, Buys e Veneu (2005); Legey, Jurberg e Coutinho (2009); Amorim e Massarani (2008); Medeiros, Ramalho e Massarani (2010); Alves (2013); Ramalho, Polino e Massarani (2012); Dal Pian e Alves (2013); Massarani, Chegas, Ramalho e Reznik (2013); Almeida, Costa e Aguiar (2017); Aguiar e Araújo (2016); e Brasil e Massarani (2018).
+O estudo sobre o emissor, a produção da notícia – ou seja, o contexto de apuração –, a redação e a publicação da notícia de ciência parece ser, também, menos estudados.
+Alguns trabalhos citados anteriormente realizaram incursões nesse sentido, por exemplo, com entrevistas aos jornalistas de ciência, em geral para melhor entender o próprio corpus de matérias analisado.
+A esses trabalhos se somam alguns outros que focaram suas lentes justamente sobre o emissor, como o de Massarani, Chagas, Ramalho e Reznik (2013), que realizou um questionário com a participação de 71 jornalistas de todo o Brasil.
+Com escopo semelhante, porém regional, a pesquisa de Santos (2013) tentou entender o perfil de jornalistas na cobertura da ciência em São Paulo.
+Outro estudo, de Costa (2013), buscou entender, a partir de entrevista com dois profissionais do jornal baiano A Tarde, as concepções deles acerca de saúde, doença, ciência e tecnologia.
+Apesar de serem exceções, como cita análise publicada pela Rede de Popularização da Ciência e da Tecnologia na América Latina e no Caribe (RedPOP) (ALMEIDA; AMORIM; MASSARANI, 2017), há estudos que objetivam compreender melhor a apropriação de informações científicas pela audiência, a partir da leitura ou da exibição de uma matéria na televisão.
+Um desses trabalhos, de Araújo e Araújo (2012), estudou, a partir da realização de quatro grupos focais, a apropriação e o compartilhamento de informações sobre saúde a partir do programa Globo Repórter.
+1 Em 2018 foi criado o Journal of Science Communication América Latina, revista de acesso aberto e com revisão por pares sobre estudos de divulgação científica realizados na América Latina e/ou por latino-americanos.
+2 Alguns exemplos são as reuniões anuais da Rede de Popularização da Ciência na América Latina e no Caribe (RedPOP), eventos realizados pela Fiocruz, como A Ciência da Divulgação Científica, já em sua quarta edição, e o Encontro de Divulgação de Ciência e Cultural, organizado desde 2012 pelo Laboratório de Estudos Avançados em Jornalismo (Labjor) da Universidade Estadual de Campinas.
+3 Em 2007 foi criado o primeiro mestrado específico na área, em Divulgação Científica e Cultural, na Unicamp.
+Já em 2017 foi criado o segundo mestrado, em Divulgação da Ciência, Tecnologia e Saúde, na Fiocruz.
+Não há no Brasil doutorado específico em divulgação científica, sendo oferecida a formação em áreas correlatas, com linhas de pesquisa em divulgação da ciência.Reciis – Revista Eletrônica de Comunicação, Informação & Inovação em Saúde, Rio de Janeiro, v. 15, n. 4, p. 914-937, out./dez.
+2021 [www.reciis.icict.fiocruz.br ] e-ISSN 1981-6278 AMORIM, Luís; MASSARANI, Luisa; BACCINO, Thierry 918Outro estudo, de Massarani, Lima e Ramalho (2014), buscou entender melhor o jornalismo científico a partir do olhar do público, utilizando uma metodologia experimental inspirada na etnografia, com visita aos telespectadores no horário do Jornal Nacional e a aplicação de questionários.
+Estes estudos exemplificam diferentes metodologias de pesquisa e de análise de dados, como a coleta sistemática de matérias de ciência, entrevistas, formulários, grupos focais, etnografia, análise do discurso e análise de conteúdo.
+Em que pesem diferentes abordagens e análises, vale notar que no levantamento realizado pela RedPOP sobre a produção científica em divulgação científica da região (ROCHA, MASSARANI, 2017) não foram reportados estudos utilizando-se de rastreadores oculares.
+Tampouco são encontrados artigos científicos nas três principais revistas da área – Science Communication, Public Understanding of Science e Journal of Science Communication – que tenham utilizado a técnica do rastreamento ocular como forma de aferir dados para a pesquisa em divulgação da ciência.4 A técnica, porém, aparece em pesquisas latino-americanas de outras áreas, como letras e linguística (PORTO; FREITAG; TEJADA, 2018; MALTA; FONTES; SILVA, 2019), tecnologia da informação (ROAMARTÍNEZ; VIDOTTI, 2020), marketing (SANTOS; MORENO; SÁNCHEZ-FRANCO, 2018), psicologia e psiquiatria (SCHWARTZMAN et al ., 2015; LEDERMAN et al ., 2019; CLAUDINO et al ., 2019).
+Em âmbito global, dois estudos em áreas diferentes indicam possibilidades importantes para o uso de rastreadores oculares.
+Gerjets e colaboradores (2011) buscaram compreender, a partir da análise dos dados de 30 participantes, como se dá o processo de avaliação de fontes numa pesquisa feita na internet sobre temas específicos e em duas diferentes condições.
+Os pesquisadores utilizaram como metodologias o rastreamento ocular, a resolução de um problema proposto e o thinking aloud protocol, que consiste em solicitar para os participantes narrarem em voz alta as suas escolhas e os seus pensamentos.
+A principal questão do estudo era avaliar 'se' e 'como' as diferentes instruções influenciam na busca e na avaliação das informações.
+Os pesquisadores puderam perceber que a mudança na instrução da tarefa a ser feita teve repercussão tanto nos movimentos oculares como nos dados obtidos através das duas outras metodologias.
+(2017) buscaram identificar o comportamento dos movimentos oculares de crianças e adultos observando cinco pinturas de Van Gogh no Museu Van Gogh, na Holanda.
+O rastreador ocular mostrou que havia diferenças no processamento de informações entre as crianças e os adultos.
+Após ambos os grupos receberem informações dos especialistas do Museu sobre os quadros, os pesquisadores notaram que o comportamento ocular variou mais nos adultos do que nas crianças.
+Apesar de diferentes, os dois estudos mostram que o comportamento ocular é eficaz como indicativo de atenção às informações.
+O desafio das notícias falsas e a credibilidade da fonte de informação Outro debate importante no qual se insere este trabalho é a discussão da importância da fonte como critério de credibilidade da informação.
+Esse tema se torna particularmente relevante num contexto de pós-verdade e circulação de notícias falsas sobre temas de ciência (COSTA, 2017).
+À oportunidade de uma divulgação científica democrática, com facilidade de acesso aos diferentes tipos de informação – sejam blogs ou redes sociais de jornalistas e cientistas, matérias de jornais ou mesmo artigos científicos, como mostram, por exemplo, Muzi e Clébicar (2014) e Brossard (2013) – somam-se os desafios de nosso tempo, como a credibilidade da informação.
+4 Última busca realizada na base de dados das três revistas em 28 ago.
+2020, a partir das palavras-chaves 'eye tracker' e 'eye tracking'.
+Sites : e .Reciis – Revista Eletrônica de Comunicação, Informação & Inovação em Saúde, Rio de Janeiro, v. 15, n. 4, p. 914-937, out./dez.
+2021 [www.reciis.icict.fiocruz.br ] e-ISSN 1981-6278 Artigo original | Inovação, possibilidades e limitações no uso de rastreador ocular na pesquisa em divulgação da ciência: um estudo sobre a importância da fonte de informação em textos sobre saúde 919Renard (2007) destaca que a internet se tornou o meio ideal para a rápida propagação de muitas informações falsas a um número muito maior de indivíduos e num curto espaço de tempo.
+De fato, com um incremento de 365% em seu uso de 2016 para 2017, a expressão fake news , notícias falsas em português, foi eleita o termo do ano em 2017 pelo dicionário britânico Collins, que assim o define: "informações falsas, geralmente sensacionalistas, divulgadas sob o disfarce de reportagens" (c2021, tradução nossa).
+Bastante próxima é a definição apontada por Allcott e Gentzkow (2017, p. 213) de que as fake news são como "notícias de jornais intencionais e verificáveis como falsas e que podem enganar os leitores" (tradução nossa).
+Definição semelhante é a utilizada por Egelhofer e Lecheler (2019), que descrevem o gênero de notícias falsas como a criação deliberada de desinformação pseudojornalística.
+Inúmeros outros autores, como Bakir e McStay (2017) e Difranzo e Gloria-Garcia (2017), reforçam dois pontos: a intenção deliberada de desinformar e a simulação das notícias falsas como se fossem notícias jornalísticas.
+(2017), as notícias falsas são textos com desinformação que se apresentam como textos da mídia tradicional e como se passassem pelos processos editoriais associados a ela.
+O mesmo grupo de pesquisa destaca que, surpreendentemente, para questões básicas relacionadas às fake news – como, por exemplo, o quão corriqueiras elas são hoje e quais seriam os seus impactos no universo informacional –, há poucas respostas científicas (LAZER et al.
+As características de uma notícia falsa são levantadas por diferentes autores, seja em publicações acadêmicas, como as citadas anteriormente, seja em textos e guias publicados por instituições de pesquisa, educacionais ou governamentais, jornais e agências de checagem de notícias, como Ministério da Saúde (EQUIPE CEDIPI, 2018), Universidade Harvard (NAGLER, 2017), International Federation of Library Associations and Institutions (IFLA, 2017), SuperInteressante (SALI, 2017), Aos Fatos (MANUAL, c20152021) e FactCheck (KIELY; ROBERTSON, 2016).
+Segundo os estudos e manuais, algumas das características que devem ser observadas para se identificar uma notícia falsa são: o tamanho dos textos, que tendem a ser menores do que os normalmente publicados em jornais e sites de mídias tradicionais; a presença de elementos relevantes e característicos do estilo jornalístico, como o nome e o cargo das pessoas citadas no texto, a data do fato ou o nome de quem reportou os acontecimentos; o (re)conhecimento do veículo onde a notícia foi publicada e/ou a pesquisa de sua reputação; o tipo de discurso utilizado (se o texto apela ao emocional, por exemplo, com o uso de exclamações, letras maiúsculas, títulos sensacionalistas e alarmistas, promessas de melhoria de vida e teorias da conspiração); o fato de o texto ser, na verdade, uma piada, uma ironia; a checagem do autor do texto e da data de publicação; a existência ou não de muitos erros ortográficos e gramaticais; o olhar crítico que devemos ter ao buscar informações que confirmem, corroborem nosso próprio viés, nossos pensamentos iniciais.
+É dentro desse contexto de crescimento do acesso à informação, mas não necessariamente à informação de qualidade, que se torna necessário identificar e aprender critérios que façam a discriminação entre uma notícia falsa e uma notícia verdadeira.
+(2007) e Britt , Richter e Rouet (2014) é fundamental o aprendizado de como avaliar, e não somente compreender, as informações disponíveis em plataformas on-line .
+Nesta introdução, buscamos mostrar que a área de pesquisa em divulgação científica, apesar de crescente na América Latina, ainda carece da apropriação ou da criação de novas metodologias de pesquisa.
+Não obstante, como pontuado anteriormente, a metodologia do rastreamento ocular ainda parece pouco explorada na área de divulgação científica.Reciis – Revista Eletrônica de Comunicação, Informação & Inovação em Saúde, Rio de Janeiro, v. 15, n. 4, p. 914-937, out./dez.
+2021 [www.reciis.icict.fiocruz.br ] e-ISSN 1981-6278 AMORIM, Luís; MASSARANI, Luisa; BACCINO, Thierry 920Intentamos indicar, também, a necessidade de mais estudos sobre a recepção de temas de ciência e a importância da fonte de informação, ponto que se torna ainda mais relevante num contexto de crescente circulação de notícias falsas.
+OBJETIVO A partir desse breve panorama acerca das atividades de divulgação científica seculares, como também de pesquisas ainda em consolidação, este artigo pretende debater o uso de uma metodologia inovadora no campo – a utilização de rastreadores oculares ( eye trackers , em inglês) – como forma de aferir informações sobre a leitura de textos de divulgação científica, isto é, com foco na recepção dos textos, outra lacuna nos estudos da área na América Latina.
+Mais especificamente, foi utilizado um rastreador ocular para tentar entender a importância, para os leitores, do nome do veículo de comunicação – um critério importante de credibilidade – durante a leitura de textos de ciência.
+Apresentaremos, aqui, uma visão objetiva de um estudo utilizando-se do rastreador ocular na área de divulgação científica.
+Assim, detalharemos os procedimentos metodológicos para a realização desse estudo, exporemos e discutiremos resultados quantitativos das fixações durante a leitura de textos com temas de ciência.
+E, por fim, à luz dos resultados e da revisão de literatura, discutiremos possibilidades e limitações da metodologia para a área.
+MÉTODOS Uma das formas de inovar em metodologias é partir do estabelecimento de cooperações científicas (MASSARANI, 2018).
+Este trabalho é fruto de uma colaboração internacional entre a instituição brasileira Fiocruz e a francesa Universidade Paris 8, por meio de seu Laboratoire des Usages en Technologies d'Information Numériques (Lutin), apoiada pela Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Edital Capes-Cofecub 2018).
+Fisicamente localizado no maior museu de ciências francês, na Cité des Sciences et de l'Industrie, em Paris, o Lutin é um laboratório dedicado ao estudo dos usos das novas tecnologias digitais no contexto da pesquisa acadêmica e empresarial.
+Nele se insere o Eye Tracking Lab, uma das principais plataformas de pesquisa dessa área na Europa, que conta com diferentes tipos de rastreadores oculares: para atividades móveis (óculos SMI, óculos SMI 2.0, óculos Tobii), para rastreadores portáteis para utilização local, em pesquisas externas e em ambientes de uso restrito, como cabines de avião ou carros (SMI RED 50, 2 SMI RED 500, 2 Tobii 1750, 1 Facelab) e ainda dois rastreadores fixos para pesquisa básica (Dr. Bouis e EyeLink 1000).
+O Eye Tracking Lab é usado para experiências em leitura digital, video games, psicomarketing, análise de anúncios, logotipos etc.
+A partir desse contexto, visto que havia no Lutin larga experiência na área de leitura de textos, buscamos trazer esse conhecimento metodológico para a área de divulgação científica, aportando dados para nossa pesquisa, especificamente a leitura e a recepção de textos com informações de ciência e saúde.
+Além da expertise do laboratório francês, outro ponto importante foi a real possibilidade de utilização de equipamento caro e raro, ou seja, ainda pouco disponível para a pesquisa científica no Brasil e na América Latina.
+A compra no Brasil de um aparelho de rastreamento ocular similar ao utilizado na pesquisa foi cotada por aproximadamente 35 mil dólares.5 5 Cotação realizada para o aparelho EyeLink 1000 Plus, no total de 44.210,00 dólares canadenses, feito via contato por e-mail com a empresa Biolink Medical.
+Conversão para reais feita no dia 26 de março de 2020.Reciis – Revista Eletrônica de Comunicação, Informação & Inovação em Saúde, Rio de Janeiro, v. 15, n. 4, p. 914-937, out./dez.
+2021 [www.reciis.icict.fiocruz.br ] e-ISSN 1981-6278 Artigo original | Inovação, possibilidades e limitações no uso de rastreador ocular na pesquisa em divulgação da ciência: um estudo sobre a importância da fonte de informação em textos sobre saúde 921O rastreador ocular possibilita o monitoramento da posição relativa e do movimento dos olhos de um indivíduo exposto a tarefas que envolvam estímulos visuais, sejam eles imagens, objetos ou textos escritos.
+Diferentes tecnologias permitem esse monitoramento, que já vem sendo realizado para fins de pesquisas desde 1976 (JUST; CARPENTER, 1976).
+As técnicas mais avançadas permitem rastrear, com acurácia, movimentos oculares como sacadas, movimentos extremamente velozes e com grande amplitude, e fixações – pausas sobre determinados pontos.
+Como explicam Holmqvist et al .
+(2011), fazemos de três a cinco movimentos oculares por segundo, e esses movimentos são cruciais para nos ajudar a lidar com a vasta quantidade de informações encontradas em nossa vida cotidiana.
+Os autores acrescentam que, graças ao desenvolvimento da tecnologia de rastreamento ocular, ou seja, do desenvolvimento de aparelhos de maior precisão e de desenvolvimentos de softwares mais robustos, houve um interesse crescente em monitorar e medir esses movimentos, com o objetivo de entender como visualizamos e processamos as informações visuais que encontramos: O rastreamento ocular como ferramenta de pesquisa agora está mais acessível do que nunca e está crescendo em popularidade entre pesquisadores de várias disciplinas.
+Analistas de usabilidade, cientistas do esporte, psicólogos cognitivos, pesquisadores de leitura, psicolinguísticas, neuropsicólogos, engenheiros elétricos e outros, todos têm interesse em rastrear os olhos por razões diferentes.
+Não há dúvidas de que é útil gravar os movimentos oculares; isto fez avançar a ciência e levou a inovações tecnológicas.
+(HOLMQVIST et al ., 2011, p. 1, tradução nossa) Utilizamos o rastreamento ocular para buscar indícios de atenção e a importância dada pelos participantes do experimento às diferentes áreas do texto, mas, principalmente, à área onde é informado o veículo responsável pela publicação da notícia.
+Com o uso dessa tecnologia é possível mapear com grande exatidão movimentos de fixação, quando o olho faz uma pausa em um ponto do estímulo observado, sendo um indicador eficaz de atenção do participante (BACCINO; MANUNTA, 2005; HOLMQVIST et al ., 2011; BACCINO; DRAI-ZERBIB, 2015).
+Ou seja, por mais que o olho humano faça diferentes movimentos, iremos nos concentrar na análise das fixações, que indicam a atenção do leitor e, como explicam Holmqvist e colaboradores, são os eventos "mais reportados em dados de rastreamento ocular" (2011, p. 21, tradução nossa).
+Uma das questões para o nosso estudo era buscar dados os mais robustos possíveis em relação ao percurso ocular dos participantes sobre as matérias.
+Porém, os movimentos oculares são extremamente rápidos.
+O olho humano se move com extrema velocidade.
+As medidas de fixações são feitas em milissegundo (ms), que corresponde a um milésimo de segundo.
+Para um efeito comparativo, um milissegundo está para um segundo assim como um segundo está para cerca de 16 minutos e 40 segundos.
+Cada fixação, o movimento ocular foco deste estudo, dura, em média, de 150 a 300 ms (HOFMANN et al ., 2017).
+A frequência de amostragem dos rastreadores oculares é medida em hertz (Hz).
+Como explicam Holmqvist et al .
+(2011, p. 30), um rastreador de 50 Hz registra a direção do olhar dos participantes 50 vezes por segundo, o que "pode parecer suficiente o bastante, mas um rastreador ocular de 50 Hz é geralmente considerado um sistema lento".
+Para este estudo foi utilizado, então, o aparelho SensoMotoric Instruments (SMI) RED 500, um dos mais avançados do laboratório Lutin, com velocidade máxima de 500 Hz, o que assegurou maior robustez aos dados coletados.
+O hardware SensoMotoric Instruments (SMI) RED 500 é fornecido com dois softwares específicos.
+Há o software SMI Experiment Center 3.7.56, com o qual é possível criar um experimento, que inclui: os estímulos que serão lidos (no caso, quatro matérias com textos de ciência), a velocidade de rastreamento (utilizamos 500 Hz), os parâmetros como aleatoriedade dos estímulos (integrou nosso estudo), a demarcação de Reciis – Revista Eletrônica de Comunicação, Informação & Inovação em Saúde, Rio de Janeiro, v. 15, n. 4, p. 914-937, out./dez.
+2021 [www.reciis.icict.fiocruz.br ] e-ISSN 1981-6278 AMORIM, Luís; MASSARANI, Luisa; BACCINO, Thierry 922áreas de interesse (neste estudo, há quatro diferentes áreas) e a possibilidade de incluir informações e questionamentos a serem respondidos pelos participantes antes ou após os estímulos (foram incluídas duas questões sobre cada texto e uma pergunta ao final de todos os textos).
+Já o software SMI Begaze 3.7.40 é responsável pela leitura e análise de dados do rastreamento, como fixações e sacadas, e de dados relativos às áreas de interesse, como salvar as respostas dos questionamentos feitos ao participante.
+Com esse software, é possível gerar imagens que demonstram mais facilmente padrões e diferentes focos de atenção do leitor.
+Nesta pesquisa, os dados numéricos foram ainda exportados para o software Excel para posterior tratamento e análise.
+Os dados dos questionários foram exportados para o software Word, porém focaremos neste artigo nos dados numéricos gerados pelo rastreador ocular.
+Em nosso estudo, foram aferidas um total de 35.394 fixações pelo rastreador ocular, dado fundamental para entender a atenção dada às diferentes áreas de interesse dentro de cada estímulo.
+Descrição do experimento Os participantes foram convidados a participar do experimento durante suas visitas à Cité des Sciences et de l'Industrie.
+O experimento foi realizado entre 16 e 28 de agosto de 2019, com 23 participantes, sendo 13 participantes (9 homens e 4 mulheres) expostos aos estímulos do grupo 1; e 10 participantes (5 homens e 5 mulheres) expostos aos estímulos do grupo 2.
+Ambos leram os quatro mesmos textos.
+Porém, o grupo 2 leu os textos com o crédito da fonte de publicação invertido, como será explicado mais à frente.
+A faixa etária variou de 15 a 31 anos, com média de idade de 20,5 anos.
+Em relação à formação acadêmica, a maioria é composta de estudantes do ensino médio e da graduação.
+Os participantes eram conduzidos ao laboratório por um dos autores do estudo.
+O participante era convidado a sentar-se em frente ao computador, em uma cadeira já ajustada a cerca de 50-60 centímetros da tela.
+Era explicado ao participante que evitasse se mexer muito e, ainda, que abaixo da tela do computador estava localizado o rastreador ocular (Figura 1).
+Figura 1 – Na tela, vê-se o texto que apresenta a cooperação científica, e a foto mostra o rastreador ocular na parte inferior, conectado à tela Fonte: foto tirada pelos autores.Reciis – Revista Eletrônica de Comunicação, Informação & Inovação em Saúde, Rio de Janeiro, v. 15, n. 4, p. 914-937, out./dez.
+2021 [www.reciis.icict.fiocruz.br ] e-ISSN 1981-6278 Artigo original | Inovação, possibilidades e limitações no uso de rastreador ocular na pesquisa em divulgação da ciência: um estudo sobre a importância da fonte de informação em textos sobre saúde 923Antes de iniciar o experimento, é feita a calibração do equipamento, onde o participante fixa o olhar em um ponto que se move na tela, marcando quatro diferentes pontos.
+Durante esse procedimento, o rastreador ocular mede as características dos olhos do participante e refaz os cálculos para aferição de dados durante o experimento, com o objetivo de garantir que haja uma perfeita correspondência entre as posições registradas pelo rastreador ocular e as posições reais das informações na tela.
+Esse processo é fundamental e nem sempre trivial.
+Em alguns participantes, notadamente os com óculos de grau e/ou com olhos muito claros, há dificuldade ou mesmo a impossibilidade de calibração e, assim, também a impossibilidade de realizar o experimento.
+Um texto explicava aos participantes que eles leriam quatro notícias de sites diferentes e que haveria duas perguntas em aberto, nas quais ele poderia transmitir suas impressões, sem respostas certas ou erradas.
+Era, ainda, comunicado que os dados seriam analisados e apresentados anonimamente.
+Após essa tela, era mostrado o primeiro estímulo, ou seja, o primeiro texto, escolhido de forma aleatória entre os quatro disponíveis.
+A aleatoriedade dos estímulos visava evitar o efeito de priming, que pode impactar comportamentos, escolhas e ações (ELGENDI et al ., 2018); assim, a ordem dos textos variava a cada participante.
+No momento em que aparecia o primeiro estímulo, iniciava-se automaticamente o rastreamento ocular, que era acionado apenas na leitura dos quatro estímulos, e não nas telas que exibiam as informações acerca da pesquisa ou mesmo as perguntas.
+Não havia tempo fixo para a leitura e, ao final, os participantes deveriam apertar a tecla espaço para seguir adiante.
+Os quatro textos foram retirados dos seguintes sites: Le Monde, Le Figaro, Alimentation, Santé et Bienêtre e Santé Nutrition.
+A escolha das páginas, dos temas e dos textos A circulação de notícias falsas é um enorme desafio contemporâneo, principalmente dentro das redes sociais virtuais, como colocam, por exemplo, Renard (2007) e Shu et al .
+Um dos desafios é justamente a dificuldade em reconhecer uma notícia falsa, como mostram os estudos de Graesser et al .
+(2007) e Britt, Richter e Rouet (2014).
+Dificuldade que causa, inclusive, angústia entre os jovens, segundo pesquisa realizada por Massarani et al .
+Assim era nosso objetivo analisar a reação de jovens a textos de notícias falsas, como também a recepção a notícias confiáveis de ciência.
+Buscamos dois textos publicados por grandes jornais, Le Monde e Le Figaro, com características de textos confiáveis de ciência, como a citação de estudos publicados em periódicos científicos ou realizados por instituições científicas; a citação dos pesquisadores responsáveis pelo estudo e respectivos cargos e filiações; a citação de informações específicas possíveis de serem checadas, como data do evento, data e local de publicação do trabalho; a citação de pesquisadores isentos, não ligados à pesquisa, para comentar o trabalho apresentado; textos longos e bem escritos e construídos.
+Em contraposição, buscamos dois textos de sites pouco conhecidos Alimentation, Santé et Bien-être e Santé Nutrition, com características claras de notícias falsas, como o seu tamanho, muito menor que um texto jornalístico tradicional; citações genéricas de estudos, sem informações possíveis de serem checadas; apelo ao emocional, com promessas de melhora de vida; citação de teorias da conspiração; pontuação em excesso; e títulos sensacionalistas.
+Após a escolha dos veículos, nosso interesse era apresentar aos participantes textos que tivessem relevância para eles.
+Assim, optamos por buscar matérias ligadas a temas de saúde, assunto de grande interesse da população em geral e entre os jovens, segundo enquete de percepção pública da ciência no Brasil (CENTRO DE GESTÃO E ESTUDOS ESTRATÉGICOS, 2019) e pesquisa feita exclusivamente com jovens (MASSARANI et al ., 2019).
+Reciis – Revista Eletrônica de Comunicação, Informação & Inovação em Saúde, Rio de Janeiro, v. 15, n. 4, p. 914-937, out./dez.
+2021 [www.reciis.icict.fiocruz.br ] e-ISSN 1981-6278 AMORIM, Luís; MASSARANI, Luisa; BACCINO, Thierry 924No caso francês, a pesquisa 'Baromètres santé' (BECK et al ., 2013), realizada pelo Institut National de Prévention et d'Éducation pour la Santé (Inpes), mostra que 93% dos jovens entre 15 e 30 anos utilizam a internet e que cerca da metade deles a havia utilizado para buscar informações sobre saúde nos 12 meses anteriores à pesquisa, demostrando, assim, também grande interesse pela área (BECK et al ., 2013).
+Chegamos, portanto, aos seguintes textos: • "Courir améliore la santé des artères"/ "Correr melhora a saúde das artérias" (Le Monde), publicado em 7 de maio de 2019, apresenta estudo realizado pela Sociedade Europeia de Cardiologia, citando data do evento, mostrando dados metodológicos e informações sobre os autores, além de comentários de pesquisadores, todos com suas filiações institucionais.
+• "Pourquoi bien dormir permet de mieux apprendre"/ "Por que dormir bem permite aprender melhor?"
+(Le Figaro ), publicado em 1º de junho de 2019, traz informações sobre a importância de dormir bem para o aprendizado, com dados de um estudo realizado por uma equipe de uma universidade francesa e de um estudo publicado no periódico Journal of Neuroscience .
+Novamente, há no texto a apresentação da metodologia das pesquisas e ainda as filiações dos especialistas citados, além do nome da publicação original onde foi publicado o estudo.
+• "L'ail: le remède le plus efficace contre la pneumonie, la toux, le rhume et les otites"/ "Alho: o remédio mais eficiente contra a pneumonia, a tosse, o resfriado e as otites" (Santé Nutrition), que defende que o alho seria um 'remédio' extremamente eficaz contra uma série de males respiratórios, inclusive a pneumonia, uma doença grave e tratada com antibióticos.
+Porém, há apenas citações genéricas de possíveis estudos e não há qualquer fonte que possa ser checada e nenhum especialista consultado ou citado no texto.
+• "Le Corossol, fruit du Graviola un anticancéreux 10.000 fois plus puissant que la chimiothérapie?
+"/ "Fruto da graviola, um anticancerígeno 10.000 vezes mais poderoso que a quimioterapia?"
+(Alimentation, Santé et Bien-être) que defende que o fruto da graviola é um poderoso anticancerígeno.
+Além de não trazer qualquer fonte e se utilizar de exageros, como afirmar que é mágico ou milagroso, o texto diz ainda que há uma conspiração para que não saibamos da verdade sobre a graviola e seus efeitos anticancerígenos e, por fim, pede que o leitor compartilhe "esse segredo oculto para ajudar alguém em necessidade".
+A manipulação dos nomes dos veículos de publicação no experimento Um dos pontos importantes para a identificação de uma notícia falsa é o veículo responsável pela publicação e a sua credibilidade.
+Assim, inserimos uma manipulação em nosso experimento: havia duas condições diferentes.
+Um primeiro grupo, que contou com 13 participantes, leu os quatro textos selecionados com os nomes dos verdadeiros veículos de publicação do texto.
+Ou seja, o texto do Le Monde era indicado como do Le Monde, o do Santé Nutrition como do Santé Nutrition e o mesmo com Le Figaro e Alimentation, Santé et Bien-être.
+Um segundo grupo, com 10 participantes, teve os textos apresentados de forma randômica, com relação aos veículos, ou seja, o grupo leu o texto do Le Monde como sendo do Alimentation, Santé et Bien-être, o texto do Le Figaro como sendo do Santé Nutrition, o texto do Alimentation, Santé et Bien-être como do Le Monde, e o texto do Santé Nutrition era creditado ao Le Figaro.
+Ou seja, textos com características de credibilidade eram creditados a sites pouco conhecidos.
+Por outro lado, textos com características claras de notícias falsas eram creditados a jornais de grande prestígio e credibilidade: Le Monde e Le Figaro.Reciis – Revista Eletrônica de Comunicação, Informação & Inovação em Saúde, Rio de Janeiro, v. 15, n. 4, p. 914-937, out./dez.
+2021 [www.reciis.icict.fiocruz.br ] e-ISSN 1981-6278 Artigo original | Inovação, possibilidades e limitações no uso de rastreador ocular na pesquisa em divulgação da ciência: um estudo sobre a importância da fonte de informação em textos sobre saúde 925A análise do material Neste artigo, focaremos na análise das fixações aferidas em diferentes áreas de interesse, amparados pela literatura citada na introdução que mostra quais são os movimentos mais reportados em diferentes estudos e que são eles os indicadores de atenção durante a leitura.
+Como forma de ilustrar, na Figura 1, é possível observar um fragmento de um dos textos do experimento, lido por um dos participantes, com os círculos indicando as fixações (indício de atenção do leitor) e os traços indicando os movimentos de sacadas.
+Figura 1 – Fragmento de texto mostra movimentos de fixações e de sacadas mapeados pelo rastreador ocular Fonte: elaborada pelos autores.
+Os dados gravados pelo software de rastreamento ocular foram exportados e posteriormente tratados e analisados no software Excel.
+Foi exportado um total de 35.394 medições de fixações, sendo 19.248 do grupo 1 e 16.146 do grupo 2.
+Primeiramente, para as nossas análises, buscando uma distribuição normal e condizente com a dispersão de casos normais da curva de Poisson, separamos a contagem de fixações em blocos de 100 milissegundos por evento, tendo em vista que cada fixação, em média, dura de 150 a 300 ms (HOFMANN; BIEMANN; REMUS, 2017).
+O histograma a seguir (Figura 2) mostra a distribuição das frequências.
+Figura 2 – Histograma mostra a frequência de fixações divididas em blocos de 100 milissegundos Fonte: elaborada pelos autores.
+Assim, foram utilizadas, para a análise, as fixações com duração entre 100 ms e 380 ms (o ápice da curva e uma aproximação de medidas afastadas até 2,8 vezes do ápice da curva).
+O objetivo era garantir que casos anormais, como, por exemplo, algumas fixações de um participante do grupo 1 não enviesassem a amostra (Figura 3), com fixações que chegaram a durar 3.345 ms e 4.509 ms. O tempo de fixação é simbolizado pelo Reciis – Revista Eletrônica de Comunicação, Informação & Inovação em Saúde, Rio de Janeiro, v. 15, n. 4, p. 914-937, out./dez.
+2021 [www.reciis.icict.fiocruz.br ] e-ISSN 1981-6278 AMORIM, Luís; MASSARANI, Luisa; BACCINO, Thierry 926tamanho da circunferência da esfera, e cada esfera representa uma fixação.
+Consideramos, então, para a nossa análise 24.098 fixações.
+Figura 3 – Mostra fixações com um tempo muito maior do que o normalmente registrado neste estudo e na literatura Fonte: elaborada pelos autores.
+Já a Figura 4 apresenta o mesmo texto lido por outro participante, do mesmo grupo.
+Nele se vê uma distribuição normal de fixações, com tamanhos mais regulares e dispersos ao longo do texto.
+Figura 4 – Mostra padrão normal de fixações Fonte: elaborada pelos autores (2021).
+RESULTADOS Como mencionado na metodologia, o experimento contou com 23 participantes, que se dividiram em dois grupos, o primeiro composto por 13 participantes, e o segundo, por 10 participantes.
+O número do primeiro grupo é maior porque houve problemas com o software, em três casos.
+Como os dados seriam analisados posteriormente, decidiu-se incluir três participantes a mais.
+Na etapa de análise, a partir da normalização dos dados, os participantes foram mantidos.
+Os dados de rastreamento ocular foram exportados e posteriormente tratados e analisados no software Excel.
+Após o tratamento inicial chegamos a um total de 24.098 fixações.
+Priorizamos as fixações, pois nosso objetivo era estudar a atenção a determinadas áreas do texto, principalmente à área dedicada ao nome da publicação.
+A análise foi realizada a partir da definição de áreas de interesse, marcadas com a ajuda do software SMI Begaze 3.7.40.
+Essas áreas de interesses são definidas dentro dos estímulos apresentados, ou seja, dentro dos textos lidos pelos participantes, a partir da marcação de determinadas áreas dentro do texto.
+Com isso, podemos ter informações específicas e gerar gráficos baseados nessas áreas específicas.Reciis – Revista Eletrônica de Comunicação, Informação & Inovação em Saúde, Rio de Janeiro, v. 15, n. 4, p. 914-937, out./dez.
+2021 [www.reciis.icict.fiocruz.br ] e-ISSN 1981-6278 Artigo original | Inovação, possibilidades e limitações no uso de rastreador ocular na pesquisa em divulgação da ciência: um estudo sobre a importância da fonte de informação em textos sobre saúde 927Como nossa intenção era saber a relevância da fonte do texto, isto é, a importância do nome do veículo responsável pela publicação do texto para o leitor, dividimos o texto em 4 áreas: 'source' (fonte), 'titre' (título), 'intro' (introdução, subtítulo) e 'texte' (texto).
+A Figura 5, a seguir, exemplifica a definição das diferentes áreas de interesse (Area of Interest – AOI, em inglês).
+Esse mesmo padrão foi seguido em todos os oito estímulos, os quatro do primeiro grupo e os quatro do segundo grupo.
+Figura 5 – Mostra a divisão em diferentes áreas de interesse do estímulo com fonte e texto original – Alimentation, Santé et Bien-être Fonte: elaborada pelos autores.
+Com essa divisão em áreas de interesse, excluindo, então, as fixações fora da nossa faixa de análise, de 100 ms a 380 ms, e excluindo as fixações realizadas em espaço em branco, sem texto, chegamos num número de 22.752 fixações.
+A Tabela 1 mostra a divisão desse total entre os diferentes estímulos, nos dois diferentes grupos, fracionados entre as quatro diferentes áreas de interesse.
+As colunas mostram o número de fixações por área de interesse em cada estímulo; a área de cobertura percentual de cada área de interesse no total das quatro áreas; a porcentagem de fixações em cada uma das quatro áreas de interesse; e uma distribuição hipotética de fixações, caso elas estivessem distribuídas proporcionalmente em relação à área de cobertura de cada área de interesse.Reciis – Revista Eletrônica de Comunicação, Informação & Inovação em Saúde, Rio de Janeiro, v. 15, n. 4, p. 914-937, out./dez.
+2021 [www.reciis.icict.fiocruz.br ] e-ISSN 1981-6278 AMORIM, Luís; MASSARANI, Luisa; BACCINO, Thierry 928Tabela 1 – Mostra a divisão das fixações entre os estímulos e as diferentes áreas de interesse (continua) Número de fixações por área de interesse em cada estímuloÁrea de cobertura percentual de cada área de interesse (%)Proporção de fixações por cada área de interesse (%)Distribuição hipotética de fixações pela cobertura de cada área de interesse Grupo 1 Fonte Bien-être – Texto Bien-être Source (fonte) 26 14,3 1,0 358 Titre (título) 168 17,5 6,7 439 Intro (subtítulo) 297 10,3 11,9 258 Texte (texto) 2.014 57,9 80,4 1.450 Total 2.505 100,0 100,0 2.505 Fonte Le Figaro – Texto Le Figaro Source (fonte) 8 11,5 0,2 427 Titre (título) 78 11,2 2,1 416 Intro (subtítulo) 220 9,3 5,9 344 Texte (texto) 3.405 68,0 91,8 2.524 Total 3.711 100,0 100,0 3.711 Fonte Le Monde – Texto Le Monde Source (fonte) 7 10,9 0,2 383 Titre (título) 62 10,1 1,8 356 Intro (subtítulo) 247 12,4 7,0 434 Texte (texto) 3.197 66,6 91,0 2.340 Total 3.513 100,0 100,0 3.513 Fonte Santé – Texto Santé Source (fonte) 10 12,3 0,4 329 Titre (título) 132 16,9 4,9 453 Intro (subtítulo) 482 17,4 18,0 465 Texte (texto) 2.052 53,4 76,7 1.429 Total 2.676 100,0 100,0 2.676 Grupo 2 Fonte Bien-être – Texto Le Monde Source (fonte) 8 11,1 0,3 328 Titre (título) 48 4,4 1,6 128 Intro (subtítulo) 186 12,0 6,3 354 Texte (texto) 2.703 72,5 91,8 2.135 Total 2.945 100,0 100,0 2.945 Fonte Le Figaro – Texto Santé Source (fonte) 3 11,6 0,2 238 Titre (título) 92 14,9 4,5 307 Intro (subtítulo) 423 17,4 20,5 359 Texte (texto) 1.541 56,1 74,8 1.155 Total 2.059 100,0 100,0 2.059Reciis – Revista Eletrônica de Comunicação, Informação & Inovação em Saúde, Rio de Janeiro, v. 15, n. 4, p. 914-937, out./dez.
+2021 [www.reciis.icict.fiocruz.br ] e-ISSN 1981-6278 Artigo original | Inovação, possibilidades e limitações no uso de rastreador ocular na pesquisa em divulgação da ciência: um estudo sobre a importância da fonte de informação em textos sobre saúde 929Número de fixações por área de interesse em cada estímuloÁrea de cobertura percentual de cada área de interesse (%)Proporção de fixações por cada área de interesse (%)Distribuição hipotética de fixações pela cobertura de cada área de interesse Grupo 2 Fonte Le Monde – Texto Bien-être Source (fonte) 9 11,9 0,4 247 Titre (título) 172 16,7 8,3 347 Intro (subtítulo) 319 11,6 15,4 241 Texte (texto) 1.574 59,8 75,9 1.239 Total 2.074 100,0 100,0 2.074 Fonte Santé – Texto Le Figaro Source (fonte) 0 11,9 0,0 389 Titre (título) 53 7,1 1,6 234 Intro (subtítulo) 223 9,2 6,8 300 Texte (texto) 2.993 71,8 91,6 2.346 Total 3.269 100,0 100,0 3.269 Fonte: e laborada pelos autores.
+Os dados indicam a falta de importância do nome do veículo para os participantes do experimento, em ambos os grupos.
+As áreas indicadas como 'source (fonte)' representam em média 11,94% da área total coberta pelas quatro áreas de interesse, mas receberam em média apenas 0,33% das fixações.
+No caso específico do estímulo com o texto 'Por que dormir bem permite aprender melhor?
+', creditado ao site Santé Nutrition, o número de fixações na área 'source (fonte)' foi nulo.
+Levando-se em conta a área de cobertura representada por essa área de interesse, de 11,9% da área total, o número proporcional de fixações deveria ser de 389.
+A Figura 6, logo a seguir, ilustra justamente a leitura desse estímulo e mostra que não há fixação sobre o nome do veículo.
+Figura 6 – Mostra o percurso ocular, com fixações e sacadas, de um dos participantes, na leitura do estímulo com fonte Santé Nutrition e texto original Le Figaro.Reciis – Revista Eletrônica de Comunicação, Informação & Inovação em Saúde, Rio de Janeiro, v. 15, n. 4, p. 914-937, out./dez.
+2021 [www.reciis.icict.fiocruz.br ] e-ISSN 1981-6278 AMORIM, Luís; MASSARANI, Luisa; BACCINO, Thierry 930Fonte: elaborada pelos autores.
+De acordo com a Tabela 1, os dados captados pelo rastreador ocular demonstram que foi extremante baixo, em ambos os grupos, o número de fixações na área onde é possível ver o nome do veículo responsável pela publicação e mostram uma concentração de atenção na área de interesse chamada 'texte (texto)'.
+Essa área de interesse no estímulo que mostrava o texto 'Por que dormir bem permite aprender melhor?
+', creditado ao seu jornal de origem, o Le Figaro, teve 3.405 fixações de um total de 3.711 fixações.
+Ou seja, a área de interesse 'texte (texto)' nesse estímulo concentrou 91,8% das fixações, mesmo ocupando 68,0% da área total demarcada.
+A Figura 7 representa um mapa de calor do local das fixações.
+Fica clara uma maior atenção ao texto, principalmente nos seus parágrafos iniciais e no lado esquerdo, área a partir de onde se inicia a leitura, em detrimento das áreas onde temos o título, o subtítulo e a fonte.
+Figura 7 – Mostra o mapa de calor baseado nos dados de todos os participantes do grupo 1 na leitura do estímulo com fonte e texto original do Le Figaro Fonte: elaborada pelos autores.
+Os dados expostos até aqui, baseados na avaliação de dezenas de milhares de fixações realizadas pelos olhos dos 23 participantes, durante a leitura de quatro textos, aferidos por um rastreador com grande acurácia, indicam a falta de importância do nome do veículo de publicação (da fonte) dos textos para o leitor.
+DISCUSSÕES E CONSIDERAÇÕES A chamada era da pós-verdade traz desafios importantes à ciência e à divulgação científica (COSTA, 2017).
+Um deles é mensurar a credibilidade das diferentes fontes de informação às quais estamos hoje expostas.
+Uma série de estudos acadêmicos e diversos manuais têm se debruçado sobre o tema da pósverdade e da circulação de notícias falsas, mostrando a importância da fonte para a credibilidade da informação (GRAESSER et al.
+, 2007; BRITT; RICHTER; ROUET, 2014).
+Uma das características apontadas por diferentes autores para aferir credibilidade a um texto seria o seu veículo de publicação.
+A partir da análise do número de fixações oculares na fonte da publicação, nosso estudo mostra que pouca importância é dada a esse dado.
+Em um dos textos, a fixação do olhar, principal dado para avaliar a atenção do leitor (HOLMQVIST et al.
+(conclusão)Reciis – Revista Eletrônica de Comunicação, Informação & Inovação em Saúde, Rio de Janeiro, v. 15, n. 4, p. 914-937, out./dez.
+2021 [www.reciis.icict.fiocruz.br ] e-ISSN 1981-6278 Artigo original | Inovação, possibilidades e limitações no uso de rastreador ocular na pesquisa em divulgação da ciência: um estudo sobre a importância da fonte de informação em textos sobre saúde 931A análise dos dados indica que mesmo após a leitura de matérias com características claras de pouca credibilidade – por exemplo, texto com promessas miraculosas de melhorar doenças graves ou com apelo às teorias da conspiração – não houve uma maior atenção, ou seja, um maior número de fixações na área em que constava o veículo de publicação.
+Mesmo a manipulação do experimento, ao colocar textos de pouca credibilidade como que publicados por grandes jornais, não parece alterar a preocupação dos participantes com a fonte de publicação.
+Os dados corroboram o achado de Massarani e colaboradores (2019), que mostra a dificuldade de jovens em julgar a qualidade da informação.
+E, assim, coloca em cena uma grande preocupação, já apontada por outros autores também, que é a disseminação de notícias falsas em números cada vez maiores e com impactos em diferentes aspectos da sociedade – como nos da saúde e da política.
+Um alento nesse sentido, porém, é debatido por Almeida (2020), que reporta um aumento no Brasil da procura de informações em veículos jornalísticos, durante a atual pandemia da covid-19.
+Outro trabalho com resultados iniciais realizado por Bucchi e Saracino (2020) mostrou que a partir do agravamento da crise sanitária com o novo coronavírus houve, na Itália, uma diminuição da busca de informações sobre o tema em redes sociais e um aumento da procura por informações na imprensa.
+Em que pesem críticas ao jornalismo científico, como falta de espaço para matérias de ciência ou falta de precisão e distorção em textos (ALMEIDA; AMORIM; MASSARANI, 2017), pesquisadores canadenses publicaram artigo sobre uma pesquisa que avaliou a presença de desinformações e de recomendações de saúde pública relacionadas à covid-19 em um grande conjunto de tweets , bem como em todos os artigos publicados em 19 sites de notícias canadenses (BRIDGMAN et al.
+Os dados mostram que as medidas preventivas à covid-19 são mais incentivadas e abordadas na mídia tradicional, enquanto informações erradas aparecem com mais frequência no Twitter.
+Para avaliar o impacto desse maior nível de desinformação, foi realizada uma pesquisa nacionalmente representativa que incluía perguntas sobre os equívocos comuns sobre a covid-19: percepções de risco, distanciamento social e exposição a notícias e mídias sociais.
+Os resultados indicam que a exposição a notícias tradicionais está associada a menos percepções errôneas e maior aceitação do distanciamento social, enquanto que, inversamente, a exposição maior às mídias sociais está associada a mais percepções errôneas e a uma menor adesão ao distanciamento.
+As percepções errôneas sobre o vírus, por sua vez, estão associadas a um menor apoio às medidas de distanciamento social.
+Assim, os autores traçam uma relação clara entre a desinformação que circula no Twitter e os comportamentos e as atitudes que potencialmente ampliam a escala e a letalidade da covid-19.
+A discussão acerca da pós-verdade e de notícias falsas é ampla e gerará, com certeza, ainda muitos estudos no campo da divulgação científica, principalmente com a pandemia da covid-19 e seus desdobramentos na comunicação pública da ciência, como alguns dos artigos citados já indicam.
+Abordamos aqui apenas um – apesar de muito importante – dos pontos desse debate: a atenção à fonte de publicação de um texto de ciência.
+Outro foco desta pesquisa foi a apresentação, a discussão sobre a possibilidade de se incorporarem novas metodologias ou adaptações de outras metodologias já utilizadas em diferentes campos às pesquisas em divulgação científica.
+A área vem crescendo nas últimas décadas, mas autores defendem que ainda é necessário inovar mais em metodologias.
+Nossas informações comprovam a eficiência do rastreamento ocular ao aferir dados e ao responder a uma questão extremamente relevante para a divulgação científica: a de como se dá a recepção de textos de ciência pelo público.
+Assim, acreditamos que este estudo alarga a área de pesquisa em divulgação científica ao propor uma metodologia inovadora e ao apresentar mais informações sobre o público leitor.
+É válido, porém, acrescentar que muitos estudos com rastreadores oculares se utilizam de outras técnicas complementares Reciis – Revista Eletrônica de Comunicação, Informação & Inovação em Saúde, Rio de Janeiro, v. 15, n. 4, p. 914-937, out./dez.
+2021 [www.reciis.icict.fiocruz.br ] e-ISSN 1981-6278 AMORIM, Luís; MASSARANI, Luisa; BACCINO, Thierry 932de aferição de dados, como, por exemplo, questionários, entrevistas e thinking aloud protocol , assim como de técnicas de mapeamento: a eletrocardiografia, com a medição de frequência cardíaca – um marcador de atenção; a eletromiografia facial, com o monitoramento dos músculos ligados a expressões negativas e positivas; a medição da sudorese de pés e mãos, um marcador de intensidade emocional que pode ser utilizado para a avaliação de experiências mais desafiadoras em divulgação científica, como a participação em jogos interativos e em desafios de divulgação científica.
+Há, ainda, que se discutir algumas dificuldades importantes em relação ao rastreamento ocular.
+Dentro do contexto de recursos escassos para a pesquisa em diferentes países da América Latina, o primeiro é a dificuldade para a compra e a manutenção do equipamento.
+Assim como também é relevante a incipiente – ainda que existente – quantidade de recursos humanos.
+Uma das possíveis soluções seria a cooperação de grupos de pesquisa em divulgação científica com grupos de outras áreas, que já utilizam o rastreamento ocular, tanto para a formação de recursos humanos como para a realização de pesquisas conjuntas.
+Uma dificuldade técnica do equipamento é sua quase impossibilidade de ser calibrado e de rastrear bem os movimentos oculares de indivíduos com óculos de alto grau ou de olhos claros.
+Em determinados contextos, isso pode ser um limitador importante.
+Porém, como mostram nossos dados, é possível extrair resultados relevantes apesar dessa limitação.
+É válido ainda destacar que há diferentes tipos de rastreadores oculares, com diferentes propósitos, desde rastreadores fixos até rastreadores em óculos portáteis.
+Aqui, exploramos um ínfimo das potencialidades do uso de rastreadores oculares dentro do campo da divulgação científica.
+Um experimento semelhante poderia buscar, por exemplo, outras informações sobre a leitura e as diferenças dentro do próprio texto, ou seja, como se distribuem as fixações na leitura de informações sobre o autor da matéria, sobre a presença de controvérsias científicas no texto, a citação de cientistas, de universidades de prestígio etc.
+Poder-se-ia, ainda, realizar experimentos com metodologias mistas, com questionários e entrevistas ou com diferentes instruções para a leitura dos textos, medindo diferenças nos padrões de leitura.
+Em relação aos estudos de redes sociais, tanto a leitura como o próprio processo de navegação, passando por critérios de busca, poderiam ser pesquisados, a partir do uso de rastreadores oculares.
+Nos estudos de público em museus ou em exposições interativas, a utilização de rastreadores oculares portáteis mostra-se relevante na pesquisa sobre conteúdos e design de uma exposição de ciência, assim como sobre a navegabilidade de módulos interativos.
+No ensino formal, rastreadores oculares podem ser utilizados na pesquisa de materiais de apoio, nos livros ou mesmo nas estratégias de ensino.
+Também seriam úteis na análise de respostas dos alunos a diferentes aulas, com diferentes abordagens pedagógicas, ao registrarem diferentes padrões oculares nas atividades práticas ou na leitura de diferentes materiais.
+Em suma, os rastreadores oculares se prestam à avaliação e ao aperfeiçoamento de atividades de ensino.
+Como última ponderação vale citar que a importância dada à fonte de informação é também uma construção, um legado, uma aprendizagem: é preciso, sobretudo no atual contexto em que vivemos, destacar a importância da fonte, saber aferir credibilidade e bem julgar as diferentes e cada vez mais onipresentes informações que nos bombardeiam cotidianamente.
+O nosso estudo – utilizando uma metodologia inovadora no contexto da divulgação científica – soma-se a outros para apontar que o desafio de bem julgar informação ainda é enorme.
+REFERÊNCIASReciis – Revista Eletrônica de Comunicação, Informação & Inovação em Saúde, Rio de Janeiro, v. 15, n. 4, p. 914-937, out./dez.
+2021 [www.reciis.icict.fiocruz.br ] e-ISSN 1981-6278 Artigo original | Inovação, possibilidades e limitações no uso de rastreador ocular na pesquisa em divulgação da ciência: um estudo sobre a importância da fonte de informação em textos sobre saúde 933AGUIAR, Raquel; ARAÚJO, Inesita Soares de.
+A mídia em meio às 'emergências' do vírus Zika: questões para o campo da comunicação e saúde.
+Revista Eletrônica de Comunicação, Informação & Inovação em Saúde , Rio de Janeiro, v. 10, n. 1, p. 1-15, 2016.
+ALLCOTT, Hunt; GENTZKOW, Matthew.
+Social Media and Fake News in the 2016 Election.
+Journal of Economic Perspectives , Pittsburgh, v. 31, n. 2, 2017, p. 211-236.
+": o impacto da Covid-19 na percepção pública da ciência.
+Dilemas: Revista de Estudos de Conflito e Controle Social , Rio de Janeiro, p. 1-24 7 maio 2020.
+ALMEIDA, Carla; AMORIM, Luís; MASSARANI, Luisa.
+Ciencia y medios masivos de comunicación en América Latina.
+Aproximaciones a la investigación en divulgación de la ciencia en América Latina a partir de sus artículos académicos .
+Rio de Janeiro: Fiocruz, 2017. p. 59-106.
+ALMEIDA, Sandra; COSTA, Luana da; AGUIAR, José.
+Divulgação científica por meio da Revista Ciência Hoje para Criança: uma ferramenta interdisciplinar.
+Revista Areté | Revista Amazônica de Ensino de Ciências , [s. l.], v. 8, n. 15, p. 182-195, maio 2017.
+Um jornal no dissenso: o Correio da Manhã e a campanha contra a vacinação obrigatória.
+Revista Eletrônica de Comunicação, Informação & Inovação em Saúde , Rio de Janeiro, v. 6, n. 4, p. 1-12, 2013.
+AMORIM, Luís; MASSARANI, Luisa.
+Jornalismo científico: um estudo de caso de três jornais brasileiros.
+Revista Brasileira de Ensino de Ciência e Tecnologia , Curitiba, v. 1, n. 1, p. 73-84, 2008.
+DOI: org/10.3895/S1982-873X2008000100005 .
+ARAÚJO, Nadja Maria Souza; ARAÚJO, Inesita Soares de.
+Apropriação e compartilhamento – estudo das redes de sentido da saúde a partir do programa Globo Repórter.
+Revista Eletrônica de Comunicação, Informação & Inovação em Saúde , Rio de Janeiro, v. 6, n. 4 supl., p. 1-11, 2012.
+Disponível em: reciis.icict.fiocruz.br/index.php/reciis/article/view/626 .
+BACCINO, Thierry; DRAI-ZERBIB, Véronique.
+BACCINO, Thierry; MANUNTA, Yves.
+Eye-Fixation-Related Potentials: Insight into Parafoveal Processing.
+Journal of Psychophysiology , [s. l.], v. 19, n. 3, p. 204-215, 2005.
+Fake news and the economy of emotions: problems, causes, solutions.
+Digital Journalism , [s. l.], v. 6, p. 154-175, 2017.
+Public attention to science 1820-2010 – a 'longue duree' picture.
+In: RÖDDER, Simone; FRANZEN, Martina; WEINGART, Peter.
+The Sciences' media connection: public communication and its repercussions.
+Dordrecht: Springer, 2012. p. 35-58.
+(Sociology of the sciences yearbook, 28).
+Usage d'internet: les jeunes, acteurs de leur santé?, Agora débats/jeunesses , Paris, v. 1, n. 63, p. 102-112, 2013.
+Disponível em: revue-agora-debats-jeunesses-2013-1-page-102.htm .
+The Public Understanding of Science .
+Londres: The Royal Society, 1985.
+Disponível em: ~/media/royal_society_content/policy/publications/1985/10700.pdf .
+BRASIL, Vanessa; MASSARANI, Luisa.
+A ciência na TV brasileira: reflexões sobre a programação de Globo e Record.
+ComCiência , Campinas, n. 197, p. 4, 2018.Reciis – Revista Eletrônica de Comunicação, Informação & Inovação em Saúde, Rio de Janeiro, v. 15, n. 4, p. 914-937, out./dez.
+2021 [www.reciis.icict.fiocruz.br ] e-ISSN 1981-6278 AMORIM, Luís; MASSARANI, Luisa; BACCINO, Thierry 934BRIDGMAN, Aengus et al.
+The causes and consequences of Covid-19 misperceptions: understanding the role of news and social media.
+Harvard Kennedy School (HKS) Misinformation Review , Cambridge, v. 1, n. 3, 2020.
+Disponível em: the-causes-and-consequences-of-covid-19-misperceptions-understanding-the-role-of-news-and-social-media/ .
+BRITT, Anne; RICHTER, Tobias; ROUET, Jean-François.
+Scientific literacy: the role of goal-directed reading and evaluation in understanding scientific information.
+Educational Psychologist , [s. l.], v. 49, n. 2, p. 104122, 2014.
+Disponível em: doi/abs/10.1080/00461520.2014.916217 .
+New media landscapes and the science information consumer.
+Proceedings of the National Academy of Sciences of the United States of America , Washington, DC, v. 110, suppl 3, p. 1409614101, 2013.
+Disponível em: Supplement_3/14096 .
+BUCCHI, Massimiano; SARACINO, Barbara.
+Scared, supportive and confident in science (but a little confused by expert communication): trends and changes in the perception of the pandemic: the new data from the Science in Society Monitor.
+Public Understanding of Science Blog , [s. l.], 19 abr.
+Historia de la Divulgación Científica en la Argentina .
+Buenos Aires: Editorial Teseo, 2010.
+CENTRO DE GESTÃO E ESTUDOS ESTRATÉGICOS (CGEE).
+Percepção pública da C&T no Brasil – 2019 .
+Brasília, DF: Centro de Gestão e Estudos Estratégicos, 2019.
+Disponível em: https:// www.cgee.org.br/documents/10195/734063/CGEE_resumoexecutivo_Percepcao_pub_CT.pdf .
+Facial expressions and eye tracking in individuals with social anxiety disorder: a systematic review.
+Psicologia: Reflexão e Crítica , Porto Alegre, v. 32, p. 1-10, 2019.
+DOI: https:// doi.org/10.1186/s41155-019-0121-8 .
+From ear candling to Trump: science communication in the post-truth world.
+Disponível em: news-and-publications/digital-spokes/issue-27#section=section-indepth&href=/feature/depth/ear-candlingtrump-science-communication-post-truth-world .
+Saúde, doença, ciência e tecnologia: as concepções de profissionais do jornal baiano A Tarde.
+Revista Eletrônica de Comunicação, Informação & Inovação em Saúde , Rio de Janeiro, v. 6, n. 4 supl., p. 1-11, 2013.
+Disponível em: reciis.icict.fiocruz.br/index.php/reciis/article/view/624/1264 .
+DAL PIAN, Luiz Fernando; ALVES, Daniel Durante Pereira.
+Desafios da divulgação científica em cobertura jornalística de desastre ambiental.
+Ciência e Educação , Bauru, v. 19, n. 4, p. 929-946, 2013.
+Disponível em: CfQMtrpFVfRRRLVm4NWcWQb/abstract/?lang=pt .
+DIFRANZO, Dominic; GLORIA-GARCIA, Kristine.
+XRDS: Crossroads: the ACM Magazine for Students , [s. l.], v. 23, n. 3, p. 32-35, 2017.
+EGELHOFER, Jana; LECHELER, Sophie.
+Fake news as a two-dimensional phenomenon: a framework and research agenda.
+Annals of the International Communication Association , [s. l.], v. 45, n. 2, p. 97-116, 2019.
+Disponível em: ll/10.1080/23808985.2019.1602782 .
+Subliminal priming–state of the art and future perspectives.
+Behavioral Sciences , Basel, v. 8, n. 6, p. 54, 2018.
+Disponível em: com/2076-328X/8/6/54 .
+8 passos para identificar Fake News.
+Portal Blog da Saúde , Brasília, DF, 16 set.
+2020.Reciis – Revista Eletrônica de Comunicação, Informação & Inovação em Saúde, Rio de Janeiro, v. 15, n. 4, p. 914-937, out./dez.
+2021 [www.reciis.icict.fiocruz.br ] e-ISSN 1981-6278 Artigo original | Inovação, possibilidades e limitações no uso de rastreador ocular na pesquisa em divulgação da ciência: um estudo sobre a importância da fonte de informação em textos sobre saúde 935FAKE NEWS.
+Glasgow: HarperCollins Publishers, c2021.
+Disponível em: https:// www.collinsdictionary.com/dictionary/english/fake-news .
+Defining an identity: the evolution of science educations as a field of research.
+Popularização da ciência e as políticas públicas no Brasil (2003- 2012) .
+185 f. Tese (Doutorado em Ciências Biológicas - Biofísica).
+– Universidade Federal do Rio de Janeiro, Rio de Janeiro, 2014.
+Interciencia , Caracas, v. 27, n. 2, fev.
+Disponível em: http:// ve.scielo.org/scielo.php?script=sci_arttext&pid=S0378-18442002000200009&lng=es&nrm=iso&tlng=es .
+GERJETS, Peter; KAMMERER, Yvonne; WERNER, Benita.
+'Measuring spontaneous and instructed evaluation processes during Web search: Integrating concurrent thinking-aloud protocols and eye-tracking data'.
+Learning and Instruction , [s. l.], v. 21, n. 2, p. 220-231, 2011.
+DOI: learninstruc.2010.02.005 .
+SEEK Web Tutor: fostering a critical stance while exploring the causes of volcanic eruption.
+Metacognition and Learning , [s. l.], v. 2, p. 89-105, 2007.
+HOFMANN, Markus; BIEMANN, Chris; REMUS, Steffen.
+Benchmarking n-grams, topic models and recurrent neural networks by cloze completions, EEGs and eye movements.
+In: SHARP , Bernadette; SÈDES, Florence; LUBASZEWSKI, Wiesław (ed.).
+Neurocognitive benchmarks of NLP models .
+Londres: Elsevier, 2017. p. 197-215.
+Disponível em: sciencedirect.com/science/article/pii/B978178548253350010X?via%3Dihub .
+Eye tracking: a comprehensive guide to methods and measures.
+Oxford: Oxford University Press, 2011. INTERNATIONAL FEDERATION OF LIBRARY ASSOCIATIONS AND INSTITUTIONS (IFLA).
+Como identificar notícias falsas .
+JUST, Marcel Adam; CARPENTER, Patrícia A.
+Eye fixations and cognitive process.
+Cognitive Psychology , [s. l.], v. 8, n. 4, p. 441-480, 1976.
+Disponível em: https:// www.sciencedirect.com/science/article/abs/pii/0010028576900153 .
+KIELY, Eugene; ROBERTSON, Lori.
+FactCheck.org , Filadélfia, 18 nov. 2016.
+Science, [s. l.], v. 359, n. 6380, p. 1094-1096, 2018.
+Combating fake news: an agenda for research and action.
+Cambridge: Northeast University, 2017.
+Visual scanning preferences in low birth weight preterm infants.
+Trends in Psychiatry and Psychotherapy , Porto Alegre, v. 41, n. 4, p. 334-339, 2019.
+LEGEY, Ana; JURBERG, Cláudia; COUTINHO, Cláudia.
+Educação científica na mídia impressa brasileira: avaliação da divulgação de biologia celular em jornais e revistas selecionados.
+Alexandria , Florianópolis, v. 2, n. 3, 2009, p. 35-52.
+LEWENSTEIN, Bruce V. Why the "Public Understanding of Science" field is beginning to listen to the audience.
+In: HIRSCH, Joanne; SILVERMAN, Lois (eds.).
+Washington: Museum Education Roundtable, 2000. p. 240-249.Reciis – Revista Eletrônica de Comunicação, Informação & Inovação em Saúde, Rio de Janeiro, v. 15, n. 4, p. 914-937, out./dez.
+2021 [www.reciis.icict.fiocruz.br ] e-ISSN 1981-6278 AMORIM, Luís; MASSARANI, Luisa; BACCINO, Thierry 936MALTA, Gleiton; FONTES, Cristiane; SILVA, Igor.
+(Re)Translation from a process-oriented approach.
+Cadernos de Tradução , Florianópolis, v. 39, n.1, p. 91-215, 2019.
+Rio de Janeiro: Aos Fatos, c2015-2021.
+Estado del arte de la divulgación de la ciencia en América Latina.
+Journal of Science Communication – América Latina , [s. l.], v. 1, ed.
+O que os jovens brasileiros pensam da ciência e da tecnologia?
+Rio de Janeiro: Instituto Nacional de Ciência e Tecnologia em Comunicação Pública da Ciência e Tecnologia, 2019.
+Disponível em: jovens_FINAL.pdf .
+Saúde aos domingos: uma análise da cobertura da pesquisa em medicina e saúde no Fantástico.
+Revista Eletrônica de Comunicação, Informação & Inovação em Saúde , Rio de Janeiro, v. 7, n. 1, p. 1-19, 2013.
+Science journalism in Latin America: a case study of seven newspapers in the region.
+Journal of Science Communication , Trieste, v. 4, n. 3, p. 1-8, set.
+MASSARANI, Luisa; LIMA, Luanda; RAMALHO, Marina.
+Ciência, telejornal e público: um estudo sobre o Jornal Nacional inspirado na etnografia.
+Diálogos de la Comunicación , Medellín, n. 88, p. 3, 2014.
+MASSARANI, Luisa; MOREIRA, Ildeu.
+Divulgación de la ciência: perspectivas históricas y dilemas permanentes.
+Quark: Ciencia, medicina, comunicación y cultura , Barcelona, n. 32, p. 30-35, 2004.
+MASSARANI, Luisa; MOREIRA, Ildeu.
+Science communication in Brazil: a historical review and considerations about the current situation.
+Anais da Academia Brasileira de Ciências , Rio de Janeiro, v. 88, n. 3, p. 15771595, set.
+Disponível em: aabc/a/nSpmh5yjJkNRmbhgRkvKFTB/?lang=en .
+MEDEIROS, Flávia Natercia da Silva; RAMALHO, Marina; MASSARANI, Luisa.
+A ciência na primeira página: análise das capas de três jornais.
+História, Ciências, Saúde – Manguinhos , Rio de Janeiro, v. 17, n. 2, p. 439-454, 2010.
+Disponível em: br/j/hcsm/a/HqvMp4CbPqJRD9y7dkb4NmG/?lang=pt .
+Os cientistas e a compreensão pública da ciência.
+In: MASSARANI, Luisa; TURNEY, Jon; MOREIRA, Ildeu de Castro (org.).
+Terra Incógnita : a interface entre ciência e público.
+Rio de Janeiro: Vieira & Lent, 2005. p.115-132.
+MUZI, Daniela; CLÉBICAR, Tatiana.
+Novas tecnologias, antigos problemas: a reprodução de velhas práticas de comunicação em mídias digitais.
+Revista Eletrônica de Comunicação, Informação & Inovação em Saúde , Rio de Janeiro, v. 8, n. 3, 2014, p. 319-329.
+Disponível em: reciis/article/view/671 .
+4 tips for spotting a fake news story.
+Harvard Summer School , Cambridge, MA, 23 jan. 2017.
+As ciências no paço de d. João.
+História, Ciências, Saúde – Manguinhos , Rio de Janeiro, v. 6, n. 1, p. 165-179, jun.
+PORTO, Maria Augusta Rocha; FREITAG, Raquel Meister Ko; TEJADA, Julian.
+Tempo da leitura silenciosa e em voz alta com jovens, envelhescentes e pessoas da terceira idade.
+Letras de Hoje , v. 53, n. 1, p. 100-108, 2018.
+Disponível em: br/ojs/index.php/fale/article/view/28670 .
+2021.Reciis – Revista Eletrônica de Comunicação, Informação & Inovação em Saúde, Rio de Janeiro, v. 15, n. 4, p. 914-937, out./dez.
+2021 [www.reciis.icict.fiocruz.br ] e-ISSN 1981-6278 Artigo original | Inovação, possibilidades e limitações no uso de rastreador ocular na pesquisa em divulgação da ciência: um estudo sobre a importância da fonte de informação em textos sobre saúde 937RAMALHO, Marina; POLINO, Carmelo; MASSARANI, Luisa.
+From the laboratory to prime time: science coverage in the main Brazilian TV newscast.
+Journal of Science Communication , Trieste, v. 11, n. 2, p. 2-11, 2012.
+Um gênero comunicacional: os boatos e as lendas urbanas.
+Revista FAMECOS: mídia, cultura e tecnologia , Porto Alegre, v. 14, n. 32, p. 97-104, 2007.
+DOI: org/10.15448/1980-3729.2007.32.3421 .
+Disponível em: revistafamecos/article/view/3421 .
+ROA-MARTÍNEZ, Sandra Milena; VIDOTTI, Silvana Aparecida Borsetti Gregorio.
+Eye tracking y usabilidad en ambientes informacionales digitales: revisión teórica y propuesta de procedimiento de evaluación.
+Transinformação , Campinas, v. 32, p. e190067, 2020.
+ROCHA, Mariana; MASSARANI, Luisa.
+Panorama general de la investigación en divulgación de la ciencia en América Latina.
+Aproximaciones a la investigación en divulgación de la ciencia en América Latina a partir de sus artículos académicos .
+Rio de Janeiro: Fiocruz – COC, 2017. p. 13-38.
+Superinteressante, São Paulo, 21 dez.
+SANTOS, Manuel Alonso dos; MORENO, Ferran Calabuig; SÁNCHEZ-FRANCO, Manuel Jesús.
+Ceguera al patrocinador: aplicación a carteles de eventos deportivos.
+Revista de Administração de Empresas , São Paulo, v. 58, n. 6, p. 525-536, 2018.
+Disponível em: https:// www.scielo.br/j/rae/a/kQX3ynH6RBcZYzhBbJ5hxrs/abstract/?lang=es .
+O perfil de jornalistas na cobertura especializada em ciência.
+Comunicação & Informação , Goiânia, v. 15, n. 1, p. 197-216, 2013.
+SCHWARTZMAN, José Salomão et al.
+The eye-tracking of social stimuli in patients with Rett syndrome and autism spectrum disorders: a pilot study.
+Arquivos de Neuro-Psiquiatria , São Paulo, v. 73, n. 5, p. 402-407, 2015.
+Disponível em: 5NXZyWY88CLSnHfHD/?lang=en .
+Fake news detection on social media: a data mining perspective.
+SIGKDD Explorations Newsletter , [s. l.], v. 19, n. 1, set.
+TRENCH, Brian; BUCCHI, Massimiano.
+Science communication, an emerging discipline.
+Journal of Science Communication , Trieste, v. 9, n. 3, 2010, p. 1-5.
+Looking at paintings in the Vincent Van Gogh Museum: eye movement patterns of children and adults.
+PLoS ONE , [s. l.], v. 12, n. 6, e0178912, 2017.

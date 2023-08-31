@@ -1,0 +1,281 @@
+ 188 Momento: diálogos em educação, E -ISSN 2316 -3100, v. 27, n. 1, p. 188 -207, jan./abril.
+2018 APRENDIZAGEM CRIATIVA E SCRATCH: POSSIBILIDADES METODOLÓGICAS DE INOVAÇÃO NO ENSINO SUPERIOR Carolina Campos Rodeghiero1 Rosária Ilgenfritz Sperotto2 Christiano Martino Otero Ávila3 Resumo : Este estudo é o resultado de uma investigação realizada com estu dantes de licenciaturas quando expostos ao conceito de Aprendizagem Criativa e à programação com o Scratch .
+Objetivando conhecer as potencialidades apresentadas pelos acadêmicos quando desafiados a elaborar estratégias de ensino para sua execução interdisciplinar atentando para a valorização cultural, empregamos como metodologia uma oficina de AC e posteriormente uma capacitação para utilizar a plataforma Scratch.
+Por meio desta, elaboraram produtos constituídos de projetos e roteiros como Objetos de Aprendizagem.
+Fora do ambiente de sala de aula, a comunicação entre os estudantes e os professores foi estabelecida por meio do Moodle, bem como pelo site de rede social Facebook.
+Como resultado, os 28 projetos elaborados podem ser considerados espécies de indicadores da AC que sugerem metodologias de trabalho inovadoras para o campo do ensino e da aprendizagem de futur os educadores.
+Palavras -chave: aprendizagem criativa, Scratch, comunidade virtual.
+CREATIVE LEARNING AND SCRATCH: METHODOLOGICA L POSSIBILITIES OF INNOVATION FOR HIGH EDUCATION Abstract : This study is the result of an investigation applied to educators in formation when exposed to the concept of Creative Learning and to programming .
+Aiming to know the potentia lities presented by the academics when challenged to create strategies of teaching for its interdisciplinary application paying attention to cultural valorization, the research method included a CL workshop and after a capacitation to use the Scratch langu age and platform.
+Through it, they came up with products through projects and scripts as Learning Objects.
+Outside the classroom, the communication between students and professors was made through Moodle, as well as the social network site Facebook.
+As res ult, the 28 projects created can be considered indications of creative learning that suggest new innovate methodologies of work to the teaching and learning field.
+Keywords: creative learning, Scratch , virtual community.
+1 Pesquisadora no CoCTec -UFPel – Bolsista CAPES Proc.
+2 Docente no Programa de Pós -Graduação em Educação PPGECM e PPGEMAT .
+Líder do grupo de pesquisa C oCTec – UFPel .
+3 Professor da Ciência da Computação na UFPel Doutorando em Ciência da Computação - UFPel/Centro de Engenharias.
+189 Momento: diálogos em educação, E -ISSN 2316 -3100, v. 27, n. 1, p. 188 -207, jan./abril.
+2018 INTRODUÇ ÃO E FUNDAMENTAÇÃO TEÓRICA Quais as potencialidades e habilidades apresentadas por acadêmicos quando desafiados a elaborar estratégias de ensino propostas em sua execução interdisciplinar, atentando para a valorização cultural?
+Ao serem expostos a novo co nceito de aprendizagem, qual o resultado do esforço desses alunos de licenciaturas ao produzirem projetos e estratégias pedagógicas para incluí -lo em seu processo educativo?
+Como esses educadores em formação utilizam a Educação a Distância (EAD) enquanto alunos que são instigados a trabalhar colaborativamente ferramentas expostas ao dia -a-dia pessoal e profissional, tal como o Facebook, além do Moodle, na elaboração e exposição de projetos?
+Este trabalho visa apresentar resultados para esses questionamentos, por meio da investigação realizada na disciplina Fundamentos Psicológicos da Educação , ofertada a duas turmas d a Universidade Federal de Pelotas (UFPel) no ano de 2017.
+Ao todo, 43 estudantes, entre eles alunos de licenciatura e de mestrado, participaram enqua nto sujeitos da pesquisa.
+Apresentar educadores em formação a princípios da Aprendizagem Criativa (AC) é inser í-los na demanda da educação que preza pelo papel protagonista do estudante em seu processo de aprendizagem.
+Segundo Seymour Papert (19 88), cujo estudo lidera mais de 50 anos de pesquisa nesta abordagem, a "máquina" de aprendizagem pode ser a própria criança quando a mesma inventa seu processo de aprender, tomando como referência seus interesses, os quais fazem parte do contexto socioecon ômico e cultural ao qual pertencem.
+Mitchel Resnick, disseminador de Papert e atualmente diretor do Lifelong Kindergarten no MIT Media Lab, reitera os 4 P's da AC: projeto , pares , paixão e pensar brincando4 (RESNICK, 2017).
+Cada P da aprendizagem criativa remete a processos para a sua definição enquanto relevante para a aprendizagem.
+O P de projetos concebe que o ato de concretizar uma ideia, extrapolando seu processo mental de criação e tornando -a desenvolvida no "fazer" (ACKERMANN, 2001) é pertinente pois permite que haja um produto a ser experimentado, discutido e admirado pelos seus autores e por outras pessoas que com o mesmo interagem.
+Já o P de pares assinala a relevância do papel de professores enquanto facilitadores e também aprendentes neste proce sso.
+Uma criança se sente mais segura para expressar 4 Tradução oficial para Play/Tinkering .
+190 Momento: diálogos em educação, E -ISSN 2316 -3100, v. 27, n. 1, p. 188 -207, jan./abril.
+2018 suas ideias e opiniões quando aquele que a guia no processo de aprendizagem não é detentor de todo o conhecimento, mas passível de descobrir novas habilidades enquanto trabalham juntos em algum projeto.
+Além disso, a cultura de pares (ITO ET AL, 2015) valoriza o trabalho em grupo, especialmente quando o mesmo possui interesses em comum.
+Terceiro P da AC, a paixão aponta que o processo de aprendizagem se dá de forma criativa quando há i nteresse genuíno no que se está aprendendo.
+Para tanto, Resnick assinala diferentes características que pode ter essa abordagem no aprender.
+É possível que o indivíduo alimente a paixão encorajada pela atividade em si, como por exemplo compreender o func ionamento de uma nova tecnologia ou projeto.
+A paixão pode ainda ser caracterizada pela relação que o estudante faz daquilo que se propõe a fazer com algum hobby ou interesse pessoal.
+Ainda mais profundamente, a paixão pode ser expressa no processo de apre ndizagem por meio da relação com experiências ou pessoas com as quais tenha vinculação.
+Neste processo de aprendizagem por paixão, a pesquisa em AC amplia a teoria de Papert (1980) sobre "piso baixo" e "teto alto" para "paredes largas".
+Segundo Papert, "piso baixo" é a oportunidade que o processo de aprendizagem criativa oferece para que seus participantes iniciem uma atividade por meio de objetivos e ferramentas simples.
+"Teto alto" é a possibilidade que a atividade oferece de fazer com que o projeto cresça e seja ampliado para aplicações m ais complexas ao longo do tempo (RESNICK, 2017).
+O líder do Lifelong Kindergarten sugere então o termo "paredes largas" para caracterizar os vários caminhos possíveis de serem abordados na criação de um pr ojeto .
+É a diversidade de metodologias criativas no p rocesso de aprendizagem, como poder utilizar um kit de robótica da LEGO ou material reci clável .
+Por fim, o P de pensar brincando é onde o processo de aprendizagem proporciona a liberdade de criação, deixando de lado as instruções passo -a-passo para que o projeto seja construíd o a partir de testes, falhas , remixagens e demais fatores que surgem durante sua elaboração.
+Pensar brincando é "usar ferramentas familiares de forma não familiar" (RESNICK, 2017), é considerar o projeto ou produto permanentemente aberto para mais interven ções e melhorias.
+191 Momento: diálogos em educação, E -ISSN 2316 -3100, v. 27, n. 1, p. 188 -207, jan./abril.
+2018 Aprendizagem Criativa Nível 1 Nível 2 Nível 3 Nível 4 Projeto Processo mental de criação de um projeto prevalece sobre a construção do projeto em si.
+O processo mental da construção encaminha para a elaboração de produto físico criado pelo indivíduo/grupo.
+O projeto é desenvolvido "no mundo", materializado , ficando disponível para testes.
+O projeto é desenvolvido, testado, discutido, experimentado e admirado pelos autores e/ou outras pessoas.
+Pares / Parceria Os sujeitos trabalham o projeto individualmente ou dialogando com seus "pares" de forma hierárquica.
+Os sujeitos consideram a colaboração do grupo parcialmente.
+Alguns suj eitos destacam -se pelo trabalho em grupo e outros trabalham individualmente.
+Os sujeitos trabalham juntos no projeto objetivando a criação de algo por meio de interess es em comum do grupo de sujeitos .
+Os sujeitos e seus facilitadores entendem seus papéis em um mesmo nível no processo de criação.
+As responsabilidades do grupo são distribuídas igualmente .
+Paixão Paixões impulsionadas pelo desejo e curiosidade na elaboração da atividade - aprender com nova tecnologia ou construir novo projeto.
+Considerando oportunidades em "piso baixo".
+Trabalho em projetos relacionados a interesses pessoais ou hobbies , considerando oportunidades de desenvolvimento em "piso baixo " e "teto alto ".
+Construir algo relacionado a experiência pe ssoal e/ou interpessoal com indivíduos ou grupos com os quais mantêm laços, se apropriando do desenvolvimento em "piso baixo" e "teto alto".
+Criar um projeto integrando a experiência pessoal e interesse do grupo , com possibilidade de expandir o processo de criação para as oportunidades de "paredes largas".
+Pensar brincando O sujeito demonstra necessidade d e abordagem vertical de cima para baixo, seguindo instruções passo -a-passo.
+Nesta perspetiva há um planejamento prévio que antecede a ação "mão na massa".
+Exec ução de um plano inicial com execução de final aberto.
+Ajuste do produto durante sua criação.
+Considerar o projeto acabado, sem experimentá -lo após sua criaç ão.
+Teste de ferramentas para decidir usá -las ou não, bem como o uso de materiais familiares de forma não familiar.
+Experimentação do produto quando o mesmo estiver em fase avançada de produção .
+Trabalho de forma totalmente espontânea, ao estilo "parquinho", ignorando instruções prévias com o intuito de criar livremente e experimentar o processo de criação.
+Experimenta ção d o produto considerandoo aberto para futuras melhorias.
+Framework de identificação e análise da Aprendizagem Criativa Fonte: autores5.
+5 Framework de rubricas em avaliação para Aprendizagem Criativa inspirado no conteúdo p roposto no curso Learning Creative Learning e no livro Lifelong Kindergarten , 2017.
+192 Momento: diálogos em educação, E -ISSN 2316 -3100, v. 27, n. 1, p. 188 -207, jan./abril.
+2018 Uma das ferramentas mais populares mundialmente na implementação dos processos de Aprendizagem Criativa é o Scratch, ambiente de criação e compartilhamento de projetos realizados por meio de sua linguagem em blocos.
+O Scratch, que também é uma comunidade on -line (MALONEY ET AL, 2010), é criação do grupo de pesquisa Lifelong Kindergarten, e uma herança da linguagem LOGO, elaborada por Papert e seus colegas no ano de 1967, configurando a primeira iniciativa para que crianças deixassem de utilizar o computador somente enquanto consumid oras, para também programá -lo.
+Atualmente o Scratch é utilizado por milhões de pessoas no mundo todo e traduzido para mais de 40 idiomas6.
+Apesar de ser um software possível de ser utilizado totalmente offline, configura comunidade on -line ativa cuj a coleçã o está em mais de 28 milhões de projetos compartilhados publicamente7.
+Interface do Scratch 3.0 Fonte: Scratch Wiki8 A interface configurada em blocos coloridos é inspirad a no sistema da L EGO de montagem e torna o Scratch uma linguagem acessível desde a faixa etária infantil até a adulta.
+O Scratch é a ferramenta mais utilizada no Brasil para a disseminação do Pensamento Computacional (ARAÚJO, 2016), cujas habilidades propostas por Wing (2006) influenciam o modo de se entender a computação e são parte da demanda educacional para o século XXI.
+Acesso em 09 de fevereiro de 2018.
+Acesso em 09 de fevereiro de 2018.
+Acesso em 09 de fevereiro de 2018.
+193 Momento: diálogos em educação, E -ISSN 2316 -3100, v. 27, n. 1, p. 188 -207, jan./abril.
+2018 Em conexão com atividade s constantemente desenvolvidas pelos autores deste artigo no trabalho com AC e PC ao longo dos últimos anos – PC desde 201 5 e AC desde 2017 -, este artigo é o resultado de uma intervenção realizada na disciplina Fundamentos Psicológicos da Educação , ministrada por uma das autoras do trabalho em uma universidade pública brasileira, com a participação dos demais auto res em duas formações específicas: "Aprendizagem Criativa " e "Scratch para educadores ".
+Realizada com o total de 43 alunos de cursos diferentes de licenciaturas e do mestrado profissional em Ensino de Ciências e Matemática, a intervenção teve por método espec ialmente a união de etno e netnografia, e por resultado os projetos de aprendizagem criativa e roteiros de Scratch configurando Objetos de Aprendizagem (OA) aplicáveis a escolas e projetos aos quais os estudantes da universidade são ou serão vinculados em sua atuação profissional.
+METODOLOGIA Ao todo, 43 estudantes universitários divididos em três turmas formam o grupo de sujeitos investigados nesta pesquisa.
+34 de cursos de licenciaturas e nove do mestrado profissional.
+Durante o semestre da disciplina ofertada , realizamos um encontro em AC para cada turma participante, e quatro encontros em Scratch para as duas turmas de licenciatura, incluindo a data da apresentação final de trabalhos.
+Como resultado, tivemos 11 produções em AC e 17 roteiros abertos para trabalhar com Scratch na escola .
+Aprendizagem Criativa 8 projetos (licenciaturas) 3 projetos (mestrado) Roteiros em Scratch 17 projetos (licenciaturas) Tabela 2.
+Número de projetos realizados durante o semestre.
+Para a rea lização de projetos em AC e Scratch, houve duas intervenções principais: introdução à AC junto a oficina mão na massa; e introdução ao PC junto ao exercício do Scratch por meio de roteiros.
+A seguir, uma tabela contendo informações sobre o que foi ofertado aos sujeitos enquanto intervenção: 194 Momento: diálogos em educação, E -ISSN 2316 -3100, v. 27, n. 1, p. 188 -207, jan./abril.
+2018 Encontros de intervenção na disciplina Encontro 1 Introdução à Aprendizagem Criativa e planejamento de projetos; Oficina mão na massa; Cadastro de projetos; Apresentação.
+EAD 1 Suporte aos projetos elaborados ; Compartilhamento de projetos; Publicação de material suporte na formação em AC.
+Encontro 2 Introdução ao Pensamento Computacional; Oficina de Scratch.
+Encontro 4 Elaboração de roteiro para o Scratch.
+EAD 2 Compartilhame nto de ideias para projetos; Troca de feedback entre os colegas e os professores; Encontro 5 Apresentação de roteiros e projetos em Scratch.
+EAD 3 Compartilhamento e feedbacks sobre projetos finalizados; Comunicação sobre as atividades; Cadastro de proje tos no Moodle.
+Cronograma de atividades realizadas com os sujeitos Fonte: autores.
+Para ambas as etapas (AC e Scratch), o tema a ser trabalhado nos encontros foi definido como "valorização cultural".
+Aprendizagem Criativa A etapa de introdução à Apren dizagem Criativa foi empreendida sob inspiração de atividades realizadas por um dos professores (autores) junto à Rede Brasileira de Aprendizagem Criativa (RBAC).
+Adicionando instruções sobre como elaborar um projeto, a oficina em AC ofereceu o total de du as horas para que os alunos conversassem entre si e elaborassem projetos interdisciplinares para implementação de estratégias pedagógicas em AC.
+A coleta de dados nesta fase da pesquisa se deu por meio de vídeos e fotografias, já que os alunos tiver am à disposição materiais como papéis coloridos, tesoura, canetas, papel pardo e fita adesiva.
+Além disso, em nossa metodologia de coleta estava o cadastramento dos projetos, por parte dos alunos, em um formulário on -line disponível 195 Momento: diálogos em educação, E -ISSN 2316 -3100, v. 27, n. 1, p. 188 -207, jan./abril.
+2018 para os mesmos dur ante a oficina.
+20 minutos foram disponibilizados para os estudantes cadastrarem seus projetos on -line, antes de realizarem sua apresentação para os proponentes e demais colegas.
+Os campos do formulário foram definidos segundo os requisitos da RBAC para projetos veiculados no site da Rede9: ● Nome do Projeto; ● Público -alvo; ● Tipo de projeto ou atividade; ● Descrição; ● Produto; ● Disciplinas curriculares que o projeto abrange; ● Habilidades e atitudes; ● Implementação (logística); ● Ferramentas e materiais; ● Autores.
+Esses dados foram preenchidos on -line por todos os proponentes de projetos participantes da disciplina no período em que foi realizada a oficina de AC.
+Posteriormente, os dados foram compilados para sua posterior análise nesta pesquisa.
+Scratch para educadores O objetivo dos encontros com Scratch não foi apenas ensinar a tecnologia para os estudantes, mas permitir que os mesmos elaborassem roteiros possíveis de serem aplicados para se trabalhar a ferramenta com seus atuais e/ou futuros alunos em diferentes disciplinas.
+Após a oficina em AC, os estudantes tiveram quatro aulas para as atividades com Scratch.
+O primeiro encontro foi marcado por momento expositivo em introdução ao Pensamento Computacional para compreenderem suas propriedades e habilidades ligadas à programação em blocos.
+No mesmo dia os alunos iniciaram a execução de roteiros10 de 9 Disponível em: gemcriativa.org/ .
+Acesso em 09 de fevereiro de 2018.
+10 Os três roteiros trabalhados para atividades de oficina com o Scratch foram "Banda de Rock", "Caça fantasmas" e "Robô falante".
+Todos os roteiros estão disponíveis publicamente no site e na versão of f-line do software .
+Atualmente, o Scratch conta com uma página intitulada " tips" onde há Scratch Cards, ou cartões Scratch, traduzidos para a língua portuguesa.
+Os cartões visam a interação com a linguagem de programação de forma não linear, misturando ins truções na criação de projetos e remixagens.
+196 Momento: diálogos em educação, E -ISSN 2316 -3100, v. 27, n. 1, p. 188 -207, jan./abril.
+2018 iniciação a programação com a linguagem.
+O segundo encontro foi marcado por mais programação , sob orientação de roteiros.
+Após as ativi dades , o professor propôs que os alunos de licenciatura planejassem e elaborassem roteiros para a criação de projetos no Scratch com o objetivo de unir em a área de conhecimento a qual pertencem ao propósito da AC.
+Os estudantes então foram convidados a criar projetos em grupos, integrando diferentes disciplinas curriculares.
+Para a elaboração d e roteiro enquanto Objeto de Aprendizagem (OA), a proposta de trabalho incluiu: ● Descrição e objetivo do OA; ● Roteiro; ● Apresentaç ão.
+Ao todo, 17 roteiros forma elaborado s para a criação de projetos no Scratch, os quais foram enviados para os professores da disciplina por meio do Moodle institucional da universidade .
+Além dos roteiros, os estudantes tiv eram de programar o projeto no Scratch e compartilhar o mesmo tanto na comunida de on -line quanto nos canais de EAD utilizados na disciplina.
+Os projetos, então, foram compartilhados por meio do site de rede social (SRS) Facebook, onde receberam reações e comentários por parte de colegas e professores.
+Recursos em EAD Para a aplicação do estudo, foram utilizados recursos digitais para as atividades em EAD.
+Em apoio à oficina de introdução e criação de projeto s em AC, os grupos das turmas no Facebook foram palco especialmente para a comunicação sobre instruções específicas relacionadas ao trabalho, bem como para o compartilhamento de projetos e troca de feedback em relação aos mesmos.
+Os professores convidados para as oficinas de AC e Scratch foram incluídos aos grupos objetivando o contato direto com atividades e propo nentes de estratégias pedagógicas em ambos os casos.
+Já nas atividades com Scratch, além do suporte da comunidade virtual configurada no Facebook, os alunos fizeram uso do Ambiente Virtual de Aprendizagem (AVA) Moodle, lá compartilhando oficialme nte seus projetos com os professores11 vinculados à atividade.
+11 Quando citarmos os professores que ministraram a disciplina e oficinas no estudo, estamos citando os autores deste artigo.
+197 Momento: diálogos em educação, E -ISSN 2316 -3100, v. 27, n. 1, p. 188 -207, jan./abril.
+2018 Recursos em EAD utilizados na disciplina Moodle institucional da universidade investigada ● Instruções das atividades da disciplina; ● Instruções de atividades em Scratch; ● Repositório de Objetos de Aprendizagem criados pelos alunos (roteiro e projeto em Scratch).
+Comunidade virtual no Facebook ● Instruções sobre as atividades de AC, Scratch e da disciplina no geral; ● Compartilhamento de projetos e planejamento; ● Troca de feedback entre os estudantes e os professores; ● Publicação de material extra em AC, PC e Scratch; ● Comunicação direta dos alunos com professores convidados; ● Permanência das interações após o encerramento da disciplina.
+Recursos em EAD utilizados na disciplina Fonte: autores .
+O modelo metodológico proposto pela disciplina abrange, portanto, a união entre o AVA Moodle ao Site de Rede Social (SRS) (BOYD & ELLISON, 2007) Facebook, do qual foi explorado como principal recurso a ferramenta "grupos".
+Sem excluir a formalização da disciplina por meio do Moodle vinculado à universidade, o estudo traz a comunidade virtual no SRS enquanto suporte para a comunicação direta entre os sujeitos e os professores.
+RESULTADOS E DISCUSSÃO Para a discussão dos resultados provenientes do estudo, apresentamos primeiramente dados resultantes da intervenção com Aprendizagem Criativa, para então fazer o mesmo quanto aos produtos roteiros em Scratch.
+Projetos de AC em atividades curriculares Ao todo, foram produzidos 11 projetos na intervenç ão com Aprendizagem Criativa.
+To das as propostas criad as para AC foram desenvolvid as objetiv ando atividades curriculares.
+Apesar de seis projetos especificarem a quais áreas do conhecimento estão conectados, observamos que os trabalhos são de origem interdisciplinar.
+Quanto ao público -alvo, um a projet a é para a formação de professores, um a para os primeiros anos do Ensino Fundamental, d uas para a segunda etapa do Fundamental, e três envolvendo Ensino Fundamental 1 e 2.
+Quanto às habilidades possíveis de serem desenvolvi das por 198 Momento: diálogos em educação, E -ISSN 2316 -3100, v. 27, n. 1, p. 188 -207, jan./abril.
+2018 meio das propostas pedagógicas, o resultado apresenta diversidade nas respostas, trazendo tanto habilidades já desenvolvidas curricularmente, como reconhecimento de formas geométricas, quanto competências que não são priorizadas no currículo escolar, como autoconfiança, socialização e valorização cultural.
+Estas estão predominantes nos projetos, como podemos observar na tabela 5.
+P Público -alvo Disciplinas Habilidades e/ou atitudes 1 Professores da rede municipal Interdisciplinar.
+Habilidades motoras , ritmo, estética, composição coreográfica, postura corporal, relações interpessoais, criação individual e coletiva, percepção de espaço e tempo, improvisação e acaso.
+2 Ensino fundamental Artes, história, linguagem Criatividade e trabalho em grupo.
+3 Ensino fundamental I12 Língua Portuguesa; Matemática; Estudos Sociais.
+Construção do pensamento crítico e aberto.
+Aprimoramento do vocabulário linguístico.
+4 Fundamental II Interdisciplinar.
+Habilidade musical, teatral e artísti ca; desenvoltura no palco e autoconfiança.
+5 Ensino Fundamental História; Artes visuais.
+Contato com perspectivas diferentes acerca da história e memória local; ressignificação do patrimônio cultural; apropriação do bem cultural, criatividade.
+6 3° ano do ensino fundamental Interdisciplinar.
+Maior interação a valorização cultural.
+7 A Sociedade Interdisciplinar.
+Raciocínio lógico, socialização e comunicação.
+Edição de vídeo, oratória, pesquisa, expressão fotográfica e carisma.
+9 Nono ano do Ensino Fundamental Biologia; Matemática; Computação.
+Capacidade de associação, agilidade, interatividade e raciocínio lógico.
+10 Fundamental I e II Matemática; Artes; Inglês.
+Uso de tecnologia; pensamento geométrico; construção de sólidos geométricos com embalagens tetrapack; produção de personagens, curiosidade, motivação, criatividade e cooperação.
+11 Fundamental II Matemática, Ciências, Biologia, Geografia e Português.
+Fluência na escrita, reconhecimento de formas geométricas e cálc ulos sobre áreas e perímetros, conhecimento da própria cultura.
+Lista de projetos quanto ao público -alvo, disciplinas e habilidades envolvidas Fonte: autores.
+12 Ensino Fundamental 1 abrange os anos iniciais do Ensino Fundamental: 1º ao 5º ano .
+Já o Ensino Fundamental 2 engloba do 6º ao 9º ano.
+199 Momento: diálogos em educação, E -ISSN 2316 -3100, v. 27, n. 1, p. 188 -207, jan./abril.
+2018 Além dos dados apresentados, os resultados expõem diferentes produtos para os projeto s. P Título Produto 1 Por último o nome Configuração coletiva do processo de criação da imagem final.
+2 Por trás da história Coreografia, música, história, biografia do personagem, encenação, vídeo e/ou poema.
+3 SocializAÇÃO O desenvolvimento de um pens amento aberto através do debate, atualização de concepções por parte dos alunos.
+Realização de pesquisa, antes e depois, e debate para construção do conhecimento.
+4 Máquina do tempo criativa Peça de teatro sobre uma viagem no tempo.
+5 Repensando o doce d e Pelotas Construir e/ou reconstruir conhecimento sobre o doce de Pelotas 6 Projeto de Integração Cultural Ampliar o interesse por outras disciplinas e desenvolver atividades subjetivas.
+7 Vivenciando uma Cultura Diferente Cartazes 8 #ConectadosNasCultu ras Promover a diversidade cultural 9 Qual a diferença?
+Um jogo eletrônico (Scratch) com imagens, no formato de jogo de memória com o objetivo de diferenciar doenças virais e bacterianas.
+10 Skins: Bonecos Geométricos do Minecraft Boneco geométrico de ma terial tetrapack 11 Desbravando o conhecimento por intermédio da Horta Escolar.
+Relatório explicativo reflexivo sobre a prática do cultivo de legumes e hortaliças em canteiros em formas geométricas.
+Lista de projetos quanto ao título e produto pl anejado .
+Observando os dados em relação aos quatro P's da Aprendizagem Criativa, destacamos pontos nas propostas realizadas pelos estudantes que podem caracterizar o processo de aprendizagem que envolve projeto, pares, paixão e pensar bri ncando.
+O Projeto 1 (P1), por exemplo, explora o pensar brincando de forma evidente, buscando no improviso a construção do conhecimento: "Os participantes devem construir uma máquina humana feita de movimentos corporais diversos, oriundos de sua percepçã o mediante a exposição de figuras diversas observadas, resultando 200 Momento: diálogos em educação, E -ISSN 2316 -3100, v. 27, n. 1, p. 188 -207, jan./abril.
+2018 em um produto final e construindo uma imagem coletiva que aborda e incentiva a valorização cultural.13" P1 integra o pensar brincando a projeto , quando o produto que é resultado do processo de aprendizagem se torna exposto à experimentação, e a alterações mediante a interação com outras pessoas e objetos.
+Observando os dados que também foram coletados por meio de fotografias e gravações, entendemos que este trabalho é especialmente relaciona do às áreas de três integrantes do grupo, os quais estudam licenciatura em Artes Visuais, Dança e Educação Física, respectivamente.
+Tal relação aponta a paixão motivadora do projeto realizado, o qual, a partir da interação com outras pessoas, configura ativ idade realizada entre pares, onde cada participante atua como aprendente em seu desenvolvimento.
+Objetos utilizados no Projeto 1 em AC Fonte: autores.
+Algumas propostas não integram todos os P's da aprendizagem criativa.
+Estratégias pedag ógicas como a proposta por P9 buscam atividades criativas, porém trazem também uma metodologia instrucional, com uma espécie de "passo -a-passo" em apoio ao processo de criação.
+Apesar de não exercitar o P de pensar brincando , P9 idealiza a construção de um projeto a ser construído "no mundo", disponível para a experimentação e admiração por meio de interações de outras pessoas com o mesmo.
+Um jogo programado e jogável no Scratch é o produto deste projeto.
+Sob a sugestão de elaborar projetos envolvendo valo rização cultural, alguns grupos fizeram deste tema o objetivo direto de seu trabalho.
+É o caso de P5, o qual aborda a 13 Trecho da descrição completa do projeto, cadastrada em formulário pelos autores, on -line, para a coleta de dados desta pesquisa.
+201 Momento: diálogos em educação, E -ISSN 2316 -3100, v. 27, n. 1, p. 188 -207, jan./abril.
+2018 valorização da cultura gastronômica local por meio de um resgate histórico levando o aluno a experimentar a atividade culinária da forma c omo era realizada na época de sua criação.
+Neste projeto, os futuros educadores entendem que uma forma eficaz de crianças compreenderem sua cultura é não somente lerem sobre ela, mas irem ao mesmo local, utilizarem ferramentas semelhantes e realizarem tare fas próximas as que antepassados experimentaram.
+Além disso, P5 alia a isto a participação de uma personagem próxima da realidade que tenta ensinar, enquanto "contadora de histórias" sobre o período e a cultura abrangida no projeto.
+Mais uma vez, a paixão aparece enquanto cerne da proposta, envolvendo a história da cidade de origem dos licenciandos, e suas áreas de conhecimento: História, Artes Visuais e Nutrição.
+Potencial em todos os projetos, o desenvolvimento do empoderamento social por meio da aprendiz agem criativa (BURD, 2007) atende ao proposto em relação a valorização cultural, atentando para o desenvolvimento de habilidades durante o processo educacional.
+Projetos em Scratch Diferentemente dos projetos em Aprendizagem Criativa, os quais foram rea lizados tanto por alunos de licenciaturas quanto de mestrado, os projetos em Scratch foram elaborados apenas por licenciandos.
+Como resultado, tivemos o total de 17 roteiros para trabalhar no Scratch diferentes áreas do conhecimento (tabela 7).
+202 Momento: diálogos em educação, E -ISSN 2316 -3100, v. 27, n. 1, p. 188 -207, jan./abril.
+2018 R Roteiro Tipo Tema 1 Andando na Lua simulador Gravidade na Lua x gravidade na Terra 2 Robô falante animação Animação com personagens robôs 3 Perdidos no Egito quizz14 Cultura do Egito 4 Jogo das curiosidades jogo Prédios históricos da cidade 5 Ditadura Civil -Militar no Brasil quizz História do Brasil 6 Aula de Música animação Como codificar instrumentos musicais 7 Mais -valia no universo jogo Jogo de sociologia no Scratch 8 5 sentidos jogo Teste dos cinco sentidos 9 Siga aquele ponto jogo Constr uir uma imagem divertidamente 10 Operação de divisão jogo Exercitar operações de divisão matemática 11 Criando um quizz quizz Como criar um quizz no Scratch 12 Respondendo a tabuada com agilidade quizz Construir um jogo com tabuada 13 Paulo Leminski, o poeta marginal animação Homenagem a obra de Paulo Leminski 14 Ajude o Finn a Calcular jogo Jogo de cálculo 15 Luiza historiadora quizz História do Brasil 16 Teria a história grandes equívocos?
+jogo História do Brasil 17 3 ratos cegos jogo Resolução de problemas matemáticos Tabela 7.
+Lista de projetos quanto ao tipo e breve descrição.
+No total, foram realizados três roteiros para a programação de animação, oito para a criação de jogos, cinco para quizz , e um para simulador.
+Seguindo o que foi proposto pela formação em Aprendizagem Criativa, foi orientado aos licenciandos que elaborassem roteiro considerando final aberto (RUSK, RESNICK & COOKE, 2009), ou seja, o mesmo teria tema pré-determinado , porém não seria fechado em si mesmo, deixando espaço para que o aluno pudesse executá -lo e logo após programar novas funcionalidades para o mesmo.
+Neste sentido, os roteiros criados pelos licenciandos e para que fossem utilizados posteriormente por seus alunos trazia trechos em que se deixava espaço para programação espontânea, de acordo com a curiosidade e interesse do sujeito que o utilizasse.
+14 Jogo de perguntas e respostas.
+203 Momento: diálogos em educação, E -ISSN 2316 -3100, v. 27, n. 1, p. 188 -207, jan./abril.
+2018 Interessante de observarmos nos roteiros para o Scratch é a forte relação que têm com disciplinas curriculares.
+Ainda que misturem elementos de progra mação com possibilidade de livre criação , os projetos nesta etapa são geralmente focados em uma única disciplina curricular.
+É o caso dos roteiros em História e Matemática, por exemplo.
+As atividades dos licenciandos utilizando o Scratch foram realizadas tanto em grupos quanto individualmente, porém aqueles que criaram o roteiro em grupo reuniram -se com colegas que são da mesma área, oposto do que ocorreu na oficina de Aprendizagem Criativa.
+Tal fato pode ser o fator que resultou em projetos focados em áreas de forma singular .
+Como exemplo de projeto que soube utilizar os princípios da AC na elaboração do roteiro para o Scratch temos o Projeto 9 (P9) "Siga aquele ponto", de um aluno da licenciatura em Artes Visuais.
+P9 elaborou não somente o roteiro para ser experimentado, mas também o manual sobre como criar um roteiro Objeto de Aprendizagem para o Scratch.
+Em seu projeto, o licenciando apresentou uma proposta constantemente aberta à intervenção, trazendo desafios e espaço para a criação es pontânea e aplicação da atividade em outros segmentos.
+Enfatizando o P de Projeto, P9 traz um exemplo de como o jogo realizado no Scratch pode resultar em uma aplicação material da arte criada por meio da experiência midiática com a ferramenta.
+O chamado " design de superfície" é exposto a uma nova forma de construção por meio da programação em blocos.
+Por meio das produções acadêmicas resultantes das atividades com Scratch, entendemos o site/comunidade/linguagem de programação como uma ferramenta possível de ser utilizada na escola para trabalhar diversas áreas do conhecimento de formas diferentes.
+Quando o educador em formação ou profissional é exposto à experiência com AC, o mesmo tem a oportunidade de experimentar a programação de forma intensiva, sendo instiga do a criar um Objeto de Aprendizagem fora do material didático padrão .
+Desta forma é possível aprimorar o escopo de estratégias pedagógicas que integram tecnologia à educação.
+Recursos em EAD para estratégias pedagógicas da Aprendizagem Criativa Além dos resultados que encontramos quanto a propostas pedagógicas em Aprendizagem Criativa, entendemos que é contribuição do trabalho a proposta metodológica em EAD que amplia o exercício da formação de professores para além de estudar a AC somente em sala de aula, e aplica recursos digitais da maneira com que esses 204 Momento: diálogos em educação, E -ISSN 2316 -3100, v. 27, n. 1, p. 188 -207, jan./abril.
+2018 mesmos educadores em formação poderão fazer uso em escolas ou outras instituições de ensino.
+Esta abordagem educacional na formação de professores deve vir acompanhada da experimentação de ferramentas como o Scratch, SRS e compreender sua conexão com AVA "tradicionais" como o Moodle.
+Considerando o período da intervenção em AC e Scratch na disciplina, 70 posts foram publicados pelos alunos, 16 pela professora da disciplina e 27 pelos professores convidados, nas comunidades virtuais formadas pelas turmas no Facebook.
+Desta participação, ocorreram 106 comentários, e 538 interações na comunidade por meio de reações ("curti", "amei", "haha", "angry", "surpresa").
+Interações na comunidade virtual Posts 113 Comentários 106 Reações 538 Tabela 8.
+Estatísticas de interações na comunidade virtual Fonte: Autores.
+Para analisar as interações que os estudantes tiveram no Facebook seria preciso um estudo à parte, utilizando por exemplo Análise de Contingência (OSGO OD, 1959) em Análise de Redes Sociais para visualizarmos o conteúdo das conversações e a rede que desenha o capital social (PUTNAM, 2000) desses sujeitos.
+No entanto, os dados estatísticos gerais apresentados neste a rtigo reiteram o papel que comunidades virtuais como um grupo no Facebook pode ter para o processo de aprendizagem, quando faz parte de uma disciplina que se propõe a formar professores conectados à abordage ns "fora da caixa " na educação .
+Cabe mencionar o contexto dos sujeitos de pesquis a em relação às áreas do conhecimento às quais os mesmos são vinculados na universidade.
+A diversidade cultural dos estudantes inscritos na disciplina contribui para a elaboração de projetos com expectativas e perspectivas singulares.
+Na medida em que acon tecem as proposições das formas de intervenções, torna -se visível o entrecruzamento das diferentes áreas do conhecimento .
+205 Momento: diálogos em educação, E -ISSN 2316 -3100, v. 27, n. 1, p. 188 -207, jan./abril.
+2018 CONSIDERAÇÕES FINAIS Nossa proposta neste estudo foi investigar a contribuição resultante da forma ção de educadores em Aprendizagem Criativa e programação em blocos, por meio da criação de estratégias pedagógicas, projetos e Objetos de Aprendizagem que utilizam recursos digitais na implementação de atividades interdisciplinares com espaço aberto para o exercício da criatividade no processo de aprendizagem.
+Neste sentido, o estudo é uma contribuição para a área da Educação especialmente quanto a formação de professores, atentando para a potencialização do emprego não somente de estratégias inovadoras como a programação em blocos, mas também de recursos como SRS e sua integração com AVA institucionais tais como o Moodle, a exemplo deste estudo acadêmico.
+Sugerimos o aprofundamento de iniciativas acadêmicas que envolvam grupos de ensino e pesquisa no desenvolvimento pedagógico de graduandos e pós -graduandos da própria instituição.
+Por meio da coleta e avaliação de diferentes dados, será possível, por exemplo, compreender em profundidade questões relativas a dificuldade de elaboração de projetos que contemplem com alto níve l alguns ou todos os 4 P's da AC .
+Ou ainda, relativas ao engajamento de licenciandos da área de humanas nas atividades referentes à AC, e sua comparação com o nível de engajamento que têm os estudantes dos cursos de exatas.
+Independenteme nte destas sugestões, o trabalho descrito é indício do que pode ser discutido em investigações acadêmicas que priorizam a experiência de futuros educadores na exposição a práticas d e educação mão na massa , colaborativa e aberta a participação do aluno enquanto p rotagonista em seu próprio desenvo lvimento .
+Piaget's constructivism Papert's constructionism : What's the difference?
+MIT Future of Learning Group publication, 2001.
+Disponível em: u/content/publications/EA.Piaget%20_%20Papert.pdf .
+Acesso em 08 de fevereiro de 2018.
+W. L, GUERRERO, D. D. Um Mapeamento Sistemático sobre a Avaliação do Pensamento Computacional no Brasil.
+V Congresso Brasileiro de Informática n a Educação (CBIE 2016).
+Anais dos Workshops do V Congresso Brasileiro de Informática na Educação (CBIE 2016), 2016.
+206 Momento: diálogos em educação, E -ISSN 2316 -3100, v. 27, n. 1, p. 188 -207, jan./abril.
+2018 BOYD, Danah, ELLISON, Nicolle.
+Social Network Sites : definition, history and scholarship .
+Journal of Computer -Mediated -Communication, 13(1) , article 11, 2007.
+Technological initiatives for social empowerment : design experiments in technology -supported youth participation and local civic engagement .
+Program in Media, Arts and Sciences.
+Cambridge: Massachusetts Institute of Technolo gy, 2007.
+ITO, Mizuko, GUTIÉRREZ, Kris, LIVINGSTONE, Sonia, PENUEL, Bill, RHODES, Jean, SEFTON -GREEN, Julian, WATKINS, Craig.
+Relatório da Aprendizagem Conectada .
+Irvine, CA: Digital Media and Learning Research Hub, 2015.
+Traduzido para o português brasil eiro por: Raquel Recuero.
+Título original: Connected Learning: An Agenda for Research and Design.
+MALONEY, J., RESNICK, M., RUSK, N., SIVERMANN, B., EASTMOND, E. (2010).
+The Scratch Programming Language and Environment .
+ACM Transactions on Computing Educa tion, November 2010.
+The representational model and relevant research methods .
+), Trends in content analysis (pp.
+33 -38), Urbana: University of Illinois Press, 1959.
+Logo : Computadores e Educação [ Mindstorms: children, computers and powerful ideas] (Tradução: Valente, J.A., Bitelman, B., Ripper, A.V.).
+Mindstorms: Children, Computers, and Powerful Ideas .
+PUTNAM, Robert D. Bowling alone : the collapse and revival of American community.
+New York: Simon & Schuster Paperbacks, 2000.
+Lifelong Kindergarten : Cultivating Creativity through Projects, Passion, Peers, and Play.
+The MIT Press: Cambridge, MA, 2017.
+RUSK, Natalie, RESNICK, Mitchel, COOKE, Stina.
+Origins and Guiding Principles of the Computer Clubhouse.
+in Kafai Y.B., Peppler K.A., Chapman R.N.
+(Eds) The Computer Clubhouse: Constructionism and creativity in youth communities, pp.
+New York: Teachers College Press, 2009.
+WING, J. M. Computational Thinking .

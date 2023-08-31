@@ -1,0 +1,19 @@
+ UNICESUMAR – Centro Universitário de Maringá ǀ Diretoria de Pesquisa ǀ www.unicesumar.edu.br/pesquisa ǀ pesquisa@unicesumar.edu.br ICETI – Instituto Cesumar de Ciência , Tecnologia e Inovação Maringá – Paraná INOVAÇÃO E TENDÊNCIAS DE APLICAÇÕES DA AUTOMATIZAÇÃO COM ENFOQUE DA ILUMINAÇÃO NO CAMPO CIRÚRGICO Guilherme Hideki Shibukawa1, Éric Eduardo Goveia1, Guilherme Henrique Silva Fogaça2, Valdomiro Garbugio Filho3, Mariza Akiko Utida4, Valmir Tadeu Fernandes5 1Acadêmicos do Curso de Engenharia de Controle e Automação , UNICESUMAR, Maringá/PR.
+Bolsistas PIBIC/Funadesp -UniCesumar .
+1Acadêmico do Curso de Medicina , UNICESUMAR, Maringá/PR.
+Bolsista PIBIC/Funadesp -UniCesumar .
+3Coorientador, Mestre, Médico, Pesquisador do Instituto Cesumar de Ciência, Tecnologia e Inovação – ICETI.
+4Coorientador a, Doutora, Docente do Curso de Engenharia de Controle e Automação , UNICESUMAR, Maringá/PR.
+5Orientador , Mestre , Coordenador e Docente do Curso de Engenharia de Controle e Automação , UNICESUMAR, Maringá/PR.
+RESU MO: No interior de um centro cirúrgico há uma preocupação constante quanto à contaminação biológica.
+A infecção hospitalar é uma complicação de extrema pertinência clínica, tornando -a uma das maiores preocupações para os profissionais de saúde.
+O foco cirúrgico, um componente substancial em uma sala operatória, é passível de ser contaminado dur ante o seu manuseio por ter a necessidade de haver um contato direto para manuseá -lo.
+Desta maneira, este trabalho visa arquitetar um protótipo do equipamento de foco cirúrgico com uma geometria SCARA para robôs e, controlado sem que haja a necessidade do contato direto com o equipamento.
+Em primeiro plano, o controle será efetuado por dois joysticks (deslocamentos horizontais) e um pedal (deslocamento vertical).
+Este primeiro passo será essencial para avaliar as respostas do robô quanto a precisão e suavid ade.
+Cada junta do robô será composta por um controlador escravo, assim como, os dois joysticks e o pedal.
+Um controlador mestre será responsável por receber os comandos dos joysticks e orientar a posição do foco cirúrgico.
+Em segundo plano, no ramo da Int eligência Artificial, o controle será realizado por gestos e movimentos da mão, por meio de um algoritmo da estrutura de uma Rede Neural Artificial para reconhecimento de padrões com aprendizado supervisionado para ajuste dos pesos sinápticos da rede.
+Como consequência, espera -se obter o protótipo de um equipamento de foco cirúrgico capaz de deslocar em um espaço tridimensional de forma suave e precisa controlado pelos movimentos da mão.
+Os resultados devem ser satisfatórios quanto a praticidade de uso por um profissional de saúde em um centro cirúrgico.
+PALAVRAS -CHAVE : Infecção Hospitalar; Tecnologia e Inovação em Saúde; Centros Cirúrgicos; Controle; Inteligência Artificial; Redes Neurais Artificiais; Foco Cirúrgico.

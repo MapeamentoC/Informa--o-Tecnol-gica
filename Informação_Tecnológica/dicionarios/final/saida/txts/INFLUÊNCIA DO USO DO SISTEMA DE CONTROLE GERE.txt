@@ -1,0 +1,490 @@
+ Revista Universo Contábil, ISSN 1809 -3337 Blumenau, v. 15, n. 1, p. 85-105, jan./ mar., 2019 doi:10.4270/ruc.2019 105 Disponível em www.furb.br/universocontabil Revista Universo Contábil, ISSN 1809 -3337, FURB, Blumenau, v. 15, n. 1, p. 85 -105, jan./mar., 2019 INFLUÊNCIA DO USO DO SISTEMA DE CONTROLE GERENCIAL E DA ESTRATÉGIA ORGANIZACIONAL NO DESEMPENHO DA INOVAÇÃO INFLUENCE OF THE USE OF THE MANAGEMENT CONTROL SYSTEM AND THE ORGANIZATIONAL STRATEGY IN INNOVATION PERFORMANCE INFLUENCIA DEL USO DEL SISTEMA DE CONTROL DE GESTIÓN Y DE lA ESTRATEGIA ORGANIZACIONAL EN EL DESEMPEÑO DE LA INNOVACIÓN Recebido em: 01/09/2018 Avaliado em: 07/03 /2019 Reformulado em: 12/04 /2019 Aceito para publicação em: 22/04/2019 Publicado em: 14/06/2019 Editor Responsável: Franciele Beck Iago França Lopes1 Ilse Maria Beuren2 Tayse Gomes 3 RESUMO O papel do s Sistema s de Controle Gerencial (SCG) no desempenho da inovação t em desafiado as crenças da natureza mecanicista dos sistemas em ambientes inovadores .
+Assim, e ste estudo objetiva verificar a influência do uso do SCG no desempenho da inovação mediado pela estratégia organizaciona l em empresas brasileiras com perfil inovador.
+Uma pesquisa de levantamento foi realizada em empresas com foco em inovação e tecnologia, estabelecidas no Brasil.
+O instrumento de pesquisa foi enviado on-line, via plataforma Google Forms ®, para diretores, gestores e coordenadores destas empresas e a amostra final resultou em 150 questionários válidos .
+Os resultados da modelagem de equações estruturais permitem aceitar parcialmente a hipótese de pesquisa , de que a relação entre o uso do SCG e o desempenho da inovação é mediad a pela estratégia organizaciona l, nas tipologias de liderança em custos e de diferenciação .
+Esses achados alinha m-se aos preceitos teórico -empíricos de Baines e La ngfield -Smith (2003), de que não há relacionamentos diretos que ligam o design da organização, a tecnologia e os sistema s de avaliação de desempenho .
+Tal implica compreender o s SCG como elemento s proativo s da criação de vantagem competitiva e da maximização das atividades de inovação no ambiente organizacional , cujo escopo também se constitui na principal contribuição deste estudo .
+Palavras -chave: Sistema de Controle Gerencial; Estratégia Organizacional; D esempenho da Inovação.
+ABSTRACT The role of the Management Control System (SCG) in the innovation performance has challenged the beliefs of the mechanistic nature of systems in innovative environments.
+Thus, this study aims to verify the influence of the u se of SCG on the innovation performance mediated by the organizational 1 Mestre em Contabilidade pela Universidade Federal de Santa Catarina; Doutorando na Universidade Federal do Paraná; E-mail: iagofrancalopes@gmail.com 2 Doutora em Controladoria e Contabilidade pela Universidade de São Paulo; Professora do Programa de Pós -Graduação em Contabilidade da Universidade Federal de Santa Catarina; E -mail: ilse.beuren@gmail.com 3 Mestre em Contabilidade pela Universidade Federal de Santa Catarina; E -mail: taysegomes_@hotmail.com 86 INFLUÊN CIA DO USO DO SISTEMA DE CONTROLE GERENCIAL E DA ESTRATÉGIA ORGANIZACIONAL NO DESEMPENHO DA INOVAÇÃO Revista Universo Contábil, ISSN 1809 -3337, FURB, Blumenau, v. 15, n. 1, p. 85 -105, jan./mar., 2019 strategy in Brazilian companies with an innovative profile.
+A survey was conducted in companies focused on innovation and technology, established in Brazil.
+The research instrument was sent online via the Google Forms® platform, for directors, managers and coordinators of these companies , and the final sample resulted in 150 valid question naires.
+The results of the structural equation modeling allow us to accept partially the research hypothesis that the relationship between SCG use and innovation performance is mediated by the organizational strategy, in the typologies of cost leadership a nd differentiation.
+These findings are aligned with the theoretical -empirical precepts of Baines and Langfield -Smith (2003) that there are no direct relationships linking organizational design, technology, and performance evaluation systems .
+This implies understand ing the SCG as proactive elements of creating competitive advantage and maximizing innovation activities in the organizational environment, whose scope is also the main contribution of this study.
+Keywords: Management Control System; Organizationa l Strategy; Innovation Performance.
+RESUMEN El papel de los Sistemas de Control de Gestión (SCG) en el desempeño de la innovación ha desafiado las creencias de la naturaleza mecanicista de los sistemas en ambientes innovadores.
+Así, este estudio objetiva verificar la influencia del uso del SCG en el desempeño de la innovación mediado por la estrategia organizacional en empresas brasileñas con perfil innovador.
+Una encuesta fue realizada en empresas con foco en innovación y tecnología, establecidas en Brasil.
+El instrumento de investigación fue enviado en línea, vía plataforma Google Forms®, para directores, gestores y coordinadores de estas empresas , y la muestra final resultó en 150 cuestionarios válidos.
+Los resultados del modelado de ecuaciones estructurales permiten aceptar en parte la hipótesis de investigación, de que la relación entre uso del SCG y desempeño de la innovación es mediada por la estrategia organizacional, en las tipologías de liderazgo en costos y diferenciación.
+Estos hallazgos se alinean con los preceptos teórico -empíricos de Baines y Langfield -Smith (2003), de que no hay re laciones directas que vinculan el diseño de la organización, la tecnología y los sistemas de evaluación de desempeño .
+Esto implica comprender los SCG como elementos proactivos de la creación de ventaja competitiva y de la maximización de las actividades de innovación en el ambiente organizacional, cuyo alcance también se constituye en la principal contribución de este estudio.
+Palabras clave: Sistema de Control de Gestión ; Estrategia Organizacional; Desempeño de la Innovación.
+1 INTRODUÇÃO Estudos anteriores que investiga ram o papel do Sistema de Controle Gerencial (SCG) no processo de desempenho da inovação estão consubstanciados em três linhas.
+A primeira , observa que o SCG inibe o processo de inovação no escopo organizacional (Davila , 2000 ).
+A segunda aduz que o SCG se apresenta como um mecanismo que maximiza a atividade inovativa nas organizações ( Bisbe, & Otley , 2004; Davila, Foster, & Li, 2009; Beuren, & Oro, 2014; Utzig, & Beuren, 2014; Beuren, & Zonatto, 2015; Davila, Foster, & Jia, 2015).
+A terceira sugere que o SCG se apresenta como um mecanismo neutro no processo de desenvolvimento de novas ideias e de elementos inovadores (Oyadomari et al.
+Esses estudos têm desafiado as crenças da natureza do SCG em ambientes inovadores e na criação de valor no escopo organizacional .
+A ideia de que a inovação pode melhorar a qualidade, ao mesmo tempo em que reduz o custo já é b astante difundida .
+No entanto, houve um tempo em que se acreditava que a melhora da qualidade era cara , pois só poderia ser alcançada por meio da inspeção e retrabalho de defeitos da linha de produção (Porter, & Van der Linde, 1995 ).
+Avançou -se quando os gestores passaram a compreender que verificar defeitos tra tava-se de um sinal ineficiente de design de produtos e processos.
+A nova mentalidade desencadeou o poder da inovação em "eliminar o que as empresas já haviam aceitado 87 Iago França Lopes, Ilse Maria Beuren, Tayse Gomes Revista Universo Contábil, ISSN 1809 -3337, FURB, Blumenau, v. 15, n. 1, p. 85 -105, jan./mar., 201 9 como compensações fixas" (Porter,l & Van der Linde , 1995, p. 122).
+Assim, a s empresas buscam promover a qualid ade em todo o processo .
+Dentre alternativas e estratégia s as organizações buscam vantagem competitiva.
+Para Nonaka e Takeuchi (1995) e Ireland et al.
+(2001) , a criação de conhecimento leva à inovação contínua que , por sua vez, contribui para o alcance de vantagem competitiva.
+Para Hult e Ketchen (2001) , o empreendedorismo, a inovação e a aprendizagem são considerados indicadores primários de orientação de mercado, e tem efeito positivo sobre os indicadores de desempenho e posições de vantagem competitiva.
+No entanto, Porter (1980) adverte que a empresa que escolhe a estratégia de diferenciação não deve descartar seu controle de custos, bem como a empresa que opta p ela redução de custos não deve renunciar à diferenciação per ante o mercado competidor.
+Assim , a posição estratégica – não sendo algo fixo, mas sim um continuum – deve ser devidamente assumida.
+Nesta perspectiva, Simons (1987) destaca a necessidade de compreender a relação entre o SCG e a estratégia , pois o SCG e a estratégia organizacional adotada para a execução de uma atividade devem possuir características congruentes.
+Langfield -Smith (1997 ) observou que o SCG fornece apoio para o desenvolvimento da estratégia.
+Já Baines e Langfiel d-Smith (2003) não constataram relação direta entre o s SCG e os designs da organização e suas tecnologias.
+Esses autores destacam que existem elementos que atuam como intervenien tes e influenciadores dessa relação.
+Discutir a posição interveniente da estratégia organizacional na relação entre o SCG e o desempenho da inovação , em consonância com os estudos de Langfield -Smith (1997 ) e Baines e Langfiel d-Smith (2003), mostra -se como uma abordagem contemporânea de pesquisa no ambiente brasileiro .
+Haja visto que os pesquisadores no ambiente brasileiro (Beuren, & Oro, 2014; Frezatti et al., 2017) têm d ispensado esforços para compreender a relação unidirecional desses cons trutos.
+No entanto, e m ambiente s inovadores, acredita -se que a estratégia organizacional pode ocupar posição distinta, daquela em que a estratégia organizacional é vista apenas como um antecedente do SCG.
+Os SCG têm a capacidade de refletir os objetivos d a organização e os planos desenvolvidos para atingir tais fins ( Otley , 1999).
+Simons (1995) concebe os SCG como os meios utilizados na implementação d a estratégia.
+A literatura (Chenhall, & Morris , 1986; Simons, 1995; Otley , 199 9; Henri , 2006; Ferreira, & Otley , 2009; Oyadomari et al., 2010 ) aponta que os SCG envolve m duas dimensões dos SCG : desenho e uso.
+Nesse sentido, Simons (1995) propõe q uatro alavancas de controle ou sistemas , como equilíbrio entre a capacitação dos funcionários e o contro le eficaz, s ão eles: sistemas de crenças, sistemas de fronteira, sistemas de controle interativo e sistemas de controle diagnóstico .
+Com o intuito de contribuir nas discussões existente s, inclusive na literatura nacional , acerca da influência do SCG sobre a inovação, neste estudo busca -se responder a seguinte questão de pesquisa: Qual a influência do uso do SCG no desempenho da inovação mediado pela estratégia organizaciona l, nas tipologias de liderança em custos e de diferenciação ?
+Assim, o estudo objetiva verificar a influência do uso do SCG no desempenho da inovação mediado pela estratégia organizaciona l em empresas b rasileiras com perfil inovador .
+O desempenho d a inovação é compreendido nesta pesquisa como a percepção d o gestor a respeito d o nível de novidade dos novos produtos ofertados pela empresa , dos planos formais para o desenvolvimento de potenciais produtos e/ou mercados e da desejabilidade da organização ofertar produtos com qualidade para o público ( Yang, Wang, & Cheng , 2009 ).
+Esse desempenho é esperado de empresas inovadoras, a quelas com características elevadas de tecnologia, pois como demonstrado pelo Índice Brasil de Inovação (IBI) , desenvolvido por meio da parceria Unicamp/Uniemp/Fapesp , os primeiros itens para avaliar o nível de inovação nas empresas incidem nos instrumentais de tecnologia empregado s na produção e no que concerne aos produtos ofertados para o mercado (Furtado et al.
+Neste estudo, presume -se que a dinamicidade dos sistemas sociais presentes nas empresas inovadora s pode conduzir para um novo desenho em termos de papéis assumidos pelo SCG, a estratégia organizacional e o desempenho da inovação ( Macintosh, 1994; Langfield -Smith, 1997; 88 INFLUÊN CIA DO USO DO SISTEMA DE CONTROLE GERENCIAL E DA ESTRATÉGIA ORGANIZACIONAL NO DESEMPENHO DA INOVAÇÃO Revista Universo Contábil, ISSN 1809 -3337, FURB, Blumenau, v. 15, n. 1, p. 85 -105, jan./mar., 2019 Baines, & Langfiel d-Smith, 2003).
+A relevância do estudo está em buscar compreender como o desempenho da inovação de produto tem seu alicerce no modelo de gestão da organização .
+Dependendo do ambiente em que a organi zação está inserida e da capacidade dos gestores de criar ambientes inovadores e estimular ideias criativas, ter -se-á o desempenho inovador ( Utzig , & Beuren , 2014).
+Para tanto, as empresas precisam estar ajustadas a essas condições ambientais, adequando su a estrutura organizacional com alterações em processos e operações internas ( Otley , 1999 ).
+O estudo justifica -se pela necessidade de reforçar os pilares teórico -empíricos a respeito do papel do s SCG no processo de desenvolvimento da inovação, a partir da interveniência da estratégia organizaciona l. Assim, com esta investigação busca -se analisar estes elementos em um contexto diverso dos estudos já realizados em âmbito internacional , o que se espera possa trazer novas inferências para os resultados conflitantes.
+Também pode contribui r para as empresas na busca por vantagem competitiva , quanto aos papéis dos SCG na estratégia da s empresas .
+Pode ainda configurarse como uma forma de auxílio ao proces so estratégico e de aperfeiçoamento do s SCG utilizado s pelas empresas .
+Justifica -se ainda o estudo pelo incremento nas discussões sobre o papel da estratégia organizacional adotada pelas empresas e s ua relação com o SCG .
+Como o histórico de pesquisa s já vislumbra uma corrente alternativa quanto a essa posição, presume -se que para as empresas inovadoras brasileiras o uso do SCG é um condutor das estratégias , o que por vezes impulsiona o processo inovador nessas organizações ( Langfield -Smith, 1997 ).
+A incipiência quanto ao cenário inovador presente no contexto brasileiro lev a os pesquisadores a assumirem essa posição.
+Há ainda dependência elevad a dos órgãos de fomento para o financiamento da atividade de inovação no Brasil.
+Dessa forma, tais estruturas normativas mostram -se fortemente presentes na condução e estruturação do modelo de negócio.
+2 BASE TEÓRIC A E FUNDAMENTAÇÃO DA HIPÓTESE 2.1 Uso do Sistema de Controle Gerencial e Estratégia s de Liderança em Custos e de Diferenciação Os SCG são mecanismos formalizados que fornecem informações para manter ou modificar os padrões de gestão organizacional ( Simons , 1990).
+Neste sentido, o modelo teórico proposto Simons (1995) , denominado de Levers of Control (LOC's), compreende quatro tipos de siste mas: Sistemas de Crenças ( Belief Systems ); Sistemas de Restrições ( Boundary Systems ); Sistemas de Controle Diagnóstico ( Diagnostic Control Systems ); e Sistemas de Controle Interativo ( Interactive Control Systems ).
+Sistemas de Crenças são utilizados para comunicar os valores fundamentais da organização, tais como , missão, visão e valores ( Simons , 1995).
+É fomentado nos funcionários o conhecimento dos objetivos organizacionais , com o intuito de inspirá -los e motivá -los para criar, explorar, pesquisar e se comportar de acordo com os padrões estabelecidos pela organização ( Widener , 2007).
+Sistemas de Restrições indicam as regras e limites de comportamento aceitos na organização (Simons , 1995).
+O uso dessa dimensão possibilita que atitudes de a lto risco sejam minimizadas.
+Dessa forma, possibilita o desenvolvimento do processo de inovação e criatividade dos funcionários de maneira cautelosa, visto que esse sistema comunica os riscos organizacionais e os limites previamente aceitos na execução das tarefas ( Widener , 2007; Heinicke, Guenther, & Widener , 2016).
+Nesse sentido, as restrições são reconhecidas e expostas nos códigos de conduta da entidade ( Kruis, Speklé, & Widener , 2016).
+Sistemas de Controle Diagnóstico t êm por finalidade monitorar o des empenho e ajustar as ações da organização ( Simons , 1995).
+Consiste m em feedback das ações e desempenho organizacional, sendo que propicia m monitoramento e recompensas pelo alcance das metas e objetivos definidos antecipadamente ( Henri , 2006).
+O uso dessa dimensão tem caráter restritivo, pois possibilita a identificação de desvios de conduta e viabiliza o alinhamento das ações organizacionais 89 Iago França Lopes, Ilse Maria Beuren, Tayse Gomes Revista Universo Contábil, ISSN 1809 -3337, FURB, Blumenau, v. 15, n. 1, p. 85 -105, jan./mar., 201 9 (Simons , 2000; Pletsch, & Lavarda , 2016).
+Sistemas de Controle Interativo promove m o diálogo ativo entre os membros da organização com vistas na discussão d as formas de posicionamento estratégico ( Widener , 2007).
+Desse modo , o uso dos Sistemas de Control e Interativo proporciona meios para fomentar a aprendizagem organizacional e a busca por oportunidades ( Henri , 2006).
+O uso das LOC's nas suas dimensões diagnóstico e interativo permite gerir demandas por controles concorrentes, em que as tensões fomentadas pela organização auxiliam no equilíbrio dos diferentes enfoques da gestão empresarial ( Bisbe , & Otley , 2004; Beuren , & Oro, 2014; Heinicke , Guenther , & Widener , 2016).
+A dimensão diagnóstica dispõe de controles voltados ao alcance do desempenho e comportamento organizacional desejado.
+Enquanto, a interativ a atenta -se aos ferramentais de controle e vigilância d as incertezas e redirecionamentos estratégicos das ações da organização.
+A estratégia organizacional tem um papel fundamental quando relacionada ao SCG, visto que esse tem o propósito de direcionar o comportamento dos indivíduos e conduzi -los ao desempenho desejado.
+A estratégia organizacional é abordada por Porter (1980) a par tir de duas tipologias: liderança em custos e diferenciação.
+A primeira se dá por meio das ações organizacionais que visam à atingir o menor custo na concepção e elaboração dos produtos e serviços frente aos concorrentes.
+Já a segunda, tem o propósito de o ferecer ao público -alvo um produto ou serviço com características diferentes dos comumente disponíveis no mercado.
+Embora com focos distintos, ambas as estratégias exigem inovação por parte das empresas.
+Langfield -Smith (1997) destaca que o corpo teórico sobre a relação entre SCG em termos de controle diagnóstico e interativo e a estratégia organizacional é limitado, pois até a década de 1980 a estratégia não foi utilizada como um construto na pesquisa em Contabilidade Gerencial.
+Nesse sentido, o uso dos S istemas de Controle Diagnóstico e Interativo podem assumir papel proativo e influenciar a estratégia.
+Para Kober, Ng e Paul (2007) , os SCG têm o propósito de oferecer nova direção ao desenvolvimento organizacional.
+Macintosh (1994) adverte que a associação entre SCG e estratégia transcende o aspecto unidirecional, dada a característica de bidirecionalidade.
+No entanto, a liter atura tem se dedicado a analisar o SCG apenas como um consequente da estratégia organizacional (Simons , 1987) .
+Assim, as pesquisas têm investiga do apenas o one-way e pouco tempo é d ispensado para compreender a associação de dois sentidos mais complexos (Macintosh , 1994; Beuren , & Oro, 2014; Davila , Foster , & Jia, 2015; Frezatti et al., 2017) .
+Kober, Ng e Paul (2007) discutem que o uso interativo do SCG apresenta -se como mecanismo que facilita a mudança estratégica .
+Também fazem inferências sobre os mecanismos de SCG como elementos que mudam para satisfazer a estratégia organizacional.
+Assim, os autores adotam uma postura bidirecional para a relação entre SCG e estratégia.
+A pesquisa foi desenvolvida a partir de uma abordagem qualitativa e revela que as mudanças na estratégia da organização investigada receberam aparato do SCG utilizado.
+Beuren e Oro (2014) investigaram 101 empresas associadas à Associação Brasileira da Indústria Têxtil e constat aram pela modelagem de equações estruturais (SEM) que a estratégia de diferenciação intensifica positivamente o uso de controles formais nas empresas.
+Os controles formais alinham -se ao preconizad o por Simons (1990), de dar suporte ao processo de controle e execução do planejamento, a partir de medidas forma is, a exemplo do orçado versus o realizado e também da aplicação de medidas de feedback e correção.
+Davila, Foster e Jia (2015) examinaram a valorização dos sistemas formais de controle por investidores em startups .
+Pesquisaram 66 empresas startups locali zadas n a Argentina, Austrália, China, Espanha, Estados Unidos e Irlanda.
+Os resultados i ndicam que os SCG facilitam a implementação da s estratégia s de liderança em custo s e de diferenciação.
+Esses mecanismos de controle adotados pelas startups também são valorizados pelos financiadores externos da atividade inovadora de desenvolvimento de produto e de processo.
+90 INFLUÊN CIA DO USO DO SISTEMA DE CONTROLE GERENCIAL E DA ESTRATÉGIA ORGANIZACIONAL NO DESEMPENHO DA INOVAÇÃO Revista Universo Contábil, ISSN 1809 -3337, FURB, Blumenau, v. 15, n. 1, p. 85 -105, jan./mar., 2019 As discussões sobre o uso do SCG e a estratégia organizacional enfatizam a necessidade de considerar que este último elemento pode também atuar como consequente do uso do SCG , conforme discussões já fomentadas por Macintosh (1994) e testadas empiricamente por Kober, Ng e Paul (2007) e Beuren e Oro (2014) .
+O efeito pr oativo do SCG e a sua capacidade de fornecer controle para ambiente s estáveis e incertos conduzem para o realinhamento da estratégia organizacional, considerando a necessidade de equilibrar o processo de mudança e continuidade, a partir da informação ( Drucker , 1999).
+Assim , pautado n os elementos empíricos evidenciados , formula -se a primeira hipótese da pesquisa: H1: O uso do SCG nas dimensões diagnóstica e interativa intensificam positivamente a s estratégia s de liderança em custos e de diferenciação.
+2.2 Estratégia s de Liderança em Custos e de Diferenciação e Desempenho da Inovação As primeiras inquietações sobre o papel da estratégia no desempenho da inovação estão inscritas nas pesquisas de Cooper (1984) e Gatignon e Xuereb (1997).
+Cooper (1984) realiz ou uma investigação com 122 empresas lotadas em Ontario e Quebec (Canadá).
+Os result ados da pesquisa suporta ram a hipótese de que a estratégia eleita determina o desempenho dos novos produtos inseridos no mercado pelas empresas, a partir dos seus respectivos programas.
+Assim, concluiu que " o desempenho do novo produto é decidido em grande parte pela estratégia que a alta gerência elege" (Cooper , 1984, p. 257 ).
+Gatignon e Xuereb (1997) investigar am qual a estratégia mostra -se mais apropriada para o desenvolvimento de produtos inovadores.
+Uma pesquisa foi realizada com 393 executivos de marketing dos Estados Unidos , a fim de verificar o impacto da orientação estratégia no desempenho de novos produtos.
+A partir de um modelo de regressão , os resultados da pesquisa revelam que a orientação estratégia definida pela organização influencia no desempenho da inovação de novos produtos.
+(2001) corroboram que as inovações bem -sucedidas devem ser produto de estratégias devidamente concebidas e aplicadas, pois ações empreendedoras e ações estratégicas estão ligadas ao tipo de cresciment o por meio do qual as empresas são capazes de criar riqueza.
+Dessa forma, as estratégias de liderança em custos e de diferenciação, apresentam -se como elementos capazes de contribuir positivamente para o desempenho da inovação de produto s, cada qual dentro da sua característica no que concerne a obtenção d e vantagem competitiva pela organização .
+(2008) argumenta m que inovar é uma atividade envolta de riscos e incerteza s, pois inovação é um mix de elementos técnicos, mercadológicos e organizacionais que juntos precisam suprir uma necessidade básica e obter a aceitação do campo onde está lotado o público -alvo almejado pela organização ( Barbieri , & Álvares, 2004 ; Lopes , & Beuren, 2016 ).
+Nesse sentido, presume -se que a inovação possui dependência da estratégia adotada pelas empresas ( Frezatti et al., 2013).
+Assim, desde o nível de novidade (inovação) d e novos produtos até o uso das mais recentes inovações tecnológicas nos processos ( Yang , Wang , & Cheng , 2009) , todos são resposta s de decisões estratégicas.
+Beuren e Oro (2014) buscaram compreender a relação da estratégia de diferenciação e da inovação com o desenho do SCG.
+Os resultados revela ram que a estratégia de diferenciação não exerce e feito significa tivo na inovação de produtos .
+Os testes realizados neste estudo mostra ram lacunas de conhec imento sobre a relação com outras estratégias organizacionais, de modo a contribuir para o cenário discutido, uma vez que evidencia ram a existência de uma conexão entre estratégia organizacional e inovação.
+A questão levantada consiste em defender que a estratégia organizacional , ao ser adotada e desenvolvida no ambiente das organizações , é capaz de influenciar positivamente o desempenh o da inovação.
+Assim, o desempenho da inovação é um consequente das decisões dos gestore s que 91 Iago França Lopes, Ilse Maria Beuren, Tayse Gomes Revista Universo Contábil, ISSN 1809 -3337, FURB, Blumenau, v. 15, n. 1, p. 85 -105, jan./mar., 201 9 formulam a estratégia organizacional como resultado contínuo do fluxo deliberado de suas próprias decisões ( Langfield -Smith , 1997) .
+Desse modo, formula -se a segun da hipótese de pesquisa: H2: As estratégia s de liderança em custo s e de diferenciação intensificam positivamente o desempenho da inovação.
+2.3 Efeitos da Estratégia Organizacional na r elação entre Uso do SCG e Desempenho da Inovação A premissa de que o comportamento e as atividades dos gestores podem ser moldados p elos SCG e, portanto, vitais para a formulação da estratégia organizaciona l e especifica ção d as ações operacionais necessárias para sua implementação, é prevalente em estudo s da área da contabilidade gerencial e de estratégia ( Marginson, 2002; Widener, 2007; Acquaah, 2013; Arachchilage, & Smith, 2013; Acquaah, & Agyapong, 2016 ).
+Para Bisbe e Otley (2004), o uso d o controle diagnóstico e interativo são relevantes para a elabor ação e implementação da estratégia organizaciona l. O uso d o controle diagnóstico é fundamental para que a empresa tenha sua estratégia alinhada com suas metas e objetivos organizacionais ( Acquaah , 2013).
+Ao fazer uso do SCG na sua dimensão diagnóstica para monitorar as tarefas dos gestores e, portanto, motiva -los para que cumpram os objetivos da or ganização ( Widener , 2007), também assegura cautela na implementação das estratégias pretendidas ( Acquaah , 2013).
+Dessa forma, o uso diagnóstico do SCG favorece a implementação d a estratégia de liderança em custos, pois a introdução de controles restritivos pode contribuir para iniciativas de redução de custos, por meio da alocação efetiva dos recursos (Arachchilage, & Smith , 2013).
+Nessa conjectura , a implementação d a estratégia de liderança em custos, balizada pelo Sistema de Controle Diagnóstico , pode ac arretar no aumento da inovação de processos e produtos ( Porter , 1980).
+O foco particular nessa tipologia coloca a estratégia de liderança em custos como mediadora da relação entre uso diagnóstico do SCG e desempenho da inovação, à medida que reconhece tal item como fonte de vantagem competitiva .
+Essa, por sua vez , está consubstanciada na economia de recursos em pesquisa, desenvolvimento e inovação (PD&I) e menores custos na elaboração e constituição de um produto (Langfield -Smith , 1997 ).
+Acquaah (2013) comparou a relação entre SCG, estratégia organizacional e desempenho de empresas familiares e não -familiares em um contexto de economia em transição, na África.
+No estudo, a estratégia foi considerada uma variável mediadora na relação entre SCG e desempenho das empresas.
+Os resultados advindos de empresas com sede em Gana revelaram que o uso diagnóstico do SCG influencia positiva e significativamente o desenvolvimento da estratégia de liderança em custos enquanto que o uso interativo d o SCG influencia nas mesmas condições a estratégia de diferenciação.
+E que a estratégia atua como variável mediadora da relação entre o uso interativo do SCG e a estratégia de diferenciação.
+Amaro, Beuren e Murro (2015) reconhecem que a qualidade da informação é um antecedente ao desempenho da inovação de produto e processo , ao identificar as incertezas que cercam tal processo.
+Portanto , o uso do Sistema de Controle Diagnóstico , por vezes , influencia também a estratégia de diferenci ação, visto que tal alavanca está voltada a equalizar os acontecimentos dentro da organização, ou seja, encoraja o corpo de funcionários a alinhar seu comportamento com os objetivos organizacionais, desenvolv endo uma linguagem comum que poss a contribuir pa ra a avaliação da eficácia operacional ( Simons, 2000 ; Widener, 2007 ; Acquaah , 2013 ).
+A estratégia de diferenciação também recebe apoio no processo de implementação e mudança dos elementos advindos do Sistema de Controle Diagnóstico , o que acarreta em desempenho da inovação.
+O desempenho da inovação é um processo galgado pela necessidade de segurança, qualidade e motivação dos funcionários para atingir os objetivos organizacionais ( Simons , 2000 ; Acquaah , 2013 ).
+Já o uso do Sistema de Controle Interati vo visa fornecer feedbacks estratégicos e formas de redirecionamento da estratégia e ações da organização de modo ativo ( Simons , 1995).
+Essa 92 INFLUÊN CIA DO USO DO SISTEMA DE CONTROLE GERENCIAL E DA ESTRATÉGIA ORGANIZACIONAL NO DESEMPENHO DA INOVAÇÃO Revista Universo Contábil, ISSN 1809 -3337, FURB, Blumenau, v. 15, n. 1, p. 85 -105, jan./mar., 2019 alavanca permite que os gestores atuem nas atividades de decisões de seus subordinados e no âmbito organizacional.
+Assim, a implementação e/ou adoção de uma estratégia de liderança em custos mostra -se como um consequente do uso interativo do SCG, à medida que focaliza os processos de adap tação , de mudanças ambientais e frente às incertezas.
+Ademais , a ação dos concorrentes e as mudanças mercadológicas são elementos que as alavanca s visam controlar ( Schaltegger, & Burritt, 2010 ; O'connor , Vera -Munoz , & Chan, 2011; Acquaah, 2013 ).
+Assim, a estratégia de liderança em custo s recebe apoio do uso do Sistema de Controle Interativo (Kober, Ng, & Paul , 2007).
+Simons (1987) explica que esta natureza de estratégia focaliza os custos operacionais, cumprimento do orçamento e eficiência dos gas tos.
+A informação gerada nesse processo contempla as preocupações dos gestores de topo, demanda atenção de toda organização em termos de interpretação e planos de ação para correção de possíveis deficiências no processo ( Henri , 2006).
+A consequência d a relação entre SCG e liderança em custo s está no desenvolvimento de novas ideias e iniciativas que orientam a organização a promover a consciência do ambiente financeiro, facilitando o processo de desenvolvimento de determina da estratégia ( Henri , 2006; Kober, Ng, & Paul, 2007).
+Além disso, o uso do Sistema de Controle Interativo tem a capacidade de influenciar a estratégia de diferenciação em termos de sua adoção e implementação.
+Nesse sentido , a alavanca de controle interativ o é dotada de características que influencia m na identificação da demanda dos clientes, a partir de novas ideias e ao estimula r o processo de PD&I (Acquaah , 2013 ).
+A adoção de uma estratégia de diferenciação exige a personalização na oferta de seus produtos e serviços, um relacionamento mais próximo com o público -alvo.
+Dessa forma, a implementação e a adaptação da estratégia de diferenciação ganha nova direção a partir do uso do Sistema de Controle Interativo .
+A compreensão do papel dessa alavanca de controle como um antecedente da estratégia fomenta as discussões de Macintosh (1994), que sugere relação bidirecional entre SCG e estratégia.
+A estratégia de diferenciação imprime ênfase na pesquisa e desenvolvime nto de produtos e na heterogeneidade dos produtos e serviços da organização (Langfield -Smith , 1997).
+A partir d estas discussões teórico -empíricos levantadas , formula -se a terceira hipótese d e pesquisa : H3: A relação entre o uso do SCG nas dimensões diagnóstica e interativa e o desempenho da inovação é intensificada positivamente pela estratégia organizacional.
+3 PROCEDIMENTOS METO DOLÓGICOS Este estudo de natureza descritiva foi realizado a partir de uma pes quisa de levantamento , que teve como população alvo as indústrias de transformação com foco em inovação e tecnologia, estabelecidas n o Brasil , com capacidade para compor o Índice Brasil de Inovação (IBI) .
+Esse índice compõe -se de quatro grupos setoriais , ordenados por intensidade tecnológica , que agrega m 22 divisões industriais da Classificação Nacional de Atividades Econômicas (CNAE) , tendo como parâmetro de mensuração de inovatividade os quartis d a intensidade de gastos em P&D (Furtado et al., 2007) .
+Nestas empresas foram identificados os diretores, gestores e coordenadores, além dos meios de acesso para a realização da survey , por meio da rede social de relacionamento corporativo Linkedin ®.
+No convite para a participação da pesquisa procedeu -se a explicação d os objetivos e assegurou -se o anonimato d os respo ndentes .
+Os convites foram renovados no período de dezembro de 2016 a julho de 2017 .
+Aos 980 profissionais que aceitaram o convite foi enviado o instrumento de pesquisa de forma on-line, via plataforma Google Forms ®, e se obteve um total de 150 questionários válidos.
+O instrumento de pesquisa foi acompanhado de um Termo de Consentimento Livre e Esclarecido (TCLE).
+Quanto ao tamanho da amostra, Hai r Jr. et al.
+(2014) defendem que para quatro caminhos 93 Iago França Lopes, Ilse Maria Beuren, Tayse Gomes Revista Universo Contábil, ISSN 1809 -3337, FURB, Blumenau, v. 15, n. 1, p. 85 -105, jan./mar., 201 9 estruturais (número de caminhos da variável latente que recebe o maior número de preditores, ou seja, número de setas que estão apontadas para a variável latente ), com um α=0,01 de significância e um R² mínimo de 0,25 , precisa -se de um tamanho de amostra de 91 respondentes.
+Ringle, Silva e Bido (2014) recomendam realizar o cálculo da amostra por meio do Software G*Power ®.
+Assim , um poder power (1-β err prob ) de 0,95, effect size f² mediano = 0,15 e um α err prob = 0,05 de significância , a amostra mínima é de 129 questionários .
+Portanto, a amostra de 150 questionários válidos mostra -se suficiente .
+O instrumento de pesquisa foi composto de cinco blocos.
+O primeiro compreendeu as questões relativas ao desempenho da inovação, com foco em produtos , inspiradas no estudo de Yang, Wang e Cheng (2009) .
+Foi solicita do ao respondente que indicasse em qual nível de inovação se encontra a sua empresa , em que a s assertivas foram mensurada s em uma escala de 7 pontos, idêntic a a pesquisa base para a sustentação deste construto, sendo 1 = muito baixo e 7 = muito alto.
+O segundo bloco consistiu das questões rela tivas ao uso do S CG, do instrumento de pesquisa de Henri (2006).
+Os respondente s foram solicit ados a indicar a intensidade que melhor traduz o grau de uso pelos gestores e alta direção das métricas de desempenho nas atividades da empresa.
+Mantevese a escala de mensuração das assertivas conforme o estudo base, sendo 1 = usa pouco e 7 = usa muito.
+O construto uso do SCG foi segregado em uso do Sistema de Controle Diagnóstico (com assertivas sobre cumprimento e estabelecimento de metas ) e uso do Sistema de Controle Interativo (com assertivas relativas ao ambiente apto e a capacidade de reagir às incertezas ).
+O terceiro bloco compreendeu as questões sobre a estratégia organizacional , do instrumento de pesquisa de Simons (1987).
+Esse construto abrangeu assertivas de duas categorias de estratégia organizacional : liderança em custos e diferenciação.
+Os respondentes foram solicitados a apontar o grau de importância de cada uma d as assertivas na estratégia da empresa , considerando uma escala de 1 a 7, sendo 1 = pouco importante e 7 = muito importante.
+De forma complementar inves tigou -se o perfil do s respondente s, com a finalidade de qualifica -los, além do levantamento das características das empresas participantes da pesquisa , como porte, atividade desenvolvida e número de funcionários.
+Na análise dos dados utilizou -se a técnica de Modelagem de Equações Estruturais (MEE).
+Ringle, Silva e Bido (2014, p. 57) recomendam que em estudos com modelos de menor suporte teórico e/ou pouco explorados deve -se adotar uma "abordagem de Modelagem de Equações Estruturais baseada em variâ ncia (VB -SEM) ou em modelos de estimação de ajuste de mínimos quadrados parciais ( Partial Least Square - PLS)".
+Dessa forma, aplicou -se a MEE baseada no modelo de estimação de ajuste de mínimos quadrados parciais (Parcial Least Squares Path Modeling - PLSPM), via bootstrapping , com o uso do software R Studio® versão 1.0.153 .
+Esta técnica visa conhecer o relacionamento de múltiplas variáveis e mostra -se adequada para verificar o papel interveniente de uma variável, buscando compeender se a mesma atua como mediadora da relação analisada (Hair Jr .
+De acordo com Baron e Kenny (1986), uma variável mediadora tem por característica diminuir o efeito direto da relação entre a variável dependente e a indepdente.
+Assim, a variável mediadora permite testar relações para comprova r uma teoria e ainda é possível verificar o enforcement que a mesma causa entre as variáveis depen dentes e independentes ( Baron , & Kenny , 1986).
+Vieira (2009) expõe que para o exame da mediação há três formas.
+A primeira compreende a análise passo a passo dos caminhos , sugerida inicialmente por Kenny (1981) e mais tarde recebeu contribuições e aperfeiçoamentos de Baron e Kenny (1986).
+A segunda discute tal exame a pa rtir da diferença entre os coeficientes, na premissa de que é possível realizar uma comparação entre as variáveis independentes e dependentes após a inclusão da variável mediadora no modelo.
+A terceira expõe que por meio dos produtos do coeficiente também é possível constatar o fenômeno da mediação .
+Para esta pesquisa optou -se pelo exame da mediação a partir do passo a passo dos caminhos de Baron e Kenny (1986).
+94 INFLUÊN CIA DO USO DO SISTEMA DE CONTROLE GERENCIAL E DA ESTRATÉGIA ORGANIZACIONAL NO DESEMPENHO DA INOVAÇÃO Revista Universo Contábil, ISSN 1809 -3337, FURB, Blumenau, v. 15, n. 1, p. 85 -105, jan./mar., 2019 4 ANÁLISE E DISCUSSÃ O DOS RESULTADOS 4.1 Análise Descritiva Na Tabela 1 apresenta -se o perfil d os respondentes, com destaque para o gênero, idade, formação acadêmica, cargo e tempo no cargo.
+Tabela 1 - Perfil dos respondentes Gênero Qt.
+% Masculino 147 98 Analista 5 3 Feminino 3 2 Consultor 2 1 Idade Desenvolver de Software 1 1 Até 30 anos 16 11 Coordenador 28 19 De 31 a 40 69 46 Gestor 36 24 De 41 a 50 40 27 Gerente 13 9 De 51 a 60 21 14 Diretor 50 33 De 61 a 70 4 3 CEO 8 5 Formação Sócio 5 3 Proprietário 2 1 Ensino fundamental completo 3 2 Tempo no cargo Ensino Médio Completo 4 3 Até 2 anos 38 25 Graduação.
+45 30 Superior a 2 anos e Até 4 anos 31 21 Especialização/MBA 84 56 Superior a 4 anos e Até 8 anos 41 27 Mestrado 13 9 Superior a 8 anos e Até 16 anos 32 21 Doutorado 1 1 Superior a 16 anos e Até 32 anos 8 5 Fonte: Dados da pesquisa.
+Tabela 2 – Característica s das empresas participantes da pesquisa Porte Qt % Funcionários Qt % Microempresa (menor ou igual a R$ 2,5 milhões) 40 27 1 a 25 funcionários 47 31 Pequena empresa (maior que R$ 2,4 milhões e menor ou igual a R$ 16 milhões) 39 26 26 a 50 funcionários 16 11 Média empresa (maior que R$ 16 milhões e menor ou igual a R$ 90 milhões) 25 17 51 a 75 funcionários 11 7 Média -grande empresa (maior que R$ 90 milhões e menor ou igual a R$ 300 milhões) 18 12 76 a 100 funcionários 3 2 Grande empresa (Maior que 300 milhões/ano) 28 19 Acima de 100 funcionários 73 49 Total 150 100,0 Total 150 100,0 Setor Qt % Setor Qt % Mecânica e Transportes 2 1,3 Agroindústria 3 2,0 Eletroeletrônica 1 0,7 Construção Civil 2 1,3 Química 1 0,7 Moveleira 0 0,0 Metalurgia 4 2,7 Papel e Celulose 1 0,7 Alimentos 2 1,3 Têxtil 1 0,7 Bens de Consumo 2 1,3 Petroquímica 1 0,7 Software 62 41,3 Mineração 0 0,0 Farmacêutica 2 1,3 Outras indústrias 58 38,7 Telecomunicação 8 5,3 Total 150 100,0 Fonte: Dados da pesquisa.
+Nota -se na Tabela 1, que a maioria dos respondentes é do gênero masculin o, está na faixa etária entre 31 a 40 anos, possu i como maior grau de formação acadêmica um curso de especialização/MBA, atua no s cargo s de diretor , gestor e coordenador, e tempo no cargo com respostas bastante dispersas, mas com destaque para um período de até 8 anos ou menos .
+O perfil apresentado dos re spondentes da pesquisa permite inferir que reúnem as condições necessárias para responder o instrumento de pesquisa.
+Na Tabela 2 são evidenciadas características das empresas participantes da pesquisa.
+De acordo com a Tabela 2, dentre as empresas participantes da pesquisa prevalece ram as 95 Iago França Lopes, Ilse Maria Beuren, Tayse Gomes Revista Universo Contábil, ISSN 1809 -3337, FURB, Blumenau, v. 15, n. 1, p. 85 -105, jan./mar., 201 9 micro e pequenas empresas .
+O setor que se destacou é de software , seguido de outras indústrias, decorrente d a possibilidade apresentada no questionário para indicar algum setor distinto dos Tabela 3 – Estatística s descritiva s das assertivas Construtos Assertivas Média Moda Desvio Padrão Desempenho da Inovação Nível de novidade (inovação) dos novos produtos da nossa empresa.
+5,05 6,00 1,58 Planos formais para potenciais produtos e/ou mercados (por exemplo, produtos e mercados fora da área atuação da empresa).
+4,72 6,00 1,76 O principal critério de sucesso desta organização é fornecer produtos com a qualidade desejada.
+5,03 6,00 1,70 Uso Diagnóstico e Interativo dos SCG Acompanhar o progresso em direção às metas 5,01 6,00 1,72 Monitorar os resultados 5,20 7,00 1,68 Comparar os resultados com as expectativas 5,13 7,00 1,72 Revisar as medidas chaves de desempenho 4,93 5,00 1,70 Promover discussões em reuniões entre superiores, subordinados e pares.
+4,80 7,00 1,89 Possibilitar o contínuo desafio e debater dados subjacentes, pressupostos e planos de ação.
+4,62 5,00 1,84 Fornecer uma visão comum da organização.
+4,70 6,00 1,72 Alinhar a visão da organização.
+4,79 6,00 1,82 Possibilitar a organização concentrar -se em questões comuns.
+4,67 6,00 1,74 Possibilitar a organização focalizar -se nos fatores críticos de sucesso.
+4,71 5,00 1,78 Desenvolver uma linguagem comum dentro da organização 4,67 6,00 1,82 Estratégia Empresarial Controle de custos das operações por meio da análise da variância entre custos reais e custos padrão.
+4,81 7,00 1,89 Previsões preparadas por analistas (por exemplo, demanda do mercado, melhorias tecnológicas, regulamentação governamental, ações dos concorrentes).
+4,40 7,00 1,92 Estimativas de probabilidade (por exemplo, relatórios de cenários pessimista, provável e otimista).
+4,37 6,00 1,96 Relatórios de controle de gestão que relacionam resultados produzidos com insumos consumidos (custos por unidade, produção por hora/homem, espaço utilizado por produto).
+4,69 7,00 1,92 Sistemas de controle que monitoram praticamente todas as tarefas na organização.
+4,67 5,00 1,78 Acompanhamento da tendência entre os resultados do último período e os resultados do período corrente.
+4,83 7,00 1,82 Cumprimento das metas orçamentárias.
+5,09 6,00 1,75 Realização de eficiências operacionais (saída máxima para determinado nível de consumo).
+4,68 6,00 1,72 O desempenho geral em qualquer período é avaliado comparando nossos resultados com os dos concorrentes.
+4,44 6,00 1,83 Dados externos são incluídos no sistema de controle gerencial (por exemplo, a associação comercial relata desenvolvimento da indústria).
+4,19 6,00 1,90 O sistema de controle proporciona flexibilidade para os gestores responderem à novas e imprevistas oportunidades.
+4,65 5,00 1,79 Comunicação informal no fornecimento de informações de controle para os gestores de topo (por exemplo, reuniões, contratos interpessoais).
+4,79 6,00 1,72 Fonte: Dados da pesquisa.
+Ressalta -se ainda que 49% dos respondentes indicaram que a empresa possui acima de 100 funcionários, o que pode decorrer da proporção de empresas da amostra desenvolvedoras de softwares , que são altamente demandadoras de mão de obra.
+Na Tabe la 3 apresentam -se estatísticas descritivas das assertivas do questionário.
+O estudo tem como referência as empresas com perfil inova dor e, nesse sentido observa -se na 96 INFLUÊN CIA DO USO DO SISTEMA DE CONTROLE GERENCIAL E DA ESTRATÉGIA ORGANIZACIONAL NO DESEMPENHO DA INOVAÇÃO Revista Universo Contábil, ISSN 1809 -3337, FURB, Blumenau, v. 15, n. 1, p. 85 -105, jan./mar., 2019 Tabela 3 uma relativa homogeneidade em termos do desempenho de inovação, do SCG e da estratégia adotada pelas organizações.
+Tal inferência está consubstanciada nos níveis de desvio padrão, quando comparado s com as médias , além das modas destaca das.
+4.2 Avaliação do Modelo de Mensuração A aplicação da modelagem de equações estrutura is exige que um conjunto de procedimentos seja realizado , com duas etapas de avaliação : do modelo de mensuração e do modelo estrutural (Sanchez, 2013; Hair Jr. et al., 2014; Ringle, Silva, & Bido, 2014) .
+Para tanto, inicia -se avaliando o modelo de mensuração, que visa reconhecer a validade d os constru tos e assertivas .
+Portanto , verificase inicialmente a confiabilidade dos indicadores individuais, na sequência examina -se a avaliação da validade convergente e , por fim, avalia -se a validade discriminante d os constru tos (Hair J r. et al., 2014).
+Sanchez (2013) explica que para verifica r a confiabilidade interna dos construtos tem-se três indicadores principais : (i) alfa de Cronbach; (ii) DG.
+Rho de Dillon -Goldstein ou Confiabilidade Composta ; e (iii) verificação do primeiro e segundo autovalor da matriz de correlação .
+Para os dois primeiros, recomenda que os indicadores apresentem valores superiores a 0,70 ( alfa de Cronbach >0,70; DG.
+No que tange ao primeiro autovalor da matriz de correlação , Sanchez (2013) recomenda que resulte em va lores maiores que 1 e para o segundo valores menores que 1.
+Quanto a unidimensionalidade do alfa de Cronbach e do DG.
+Rho de Dillon -Goldstein , Chin (1998) e Sanchez (2013) mencionam que a avaliação d este último se mostra mais adequad o, pois considera na su a máxima o poder da variável latente explicar o construto.
+Assim , optou -se por analisar apenas o DG.
+Ringle, Silva e Bido (2014) citam que a validade convergente pode ser analisada a partir das variâncias médias extraídas (Average Variance Extracted - AVE).
+Tal indicador deve apresentar valores superiores a 0,50 (AVE >0,50).
+Na Tabela 4 apresenta m-se os valores dos indicadores do modelo de mensuração e a correlação entre os construtos .
+Tabela 4 - Modelo de mensuração e correlação entre os c onstrutos Variáveis SCGDIAG SCGINT LIDC DIF INOV SCGDIAG 1,000 SCGINT 0,904 1,000 LIDC 0,729 0,698 1,000 DIF 0,689 0,665 0,920 1,000 INOV 0,671 0,692 0,862 0,879 1,000 DG.
+Rho >0,70 0,983 0,983 0,963 0,939 0,871 1º Auto Valor >1,00 3,740 6,230 6,110 3,180 2080 2º Auto Valor < 1,00 0,117 0,281 0,533 0,474 0,641 AVE >0,50 0,934 0,890 0,764 0,794 0,691 Legenda: SCGDIAG = Uso do Sistema de Controle Diagnóstico; SCGINT = Uso do Sistema de Controle Interativo; LIDC = Liderança em Custo s; DIF = Diferenciação; INOV = Desempenho da Inovação.
+Na Tabela 4 verifica -se a associação entre as variáveis da pesquisa.
+Os índices quanto à adequação do modelo de mensuração , em específico d a confiabilida de de consistência interna, mostra que o DG.
+Rho não apresent ou valores inferiores a 0,70, corroborando com a c onfiabilidade do modelo.
+Tanto o 1º auto valor como o 2º auto valor satisfazem os limites indicados na literatura e a AVE não evide nciou valores inferiores a 0,50.
+Para a análise da validade discriminante utiliz ou-se o critério de Fornell e Larcker (1981), em que "compara -se as raízes quadradas dos valores das VMEs de cada construto com as correlações (de Pearson ) entre os cons trutos (ou variáveis latentes)" (Ringle , Silva , & Bido , 2014, p. 65).
+Nesse item de avaliação, "as raízes quadradas das VMEs devem ser maiores que as correlações entre os construtos" ( Ringle , Silva , & Bido, 2014, p. 65).
+Outro indica dor para avaliar a vali dade discriminante 97 Iago França Lopes, Ilse Maria Beuren, Tayse Gomes Revista Universo Contábil, ISSN 1809 -3337, FURB, Blumenau, v. 15, n. 1, p. 85 -105, jan./mar., 201 9 é a matriz crossloading , que avalia se as cargas dos indicadores das variáveis latentes são maiores quando comparada s com as variáveis latentes do modelo de mensuração (Hair J r. et al., 2014).
+Chin (1998) recomenda que os valores próprios do construto da matriz crossloading devem ser superiores a 0,70 e maiores que os demais na mesma linha.
+Na Tabela 5 apresenta -se a matriz crossloading .
+Tabela 5 - Matriz crossloading Variáveis SCGDIAG SCGINT LIDC DIF INOV SCGDIAG1 0,960 0,860 0,712 0,684 0,674 SCGDIAG2 0,977 0,882 0,715 0,684 0,653 SCGDIAG3 0,974 0,885 0,712 0,653 0,647 SCGDIAG4 0,956 0,868 0,679 0,641 0,621 SCGINT1 0,852 0,918 0,627 0,591 0,631 SCGINT2 0,842 0,935 0,648 0,641 0,660 SCGINT3 0,858 0,955 0,659 0,605 0,624 SCGINT4 0,868 0,957 0,684 0,634 0,780 SCGINT5 0,858 0,960 0,668 0,642 0,671 SCGINT6 0,865 0,952 0,670 0,674 0,671 SCGINT7 0,825 0,926 0,648 0,603 0,632 LIDC1 0,633 0,606 0,839 0,768 0,723 LIDC2 0,599 0,570 0,875 0,797 0,759 LIDC3 0,594 0,607 0,855 0,759 0,725 LIDC4 0,591 0,567 0,899 0,826 0,759 LIDC5 0,580 0,546 0,864 0,819 0,737 LIDC6 0,729 0,669 0,889 0,832 0,776 LIDC7 0,718 0,665 0,863 0,772 0,751 LIDC8 0,636 0,632 0,907 0,856 0,789 DIF1 0,565 0,552 0,832 0,918 0,795 DIF2 0,511 0,504 0,774 0,873 0,730 DIF3 0,680 0,668 0,876 0,929 0,847 DIF4 0,677 0,627 0,787 0,843 0,751 INOV1 0,374 0,429 0,436 0,473 0,676 INOV2 0,610 0,640 0,824 0,850 0,914 INVO3 0,645 0,627 0,812 0,802 0,885 Legenda: SCGDIAG = Uso do Sistema de Controle Diagnóstico; SCGINT = Uso do Sistema de Controle Interativo; LIDC = Liderança em Custo s; DIF = Diferenciação; INOV = Desempenho da Inovação de Produto .
+Verifica -se na Tabela 5, que os valores apontados satisfazem o pré -requisito discutido por Chin (1998), quanto a apresentação de valores superiores a 0,70.
+Para a continuidade da validação do modelo estrutural , na Tabela 6 apresenta m-se os itens do construto pelo critério de Fornell e Larcker (1981) , onde "compara -se as raízes quadradas dos valores das AVEs de cada constructo com as correlações (de Pearson) entre os constructos (ou variáveis latentes).
+As raízes quadradas das AVEs devem ser maiores que as correlações entre os dos constructos" ( Ringle , Silva , & Bido , 2014, p. 65) , além d o Fator de Inflação de Variância (VIF) , para identificar possíveis problemas de multicolinearidade entre os construtos.
+Verifica -se na Tabela 6 que os VIF se mostraram inferiores a 10 como recomendado Fávero et al, (2009) e Gujarati (2011), o que indica ausência de multicolinearidade entre as variáveis analisadas .
+(2009, p. 151), o Fator de Inflação de Variância (VIF) é um "indicador do efeito que as outras variáveis independentes têm sobre o erro padrão de um coeficiente de regressão.
+Valores VIF altos também indicam um alto grau de colinearidade ou multicolinearidade entre as variáveis independentes".
+Elementos dos construtos mostraram -se conflituosos, pois em alguns casos a s raízes quadradas das AVEs não foram maiores que as correlações entre os dos construtos .
+Assim, seguindo as recomendações de Ringle, Silva e Bido (2014) e de Hair Jr .
+(2014), excluíram -se assertivas do modelo, uma a uma, de modo a conferir maior adequação ao modelo.
+As assertivas excluídas são: 98 INFLUÊN CIA DO USO DO SISTEMA DE CONTROLE GERENCIAL E DA ESTRATÉGIA ORGANIZACIONAL NO DESEMPENHO DA INOVAÇÃO Revista Universo Contábil, ISSN 1809 -3337, FURB, Blumenau, v. 15, n. 1, p. 85 -105, jan./mar., 2019 (i) N ível de novidade (inovação) dos novos produtos da nossa empresa; (ii) Realização de eficiências operacionais (saída máxima para determinado nível de consumo); (iii) O sistema de controle proporciona flexibilidade para os gestores responderem à novas e imprevistas oportunidades; (iv) Previsões preparadas por analistas (por exemplo, demanda do mercado, melhorias tecnológicas, regulamentação governamental, ações dos concorrentes); (v) Estimativas de probabilidade (por exemplo, relatórios de cenários pessimista, provável e otimista); (vi) Acompanhamento da tendência entre os resultados do último período e os resultados do período corrente.
+Tabela 6 - Critério de Fornell e Larcker e VIF Antes da adequa ção do Modelo Variáveis DIF INOV LIDC SCGDIAG SCGINT VIF DIF 0,891 6,464 INOV 0,881 0,831 LIDC 0,919 0,863 0,874 6,464 SCGDIAG 0,687 0,672 0,728 0,967 5,465 SCGINT 0,664 0,693 0,697 0,904 0,943 5,465 Após a adequação do Modelo Variáveis DIF INOV LIDC SCGDIAG SCGINT VIF DIF 0,888 3,949 INOV 0,849 0,925 3,949 LIDC 0,864 0,860 0,884 SCGDIAG 0,675 0,678 0,715 0,967 5,468 SCGINT 0,641 0,685 0,676 0,904 0,943 5,468 Legenda: SCGDIAG = Uso do Sistema de Controle Diagnóstico; SCGINT = Uso do Sistema de Controle Interativo; LIDC = Liderança em Custo s; DIF = Diferenciação; INOV = Desempenho da Inovação de Produto; VIF = Fator de Inflação de Variância .
+Após a análise dos elementos que consistem n a validade discriminante encerra -se a validação do modelo .
+Assim, as forma s de mensuração elencadas são capazes de predizer se realmente a estratégia organizacional mostra -se como uma intensificadora da relação entre uso do SCG e desempenho da inovação .
+Por fim, a s medidas elencadas permitem inferir que o modelo proposto mostra -se adequado para análise em formato estrutural, via bootstrapping .
+4.3 Modelo Estrutural e A nálise da Hipótese A partir da avaliação estrutural do modelo pode -se tomar uma decisão quanto a s hipótese s de pesquisa.
+A análise da mediação d eu-se pelos coeficientes de caminhos, como preconizado por Baron e Kenny (1986), a partir de três condições.
+Dessa forma, o process o de avaliação do modelo estrutural desta pesquisa inicia -se com as duas primeiras condições de Baron e Kenny, (1986, p. 1176) : se "(A) as variações nos níveis da variável independente afetam significativamente as variações do mediador presumido" ; e "(B) a s variações do (possível) mediador afetam significativamente as variações da variável dependente".
+Na Tabela 7 apresenta m-se os coeficientes de caminho dos efeitos diretos e suas significâncias, o que possibilita a avaliação das duas primeiras condições pa ra a existência de mediação.
+Observa -se na Tabela 7, que todos os efeitos diretos do caminho mediador são significantes, fato que possibilita o atendimento das condições (A) e (B) propostas por Baron e Kenny, (1986).
+Quanto as hipóteses elencadas, os resultados suportam a H1, que o uso do sistema de controle gerencial nas dimensões diagnóstica e interativa intensifica positivamente a s estratégia s de liderança em custos e de diferenciação .
+Macintosh (1994) e Kober, Ng e Paul (2007) oferecem uma discussão a respeito do papel do SCG no desenvolvimento da estratégia.
+Nesse aspecto, os achados, quanto a H1, em termos de influência do Uso do SCG nas estratégias de liderança em custos e de diferenciação, alinha -se a proposta de tais autores, à medida que o uso diagnóstico e o uso interativo do SCG exerce efeito positivo e significativo na construção da estratégia nas empresas da amostra.
+Pela interação da 99 Iago França Lopes, Ilse Maria Beuren, Tayse Gomes Revista Universo Contábil, ISSN 1809 -3337, FURB, Blumenau, v. 15, n. 1, p. 85 -105, jan./mar., 201 9 organização e seu ambiente, o uso do SCG pode facilitar o desenvolvimen to e aperfeiçoamento da estratégia.
+Tabela 7 - Condições A e B do processo de avaliação do modelo estrutural Caminhos Caminho Coeficiente Erro Estatística T p-valor Hipótese Decisão A → B SCGDIAG → LIDC 0,543 0,156 3,479 0,001 *** H1 Não é possível rejeitar H1 SCGINT → LIDC 0,679 0,054 12,608 0,000*** SCGDIAG → DIF 0,483 0,172 2,813 0,005 *** SCGINT → DIF 0,637 0,060 10,656 0,000** * B → C LIDC → INOV 0,425 0,094 4,532 0,000 *** H2 Não é possível rejeitar H2 DIF → INOV 0,538 0,105 5,148 0,000*** Nota: Nível de significância a ***1% Legenda: SCGDIAG = Uso do Sistema de Controle Diagnóstico; SCGINT = Uso do Sistema de Controle Interativo; LIDC = Liderança em Custo s; DIF = Diferenciação; INOV = Desempenho da Inovação de Produto .
+Os resultados também estão alinhados com os de Acquaah (2013), à medida que o uso diagnóstico do SCG co ntribui para o desenvolvimento e aperfeiçoamento da estratégia de liderança em custo s e o uso interativo do SCG possui características capazes para influencia r a estratégia de diferenciação.
+Do ponto de vista da prática gerencial, os resultados reforçam o papel d o SCG na condução da estratégia das empresas com foco na inovação e tecnologia.
+O uso diagnóstico e interativo do SCG fornece mecanismos que conduz em o processo de reporte de informaç ões aos gestores , possibilitando benchmark das ações organizacionais e id entificação dos fatores críticos de sucesso ( WIDENER, 2007) , além de possibilita r a intervenção da alta gerência nas atividades organizacionais por meio do debate e da proposição de planos de ações ( SIMONS , 1990).
+Os resultados advindos de empresas inovadoras ampliam a discussão a respeito da bidirecionalidade da associação entre SCG e estratégia empresarial, tanto na liderança em custo com na diferenciação ( Macintosh, 1994; Beuren, & Oro, 2014; Davila, Foster, & Jia, 2015; Frezatti et al., 2017).
+Aqui faz-se uma chamada para futuras pesquisas, quais os antecedentes em termos de caracte rísticas organizacionais que culminam para tal cenário.
+Pesquisas ilustram a dependência de recursos para o desenvolvimento da atividade inovadora, fato que insere um elemento controlador no ambiente de inovação e que possivelmente esteja presente na direc ionalidade identificada nesta pesquisa.
+Alinhado a pesquisa de Davila, Foste r e Jia (2015) , esta pesquisa evidencia também que o uso do SCG facilita a condução da estratégia organizacional.
+Tal fato mostra que as informações advindas do SCG contribuem par a a implementação e estabelecimento da estratégia.
+Em termos práticos, conduzir a s estratégia s de liderança em custo s e de diferenciação requer um acompanhamento contínuo com informaç ões de modo equilibrado.
+Como a pesquisa investiga empresas inovadoras, aqui reforça -se os pilares da pesquisa que defende m a necessidade de um SCG para a intensificação do processo inovador e estratégico ( Bisbe , Otley , 2004; Davila , Foster , & Li, 2009; Beure n, & Oro, 2014; Utzig , & Beuren , 2014; Beuren , & Zonatto , 2015; Davila , Foster , & Jia, 2015).
+Os resultados da investigação também suportam a hipótese H2, que a estratégia de liderança em custo s e de diferenciação intensificam positivamente no desempenho da inovação.
+Dessa forma, os resultados desta investigação alinham -se aos de pesquisas anteriores ( Ireland et al, 2001; Kafouros et al., 2008 ; Beuren, & Oro, 2014).
+Beuren e Oro (2014) constatara m que a estratégia de diferenciação exerce efeito positivo sobre a inovação de produtos.
+Com os resultados desta pesquisa, avança -se na discussão, uma vez que para as empresas da amostra esta relação foi significativa, e ainda, a estratégia de liderança em custos indicou influência significativa e positiva sobre a inovação.
+Isso sugere que antes de realizar investimentos em inovação, as empresas precisam definir a estratégia para explorar seus novos desenvolvimentos em uma ampla gama de mercados ( Kafouros et al., 2008).
+Dessa forma, a orientação estratégia escolhida pelas organizações inovadoras conduzem ao 100 INFLUÊN CIA DO USO DO SISTEMA DE CONTROLE GERENCIAL E DA ESTRATÉGIA ORGANIZACIONAL NO DESEMPENHO DA INOVAÇÃO Revista Universo Contábil, ISSN 1809 -3337, FURB, Blumenau, v. 15, n. 1, p. 85 -105, jan./mar., 2019 desempenho da inovação desejado.
+Assim, é possível " avaliar as característ icas da inovação como resultado da orientação estratégica da empresa e com o determinantes do novo produto e do desempenho comercial " (Gatignon, & Xuereb , 1997, p. 88) .
+Com base nas reflexões de Aguiar (2018), os resultados dessa pesquisa abrem p erspectiva s para vislumbrar o entendimento d as múltipl as facetas organizacionais.
+De um lado , os desenvolvedores da estratégia visam maximizar a permanência da organização p ela obtenção da vantagem competitiva , de outro lado, os desenvolvedores da inovação têm a capacidade técnica de satisfazer a necessidade humana por novos produto s ou processo s. Os resultados também apresentam que a informação pode ser utilizad a para diagnosticar a efetividade das escolhas estratégicas dos gestores, uma vez que as suas decisões podem ser confirmadas p elo desempenho da inovação apresentado pela organização ( Langfield -Smith , 1997 ).
+Conforme destacado por Baron e Kenny (1986) , a condição "c" é atendida quando há interveniência da variável mediadora entre a variável depende nte e a independente a partir da diminuição ou inexistência de efeitos diretos significativos.
+Nessa conjuntura, se a inclusão da variável mediadora reduzir o caminho entre a variável independente e a variável dependente a zero, pode -se afirmar a existênci a da mediação completa.
+Por outro lado, caso este efeito apresente apenas diminuição , é considerada mediação parcial.
+Na Tabela 8 são expostos os coeficientes de caminho do modelo estrutural e da avaliação da mediação.
+Tabela 8 - Coeficientes de caminhos e avaliação da mediação A → C Modelo sem mediação Modelo com mediação da Estratégia Organizacional Aceitação da Mediação Efeito Efeito Direto Efeito Indireto Efeito Total Efeito Med.
+% SCGDIAG → INOV 0,247* -0,164*** -65,60 0,414 165,60 0,250 - Não identificada SCGINT → INOV 0,468*** 0,279*** 59,87 0,187 40,13 0,466** +40,13 Parcial Construto R² - Modelo sem mediação R² - Modelo com mediação LIDC1 Não ocorrência 0,540** DIF1 Não ocorrência 0,484** INOV3 0,489** 0,807** Goodness -of-Fit 0,649 0,708 Nota: Nível de significância a ***1%; ** 5%; e * 10% .
+Legenda : SCGDIAG = Uso do Sistema de Controle Diagnóstico; SCGINT = Uso do Sistema de Controle Interativo; LIDC = Liderança em Custo s; DIF = Diferenciação; INOV = Desempenho da Inovação de Produto .
+O modelo estrutural destacado na Tabela 8 é oriundo do processo de bootstrapping (n=1000, com reposição) .
+Assim, são observados o modelo sem mediação e o modelo com mediação , o qual considera a estratégia organizacional como variável interveniente da relação entre uso do SCG , nas suas dimensões Controle Diagnóstic o e Controle Interati vo com o Desempenho da Inovação.
+Observa -se no Modelo com mediação um R² alto (0,807), o que representa uma elevada capacidade de predição do modelo ( Hair Jr .
+Não há um R² ideal, mas em pesquisas sobre comportamento do consumidor um R² de 0,20 é considerado alto.
+Nas Ciências Sociais Aplicadas , Cohen (1988) recomenda que "R2=2% seja classificado como efeito pequeno, R2=13% como efeito médio e R2=26% como efeito grande" ( Ringle , Silva , & Bido , 2014, p. 72).
+Assim, o modelo de mensuração testado quanto a suas medidas e frente aos elementos mediadores adotados – estratégia de diferenciação e liderança em custo s – denota um elevado poder de predição do modelo .
+A partir do efeito mediador obs ervado na relação testada, não se pode rejeitar a hipótese H3, de que a relação entre o uso do SCG nas dimensões diagnóstica e interativa e o desempenho da inovação é intensificada positivamente pela estratégia organizacional .
+Fato este que se alinha a os argumentos de Baines e Langfield -Smith (2003), que não há rela ção direta que liga o design da organização, tecnologia e os Sistema de Avaliação de Desempenho.
+As mudanças nesses fatores assemelham -se a uma resposta unicamente às mudanças na ênfase estratégica .
+101 Iago França Lopes, Ilse Maria Beuren, Tayse Gomes Revista Universo Contábil, ISSN 1809 -3337, FURB, Blumenau, v. 15, n. 1, p. 85 -105, jan./mar., 201 9 Na relação entre sistema de controle diagnóstico e desempenho da inovação , o efeito total do modelo com media ção (que considera as relações diretas e indiretas) não apresentou significância .
+O fato do efeito total da relação não apresenta r significância impossibilita a aceitação de mediação completa na relação .
+Contudo, cabe destacar que em ambos os modelos, sem e com mediação , há significância na relação direta entre sistema de controle diagnóstico e desempenho da ino vação , o que oportuniza pesquisas a respeito desta interação .
+A relação entre sistema de controle interativo e desempenho da inovaçã o é mediada em 40,13% pelas variáveis de estratégia organizacional, discutidas nesta pesquisa , a partir da liderança em custos e de diferenciação , visto que houve diminuição significante do efeito direto ao comparar o modelo sem mediação e com media ção, e ao verificar a existência de significância nos efeitos totais .
+Este indicador de mediação revela que , na configuração entre o uso do SCG e o desempenho da inovação , 40,13% dos resultados positivos advindos dessa relação são explicados pela interveniência da estratégia organizacional.
+Este resultado era esperado, à medida em que o perfil das empresas investigad as demanda controle de cunho interativo.
+A criação de um ambiente propício para o desenvolvimento de novos e/ou aprimorados produtos demanda o uso de controles que recepcionem de modo positivo as incertezas ambientais ( Simons , 1990).
+Assim, tanto os elementos presentes no controle interativo operacionalizados por Henri (2006) e os reflexos destes no desempenho da inovação, ganham maior intensidade quando as escolhas estratégicas alinham -se a tal relação de modo interveni ente.
+A estratégia organizacional representa o alicerce na relação entre o SCG , na sua dimensão interativa , e o desempenho da inovação.
+A priori , o ambiente de incerteza onde as organizações com foco em inovação e tecnologia estão i nseridas , como é o caso das empresas participantes deste estudo , requer atenção.
+Neste caso, a mediação apenas foi constatada para a relação entre SCG na sua dimensão interativa e o desempenho da inovação , justifica do pelo perfil das empresas selecionadas .
+Tais re sultados demandam investigar em que medida em outros perfis organizacionais estes resultados se replicam.
+Acquaah (2013 ) indica que o uso interativo do SCG influencia a estratégia de diferenciação e, consequentemente , o desempenho, ou seja, a estratégia atua como mediadora da relação preconizada pelos autores.
+Assim, nesta pesquisa há alinhamento com os achados de Acquaah (2013), visto a necessidade de considerar a estratégia como um elemento proativo na relação entre SCG e desempenho da inovação.
+Depreende -se o valor das informações previstas nas alavancas de uso do SCG.
+O uso interativo do SCG para a estratégia de diferenciação garante que as ações organizacionais sejam realizadas de modo flexível , além de prepara r a organização para o ambiente de incerteza ( Henri , 2006; Widener , 2007) e acompanhar as mudanças mercadológicas e as ações dos concorrentes.
+Nesse escopo, as características distintivas do desempenho da inovação recebem potencialmente influência da estratég ia de diferenciação , quando adotada pelas organizações ( Abernethy, & Brownell , 1997) .
+A estratégia de liderança em custo s focaliza -se no uso dos recursos organizacionais de modo eficiente.
+Neste escopo, o resultado entre o uso interativo do SCG e a estratégia de liderança em custos resulta no desenvolvimento de ideias.
+Esse a rgumento encontra sustentação em Henri, (2006) e Kober, Ng e Paul (2007).
+Nesse ensejo, a liderança em custo s, mesmo em organizações com foco na inovação e tecnologia , é influenciada pelo uso interativo dos SCG .
+A estratégia de liderança em custos , por sua vez, contribui para o desempenho da inovação , principalmente por meio da redução dos recursos aplicados em PD&I, promovendo , assim, a manutenção da importância dos recursos financeiros no ambiente organizacional ( Henri, 2006; Kober, Ng, & Paul , 2007).
+5 CONCLU SÕES Este estudo buscou verificar a influência do uso do SCG no desempenho da inovação mediado pela estratégia organizaciona l em empresas b rasileiras com perfil inovador .
+De modo geral, os 102 INFLUÊN CIA DO USO DO SISTEMA DE CONTROLE GERENCIAL E DA ESTRATÉGIA ORGANIZACIONAL NO DESEMPENHO DA INOVAÇÃO Revista Universo Contábil, ISSN 1809 -3337, FURB, Blumenau, v. 15, n. 1, p. 85 -105, jan./mar., 2019 resultados elucidam os precedentes do desempenho da inovação, uma vez que evidencia m que o uso do SCG e as estratégicas organizacionais fornecem subsídios positivos para o desempenho da inovação.
+A s estratégia s de liderança em custos e de diferenciação mostr aram -se mediadora s da relação analisad a, explica ndo 40,13% do desempenho da inovação.
+A relação entre uso interativo do SCG e desempenho da inovação recebe maior influência quando mediad a pela estratégia organizaciona l. O desempenho da inovação é um consequente principalm ente da relação do SCG e da estratégia adotada pela organização inovadora .
+O uso interativo do SCG pode assumir papel proativo na influência do desempenho da inovação, e tal relação recebe maior influ ência quando alinhada à estratégia da organização, seja na liderança em custo s ou na diferenciação.
+É necessário que os gestores se aten tem às característica s de cada estratégia .
+Quando adotada a primeira, o foco está na econ omia de recursos e o desempenho da inovação dar-se-á com preocupações voltadas para o custo e a eficiência dos recursos.
+Já quando adota da a segunda , a ênfase está n a maior aproximação com os clientes , com vistas em garantir a qualidade e segurança do produto ou serviço que está sendo ofertado , além d e forn ecer maior motivação aos funcionários no alcance dos objetivos organizacionais.
+A partir d os resultados da pesquisa , conclui -se que a relação entre o uso do SCG na sua dimensão interativa e o desempenho da inovação é mediad a pelas estratégia s de liderança em custos e de diferenciação.
+Este resultado fornece implicações práticas para as organizações analisadas e para o campo das empresas com foco em inovação e tecnologia.
+Os gestores dessas organizações , ao tomarem decisões devem atentar -se às característic as do uso do SCG e da estratégia adotada.
+As organizações inovadoras , independente da estratégia adotada , devem fazer o uso interativo do SCG conforme os resultados da pesquisa, já que esse atua como vigilante no ambiente de mudanças e incertezas e por vezes consegu e contribuir para a intensificação do desempenho da inovaç ão No entanto, ressalta -se que o s resultados desta pesquisa pautam -se nas empresas com foco em inovação e processos tecnológicos pesquisado , o que não permite generalizações.
+Esta pesquisa teve como foco conhecer a capacidade da estratégia organizacional atuar como mediadora d a relaç ão entre o uso do SCG e o desempenho da inovação .
+Portanto, outras variáveis podem contribuir para explicar possíveis influências , dado o poder expli cativo encontrado do efeito mediador na relação analisada .
+Outro fator limitante são os valores de VIF , uma vez que se adotou como ponto de referência valores inferiores a 10, visto que se explora um campo sensível, que envolve estratégia organizacional, sistemas de controle gerencial e desempenho da inovação, o que em outras pesquisas pode ser questionado.
+Vale ressaltar que as limitações apontadas e os resultados encontrados proporcionam oportunidade s para o campo de pesquisa.
+A posiçã o do SCG nas relações testadas questiona o campo teórico -empírico, envolvendo a relação entre o SCG e a estratégia organizacional ( Macintosh, 1994 ; Langfield -Smith, 1997; Beuren, & Oro, 2014 ).
+Pesquisas futuras podem direcion ar esforços para transcend er os aspectos one-way, e buscar literatura que indique a bidirecionalidade da estratégia organizacional no campo da pesquisa e das empresas.
+Indiretamente, esta primeira consideração mostra -se como inovadora para o campo de pesquisa no ambiente brasileiro, à medida que os estudos têm envidado esforços apenas para o reconhecimento de uma relação unidirecional.
+Explorar a estratégia organizacional como uma consequente do SCG instiga ria a verificação do papel das decisões dos gestores no ambiente organizacional.
+A literatura dispõe de discussões que colocam a estratégia organizacional nesta posição (Acquaah , 2013) .
+Desse modo, os resultados deste estudo reforçam a necessidade de considerar este posicionamento, na medida em que para os gestores há implicações no que concerne à maximização das atividades de inovação no ambiente organizacional, em termos de custos dos processos de PD&I e da personalização na oferta de seus produtos e serviços ao mercado.
+No modelo desta pesquisa, a variável estratégia foi considerada c omo um elemento que pode ser mensurado de modo simultâneo, tanto a estratégia de liderança em custos como a estratégia de 103 Iago França Lopes, Ilse Maria Beuren, Tayse Gomes Revista Universo Contábil, ISSN 1809 -3337, FURB, Blumenau, v. 15, n. 1, p. 85 -105, jan./mar., 201 9 diferenciação.
+Recomenda -se para futuras pesquisas a segregação de ambas, com o propósito de verificar a forma como se configuram no m odelo.
+Do mesmo modo, recomenda -se que o desempenho de inovação seja segregado em inovação de produtos e de processos, a fim de verificar se a primeira forma está mais associada com a estratégia de diferenciação e a segunda com a estratégia de liderança em custos.
+REFERÊNCIAS Acquaah, M. (2013).
+Management control systems, business strategy and performance: A comparative analysis of family and non -family businesses in a transition economy in sub -Saharan Africa.
+Journal of Family Business Strategy, 4 (2), 131 -146.
+Dynamic Tensions from Management Control Systems and Performance in a Sub -Saharan African Economy: Mediating Effects of Competitive Strategy.
+Africa Journal of Management, 2 (4), 395 -421.
+O pequeno mundo da pesquisa em contabilidade gerencial no Brasil: discussão sobre desenhos alternativos de pesquisa.
+Revista de Contabilidade e Organizações, 12(33), 1-16.
+Amaro, H. D., Beuren, I. M., & Murro, E. V. B.
+Influência da folga orçamentária e da qualidade da informação no desempenho da inovação.
+In Anais Congresso ANPCONT (Vol.
+Arachchilage, K., Dilhani, N., & Smith, M. (2013).
+The Effects of the Diagn ostic and Interactive Use of Management Control Systems on the Strategy -Performance Relationship.
+Journal of Applied Management Accounting Research, 11 (1), 9-27.
+Baines, A., & Langfield -Smith, K. (2003).
+Antecedents to management accounting change: a struc tural equation approach.
+Accounting, Organizations and Society, 28 (7-8), 675 -698.
+Barbieri, J. C., & Álvares, A. C. T. (2003).
+Inovações nas organizações empresariais.
+Organizações Inovadoras: Estudos e Casos Brasileiros, 2 , 41-63.
+The moderator –mediator variable distinction in social psychological research: Conceptual, strategic, and statistical considerations.
+Journal of Personality and Social Psychology, 51 (6), 1173.
+Beuren, I. M., & Oro, I. M. (2014).
+Relação entre estratégia de diferenciação e inovação, e sistemas de controle gerencial.
+Revista de Administração Contemporânea, 18 (3), 285 -310.
+Beuren, I. M., & da Silva Zonatto , V. C. (2015).
+Relação entre Environmental Management Accounting e Inovação: aplicação do modelo teórico de Ferreira, Moulang e Hendro (2010) em empresas do Rio Grande do Sul.
+Revista de Ciências da Administração, 17 (41), 114 -129.
+Bisbe, J., & Otley, D. ( 2004).
+The effects of the interactive use of management control systems on product innovation.
+Accounting, Organizations and Society, 29 (8), 709 -737.
+Chenhall, R. H., & Morris, D. (1986).
+The impact of structure, environment, and interdependence on the perceived usefulness of management accounting systems.
+The Accounting Review , 61(1), 16-35.
+The partial least squares approach to structural equation modeling.
+Modern Methods for Business Research, 295 (2), 295 -336.
+Statistical power analysis for the behavioral sciences .
+The strategy‐performance link in product innovation.
+R&D Management, 14 (4), 247259.
+Davila, A., Foster, G., & Li, M. (2009).
+Reasons for management control systems adoption: Insights from product developm ent systems choice by early -stage entrepreneurial companies.
+Accounting, Organizations and Society, 34 (3-4), 322 -347.
+Davila, A., Foster, G., & Jia, N. (2015).
+The valuation of management control systems in start -up companies: international field -based evi dence.
+European Accounting Review, 24 (2), 207 -239.
+An empirical study on the drivers of management control systems' design in new product development.
+Accounting, Organizations and Society, 25 (4-5), 383 -409.
+Desafios gerenciais para o século XXI .
+Fávero, L. P. L., Belfiore, P. P., Silva, F. L. D., & Chan, B. L. (2009).
+Análise de Dados: modelagem multivariada para tomada de decisões.
+Rio de Janeiro: Elsevier, Campus.
+Ferreira, A., & Otley, D. (2009).
+The design and use of performance management systems: An extended framework for analysis.
+Management Accounting Research, 20 (4), 263 -282.
+104 INFLUÊN CIA DO USO DO SISTEMA DE CONTROLE GERENCIAL E DA ESTRATÉGIA ORGANIZACIONAL NO DESEMPENHO DA INOVAÇÃO Revista Universo Contábil, ISSN 1809 -3337, FURB, Blumenau, v. 15, n. 1, p. 85 -105, jan./mar., 2019 Fornell, C., & Larcker, D. F. (1981).
+Structural equation models with unobservable variables and measurement error: Algebra and statistics.
+Journal of Marketing Research , 18(3), 382 -388.
+Frezatti, F., Bido, D. S., Cruz, A. P. C., Barroso, M. F. G., & Machado, M. J. C. (2013).
+Investment decisions on long -term assets: Integrating strategic and financial perspectives.
+European Accounting Review, 22 (2), 297 -336.
+Frezatti, F., Bido, D. D. S., Cruz, A. P. C. D., & Machado, M. J. C. (2017).
+Impacts of Interactive and Diagnostic Contr ol System Use on the Innovation Process.
+BAR -Brazilian Administration Review, 14(3).
+Furtado, A. , Quadros, R ., Domingues, S. A. , Camillo, E. , Inácio Jr. E. , & Righetti, S. IBI: O ranking das empresas.
+Gatignon, H., & Xuereb, J. M. (1997).
+Strategic orientation of the firm and new product performance.
+Journal of Marketing Research, 34 (1), 77 -90.
+Hair, J. F., Black, W. C., Babin , B. J., Anderson, R. E., & Tatham, R. L. (2009).
+Análise Multivariada de Dados .
+Hair Jr., J. F. , Hult, G. T. M. , Ringle, C. M. , & Sarstedt, M. (2014).
+A primer on partial least squares structural equation modeling (PLS -SEM) .
+Heinicke, A. , Guenther, T. W. , & Widener, S. K. (2016).
+An examination of the relationship between the extent of a flexible culture and the levers of control system: The key role of beliefs control.
+Management Accounting Research , 33(1), 25-41.
+Management control systems and strategy: A resource -based perspective.
+Accounting, Organizations and Society , 31(6), 529 -558.
+Ireland, R. D. , Hitt, M. A. , Camp, S. M. , Sexton, D. L .
+Integrating entrepreneurship and strategic management actions to create firm wealth.
+The Academy of Management Executive , 15(1), 49-63.
+Process analysis: Estimating mediation in treatment evaluations.
+Evaluation Review , 5(5), 602 -619.
+Kafouros, M. I. , Buckley, P. J. , Sharp, J.
+The role of internationalization in explaining innovation performance.
+Kober, R. , Ng, J. , & Paul, B. J.
+The interrelationship between management control mechanisms and strategy.
+Management Accounting Research , 18(4), 425 -452.
+-M., Speklé, R. F. , & Widener, S. K. (2016).
+The Levers of Control Framework: An exploratory analysis of balance.
+Management Accounting Research , 32, 27 -44.
+Management control systems and strategy: A critical review.
+Accounting, Organizations and Society , 22(2), 207 -232.
+Lopes, I. F., Beuren, I. M. (2016).
+Evidenc iação da inovação no relatório da ad ministração: Uma análise na perspectiva da Lei do Bem (Lei Nº.
+Perspectivas em Gestão & Conhecimento , 6(1), 109-127.
+Management accounting and control systems : An organizational and behavioral approach.
+Management control systems and their effects on strategy formation at middle‐ management levels: evidence from a UK organization.
+Strategic Management Jo urnal , 23(11), 1019 -1031.
+Nonaka, I. , Takeuchi, H. (1995).
+The knowledge -creating company: How Japanese companies create the dynamics of innovation .
+New York: Oxford university press.
+O'Connor, N. G., Vera -Muñoz , S. C., Chan, F. (2011).
+Competitive forces and the importance of management control systems in emerging -economy firms: The moderating effect of international market orientation.
+Accounting, Organizations and Society , 36(4-5), 246 -266.
+Performance management: A framework for management control systems research.
+Management Accounting Research , 10(4), 363 -382.
+Oyadomari, J. C. T. , Cardoso, R. L. , Silva, B. O. T., & Perez, G. (2010).
+Sistemas de controle gerencial: Estudo de caso comparativo em empresas inovadoras no Brasil.
+Revista Universo Contábil , 6(4), 2134.
+Pletsch, C. S. , Lavarda, C. E. F. (2016).
+Uso das alavancas de controle de Simons (1995) na gestão de uma cooperativa agroindustrial .
+Revista de Contabilidade e Organizações , 10(28), 18-31.
+105 Iago França Lopes, Ilse Maria Beuren, Tayse Gomes Revista Universo Contábil, ISSN 1809 -3337, FURB, Blumenau, v. 15, n. 1, p. 85 -105, jan./mar., 201 9 Porter, M. E., Van der Linde, C. (1995).
+Toward a new conception of the environment -competitiveness relationship.
+Journal of Economic Perspectives , 9(4), 97-118.
+Ringle, C. M. , Silva, D. , Bido, D. S. (2014).
+Modelagem de equações estruturais com utilização do SmartPLS.
+Schaltegger, S. , Burritt, R. L. (2010).
+Sustainability accounting for companies: Catchphrase or decision support for business leaders?
+Journal of World Business , 45(4), 375 -384.
+Accounting control systems and business strategy: an empiri cal analysis.
+Accounting, Organizations and Society , 12(4), 357 -374.
+Boston, MA: Harvard Business School Publishing.
+The role of management control systems in creating competitive advantage: new perspectives.
+Accounting, Organizations and Society , 15(1-2), 127 -143.
+Performance measurement and control systems for implementing strategy .
+Upper Saddle River, NJ: Prentice Hall.
+Utzig , M. J. S., Beuren, I. M. (2014).
+Relação entre uso interativo do sistema de controle gerencial e diferentes modelos de gestão de inovação.
+Revista de Administração e Inovação , 11(4), 260 -286.
+Moderação, mediação, moderado ra-mediadora e efeitos indiretos em modelagem de equações estruturais: uma aplicação no modelo de desconfirmação de expectativas.
+Revista de Administração , 44(1), 17-33.
+An empirical analysis of the levers of control framework.
+Accounting, Organizations and Society , 32(7-8), 757 -788.
+Yang, M. -L., Wang, A. M. -L., Cheng, K. -C. (2009).
+The impact of quality of IS information and budget slack on innovation performance.
+Technovation , 29(8), 527 -536.

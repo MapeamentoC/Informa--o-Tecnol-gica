@@ -1,0 +1,415 @@
+ISSN: 2318 -6356 DOI: 10.29069/forscience.20 19v7n2.e 608 Recebido em: 10/12/2018 Aprovado em: 21/05/2019 Publicado em: 0 9/12/2019 ForSci.
+IFMG, Formiga, v. 7, n. 2, e00 608, jul./dez.
+2019 ARTIGO BALANCED SCORECARD COMO APOIO À GESTÃO ESTRATÉGICA DE UMA UNIDADE DE INSTITUTO FEDERAL DE EDUCAÇÃO TECNOLÓGICA1 Marina Gomes Murta Moreno2 Cassio Henrique Garcia Costa Geraldo Tessarini Junior RESUMO Esta pesquisa tem o objetivo de propor um mo delo de Gestão Estratégica (GE) para uma unidade (campus ) de um Instituto Federal de Educação, Ciência e Tecnologia (IF), formalizando -o por meio da adaptação do Balanced Scorecard (BSC).
+O estudo de caso baseou -se na coleta de dados pela aplicação da técn ica de grupos focais, sendo as informações obtidas interpretadas qualitativamente pela atuação de um grupo de trabalho (GT) multidisciplinar.
+Através da construção e da proposição participativa e descentralizada de um BSC alternativo em uma organização púb lica, contribui -se para a redução de lacunas relacionadas à : i) resistência e ausência de inserção da comunidade acadêmica no processo de GE; e ii) utilização do BSC em IFs.
+Evidenciaram -se: i) a participação mais ativa d e diversos membros organizacionais no processo de diagnóstico organizacional e de estruturação do modelo, buscando -se a sua efetiva legitimação; ii) a definição de estratégias organizacionais para a sistematização do Planejamento Estratégico (PE) ; e iii) a estruturação de um modelo de GE ad equado às singularidades da instituição, consolidado pelo BSC.
+A nova arquitetura do BSC pode ser replicada a outras instituições de ensino similares, de modo a proporcionar estudos comparativos para verifica ção de sua validade externa.
+Esta pesquisa també m reduz omissões da literatura sobre GE em IFs, detalhando o processo de elaboração de práticas estratégicas para a melhoria do desempenho organizacional.
+Palavras -chave : Gestão E stratégica .
+Instituto Federal de Educação, Ciência e Tecnologia.
+1 INTRODUÇÃO O Balanced Scorecard (BSC ) figura -se entre um a das mais conhecidas e difundidas ferramentas de Gestão Estratégica (GE).
+Traduz a estratégia de negócios em objetivos estratégicos específicos, desdobrado s em quatro perspectivas clássicas : financeir a, clientes, processos internos , aprendizado e crescimento ( KAPLAN ; NORTON , 1997).
+Sua importância como apoio ao processo de tomada de decisão é relevante, já que converte o Planejamento 1MORENO, Marina Gomes Murta; COSTA, Cassio Henrique Garcia; TESSARINI JUNIOR, Geraldo .
+Balanced scorecard como apoio à gestão estratégica de uma unidade de Instituto Feder al de Educação Tecnológica.
+ForScience: revista científica do IFMG, Formiga, v. 7, n. 2, e00608, jul./dez.
+DOI: 10.29069/forscience.2019v7n2.e608.
+2 Autor para correspondência: Marina Gomes Murta Moreno , marina.murta@ifsuldeminas.edu.br MORENO, Marina Gomes Murta; COSTA, Cassio Henrique Garcia; TESSARINI JUNIOR, Geraldo .
+Balanced scorecard como apoio à gestão estratégica de uma unidade de Instituto Federal de Educação Tecnológica 2 ForSci.
+IFMG, Fo rmiga, v. 7, n. 2, e00 608, jul./dez.
+2019 Estratégico (PE) em ações , alinhando as atividades organizacionais à sua estratégia , por meio da medi ção de indicadores de desempenho e do gerencia mento de informações.
+Embora a utilização do BSC se dê com maior ênfase na iniciativa privada (HOQUE , 2014), essa ferramenta pode (e deve) ser adaptad a para organizações públicas ( KAPLAN ; NORTON, 1997; BOCCI, 2005) .
+Apesar de não atu arem sob a mesma lógica de competição presente no setor privado, essas organizações apresentam a análoga necessidade de consolidação de objetivos, valores e conh ecimentos em ações e estratégias que permitam um desempenho mais adequado ( RODRIGUES , 2015).
+Pertencentes à Administração Pública Federal, os Institutos Federais ( IFs) são autarquias vinculadas ao Ministério d a Educação (MEC), criadas pela I nstituição da R ede Federal de Educação Profissional, Científica e Tecnológica ( BRASIL , 2008).
+Desempenham importante papel para o desenvolvimento econômico e social, realiza ndo atividades científicas e tecnológicas.
+Diferem -se das Instituições de Ensino Superior (IES), d entre outras características, por ofertarem não somente educação superior , como também educação básica, profissional e tecnológica .
+Tal como as IES, são pluricurriculares e multicampi e contam com model os administrativos heterogêneos; porém, com autonomia administrativa.
+Os IFs também possuem, dentre as suas diversas ações diretivas, a exigência legal de elaboração do Plano de Desenvolvimento Institucional (PDI), o qual contempla o plano estratégico institucional (BRASIL , 2008).
+Apesar de ser um importante norteador de ações de longo prazo, o PDI ainda é identificado como de baixa eficácia, predominando a carência de instrumentos e de sistemas de gestão que permitam o alcance dos objetivos estrat égicos dessas I nstituições (SÁNCHES ; CAVALHEIRO, 2013; MARTINS , 2015).
+Estudos referentes à abordagem do BSC para os IFs são a inda emergentes e apontam que ele pode ser uma alternativa auxiliar aos processos estratégicos de gestão (OLIVEIRA, 2014; MARTINS, 2015; NEIS, 2017; TEIXEIRA, 2017 ), apesar da escassez de dados sobre os resultados de sua aplicação efetiva.
+A literatura sobre o tema revela ainda a predominância de uma concepção top down , ou seja, que prioriza o entendimento e as informações emergidas de lideranças para a construção dos modelos estratégicos.
+Entretanto, conforme Franco (1996), em organizações públicas, a identifi cação e a análise de explicações dos diversos indivíduos envolvidos nos processos organizacionais propicia m um processo democrático e descentralizado de formulação estratégica .
+Neste senti do, pode -se considerar uma formulação interativa da GE, induzida parcial mente pela direção institucional, numa abordagem top-down e que também emerge parcial mente do MORENO, Marina Gomes Murta; COSTA, Cassio Henrique Garcia; TESSARINI JUNIOR, Geraldo .
+Balanced scorecard como apoio à gestão estratégica de uma unidade de Instituto Federal de Educação Tecnológica 3 ForSci.
+IFMG, Fo rmiga, v. 7, n. 2, e00 608, jul./dez.
+2019 aprendizado de níveis hierárquicos mais baixos, num entendimento bottom -up (KIM ; STING; LOCH, 2014).
+A partir do exposto, levantam -se algumas questões: i) Quais adaptações são necessárias para que seja possível elaborar, propor e gerenciar um modelo de GE por meio do BSC para uma unidade de IF ?
+ii) É possível defini -lo contemplando -se outras pa rtes envolvidas, além da visão de suas lideranças ?
+Assim , a presente pesquisa te ve por objetivo propor um modelo de GE para uma unidade de um IF, por meio da utilização adaptada do BSC .
+Para tanto, oportunizou -se realizar, de forma colaborativa : i) o diagn óstico organizacional da unidade por meio da análise de seus pontos fortes e fracos, ameaças e oportunidades; ii) a elaboração do seu PE e; iii) o desenvolv imento de um BSC para a GE da unidade , ambos (ii e iii) com o subsídio do diagnóstico organizacional e da atuação de um GT multidisciplinar .
+2 REFERENCIAL TEÓRICO 2.1 Balanced Scorecard APLICADO A ORGANIZAÇÕES PÚBLICAS A utilização do BSC na administração pública ainda é considerada modesta em comparação ao setor privado ( HOQUE , 2014).
+Dentre os fator es críticos limitantes para a sua implantação , destaca -se a necessidade de apoio da alta gestão e de legitimação do modelo entre os servidores ( BERGUE, 2005; GALAS ; FORTE, 2005; CUNHA ; KRATZ, 2016 ).
+Além disso, a própria cultura e a estrutura organizaciona l encontrada em alguns órgãos, muitas vezes hierarquizada e inflexível, dificultam sua efetivação (GALAS ; FORTE, 2005; MARTINS, 2015; PINTO ; ANGIUS, 2015) .
+A literatura evidencia que, para a efetiva adequação do BSC aos propósitos de uma organização públic a, são necessárias adaptações na concepção de suas perspectivas, adequa ndo-as às suas singularidades (KAPLAN ; NORTON, 1997; BERGUE, 2005; BOCCI, 2005; GHELMAN, 2006 ).
+O sucesso financeiro não é considerado o principal objetivo organizacional, tampouco demo nstra o cumpri mento da missão organizacional (NIVEN, 2003; BOCCI, 2005 ), o qual é alcançado, essencialmente, pela satisfação dos clientes (NIVEN, 2003 ), ou seja, da sociedade.
+A perspectiva dos clientes passa, nesse caso, a ser o foco da s outras perspectiv as (KAPLAN; NORTON, 1997) e ocupa o topo da hierarquia no BSC ( NIVEN, 2003; GHELMAN, 2006 ).
+Ghelman (2006) destaca que, em organizações públicas, o bom andamento da MORENO, Marina Gomes Murta; COSTA, Cassio Henrique Garcia; TESSARINI JUNIOR, Geraldo .
+Balanced scorecard como apoio à gestão estratégica de uma unidade de Instituto Federal de Educação Tecnológica 4 ForSci.
+IFMG, Fo rmiga, v. 7, n. 2, e00 608, jul./dez.
+2019 perspectiva financeira impacta positivamente a perspectiva do crescimento e aprendizado organizacional.
+Essas duas perspectivas, por sua vez, conduzem a melhorias nos processos internos.
+As perspectivas crescimento e aprendizado organizacional e processos internos têm relação direta com a perspectiva clientes, já que uma organização com servidor es capacitados e motivados tende a levar à melhoria permanente de sua gestão, a processos eficientes e a clientes satisfeitos.
+Esse autor propõe o desdobramento da perspectiva de crescimento e aprendizado em outras duas: pessoas e modernização da administr ação, além da perspectiva financeira e orçamentária, em substituição à financeira .
+Busca -se um modelo de BSC para a gestão pública moderna, focada em resultados e orientada para o cidadão (GHELMAN, 2006) .
+2.2 Balanced Scorecard em Institutos Federais Para IFs, a GE e a sua operacionalização por meio do BSC podem ser importante s auxílio s, sobretudo frente à sua incipiente formação .
+São 38 IFs presentes em todos os Estados brasileiros, com mais de 640 campi em funcionamento, sendo que, entre 2003 e 2016, o MEC concretizou a construção de 500 novas unidades (MEC, 2016).
+Apesar de haver diversos exemplos de implementação de sucesso do BSC na área do ensino superior (NEIS, 2017), há características específicas que devem ser consideradas na definição d os seus planos e práticas estratégica s, diferenci ando -se, portanto, de IES .
+Com isso, visando -se a uma melhor compreen são do contexto estratégico de IFs, sintetizaram -se os estudos referentes à GE e ao uso do BSC encontrados na literatura (artigos, dissertações e t eses disponíveis em bases de dados de livre acesso ), conforme Quadro 1.
+Autor(es) Instituição Pesquisada Objetivo Conclusões Perspectivas adotadas Ribeiro (2010) IF do Rio Grande do Norte Analisar o enquadramento do PDI às perspectivas do BSC e o process o de tomada de decisão com base nos indicadores de desempenho da perspectiva financeira.
+Ainda que tenha sido possível o enquadramento das ações dispostas no PDI às perspectivas do BSC, evidencia -se que os indicadores não se vinculam diretamente às ações d o PDI, sendo, portanto, incapazes de medir o desempenho esperado.
+- Financeira - Clientes - Proc.
+Internos - Aprendizado e crescimento Santos et al.
+(2012) IF do Rio de Janeiro Apresentar a metodologia utilizada na implementação do PE.
+O modelo proposto d eve ser ajustado a cada organização e é fundamental a existência de uma estrutura "ad hoc" para acompanhar as atividades previstas no PE.
+- Missão - Operações - Governança - Recursos Heinzein IF de Santa Desenvolver uma proposta Há necessidade de - Cliente MORENO, Marina Gomes Murta; COSTA, Cassio Henrique Garcia; TESSARINI JUNIOR, Geraldo .
+Balanced scorecard como apoio à gestão estratégica de uma unidade de Instituto Federal de Educação Tecnológica 5 ForSci.
+IFMG, Fo rmiga, v. 7, n. 2, e00 608, jul./dez.
+2019 e Streich (2013) Catarina – Campus Jaraguá do Sul do BSC para a gestão estratégica dessa unidade.
+fortalecimento da cultura estratégica da instituição para a efetiva implementação do BSC.
+internos - Aprendizado e crescimento Araújo (2014) IF de Goiás Propor um modelo de BSC para a GE orçamentária e financeira da instituição.
+O BSC é de grande valia à gestão orçamentária, desde que sua efetiva implementação supere alguns desafios.
+- Financeira - Clientes - Proc.
+Internos - Aprendizad o e crescimento Canuto (2014) IF do Ceará Investigar de que modo o modelo de GE adotado se alinha às perspectivas do BSC.
+Verificou -se que o modelo de GE está parcialmente alinhado ao BSC, com uma priorização da perspectiva clientes (alunos).
+Evidencia -se a necessidade de melhor balanceamento da GE.
+- Financeira - Clientes - Proc.
+Internos - Aprendizado e crescimento Oliveira (2014) IF da Bahia Verificar se o BSC permite o alinhamento das diferentes diretivas estratégicas adotadas na instituição, visando à definição de uma estratégia única.
+Apesar de algumas lacunas existentes no planejamento e nos seus objetivos, o BSC permite o alinhamento das principais diretivas existentes, tais como o PDI.
+- Sociedade - Estudante - Proc.
+internos - Aprendizado e cresc imento - Financeira Santana (2014) IF da Bahia – Campus Valença Apresentar um modelo de aplicação do BSC.
+A adoção do modelo proposto traria um retorno benéfico à instituição, corroborando a necessidade de um PE a médio e longo prazo e uma reengenharia de processos.
+- Financeira - Clientes - Proc.
+Internos - Aprendizado e crescimento Martins (2015) Instituto Federal Goiano Analisar a adequação da utilização do BSC no monitoramento do PDI.
+Verificou -se que a elaboração do PDI a partir das perspectivas do B SC agregou clareza, objetividade e maior poder de comunicação à estratégia organizacional.
+- Missão - Visão de futuro - Sociedade - Proc.
+Internos - Pessoas e infraestrutura - Orçamento Menezes (2017) IF da Paraíba – Campus Picuí Propor um modelo de PE para a instituição através da utilização do BSC.
+O modelo construído é adequado à realidade da instituição e espera -se que sirva como ferramenta de auxílio à tomada de decisão.
+Entretanto , sua implementação depende da prévia apresentação à comunidade acadêmi ca, visando a sua legitimação.
+- Financeira e orçamentária - Pessoas - Modernização administrativa - Proc.
+internos - Clientes -Sociedade/ Cidadão Teixeira (2017) IF do Triângulo Mineiro Avaliar a implementação, eficácia e efetividade dos processos de PE e controle orçamentário no período de 2014 a 2016.
+Concluiu -se que a implementação do PE e controle orçamentário iniciou uma mudança na cultura organizacional da instituição, inclusive proporcionando uma nova visão de gestão com a inserção do BSC.
+- Socied ade - Alunos - Pessoas, infraestrutura e inovação - Proc.
+internos - Orçamentária e financeira Neis (2017) IF Sul -riograndense – Campus Venâncio Aires Propor o uso do BSC como ferramenta de subsídio às decisões e ao PE.
+Conclui -se que a utilização do BSC pela equipe de gestão do campus poderá auxiliar na identificação e na clareza quanto à missão e às estratégias organizacionais.
+- Financeira - Clientes - Proc.
+Internos - Aprendizado e crescimento Quadro 1 - Pesquisas científicas de GE e BSC para IFs Fonte: Elaborado p elos autores (2018).
+MORENO, Marina Gomes Murta; COSTA, Cassio Henrique Garcia; TESSARINI JUNIOR, Geraldo .
+Balanced scorecard como apoio à gestão estratégica de uma unidade de Instituto Federal de Educação Tecnológica 6 ForSci.
+IFMG, Fo rmiga, v. 7, n. 2, e00 608, jul./dez.
+2019 Os estudos empíricos sobre GE em IFs são ainda reduzidos.
+R evelam -se informações limitadas quanto aos fatores que sustentam ou motiva m a proposição de modelos de GE .
+(2012) , Santana (2014), Teixeira (2017) e Menezes (2017) citam a SWOT no processo de análise das variáveis ambientais para embasamento do s modelo s desenvolvido s. Enquanto Canuto (2010), Ribeiro (2010), Araújo (2014) , Santana (2014) e Neis (2017) conservam a s perspectivas clássica s do BSC, os demais trabalhos sugerem adaptaç ões nas perspectivas e na estrutura do BSC, para adequação às especificidades institu cionais .
+Em geral, as perspectivas adaptadas revelam preocupação com a finalidade institucional, com os clientes diretos ( sociedade ) e com os seus recursos.
+No entanto, somente os estudos de Heinzein e Streich (2013) , Martins (2015) e Menezes (2017) estruturam suas perspectivas baseando -as ou justificando -as a partir da literatura científica.
+Heinzein e Streich (2013) e Martins (2015) estabelecem seus modelos tendo como pon to de partida principal estudos para IES; já Menezes (2017) propõe um modelo partindo -se de Ghelman (2006) .
+Enquanto Heinzein e Streich (2013) não levam em consideração a perspectiva financeira , Menezes (2017) e Teixeira ( 2017) apresentam a perspectiva o rçamentária e financeira, evidenciando a dinâmica organizacional dos IFs: executam -se créditos orçamentários estabelecidos em lei e utilizam -se recursos financeiros visando -se atender às ações legais definidas.
+Heinzein e Streich (2013) e Martins (2015) cons ideram a perspectiva responsabilidade social e sociedade, em complemento e em substituição à perspectiva tradicional clientes , respectivamente .
+Neis (2017) aponta para a necessidade de se aprimorar metodologias de medição e de gestão d e desempenho instituc ional , sobretudo pelo risco de manutenção de IFs d evido à redução gradativa do montante de recursos desde o ano de 2014 , e aponta o BSC como alternativa .
+No entanto, são poucos os modelos efetivamente implantados, como os de Santos et al.
+(2012), Martins ( 2015) e Teixeira (2017).
+Como principais barreiras para a execução de modelos de BSC para IFs , evidenciamse: resistência interna (ARAÚJO, 2014; SANTANA, 2014); necessidade de aprovação pela alta gestão ( ARAÚJO , 2014); falta de legitimação junto à comunid ade ( MENEZES , 2017); ausência de cultura estratégica ( HEINZEIN ; STREICH , 2013); importância de haver pessoal capacitado e/ou treinamentos para a aplicação e acompanhamento do BSC ( SANTOS et al.
+, 2012; ARAÚJO, 2014; TEIXEIRA 2017 ).
+Quanto à inserção da comu nidade acadêmica no processo de estruturação do PE, embora se contemple a sua participação, ela ocorre essencialmente por meio de entrevistas MORENO, Marina Gomes Murta; COSTA, Cassio Henrique Garcia; TESSARINI JUNIOR, Geraldo .
+Balanced scorecard como apoio à gestão estratégica de uma unidade de Instituto Federal de Educação Tecnológica 7 ForSci.
+IFMG, Fo rmiga, v. 7, n. 2, e00 608, jul./dez.
+2019 e/ou questionários direcionad os a ocupantes de cargos de gestão, com exceção aos trabalhos de Teixeira (2017) , em que há relato de envolvimento d a comunidade na elaboração do PDI e, Menezes (2017), que envolve docentes, disc entes, técnicos administrativos e gestores na etapa de validação de dados , posterior mente ao diagnóstico organizacional .
+Ponderando -se ainda os de safios referentes à precisão do alinhamento de estratégias únicas institucionais às estruturas multicampi e heterogêneas dos IFs de forma ampla, como por ora preconizado por meio do PDI, Heinzein e Streich (2013) , Santana (2014), Menezes (2017) e Neis (201 7) indicam a construção do PE e/ou propostas de seu desdobramento em modelos de BSC a partir das especificidades de unidades de IFs, em uma abordagem micro, assim co mo empregada no presente estudo.
+3 MATERIAL E MÉTODOS Esta pesquisa classifica -se como de finalidade aplicada e exploratória quanto ao seu objetivo , uma vez que busca explicitar o processo de PE da unidade estudada .
+Emprega -se a abordagem qualitativa para a condução do método de estudo de caso.
+3.1 Unidade de análise do estudo de caso O est udo foi realizad o no Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais (IFSULDEMINAS) , Campus Poços de Caldas .
+A unidade conta com sete anos de atividades e com a atuação de aproximadamente 170 servidores públicos efetivos, além de colaboradores eventuais.
+Sua estrutura organizacional é funcional, composta p or uma Diretoria Geral (DG) , responsável pela gestão geral da unidade e por duas diretorias sistêmicas (Diretoria de Administração e Planejamento (DAP ) e Diretoria de Ensino, Pes quisa e Extensão (DEPE )), responsáveis pela gestão das áreas administrativas e de ensino, pesquisa e extensão, respectivamente.
+Durante o período de realização da pesquisa , que se deu entre 2015 e 2017, tinha -se como panorama a ampliação de vagas para os c ursos ofertados, atrelada ao crescimento infraestrutural do Campus .
+As ações de gestão envolviam o planejamento, a organização, a avaliação e o controle das atividades desenvolvidas por meio da definição de objetivos e de metas anuais, formalizadas por um Plano de Trabalho Anual (PTA).
+Dentre as limitações do modelo gerencial adotado, salienta m-se a falta de uma visão de longo prazo e a falta de definição de indicadores de desempenho.
+Adicionalmente, a MORENO, Marina Gomes Murta; COSTA, Cassio Henrique Garcia; TESSARINI JUNIOR, Geraldo .
+Balanced scorecard como apoio à gestão estratégica de uma unidade de Instituto Federal de Educação Tecnológica 8 ForSci.
+IFMG, Fo rmiga, v. 7, n. 2, e00 608, jul./dez.
+2019 adoção de uma estrutura organizacional hierarquizada, q ue dificulta a comunicação e a adoção de processos participativos de tomada de decisão, motiv ou a possibilidade de construção de um modelo de GE interativo para o norteamento de ações de médio a longo prazo no âmbito administrativo, do ensino, da pesquisa, da extensão, da inserção local e regional.
+3.2 Coleta de dados A coleta e a análise dos dados empíricos foram realizadas por intermédio de um GT multidisciplinar composto por docentes, por gestores representantes das diretorias sistêmicas (DAP e DEPE ) e por técnico s administrativos, além de alunos bolsistas e dos pesquisadores autores deste artigo.
+A técnica utilizada para a coleta de dados foi o grupo focal , que teve como propósito a obtenção de insights por meio da ausculta de um grupo de pessoas selec ionadas a respeito de questões de interesse do pesquisador ( MALHOTRA , 2001).
+Tem-se como premissa o fato d e as pessoas tende rem a elaborar opiniões mediante processos de interação social, perspectiva que, por sua vez, mantém forte contraste com métodos em que grupos são interpretados com base em dados colhidos individualmente ( CASTROL , 2013).
+Krueger e Casey (2015) ponderam a importância de haver homogeneidade entre os grupos entrevistados , a fim de possibilitar um clima interativo à exposição de opiniões.
+Os autores apontam ainda que, para organizações públicas que buscam ser inclusivas em seu planejamento e no estabelecimento de suas metas, a técnica pode prover dados sobre como grupos de usuá rios dos serviços e servidores veem a organização e para onde el a deve ir.
+A etapa de coleta de dados durou aproximadamente seis meses e ocorreu no ano de 2016 .
+A composição dos grupos focais vari ou de três a oito integrantes, separando -se grupos de servidores e grupos de gestores (servidores ocupantes de cargos de ges tão), para não se reprimir a exposição de opiniões , mantendo -se grupos homogêneos, conforme Krueger e Casey (2015).
+O entrevistador principal , pesquisador condutor das entrevistas e coautor deste artigo , possuía experiência na aplicação da técnica.
+Formar am-se 24 grupos focais estruturados da seguinte forma : seis grupos formados por técnicos administrativos atuantes nos setores das três diretorias da instituição ( DG, DAP e DEPE ); seis grupos de gestores dos setores e das diretorias, compostos por docentes e por técnicos administrativos; nove grupos de docentes, servidores das coordenações de cursos; três grupos compostos por alunos representantes de turmas, divididos conforme a modalidade de curso ofertada (técnico integrado, técnico subsequente e superior) .
+MORENO, Marina Gomes Murta; COSTA, Cassio Henrique Garcia; TESSARINI JUNIOR, Geraldo .
+Balanced scorecard como apoio à gestão estratégica de uma unidade de Instituto Federal de Educação Tecnológica 9 ForSci.
+IFMG, Fo rmiga, v. 7, n. 2, e00 608, jul./dez.
+2019 Essa divisão permitiu que t odos os setores e coordenações de cursos da unidade participassem da fase de coleta de dados , constru indo-se um diagnóstico organizacional compartilhado e democrático ( FRANCO , 1996).
+Foram realizadas reuniões prévias com cada grupo para se explica r os objetivos do trabalho e para apresentar a estrutura de tópicos que seria utilizada na condução dos grupos focais , a qual contava com questões abertas , para o levantamento dos principais pontos positivos e/ou negativos da instituiç ão, bem como das principais ameaças e/ou oportunidades externas .
+Em fase posterior, o entrevistador principal conduziu discussões sobre os tópicos com os grupos, separadamente .
+Alguns grupos apresentaram respostas escritas aos tópicos previamente apresenta dos.
+R epresentantes do GT participar am das discussões visando -se à validação dos dados.
+As entrevistas foram gravadas , transcritas e utilizadas na composição do banco de dados da pesquisa .
+Foram obtidas 325 respostas referentes ao s ambiente s interno e exte rno em que a unidade se encontra inserida; sendo 78 referentes à s forças institucionais, 114 quanto aos seus pontos fracos, 78 sobre oportunidades e 55 referentes às ameaças.
+As respostas foram categorizadas, ordenadas e resumidas , conforme relação dispost a no Quadro 2 (seção 4.1 ).
+4 RESULTADOS E DISCUSSÃO A construção do modelo de GE e as principais discussões pertinentes dividem -se como segue: a seção 4.1 apresenta os resultados da análise SWOT, técnica de análise ambiental habitualmente utilizada no PE para o diagnóstico organizacional .
+Já a seção 4.2 apresenta a concepção do PE e do seu sistema de operacionalização (BSC ) e explora : a adapta ção das perspectivas do BSC ; a defini ção de estratégias e objetivos alinhados aos propósitos organizacionais (miss ão, visão e valores) e direcionados às perspectivas do BSC ; a estruturação do mapa estratégico e do plano de ações .
+A Figura 1 sintetiza os componentes do modelo proposto.
+MORENO, Marina Gomes Murta; COSTA, Cassio Henrique Garcia; TESSARINI JUNIOR, Geraldo .
+Balanced scorecard como apoio à gestão estratégica de uma unidade de Instituto Federal de Educação Tecnológica 10 ForSci.
+IFMG, Fo rmiga, v. 7, n. 2, e00 608, jul./dez.
+2019 Diagnóstico Organizacional (Análise SWOT)Missão, Visão e Valores Estratégias (Matriz SWOT direcionada às perspectivas do BSC)Mapa estratégico (Estrutura hierárquica dos objetivos estratégicos sob as perspectivas do BSC)Objetivos, Indicadores, Metas e Iniciativas Estratégicas Atuação de Grupo de Trabalho MultidisciplinarBSCParticipação da Comunidade Acadêmica Orçamentária e FinanceiraModernização AdministraçãoServidoresProcessos InternosResultados Institucionais Figura 1 - GE para o IFSULDEMINAS, Campus Poços de Caldas Fonte: Elaborada pelos autores (2018).
+Para a elaboração do modelo, seguiram -se etapas de implementação do BSC propostas por Kaplan e Norton (2000).
+Destaca -se ainda que a participação da comunidade acadêmica no diagnóstico organizacional e a atuação de GT multidisciplin ar visaram à legitimação do modelo proposto, conforme lacunas identificadas em Bergue ( 2005 ), Galas e Forte ( 2005 ), Cunha e Kratz ( 2016 ) e Menezes (2017 ), e à mitigação de resistência interna (ARAÚJO, 2014 ; SANTANA, 2014 ).
+4.1 Diagnóstico o rganizacional O envolvimento de toda a comunidade acadêmica foi primordial para a identificação das variáveis ambientais , sendo possível verificar a complementação de respostas: na maior parte dos casos, servidores ocupantes de cargos de gestão trouxeram respostas com e nfoque na sua visão geral sobre a unidade, enquanto os demais servidores e estudantes ilustraram questões vinculadas ao seu setor/curso.
+Evidencia -se, assim, a importância de se considerar diferentes abordagens ( top-down, bottom -up) como subsídio ao proce sso de construção da estratégia organizacional (KIM; STING; LOCH , 2014), a partir das explicações dos diversos atores envolvidos (FRANCO , 1996).
+Nessa perspectiva , essa abordagem de abrangência sistêmica na etapa de diagnóstico pode ser considerada mais completa quando comparada a estudo similar de estruturação d e PE para uma unidade de IF (MENEZES, 2017) , em que prevalece a participação de técnico s administrativos e de docentes ocupantes de cargos de gestão .
+Visando facilitar o posterior cruzamento das inf ormações obtidas nessa etapa , para a criação das ações estratégicas, foram criadas categorias ordenadas e resumidas, representando a totalidade de informações obtidas.
+A coluna "%" indica a contribuição relativa de cada MORENO, Marina Gomes Murta; COSTA, Cassio Henrique Garcia; TESSARINI JUNIOR, Geraldo .
+Balanced scorecard como apoio à gestão estratégica de uma unidade de Instituto Federal de Educação Tecnológica 11 ForSci.
+IFMG, Fo rmiga, v. 7, n. 2, e00 608, jul./dez.
+2019 categoria em termos percentuais por ponto -chave, podendo -se identificar as questões mais recorrentes para cada ponto -chave da análise SWOT , conforme mostrado no Quadro 2.
+Análise do ambiente interno Pontos Fortes ( Strengths ) Sigla % Pontos Fracos ( Weaknesses ) Sigla % Esforços positivos pa ra a execução do trabalho S1 58 Processos internos falhos (comunicação falha, burocracia excessiva, dentre outros) W1 53 Estrutura adequada com as obras em andamento S2 17 Atuais p roblemas estruturais W2 18 Qualificação dos servidores S3 13 Escassez de recursos orçamentários e financeiros W3 9 Bons projetos pedagógicos S4 6 Inadequada dinâmica de trabalho para propiciar pesquisa, extensão e inovação W4 6 Funcionalidade do organograma S5 3 Evasão escolar W5 5 Suporte administrativo da Reitoria S6 3 Acervo bibliográfico deficitário W6 4 Respaldo em normas e legislações para a execução dos processos de trabalho S7 1 Inadequação da força de trabalho (quadro de servidores insuficiente e prestação de serviços terceirizados muitas vezes desqualificada) W7 3 Processo de verificação de demandas por cursos não efetivo W8 2 Análise do ambiente externo Oportunidades ( Opportunities ) Sigla % Ameaças ( Threats ) Sigla % Parcerias com entidades externas O1 63 Problemas referentes ao orçamento e recursos do govern o T1 16 Oportunidades profissionais aos estudantes na região do sul de Minas Gerais O2 12 Desconhecimento e falta de visibilidade da instituição na cidade e região T2 10 Interc âmbio entre campi e reitoria O3 12 Falta de aproximação com o mercado T3 8 Estrutura, diversificação econômica e localização de Poços de Caldas O4 9 Situação política e econômica do país T4 7 Possibilidade de crescimento do Campus de Poços de Caldas O5 4 Entraves legais e burocráticos T5 6 Oferta de Cursos EAD O6 1 Concorrência p rincipalmente no ensino superior T6 4 Falta de autonomia do campus (dificuldade de trabalho colaborativo entre unidades da rede, e falta de autonomia financeira) T7 1 Quadro 2 - Análise SWOT Fonte: Elaborado pelos autores (2018) .
+Ao comparar os resu ltados do Quadro 2 com trabalhos para IFs que fazem uso dessa técnica , verificam -se semelhanças, tais como oportunidade de parcerias com outras entidades (SANTOS et al.
+, 2012; MENEZES , 2017 ), infraestrutura como força (SANTOS et al.
+, 2012; MENEZES, 2017) e ameaças relacionadas a recursos (SANTOS et al.
+, 2012; MENEZES, 2017) , figurando -se dentre os pontos mais recorrentes, o que evidencia desafios e características em comum.
+Todavia , muito embora existam questões convergentes, pontua -se a importância de adoção de uma abordagem micro para o entendimento da realidade organizacional , assim MORENO, Marina Gomes Murta; COSTA, Cassio Henrique Garcia; TESSARINI JUNIOR, Geraldo .
+Balanced scorecard como apoio à gestão estratégica de uma unidade de Instituto Federal de Educação Tecnológica 12 ForSci.
+IFMG, Fo rmiga, v. 7, n. 2, e00 608, jul./dez.
+2019 como Heinzein e Streich (2013) , Santana (2014), Menezes (2017) e Neis (2017).
+A partir do diagnóstico detalhado da unidade , indicaram -se peculiaridades que enfatiza m a hetero geneidade administrativa característica dos IFs .
+4.2 Elaboração do Balanced Scorecard O diagnóstico organizacional subsidiou a elaboração do BSC para gerenciar o PE da instituição.
+As perspectivas diferem -se da estrutura tradicional dos autores Kaplan e Norton (1997), dada s as especificidades dos IFs .
+Consideraram -se adaptações das propostas de Niven (2003) , Bocci (2005) e Ghelman (2006), estabelecendo -se algumas correspondências com os estudos de BSC para IFs de Martins (2015), Menezes (2017) e Teixeira (2017) .
+O modelo proposto foi moldado em função de cinco perspectivas de desempenho: perspectiva orçamentária e financeira; perspectiva servidores; perspectiva modernização da administração; perspectiva dos processos internos e perspectiv a dos resultados institucionais , conforme demonstrado na F igura 2.
+Figura 2 - Adpatação proposta para as perspectivas do BSC Fonte: Elaborada pelos autores (2018).
+A perspectiva financeira foi renomeada para orçamentária e financeira para melhor representar a dinâm ica organizacional, semelhante mente a Ghelman (2006) e tal como proposto por Menezes (2017) e Teixeira (2017) em estudos sobre a temática para IFs.
+Ainda como Ghelman (2006), desdobrou -se a perspectiva aprendizado e crescimento em duas novas: servidores e modernização da administração.
+Busca -se destacar a importância dos servidores públicos e as suas inter -relações no trabalho e, paralelamente, a estrutura organizacional como provedora de meios para a geração de valor e de disseminação de conhecimento, d esde que provida de renovações.
+Martins (2015), Menezes (2017) e Teixeira (2017) revelam preocupações similares ao definirem pessoas e infraestrutura (MARTINS, 2015 ); pessoas, infraestrutura e inovação (TEIXEIRA, 2017); pessoas, modernização da administração (MENEZES , 2017) , como perspectivas para modelos de BSC construídos para IFs .
+Perspectivas Tradicionais Perspectivas AdaptadasFinanceiraAprendizado e CrescimentoProcessos InternosClientes Orçamentária e FinanceiraServidoresModernização da AdministraçãoProcessos InternosResultados Institucionais MORENO, Marina Gomes Murta; COSTA, Cassio Henrique Garcia; TESSARINI JUNIOR, Geraldo .
+Balanced scorecard como apoio à gestão estratégica de uma unidade de Instituto Federal de Educação Tecnológica 13 ForSci.
+IFMG, Fo rmiga, v. 7, n. 2, e00 608, jul./dez.
+2019 A quarta perspectiva, processos internos , foi a única a conservar a caracterização original do BSC , sendo também mencionada em quase todos os estudos de BSC para IFs (exceção é o estudo de Santos et al.
+, (2012 )), já que os processos internos podem ser considerados cernes do funcionamento organizacional.
+A perspectiva processos internos do BSC modelado tem relação direta com os objetivos estratégicos traçados para a perspectiva res ultados institucionais .
+Os elementos das perspectivas anteriores são os alicerces que subsidiam a satisfação plena dos clientes diretos : servidores, alunos, colaboradores, parceiros e outros usuários dos serviços e produtos ofertados e , da sociedade.
+A perspectiva clientes foi redefinida para resultados institucionais, de modo a acentuar a ampla gama de aspectos propostos: busca -se atender às demandas dos clientes diretos e da sociedade, com ênfase ao desenvolvimento local e regional, dado o caráter de atu ação da unidade (região sul mineira).
+Delineia -se, com essa perspectiva, o alcance da missão e da visão institucionais .
+O foco no desenvolvimento regional é também revelado na perspectiva sociedade, do modelo de BSC para IF de Teixeira (2017) , já que ela faz correspondência ao desenvolvimento das regiões em que a Instituição está inserida , relacionando -se, portanto, ao escopo estabelecido para a perspectiva resultados institucionais do BSC proposto.
+Depois da definição das cinco perspectivas, foram elabora das as estratégias organizacionais, cruzando -se pontos fortes (S) e fracos (W), oportunidades (O) e ameaças (T).
+Gerou -se, como resultado, uma matriz SWOT, em que ficaram evidenciadas estratégias para cada perspectiva , conforme proposto por Lee e Ko (2000) .
+O Quadro 3 apresenta uma amostra das estratégias levantadas para a perspectiva orçamentária e financeira .
+Ao se cruzar a ameaça T1 (problemas referentes ao orçamento e recursos do governo) com a oportunidade O1 (parcerias com entidades externas), gerou -se, por exemplo, a estratégia criar projetos de parcerias com fomento contínuo.
+Perspectiva Orçamentária e Financeira T1 / O1 S3 / T1 O1 O4 / W3 W4 O6 O4 O2 O1 / W3 Criar projetos de parcerias com fomento contínuo.
+Gerar receitas por meio de serviços/ produtos.
+Buscar fomento externo através de parcerias locais.
+Ofertar Cursos EAD conforme necessidades regionais.
+Quadro 3 - Matriz SWOT Fonte: Elaborado pelos autores (2018).
+MORENO, Marina Gomes Murta; COSTA, Cassio Henrique Garcia; TESSARINI JUNIOR, Geraldo .
+Balanced scorecard como apoio à gestão estratégica de uma unidade de Instituto Federal de Educação Tecnológica 14 ForSci.
+IFMG, Fo rmiga, v. 7, n. 2, e00 608, jul./dez.
+2019 As estratégias definidas serviram de referência para a elaboração dos objetivos estratégicos e dos demais elementos do BSC .
+Considerando -se que os objetivos estratégicos devem buscar atingir os propósitos presentes e futuros da organização, decidiu -se adaptar a missão institucional do IFSULD EMINAS especificada em seu PDI ( vigência 2014 -2018 ) e criar a visão e os valores para a unidade, já q ue não existiam tais referenciais institucionais.
+Apesar da definição d e propósitos organizacionais adaptado s às caracter ísticas de uma unidade de IF não ter sido encontrada na literatura consultada (predomina a menção de propósitos organizacionais definid os em PDI , abordando -os de forma macro ), julga -se ser uma etapa relevante para a garanti a do alinhamento estratégico às singularidades da estrutura organizacional .
+A relação de causa e efeito entre os objetivos estratégicos e sua interligação com os propós itos organizacionais é des tacada no mapa estratégico da Figura 3 .
+Figura 3 - Mapa Estratégico do IFSULDEMINAS, Campus Poços de Caldas Fonte: Elaborada pelos autores (2018).
+MORENO, Marina Gomes Murta; COSTA, Cassio Henrique Garcia; TESSARINI JUNIOR, Geraldo .
+Balanced scorecard como apoio à gestão estratégica de uma unidade de Instituto Federal de Educação Tecnológica 15 ForSci.
+IFMG, Fo rmiga, v. 7, n. 2, e00 608, jul./dez.
+2019 O mapa estratégico constituído ancora -se na necessidade de adequação do uso e d a captação dos recursos por meio dos objetivos da perspectiva orçamentária e financeira , considerados a base do mapa estratégico por definir em fatores que podem garantir continuidade ou limitação das ações institucionais.
+A correta aplicação desses recurso s correlaciona -se diretamente aos objetivos estratégicos das perspectivas servidores e modernização da administração e somente será possível caso ocorra m a atualização administrativa e a estruturação das relações de trabalho.
+As ações dessas perspectivas impactam positivamente no aprimoramento contínuo dos processos internos.
+Os objetivos da perspectiva resultados institucionais evidencia m ações que efetivam o cumprimento da missão institucional e de situações futuras almejadas, particularmente no tocante à formação crítica, à geração de inovação e ao desenvolvimento econômico regional.
+Buscou -se alinhar os objetivos estratégicos com indicadores, metas e responsáveis pelo seu cumprimento (iniciativas estratégicas) , de acordo com o Q uadro 4.
+O modelo propost o baseia -se em um planejamento de longo prazo (cinco anos), com o estabelecimento de metas anuais para facilitar o processo de seu gerenciamento e controle.
+Objetivos Estratégicos Indicadores Metas Iniciativas Estratégicas Perspectiva Resultados Institu cionais (Como atender às expectativas dos clientes internos e externos?)
+Reforçar ações de publicidade e de propaganda junto aos públicos de interesse.
+Campanhas publicitárias efetivadas.
+Definir 3 grandes campanhas publicitárias.
+Parcerias institucionais concretizadas .
+Visitar 20 empresas da região vislumbrando parcerias.
+Promover inovação e desenvolvimento econômico regional.
+Egressos inseridos no mercado de trabalho.
+Formalização de Projetos de Empresas Juniores (EJs).
+Formalizar e executar 3 projetos.
+Registrar pelo menos uma patente.
+Escritório Local de Transferência de Tecnologia (ELITT).
+Ampliar a oferta de cursos e serviços.
+Demanda para cursos e outro s serviços prospectada .
+Estudar mercado para a definição de abertura de novos cursos e outros serviços.
+Perspectiva Processos Internos (Como otimizar os processos de trabalho?)
+Aperfeiçoar continuamente os processos internos.
+Eficiência dos Processos Internos .
+Levantar todos os processos institucionais realizados.
+Mapear , de forma macro, todos os processos DG, DAP, DEPE.
+MORENO, Marina Gomes Murta; COSTA, Cassio Henrique Garcia; TESSARINI JUNIOR, Geraldo .
+Balanced scorecard como apoio à gestão estratégica de uma unidade de Instituto Federal de Educação Tecnológica 16 ForSci.
+IFMG, Fo rmiga, v. 7, n. 2, e00 608, jul./dez.
+Demandas de compras planejadas .
+Definir demanda institucional de compras a curto, médio e longo prazo.
+DG, DAP, DEPE e Coordenadoria de Planejamento.
+Expandir intercâmbio de informações com as unidades do IFSULDEMINAS e da Rede Fede ral.
+Processos revistos e otimizados.
+Reduzir prazo de execução de dois processos em cada diretoria sistêmica.
+Perspectiva Servidores (Como definir e desenvolver as relações de trabalho?)
+Estimular cultura de valorização e de colaboração entre os servidores.
+Encontros de conscientização promovidos.
+Promover 1 encontro a cada semestre.
+DG, DAP, Coordenadoria de Administração e Finanças.
+Ações de saúde ocupacional promovidas.
+Realizar 1 ca mpanha por bimestre com temática relacionada.
+Coorden adoria de Administração e Finanças.
+Servidores em colegiados e comissões.
+Nomear 15 novos servidores sem repetição (formato de rodízio), para a participação em colegiados e comissões / ano.
+DG Promover capacitação continuada dos servidores.
+Servidores c apacitados anualmente.
+Formalizar e efetivar plano anual de capacitação dos servidores.
+Coordenadoria de Administração e Finanças.
+Desenvolver servidores por competências.
+Competências e habilidades da força de trabalho.
+Mapear competências atuais e neces sidades de novos cargos.
+Perspectiva Modernização da Administração (Como tornar as ações de gestão efetivas?)
+Aprimorar competências da gestão.
+Gestores capacitados anualmente.
+Contratar curso de capacitação de gestores de no mínimo 80 hor as / ano.
+DAP, Coordenadoria de Administração e Finanças.
+Desenvolver cultura de integração e de agilidade.
+Práticas de trabalho aperfeiçoadas.
+Criar campanhas bimestrais de boas práticas de trabalho.
+Promover pesquisa anual de satisfação de serviços.
+Definir adequado crescimento da infraestrutura institucional.
+Perspectiva Orçamentária e Financeira (Como incrementar os recursos o rçamentários e financeiros para garantir a continuidade das atividades institucionais?)
+Articular parcerias públicoprivadas para a captação de recursos.
+Termos de Cooperação (TC) formalizados com contrapartida financeira.
+Efetivar pelo menos um TC com contrapartida financeira / ano.
+Atualização de mailing de parceiros .
+Somar 5 novas parcerias anuais.
+Cursos com isenção de taxas provenientes de parcerias.
+Articular 2 cursos capacitantes / ano.
+Com ercializar produtos e Produtos/serviços Prospectar produtos e DAP, DEPE.
+MORENO, Marina Gomes Murta; COSTA, Cassio Henrique Garcia; TESSARINI JUNIOR, Geraldo .
+Balanced scorecard como apoio à gestão estratégica de uma unidade de Instituto Federal de Educação Tecnológica 17 ForSci.
+IFMG, Fo rmiga, v. 7, n. 2, e00 608, jul./dez.
+2019 prestar serviços remunerados.
+Gerar receitas proporcionais a 10% do orçamento.
+Expandir a oferta de curs os EAD.
+Ofertar pelo menos 2 cursos EAD.
+Matricular quantitativo de alunos EAD que correspond am a 10% dos alunos presenciais.
+Quadro 4 - Modelo do BSC para o IFSULDEMINAS, Campus Poços de Caldas Fonte : Elaborado pelos autores (2018 ).
+O acompanhamento e a avaliação contínua dos indicadores e das metas poderão garantir o alcance dos resultados estratégicos traçados.
+Frisa -se que, ao estabelecer responsáveis (iniciativas estratégicas) e metas com prazos para o alcance dos objetivos estratégicos definidos, a proposta sintetizada no Quadro 4 mostra detalhes não encontrados nos demais modelos de GE /BSC para IFs resumidos no Quadro 1 .
+5 CONSIDERAÇÕES FINAI S A presente pesquisa contribui para a redução de lacunas sobre estudos empíricos de utilização do BSC em organizações públicas, particularmente para IFs.
+Consideraram -se como relevantes contribuições frente às omissões da literatura relacionada: uso de abordagem detalhada quanto ao diagnóstico das variáveis ambient ais para a construção do modelo de GE; adoção de mecanismos participa tivos para a estruturação do modelo ; apresentação de uma proposta completa e minuciosa de GE para IFs; estruturação de um BSC diferenc iado.
+Destaca -se que a realização de grupos focais envolvendo os diversos níveis institucionais na etapa de diagnóstico , bem como a atuação de um GT multidisciplinar para a elaboração do modelo , geraram um enfoque compartilhado (descentralizado) , democrát ico e interativo e pode m ser ap ontados como relevantes achados .
+A nova arquitetura proposta para o BSC , adequada às singularidades da Instituição , especialmente em função de seu contexto local e regional de atuação, em conjunto com seus objetivos , indicado res, metas e iniciativas , podem ser considerad os valiosas contribuições teóricas .
+A nova estrutura do BSC é passível de ser aplicad a a instituições semelhantes para verifica ção de sua validade e possibilidade de generalização externa e/ou adaptações .
+Dent re as implicações gerenciais, a expectativa é de que o modelo de GE proposto, uma vez aplicado , coopere potencialmente para a melhoria dos indicadores institucionais e para a ampliação de seu escopo de atuação de forma planejada e controlada.
+MORENO, Marina Gomes Murta; COSTA, Cassio Henrique Garcia; TESSARINI JUNIOR, Geraldo .
+Balanced scorecard como apoio à gestão estratégica de uma unidade de Instituto Federal de Educação Tecnológica 18 ForSci.
+IFMG, Fo rmiga, v. 7, n. 2, e00 608, jul./dez.
+2019 Quanto às limitações desta pesquisa, além daquelas relacionadas às restrições de um estudo de caso único , aponta -se a não identificação d e fatores críticos de sucesso (FCS) para o BSC proposto , bem como o seu acompanham ento e gestão.
+Conforme Kaplan e Norton (2000), e ssas são consideradas etapas de implementação do BSC e não foi objeto de análise, uma vez que o modelo proposto ainda não se en contra implementado .
+E mesmo tendo sido construído de forma colaborativa e compartilhada , é importante que o modelo seja apresent ado à comunidade acadêmica para deliberações finais.
+Quanto à sincronização do modelo de GE criado com o PDI do IFSULDEMINAS, optou -se por alinh á-lo à missão institucional do IFSULDEMINAS , não o vinculando, diretamente, aos objetivos e metas do PDI institu cional .
+Portanto, outras perspectivas para investigações futuras poderão explor ar as inter -relações entre os modelos de GE construíd os para unidades de IFs e o PDI ; detalhar barreiras (FCS) à implantação do BSC em IFs; analisar os resultados efetivos do BS C em IFs; aplicar e/ou propo r o aperfeiçoamento do modelo proposto .
+BALANCED SCORECARD AS SUPPORT FOR THE STRATEGIC MANAGEMENT OF A UNIT OF A FEDERAL INSTITUTE OF TECHNOLOGICAL EDUCATION ABSTRACT The research aims to propose a strategic management (SM) model for a unit of a Federal Institute of Educ ation, Science and Technology ( FI), formalizing it through the adaptation of the Balanced Scorecard (BSC).
+The case study was based on the collection of data by applying focus group technique and the informati on obtained was interpreted qualitatively by a multidisciplinary working group.
+Through the construction and participatory proposition of an alternative BSC in a public organization, it contributes to the reduction of gaps related to i) resistance and abse nce of insertion of the academic community in the SM process and ii) use of BSC in IFs.
+It was evidenced i) the more active participation of the community in the process of organizational diagnosis and structuring of the model, seeking its effective legiti mation; ii) the definition of organizational strategies for the systematization of Strategic Planning and iii) the structuring of an SM model that is appropriate to the singularities of the institution, consolidated by the BSC.
+The new architecture of the BSC can be replicated to other similar educational institutions in order to provide comparative studies and verify it external validity.
+The study also reduces omissions from the SM literature in FIs, detailing the process of devising strategic practices f or improving organizational performance.
+Keywords: Strategic Management.
+Federal Institute of Education, Science and Technology.
+MORENO, Marina Gomes Murta; COSTA, Cassio Henrique Garcia; TESSARINI JUNIOR, Geraldo .
+Balanced scorecard como apoio à gestão estratégica de uma unidade de Instituto Federal de Educação Tecnológica 19 ForSci.
+IFMG, Fo rmiga, v. 7, n. 2, e00 608, jul./dez.
+2019 REFERÊNCIAS ARAÚJO , Margarida Silva de .
+Desafios da implementação do Balanced Scorecard na gestão orça mentária: estudo de caso no Instituto Federal de Educação, Ciência e Tecnologia de Góias.
+170 f. Dissertação (Mestrado Profissional em Administração) - Faculdade Alves Faria, Goiânia , 2014 .
+Gestão estratégica de pessoas e Balanced Scorecard em organizações públicas.
+Análise - Revista de Administração da PUCRS , Porto Alegre, v. 16, n. 2, p. 265-284, 2005 .
+A new BSC architecture for the public sector.
+Perspectives on Performance , Itália, v. 4, n.3 , p. 30-32, 2005 .
+Lei nº 11.892, de 29 de dezembro de 2008.
+Institui a Rede Federal de Educação Profissional, Científica e Tecnológica, cria os Institutos Federais de Educação, Ciência e Tecnologia e dá outras providências.
+Brasília, DF, Diário Oficial da Re pública Federativa do Brasil , seção 1, p. 3 , 2008.
+CANUTO , Francisco Ebison Souto.
+Gestão estratégica à luz das perspectivas do Balanced Scorecard : um estudo no Instituto Federal de Educação, Ciência e Tecnologia do Ceará.
+150 f. Dissertação (Mestra do Profissional em Administração e Controladoria )Universidade Federal do Ceará, Fortaleza , 2014.
+CASTRO , Alexandre de Carvalho .
+Produção offshore na Bacia de Campos (RJ): a perspectiva da Psicologia do Trabalho.
+Gestão & Produção , São Carlos, v. 20, n. 4, p. 833-846, 2013 .
+CUNHA , Marcos Ribeiro ; KRATZ , Lucia.
+Fatores críticos de sucesso no processo de implementação do Balanced Scorecard: um estudo de caso nas instituiçõ es federais de ensino superior.
+Revista de Ciências da Administração , Florianópolis, v. 18, n. 46 , p. 96-108, 2016 .
+O método PES - Entrevista com Matus.
+GALAS , Eduardo Santos ; FORTE , Sérgio Henrique Arruda Cavalcante .
+Fatores que interferem na implantação de um modelo de Gestão Estratégica base ado no Balanced Scorecard : estudo de caso em uma instituição pública.
+Revista de Admini stração Mackenzie , São Paulo, v. 6, n. 2 , p. 87-111, 2008.
+Adaptando o Balanced Scorecard aos preceitos da nova gestão pública .
+86 f. Dissertação (Mestrado Profissional em Sistemas de Gestão de Qualidade Total) - Universid ade Federal Fluminense, Niterói, 2006.
+HEINZEIN, D aiane Aparecida de Melo ; STREICH , Kenia Regina .
+Proposição do Balanced Scorecard para suporte à Gestão Estratégica de uma instit uição de ensino público.
+Revista ADMpg Gestão Estratégica , Ponta Grossa, v. 6, n. 2 , p. 77-85, 2013.
+20 years of studies on the Balanced Scorecard: trends, accomplishments, gaps and opportunities for future research.
+The British A ccounting Review , Reino Unido, v. 46, n. 1, p. 33-59, 2014.
+MORENO, Marina Gomes Murta; COSTA, Cassio Henrique Garcia; TESSARINI JUNIOR, Geraldo .
+Balanced scorecard como apoio à gestão estratégica de uma unidade de Instituto Federal de Educação Tecnológica 20 ForSci.
+IFMG, Fo rmiga, v. 7, n. 2, e00 608, jul./dez.
+2019 KAPLAN, R obert S.; NORTON , David P. Balanced scorecard: a estratégia em ação.
+KAPLAN, R obert S.; NORTON , David P. Organização orientada para a estratégia: como as em presas que adotam o Balanced Scorecard prosperam no ambiente de negócios.
+KIM , Yoon Hee; STING , Fabian J.; LOCH , Christoph H. Top-down, bottom -up, or both?
+Toward an integrative perspective on operations strategy form ation.
+Journal o f Operations Management , Holanda, v. 32, n.1, p. 462-474, 2014.
+KRUEGER , Richard A.; CASEY , Marry Anne.
+a practical guide for applied research.
+Building Balanc ed Scorecard with SWOT analysis, and implementing "Sun Tzu's.
+The art of business management strategies" on QFD methodology.
+Managerial Auditing Journal , Reino Unido, v. 15 , n. 1, p. 68-76, 2000.
+MALHOTRA , Naresh K. Pesquisa de marketing: uma orientação aplicada.
+A construção do Plano de Desenvolvimento Institucional na perspectiva do pensamento estratégico: o caso do Instituto Federal Goiano.
+103 p. Dissertação (Mestrado em Desenvolvimento Region al) - Faculdade Alves Faria, Goiânia , 2015 .
+Utilização do Balanced Scorecard como ferramenta de planejamento estratégico: uma proposta de implantação no Instituto Federal da Paraíba – Campus Picuí.
+97 p. Dissertação (Mestra do em Gestão Pública) - Universidade Federal do Rio Grande do Norte, Natal , 2017 .
+Portal da Rede Federal de Educação Profissional, Científica e Tecnológica.
+Disponível em: .gov.br/ historico .
+Aplicação do Balanced Scorecard no campus Venâncio Aires do Instituto Federal Sul -Rio-Grandense .
+195 p. Dissertação (Mestrado em Administração das Organizações Educativas) - Escola de Educação do Politéc nico do Porto, Porto, 2017.
+NIVEN , Paul R. Balanced S corecard step-by-step: maximizing performance and maintaining results.
+Aplicação do Balanced Scorecard à Gestão Estratégica do Instituto Federal de Educação, Ciência e Tecnologia da Bahia .
+107 p. Dissertação (Mestrado em Administração) - Universidade Federal da Bahia, Salvador , 2014 .
+PINTO , Miriam Magdala ; ANGIUS , Bruno Mannato.
+Balanced Scorecard na prática da gestão de um laboratório acadêmic o. Revista Ibero Americana de Estratégia , São Paulo, v. 14, n. 1 , p. 127-138, 2015 .
+Ações e indicadores de desempenho organizacional vistos MORENO, Marina Gomes Murta; COSTA, Cassio Henrique Garcia; TESSARINI JUNIOR, Geraldo .
+Balanced scorecard como apoio à gestão estratégica de uma unidade de Instituto Federal de Educação Tecnológica 21 ForSci.
+IFMG, Fo rmiga, v. 7, n. 2, e00 608, jul./dez.
+2019 sob a ótica do Balanced Scorecard : um estudo no Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte.
+118 f. Dissertação (Mestrado Profissional em Administração) - Universidade Potiguar, Natal, 2010 .
+RODRIGUES , Gustavo de Oliveira .
+Aplicação da gestão de processos em uma universidade pública do estado de São Pau lo.
+116 f. Dissertação (Mestrado em Engenharia de Produção ) - Universidade Estadual Paulista Júlio de Mesquita Filho, Bauru, 2015 .
+SÁNCHEZ , Jesusa Rita Fidalgo; CAVALHEIRO , Andrei Zwetsch .
+O PDI como ferramenta de gestão : orientações para elaboração .
+In: Fórum de Desenvolvimento Institucional da Rede Federal de Educação Profissional e Tecnológica (FDI).
+Aplicação de métodos de gestão a instituições de ensino: análise do Instituto Federal de Educação, Ciência e Tecnol ogia da Bahia – Campus Valença, sob a perspectiva do balance scorecard.
+158 p. Dissertação (Mestrado Profissional em Administração ) - Universi dade Federal da Bahia, Salvador, 2014 .
+SANTOS , João Alberto Neves dos ; SEPULVEDA , Fernando A. Miranda ; SERR AVALE , Alberto França .
+Implementação do Planejamento Estratégico no Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro.
+In: Simpósio de Excelência em Gestão e Tecnologia (SeGeT), IX., 2012, Rio de Janeiro.
+Os processos de Planejamento Estratégico e controle orçamentário de uma instituição de educação superior, básica e profissional: o caso IFTM.
+168 p. Dissertação (Mestrado em Gestão Organizacional) - Universidade Federal de Uberlândia , Uberlândia , 2017 .
+DADOS DOS AUTORES Marina Gomes Murta Moreno E-mail: marina.murta@ifsuldeminas.edu.br Currículo Lattes: Graduação em engenharia de produção pela Universidade Federal de Viçosa (UFV, 2007).
+Mestre em ciência e engenharia de materiais pela Universidade Federal de Alfenas (UNIFAL, 2014).
+Doutoranda em Engenh aria de Produção pela Universidade Federal de São Carlos (UFSCar.
+Previsão de doutoramento: 2021).
+Desde 2012, exerce o cargo de Técnica -Administrativa em Educação no Instituto Federal do Sul de Minas (IFSULDEMINAS, Campus Poços de Ca ldas).
+Cassio Henrique Garcia Costa E-mail: cassiohenrique.costa@cefetmg.br Currículo Lattes: 21224383863 Professor do CEFET -MG, Campus Nepomuceno.
+Doutor em Administração pela Universidade Federal de Lavras (UFLA), área: Gestão de Negócios, Economia e Mercados.
+Mestre em Administração pela UFLA, área: Dinâmica e Gestão de Cadeia Produtivas.
+Bacha rel em Administração pela UFLA.
+Foi professor temporário da UFLA.
+Atuou por 9 anos no Centro de Inteligência em Mercados (UFLA) na prestação de serviços e na coordenação de projetos de pesquisa e extensão.
+Atuou por 5 anos como professor no Instituto Feder al do Sul de Minas (IFSULDEMINAS), Campus Poços de Caldas onde foi professor do MORENO, Marina Gomes Murta; COSTA, Cassio Henrique Garcia; TESSARINI JUNIOR, Geraldo .
+Balanced scorecard como apoio à gestão estratégica de uma unidade de Instituto Federal de Educação Tecnológica 22 ForSci.
+IFMG, Fo rmiga, v. 7, n. 2, e00 608, jul./dez.
+2019 mestrado PROFEPT, coordenador da empresa júnior multidisciplinar do campus e de projetos de extensão/inovação.
+Trabalha com os temas: Economia, Controladoria e Finanças, Gestão de Riscos, Estratégia Empresarial, Empreendedorismo e Inovação.
+Geraldo Tessarini Junior E-mail: geraldo.tessarini@gmail.com Currículo Lattes: Mestrando em Engenharia de Produção pela Universidade Federal de São Carlos (UFSCar, Campus Sorocaba).
+Bacharel em Administração pelo Centro Universitário da Fundação de Ensino Octávio Bastos (UNI FEOB).
+Técnico -Administrativo em Educação do Instituto Federal de São Paulo (IFSP).

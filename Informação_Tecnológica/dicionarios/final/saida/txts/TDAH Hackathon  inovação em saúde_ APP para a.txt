@@ -1,0 +1,125 @@
+Original Article ISSN 2357-9730 100100 TDAH Hackathon – inovação em saúde: APP para auxiliar pacientes com transtorno de déficit de atenção e hiperatividade para a adesão ao tratamento ADHD Hackathon – health innovation: APP to assist patients with attention deficit disorder and hyperactivity to treatment adherence Milena de Avila Peres1, Stefania Pigatto Teche1, Cristina Prestes1, Amanda Maia2, Silvia Regina Gralha1, Luis Augusto Rohde1 Clin Biomed Res.
+2021;41(2):100-106 1 Hospital de Clínicas de Porto Alegre.
+2 Universidade Federal do Rio Grande do Sul.
+Autor correspondente: Milena de Avila Peres maperes@hcpa.edu.br Hospital de Clínicas de Porto Alegre Rua Pedro Álvares Cabral, 348 94150-400, Gravataí, RS, BrasilRESUMO Este artigo apresenta o processo de ideação e prototipação de um aplicativo para auxílio de pacientes com TDAH no autogerenciamento de hábitos diários para uma maior adesão ao tratamento e no gerenciamento de tempo, agregando assim muito valor à sociedade.
+Este processo foi proposto na primeira edição do evento "Experiência HCPA – TDAH Hackathon".
+O método usado foi a pesquisa de campo com pacientes com TDAH e validação de hipóteses.
+Justifica-se pela necessidade de uma ferramenta confiável, permitindo que os pacientes com TDAH possam centralizar as ações em apenas um aplicativo no celular: seus compromissos, lembretes de medicação e gerenciamento de tempo, entre outras facilidades, sendo o meio mais viável e efetivo para a adesão ao tratamento.
+Palavras-chave : TDAH; Hackathon; Déficit de atenção; Aplicativo; APP; Inovação ABSTRACT This article presents the process of ideation and prototyping of an application to help patients with ADHD in self-management of daily habits to a greater adherence to treatment and time management, thus adding a lot of value to society.
+This process was proposed in the first edition of the HCPA Experience – ADHD Hackathon event.
+The method used was field research of patients with ADHD and validation of hypotheses.
+The need for a reliable tool is justified, where ADHD patients will be able to centralize their appointments, medication reminders, time management, among other facilities in just one mobile application, being the most viable and effective means of adhering to treatment.
+Keywords: ADHD; Hackathon; Attention deficit; Application; APP; Innovation INTRODUÇÃO O TDAH HACKATHON foi um evento promovido pelo Hospital de Clínicas de Porto Alegre, juntamente com o grupo de pesquisa do Programa de Déficit de Atenção e Hiperatividade (Prodah) e a empresa Grow+, durante o ano de 2019, no formato de competição entre equipes multiprofissionais, com o objetivo de desenvolver um protótipo de APP que ajudasse pacientes com Transtorno de Déficit de Atenção e Hiperatividade (TDAH) na melhora da adesão ao tratamento.
+De acordo com Leckart "Hackathons" são concursos onde os participantes lançam, desenvolvem e apresentam suas soluções em um curto período de tempo1.
+Buscando um maior envolvimento e participação dos usuários no processo de criação e desenvolvimento de protótipos e soluções inovadoras, foi lançado o primeiro HACKATHON TDAH.
+Neste evento específico, o assunto TDAH Hackathon – aplicativo para auxiliar a adesão ao tratamento Clin Biomed Res 2021;41(2)101TDAH Hackathon – inovação em saúde: APP para auxiliar pacientes com transtorno de déficit de atenção e hiperatividade para a adesão ao tratamento ADHD Hackathon – health innovation: APP to assist patients with attention deficit disorder and hyperactivity to treatment adherence Milena de Avila Peres1, Stefania Pigatto Teche1, Cristina Prestes1, Amanda Maia2, Silvia Regina Gralha1, Luis Augusto Rohde1comum foi TDAH, com o foco mais específico de: Como melhorar a adesão ao tratamento do TDAH através da incorporação de tecnologia2?
+O Transtorno de Déficit de Atenção/Hiperatividade (TDAH) é um transtorno psiquiátrico, no qual o paciente apresenta sintomas de desatenção e/ou hiperatividade/ impulsividade prejudicando significativamente seus estudos, trabalho e relações interpessoais3.
+Em crianças e adolescentes a prevalência encontra-se ao redor de 5,7%, e nos adultos é de 2,5%4.
+É um transtorno possível de tratar, porém a adesão do paciente segue sendo um desafio, com taxas de apenas 10% dos pacientes seguindo tratamento regular5.
+Pensando em solucionar a dificuldade de adesão com recursos tecnológicos, lançou-se esse desafio chamado Hackathon que será descrito na sequência deste artigo.
+ETAPAS DO HACKATHON O processo do Hackathon, foi um evento desenvolvido em 2 etapas.
+A primeira etapa envolveu 10 grupos que desenvolveram o projeto em dois dias.
+Ao final desse período, 4 grupos foram selecionados a seguir o processo e apresentar seus resultados finais após 60 dias de criação.
+O evento foi dividido em etapas de trabalho, seguindo metodologias propostas em estudos publicados como Design Things6, Sprint7, e inovação centrada no cliente8, que estão detalhadas a seguir.
+Acordo de trabalho da equipe No primeiro dia do encontro presencial, com a finalidade de criar uma sinergia entre os integrantes do grupo, foi elaborado o "Acordo de Trabalho da Equipe" onde cada participante contribuiu em definir a missão da equipe, os papéis e responsabilidades de cada integrante, forças e habilidades de cada um e os combinados entre a equipe.
+Jornada do paciente Seguindo as atividades propostas, foi feito entrevista com pacientes integrantes no grupo.
+As perguntas se referiam a trajetória do paciente frente ao transtorno; sua conscientização perante o TDAH, o diagnóstico, engajamento, acompanhamento, adesão ao tratamento, e por fim, como ele se sentia perante aos desafios impostos pelo transtorno.
+Elaboração de hipóteses De acordo com as informações sobre a jornada do paciente, no final do primeiro dia de encontro, foi produzido um mural de hipóteses a serem validadas.
+Validação das hipóteses: resultados Na segunda etapa foi realizado a validação das hipóteses com pesquisa quantitativa e qualitativa, através de entrevistas realizadas com vinte pacientes com TDAH.
+Todos os participantes entrevistados deram o consentimento para que suas respostas fossem utilizadas no desenvolvimento deste aplicativo e na posterior divulgação anônima dos dados.
+As entrevistas foram realizadas através de perguntas semiestruturadas e respondidas através de um formulário do Google.
+A compilação das respostas quantitativas é apresentada na Tabela 1.
+Tabela 1: Taxa de respostas do questionário de validação de hipóteses.
+Pergunta SIM (%) NÃO (%) Às vezes (%) Total de respostas Uso de alarmes e lembretes 65 15 20 20 Interesse no uso de um aplicativo para autogerenciamento83,3 5,6 11,1 18 Acesso à informação sobre medicamentos e seus efeitos colaterais,70 5 25 20 Bonificações por acesso diário e por participação em fóruns no aplicativo, que trouxessem descontos em medicamentos75 20 5 20 Como resultado final, foi apresentado o protótipo do produto elaborado, com base nas entrevistas feitas com pacientes e experiências com os usuários.
+As respostas do questionário de avaliação de Hipóteses (Anexo 1) foram compiladas e descritas logo abaixo: Item: "Conhecendo a rotina das pessoas com TDAH e suas dificuldades" Na rotina dos pacientes, foi identificado, através de uma análise qualitativa, que o conteúdo principal das dificuldades, estava em organizar o planejamento de pequenas e grandes atividades.
+Também, no comportamento de "se perder no tempo" fazendo atividades inúteis, além da dificuldade para dormir e acordar.
+Sendo assim, foi percebido a necessidade de uma rotina para a execução de tarefas.
+Item: "Gerenciamento dos hábitos" Foi observado o uso de recursos já disponíveis no mercado, como a agenda do Google, calendários e aplicativos diversos.
+Constatou-se dificuldade em Peres et al.
+Clin Biomed Res 2021;41(2) 102incluir as informações na hora em que elas surgem, senão, há um esquecimento posterior.
+Também há dificuldade no hábito de olhar, posteriormente, a informação anotada.
+Portanto, seria importante ter disponível na versão web, desktop e mobile uma agenda inteligente, que avisa sobre os compromissos, adicionando o tempo de deslocamento que será necessário para não haver atrasos neste planejamento.
+Item: "Problemas que levaram a buscar ajuda" Os problemas que levaram o paciente com TDAH a buscar ajuda foram a confusão de tarefas e falta de organização; o prejuízo nos estudos; esquecimentos, atrasos; falta de foco; terminar tarefas; dificuldade em relações interpessoais; falta de concentração nas aulas; muito sono; ler e reler e não entender nada; várias recuperações; esforço excessivo em entender e aprender e baixa produtividade.
+Item: "O que sentiu quando disseram que precisava de medicamento?"
+As respostas variaram com diferentes reações: alegria; Salvação; Alívio, que tinha uma solução porque não era um problema intrínseco; ter possibilidades; imaginou que tudo mudaria, mas não foi tudo isso; também houveram respostas de susto; Medo; Raiva por ter descoberto tarde; Negação; depois experimentou e viu que ficava melhor; Tristeza; insegurança; Ansiedade; vergonha; impotência; tristeza.
+Item: "Quando iniciou, o que sentiu?"
+Foram apresentados diferentes sentimentos: Melhora; Benefícios sem ser milagroso; os outros notaram a mudança; aproveitar todos os potenciais ao seu favor; Controle dos pensamentos e ações; confortante, porque ajuda na aceitação, frustrante porque não tem cura; capaz de fazer as coisas; bem, disposto, produtivo e animado; frustrado pelos efeitos colaterais; Ansiedade.
+Simplificou as coisas que antes pareciam tão complexas; teve muitos efeitos adversos, mas depois melhorou; as pessoas ao redor comentaram da melhora; Item: "Como foi quando conheceu mais pessoas com TDAH?"
+As respostas foram: Trocas, somos mais do que o nosso transtorno; Reconhecimento da pessoa como um todo; Acolhido; Passa a sensação de ser diferente; Feliz, tranquilo; Normal; não estar sozinho; não ser pior e nem errado; Alívio; Indiferente; compartilhando com as mesmas dores; Pertencimento a um grupo; Incluído; Aceitação; Item: "Funcionalidades para manter a adesão" As respostas variaram entre: diferentes cores; Agenda; Alarmes; Mensagem de tela; Mais de um recurso; Possibilidade de priorização de tarefas.Item: "Participar para ganhar bonificação" As respostas do que significaria a bonificação foram: Pela sensação de colaboração; perguntas de colaboração; Participação consigo próprio e colaboração com outros; indicação de amigos; proporcionar reuniões online ou sala de conversa.
+Prototipação Com base nas hipóteses levantadas e validadas, partiu-se para a prototipação onde foram criados modelos, contemplando as funcionalidades mínimas apresentadas, com a priorização de tarefas pela ordem de importância, finalizando com "workflow" de funcionamento.
+Validação da solução O objetivo de validar a solução é certificar-se de que ela resolverá a "dor" do paciente de maneira eficiente.
+A fase de testes serve para recolher impressões e melhorar a solução.
+A apresentação do protótipo foi feita em forma de desenho em papel e explicado a funcionalidade de cada tela para os jurados, que fizeram sua avaliação individual, pontuando cada item apresentado na sua percepção, referente a usabilidade e importância.
+Este foi o protótipo apresentado pelo grupo vencedor (Figura 1): Figura 1: Protótipo: fonte própria.
+-Funcionalidades e Diferenciais apresentados pela equipe ◦Bloqueio – Aplicativo desativará os outros apps instalados no celular em determinados momentos classificados como muito importantes, mantendo o foco e atenção plena na tarefa principal.TDAH Hackathon – aplicativo para auxiliar a adesão ao tratamento Clin Biomed Res 2021;41(2)103 ◦Bonificação – O aplicativo disponibilizará novas funcionalidades conforme o estágio que o paciente se encontra e conforme a sua atuação e participação no aplicativo que são: ▪Inicial (nem iniciou o tratamento, quer apenas buscar informações – psicoeducação); ▪Intermediário (já tem o diagnóstico, mas não é tão participativo no aplicativo e nem no tratamento) e ▪Avançado (tem o diagnóstico e participa ativamente).
+A conquista dos bônus se dará por: ▪Participação ativa e coerente no fórum; ▪Indicação de amigos; ▪QR Codes espalhados em estabelecimentos conveniados; ▪Por tomar a medicação e registrar no aplicativo; ▪O profissional de saúde que participar, também será beneficiado quando informar nos "Registros", combinações na consulta daquele paciente.
+Sua bonificação lhe renderá indicações e destaques.
+-Alarmes configuráveis – O usuário do app vai definir como deseja ser alertado quando for um compromisso importante, muito importante ou normal, como mostra a Figura 2.
+O padrão é: ◦Vermelho (vibra, som e luminosidade); ◦Amarelo (vibra e luminosidade); ◦Verde (luminosidade) Figura 2: Marcadores sinaleira.
+-Possibilidade de integrar com relógios (smartwatch) -multiplataforma: desktop, mobile, web .
+-Geolocalização – será integrado com a localização do dispositivo móvel, para disparar o alerta de medicação quando o usuário escolher adiar tomar o medicamento quando chegar em casa ou chegar no trabalho, como mostra a Figura 3.
+Figura 3: Geolocalização para tomar medicação.
+-Centralização de técnicas e recursos para auxiliar o paciente na adesão ao tratamento em um só lugar.
+-Agenda inteligente: ◦Avisa os compromissos/lembretes importantes que terão no próximo dia.
+◦Se tiver localização informada no compromisso agendado, alerta a hora certa para iniciar o deslocamento, baseado em informações integradas de outros aplicativos de deslocamento, para não ocorrer atrasos.
+▪Registros das consultas, anotações, combinações junto com o seu médico/ profissional de saúde, para posterior consulta e lembrar do que foi dito; Monetização: -Indireta: O aplicativo poderá ser gratuito, facilitar a marcação de consulta, apresentar a possibilidade de descontos em consultas e descontos em farmácias e com laboratórios.
+Clin Biomed Res 2021;41(2) 104 -Leitor de QRCode – Programa de convênio com estabelecimentos para aderirem ao projeto.
+O estabelecimento terá um cartaz informativo com esse QR code, podendo contribuir com ganhos para: ◦Estabelecimento: A pessoa deverá entrar em seu estabelecimento para ter acesso a esse QR Code.
+◦Paciente: Ganhará 1 bônus ao acessar esse QRCode .
+▪Os bônus poderão ser utilizados para: ◦Alterar o seu avatar: comprar acessórios, modificar seu formato.
+◦Evoluir de estágio no aplicativo e com isso habilitar as funcionalidades que se encontram indisponíveis.
+◦Privilégios em marcação de consultas com profissionais conveniados (Psiquiatras, psicólogos, terapeutas ocupacionais) ▪Indique um amigo : A cada indicação efetivada com cadastro, ganha 1 bônus Feita a apresentação para os jurados, cada grupo apresentou sua proposta no formato de Pitch.
+A estrutura do Pitch visou incluir a apresentação do grupo de trabalho, as experiências e vivências dos integrantes, além da motivação da equipe ao resolver este problema, também incluiu o detalhamento da solução e suas funcionalidades; o diferencial e a inovação, além de quais tecnologias foram utilizadas.
+Também foi apresentado no pitch a justificativa, baseada nos dados da realidade e do mercado, e da relevância da solução neste momento e quais benefícios traria na vida do usuário.
+Por fim, foi apresentado a viabilidade comercial de venda deste produto inovador.
+O investimento necessário, os potenciais concorrentes e o custo para o usuário.
+A premiação do concurso foi de R$ 10.000,00 (dez mil reais), paga pela FUNDMED, mediante assinatura de recibo juntamente com a cessão de direitos autorais e reconhecimento da propriedade intelectual do HCPA e da UFRGS.CONCLUSÃO No final desta maratona, foi possível compreender não só de forma mais ampla, como também de forma próxima e pessoal, a rotina, as vivências e obstáculos enfrentados por um portador de TDAH.
+Dessa forma, foi possível adequar o protótipo à realidade desses indivíduos e suas necessidades, enxergando a importância de entender a experiência do usuário: aumentar o sentimento de satisfação, surpresa e felicidade do usuário através da funcionalidade, confiança, usabilidade e pró atividade do produto, ou seja, fazer o usuário feliz!
+Na apresentação do protótipo para os jurados, que eram familiares ou pacientes com TDAH, foi possível perceber em cada olhar, a satisfação e felicidade ao observar os detalhes do produto apresentado.
+Como perspectiva futura sugerimos um ensaio clínico randomizado que possa testar o aplicativo entre casos de TDAH e controles, avaliando o impacto do APP em pacientes com dificuldades de atenção e organização.
+Agradecimentos Agradecemos ao Hospital de clínicas de Porto Alegre, por promover um evento deste porte.
+Também agradecemos a ABDA – Associação Brasileira de Déficit de Atenção e Hiperatividade.
+Estendemos para quem viabilizou este evento que foi a equipe do aplicativo FOCUS TDAH, o PRODAH – Programa de Déficit de Atenção e Hiperatividade, o Departamento de Psiquiatria do HCPA, o IBIS – Instituto Brasileiro de Inovação em Saúde, o NITT- Núcleo de Inovação e Transferência de Tecnológica e a Fundação Médica do Hospital de Clínicas de Porto Alegre.
+A Grow+ ventures conduziu as dinâmicas e atividades num modelo baseado no Design Thinking e Design Sprint.
+E aos apoiadores UNIMED e SEBRAE-RS.
+Também, agradecemos aos jurados que foram convidados pelos apoiadores e que gentilmente se observaram e julgaram da maneira mais imparcial possível.TDAH Hackathon – aplicativo para auxiliar a adesão ao tratamento Clin Biomed Res 2021;41(2)105REFERÊNCIAS 1.
+Leckart S. The hackathon is on: pitching and programming the next killer app.
+17 fev 2012 [citado em 20 maio 2021].
+Disponível em: com/2012/02/ff-hackathons/ 2.
+Hackathon TDAH – Como podemos melhorar a adesão ao tratamento de pacientes com TDAH através da incorporação da tecnologia?
+3 out 2019 [citado em 31 maio 2020].
+Disponível em: hackathon-tdah-como-podemosmelhorar-a-adesao-ao-tratamentode-pacientes-com-tdah-atraves-daincorporacao-da-tecnologia/3.
+American Psychiatric Association.
+Diagnostic and statistical manual of mental disorders: DSM-5.
+Washington, DC: American Psychiatric Association; 2013.
+Vitola ES, Bau CHD, Salum GA, Horta BL, Quevedo L, Barros FC, et al.
+Exploring DSM-5 ADHD criteria beyond young adulthood: phenomenology, psychometric properties and prevalence in a large three-decade birth cohort.
+Karam RG, Breda V, Picon FA, Rovaris DL, Victor MM, Salgado CAI, et al.
+Persistence and remission of ADHD during adulthood: a 7-year clinical follow-up study.
+Brown T. Design thinking: uma metodologia poderosa para decretar o fim das velhas ideias.
+Rio de Janeiro: Alta Books; 2018.
+Knapp J, Zeratsky J, Kowitz B. Sprint: how to solve big problems and test new ideas in just five days.
+New York: Simon & Schuster; 2016.
+Wunker S, Wattman J, Farber D. Jobs to be done: a roadmap for customer-centered innovation.
+[local desconhecido]: Amacom; 2016.
+Recebido: 4 ago, 2020 Aceito: 3 mar, 2021 Peres et al.
+Clin Biomed Res 2021;41(2) 106ANEXOS Anexo 1 – QUESTIONÁRIO: Avaliação de Hipóteses.
+Avaliação de Hipóteses – Aplicativo BRAIN On Questionário destin.ado a validação de hipóteses para a proposta do aplicativo Brain On.
+Favor responder as questões o mais completo possível.
+Endereço de e-mail: _ Nome: Idade: _ Como é seu dia a dia, sua rotina?
+E como é o gerenciamento dos seus hábitos e atividades?
+Você tem alguma técnica para te ajudar?
+_ Você usa alarmes e lembretes?
+_ Já tentou usar alguma ferramenta como o calendar do outlook, do gmail, por exemplo?
+Como e quando você recebeu o diagnóstico de TDAH?
+_ Quais problemas te levaram a buscar ajuda?
+O que você sentiu quando disseram que você precisava tomar a medicação?
+_ E quando você iniciou o tratamento, como se sentiu?
+Como foi e o que você sentiu quando conheceu mais pessoas com TDAH?
+_ O que você acha de um aplicativo de autogerenciamento, que encontre sua motivação individual para lidar com o déficit de atenção?
+Se neste aplicativo tivesse uma agenda de hábitos, que te ajudasse a lembrar, quais destas funcionalidades lhe fariam manter a adesão ao tratamento com o APP?
+( ) Agenda de hábitos sem alarmes ( ) Alarme sonoro ( ) alarme que vibre ( ) alguém te lembrando ( ) todas as alternativas anteriores Se fosse apresentado para você relatos de pessoas que tomam os medicamentos, orientados pelo médico, destinado a tratamento de TDAH, e que se beneficiaram por conta disso, você gostaria de usar este medicamento também?
+_ Se nesse aplicativo tivesse uma área destinada a "DICAS" para lidar com os efeitos colaterais da medicação, você acessaria essas dicas?
+Se a sua participação nos fóruns/acessos diários no aplicativo lhe desse alguma bonificação, você participaria relatando dicas para ganhar descontos em medicamentos?
+O que você prefere e participaria: ( ) Chat ( ) Fórum ( ) Chat e Fórum Dentre os formatos abaixo, para informações, qual você mais aprecia?
+( ) Áudio ( ) Ler texto com informações detalhadas ( ) Ler um resumo Se você tivesse acesso aos gráficos de seu desempenho com relação ao tratamento, isso lhe: ( ) Motivaria ( ) Desmotivaria ( ) indiferente

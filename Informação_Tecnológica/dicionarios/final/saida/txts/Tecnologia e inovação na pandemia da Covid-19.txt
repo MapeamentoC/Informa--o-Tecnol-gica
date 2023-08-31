@@ -1,0 +1,289 @@
+Research, Society and Development, v. 11, n. 14, e453111436647 , 202 2 (CC BY 4.0) | ISSN 2525 -3409 | DOI: -v11i1 4.36647 1 Tecnologia e inovação na pandemia da Covid -19: uma análise bibliométrica Technology and innovation in the Covid -19 pandemic: a bibliometric analysis Tecnología e innovación en la pandemia del Covid -19: un análisis bibliométrico Recebido: 18/10/2022 | Revi sado: 26/10/2022 | Aceit ado: 28/10/2022 | Publicado: 02/11/2022 Tássia Teles Santana de Macêdo ORCID: -0003 -2423 -9844 Escola Bahiana de Medicina e Saúde Pública , Brasil E-mail: tassiamacedo@bahiana.edu.br Cátia Suely Palmeira ORCID: -0001 -6328 -8118 Escola Bahiana de Medicina e Saúde Pública , Brasil E-mail: cspalmeira@bahiana.edu.br Nícolas Vinícius Rodrigues Veras ORCID: -0002 -6102 -7309 Universidade Federal do Rio Grande do Norte , Brasil E-mail: nicolas.veras.065@ufrn.br Resumo O presente artigo tem objetivo de analisar a produção científica brasileira referente à tecnologia e inovação aplicada a saúde na pandemia da COVID -19.
+Estudo bibliométrico que analisou as publicações nacionais , com destaque para os autores, instituições, periódicos, área de conhecimento, ano de publicação, e mapeamento da co -ocorrência das palavras -chave, registrados na base de dados Web of Science (WoS).
+Utilizou -se as palavras -chave: "Tecnologia", "Inovação", "Saú de" (nos idiomas português e inglês), "COVID -19", "Coronavírus", e "SARS -CoV -2".
+A análise estatística descritiva compreendeu o período de 2019 e 2022, e teve suporte dos softwares Excel e VOSviewer.
+Os resultados desta pesquisa mostram que as publicaçõe s se concentraram no ano de 2021 (60,0%), na categoria Public Environmental Occupational Health da WoS (22,2%), nas universidades do Sudeste br asileiro, com destaque para a Universidade de São Paulo (22,5%), no periódico Revista da Sociedade Brasileira de Medicina Tropical (2,4%) e nos autores Giovanetti, M., Ciccozzi, M. & Durigon, E. L., sendo que esses autores juntos produziram mais 50 artigos publicados.
+No mapa de co -ocorrência foi possível identificar o conjunto de palavras -chaves que caracterizam o desenvolvimento da tecnologia e inovação à saúde durante a pandemia do COVID -19, com destaque o desenvolvimento de vacinas, terapias e testes de diagnóstico para enfrentamento da pandemia.
+Desta forma, conclui -se que a produção brasileira científica sobre t ecnologia e inovação durante a pandemia COVID -19 foi produzida em artigos multidisciplinares e esteve voltada principalmente para à área de di agnóstico, tratamento e vacina.
+Entretanto, reforça a necessidade do avanço desses estudos com deferentes método s no contexto discutido .
+Palavras -chave: Tecnologia; Inovação; Saúde; C ovid-19.
+Abstract This article aims to analyze the Brazilian scientific production regarding technology and innovation applied to health in the COVID -19 pandemic.
+Bibliometric study t hat analyzed national publications, with emphasis on authors, institutions, journals, area of knowledge, year of publication, and mapping of the co -occurrence of keywords, recorded in the Web of Science (WoS) database.
+The keywords were used: "Technology ", "Innovation", "Health" (in Portuguese and English), "COVID -19", "Coronavirus", and "SARS -CoV -2".
+Descriptive statistical analysis comprised the period from 2019 to 2022, and was supported by Excel and VOSviewer software.
+The results of this research show that the publications were concentrated in the year 2021 (60.0%), in the Public Environm ental Occupational Health category of WoS (22.2 %), in universities in Southeast Brazil, with emphasis on the University of São Paulo (22.5%), in the journal Revista da Sociedade Brasileira de Medicina Tropical (2.4%) and in the authors Giovanetti, M., Ciccozzi, M .
+& Durigon, E. L., and these authors together produced another 50 published articles.
+In the cooccurrence map, it was possible to identify the set of keywords that characterize the development of technology and innovation in health during the COV ID-19 pandemic, with emphasis on the development of vaccines, therapies and diagnostic tests to face nt of the pandemic.
+In this way, it is concluded that the Brazilian scientific production on technology and innovation during the COVID -19 pandemic was pr oduced in multidisciplinary articles and was mainly focused on the area of diagnosis, treatment, and vaccine.
+However, it reinforces the need to advance these studies with different methods in the context discussed.
+Keywords: Technology, Innovation, Heal th; Covid -19.
+Research, Society and Development, v. 11, n. 14, e453111436647 , 202 2 (CC BY 4.0) | ISSN 2525 -3409 | DOI: -v11i1 4.36647 2 Resumen Este artículo tiene como objetivo analiz ar la producción científica brasileña en materia de tecnología e innovación aplicada a la salud en la pandemia de la COVID -19.
+Estudio bibliométrico que analizó publicaciones nacionales, con énfasis en autores, instituciones, revistas, área de conocimiento , año de publicación y mapeo de la coocurrencia de palabras clave, registradas en la base de datos Web of Science (WoS).
+Se utilizaron las palabras clave: "Tecnología", "Innovación", "Salud" (en portugués e inglés), "COVID -19", "Coronavirus" y "SARS -CoV -2".
+El análisis estadístico descriptivo comprendió el período de 2019. al 2022, y se apoyó en el software Excel y VOSviewer.
+Los resultados de esta investigación muestran que las publicaciones se concentraron en el año 2021 (60,0%), en la categoría Salud Ocup acional Ambiental Pública de la WoS (22,2%), en universidades del Sudeste Brasil, con énfasis en la Universidad de São Paulo (22,5%), en la revista Revista da Sociedade Brasileira de Medicin a Tropical (2,4%) y en los autores Giovanetti, M., Ciccozzi, M. & Durigon, E. L., y estos autores juntos produjeron otros 50 artículos publicados En el mapa de co -ocurrencia fue posible identificar el conjunto de palabras clave que caracterizan el desarroll o de tecnología e innovación en salud durante la pandemia de COVID -19, con énfasis en el desarrollo de vacunas, terapias y pruebas diagnósticas para afrontar nt de la pandemia.
+De esta forma, se concluye que la producción científica brasileña sobre tecnolo gía e innovación durante la pandemia de la COVID -19 se produjo en artículos multidisciplinarios y se centró principalmente en el área de diagnóstico, tratamiento y vacuna.
+Sin embargo, refuerza la necesidad de avanzar en estos estudios con diferentes méto dos en el contexto discutido.
+Palabras clave: Tecnología, Innovación, Salud; C ovid-19.
+Introdução Em dezembro de 2019 surgiu na província de Hubei, na China, o vírus SARS -CoV -2 que causa uma doença infecciosa (coronaví rus doença 2019 [COVID -19]) carac terizada por pneumonia e insuficiência respiratória aguda (OPAS/OMS Brasil, 2020).
+No início de março de 2020, a Organização Mundial da Saúde (OMS) declarou o COVID -19 como uma pandemia, e em seguida foi decretado isolamen to social nas cidades brasileiras a fim isolar a população, reduzir a transmissibilidade do vírus, e evitar um colapso no sistema de saúde do país (Brasil, 2022b; World Health Organization, 2022).
+Os dados da OMS apontam 504.079.039 casos confirmados de CO VID-19, incluindo 6.204.155 morte s no mundo.
+Até o dia 18 de abril de 2022, um total de 11.324.805.837 doses de vacina foram administradas (Brasil, 2022b; Universidade de São Paulo, 2022).
+Diante do expressivo número de casos confirmados da Covid -19 e o re gistro exponencial de óbitos pela doença, observou -se a aceleração dos processos de pesquisas científicas com foco desenvolvimento da ciência, tecnologia e inovação para o conhecimento sobre as manifestações clínicas da doença ainda desconhecida, bem como o incremento de medidas eficazes para a prevenção e controle da COVID -19 (Ahmad et al., 2021; Fan et al., 2020).
+Ao mesmo tempo, foi evidenciado o crescente uso de tecnologias digitais nos sistemas de saúde através da informática em saúde (Va lentim et al., 2021).
+Mas da mesma forma, assi m como é importante pesquisar, é essencial tornar acessível as informação e resultados de pesquisas científicas.
+E um dos principais meios de divulgação na ciência é através da publicação de artigos científicos em periódicos (Li et al., 2018).
+Descobrir t endências e mapear o conhecimento científico cumulativo pode ser útil para construir bases sólidas para o avanço da ciência.
+Para isso, existe na literatura os estudos bibliométricos, os quais permitem obter uma visão geral da literatur a, bem como auxilia a identificar lacunas de conhecimento (Farooq et al., 2021; Loureiro et al., 2016).
+Em outros palavras, a análise bibliométrica permite conhecer o desempenh o de pesquisadores, artigos e perió dicos, padrões de colaboração e componentes de pesquisa, a fim de explorar o estrutura de um domínio específico do conhecimento na literatura existente (Iqbal et al., 2019; Sidone et al., 2016).
+Assim, u ma análise bibliométrica irá permit ir o conhecimento do panorama científico sobre tecnologia e inovação aplicados à C OVID -19, e servirá como um indicador importante para a compreensão da produção brasileira associado às bases da pesquisa científica e tecn ológica em saúde.
+Apesar do express ivo aumento de publicações com o uso da metodologia bibliométrica nos últimos anos sobre o COVID -19, ainda não se encontra disponível estudos que avaliam a produção dos pesquisadores brasileiros.
+Research, Society and Development, v. 11, n. 14, e453111436647 , 202 2 (CC BY 4.0) | ISSN 2525 -3409 | DOI: -v11i1 4.36647 3 Desta forma, o presente artigo tem como este estudo objetiv o analisar a produção científica brasileira referente à tecnologia e inovação apli cada a saúde na pandemia da COVID -19.
+Metodologia Trata -se de uma pesquisa bibliográfica, descritiva, com abordagem quantitativa e que utilizou o método bibliométrico.
+A bibliometria é uma técnica de análise estatística que permite a visualização de i mportantes indicadores de produção, através da análise de publicações, citações, documentos e relatórios científicos (Gao et al., 2019; Hut chins et al., 2016).
+Com o uso da metodologia bibliométrica, podemos conhecer a tendência da evolução do conheciment o em diferentes campos científicos (Ellegaard & Wallin, 2015; Iqbal et al., 2019; Shi et al., 2019), como també m identificar a produção ao longo d o tempo, fornecendo uma orientação para pesquisas futuras (Giménez -Espert & Padro -Gascó, 2019; Sidone et al., 2016) A busca dos artigos foi processada eletronicamente na base de dados Web of Science (WoS), na versão on li ne, devido sua abrangência, reconhe cimento pela comunidade científica, e qualidade dos periódicos indexados nas diferentes áreas do conhecimento, o que permitiu traçar um panorama amplo em contexto nacional (Li et al., 2018; Merigó et al., 2019).
+Na estratégia de busca utilizou -se as palavras -chave oriundas do vocabulário do DeCS/MeSH (Descritores em Ciências da Saúde/ Medical Subject Headings), te rmos estes relacionados à doença da COVID -19 (DeCS, 2016).
+O conjunto de palavras -chave utilizado apresenta uma abrangência q ue contempla outras variações do vírus.
+Os autores utilizaram a coleção principal do WOS, e a consulta de pesquisa a seguir foi ex ecutada em todos os campos e Palavra -chave do autor, a seguir: = ((technology* OR tecnologi a* (Todos os campos) AND innovatio n* OR inovação* (Todos os campos) AND health OR Saúde (Todos os campos)) AND ("COVID -19" OR "SARS -CoV -2" OR "Coronavirus")), vincu lado as palavras -chave de autor.
+O corpus de análise limitou -se aos artigos dos tipos artig o original, publicados entre os an os de 2019 e 2022, o que compreende o período desde os primeiros casos sobre a COVID -19 na China (WHO, 2020), até a data de colet a na base de dados.
+Tendo como critérios de inclusão, todas as produções que abordassem o te ma proposto, com afiliação de auto res e/ou instituições brasileiras, nos idiomas inglês, português e espanhol, e que estivessem disponíveis na íntegra, e online.
+O levantamento dos estudos ocorreu em março e abril de 2022.
+Excluindo -se, portanto, outros ti pos de revisão, teses, dissertaçõe s, artigos ou resenhas, editoriais, cartas, e outras áreas de conhecimento.
+A análise métrica bibliográfica incluiu o ranking das publicações por: ano, periódicos, autores e instituições produtivas, artigos mais citados, e categoria da WoS.
+Além disso, rea lizou -se o mapeamento da co -ocorrência das palavraschave, e a apresentação das mais citadas nos resumos dos artigos publicados.
+O s dados foram exportados para o Microsoft Excel® 2013.
+O software VOSviewer (Visualization O f Similarities versão 1.6.11) foi utilizado para analisar as relações entre as palavras -chave mais frequentemente utilizadas nos diferentes artigos, gerando mapas d e redes (consiste em nós e links) ou seja, cluster (Eck & Waltman, 2018).
+Definiu -se cinco o número mínimo de vezes como a fre quência mínima de co -ocorrência de palavras -chave nas publicações, refletindo o número de estudos incluídos e os consequentes resu ltados da análise.
+O tamanho dos nós reflete o número de publicações ou frequência, quanto m aior o nó, maior será o número de publicações ou frequência.
+Os links entre os nós representam relacionamentos de colaboração, co -ocorrência ou cocitações.
+A cor do s nós e linhas representa diferentes clusters (conjuntos de redes)(Gao et al., 2019).
+Os par âmetros do VOSviewer, pôde analisa r conjuntos de dados em grande escala, e construir redes complexas de acordo com a força de conexão, utilizando o Research, Society and Development, v. 11, n. 14, e453111436647 , 202 2 (CC BY 4.0) | ISSN 2525 -3409 | DOI: -v11i1 4.36647 4 método de contag em (contagem fracionária), e "ignorar documentos com grande número de autores" (número máxim o de autores por documento é 25) ( Fan et al., 2020; van Eck & Waltman, 2010).
+Os dados foram analisados à luz da estatística descritiva, e para disposição e apresen tação dos resultados, optou -se por utilizar as figuras geradas pelos pacotes supracitados e as quadros criadas pelo Excel®.
+De vido ao grande número de documentos escolheu -se apresentar os resultados nos primeiros dez termos (ou "top 10") para melhor visual ização do panorama e prevalência de produção.
+2.1 Consideração ética Por se tratar de um estudos do tipo bibliométrico, não há envolvimento humano e animal; portanto, nenhuma aprovação ética foi necessária.
+Resultados Dos 57.305 artigos do conjunto de dados recuperado após o refinamento por ano, tipo de documento (artigo original e de ace sso aberto disponível), idioma, e país (Brasil), foi analisado no resultado final um total de 1.541 artigos.
+Os 1.541 artigos identificados foram publicados por 13.
+541 autores, cuja média foi de 8,7 autores por documento em 593 periódicos.
+Figura 1 - Ano de publicação dos artigos .
+Fonte: Autores elaboração própria .
+As publicações concentraram -se principalmente entre os anos de 2020 (469 – 30,4%) e 2021 ( 918 – 60,0%), o que demonstra o avanço nos estudos e a divulgação deste conhecimento durante a pa ndemia do coronavírus.
+A evolução temporal das publicações é apresentada na Figura 1.
+A WoS classifica todos os periódicos que indexa em aproximadamente 250 gr upos chamados categorias temáticas.
+Cada revista é classificada em uma ou até seis categorias de assuntos.
+Além disso, a classifica ção WoS não é explicitamente hierárquica, embora algumas categorias de assunto pode ser considerado como parte de outros, mai s amplos (Web of Science, 2022).
+Research, Society and Development, v. 11, n. 14, e453111436647 , 202 2 (CC BY 4.0) | ISSN 2525 -3409 | DOI: -v11i1 4.36647 5 Quadro 1 - Top 10 das categorias extraídas da WoS mais utilizad as na classificação das publicaçõe s, 2022.
+(N= 250 categorias, dos 1.541 artigos).
+Categorias Ocorrência dos registros (N) Public Environmental Occupationa l Health 235 Infectious Diseases 142 Medicine General Internal 135 Environmental Sciences 84 Virology 83 Nursing 81 Tropical Med icine 80 Parasitology 74 Immunology 68 Fonte: Autores elaboração própria.
+A análise do conjunto das categorias temátic as da WoS associadas as áreas do conhecimento às publicações revela um caráter amplo.
+Dentre as 250 principais categorias, as TOP 10 mais utilizadas possui uma concentração na grande área Public Environmental Occupational Health (235-22,2%), seguida da Infectious Diseases (142-9,2%).
+No que concerne à estratificação dos autores que mais p ublicaram sobre a temática, observ a-se que a média de publicação e do índice -H dos autores variou de aproximadamente 12 e 27, respectivamente.
+O índice H, ou h -index, é um importante indicador que tem o objetivo de quantificar a produtividade e o impacto d as publicações baseando -se nos art igos mais citados (Thomaz, Assad, & Moreira, 2011).
+É importante ressaltar que o maior número de publicação não implica direta mente num maior índice H. Neste estudo observa -se que o autor Bozza, P.T possui o maior valor n o índice H, apesar de ocupar a oit ava posição no ranking dos Top 10 autores mais produtivos com onze artigos sobre a temática investiga nesta pesquisa, conforme Quadro 2.
+Quadro 2 - Top 10 dos autores mais produtivos e seus índice s H, 2022 (13.541 au tores, nos 1.541 artigos) .
+Autores Número de publicações relacionados ao objeto de estudo Índice H* Giovanetti, M. 23 17 Ciccozzi, M. 15 40 Durigon, E.L. 14 28 Siqueira, M.M.
+11 28 Fintelman -Rodrigues, N. 11 12 * O valor do Índice H foi pesquisado no site da WoS, seção busca por pesquisadores .
+Fonte: Autore s elaboração própria.
+Neste estudo observa -se que alguns dos autores classificados no T op 10 no número de artigos, public aram estes em conjunto.
+Por exemplo, Giovanetti, M. e Ciccozzi, M. participaram da co -autoria do artigo intitulado "The 2019 -new coronavirus epidemic: Evidence for virus Evolution", publicado em 2020, artigo este constata do como o artigo com maior número de citação ( Quadro 5).
+Research, Society and Development, v. 11, n. 14, e453111436647 , 202 2 (CC BY 4.0) | ISSN 2525 -3409 | DOI: -v11i1 4.36647 6 O Quadro 3 apresenta as 10 principais revistas científicas que produzem literatura sobre tecnologia e inovaçã o à saúde durante o COVID‑19.
+Três periódicos produziram mais de 30 publicações cada, send o que esses periódicos juntos produziram mais de 100 publicações, e mais de 150 citações.
+Revista da Sociedade brasileira de Medicina Tropical emergiu como a principa l fonte com 37 publicações, 97 citações, seguido pela Revista Brasileira de Enfermagem, u m periódico com 36 publicações e 34 citações.
+Este resultado corrobora com as Top 10 categorias da WoS que mais foram classificados os artigos publicados, enfermagem e medicina tropical, expostas na Quadro 1.
+Quadro 3 - Top 10 Revistas que mais publ icaram sobre a temática abordada, 2022 (593 revistas, dos 1.541 a rtigos) .
+Revista científicas Número de publicações Número de citações* Revista da Sociedade Brasileira de M edicina Tropical 37 97 Revista Brasileira de Enfermagem 36 34 Revista da Associaçã o Médica Brasileira 31 41 Ciência & Saúde Coletiva 29 188 Virus es-basel 27 89 International Journal of Environmental Reserarch and Public Health 27 127 Epidemiologia e Serviços de Saúde 24 212 Journal of Medical Virology 24 391 Revista de Saúde Públi ca 22 218 Brazilian Journal of Infectious diseases 21 178 * O número de citação foi buscado no software VIOSviewer, seção busca por citação e fonte de publicação.
+Manteve -se como referência a ordem numérica decrescente do número de publicações/revista .
+Fonte : Autores elaboração própria.
+A fonte com maior citação (39 1) "Journal of Medical Virology " produziu 24 publicações, seguida da "Revista de Saúde Pública" que obteve 218 citações, ocupando a penúltima posição do ranking de publicação com 22 artigos.
+A maioria dos periódicos classificados no Top 10 pertencia ao Bra sil (8), Estados Unidos da América (1) e Suíça (1).
+Os 1.541 artigos estavam associados a 3.951 instituiçõ es registradas.
+N o Quadro 4 nota -se que a universidade que mais produziu foi a Univer sidade de São Paulo (347 - 22,5%), seguida da Universidade Federal de Minas Gerais (111 – 7,2%), Universidade Federal do Rio de Janeiro (94 – 6,1%), Fundação Oswaldo Cruz ( 92 – 6,0%), e Universidade Federal de São Paulo (83 – 5,4%), todas localizadas na reg ião sudeste do Brasil.
+Quadro 4 - Top 10 das instituições mais produtivas e seus autores com maior participação nas publicações, 2022 (3.951 instituições, nos 1.541 arti gos).
+Instituições Número de registros Autores vinculados com maior registro Univers idade de São Paulo 347 Durigon, E.L Universidade Federal de Min as Gerais 111 Giovanetti, M Universidade Federal do Rio de Janeiro 94 Bozza, P.T Fundação Oswaldo Cru z 92 Giovanetti, M Universidade Federal de São Paulo 83 Cadegiani, F.A Universidad e Estadual de Campinas 57 Malta, D.C Universidade Federal da Ba hia 49 de Sousa, A.R Universidade Federal do Rio Grande do Sul 49 Ferrareze, P.A.G Universidade Feder al de Pernambuco 41 Duarte, G.B Universidade Federal do Rio Grande do Norte* 30 Elsangedy, H.M *Os autores inser iram o registro da Universidade Federal do Rio Grande do Norte diante do importante papel desta instituição na produção científica.
+Fonte: A utores elaboração própria.
+Research, Society and Development, v. 11, n. 14, e453111436647 , 202 2 (CC BY 4.0) | ISSN 2525 -3409 | DOI: -v11i1 4.36647 7 Neste estudo não foi observado a participação de instituiç ões da região Norte, e Centro -Oeste entre as Top 10 instituições m ais produtivas.
+E apesar de em menor número as regiões Sul e Nordeste foram representadas pelas universid ades federais dos estados do Rio Grande do Sul, da Bahia, Pernambuco, e Rio Grande do Norte, respectivamente.
+Ainda sobre os resultados expostos n o Quadro 4, destaca -se que os pesquisadores com maior número de publicação vinculados as instituições classifi cadas no Top 10, são em sua maioria os mesmos que possuem os maiores números de artig os publicados e valores de incide H já supracitados anteriormente, no Quadro 2.
+Os Top 10 artigos mais citados foram citados numa frequência de 1.852 citações (4,5% do núm ero total de citações), sendo publicados em nove diferentes periódicos.
+O periódico i ntitulado " Science of the total environment " foi responsável por duas das dez publicações mais citadas - COVID -19 pandemic: Impacts on the air quality during the partial l ockdown in Sao Paulo state, Brazil (2020) e COVID -19 faecal -oral transmission: Are we asking the right questions ?
+(2020), na segunda e penúltima posição , conforme o Quadro 5.
+Quadro 5 - Top 10 dos artigos mais citados e a revista de publicação, 2022 (41.48 1 citações, dos 1.541 artigos) .
+Título do artigo (ano de publicação) Número de citação Períodico de publicação The 2019 -new coronavirus epidemic: Evide nce for virus evolution (Benvenuto et al., 2020) 302 Journal of medical virolo gy COVID -19 pandemic: Impacts on the air quality during the parti al lockdown in Sao Paulo state, Brazil (Nakada & Urban, 2020) 296 Science of the total environment CD147 as a Target for COVID -19 Treatment: Suggested Ef fects of Azithromycin and Stem Cell Engagement (Ulrich & Pillat, 2020) 209 Stem cell reviews and re ports Slum Health: Arresting COVID -19 and Improving Well -Being in Urban Informal Settlements (Corburn et al., 2020) 197 Journal of urban health -bulletin of the new york academy of medicine Clinical trials on drug repositioning for COVID -19 treatment (Viveiros Rosa & Santos, 2020) 197 Revista panamericana de salud publica -pan amer ican journal of public health Pulmonary and systemic involvement in COVID -19 patients assessed with ultrasound -guided minimally invasive autopsy (Duarte -Neto et al., 2020) 160 Histopathology Social isolation during the COVID -19 pandemic can incr ease physical inactivity and the global burden of cardiovascular d isease (Pecanha, Goessler, Roschel, & Gualano, 2020) 134 Americ an journal of physiologyheart and circulatory physiology Coronav irus disease 2019 in patients with inborn errors of immunity: An international study (Meyts et al., 2021) 128 Journal of allergy and clinical immunology COVID -19 faecal -oral transmission: Are we asking the right questions?
+(Heller, Mota, & Greco, 2020) 119 Science of the total environment When health professionals look deat h in the eye: the mental health of professionals who deal daily with the 2019 coronavirus outbreak (Neto et al., 2020) 110 Psychiatry research Fonte: Autores e laboração própria .
+Ainda sobre os Top 10 artigos mais citados , quanto ao conteúdo pôde -se observar que houve uma homogeneidade no quantitativo quanto aos q ue discutiram ciência básica/caracterizações genômicas do vírus e manifestações clínicas (3-30%); apresentou resultados relacionados as opções de tratamen to, medicação/vacina/ procedimentos terapêuticos (3 -30%), discutiram sobre os comportamentos e hábitos de vida (3 -30%), sendo apenas (1 -10%) apresentou resultados referentes as condições amb ientais durante o lockdown na pandemia ( Quadro 5).
+Do total de 4.8 39 palavras -chave as três principais palavras -chave de autores dominantes: foram COVID -19 (ocorrências = 801), SARS -CoV -2 (ocorrências = 771) e Coronavirus (ocorrências = 453), sendo as top 10 apresentadas n o Quadro 6.
+Research, Society and Development, v. 11, n. 14, e453111436647 , 202 2 (CC BY 4.0) | ISSN 2525 -3409 | DOI: -v11i1 4.36647 8 Quadro 6 - Top 10 palavras -chaves m ais utilizadas nas publicações, 2022.
+(N= 4.839 palavras -chaves, nos 1.541 artigos).
+Palavras -chaves Ocorrência Força total da rede de ocorrência* COVID -19 801 5573 SARS -CoV -2 771 5553 Coronavirus/ Coronavírus infecctions ** 453/235 3100/1258 Pandemic/ pandemics** 120/109 822 /592 Brazil 87 546 Epidemiology 77 444 Infection 66 607 Mortality 62 478 Health 42 365 Virus 40 215 * Força de ocorrência sig nifica o número de publicações em que dois termos ocorrem juntos.
+** O autor preferiu agregar as palavraschaves por serem similares, porém manteve -se o quantitativo de ocorrência de cada uma respectiv amente.
+Fonte: Autores e laboração própria Das 288 palavras -chave que atendiam ao critér io de ter a frequência mínima o número cinco de ocorrências, os autores selecionaram apenas 100 palavras -chave para serem processadas e analisadas, a fim de obter uma m elhor visualização do mapa.
+Assim, após o delineamento das co -ocorrências o mapa de rede de visualização de co -ocorrência de palavras -chave mostrou que ex istem cinco clusters formados com agrupamentos com forte a suas ocorrências.
+A cor vermelha representa o Grupo 1 (35 palavras), a cor verde representa o Grupo 2 (24 palavras), a cor azul representa o Grupo 3 (18 palavras), a cor amarela representa o Grupo 4 (14 palavras), a cor roxa representa o Grupo 5 (9 palavras).
+A co -ocorrência de palavras -chave do au tor é apresentada na Figura 2.
+Figura 2 - Co-ocorrência das palavras -chave entres os ar tigos, 2022.
+(N= 4.839 palavras -chaves, nos 1.541 artigos).
+Na Figura 2 é ainda possível identificar o conjunto de pala vras-chaves que caracterizam o desenvolvimento da tecnologia e inovação à saúde durante a pandemia do COVID -19.
+Por exemplo, o conjunto da cor roxa, que re presenta o Grupo Research, Society and Development, v. 11, n. 14, e453111436647 , 202 2 (CC BY 4.0) | ISSN 2525 -3409 | DOI: -v11i1 4.36647 9 5, mostra a rede das palavras -chaves que revelam estudos no campo da imunologia, e o desenvolvimento da vacina.
+Já o conjunto da cor azul representado pelo Grupo 3, traz a pr incipalmente a inovação em exames diagnósticos aliado também a telemedicina como palavras -chave que evidenciam o uso da tecnologia em tempos de pandemia, e o conjunto da cor vermelha que representa o Grupo 1, apresenta diversas palavras -chaves que orientam o desenvolvimento de novos testes e medicamentos para o tratamen to ao Coronavírus, nos últimos anos.
+Discussã o Com o aumento exponencial do número de casos de COVID -19 no mundo, a comunidade científica reagiu prontamente com o desenvolvimento de pes quisas na busca do tratamento e controle da doença (WHO, 2020).
+Cronologia das publicações Um elevado e significativo número de publicações relacionadas a tecnologi a e inovação aplicados à saúde durante a pandemia COVID -19 foi observado (Fan et al., 2020; Figueredo et al., 2020).
+E esse expressivo número de publicações ocorreu principalmente no ano de 2021.
+Este artigo mostra a extraordinária quantidade de artigos p ublicados no curto período de tempo, desde o início da pande mia COVID -19 até a produção dos resultados publicados.
+Devido à natureza da doença e sua rápida evolução, foi -se necessário manter a rigidez metodológica na geração da qualidade das pesquisas real izadas (Fan et al., 2020; Ulrich & Pillat, 2020).
+E assim pr oduzir dados fidedignos para o direcionamento na caracterização a doença, manifestação clínica e tratamento (Ahmad et al., 2021; Brasil, 2022b; Viveiros Rosa & Santos, 2020).
+Categorias da Web o f Science Diferentes estudos foram realizados e classificados nas diversas categorias da base de dados da Web of Science (WoS).
+De acordo com o assunto da publicação, uma ou várias categorias podem ser designadas ao periódico fonte no campo Categorias WoS (Web of Science, 2022).
+Neste estudo, a categoria com maior nú mero de registros na principal coleção da WoS foi a "Public Env ironmental Occupational Health", seguida da "Infectious Diseases".
+Essas categorias abordam principalmente à saúde pública e a cara cterização da doença COVID -19, causada pelo vírus SARS -CoV -2 (Benvenuto et al., 2020).
+No campo da Public Environmental Occup ational Health é importante destacar o trabalho desenvolvido pelos profissionais da saúde durante o período pandêmico (Góes et al., 2020).
+Estudos afirmam que inúmeros sentimentos foram exacerba dos durante o processo de trabalho destes profissionais, dentr e estes destacam -se o estresse, a ansiedade e a depressão diante da coexistência de inúmeras mortes causadas pelo COVID -19 (Fukuti et al., 2021; Neto et al., 2020).
+Dentre os profissionais da s aúde apresentados nas categorias WoS, "Nursing", ocupa a sexta posição no ranking.
+Tal destaque está relacionado ao elevado número de publicações realizados com esta categoria profissional (De Moraes et al.
+, 2020; Garibaldi et al., 2021; Gó es et al., 2020).
+Cabe destacar que os profissionais da enferm agem que atuaram na linha de frente da COVID -19, segundo estudos, vivenciaram momentos de extrema dificuldade relacionados a: na escassez de equip amentos de proteção individual, horas excessiva s de trabalho, distanciamento dos familiares, além da sobrecar ga e intensidade de trabalho (Góes et al., 2020).
+A vivência destas dificuldades é um importante indicador de exaustão psíquica.
+Periódicos das pu blicações À medida que o número de pesquisas cie ntíficas aumenta rapidamente, há também a necessidade de diss eminar estas produções em periódicos (Sidone et al., 2016).
+A Revista da Sociedade Brasileira de Medicina Tropical concentrou o maior Research, Society and Development, v. 11, n. 14, e453111436647 , 202 2 (CC BY 4.0) | ISSN 2525 -3409 | DOI: -v11i1 4.36647 10 número das p ublicações sobre tecnologia e inovação analisada s neste estudo.
+Corroborando com o estudo bibliométrico que analisou a produção científica nos primeiros seis meses de pandemia COVID -19 (Figueredo et al., 2020).
+Quando analisados os periódicos que mais pub licaram sobre a temática abordada neste estudo, nota-se que a maioria destes tem em seu escopo os trabalhos p ublicados nas áreas de ciências médicas e da saúde, ciências biológicas e sociologia.
+Atualmente as publicações científicas do Brasil representam 2 ,39% de toda a produção mundial sobre COVID -19 (Jornal da USP, 2020) A disponibilidade tecnológica brasileira associada à pesquisa sobre o coronavirus também é evidenciada a partir da análise e divulgação dos dados.
+Como por exemplo, ações de entre diferen tes atores do sistema de ciência, tecnologia e inovação para compartilhar e produzir conhecimento nacional e estadual sobre a COVID -19.
+Por exemplo, Coronavírus RNuma plataforma desenvolvida para funcionar como um painel de monitoramento online de indica dores sobre a Covid -19 no Rio Grande no Norte (L aboratório de Inovação Tecnológica em Saúde, 2022); a Rede Co vida - Ciência, Informação e Solidariedade, criada pelo Centro de Integração de Dados e Conhecimentos para Saúde (Cidacs/Fiocruz Bahia) e a Unive rsidade Federal da Bahia (UFBA)(Rede CoVida, 20 22); ou, a iniciativa Covid -19 Data Sharing/BR, criada pela F apesp, e a Universidade de São Paulo (Universidade de São Paulo, 2022).
+Instituições das publicações No tocante à filiação institucional dos autor es das publicações brasileiras tecnologia e inov ação na saúde durante a pandemia COVID -19 no período 2019 -2022, destacam -se por sua centralidade e grau de intermediação das instituições e universidades localizadas na região Sudeste do Brasil.
+A predominânc ia das universidades no estado de São Paulo é ta mbém vista em outros estudos com a mesma metodologia, porém e m diferentes contextos e temáticas (Figueredo et al., 2020; Vargas et al., 2021).
+Colaborações em pesquisa tem um papel crucial no desenvolvimento de pesquisas científicas (Droescher & Da Silva, 2014; Sidone et al., 2016).
+As instituições e univ ersidades que lideram as pesquisas relacionados ao coronavírus também detêm o maior número de estabelecimento de redes/parcerias/cooperação e financiamento pe las agências de fomento nacionais e internacionais.
+Diante deste contexto, destaca -se a importante parceria estabelecida entre a Fiocruz e a Universidade de Oxford com a empresa farmacêutica AstraZeneca (produção de uma vacina contra Covid -19) (Brasil, 202 2a).
+Da mesma forma, é importante re ssaltar que tais instituições e universidades brasileiras des empenham um papel crucial no estabelecimento de colaboração científica, expressas tanto no volume de coautorias dos pesquisadores em publicações, como na part icipação em projetos em conjuntos par a o desenvolvimento de tecnologia e inovação (Droescher & Da Silva, 2014; Thomaz et al., 2011).
+Publicações mais citadas O indicador de citação mede a frequência que os artigos de um periódico são citados a partir da s ua data de publicação (Sidone et al., 2016; Thomaz et al., 2011).
+Neste estudo 90% dos Top 10 arti gos mais citados foram publicados em 2020, apesar da maioria das 1.541 publicações extraídas da base de dados e analisadas sobre a temática ter sido publicado no ano de 2021 (Quadro1).
+Dentre o s artigos analisados, o artigo intitulado "The 2019 -new coron avirus epidemic: Evidence for virus Evolution", publicado em 2020 (Benvenuto et al., 2020), recebeu o maior número de citações.
+Este resultado pode ter relaçã o com a abertura política de acesso q ue muitos periódicos implementaram durante a pandemia (ElHawa ry, Salimi, Diab, & Smith, 2020).
+Este cenário contribuiu potencialmente para a rápida disseminação de informações e a exponencial crescimento de publicações no que diz respeito às publicações CO VID-19 (ElHawary et al., 2020; Fan et al., 2020).
+Research, Society and Development, v. 11, n. 14, e453111436647 , 202 2 (CC BY 4.0) | ISSN 2525 -3409 | DOI: -v11i1 4.36647 11 Autores ma is produtivos Ainda sobre o número de citações do artigo, quando se observa a interface entre o artigo mais citado e os autores que mais publicam, nota -se que dois dos autores classificados como os mais produtivos (Giovanetti, M. & Ciccozzi, M.) também participaram do artigo mais citado.
+Desta forma, evidencia -se que a cooperação e integração entre os pesquisadores, colaboram para a certificação das pesquisas, sendo uma é atividade imprescindível ao progresso da ciência na comunidade científica (Vargas et al., 2021).
+Palavras -chaves mais citadas A pandemia do coronavírus gerou uma acelerada corrida tecnológica, com um aumento nos investimentos em pesquisa e, consequentemente um elevado volume de publicações (Ahmad et al., 2021; ElHawary et al., 2020; Varg as et al., 2021).
+Observa -se que o grande número de estudos recentes estão voltados principalmente no que diz respeito ao conjunto de iniciativas com foco no desenvolvimento métodos diagnósticos, de vacinas e medicamentos para a imunização e tratamento da COVID -19.
+E múltiplos autores que estudam e publicam sobre a temática (Duarte -Neto et al., 2020; Heller et al., 2020; Meyts et al., 2021) utilizam o termo CO VID-19 como a sua principal palavra -chave nos estudos.
+Conclusão Em suma, este estudo demonst rou através da análise bibliométrica que muitos foram os artigos que abordaram a temática da tecnologia e inovação na saúde durante a pandemia COVID -19.
+A ma ioria destes artigos foram publicados em 2021, com a participação de pesquisadores brasileiros de instituições públicas, em sua maior quantidade da região sudeste do Brasil.
+Os artigos foram publicados em maior número nos periódicos da área biomédica, cla ssificados na categoria de Public Environmental Occupational Health da WoS, e que utilizaram como descritor a palavra -chave COVID -19, e outras variações do vírus como SARS -CoV -2, Coronavirus e Coronavírus infecctions.
+A análise dos artigos mostrou que a t ecnologia e inovação na pandemia COVI D-19 possui relação com as mais diversas áreas da saúde, mas principalmente com o desenvolvimento de vacinas e medicamentos, para a imunização e tratamento da doença.
+Este estudo demonstra ainda que se manteve a hegemon ia dos autores/pesquisadores e instit uições brasileiras que mais produzem e publicam sobre a temát ica, quando comparado com outros estudos da temática.
+O estudo mostra as limitações na estratificação dos artigos ser realizada pela escolha de apenas uma bas e de dados, a WoS, porém, no entanto, utilizou -se palavras -chave em diferentes idiomas com o objet ivo de atingir de forma mais abrangente os estudos indexados nesta base.
+Ao mesmo tempo, este artigo apresenta os resultados relevantes sobre a produção brasi leira durante a pandemia COVID -19 no âmbito da tecnologia e inovação na saúde O que se observa co m a análise de todos esses indicadores bibliométricos é que avaliar a produção cientifica é uma tarefa muito complexa apesar do uso da tecnologia através dos diferentes softwares.
+Assi, sugerimos que muitos estudos ainda devem ser realizados nessa área a f im de explorar os avanços da tecnologia e inovação aplicadas em outras áreas de conhecimento durante a pandemia COVID -19, bem como incorporando outras análise s de cooperação entre instituições e pesquisadores.
+Research, Society and Development, v. 11, n. 14, e453111436647 , 202 2 (CC BY 4.0) | ISSN 2525 -3409 | DOI: -v11i1 4.36647 12 Agradecimentos Este estudo faz parte do trab alho de conclusão de curso d e Espe cializa ção Informática na Saúde, promovido pela Universidade Federal do Rio Grande do Norte.
+Os autores a gradecem a instit uição por todo o apoio no desenvolvimento da pesquisa.
+Referências Ahmad, T., Murad, M. A., Baig, M., & Hui, J.
+Research trends in COVID -19 vaccine: a bibliometric analysis.
+Human Vaccines & Immunotherapeutics , 17(8), 2367 –2372.
+0.1080/21645515.2021.1886806 Benvenuto, D ., Giovanetti, M., Ciccozzi, A., Spoto, S., Angeletti, S., & Ciccozzi, M. (2020).
+The 2019 -new coronavirus epidemic: Evidence for virus evolution.
+Journal of Medical Virology , 92(4), 455 –459.
+2/jmv.25688 Brasil, M. D. S. (2022a).
+Com vacina nacional, Brasil avança na autossuficiência para pro dução de imunizantes contra Covid -19.
+Retrieved from -br/assuntos/noticias/2022/fevereiro/com -vacina -nacional -brasil -avanca -na-autossuficiencia -para-producao -de-imunizant escontra -covid -19#:~:text=O Brasil deu mais um,país na pro dução de imunizantes.
+Painel Coronavírus do Ministério da Saúde .
+Corburn, J., Vlahov, D., Mberu, B ., Riley, L., Caiaffa, W. T., Rashid, S. F., & Ayad, H. (2020).
+Slum Health: Arresting COVID -19 and Impr oving Well -Being in Urban Informal Settlements.
+Journal of Urban Health , 97(3), 348 –357.
+-020-00438 -6 De Moraes, E. M. I. , De Almeida, L. H. A., & Giordani, E. (2020).
+COVID -19: Nursing care in an intensive care unit.
+Scientia Medica , 30(1), 1 –11.
+Descritores em Ciências da Saúde.
+Retrieved from ud.org Droescher, F. D., & Da Silva, E. L. (201 4).
+O pesquisador e a produção científica.
+Perspectivas Em Ciencia Da Informacao , 19(1), 170 –189.
+-99362014000100011 Duarte -Neto, A. N., Monteiro, R. A.
+A., da Silva, L. F. F., M alheiros, D. M. A. C., de Oliveira, E. P., Theodo ro-Filho, J., & Dolhnikoff, M. (2020).
+Pulmonary and system ic involvement in COVID -19 patients assessed with ultrasound -guided minimally invasive autopsy.
+Histopathology , 77(2), 186 –197.
+(CWTS Meaningful Metrics, Ed.).
+ElHawary, H., Salimi, A., Diab, N., & Smith, L. (2020).
+Bibliometric Analysis of Early COVID -19 Research: The Top 50 Cited Papers .
+Infectious Diseases: Research and Treatment , 13, 11 7863372096293.
+The bibliometric analysis of scholarly production: How great is the impact?
+Scientometrics , 105(3), 1809 –1831 .
+-015-1645 -z Fan, J., Gao, Y., Zhao, N., Dai, R., Zhang, H., Feng, X., & Bao, S. (2020).
+Bibliometric Analysis on COVID -19: A Comparison of Research Between English and Chinese Studies.
+Frontiers in Public Health , 8(August), 1–10.
+Faroo q, R., Rehman, S., Ashiq, M., Siddique, N., & Ahmad, S. (20 21).
+Bibliometric analysis of coronavirus disease (COVID -19) literature published in Web of Science 2019 –2020.
+Journal of Family and Community Medicine , 28(1), 1.
+332_20 Figueredo, W. N., de Macêdo, T. T. S., Cardoso, G. M .
+P., & Sorte Fernandes, E. T. B.
+Bibliometric analysis of brazilian production on COVID -19.
+Revista Baiana de Enfermagem , 34, 1 –9.
+Fukuti, P., Uchôa, C. L. M., Mazzoco, M. F., da Cruz, I. D. G., Echegaray, M. V. F., Humes, E. de C., & Corchs, F. (2021).
+COMVC -19: A program to protect healthcare workers' mental health during the COVID -19 pandemic.
+61/clinics/2021/e2631 Gao, Y., Ge, L., Shi, S., Sun, Y., Li u, M., Wang, B., & Tian, J.
+Global trends and future prospects of e -waste research: a bibliometric analysis.
+Environmental Science a nd Pollution Research , 26(17), 17809 –17820.
+rg/10.1007/s11356 -019-05071 -8 Garibaldi, P. M. M., Ferreira , N. N., Moraes, G. R., Moura, J. C., Espósito, D. L. A., Volpe, G. J., & Borges, M. C. (2021).
+Efficacy of COVID -19 outbreak management in a skilled nursing facility based on serial testing for ea rly detection and control.
+The Brazilian Journal of Infecti ous Diseases , 25(2), 101570.
+Giménez -Espert, M. del C., & Padro -Gascó, V. J.
+Bibliometr ic analysis of six nursing journals from the Web of Science , 2012 – 2017.
+J Adv Nurs, 75, 543–554.1111/jan.13868 Góes, F. G. B., da Silva, A. C. S. S., Dos Santos, A. S. T., Pereira -Ávila, F. M. V., da Silva, L. J., da Silva, L. F., & Goulart, M. de C. e. L. (2020).
+Challenges faced by pediatr ic nursing workers in the face of the covid -19 pandemic.
+Revista Latino -Americana de Enfermagem , 28, 1 –9.
+Heller, L., Mota, C. R., & Greco, D. B.
+COVID -19 faecal -oral transmission: Are we asking the right questions?
+Science of the Total Environment , 729, 138919.
+Research, Society and Development, v. 11, n. 14, e453111436647 , 202 2 (CC BY 4.0) | ISSN 2525 -3409 | DOI: -v11i1 4.36647 13 Hutchins, B. I., Yuan, X., Anderson, J. M., & Santangelo, G. M. (2016).
+Relative Citatio n Ratio (RCR): A New Metric That Uses Citation Rates to Measu re Influence at the Article Level.
+Iqbal, W., Qadir, J., Tyson, G., Mian, A. N., Hassan, S., & Crowcroft, J.
+Scientometrics , 119(2), 1121 –1155.org/10.1007/s11192 -019-03086 -z Jornal da USP.
+U SP esta entre as 20 instituições que mais publicam sobre covid no mundo.
+ias/usp -esta-entre -as-20-instituicoes -que-mais -publicam -sobre -covid -no-mundo/ .
+Laboratório de Inovação Tecnológica em Saúde.
+Retrieved from rn.br/ Li, K., Rollins, J., & Yan, E. (2018).
+Web of Scienc e use in published research and review papers 1997 –2017: a selective, dynamic, cross -domain, contentbased analysis.
+-017-2622 -5 Loureiro , L. H., Andrighi, T. A. G., Sepp, V. J., & Silva, I. C. M. da.
+Estudo bibliométrico sobre produções científicas na saúde com abordagem na inovação e tecnologia: Tencências e perspec tivas.
+Acta Scientiae & Technicae , 4(2).
+Merigó, J. M., Miranda, J ., Modak, N. M., & Boustras, G. (2019).
+Forty years of Safe ty Science : A bibliometric overview.
+Safety Science , 115(January), 66 – 88.
+Meyts, I., B ucciol, G., Quinti, I., Neven, B., Fischer, A., Seoane, E., & Tangy e, S. G. (2021).
+Coronavirus disease 2019 in patients with inborn errors of immunity: An international study.
+Journal of Allergy and Clinical Immunology , 147(2), 520 –531.1016/j.jaci.2020.09.010 Nakada, L. Y. K., & Urban, R. C. (2020).
+COVID -19 pandemic: Impacts on the air quality during the par tial lockdown in São Paulo state, Brazil.
+Science of The Total Environment, 730(January), 139087. tenv.2020.139087 Neto, M. L. R., Almeida, H. G., Esmeraldo, J. D. ar ., Nobre, C. B., Pinheiro, W. R., de Oliveira, C. R. T., & Silva, C. G. L. (2020).
+When health professionals look death in the eye: the mental health of professionals who deal daily with the 2019 coronavirus outbreak.
+Psychiatry Research, 288(April), 2 –4.
+Folha informativa – COVID -19 (doença causada pelo novo coronavírus).
+Pecanha, T., Goessler, K. F., Roschel, H., & Gualano, B.
+Social isolation during the COVID -19 pandemic c an increase physical inactivity and the global burden of ca rdiovascular disease.
+American Journal of Physiology - Heart and Circulatory Physiology , 318(6), H1441 –H1446.
+1152/ajpheart.00268.2020 Rede CoVida.
+Rede CoVida - Ciência, Informação e Solidariedade.
+Retrieved from bahia.fiocruz.br/plataforma/rede -covida/ Shi, J. gang, Miao, W., & Si, H. (2019).
+Visualization and analysis of mapping knowled ge domain of urban vitality research.
+Sustainability (Switzerland), 11(4).
+Sidone, O. J. G., H addad, E. A., & Mena -Chalco, J. P. (2016).
+A ciência nas regiões brasileiras: evolução da produção e das redes de colaboração científica.
+Transinformacao , 28(1), 15 –31.
+-08892016002800002 Thomaz, P. G., Assad, R. S., & Moreira, L. F. P. (2011).
+Uso do Fator de impacto e do índice H para avaliar pesquisadores e publicações.
+Arquivos Brasileiros de Card iologia , 96(2), 90 –93.
+-782x2011000200001 Ulrich, H., & Pillat, M. M. (2020).
+CD147 as a Target for CO VID-19 Treatment: Suggested Effects of Azithromycin and Stem Cell Engagement.
+Stem Cell Reviews and Reports , 16(3), 434 –440.
+-020-09976 -7 Universidade de São Paulo.
+Retrieved from itoriodatasharingfapesp.uspdigital.usp.br/ Valentim, R. A. de M., Lima, T. S., Cortez, L. R., Barros, D. M. da S., da Silv a, R. D., de Paiva, J. C., & de André, F. R. (2021).
+The relevance a techno logy ecosystem in the brazilian national health service's c ovid-19 response: The case of rio grande do norte, brazil.
+Ciencia e Saude Coletiva , 26(6), 2035 –2052.
+1590/1413 -81232021266.44122020 van Eck, N. J., & Waltman, L. (2010).
+Softwa re survey: VOSviewer, a computer program for bibliometric m apping.
+Scientometrics , 84(2), 523 –538.
+-009-0146 -3 Vargas, M. A., Mrejen, M., & Alves, N. G. (2021).
+Ciência, tecnologia e inovação em tempos de pandemia: implicações da Covid -19.
+CADERNOS Do DESENVOLVIMENTO , 28, 145 –172.
+Viveiros Rosa, S. G., & Santos, W. C. (2020).
+Clinical trials on drug repositioning for COVID -19 treatment.
+Revista Panamericana de Salud Publica/Pan American Journal of Pu blic Health , 44, 1 –7.
+Retrieved from -Areas/wos -research -areas.htm WHO.
+WHO Coronavirus Disease (COVID -19) Dashboard.
+7cKSuZaitCD93U2ncwTGnztLwAaAsmmEALw_wcB World Health Organization.
+WHO Coronavirus (COVID -19) Dashboard.who.int/

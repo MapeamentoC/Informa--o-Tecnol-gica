@@ -1,0 +1,251 @@
+INOVAÇÃO, ALIMENTOS E CONSUMO: ANÁLISE DA PRODUÇÃO CIENTÍFICA E SUAS IMPLICAÇÕES INNOVATION, FOOD AND CONSUMPTION: SCIENTIFIC PRODUCTION ANALYSIS AND ITS IMPLICATIONS Priscila Caroline Souza Paiva Dias, Universidade do Estado de Mato Grosso (UNEMAT).
+E-mail: priscila.paiva@hotmail.com Caroline Pauletto Spanhol Finocchio*, Universidade Federal de Mato Grosso do Sul (UFMS).
+E-mail: carolspanhol@gmail.com Thelma Lucchese Cheung, Universidade Federal de Mato Grosso do Sul (UFMS).
+E-mail: thelma.lucchese@ufms.br Submetido: Maio 2018 Aceito: Setembro 2018 *Contato para Correspondência Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.6, n.3, Maio/Agosto – 2019 ISSN: 2319 -0639 DOI: 10.18226/23190639.v6n3.07 Página | 145 Resumo: Os alimentos são percebidos como fonte de satisfação e de bem -estar físico, mas também de preocupação e estresse, estando as preocupações relacionadas à (in) segurança, origem e saudabilidade dos alimentos.
+Atualmente, verifica -se que os indivíduos vivem e m um constante paradoxo, pois de um lado há o desejo de inovar (neofilia), mas por outro há o receio ou medo do não familiar (neofobia).
+Destaca -se, também, que a taxa de inovação na indústria brasileira de alimentos está aumentando gradativamente.
+Frente a esse contexto, objetivou -se analisar a produção científica a respeito das inovações alimentares por meio da técnica de mineração de texto.
+Para tanto, foram analisados 555 artigos publicados no Web of Sicence entre 2004 e 2014.
+Os resultados revelaram o aumento das publicações relacionadas a temática a partir de 2009, reforçando sua importância como tema de pesquisa.
+As áreas do conhecimento que mais se destacaram foram: Tecnologia de Alimentos, Agricultura, Economia e Nutrição.
+Entre os países que mais p ublicaram estão os Estados Unidos, Inglaterra, Holanda e Itália.
+Os conteúdos relacionados à segurança alimentar e alimentos geneticamente modificados apresentaram presença significativa, assim como mudanças climáticas e alegações de saúde.
+Por outro lado, a expressão "comportamento do consumidor" foi a que apresentou menor frequência.
+As implicações desses resultados para o mercado são apresentadas no estudo.
+Abstract: Food is a source of satisfaction and physical well -being, but also of worry and stress.
+These worries include issues related to (in) security, origin and food saudability.
+It is noticed that nowadays people live in a constant paradox, for one hand there is the desire for innovation (neophilia) and on the other hand there is the fear of the unfamiliar (neophobia).
+We highlighted the rate of innovation in the Brazilian food industry is gradually increasing.
+In this context, we aimed to analyze the scientific prod uction on food innovations through text mining technique.
+For such, 555 articles published on Web of Science between 2004 and 2014 were analyzed.
+The results revealed the increase of publications related to this theme since 2009, reinforcing its relevance as research topic.
+The areas of knowledge that stood out most were: Food Technology, Agriculture, Economics and Nutrition.
+The United States, England, Netherlands and Italy were the countries the most published papers.
+The content related to food safety an d genetically modified foods were significantly present as well as climate change and health claims.
+On the other hand, the expression "consumer behavior" was the one that presented smaller frequency.
+The implications of these results for the market are presented in the study.
+1 Introdução A taxa de inovação na indústria brasileira de alimentos está aumentando gradativamente, conforme os dados da Pesquisa de Inovação.
+No período 2012 -2014, do universo de 132.529 empresas com 10 ou mais pessoas ocupadas, 47.693 implementaram produtos ou proce ssos novos ou significativamente aprimorados, caracterizando uma taxa geral de inovação de 36%.
+Constata -se, assim, uma situação de estabilidade, pois a diferença Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.6, n.3, Maio/Agosto – 2019 ISSN: 2319 -0639 DOI: 10.18226/23190639.v6n3.07 Página | 146 foi de 0,3% acima do verificado no triênio 2009 -2011, quando a taxa foi de 35,7% (Pintec, 2014).
+Ainda de acordo com dados da Pintec (2014), os dispêndidos realizados com inovações foram de 44,5% sobre a fabricação de produtos alimentícios, sendo que os dispêndios realizados nas atividades inovativas ultrapassaram R$ 7 milhões.
+A incidência sobre a receita líquida de vendas realizadas nessas atividades representou 1,5% do setor.
+Mesmo diante do aumento na taxa de inovação, Winger, & Wall (2006), chamam a atenção para o fato de que o sucesso das inovações em alimentos é variável.
+Segundo os autore s, em publicação realizada pela FAO, apenas uma proporção pequena (1% a 2%) foi resultado de mudanças radicais, sendo que a maioria (75%) foi atribuída a mudanças incrementais.
+Mesmo assim, cerca de 75% dos novos produtos falharam, isto é, não apresentaram sucesso de vendas.
+Segundo a European Food Information Council (Eufic, 2014), o lançamento de novos produtos representa para a indústria de alimentos uma forma de permanecer competitiva no mercado.
+Embora exista uma demanda para novos produtos, a literat ura aponta que o consumidor ainda é relutante na aceitação destes, principalmente quando se trata do ramo alimentar.
+Isso se dá pelo fato de o consumidor apresentar certa ansiedade ao ingerir um alimento que não lhe é familiar; uma vez que tudo o que comem os, literalmente, se torna parte de nós (Beckmann, & Jonas, 1998; Andrade, 2013).
+Nesse caso, alimentos são descritos como um importante contribuinte para o bem -estar físico, grande fonte de satisfação, preocupação, mas também de estresse (Rozin, 1999; Orm enese, 2009).
+Por isso, a aceitação de inovações pelos consumidores é resultado de um processo decisório complexo, que envolve a avaliação dos riscos e benefícios associados com a nova tecnologia e com as demais alternativas existentes (Hanson, 2014).
+Ront eltap (2007) colaboram com essa informação quando afirmam que a aceitação de uma nova tecnologia também é, em parte, impulsionada pela percepção dos benefícios potenciais do produto.
+A partir dessa perspectiva, o sucesso das inovações alimentares depende d a aceitabilidade do consumidor, da necessidade e da familiaridade com as características do produto.
+Nesse contexto, destaca -se a cultura alimentar, que é constituída por hábitos, que muitas vezes carregam raízes históricas, representadas por heranças ge racionais.
+Assim, o alimento tradicional exerce forte predominância sobre os hábitos alimentares, proporcionando sensações de segurança e conforto ao indivíduo (Braga, 2004).
+Os alimentos tradicionais também são descritos como produtos que fazem parte de u ma determinada cultura, que são ligados a um território e fazem parte de um conjunto de tradições que foram mantidas e Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.6, n.3, Maio/Agosto – 2019 ISSN: 2319 -0639 DOI: 10.18226/23190639.v6n3.07 Página | 147 asseguradas ao longo do tempo (Bertozzi, 1998; Jordana, 2000).
+Mesmo considerando as características de segurança e conforto proporcionad as pelos alimentos tradicionais, ainda assim o homem tem a necessidade de variar os ingredientes que compõe o seu prato (Poulain, 2004).
+Neste caso, as inovações são caracterizadas por produtos que emergem de inovações tecnológicas.
+No caso dos alimentos, são aqueles que apresentam novos ingredientes ou modificações na receita (Carayannis, 2003).
+Portanto, considerando que a inovação tem sido amplamente discutida e estimulada pelo governo e pela indústria de alimentos, bem como pela ciência, este estudo objetivou analisar o conteúdo das publicações científicas no período 2004 -2014.
+O foco desta pes quisa está em compreender como a ciência tem abordado o comportamento do consumidor em relação às inovações alimentares.
+Este estudo está estruturado em cinco seções, sendo a primeira esta introdução.
+A segunda apresenta a revisão da literatura a respeito do tema abordado; a terceira refere -se aos procedimentos metodológicos utilizados neste estudo; a quarta apresenta os resultados e discussões da pesquisa e, por fim, a quinta seção é dedicada as considerações finais.
+2 Revisão da leitura A cultura alime ntar é constituída por hábitos em um domínio em que a cultura não diz respeito apenas a aquilo que tem raízes históricas, mas também a hábitos cotidianos que são compostos pelo que é tradicional e pelo que se constituem como novos hábitos (Braga, 2004).
+Os alimentos tradicionais são aqueles que são consumidos todos os dias ou com bastante frequência, que fazem parte da vida diária e são comumente usados.
+A maioria dos consumidores associam os produtos tradicionais ao hábito, que é um forte determinante do comportamento relacionado com a comida.
+Esse conceito de alimento tradicional inclui aspectos relacionados à saúde, à naturalidade, caseiro, artesanal, feito na fazenda, sem processamento industrial e sem aditivos.
+Os alimentos naturais são percebidos como nutritivos e seguros, associados com um impacto positivo na saúde humana e um baixo grau de processamento.
+O termo 'natural', com o seu apelo emotivo, é frequentemente associado com os termos tradicional e caseiro (Ji, & Wood, 2007).
+A valorização do trad icional vai ao encontro do crescente interesse dos consumidores pelas questões relacionadas à segurança dos alimentos, uma vez que os consumidores têm demonstrado maior preocupação com riscos relacionados a produtos provenientes de procedimentos químicos e inovadores (Andrade, 2013).
+Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.6, n.3, Maio/Agosto – 2019 ISSN: 2319 -0639 DOI: 10.18226/23190639.v6n3.07 Página | 148 No caso dos alimentos, as inovações partem da introdução de novos ingredientes à receita, até produtos totalmente novos.
+Benedito (2005) afirmam que as inovações são ferramentas necessárias para a competitividade e diferencial de mercado.
+Sendo assim, podese vincular o conceito de inovação à capacidade de inserir novos produtos ou processos no mercado.
+Por isso, a inovação de produtos deve se basear em metodologias que avaliem fatores econômicos, demandas e exigências de merca do, para que resultem em sucesso e aceitação por parte do consumidor (Decesaro, 2017).
+A aceitação do consumidor por novas tecnologias é, em parte, impulsionada pela percepção dos benefícios potenciais (Ronteltap, 2007).
+Henson (1995), corrobora com esse pensamento quando afirma que a aceitação ou rejeição dos consumidores por novas tecnologias é resultado de um processo decisório complexo, que envolve uma avaliação dos riscos e benefícios associados com a nova tecnologia e com as demais alternativas existe ntes.
+Assim, é importante notar que o grau de inovação percebido pelos consumidores, bem como sua aceitação, pode variar de acordo com as propriedades do produto, mas também de acordo com o interesse que o consumidor tem em culturas estrangeiras, abertura cultural ou etnocentrismo (Chambers, 2005).
+Alguns estudos revelam que o público é relutante em adotar novidades (Andrade, 2013, Ormenes, 2009).
+Nesse contexto, destaca -se, por exemplo, os alimentos geneticamente modificados (Beckmann, & Jonas, 1998; Chamb ers, 2005; Ronteltap, 2007), uma vez que não são associados com a naturalidade, alta confiabilidade e considerações morais, mas em alguns casos, com a incerteza, insalubridade, consequências negativas e riscos à saúde (Grunert, 2001).
+Nota -se que o indivíd uo vive em um constante paradoxo: a necessidade de inovar [neofilia] e o receio ou medo do não familiar [neofobia].
+Segundo Fischler (1990), as inovações no setor alimentar são mais bem aceitas quando os indivíduos reconhecem algo de familiar no novo produ to.
+Essas alegações motivaram a realização deste estudo, que tem o objetivo de analisar como a ciência tem abordado as inovações alimentares e o comportamento do consumidor.
+Assim, para o estudo do consumo deve -se analisar três dimensões subjacentes: conhe cimento, sentimento e ação que caracterizam as atitudes em relação a um bem específico.
+Isso significa que quando um indivíduo detém uma atitude em relação a um objeto, ele se baseia em alguma crença (conhecimento) ou sentimento (emoção) sobre o mesmo.
+Ou seja, se sentimos alguma emoção positiva em relação a determinado bem de consumo, nossa tendência é acolhê -lo, já se sentimos alguma emoção negativa, poderemos repudiá -lo (Ajzen, Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.6, n.3, Maio/Agosto – 2019 ISSN: 2319 -0639 DOI: 10.18226/23190639.v6n3.07 Página | 149 2001).
+Assume -se assim, que esses fatores atitudinais têm uma influência sobr e o comportamento e que existe uma relação entre a avaliação feita de um produto e a atitude em relação ao mesmo (Vázquez -Casielles, 2002).
+No caso específico do comportamento de consumo de alimentos, essa prática se torna ainda mais complexa, uma vez que tudo o que comemos literalmente se torna parte de nós Beckmann, & Jonas, 1998; Andrade, 2013).
+Por isso, ao tratar do consumo de alimentos provenientes de inovação, a relação entre crenças e sentimentos do indivíduo sobre produtos novos, aliado a percepçã o do risco alimentar, torna -se essencial para o entendimento desse complexo paradoxo.
+3 Procedimentos metodológicos A metodologia deste estudo está dividida em duas etapas.
+A primeira baseia -se em uma pesquisa bibliométrica, enquanto a segunda baseia -se em uma análise do conteúdo das publicações selecionadas por meio da mineração de texto.
+3.1 Coleta de dados A pesquisa bibliométrica aborda o que e quanto já foi publicado sobre o tema, o que gera uma sustentação para o desenvolvimento de novos trabalhos.
+A pesquisa foi realizada na base de dados ISI Web of Science , acessada a partir do Portal da Biblioteca da Universidade Federal de Mato Grosso do Sul.
+Com os dados bibliométricos foi caracterizada a dinâmica da evolução da produção científica e identificadas as grandes áreas do conhecimento envolvidas no campo científico estudado.
+Os parâmetros bibliométricos foram estabelecidos com a utilização das ferramentas disponíveis na base de dados Web of Science .
+A referida base foi escolhida por sua abrangência e p or ser amplamente utilizada em estudos bibliométricos como nos estudos de Talamini, & Dewes (2009) e Spanhol -Finocchio, & Dewes (2016).
+Objetivando uma seleção assertiva de artigos científicos, foram escolhidas três palavras -chave que melhor representam o tema de estudo.
+Essas palavras foram: " Food AND Innovation AND Consum*" .
+O asterisco foi acrescentado ao radical " consum " com o objetivo de capturar as possíveis variações da palavra ( consumer e consumption).
+A busca pelas publicações científicas abordou o período de 2004 -2014, resultando em 555 artigos.
+O Quadro 1, apresenta o resumo das etapas e dos procedimentos de análise adotados nesta etapa.
+Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.6, n.3, Maio/Agosto – 2019 ISSN: 2319 -0639 DOI: 10.18226/23190639.v6n3.07 Página | 150 Quadro 1 : Resumo das etapas adotadas no estudo bibliométrico Etapas Procedimento de Análises Recuperação e seleção de documentos Definição das palavras -chave: "Food AND Innovation AND Consum*" Indicadores bibliométricos Ano de publicação, país, área de pesquisa e instituição Classificação em áreas do conhecimento Distribuição do periódico por área do conhecimento Fonte: Elaborado pelas autoras a partir de Web of Science .
+Devido ao extenso número de áreas do conhecimento foi realizado um agrupamento das áreas por semelhança.
+É o caso, por exemplo, da Biomedicina que foi agrupada às Ciências Biomédicas, já a Engenharia Metalúrgica foi agregada a Engenharia.
+Para a tabulação e análise descritiva dos dados utilizou -se o Software Excel for Windows.
+3.2 Procedimentos para a análise de conteúdo A segunda etapa da pesquisa consistiu na análise de conteúdo das publicações científicas.
+Para tanto, foram selecionados o conjunto do títu lo, resumo e palavras -chave de todas as publicações que retornaram da primeira etapa, sendo posteriormente inseridos no Software QDA Miner produzido pela Provalis Research.
+A análise de conteúdo define -se como sendo uma operação ou um conjunto de operações que objetiva representar o conteúdo de um documento em formato distinto do original, à fim de facilitar sua consulta e referenciação (Bardin, 1977).
+A análise de conteúdo é composta por três fases: i) pré -análise, que se refere a fase da organização e esc olha dos documentos, formulação das hipóteses e elaboração dos indicadores que fundamentam a interpretação final; ii) exploração do material, que se refere ao processamento da análise, e iii) tratamento dos resultados, a inferência e a interpretação, nessa fase, os resultados brutos são tratados de maneira a serem significativos e válidos.
+Seguindo essas recomendações, o conteúdo textual foi inserido no software QDA Miner e com auxílio do módulo WordStat as análises foram realizadas.
+Com isso, foram identif icadas as expressões de palavras mais frequentes nas publicações ao longo do tempo, bem como suas associações, fato que permitiu uma ampla visão acerca do conteúdo científico produzido sobre essa temática.
+Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.6, n.3, Maio/Agosto – 2019 ISSN: 2319 -0639 DOI: 10.18226/23190639.v6n3.07 Página | 151 4 Análise e discussão dos resultados A partir dos resultados foi possível verificar o crescimento das publicações sobre o tema ao longo dos anos.
+O crescimento mais acentuado foi verificado a partir do ano de 2009, sendo que os anos de 2013 e 2014 apresentaram o maior número de artigos.
+As publ icações realizadas entre 2010 e 2014 somam 166 artigos, o que corresponde a 30% do total analisado.
+Esse aumento pode ser justificado pelo maior interesse dos pesquisadores no tema, sem deixar de lado o aumento dos investimentos da indústria alimentícia na s inovações de processo e produto, bem como dos investimentos realizados pelas agências de fomento e instituições de pesquisa.
+Além disso, menciona -se que, cada vez mais, "os consumidores desejam consumir novos produtos que consigam aliar sabor, nutrição, qualidade e segurança" (Carvalho, & Araújo, 2017).
+A Figura 1 ilustra a evolução das publicações sobre o tema, desde a publicação dos primeiros artigos em 2004 até o último em 2014.
+Figura 1 : Evolução do número de artigos ao longo do período (2004 – 2014) Fonte: Dados da pesquisa.
+Na consolidação dos dados bibliométricos, procedeu -se a participação das diferentes áreas do conhecimento na comunicação científica sobre o tema.
+A busca pelos artigos revelou a presença significativa da área de Ciência de Tec nologia dos Alimentos, representando 16,51% do total de publicações no período, seguida pelas áreas de Agricultura (15,27%), Economia (11,76%), Nutrição (6,33%), Ecologia (5,88%), Engenharia (3,67%), Química (2,60%), Geografia (1,89%), Saúde Ocupacional (1 ,89%) e Biotecnologia (1,89%).
+As 10 áreas mais representativas da pesquisa representam 70,37% do número total de áreas que publicaram sobre o tema.
+Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.6, n.3, Maio/Agosto – 2019 ISSN: 2319 -0639 DOI: 10.18226/23190639.v6n3.07 Página | 152 A Tabela 1 ilustra o crescimento do número de citações ao longo do período analisado, tornando -se possível identificar sua evolução, o que pode ser um indicativo da consolidação desse tema na agenda científica.
+Destaca -se que os três artigos com maior número de citações foram: i) Innovations in beef production systems that enhance the nutritional and health v alue of beef lipids and their relationship with meat quality, com 324 citações no período, ii) Reconciling agricultural productivity and environmental integrity: a grand challenge for agriculture , com 164 citações, e iii) Grassroots innovations for sustain able development: Towards a new research and policy , com 153 citações no período.
+Observa -se que os artigos com maior número de citações estão relacionados as maiores preocupações globais relacionadas a alimentação, em que se destacam: a segurança aliment ar e do alimento, atributos de sustentabilidade e qualidade, bem estar, saúde, nutrição e aumento da capacidade produtiva por área (maior produtividade por área).
+Em um contexto de desafios para na produção e distribuição de alimentos, a FAO (2017) destac a que as transformações no meio rural precisam ser feitas não somente no campo social, mas também compatíveis com a sutentabilidade, por meio de inovações que reduzam o uso de recursos, sem comprometer os rendimentos, bem como o gerenciamento otimizado das fontes de emissão de gases de efeito estufa.
+Tabela 1 : Crescimento no número de citações (2004 – 2014) Ano Número de citações 2004 04 2005 32 2006 62 2007 128 2008 198 2009 287 2010 382 2011 568 2012 654 2013 963 2014 1.263 Fonte: Dados da pesquisa.
+Entre os países que mais se destacaram nas publicações sobre o tema, constatou -se a predominância dos Estados Unidos, responsáveis por 17,18% do total das publicações.
+Em seguida, a Inglaterra (7,44%), Holanda (7,17%), Itália (5 ,68%), Espanha (4,87%), Alemanha (4,19%), Austrália (3,78%), França (3,78%), Canadá (3,24%) e Bélgica (3,24%).
+Juntos, esses dez países concentram 60,62% das publicações no período.
+A Figura 2 ilustra a evolução das publicações por país.
+Conforme menciona do, os Estados Unidos lideraram o maior número de publicações, com exceção do ano de 2011, cuja Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.6, n.3, Maio/Agosto – 2019 ISSN: 2319 -0639 DOI: 10.18226/23190639.v6n3.07 Página | 153 liderança foi da Holanda.
+Pode -se notar também que a Inglaterra e a Itália apresentaram crescimento considerável no período de 2012 a 2014.
+O Brasil assumiu a 65º posição no ranking dos países que mais publicaram sobre o tema, com apenas seis publicações ao longo do período analisado.
+A Universidade de São Paulo (USP) e a Universidade Estadual de Campinas (UNICAMP) são as instituições responsáveis por essas publ icações.
+As referidas publicações foram feitas nos periódicos Food Research International, Comprehensive Reviews in Food Science e Food Safety , respectivamente.
+Figura 2 : Crescimento da produção científica dos 10 países com maior número de publicações no período de 2004 – 2014 Fonte: Dados da pesquisa.
+Entre as instituições que se destacaram pelo número de publicações estão: Wageningen University Research Center (3,42%), Ghent Uiversity (2,70%), Institut National De La Research Agronomique (2,52%), University of California System (2,52%), Michigan State University (1,44%), Nofima (1,44%), Newcastle University Uk (1,26%), Unilever (1,26%), United State Departament of Agruculture USDA (1,26%) e University of East Anglia (1,26%), entre outras.
+Frente aos resultados apresentados, nota -se que a Universidade que apresenta o maior número de publicações no período é holandesa (Wageningen University Research Center, com 3,42% das publicações).
+Vale lembrar que a Holanda é o terceiro país com maior número Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.6, n.3, Maio/Agosto – 2019 ISSN: 2319 -0639 DOI: 10.18226/23190639.v6n3.07 Página | 154 de publicações.
+Em seguida está a Ghent Uiversity (2,70%), Universidade Belga, que no ranking de países ocupa a 10º posição.
+A Tabela 2 apresenta a participa ção das 20 principais instituições que se destacaram nas publicações sobre o tema.
+Tabela 2 : Participação das 20 principais instituições que publicaram sobre o tema Instituições Número de publicações Wageningen University Research Center 19 Ghent Unive rsity 15 Institut National de la Recherche Agronomique Inra 14 University of California System 14 Michigan State University 8 Nofima 8 Newcastle University Uk 7 Unilever 7 United States Department of Agriculture Usda 7 University of East Anglia 7 Warsaw University of Life Sciences 7 Aarhus University 6 Consejo Superior de Investigaciones Cientificas Csic 6 Iowa State University 6 Massey University 6 New Zealand Institute for Plant Food Research Ltda 6 Swiss Federal Institute of Technology Zurich 6 University College Cork 6 University of Copenhagen 6 University of Illinois System 6 Fonte: Dados da pesquisa.
+Buscou -se também identificar os periódicos que mais publicaram sobre consumo, alimentos e inovação.
+Entre eles destacam -se: Acta Horticultura com participação de 5,95% das publicações, seguido do British Food Journal (3,07%), Food Quality and Preference (2,70%), Trends in Food Science Technology (2,70%), Appetite (1,63%), Meat Science (1,63%), Food Policy (1,45%), Australian Journal of Dairy Technlogy (1,09%), Journal of the Science of Food and Agriculture (1,09%), Innovation Management Policy Pratice (0,90 %), entre outras.
+Esses resultados revelam os periódicos e as áreas do conhecimento que mais se destacaram na publicação científica sobre a temática, no entanto, questiona -se: qual o conteúdo dessas publicações?
+A resposta para essa questão é apresentada na seção 4.1, que trata da análise de conteúdo das mesmas.
+4.1 Análise de conteúdos A análise de conteúdo foi realizada considerando os 555 artigos que retornaram da etapa bibliométrica.
+O conteúdo do título, resumo e palavras -chave foram inseridos no Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.6, n.3, Maio/Agosto – 2019 ISSN: 2319 -0639 DOI: 10.18226/23190639.v6n3.07 Página | 155 software QDA Miner e analisados com auxílio do módulo WordStat que retorna, entre outras medidas, a frequência com que cada uma das palavras ocorreu.
+Frente ao elevado número de palavras que retornaram da análise (10.117), optou -se por selecionar as vinte expressões de palavras que apresentaram maior frequência, isto é, foram selecionadas as expressões, com no mínimo duas e no máximo quatro palavras, presentes no maior número de documentos.
+Para tanto, essas expressões foram organizadas em ordem decrescente da frequência, permitindo uma visão ampla do conteúdo das publicações.
+Durante a sele ção dessas expressões, observou -se que algumas delas poderiam ser agrupadas em virtude de sua semelhança, como no caso da expressão food product e food products.
+Para operacionalizar essa unificação, foi inserida uma regra no WordStat , de modo que o softwa re realizasse a contagem das duas expressões durante o escaneamento dos textos.
+Nesse caso, o conjunto de regras inseridas refere -se a: i) " food product OR food products ", ii) "supply chain OR supply chains ", iii) " functional food OR functional foods ".
+Acr escenta -se que a ferramenta crosstab do módulo WordStat foi utilizada para a elaboração da Figura 3 que ilustra a evolução da frequência das expressões ao longo do período analisado (2004 -2014).
+Com o Heatmap é possível notar a intensidade com que cada exp ressão ocorreu ao longo do tempo.
+Assim, quanto mais clara a coloração, maior a intensidade da ocorrência daquela expressão.
+Figura 3 : Evolução das expressões de palavras relacionadas a consumo, alimentos e inovação ( Heatmap ) Fonte: Dados da pesquisa.
+Ao analisar a Figura 3, nota -se que a palavra food product (s) é a que mais se destaca, sobretudo nos anos de 2010, 2013, 2014, em que ocorreu 12, 18 e 12 vezes, respectivamente.
+Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.6, n.3, Maio/Agosto – 2019 ISSN: 2319 -0639 DOI: 10.18226/23190639.v6n3.07 Página | 156 Em segundo lugar está a expressão food industry , apresentando maior frequência no ano de 2007.
+A expressão functional food (s) acorreu com maior frequência nos anos de 2008, 2010 e 2011, com frequências iguais à 7, 10 e 9, respectivamente.
+Já a expressão food safety se destacou nos anos de 2005, 2009 e 2010.
+Interessante notar que a expressão product innovation apresentou baixa frequência no início da série analisada, mas a partir de 2011 começou a ocorrer de forma ininterrupta e com maior frequência.
+O fato revela que o interesse ou necessidade por se estudar as inovações é recente e tende a aumentar com o passar dos anos.
+A expressão climate change também começou a figurar nos estudos a partir de 2011, possivelmente pela importância de se desenvolverem inovações alimentares alinhadas com os atributos de sustentabilidade e que auxiliem na mitigação das mudanças climáticas.
+Essas preocupações vão ao encontro das preocupações presentes no documento da FAO (2017) denominado " The State of Food and Agriculture ".
+A expressão consumer behaviour apresentou que da acentuada no ano de 2014, sendo também a expressão com menor frequência acumulada (Tabela 3).
+Esse resultado revela que a ênfase dos estudos nesse campo está pautada nos atributos tecnológicos da produção de alimentos.
+No entanto, chama -se a atenção par a a importância de se compreender melhor o comportamento do consumidor de produtos inovadores, uma vez que o sucesso de uma inovação está associado a aceitação e uso por parte deles.
+Reforçando o exposto, Decesaro (2017) afirma que a inovação de produtos d eve se basear em metodologias que avaliem não somente fatores econômicos, mas as demandas e exigências de mercado, para que resultem em sucesso e aceitação por parte do consumidor.
+Tabela 3 : Frequência acumulada (2004 -2014) das expressões predominantes n o estudo FREQUENCY NB CASES @F_PRODUCT* 148 85 FOOD_INDUSTRY 94 64 FOOD_SAFETY 110 56 @FUNC_FOODS 112 44 FOOD_PRODUCTION 52 39 PRODUCT_DEVELOPMENT 62 35 @S_CHAIN 81 32 FOOD_SECURITY 54 32 GENETICALLY_MODIFIED 50 27 FOOD_SECTOR 32 24 FOOD_SUPPLY 38 23 GLOBAL_FOOD 32 23 CLIMATE_CHANGE 26 22 PRODUCT_INNOVATION 25 22 HEALTH_CLAIMS 66 20 FOOD_PROCESSING 34 19 CONSUMER_BEHAVIOUR 24 19 @ indica que a contagem das palavras considerou sua forma singular e plural Fonte: Dados da pesquisa.
+Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.6, n.3, Maio/Agosto – 2019 ISSN: 2319 -0639 DOI: 10.18226/23190639.v6n3.07 Página | 157 Com o objetivo de identificar a existência de similaridade entre as expressões de palavras que retornaram da análise, foi elaborado um dendograma em que se utilizou o coeficiente de Jaccard.
+O nível de similaridade é medido no eixo horizontal e as diferentes observações são listadas ao longo do eixo vertical.
+A Figura 4 mostra as expressões organizadas em grupos pela proximidade.
+Quanto mais próximo de 1, maior a similaridade.
+Os grupos são formados unindo duas observações individuais ou pareando uma observação individual com um agrupamento existente.
+Nota -se na Figura 4 a existência de quatro grupos com maior similaridade, sendo: i) food industry e food production e entre esses e product development , ii) global food e product innovation , iii) food safety e genectically modified e iv) food sector e food supply.
+As expressões de palavras que apresentam maior similaridade foram food industry e food production (0,943), fato que já era esperado, uma vez que a ênfase dos estudos nesse campo ainda está p autada nos aspectos tecnológicos da produção de alimentos.
+Outro grupo de expressões com elevada similaridade foram food sector e food supply (0,905).
+As expressões global food e product innovation também apresentam elevada similaridade (0,883), assim como as palavras food safety e genetically modified ( 0,878); essas últimas elucidando as preocupações com a segurança do alimento e a introdução dos alimentos geneticamente modificados.
+Figura 4 - Dendograma das expressões de palavras predominantes nos docume ntos científicos relacionados a alimentos, inovação e consumo Fonte: Dados da pesquisa.
+A análise realizada contribuiu para o entendimento de como a ciência aborda a temática das inovações alimentares, bem como as áreas científicas predominantes e as menos Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.6, n.3, Maio/Agosto – 2019 ISSN: 2319 -0639 DOI: 10.18226/23190639.v6n3.07 Página | 158 exploradas.
+Essas evidências ressaltam a necessidade de novos estudos voltados para a percepção do consumidor sobre a ingestão de alimentos provenientes da tecnologia, bem como sua aceitação e o risco percebido.
+5 Considerações finais O objetivo deste estudo foi analisar a produção científica relacionada as inovações alimentares e o comport amento do consumidor no período 2004 -2014.
+Os resultados da etapa bibliométrica revelaram um crescimento considerável da produção científica no período analisado.
+Dentre as áreas do conhecimento que mais se destacaram estão: Tecnologia dos Alimentos, Agric ultura e Economia.
+Além disso, permitiu o conhecimento dos periódicos e países que se destacaram na publicação sobre o tema.
+O país líder em pesquisas acerca do tema são os Estados Unidos, seguido da Inglaterra e da Holanda.
+No entanto, apesar dos EUA lid erarem a produção de pesquisas sobre o tema, a Universidade que mais produz à cerca do assunto é holandesa - Wageningen University Research Center .
+Também foi possível identificar os periódicos que mais publicaram sobre essa temática, o que pode auxiliar o s pesquisadores na escolha do periódico quando da submissão de estudos relacionados a inovação, alimentos e consumo.
+A análise de conteúdo das publicações revelou as expressões de palavras mais frequentes no conjunto de artigos analisados, entre elas: food products, food safety, functional foods, food industry e supply chain .
+Esses resultados, obtidos a partir da metodologia empregada, permitiram uma ampla visão dos principais temas abordados por um grande conjunto de documentos, neste caso, 555 artigos.
+Verificou -se, também, que os temas associados a segurança dos alimentos ( food safety ), mudanças climáticas ( climate change ) e alegações de saúde ( health claims ) tem figurado como relevantes e transversais a temática das inovações alimentares.
+Essa constatação leva a compreensão de que há um visível esforço da ciência em auxiliar, por meio das pesquisas relacionadas as inovações alimentares, no alcance dos objeti vos do milênio, entre eles: saúde e bem -estar, fome zero e agricultura sustentável, bem como o objetivo que envolve as cidades e comunidades sustentáveis (ONU, 2015).
+Foi constatado que apesar do crescimento científico a respeito do tema, faltam estudos voltados para os diferentes segmentos de consumidores e suas particularidades.
+Por exemplo, pesquisas orientadas para as atitudes e percepções dos consumidores em relação aos alimentos provenientes de inovação.
+Pesquisas nesse campo poderão auxiliar a indús tria alimentícia na Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.6, n.3, Maio/Agosto – 2019 ISSN: 2319 -0639 DOI: 10.18226/23190639.v6n3.07 Página | 159 elaboração de estratégias mais eficazes para amenizar a percepção do consumidor acerca da insegurança e do risco percebido a respeito da ingestão de novos alimentos, auxiliando na mitigação da neofobia do consumidor.
+Sugere -se para est udos futuros que novas pesquisas sejam realizadas considerando o uso de estratégias de busca diferenciadas e outras bases de dados, como a Scopus, para ampliar o estudo e a compreensão acerca do tema, bem como a realização novos estudos conduzidos com equi pe multiprofissional para que os dados sejam aproveitados para a orientação em relação ao uso de produtos novos na alimentação, seus benefícios e em especial, seus malefícios.
+Nature and operation of attitudes.
+Andrade, J. C., Deliza, R., Yamada, E. A., Galvão, M. L., Frewer, L. J.
+Percepção do consumidor frente a riscos associados aos alimentos, sua segurança e rastreabilidade.
+Functional foods: Consumer perceptions in Denmark and England.
+Center for market surveillance, research and strategy for the food sector.
+2018, de: -foodsconsumer -perceptions -in-denmark -and-england(81081e40 -5c21 -11da -ae64000ea68e967b).html.
+Beneito, P., Coscollá -Girona, P., Rochina -Barrachina, M. E., & Sanchis, A.
+Competitive press ure and innovation at the firm level.
+The Journal of industrial economics , 63(3), 422 -457.
+Tipicidad alimentaria y dieta mediterránea.
+In A. Medina, F. Medina, & G. Colesanti (Eds.
+), El color de la alimentación mediterránea.
+Elementos sensoriales y culturales de la nutrición, 15 -41.
+Cultura Alimentar: contribuições da antropologia da alimentação.
+Saúde em Revista , 6(13), 37 -44.
+Carayannis, E. G., Gonzalez, E., & Wetter, J.
+The nature and dynamics of discontinuo us and disruptive innovations from a learning and knowledge managements perspective.
+The international handbook of innovation .
+Oxford: Elsevier Science Ltd. Carvalho, J. M., & Araújo, L.O.
+Inovação na Indústria de Alimentos e sua Interface com o Se tor Regulador no Brasil.
+Prospec , Salvador, 10(3), 405 -415.
+The uses of qualitative research in product research Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.6, n.3, Maio/Agosto – 2019 ISSN: 2319 -0639 DOI: 10.18226/23190639.v6n3.07 Página | 160 and development.
+IFT Basic Symposium Series, Marcel Dekker, Inc., New York.
+Decesaro, L., Savero, E. A., Guimarães, J. C., & Girardi, G. (2018).
+A influência da geração X e Y na inovação de produto e processo na indústria metalúrgica do Rio Grande do Sul.
+Revista Brasileira de Gestão e Inova ção, 5(2), 30 -58.
+European Food Information Council.
+EU Project Connection : Connecting key players in the food innovation process to improve consumer acceptance of new products.
+Recuperdo em: 23.10.2015, de www.eufic.org/article/en/healthan dlifestyle/foodchoice/artid/Connecting_key_players_in_the _food_innovation_process_t_improve_consumer_acceptance_of_new_products.
+Food Agriculture and Organization – FAO.
+The State of Food and Agriculture : Leveraging Food Systems for Inclusive Rural Transformation.
+Recuperado em 28.07.2018, de -I7658e.pdf.
+Frewer, L. J., Howard, C., & Aaron, I.
+Consumers acceptance of transgenic crops.
+Pesticide Science , 52 (4), 38 8-393.
+Grunert, K. G., Lahteenmaki, L., Nielsen, N. A., Poulsen, J.
+Consumer perceptions of food products involving genetic modification results from a qualitative study in four Nordic countries.
+Food Quality and Prefere nce, 12(8), 527 -542.
+Demand -side constraints on the introduction of new food technologies: the case of food irradiation .
+Instituto Brasileiro de Geografia e Estatística – IBGE (2014).
+Pesquisa de Inovação: PINTEC 2014.
+Recuperado em 17.09.2018, de snovoportal/multidominio/ciencia -tecnologia -e-inovacao/9141 -pesquisa -deinovacao.html?=&t=o -que-e. Ji, M. F., & Wood, W. (2007).
+Purchase and consumption habits: not necessarily what you intend.
+Journal of Consumer Psychology , 17(4), 261 -276.
+Traditional foods: challenges facing the European food industry.
+Food Research International , 33(3),147 -152.
+Organização das Nações Unidas - ONU.
+17 objetivos para transformar nosso mundo.
+Recuperado em 02.05.2015, de rg/pos2015/ Ormenese, R. C., Faria, E. V., Lemos, A. L., & Miyagusku, L. (2009).
+Os riscos e perigo dos alimentos na percepção dos consumidores.
+Brazilian Journal of Food Technology.
+Recuperado em 12.05.2018, de /especial_2009/v11_edesp_10.pdf.
+Ronteltap, A., Van Trijp, J. C. M., Renes, R. J., & Frewer, L. J.
+Consumer acceptance of technology -based food innovations: lessons for the fu ture of nutrigenomics.
+Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.6, n.3, Maio/Agosto – 2019 ISSN: 2319 -0639 DOI: 10.18226/23190639.v6n3.07 Página | 161 Rozin, P., Fishler, C., Imada, S., Sarubin, A., & Wrzesniewski, A.
+Attitudes to food and the role of food in life in the U.S.A., Japan, Flemish Belgium and France: possible implications for the diet –health debate.
+Spanhol -Finocchio, C. P., & Dewes, H. (2016).
+Expression of Science in Public Policies and Media Reports Related to Obesity in the United States.
+Food and Public Health , 6(5), 140148.
+Talamini, E., & Dewes, H. (2009).
+O governo e a mídia na configuração do macroambiente para os biocombustíveis líquidos no Brasil.
+Revista de Administração Pública , 43(2), 415 -44.
+Vázquez -Casielles, R., Perez, S., José, M., Lanza, R. (2002).
+La actitud y el processo de eleccion de compra: uma aplicacion em um produto de alimentacion.
+Cuadernos Aragoneses de Economia , 12(1),15 -46.
+Food product innovation : A background paper.
+Rome: Food and Agriculture Organization of the United Nations .

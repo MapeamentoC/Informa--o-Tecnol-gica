@@ -1,0 +1,142 @@
+Revista de Enfermagem do Centro -Oeste Mineiro 2018;8:e2583 DOI: 10.19175/recom.v8i0.2583 www.ufsj.edu.br/recom Reflexão Teórica INOVAÇÃO EM PESQUISA NA ENFERMAGEM PSIQUIÁTRICA: COLETA DE DADOS INFORMATIZADA INNOVATION IN PSYCHIATRIC NURSING RESEARCH: COMPUTERIZED DATA COLLECTION INNOVACIÓN EN INVESTIGACIÓN EN LA ENFERMERÍA PSIQUIÁTRICA: COLECCIÓN DE DATOS INFORMATIZADA Renata Marques de Oliveira1, Antonia Regina Ferreira Furegato2.
+RESUMO O enfermeiro pode transformar e modernizar as práticas assistenciais em saúde mental a partir da pesquisa científica.
+Objetivo: Apresentar uma reflexão sobre a utilização de coleta de dados informatizada na área da enfermagem.
+Método: Trata -se de um artigo de reflexão que versa sobre a coleta de dados informatizada, realizada por enfermeiros.
+As reflexões decorrem da vivê ncia dos pesquisadores no desenvolvimento e utilização de um aplicativo para coleta de dados informatizada em dispositivo móvel (tablet) .
+Resultados: A utilização de aplicativos para coleta de dados permite aos enfermeiros superarem dificuldades inerentes às pesquisas de campo como por exemplo, a ansiedade do participante.
+Recursos que podem ser inseridos nos aplicativos: 1) validação de campos (evita respostas em branco ou registro de mais de uma resposta); 2) lógica de ramificação (torna as entrevistas ma is breves ao omitir variáveis que não se aplicam); 3) calculadora (evita erros) e 4) tabulação automática (evita erros de digitação).
+A coleta informatizada permite ao enfermeiro analisar os dados imediatamente após as entrevistas, agilizando s ua publicaçã o. Conclusão: A transição da coleta de dados em formulários impressos para os questionários informatizados precisa respeitar os princípios científicos, com responsabilidade, de modo que traga reais contribuições para a pesquisa e para o cui dado de enfermag em.
+Descritores: Coleta de dados; Software ; Pesquisa em enfermagem.
+ABSTRACT Based on scientific research, nurses can transform and modernize care practices in mental health.
+Objective: To present a reflection on the use of computerized data collection in the nursing area.
+Method: This is a reflection article about the computerized data collection performed by nurses.
+The reflections arise from the experience of the researchers in the development and use of an application for computerized data collection in a mobile device (tablet).
+Results: The use of applications for data collection allows nurses to overcome difficulties related to field research such as participant anxiety.
+Features th at can be inserted into the applications: 1) field validation (avoids blank responses or registration of more than one response); 2) br anching logic (makes interviews shorter by omitting variables that do not apply); 3) calculator (avoids errors) and 4) au tomatic tabulation (avoids typing errors).
+The computerized collection allows the nurse to analyze the data immediately after the interviews, sp eeding up the publication.
+Conclusion: The transition from data collection in printed forms to computerized ques tionnaires needs to respect scientific principles, with responsibility, in order to bring real contributions to research and nursing care.
+Descriptors: Data collection; Software; Nursing research.
+RESUMEN El enfermero puede transformar y modernizar las prácticas asistenciales en salud mental, a partir de la investigación científ ica.
+Objetivo: Presentar una reflexión sobre la utilización de la recolección de datos informatizada en el área de la enfermería.
+Método: Se trata de un artículo de reflexión que versa sobre la recolección de datos informatizada, realizada por enfermeros.
+Las ref lexiones provienen de la vivencia de los investigadores en el desarrollo y utilización de una aplicación para recolección de datos informatizada en dispositivo móvil (tablet).
+Resultados: La utilización de aplicaciones para la recolección de datos permite a los enfermeros superar dificultades inherentes a las investigaciones de campo como la ansiedad del participante.
+Recursos que se pueden añadir en las aplicaciones: 1) validación de campos (evita respuestas en blanco o registro de más de una respuesta); 2 ) lógica de ramificación (hace que las entrevistas más breves al omitir variables que no se aplican); 3) calculadora (evita errores) y 4) tabulación automática (evita errores de escritura).
+La recolección informatizada permite al enfermero analizar los datos inmediatamente después de las entrevistas, agilizando su publicación.
+Conclusión: La transición de la recolección de dato s en formularios impresos para los cuestionarios informatizados precisa respetar los principios científicos, con responsabilidad, de modo que traiga reales contribuciones para la investigación y para el cuidado de enfermería.
+Descriptores: Recolección de d atos; Programas informáticos; Investigación en enfermería.
+Doutora em Ciências pela Escola de Enfermagem – USP/Ribeirão Preto.
+Docente na Faculdade de Ensino Superior e Formação Integral (FAEF).
+Doutora em Enfermagem pela Universidade de São Paulo.
+Professor Colaborador Sênior da Universidade de São Paulo.
+Como citar este artigo: Oliveira RM, Furegato ARF.
+Inovação em Pesquisa na Enfermagem Psiquiátrica: Coleta de Dados Informatizada.
+de Enfermagem do Centro Oeste Mineiro.
+DOI: Oliveira RM, Furegato ARF.
+Revista de Enfermagem do Centro -Oeste Mineiro 201 8; 8/2583 www.ufsj.edu.br/recom - 2 INTROD UÇÃO A enfermagem é uma profissão que permite a atuação em diferentes áreas de conhecimento.
+Isso se concretiza a partir da possibilidade de inserção do enfermeiro em três distintos campos: a assistência, o ensino e a pesquisa científica(1).
+Embora a assistência, o ensino e a pesquisa sejam campos distintos de atuação, são complementares.
+A assistência e a pesquisa ocorrem a partir de um processo de duas vias: do escritório (referência à pesquisa) para a beira do leito e do leito para o escritório(2).
+Se as pesquisas fornecem aos profissionais de enfermagem um novo "saber", capaz de transformar a rotina de cuidados, a participação do enfermeiro nas pesquisas científicas é primordial para a transformação e modernizaçã o das práticas assistenciais.
+Assim, acredita -se que a aquisição de conhecimento, baseada em evidência científica, possa contribuir para um cuidado de enfermagem de melhor qualidade(3).
+A relação da enfermagem com a pesquisa científica é antiga.
+Há indício s de que ela tenha sido iniciada com Florence Nightingale, na Guerra da Crimeia, quando a obtenção de informações, com rigorosa documentação, permitiu melhor planejamento das ações, o que resultou na redução da taxa de mortalidade dos soldados feridos(3).
+Embora a influência da pesquisa científica na prática assistencial seja incontestável, atualmente, questiona -se em quais estudos se podem confiar.
+Essa preocupação urge do reconhecimento da pressão exercida, pelas agências de fomento, para aumentar a quant idade de publicações.
+Diante do exposto, torna -se difícil para os profissionais de enfermagem, envolvidos na assistência e sem conhecimento suficiente dos métodos científicos, diferenciar pesquisa científica de lixo eletrônico.
+Isso se torna mais preocupante ao ter dimensão dos inúmeros vieses que podem incorporar as pesquisas – viés das operações de amostragem; viés das perdas; viés de prevalência; viés do observador; viés da suspeita diagnóstica; viés do instrumento de coleta dos dados; viés de recordação; viés de processamento da informação, entre outros(4-5).
+De acordo com o Conselho Federal de Enfermagem, um dos deveres dos enfermeiros, no campo da pesquisa científica, é a reprodução dos resultados com fidedignidade(1).
+Para tanto, o enfermeiro deve desempenhar suas atividades científicas com rigor metodológico, pautado em conhecimento técnico e científico.
+A prevenção dos vieses (erros sistemáticos) na etapa de delineamento do estudo é crucial para a garantia da validade externa e da credibilid ade dos resultados das pesquisas científicas(4-5).
+Desse modo, a qualidade das pesquisas não deve ser avaliada somente ao seu término, mas ser objeto de preocupação durante suas diferentes etapas.
+Portanto, a qualidade não é um produto final, mas parte de um longo processo, pela qual o enfermeiro se responsabiliza desde a sua concepção até a divulgação dos resultados(6).
+Nessa perspectiva, justifica -se a presente reflexão, a qual versa sobre uma ferramenta inovadora para a pesquisa em enfermagem: a coleta d e dados informatizada.
+A coleta de dados informatizada é um recurso moderno de obtenção de informações, em consonância com o avanço tecnológico atual.
+Trata -se de um recurso metodológico com capacidade de prevenir a distorção dos resultados que decorrem de erros no registro e cálculo das respostas dos sujeitos (viés de processamento da informação), além de diminuir os custos com formulários impressos e tempo de transposição dos dados.
+O presente artigo parte da seguinte questão norteadora: a coleta de dados informatizada pode auxiliar o enfermeiro no desenvolvimento das pesquisas científicas?
+O objetivo deste artigo é apresentar uma reflexão sobre a contribuição da coleta de dados informatizada nas pesquisas científicas da área da enfermagem.
+MÉTODO As refl exões contidas no presente artigo decorrem da vivência dos pesquisadores no desenvolvimento e na utilização de um aplicativo para coleta de dados informatizada em dispositivo móvel (tablet)(7).
+O aplicativo, denominado TabacoQuest, foi desenvolvido para a coleta dos dados de uma pesquisa que visa comparar a prevalência e o perfil epidemiológico do uso de tabaco da população psiquiátrica e da população geral.
+A proposta de desenvolver o aplicativo surgiu a partir da preocupação com o elevado número de variáv eis contidas nos questionários utilizados na coleta dos dados, o que poderia desmotivar as pessoas a participarem do estudo(7).
+Revista de Enfermagem do Centro -Oeste Mineiro 201 8; 8/2583 www.ufsj.edu.br/recom - 3 Na construção do aplicativo, foram inseridos sete instrumentos para a coleta dos dados: um questionário de identificação dos participantes, elaborado pelos pesquisadores, bem como seis escalas validadas por outros autores.
+Os instrumentos compreendiam questões de múltipla escolha e tipo likert , totalizando 168 variáveis.
+A pertinência da utilização dos sete instrumentos foi avaliad a por quatro juízes.
+Foram respeitados os princípios éticos (Plataforma Brasil/CONEP nº CAAE 21101113.3.0000.5393, Comitê de Ética em Pesquisa da Escola de Enfermagem de Ribeirão Preto - EERP/USP 308/2013).
+Nos testes preliminares do aplicativo, foram cria dos 20 sujeitos fictícios em formulários impressos.
+Ao serem registradas no questionário digital, as respostas dos sujeitos fictícios foram conferidas e os eventuais erros de programação identificados e corrigidos.
+Após a correção, as respostas dos sujeito s fictícios foram registradas, no aplicativo, pela segunda vez, não tendo sido identificados novos erros de programação.
+Utilizando esse instrumento de coleta de dados, realizou -se um estudo epidemiológico descritivo -analítico, de corte transversal, com t rês grupos populacionais de uma cidade do interior paulista: P 1 – portadores de transtornos mentais do ambulatório de saúde mental (ASM), P 2 – portadores de transtornos mentais das unidades de agudos do hospital psiquiátrico (HP) e P 3 – população geral de uma Unidade Básica de Saúde (UBS).
+A amostra probabilística foi composta por 378 participantes, 126 em cada serviço(8).
+RESULTADOS E DISCUSSÃO Acredita -se que a utilização de aplicativos para coleta de dados permite aos enfermeiros superar dificuldades in erentes às pesquisas de campo como a ansiedade do participante diante do fato de ser entrevistado.
+Durante as entrevistas com dispositivo móvel, o entrevistado, ao transferir sua atenção para o questionário digital, obtém uma nova forma de lidar com a tens ão inerente a essa situação.
+Com a condução de entrevistas em dispositivos móveis, a atenção dos participantes é direcionada aos questionários digitais que são desenvolvidos com interface amigável e interativa de modo a aumentar a atenção e o interesse d o entrevistado.
+Diante do exposto, o questionário digital funciona como um estímulo visual para o qual o foco da entrevista é direcionado.
+Com isso, o excesso de sensorialidade da mente do entrevistado (por exemplo, medo e ansiedade) é aliviado(9).
+A diver sidade de recursos que podem ser inseridos no aplicativo depende das necessidades da pesquisa e da criatividade do enfermeiro.
+A título de exemplificação, além da interface amigável, no TabacoQuest , foram inseridas as seguintes funções: 1) validação de cam pos (finalidade: evitar respostas em branco ou registro de mais de uma resposta para variáveis com resposta única); 2) lógica de ramificação (finalidade: tornar as entrevistas mais breves e menos cansativas ao omitir as variáveis que não se aplicam a deter minado entrevistado); 3) calculadora (finalidade: evitar erros de cálculo, aumentando a precisão das respostas) e 4) tabulação automática (finalidade: evitar erros de digitação – viés de processamento da informação – e otimizar o tempo do pesquisador)(7).
+Uma limitação que poderia surgir com a coleta de dados informatizada é a perda de sujeitos devido a eventuais quedas do sinal da internet durante as entrevistas, uma vez que muitos aplicativos disponíveis gratuitamente dependem de internet para funcionar.
+O enfermeiro, enquanto pesquisador, deve prever esses problemas na etapa de planejamento do estudo de modo a evitar vieses na pesquisa.
+Diante dessa conscientização, o TabacoQuest foi desenvolvido de modo que seu funcionamento ocorresse independentemente d e internet (funcionamento off-line).
+Diferente do TabacoQuest, pesquisadores chineses relataram que o principal desafio de sua coleta informatizada foi a instabilidade do sinal de internet ( Wi-fi)(10).
+Embora os benefícios da coleta de dados informatizada sejam inúmeros, a transição da coleta de dados em formulários impressos para os questionários informatizados não pode ocorrer de forma indiscriminada.
+Ela precisa acontecer com rigor técnico e científico, de modo que a credibilidade dos resultados da pesqu isa não seja questionada.
+Para tanto, aconselha -se que o questionário digital seja testado diversas vezes antes de sua utilização.
+O desenvolvimento de aplicativo para coleta de dados se constitui num processo trabalhoso, demandando atenção e senso de resp onsabilidade do pesquisador.
+Entretanto, os benefícios decorrentes da coleta de dados informatizada superam as dificuldades.
+Além dos benefícios que envolvem a qualidade e a segurança dos dados (ausência de Oliveira RM, Furegato ARF.
+Revista de Enfermagem do Centro -Oeste Mineiro 201 8; 8/2583 www.ufsj.edu.br/recom - 4 erros de digitação, de respostas em branco, de registro de mais de uma alternativa), a coleta de dados informatizada permite ao enfermeiro analisar os dados (da amostral total ou parcial) imediatamente após as entrevistas, visto que as respostas são registradas no banco de dados simultaneamente ao seu r egistro na tela do dispositivo móvel.
+Isso contribui para a agilidade das publicações científicas.
+Um benefício da coleta informatizada é a facilidade de interação com os entrevistados e o aumento do interesse das pessoas em participar do estudo.
+A coleta dos dados com o TabacoQuest , por exemplo, resultou na maior disponibilidade das pessoas para serem incluídas no estudo.
+Muitas, ao longo da coleta dos dados, abordaram a entrevistadora, espontaneamente, questio -nando se poderiam participar.
+Isso se reflet iu na baixa frequência de recusas dos sujeitos do estudo (recusas= 16, total de entrevistados= 378)(7).
+Ademais, a coleta dos dados com o TabacoQuest permitiu maior interação com os sujeitos durante as entrevistas à medida que eles eram incentivados, em al guns momentos, a registrar a resposta tocando na tela interativa do dispositivo móvel.
+Embora possa parecer um procedimento trivial, foi relevante para a coleta dos dados, uma vez que a amostra era constituída por pacientes psiquiátricos, os quais podem apresentar dificuldade de concentração e de motivação para persistir nas atividades.
+Frente ao exposto, as vantagens do TabacoQuest podem ser sumarizadas do seguinte modo: maior qualidade dos dados, disponibilização imediata do banco de dados para análise e motivação das pessoas para participarem do estudo.
+Maior agilidade no processamento dos dados e aumento da qualidade dos dados o btidos também foram identificados em um estudo, no qual são comparados métodos tradicionais e novas tecnologias de coleta de dados em pesquisa sobre hábitos alimentares(11).
+Maior motivação e envolvimento dos entrevistados em participar da pesquisa também foram identificados em estudos conduzidos com dispositivos móveis na Suíça e nos Estados Unidos(12-14).
+Embora a coleta de dados informatizada possa beneficiar tanto os entrevistados quanto os pesquisadores, o pesquisador deve estar atento para evitar intr oduzir novos vieses na pesquisa científica.
+Apesar dos benefícios, a coleta de dados informatizada não desmerece as pesquisas realizadas a partir de formulários impressos.
+Ela apenas introduz, no campo da pesquisa científica, um novo recurso capaz de otimi zar o tempo dos pesquisadores, de aumentar a qualidade das respostas dos entrevistados (ao tornar as entrevistas menos cansativas) e de diminuir os erros humanos (registro incorreto das respostas, erro nos cálculos, entre outros).
+Outro aspecto que deve se r pensado é a necessidade de conhecimento de informática para desenvolvimento do aplicativo.
+Embora seja esperado que os enfermeiros adquiram, ao longo de sua formação profissional, esse tipo de conhecimento, ele é passado de modo introdutório, o que lhe p ermite desempenhar funções básicas.
+Para tanto, faz -se necessária a parceria com profissionais de ciências exatas (cientistas da computação), o que torna o aplicativo não somente inovador e atrativo para o sujeito, mas, acima de tudo, confiável.
+Por ser um a ferramenta de pesquisa inovadora, é provável que, em um futuro próximo, muitos pesquisadores a introduzam em seus projetos de pesquisa.
+Portanto, é importante que os enfermeiros se interessem por esse recurso, buscando aprimorar suas habilidades no desen volvimento de aplicativos juntamente com profissionais especializados na área.
+CONSIDERAÇÕES FINAIS O uso de tecnologia nas pesquisas de enfermagem representa um avanço para as publicações da área.
+Além da maior qualidade dos dados e disponibilização ime diata do banco de dados para análise científica, ressalta -se o envolvimento e a motivação das pessoas para participarem do estudo.
+A parceria com profissionais da informática tem se mostrado produtiva e foi fundamental na construção do aplicativo TabacoQu est.
+A transição dos procedimentos de coleta de dados em formulários impressos para a coleta informatizada precisa respeitar os princípios científicos, com responsabilidade, de modo que traga reais contribuições para a pesquisa e para o cuidado de enfermag em.
+Conselho Federal de Enfermagem.
+Aprova a reformulação do Código de Ética dos Profissionais de Enfermagem.
+Disponível em : Oliveira RM, Furegato ARF.
+Revista de Enfermagem do Centro -Oeste Mineiro 201 8; 8/2583 www.ufsj.edu.br/recom - 5 -cofen -no5642017_59145.html 2.
+Cowman S. Bedside to bench: Re-thinking nursing research.
+Berthelsen CB, Hølge -Hazelton B.
+'Nursing research culture' in the context of clinical nursing practice: Addressing a conceptual problem.
+Cross -sectional study – what are they good for?
+Acta Obste t Gynecol Scand 2018;97(4):388 -93.
+Part 2: How to identify it and special situations.
+The quality of qualitative research: from evaluation to attainment.
+DOI: 10.1590/0104070720150001150015 7.
+Oliveira RM, Duarte AF, Alves D, Furegato ARF.
+Development of the TabacoQuest app for computerization of data collection on smoking in psychiatric nursing.
+Oliveira RM, Santos JLF, Furegato ARF.
+Dependência do tabaco entre a população psiquiátrica e a população gera l. Latino -Am Enferm.
+DOI: 10.1590/15188345.2202.2945 9.
+Trinca W. O espaço mental do homem novo.
+Zhang J, Sun L, Liu Y, Wang H, Sun N, Zhang P. Mobile device –based electronic data capture system used in a clinical randomized controlled trial: Advantages and challenges.
+Amoutzopoulo s B, Steer T , Roberts C , Cade JE , Boushey CJ , Collins CE , et al.
+Traditional methods v. new technologies - dilemmas for dietary assessment in large -scale nutrition surveys and studies: A report following an international panel discussion at the 9th International Conference on Diet and Activity Methods (ICDAM9), Brisbane, 3 September 2015.
+Von Niederhäusern B , Saccilotto R , Schädelin S, Ziesenitz V , Benkert P , Decker ML , et al.
+Validity of mobile electronic data capture in clinical studies: A pilot study in a pediatric population.
+DOI: 10.1186/s12874 -017-0438 -x 13.
+Jacobson AE , Vesely SK , Haamid F , ChristianRancy M , O'Brien SH .
+Mobile application vs paper pictorial blood assessment chart to track menses in young wome n: A randomized cross -over design.
+DOI: 10.1016/j.jpag.2017.09.009 14.
+Rabbi M , Philyaw -Kotov M , Lee J , Mansour A, Dent L , Wang X , et al.
+SARA: A mobil e app to engage users in health data collection .
+Proc ACM Int Conf Ubiquitous Comput.
+DOI: 10.1145/3123024.3125611 Nota: Este artigo faz parte da Tese de Doutorado "Prevalência e perfil epidemiológico do uso de tabaco da população psiquiátrica dos níveis secundário e terciário de atenção comparados à população geral da rede básica de saúde", defendido na Escola de Enfermagem de Ribeirão Preto, Universidade de São Paulo, 2017.
+Agência de fomento: CAPES (bolsa demanda social do Programa de Enfermagem Psiquiátrica da EERP -USP).
+Recebido em: 25/10/2017 Aprovado em: 17/10/2018 Endereço de correspondência: Antonia Regina Ferreira Furegato Avenida dos Bandeirantes, 3900 CEP: 14040 -902 – Ribeirão Preto/SP - Brasil E- mail: furegato@eerp.usp.br

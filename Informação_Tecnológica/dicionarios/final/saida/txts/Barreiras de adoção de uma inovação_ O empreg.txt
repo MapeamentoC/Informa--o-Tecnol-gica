@@ -1,0 +1,368 @@
+ RAS I, Volta Redonda/RJ, v. 5, n. 2, pp.
+201 9 Barreiras de adoção de uma inovação: o emprego da metodologia SCRUM na MRS Logística S.A. Isabela Maria de Oliveira Duarte (UFRRJ ) - isabela.moduarte@gmail.com Favio Akiyoshi Toda (UFF) - favio.toda@uol.com.br Maria Cristina Drumond e Castro (UFRRJ) - cristinadrumond2010@gmail.com Gabriel Chagas Seixas (IFRJ) - gabriel.seixas@ifrj.edu.br Recebido em 21/12 /2018 Aceito em 27/03/2019 RESUMO O gerenciamento de projetos de softwares enfrenta o des afio de entregar soluções que atendam aos propósitos dos clientes.
+Historicamente, a metodologia tradicional Stage Gate foi a mais utilizada , porém para situações atuais em que se necessita de m ais celeridade com ambientes em transformação , uma abordagem mais flexível se fez necessária .
+As metodologias ágeis surgiram como alternativas , merecendo destaque o SCRUM , possu indo uma maior valorização de interação entre desenvolvedores e clientes , e rápida adaptação às mud anças necessárias para atingir resultado s. Por outro lado, o processo de adoção do SCRUM, entendida como uma inovação em processos, pode enfrentar barreiras que culminem no insucesso da metodologia .
+O presente trabalho teve como objetiv o avaliar as barreiras de adoção desta inovação pela empresa ferroviária brasileira MRS Logística S.A .
+Através de aplicação de entrevistas semi -estruturadas de um estudo de abordagem qualitativa , foi constatado que a adoção do SCRUM gerou benefícios, porém a ocorrência de barreiras influenciou negativamente a completa adoção da metodologia .
+Este estudo contribui na ampliação da discussão teórica e para a área prática de inovação, ao compreender as barreiras de adoção da metodologia SCRUM.
+Palavras -Chave: barreiras da inovação, gerenciamento de projetos de softwares , metodologias de gerenciamento ágil, SCRUM.
+Innovation adoption barriers: the use of the SCRUM methodology in MRS Logistics S.A. ABSTRACT The management of software projects faces the challenge of delivering solutions that meet the clients' purposes.
+Historically, the traditional Stage Gate methodology has been the most widely used, but for current situations in which more time is needed with changing environments, a more flexible approach has b ecome necessary.
+Agile methodologies emerged as alternatives, highlighting the SCRUM, having a higher valuation of interaction between developers and clients, and rapid adaptation to the changes needed to achieve results.
+On the other hand, the process of adopting SCRUM, understood as a process innovation, may face barriers that lead to the failure of the methodology.
+The objective of this study was to evaluate the barriers to the adoption of this innovation by the Brazilian railway company MRS Logistics S. A.
+Through the application of semi -structured interviews of a qualitative approach, it was found that the adoption of SCRUM generated benefits, but the occurrence of barriers negatively influenced the complete adoption of the methodology.
+This study contr ibutes to the expansion of the theoretical discussion and to the practical area of innovation, by understanding the barriers of adoption of the SCRUM methodology.
+Keywords: barriers of innovation, software project management, agile management methodologi es, SCRUM.
+R. Desembargador Ellis Hermydio Figueira, 783, Bloco A, sl.
+27213 -415 - Volta Redonda, RJ – Brasil www.uff.br Copyright © 201 9 RASI.
+Todos os direitos, até mesmo de tradução, são reservados .
+É permitido citar parte de artigos sem autorização prévia, desd e que seja identificada a fonte Duarte, Toda, Castro & Se ixas| 199 10.20401/rasi.5.2.313 Avaliado pelo sistema double blind review Editor: Márcio M. Abdalla RASI, Volt a Redonda/RJ, v. 5, n. 2, pp.
+Barreiras de adoção de uma inovação: o emprego da metodologia SCRUM na MRS Logística S.A. 1.
+Introdução Em um ambiente organizacional que se busca crescimen to contínuo em produtividade, inovação e melhor desempenho, a gestão de projetos pode contribuir significativamente, por sua capacidade de fornecer ferramentas importantes que possibilitam o planejamento, execução, monitoramento e controle d e projeto s para o alcance dos objetivos pretendidos .
+Segundo o PMI (2018), Project Management Institute (Instituto de Gerenciamento de Projetos) , a gestão de projetos é a "aplicação de conhecimentos, habilidades e técnicas para a execução de projetos de forma efetiva e e ficaz ."
+Neste contexto, a gestão de projetos é vista como uma competência estratégica e permite a união dos resultados dos projetos com os objetivos organizacionais.
+Entre os projetos a serem gerenciados em uma organização podem -se citar aqueles ligados à tecnologia da informação (TI) , que possui papel relev ante para a sustentabilidade e crescimento das organizações ( Debreceny e Gray , 2013; De Haes, Van Grembergen, Debreceny , & Cobit , 2013) por meio de desenvolvi ment o de softwares que tornam mais eficientes as operações internas nas empresas .
+O mercado de TI apresenta evoluções significativas , conforme evidenciado pelo gráfico 1 , tendo atingido em 2017 o montante de R$ 136 bilhões no Brasil (considerando serviços, softwares e hardwares ), o que representa 1,9% do Produto Interno Bruto ( PIB) brasileiro , ocupa ndo a nona posição no mundo e representa ndo 39,1% na América Latina em term os de investimento neste setor (Associação Brasi leira das Empresas de Software - ABES, 2018).
+Gráfico 1 – Evolução dos indicado res de mercado de TI no Brasil (em US$ Bilhões) – considerando softwares e serviços Fonte: adaptado de ABES, 2018.
+Adicional ao desafio inerente ao crescimento, o s projetos de TI possuem dificuldades particulares , principalmente no cumprimento de cronogr ama e orçamento, conforme evidenciado por diversos estudos , como o do Standish Group em 2009, e o de Flyvbjerg e Budzier em 2011.
+No estudo de Flyvbjerg e Budzier (2011), foram analisados 1.471 projetos Duarte, Toda, Castro & Se ixas| 200 10.20401/rasi.5.2.313 Avaliado pelo sistema double blind review Editor: Márcio M. Abdalla RASI, Volt a Redonda/RJ, v. 5, n. 2, pp.
+2019. de TI, norte -americanos e europeus, buscando comparar seus orçamentos e planejamento com os custos e resultados reais.
+O estudo demonstrou que os projetos apresentaram uma média de estouro orçamentário de 27%, com prazos excedidos em aproximadamente 70% deles.
+Além dos números médios alarmantes, alguns proje tos apresentaram estouros exorbitantes, com resultados negativos além da média, o que gera um fator adicional de preocupação para obtenção de eficiência .
+Neste contexto, as ferramentas e metodologias de gerenciamento de projetos são requisito fundamental n a gestão de projetos de TI .
+Diferentes metodologias foram desenvolvidas, sendo desafiante a escolha da mais apropriada.
+Neste estudo serão abordadas metodologias de gerenciamento tradicional ( conhecida como Stage Gate ou Waterfall ou Modelo Cascata ) e meto dologias de gerenciamento ágil.
+Na primeira, metodologia tradicional, o projeto é sequenciado em etapas bem definidas de planejamento e execução, possuindo prazos determinados para cada, em que uma etapa seguinte só se inicia com a conclusão da anterior (N ishijima & Santos, 2013).
+Tal metodologia apesar de amplamente utilizada, sofreu dificuldades para se adequar à ambientes com constantes mudanças, pois sua estrutura dificulta alterações no planejamento, mudanças de escopo, e tem como característica baixo envolvimento do cliente na execução do projeto (Cooper & Sommer, 2016).
+Por isso, objetivando maior flexibilidade para ambientes que vivenciam constantes mudanças, houve a difusão das metodologias de gerenciamento ágil, tendo entre as principais o SCRUM, o Lean e o XP.
+Dentre as citad as, o SCRUM é a mais utilizad a, tendo destaque o aumento de estudos sobre o tema desde 2012 (Boehm & Turner, 2014).
+As metodologias ágeis, como o SCRUM, possuem como objetivo reduzir o esforço da etapa de planejamento, e atravé s de atuação em prazos curtos de tempo, busca entrega de demandas de forma mais rápida, confiável e aderente ao escopo pretendido, através de grande interação do cliente na etapa de execução, o que gera melhor comunicação, coordenação e maior flexibilidade (Chin, 2004; Augustine, Payne, Sencindiver , & Woodcock, 2005).
+Jeff Sutherland, cocriador da metodologia, expõe o caso da primeira grande aplicação de sucesso do SCRUM, a criação do sistema de inteligência denominado Sentinel do FBI (Departamento Federal de Investigação Americano), em que a agência tinha antes de sua implementação todos os seus processos de forma manual, sem apoio tecnológico.
+Sutherland (2014) demonstra o insucesso na tentativa de desenvolver o sistema com base no modelo tradicional Stage Gate , o projeto já havia estourado o orçamento e prazo de maneira irremediável.
+Devido a isso, a nova metodologia adotada foi o SCRUM, possibilitando um resultado mais rápido e eficiente.
+Sutherland (2014) aponta que apesar do sucesso na aplicação do SCRU M, diversas dificuldades e barreiras foram enfrentadas, dentre elas a comunicação e falta de confiança da alta administração.
+Para empresas que passam pela adoção da metodologia SCRUM, a empresa desenvolvedora de ferramentas para apoio aos métodos ágeis Version One Inc. , listou , na décima segunda edição anual da pesquisa State of Agile realizada em 2018, os desafios mais significativos , sendo a cultura organizacional em desacordo com valores ágeis , a resistência organizacional à mudança e o apoio inadequado da gestão os três principais .
+Estas barreiras são inerentes ao processo de adoç ão de inovações em processos, p or isso , a adoção do SCRUM precisa estar estruturad a de maneira que as barreiras possam ser evitadas.
+O objetivo deste estudo é realizar um diagn óstico sobre as barrei ras de adoção de inovação por meio da transição ocorrida do modelo tradicional Stage Gate para a metodologia Duarte, Toda, Castro & Se ixas| 201 10.20401/rasi.5.2.313 Avaliado pelo sistema double blind review Editor: Márcio M. Abdalla RASI, Volt a Redonda/RJ, v. 5, n. 2, pp.
+2019. ágil SCRUM em uma empresa pertencente ao mercado de transporte ferroviário , MRS Logística S.A. Esta empresa é uma concession ária ferroviária brasileira que opera a malha Sudeste da antiga Rede Ferroviária Federal e que atua no mercado desde 1996, interliga ndo três estados da região Sudeste : Rio de Janeiro, Minas Gerais e São Paulo.
+Sua malha ferroviária, com elevado peso estrat égico para o país, contém 1.643 quilômetros, representando 6% da estrutura ferroviária nacional, em uma região que concentra aproximadamente metade do PIB do Brasil.
+A MRS possui em desenvolvimento projetos de softwares que envolvem otimização visando melhor e mais produtiva alocação de recursos para atendimento de demanda s, englobando soluções não existentes, e que denota alta complexidade .
+Até o ano de 2017, a empresa adotava a metodologia de gerenciamento tradicional, e diante dos desafios e complexidad e enfrentados, a metodologia tradicional não apresentou bons resultados, como falta de aderência a prazo, custo e escopo, em que se fez necessário um modelo de gerenciamento mais flexível e eficiente.
+Por isso, no ano de 2018 a MRS passou a adotar a metodo logia SCRUM no gerenciamento de um dos seus principais projetos de desenvolvimento.
+Em visão preliminar, a adoção da metodologia não foi realizada em sua completude devido às dificuldades e barreiras encontradas , mesmo a sua adoção tendo gerado resultados positivos .
+Dessa forma , percebeuse como oportuno um estudo que explore esse contexto e vislumbre propostas de melhorias.
+Esta pesquisa se justific a não apenas pela importância do tema para que melhores resultados possam ser alcançados na MRS Logística S.A ., mas percebe -se que pode trazer contribuição de ordem prática para quaisquer outras empresa s que adotar a inovação SCRUM em sua estratégia de negócio , ao trazer a compreensão que as dificuldades não residem apenas nas características da própria inovação, mas também é externo à inovação quando se observa barreiras culturais, de alinhamento de expectativas, entre outros .
+Devido ao recente aumento de uso d esta metodologia e a escassa quantidade de trabalho s científico s sobre a aplicação da mesma, a pesquisa também gera co ntribuição para a academia, sendo mais um estudo que amplia a discussão sobre a temática das barreiras para a adoção da inovação.
+Referencial Teórico Esta seção desenvolve um a revisão acerca do SCRUM, visto neste estudo como uma inovação em processo adotada internamente pela empresa estudada, conforme definição de inovação apresentada pela Organização para Cooperação do Desenvolvimento Econômico (OCDE) no Manual de Oslo , que diz que u ma inovação é A implementação de um produto (bem ou serv iço) novo ou significativamente melhorado, ou um processo, ou um novo método de marketing, ou um novo método organizacional nas práticas de negócios, na organização do local de trabalho ou nas relações externas (Finep, 2006, p.55).
+A seção e stá subdividid a em inovação em projetos e as barreiras encontradas para sua adoção, gerenciamento de projetos e o modelo tradicional Stage Gate , metodologias de gerenciamento ágil e a metodologia ágil SCRUM .
+Duarte, Toda, Castro & Se ixas| 202 10.20401/rasi.5.2.313 Avaliado pelo sistema double blind review Editor: Márcio M. Abdalla RASI, Volt a Redonda/RJ, v. 5, n. 2, pp.
+2.1 Inovação em processo s e as barreiras encontradas para sua a doção Atualmente as empresas possuem como prioridade o alcance de um lugar no mercado global caracterizado por alto nível de competitividade , que requer que as organizações sejam orientadas para inovação, sendo assim considerado um meio de garantia da van tagem competitiva.
+A inovação neste contexto deve ser entendida como processo central das organizações, requerendo competências e conhecimentos distintos, que desvinculem da conservação de estabilidade, estabelecendo relações, detectando op ortunidades e ge rando resultado ( Stacho, Potkány , Stachová , & Marcineková , 2006 ; Molyneux -Hodgson & Balmer, 2014; Tidd & Bessant, 2015).
+Além de já ter sido apresentada no início desta seção a defin ição de inovação pela OCDE (Finep, 2006), temos também no Brasil, a Lei de Inovação Federal (Lei nº 10.973 de 12/2004) que define inovação como "introdução de novidade ou aperfeiçoamento no ambiente produtivo ou social que resulte em novos produtos, serviços ou processos".
+Assim, Peng, Schroeder e Shah (2008) defendem que a inova ção está presente em um conjunto de práticas organizacionais que visam o desenvolvimento de novos produtos e processos.
+Tidd e Bessant (2015) classificam a inovação em quatro dimensões, denominadas "4Ps": inovação de produtos; inovação de processos; inovaç ão de posição e inovação de paradigma.
+Quanto à inovação em processos, estes autores posicionam como "mudanças na forma que os produtos e/ou serviços são criados e entregues", complementado o conceito apresentado pela OCDE (2006) ao afirmar que se refere à implementação de processos tecnologicamente novos ou com melhorias significativas.
+Neste contexto, o estudo da inovação é tópico de interesse tanto para pesquisadores organizacionais quanto para profissionais de gerenciamento , pois a partir dela há possi bilidade de incremento na geração de capacidade das organizações para melhoria de seu desempenho, busca de eficácia, crescimento e até sobrevivência (Damanpour & Wischnevsky , 2006) .
+Thomä (2017) esclarece que a inovação existe em situações bastante heterog êneas, podendo estar presente em organizações diversas, com características e tamanhos diferentes, assim como diversos setores, ambientes e processos.
+A chave da orientação para a inovação é a capacidade da empresa de mudar o pensamento que a vincula ao s eu status atual.
+Para tanto deve haver a capacidade de lidar com a descontinuidade, não necessariamente de forma radical, podendo ser por criação ou muda nça de sentido (Story, Daniels , Zolkiewski , & Dainty , 2014) .
+Assim, a inovação não necessariamente é fr uto de um processo de ruptura radical, e sim de processos cumulativos, envolvidos em aprendizagem (Moraes Sobrinho, Silva Filho , Vasconcelos , & Furlanetto , 2014) .
+(2006) defendem que o primeiro passo para a inovação é a formulação de uma ideia , através da definição de necessidades, seguida da transformação da ideia em oportunidade.
+Tidd e Bessant (2015) acrescentam que a inovação requer também condições para sua utilização, indo além da confecção da ideia, e para isso se faz necessário entender o contexto da inovação.
+Para isso, Damanpour e Wischnevsky (2006) ressalta m a necessidade de diferenciar os tipos de inovação para que se possa compreender o processo de criação e implementação, que difere em atributos e relações com os fatores organizaci onais.
+No contexto das organizações defendem que o entendimento do tipo de organização é importante para compreender o que abraça a inovação, diferenciando empresas que geram inovação das que as adotam.
+Esta Duarte, Toda, Castro & Se ixas| 203 10.20401/rasi.5.2.313 Avaliado pelo sistema double blind review Editor: Márcio M. Abdalla RASI, Volt a Redonda/RJ, v. 5, n. 2, pp.
+2019. diferenciação deve ocorrer , pois as organizações geradoras dependem mais de seu conhecimento tecnológico e sua capacidade de desenvolvimento de inovações, já as organizações adotantes precisam ter mais requisitos gerenciais e organizacionais para a seleção e assimilação das inovações.
+Concluem que o processo de adoção enfatiza a integração da inovação na organização enquanto o processo de geração enfatiza o quanto a inovação se distingue das já existentes, ou seja, o que a torna diferente de outros produtos, serviços e tecnologias existentes.
+Acrescenta m que nas organizações adotantes , a inovação tem papel no desempenho de competitividade, transformando a organização e trazendo melhores desempenhos.
+Neste processo de adoção, as empresas enfrentam muitos desafios e barreiras, dificultando o processo da in ovação e gerando taxas significativas de insucesso.
+Devido a este fato, Story et al.
+(2014) salientam a necessidade de entender as fases de desenvolvimento da inovação, além de buscar a compreensão da dinâmica do processo, caracterizado pela sua iterativid ade e fluidez.
+Sandberg e Aarikka -Stenroos (2014) revelam em suas pesquisas que as barreiras à inovação dependem das características empresariais, dos mercados e do processo de inovação em si.
+Dentre algumas categorias de barreiras estudadas duas merecem d estaque.
+A primeira se refere à complexidade da inovação, e dificuldades no processo de compreensão, acesso, transação e uso da inovação.
+A segunda se refere à confiança, sendo a característica envolvida na incerteza sobre o desempenho satisfatório da inov ação (Hazée, Delcourt e Vaerenbergh , 2017) .
+Essas duas barreiras podem ser explicadas por três fatores internos que dificultam a adoção da inovação, sendo a existência de uma mentalidade restritiva para a adoção, a falta de competências e a escassez de rec ursos para o desenvolvimento da inovação (Sandberg & Aarikka -Stenroos , 2014) .
+A mentalidade restritiva pode ocorrer devido à contribuição dos fatores cognitivos no processo de adoção e implementação de uma inovação.
+Estes fatores estão atrelados à emoção e à razão, tendo fundamento na racionalidade limitada das pessoas envolvidas no processo.
+Tal limitação pode ou não trazer compatibilidade entre as crenças e convicções do indivíduo com a ide ia desenvolvida pela inovação (Hazée et al., 2017; Heidenreich & Kraemer, 20 16; Hodgkinson & Healey, 2014; S tory et al., 2014) .
+Os fatores cognitivos podem ser agravados pela falta de competências e inexperiência com a inovação ( Shen, 2017; Sandberg & Aarikka -Stenroos, 2014; Story et al., 2014 ).
+Como forma de mitigar ess a dificuldade é importante o investimento em capital humano, que repercute em aumento de produtividade e maior preparação no processo de inovação ( Busom & Vélez -Ospina, 2017; Thomä, 2017 ).
+Neste contexto, os investimentos necessários podem também repercuti r em uma barreira, sendo possivelmente necessária alteração em processos para viabilização (Shen, 2017; Thomä, 2017; Molyneux -Hodgson & Balmer, 2014; Moraes Sobrinho et al., 2014; Sandberg & Aarikka -Stenroos, 2014; Story et al., 2014).
+A falta de alinhame nto de expectativas também é considerada uma das barreiras mais significativas, sendo a falta de informação e de sensibilização sobre a inovação considerad os potenciais entraves ( Shen, 2017; Thomä, 2017; Molyneux -Hodgson & Balmer, 2014 ).
+Por isso, se faz i mportante um correto esclarecimento a respeito da inovação, gerando expectativas condizentes com o planejamento, ganhando mais adesão das pessoas envolvidas.
+(2017) defendem que uma das características Duarte, Toda, Castro & Se ixas| 204 10.20401/rasi.5.2.313 Avaliado pelo sistema double blind review Editor: Márcio M. Abdalla RASI, Volt a Redonda/RJ, v. 5, n. 2, pp.
+2019. important es é a passagem de informação de forma ampla e transparente, pois assim é possível reduzir o grau de incerteza, projetando os reais benefícios a serem captados pela inovação.
+Para que este alinhamento seja realizado de forma assertiva, Heidenreich e Kraeme r (2016) defendem a utilização de instrumentos de marketing que visam a difusão da inovação, devendo ser utilizados para que a resistência a inovação seja tratada antes mesmo da sua implantação.
+Os autores salientam que essa tratativa seja realizada de for ma ampla e transparente, principalmente na etapa antecedente à implantação, reduzindo assim às probabilidades de fracasso.
+Apesar das barreiras pontuadas, um ambiente social propício, que possua uma cultura organizacional oferecendo apoio à criatividade in dividual, desenvolve maiores possibilidades para o sucesso na adoção da inovação ( Hazée et al., 2017; Thomä, 2017; Story et al., 2014) .
+O apoio da alta administração, além do comprometimento dos profissionais envolvidos também são fatores facilitadores ( Gomes & Machado, 2018; Isidro -Filho, Guimarães & Perin, 2011; Story et al ., 2014 ), de forma que seja proporcionada liberdade e autonomia para a equipe, para que haja incentivo e aumente as possibilidades de sucesso na adoção da inovação.
+Como motivação para estudos que buscam entender o processo de inovação, Griffin, Price, Vojak e Hoffman (2014) salientam que o arcabouço de pesquisas que investigam processos de superação às barreiras para adoção da inovação são escassas.
+Rhéaume e Gardoni (2015) acrescentam que não há uma única forma de realizar o gerenciamento correto de uma inovação, sendo necessário o estudo das particularidades em que a organização está envolvida.
+Tais afirmativas denotam relevância e importância em estudos que buscam entender estratégias de sucesso em inovações.
+O Quadro 1 apresenta resumidamente os tipos de barreiras à inovação explanadas nesta subseção e os respectivos autores que discutiram cada barreira.
+Barreiras para a Inovação Detalhamento Autores Cultura organizacional Ambiente social não propício, fatores culturais, falta de comprometimento dos profissionais envolvidos, resistência interna, problemas organizacionais Hazée et al.
+(2017), Thomä (2017), Story et al.
+(2011) Apoio da alta administração Falta de liderança e apoio à inovação Gomes e Machado (2018), Story et al.
+(2011) Alinhamento de expectativas Falta de informação transparente, fragilidade no repasse da informação Hazée et al.
+(2017), Shen (2017), Thomä (2017), Heidenreich e Kraemer (2016), Molyneux -Hodgson e Balmer (2014), Moraes Sobrinho et al.
+(2014) Complexidade da inovação Dificuldades no processo de compreensão, acesso, transação e uso da inovação Hazée et al.
+(2017) Mentalidade para a Conservado rismo, Hazée et al.
+(2017), Duarte, Toda, Castro & Se ixas| 205 10.20401/rasi.5.2.313 Avaliado pelo sistema double blind review Editor: Márcio M. Abdalla RASI, Volt a Redonda/RJ, v. 5, n. 2, pp.
+2019. inovação mentalidade restritiva, aversão ao novo, racionalidade limitada Heidenreich e Kraemer (2016), Hodgkinson e Healey (2014), Molyneux -Hodgson e Balmer (2014), Sandberg e Aarikka -Stenroos (2014), Story et al.
+(2014) Investimento em capital humano Equipe inexperiente na inovação, falta de competências para inovação, qualificação baixa de profissionais, falta de capacitação, falta de formação especializada Busom e Vélez -Ospina (2017), Shen (2017), Thomä (2017), Sandberg e AarikkaStenroos (2014), Story et al.
+(2014) Recursos financeiros Escassez de recursos financeiros, despesa de mudanças de processos Shen (2017), Thomä (2017), Molyneux -Hodgson e Balmer (2014), Moraes Sobrinho et al.
+(2014), Sandberg e Aarikka -Stenroos (2014), Story et al.
+(2014) Quadro 1 – Barreiras para adoção da Inovação Fonte: elaborado pelo s autor es.
+2.2 Gerenciamento de projetos e o modelo tradicional Stage Gate Em um mercado competitivo formado por mudanças aceleradas, inovações tecnológicas, concorrência e dina micidade , é importante a busca por diferenciação.
+Neste cenário, o gerenciamento de projetos possui papel crucial através da combinação de conhecimentos, habilidades, ferramentas e técnicas ( Browning e Ramasesh , 2007 ; Albino, Souza e Padro, 2014) .
+Entre o s modelos de gerenciamento de projetos, primeiramente pode -se considerar o modelo tradicional, com origem no corpo de conhecimento da engenharia, principalmente industrial e civil, que teve sua utilização ampliada para a área de TI (C ervone , 2011).
+Este ti po de estrutu ra de gerenciamento de projetos segue uma sequência linear de etapas ,o projeto tem início com a definição dos requisitos do produto, compreendendo document ação e estudo de viabilidade.
+O desenvolvimento é realizado com base nos requisitos defi nidos , e posteriormente concluído são realizados testes e implementação.
+O objetivo principal é que as diferentes fases sigam uma sequência, possu indo início e fim com prazos definidos, sendo que sem a conclusão da etapa anterior, a seguinte não pode ser i niciada, possuindo feedbacks entre as etapas ( Cooper, 2008; Nishijima e Santos, 2013 ; Machado, Mazzali e Palmisano, 2015 ).
+O modelo tradicional está representado pela figura 1: Duarte, Toda, Castro & Se ixas| 206 10.20401/rasi.5.2.313 Avaliado pelo sistema double blind review Editor: Márcio M. Abdalla RASI, Volt a Redonda/RJ, v. 5, n. 2, pp.
+Figura 1 – Modelo Stage Gate Fonte: adaptado de Cooper (2008) Este tipo d e estrutura apres enta uma série de desvantagens, sendo que já na fase de planejamento do projeto o esforço contemplado é muito amplo, gastando cerca de metade dos fundos do projeto antes mesmo do início de qualquer trabalho de desenvolvimento.
+Acrescenta q ue a definição de requisitos são frequentemente trabalhosas e demoradas, sendo ainda alterados antes do início do desenvolvimento (Cervone , 2011) .
+Quanto à estrutura documental tem como característica rigidez , de tal forma que sem a documentação o process o não funciona.
+Acrescentam que a estrutura não permite adaptação ou desvio do escopo original, tornando o processo lento e custoso, podendo ocasionar um produto divergente do necessário no momento da entrega (Nishijima e Santos , 2013) .
+Os modelos tradici onais chegaram a demonstrar eficácia em aplicações nas indústrias B2B (realização de transações comerciais entre empresas) , porém as críticas surgiram pelo fato d os mesmos serem muito lineares, rígidos e planejados demais para lidar com o ambiente acelerad o e em constantes mudanças.
+O fato de estes métodos concentrarem em objetivos grandes e de longo prazo faz com que a adaptação da mudança seja lenta, o que torna mais crítico para o universo de projetos de TI , em que é comum a mudança de requisitos ao long o do projet o (Cooper e Sommer, 2016) .
+Neste sentido , Cooper e Sommer (2016) elucidam que os métodos ágeis foram introduzidos no mundo da TI para lidar com essas limitações, oferecendo planejamento adaptativo, entrega evolutiva e uma abordagem interativa, facilitando respostas flexíveis à mudança .
+2.2 Metodologias de Gerenciamento Ágil O termo gerenciamento Ágil de projetos começou a se consolidar em 2001 , tendo sua origem na assinatura do Manifesto Ágil, documento elaborado por profissionais e estudioso s da área da TI (Azanha , Argoud, Camarg o e Antoniolli , 2001) .
+Essa publicação ocorreu na Internet , colocando em cheque a adoção de técnicas tradicionais de gerenciamento, principalmente em projetos que envolvem incertezas e mudanças inerentes do ambiente d e negócios.
+Dentre os princípios enfatizados pelo Manifesto, Cooper e Sommer (2016) citam interação sobre processos e ferramentas, documentação estritamente necessária, colaboração do cliente e resposta a mudanças ao invés de um plano rígido.
+A abordagem ágil surgiu e começou a ser adotada pelas empresas para atender aos ambientes de negócios que sofrem influência de constantes mudanças, onde velocidade no gerenciamento de fluxos de pensamentos, emoções e interações é necessária, envolvendo situações não p lanejadas de grande complexidade, sendo objetivo adaptar os processos para absorver mudanças na aplicação, esco po e características do produto (Angioni et al ., 2006; Boehm e Turner, 2004 ; Decarlo, 2004; Schwaber , 2007 ).
+Duarte, Toda, Castro & Se ixas| 207 10.20401/rasi.5.2.313 Avaliado pelo sistema double blind review Editor: Márcio M. Abdalla RASI, Volt a Redonda/RJ, v. 5, n. 2, pp.
+A proposta ágil difere dos valores t radicionais de gerenciamento de projetos ao desafiar a necessidade de documentação e o uso de métodos para os métodos , focando no estritamente necessário e nas necessidades do cliente.
+As equipes devem ser autogeridas, com interação forte entre os integran tes buscando a entrega do produto a cada etapa do processo de desenvolvimento, de forma contínua e gerando valor agregado em curtos intervalos de tem po, sendo assim ponto crucial a energização e capacitação da equipe (Chin, 2004 ; Augustine et al., 2005 ; Dingsoyr, Nerur, Balijepally e Moe, 2012; Schwaber e Sutherland, 2013 ; Cooper e Sommer, 2016).
+O gerenciamento ágil coloca em foco dois conceitos importantes, sendo a minimização do risco por intermédio de interações e entregas curtas claramente definidas, e segundo pelo maior fluxo de comunicação com as partes interessadas do projeto, que não ficam apenas à margem do desenvolvimento do software , e sim moldam e orientam a evolução do produto final, sendo facilitado o fluxo de feedbacks e reflexão, e esse env olvimento no processo de desenvolvimento tende a levar a resultados mais satisfatórios.
+A criação de valor comercial através do fornecimento de softwares funcionais é o benefício primordial da metodologia, tendo assim entregas em maior volume, em intervalo s regulares e curtos, gerando valor agregado ao cliente final (Azanha et al., 2001; Highsmith, 2004; Dingsoyr et al., 2012).
+2.3 A Metodologia Ágil SCRUM Entre os modelos ágeis de gerenciamento, Cervone (2011) estima que a metodologia conhecida como SCRUM é a mais utilizada, o que é confirmado por uma pesquisa realizada pela Version One (2018), na qual 56% das empresas adotantes utilizam -se dos modelos ágeis .
+O SCRUM é definido como um framework (estrutura) de processo ágil , que englobam uma arquitetura e uma estrutural conceitual que visa desenvolvimento ágil , sendo Ken Schwaber e Jeff Sutherland os respo nsáveis por seu desenvolvimento (F ernandes et al., 2012) .
+Pela característica complexa dos temas abordados nos projetos , Schwaber (2004) define o SCRU M como um processo imprevisível, o que quer dizer que não há definição prévia de todas as circunstâncias envolvidas no projeto.
+Devido a essa particularidade, acrescenta que a metodologia fornece uma estrutura e um conjunto de práticas que permitem a visão dos fatos no decorrer do projeto, propiciando à equipe a possibilidade de realização de ajustes apropriados para atingir os objetivos finais pretendidos.
+Neste ambiente de adaptação, o SCRUM tem como objetivo controlar conhecimentos adquiridos durante o p rojeto, com prática de feedbacks , fornece ndo processos e técnicas para o desenvolvimento de produtos de grande complexidade (Schwaber , 2007; Stoica, Mircea e Ghilic -Micu, 2013) .
+De forma complementar , o SCRUM possui seis características principais sendo en trega flexível de acordo com as necessidades do cliente, entregas com prazos flexíveis, equipes pequenas e auto gerenciáveis, revisões frequentes do rumo do trabalho, ambiente colaborativo entre os membros da equipe , e por fim mapeamento de interface e comportamentos de forma bem definida (Schwaber , 2004 ).
+O SCRUM é apoiado por três pilares.
+A transparência, primeiro deles, define que todos os fatores relevantes para o sucesso do projeto devem ser visíveis e conhecidos, garantindo o resultado consistente co m o escopo pretendido.
+Em seguida , o pilar da inspeção, que busca a identificação de não conformidades que possam prejudicar os resultados do projeto e o último pilar se refere à adaptação, que é a realização de ajustes diante das não conformidades identif icadas, buscando um resultado mais aderente ao pretendido (Schwaber , Duarte, Toda, Castro & Se ixas| 208 10.20401/rasi.5.2.313 Avaliado pelo sistema double blind review Editor: Márcio M. Abdalla RASI, Volt a Redonda/RJ, v. 5, n. 2, pp.
+De maneira comparativa, Chin (2004) apresenta as diferenças entre o modelo tradicion al e o SCRUM no quadro 2 .
+Quadro 2 - As principais diferenças entre o Modelo Tradicional e o Mo delo Ágil SCRUM Fator Modelo Tradicional Scrum Planejamento Detalhado e complexo Curto e com participação de todos durante a elaboração do projeto Tipo de Projeto Estáveis e com baixo nível de mudanças (projetos operacionais) Projetos com mudanças consta ntes e que necessitam respostas rápidas (projetos de novos produtos) Tamanho Todos os tipos Mais efetivo em projetos com equipes pequenas Equipe do Projeto Atuação com papéis claros e bem definidos Atuação colaborativa em todas as atividades do projeto Cliente Participa das fases iniciais de requisitos e validações Parte integrante da equipe do projeto, com papel interativo Fonte: adaptado de Chin (2004).
+Quanto à metodologia, de acordo com Schwaber & Sutherland ( 2013 ), o SCRUM possui três estágios, sendo o desenvolvimento do backlog do produto (conjunto de tarefas pendentes do projeto) , o sprint principal (conjunto de tarefas a serem desempenhadas em um período de duração média de duas a quatro semanas) e sprints diários (conjunto de tarefas a serem de sempenhadas em um dia) .
+O desenvolvimento baseado no SCRUM é dividido em uma série de sprints curtos de tempo, com duração aproximada de duas a quatro semanas.
+Ao iniciar cada sprint a equipe desenvolve o planejamento para o mesmo, definindo uma lista de e ntregas planejadas , que contempla assim a meta do sprint .
+Entregas são priorizadas pelo valor somado ao negócio, determinado pelo cliente.
+Após prio rização estabelecem o backlog do sprint , que é composto por demandas a serem realizadas em um próximo sprint e, dessa forma , definem a lista de tarefas com uma visão de médio prazo (Cooper & Sommer , 2016).
+Este processo é demonstrado pelo fluxograma d a figura 2.
+Duarte, Toda, Castro & Se ixas| 209 10.20401/rasi.5.2.313 Avaliado pelo sistema double blind review Editor: Márcio M. Abdalla RASI, Volt a Redonda/RJ, v. 5, n. 2, pp.
+Figura 2 - O modelo SCRUM Fonte: Adaptado de Boehm e Tuner, 2005.
+Dessa forma, a equipe fica cient e do andamento do projeto e é proporcionado um momento em que os membros ajudam uns aos outros para atingir o objetivo.
+O resultado de cada sprint é tangível, sendo apresentado para o cliente, buscando feedback e validação, ou para continuação do projeto o u para correção de rumo.
+Este tipo de avaliação periódica é característica do modelo ágil, sendo diferente dos modelos tradicionais, em que o cliente só visualiza o produto na entrega final (Cooper e Sommer, 2016) .
+(2014) complementam que a compreensão da imprevisibilidade de um projeto complexo faz com que este seja encarado de forma aberta, sendo possível manter a capacidade de agregar valor ao longo dos diversos sprints até a entrega final do produto.
+Procedimento Metodológico Raupp e Beuren (2006) apresentam um a classificaç ão em três categorias, sendo definição de pesquisa quanto aos objetivos, quanto aos procedimentos e quanto à abordagem do problema.
+Primeiramente, q uanto aos objetivos a pesquisa possui caráter exploratório, pois diante do pouco conhecimento sobre o tema busca aprofundar os conceitos superficialmente abordados reunindo mais conhecimento acerca das barreiras de adoção de inovação, especificamente sobre a inovação SCRUM.
+Quanto aos procedimentos utilizados na pesquisa, prim eiramente se caracteriza por bibliográfica, tendo dessa forma desenvolvimento a partir de material elaborado, com natureza teórica.
+Outro procedimento adotado foi a realização de entrevistas , autorizadas pela empresa MRS Logística S.A. O método de col eta de dados é caracterizado co mo entrevistas em profundidade.
+Quanto à abordagem do problema se caracteriza como qualitativa, descrevendo a complexidade do tema abordado através da análise de interações de variáveis, buscando análises profundas do fenômen o em estudo.
+Cervo e Bervian (2002) apontam que a Duarte, Toda, Castro & Se ixas| 210 10.20401/rasi.5.2.313 Avaliado pelo sistema double blind review Editor: Márcio M. Abdalla RASI, Volt a Redonda/RJ, v. 5, n. 2, pp.
+2019. pesquisa qualitativa não se preocupa com medidas, quantificações ou técnicas estatísticas, buscando a percepção dos diversos atores sociais.
+Para a coleta de dados, se fez uso da entrevista semi -estruturada , sendo essas realizadas entre os dias 13 e 20 de março de 201 9, na própria empresa.
+Os sujeitos da pesquisa foram os membros do projeto da empresa ferroviária que participaram ativamente da construção e aplicação da metodologia de gerenciamento do projeto : gerente da equipe de Tecnologia da Informação ( TI), gerente da área cliente e analista técnico de TI.
+Os colaboradores foram escolhidos em razão da participação em projetos, e exerceram influências na definição das metodologias empregadas na companhia.
+O roteiro te ve como objetivo levantar as experiências, percepções e opiniões dos sujeitos da pesquisa, com base nas discussões teóricas no referencial teórico .
+Para análise dos dados , as respostas dos sujeitos que participaram da adoção do SCRUM foram anali sadas por meio da Análise de Conteúdo.
+A seguir no Quadro 3 é apresentado o roteiro utilizado nas entrevistas.
+Duarte, Toda, Castro & Se ixas| 211 10.20401/rasi.5.2.313 Avaliado pelo sistema double blind review Editor: Márcio M. Abdalla RASI, Volt a Redonda/RJ, v. 5, n. 2, pp.
+Quadro 3 –Roteiro para entrevista semi -estruturada ROTEIRO PARA ENTREVISTA SEMI -ESTRUTURADA 1) Pode descrever qual papel desempenha no projet o?
+2) Como era o gerenciamento do projeto antes da adoção do SCRUM?
+4) Quais desafios foram enfrentados na adoção da metodologia?
+5) Pontue como as seguintes características contribuem ou não para a adoção do SCRUM na MRS: 5.1) Cultu ra organizacional.
+5.3) Alinhamento de expectativas.
+5.4) Complexidade da metodologia SCRUM.
+5.5) Mentalidade para a inovação.
+5.6) Investimento em Capital Humano.
+Fonte: elaborado pelos autores.
+Por se tratar de pesquisa qualitativa, os resultados deste estudo não podem do ponto de vista estatístico ser generalizados para outras organizações quanto à adoção do SCRUM , conforme apontado por Malho tra (2006), considerando o presente estudo delimitado a o caso específico de uma empresa ferroviária brasileira.
+Entretanto, a descrição do método aqui empregado para se analisar quanto ao processo de adoção do SCRUM possa ser utilizado em outras empresas.
+Resultados e Análises Com objetivo de compreender a a doção da metodologia SCRUM na empresa estudada, a s entrevistas foram realizadas com os três principais colaboradores que participa ram ativamente do projeto em que foi adotada a metodologia.
+São eles, o gerente da área cliente e o gerente da equipe de TI, a mbos atuando no projeto desde o início do mesmo em 2015, assim como o analista técnico de TI, atuando no projeto desde novembro de 2016.
+Quadro 4 – Entrevistados Entrevistado Cargo Entrevistado 1 Analista Técnico Entrevistado 2 Gerente da Área Cliente Entrevistado 3 Gerente da Tecnologia da Informação (TI) Fonte: elaborado pelos autores.
+Segundo os entrevistados, o projeto até 2017 utilizava a metodologia tradicional , com todas as etapas de planejamento bem definidas , como caracterização da demanda e Duarte, Toda, Castro & Se ixas| 212 10.20401/rasi.5.2.313 Avaliado pelo sistema double blind review Editor: Márcio M. Abdalla RASI, Volt a Redonda/RJ, v. 5, n. 2, pp.
+2019. especificação , além de construção baseada em escopo fechado onde era e stimado o número de horas que eram transformada s em orçamento e cronograma.
+Tal metodologia foi ineficaz segundo os entrevistados , pois baseada na complexidade do sistema e falta de conh ecimento se as soluções poderia m atender todas as situações e cenários possíveis, os prazos eram extrapolados e o escopo original não era cumprido devido situações não previstas .
+Segundo o entrevistado 2 : Gastava -se um tempo razoável conceituando e especi ficando a demanda, e ao longo do desenvolvimento se deparava com algumas situações que não eram tão perceptíveis no início, o que ocasionava um conflito entre a área de desenvolvimento e área cliente e não atendimento da necessidade da demanda .
+Devido aos resultados insatisfatórios , em 2018 foi adotada a metodologia ágil SCRUM , com base em um escopo não totalmente especificado e sim aberto , possibilitando à equipe capacidade de resposta e flexibilidade para dar prioridade às demandas não previstas .
+Apesar de diversos resultados positivos que foram apontados pelos entrevistados, como maior interação entre a área cliente e a equipe de TI, e entregas mais velozes e funcionais, entende -se que a adoção da metodologia não foi realizada em sua totalidade, com alguns requisitos não implementados.
+Os entrevistados pontuaram dificuldades que remetem às barreiras de adoção de uma inovação em processos , e por isso se faz importante a discussão sobre elas.
+Primeiramente , vale citar a influência da cultura organizacional.
+Os entrevistados pontuam que a iniciativa da adoção da metodologia se iniciou com a equipe do projeto, e com isso houve a sensibilização da diretoria responsável.
+Neste sentido, o entrevistado 2 e o entrevistado 1 entendem que a cultura da diretoria propi ciou positivamente a adoção, porém demais áreas da empresa envolvidas no gerenciamento de projetos não possuem uma cultura favorável para adoção de métodos ág eis.
+O entrevistado 3 complementa: Sem dúvidas a cultura organizacional é uma barreira grande a ser vencida.
+A organização ainda não possui a mentalidade ágil, e todos os seus processos ainda estão na metodologia anterior, o que dificulta emplacar o SCRUM e o desenvolvimento do projeto .
+Os entrevistados entendem ser necessária uma mudança cultural qu e abrace toda a organização para que haja valor percebido na adoção de metodologias ágeis, algo que ainda "é mal vist o", conforme pontuação do entrevistado 1 , que pode estar intimamente ligado com a "não experiência da empresa com a metodologia", conforme o entrevistado 2 .
+O entrevistado 3 afirma que acredita que: As outras áreas afins ao gerenciamento de projetos possuem receptividade para esta mudança cultural, porém ainda é incipiente, e é necessário maior envolvimento e estruturação para fazer acontece r. A receptividade não repercute nos processos, que ainda estão engessados dificultando o SCRUM.
+Quanto ao apoio da alta liderança, o entrevistado 1 e o 2 entendem que a gestão próxima ao projeto apoia a metodologia , mas ainda há um distanciamento para a média e alta Duarte, Toda, Castro & Se ixas| 213 10.20401/rasi.5.2.313 Avaliado pelo sistema double blind review Editor: Márcio M. Abdalla RASI, Volt a Redonda/RJ, v. 5, n. 2, pp.
+2019. gestão da organização, que pouco tem conhecimento de como é o dia a dia do projeto, e tem como característica uma visão mais distante com foco em resultados.
+Já o entrevistado 3 , concorda que a gestão próxima ao projeto dá suporte a iniciativa , mas afirmou que a mentalidade ágil é alvo da alta diretoria e começou a ganhar importância nas discussões , mas ainda de forma desorganizada e distante do contexto do projeto.
+Quanto ao alinhamento de expectativas os entrevistados possuem diferentes ponto s de vista.
+Antes da adoção, pontuaram que foi realizada uma reunião pela área de TI com intenção de alinhamento gerencial , apresentando a metodologia e indicando o interesse, algo que foi validado pela área cliente.
+Neste momento, o entrevistado 2 entende que o alinhamento foi satisfatório e a dificuldad e ocorreu mais na percepção da aplicação na prática.
+Já o entrevistado 1 e 3 entende m que não ficou completamente definido em que patamar se queria chegar com a adoção, e sim havia uma expectativa de melhora , sendo mais crítica a falta de alinhamento de outras áreas envolvid as no processo de gerenciamento, como o escritório de projetos da companhia.
+Em relação à complexidade da metodologia SCRUM, os entrevistados entendem que não há na teoria, o entendimento é simples, mas a aplicação prática tem alta complexidade , necessitando segundo o entrevistado 2 : Um alto nível de maturidade da equipe de projeto.
+Sem disciplina, controle diário e muita dedicação, é muito difícil conseguir implementar o SCRUM .
+Acredito q ue este é um dos fatores da dificuldade na implementação da metodologia .
+Este ponto de vista pode ser evidenciado na fala do entrevistado 1 , quando afirma que : O cumprimento de todos os requisitos (do SCRUM) é muito mais difícil do que na metodologia tra dicional, necessitando uma mudança principalmente cultural de gestão de dia a dia .
+Segundo o entrevistado 3 : Esta dificuldade na aplicação prática do SCRUM é normal.
+Pelas experiências em outras empresas que conheci até hoje, a metodologia sempre tem ce rtas adaptações.
+De fato o maior desafio está no gerenciamento do dia a dia, que requer bastante organização.
+Entendem que tanto a equipe do projeto quanto a empresa são abertas e possuem mentalidade para inovação.
+O entrevistado 2 pontua que, principalm ente pelo fato do " não alcance do resultado com a metodologia tradicional, a iniciativa pela adoção de outra metodologia começou pela própria equipe".
+O entrevistado 1 entende que o processo de inovação requer mais estruturação e alinhamento de interfaces, e que "não acontece do dia para noite", e por isso é importante uma maior disseminação desta mentalidade com foco no SCRUM.
+O entrevistado 3 complementa que: As áreas de interface foram pouco envolvidas no processo de adoção do SCRUM, uma falha no nosso processo.
+Talvez teríamos menos dificuldade se o processo tivesse sido mais completo, pedindo ajuda para as outras áreas, Duarte, Toda, Castro & Se ixas| 214 10.20401/rasi.5.2.313 Avaliado pelo sistema double blind review Editor: Márcio M. Abdalla RASI, Volt a Redonda/RJ, v. 5, n. 2, pp.
+2019. principalmente no que tange a mudança necessária nos processos da organização.
+Quanto à competência técnica da equipe, segundo o entrevistado 1 , a equipe de desenvolvimento já possuía treinamentos prévios na metodologia, não requerendo treinamentos específicos na época da implantação, mas acredita ser importante treinamento para a equipe de gestão e área cliente.
+O entrevistado 3 acredi ta que, independente da equipe de desenvolvimento já possuir treinamentos, novos treinamentos são necessários.
+Já o entrevistado 2 entende que não há necessidade de treinamento devido à simplicidade da metodologia, sendo necessári a mais dedicação e empenho no dia a dia do gerenciamento.
+A última característica abordada se refere ao investimento financeiro , que segundo os entrevistados, não foi realizado pela empresa .
+Neste item, o entrevistado 2 entende que a metodologia não requer investimentos de grande p orte, não sendo um empecilho.
+O entrevistado 1 concorda ao afirmar que a "metodologia é simples, não necessitando treinamentos adicionais", porém entende que seria importante investimento em treinamentos voltados para mudança cultural, possibilitando alter ação para a mentalidade requerida na metodologia .
+E por fim, o entrevistado 3 entende ser em necessário s investimentos para adequar a estrutura da equipe ao que requer a metodologia, que são pessoas multifuncionais, algo que não foi possível na empresa.
+De forma esquemática, o quadro 5 demonstra o entendimento de cada entrevistado na relação entre a metodologia SCRUM e a empresa estuda da, MRS Logística S.A. : Quadro 5 – Barreiras da inovação SCRUM na MRS Logística S.A. Entrevistado 1 Entrevistado 2 Entrevis tado 3 Cultura organizacional Diretoria : positiva Demais áreas da empresa : negativa Diretoria : positiva Demais áreas da empresa : negativa Negativa Apoio da alta liderança Gestão próxima do projeto : Positiva Média/alta gestão : distante Positiva Positiva Alinhamento de expectativas Não satisfatória Satisfatória Não satisfatória Complexidade da metodologia SCRUM Teoria : não complexa Prática : complexa Teoria : não complexa Prática : complexa Teoria : não complexa Prática : complexa Mentalidade para a inovação Positiva Positiva Positiva Investimento em Capital Humano Equipe de desenvolvimento : não necessário Gestão e área cliente : necessário Não necessário Necessário Recursos financeiros Teoria da metodologia : baixa Baixa necessidade Necessário Duarte, Toda, Castro & Se ixas| 215 10.20401/rasi.5.2.313 Avaliado pelo sistema double blind review Editor: Márcio M. Abdalla RASI, Volt a Redonda/RJ, v. 5, n. 2, pp.
+2019. necessidade Mudança em mentalidade : necessár io Fonte: elaborado pelos autores .
+Conforme evidenciado nas entrevistas, a metodologia SCRUM não foi adotada em sua completude na MRS Logística devido barreiras enfrentadas inerentes à um processo de adoção de inovação em pro cessos.
+Como resultado de ssa p esquisa, se faz importante um estudo que implique em orientações para que as barreiras possam ser evitadas e que a metodologia consiga ser aplicada.
+Conclusão Conforme elucidado pelo referencial bibliográfico, a compreensão dos fatores que podem influenciar negativamente a adoção de uma inovação é importante para que a empresa evolua, possibilitando desvinculação do seu status atual.
+Desafios e barreiras podem ser enfrentados mesmo diante da complexidade da inovação , assim co mo a característica de incerteza a respeito do desempenho satisfatório da mesma.
+As metodologias ágeis, vistas neste trabalho como uma inovação em processos, surgiram com a proposta de trazer flexibilidade e maior adesão a mudanças, algo que a metodologia tradicional não conseguiu alcançar, principalmente , em projetos de maior complexidade vivenciados em cenários de incertezas.
+Apesar dos benefícios gerados pelas metodologias ágeis, sua adoção enfrenta alguns desafios, principalmente quando a organização es tá habituada com a metodologia tradicional.
+Tal desafio foi evidenciado na MRS Logística S.A. A adoção da metodologia SCRUM gerou benefícios, porém o processo de implantação da metodologia sofreu barreiras inerentes de um processo de adoção de inovação em processos.
+A empresa enfrentou principalmente a barreira da cultura organizacional, não estando preparada para a adoção da metodologia, apresentando fatores culturais não condizentes com as práticas ágeis que conforme o referencial teórico demonstra, denot am em barreiras de adoção.
+A falta de alinhamento de expectativas e a falta de investimentos são problemas também evidenciados, principalmente pela não convergência na resposta dos entrevistados, o que demonstra falta de alinhamento, também evidenciado no referencial teórico como barreiras de adoção.
+Como conclusão do estudo até o momento, o delineamento de orientações para enfrentar as barreiras da inovação são importantes para a MRS Logística S.A., como provavelmente para qualquer outra empresa que passe pela adoção da inovação .
+Outros estudos sobre a adoção do SCRUM em outras empresas podem contribuir para ampliar a visão sobre as barreiras de adoção desta inovação, possibilitando gerenciar de forma mais efetiva a sua implementação , bem como ampliar a com preensão teórica sobre as barreiras e gerar novos insights de estratégias para reduzir os impactos das barreiras na adoção de inovações em processos .
+Duarte, Toda, Castro & Se ixas| 216 10.20401/rasi.5.2.313 Avaliado pelo sistema double blind review Editor: Márcio M. Abdalla RASI, Volt a Redonda/RJ, v. 5, n. 2, pp.
+Referências Albino , R. D., Souza , C. A. , & Prado, E. P. V. (2014) .
+Benefícios alcançados por meio d e um modelo de gestão ágil de projetos em uma empresa de jogos eletrônicos.
+Revista Gestão e Projetos , 5 (1), 15-27.
+Angioni, M. Carboni, D., Pinna, S., Sanna, R., Serra, N. , & Soro, A.
+Integrating XP Project management in development environments .
+Journal of Systems Architecture , 52 (11), 619 -626.
+Augustine, S., Payne, B., Sencindiver, F. , & Woodcock, S. (2005) .
+Agile project management: steering from the edges.
+Communications of the ACM , 48 (12), 85 -89.
+Associação Brasileira das Empresas de Sof tware.
+Mercado brasileiro de software: Panorama e tendências .
+São Paulo, SP: ABES – Associação Brasileira das Empresas de Software.
+Recuperado em 18 março, 2018, de: a bes_publicacao -mercado_2018_small.pdf Azanha, A., Argoud A. R. T. T., Camargo, J.
+B. Jr. , & Antoniolli, P. D. (2016) .
+Agile project management with SCRUM: A case study of a Brazilian pharmaceutical company IT project.
+International Journal of Managing Pr ojects in Business , 10 (1), 121-142.
+Boehm, B., & Turner, R. (2005) .
+Management challenges to implementing agile processes in traditional development organizations .
+Browning, T. R., & Ramasesh, R. V. (2007) .
+A survey of acti vity network -based process models for managing product development projects.
+Production and Operations Management , 16 (2), 217-240.
+Busom , I., & Vélez-Ospina , J.
+Innovation, Public Support, and Productivity in Colombia.A Cross -industry Comparis on.
+World Development , 99, 75 -94.
+Understanding agile project management methods using SCRUM.
+OCLC Systems & Services: International Digital L ibrary Perspectives , 27 (1), 18-22.
+Making Sense of Agile Project Management: Balancing Control and Agility .
+Nova Jersey: John Wiley & Sons.
+Perspective: The Stage -Gate Idea -to-Launch Process -Update, What`s New, and NexGen Systems.
+The Journal of Product Innovation Management , 25(3), 213232.
+Duarte, Toda, Castro & Se ixas| 217 10.20401/rasi.5.2.313 Avaliado pelo sistema double blind review Editor: Márcio M. Abdalla RASI, Volt a Redonda/RJ, v. 5, n. 2, pp.
+2019. Cooper, R. G., & Sommer, A. F. (2016) .
+Agile -Stage -Gate: New idea -to-launch method for manufactured new products is faster, more responsive.
+Industrial Marketing Management 59, 167 -180.
+Agile Project Management: How to Succeed in the Face of Changing Project Requirements.
+Damanpour , F., Wischnevsky & J.D.
+Research on innovation in organizations: Distinguishing innovation -generating from innovation -adopting organizations.
+Journal of Engineering and Technology Management , 269 -291.
+DeHaes, S., Van Grembergen , W. , Debreceny , R. S. C obit.
+5 and enterprise governance of information technology: building blocks and research opportunities.
+Journal of Information Systems , 27 ( 1), 307 -324.
+Debreceny , R. S. , & Gray, G. L. (2013) .
+IT Governance and process maturity: a multinational field study.
+Journal of Information Systems , .27(1), 157-188.
+Extreme Project Management: Using Leadership, Principles, and Tools to Deliver Value in the Face of Volatility .
+Dingsoyr, T., Nerur, S., Balijepally, V. , & Moe, N. B.
+A decade of agile methodologies: Towards explaining agile software development.
+The Journal of Systems and Software , 85, 1213 -1221 .
+Entrevistas em pesquisas qualitativas.
+Educar em Revista , 24, 213-225.
+Fernandes, R. F. , Ferenhof , H. A., Miguez, V. B. , Teza , P., Souza , J.
+A., Abreu , A. F. , & Dandolini , G. A.
+A agilidade do framework SCRUM como prática viral de disseminação do conhecimento.
+Iberoamerican Journal of Project Management , 3 (1).
+Why your IT project may be riskier than you think.
+Harvard Business Review , 89 (9), 23 -25.
+Como elaborar projetos de pesquisa .
+Gomes , C. A. , & Machado , A. G. C. (2018) .
+Fatores que influenciam a inovação nos serviços públicos: o caso da Secretaria Municipal de Saúde de Campina Grande.
+Cadernos Gestão Pública e Cidadania , 23 (74), 49-70.
+Griffin, A. , Price, R. L. , Vojak, B.
+Serial Innovators' processes: How they overcome barriers to creating radical innovations.
+Industrial Marketing Management , 43, 1362–1371.
+Duarte, Toda, Castro & Se ixas| 218 10.20401/rasi.5.2.313 Avaliado pelo sistema double blind review Editor: Márcio M. Abdalla RASI, Volt a Redonda/RJ, v. 5, n. 2, pp.
+Hazée, S., Delcourt, C. , & Vaerenbergh, Y. V. (2017).
+Burdens of Access: Understanding Customer Barriers and Barrier -Attenuating Practices in Access -Based Services.
+Heidenreich , S., & Kraemer , T. (2016).
+Investigating Strategies to Overcome Passive Innovation Resistance.
+The Journal of Product Innovation Management , 33 (3), 277-297.
+Agile Project Management: Creating Innovative Products .
+Hodgkinson , G. P. , & Healey , M. P. (2014) .
+Coming in from the cold: the psychological microfoundations of radical innovation revisited.
+Industrial Marketing Management , 43 (8), 1306 -1313 .
+Isidro -Filho, A., Guimarães , T. A. , & Perin, M. G. (2011) .
+Determinantes de inovações apoiadas em tecnologias de informação e comunicação adotadas por hospitais.
+Revista de Administração e Inovação , 8(4), 142-159.
+Machado, C. Jr. , Mazzali, L. , & Palmisano, A.
+Gestão de Projetos de Inovação: o cas o de uma empresa líder do setor de eletrodomésticos.
+Revista de Administração e Inovação , 12 (3), 288-309.
+Pesquisa de marketing: uma orientação aplicada.
+Molyneux -Hodgson , S., & Balmer , A. S. (2014) .
+Synthetic biology, water industry and the performance of an innovation barrier.
+Science andPublicPolicy , 41, 507–519.
+Moraes Sobrinho , J., Silva Filho, P. D. M. , Vasconcelos , R. C. R. , & Furlanetto , E. L. (2014) .Análise do processo de difusão da tecnologia do blo co estrutural em João PessoaPB.
+Revista de Administração e Inovação , 11 (2), 198 -219.
+Consulta a página institucional.
+Recuperado em 11 novembro, 2018, de Nishijima, R. T., & Santos, J. G. (2013).
+The challenge of implementing SCRUM agile methodology in a traditional development environment.
+InternationalJournalofComputers& Technology , 5 (2), 98 -108.
+OCDE (Organização para Cooperação do Desenvolvimento Econômico).
+Manual de Oslo: diretri zes para coleta e interpretação de dados sobre inovação.
+Recuperado em 16 setembro, 2018, de -efinanciamento/manualoslo.pdf.
+Duarte, Toda, Castro & Se ixas| 219 10.20401/rasi.5.2.313 Avaliado pelo sistema double blind review Editor: Márcio M. Abdalla RASI, Volt a Redonda/RJ, v. 5, n. 2, pp.
+Peng, D. X., S chroeder , R. G ., & Shah, R. (2008) .
+Linking routines to operations cap abilities: a new perspective.
+Journal of Operations Manag ement , 26, (6), 730 –748.
+PMI - Project Management Institute .
+Consulta a página institucional.
+Recuperado em 31 agosto, 2018, de Raupp, F. M. , & Beuren, I. M. (2006) .
+Metodologia de Pesquisa aplicada às Ciências Sociais.
+Rhéaume , L., & Gardoni , M.(2015) .The challenges facing corporate universities in dealing with open innovation, Journal of Workplace Learning , 27 (4), 315-328.
+Sandberg, B. , & Aarik ka-Stenroos, L. (2014).
+A systematic review on barriers to radical innovation.
+Industrial Marketing Management , 43, 1293 – 1305.
+Agile Project Management with SCRUM.
+(2017) .Identifying the key barriers and their interrelationships impeding the university technology transfer in Taiwan: a mult i-stakeholder perspective.
+Springer Scien ce+Business Media Dordrecht , 51, 2865 -2884.
+Stacho, Z. , Potkány, M. , Stachová, K. , & Marcineková, K. (2016).
+The organizational culture as a support of innovation processes' management: a case study.
+International Journal for Quality Research , 10 (4), 769 –784.
+Recuperado em 01 setembro, 2018, de Stoica, M. , Mircea, M. , & Ghilic -Micu, B.
+Software Development: Agile vs.
+Informatica Economica , 17 (4), 64 -76.
+Story, V. M. , Daniels, K. , Zolkiewski, J. , & Dainty, A. R. J.
+The barriers and consequences of radical innovations: Introduction to the issue.
+Industrial Marketing Management , 43, 1271 –1277.
+The Art of doing twice the work in half the time .
+DUI mode learning and barriers to innovation - A case from Germany.
+Research Policy , 46, 1327 –1339.
+Duarte, Toda, Castro & Se ixas| 220 10.20401/rasi.5.2.313 Avaliado pelo sistema double blind review Editor: Márcio M. Abdalla RASI, Volt a Redonda/RJ, v. 5, n. 2, pp.
+The 1 2th Annual State of Agile Report (201 8).
+Recuperado em 10 março , 2018, de -of-agile/versionone -12th-annual -state-of-agilereport .

@@ -1,0 +1,392 @@
+ Revista Eletrônica de Negócios Internacionais São Paulo, v.16, n. 1, p. 75-88, jan./abr.
+2021 | e -ISSN: 1980 -4865 | CRIAÇÃO DE INOVAÇÃO LOCAL POR SUBSIDIÁRIAS ESTRANGEIRAS A PARTIR DE VANTAGENS ESPECÍFICAS DO AMBIENTE SUBNACIONAL Cristina Doritta RodriguesΩ1, Felipe Mendes Borini£, Muhammad Mustafa Raziq¥ e Manuel Portugal Ferreira€ Ω Escola Superior de Propaganda e Marketing – ESPM, São Paulo, (Brasil) £ Universidade de São Paulo – USP, São Paulo, (Brasil) ¥ National University of Sciences and Technology, Islamabad (Pakistan) € Universidade Federal de Lavras – UFLA, Minas Gerais (Bras il) DETALHES DO ARTIGO RESUMO Histórico do Artigo: Recebido em: 30 de março de 2020 Aceito: 17 de outubro de 2020 Disponível online: 01 de janeiro de 2021 Sistema de revisão "Double blind review" Editor Científico Ilan Avrichir Objetivo - O estudo objetiva examinar os efeitos dos fatores do ambiente subnacional brasileiro – a eficiência do ambiente competitivo subnacional e o embeddedness relacional em cada localidade subnacional - na criação de inovação local em subsidiárias estrangeira s. Método – A abordagem é quantitativa e a pesquisa baseia -se em dados primários coletados por meio de uma survey com 152 subsidiárias estrangeiras localizadas em treze Estados do Brasil e em dados secundários do World Bank Enterprise Surveys .
+Os dados sã o analisados por regressão linear múltipla.
+Principais resultados - Os resultados mostram que existe uma associação positiva e significante entre o ambiente competitivo subnacional e inovação local das subsidiárias.
+Entretanto, não é observada uma associaç ão significativa entre o embeddedness externo subnacional e a inovação local.
+Além disso, os resultados mostram que as empresas que entram por meio de aquisições estão mais associadas à inovação local.
+Relevância/Originalidade - O estudo procura complemen tar o debate sobre o efeito do ambiente subnacional na inovação local das subsidiárias tendo como contexto o Brasil.
+A análise em nível subnacional considera a heterogeneidade institucional subnacional e revela variações que poderiam ser desconsideradas por uma análise de nível nacional.
+Contribuições teóricas/metodológicas : Embora existam indícios do impacto do ambiente institucional na estratégia e inovação, este estudo no âmbito brasileiro avança em dois pontos.
+Primeiro, os estudos existentes analisam mercados desenvolvidos e mercados emergentes, porém esses últimos de forma pontual e numa realidade asiática, que apresenta uma considerável diferença do mercado latino americano e brasileiro, destacando -se as peculiaridades do ambiente subnacional brasilei ro.
+Segundo, contribui para os estudos de Geografia Econômica reforçando que cada ambiente subnacional tem suas particularidades, conforme demonstrado na natureza das questões subnacionais no Brasil.
+Contribuições sociais / para a gestão : Em termos gerenc iais, o estudo chama a atenção para a importância do conhecimento da dinâmica competitiva subnacional quanto à participação da economia informal e estende implicações para políticas públicas.
+Palavras -chaves: Subsidiárias estrangeiras Ambiente subnacional Inovação local Regressão linear múltipla 1 Contato do autor: crisdoritta@gmail.com DOI: 10.18568/internext.v16i1.
+600 76 C. D. Rodrigues , F. M. Borini, M. M. Raziq & M. P. Ferreira Internext | São Paulo, v.16, n. 1, p. 75 -88, jan./abr .
+INTRODUÇÃO A literatura em gestão internacional ressalta a importância da inovação das subsidiárias como forma de obtenção da vantagem competitiva da empresa multinacional (Meyer, Li & Schotter, 2020).
+O desenvolvimento de inovações locais da subsidiária é um dos cam inhos para o desenvolvimento de inovações de subsidiárias que possam ter alcance global (Gupta & Govindarajan, 2001; Nohria & Ghoshal, 1997).
+A inovação local é decorrência de ações internas da subsidiária, como, também, das condições de fatores do ambient e competitivo local (Porter, 1990; Birkinshaw, Hood & Jonsson, 1998) e das redes locais (Andersson, Forsgren & Holm, 2002).
+O presente artigo enfoca fatores do ambiente externo que é uma das temáticas largamente estudadas no nível macro, ou seja, nacional.
+No entanto, é reconhecido que o foco em fatores do macro ambiente do país ignora efeitos de fatores entre níveis subnacionais.
+As características locais subnacionais são consideradas relevantes, em especial, quando se trata de um país geograficamente ampl o, onde se têm maiores disparidades (Falaster, Ferreira, Serra & Storopoli, 2017; Bi, Ren & Bao, 2020), tal como o Brasil.
+Esse olhar para as peculiaridades subnacionais pode indicar variações que uma análise em nível nacional pode desconsiderar por não le var em conta a heterogeneidade institucional subnacional (Hutzschenreuter, Matt & Kleindienst, 2020; Li & Sun, 2017; Yang, 2018; Meyer & Nguyen, 2005).
+Diante deste contexto, o presente artigo questiona quais são os efeitos dos fatores do ambiente subnacional brasileiro na criação de inovação local em subsidiárias estrangeiras?
+O estudo realizado em treze Estados brasileiros objetiva examinar os efeitos dos fatores do ambiente subnacional brasileiro – a eficiência do ambiente competitivo subnacional e o embeddedness relacional em cada localidade subnacional - na criação de inovação local em subsidiárias estrangeiras.
+As análises são realizadas por meio de uma abordagem quantitativa.
+Foram usados dados primários decorrentes da aplicação de uma survey quanto à percepção dos respondentes acerca dos fatores do macro ambiente.
+Assim como foram usados dados secundários de domínio público do World Bank Enterprise Surveys (WBES) para avaliar o efeito dos fatores institucionais subnacionais no nível da entidad e federativa estadual.
+A análise de fatores em nível subnacional oferece uma integração mais matizada das relações da subsidiária com o contexto local e aponta uma arena fértil tanto para os estudos de Negócios Internacionais ( International Business - IB) quanto para a Geografia Econômica (GE) (Beugelsdijk & Mudambi, 2013; Beleska -Spasova, Loykulnanta & Nguyen, 2016; Meyer & Nguyen, 2005; Yang, 2018; Hutzschenreuter et al., 2020).
+Ademais, Hutzschenreuter et al.
+(2020) conclamam o efeito dos fatores subnac ionais na inovação das subsidiárias, tal como os estudos conceituais de Falaster e Ferreira (2020) e de Sun, Qu e Liao (2018), estes últimos, que examinam como as instituições subnacionais chinesas podem impactar a definição de incentivos ao investimento e m pesquisa e desenvolvimento (P&D).
+Nesse sentido, este estudo procura complementar o debate sobre o efeito do ambiente subnacional na inovação local das subsidiárias, tendo como contexto, o Brasil.
+Localização e inovação local Um dos fatores determinantes da inovação local das subsidiárias é o ambiente externo local.
+(2020) mostram que o desenvolvimento de inovações é um dos principais tópicos de análise nos estudos de gestão de uma subsidiária.
+A inovação está associ ada ao papel da subsidiária na multinacional, que muda de acordo com os fatores dos ambientes locais da localização (Oliveira Jr., Boehe & Borini, 2009).
+Isto é, o local onde a subsidiária está inserida é importante para o desenvolvimento de capacidades da s subsidiárias (Meyer, Mudambi & Narula, 2011; Andersson, Dellestrand & Pedersen, 2014; Yang, 2018), ou seja, o desenvolvimento de inovação local na subsidiária (Birkinshaw et al., 1998).
+O contexto local é composto por fatores do ambiente competitivo e da s instituições.
+Esses fatores locais impactam nas escolhas de localização das subsidiárias (Chan, Makino & Isobe, 2010; Ma, Tong & Fitza, 2013; Li & Sun, 2017; Kim & Kim, 2018; Yang, 2018).
+Quanto melhor o ambiente local, maior a atração de subsidiárias, p ois a região é mais propícia para a criação de inovação local (Rugman & Oh, 2013; Porter, 1990; Andersson et al., 2002).
+Logo, a inovação local da subsidiária depende do quanto a empresa desfruta dos recursos do seu ambiente local 77 Criação de Inovação Local por Subsidiárias Estrangeiras a partir de Vantagens Específicas do Ambiente Subnacional Internext | São Paulo, v.16, n. 1, p. 75 -88, jan./abr .
+2021 (Gnyawali & Hatfield, 200 7).
+A contrapartida é verdadeira, pois a inovação local é desenvolvida para atender especificamente às necessidades do mercado onde a subsidiária atua de forma a garantir a sua competitividade (Costa, Borini & Amatucci, 2013; Rugman & Verbeke, 2001).
+Em ge ral, os estudos abordam o local a partir de uma ótica macro, ou seja, por meio dos fatores do ambiente competitivo e das instituições nacionais.
+Estudos que examinam empiricamente como as subsidiárias respondem às mudanças subnacional receberam a devida at enção na literatura (Li & Sun, 2017; Yang, 2018; Peng & Beamish, 2019), mas apresentam crescimento nos últimos anos (Hutzschenreuter et al., 2020; Lu, Song, & Shan, 2018).
+Isso por que ficam cada vez mais evidentes as peculiaridades regionais de cada nação (Falaster & Ferreira, 2020; Batschauer, Floriani & Amal, 2020).
+Quanto maior territorialmente e mais diversificada institucionalmente a nação, é esperada uma maior variabilidade do ambiente subnacional (Meyer & Nguyen, 2005).
+Logo, apesar de estudos já denotarem a influência do ambiente nacional brasileiro na inovação das subsidiárias (Costa et al., 2013), assim como, das redes de negócios (Isaac, Borini, Raziq & Benito, 2019), quando se fala de um país territorialmente grande como o Brasil, é de se espera r que exista uma variação no ambiente subnacional (WBES, 2017).
+Uma perspectiva de nível nacional, ou seja, que considera a homogeneidade espacial de um país pode camuflar regiões de maior atratividade dentro do país (Hutzschenreuter et al., 2020) porque a lguns de seus Estados são menos vulneráveis e mais atrativos para investimentos e desenvolvimento de inovações (WBES, 2017).
+Deste modo, no presente artigo é verificado o efeito do ambiente subnacional na inovação local das subsidiárias.
+Ambiente competit ivo subnacional A dinâmica do ambiente competitivo forma a base para a atração de multinacionais estrangeiras (Andersson et al., 2014; Beleska -Spasova et al., 2016; Rugman, Verbeke & Nguyen, 2011).
+O ambiente competitivo é constituído por uma força agregada manifestada pelo grau de competição, rivalidade, pressão dos clientes e qualidade dos fornecedores (Porter, 1990), que tem o poder de impulsionar a inovação das subsidiárias (Birkinshaw & Hood, 1998; Frost, Birkinshaw & Ensign, 2002).
+Trata -se de fatores que dependem da trajetória do desenvolvimento local (Holm, Malmberg & Sölvell, 2003), logo, de mudança evolutiva.
+De tal maneira determinam, também, a evolução das capacidades das firmas locais, tal como das subsidiárias, manifestada por meio de in ovações em adaptação e criação de novos de produtos e processos (Andersson et al., 2014).
+A inovação local das subsidiárias é impactada pelo ambiente competitivo, pois as interações entre uma subsidiária e outros atores locais potencializam as pressões do ambiente e os processos de aprendizado e adaptação (Porter, 1990; Andersson, Forsgren & Holm, 2001; Andersson et al., 2002).
+Assim, a interação dinâmica no ambiente competitivo pode explicar em partes o sucesso e o fracasso das empresas instaladas nas eco nomias emergentes (Chen & Miller, 2012; Li & Liu, 2014).
+Neste sentido, observa -se para o Brasil, dentre alguns dos indicadores da sofisticação do mercado, que o índice relativo ao comércio, competição e tamanho de mercado indica a existência de uma dinâmi ca forte, dado que o país ocupa a 32ª posição em comparação com cento e vinte e sete países no ranking global de inovação ( Global Innovation Index - GII, 2017).
+No entanto, a análise do ambiente competitivo pode ser mais bem entendida se ponderada pelas peculiaridades das instituições subnacionais, uma vez que pode explicar melhor como as empresas conseguem aproveitar os recursos à sua disposição para alcançar a inovação (Meyer & Nguyen, 2005; Meyer et al., 2011; Goerzen, Asmussen & Nielsen, 2013).
+As empre sas optam por localizarem -se onde as instituições possibilitam um ambiente de negócios mais propício ao seu tipo de operação comercial e, em particular, onde as barreiras institucionais inibem menos o acesso aos recursos locais (Meyer & Nguyen, 2005; Lu, S aka-Helmhout & Piekkari, 2019; Hutzschenreuter et al., 2020).
+Assim, o nível de desenvolvimento institucional subnacional reflete a extensão em que as instituições políticas e econômicas em uma região subnacional favorecem ou não as empresas estrangeiras ( Li & Sun, 2017).
+No nível subnacional, um elemento -chave das instituições relacionada à dinâmica do ambiente competitivo são as práticas concorrenciais, que consistem num dos obstáculos existentes no ambiente de negócios identificados pelo WBES (2009): a informalidade concorrencial.
+Trata -se da economia informal que abrange uma grande variedade de segmentos (Organização Internacional 78 C. D. Rodrigues, F. M. Borini, M. M. Raziq & M. P. Ferreira Internext | São Paulo, v.16, n. 1, p. 75 -88, jan./abr .
+É importante notar que no Brasil, segundo dados do Instituto Brasileiro de Geografia e Estatística (IBGE, 2018), em média nessa década aproximadamente 40% da população ocupada estava em trabalho informal.
+Ademais existe uma heterogeneidade da informalidade conforme as diferentes regiões do país (Souza, Trovão, Silva & Melo, 2019).
+(2019) mostram que em 2005 a taxa de informalidade aproximadamente na região Nordeste era de 71%, na Norte de 68%, na Centro -Oeste de 52%, na Sul de 46% e na Sudeste de 40%.
+Após dez anos, em 2015 a informalidade caiu, mas as disparidades continuam: na região Nordeste era de 56%, na Norte de 56%, na Centro -Oeste de 34%, na Sul de 25% e na Sudeste de 28%.
+Portanto a informalidade é um fator subnacional que tem efeito na dinâmica competitiva e, consequentemente, na estratégia de inovação das subsidiárias .
+A informalidade faz com que a concorrência tenha disparidade em termos da estrutura de custos.
+Ademais, a informalidade atua tanto a jusante, quanto a montante.
+As condições dos fornecedores da indústria são afetadas pela informalidade, assim como a dema nda é impactada pela oferta de produtos oriundos da economia informal.
+Isso quer dizer que quanto menor a informalidade na região subnacional, maior a eficiência institucional e maior a probabilidade de impactar positivamente na competitividade da subsidiá ria (Li & Sun, 2017).
+Logo, Hipótese 1 : A inovação local das subsidiárias estrangeiras está associada a maior eficiência do ambiente competitivo subnacional.
+Relacionamento com parceiros de negócios no ambiente subnacional De uma perspectiva local, as subsidiárias interagem externamente com outras organizações por meio de redes para atrair recursos (Meyer et al., 2020) para o desenvolvimento de competências (Andersson et al., 2002; Meyer et al., 2020) geralmente oriundas de inovações locais (I saac et al., 2019).
+A teoria das redes de negócios reconhece que, em grande parte, os recursos críticos relacionados à inovação estão ligados às relações específicas da subsidiária com seus clientes, fornecedores, distribuidores e outras contrapartes locai s, ou seja, com o embeddedness externo local (Andersson & Forsgren, 1996; Andersson et al., 2002; Andersson, Forsgren & Holm, 2007).
+Isso porque a inserção da subsidiária numa rede externa propicia novos conhecimentos que podem auxiliá -la como fonte estrat égica para o desenvolvimento de inovações em produtos, em processos e em serviços (Andersson et al., 2002; Figueiredo, 2011).
+O embeddedness externo pode ser visto como um recurso em si porque através dele a empresa obtém acesso a recursos e capacidades qu e estão fora da organização.
+A possibilidade de uma subsidiária identificar novas informações, assimilar e transformar em processos produtivos depende fortemente da proximidade das relações existentes com diferentes parceiros comerciais (Andersson et al., 2002; Holm, Holmström & Sharma, 2005; Andersson, Björkman & Forsgren, 2005).
+Assim, o embeddedness externo abrange a relação das subsidiárias com seus clientes, fornecedores, distribuidores ou parceiros.
+Quando esta relação é permeada por transações basead as em relacionamentos de alta qualidade e muito duradouros, os parceiros adaptam seus comportamentos extensivamente entre si baseados na confiança e no compromisso mútuo (embeddedness relacional) (Andersson et al., 2002; Hallin, Holm & Sharma, 2011).
+O emb eddedness relacional constitui a base para a partilha de conhecimento (Hallin et al., 2011; Nell & Andersson, 2012) e criação da inovação local (Andersson et al., 2002; Isaac et al., 2019).
+(2013) argumentam que o efeito da região subnacional no desempenho da subsidiária estrangeira é derivado do embeddedness da subsidiária no contexto local da região subnacional.
+Os parceiros fornecem informações confiáveis e úteis sobre o mercado, sobre outros parceiros locais potenciais, que ajudam a reduzir a incerteza e os riscos de colaboração (Kim & Kim, 2018) auxiliando o processo de inovação.
+Desse modo é importante que existam parceiros qualificados para a subsidiária.
+Isto depende da qualificação da mão obra nas regiões subnacionais.
+A qualificação da mão de obra de uma nação é a base para a produtividade das suas instituições.
+De Souza Barbosa e Lemos (2019) mostram que a escolaridade tem relação com a produtividade, porém com significativa variação dentro do Brasil.
+Os dados revelam que a menor qualif icação educacional (menos anos de estudos) estão associados a menor produtividade, mostrando que a região Nordeste 79 Criação de Inovação Local por Subsidiárias Estrangeiras a partir de Vantagens Específicas do Ambiente Subnacional Internext | São Paulo, v.16, n. 1, p. 75 -88, jan./abr .
+2021 apresenta a menor produtividade e menor escolaridade, quando medida pelo porcentual da população com mais de 15 anos que completou apenas o e nsino fundamental.
+Isso implica que os parceiros em diferente Estados da federação podem ter mais dificuldade para encontrar mão de obra qualificada e ter mais produtividade.
+A menor produtividade pode acarretar em menor disponibilidade para uma relação de troca de conhecimento entre parceiros e subsidiária (Andersson et al., 2002), o que pode implicar em menos predisposição para a inovação local.
+Logo, Hipótese 2 : A inovação local das subsidiárias estrangeiras está associada ao embeddedness relacional em cada localidade subnacional.
+Coleta dos dados e amostra Os dados primários foram coletados por meio de uma survey enviada por e -mail para representantes com cargos de tomada de decisão das mil maiores multinacionais estrangeiras que operam no Brasil.
+Essa coleta foi realizada no primeiro semestre de 2009.
+Inicialmente foram consideradas 152 respostas para as variávei s sobre a atuação da subsidiária no Brasil, sendo a maior parte advinda América do Norte (30%) e Europa (56%), que atuam nos setores de agronegócios (3%), indústria (76%) e serviços (21%), considerando as respostas completas e válidas.
+Em posse dos dados foi verificado que as empresas respondentes atuam em treze Estados do Brasil, sendo que apenas 54 (35%) atuam com operações em mais de um Estado.
+Quando a empresa atua em mais de um Estado, a proxy do ambiente subnacional é a média das notas obtidas nos Es tados.
+Para os dados institucionais de cada Estado foram usados dados secundários, mais especificamente os dados do WBES.
+A base de dados do WBES (2009) fornece as respostas dadas por empresários e os principais gerentes em mil oitocentos e duas empresas q ue foram convidados a escolher o maior obstáculo para a realização de seus negócios.
+Esse conjunto de dados secundários permite distinguir os diferentes Estados do Brasil, incluindo os treze entes federativos em que as multinacionais da amostra atuam: Amaz onas, Bahia, Ceará, Distrito Federal, Goiás, Mato Grosso, Minas Gerais, Paraná, Pernambuco, Rio de Janeiro, Rio Grande do Sul, Santa Catarina e São Paulo.
+Importante salientar que para essa pesquisa foi usada a base de dados primários de 2009, pois os dado s secundários relacionados aos obstáculos do ambiente de negócios subnacional do WBES datam, também, de 2009.
+Inclusive este foi o último período de coleta feito para o Brasil do WBES até o momento.
+Variáveis Todas as variáveis da survey estão medidas n uma escala de Likert de cinco pontos, tendo -se num extremo o valor 1, que indica discordo totalmente e, no outro extremo o valor 5, concordo totalmente.
+Devido à impossibilidade de uma medida direta, os construtos latentes são representados por mais de uma variável latente, ou seja, por variáveis representadas e medidas por variáveis observáveis (Hair et al., 2009).
+As variáveis do WBES também estão medidas numa escala de Likert de cinco pontos, na qual se tem num extremo o valor 0, que indica que não há obstáculos e, no outro extremo o valor 4, que indica a existência de obstáculos muito severos.
+Em decorrência da diferença de escalas entre a survey e os dados do WBES, foi feito um ajuste de escalas com recodificação para que as respostas dadas ao WBES se adequassem à medição das respostas da survey.
+As escalas também foram invertidas para medir não o obstáculo do fator institucional, mas sim o quanto o fator é favorável para determinado Estado, de forma a combinar com a escala em sinalização positiva do ambiente nacional e de embeddedness.
+Variável dependente A variável dependente avalia a inovação local em subsidiárias de empresas multinacionais estrangeiras que operam em treze Estados do Brasil.
+O construto da inovação local baseia -se, em particular, na adaptação de Birkinshaw et al.
+(1998), para analisar se a subsidiária desenvolve inovações locais, partindo da premissa de que a autonomia para inovar localmente foi concedida pela matriz.
+A medição foi feita considerando que a inovação local das subsidiá rias é dependente de uma trajetória evolutiva da adaptação para a criação de produtos e processos (Tarraço, Bernardes, Borini & Rossetto, 2019).
+Foram considerados três itens da survey, perguntando se a empresa: (1) altera o design dos 80 C. D. Rodrigues, F. M. Borini, M. M. Raziq & M. P. Ferreira Internext | São Paulo, v.16, n. 1, p. 75 -88, jan./abr .
+2021 produtos / serviços oferecidos; (2) cria novos produtos / serviços; (3) altera os processos de produção.
+O Alfa de Cronbach, que mede a confiabilidade da consistência interna do constructo (Hair et al., 2009) é de 0,792.
+Variáveis independentes As variáveis independentes oriundas da survey são o embeddedness externo o ambiente competitivo.
+O embeddedness externo refere -se aos relacionamentos e à confiança que a subsidiária desenvolve com seus clientes, fornecedores, distribuidores e parceiros.
+Es se constructo apoia -se em Andersson et al.
+A medição foi feita com seis itens da survey que perguntam: (1) o relacionamento com nossos principais parceiros é caracterizado por ser uma relação de longa duração; (2) o relacionamento com nossos princi pais parceiros é caracterizado por um alto nível de confiança mútua; (3) nossos principais parceiros nunca se comprometem a fazer coisas sem que venham a cumprir o prometido; (4) nossos principais parceiros normalmente compartilham conosco importantes informações sobre o mercado e vice e versa; (5) nós confiamos nos nossos parceiros no sentido de que eles irão entregar conforme o prometido e dentro do prazo determinado e (6) nós confiamos nos nossos parceiros no sentido de que eles irão entregar dentro do p adrão de qualidade prometido.
+O ambiente competitivo baseia -se em Porter (1990) e Birkinshaw et al.
+A medição foi feita com quatro itens da survey, perguntando a importância dos seguintes fatores para o desempenho da subsidiária: (1) tamanho da demanda de mercado; (2) exigência dos consumidores; (3) intensidade da competição e (4) velocidade na inovação de competidores.
+Para calcular as variáveis do ambiente de negócios subnacional, utili zaram -se os dados coletados no WBES (2009) que indicam a existência dos obstáculos, selecionando -se para essa pesquisa apenas dois obstáculos para ponderar o efeito do ambiente competitivo e do embeddedness externo respondidos pelas subsidiárias.
+Para pond erar o efeito do ambiente competitivo escolheu -se o obstáculo da informalidade.
+Na survey do WBES a pergunta questiona até que ponto as práticas dos concorrentes no setor Informal são um obstáculo.
+A ponderação foi feita da seguinte forma: a nota média dos Estados em que a subsidiária atua de forma produtiva foi multiplicada pela nota média respondida para o ambiente competitivo.
+Por sua vez, para ponderar o efeito do embeddedness externo utilizou -se o obstáculo da inadequação da formação educacional da mão de obra.
+Na survey do WBES a pergunta questiona até que ponto uma força de trabalho com educação inadequada é um obstáculo.
+Da mesma forma, a ponderação foi feita com a nota média dos Estados em que a subsidiária atua multiplicada pela nota média respondi da para o embeddedness externo.
+Variáveis de controle As variáveis de controle são a idade, o tamanho e o modo de entrada.
+A idade considera o ano de abertura da subsidiária no respectivo Estado do Brasil e é medida em termos de número de anos, considerando o período entre 2000 e 2009 (Ano 00).
+O tamanho da subsidiária no Estado onde ela opera no Brasil reflete a quantidade d e funcionários que a empresa tem.
+Considerou -se para o controle, subsidiárias com menos que 100 funcionários (t100) porque subsidiárias menores provavelmente têm maior flexibilidade para inovar devido à menor burocracia interna e, também, porque suas inova ções tendem a ser muito específicas para a demanda do mercado local (Costa et al., 2013).
+O modo de entrada nos Estados dentro do mercado brasileiro pondera se a subsidiária optou por uma aquisição ou greenfield, uma vez que a literatura mostra que empres as adquiridas possuem mais autonomia do que empresas greenfield (Raziq, Borini, Perry & Battisti, 2013) e, portanto, têm maior capacidade de inovar.
+Para todas as variáveis de controle utilizou -se uma variável dummy atribuindo -se o valor 0, caso a caracte rística não esteja presente e 1, caso a característica esteja presente (Marôco, 2014; Fávero & Belfiore, 2017).
+81 Criação de Inovação Local por Subsidiárias Estrangeiras a partir de Vantagens Específicas do Ambiente Subnacional Internext | São Paulo, v.16, n. 1, p. 75 -88, jan./abr .
+RESULTADOS Os dados são analisados por meio da regressão linear múltipla.
+As respostas da survey feita para as subsidiárias são baseadas em percepção, da mesma forma que as do WBES.
+Entretanto, ao ponderar as respostas da survey pelas respostas do WBES, diminui -se o efeito da common method bias .
+Além disso, o teste de Harman para um único fator, mostra que a variância explicada é de 22%, ou s eja, bem abaixo dos 50%.
+Para evitar o viés dos não respondentes a amostra foi dividida em duas partes dos 50% primeiros frente aos demais.
+A comparação das médias dos constructos usados no modelo não apresenta diferença significativa.
+Por fim, para aument ar a acurácia do modelo, além da modelagem com cento e cinquenta e dois respondentes (Modelo 1), foi realizada a rotação de um modelo com cento e trinta e sete observações (Modelo 2) oriundas das exclusões de casos com mais de dois desvio padrão dos resídu os.
+A Tabela 1 mostra a média, o desvio padrão e as correlações (não padronizados) dos constructos pesquisados.
+A princípio, verifica -se, ainda que fraca, a correlação do ambiente competitivo subnacional com a inovação loc al da subsidiária.
+Tabela 1 : Descritivas e Correlações Média Desvio Padrão 1 2 3 1 Ambiente competitivo subnacional 8,79 1,46 1 2 Embeddedness externo subnacional 5,24 0,74 0,194* 1 3 Inovação Local 3,47 0,96 0,165* -0,001 1 *p < 0,05 Fonte: Elaborado pelos autores (2020).
+A Tabela 2 mostra os testes para o comportamento das variáveis de controle (ano, modo de entrada e tamanho) e das variáveis independentes, e a relação destas com a variável dependente (inovação local) no Modelo 1 (n=152) e no Modelo 2 (n=137).
+Os modelos apresenta m VIF menor que cinco, ou seja, são ausentes de multicolinearidade.
+Modelos de Regressão Modelo 1 Modelo 2 Ano 0,037 0,006 Aquisição 0,198* 0,249** Tamanho -0,084 -0,019 Ambiente competitivo subnacional 0,202* 0,376** Embeddedness externo subnacional -0,024 -0,099 F 2,438 5,414 *p < 0,05 ** p < 0,01 R2 Ajustado 0,045 0,14 Variável dependente: Inovação local .
+Fonte: Elaborado pelos autores (2020).
+Os resultados mostram que existe uma associação positiva e significante entre o ambiente competitivo subnacional e inovação local das subsidiárias.
+Esse resultado confirma a hipótese 1.
+Por sua vez, tanto no Modelo 1, c omo no Modelo 2 não é observada uma associação significativa entre o embeddedness externo subnacional e a inovação local.
+Deste modo a hipótese 2 não é suportada.
+Ainda, os dois modelos mostram que as empresas que entram por meio de aquisições estão mais a ssociadas à inovação local, o 82 C. D. Rodrigues, F. M. Borini, M. M. Raziq & M. P. Ferreira Internext | São Paulo, v.16, n. 1, p. 75 -88, jan./abr .
+2021 que confirma o pressuposto que subsidiárias constituídas por aquisições possuem mais autonomia para a inovação local (Raziq et al.
+DISCUSSÃO Os resultados confirmam que o ambiente competitivo subnacional (H1) exerce um efeito significativ o para as subsidiárias estrangeiras criar em inovações locais , o que está de acordo com a literatura e destaca a importância de se estudar o contexto subnacional (Chan et.
+al, 2010; Beugelsdijk & Mudambi, 2013; Korez -Vide , Voller & Bobek , 2014; Beleska -Spasova et al., 2016; Goerzen et al., 2013; Yang, 2018; Hutzschenreuter et al., 2020).
+Esse resultado ressalta a escolha da localização (Ma et al., 2013; Falaster et al., 2017 ; Li & Sun, 2017; Yang, 2018; Kim & Kim, 2018), em especial, quanto à dinâmica competitiva como um fator importante para o propósito estratégico de inovação das subsidiárias estrangeiras, ao menos, em território brasileiro.
+Quanto mais dinâmica concorrência, dema nda e indústria de fatores, e menor a interferência da economia informal, mais as subsidiárias tendem a voltar seus objetivos estratégicos para a inovação local.
+Este resultado está alinhado com a importância do ambiente subnacional, mostrando que a inovaç ão tende a proliferar onde as instituições são mais propícias às operações de negócios e onde as barreiras institucionais inibem menos o acesso aos recursos locais (Meyer & Nguyen, 2005 ; Kim & Kim, 2018 ).
+Por sua vez, os resultados não apresentam a associa ção do embeddedness subnacional com a inovação local das subsidiárias estrangeiras (H2).
+Uma das explicações é que a mobilidade da mão de obra pode ajudar as empresas de diferentes Estados a completar seus quadros qualificados, uma vez que a literatura (Is aac et.
+al, 2019) mostra a associação do embeddedness no nível nacional.
+Outra razão é que, como a análise é baseada em dados de treze Estados brasileiros, é possível afirmar que nesses Estados os obstáculos não influenciam a criação de inovação local por subsidiárias estrangeiras, mas variações institucionais diversas podem ser encontradas em outros Estados da federação ( Chan et al ., 2010; Meyer & Nguyen , 2005 ; Goerzen et al.
+Além da análise estrita das hipóteses, os resultados são impo rtantes porque demonstra m que em um mercado emergente, o ambiente competitivo subnacional tem efeito sob a inovação local .
+Isso implica que a unidade federativa versus a autonomia estadual deve ser muito bem pesada e balanceada para dirimir distorções maio res daquelas que uma economia emergente como o Brasil já apresenta pela sua trajetória de desenvolvimento institucional.
+Em termos de contribuição acadêmica, destaca -se que, e mbora existam indícios do impacto do ambiente institucional na estratégia e inovação, este estudo no âmbito brasileiro avança em dois pontos .
+Primeiro, os estudos analisam mercados desenvolvidos ( Santangelo et al., 2016) e mercados emergentes (Chan et al., 2010; Meyer & Nguyen, 2005), porém esses últimos de forma pontual e numa realidade asiática (China e Vietnã), que apresenta uma considerável diferença do mercado latino americano e brasileiro , destacando -se as peculiaridades do ambiente subnacional brasileiro .
+Por exemplo, o imp acto das instituições econômicas subnacionais no Brasil (mercado emergente) tem suas peculiaridades frente os mercados desenvolvidos, ou mesmo, em relação à China (Khanna & Palepu, 2011; Sull & Escobari, 2004; Sull & Wang, 2005).
+Segundo , contribui para os estudos de geografia econômica ( McCann & Mudambi, 2005 ) reforçando que cada ambiente subnacional tem suas peculiaridades, como foi mostrado na natureza das questões subnacionais no Brasil.
+Em termos gerenciais, o estudo chama a atenção para a importância do conhecimento da dinâmica competitiva subnacional em especial quanto à participação da economia informal.
+Nesse sentido estende as implicações para políticas públicas.
+Para os governantes os resultados demonstram a importância do fortalecimento do ambien te institucional do sistema nacional de inovação, evidenciando a necessidade de ações públicas que governos est aduais e municipais devem pensar para figurar seu ambiente subnacional como polo de atratividade para o investimento estrangeiro.
+CONCLUSÃO Os ambientes subnacionais estudados atuam como um polo de atração das subsidiárias que desejam realizar localmente atividades específicas de criação de inovação local, principalmente em Estados onde países anfitriões como o Brasil têm vantagens específicas no ambiente competitivo subnacional.
+Os 83 Criação de Inovação Local por Subsidiárias Estrangeiras a partir de Vantagens Específicas do Ambiente Subnacional Internext | São Paulo, v.16, n. 1, p. 75 -88, jan./abr .
+2021 achados trazem contribuições à pesquisa de negócios internacionais e de geografia econômica para a inovação local de subsidiárias.
+Retratam a importância do estudo sobre o ambiente de negócios subnacional, representado nesta pesquisa pelo estudo de treze Estados do Brasil.
+As descobertas são relevantes para o estudo de subsidiárias estrangeiras que operam em economias emergentes, porque utilizam a subsidiária como unidade de análise e também o ambiente subnacional, cont ribuindo para o preenchimento da lacuna de pesquisa levantada.
+A primeira diz respeito ao período da coleta dos dados.
+A base de dados primários é datada de 2009 porque a última coleta de dados secundários realizada pelo WBES sob re os obstáculos do ambiente subnacional brasileiro foi feita em 2009, o que inviabiliza a realização de uma nova survey para atualizar os dados da pesquisa, considerando a inexistência de dados atuais.
+A segunda limitação se relaciona ao recorte transvers al de 2009 que pode não acompanhar algumas transformações politicas e econômicas dos anos subsequentes, que podem ter impactado não apenas os obstáculos pesquisados, mas alterado as condições com as quais os representantes das subsidiárias responderam à su rvey.
+Como sugestão de estudos futuros, recomenda -se a replicação do método para avaliar se os resultados encontrados reaparecem nos tempos atuais.
+Para isso, como o WBES não tem novos dados disponíveis, sugere -se que os pesquisadores incluam em suas surve ys as mesmas questões efetivadas para a composição dos constructos apresentados nesta pesquisa e adicionem as questões para medir a percepção dos gestores das subsidiárias sobre quão severos os obstáculos presentes no ambiente de negócios subnacional se ap resentam e qual a sua influência na capacidade das empresas de criar inovações locais, baseando -se nos indicadores de medição utilizados pelo WBES, cujo questionário está disponível no site do próprio órgão.
+AGRADECIMENTOS Este estudo foi financiado em parte pela Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Brasil (CAPES) – Código de financiamento 001.
+REFERÊNCIAS Andersson, U., & Forsgren , M. (1996).
+Subsidiary embeddedness and control in the multinational corporation.
+International Business Review , 5(5), 487508.
+Andersson, U., Björkman, I., & Forsgren , M. (2005).
+Managing subsidiary knowledge creation: The effect of control mechanisms on subsidiary local embeddedness.
+International Business Review , 14(5), 521 -538.
+Andersson, U., Dellestrand, H., & Pedersen, T. (2014).
+The contribution of local environ ments to competence creation in multinational enterprises.
+Long Range Planning , 47(1 -2), 87 -99.
+Andersson, U., Forsgren, M., & Holm, U.
+Subsidiary embeddedness and competence development in MNEs a multi -level analysis.
+Organization Studies , 22(6), 1013 -1034.
+Andersson, U., Forsgren, M., & Holm, U.
+The strategic impact of external networks: subsidiary performance and competence development in the multinational corporation.
+Strategic Management Journal , 23(11), 979 -996.
+Andersson, U., Forsg ren, M., & Holm, U.
+Balancing subsidiary influence in the federative MNE: a business network view.
+Journal of International Business Studies , 38(5), 802 -818.
+Batschauer da Cruz, C.B., Eliete Floriani, D., & Amal, M. (2020).
+The OLI Paradigm as a c omprehensive model of FDI determinants: a sub -national approach.
+International Journal of Emerging Markets , Vol.
+Beleska -Spasova, E., Loykulnanta, S., & Nguyen, Q. T. (2016).
+Firm -specific, national and regional competit ive advantages: The case of emerging market MNEs — Thailand.
+Asian Business & Management , 15(4), 264291.
+Beugelsdijk, S., & Mudambi , R. (2013).
+MNEs as border -crossing multi -location enterprises: The role of discontinuities in geographic space.
+Journal of International Business Studies , 44(5), 413.
+Bi, Y., Ren, Z., & Bao, K. (2020).
+Does distance matter in foreign direct investment s ub-national location choice?
+Frontiers of Business Research in China , 14, 1 -19.
+84 C. D. Rodrigues, F. M. Borini, M. M. Raziq & M. P. Ferreira Internext | São Paulo, v.16, n. 1, p. 75 -88, jan./abr .
+2021 Birkinshaw, J., & Hood, N. (1998).
+Multinational subsidiary evolution: Capability and charter change in foreign -owned subsidiary companies.
+Academy of Mana gement Review , 23(4), 773 -795.
+Birkinshaw, J., Hood, N., & Jonsson, S. (1998).
+Building firm‐specific advantages in multinational corporations: the role of subsidiary initiative.
+Strategic Management Journal , 19(3), 221 -242.
+Chan, C. M., Makino, S., & Is obe, T. (2010).
+Does subnational region matter?
+Foreign affiliate performance in the United States and China.
+Strategic Management Journal , 31(11), 1226 -1243.
+Chen, M. J., & Miller, D. (2012).
+Competitive dynamics: Themes, trends, and a prospective resear ch platform.
+The Academy of Management Annals , 6(1), 135-210.
+Costa, S., Borini, F. M., & Amatucci, M. (2013).
+Inovação global de subsidiárias estrangeiras localizadas em mercados emergentes.
+Revista de Administração Contemporânea , 17(4), 459 -478. de Sousa Barbosa, V., & Lemos, J. D. J. S. (2019).
+Diferencial de capital humano induzem desigualdades nos diferencial de produtividade do trabalho entre os estados brasileiros.
+Desenvolvimento em Debate , 7 (2), 11-27.
+Falaster, C. D., Ferreira, M. P., Se rra, F. A. R., & Storopoli, J.
+Institutional differences between regions within a country and ownership decisions in cross -border acquisitions.
+3ES – Anpad, São Paulo: Anpad, 1 -8.
+Falaster, C., & Portugal Ferreira, M. (2020).
+Institutional factors and subnational location choice for multinationals' R&D subsidiaries.
+Innovation & Management Review , Vol.
+Fávero, L. P., & Belfiore, P. (2017).
+Manual de análise de dados: estatística e modelagem multivariada com Excel ®, SPSS® e Stata® .
+The role of dual embeddedness in the innovative performance of MNE subsidiaries: evidence from Brazil.
+Journal of Management Studies , 48(2), 417 -440.
+Frost, T. S., Birkinshaw , J. M., & Ensign, P. C. (2002).
+Centers of excellence in multinational corporations.
+Strategic Management Journal , 23(11), 997 -1018.
+Gnyawali, D. R., & Hatfield, D. E. (2007).
+Foreign subsidiaries' learning from local environments: An empirical test.
+Management International Review , 47(1), 79 -102.
+Goerzen, A., Asmussen, C. G., & Nielsen, B.
+Global cities and multinational enterprise location strategy.
+Journal of International Business Studies , 44(5), 427 -450.
+Hair, J. F., Black, W. C., Babin, B. J., Anderson, R. E., & Tatham, R. L. (2009).
+Análise multivariada de dados .
+Gupta, A. K., & Govindarajan, V. (2001).
+Global dominance: transforming global presence into global competitive advantage.
+Hallin, C., Holm, U., & Sharma, D. D. (2011).
+Embeddedn ess of innovation receivers in the multinational corporation: Effects on business performance.
+International Business Review , 20(3), 362373.
+Holm, U., Holmström , C., & Sharma, D. (2005).
+Competence development through business relationships or competitive environment?
+-subsidiary impact on MNE competitive advantage.
+MIR: Management International Review , 197 -218.
+Holm, U., Malmberg, A., & Sölvell, Ö.
+Subsi diary impact on host -country economies —The case of foreign -owned subsidiaries attracting investment into Sweden.
+Journal of Economic Geography , 3(4), 389 -408.
+Hutzschenreuter , T., Matt, T., & Kleindienst, I.
+Going subnational: A literature review and research agenda.
+Journal of World Business , 55(4), 101076.
+Instituto Brasileiro de Geografia e Estatística.
+Síntese de indicadores sociais: uma análise das condiç ões de vida da população brasileira (Estudos e pesquisas.
+Informação demográfica e socioeconômica, n. 39).
+Disponível em: 85 Criação de Inovação Local por Subsidiárias Estrangeiras a partir de Vantagens Específicas do Ambiente Subnacional Internext | São Paulo, v.16, n. 1, p. 75 -88, jan./abr .
+2021 v.br/visualizacao/livros/liv101 629.pdf .
+Isaac, V. R., Borini, F. M., Raziq, M. M., & Benito, G. R. (2019).
+From local to global innovation: The role of subsidiaries' external relational embeddedness in an emerging market.
+Interna tional Business Review , 28(4), 638-646.
+Khanna, T., & Palepu, K. G. (2011).
+Winning in emerging markets: Spotting and responding to institutional voids.
+World Financial Review , (May –June 2011), 18 –20.
+How does local partners network embeddedness affect international joint venture survival in different subnational contexts?.
+Asia Pacific Journal of Management , 35(4), 1055 -1080.
+Korez -Vide, R., Voller, P., & Bobek, V. (2014).
+German and Austrian foreign direct investment in Brazi lian regions: which are the location choice factors?.
+Journal of Management and Strategy , 5(4), 68 -81.
+Dynamic capabilities, environmental dynamism, and competitive advantage: Evidence from China.
+Journal of Business Research , 67(1), 2793 -2799.
+How do sub -national institutional constraints impact foreign firm performance?.
+International Business Review , 26(3), 555-565.
+Lu, J. W., Song, Y., & Shan, M. (2018).
+Social trust in subnational regions and fo reign subsidiary performance: Evidence from foreign investments in China.
+Journal of International Business Studies , 49(6), 761-773.
+Lu, W., Saka -Helmhout, A., & Piekkari , R. (2019).
+Adaptation of compensation practice in China: The role of sub -national institutions.
+Management and Organization Review , 15(2), 235 -267.
+Ma, X., Tong, T. W., & Fitza, M. (2013).
+How much does subnational region matter to foreign subsidiary performance?
+Evidence from Fortune Global 500 Corporations' investment in China.
+Journal of International Business Studies , 44(1), 66 -87.
+Análise Estatística com o SPSS Statistics .
+McCann, P., & Mudambi, R. (2005).
+Ana lytical differences in the economics of geography: the case of the multinational firm.
+Environment and Planning A , 37(10), 1857 -1876.
+Meyer, K. E., & Nguyen, H. V. (2005).
+Foreign investment strategies and sub‐national institutions in emerging markets: Evidence from Vietnam.
+Journal of Management Studies , 42(1), 63 -93.
+Meyer, K. E., Li, C., & Schotter, A. P. (2020).
+Managing the MNE sub sidiary: Advancing a multi -level and dynamic research agenda.
+Journal of International Business Studies , 1-39.
+Meyer, K. E., Mudambi, R., & Narula, R. (2011).
+Multinational enterprises and local contexts: The opportunities and challenges of multiple embed dedness.
+Journal of Management Studies , 48(2), 235-252.
+The complexity of the business network context and its effect on subsidiary relational (over -) embeddedness.
+International Business Review , 21(6), 1087 -1098.
+Nohria, N., & Ghoshal, S. (1997).
+The differentiated network: Organizations knowledge flows in multinational corporations.
+Organização Internacional do Trabalho.
+Futuro do Trabalho no Brasil: Perspectivas e Diálogos Tripar tites.
+Disponível em: --americas/ ---ro-lima/ ---ilobrasilia/documents/publicatio n/wcms_626908.pdf .
+Oliveira Jr, M. M., Boehe, D. M., & Borini , F. M. (2009).
+Estratégia e inovação em corporações multinacionais: a transformação das subsidiárias brasileiras.
+Peng, G. Z., & Beamish, P. W. (2019).
+Subnational FDI legitimacy and foreign subsidiary survival.
+Journal of Internation al Management , 25(3), 100662.
+The competitive advantage of nations .
+Harvard business review, 68(2), 73 -93.
+Raziq, M. M., Borini, F. M., Perry, M., & Battisti, M. (2013).
+Subsidiary characteristics and impact on subsidiary strategic and operational autonomy.
+Journal of Transnational Management , 18(3), 219 -241.
+86 C. D. Rodrigues, F. M. Borini, M. M. Raziq & M. P. Ferreira Internext | São Paulo, v.16, n. 1, p. 75 -88, jan./abr .
+2021 Rugman, A. M., & Oh, C. H. (2013).
+Why the home region matters: location and regional multinationals.
+British Journal of Management , 24(4), 463 -479.
+Subsidiary‐ specific advantages in multinational enterprises.
+Strategic Management Journal , 22(3), 237 -250.
+Rugman, A. M., Verbeke, A., & Nguyen, Q. T. (2011).
+Fifty years of international business theory and beyond.
+Management International Revi ew, 51(6), 755 -786.
+Santangelo, G. D., Meyer, K. E., & Jindra, B.
+MNE subsidiaries' outsourcing and insourcing of R&D: The role of local institutions.
+Global Strategy Journal , 6(4), 247 -268.
+B. M, Silva, M. R, & Melo, J. W. F. (2019).
+Informalidade no Brasil: aspectos socioeconômicos dos trabalhadores informais sob a ótica regional.
+Interface - Revista do Centro de Ciências Sociais Aplicadas , 16 (1), 142 -165.
+Sull, D. N., & Escobari, M. (2005).
+Success against the odds: what Brazilian champions teach us about thriving in unpredictable markets.
+Rio de Janeiro and Cambridge, Massachusetts: Editora Campus .
+Made in China: What Western man agers can learn from trailblazing Chinese entrepreneurs.
+How and when do subnational institutions matter for R&D investment?
+Evidence from the Chinese pharmaceutical sector.
+IEEE Transactions on Engineering Management , 65(3), 379391.
+Tarraço, E.L., Bernardes, R.C., Borini, F.M., & Rossetto, D.E.
+Innovation capabilities for global R&D projects in subsidiaries.
+European Journal of Innovation Management , 22 (4), 639 -659.
+World Bank Group Enterprise Surveys.
+Enterprise Surveys what businesses experience.
+Disponível em: mies/2009/braz il.
+World Bank Group Enterprise Surveys.
+Ranking of the top business environment obstacle for firms .
+Disponível em: nterprisesurveys.org/en/data/exploreec onomies/2009/brazil#2 .
+World Bank Group Enterprise Surveys.
+Disponível em: mies/2009/~/media/GIAWB/EnterpriseSurveys/Docum ents/Misc/Indicator -Descriptions.pdf .
+Subnational institutions and location choice of emerging market firms.
+Journal of International Management , 24(4), 317 -332.
+SOBRE OS AUTORES: Cristina Doritta Rodrigues - Escola Superior de Propaganda e Marketing – ESPM, São Paulo, (Brasil).
+E -mail: crisdoritta@gmail.com Orcid id: -0002 -6999 -8855 Felipe Mendes Borini - Universidade de São Paulo – USP, São Paulo, (Brasil).
+E -mail: fborini@usp.br Orcid id: -0003 -1389 -136X Muhammad Mustafa Raziq - National University of Sciences and Technology, Islamabad (Pakistan ).
+E-mail: mustafa.raziq@nbs.nust.edu.pk Orcid id: -0002-7793 -1597 Manuel Portugal Ferreira - Universidade Federal de Lavras – UFLA, Minas Gerias (Brasil).
+E -mail: manuel.portugal.ferreira@gmail.com Orcid id: -0002 -4642 -4605 87 Criação de Inovação Local por Subsidiárias Estrangeiras a partir de Vantagens Específicas do Ambiente Subnacional Internext | São Paulo, v.16, n. 1, p. 75 -88, jan./abr .
+2021 CREATION OF LOCAL INNOVATION BY FOREIGN SUBSIDIARIES FROM SPECIFIC ADVANTAGES OF THE SUBNATIONAL ENVIRONMENT Cristina Doritta RodriguesΩ, Felipe Mendes Borini£, Muhammad Mustafa Raziq¥ e Manuel Portugal Ferreira€ Ω Escola Superior de Propaganda e Marketing – ESPM, São Paulo, (Brasil) £ Universidade de São Paulo – USP, São Paulo, (Brasil) ¥ National University of Sciences and Technology, Islamabad (Pakistan) € Universidade Federal de Lavras – UFLA , Minas Gerais (Brasil) ARTICLE DETAILS ABSTRACT Article history : Received: 30 March 2020 Accepted: 17 October 2020 Available online January: 01 th 2021 Double Blind Review System Scientific Editor Ilan Avrichir Purpose - The study aims to examine the effects of factors in the Brazilian subnational environment - the efficiency of the subnational competitive environment and the relational embeddedness in each subnational locationin the creation of local innovation in f oreign subsidiaries.
+Method - The approach is quantitative and the research is based on primary data collected through a survey of 152 foreign subsidiaries located in thirteen states in Brazil and secondary data from World Bank Enterprise Surveys.
+The data are analyzed by multiple linear regression.
+Main results - The results show that there is a positive and significant association between the subnational competitive environment and the local innovation of the subsidiaries.
+However, there is no significant association between subnational external embeddedness and local innovation.
+In addition, the results show that companies that enter through acquisitions are more associated with local innovation.
+Relevance/Originality - The study seeks to complement the d ebate on the effect of the subnational environment on local innovation in subsidiaries with Brazil as a context.
+Subnational level analysis considers subnational institutional heterogeneity and reveals variations that could be disregarded by national level analysis.
+Theoretical/methodological contributions : Although there is evidence of the impact of the institutional environment on strategy and innovation, this study at the Brazilian level advances on two points.
+First, the existing studies analyze develop ed markets and emerging markets, but the latter in a timely manner and in an Asian reality, which presents a considerable difference from the Latin American and Brazilian market, highlighting the peculiarities of the Brazilian subnational environment.
+Seco nd, the research contributes to the studies of Economic Geography, reinforcing that each subnational environment has its particularities, as demonstrated in the nature of subnational issues in Brazil.
+Social / management contributions : In managerial terms , the study draws attention to the importance of knowledge of the subnational competitive dynamics regarding the participation of the informal economy and extends implications for public policies.
+Keywords Foreign subsidiaries Subnational environment Local innovation Multiple linear regression 88 C. D. Rodrigues, F. M. Borini, M. M. Raziq & M. P. Ferreira Internext | São Paulo, v.16, n. 1, p. 75 -88, jan./abr .
+2021 CREACIÓN DE INNOVACIÓN LOCAL POR SUBSIDIARIAS EXTRANJERAS A PARTIR DE VENTAJAS ESPECÍFICAS DEL ENTORNO SUBNACIONAL Cristina Doritta RodriguesΩ, Felipe Mendes Borini£, Muhammad Mustafa Raziq¥ e Manuel Portugal Ferreira€ Ω Escola Superior de Propaganda e Marketing – ESPM, São Paulo, (Brasil) £ Universidade de São Paulo – USP, São Paulo, (Brasil) ¥ National University of Sciences and Technology, Islamabad (Pakistan) € Universidade Federal de Lavras – UFLA, Minas Gerais (Brasil) HISTORIA DEL ARTÍCULO RESUMEN Historia del Artículo : Recibido: 30 de Marzo de 2020 Aceptado: 17 de Octubre de 2020 Disponible en línea: 01 de Enero 2021 Double Blind Review System Editor Científico Ilan Avrichir Objetivo - El estudio tiene como objetivo examinar los efectos de los factores en el entorno subnacional brasileño - la eficiencia del entorno competitivo subnacional y el arraigo relacional en cada ubicación subnacional - en la creación de innovación local en las filiales extranjeras.
+Método - El enfoque es cuantitativo y la investigación se basa en datos primarios recopilados a través de una encuesta de 152 subsidiarias extranjeras ubicadas en trece estados de Brasil y datos secundarios de Encuestas de Empresas del Banco Mundial.
+Los datos se analizan mediante regresión lineal múltiple.
+Resultados principales - Los resultados muestran que existe una asociación positiva y significativa entre el entorno compe titivo subnacional y la innovación local de las filiales.
+Sin embargo, no existe una asociación significativa entre la integración externa subnacional y la innovación local.
+Además, los resultados muestran que las empresas que ingresan al ámbito subnaciona l mediante adquisiciones están más asociadas a la innovación local.
+Relevancia/Originalidad : El estudio busca complementar el debate sobre el efecto del entorno subnacional en la innovación local en filiales con Brasil como contexto.
+El análisis a nivel s ubnacional considera la heterogeneidad institucional subnacional y revela variaciones que podrían ser ignoradas por el análisis a nivel nacional.
+Contribuciones teóricas/metodológicas - Si bien existen indicios del impacto del entorno institucional en la estrategia y la innovación, este estudio a nivel brasileño avanza en dos puntos.
+Primero, los estudios existentes analizan mercados desarrollados y mercados emergentes, pero estos últimos de manera oportuna y en una realidad asiática, que presenta una dife rencia considerable con el mercado latinoamericano y brasileño, destacando las peculiaridades del entorno subnacional brasileño.
+En segundo lugar, contribuye a los estudios de Geografía Económica, reforzando que cada entorno subnacional tiene sus particula ridades, como lo demuestra la naturaleza de los temas subnacionales en Brasil.
+Contribuciones sociales / de gestión : En términos gerenciales, el estudio llama la atención sobre la importancia del conocimiento de la dinámica competitiva subnacional en tor no a la participación de la economía informal y amplía las implicaciones para las políticas públicas.
+Palabras -clave: Filiales extranjeras Ambiente subnacional Innovación local Regresión lineal múltiple Como citar este artigo: Rodrigues, C., Borini, F., Raziq, M., & Ferreira, M. (2021).
+Criação de Inovação Local por Subsidiárias Estrangeiras a partir de Vantagens Específicas do Ambiente Subnacional.
+Internext, 16 (1), 75 -88. doi:

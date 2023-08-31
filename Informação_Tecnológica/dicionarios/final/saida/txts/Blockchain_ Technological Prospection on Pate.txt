@@ -1,0 +1,147 @@
+: 876Cadernos de Prospecção – Salvador, v. 11, n. 3, p. 876-887, setembro, 2018Blockchain: Prospecção Tecnológica em Bases de Patentes Blockchain: Technological Prospection on Patent Bases Alisson Luiz Lessak1 Roberto Alexandre Dias2 Irineu Afonso Frey3 Resumo O Bitcoin foi a primeira aplicação da tecnologia blockchain , trata-se de um sistema monetário virtual que não necessita de uma autoridade central para emitir moeda, realizar transferência de propriedade e confirmar transações.
+Segundo a literatura, desde a divulgação do termo blockchain em 2008, percebe-se o aumentado do interesse das pessoas pela tecnologia.
+Porém, estudos em bases de patentes sobre blockchain não são encontrados facilmente.
+Este estudo tem como objetivo realizar uma análise prospectiva das patentes sobre blockchain depositadas no contexto global e nacional até o início de julho de 2018.
+Para tal, foi utilizado o sistema de base de dados patentários Orbit Intelligence e a palavra-chave " blockchain" nos campos de busca "título", "resumo" e "reivindicações".
+A pesquisa resultou em 1.035 famílias de patentes, sendo que, a partir do ano de 2015, o número de depósitos de famílias de patentes por ano tem aumentado exponencialmente.
+No Brasil, apenas 12 pedidos de patentes foram depositados, embora nenhum tenha sido depositado prioritariamente no país.
+Palavras-chave: Sistemas de Transação.
+Áreas de Aplicação do Blockchain .
+Abstract Bitcoin was the first application of blockchain technology, it is a virtual monetary system that does not require a central authority to issue currency, transfer ownership and confirm transactions.
+According to the literature, since the disclosure of the term blockchain in 2008, has increased the interest in this technology.
+However, studies on patent bases on blockchain are not easily found.
+This study aims to conduct a prospective analysis of patents on blockchain deposited in the global and national context until the beginning of July 2018.
+For this purpose, the Orbit Intelligence patent database system and the blockchain keyword were used in the "title", "abstract" and "claims" search fields.
+The survey resulted in 1035 patent families and, from the year 2015, the number of patent family deposits per year has increased exponentially.
+In Brazil, only 12 patents applications were filed, none of which were deposited primarily in the country Keywords: Transaction Systems.
+Área Tecnológica: Tecnologia da Informação.
+1 Instituto Federal de Santa Catarina, Florianópolis, SC, Brasil.
+2 Instituto Federal de Santa Catarina, Florianópolis, SC, Brasil.
+3 Universidade Federal de Santa Catarina, Florianópolis, SC, Brasil.
+Artigo recebido em: 08/07/2018 Revisado em: 13/07/2018 Aprovado em: 09/08/2018Direito autoral e licença de uso: Este artigo está licenciado sob uma Licença Creative &RPPRQV&RPHVVDOLFHQoDYRFrSRGHFRPSDUWLOKDUDGDSWDUSDUDTXDOTXHU¿PGHVGHTXHatribua a autoria da obra, forneça um link para a licença, e indicar se foram feitas alterações.877Cadernos de Prospecção – Salvador, v. 11, n. 3, p. 876-887, setembro, 2018Blockchain : Prospecção Tecnológica em Bases de Patentes 1 Introdução Os sistemas de transação são tipicamente centralizados e todos os dados e informações são controlados e gerenciados por organizações terceirizadas (YLI-HUUMO et al., 2016).
+O registro de transação é uma função essencial em qualquer negócio e o blockchain pode reduzir drasticamente a burocracia e o custo de praticamente todas as transações (IANSITI; LAKHANI, 2017).
+No final de 2008, o pseudônimo Satoshi Nakamoto publicou o artigo intitulado Bitcoin: a peer-to-peer eletronic cash system.
+Esse artigo propôs uma versão peer-to-peer do dinheiro eletrônico, permitindo que pagamentos on-line fossem enviados diretamente de uma parte para outra sem passar por uma instituição financeira (NAKAMOTO, 2008).
+Portanto, o Bitcoin foi a primeira aplicação da tecnologia blockchain , trata-se de um sistema monetário virtual que não necessita de uma autoridade central para emitir moeda, realizar transferência de propriedade e confirmar transações (IANSITI; LAKHANI, 2017).
+O interesse na tecnologia blockchain (em português cadeia de blocos) tem aumentado desde que a ideia foi cunhada em 2008, a razão para o interesse são seus atributos centrais que fornecem segurança, anonimato e integridade de dados sem qualquer organização terceirizada no controle das transações (YLI-HUUMO et al., 2016).
+Segundo Iansiti e Lakhani (2017), grande parte do desenvolvimento da tecnologia blockchain está ocorrendo no setor de serviços financeiros, mas a tecnologia pode ser aplicada em qualquer indústria na qual seja necessário realizar uma transação.
+(2016) conduziram um estudo de mapeamento sistemático em artigos científicos sobre a tecnologia blockchain e concluíram que 80% dos artigos se relacionam com o Bitcoin e menos de 20% lida com outros tipos de aplicação, incluindo, por exemplo, contratos inteligentes e licenciamentos.
+Ferreira, Pinto e Santos (2017) também realizaram um estudo de mapeamento sistemático sobre as tendências e os desafios do blockchain em artigos científicos e concluíram que as principais aplicações estão nas indústrias de serviços financeiros, alimentos, energia, saúde e governo.
+Porém, estudos de prospecções em bases de patentes sobre blockchain não são facilmente encontrados na literatura.
+Referente à tecnologia blockchain , este estudo, por meio de uma análise em bases de patentes, considerando todo o período até o início de julho de 2018, apresenta a evolução das famílias de patentes por ano de depósito; os principais campos tecnológicos; as principais subclasses, grupos/subgrupo da Classificação Internacional de Patentes (International Patents Classification – IPC); os principais países nos quais é realizado o primeiro depósito (prioritário); os principais depositantes; os principais países em que são depositados os pedidos de patentes e os principais inventores.
+Além disso, este trabalho apresenta uma discussão sobre as patentes mais relevantes e as áreas em que a tecnologia blockchain está sendo utilizada.
+Considerando a falta de referências bibliográficas sobre prospecção tecnológica adjacente ao tema blockchain , este trabalho tem o objetivo de subsidiar pesquisadores e empreendedores a identificar o cenário mundial e nacional das inovações sobre transações.
+Além desta introdução, o trabalho possui as seguintes seções: referencial teórico, metodologia, resultados e discussão e considerações finais.878Cadernos de Prospecção – Salvador, v. 11, n. 3, p. 876-887, setembro, 2018Alisson Luiz Lessak, Roberto Alexandre Dias, Irineu Afonso Frey 2 Referencial Teórico Segundo Iansiti e Lakhani (2017), o blockchain é a tecnologia por trás do Bitcoin e de outras moedas virtuais.
+A tecnologia possui característica de um livro aberto e distribuído, que registra transações entre duas partes de maneira eficiente, verificável e permanente.
+Os princípios básicos são: banco de dados distribuídos, transmissão peer-to-peer , transparência com o pseudônimo, irreversibilidade dos registros e lógica computacional.
+O blockchain criou um ambiente descentralizado no qual nenhum terceiro está no controle das transações e dos dados, por meio de uma solução de banco de dados distribuída, mantendo uma lista crescente de registros de dados que são confirmados pelos nós (usuários) participantes.
+Os dados, incluindo informações de todas as transações já concluídas, são registrados em um registro público compartilhado e estão disponíveis para todos os nós, tornando o sistema mais transparente (YLI-HUUMO et al., 2016).
+Cada usuário possui um endereço alfanumérico exclusivo com mais de 30 caracteres que o identifica, porém, o usuário pode optar por permanecer anônimo ou oferecer prova de sua identidade.
+Depois que uma transação é inserida no banco de dados, os registros não podem ser alterados, porque estarão vinculados a todos os registros de transação anteriores, por isso, o termo " chain " (cadeia).
+Algoritmos computacionais garantem que a gravação no banco de dados seja permanente, ordenada cronologicamente e disponível para todos os usuários da rede, além disso, algoritmos permitem que usuários acionem automaticamente transações entre nós (IANSITI; LAKHANI, 2017).
+Segundo Iansiti e Lakhani (2017), a aplicação mais transformadora da tecnologia blockchain está relacionada aos "contratos inteligentes".
+As empresas são construídas em contratos, desde as incorporações, as relações com funcionários e até as relações entre compradores e fornecedores.
+Com contratos automatizados, os papéis dos intermediários, como advogados, contadores e gerentes, tendem a mudar radicalmente.
+Ainda segundo os autores, a tecnologia blockchain não é disruptiva, não ataca um modelo de negócio tradicional com uma solução de baixo custo.
+Os autores definem a tecnologia blockchain como fundamental e comparam com o protocolo TCP/IP , pois o blockchain também possui o potencial de reformular os sistemas econômicos e sociais.
+Porém, como no caso do protocolo TCP/IP , o processo de adoção deverá ocorrer de forma gradual e constante, não repentino, à medida que as ondas de mudanças tecnológicas e institucionais ganhem força.
+3 Metodologia Segundo Mayerhoff (2008, p. 7), estudos de prospecção tecnológica são "[.]
+um meio sistemático de mapear desenvolvimentos científicos e tecnológicos futuros capazes de influenciar de forma significativa uma indústria, a economia ou a sociedade como um todo".
+Além disso, a autora relata que o sistema de propriedade intelectual, especificamente o de patentes, fornece informações históricas, contínuas, confiáveis e valiosas para a realização desses estudos, tendo em vista que a patente constitui um direito, concedido pelo Estado, temporário de exclusividade na exploração de uma nova tecnologia, mas, em contrapartida o titular da patente disponibiliza todas as informações necessárias para a obtenção da respectiva tecnologia.
+879Cadernos de Prospecção – Salvador, v. 11, n. 3, p. 876-887, setembro, 2018Blockchain : Prospecção Tecnológica em Bases de Patentes As bases de dados comerciais e os softwares específicos para a recuperação e o tratamento de dados obtidos por meio do sistema de patentes apresentam vantagens em relação às bases gratuitas; principalmente quando a informação é utilizada como uma ferramenta de prospecção, pois possibilitam a automatização de várias etapas que, ao utilizar bases gratuitas, devem ser realizadas manualmente (MAYERHOFF , 2008).
+O Orbit Intelligence da empresa Questel (2018) é um desses sistemas comerciais que realiza busca e análise de informações em mais de 50 bases de dados de patentes.
+Para tanto, esse sistema conta com recursos avançados de visualização, exportação e análises.
+Além disso, a base de patentes FamPat do Orbit Intelligence agrupa os pedidos de patentes referentes à mesma invenção depositado em diversos países, evitando a duplicidade de informação e facilitando o entendimento, o que gera resultados mais precisos e abrangentes para as prospecções tecnoló-gicas realizadas.
+Este estudo de prospecção tecnológica em bases de patentes fez uso do Orbit Intelligence, cujo acesso foi disponibilizado pelo Programa de Pós-graduação em Propriedade Intelectual e Transferência de Tecnologia para a Inovação (PROFNIT) aos docentes e acadêmicos.
+Para tanto, foi considerado todo o período até início de julho de 2018 e foi utilizado o termo blockchain nos títulos, nos resumos e nas reinvindicações na base de dados de patentes FamPat.
+4 Resultados e Discussão Esta prospecção tecnológica encontrou 1.035 famílias de patentes relacionada à palavra-chave blockchain em nível mundial.
+A Figura 1 apresenta as famílias de patentes por ano de depósito.
+Observa-se que mesmo a tecnologia blockchain surgindo em 2008, foram encontradas duas famílias de patentes utilizando o termo blockchain em 2007 e uma em 2003.
+Entre os anos de 2011 e 2014 há um ligeiro aumento no número de famílias de patentes depositadas e, a partir de 2015, começa um aumento exponencial.
+Mesmo esta pesquisa sendo realizada no início de julho de 2018 e os depositantes podendo manter a sua patente em sigilo por 18 meses, o número de famílias de patentes no ano de 2017 já ultrapassou o de 2015, e o de 2018 já ultrapassou o ano de 2014, indicando que os depósitos devem seguir aumentando de forma exponencial.
+Figura 1 – Famílias de patentes por ano de depósito Fonte: Elaborada pelos autores deste artigo (2018)880Cadernos de Prospecção – Salvador, v. 11, n. 3, p. 876-887, setembro, 2018Alisson Luiz Lessak, Roberto Alexandre Dias, Irineu Afonso Frey O Orbit Intelligence agrupa os códigos da IPC em 35 campos tecnológicos distintos.
+A Figura 2 apresenta as 1.035 famílias de patentes dividas nesses 35 domínios tecnológicos.
+Como uma família de patente pode ser classificada em mais de um código da IPC, a mesma patente pode aparecer em várias categorias diferentes.
+Observa-se que há uma concentração na área de enge-nharia elétrica, os principais campos tecnológicos são: métodos de TI para gerenciamento, com 550 famílias de patentes (53,1%); comunicação digital, com 480 famílias de patentes (46,4%); e tecnologia da informação, com 286 famílias de patentes (27,6%).
+Na área de instrumentos, o principal campo tecnológico é o de controle com 49 famílias de patentes (4,7%) e, na área de engenharia mecânica, o principal campo tecnológico é o de transporte com 25 famílias de patentes (2,4%).
+Figura 2 – Principais campos tecnológicos Fonte: Elaborada pelos autores deste artigo (2018) Com relação à IPC, 861 famílias de patentes (83,2%) concentram-se em apenas três subclasses.
+O Quadro 1 apresenta essas subclasses, o número de famílias de patentes e suas respectivas descrições.
+Quadro 1 – Principais subclasses da IPC SUBCLASSE DA IPCNÚMERO DE FAMÍLIAS DE PATENTESDESCRIÇÃO G06Q 420Sistemas ou métodos de processamento de dados, especialmente adaptados para propósitos administrativos, comerciais, financeiros, de gerenciamento, supervisão ou predição; sistemas ou métodos especialmente adaptados para propósitos administrativos, comerciais, financeiros, de gerenciamento, supervisão ou predição.
+G06F 223 Processamento elétrico de dados digitais.
+H04L 218 Transmissão de informação digital.
+Fonte: Elaborado pelos autores deste artigo (2018)881Cadernos de Prospecção – Salvador, v. 11, n. 3, p. 876-887, setembro, 2018Blockchain : Prospecção Tecnológica em Bases de Patentes Com base nas três principais subclasses, pode-se afirmar que a tecnologia blockchain é utilizada para processamento e transmissão de dados.
+A Figura 3 apresenta o número de famílias de patentes por ano de prioridade dos 10 principais grupos/subgrupos da IPC.
+Esses grupos/subgrupos representam 438 famílias de patentes (42,3%).
+Figura 3 – Número de famílias de patentes, principais grupos/subgrupos da IPC por ano de prioridade Fonte: Elaborada pelos autores deste artigo (2018) Observa-se que em 2016 ocorreu aumento no número de depósito em todos os 10 principais grupos/subgrupos da IPC e, aparentemente, os anos de 2017 e de 2018 tendem a seguir essa tendência, pois, como dito anteriormente, os depositantes podem optar por deixar seus pedidos em sigilo por 18 meses e, mesmo assim, muitos pedidos de patentes aparecem depositados nesses anos.
+O Quadro 2 apresenta a descrição dos cinco principais grupos/subgrupos da IPC.
+Quadro 2 – Principais grupos/subgrupos da IPC SUBCLASSE DO IPCDESCRIÇÃO DOS GRUPOS /SUBGRUPOS G06Q20/00 Arquiteturas, esquemas ou protocolos de pagamento.
+20/04 • Circuitos de pagamento.20/06 • • Circuitos de pagamento privados, por exemplo, envolvendo moeda eletrônica usada somente entre participantes de um esquema de pagamento comum ( 5º).
+20/38 • Protocolos de pagamento; Detalhes dos mesmos ( 1º).
+G06F17/00 Equipamentos ou métodos de computação digital ou de processamento de dados, especialmente adaptados para funções específicas.17/30 • Recuperação das informações; Respectivas estruturas de banco de dados ( 4º).
+H04L09/00 Disposições para comunicação secreta ou segura.
+09/32 • compreendendo meios para verificar a identidade ou a autorização de um usuário do sistema ( 3º) 29/00 Disposições, aparelhos, circuitos ou sistemas [.].
+29/02 • Controle da comunicação; Processamento da comunicação.
+29/06 • • caracterizadas por um protocolo ( 2º).
+Fonte: Elaborado pelos autores deste artigo (2018)882Cadernos de Prospecção – Salvador, v. 11, n. 3, p. 876-887, setembro, 2018Alisson Luiz Lessak, Roberto Alexandre Dias, Irineu Afonso Frey Portanto, as principais características da tecnologia blockchain , com base nos principais grupos/subgrupos da IPC, são: (i) os dispositivos que possuem um protocolo de pagamento pri-vado; (ii) a compreensão dos meios para verificar a identidade ou a autorização de um usuário do sistema; e, ainda, (iii) a recuperação das informações de banco de dados.
+A Figura 4 apresenta um bom indicador sobre os principais países que realizam Pesquisa e Desenvolvimento (P&D) sobre a tecnologia blockchain , já que a maioria das empresas deposita a primeira patente de uma família de patentes (prioritária) em seu país de origem.
+Observa-se que os Estados Unidos lideram com 428 famílias de patentes (41,4%) depositadas prioritaria-mente em seu país, seguido pela China com 267 (25,8%).
+Ainda, entre os 10 principais países, aparecem Reino Unido, com 99 famílias de patentes prioritárias (9,6%); Coréia do Sul, com 56 (5,4%); Austrália, com 38 (3,7%); Alemanha, com 26 (2,5%); Índia e Taiwan, com 14 (1,4%); além de França e Japão, com nove (0,9%).
+O Brasil não possui nenhuma família de patente depositada prioritariamente no país, ou seja, o P&D nacional nessa área ainda é incipiente.
+Figura 4 – Famílias de patentes depositadas prioritariamente nos 10 principais países Fonte: Elaborada pelos autores deste artigo (2018) Essa liderança dos Estados Unidos pode ser questionada, pois muitas empresas de outros países, por estratégia, optam por realizar o primeiro pedido nos Estados Unidos.
+Já com relação ao número de patentes depositados na China, é necessário observar a relevância desses pedidos.
+Com relação à situação legal das famílias de patentes, das 1.035 famílias de patentes, 176 (17,0%) foram concedidas em pelo menos um país; 805 (77,8%) estão aguardando análise; e apenas 54 (5,2%) foram indeferidas.
+Já com relação as 10 principais depositantes com patentes "vivas", ou seja, concedidas ou em análise, todas as empresas começaram a depositar os pedidos referentes à tecnologia blockchain a partir de 2015.
+A Figura 5 apresenta essas empresas e o número de famílias de patentes depositadas nos 11 principais países.883Cadernos de Prospecção – Salvador, v. 11, n. 3, p. 876-887, setembro, 2018Blockchain : Prospecção Tecnológica em Bases de Patentes Figura 5 – Principais depositantes e o número de depósitos nos principais países Fonte: Elaborada pelos autores deste artigo (2018) Das 10 maiores depositantes, apenas três atuam no setor financeiro (Coinplug, nChain Holdings e Mastercard).
+Porém, a principal depositante é a IBM, com 56 famílias de patentes "vivas" (5,7%), mas depositou quase a totalidade das patentes apenas nos Estados Unidos.
+A Coinplug e a nChain Holdings empatam em segundo, com 34 (3,5%) cada, sendo que a nChain Holdings possui o maior número de depósitos internacionais via Tratado de Cooperação de Patentes (Patent Cooperation Treaty – PCT), totalizando 33 pedidos, ou seja, 3,4% do total de famílias de patentes "vivas".
+A IBM atua na área de informática, a Cognitive Scale trabalha com inteligência artificial e inteligência aumentada, a Intel fabrica semicondutores, a principal área da Alibaba Holdings é o ramo de e-commerce , a BT e a China Unicom atuam no setor de telecomunicações, já a Bundesdruckerei é uma empresa federal alemã que presta diversos serviços relacionados à segurança de identidades pessoais.
+Isso demonstra o interesse de várias áreas pela tecnologia blockchain .
+A Mastercard merece destaque, pois possui todos os seus pedidos de patentes depositados nos Estados Unidos e via PCT.
+Também é a empresa que tem depositado no maior número de países, inclusive é a única das 10 principais depositantes que possui depósitos no Brasil.
+Dos 12 depósitos realizados no Brasil, 10 são da Mastercard, uma da Banqu e outra da Black Gold Coin.
+A seguir, a Figura 6 apresenta as 10 principais depositantes, o número de citações das famílias de patentes e o número e tamanho médio das famílias de patentes "vivas".
+Destaque para a Mastercard que possui as patentes mais citadas por terceiros, totalizando 30 citações, portanto, tende a ter os pedidos mais relevantes.
+Além disso, ela é a empresa mais agressiva entre as 10 principais depositantes, pois, em média, deposita em mais de três países seus pe-didos de patentes.884Cadernos de Prospecção – Salvador, v. 11, n. 3, p. 876-887, setembro, 2018Alisson Luiz Lessak, Roberto Alexandre Dias, Irineu Afonso Frey Figura 6 – Principais depositantes, número de citações, número e tamanho médio de família de patentes "vivas" Fonte: Elaborada pelos autores deste artigo (2018) A Figura 7 apresenta a relação de citações da Mastercard com empresas que possuem mais de três famílias de patentes "vivas".
+Observa-se que a IBM, maior depositante, cita três vezes as famílias de patentes da Mastercard, enquanto a Mastercard cita apenas uma vez as da IBM, e a Nasdaq cita e é citada uma vez, as demais são citadas uma vez pela Mastercard.
+Figura 7 – Relação de citações das famílias de patentes da Mastercard Fonte: Elaborada pelos autores deste artigo (2018)885Cadernos de Prospecção – Salvador, v. 11, n. 3, p. 876-887, setembro, 2018Blockchain : Prospecção Tecnológica em Bases de Patentes Com relação às parcerias, das 1.035 famílias de patentes, apenas cinco foram depositadas em parceria, duas entre Accenture Global Solution e GSC Secrypt, duas entre Acronis e Grou-pLogic e uma entre nChain Holdings e Antigua & Barbuda Blockchain Holdings.
+A Figura 8 apresenta os principais conceitos contidos nas 1.035 famílias de patentes, destaque para o conceito de contrato inteligente ( smart contract ) indicando que as empresas já estão depositando pedidos de patentes nessa área promissora.
+Figura 8 – Nuvem de palavras dos conceitos mais utilizados referentes à tecnologia blockchain Fonte: Elaborada pelos autores deste artigo (2018) Além disso, o Orbit Intelligence agrupa as famílias de patentes de acordo com sua proximidade semântica, ajudando a identificar os possíveis clusters tecnológicos.
+A Figura 9 apresenta as 1.035 famílias de patentes agrupadas.
+Dessa forma, as áreas com forte sobreposição mos-tram consolidação do tema e as áreas com baixa sobreposição são oportunidades para novos desenvolvimentos.
+Figura 9 – Proximidade semântica das famílias de patentes Fonte: Elaborada pelos autores deste artigo (2018)886Cadernos de Prospecção – Salvador, v. 11, n. 3, p. 876-887, setembro, 2018Alisson Luiz Lessak, Roberto Alexandre Dias, Irineu Afonso Frey Desta ferramenta destaca-se que 141 famílias de patentes (13,6%) são sobre contratos inteligentes e 33 famílias de patentes (3,2%) são sobre inteligência artificial aplicada em bancos de dados, as demais abordam aspectos técnicos da aplicação da tecnologia blockchain .
+Por fim, os dois principais inventores Hong Jay Wu e Uhr Joon Sun, ambos com 27 famílias de patentes, e o quarto, Soo Joo Han, com 23 famílias de patentes, trabalham na Coinplug.
+Wright Craig Steven e Saravah Stephane, da nChain Holdings, possuem 26 e 23 famílias de patentes respectivamente.
+Em seguida, aparecem Knuszka Richard, Sanchez Matthew e Saxena Manoj, da Cognitive Scale, com 16 famílias de patentes.
+Davis Steven Charles, da Mastercard, com 14 famílias de patentes e Jayachandran Praveen, da IBM, com 11 famílias de patentes.
+5 Considerações Finais Como apresentado, blockchain é uma tecnologia que pode reduzir a burocracia e o custo das transações e também pode reformular os sistemas econômicos e sociais.
+Além do interesse científico em torno da tecnologia, desde 2015, verifica-se um aumento exponencial no número de depósitos de famílias de patentes por ano.
+Ao analisar as 10 maiores depositantes, pode-se afirmar que o interesse não está apenas no setor financeiro, pois, é possível observar a presença de empresas que atuam nos seguintes ramos: informática, inteligência artificial, fabricante de semicondutores, telecomunicações, e-commerce, além da área relacionada à segurança de identidades pessoais.
+A presença do conceito de contrato inteligente ( smart contract ) no conteúdo dos pedidos de patentes também demonstra que aplicações envolvendo blockchain já estão sendo desenvolvidas nessa área promissora.
+Além disso, a análise realizada pelo Orbit Intelligence por proximidade semântica no conteúdo das famílias de patentes trouxe a aplicação da tecnologia blockchain em inteligência artificial aplicada a banco de dados.
+No Brasil, apenas 12 pedidos de patentes foram depositados, sendo 10 da Mastercard, o que demonstra que ainda há pouco interesse das empresas em proteger as suas invenções no mercado nacional.
+O Brasil não possui nenhuma patente depositada prioritariamente no país, ou seja, a P&D nacional nessa área ainda é muito incipiente, mas, como poucas empresas depositam suas invenções aqui, os pesquisadores nacionais podem utilizar muitas informações contidas em patentes para desenvolvimento de projetos em território nacional.
+Referências FERREIRA, J.; PINTO, F .
+G. C.; SANTOS, S. C. Estudo de mapeamento sistemático sobre as tendências e desafios do blockchain.
+Org: Revista Eletrônica de Gestão Organizacional , [S.l.
+IANSITI, M.; LAKHANI, K. R. The truth about blockchain.
+Harvard Business Review , [S.l.
+], v. 95, n. 1, p. 118-127, 2017.
+L. Uma análise sobre os estudos de prospecção tecnológica.
+Cadernos de Prospecção , Salvador, BA, v. 1, n. 1, p. 7-9, 2008.887Cadernos de Prospecção – Salvador, v. 11, n. 3, p. 876-887, setembro, 2018Blockchain : Prospecção Tecnológica em Bases de Patentes NAKAMOTO, S. Bitcoin : a peer-to-peer electronic cash system.
+Disponível em: <https:// bitcoin.org/bitcoin.pdf>.
+Disponível em: < Acesso em: 8 jul.
+Where is current research on blockchain technology?
+], v. 11, n. 10, p. 1-27, 2016.
+Sobre os Autores Alisson Luiz Lessak E-mail : alissonll@gmail.com Graduado Tecnólogo em Sistemas Eletrônicos pelo Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina (2013).
+Atualmente é mestrando do Programa de Pós-Graduação em propriedade Intelectual e Transferência de Tecnologia para a inovação.
+Atua como assistente administrativo do Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina e, desde 2009, no Núcleo de Inovação Tecnológica.
+Roberto Alexandre Dias E-mail : roberto@ifsc.edu.br Graduado em Engenharia Elétrica pela Universidade Federal de Santa Catarina (1988).
+Mestre em Engenharia Mecânica pela Universidade Federal de Santa Catarina (1996).
+Doutor em Engenharia Elétrica pela Universidade Federal de Santa Catarina (2004 ).
+Atualmente é professor do Curso de Bacharelado em Engenharia Mecatrônica e foi Coordenador do Mestrado Profissional em Mecatrônica no Campus de Florianópolis d o Instituto Federal de Santa Catarina (IFSC) entre os anos de 2013 e 2015.
+Irineu Afonso Frey E-mail : irineu.inova@gmail.com Graduado em Ciências Contábeis pela Universidade de Santa Cruz do Sul.
+Especialista em Contabilidade Empresarial.
+Mestre em Desenvolvimento Regional pela Universidade de Santa Cruz do Sul (1997).
+Doutor em Engenharia de Produção pela Universidade Federal de Santa Catarina (2005).
+Atualmente é professor Associado da Universidade Federal de Santa Catarina.
+Tem experiência na área de Administração, com ênfase em Gerenciamento da Pequena Empresa, atuando principalmente nos seguintes temas: auditoria, controles internos, auditoria interna, responsabilidade social empresarial, Inovação e Transferência de Tecnologia.

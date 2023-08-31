@@ -1,0 +1,210 @@
+EBAPE.BR, v. 17, nº 4, Rio de Janeiro, Out./Dez.
+ISSN 1679-3951APRESENTAÇÃO Inovação em Organizações de Economias Emergentes Roberto Bernardes1 Felipe Borini2, 3 Paulo N. Figueiredo4 ¹ Centro Universitário FEI / Programa de Pós Graduação em Administração, São Bernardo do Campo – SP , Brasil 2 Universidade de São Paulo (USP) / Faculdade de Economia, Administração, Contabilidade e Atuária – FEA, São Paulo – Brasil 3 Fundação Instituto de Administração, (FIA), São Paulo – SP , Brasil 4 Fundação Getulio Vargas (FGV EBAPE) / Escola Brasileira de Administração Pública e de Empresas, Rio de Janeiro – RJ, Brasil Resumo Esta edição temática do Cadernos EBAPE.BR buscou como objetivo provocar uma reflexão voltada à arquitetura de uma agenda de pesquisa crítica sobre o campo das estratégias de inovação e das organizações em economias emergentes e suas implicações originais na academia brasileira.
+O conjunto de artigos aprovados nesta edição revela o espectro dos interesses nascentes dos pesquisadores brasileiros sobre este tema.
+Um primeiro grupo tem como foco de an álise a dimensão das políticas de inovação destinadas a MPEs, agricultura e mineração, setores sensíveis pelo impacto ambiental e as bases de formação de ecossistemas de start-ups .
+O segundo conjunto de artigos teve como objeto de interesse o fenômeno da inovação em mercados emergentes, que foi analisado pelas abordagens da frugalidade, dos negócios sociais e da dinâmica de radicalidade organizacional.
+Por fim, compondo as principais contribuições teóricas e aplicadas desta edição, foram reunidos para este debate artigos que t êm conex ão com o tema da transformação digital ao considerar a indústria 4.0 e sua relevância para o BRICS, a gestão de cidades inteligentes e dos serviços intensivos em conhecimento .
+Palavras-chave : Inovação em economias emergentes.
+Start-ups em economias emergentes .
+Innovation in Emerging Economy Organizations Abstract This special issue of Cadernos EBAPE.BR invites reflection around building a critical research agenda on the field of innovation strategies and organizations in emerging economies, considering the implications of such an agenda to the Brazilian academy .
+The published articles reveal the spectrum of upcoming interests of Brazilian researchers on this topic .
+The first group of articles focused on analyzing innovation policies aimed at SMEs, agriculture and mining, environmentally sensitive sectors, and the foundations of start-up ecosystems .
+The second group of articles focused on innovation in emerging markets, based on the approaches of frugality, social businesses, and the dynamics of organizational radicality.
+Finally, the articles published in this issue brought theoretical and practical contributions to the debate, discussing topics such as digital transformation, the industry 4.0 and its relevance to BRIC countries, and administration of smart cities and knowledge-intensive services .
+Keywords : Innovation in emerging economies.
+Start-ups in emerging economies .
+Innovación en Organizaciones de Economías Emergentes Resumen El objetivo de esta edición temática de Cadernos EBAPE.BR fue provocar una reflexión para la elaboración de una agenda de investigación crítica sobre el campo de las estrategias de innovación y de las organizaciones en economías emergentes y sus implicaciones originales para la academia brasileña.
+El conjunto de artículos aprobados en esta publicación revela el espectro de los intereses nacientes de los investigadores brasileños sobre este tema.
+El foco de análisis del primer grupo de artículos fue la dimensión de las políticas de innovación destinadas a MPE, agricultura y miner ía, sectores críticos debido al impacto ambiental, y las bases de formación de ecosistemas de start-ups .
+El objeto de interés del segundo conjunto de artículos fue el fenómeno de la innovación en mercados emergentes, analizado desde los enfoques de la frugalidad, de los negocios sociales y de la din ámica de radicalidad organizacional .
+Por último , se reunieron para este debate artículos vinculados con el tema de la transformación digital considerando la industria 4.0 y su relevancia para los BRIC, la gestión de ciudades inteligentes y de los servicios intensivos en conocimiento .
+Palabras clave : Innovación en economías emergentes.
+Start-ups en economías emergentes .
+Artigo submetido em 10 de dezembro de 2019 e aceito para publicação em 30 de dezembro de 2019.
+DOI: A concretização do projeto desta edição temática neste prestigioso periódico científico deve-se às iniciativas da professora Isabella Vasconcelos e do professor Hélio Irigaray, que identificaram uma oportunidade de estimular o debate sobre a contribuição das estratégias de inovação típicas de economias emergentes e seu potencial de pesquisa para a academia nacional.
+Agradecemos também à Fabiana Braga Leal (Assistente Editorial) pela sua conduta ética profissional e imparcial, sem seu apoio consistente não teríamos alcançado este resultado e com a qualidade almejada desta promissora edição, e ao apoio administrativo e logístico de Jackelyne de Oliveira da Silva (Auxiliar Editorial) ambas colaboradoras do Cadernos EBAPE.BR.APRESENTAÇÃO Inovação em Organizações de Economias Emergentes 887-894 Cad.
+EBAPE.BR, v. 17, nº 4, Rio de Janeiro, Out./Dez.
+Roberto Bernardes Felipe Borini Paulo N. FigueiredoINTRODUÇÃO Os mercados emergentes consagraram-se ao longo destes anos como a principal força motriz de expansão na economia global, atração de investimentos e geração de riqueza social pela inclusão de milhões de consumidores de baixa e média rendas aos mercados de consumo de massa.
+Segundo informações reunidas por Shankar e Narang (2019) em 2017, o produto interno bruto (PIB) total dos mercados emergentes correspondia a 58,7% do PIB mundial, quase duplicando a partir da década de 1980.
+Os autores, com base em projeções estatísticas, estimam que cerca de 70% do crescimento da economia mundial nos próximos anos serão provenientes de mercados emergentes.
+A base de sustentação deste célere crescimento está amparada na participação do consumo da classe média em mercados emergentes.
+Kharas (2017) estima que até 2030 o nível global da participação da classe média em mercados emergentes mais que dobrará: indo dos atuais 2 bilhões para 4,9 bilhões.
+Shankar e Narang (2019) argumentam que a Ásia oriental, incluindo a China, sediará 64% da classe média global; haverá também uma participação significativa de economias como Brasil e Índia.
+Shaphali e Gupta (2019) advertem que, do ponto de vista das estratégias empresariais de inovação para novos produtos e da microeconomia da demanda, deve-se considerar que entre 4 a 5 bilhões de consumidores posicionam-se no segmento da bottom of the pyramid (BoP), ou seja, permanecendo amplamente excluídos da demanda global dos mercados.
+Arunachalam, Bahadir, Bharadwaj e Guesalaga (2019) argumentam que os esforços acadêmicos e de profissionais de gestão aplicada ainda são insuficientes para entender as necessidades dos consumidores no segmento BoP e a classe média em ascens ão em mercados emergentes1.
+Tais autores recomendam estudos mais direcionados à compreensão das táticas de desenvolvimento de produtos ( trickle up ) para BoP com foco nas necessidades dos consumidores, bem como à dinâmica de difusão destas soluções inovadoras típicas de ambientes com restrições de recursos e vazios institucionais, no âmbito do mercado local e global, orientando a formulação de estratégias gerenciais e as políticas públicas.
+Em relação aos vetores de investimento direto estrangeiro (IDE), nas últimas duas décadas testemunhou-se um aumento extraordinário nos fluxos de aporte de capital produtivo para as indústrias, o que gerou, como consequência, conquistas dramáticas em processos de catch-up e de inovação tecnológica, seja pelas subsidiárias de empresas multinacionais (EMNs), seja por empresas locais de mercados emergentes.
+Em particular, grande parte do mainstream científico considera que o IDE é um mecanismo chave por meio do qual as economias emergentes buscam capturar valor, aprender e desenvolver capacidades tecnológicas para competição baseada em inovação no cenário global.
+Tais abordagens científicas sobre inovação procuram explicar esse fenômeno examinando como economias ou empresas de países emergentes estão delineando trajetórias cumulativas, aprimorando capacidades locais de P&D, integrando e recombinando fluxos internos e externos de conhecimento.
+(BELL e FIGUEIREDO, 2012; WILLIAMSON, RAMAMURTI, FLEURY et al., 2013).
+Este cenário impulsionou as expectativas de janelas de oportunidades para as EMNs, impelindo-as a um movimento de descentralização relativa e desconcentração dos fluxos de investimentos globais em P&D, assim como a uma relocalização das estratégias de gestão da inovação destinadas aos mercados emergentes.
+Esta nova geografia mundial da inovação acabou por beneficiar alguns destes mercados emergentes, conferindo um novo protagonismo global a países como China e Índia.
+(KEUPP , FRIESIKE e VON ZEDTWITZ, 2012).
+Assim, parcela significativa das pesquisas que adotaram um enfoque no ambiente institucional destas economias busca compreender os impactos da reforma dos seus sistemas nacionais e a criação de ecossistemas de inovação para permitir uma concorrência orientada ao mercado e que incentive o avanço tecnológico por meio de start-ups e estratégias de internacionalização (CARAYANNIS e VON ZEDTWITZ, 2005; CARAYANNIS e CAMPBELL, 2009).
+Com efeito, uma nova agenda de pesquisa em inovação ( newstream ) tem evidenciado que em nações emergentes como Índia, China, Brasil, economias da América Latina, entre outras, as estratégias ou a própria natureza da origem da inovação não se restringem somente às soluções orientadas pela tecnologia, intensivas em ciência ou departamentos de P&D.
+Uma safra de estudos já havia identificado um padrão de conduta tecnológica própria, com o argumento de que em economias emergentes, utilizando amostras de empresas brasileiras, parte expressiva das inovações é de processo, incremental, nova para empresa e não necessariamente para o mercado, tem como fonte de origem da tecnologia adotada o mercado internacional (QUADROS, FURTADO, BERNARDES et al., 2001; FIGUEIREDO, 2010; OLIVEIRA JR., BORINI e FLEURY , 2013).
+1 Os desafios de inclusão social e ao mercado de consumo são gigantescos.
+De acordo com os indicadores sociais do IBGE em 2018, o país registrava 13,5 milhões de pessoas com renda mensal per capita inferior a R$ 145, ou U$S 1,9 por dia, critério adotado pelo Banco Mundial para classificar a condição de extrema pobreza.
+Esta condição de cidadãos brasileiros corresponde à população de Bolívia, Bélgica, Cuba, Grécia e Portugal.
+Outro dado relevante: um quarto da população brasileira, ou 52,5 milhões de pessoas, subsiste com menos de R$ 420 per capita por mês.APRESENTAÇÃO Inovação em Organizações de Economias Emergentes 888-894 Cad.
+EBAPE.BR, v. 17, nº 4, Rio de Janeiro, Out./Dez.
+Roberto Bernardes Felipe Borini Paulo N. FigueiredoMas, então, qual o fato novo e interessante para uma agenda de pesquisa sobre inovação em mercados emergentes e que requer novas abordagens teóricas?
+A principal resposta a esta pergunta é que talvez a nova riqueza das nações emergentes – acometidas por fatores de adversidade tais como restrição de recursos, fragilidade tecnológica, exclusão social e vazios institucionais – são as estratégias locais que combinam soluções inovadoras sincronizadas aos critérios de valor compartilhado, frugalidade, good-enough, cost-saving , inclusão social sustentabilidade e que sejam replicáveis em novos mercados globais (inovação reversa) (GOVINDARAJAN e TRIMBLE, 2012; BORINI, COSTA, BEZERRA et al., 2014; VON ZEDTWITZ, CORSI, SØBERG et al., 2015; BORINI, COSTA e OLIVEIRA JR., 2016; BERNARDES, BORINI, ROSSETO et al., 2019; GUPTA, 2019; SHANKAR e NARANG, 2019).
+A formação de vantagens competitivas em muitos destes novos negócios ou produtos nestas regiões são de baixa ou média complexidade tecnológica, modelados ou prototipados com base em soluções que reagem à escassez de recursos e aos vazios institucionais, tendo como fonte de informações as experiências de heranças culturais e o aprendizado de interação com ecossistemas de inovação locais com competências criativas únicas.
+Não são raras as soluções inovadoras desenvolvidas para estes mercados locais que ganham o mundo e tornam-se inovação globais bem-sucedidas (GOVINDARAJAN e TRIMBLE, 2012).
+O termo "inovação de mercado emergente" é usado na literatura científica para denotar soluções criativas típicas em dois padrões culturais de ambientes institucionais e econômicos que, em muitos casos, se interpenetram, quais sejam: - ambientes macroeconômicos de rápido crescimento, marco legal-regulatório liberal relativamente estável, favorável a atração de investimentos, amigável ao capital multinacional e ao investimento empreendedor.
+Oferta elevada de recursos humanos relativamente qualificada e um mercado de consumo de média e baixa rendas potencialmente promissor; - ambientes institucionais marcados pela restrição de recursos, heterogeneidade cultural, infraestrutura tecnológica e básica deficiente, incerteza macroeconômica, ineficiente governança política e regulatória, degradação ambiental dos recursos naturais, elevados níveis de exclusão e desigualdade social convivendo com bolsões de miséria.
+Nesta edição, adotamos a definição mais simples sugerida por Shankar e Narang (2019), concebendo a "inovação de mercado emergente" como aquela inovação desenvolvida em um mercado emergente para uso por consumidores dos mercados locais ou transferidos para outros mercados sejam emergentes ou desenvolvidos.
+Apresentação dos Artigos desta Edição Temática A inovação em organizações de economias emergentes é a temática central d a presente edição do Cadernos EBAPE.BR.
+No Call for Papers , quando tentamos descrever as particularidades do presente fenômeno, deixamos em aberto várias frentes para que a comunidade acadêmica nos dissesse quais os temas norteadores da inovação em organizações de economias emergentes.
+Os artigos enviados e selecionados para a publicação neste número temático (ver Quadro 1) apresentam algumas dimensões especificas para o debate da inovação em organizações de economias emergentes, a saber: a) o impacto do ambiente e da política na inovação em organizações; b) o ecossistema de inovação e o empreendedorismo das organizações; e c) a importância da inovação de serviços.
+Ambiente Institucional e Políticas de Inovação em Organizações de Economias Emergentes O primeiro debate desta edição é sobre o impacto do ambiente institucional e da política na inovação em organizações de economias emergentes.
+Quando comparadas com as organizações em economias avançadas, as organizações em economias emergentes que adotam inovações sistêmicas em estratégias de proposição de valor compartilhadas para os stakeholders têm resultados de desempenho financeiro em mais curto prazo.
+Isso indica que, para as organizações em questão, os esforços devem ser mais em busca da sinergia dos diferentes tipos de inovação, e menos na escolha entre a inovação de produto, ou processo, ou marketing ou organizacional (OLIVEIRA PAULA e DA SILVA, 2019).
+Interessante notar que, no setor de serviços, parece-nos que os esforços sistêmicos também são essenciais.
+As organizações com enfoque em apenas um tipo de inovação ou no conjunto de inovações de marketing e organizacional são aquelas que sofrem mais com as barreiras para inovar (VINCENZI e CUNHA, 2019).
+Além da comparação entre economias emergentes e avançadas, os esforços mobilizadores de interação entre instituições de ambas são propícios para a transferência de tecnologia (DOIN e ROSA, 2019).
+Os resultados dessa interação, a princípio, APRESENTAÇÃO Inovação em Organizações de Economias Emergentes 889-894 Cad.
+EBAPE.BR, v. 17, nº 4, Rio de Janeiro, Out./Dez.
+Roberto Bernardes Felipe Borini Paulo N. Figueiredoreverberam em inovação incremental nas organizações de economias emergentes (DOIN e ROSA, 2019).
+Desse modo, as organizações em economias emergentes deveriam ser incentivadas a estratégias de catch-up , em especial às atividades da indústria 4.0 (MENELAU, MACEDO, CARVALHO et al., 2019), assim como as organizações envolvidas em negócios relacionados a cidades inteligentes e internet das coisas (JOÃO, SOUZA e SERRALVO, 2019).
+Todavia a cooperação não deveria ser restrita à díade emergente e avançada.
+Pensando em inovações da atual era industrial da transformação digital, configura-se como primordial os esforços de cooperação global entre as economias emergentes para acelerar as trajetórias de aprendizagem em ciência, tecnologia e inovação (MENELAU, MACEDO, CARVALHO et al., 2019).
+Refletindo criticamente sobre as dimensões setorial e sustentabilidade, o presente número, ao discutir dois segmentos, quais sejam, de mineração e agrícola, bastante sensíveis em termos de impactos social e ambiental, apresenta-nos questões de políticas de incentivo à inovação que merecem cuidado específico.
+Ressalta a necessidade de uma política de apoio à inovação mais ampla para as organizações das economias emergentes.
+Os resultados no setor de mineração mostram que, em comparação com uma economia avançada, a política econômica de inovação foca no aspecto tecnológico e econômico, mas carece das dimensões não tecnológicas, assim como das preocupações sociais e ambientais (PAMPLONA e PENHA, 2019).
+Desse modo, os incentivos fiscais e tributários, assim como os oriundos das agências de fomento e dos mantenedores (GALVAN e COSTA, 2019) deveriam apresentar uma visão mais ampla dos aspectos da inovação.
+É nesse sentido que o direcionamento dos esforços públicos para a inovação deveria privilegiar o modelo das seis características da organização e quatro características da inovação das organizações em economias emergentes (ARISAWA e MOREIRA, 2019) – com a ressalva de que, no setor público, a questão do risco deve ser ponderada (ARISAWA e MOREIRA, 2019).
+Inovações Típicas, Ecossistema de Inovação e Empreendedorismo das Organizações em Economias Emergentes O segundo debate deste número é sobre o ecossistema de inovação e o empreendedorismo das organizações.
+Na execução de seu modelo de negócio, as organizações devem pensar não somente no seu negócio, mas na arquitetura de todo o ecossistema que sustenta o modelo de negócio da organização (BITTENCOURT e FIGUEIRÓ, 2019).
+Desse modo, as organizações em economias emergentes são cada vez mais impulsionadas a estruturarem a gestão do seu ecossistema de inovação visualizando a criação de valor compartilhado entre todos os atores envolvidos (BITTENCOURT e FIGUEIRÓ, 2019).
+Esse é um desafio igual para as economias avançadas, mas, talvez, mais complexo nas economias emergentes pelos aspectos, já apontados, de maior debilidade do ambiente de inovação (OLIVEIRA PAULA e DA SILVA, 2019) e das políticas de financiamento da inovação (GALVAN e COSTA, 2019; PAMPLONA e PENHA, 2019).
+Ademais, é oportuno destacar que, nas economias emergentes, mesmo o investimento privado, do tipo das venture capital , são menos propensos à pesquisa de base tecnológica e mais voltados à inserção comercial da tecnologia (NASCIMENTO, CHEROBIM e MENDONÇA, 2019).
+Em paralelo, merecem destaque as inovações típicas de economias emergentes e sua dependência em relação ao ecossistema de inovação.
+Primeiro, vale destacar a questão da inovação frugal, inicialmente típica de economias emergentes, entretanto atraindo cada vez mais atenção das economias avançadas (RODRIGUES e CANCELLIER, 2019).
+O desenvolvimento de um ecossistema de inovação parece ser fortemente necessário à inovação frugal, seja por seu caráter interconectado com o desenvolvimento local, com a sustentabilidade e com a inovação por meio das parcerias, em essência, com as pequenas e médias empresas (PMEs) (RODRIGUES e CANCELLIER, 2019).
+Paralelamente, o desenvolvimento de ecossistemas de inovação parece ser central, também, para os empreendimentos sociais em economias emergentes.
+Isso decorre pela constatação do fato de que os empreendedores construtores sociais destacaram-se como os mais alinhados às economias em mercados emergentes (CICCARINO, MALPELLI, NASCIMENTO et al., 2019).
+Destaque-se que a característica desses empreendedores é a sua capacidade de identificação de oportunidades únicas e a capacidade de construção de ecossistemas não articulados pelas instituições pré-existentes (CICCARINO, MALPELLI, NASCIMENTO et al., 2019).
+Transformação Digital e Gestão da Inovação em Serviços Intensivos em Conhecimento em Economias Emergentes Por fim, o terceiro debate destaca a inovação de serviços nas organizações em economias emergentes.
+A importância do setor de serviços na economia mundial e seu crescimento nas economias emergentes são notórios.
+Consequentemente, a inovação de serviços requer atenção especial.
+Primeiro, a era da transformação digital (MENELAU, MACEDO, CARVALHO et al., APRESENTAÇÃO Inovação em Organizações de Economias Emergentes 890-894 Cad.
+EBAPE.BR, v. 17, nº 4, Rio de Janeiro, Out./Dez.
+Roberto Bernardes Felipe Borini Paulo N. Figueiredo2019) alinhada a internet das coisas e cidades inteligentes (JOÃO, SOUZA e SERRALVO, 2019) exerce cada vez mais pressão na predominância dos serviços nas economias.
+É notório que as barreiras para a inovação em serviços em economias emergentes não são baixas e têm especial peso para os technology-based knowledge-intensive business services (VINCENZI e CUNHA, 2019).
+Consequentemente, as organizações dessas economias precisam de uma gestão profissional para a inovação em serviços.
+Desse modo, neste número temático são apresentados quatro modelos específicos de gestão da inovação de serviços para vencer esse desafio, a saber: modelo de aplicação rápida por compressão, modelo de aplicação rápida experiencial, modelo baseado na prática e modelo de inovação deliberada a posteriori (KITSUTA e QUADROS, 2019).
+CONCLUSÕES Esta edição temática teve como objetivo atrair e mapear os interesses de pesquisas direcionadas ao tema da inovação em organizações de mercados emergentes.
+Desse modo, observamos que, em alguns pontos temáticos, os artigos aprovados estabelecem conexões e uma adesão relativa com a agenda internacional.
+A seguir são apresentadas, em um esforço de síntese, as principais contribuições desta edição.
+Como as práticas de institucionalização contribuem para a difusão da inovação no setor público em economias de vazio institucional como a brasileira é um tema relevante tal como analisado por Arisawa e Moreira (2019).
+Neste caso, o setor público pode ser caracterizado como um ambiente de baixo risco organizacional, mas, de modo paradoxal, a velocidade de adoção pode encontrar maiores obstáculos regulatórios e institucionais.
+Outras contribuições merecem uma reflexão mais detalhada, como o estudo da inovação social e do processo empreendedor: com a aplicação de tipologia em start-ups da Yunus Negócios Sociais Brasil (CICCARINO, MALPELLI, NASCIMENTO et al., 2019), apresenta-se o debate a respeito de como parametrizar e estabelecer métricas de mensuração para a inovação frugal e a questão pol ítica de inovação e incentivos considerando a dimensão ambiental (GALVAN e COSTA, 2019; PAMPLONA e PENHA, 2019).
+Todos estes artigos seguem uma tendência mais genérica nos estudos internacionais sobre inovação em economias emergentes Uma dimensão analítica interessante, tratada nesta edição especial e ainda pouco explorada pela perspectiva teórica da inovação e de organizações em economias emergentes é a questão da transformação digital, da indústria 4.0, a dinâmica dos serviços intensivos em conhecimento e suas implicações para economias e organizações.
+Sem dúvida, estes são temas estratégicos para futuras pesquisas (JOÃO, SOUZA e SERRALVO, 2019; VINCENZI e CUNHA, 2019; KITSUTA e QUADROS, 2019; MENELAU, MACEDO, CARVALHO et al., 2019).
+O estudo de Nascimento, Cherobim e Mendonça (2019) revela uma fragilidade estrutural no padrão de investimentos do tipo venture capital no Brasil, ao contrário do dinamismo presenciado em mercados desenvolvidos – Silicon Valley – ou mesmo em outras economias emergentes (Shangai, na China), os investimentos privados são menos propensos à pesquisa de base tecnológica e mais direcionados à inserção comercial da tecnologia.
+Esta evidência deve servir de alerta aos formuladores de políticas de inovação e aos novos empreendedores, para que também sejam balanceados os investimentos em setores estratégicos ao país e em tecnologias portadoras de futuro.
+Por fim, uma das constatações mais sensíveis desta edição e que merece destaque diz respeito a inovações típicas de economias emergentes, sua forte dependência em relação ao ecossistema de inovação e os mecanismos de cooperação entre as instituições públicas, organizações privadas e as universidades.
+As estratégias baseadas em criação de valor compartilhado para os atores com a percepção dos critérios de sustentabilidade, inclusão social e digital são elementos críticos nas economias emergentes (BITTENCOURT e FIGUEIRÓ, 2019; DOIN e ROSA, 2019; OLIVEIRA PAULA e DA SILVA, 2019).
+APRESENTAÇÃO Inovação em Organizações de Economias Emergentes 891-894 Cad.
+EBAPE.BR, v. 17, nº 4, Rio de Janeiro, Out./Dez.
+Roberto Bernardes Felipe Borini Paulo N. FigueiredoQuadro 1 Descritivo dos Artigos do Número Temático Artigo Objetivo Lente Teórica MetodologiaPrincipais Resultados para a Reflexão relacionados à Inovação em Mercados Emergentes O impacto dos diferentes tipos de inovação e do apoio governamental no desempenho das firmas: o caso das PMEs de manufatura da Europa Central e Oriental (OLIVEIRA PAULA e DA SILVA, 2019).Investiga a importância das parcerias com o governo e da inovação sistêmica no desempenho financeiro das empresas.Capacidades AbsortivasQuantitativa, com 1143 pequenas e médias empresas manufatureiras da Europa Central e Oriental.As organizações das economias emergentes em questão, quando praticam inovação sistêmica (inovação de produto, processo, marketing e organizacional), têm um incremento na sua performance financeira em menos tempo, em comparação com a de países desenvolvidos.
+Interação Universidade-EmpresaGoverno: o caso do Programa de Cooperação Educacional para Transferência de Conhecimento Brasil-Cingapura(DOIN e ROSA, 2019).Analisar como ocorre a configuração de um modelo de hélice tríplice na relação universidade-empresa-governo.Hélice TrípliceQualitativa, estudo de caso, programa internacional de cooperação educacional para a transferência de conhecimento Brasil-Cingapura.A institucionalização da universidade empreendedora administrando o paradoxo mercado e sociedade foi figura central na execução do programa de transferência de conhecimento.
+Ademais, a interação entre as instituições do mercado emergente e desenvolvido propicia, ao menos, a criação de inovação incremental para a economia emergente estudada.
+A política de inovação para o setor mineral no Brasil: uma análise comparativa com a Suécia centrada na interação dos agentes envolvidos (PAMPLONA e PENHA, 2019).Examinar a política de inovação para o setor mineral no Brasil em comparação com a Suécia.Hélice TrípliceQualitativa, com 18 entrevistas no Brasil e na Suécia.É restrita a política de apoio à inovação na economia emergente estudada.
+Em outras palavras, é focada na inovação tecnológica e econômica.
+No país desenvolvido estudado, verificou-se que a política de inovação tinha enfoque tanto tecnológico como não tecnológico, e também preocupações econômicas, sociais e ambientais.
+Incentivos e financiamentos para pesquisa e inovação na agricultura: estudo em fundações de pesquisa na região Sul do Brasil (GALVAN e COSTA, 2019).Discutir a dependência de recursos para pesquisa e inovação na agricultura em cinco fundações de pesquisa na região Sul do Brasil.Teoria da Dependência de RecursosQualitativa, por meio de entrevistas semiestruturadas com os gestores responsáveis por cinco fundações de pesquisa.A não incidência de tributos nas esferas municipal, estadual e federal é muito importante.
+A dependência de recursos dos órgãos oficiais de fomento, mantenedores e recursos privados mostra-se importante na condução de pesquisas para inovação na agricultura em organizações da economia emergente analisada.
+Duas décadas de premiação, quantas de inovação?
+O papel da difusão no Prêmio Enap (ARISAWA e MOREIRA, 2019).Mapeamento das dimensões e variáveis explicativas da difusão da inovação em serviços públicos e teste de sua aplicação ao caso do Prêmio Enap.Difusão da InovaçãoQualitativa, por meio de entrevistas com especialistas e análise documental referentes ao prêmio Enap-Brasil.Para a economia emergente estudada, é comprovado o modelo de dez variáveis: 1) características da organização – a) sobra organizacional, b) flexibilidade e descentralização, c) alinhamento entre alta administração, gerências e líderes, d) comunicação inter e intraorganizacional, e) capacidade de assumir riscos e f) aprendizagem/conhecimento organizacional; 2) características da inovação – a) adaptação/reinvenção, b) complexidade, c) vantagem relativa e d) compatibilidade.
+Importante destacar que inovações em serviços públicos podem ocorrer em ambientes de baixo risco organizacional.
+A criação de valor compartilhado com base em um ecossistema de inovação (BITTENCOURT e FIGUEIRÓ, 2019).Analisar o processo de geração de valor compartilhado na perspectiva dos públicos envolvidos em uma rede de inovação.Ecossistema de InovaçãoPesquisa-ação participante no Sul do Brasil, com base na interação entre uma empresa multinacional alemã, uma escola pública, uma universidade, o governo municipal e a comunidade local.Decorrente do projeto analisado nas organizações da economia emergente em foco, propõe-se que: 1) a busca pela criação de valor compartilhado consolida a formação de um ecossistema de inovação; 2) a inovação gerada pelo ecossistema é proporcional à heterogeneidade de seus atores; 3) a criação de valor compartilhado em um ecossistema está relacionada aos benefícios gerados em níveis micro, meso e macro para cada ator.APRESENTAÇÃO Inovação em Organizações de Economias Emergentes 892-894 Cad.
+EBAPE.BR, v. 17, nº 4, Rio de Janeiro, Out./Dez.
+Roberto Bernardes Felipe Borini Paulo N. FigueiredoArtigo Objetivo Lente Teórica MetodologiaPrincipais Resultados para a Reflexão relacionados à Inovação em Mercados Emergentes O aporte de venture capital e a predisposição de startups brasileiras em inovar (NASCIMENTO, CHEROBIM e MENDONÇA, 2019).Verificar se o aporte de venture capital influenciou a predisposição de startups brasileiras em inovar.AmbidestriaQuantitativo, por meio de questionários aplicados, e qualitativo, por meio de entrevistas.Para as organizações da economia emergente pesquisada, a atuação dos fundos de venture capital se mostrou mais centrada na inserção comercial de tecnologias já desenvolvidas ou em fase de desenvolvimento pelas empresas.
+Investimentos em inovação de base ou em fase inicial não se mostraram como prioridades.
+Inovação social e processo empreendedor: aplicação de tipologia em start-ups da Yunus Negócios Sociais Brasil (CICCARINO, MALPELLI, NASCIMENTO et al., 2019).Associar os três tipos de empreendedorismo social (bricolagem social, construtor social e engenheiro social) ao processo empreendedor de negócios sociais apoiado pela aceleradora.Empreendedorismo SocialQualitativo, por meio de estudos de caso da YNS.Para as organizações da economia emergente em questão, os construtores sociais foram as características predominantes, tanto no discurso dos avaliadores, quanto dos empreendedores.
+Os engenheiros sociais foram mencionados como possíveis e desejáveis pelos avaliadores.
+Gestão da inovação em empresas brasileiras de serviços de tecnologia da informação: modelos de inovação planejada, de aplicação rápida e de inovação deliberada a posteriori (KITSUTA e QUADROS, 2019).Verificar se os modelos tradicionais de gestão da inovação são aplicáveis a empresas de serviços de TI.Modelos de Inovação em ServiçosQualitativo, por meio de estudos de caso múltiplos no setor de TI.Nas organizações da economia emergente em questão, além de verificar a aderência dos modelos tradicionais em gestão da inovação, foram constatados outros modelos, como o de aplicação rápida por compressão, de aplicação rápida experiencial e modelo baseado na prática.
+Ademais, um novo modelo denominado de inovação deliberada a posteriori .
+Características de empresas e de inovações e suas relações com barreiras à inovação no setor de serviços brasileiro (VINCENZI e CUNHA, 2019).Analisar as características de empresas e de inovações desenvolvidas e suas relações com barreiras à inovação em empresas de serviços.Inovação em ServiçosQuantitativo, por meio de dados secundários da PINTEC-Brasil.Na economia emergente em questão, as empresas nacionais apontaram mais barreiras para a inovação em comparação com as estrangeiras.
+No tocante ao tipo de inovação, as centradas em inovação organizacional e marketing também apontaram mais barreiras.
+Assim como os technology-based knowledge-intensive business services apontaram maiores barreiras do que os demais.
+Inovação Frugal: origens, evolução e perspectivas futuras (RODRIGUES e CANCELLIER, 2019).Apresentar a origem, evolução e caracterização atual na literatura da abordagem da inovação frugal, além de discutir perspectivas futuras de estudo no tema.– Ensaio TeóricoApresenta uma agenda de pesquisa para a inovação frugal: a) tanto em mercados emergentes, como em países desenvolvidos; b) para PMEs; c) para o desenvolvimento local; d) relacionada a sustentabilidade; e) em busca de métricas e instrumentos de mensuração.
+Mapeamento da produção científica da Indústria 4.0 no contexto dos BRICS: reflexões e interfaces (MENELAU, MACEDO, CARVALHO et al., 2019)Analisar o perfil atual da produção científica sobre a Indústria 4.0 do grupo de países emergentes formado por Brasil, Rússia, Índia, China e África do Sul.– BibliometriaObserva-se um incremento de estudos acerca da Indústria 4.0 em C&T nos BRICS, mas há necessidade de cooperação e desenvolvimento efetivo de objetivos comuns voltados à C&T neste grupo de países.
+Revisão sistemática de cidades inteligentes e internet das coisas como tópico de pesquisa (JOÃO, SOUZA, SERRALVO, 2019).Analisar a literatura acadêmica atual sobre cidades inteligentes e internet das coisas.– Revisão SistemáticaCIs e IoT são um fenômeno "em expansão" que tem sido relatado principalmente com amostras do contexto de países desenvolvidos.
+Apesar de alguns estudos, é ainda bastante limitado o estudo de CIs e IoT nas economias emergentes.
+Fonte: Elaborado pelos autores.Continuação 893-894 Cad.
+EBAPE.BR, v. 17, nº 4, Rio de Janeiro, Out./Dez.
+APRESENTAÇÃO Inovação em Organizações de Economias EmergentesRoberto Bernardes Felipe Borini Paulo N. FigueiredoREFERÊNCIAS ARISAWA, E. D.; MOREIRA, M. F. Duas décadas de premiação, quantas de inovação?
+O papel da difusão no Prêmio Enap.
+New product introductions for low-income consumers in emerging markets.
+Journal of the Academy of Marketing Science , p. 1-27, 2019.
+Disponível em: < s11747-019-00648-8>.
+BELL, M.; FIGUEIREDO, P. N. Innovation capability building and learning mechanisms in latecomer firms: recent empirical contributions and implications for research.
+Revue Canadienne d'Études du Développement , v. 33, n.1, p. 14-40, 2012.
+BERNARDES, R. C.; BORINI F. M.; ROSSETO, D.; MOREIRA, R.
+Inovação em mercados emergentes .
+São Paulo: Editora Senac, 2018.
+A.; FIGUEIRÓ, P. S. Innovation ecosystems articulation and shared value creation.
+Cadernos EBAPE.BR , v. 17, n. 4, 2019.
+BORINI, F. M.; COSTA, S.; BEZERRA, M. A.; OLIVEIRA JR., M. M. Reverse innovation as an inducer of centres of excellence in foreign subsidiaries of emerging markets.
+International Journal of Business and Emerging Markets , v. 6, n. 2, p. 163-182, 2014.
+BORINI, F. M.; COSTA, S.; OLIVEIRA JUNIOR, M. D. M. Reverse innovation antecedents.
+International Journal of Emerging Markets , v. 11, n. 2, p. 175-189, 2016.
+CARAYANNIS, E.; VON ZEDTWITZ, M. Architecting gloCal (Global-Local), real-virtual incubator networks (G-RVINs) as catalysts and accelerators of entrepreneurship in transitioning and developing economies: lessons learned and best practices from current development and business incubation practices.
+Technovation , v. 25, n. 2, p. 95-110, 2005.
+CARAYANNIS, E. G.; CAMPBELL, D. F. J.
+"Mode 3" and "Quadruple Helix": toward a 21st century fractal innovation ecosystem.
+International Journal of Technology Management , v. 46, n. 3/4, p. 201, 2009.
+CICCARINO, I. D.; MALPELLI, D. C.; NASCIMENTO, E. S.; MORAES, A.
+B. G. Social innovation and entrepreneurial process: application of typologies in start-ups of Yunus Social Business Brazil.
+Cadernos EBAPE.BR , v. 17, n. 4, 2019.
+DOIN, T.; ROSA, A. R. Interação Universidade-Empresa-Governo: o caso do Programa de Cooperação Educacional para Transferência de Conhecimento Brasil-Cingapura.
+Cadernos EBAPE.BR , v. 17, n. 4, 2019.
+FIGUEIREDO, P. N. Discontinuous innovation capability accumulation in latecomer natural resource-processing firms.
+Technological Forecasting & Social Change , v. 77, n. 7, p. 1090-1108, 2010.
+GALVAN, W.; COSTA, Z. F. Incentivos e financiamentos para pesquisa e inovação na agricultura: estudo em fundações de pesquisas na região Sul do Brasil.
+Cadernos EBAPE.BR , v. 17, n. 4, 2019.
+GOVINDARAJAN, V.; TRIMBLE, C. Reverse innovation : create far from home, win everywhere.
+Boston: Harvard Business School Publishing, 2012.
+GUPTA, S. Understanding the feasibility and value of grassroots innovation.
+Journal of the Academy of Marketing Science , p. 1-25, Mar.
+JOÃO, B. N.; SOUZA, C. L.; SERRALVO, F. A. Revisão sistemática de cidades inteligentes e internet das coisas como tópico de pesquisa.
+Cadernos EBAPE.BR , v. 17, n. 4, 2019.KEUPP, M.; FRIESIKE, S.; VON ZEDTWITZ, M. How Do Foreign Firms Patent in Emerging Economies with Weak Appropriability Regimes?
+Research Policy , v. 41, n. 8, p. 1422-1439, 2012.
+KHARAS, H. The unprecedented expansion of the global middle class: an update.
+Global Economy and & Development , Working Paper n. 100, Feb. 2017.
+Disponível em: < wp-content/uploads/2017/02/global_20170228_global-middleclass.
+KITSUTA, C. M.; QUADROS, R. Gestão da inovação em empresas brasileiras de serviços de tecnologia da informação: modelos de inovação planejada, de aplicação rápida e de inovação deliberada a posteriori .
+Cadernos EBAPE.BR , v. 17, n. 4, 2019.
+Mapeamento da produção científica da Indústria 4.0 no contexto dos BRICS: reflexões e interfaces.
+Cadernos EBAPE.BR , v. 17, n. 4, 2019.
+NASCIMENTO, T. C.; CHEROBIM, A. P. M. S.; MENDONÇA, A. T. B.
+B. O aporte de venture capital e a predisposição de startups brasileiras em inovar.
+Cadernos EBAPE.BR , v. 17, n. 4, 2019.
+OLIVEIRA JR., M. M.; BORINI, F. M; FLEURY, A.
+The Competitive Advantage of Emerging Market Multinationals , 1. ed.
+New York: Cambridge, v. 1, p. 11-2, 2013.
+OLIVEIRA PAULA, F.; DA SILVA, J. F. The impact of different types of innovation and governmental support in the performance of firms: the case of Central and Eastern Europe manufacturing SMEs.
+Cadernos EBAPE.BR , v. 17, n. 4, 2019.
+B.; PENHA, A. C. A política de inovação para o setor mineral no BraFsil: uma análise comparativa com a Suécia centrada na interação dos agentes envolvidos.
+Cadernos EBAPE.BR , v. 17, n. 4, 2019.
+QUADROS, R.; FURTADO, A.; BERNARDES, R.; FRANCO, E. Technological innovation in Brazilian industry: an assessment based on the São Paulo Innovation survey.
+Technological Forecasting and Social Change , Nova Iorque, v. 67, n. 67, p. 203-219, 2011.
+RODRIGUES, G. V. K.; CANCELLIER, E. L. P. Inovação Frugal: origens, evolução e perspectivas futuras.
+Cadernos EBAPE.BR, v. 17, n. 4, 2019.
+Emerging market innovations: Unique and differential drivers, practitioner implications, and research agenda.
+Journal of the Academy of Marketing Science , p. 1-23, Aug. 17, 2019.
+Disponível em: < Acesso em: 22 dez.
+VINCENZI, T. B.; CUNHA, J. C. Características de empresas e de inovações e suas relações com barreiras à inovação no setor de serviços brasileiro.
+Cadernos EBAPE.BR , v. 17, n. 4, 2019.
+typology of reverse innovation.
+Journal of Product Innovation Management , v. 32, n. 1, p. 12-28, 2015.
+The competitive advantage of emerging market multinationals .
+EBAPE.BR, v. 17, nº 4, Rio de Janeiro, Out./Dez.
+APRESENTAÇÃO Inovação em Organizações de Economias EmergentesRoberto Bernardes Felipe Borini Paulo N. FigueiredoRoberto Bernardes ORCID: Professor no Centro Universitário FEI do Programa de Pós Graduação em Administração, São Bernardo do Campo – SP , Brasil.
+E-mail: bernardes@fei.edu.br Felipe Borini ORCID: Professor na Universidade de São Paulo da Faculdade de Economia, Administração, Contabilidade e Atuária – FEA, Brasil e na Fundação Instituto de Administração, São Paulo – SP , Brasil.
+E-mail: fborini@usp.br Paulo Figueiredo ORCID: Ph.D pelo Science Policy Research Unit (SPRU), University of Sussex, Reino Unido; Criador e Coordenador, desde 1999, do Programa de Pesquisa em Aprendizagem Tecnológica e Inovação Industrial no Brasil na Escola Brasileira de Administração Pública e de Empresas da Fundação Getulio Vargas (FGV EBAPE), Rio de Janeiro – RJ, Brasil.
+E-mail: paulo.figueiredo@fgv.br

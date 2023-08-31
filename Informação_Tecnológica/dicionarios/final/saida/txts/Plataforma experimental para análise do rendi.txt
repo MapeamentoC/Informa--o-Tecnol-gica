@@ -1,0 +1,252 @@
+DOI: 10.29069/forscience.2019v7n2.e63 3 Recebido em :28/01/2019 Aprovado em: 20/08/2019 Publicado em: 26/09/2019 ForSci.
+IF MG, Formiga, v. 7, n. 2, e0063 3, jul./dez.
+ISSN: 2318 -6356 ARTIGO PLATAFORMA EXPERIMENTAL PARA ANÁLISE DO RENDIMENTO DE MOTORES DE INDUÇÃO TRIFÁSICOS POR MEIO DE ENSAIOS ESPECÍFICOS RECOMENDADOS NA NORMA TÉCNICA NBR17094 -3:20181 Vinícius Marcos Pinheiro Luciano Coutinho Gomes Cássio Alves de Oliveira RESUMO Os principais equipamento s encontrado s para realização de movimentos mecânicos são os motores elétricos, sendo que a maior parte destes é constituída pelos motores de indução trifásicos.
+É inegável a crescente preocupação com a questão da eficiência energé tica, sendo estes equipamentos os maiores consumidores de energia elétrica, principalmente , nas indústrias.
+Sendo assim, este trabalho apresenta uma plataforma experimental implementada para a obtenção do rendimento dos motores de indução trifásicos a part ir da determinação dos parâmetros do circuito equivalente, de ensaios térmicos e ensaios específicos para obter as perdas da respectiva máquina , com base em procedimentos presentes na norma técnica NBR17094 -3:2018 da Associação Brasileira de Normas Técnica s. Neste contexto , o rendimento foi obtido para diversos carregamentos para um motor de 3 cv a partir da variação de carga em seu eixo, utilizando, para isso, uma máquina de corrente contínua.
+Tal plataforma permite verificar o desempenho de motores antigo s, motores que passaram por processo de rebobinagem ou motores construídos sob encomenda .
+Palavras -chaves : NBR17094 -3:2018 .
+1 INTRODUÇÃO Os motores de indução trifásicos (MIT) são máquinas elétricas re sponsáveis por converter energia elétrica em energia mecânica (FRANCISCO, 2006), com pequena perda de energia .
+É um equipamento robusto, de funcionamento simples e com pouca necessidade de manutenção (GUEDES, 1994).
+Principalmente no meio industrial, o mot or de indução trifásico desempenha um importante papel para tornar os processos produ tivos mais rápidos e eficientes, em vários 1 Como citar este artigo: PINH EIRO, Vinícius Marcos; GOMES, Luciano Coutinho; OLIVEIRA, Cássio Alves de.
+Plataf orma experimental para análise do rendimento de motores de indução trifásicos por meio de ensaios específicos r ecomendados na norma técnica NBR 17094 -3:2018 .
+ForScience: revist a científica do IFMG, Formiga, v. 7, n. 2, e0063 3, jul./dez.
+DOI: 10.29069/forscience.2019v7n2.e63 3.
+PINHEIRO, Vinícius Marcos; GOMES, Luciano Coutinho; OLIVEIRA, Cássio Alves de.
+Plataforma experimental para análise do rendimento de mot ores de indução trifásicos por meio de ensaios específicos recomendados na norma técnica NBR17094 -3:2018 2 ForSci.
+IFMG, Formiga, v. 7, n. 2, e0063 3, jul./dez.
+2019. tipos de aplicações, como (GARCIA, 2003): bombas para movimentação de líquidos, ventiladores para gases, compressores, moinhos, misturadores, movimentação de esteiras rolantes, dentre vários outros e, segundo o Ministério de Minas e Energia, tais motores acima mencionados são, no Brasil, "o equipamento que processa a maior parcela de energia elétrica" (MINISTÉRIO DE MINAS E ENERGIA , 2017).
+Tal fato mostra a importância de estudar o rendimento da respectiva máquina, pois, como é apresentado pela WEG (2009), o uso de motores eficientes pode gerar uma economia elevada, podendo representar mais de 8% sobre toda energia consumida em uma indústria.
+Muitos motores, principalmente os de grande porte, sofrem um processo de recondicionamento, onde as bobinas dos mesmos são substituídas.
+Um estudo apresentado por Venero (2008) indica que é viável optar por recondicionamento de motores acima de 7,5 cv em vez de realizar sua completa substituição por um novo, como pode ser visualizado por meio da Figura 1.
+Figura 1 - Custo de reparo x Preço do motor novo Fonte: Venero (2 008).
+A Figura 1 indica que o custo de re paro para motores acima de 7,5 cv é menor que a metade do custo de aquisição de um respectivo motor novo, sendo melhor optar -se pelo recondicionamento do que pela sua troca .
+Contudo, depois do recondicionamento, mu itas informações a respeito do motor podem ser perdidas ou alteradas , dentre elas, o rendimento, o que acaba impossibilitando um estudo eficaz a respeito do consumo de energia total, mesmo sabendo que este equipamento, principalmente no Brasil, é um dos gr andes responsáveis pelo consumo de energia elétrica, como é abordado po r De Almeida (200 3) e Garcia (2007) .
+PINHEIRO, Vinícius Marcos; GOMES, Luciano Coutinho; OLIVEIRA, Cássio Alves de.
+Plataforma experimental para análise do rendimento de mot ores de indução trifásicos por meio de ensaios específicos recomendados na norma técnica NBR17094 -3:2018 3 ForSci.
+IFMG, Formiga, v. 7, n. 2, e0063 3, jul./dez.
+Na área de eficiência, p ode ser citado o trabalho realizado por Ribeiro (2008), voltado para metodologias de eficiência energética do MIT relaciona das ao controle do mesmo e o estudo de eficiência relacionada com o carregamento imposto ao motor, realizado por Campana et al.
+Assim, este trabalho teve como intuito desenvolver uma plataforma experimental que possa ser empregada para analisar o r endimento de motores de indução trifásico s. Tal como os transformadores possuem ensaios específicos que devem ser realizados a fim de garantir um perfeito funcionamento e, também, estudo de eficiência, como é abordado por Cardoso (2005), gerou a concepção de que o mesmo poderia ser aplicado aos motores de indução trifásicos, de tal forma a contribuir para o estudo de eficiência energética, ação que vem tomando grandes proporções nos últimos anos (CARDOSO et al.
+A plataforma desenvolvida tem como bas e a norma NBR17094 -3:2018, que aborda os ensaios necessários para determinar diversos parâmetros e característica s, como o próprio rendimento, dos motores de indução trifásico s. As vantagens da adoção de tal norma estão relacionadas com a padronização da execução dos ensaios, assim como possibilitar a realização dos mesmos de forma adequada, confiável e segura.
+2 MATERIA L E MÉTODOS 2.1 Plataforma de ensaios A Figura 2 representa o diagrama da plataforma de ensaios com os respectivos equipamentos que a constituem , sendo os mesmos apresentados em seguida.
+PINHEIRO, Vinícius Marcos; GOMES, Luciano Coutinho; OLIVEIRA, Cássio Alves de.
+Plataforma experimental para análise do rendimento de mot ores de indução trifásicos por meio de ensaios específicos recomendados na norma técnica NBR17094 -3:2018 4 ForSci.
+IFMG, Formiga, v. 7, n. 2, e0063 3, jul./dez.
+Figura 2 – Diagrama da plataforma de ensaios Fonte: Elaborada pelo autor .
+2.1.1 Bancada experimental Para a realização do s ensaios é de suma importância ter uma estrutura na qual se possa efetuar os mesmo s de forma adequada.
+Sendo assim, o laboratório conta com uma bancada experimental desenvolvida para este propósito, que permite ensaios de motores de até 5 cv.
+A Figura 3 representa o esquema de tal bancada, na qual são realizados os ensaios.
+Seu projeto foi desenvolvido no SolidWorks , visando a criação de uma estrutura robusta que possibilitasse a realização das atividades de forma prática e segura.
+Figura 3 - Representação da bancada experimental Fonte: Elaborada pelo autor .
+PINHEIRO, Vinícius Marcos; GOMES, Luciano Coutinho; OLIVEIRA, Cássio Alves de.
+Plataforma experimental para análise do rendimento de mot ores de indução trifásicos por meio de ensaios específicos recomendados na norma técnica NBR17094 -3:2018 5 ForSci.
+IFMG, Formiga, v. 7, n. 2, e0063 3, jul./dez.
+Analisando a Figura 3 , pode -se pontuar as principais características da bancada que a tornam uma estrutura ideal para a realização dos ensaios: os pés de borracha, além de melhorar com relação ao atrito, por serem antiderrapa nte, possibilitam um nivelamento adequado com o solo, uma vez que os mesmos são ajustáveis; a plataforma móvel proporciona o adequado acoplamento do eixo do motor em estudo com a máquina Corrente Contínua ( CC) , visto que é possível ajustá -la para diferent es níveis de altura; a base permite fixar uma série de motores com diferentes tipos de carcaças e é constituída de aço carbono de meia polegada de espessura, atuando justamente na questão da vibração que se origina no funcionamento do motor, tentando reduz i-la de tal forma a não prejudicar os ensaios.
+O modelo real da bancada presente no laborató rio é apresentado na Figura 4 .
+Figura 4 - Bancada experimental Fonte: Elaborada pelo autor .
+2.1.2 Fonte programável A alimentação do m otor de indução trifásico , bem como a aquisição das grandezas necessár ias no decorrer do estudo, como tensão, corrent e, potência e fator de potência, são realizados por meio de uma fonte programável, representada pela Figura 5, cujo modelo é o CSW5550 da f abricante AMETEK Programmable Power .
+PINHEIRO, Vinícius Marcos; GOMES, Luciano Coutinho; OLIVEIRA, Cássio Alves de.
+Plataforma experimental para análise do rendimento de mot ores de indução trifásicos por meio de ensaios específicos recomendados na norma técnica NBR17094 -3:2018 6 ForSci.
+IFMG, Formiga, v. 7, n. 2, e0063 3, jul./dez.
+Figura 5 - Fonte programável Fonte: Elaborada pelo autor .
+Máquina de corrente contínua Para realizar a imposição de carga ao eixo do motor de indução trifás ico é utilizado uma máquina de corrente contínua, representado pela Figura 6.
+Figura 6 - Máquina de corrente contínua Fonte: Elaborada pelo autor .
+A m áquina de corrente contínua é acoplada ao eixo do motor de indução com o simp les objetivo de impor qualquer valor de carga ao motor em estudo, tornando possível a análise do rendimento para diversos carregamentos.
+2.1.4 Motor de indução trifásico O motor de indução trifásico analisado é da fabricante WEG, cujos dados de placa estão apresentados no Quadro 1 .
+PINHEIRO, Vinícius Marcos; GOMES, Luciano Coutinho; OLIVEIRA, Cássio Alves de.
+Plataforma experimental para análise do rendimento de mot ores de indução trifásicos por meio de ensaios específicos recomendados na norma técnica NBR17094 -3:2018 7 ForSci.
+IFMG, Formiga, v. 7, n. 2, e0063 3, jul./dez.
+Motor de indução trifásico gaiola de esquilo WEG ® Categoria N – 60Hz – IP55 – F.S 1,15 – S1 – Clas.Isol F Potência 2,2/3,0 Tensão 220/380V Corrente 8,39/4,86A Fator de Potência 0,84 Velocidade 3450 rpm Rendimento 81,9% Razão entre a corrente de partida e a nominal 6,7 Quadro 1-Dados de placa do motor de indução trifásico utilizado Fonte: Elaborada pelo autor .
+2.2 Norma NBR17094 -3:2018 A norma brasileira NBR17094 -3:2018 trata a respeito de motores de indução trifásico s. Nela estão descritos os ensaios e os cuidados necessários para se obter o rendimento da máquina, sendo que , primeiramente, deve -se determinar os parâmetro s do circuito equivalente a partir de três ensaios, os quais são:  Ensaio para determinação da resist ência do enrolamento do estator.
+Posteriormente é realizado o ensaio térmico para determinar a temperatura especificada, na qual os parâmetros do circuito equivalente deverão estar referenciados para possibilitar a determinação d o rendimento.
+Por fim , é realizado o ensaio onde se varia a carga imposta ao eixo do MIT, cuja finalidade é determinar o rendimento para d iferentes valores de carregamento.
+2.3 Circuito equivalente Os parâmetros do circuito equivalente do motor de indução trifásico são de suma importância para qualquer estudo acerca da máquina, pois, todo seu equacionament o é em função de tais grandezas.
+Sendo assim, é importante determiná -las de forma mais exata possível.
+A NBR17094 -3:2018 traz, detalhadamente, como os ensaios para a determinação PINHEIRO, Vinícius Marcos; GOMES, Luciano Coutinho; OLIVEIRA, Cássio Alves de.
+Plataforma experimental para análise do rendimento de mot ores de indução trifásicos por meio de ensaios específicos recomendados na norma técnica NBR17094 -3:2018 8 ForSci.
+IFMG, Formiga, v. 7, n. 2, e0063 3, jul./dez.
+2019. dos parâmetros devem ser realizados.
+Os parâmetros podem ser observados na Figura 7 a seguir: Figura 7 - Circuito equivalente do motor de indução trifásico Fonte: Elaborada pelo autor .
+Onde : Corrente do estator [A].
+Tensão no terminal do estator [V].
+Reatância de dispersão do estator [Ω].
+Reatância de dispersão do rotor [Ω] .
+Resistência de perda no núcleo [Ω] .
+3 RESULTADOS 3.1 Determinação da resistência do enrolamento do estator PINHEIRO, Vinícius Marcos; GOMES, Luciano Coutinho; OLIVEIRA, Cássio Alves de.
+Plataforma experimental para análise do rendimento de mot ores de indução trifásicos por meio de ensaios específicos recomendados na norma técnica NBR17094 -3:2018 9 ForSci.
+IFMG, Formiga, v. 7, n. 2, e0063 3, jul./dez.
+Para determinar a resistência do enrolamento do estator, optou -se pel o método da tensão e corrente descritos na norma NBR17094 -3:2018 e, seguindo as recomendações presentes na respectiva norma, obtém -se as medições para cada fase do motor como está representado nas Tabelas 1, 2 e 3 .
+Tabela 1 - Medidas para a fase A Circu ito da Fase A V (V) I (A) (Ω) Temperatura de ensaio (°C) 3,76 1,72 2,186 25 6,60 3,02 2,185 27 9,18 4,14 2,217 27 Fonte: Elaborada pelo autor .
+Tabela 2 - Medidas para a fase B Circuito da Fase B V (V) I (A) (Ω) Temperatura de ensaio (°C) 4,06 1,86 2,182 28 6,63 3,02 2,195 28 9,19 4,16 2,209 29 Fonte: Elaborada pelo autor .
+Tabela 3 - Medidas para a fase C Circuito da Fase C V (V) I (A) (Ω) Temperatura de ensaio (°C) 4,41 1,98 2,227 30 6,62 2,97 2,228 32 9,18 4,07 2,255 36 Fonte: Elaborada pelo au tor.
+Posteriormente, deve -se realizar a correção das resistências encontradas para uma temperatura padrão, que, segundo a norma, é a temperatura ambiente de 25 °C.
+Para tal, é empregado a Equação 1 a seguir.
+(1) Onde : Resistência do enro lamento corrigida para uma temperatura especificada, .
+Temperatura especificada para correção d a resistência, em graus Celsius.
+PINHEIRO, Vinícius Marcos; GOMES, Luciano Coutinho; OLIVEIRA, Cássio Alves de.
+Plataforma experimental para análise do rendimento de mot ores de indução trifásicos por meio de ensaios específicos recomendados na norma técnica NBR17094 -3:2018 10 ForSci.
+IFMG, Formiga, v. 7, n. 2, e0063 3, jul./dez.
+Resistência do enrolamento obtida no ensaio à temperatura .
+Temperatura do enrolamento no momento da medição da resistência, em graus Celsius.
+Constante baseada no material condutor do enrolamento .
+(Para cobre eletrolítico com 100% de condutividade K=234,5 e alumínio com condutividade em volume de 62% , K=225).
+Para efei tos de simplificação, a Tabela 4 indica a resistência média para cada fase à temperatura de 25°C.
+Tabela 4 - Resistência média dos en rolamentos do estator por fase a 25 °C Fase A Fase B Fase C 2,184Ω 2,167Ω 2,172Ω Fonte: Elaborada pelo autor .
+Logo, a resistência média do enrolamento do estator será dada pela média aritmética dos valores apresentados na Tabela 4 , tendo -se um valor igual a: 3.2 Ensaio de rotor bloqueado O ensaio de rotor bloqueado é realizado a fim de determinar a resistência do rotor, assim como as reatâncias de dispersão.
+Seguindo as recomendações da norma, realiza -se o bloqueio do eixo do motor de indução, como se pode observar na Figura 8.
+Figura 8 - Bloqueio do eixo do motor de indução Fonte: Elaborada pelo autor .
+PINHEIRO, Vinícius Marcos; GOMES, Luciano Coutinho; OLIVEIRA, Cássio Alves de.
+Plataforma experimental para análise do rendimento de mot ores de indução trifásicos por meio de ensaios específicos recomendados na norma técnica NBR17094 -3:2018 11 ForSci.
+IFMG, Formiga, v. 7, n. 2, e0063 3, jul./dez.
+Posteriormente, é aplicado tensão alternada reduzida nos terminais do MIT, de tal forma a se obter corrente nominal.
+A NBR17094 -3:2018 recomenda que o ensaio seja realizado o mais rápido possível para não danificar o s enrolamento s do motor.
+Na Tabela 5 estão apresentad as as medições realizadas para este ensaio.
+Tabela 5 - Medições para o ensaio de rotor bloqueado via fonte Grandeza medida FASE A FASE B FASE C Tensão (Vrms) 43,3 43,3 43,3 Corrente (Arms) 8,39 8,59 8,58 Fase (𝜙) 0 240,3 120,5 Potência (kW) 0,1 0,11 0,1 Potência Aparente (kVA) 0,21 0,215 0,214 Fator de Potência 0,49 0,5 0,48 Temperatura 36°C Fonte: Elaborada pelo autor .
+A Tabela 6 apresenta os valores dos parâmetros do motor , já supracitados .
+Tabela 6 - Parâmetros calculados Parâmetro Valor (Ω) Resistência do enrolamento do rotor 2,004 Reatância de dispersão do estator 3,845 Reatância de dispersão do rotor 3,845 Fonte: Elaborada pelo autor .
+3.3 Ensaio a vazio O ensaio a vazio possu i como finalidade a determinação da resistência de perdas no núcleo, a reatância de magnetização e as perdas a vazio.
+As medições para este ensaio são realizadas seguindo os procedimentos descritos pela NBR17094 -3:2018 , tomando -se os cuidados abordados na mesma.
+O respectivo ensaio é realizado com o eixo do motor de indução trifási co totalmente livre.
+Na Tabela 7 estão indicados os valores das medições efetuadas .
+PINHEIRO, Vinícius Marcos; GOMES, Luciano Coutinho; OLIVEIRA, Cássio Alves de.
+Plataforma experimental para análise do rendimento de mot ores de indução trifásicos por meio de ensaios específicos recomendados na norma técnica NBR17094 -3:2018 12 ForSci.
+IFMG, Formiga, v. 7, n. 2, e0063 3, jul./dez.
+Tabela 7 - Medições obtidas durante o ensaio a vazio via fonte Grandeza medida FASE A FASE B FASE C Tensão (Vrms) 219,97 219,97 219,97 Corrente (Arms) 4,31 4,43 4,31 Potência (kW) 0,08 0,08 0,07 Fator de Potência 0,15 0,14 0,13 Temperatura 48°C Fonte: Elaborada pelo autor .
+Com os valores das medições em mãos e, seguindo os procedimentos dos cálculos presente s na norma, obtém -se os valores dos parâmetros de sejados , conforme apresentados na Tabela 8 .
+Tabela 8 - Parâmetros calculados Parâmetro Valor (Ω) 593,491 83,924 Fonte: Elaborada pelo autor .
+A potência de entrada total medida, também conhecida como perdas a vazio, representa a soma das perdas do estator, de atrito/ventilação e do núcleo.
+Sendo assim, tem -se que: (2) Onde: Perdas a vazio.
+Perdas joulicas no estator, sendo a resistência corrigida para a temperatura do ensaio a vazio.
+O somatório das potências de cada fase obtidas durante o ensaio a vazio, apresentadas na Tabela 7 , fornece o total de perdas a vazio ( .
+Realizando o somatório de todas elas, temse um valor de: PINHEIRO, Vinícius Marcos; GOMES, Luciano Coutinho; OLIVEIRA, Cássio Alves de.
+Plataforma experimental para análise do rendimento de mot ores de indução trifásicos por meio de ensaios específicos recomendados na norma técnica NBR17094 -3:2018 13 ForSci.
+IFMG, Formiga, v. 7, n. 2, e0063 3, jul./dez.
+Para o cálculo das perdas no estator, o primeiro passo é realizar a correção d a resistência do estator para a temperatura do presente ensaio, que é de 48°C.
+De posse da resistência do enrolamento do estator corrigida, pode -se realizar, portanto, o cálculo da perda sobre o mesmo, utilizando a média das correntes presente da Tabela 7 .
+Logo, tem -se que: Para a determinação das perdas por atrito/ventilação e as perdas no núcleo, deve -se adotar o seguinte proced imento recomendado pela norma: s egundo a NBR17094 -3:2018 , a separação da perda do núcleo, da perda por atrito/ventilação, de ve ser realizada pela leitura de tensão, corrente e potência de entrada à frequência nominal, variando a tensão de 125% da tensão nominal até o ponto onde o decréscimo de tensão provoque um aumento de corrente.
+Depois de realizado o procedimento acima, por meio da variação de tensão e aquisição dos valores via fonte, obteve -se o segui nte ponto, presente na Tabela 9 .
+Tabela 9 – Medições obtidas para a separação das per das por atrito/ventilação e a núcleo via fonte Grandeza medida FASE A FASE B FASE C Tensão (Vrms) 51,94 51,94 51,93 Corrente (Arms) 1,27 1,29 1,26 Potência (kW) 0,03 0,03 0,03 Fator de Potência 0,7 0,69 0,69 Fonte: Elaborada pelo autor .
+O somatório das pot ências de cada fase da Tabela 9 fornece a perda por atrito /ventilação.
+Logo: Substituindo, assim, os valores das perdas já calculadas na Equação 2, pode -se, então, determinar o valor das perdas no núcleo.
+3.4 Ensaio Térmico O ensaio térmico tem como objetivo determinar a elevação de temperatura de determinadas partes do mo tor acima da temperatura ambiente, quando o mesmo está funcionando sob condição de uma carga especificada.
+Para a realização de tal ensaio, é necessário impor carga ao eixo do motor seguindo as recomendações presente s na norma NBR17094 -3:2018 e para tal, é empregado uma máquina PINHEIRO, Vinícius Marcos; GOMES, Luciano Coutinho; OLIVEIRA, Cássio Alves de.
+Plataforma experimental para análise do rendimento de mot ores de indução trifásicos por meio de ensaios específicos recomendados na norma técnica NBR17094 -3:2018 14 ForSci.
+IFMG, Formiga, v. 7, n. 2, e0063 3, jul./dez.
+2019. de corrente contínua, onde a mesma é acoplada diretamente ao eixo do motor de indução trifásico, como pode ser visualizado na Figu ra 9.
+Figura 9 - Acoplamento entre o MIT e a máquina CC Fonte: Elaborada pelo autor .
+Na Tabela 10 estão apresentados os valores das medições realizadas, em que foi aplicado uma carga de tal forma que o motor operasse na condição do fator de serviço, como é recomendado pela respectiva norma.
+Tabela 10 - Medição realizada para determinação da elevação de temperatura através do enrolamento do estator Fator de serviço Corrente nominal (A) Corrente média medida durante o ensaio (A) Resistência (Ω) 1,15 8,39 9,616 3,300 Fonte: Elaborada pelo autor .
+De posse das me didas, apresentadas na Tabela 10 , torna -se possível determinar, utilizando como auxílio o roteiro de cálculo presente na norma, as elevações de temperatura, assim como a temperatura final utilizada no cálculo do rendimento do motor de indução trifásico, como estão apresentadas na Tabela 11 .
+Tabela 11 -Elevação de temperaturas calculadas Grandeza medida FASE A Elevação de temperatura à carga com fator de serviço 134,405° C Elevação de temperatura à carga nominal 102,317°C Temperatura para determinação do rendimento 127,317°C Fonte: Elaborada pelo autor .
+PINHEIRO, Vinícius Marcos; GOMES, Luciano Coutinho; OLIVEIRA, Cássio Alves de.
+Plataforma experimental para análise do rendimento de mot ores de indução trifásicos por meio de ensaios específicos recomendados na norma técnica NBR17094 -3:2018 15 ForSci.
+IFMG, Formiga, v. 7, n. 2, e0063 3, jul./dez.
+3.5 Ensaio para determinação do rendimento O rendimento em motores elétricos é responsável por indicar o quanto de energia elétrica está sendo convertida em energia eletromecânica (DEL TORO, 1994) .
+A Equação 3 indica uma forma genérica de se calcular o rendimento onde a potência de saída é igual a potência de entrada menos as perdas presentes no motor.
+(3) A NBR170 94-3:2018 estabelece dez métodos para a determinação do rendimento, dentre os quais, foi optado pelo seguinte para a presente análise:  Medição da potência elétrica sob carga com segregação e valor assumido das perdas suplementares.
+Tal método consiste na m edição da potência de entrada, sendo a potência de saída obtida subtraindo -se as perdas da primeira .
+As medidas de tensão, corrente, potência de entrada e f requência , presentes na Tabela 12, foram obtidas por meio da fonte programável.
+A temperatura ambien te foi obtida através de um termopar, enquanto que, para medir a velocidade, foi utilizado um tacômetro digital.
+Para determinar a temperatura do enrolamento do estator foi utilizado a técnica da elevação de temperatura, descrita na respectiva norma.
+O esc orregamento é obtido através da Equação 4 (FITZGERALD, 2006) .
+(4) Onde: Escorregamento percentual.
+PINHEIRO, Vinícius Marcos; GOMES, Luciano Coutinho; OLIVEIRA, Cássio Alves de.
+Plataforma experimental para análise do rendimento de mot ores de indução trifásicos por meio de ensaios específicos recomendados na norma técnica NBR17094 -3:2018 16 ForSci.
+IFMG, Formiga, v. 7, n. 2, e0063 3, jul./dez.
+Tabela 12 - Medições realizadas para a determinação do rendimento Carga com relação a nominal Descrição 140% 125% 100% 75% 50% Temperatura ambiente (°C) 25 25 25 25 25 Resistência do rotor (Ω) 3,75 3,45 3,15 2,85 2,55 Temperatura do enrolamento do estator (°C) 213,119 177,310 141,50 105,69 69,89 Frequência (Hz) 60,01 60,00 60,01 60,01 60 Velocidade (rpm) 3275 3340 3432 3508 3564 Escorregamento (%) 9,028 7,222 4,667 2,555 1,010 Tensão de linha (V) 126,99 126,99 126,99 126,99 126,99 Corrente de linha (A) 11,356 10,530 8,738 6,613 4,908 Potência de entrada (W) 3803 3442 2732 1803 853 Fonte: Elaborada pelo autor .
+De posse dos parâmetros mensurados, deve -se corrigir o escorregamento para a temperatura especificada do estator, que é 127,317°C, empregando -se a Equação 5.
+Os resultados de tal correção estão apresentados na Tabela 13 .
+(5) Onde: Escorregamento corrigido para a temperatura especificada do e stator, .
+Escorregamento calculado durante o ensaio com carga, na temperatura medida , .
+Temperatura especificada para correção d a resistência, em graus Celsius.
+Temperatura do enrolamento do es tator medida durante o ensaio com carga, em graus Celsius.
+Tabela 13 - Escorregamento corrigido para a temperatura especificada do estator Carga com relação a nominal Descrição 140% 125% 100% 75% 50% Escorregamento corrigido (%) 7,297 6,345 4,490 2,717 1,200 Fonte: Elaborada pelo autor .
+PINHEIRO, Vinícius Marcos; GOMES, Luciano Coutinho; OLIVEIRA, Cássio Alves de.
+Plataforma experimental para análise do rendimento de mot ores de indução trifásicos por meio de ensaios específicos recomendados na norma técnica NBR17094 -3:2018 17 ForSci.
+IFMG, Formiga, v. 7, n. 2, e0063 3, jul./dez.
+O próximo passo é realizar o cálculo das perdas, as quais podem ser resumidas em:  Perdas no estator.
+ Perdas por atrito e ventilação.
+As perdas no núcleo e as perdas por atrito e ventilação são aquelas que foram obtidas no ensaio a vazio.
+Para o cálculo das perdas no estator é necessário, primeiramente, corrigir a respectiva resistência para a temperatura especificada e, poste riormente, utilizar a Equação 6 .
+(6) Para determinar as perdas no rotor, deve -se obter a potência através do entreferro, utilizando a Equação 7.
+(7) Sendo assim, obtida a potência através do entreferro, pode -se determinar as perdas no rotor pela Equação 8.
+(8) A última perda a ser det erminada é a perda suplementar.
+No método adotado, a perda suplementar nominal é calculada através de valores assumidos, apresentados no Quadro 2 .
+Potência nominal do motor Perda suplementar – Porcentagem da potência de saída nominal 0,75 - 90 kW 1 - 125 cv 1,8 91 – 375 kW 126 - 500 cv 1,5 376 - 1839 kW 501 - 2499 cv 1,2 1840 kW e acima 2500 cv 0,9 Quadro 2 - Valores assumidos da perda suplementar Fonte: NBR17094 -3:2018 .
+A partir da Equação 9 pode -se determinar o valor da perda suplementar nominal ( utilizando como auxílio os dados do Quadro 2 .
+(9) Sendo a potência nominal do motor igual a 2,2kW, substitui -se os respectivos valores na Equação 9, tendo o valor da perda suplementar nominal.
+PINHEIRO, Vinícius Marcos; GOMES, Luciano Coutinho; OLIVEIRA, Cássio Alves de.
+Plataforma experimental para análise do rendimento de mot ores de indução trifásicos por meio de ensaios específicos recomendados na norma técnica NBR17094 -3:2018 18 ForSci.
+IFMG, Formiga, v. 7, n. 2, e0063 3, jul./dez.
+Posteriormente, é necessário realizar a correção da perda suplementar para cada valor de carga imposta.
+Para isto, utiliza -se a Equação 10.
+(10) Onde : Perda suplementar corrigida.
+É o valor da corrente do rotor referente ao p onto da carga para o qual a perda suplementar é para ser determinada.
+É o valor da corrente do rotor correspondente à carga nominal.
+A corrente no rotor pode ser determinada através da Equação 11.
+(11) Onde : O valor da corrent e no estator.
+De posse de todas as perdas, pode -se determinar a potência de saída através da Equação 12.
+(12) A Tabela 14 resume todas as perdas calculadas, bem como a potência de saída, que será utilizada para o cálculo do rendimento.
+Tabela 14 - Perdas calculadas do motor de indução trifásico estudado (continua) Carga com relação a nominal Descrição 140% 125% 100% 75% 50% Perdas no núcleo (W) 95,25 95,246 95,246 95,246 95,246 Perdas no estator (W) 390,87 336,08 231,42 132,55 73,01 Potência através do entreferro (W) 3316,88 3010,67 2405,33 1575,20 684,74 Perdas no rotor (W) 242,03 191,03 107,99 42,79 8,22 Perdas por atrito e ventilação (W) 90 90 90 90 90 Fonte: Elaborada pelo autor .
+PINHEIRO, Vinícius Marcos; GOMES, Luciano Coutinho; OLIVEIRA, Cássio Alves de.
+Plataforma experimental para análise do rendimento de mot ores de indução trifásicos por meio de ensaios específicos recomendados na norma técnica NBR17094 -3:2018 19 ForSci.
+IFMG, Formiga, v. 7, n. 2, e0063 3, jul./dez.
+Tabela 14 - Perdas calculadas do motor de indução trifásico estudado (continuação) Carga com relação a nominal Descrição 140% 125% 100% 75% 50% Corrente do rotor (A) 10,49 9,59 7,58 6,61 2,27 Perdas suplementares (W) 84,51 70,75 44,19 19,09 3,97 Perdas totais (W) 836,71 693,10 568,86 379,68 270,45 Potência de saída (W) 2900,34 2658,89 2163,14 1423,32 582,55 Fonte: Elaborada pelo autor .
+Substituindo os respectivos valores na Equação 3, pode -se, finalmente, determinar o valor do rendimento para cada ponto de carga, cujo s valores estão apresentados na Tabela 15 .
+Tabela 15 - Determinação do rendimento para cada ponto de carga Carga com relação a nominal Descrição 140% 125% 100% 75% 50% Rendimento (%) 76,26 77,25 79,18 78,94 68,29 Fonte: Elaborada pelo autor 4 CONCLU SÃO É inegável que a preocupação com a questão da eficiência energética vem tomando grandes proporções nos últimos anos, desde a economia com energia elétrica, como a reutilização de equipamentos que, indiretamente, também contribui nesta ação.
+Sendo assi m, este trabalho veio com o objetivo de contribuir de forma significativa para análise da eficiência de um equipamento que é amplamente utilizado, principalmente, nas indústrias : o motor de indução trifásico.
+A construção de uma plataforma para a realizaçã o dos ensaios contribui expressivamente para a obtenção dos parâmetros do motor, dado que , na maioria dos casos de recondicionamento, estes podem ser alterados ou perdidos, por não haver, justamente, um meio para obtenção dos mesmos .
+Além disso, a platafor ma permite analisar o comportamento da máquina frente a diversos comportamentos de carga.
+Como resultados, foram obtidos no presente trabalho os parâmetros do circuito equivalente de um motor de indução trifásico de 3 cv, assim como o seu rendimento para diversos valores de carregamento.
+PINHEIRO, Vinícius Marcos; GOMES, Luciano Coutinho; OLIVEIRA, Cássio Alves de.
+Plataforma experimental para análise do rendimento de mot ores de indução trifásicos por meio de ensaios específicos recomendados na norma técnica NBR17094 -3:2018 20 ForSci.
+IFMG, Formiga, v. 7, n. 2, e0063 3, jul./dez.
+Os ensaios foram realizados de forma segura, sem causar dano ao motor analisado ou às pessoas envolvidas no trabalho.
+Todos os aspectos presentes na norma NBR17094 -3:2018 foram completamente seguidos a fim de obter resulta dos satisfatórios.
+EXPERIMENTAL PLATFORM FOR EFFICIENCY ANALYSIS OF THE THREEPHASE INDUCTION MOTORS THROUGH SPECIFIC TESTS RECOMMENDED IN THE TECHNICAL STANDARD NBR17094 -3:2018 ABSTRACT The main equipment used to perform mechanical movements are elect ric motors, since its majority are composed by three -phase induction motors.
+There is an undeniable growing concern about the energy saving, being this equipment the major consumers of electricity, especially in industries.
+Thus, this work presents an expe rimental platform , implemented to get the performance of the three -phase induction motors from the determination of equivalent circuit tests, thermal tests and specific tests to obtain the losses of the testing machine based on procedures in technical sta ndard NBR17094 -3: 2018 of the Brazilian Association of Technical Standards .
+In this context, the yield was obtained for several loads for a 3 cv engine from the load variation on its axle using a direct current machine.
+Such platform makes it possible to c heck the performance of older engines, engines undergoing the rewinding process or custom manufacturing engines.
+REFERÊNCIAS ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS.
+NBR170 94-3:2018: Máquinas elétricas girantes.
+Parte 3: Motores de indução trifásicos – Métodos de ensaio.
+CAMPANA, S aulo; OLIVEIRA FILHO, Delly; SOARES, Antônio Alves; OLIVEIRA, Rubens Alves de .
+Estudo comparativo de métodos para estimativ a do carregamento e rendimento de motores elétricos para auditoria energética.
+Revista Brasileira de Engenharia Agrícola e Ambiental , Campina Grande, v. 4, n. 2, p. 241 -246, 2000.
+Eficiência de transformadores de média tensão .
+97 f. Dissertação ( Mestrado em Engenharia Elétrica ) - Universidade Federal de Itajubá, Itajubá, 2005.
+CARDOSO, R afael Balbino; NOGUEIRA, Luiz Augusto Horta; BORTONI, Edson da Costa; HADDAD, Jamil; SOUZA, Edson Palhares de .
+Avaliação da economia de energ ia, atribuída a ações de etiquetagem energética, em motores de indução no Brasil.
+Revista Brasileira de Energia , São Paulo, v. 15, n. 1, p. 29 -47, 2009.
+PINHEIRO, Vinícius Marcos; GOMES, Luciano Coutinho; OLIVEIRA, Cássio Alves de.
+Plataforma experimental para análise do rendimento de mot ores de indução trifásicos por meio de ensaios específicos recomendados na norma técnica NBR17094 -3:2018 21 ForSci.
+IFMG, Formiga, v. 7, n. 2, e0063 3, jul./dez.
+DE ALMEIDA, A nibal T. Market transformation of energy -efficient motor technologies in the EU.
+Energy P olicy , Elsevier, v. 31, n. 6, p. 563 -575, 2003.
+Fundamentos de máquinas elétricas .
+Prentice -Hall do Brasil, 1994.
+Máquinas elétricas : com introdução a eletrônica de potência.
+Porto Alegre : Bookman , 200 6.
+Motores de indução trifásicos .
+Disponível em lpestana/maquinas%20el%C3%A9ctricas%202/aula s%20te%C3%B3ricas/Motores_inducao_tri.pdf .
+Impacto da lei de eficiência energética para motores elétricos no potencial de conservação de energia na indústria .
+(Mestrado em Planejamento Energético) - Universidade Federal do Rio de Janeiro , Rio de Janeiro, 2003.
+Energy -efficiency standards for electric motors in Brazilian industry.
+Energy Policy , Elsevier, v. 35, n. 6, p. 3424 -3439, 2007.
+Oportunidades em eficiência energética .
+Disponível em -em-eficie ncia-energetica.
+MME abre consulta pública sobre Motores Elétricos Trifásicos .
+Disponível em -noticas/ -/asset_publisher/32hLrOzMKwWb/content/mme -abre-consultapublica -sobre -eficiencia -de-motores -eletricos -trifasicos .
+VENERO, D anyde Moraes ; HIYODO, S érgio Akio.
+Gestão de reparo de motores elétricos com foco em confiabilidade e otimização de custos .
+23° Congresso Brasileiro de Manutenção, Santos, 2008.
+DADOS OS AUTORES Nome: Vinicius Marcos Pinheiro E-mail: viniciusmarcospinheiro@hotmail.com Currículo Lattes: Mestrando em Engenharia Elétrica e graduação em Engenharia Elétrica pela Uni versidade Federal de Uberlândia (UFU).
+Experiência na área de máquinas e létricas, acionamentos elétricos e controle e automação.
+Nome: Luciano Coutinho Gomes E-mail: lcgomes@ufu.br Currículo Lattes: PINHEIRO, Vinícius Marcos; GOMES, Luciano Coutinho; OLIVEIRA, Cássio Alves de.
+Plataforma experimental para análise do rendimento de mot ores de indução trifásicos por meio de ensaios específicos recomendados na norma técnica NBR17094 -3:2018 22 ForSci.
+IFMG, Formiga, v. 7, n. 2, e0063 3, jul./dez.
+Doutorado , mestrado e graduação em Engenharia Elétrica pela UFU.
+Atualmente é p rofessor da Faculdade de Engenharia Elétrica da UFU .
+Experiência na área de Acionamentos Elétricos, Processamento Digital de Sinais, Máquinas Elétricas e Controle e Automação Industrial.
+Nome: Cássio Alves de Oliveira E-mail: kass-07@hotmail.com Currículo Lattes: Doutorando e mestrado (linha de pesquisa: acionamentos de máquinas e létricas) em Enge nharia Elétrica pela UFU e graduação em Engenharia Elétrica com certificação em Engenharia de Sistemas de Energia Elétrica pela UFU.
+Experiência na área de Máquinas Elétricas, Acionamentos Elétricos e Controle e Automação.

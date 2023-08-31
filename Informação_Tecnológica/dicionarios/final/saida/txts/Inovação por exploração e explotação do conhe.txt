@@ -1,0 +1,452 @@
+, São Carlos, v. 25, n. 1, p. 1-15, 2018 ISSN 0104-530X (Print) ISSN 1806-9649 (Online) Abstract: In face of dynamic environment, such as the automotive sector, organizations are challenged to establish strategic flexibility through innovations, which require knowledge exploration and exploitation.
+Previous studies point out that the combination of knowledge exploration and exploitation is the ideal strategy for innovation since it will lead organizations to access new technologies and refine and improve the dominant technology through the exploitation of primary knowledge.
+Most studies on the subject focus their contributions on analyzing the impact of knowledge management initiatives and the knowledge exploration and exploitation on the company' s innovative and financial performance; however, few studies have investigated the organizational factors that sustain the knowledge exploration and exploitation.
+The research results show that the processes of exploration and exploitation are impacted differently by five contextual factors considered in this research (human resource management, collaborative leadership, learning culture, autonomy and information technology (IT) systems).
+While exploration is most impacted by a learning culture, autonomy and IT systems, exploitation is closer related to collaborative leadership and learning culture.
+Keywords: Knowledge exploration; Knowledge exploitation; Knowledge management; Innovation; Automotive industry.Resumo: Diante de ambiente dinâmico, como é o caso do setor automobilístico, alvo deste estudo, as organizações são desafiadas a estabelecer flexibilidade estratégica, conquistada por meio de inovações, que exigem a exploração e explotação do conhecimento.
+Estudos prévios apontam que a combinação de exploração e explotação do conhecimento é a estratégia ideal para inovação, pois a organização acessará novas tecnologias por meio da exploração de novos conhecimentos e refinará e aperfeiçoará a tecnologia dominante por meio da explotação do conhecimento primário.
+Grande parte dos estudos sobre o tema foca suas contribuições em analisar o impacto das iniciativas de gestão do conhecimento e da exploração e explotação do conhecimento sobre o desempenho inovativo e financeiro da firma; entretanto, percebem-se poucos estudos que investigam os fatores organizacionais que sustentam os processos de exploração e explotação do conhecimento.
+Os resultados da pesquisa mostram que os processos de exploração e explotação do conhecimento são impactados de forma distinta por cinco fatores contextuais, considerados nesta pesquisa: gestão de recursos humanos, liderança colaborativa, cultura de aprendizagem, autonomia e sistemas de tecnologia de informação (TI).
+Enquanto exploração é mais impactada por cultura de aprendizagem, autonomia e sistemas de TI, explotação está mais relacionada com liderança colaborativa e cultura de aprendizagem.
+Palavras-chave: Exploração do conhecimento; Explotação do conhecimento; Gestão do conhecimento; Inovação; Indústria automobilística.Inovação por exploração e explotação do conhecimento: um estudo empírico do setor automobilístico Innovation by knowledge exploration and exploitation: an empirical study of the automotive industry Rodrigo Valio Dominguez Gonzalez1 Tatiana Massaroli de Melo2 1 Faculdade de Ciências Aplicadas, Universidade Estadual de Campinas – UNICAMP, Rua Pedro Zaccaria, 1300, CEP 13484-350, Limeira, SP, Brasil, e-mail: rodrigo.gonzalez@fca.unicamp.br 2 Departamento de Economia, Universidade Estadual Paulista "Julio de Mesquita Filho" – UNESP, Rodovia Araraquara-Jaú Km 1, CEP 14800-901, Araraquara, SP, Brasil, e-mail: tmassaroli@fclar.unesp.br Recebido em Mar.
+7, 2017 Suporte financeiro: FAPESP (Processo número: 2013/02872-5) e CNPq (Processo número: 445205/2014-8).1 Introdução Estudos prévios apontam que o conhecimento é o principal recurso organizacional capaz de gerar vantagem competitiva por meio da inovação (Torugsa & O'Donohue, 2016; Grant, 1996).
+Neste contexto, a gestão do conhecimento (GC) tornou-se um dos modelos mais influentes na área de ciências gerenciais.
+Pesquisas recentes demonstram que a GC influencia o desempenho da firma à medida que provê 22/15 Gonzalez, R. V .
+, São Carlos, v. 25, n. 1, p. 1-15, 2018 um efetivo quadro para implementar estratégias de inovação (Moustaghfir & Schiuma, 2013; Lee et al., 2013; Lin, 2014).
+Um grande número de pesquisas tem como objetivo relacionar os processos genéricos de GC ‒ tais como criação, retenção, distribuição e utilização do conhecimento ‒ com a performance financeira ou inovativa da firma (Chen et al., 2010; Lee et al., 2013).
+Constata-se, na literatura, que pouca atenção tem sido dada quanto ao impacto dos fatores contextuais da organização que sustentam o processo de GC e a inovação da firma.
+Alguns estudos examinam a influência de um fator isoladamente em relação a GC e inovação, como ocorre em Martins & Meyer (2012) e Zangiski et al.
+(2013), focados na relação entre recursos humanos e GC; Corfield & Paton (2016) e Marouf (2016), que tratam a relação entre cultura organizacional e GC; Gonzalez et al.
+(2010) e Chen & Huang (2007), que focam suas contribuições na relação entre estrutura organizacional e GC, e ainda Kane & Alavi (2007), que relacionam sistemas de Tecnologia da Informação (TI) e GC.
+Entretanto, White & Cicmil (2016) alertam que é essencial tratar estes fatores simultaneamente, uma vez que um retrato isolado de apenas um dos fatores, isoladamente, pode levar a conclusões equivocadas.
+A literatura aborda os fatores relacionados à GC como "fatores contextuais da organização" (Gonzalez & Martins, 2014; Martins & Meyer, 2012; White & Cicmil, 2016) ou "fatores críticos para o sucesso da GC" (Lee & Choi, 2003; Gold et al., 2001; Lin, 2014).
+Neste estudo, é utilizada a primeira terminologia.
+Estes fatores estabelecem o comportamento organizacional, no que se refere aos valores e crenças que guiam os indivíduos, a integração e forma de organização dos funcionários em grupos, ao nível de capacitação dos funcionários e à postura assumida pela direção da empresa.
+Sem o empenho quanto ao desenvolvimento destes fatores, quaisquer iniciativas organizacionais voltadas para a GC acabam não resultando os benefícios esperados (Gonzalez & Martins, 2014).
+Tendo em vista que estes fatores são desenvolvidos internamente e de forma bastante distinta, e ainda que estes fatores influenciem de forma direta o processo de GC, pode-se afirmar que as organizações possuem, consequentemente, maneiras e capacidades distintas de inovação (Patterson & Ambrosini, 2015; Gonzalez et al., 2014; Chen et al., 2010; Torugsa & O'Donohue, 2016).
+Dessa forma, o objetivo principal deste artigo é analisar a relação entre os fatores contextuais que sustentam a GC e o tipo de inovação praticado por empresas do setor automobilístico, relacionado a exploração e explotação do conhecimento.
+A escolha deste setor pode ser justificada em dois sentidos.
+O primeiro refere-se à sua importância dentro da indústria brasileira.
+Segundo o IBGE (2015), este setor emprega 5,6% dos funcionários da indústria brasileira e é responsável por 19,8% do PIB industrial.
+Além disso, vale ressaltar que as empresas da indústria automobilística mobilizam conhecimento a fim alcançar, principalmente, inovações incrementais, focadas em melhorias de produtividade dos processos e adaptações dos produtos, e também em inovações radicais, voltadas à aplicação de novas tecnologias nos componentes dos produtos e processos (Gonzalez & Martins, 2014).
+2 Inovação a partir da exploração e explotação do conhecimento A inovação é crucial para que as empresas se adaptem a ambientes dinâmicos e criem uma flexibilidade estratégica.
+Estudos prévios classificam a inovação em explorativa ou explotativa, em função da proximidade com tecnologias, produtos, serviços e processos consolidados (Patterson & Ambrosini, 2015; March, 1991).
+Inovação exploratória é desenvolvida a fim de atender demandas emergentes dos clientes ou de novos mercados, promovendo a introdução de nova tecnologia em produtos, serviços e processos que ainda não são operacionalizáveis.
+Inovação exploratória requer novos conhecimentos e informações, o que requer uma base de conhecimento primário consolidado.
+A ausência de conhecimento primário restringirá o processo de aquisição de novo conhecimento, o que sustenta o processo de inovação por exploração (Grant, 1996).
+De outra forma, inovação explotativa é conduzida para satisfazer as necessidades de clientes e mercados atuais, expandindo os produtos e serviços existentes, e também refinando e melhorando o nível de eficiência dos processos.
+Em comparação com a inovação exploratória, a inovação explotatória baseia-se em conhecimentos e informações relacionados a conhecimento e habilidades primários.
+March (1991) enfatiza que os retornos associados à exploração são mais variáveis e de longo prazo, enquanto os retornos relacionados à explotação são mais precisos e de curto prazo.
+Em outras palavras, firmas que exploram novos conhecimentos geram grande variação de desempenho, enquanto o emprego da explotação leva a um desempenho mais estável.
+Levinthal & March (1993) e Ganzaroli et al.
+(2016) argumentam que é importante as organizações manterem um equilíbrio apropriado entre exploração e explotação, a fim de aumentar a competitividade.
+Holmqvist (2004) demonstra que exploração e explotação requerem estruturas, processos, estratégias, capacidade e cultura substancialmente diferentes.
+De forma geral, exploração é associada com uma estrutura do tipo orgânica, sistemas pouco rígidos, improvisação e autonomia.
+Explotação, de outra forma, é associada com estruturas mecânicas, sistemas 33/15 Inovação por exploração e explotação do conhecimento.
+mais rígidos, rotinização, controle e burocracia (Holmqvist, 2004).
+Crossan & Berdrow (2003) e March (1991) consideram que existe uma tensão entre exploração e explotação.
+Se, de um lado, adaptação ao ambiente pode promover uma inércia, além da redução da capacidade da firma em se adaptar para novas oportunidades, por outro lado, experimentar novas alternativas reduz a velocidade com que as competências existentes são melhoradas e refinadas (March, 1991).
+De acordo com Levinthal & March (1993), Ganzaroli et al.
+(2006), as organizações devem balancear as estratégias de exploração e explotação.
+Os autores argumentam que o foco excessivo em explotação resulta em uma "miopia" organizacional, dificultando a inovação e acarretando um processo de obsolescência.
+Da mesma forma, a exploração excessiva também é igualmente destrutiva, pois as organizações podem entrar num ciclo de falha-pesquisa-mudança-falha.
+Os autores argumentam que a partir das falhas, originam-se as pesquisas nas organizações, e estas sustentam as mudanças que, por sua vez, apresentarão novas falhas, iniciando um novo ciclo de pesquisa.
+Estas organizações sofrem pelo fato de nunca ganharem o retorno de seus conhecimentos adquiridos.
+Crossan & Berdrow (2003) consideram que existem importantes implicações em balancear a exploração com a explotação.
+De acordo com os autores, as organizações que gerenciam bem a aprendizagem são competentes em desenvolver ideias inovativas, bem como institucionalizar e resgatar a aprendizagem individual.
+Existe um efeito complementar entre as duas estratégias: a explotação promove a otimização estática e a exploração sustenta a otimização dinâmica.
+O sucesso de uma firma em competir em ambientes estáveis envolve a explotação das competências consolidadas, enquanto sobreviver em ambientes dinâmicos envolve a exploração de novas competências.
+Assim, as duas estratégias são indispensáveis para manter a vantagem competitiva e a combinação das mesmas está implícita em conceitos recentes que tratam das capacidades dinâmicas da organização (Eisenhardt & Martin, 2000).
+3 Fatores contextuais que sustentam a GC Recentes trabalhos nas áreas de economia e administração contribuem para o desenvolvimento da teoria da firma baseada no conhecimento, que coloca os processos de criação, retenção, distribuição e utilização do conhecimento como as razões existenciais primárias da firma (Grant, 1996).
+Esta teoria impõe que o conhecimento é o principal recurso estratégico e que, quando devidamente gerenciado, permite à firma criar valor cultural, intelectual, social e econômico (Zack et al., 2009).
+Neste contexto, reconhece-se que a firma é uma entidade que está continuamente transformando o seu conhecimento adquirido por meio de suas capacidades dinâmicas, nas perspectivas de exploração e explotação do conhecimento (Kogut & Zander, 1992).
+Do ponto de vista estratégico, Grant (1996) reconhece dois tipos de contribuições da GC.
+A primeira refere-se ao reconhecimento de dois tipos de conhecimento – tático e explícito – que exigem diferentes abordagens para seu gerenciamento.
+Enquanto o conhecimento explícito apresenta-se na forma codificada, o conhecimento tácito manifesta-se por meio de habilidades e competências intrínsecas às pessoas (Zack et al., 2009).
+A segunda contribuição diz respeito à forma como o conhecimento é renovado ou transformado.
+Grant (1996) propõe que as organizações podem transformar o conhecimento em um contínuo entre explotação, isto é, utilizar a mesma base de conhecimento primário com a finalidade de alcançar melhorias incrementais, e exploração, cujo objetivo é voltado a pesquisa, descoberta e experimentação, com o intuito de modificar o conhecimento primário adquirido (March, 1991).
+Estas duas contribuições enunciadas por Grant propõem que a GC deve ser abordada como um fenômeno técnico-social (Van Dijk et al., 2016; Lin, 2007).
+Neste contexto, as etapas do processo de GC estão condicionadas ao desenvolvimento organizacional, o qual está relacionado aos fatores contextuais da organização, sendo que os sistemas de TI apresentam-se como mecanismos de suporte, em especial, relacionados a tratamento, retenção e distribuição do conhecimento explícito por meio de aplicações integrativas, tais como repositórios de conhecimento (Zack, 1999); os sistemas de TI também permitem o intercâmbio de conhecimento tácito por meio de aplicações interativas, tais como fóruns de discussão (Zack, 1999).
+Analisando-se os fatores contextuais que sustentam a GC, a cultura organizacional é um componente frequentemente listado (Corfield & Paton, 2016; Marouf, 2016; Chen & Huang, 2007; Gonzalez & Martins, 2014; Lin, 2014).
+O êxito da GC depende da integração da estratégia e visão com uma cultura e estrutura organizacional que fomentem troca de conhecimento, experimentação, grau adequado de autonomia e suporte da liderança, e depende também da motivação e do desenvolvimento dos funcionários que retêm o conhecimento primário (Gold et al., 2001).
+Heisig (2009) identificou quatro categorias relacionadas aos fatores contextuais que apoiam a GC: fatores relacionados às pessoas, que incluem cultura de aprendizagem, desenvolvimento de recursos humanos e liderança; fatores relacionados à organização, relativos à estrutura organizacional; fatores relacionados aos processos gerenciais, no 44/15 Gonzalez, R. V .
+, São Carlos, v. 25, n. 1, p. 1-15, 2018 que se refere à estratégia organizacional, e fatores relacionados à tecnologia, que tratam dos sistemas de TI.
+Aprofundando-se na identificação destes fatores críticos, verificamos as propostas de alguns autores.
+(2003) destacam os fatores relacionados a estratégia organizacional, gestão dos recursos humanos (GRM) e TI.
+(1998) conduziram um estudo exploratório em 24 empresas e estabeleceram oito fatores críticos para a GC: performance econômica; linguagem clara; estrutura organizacional flexível; múltiplos canais para transferência do conhecimento; cultura "amigável"; infraestrutura técnica; práticas motivacionais, e suporte gerencial.
+Gonzalez & Martins (2014), a partir de um survey em empresas do setor automobilístico, identificaram oito fatores críticos: GRM, liderança proativa, cultura de aprendizagem, estrutura organizacional enxuta, trabalho em equipe, conhecimento primário, TI, melhoria incremental e estratégia inovativa.
+Lin (2014) divide os fatores contextuais que sustentam a GC em dois grupos.
+O primeiro, denominado de contexto tecnológico, inclui o suporte de sistemas de TI, e o segundo, denominado de contexto organizacional, é composto de suporte gerencial, cultura de aprendizagem e sistema de premiação.
+E, por fim, o APQC (2003) estabelece quatro fatores críticos à GC: liderança, cultura de aprendizagem, estratégia e tecnologia.
+Desta forma, resgatando a contribuição de Heisig (2009) e apoiando-se no levantamento dos fatores supracitados, este estudo considera os seguintes fatores contextuais que sustentam a GC: - Relacionados às pessoas: GRM e liderança colaborativa; - Relacionados à organização: cultura organizacional de aprendizagem e autonomia; - Relacionados à tecnologia: sistemas de TI.
+3.1 Gestão de recursos humanos As abordagens mais modernas relacionadas ao tratamento dos recursos humanos partem de premissas voltadas ao desenvolvimento da mão de obra, visando ao aprimoramento, constantemente, das competências (Zangiski et al., 2013).
+As iniciativas de GC dependem da disposição das pessoas em compartilhar seus conhecimentos e expertise (Quigley et al., 2007).
+Nenhuma organização pode gerar conhecimento sem pessoas habilitadas (Figueiredo et al., 2016).
+Os membros da organização constituem o elemento central do processo de GC, cabendo à organização criar mecanismos a fim de desenvolver e estimular este processo (Figueiredo et al., 2016).
+Neste contexto, a GRM depara-se com novos e complexos desafios.
+Uma GRM que sustenta a criação e utilização de conhecimento em direção à inovação não pode apresentar características tradicionais e eminentemente burocrática e mecanicista, mas deve ser orientada por funções (Dominguez, 2011; Bontis & Serenko, 2007).
+GRM é entendida, neste estudo, como o conjunto de políticas, sistemas e práticas que influenciam o comportamento, as atitudes e o desempenho dos membros dos times, a fim de aumentar suas capacidades de aprendizagem, criando uma cultura voltada à aprendizagem (Razouk et al., 2009).
+A visão contemporânea propõe que a GRM deve desempenhar funções que contribuam para uma maior flexibilidade e maior capacidade de adaptação organizacional.
+Estas considerações encaminham o primeiro conjunto de hipóteses: H1a.
+GRM é positivamente relacionada com inovação por exploração do conhecimento.
+GRM é positivamente relacionada com inovação por explotação do conhecimento.
+3.2 Liderança colaborativa A GC combina atividades tecnológicas e sociais por parte dos indivíduos que compõem a organização, que criam, armazenam, compartilham e utilizam conhecimento com intuito de alcançar inovação e melhoria de desempenho.
+A liderança, por sua vez, exerce um papel essencial de motivar, influenciar e orientar os indivíduos nessa direção.
+Politis (2001) analisou a relação entre autogerenciamento, liderança transacional e transformacional, e vários atributos da GC.
+Politis identificou que estes três estilos de liderança estão relacionados com o processo de aquisição de conhecimento, além de ressaltar a necessidade de os gestores promoverem o desenvolvimento de um ambiente organizacional voltado para a autonomia dos indivíduos e grupos.
+Os resultados da pesquisa de Politis apresentam-se alinhados com outros pesquisadores, como Donate & Guadamillas (2011), Analoui et al.
+(2012) e Crawford (2005), que ressaltam a necessidade de a liderança ser participativa e colaborativa, a fim de apoiar o processo criativo e inovador dentro da organização.
+O papel da liderança colaborativa é baseado em estimular os membros da firma a transferência e aplicação voluntária dos talentos individuais na direção da criação de novos conhecimentos que gerem vantagem competitiva (Donate & Guadamillas, 2011).
+Líderes devem, portanto, encorajar a experimentação e facilitar o compartilhamento de conhecimento por meio da concessão de autonomia, pela orientação e pela confiança.
+Lakshman (2007) sugere que a percepção do líder quanto à importância da GC precisa se manifestar ao longo de duas dimensões, uma interna e outra externa.
+Internamente, a compreensão do líder quanto à importância da GC é 55/15 Inovação por exploração e explotação do conhecimento.
+fundamental para o estabelecimento de procedimentos e inciativas tecnológicas, voltadas aos sistemas de TI, e sociocognitivas, que sustentem atividades de inovação e melhoria de desempenho.
+Esta discussão teórica direciona o segundo conjunto de hipóteses: H2a.
+Liderança colaborativa é positivamente relacionada com inovação por exploração do conhecimento.
+Liderança colaborativa é positivamente relacionada com inovação por explotação do conhecimento.
+3.3 Cultura de aprendizagem Embora a aprendizagem seja considerada crítica para o sucesso organizacional, há enormes desafios em termos de implementação de estratégias que promovam a aprendizagem, criatividade e inovação na cultura organizacional.
+As dificuldades encontradas neste processo destacam as mudanças necessárias na estrutura mental e cognitiva dos membros de uma organização (Donate & Guadamillas, 2011; Corfield & Paton, 2016).
+A cultura organizacional define padrões de comportamento, valores e crenças que ajudam a explicar por que diferentes iniciativas têm sucesso ou fracassam.
+A cultura influencia o comportamento, o sentimento e a forma de agir dos indivíduos (Mueller, 2012).
+A cultura colaborativa, por sua vez, propõe que os interesses do grupo e o bem coletivo tenham precedência sobre os interesses individuais (Zheng et al., 2010).
+Como consequência, é natural supor que nos ambientes cuja cultura é colaborativa, os indivíduos estão mais dispostos a compartilhar seus conhecimentos com os demais membros do time, intensificando o fluxo de conhecimento (Ma et al., 2014; Li, 2010).
+Esta discussão encaminha o terceiro conjunto de hipóteses: H3a.
+Cultura de aprendizagem é positivamente relacionada com inovação por exploração do conhecimento.
+Cultura de aprendizagem é positivamente relacionada com inovação por explotação do conhecimento.
+3.4 Autonomia Uma organização com estrutura altamente centralizada exige que os funcionários obedeçam a uma orientação proveniente de um canal específico (Ho et al., 2014).
+No entanto, este modelo estrutural retarda a tomada de decisão e restringe o fluxo interno de informações e conhecimento, suprimindo o processo criativo e a inovação (Lee & Choi, 2003).
+Ao contrário, uma estrutura organizacional descentralizada, que oferece autonomia aos funcionários, dispersa autoridade aos indivíduos e grupos, oferecendo oportunidades para promover a criação e o compartilhamento de ideias, sustentando a criação e a transformação do conhecimento (Lee & Choi, 2003).
+A autonomia pode ser definida, portanto, como a quantidade de interdependência, iniciativa e liberdade concedida aos funcionários para a execução e tomada de decisão referente ao trabalho diário (Chen & Huang, 2007).
+A autonomia dá ao funcionário liberdade individual para buscar soluções para os problemas ou auto-organizar redes de interação social para solucionar estes problemas ou mesmo planejar e implementar melhorias.
+A autonomia é a base da auto-organização e aumenta a probabilidade de os indivíduos se motivarem a aprender continuamente, por meio da criação de novos conhecimentos e competências (Chen et al., 2010; Gonzalez et al., 2014).
+Quando o grau de autonomia é elevado, os gestores não especificam metas, alocação de funcionários ou linhas de autoridade, e isto implica que o funcionário passa a se sentir mais responsável por seu trabalho e processo.
+Neste contexto, a organização aumenta a criação de novas ideias e conhecimento, num contexto mais inovativo (Chen et al., 2010; Ho et al., 2014).
+Esta discussão teórica dá origem ao quarto conjunto de hipóteses: H4a.
+Autonomia é positivamente relacionada com inovação por exploração do conhecimento.
+Autonomia é positivamente relacionada com inovação por explotação do conhecimento.
+3.5 Sistemas de TI Um dos principais desafios no campo da GC reside em analisar a contribuição dos sistemas e ferramentas de TI em relação a performance e atividade inovativa da firma.
+Estudos prévios apontam que a TI, isoladamente, é incapaz de trazer vantagem competitiva e que seu uso efetivo dentro do contexto organizacional depende da sua associação com o desenvolvimento de outros fatores, em especial, aqueles citados previamente no presente estudo (Xue et al., 2011; Donate & Guadamillas, 2011; Mohamed et al., 2006).
+Em relação à intensificação do fluxo de informação e conhecimento através da organização, cabe ressaltar o papel dos sistemas de TI.
+As organizações, divididas em departamentos, unidades e filiais, dependem de sistema de TI que armazenem, formalizem e distribuam o conhecimento explícito para os indivíduos (Xue et al., 2011).
+Assim, esta pesquisa entende que os sistemas de TI são facilitadores do processo de GC, cabendo aos indivíduos a ação propriamente dita, a fim de que 66/15 Gonzalez, R. V .
+, São Carlos, v. 25, n. 1, p. 1-15, 2018 este conhecimento armazenado e distribuído retorne valor para a organização.
+Bansler & Havn (2004) destacam que ferramentas, como Data Warehouse e Data Mining , aceleram o processo de aprendizagem, apoiam a autonomia das pessoas, viabilizam o trabalho em equipe, bem como o acesso a informações e ao conhecimento organizacional.
+Portanto, este tipo de ferramenta é capaz de armazenar as melhores práticas organizacionais (Gonzalez & Martins, 2014) e processar múltiplas combinações de análises.
+Outras ferramentas, como a internet , a intranet , os groupwares , as videoconferências, entre outras, elevam as oportunidades de as pessoas se encontrarem e desenvolverem novos conhecimentos, rompendo os tradicionais impedimentos gerados pelas 'barreiras' departamentais, decorrentes da estrutura organizacional (Mohamed et al., 2006).
+Bansler & Havn (2004) apontam que o sucesso quanto à aplicação destas tecnologias depende da ampliação do repositório de conhecimento e do aprimoramento das competências individuais, pois a ampliação da base de conhecimento da organização só é viabilizada por meio da capacitação das pessoas.
+Além disto, uma ampla abertura da base de conhecimento da empresa depende de pessoas capacitadas a interpretar este conhecimento, bem como aplicá-lo em situações que retornem aumento de desempenho.
+Gonzalez & Martins (2014) e Xue et al.
+(2011) complementam este quadro explicando que cabe, aos profissionais especialistas, saber analisar, selecionar e definir quais informações são úteis e prioritárias; caso contrário, a base de conhecimento torna-se um aglomerado de dados e informações sem grade valor à organização.
+Esta discussão teórica direciona o quinto conjunto de hipóteses: H5a.
+Sistemas de TI são positivamente relacionados com inovação por exploração do conhecimento.
+Sistemas de TI são positivamente relacionados com inovação por explotação do conhecimento.
+A Figura 1 sintetiza o modelo tratado empiricamente na próxima seção.
+O Anexo A identifica 18 itens de medidas, desdobradas a partir dos fatores contextuais, denominadas de variáveis exógenas ou independentes, e seis itens de medida, desdobradas a partir da prática da inovação por exploração e explotação do conhecimento, denominadas de variáveis endógenas ou dependentes.
+4 Método de pesquisa 4.1 Coleta de dados Este estudo utiliza a coleta de dados primários a fim de realizar uma análise empírica, que permita classificar as empresas do setor automobilístico quanto à prática da GC e suas implicações em relação à inovação, a partir da explotação e exploração do conhecimento.
+O questionário de pesquisa é constituído de duas partes.
+A primeira trata de questões que caracterizam a empresa e o funcionário, e a segunda parte refere-se aos fatores contextuais tratados nesta pesquisa, conforme Anexo A. Inicialmente, um estudo-piloto foi conduzido com 12 profissionais, graduados nas áreas de administração e engenharia, que atuam em empresas do setor metal mecânico.
+Eles responderam o questionário inicial e proveram comentários a partir de uma reunião individual, via skype, com o pesquisador.
+A partir do feedback desta etapa, o questionário foi reestruturado, a fim de melhorar seu entendimento e sua sequência lógica, sendo que quatro questões foram reescritas, uma questão foi retirada e outras duas questões foram adicionadas.
+O estudo foi conduzido na indústria automobilística do Brasil.
+Um total de 250 questionários foi enviado via e-mail para funcionários de nível gerencial e direção das áreas de produção, qualidade, recursos humanos e projetos de empresas cadastradas no Sindicato Nacional da Indústria de Componentes para Veículos Automotores (SINDIPEÇAS), durante o período de setembro de 2016 a dezembro de 2016.
+Juntamente com o questionário, foi enviada uma carta-convite, na qual o pesquisador elucida os interesses e a importância da pesquisa.
+Um total de 82 questionários (32,80%) retornou, dos quais quatro foram excluídos por problemas de preenchimento.
+Desta forma, a pesquisa abrangeu um total de 78 questionários válidos, representando uma taxa de Figura 1.
+Modelo de pesquisa.77/15 Inovação por exploração e explotação do conhecimento.
+Cada empresa foi representada por um único respondente, com as características de nível hierárquico e cargo supracitadas.
+4.2 Medidas As variáveis ‒ ou itens de medidas ‒ dos fatores contextuais pesquisados (Anexo A) são medidas a partir de uma escala Likert de seis pontos, na qual '1' significa "nunca praticado ou total discordância" e '6' significa "sempre praticado ou total concordância".
+A medida α de Cronbach é utilizada para estimar a confiabilidade dos itens de medida.
+Conforme mostrado a seguir, todos os itens apresentaram um aceitável nível de confiabilidade, pois α excedeu o valor de 0,70 (Hair et al., 2013).
+O desenvolvimento dos itens de medida foi baseado nos seguintes estudos: - GRM (α = 0,873): itens de medida adaptados do trabalho de Figueiredo et al.
+(2016); Bontis & Serenko (2007); - Liderança colaborativa (α = 0,841): itens de medida adaptados do trabalho de Donate & Guadamillas (2011); - Cultura de aprendizagem (α = 0,885): itens de medida adaptados do trabalho de Ma et al.
+(2014); - Autonomia (α = 0,770): itens de medida adaptados do trabalho de Lee & Choi (2003); - Sistemas de TI (α = 0,793): itens de medida adaptados do trabalho de Xue et al.
+(2011); - Práticas de exploração do conhecimento (α = 0,766): itens de medidas adaptados do trabalho de Donate & Guadamillas (2011); - Práticas de explotação do conhecimento (α = 0,812): itens de medidas adaptados do trabalho de Donate & Guadamillas (2011).
+4.3 Análise de dados Na literatura, a modelagem de equação estrutural baseada no modelo LISREL é bastante conhecida e disseminada.
+Entretanto, este procedimento é pouco adequado para tratar amostras menores, como é o caso desta pesquisa (Hair et al., 2013).
+A fim de evitar algumas limitações exibidas pelo modelo LISREL, uma alternativa é a técnica de modelagem causal, baseada nos mínimos quadrados parciais (PLS).
+Em contraste ao modelo LISREL, a área de gestão, incluindo estudos na área de aprendizagem organizacional, capital intelectual e gestão do conhecimento, apresenta aderência e bons resultados a partir da técnica PLS (Hair et al., 2013).
+(2013), o processo de definição do modelo se inicia a partir de um referencial teórico sobre o tema.
+Em seguida, devem ser consideradas três avaliações relevantes à aplicação da técnica PLS no contexto de pesquisa gerencial: avaliação das medidas de confiabilidade e validade convergente e discriminante; determinação da relação entre os itens de medida (variáveis) e constructos, e, por fim, interpretação dos coeficientes de caminho e adequação geral do modelo.
+Inicialmente, foi analisada a confiabilidade e validade convergente e discriminante dos fatores por meio da análise fatorial confirmatória (AFC).
+Os valores de confiabilidade de constructo (CR) maior que 0,70 e o α de Cronbach superior a 0,70 indicam que os constructos apresentam níveis aceitáveis de confiabilidade.
+O CR superior a 0,70 e as cargas fatoriais dos itens de medida com valores acima de 0,50 em relação a seu respectivo fator apontam para a existência de validade convergente (Hair et al., 2013).
+A validade discriminante é verificada por meio da média variância extraída (A VE).
+Quando os valores de A VE dos fatores são maiores que 0,50, a validade discriminante é aceita (Hair et al., 2013).
+Além disso, a validade discriminante também é verificada por meio da matriz que mostra raiz quadrada da A VE e as correlações entre os fatores.
+Quando a raiz quadrada da A VE de um determinado fator é superior às demais correlações, verifica-se a validade discriminante (Hair et al., 2013).
+SmartPLS versão 3.0 foi utilizado para avaliar as medidas e o modelo estrutural desta pesquisa.
+5 Resultados 5.1 Caracterização das empresas e dos entrevistados pesquisados A primeira análise realizada visa compreender a demografia das empresas pesquisadas.
+Todas as empresas consideradas pela pesquisa são de médio ou grande porte, sendo que a grande maioria possui entre 500 e 5.000 funcionários (46%), 41% das empresas possuem entre 100 e 500 funcionários e 13% das empresas possuem mais que 5.000 funcionários.
+No que diz respeito à origem de capital, 61,54% das empresas pesquisadas possuem capital nacional, e 38,46% destas são multinacionais.
+Quanto à posição dentro da cadeia de suprimentos do setor automobilístico, a pesquisa abrangeu 7,70% de montadoras, 33,33% de fornecedores estratégicos ‒ isto é, que atuam diretamente no processo de desenvolvimento de produtos da montadora ‒ e 58,97% de fornecedores não estratégicos, que atuam apenas no fornecimento de peças e componentes, e não atuam diretamente 88/15 Gonzalez, R. V .
+, São Carlos, v. 25, n. 1, p. 1-15, 2018 junto às montadoras no processo de desenvolvimento de produtos.
+Em relação ao tempo de atuação das empresas no mercado automobilístico, o estudo considerou empresas com pelo menos cinco anos no mercado.
+Os dados apontam que a maior concentração foi de empresas com tempo de atuação entre 10 e 20 anos (33%) e com mais de 40 anos no mercado (32%).
+O número de empresas com tempo entre 5 e 10 anos foi pequeno, cerca de 7,7%.
+O estudo de fatores contextuais da organização exige que o entrevistado possua uma visão mais aprofundada do contexto organizacional.
+Assim, foram considerados os níveis hierárquicos de direção, gerência e supervisão, cargos estes que possuem poder de decisão.
+Os dados coletados apontam que a maioria dos respondentes é de nível gerencial (53%), 25% são supervisores e 22% são diretores das funções consideradas pela pesquisa.
+5.2 Validade convergente e discriminante Para avaliar a confiabilidade dos fatores, este estudo utiliza as medidas alpha (α) de Cronbach e confiabilidade de constructo (CR).
+Todos os valores de α de Cronbach foram aceitáveis, isto é, superiores a 0,70, conforme indicado na seção anterior.
+Os valores de CR e carga fatorial são mostrados na Tabela 1.
+Os valores de CR dos constructos são maiores que 0,70, indicando existir validade convergente e confiabilidade dos constructos, isto é, as variáveis que constituem os constructos apresentam variância comum.
+Além disso, as cargas fatoriais dos itens sobre seus constructos são maiores que 0,60 e os valores de A VE são maiores que 0,50.
+Os valores da média da variância extraída (A VE) dos constructos apontam para a existência de validade discriminante, isto é, os constructos são distintos entre si.
+Na Tabela 2, os valores 'fora da diagonal' correspondem às correlações entre os constructos, sendo que a diagonal refere-se à raiz quadrada dos valores de A VE de cada constructo.
+Nota-se que os valores da raiz quadrada dos A VEs para cada constructo são maiores que a correlação com os outros constructos, indicando existir validade discriminante.
+5.3 Modelo estrutural O índice de adequação geral do modelo (GoF) e a medida R2 das variáveis endógenas (dependentes) são medidas que validam o modelo PLS, avaliando a consistência da escala de medidas e do modelo estrutural.
+O GoF é utilizado para determinar o poder de previsão global do modelo, considerando os parâmetros da escala de medidas e da estrutura (Hair et al., 2013).
+O GoF encontrado para o modelo Tabela 1.
+Confiabilidade e validade convergente.
+Fator ItemCarga fatorialCR AV E GRMGRM1 0,811 0,818 0,733GRM2 0,735 GRM3 0,793 GRM4 0,856 GRM5 0,837 Liderança colaborativaLC1 0,745 0,765 0,708 LC2 0,780 LC3 0,733 Cultura de aprendizagemCA1 0,818 0,823 0,756CA2 0,844 CA3 0,863 CA4 0,771 AutonomiaAut1 0,749 0,750 0,680 Aut2 0,784 Aut3 0,832 Sistemas de TITI1 0,820 0,783 0,688 TI2 0,754 TI3 0,776 Práticas de exploração do conhecimentoExpl1 0,766 0,771 0,673 Expl2 0,815 Expl3 0,785 Práticas de explotação do conhecimentoExpt1 0,728 0,738 0,615 Expt2 0,765 Expt3 0,79299/15 Inovação por exploração e explotação do conhecimento.
+deste estudo é de 0,38, excedendo o valor de corte de 0,290 para efeitos grandes de R2 sugerido por Hair et al.
+(2013), apontando excelente poder explanatório do modelo.
+Os coeficientes de caminho no modelo PLS são similares aos coeficientes β da análise de regressão (Hair et al., 2013).
+A Figura 2 e a Tabela 3 apresentam os resultados do modelo estrutural.
+Os valores R2 foram de 0,387 e 0,425 para inovação por exploração do conhecimento e inovação por explotação do conhecimento, respectivamente, sugerindo que 38,7% da variância da inovação por exploração do conhecimento e 42,5% da variância da inovação por explotação do conhecimento podem ser explicadas pelos cinco fatores contextuais incluídos no estudo.
+6 Discussão O presente estudo analisou a seguinte questão: Como os fatores contextuais da organização se relacionam com a inovação a partir da exploração e explotação do conhecimento?
+O modelo de pesquisa baseia-se nos três construtos relacionados ao contexto organizacional, também denominados de fatores críticos para o sucesso da GC: pessoas, organização e TI (Gonzalez & Martins, 2014; Gold et al., 2001).
+A pesquisa atingiu um total de 78 empresas do setor automobilístico e o modelo explica 38,7% e 42,5% da variância da inovação por exploração e explotação do conhecimento, respectivamente.
+Esta pesquisa fornece novas evidências de que GRM, liderança, cultura, autonomia e sistemas de TI apresentam influência sobre os processos de inovação, a partir da exploração ou explotação do conhecimento.
+Em linha com estudos anteriores, este artigo acrescenta mais evidências de que as condições organizacionais relativas aos fatores supracitados interferem na inovação organizacional (Ho, 2009; Figura 2.
+Nota: * p < 0,05; ** p < 0,01; *** p < 0,001.
+Fator GRM LC CA Aut TI Expl Expt GRM 0.856 LC 0,165 0,841 CA 0,183 0,318 0,869 Aut 0,156 0,336 0,246 0,846 TI 0,121 0,084 0,127 0,075 0,829 Expl 0,188 0,144 0,180 0,263 0,147 0,820 Expt 0,175 0,163 0,193 0,215 0,249 0,331 0,784 Nota: Os elementos das células da diagonal referem-se à raiz quadrada da A VE.
+Avaliação do modelo estrutural.
+Caminho Coeficiente de caminho t-value Resultado H1a: GRM →Exploração 0,161* 1,592 Aceita H1b: GRM → Explotação 0,255** 3,586 Aceita H2a: Liderança colaborativa →Exploração 0,123 1,269 Rejeitada H2b: Liderança colaborativa → Explotação 0,233** 3,331 Aceita H3a: Cultura de aprendizagem →Exploração 0,358*** 5,363 Aceita H3b: Cultura de aprendizagem → Explotação 0,305*** 4,011 Aceita H4a: Autonomia →Exploração 0,321*** 4,380 Aceita H4b: Autonomia → Explotação 0,093 1,391 Rejeitada H5a: TI →Exploração 0,388*** 16,011 Aceita H5b: TI → Explotação 0,166* 1,648 Aceita Nota: * p < 0,05; ** p < 0,01; *** p < 0,001.1010/15 Gonzalez, R. V .
+, São Carlos, v. 25, n. 1, p. 1-15, 2018 Miller et al., 2007; Donate & Guadamillas, 2011).
+Entretanto, poucos estudos avaliam a relação entre estas condições organizacionais e os processos de exploração e explotação do conhecimento.
+Outra contribuição que esta pesquisa oferece é o mapeamento de clusters quanto ao desenvolvimento destes fatores contextuais.
+Este estudo parte de trabalhos prévios que constatam que as práticas de exploração e explotação do conhecimento são orientadas por valores organizacionais centrados na gestão e no desenvolvimento de recursos humanos (Figueiredo et al., 2016; Zangiski et al., 2013; Bontis & Serenko, 2007), nas práticas de liderança colaborativa (Analoui et al., 2012; Politis, 2001), na cultura de aprendizagem (Donate & Guadamillas, 2011; Ma et al., 2014), na autonomia (Lee & Choi, 2003; Ho et al., 2014) e nos sistemas de TI (Bansler & Havn, 2004; Xue et al., 2011).
+Outros estudos também afirmam que os fatores organizacionais são elementos essenciais para facilitar a implementação das estratégias de GC (Zack et al., 2009; Gonzalez & Martins, 2014; Donate & Guadamillas, 2011).
+Outro pressuposto importante deste trabalho refere-se aos resultados das pesquisas de Gupta et al.
+(1999), Levinthal & March (1993) e March (1991), que conceituam a inovação organizacional como uma mistura dos processos exploração e explotação do conhecimento.
+March (1991) considera que a explotação consiste no refinamento e na extensão das competências, dos paradigmas e das tecnologias existentes na organização, e Gupta et al.
+(2006) avançam esta discussão posicionando que tanto a exploração quanto a explotação do conhecimento constituem processos de inovação e que a diferença entre ambos os processos consiste na amplitude ou no tipo de inovação.
+Em relação aos fatores incluídos no modelo estrutural, verifica-se que a cultura de aprendizagem é o fator com maior impacto em relação aos processos de exploração e explotação do conhecimento (β = 0,358 e β = 0,305, respectivamente).
+Conforme trabalhos prévios sugerem, uma cultura organizacional com valores voltados à aprendizagem e ao compartilhamento de conhecimento pode ser considerada como um dos principais catalisadores dos processos de inovação, a partir da exploração e explotação de conhecimento (Gold et al., 2001).
+A cultura organizacional que sustenta a GC tem como característica um estado de confiança mútua e identificação dos indivíduos em relação aos grupos de trabalho e à própria organização, sustentando o fluxo e, consequentemente, a transformação de conhecimento.
+Estes resultados também se apresentam em linha com Corfield & Paton (2016) e Lin (2014), que constatam que a presença de pressupostos de uma cultura de aprendizagem elimina focos de resistência à mudança e da própria implementação de iniciativas de GC.
+A cultura voltada à aprendizagem, portanto, cria um ambiente que estimula a proposição e o compartilhamento de ideias, o que alavanca novas oportunidades de inovação.
+Com exceção ao fator cultura de aprendizagem, os demais fatores apresentaram maiores diferenças quanto aos níveis de significância ou aceitação do teste de hipótese, quando comparados os processos de exploração e explotação de conhecimento.
+A GRM foi significativa e positivamente relacionada aos processos de exploração e explotação (β = 0,161 e β = 0,255, respectivamente).
+Este resultado aponta que as práticas de GRM estão mais positivamente relacionadas à explotação do conhecimento do que à exploração.
+Este resultado pode ser explicado pelo fato de que, para uma organização alcançar maior nível de inovação, atrelado à exploração de conhecimento, esta precisa desenvolver outras práticas de GRM diferentes daquelas usadas em relação à explotação, tais como treinamento e desenvolvimento de métodos de resolução de problemas, e incentivo e premiação por trabalhos em grupos, visando a melhorias incrementais.
+A exploração do conhecimento é mais dependente de ações de GRM voltadas ao intercâmbio de funcionários entre unidades internas e externas à organização (Bontis & Serenko, 2007), formação de comunidades de práticas (Zárraga & Bonache, 2005) e treinamentos que capacitem os funcionários em novas tecnologias (Lefebvre et al., 2016).
+A hipótese H2, que verificou o impacto da liderança colaborativa sobre os processos de exploração e explotação, foi aceita apenas para a explotação do conhecimento (β = 0,233) e, de forma distinta, a hipótese H3, que avaliou a relação entre autonomia e os processos de exploração e explotação de conhecimento, foi aceita apenas para a exploração (β = 0,321).
+Estes resultados preenchem lacunas de estudos prévios que avaliam o impacto de liderança e autonomia sobre inovação, GC ou utilização do conhecimento, sem distinguir os impactos isolados sobre os processos de exploração e explotação de conhecimento.
+(2011) apontam que os líderes assumem um papel essencial no estabelecimento de condições e infraestrutura organizacional que aumentam e facilitam o fluxo de conhecimento e a GC.
+Os líderes também são responsáveis por implementar práticas de GRM, voltadas a retenção e disseminação das lições aprendidas e melhores práticas (Bollinger & Smith, 2001).
+(1998) também destacam o papel da liderança no desenvolvimento de uma cultura que estimule o compartilhamento de conhecimento entre os funcionários.
+As contribuições destes três estudos, voltadas para retenção e disseminação das lições aprendidas, estímulo ao fluxo de conhecimento entre os funcionários e desenvolvimento de infraestrutura para a GC, apontam que as práticas de liderança colaborativa apoiam efetivamente o processo de explotação de conhecimento, uma vez que estas práticas enunciadas são voltadas ao refinamento e à melhoria da mesma base de conhecimento primário, 1111/15 Inovação por exploração e explotação do conhecimento.
+enquanto a exploração exige ações voltadas a pesquisa, descoberta e desenvolvimento de novos conhecimentos (March, 1991).
+Estas considerações vêm ao encontro do resultado verificado quanto à autonomia.
+Uma vez que a exploração exige a ruptura de paradigmas e pesquisa de novas tecnologias, a autonomia para os funcionários implementarem e desenvolverem novos conhecimentos torna-se essencial no processo de exploração de conhecimento.
+De forma distinta, a explotação da mesma base de conhecimento primário não requer um alto nível de autonomia, pois as mudanças nos processos e produtos não são radicais.
+Por fim, o modelo estrutural aponta que tanto a exploração do conhecimento (β = 0,388) quanto a explotação (β = 0,166) foram significativa e positivamente relacionadas com a utilização de sistemas TI.
+A utilização efetiva de sistemas de TI apoia o processo de retenção e codificação do conhecimento explícito, facilitando sua difusão e explotação.
+Os sistemas de TI ainda permitem que indivíduos de diferentes áreas funcionais e unidades organizacionais estejam integrados e conectados, facilitando a troca de conhecimento e informações.
+Além disso, os sistemas de TI também sustentam a exploração do conhecimento por meio da formação de comunidades de prática, que conectam indivíduos de diferentes áreas da organização com centros de pesquisas, universidades, fornecedores e clientes (Zárraga & Bonache, 2005).
+Desta forma, verifica-se que a utilização de TI atua como um facilitador nos processos de formalização, que se relaciona positivamente com a explotação do conhecimento e também com a integração funcional e integração entre times e áreas funcionais, e que possui impacto mais significante em relação à exploração do conhecimento.
+7 Conclusão Este estudo apresenta evidências empíricas do impacto de cinco fatores contextuais da organização (GRM, liderança colaborativa, cultura de aprendizagem, autonomia e sistemas de TI) em relação à prática de inovação por exploração e explotação de conhecimento.
+Os resultados do modelo estrutural apontam que a exploração do conhecimento é mais impactada pela utilização de sistemas de TI, autonomia e cultura de aprendizagem.
+A explotação do conhecimento, por sua vez, está mais relacionada com cultura de aprendizagem e liderança colaborativa.
+GRM apresentou níveis de impacto intermediários em relação a ambos os processos.
+Destaca-se ainda que a liderança colaborativa não apresenta influência sobre a exploração de conhecimento e a autonomia não tem impacto sobre a explotação de conhecimento.
+Embora este estudo apresente resultados satisfatórios, é possível identificar algumas limitações, as quais precisam ser avaliadas em trabalhos futuros.
+Em primeiro lugar, embora uma parcela substancial da variância relativa a exploração e explotação do conhecimento possa ser explicada pelo modelo, o poder explanatório pode ser melhorado.
+Outras variáveis, em especial do âmbito organizacional, como estilo de liderança, suporte gerencial, clima organizacional e premiação, podem ser incluídas no modelo.
+Em segundo lugar, embora o instrumento de pesquisa tenha sofrido um teste-piloto, o método de coleta de dados pode gerar erros, uma vez que se faz uso de entrevistas sem a presença do pesquisador.
+Em terceiro lugar, nosso modelo conceitual não leva em conta a especificidade, a complexidade e as características das empresas.
+Para superar esta limitação, pesquisas futuras podem levar em consideração características organizacionais, como porte, tipo de capital, localização, etc.
+Em quarto lugar, utilizar a indústria automobilística como objeto de estudo pode limitar a generalização dos resultados para outros contextos.
+É necessário um estudo mais aprofundado para avaliar até que ponto os resultados deste estudo são aplicáveis em diversas indústrias.
+Referências American Productivity & Quality Center – APQC.
+Knowledge management: executive summary.
+Consortium benchmarking study best-practice report .
+Recuperado em 10 de outubro de 2016, de www.
+apqc.org Analoui, B. D., Doloriert, C. H., & Sambrook, S. (2012).
+Leadership and knowledge management in UK ICT organisations.
+Journal of Management Development , 32(1), 4-17.
+Bansler, J. P., & Havn, E. (2004).
+Exploring the role of network effects in IT implementation: the case of knowledge repositories.
+Information Technology & People , 17(3), 268-285.
+Bollinger, A. S., & Smith, R. D. (2001).
+Managing organizational knowledge as a strategic asset.
+Journal of Knowledge Management , 5(1), 8-18. org/10.1108/13673270110384365 .
+The moderating role of human capital management practices on employee capabilities.
+Journal of Knowledge Management , 11(3), 31-51.
+Chen, C. J., & Huang, J. W. (2007).
+How organizational climate and structure affect knowledge management: the social interaction perspective.
+International Journal of Information Management , 27(2), 104-118. http:// dx.doi.org/10.1016/j.ijinfomgt.2006.11.001 .
+Chen, C. J., Huang, J.-W., & Hsiao, Y .-C. (2010).
+Knowledge management and innovativeness: the role of organizational climate and structure.
+International Journal of Manpower , 31(8), 48-70. org/10.1108/01437721011088548 .
+Chourides, P., Longbottom, D., & Murphy, W. (2003).
+Excellence in knowledge management: an empirical study to identify critical factors and performance measures.
+, São Carlos, v. 25, n. 1, p. 1-15, 2018 Measuring Business Excellence , 7(2), 29-45. http:// dx.doi.org/10.1108/13683040310477977 .
+Corfield, A., & Paton, R. (2016).
+Investigating knowledge management: can KM really change organisational culture?
+Journal of Knowledge Management , 20(1), 88-103.
+Effects of transformational leadership and organizational position on knowledge management.
+Journal of Knowledge Management , 9(6), 6-16.
+Organizational learning and strategic renewal.
+Strategic Management Journal , 24(11), 1087-1105.
+Crossan, M., Lane, H. W., & White, R. E. (1999).
+An organizational learning framework: from intuition to institution.
+Academy of Management Review , 24, 522-537.
+Davenport, T. H., De Long, D. W., & Beers, M. C. (1998).
+Successful knowledge management projects.
+Sloan Management Review , 39(2), 43-57.
+The impact of human resource disclosure on corporate image.
+Journal of Human Resource Costing & Accounting , 15(4), 279-298. http:// dx.doi.org/10.1108/14013381111197225 .
+Donate, M. J., & Guadamillas, F. (2011).
+Organizational factors to support knowledge management and innovation.
+Journal of Knowledge Management , 15(6), 890-914.
+Eisenhardt, K. M., & Martin, J.
+Dynamic capabilities: what are they?
+Strategic Management Journal , 21(10), 1105-1121.
+Figueiredo, E., Pais, L., Monteiro, S., & Mónico, L. (2016).
+Human resource management impact on knowledge management: Evidence from the Portuguese banking sector.
+Journal of Service Theory and Practice , 26(4), 497-528.
+Ganzaroli, A., Noni, I., Orsi, L., & Belussi, F. (2016).
+The combined effect of technological relatedness and knowledge utilization on explorative and exploitative invention performance post-M & A. European Journal of Innovation Management , 19(2), 167-188. http:// dx.doi.org/10.1108/EJIM-08-2014-0092 .
+Gold, A. H., Malhotra, A., & Segars, A. H. (2001).
+Knowledge management: an organizational capabilities perspective.
+Journal of Management Information Systems , 18(1), 184-214.
+Mapping the organizational factors that support knowledge management in the Brazilian automotive industry.
+Journal of Knowledge Management , 18(1), 611-630.
+D., Martins, M. F., & Toledo, J. C. (2014).
+Managing knowledge in a service provider: a network structure-based model.
+Journal of Knowledge Management , 18(3), 611-630.
+Toward a knowledge-based theory of the firm.
+Strategic Management Journal , 17(S2), 109-122.
+Gupta, A. K., Smith, K. G., & Shalley, C. E. (2006).
+The interplay between exploration and exploitation.
+Academy of Management Journal , 49(4), 693-706. org/10.5465/AMJ.2006.22083026 .
+Hair, J. F., Hult, G. T. M., Ringle, C., & Sarstedt, M. (2013).
+A primer on partial least squares structural equation modeling (PLS-SEM) .
+Harmonisation of knowledge management: comparing 160 KM frameworks around the globe.
+Journal of Knowledge Management , 13(4), 4-31. http:// dx.doi.org/10.1108/13673270910971798 .
+Ho, C. F., Hsieh, P. H., & Hung, W. H. (2014).
+Enablers and processes for effective knowledge management.
+Industrial Management & Data Systems , 114(5), 734754.
+The relationship between knowledge management enablers and performance.
+Industrial Management & Data Systems , 109(1), 98-117. http:// dx.doi.org/10.1108/02635570910926618 .
+Experiential learning processes of exploration and exploitation within and between organizations: an empirical study of product development.
+Organization Science , 15(1), 70-81. org/10.1287/orsc.1030.0056 .
+Instituto Brasileira de Geografia e Estatística – IBGE.
+Recuperado em 24 de março de 2017, de economicas/industria/9042-pesquisa-industrial-anual.
+html?&t=resultados Kane, G. C., & Alavi, M. (2007).
+Information technology and organizational learning: an investigation of exploration and explotation process.
+Organization Science , 18(5), 796-812.
+Knowledge of the firm, combinative capabilities and replication of technology.
+Organization Science , 3(3), 383-397. org/10.1287/orsc.3.3.383 .
+Organizational knowledge leadership: a grounded theory approach.
+Leadership and Organization Development Journal , 28(1), 51-75. org/10.1108/01437730710718245 .
+Knowledge management enablers, processes, and organizational performance: an integrative view and empirical examination.
+Journal of Management Information Systems , 20(1), 179-228.
+Lee, P. K. C., To, W. M., & Yu, B. T. W. (2013).
+Team attributes and performance of operational service teams: An empirical taxonomy development.
+International Journal of Production Economics , 142(1), 51-60. http:// dx.doi.org/10.1016/j.ijpe.2012.05.005 .
+M., Sorenson, D., Henchion, M., & Gellynck, X.
+Social capital and knowledge sharing 1313/15 Inovação por exploração e explotação do conhecimento.
+performance of learning networks.
+International Journal of Information Management , 36(4), 570-579. http:// dx.doi.org/10.1016/j.ijinfomgt.2015.11.008 .
+Levinthal, D. A., & March, J. G. (1993).
+Strategic Management Journal , 14(S2), 95112.
+Virtual knowledge sharing in a cross-cultural context.
+Journal of Knowledge Management , 14(1), 38-50.
+A stage model of knowledge management: an empirical investigation of process and effectiveness.
+Journal of Information Science , 33(6), 643-659. http:// dx.doi.org/10.1177/0165551506076395 .
+Contextual factors affecting knowledge management diffusion in SMEs.
+Industrial Management & Data Systems , 114(9), 1415-1437. org/10.1108/IMDS-08-2014-0232 .
+Ma, Z., Huang, Y ., Wu, J., Dong, W., & Qi, L. (2014).
+What matters for knowledge sharing in collectivistic cultures?
+Journal of Knowledge Management , 18(5), 1004-1019. http:// dx.doi.org/10.1108/JKM-06-2014-0252 .
+Exploration and exploitation in organizational learning.
+Organization Science , 20(1), 71-87.
+The role of knowledge sharing culture in business performance.
+VINE Journal of Information and Knowledge Management Systems , 46(2), 154-174.
+Martins, E. C., & Meyer, H. W. J.
+Organizational and behavioral factors that influence knowledge retention.
+Journal of Knowledge Management , 16(1), 77-96.
+Miller, B., Bierly, P., & Daly, P. (2007).
+The knowledge strategy orientation scale: individual perceptions of firm-level phenomena.
+Journal of Managerial Issues , 19(3), 414-435.
+Mohamed, M., Stankosky, M., & Murray, A.
+Knowledge management and information technology: can they work in perfect harmony?
+Journal of Knowledge Management , 10(3), 103-116. org/10.1108/13673270610670885 .
+Moustaghfir, K., & Schiuma, G. (2013).
+Knowledge, learning, and innovation: research and perspectives.
+Journal of Knowledge Management , 17(4), 495-510.
+Knowledge sharing between project teams and its cultural antecedents.
+Journal of Knowledge Management , 16(3), 435-447. org/10.1108/13673271211238751 .
+Patterson, W., & Ambrosini, V .
+Configuring absorptive capacity as a key process for research intensive firms.
+Technovation , 36-37, 77-89. technovation.2014.10.003 .
+The relationship of various leadership styles to knowledge management.
+Leadership and Organization Development Journal , 22(8), 354-364.
+Quigley, N. R., Tesluk, P. E., Locke, E. A., & Bartol, K. M. (2007).
+A multilevel investigation of the motivational mechanisms underlying knowledge sharing and performance.
+Organization Science , 18(1), 71-88. http:// dx.doi.org/10.1287/orsc.1060.0223 .
+Razouk, A., Bayad, M., & Wannenmacher, D. (2009).
+Strategic HRM and tacit knowledge transfer: a case study.
+Human Systems Management , 28(1/2), 77-82.
+Torugsa, N. A., & O'Donohue, W. (2016).
+Progress in innovation and knowledge management research: From incremental to transformative innovation.
+Journal of Business Research , 69(5), 1610-1614. org/10.1016/j.jbusres.2015.10.026 .
+Van Dijk, A., Hendriks, P., & Romo-Leroux, I.
+Knowledge sharing and social capital in globally distributed execution.
+Journal of Knowledge Management , 20(2), 327-343.
+V on Krogh, G., Nonaka, I., & Rechsteiner, L. (2011).
+Leadership in organizational knowledge creation.
+Journal of Knowledge Management Studies , 49(1), 240-277. org/10.1111/j.1467-6486.2010.00978.x .
+White, G. R. T., & Cicmil, S. (2016).
+Knowledge acquisition through process mapping: Factors affecting the performance of work-based activity.
+International Journal of Productivity and Performance Management , 65(3), 302-323.
+Xue, Y ., Bradley, J., & Liang, H. (2011).
+Team climate, empowering leadership, and knowledge sharing.
+Journal of Knowledge Management , 15(2), 299-312. http:// dx.doi.org/10.1108/13673271111119709 .
+Developing a knowledge strategy'.
+California Management Review , 41(3), 125-145. http:// dx.doi.org/10.2307/41166000 .
+Zack, M., McKeen, J., & Singh, S. (2009).
+Knowledge management and organizational performance: an exploratory survey.
+Journal of Knowledge Management , 13(6), 392409.
+Zangiski, M. A. S. G., Lima, E. P., & Costa, S. E. G. (2013).
+Organizational competence building and development: Contributions to operations management.
+International Journal of Production Economics , 144(1), 76-89. http:// dx.doi.org/10.1016/j.ijpe.2013.01.021 .
+The impact of team atmosphere on knowledge outcomes in self-managed teams.
+Organization Studies , 26(5), 661-681. http:// dx.doi.org/10.1177/0170840605051820 .
+Zheng, W., Yang, B., & McLean, G. N. (2010).
+Linking organizational culture, structure, strategy and organizational effectiveness: mediating role of knowledge management.
+Journal of Business Research , 63(7), 763-771. http:// dx.doi.org/10.1016/j.jbusres.2009.06.005 .
+, São Carlos, v. 25, n. 1, p. 1-15, 2018 Anexo A. Itens de medida.
+Gestão de recursos humanos (GRM) GRM1.
+O processo de seleção da empresa leva em conta o alinhamento entre as habilidades e conhecimentos do funcionário e as competências centrais da empresa.
+Existe um processo estruturado e sistemático para avaliação das competências dos funcionários.
+A empresa oferece treinamentos aos funcionários a fim de solucionar as deficiências verificadas na avaliação dos funcionários.
+A empresa oferece possibilidade de ascensão profissional, baseada no desempenho dos funcionários.
+Os funcionários são premiados e reconhecidos pelos resultados alcançados.
+Liderança Colaborativa (LC) LC1.
+A liderança cria um ambiente que favorece o trabalho em equipe.
+Os gerentes assumem o papel de líderes do conhecimento, orientandos seus subordinados em relação às melhores práticas que promovam o atingimentos de metas e objetivos.
+Os gerentes se comportam como conselheiros e os mecanismos de controle funcionam como avaliação quanto à realização dos objetivos e metas.
+Cultura de aprendizagem (CA) CA1.
+Os funcionários compartilham ideias, conhecimentos e habilidades relacionados aos processos que atuam.
+Durante atividades em grupo, os funcionários são encorajados a compartilharem experiências e lições aprendidas.
+Os funcionários são encorajados a explorarem novas oportunidades.
+A empresa compreende os erros cometidos pelos funcionários em atividades de melhoria como parte do processo de aprendizagem.
+Os funcionários dos grupos de trabalho têm a capacidade de se auto gerenciarem, isto é, capacidade de auto-organização.
+Os funcionários tem o poder para tomar decisões relacionadas ao trabalho diário, resolução de problemas e iniciativas de melhoria.
+Os funcionários participam do processo de planejamento e definição de metas e objetivos referentes ao seu processo de atuação.
+Os sistemas de TI facilitam os processos de retenção e distribuição do conhecimento adquirido.
+Quando uma melhoria é planejada por um time, os indivíduos buscam informações nos sistemas informacionais.
+Os funcionários utilizam sistemas de TI a fim de se comunicarem com outros indivíduos de dentro e fora da organização a fim de compartilharem conhecimentos e ideias.1515/15 Inovação por exploração e explotação do conhecimento.
+Práticas de exploração do conhecimento (Expt) Expt1.
+Os funcionários utilizam seus conhecimentos e habilidades em atividades de melhoria incremental e resolução de problemas.
+Os funcionários utilizam seus conhecimentos e habilidades a fim de resolver problemas dos processos.
+A empresa apresenta programa de ideias e sugestões dos funcionários para promover melhorias incrementais nos processos.
+Práticas de explotação do conhecimento (Expl) Expl1.
+A empresa tem facilidade em acessar novas tecnologias por meio, por exemplo, de parcerias com outras empresas, universidades, consultorias, etc.
+A empresa investe na pesquisa e desenvolvimento de novas tecnologias para melhorar ou desenvolver produtos/processos.
+A empresa tem facilidade em introduzir novas tecnologias em seus processos ou produtos sem apresentar grande resistência à mudança.Anexo A. Continuação.

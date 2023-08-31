@@ -1,0 +1,701 @@
+Research, Society and Development, v. 1 1, n. 5, e21711528070 , 202 2 (CC BY 4 .0) | ISSN 2525 -3409 | DOI: -v11i5.28070 1 Bases conceituais que suportam a relação entre Conhecimento e Patente Conceptual basis that support the relationship between Knowledge and Patent Bases conceptuales que sustentan la relación entre Conocimiento y Patente Recebido: 14/03/2022 | Revisado: 21/03/2022 | Aceito: 28/03/2022 | Publicado: 04/04/2022 Franklin Menezes da Silva ORCID: -0001 -7824 -9015 Universidade Nove de Julho , Brasil E-mail: franklin193doutorado@ gmail.com Priscila Rezende da Costa ORCID: -0002 -7012 -0679 Universidade Nove de Julho , Brasil E-mail: priscilarezende@yahoo.com.br Resumo O interesse sobre pesquisas relacionadas a conhecimento e patentes, vem crescendo no meio acadêmico e ge rencial.
+Em busca de contribuir com a literatura, este estudo utiliza a análise bibliométrica, com uma amostra de 797 artigos que relacionam conhecimento e patentes, extraídos da base de dados Web of Science.
+Neste estudo, o objetivo é explorar as bases co nceituais sobre a relação entre conhecimento e patente e responder à seguinte questão: quais são as bases conceituais que suportam a relação entre conhecimento e patentes?
+Sobre as principais descobertas, destacamos a hegemonia dos E stados Unidos nos estud os relacionados ao tema, a evolução da China nos últimos anos nesse sentido, além dos avanços da Itália, com número expressivo de estudos na terceira posição.
+Outro ponto relevante foi a identificação do aumento na produção de artigo s sobre conhecimento em mais de 70% nos últimos oito anos (2013 -2020).
+Em relação aos principais temas encontrados na análise de fatores, aponta -se destaque para: aprendizagem e redes organizacionais; inovação e proximidade geográfica; e patente e spillove rs de conhecimento.
+Ao final, foram atingidos os objetivos do estudo, com destaque para a estruturação de análise de patentes ao longo do tempo e a tendência de estudos sobre proximidade geográfica e spillovers de conhecimento, ao se analisarem conheciment o e patente.
+Outros ach ados importantes desta pesquisa são: a mostra das principais revistas, autores, número de citações e cocitações, evolução da pesquisa no tempo, além de indicações sobre estudos futuros.
+Palavras -chave: Inovação; Patente; Conheciment o; Pesquisa bibliométri ca; Proximidade geográfica .
+Abstract Interest in research related to knowledge and patentes has been growing in the academic and managerial environment.
+In order to contribute to the literature, this study uses bibliometric analys is, with a sample of 79 7 articles that relate knowledge and patents, extracted from the Web of Science database.
+In this study, the objective is to explore the conceptual bases on the relationship between knowledge and patents and answer the following ques tion: what are the conc eptual bases that support the relationship between knowledge and patents?
+Regarding the main findings, we highlight the hegemony of the United States in studies related to the topic, the evolution of China in recent years in this reg ard, in addition to the advances of Italy, with a significant number of studies in the third position.
+Another relevant point was the identification of an increase in the production of articles on knowledge by more than 70% in the last eight years (2013 -2020).
+Regarding the main themes found in the analysis of factors, emphasis is given to: learning and organizational networks; innovation and geographic proximity; and patent and knowledge spillovers.
+In the end, the objectives of the study were achieved, wi th emphasis on the stru cturing of patent analysis over time and the trend of studies on geographic proximity and knowledge spillovers, when analyzing knowledge and patent.
+Other important findings of this research are: the sample of the main journals, auth ors, number of citation s and co -citations, evolution of the research over time, in addition to indications about future studies.
+Keywords: Innovation; Patent; Knowledge; Bibliometric research ; Geographic proximity .
+Resumen El interés por la investigaci ón relacionada com el c onocimiento y las patentes há ido creciendo em el entorno académico y empresarial.
+Con el fin de contribuir a la literatura, este estudio utiliza el análisis bibliométrico, con una muestra de 797 artículos que relacionan conocimiento s y patentes, extraídos de la base de datos Web of Science.
+En este estudio, el objetivo es explorar las bases conceptuales sobre la relación entre conocimiento y patentes y responder a la siguiente pregunta: ¿cuáles son las bases conceptuales que sustenta n la relación entre con ocimiento y patentes?
+En cuanto a los principales hallazgos, destacamos la hegemonía de Estados Unidos en los estudios relacionados con el tema, la evolución de China en los últimos años al respecto, además de los avances de Italia, con un importante númer o de estudios en la tercera posición.
+Otro punto relevante fue la identificación de un aumento en la producción Research, Society and Development, v. 1 1, n. 5, e21711528070 , 202 2 (CC BY 4 .0) | ISSN 2525 -3409 | DOI: -v11i5.28070 2 de artículos sobre conocimiento en más del 70% en los últimos ocho años (2013 -2020).
+En cuanto a los principales temas en contrados en el análisi s de factores, se da énfasis a: aprendizaje y redes organizacionales; innovación y proximidad geográfica; y los efectos indirectos de patentes y conocimientos.
+Al final, se lograron los objetivos del estudio, con énfasis en la estruc turación del análisis d e patentes en el tiempo y la tendencia de los estudios sobre proximidad geográfica y derrames de conocimiento, al analizar conocimiento y patente.
+Otros hallazgos importantes de esta investigación son: la muestra de las principales r evistas, autores, númer o de citas y cocitaciones, evolución de la investigación en el tiempo, además de indicaciones sobre estudios futuros.
+Palabras clave: Innovación; Patente; Conocimiento; Investigación bibliométrica ; Proximidad geográfica .
+Introdu ção O estoque de conhe cimento existente em empresas é importante para o sucesso da inovação.
+Para que uma inovação seja bem -sucedida na visão empresarial, torna -se necessário o conhecimento tecnológico, estratégico e de mercado.
+O conhecimento tecnológico pode ser desenvolvido por meio de investimento em P&D, que, por sua vez, é importante para o desenvolvimento de patentes (Roper & Dundas, 2015; Lee, 2010; Liu et al., 2021).
+Vários estudos relacionam conhecimento com patentes, como, por exemplo: 1) as red es interpessoais ajudam a explicar dois padrões amplamente documentados de difusão de conhecimento (Singh, 2005); 2) o padrão de fluxos de conhecimento, conforme indicado por citações de patentes entre regiões europeias (Maurseth & Verspagen, 2002); 3) aná lise de spillovers de conhecimento nas redes da cadeia de suprimentos, para verificar se a inovação do fornecedor é afetada pela inovação do comprador, por meio de dados de patentes (Isaksson et al., 2016); e 4) recombinação de elementos do conhecimento para desenvolver uma med ida de inovação com uso de patentes de energia alternativa dos Estados Unidos (Guan & Yan, 2016).
+Estes estudos mostram diversas correntes teóricas, evidenciando a necessidade de pesquisas bibliométricas para a sistemat ização das principais bases conceitua is que suportam a relação entre conhecimento e patente.
+Sendo assim, o Estudo tem como objetivo explorar as bases conceituais sobre a relação entre conhecimento e patente, por meio do estudo bibliométrico na base de da dos Web of Science , usando a expressã o de busca: (((TS= (("knowledge* flow*" OR "knowledge -based view" OR "knowledge -based vision" OR "absorptive capacity") AND patent)))) .
+Buscou -se, especificamente, responder às seguintes questões: quais teorias suportam a relação entre conhecimento e paten tes?
+Quais as produções mais citadas?
+Quais os fatores convergentes das bases conceituais mapeadas?
+Qual a visão de rede para cada fator convergente identificado?
+O resultado do estudo ge rou contribuições científicas sobre o tema conhecimento e patente, entre os anos de 1996 a 2020, com uso de análise bibliométrica, mais especificamente de citação e cocitação.
+A amostra final abrangeu 797 artigos científicos, retirados da base de dados Web of Science , que apresentou um panora ma dos estudos desenvolvidos pela comunidade de pesquisadores sobre o assunto.
+Nas análises, foram identificados os autores mais relevantes, produções com maior impacto e as mais citadas, os países com maior destaque na produção acadêmica, as linhas de pes quisas centrais e como elas estão entrelaçadas.
+Os principais temas estudados são aprendizagem organizacional, transferência de conhecimento e spillovers de conhecimento, com base em de lentes teóricas, como capacidade absortiva, capacidade dinâmica, visã o baseada em conhecimento e inovação.
+Os dados de patentes na maioria dos estudos foram utilizados como base para as pesquisas, para confirmar ou refutar as teorias escolhidas.
+A influência das organizações de desenvolv imento tecnológico dos Estados Unidos , Europa e China são predominantes, o que mostra alinhamento com outros campos da administração.
+Vale ressaltar que estudos bibliométricos que relacionam conhecimento e patentes, especificamente, não foram mapeados na l iteratura.
+Este estudo contribui ao a presentar os dados sistematizados das bases conceituais sobre a relação entre conhecimento e patente nos últimos 25 anos (1996 -2020), considerando os autores mais citados e as revistas mais relevantes, dentre outras mét ricas bibliométricas.
+O ineditismo da pesquisa está na apresentação de bases conceituais (lentes teóricas), Research, Society and Development, v. 1 1, n. 5, e21711528070 , 202 2 (CC BY 4 .0) | ISSN 2525 -3409 | DOI: -v11i5.28070 3 geradas por meio da relação entre as temáticas conhecimento e patente.
+O estudo destaca -se ao apresentar os clusters relacionados aos fatores (1) ap rendizagem e redes organizacionais; ( 2) inovação e proximidade geográfica; e (3) patente e spillovers de conhecimento, que surgiram após a análise fatorial e a análise lexical.
+Os resultados ainda podem contribuir com direcionamentos para estudos futuros, com abertura de caminhos potencialmen te promissores sobre conhecimento e patente.
+Referencial Teórico Na academia, conhecimento e patentes podem ser concebidos como recursos (Barney, 1991; Barney, 2001; Pérez‐Nordtvedt et al., 2007).
+Sendo assim, são apresentadas, a seguir, as bases teóricas sobre Visão Baseada em Recursos e Visão Baseada em Conhecimento.
+Ao definir visão baseada em re cursos, Barney (1991) afirma que há a nece ssidade de verificar se o recurso tem valor e se é raro, além de não poder ser imitável e nem substituído por outro.
+Com essas características, o recurso torna -se estratégico para a empresa.
+A vantagem competitiva de uma empresa, bem como sua sustentação, são dependentes da capacidade da empresa em combinar recursos (Barney, 1991; Barney, 2001; Zhou et al., 2020).
+A visão baseada em recursos defende o aproveitamento dos recursos organizacionais, com base na s falhas do mercado, para obtenção de lucros cresc entes, o que eleva esta prática ao conceito de vantagem competitiva (Barney, 1991; Vermeulen, & Barkema, 2001).
+A exploração de recursos existentes nas empresas, bem como a busca por novos recursos, sejam t angíveis ou intangíveis, dão base para sustentar a visão baseada em recursos.
+Os recursos têm impacto no desempenho das empresas, já que o conjunto deles pode criar valor para a empresa (Barney, 1991; Wernerfelt, 2013; Wang et al., 2018).
+As críticas também recaem sobre a visão baseada em recursos, pois a visão circular do conceito tem limitações.
+Existe insuficiência em discernir quais recursos estratégicos são responsáveis pela vantagem sustentável.
+Outra limitação da visão baseada em recurso s, é o contexto que engloba a transferência do conhecimento ent re empresas (Priem & Butler, 2001; Pérez‐Nordtvedt et al., 2008).
+O conhecimento é um recurso intangível e estratégico da empresa, mas também é crítico, seja na obtenção de vantagem competitiva ou no desenvolvimento de capacidades da empresa.
+Como um recur so estratégico da empresa, o conhecimento pode definir o potencial com que esta pode gerar riquezas (Pérez‐Nordtvedt et al., 2008; Felin & Hesterly, 2007).
+Nesse processo de geração de conhecimento, a intensidade (Pigola, da Costa, Carvalho, Porto & de Paul o, 2022) e a variedade de fontes de conhecimento são necessárias para a inovação, o que permite a cooperação entre empresas para melhores resultados (Keller, 2001).
+Segundo Bengtsson e Sölvell (2004), a cooperação entre atores é importante, principalmente para a inovação.
+Em setores específicos, como o da biotecnologia, a cooperação para a inovação é fundamental, além de ser uma base para lidar com conheciment o complexo, em busca de novas descobertas científicas do setor (Pittaway et al., 2004).
+Outro exemp lo de cooperatividade científica é o segmento da Bioinformática, que consiste na combinação de matemática e ciência da informação, com o bjetivo de resolver problemas da área da biologia (Zhang & Liu, 2013).
+Tal segmento teve que trabalhar ainda mais de man eira cooperativa para lidar com a pandemia da COVID -19, iniciada em 2020 (Cantelli et al., 2021).
+A pandemia da COVID -19 estimulou o cr escimento das pesquisas no mundo (Bezerra et al., 2021).
+O trabalho realizado pelo Instituto Europeu de Bioinformática ( EBI), que fornece dados e serviços de Bioinformática gratuitamente para a comunidade científica, no combate à crise de saúde mundial pro vocada pela COVID -19, foi um exemplo de cooperação internacional.
+Entre os recursos fornecidos pelo EBI, está o uso de s ua infraestrutura, experiência e rede de colaborações internacionais para contribuir na construção da Plataforma Europeia de Dados Covid -19, que reuniu mais de 170.000 dados biomoleculares da doença em 2020 e vem se conectando com pesquisadores, médicos e profissionais de saúde pública do mundo.
+A pandemia da doença destacou a importância dos princípios básicos do EBI, que inclui cooperaçã o internacional, Research, Society and Development, v. 1 1, n. 5, e21711528070 , 202 2 (CC BY 4 .0) | ISSN 2525 -3409 | DOI: -v11i5.28070 4 corretagem central de dados e compartilhamento de recursos.
+Essas iniciativas vem fortalecendo a cooper ação científica internacional (Cantelli et al., 2021).
+Recursos como estes podem ser observados na visão baseada em recursos, que tem a vantagem competitiva relacionada às assimetrias do conhecimento presentes nas empresas.
+A lite ratura atual mostra uma evolução no interesse de pesquisadores, ao relacionar visão baseada em recursos e patentes.
+O estudo de Plank e Doblinger (2018), em que são analisados os efeitos do financiamento público de P&D como recurso financeiro para o desem penho de P&D da empresa, vincula a visão baseada em recursos com as pesquisas existentes sobre inovações em empresas, co m obtenção de percepções empíricas sobre a importância dos recursos financeiros, físicos e intangíveis.
+A análise é realizada em 206 pro jetos de P&D, aproximadamente 3.900 patentes e 1.448 empresas.
+O resultado do estudo mostra o efeito positivo do financi amento público em P&D para valores monetários absolutos, mas não se encontrou efeito significativo sobre a qualidade de patentes medida pelo número de citações.
+Ainda, a base de conhecimento de tecnologia de uma empresa tem efeito positivo sobre a quantida de de patentes, mas o efeito de idade da empresa é negativo.
+A visão baseada em recursos é utilizada também como lente teórica por Arroy abe (2021), para mostrar a importância da expiração de patentes na decisão de aquisição de produtos na indústria farmacê utica dos Estados Unidos.
+As patentes são direitos legais que protegem o conhecimento gerado e exclui outros de "invenções proprietárias ".
+No estudo, há destaque para a proteção que as patentes fornecem aos concorrentes de produtos, por meio de um controle mais eficaz sobre a oferta de produtos diferenciados.
+Os resultados mostraram que a expiração de uma patente é fator para desencadear a decisão de empresas para novas aquisições em curto prazo e, assim, preencher lacunas deixadas pela expiração de patente s e manter o fluxo de receitas.
+Os resultados mostram, também, que as empresas com bases de pesquisa mais fortes têm maior capacidade de gerar inovações, o que reduz a dependência externa.
+A visão baseada em recurso também serve como base para a visão bas eada em conhecimento, já que fornece uma base teórica estruturada tanto para a aprendizagem organizacional quanto para interessados em c apital intelectual (Curado & Bontis, 2006).
+A visão baseada em conhecimento está concentrada no dinamismo do mercado, al ém de enfatizar a transferência e integração de conhecimento no movimento da economia global.
+O conhecimento está no topo da hierarquia de recursos estratégicos da empresa, pois é um recurso que garante a vantagem competitiva da organização, por ser de dif ícil imitação (Kiessling et al., 2009; Foss & Pedersen, 2002).
+Alguns pesquisadores utilizam a Visão Baseada em Conhecimento (VBC) para entender os processos estratégicos empresariais, por meio do conhecimento, como, por exemplo, a entrada em negócios internacionais (Dikova & Van Witteloostuijn, 2007).
+O valor do conhecimento da empresa é alicerçado em sua própria capacidade, já que é dete rminante para configurar seus recursos e resultados financeiros.
+O conhecimento norteia o crescimento da empresa, pois o postula como principal recurso para criar valor, heterogeneidade e vantagem competitiva, conforme a visão baseada em conhecimento (Barn ey, 1991; Felin & Hesterly, 2007; Zhou et al., 2018).
+Alguns estudos recentes mostram como a literatura sobre vi são baseada em conhecimento e patentes vem se desenvolvendo.
+(2020), são realizados testes empíricos para um modelo de mecanismos, com duas formas de aquisição de conhecimento externo, co -criação de clientes e tercei rização de parceiros, para promover a criação de conhecimento e inovação, com base na lente teórica da visão baseada em conhecimento.
+O teste foi realizado em 655 organizações de setores considerados intensivos em conhecimento (financeiro e tecnologia da i nformação) e o resultado do estudo mostra que o modelo explica 65% da variação na criação do conhecimento.
+Também afirma que organizações com maior grau de cr iação de conhecimento serão mais propensas a inovar por meio de novas patentes.
+Guo, Jin e Li (201 9) utilizaram uma amostra de 171 clusters da indústria chinesa, entre 2011 a 2015, com o objetivo de estabelecer uma estrutura teórica coerente, para concilia r os resultados mistos sobre a relação entre a aglomeração espacial e Research, Society and Development, v. 1 1, n. 5, e21711528070 , 202 2 (CC BY 4 .0) | ISSN 2525 -3409 | DOI: -v11i5.28070 5 desempenho de patenteamento em nível de cluster.
+O argumento para o uso da visão baseada no conhecimento volta -se para a interação de dois mecanismos subjacentes, exploração do espalhame nto do conhecimento e proteção do conhecimento, que levará essa relação em forma de U. O efeito de moderação da complexidade tecnológica nesta relação em forma de U também é proposto, sendo que o resultado apresenta que, em nível de cluster, a complexidade tecnológica modera negativamente a relação em forma de U. Isto aumenta os custos e reduz as oport unidades de exploração de transbordamento de conhecimento (spillovers ), além de diminuir as oportunidades e o incentivo à proteção do conhecimento.
+As capacid ades são responsáveis por contribuir com a vantagem competitiva da empresa, além de configurar seu s recursos.
+A capacidade de explorar um conhecimento externo novo está diretamente ligada à maneira como a organização utiliza o seu conhecimento interno.
+A c apacidade de absorção também está ligada ao tempo de exploração do conhecimento interno, sendo que , quanto mais tempo é explorado, maior será a absorção (March, 1991; Zhou et al., 2018).
+A capacidade absorção é a capacidade de uma firma valorizar, assimila r e aplicar o conhecimento novo, que é formado por quatro capacidades de conhecimento (dim ensões).
+Por meio dessas capacidades, as firmas produzem a capacidade dinâmica (Cohen & Levinthal, 1990; Zahra & George, 2002).
+As redes organizacionais favorecem o d esenvolvimento de conhecimentos, que podem ser compartilhados entre os componentes das red es, com impacto na inovação e desempenho das organizações (Marchiori & Franco, 2020).
+Segundo Cohen e Levinthal (1990), a habilidade de a firma reconhecer o conhecim ento externo novo, assimilar e aplicar para fins comerciais é chamada de capacidade absort iva.
+A exploração do conhecimento no ambiente externo pode resultar em inovações e diferencial competitivo.
+A ideia principal da capacidade absortiva está na necessid ade de acúmulo de conhecimento interno existente das organizações, para aumentar a absorçã o de conhecimento externo novo.
+Ou seja, o desempenho da aprendizagem é maior quando o objeto da aprendizagem já é conhecido pela organização (Cohen & Levinthal, 1990 ; Zahra & George, 2002; Jansen et al., 2005; Lane et al., 2006).
+Os estudos sobre capacidade absortiva evoluem.
+Então, após 12 anos do conceito seminal de Cohen e Levinthal (1990), Zahra e George (2002) acrescentaram dois componentes no processo da capacid ade absortiva (potencial e realizada), fato que culminou em i númeras pesquisas e contribuiu para o desenvolvimento da teoria.
+Este acontecimento ficou evidenciado em pesquisa no Google Scholar, que apontou que, no ano de 2002, havia 21 trabalhos sobre o te ma.
+Atualmente, há mais de 2500 trabalhos registrados relacio nados à capacidade absortiva.
+Inúmeras revisões bibliográficas foram realizadas para mostrar o estado da arte em relação à capacidade absortiva (Lane et al., 2006; Volberda et al., 2010).
+Perspe ctivas teóricas, abordagens relacionadas ao construto capacidade absortiva e linhas de pesquisas foram identificadas ao longo dos anos (Lane et al., 2006; Volberda et al., 2010).
+Também, é possível estabelecer que argumentos teóricos em relação ao regime d e apropriabilidade, mecanismos de integração social e experiências passadas são tidos como moderadores na relação entre capacidade absortiva e inovação (Lau & Lo, 2015).
+Inúmeros instrumentos de pesquisa estatística foram validados para mediar a capacidad e absortiva.
+(2005), é v alidada uma escala para verificar o nível de gerenciamento da capacidade absortiva potencial e da realizada, no nível organizacional.
+No estudo de Camisón e Forés (2010), foram validadas duas escalas par a medir a capacidade absortiva (potencial e realizada ).
+Já Flatten et al., (2011) desenvolveram e validaram uma medida multidimensional da capacidade absortiva em empresas alemãs.
+A capacidade absortiva também atuou como variável mediadora da adaptação or ganizacional para assimilar novos conhecimentos nos estudos de Van den Bosch et al., (1999).
+Nesse estudo, os autores acrescentaram duas determinantes organizacionais que influenciam o nível da capacidade absortiva: formas de organização e capacidade combi nativa (Van den Bosch e t al., 1999).
+Research, Society and Development, v. 1 1, n. 5, e21711528070 , 202 2 (CC BY 4 .0) | ISSN 2525 -3409 | DOI: -v11i5.28070 6 Os estudos sobre capacidade absortiva trilharam temas que se destacam na literatura.
+As pesquisas sobre aprendizado intraorganizacional e capacidade absortiva podem ser verificadas nos estudos de Björkman et al., (2007) , Freeman et al., (2010) e Ferreras -Méndez et al., (2016).
+Verifica -se também uma linha de temas voltados para aprendizagem interorganizacional e capacidade absortiva mais, publicadas em top journals, como os estudos de Fang et al.
+(2014) e Schleimer e Pedersen (2014).
+Há várias linhas de estudos sobre a capacidade absortiva, mas aqui o foco será sobre transferência de conhecimento e capacidade absortiva, como pode ser observado nos estudos de Kotabe et al.
+Nele, os resultado s mostram que habilidade gerencial na integração e transformação do conhecimento é fundamental para aperfeiçoar o desempenho de novos produtos no mercado.
+O estudo de Song (2014) des envolve uma agenda futura sobre capacidade de absorção, em subsidiárias e transferências de conhecimento dentro de corporações multinacionais.
+(2016), consiste no exame das aquisições de conhecimento em multinacion ais indianas, por meio de fusões e aquisições no exterior, com destaque para o papel mo derador da relevância do conhecimento e os efeitos mediadores da capacidade absortiva em seus resultados.
+A capacidade absortiva também vem sendo estudada, com foco na transferência de conhecimento por meio de patentes, como mostra o estudo de Da Veiga et al.
+Nesse estudo, analisaram -se vacinas contra a dengue de uma perspectiva histórica e longitudinal, por meio de dados de patentes.
+Os resultados mostram que, embora o número de patentes em países em desenvolvimento tenha aumentado, os Estados Uni dos e a Europa ainda são os maiores detentores das patentes de vacinas contra a dengue.
+Os principais detentores de patentes apresentam alta abs orção de conhecimento, além de capacidades geradas.
+Por isso, é sugerido o estímulo de geração de conhecimento e pesquisas científicas relevantes, para que o setor produtivo tenha capacidade de absorver conhecimento e poder de transformá -lo em inovação, ar ticular colaborações e parcerias.
+Com isso, poderia ser possível superar a dificuldade de P&D translacional.
+Considerando quatro setores de alta tecnologia da Europa, o estudo de Haschka e Herwartz (2020) parte da premissa de que a absorção do conhecimento externo pode melhorar os processos de inovação e a produção de inovação é a chave para o sucesso empresarial em longo prazo.
+O estudo examinou em que medida as redes locais, vantagens de localização e repercussões competitivas podem ter influência no proc esso de inovação no nível de uma empresa.
+O bloqueio de patentes também foi verificado, com o objetivo de exclui r os concorrentes e, consequentemente, melhorar a competitividade e o uso da abordagem estocástica bayesiana.
+Os resultados mostraram que a pres são por inovar é um fator que pode criar níveis viciosos de competição em busca da inovação.
+O acesso das empres as às redes locais é fator primordial para impulsionar a buscar pela inovação, além de potencializar a inovatividade.
+Nos resultados do estudo d e Baghdadi e Aouadi (2018), que foi realizado em 16 países do mediterrâneo e com foco no pedido de patentes dess es países, foi possível verificar que o desempenho de patentes explica, de maneira significativa, os seus desempenhos tecnológicos relativos.
+Al ém disso, o estudo evidenciou que o desempenho tecnológico depende da capacidade de absorção do conhecimento.
+Ou tro resultado verificado foi a identificação de uma relação significativa entre cooperação internacional em patentes e o desempenho tecnológico relativo.
+A revisão da literatura em questão mostra evidências sobre as principais bases teóricas entre a relaç ão conhecimento e patente (Da Veiga et al., 2015; Haschka & Herwartz, 2020; de Baghdadi & Aouadi, 2018).
+O presente estudo difere dos demais bibliométricos anteriores, ao analisar o período de 25 anos, desde as primeiras evidências de estudos sobre conheci mento e patente, até 2020, com a apresentação de bases teóricas utilizadas entre eles.
+Além disso, esta pesquisa busca sistematizar o s resultado s encontrados em análises de citação e cocitação, e evidenciar fatores, por meio da análise fatorial e lexical.
+O ineditismo deste estudo, ou seja, a apresentação das principais bases conceituais relacionadas a conhecimento e patente, torn ase relevante pa ra entender os caminhos encontrados por pesquisadores para o avanço da literatura, proporcionando uma peçachave para entender os métodos utilizados.
+Research, Society and Development, v. 1 1, n. 5, e21711528070 , 202 2 (CC BY 4 .0) | ISSN 2525 -3409 | DOI: -v11i5.28070 7 3.
+Metodologia O método escolhido neste estudo considerou a problemática e os objetivos da pesquisa, por i sso a opção selecionada foi o estudo bibliométrico.
+Este método quantitativo para análise da literatura tem sido amplamente usado para análise de desempenho, impacto, trajetórias de desenvolvimento, tendências emergentes e estrutura do conhecimento de um c ampo de pesquisa específico (Van Raan,1993; Glaënzel & Moed, 2002; Chen & Liao, 2012; Okubo, 1997).
+Neste estudo , foi realizada a análise de cocitação de autores, como uma das métricas bibliométricas, que revela a associação com base em frequência de cocit ação para compreender a evolução de uma teoria acadêmica, além de expor grupos de pesquisadores que compartilham temas e metodologias comuns.
+Ao analisar citações com base em autores seminais, é possível decifrar padrões complexos de associações que são fo rmados pelos autores, além de verificar modificações nas correntes intelectuais em um período de tempo (White & McCain, 1998; Small & Garfield, 1985; Nerur et al., 2008).
+A análise de citações, especificamente na bibliometria, permite que se jam identificados padrões na literatura do conhecimento científico.
+É possível descobrir, por meio dos dados extraídos das cita ções, autores com maior número de citações, maior produtividade, fator de impacto dos autores, periódicos mais citados, idade méd ia da literatura, entre outros pontos essenciais para a pesquisa (Araújo, 2006; Nerur et al., 2008).
+Na comparação entre as bas es de dados Web of Science (Thomson Reuters) e a Scopus (Elsevier), para realizar o estudo bibliométrico, optou -se pela base Web of Science por três motivos principais.
+Primeiro, é uma base de dados multidisciplinar, já que a lente teórica Visão Baseada em Conhecimento tem características multidisciplinar.
+Em segundo lugar, a abrangência da base de dados é mundial, com mais de 12.00 0 periódicos indexados.
+Como terceiro motivo de escolha, tem-se que as informações primordiais encontradas nos metadados, como referências dos documentos, são essenciais para análise da pesquisa.
+Estratégia de busca Para explorar um conhecimento específico , é importante definir uma expressão de busca que relacione palavras -chave com conceitos incluídos na pesquisa.
+Neste Estudo, a estratégia de busca levou em consideração o objetivo e a questão da pesquisa.
+Para chegar na expressão de busca, usou -se a lingu agem de integração Booleana, que utiliza operadores AND, OR ou NOT, para fazer combinações e criar a expressão de busca mais a dequada (Koch et al., 2009).
+As etapas para encontrar a expressão de busca, que contemplasse os objetivos da pesquisa, estão descr itas no Quadro 1.
+Research, Society and Development, v. 1 1, n. 5, e21711528070 , 202 2 (CC BY 4 .0) | ISSN 2525 -3409 | DOI: -v11i5.28070 8 Quadro 1.
+Pesquisa para encontrar expressão de busca no WOS .
+Nº Expressão de Busca Resultados Tipo de doc umento 1 knowledge* 1.499.554 Todos os documentos 2 knowledge* 1.033.607 Artigos 3 "knowledge*" OR "knowledge -based view" 1.499.5 54 Todos os documentos 4 "knowledge*" OR "knowledge -based view" 1.033.607 Artigos 5 "knowledge -based view" 726 Todos os do cumentos 6 "knowledge -based view" 555 Artigos 7 "knowledge* flow*" OR "knowledge -based view" 2.988 Todos os documentos 8 "knowled ge* flow*" OR "knowledge -based view" 2.079 Artigos 9 "knowledge* flow*" OR "knowledge -based view" AND patent 2.315 Todos os documentos 10 "knowledge* flow*" OR "knowledge -based view" AND patent 1.564 Artigos 11 "knowledge* flow*" OR "knowledge -based vie w" OR "knowledge -based vision" OR "absorptive capacity" 10.818 Todos os documentos 12 "knowledge* flow*" OR "knowledge -based view" OR "knowledge -based vision" OR "absorptive capacity" 8.478 Artigos 13 (((TS= (("knowledge* flow*" OR "knowledge -based view" OR "knowledge -based vision" OR "absorptive capacity") AND patent)))) 917 Todos os documentos 14 (((TS= (("knowledge* flow* " OR "knowledge -based view" OR "knowledge -based vision" OR "absorptive capacity") AND patent)))) 797 Artigos 15 (((TS= (("knowledge * flow*" OR "knowledge -based view" OR "knowledge -based vision" OR "absorptive capacity") AND patent)))) 666 Artigos/10 anos Fonte: Dados da pesquisa .
+Com base nos estudos de Quevedo -Silva, Santos, Brandão e Vils (2016), esta pesquisa utiliza o formato segu ido pelos autores.
+Na base de dados WOS, foi utilizada a seguinte expressão de busca: (((TS= (("knowledge* flow*" OR "know ledgebased view" OR "knowledge -based vision" OR "absorptive capacity") AND patent)))).
+A escolha das palavras -chave teve como referên cia o campo conceitual da pesquisa em conhecimento e patente.
+Como o foco da pesquisa estava voltado para conhecimento, fo i utilizado o termo "visão baseada em conhecimento".
+Este termo foi inserido como "based view" e "based vision" na expressão de busca, com o operador booleano "OR", para ampliar a busca.
+Além disso, acrescentou -se "absorptive capacity" como uma ramificação do termo na atualidade.
+Dessa maneira, o refinamento da expressão de busca ficou mais completo, o que proporcionou cobrir o tema estu dado com mais clareza.
+No final da expressão de busca, foi acrescentado o termo "patent", com o objetivo de abranger todos os termos que se relacionassem com conhecimento, visão baseada em conhecimento e patentes (Quadro 1).
+Os artigos que melhor represent aram o campo conceitual relacionado a conhecimento e patentes foram essenciais para a escolha e elaboração da expressão de busca.
+É importante enfatizar que houve colaboração de pesquisadores especialistas para delimitar a formação da expressão de busca.
+Após ser definida a expressão de busca, os principais filtros utilizados para refinar a pesquisa foram: anos de publicação, 1996 a 2020 (25 anos); categorias da Web of Science: Science Citation Index Expanded (SCI-EXPANDED), Social Sciences Citation Index ( SSCI), Arts & Humanities Citation Index (A&HCI), Conference Proceedings Citation Index - Science (CPCI -S), Conference Proc eedings Citation Index - Social Science & Humanities (CPCI -SSH) e Emerging Sources Citation Index (ESCI) ; linguagem: inglês e tipo de documento: artigos.
+A Figura 1 ilustra o refinamento da busca, que trouxe 797 artigos, em que se pode verificar os artigos mais citados e os autores com maior influência.
+Na sequência, foi elaborada a matriz de citação e cocitação, com o uso do software Bi bexcel.
+A exportação dos artigos do WOS para o software Bibexcel contou com artigos marcados e adicionados à lista, mais o s filtros, Research, Society and Development, v. 1 1, n. 5, e21711528070 , 202 2 (CC BY 4 .0) | ISSN 2525 -3409 | DOI: -v11i5.28070 9 "autores", "título" e "resumo".
+Além disso, na etapa, realizou -se a marcação dos campos "referências citadas" e "número de citações".
+Após essa etapa, a base de dados WOS permite gerar um arquivo TXT, que foi exportado para o software Bibexcel, que, ao rodar os dados, gerou a matriz de citação e cocitação (o autor decidiu pela matriz 50 x 50).
+Desenho das etapas da pesquisa .
+Para verificar a convergência de autores sobre o tema, o software SPSS foi utilizado para ro dar a Análise Fatorial Exploratória (AFE), que consiste em uma técnica de redução de dados, com base na correlação entre observações ou c asos com fatores comuns.
+Ao analisar a matriz de citação e cocitação, é possível verificar os autores que se correlacio nam, por meio de citações, sendo que as cargas formam um determinado fator, que podem indicar um campo de estudo específico (QuevedoSilva et al., 2016).
+Os procedimentos para a AFE seguiram as recomendações de Hair, Black, Anderson e Tatham (2005), sendo que o software SPSS serviu de apoio para encontrar os principais fatores.
+A análise foi realizada com KMO geral e, para cada matriz anti-imagem, consideraram -se valores acima de 0,5.
+Na matriz de comunalidade, os itens com carga abaixo de 0,5 e itens com cargas cruzadas foram excluídos.
+(2005) recomenda, o Alpha de Crombach (medida de confiabilidade interna) de cada fat or após as exclusões e análise foi superior a 0,6.
+A ordem de extrações foi respeitada e foram necessárias 19 extrações , com uso da rotação Varimax, para chegar ao resultado apresentado.
+A planilha do software Excel auxiliou na visualização das matrizes an ti-imagem geradas, bem como o KMO de cada item, o que proporcionou segurança no processo de decisão de exclusão dos ite ns.
+Após as extrações, sobraram três fatores, que correspondem a 77,6% da variância explicada.
+Esses números vão ao encontro da literatu ra, que orienta valores acima de 60% (Figura 1).
+Research, Society and Development, v. 1 1, n. 5, e21711528070 , 202 2 (CC BY 4 .0) | ISSN 2525 -3409 | DOI: -v11i5.28070 10 3.2 Análise estatística com software Iramuteq O software Iramuteq foi desenvolvido na linguagem Python e suas funcionalidades são apresentadas com base no processamento do software estatístico R. Com o Iramuteq, é possível desenvolver processamento de dados qualitativos, por meio de análises estatísticas de textos provenien tes de entrevistas, resumos, documentos, entre outros (Reinert, 1990; Camargo & Justo, 2013).
+A análise realizada apontou frequências de palav ras e formas, com 6.498 ocorrências e 1384 formas e média de ocorrências por texto de 185.66, sendo 10,31% de pala vras únicas e 48,41% de formas.
+Na frequência de palavras verificadas no Iramuteq, é possível identificar a maior frequência para citação de p atentes, conhecimento empresarial, pesquisa científica, inovação tecnológica, spillover , controle geográfico, exploration e aprendizagem organizacional.
+A Classificação Hierárquica Descendente (CHD) consiste na classificação textual e utiliza o teste estat ístico quiquadrado, que permite uma análise lexical do conjunto de textos, em que caracteriza os vocábulos e o te xto com estes vocábulos (Camargo, 2005).
+Os resultados extraídos do Iramuteq apresentaram cinco classes (clusters), como pode ser verificado n a Figura 2: • Classe 1 (22,3%): exerce relação estreita com as classes 2 e 4.
+O resultado mostra a relação da inov ação empresarial com aspectos de proximidade geográfica, além de benefícios, maior interatividade.
+Entretanto, também apresenta aspectos negat ivos.
+• Classe 2 (25,9%): tem relação de proximidade com a classe 4.
+Apresenta transferência de conhecimento, por meio de redes e alianças, e também a presença das capacidades absortiva e dinâmica, além da aprendizagem organizacional.
+A classe 2 está volt ada para a transferência de conhecimento empresarial, por meio de redes e com base nas lentes teóricas das capacid ades absortiva e/ou dinâmica.
+• Classe 3 (21,4%): tem proximidade com a classe 5 e destaca -se pelas citações de patentes, pesquisas científica s, autores, universidades e países.
+Nesse sentido, a classe mostra os estudos desenvolvidos por universidade, auto res e países por meio de citações de patentes para a pesquisa científica.
+• Classe 4 (14,3%): a aproximação com a classe 2 mostra que o termo fronteira está relacionado com conhecimento, ou seja, fronteira do conhecimento, assim como evolução tecnológica e exploration .
+A classe está fortemente vinculada com a classe 2, por isso, verifica -se a evolução tecnológica, por meio da exploração do conhe cimento ( exploration ).
+• Classe 5 (16,1%): devido à aproximação com a classe 3, os termos extraídos desta classe s ão direcionados à citação de patentes.
+Por isso, é possível identificar controle de patentes, Spillovers e estudos de localização geográfica d as patentes.
+Research, Society and Development, v. 1 1, n. 5, e21711528070 , 202 2 (CC BY 4 .0) | ISSN 2525 -3409 | DOI: -v11i5.28070 11 Figura 2.
+Filograma com Classificação Hierárquica .
+Resultados e Discussã o Ao examinar os resultados obtidos dos 797 artigos encontrados na pesquisa, é possível verificar os países que desenvolvem mais estudos relacionados a conhecimento e patentes.
+Os três primeiros, Estados Unidos, China e Itália, são responsáveis por 52,9% do total de artigos publicados no período de 1996 a 2020 (Quadro 2).
+Categorização do período de publicação .
+Período de public ação Países Número de Publicações 2013 -2020 Estados Unidos; China; Itália; Inglaterra; Coreia do Sul; Alema nha; Taiwan; Espanha; França; Holanda; Bélgica e Suécia; Suíça, Canadá e Japão; Dinamarca e Singapura; Austrália; Brasil; Hungria; Finlândia, Iran e Rússia; e Índia e Grécia.
+564 2005 -2012 Estados Unidos; Canadá e Itália; Taiwan; Inglaterra, Coreia do Sul e Alemanha; Holanda e Espanha; China e Singapura; França; Áustria; Austrália e Bélgica; Dinamarca Finlândia e Japão; Irlanda, Portugal, Noruega, Su écia e Tunísia; Grécia e Iran 192 1996 -2004 Estados Unidos; Holanda; Canadá; Singapura; Bélgica, Inglaterra , Finlândia, Itália, Coreia do Sul, China, França, Espanha e Japão; e Israel, México, Noruega, Suíça e Suécia.
+Ao analisar o cort e temporal do estudo (25 anos) em três períodos (um de nove anos e dois de oito anos), é possível verifica r que os últimos oito anos (2013 -2020) foram responsáveis por 70,7 % do total de estudos voltados para conhecimento Research, Society and Development, v. 1 1, n. 5, e21711528070 , 202 2 (CC BY 4 .0) | ISSN 2525 -3409 | DOI: -v11i5.28070 12 e patentes (Quadro 2).
+Os Estados Unidos aparecem nos três períodos em primeiro lugar no desenvolvimento de estudos sobre o assunto.
+Entreta nto, cabe destaque para a China que, até 2004, contava com dois estudos publicados e, no terceiro período, aparece em segundo lugar no ranking de publ icações, com 85 estudos.
+Além disso, a Itália aparece em terceiro lugar com 73 estudos, com regularidade n os três períodos.
+Conforme pode ser visualizado na Gráfico 1, é possível perceber a evolução no período temporal, com início em 1996, até 2020.
+A linh a exponencial mostra o crescimento de artigos ao longo dos anos sobre o tema estudado e a porcentagem que cada ano representa em relação ao todo.
+Gráfico com evolução linear de artigos no período de 1996 -2020 .
+Entre as dez revis tas com maior número de artigos publicados sobre os temas estudados nesta pesquisa, quatro delas merece m destaque.
+São elas: (1) a Research Policy , com mais de 80 documentos, aproximadamente 10% do total, além de ter o maior fator de impacto, 7.927, nos ú ltimos cinco anos; (2) Scientometrics , com 49 documentos e fator de impacto de 3.073; (3) Technologica l Forecasting and Social Change , revista que tem o fator de impacto de 5.179 e também conta com 28 documentos dentro do universo da pesquisa; e (4) Strat egic Management Journal , que aparece com 27 documentos e fator de impacto de 7.843 nos últimos cinco a nos (Quadro 3).
+Research, Society and Development, v. 1 1, n. 5, e21711528070 , 202 2 (CC BY 4 .0) | ISSN 2525 -3409 | DOI: -v11i5.28070 13 Quadro 3.
+Revistas com maior volume de artigo e maior fator de impacto .
+Nº Revista Nº de Documentos Fator de Impacto 1 Research Policy 80 5.351 2 Scientometrics 49 2.867 3 Journal of Technology Transfer 30 4.147 4 Technological Forec asting and Social Change 28 5.846 5 Strategic Management Journal 27 5.463 6 Technology Analysis & Strategic Management 20 1.867 7 Regional Studies 16 3.312 8 Technovation 14 5.729 9 Journal of Engineering and Technology Management 13 1.957 10 Organiz ation Science 12 2.790 11 Industrial and Corporate Change 12 1.981 12 Annals of Regional Science 12 1.750 Fonte: Autores.
+Entre os dez autores com maior n úmero de artigos relacionados a conhecimento e patentes, há destaque para o indiano Agrawala, Ajay , da Delhi Technological University , que tem trabalhos sobre conhecimento na revista Research Policy e Strategic Management Journal .
+O segundo colocado da lis ta é membro da Universitat Politecnica de Valencia , Azagra -Caro, J. M. Este autor conta com artigo s nas principais revistas da lista de pesquisa, entre elas Scientometrics e Regional Studies .
+Em terceiro lugar, temos o membro da South China University of T echnology , que tem artigos em revistas renomadas, como Technological Forecasting and Social Change , Scientometric e Research Policy (Quadro 4).
+Autores com maior número de documentos Nº Autores Nº de documentos 1 Agrawal A.
+9 2 Azagra -Caro J. M. 8 3 Guan J.C. 8 4 Park Y.
+8 5 Lee S. 7 6 Montobbio F. 7 7 Petruzzelli A.M. 7 8 Zhang F. 7 9 Almeida P. 6 10 Lin B.W.
+Os dez artigos mais citados, ao considerar os 797 artigos da amostra, e que englobam os termos conhecimento e patentes, encontrados na base de dados da WOS , destacam -se, principalmente, pelas principais r evistas encontradas na pesquisa, que têm alto fator de impacto, como Strategic Management Journal, Management Science e Research Policy .
+Os dois primeiros artigo s da lista ultrapassam a casa de mil citações; o primeiro, com 1.583 citações, tem como foco a transferência de conhecimento entre empresas.
+O segundo artigo, com o título de Technological acquisitions and the innovation performance of acquiring firms: A l ongitudinal study , com 1.011 citações, concentra -se no impacto das aquisições tecnológicas e nã o tecnológicas no desempenho da inovação na indústria química (Quadro 5).
+Research, Society and Development, v. 1 1, n. 5, e21711528070 , 202 2 (CC BY 4 .0) | ISSN 2525 -3409 | DOI: -v11i5.28070 14 Quadro 5 .
+Artigos com maior número de citações recebidas .
+Nº Título Revista Nº de Docume ntos 1 Strategic alliances and interfirm knowledge transfer Strategic Management Journal 1.583 2 Technological acquisitions and the innovation performance of acquiring firms: A longitudinal study Strategic Management Journal 1.011 3 Overcoming local search through alliances and mobility Management Science 731 4 The impact of s tocks and flows of organizational knowledge on firm performance: An empirical investigation o f the biotechnology industry Strategic Management Journal 671 5 Collaborative networks as determinants of knowledge diffusion patterns Management Science 504 6 Investigating the factors that diminish the barriers to university -industry collaboration Rese arch Policy 408 7 Learning -by-hiring: When is mobility more likely to facilitate interfirm knowledge transfer?
+Management Science 463 8 Network embeddedness and the exploration of novel technologies: Technological distance, betweenness centrality and den sity Research Policy 421 9 Mobility of skilled workers and co -invention netwo rks: an anatomy of localized knowledge flows Journal of Economic Geographi 407 10 R&D spillovers, patents and the incentives to innovate in Japan and the United States Research Policy 364 Fonte: Autores.
+Os principais financiadores da pe squisa sobre o tema são a Fundação Nacional de Ciências Naturais da China (ou National Natu ral Science Foundation of China ), que é responsável pelo financiamento de 44 pesquisas relacionadas ao conhecimento e/ou patentes.
+Na segunda colocação, com uma marg em de diferença significante, o Conselho de Pesquisa Econômica e Social do Reino Unido (ou Economic Social Research Council ) aparece com 11 pesquisas financiadas.
+Na terceira colocação, o Governo Espanhol (ou Spanish Government ) aparece com 10 financiament os (Quadro 6).
+Principais agências financiadoras dos estudos .
+Nº Agências Financ iadoras Nº de documentos 1 National Natural Science Foundation of China NSFC 44 2 Economic Social Research Council ESRC 11 3 Spanish Government 10 4 German Resear ch Foundation DFG 9 5 National Research Foundation of Korea 9 6 European Union EU 7 7 European Research Council ERC 6 8 European Commission 5 9 European Commission Joint Research Centre 5 10 Japan Society for the Promotion of Science 5 Fonte: Autores.
+Research, Society and Development, v. 1 1, n. 5, e21711528070 , 202 2 (CC BY 4 .0) | ISSN 2525 -3409 | DOI: -v11i5.28070 15 Outros dados importantes a serem considerados, com base nos 797 artigos, são índice H ou "H -index", média de citação por item, soma do número de citações, cocitação, artigos que fizeram a citação e artigos sem cocitação (Quadro 7).
+Evolução ci entífica do campo conceitual .
+Evolução científica do campo conceitual sobre conhecimen to e patentes Números H-index 82 Média de citação por item 34,79 Soma do número de citações 27.724 Artigos sem cocitação 25.188 Artigos que fizeram a citação 17.134 Artigos sem autocitação 16.486 Fonte: Autores.
+A análise de citação foi realizada n os 797 artigos, para saber quais informações estão contidas na literatura sobre o assunto.
+Em seguida, foi realizada a análise fatorial, por meio da matriz de cocitação, e o procedimento multidimensional scaling (MDS).
+O MDS visa verificar como autores ou teorias estão relacionados (Ramos -Rodriguez & Ruiz -Navarro, 2004).
+Com base na análise fatorial realizada no SPSS, dos 38 artigos que se relacionam entre si, dois estudos ap arecem em mais de um fator, sendo eles: Griliches Z.
+(1990) e Narin, Hamilton e Oli vastro (1997) (Tabela 1).
+Em relação a Griliches (1990), o estudo analisa o uso crescente de dados de patentes para indicadores econômicos.
+Nesse sentido, a pesquisa serve como base para autores que integram os fatores 1 e 2, os quais apresentam estudos q ue buscam entender a relação entre empresas e a inovação.
+Esses construtos estão ligados diretamente a aspectos econômicos, por isso aparece fortemente nestes fatores.
+O est udo de Narin, Hamilton e Olivastro (1997) analisa a relação entre pesquisa científi ca pública e a tecnologia dos Estados Unidos, por meio de patentes.
+É um estudo que serve como base para desenvolver a discussão sobre a influência dos investimentos do esta do para o desenvolvimento de tecnologia privada, que está relacionado com os temas dos fatores 1 e 2.
+Os autores que aparecem na Tabela 1 fazem parte da amostra de 38 artigos gerados pela matriz de cocitação (matriz 50 x 50), dos 797 artigos que são decorr entes do resultado da expressão de busca realizada no WOS.
+Vale ressaltar que, para as análises, foram consideradas apenas cargas fatoriais acima de 0,5 (Quevedo -Silva et al., 2016).
+As cargas fatoriais representam o quanto cada artigo está se relacionando com cada fator, ou seja, quanto maior a carga, mais o estudo está relacionado (Ner ur et al., 2008).
+Research, Society and Development, v. 1 1, n. 5, e21711528070 , 202 2 (CC BY 4 .0) | ISSN 2525 -3409 | DOI: -v11i5.28070 16 Tabela 1.
+Matriz Fatorial Nº Autores Fator 1 Autores Fator 2 Autores Fator 3 1 Grant R. (1996) 0,913 Maurseth P. (2002) 0,918 Jaffe A.
+(1986) 0,837 2 Katila R. (2002) 0,89 Thompson P. (2005) 0,886 Jaffe A.
+(19 93) 0,823 3 Levinthal D. (1993) 0,881 Audretsch D. (1996) 0,883 Jaffe A.
+(1989) 0,799 4 Powell W. (1996) 0,879 Romer P. (1990) 0,852 Jaffe A.
+(1999) 0,796 5 Rosenkopf L. (20 01) 0,877 Singh J.
+(2005) 0,786 6 Fleming L. (2001) 0,866 Boschma R. (2005) 0,752 7 Stuart T. (1996) 0,865 Hall B.
+(2001) 0,749 8 Ahuja G. (2000) 0,86 Almeida P. (1999) 0,706 9 March J.
+(1991) 0,858 Narin, Hamilton e Olivastro (1997) 0,655 10 Mowery D. (1996) 0,847 Griliches Z.
+(1990) 0,546 11 Chesbrough H. (2003) 0,846 Hausman J.
+(1984) 0,507 12 Tsai W. (2001) 0,845 13 Kogut B.
+(1992) 0,844 14 Zahra S. (2002) 0,797 15 Szulanski G. (1996) 0,778 16 Fleming L. (2004) 0,758 17 Teece D. (1986) 0,755 18 Rosenkopf L. (2003) 0,731 19 Hausman J.
+(1984) 0,686 20 Trajtenberg M. (1990) 0,667 21 Trajtenberg M. (1997) 0,648 22 Griliches Z.
+(1990) 0,617 23 Narin, Hamilton e Olivastro (1997) 0,506 Fonte: Dados da pesquisa .
+Fator 1: Aprendizagem e Redes Organizacionais Os quadros 8 e 9 apresentam um resumo conceitual -descritivo dos 23 artigos identificados no Fator 1, além de capturar as principais bases teóricas encontrada em cada artigo cientí fico, por meio da leitura prévia.
+A análise identificou predominância em pesqui sas voltadas para a inovação, por meio de aprendizagem organizacional com redes empresariais e alianças.
+O estudo de Grant (1996) difere de estudos anteriores (por exemplo, Nels on & Winter, 1982), ao trazer a discussão sobre a diferença entre conhecimento organizacional e individual.
+Tal autor considera que o conhecimento individual é inerente ao contexto interno do indivíduo, já no âmbito organizacional, o fator mais importante é o meio em que se aplica esse conhecimento.
+Para Kogut e Zander (1992), há o a specto do conhecimento individual, mas também há cooperação em grupos sociais internos.
+Ao contribuir com o avanço da literatura, Mawory et al.
+(1996) afirmam que em presas que se sobressaem nas alianças estratégicas são aquelas que têm mais recursos tecnol ógicos.
+Em contraponto, Tsai (2001) afirma que o principal motivo para desfrutar de melhor desempenho passa pela capacidade de absorção das empresas e/ou sucesso de replicação de novos conhecimentos.
+Só assim as unidades organizacionais podem produzir mais inovações e ocupar posições centrais nas redes e, consequentemente, terem melhor desempenho.
+Outros autores contribuem com avanço da literatura sobre conhecimento, visando as invenções tecnológicas e inovações.
+Como exemplo do fato, tem -se o estudo de Fle ming (2001), que analisa as incertezas na recombinação de componentes em pesquisa tecnológica, evidenciando que a experimentação com novos componentes e combinações pode resultar em invenções menos úteis.
+Para Rosenkopf e Almeida (2003), em contextos geogr áficos distantes, apesar de a recombinação de conhecimento ser útil para a inovação, precisa -se de mobilidade dos inventores entre as alianças para facilitar a trans ferência de conhecimento entre as empresas.
+Uma maneira de conduzir as combinações úteis é abordado por Fleming e Research, Society and Development, v. 1 1, n. 5, e21711528070 , 202 2 (CC BY 4 .0) | ISSN 2525 -3409 | DOI: -v11i5.28070 17 Sorenson (2004), ao evidenciarem, por meio de dados de patentes, a importância da ciência para eliminar caminhos infrutíferos no desenvolvimen to de invenções, por meio de processos de pesquisa que orientem os inventores.
+A precursora pesquisa de March (1991) analisa a relação entre a exploration de novas possibilidades e a exploitation de velhas certezas na aprendizagem organizacional.
+Corrobora ndo essa linha, Levinthal e March (1993) abordam os problemas na aprendizagem para desenvol ver novos conhecimentos e competências, em face as tendências dinâmicas do mercado.
+São identificadas dificuldades nas formas de aprendizagem e as maneiras como a em presa sustenta o exploration , além da tendência de maiores investimentos em explotation.
+Autores, base teórica e resumo do fator 1 .
+Nº Autores - KMO Base Teórica Resultados e Contribuições 1 Grant R. (1996) 0,913 Capacidade Organizacional; Teori a Baseada em Conhecimento Conhecimento reside dentro do indivíduo e o principal papel de uma organização é a aplicação do conhecimento 2 Katila R. (2002) 0,890 Aprendizagem Organizacional A busca das empresas varia entre duas dimensões: profundidade de pe squisa (frequência que a empresa reutiliza seus conhecimentos) e escopo de pesquisa.
+3 Levinthal D. (1993) 0,881 Aprendizagem Organizacional Mesmo com imperfeições na aprendizagem organizacional, deve -se continuar com as melhorias na capacidade de aprendi zagem, com expectativas conservadoras de melhorias.
+4 Powell, Koput e Smith -Doer (1996) 0,879 Aprendizagem Organizacional; Colaboração Inter organizacional Quando a base de conhecimento é complexa e em expansão somado as fontes de expertise amplamente dispersas, o locus de inovação será encontrado em redes de aprendizagem.
+5 Rosenkopf e Neka r (2001) 0,877 Impacto do Conhecimento; Exploração da Evolução Tecnológica A exploration é mais alta, quando ultrapassa os limites da organização, mas também não pode extrapolar os limites tecnológicos.
+6 Fleming L. (2001) 0,866 Combinação de Componentes A incerteza tecnológica deriva de processos de pesquisa de inventores com componentes desconhecidos e combinações de componentes.
+7 Stuart e Podolny (1996) 0,865 Capa cidade Tecnológica; Capacidade Inovadora; Análise de Redes A posição de uma empresa depen de tanto da trajetória adotada por empresas concorrentes, quanto por sua própria.
+8 Ahuja G. (2000) 0,860 Furos Estruturais; Rede de Colaboração; Inovação As caracter ísticas estruturais das redes de empresas influenciam a sua produtividade inovadora.
+(1991) 0,858 Aprendizagem Organizacional; Vantagem Competitiva Os processos adaptativos, por refinar a exploitation mais rapidamente do que o exploration.
+10 Mowery, Oxley e Silverman (1996) 0,847 Capacidade Absortiva; Transferência de Conheciment o Interfirmas; Alianças Estratégicas; Capacidade Tecnológica A medida utilizada verifica as mudanças nas capacidades tecnológicas dos parceiros com base em citação de patentes, que sugerem limites para a aquisição de capacidades de alianças estratégicas.
+11 Chesbrough H. (2003) 0,846 Inovação Aberta A Xerox gerenciou o PARC por meio de um Paradigma de inovação fechada, que foi preponderante para o seu fim.
+12 Tsai W. (2001) 0,845 Aprendizagem Organizacional; Transferência de Conhecimento; Redes Intraorgan izacionais; Capacidade Absortiva; Inovação Os resultados mostram que a interação entre a capacidade de absorção e a posição da rede é significativa e tem efeito positi vo na inovação e no desempenho da unidade de negócios.
+Os art igos compreendidos no fator 1 estão apresentados nos quadros 8 e 9, e mostram tendências em relação a conhecimento e patente, como pode ser verificado na coluna base teó rica, que foi criada após a leitura de cada estudo que compreende o fator.
+Diante desta análise, o fator 1 terá a seguinte nomenclatura: Aprendizagem e Redes organizacionais.
+Research, Society and Development, v. 1 1, n. 5, e21711528070 , 202 2 (CC BY 4 .0) | ISSN 2525 -3409 | DOI: -v11i5.28070 18 Quadro 9.
+Continuação: autores, base teórica e resumo do fator 1 Nº Autores - KMO Base Teórica Resultados e Contribuições 13 Kogut e Zander.
+(1992) 0,844 Capacida de Combinativa; Transferência de Conhecimento Individual; Inovação As empresas fazem melhores compartilhamentos e transferências de conhecimento, em grupos e indivíduos, dentro da própria organização.
+14 Zahra e George (2002) 0,797 Capacidade Absortiva; T ransferência de Conhecimento; Capacidades Dinâmicas Modelo conceitual que cria condições para manter a vantagem competitiva com base nas capacidades absortiva potencial e r ealizada da empresa.
+15 Szulanski G. (1996) 0,778 Capacidade Absortiva; Transferênc ia de Conhecimento As barreiras a transferência do conhecimento interno estão relacionadas a falta de capacidade de absorção do receptor, ambiguidade causal e a complexa re lação entre destinatário e fonte 16 Fleming e Soreson (2004) 0,758 Pesquisa Recombi nante; Invenção A pesquisa científica aumenta a taxa de avanço tecnológico, consequentemente o crescimento econômico, os resultados empíricos de dados de patentes do estudo dão base às afirmações.
+17 Teece D. (1986) 0,755 Inovação Tecnológica A firma inov adora deve estabelecer uma posição prévia de ativos complementares e se posicionar bem no mercado para não falhar.
+18 Rosenkopf e Almeida (2003) 0,731 Recombinação de Conh ecimento; Aliança Empresarial; Fluxo de Conhecimento Com análise de citação de paten tes verificou -se que a formação de alianças e mobilidade dos inventores facilita o fluxo de conhecimento.
+19 Hausman, Hall e Griliches (1984) 0,686 Patente; Produção de P& D As empresas estão obtendo menos patentes por meio de seus investimentos mais recen tes em P&D.
+20 Trajtenberg M. (1990) 0,667 Inovação; Contagem de Patente A simples contagem de patentes não pode ser informativa para a produção inovadora, mas a contagem de patentes ponderada por citações pode servir como indicador para o valor das inova ções.
+21 Trajtenberg, Henderson e Jaffe (1997) 0,648 Inovação; Patente; Trajetória Tecnológica Foi verificado evidências de trajetórias tecnológicas por meio de dados deta lhados em citações de patentes.
+(1990) 0,617 Patente; Mudança Tecno lógica A tendência de queda nas patentes por dólar em P&D, não pode ser interpretada como indicativo para retorno decrescente, mas um reflexo de mudança tecnológica.
+23 Narin, Hamilton e Olivastro (1997) 0,506 Citação de Patente; Pesquisa Científica O res ultado traz a ligação entre citação de patentes, crescimento de patentes nos Estados Unidos e artigos científicos.
+Fator 2: Inovação e Proximidad e Geográfica O quadro 10 apresenta um resumo conceitual -descritivo dos 12 artigos pertencentes ao fator 2.
+Ao analisar os resumos dos artigos do fator, foi possível verificar as principais bases teóricas que cada autor apresentou em seus estudos.
+A predom inância nesse conjunto de artigos consiste em discussões sobre fluxo de conheciment o, aprendizagem organizacional, proximidade geográfica e inovação por meio contagem de patentes e dados de patentes.
+As patentes ou dados de patentes são utilizadas no estud o de Griliches (1990) sobre a estatística de patentes e sua importância em relação ao crescimento econômico.
+O autor aponta que as empresas com concessão de patentes em seu país tendem a ter um monopólio temporário e, consequentemente, uma vantagem competi tiva.
+Com objetivo de explicar como os países com altos níveis tecnológicos apresen tam crescimento de maneira sustentada, Romer (1990) apresentou o modelo de mudança tecnológica endógena e concluiu que o progresso tecnológico em países desenvolvidos passa, principalmente, por investimentos em P&D.
+O uso de patentes também é encontrado no estudo encomendado pela National Science Foudation , sobre a influência da indústria dos Estados Unidos, em relação ao financiamento público para a ciência.
+Narin, Hamilton e Olivastro (1997) identificaram que 73,3% das patentes da indústria citam artigos científicos de origem pública, com maior participação das patentes de drogas e medicamentos.
+Hall, Jaffe e Trajtenberg (2001) contribuem com a literatura, ao evidenciarem a dificuldade em usar o número bruto de citação em diferentes patentes e ter resultad os significativos.
+Tais autores desenvolveram um método para atenuar problemas ocasionados pela truncagem dos dados em citações recebidas por patentes Research, Society and Development, v. 1 1, n. 5, e21711528070 , 202 2 (CC BY 4 .0) | ISSN 2525 -3409 | DOI: -v11i5.28070 19 dos Estados Unidos.
+Pa ra normalizar as citações recebidas por documentos patentários, são utilizadas esti mativas econométricas.
+Almeida e Kogut (1999) investigaram a relação entre os principais detentores de patentes em alguns clusters da indústria de semicondutores, por meio d a análise de patentes.
+Tais autores observaram que o padrão de mobilidade dos deten tores de patentes é específico para algumas regiões, além de ter efeito positivo na inovação local da indústria.
+Tais padrões de mobilidade têm influência no local de transf erência do conhecimento e o seu fluxo está inserido em redes regionais de trabalho (Maurseth & Verspagen, 2002; Singh, 2005).
+O estudo de Audretsch e Feldman (1996) corrobora essa visão ao apontar que as atividades inovativas não estão distribuídas de mane ira uniforme geograficamente nos Estados Unidos, mas há concentrações em algumas re giões do país.
+Ou seja, esse tipo de atividade tem maior concentração espacial do que a produção industrial, embora ambas estejam associadas.
+Em contraponto, Boschma (2005) mostra que a proximidade geográfica não pode ser analisada isoladamente como influe nciadora da atividade de inovação, mas sofre influência também da proximidade cognitiva, organizacional, social e institucional.
+Após analisar os artigos do fator 2, mostrad os no quadro 10, é notória a busca dos pesquisadores por respostas entre a relação das patentes, proximidade geográfica e atividade inovativa.
+Diante dos resultados encontrados nesta investigação, ficou decidido que a nomenclatura do fator 2 é: Inovação e Proximidade Geográfica.
+Autores, base teórica e resumo do fator 2 .
+Nº Autores - KMO Base Teórica Resultados e Contribuições 1 Maurseth e Verspagen (2002) Citação de Patentes; Fluxo de Conhecimento; Proximidade geográfica As citações de patente s ocorrem com maior frequência entre regiões do mesmo país com proximidade geográ fica e, entre regiões especializadas em setores industriais com vínculos tecnológicos e regiões com mesmo grupo linguístico.
+2 Thompson e Fox -Kean (2005) Citação de Patentes; Geografia do Conhecimento A avaliação mostra que o uso de patentes de controle p or meio do sistema de classificação tecnológica de três dígitos do escritório de patentes pode gerar evidências espúrias 3 Audretsch e Feldman (1996) Spillovers de Conhecimen to; Concentração geográfica É sugerido que mesmo após o controle do grau de conce ntração geográfica na produção, as atividades inovadoras tendem a se agrupara mais nos setores em que os spillovers de conhecimento são mais decisivos.
+4 Romer P. (1990) Muda nça Tecnológica; Capital Humano O estoque de capital humano determina à taxa de c rescimento, também é pouco dedicado a pesquisa em crescimento equilibrado.
+(2005) Redes; Spillovers de Conhecimento; Inovação Tecnológica; Citação de Patentes O fluxo de conhecimento intrarregional e intrafirma pode ser considerado mais forte q ue aqueles que estão além das fronteiras regionais.
+As evidências também mostram que as redes interpessoais são primordiais para determinar padrões na difusão de conhecimentos .
+6 Boschma R. (2005) Proximidade geográfica; Aprendizagem A proximidade geográf ica não é condição necessária para que a aprendizagem ocorra, mas facilita a interação para a aprendizagem.
+7 Hall, Jaffe e Trajtenberg (2001) Citação de Patentes Principais tendências em patentes nos EUA em 30 anos, com medidas desenvolvidas por meio de dados de citação de patentes.
+8 Almeida e Kogut (1999) Citação de Patentes; Spillovers ; Mobilidade Conhecimento Tecnológico; Redes A mobilidade interfirmas dos engenheiros in fluencia o local de transferência de conhecimento, além de afirmar, que o fluxo d e conhecimento está inserido em redes regionais de trabalho.
+9 Narin, Hamilton e Olivastro (1997) 0,506 Citação de Patentes; Pesquisa Científica O resultado traz resultados s ignificativos a ligação entre citação de patentes, crescimento de patentes nos Es tados Unidos e artigos científicos.
+(1990) Patente; Mudança Tecnológica A tendência de queda nas patentes por dólar em P&D, não pode ser interpretada como ind icativo para retorno decrescente, mas um reflexo de mudança tecnológica.
+11 Haus man e Mcfadden (1984) Teste de Especificação; Econometria Testes de especificação computacional para o modelo Logit multinomial.
+Dois testes de especificações submetidos a comparações que podem ser exatas e aproximadas.
+12 Maurseth P. (2002) 0,918 Spillov ers de Tecnologia; Crescimento Econômico; Agrupamento geográfico A análise de regressão espacial indica que o agrupamento geográfico pode ser inerente aos mecanismos de cresci mento.
+Portanto, parceiros comerciais próximos tendem a se beneficiar do progress o tecnológico do país.
+Research, Society and Development, v. 1 1, n. 5, e21711528070 , 202 2 (CC BY 4 .0) | ISSN 2525 -3409 | DOI: -v11i5.28070 20 Fator 3: Patente e Spillovers de Conhecimento Conforme a análise realizada nos quatro artigos que compõem o fator, a identifi cação da base teórica do fator 3 ficou mais aparente (Quadro 11).
+Os dados de pat entes formaram a principal fonte de informação deste fator.
+Por meio deles, os pesquisadores conseguiram respostas sobre construtos que podem influenciar a eficiência empresar ial para desenvolver inovações e a influência da localização geográfica em redes de colaboração para o desenvolvimento de inovações, por exemplo.
+Por meio de dados de patentes dos Estados Unidos, Jaffe (1986) mediu a correlação entre "posição tecnológica" dos programas de pesquisa, patentes, lucros e valor de mercado das empresas pesqu isadas.
+O autor fez uma inferência em relação à existência de spillovers tecnológicos podem implicar no sucesso de P&D de uma empresa, por meio da atividade de pesquisa tecnol ógica das empresas parceiras vizinhas.
+No estudo de Jaffe (1986), o foco passa a ser em spillovers mediados geograficamente por pesquisas universitárias para a inovação empresarial.
+As evidências mostram um efeito significante indireto das pesquisas univer sitárias em patentes empresariais, inovação local, além de induzir a gastos em P& D. O uso de spillovers de conhecimento foi evidenciado por citações de patentes dos Estados Unidos na pesquisa de Jaffe et al.
+O estudo de Jaffe e Tr ajtenberg (1999) ultrapassa as fronteiras e avança na pesquisa, ao explorar o fluxo de conhecimento internacional, mais especificamente na Alemanha, França, Reino Unido, Japão e Estados Unidos.
+São encontrado padrões de citação patentes nesses países, como , por exemplo, a maior aproximação do Japão com os Estados Unidos, em relação à Europa, e evidência s de que inventores de patentes que moram no mesmo país têm até 80% mais chances de se citarem, do que os de outros países.
+Ao analisar a coluna de resultad os e contribuições descritas no Quadro 11, além da leitura de cada artigo que compõe o fator 3, é n ítida a ênfase para as patentes, seja patentes -posição tecnológica, de Jaffe (1986), patente -spillovers de conhecimento, de Jaffe et al.
+(1993), patente -pesquisa universitária ou científica, de Jaffe (1989), e patente -internacionalização do conhecimento, d e Jaffe e Trajtenberg (1999).
+Diante dos resultados encontrados nesta investigação, ficou decidido que a nomenclatura do fator 3 é: Patente e Spillovers de Conhecimento.
+Autores, base teórica e resumo do fator 3 Nº Autores - KMO Base Teórica Resultados e Contribuições 1 Jaffe A.
+(1986) 0,837 Oportunidade Tecnológica; Spillovers de P&D; Dados de Patentes É apresentado evidências de que patentes, lucros e valor de mercado estão de maneira sistemática relacionados a "posição tecnológica" de prog ramas voltados a pesquisa das empresas.
+2 Jaffe, Trajtenberg e Henderson.
+(1993) 0,823 Spillovers de Conhecimento; Dados de Patentes; Local ização Geográfica A comparação de localização geográfica das citações de patentes com patentes citadas, evidenciam q ue os spillovers de conhecimento estão geograficamente localizados.
+(1989) 0,799 Spillovers ; Patentes; Inovação É encontrado um efeito significativo nas pesquisas universitárias sobre patentes corporativas nas áreas de medicamentos, tecnologia médica e eletrônica, ótica e tecnologia nuclear.
+4 Jaffe e Trajtenberg (1999) 0,796 Citação de Patentes; Fluxo de Conhecimento; Spillovers Foi explorado os padrões de citação entre patentes obtidas por inventores de Estados Unidos, França, Alemanha, Reino Unido e Japão.
+Os resultados são significativos para empresas, inventores e classes de patentes Fonte: Dados da pesquisa .
+Ao examinar a pes quisa desenvolvida, é importante mostrar como ela está alicerçada nos três fatores: (1) Aprendizagem e Redes organ izacionais; (2) Inovação e Proximidade geográfica; e (3) Patente e Spillovers de conhecimento.
+A contagem e análise de dados contidos nas pate ntes, por meio de documentos patentários, são importantes fontes de Research, Society and Development, v. 1 1, n. 5, e21711528070 , 202 2 (CC BY 4 .0) | ISSN 2525 -3409 | DOI: -v11i5.28070 21 informações.
+Nesse sentido, ao observar os qua dros 8, 9, 10 e 11, é possível verificar algumas tendências que foram selecionadas e analisadas diante dos fatores, como mostra o Quadro 12.
+Principais termos e correntes teóricas .
+Principais termos e correntes teóricas Fator 1 (23) Fator 2 (1 2) Fator 3 (04) Citação de Patentes SIM SIM SIM Aprendizagem Organizacional SIM * * Transferência de Conhecimento SIM SIM * Spillover de Con hecimento SIM SIM SIM Capacidade Absortiva SIM * SIM Redes Organizacionais SIM SIM SIM Proximidade Geográfica * SIM * Inovação SIM SIM SIM Aprendizagem e Redes Organizacionais Inovação e Proximidade Geográfica Patente e Spillovers de Conhecimento Fonte: Dados da pesquisa.
+4.1 Análise Integrativa dos Fatores Esta pesquisa buscou explorar, organizar e classificar os achados da pesquisa sobre as bases conceituais na relação entre conhecimento e patentes.
+Portanto, realizou -se um estudo bibliométrico com 797 artigos científicos extraídos da base de dados WOS , considerando o período de 1996 a 2020.
+Foram aplicadas as técnicas bibliométricas convencionais, de citação e cocitação e a análise proporcionou uma visão da literatura relacionada ao tema abordado.
+A pe squisa sobre transferência de conhecimento tem gerado interesse acentuado na academia e no meio empresarial, por diversas razões, seja por busca de melhorar o desempenho das produções tecnológicas, empresariais ou de inovações.
+Nesse sentido, as patentes s ão configuradas como fontes de conhecimento valioso (Lee et al., 2009) para o entendimento do processo de trans ferência de conhecimento e, consequentemente, para inovações tecnológicas (Wang & Lu, 2021).
+O compartilhamento de conhecimento está relac ionado com a aprendizagem organizacional (Dong et al., 2021).
+É possível verificar a utilização de teorias como capaci dade absortiva, capacidades dinâmicas e visão baseada em conhecimento como alicerces para os estudos sobre conhecimento, embora as duas pr imeiras apareçam com maior frequência.
+Também é importante ressaltar que algumas vertentes de estudos foram verificad as, como: (a) a análise de localização geográfica, em que os estudos buscam verificar a sua influência no desempenho empresarial em relaçã o as inovações (Rosenkopf & Almeida, 2003); (b) spillovers de conhecimento (transbordamento de conhecimento não intenc ional), que propagam informações não intencionais por meio de vários canais externos (Jaffe, 1986; Jaffe et al., 1993; J affe & Trajtenberg, 1999); e (c) alianças e redes empresariais (Almeida & Kogut, 1999 ; Tsai, 2001; Rosenkopf & Almeida, 2003; Singh, 200 5).
+Essas teorias foram analisadas por meio de dados de patentes.
+Considerações Finais A transferência e exploração de conhecimento têm sido motivo para várias pesquisas na academia, principalmente com foco direcionado para entender como se desenvolve esse processo em empresas detentoras de inovações.
+Os dados de patentes são fontes importantes de informações para ente nder o processo em questão.
+Nesse sentido, este estudo conseguiu responder aos objetivos propostos, ao verificar as principais pesquisas que relacionam conhecimento e patentes.
+Ao analisar os estudos sobre conhecimento e patente, considerando um período de 25 anos (1996 -2020), evidenciouse a tendência hegemônica de estudos direcionados pelos Estados Unidos em relação ao tema.
+Entretanto, n ota-se também uma Research, Society and Development, v. 1 1, n. 5, e21711528070 , 202 2 (CC BY 4 .0) | ISSN 2525 -3409 | DOI: -v11i5.28070 22 segunda tendência, verificada em outros estudos, que é a segunda colocação da China quanto a publicaç ões sobre o tema, com forte crescimento a partir de 2004, ultrapassando vários países europeus tradicionais nesses estudos, como Alemanha , Itália e Inglaterra.
+Ao aprofundar as análises, este estudo apresentou bases conceituais importantes sobre conhecimen to e patente.
+Com isso, a questão de pesquisa foi respondida, ao apresentar as bases conceituais que suportam a relação entre conheciment o e patentes, e demonstrada nos quadros 8, 9, 10 e 11.
+Ao explorar as bases conceituais por meio da AFE, análise lexica l e leitura dos artigos, este estudo responde à questão de pesquisa, ao apresentar os fatores convergentes, bem como a escolha da nomencl atura com base nas análises realizadas.
+Na escolha dos nomes de cada dimensão o fator 1 recebeu o título de Aprendizage m e Redes organizacionais, o fator 2, de Inovação e Proximidade geográfica, e o fator 3, Patente e Spillovers de conhecimento.
+Ao eviden ciar as bases conceituais, identificou -se que estão relacionadas à transferência e à exploração de conhecimento, em seg uida da aprendizagem organizacional, transferência de conhecimento, spillovers de conhecimento, além de lentes teóricas que convergem com o fluxo de conhecimento, como capacidade absortiva, capacidade dinâmica, visão baseada em conhecimento e inovação.
+As patentes surgem como meios para entender como se desenvolve o processo de transferência de conhecimento entre empresas, já que são consid eradas fontes importante de informações.
+A limitação deste estudo está na utilização de apenas uma base de dados (WoS), o que impossibilita sua generalização.
+Outro ponto a ser considerado são as bases conceituais, que apresentam estudos de 2005, como, por exemplo, de Singh, 2005, o que inviabiliza um recorte mais atual das bases conceituais.
+Como estudos futuros, pode -se fazer um recorte dos últimos cinco anos em relação às bases conceituais e compará -las com o presente estudo, para entender a possível dif erença em relação a evolução histórica de trabalhos que estejam relacionados a conhecimento e patente, além de apresent ar possíveis tendências em tal recorte.
+Os pesquisadores interessados podem, ainda, realizar uma investigação contemplando outras bases d e dados.
+Com isso, acredita -se ser viável apresentar possíveis lacunas não evidenciados neste estudo.
+A transferência d e conhecimento e o estudo de patentes podem seguir inúmeros caminhos na literatura voltada à pesquisa científica e, consequentemente, à á rea gerencial (Park et al., 2013).
+O desenvolvimento de estudos futuros que agreguem e desenvolvam a pesquisa nes se sentido tornam -se relevantes.
+Desta maneira, conduzir estudos que busquem entender as motivações dos autores para utilizarem lentes teóricas , como capacidade absortiva, em comparação a outras que são menos utilizadas, embora tenham forte convergência co m o tema de conhecimento, como é o caso da visão baseada em conhecimento.
+Entender a terceira colocação da Itália em relação ao número de publi cações relevantes sobre o tema também pode ser um item interessante a ser analisado em estudos futuros.
+Agradeci mentos O presente trabalho foi realizado com apoio da Coordenação de Aperfeiçoamento de Pessoal de Nível SuperiorBrasil (CAPES) - Código de Financiamento 001, e também contou com apoio da Universidade Nove de Julho (UNINOVE), além da Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP), Projeto Nº 2017/25364 -6.
+Referências Ahlstrom, D. (2010).
+Innovation and growth: How business co ntributes to society .
+Academy of management perspectives , 24(3), 11 -24.
+Collaboration networks, structural holes, and innovation: A longitudinal study.
+Administrative science quarterly , 45(3), 425 -455.
+Localization of knowledge and the mobility of engineers in regional networks.
+Management science , 45(7), 905 -917.
+Bibliometria: evolução histórica e questões atuais.
+Research, Society and Development, v. 1 1, n. 5, e21711528070 , 202 2 (CC BY 4 .0) | ISSN 2525 -3409 | DOI: -v11i5.28070 23 Arroyabe, M. F. (2021).
+The role of paten t expiration in acquisition decision and target selection in the pharmaceutical industry.
+Audretsch, D. B., & Feldman, M. P. (1996).
+R&D spillovers and the geography of innovation and production .
+The American economic review , 86(3), 630 -640.
+Baghdadi, H. B., & Aouadi, S. (2018).
+Does Patent Performance Promote Relative Technological Performance in Countri es Bordering the Mediterranean?
+Journal of the Knowledge Economy , 9(4), 1246 -1269.
+Firm resources and sustained compe titive advantage .
+Journal of management , 17(1), 99 -120.
+Resource -based theories of competitive adv antage: A ten -year retrospective on the resource -based view.
+Journal of management , 27(6), 643-650.
+Climate of competition, clusters and innovative performance.
+Scandinavian Journal of Management , 20(3), 225 -244.
+Bezerr a, E. A. G., Souza, G. A.
+A. D., Gonçalves, M. C. P., Versiani, M. S., de Sousa Xavier, M. A., de Oliveira, A. M. E., & de Oliveira X avier, A. R. E. (2021).
+Estudo prospectivo de patentes relacionadas a vacinas contra o SARS -CoV -2.
+Research, Society an d Development, 10(10), e237101018803e237101018803.
+Björkman, I., Stahl, G. K., & Vaara, E. (2007).
+Cultural differences and capability transfer in cross -border acquisitions: The mediating roles of capability complementarity, absorptive capacity, and socia l integration.
+Journal of international business studies , 38(4), 658 -672.
+Proximity and innovation: a critical asse ssment.
+Regional studies , 39(1), 61 -74.
+Camargo, B. V., & Justo, A. M. (2013).
+Tutorial para uso do software de análise t extual IRAMUTEQ.
+Florianopolis -SC: Universidade Federal de Santa Catarina .
+Knowledge absorptive capa city: New insights for its conceptualization and measurement.
+Journal of Business Research , 63(7), 707 -715.
+Cantelli, G., C ochrane, G., Brooksbank, C., McDonagh, E., Flicek, P., McEntyre, J.
+The European Bioinformatics Institute: empowering cooperation in response to a global health crisis.
+Nucleic acids research, 49(D1), D29 -D37.
+Cappelli, R., Corsino, M., Laursen, K., & Torrisi, S. (2018 ).
+Technological Competition & Patent Strategy: Protection, Blocking Rivals or the Freedom to Operate.
+In Academy of Management Proceedings .
+Briarcliff Manor, NY 10510: Academy of Manag ement.
+A comparative study on world university rankings: a bibliometric survey.
+Scientometrics, 92(1), 89 -103.
+Open innovation: The new imperative for creating and profiting from technology .
+Chueke, G. V., & Amatucci, M. (2015).
+Cohen, W. M., & Levint hal, D. A.
+Absorptive capacity: A new perspective on learning and innovation.
+Administrative scien ce quarterly , 128-152.
+The evolution of the cluster literature: Shedding light on the regional studies –regiona l science debate.
+Regional studies , 44(9), 1263 -1288.
+Curado, C., & Bontis, N. (2006).
+The knowledge -based view of the firm and its theoretical precursor.
+International Journal of Learning and Intellectual Capital , 3(4), 367 -381.
+Da Veiga, C. P., Da Veig a, C. R. P., Del Corso, J. M., & Da Silva, W. V. (2015).
+Dengue vaccines: a perspective from the point of vie w of intellectual property.
+International journal of environmental research and public health , 12(8), 9454 -9474.
+Fundamentos teórico -conceituais da classificação.
+Revista de Biblioteconomia de Brasília , 6 (1), 9 -21.
+Current trends in knowledge organization.
+Organización del conocimiento em sistemas de información y documentación.
+Zaragoza: Universidad de Za ragoza , 7-25.
+Dikova, D., & Van Witteloostuijn, A.
+Foreign direct investment mode choice: entry and est ablishment modes in transition economies .
+Journal of international business studies , 38(6), 1013 -1033.
+Dong, J., Liu, R., Qiu, Y., & Crossan, M .
+Managers' knowledge distortion strategies and organizational learning in different environments.
+The Leadership Quarterly , 32(3), 101477.
+Fang, Y., Wade, M., Delios, A., & Beamish, P. W. (2013).
+An exploration of m ultinational enterprise knowledge resources and foreign subsidiary performance.
+Journal of World Business , 48(1), 30-38.
+Felin, T., & Hesterly, W. S. (2007).
+The knowledge -based view, nested heterogeneity, and new value creation: Philosophical considerati ons on the locus of knowledge.
+Academy of management review , 32(1), 195 -218.
+Ferreras -Méndez, J. L., Fernández -Mesa , A., & Alegre, J.
+The relationship between knowledge search strategies and absorptive capacity: A deeper look.
+Flatten, T. C., Engelen, A., Zahra, S. A., & Brettel, M. (2011).
+A measure of absorptive capacity: Scale develo pment and validation.
+European Management Journal , 29(2), 98 -116.
+Recombinant uncertainty in technological search.
+Management science , 47(1), 117 -132.
+Research, Society and Development, v. 1 1, n. 5, e21711528070 , 202 2 (CC BY 4 .0) | ISSN 2525 -3409 | DOI: -v11i5.28070 24 Fleming, L., & Sorenson, O.
+Science as a map in technological search.
+Strateg ic management journal , 25(8‐9), 909 -928.
+Foss, N. J., & Pedersen, T. (2002).
+Transferring knowledge in MNCs: The role of sources of subsidiary knowledge and organizational context.
+Journal of International Management , 8(1), 49 -67.
+Freeman, S., Hutchings, K., Lazaris, M., & Zy ngier, S. (2010).
+A model of rapid knowledge development: The smaller born -global firm.
+International Business Review , 19(1), 70 -84.
+The geometry of meaning: Semantics based on conceptual spaces .
+Glänzel, W., & Moed, H. F. (2002).
+Journal impact measures in bibliometric research.
+Scientometrics , 53(2), 171 -193.
+Goyal, S., Ahuja, M., & Kankanhalli, A.
+Does the source of external knowledge matter?
+Examining the role of customer co -creation and partner sourcing in k nowl edge creation and innovation.
+Information & Management , 57(6), 103325.
+Toward a knowledge‐based theory of the firm.
+Strategic management journal , 17(S2), 109 -122.
+Patent Statistics as Economic Indicators: A Survey Part II.
+National Bureau of Economic Research (NBER).
+Technological proximity and recombinative innovation in the alternative energy field.
+Research Policy, 45(7), 1460 -1473.
+How do es spati al crowdedness affect patenting performance in industrial clusters?
+An empirical study on the moderated Ushaped relationship.
+Technology Analysis & Strategic Management , 31(9), 1016 -1028.
+Hair, J. F., Black, Anderson, R. E., & Tatham, R. L. (2005 ).
+Analis e Multivariada de Dados .
+Hair, J., Babin, B., Money, A., & Samouel, P. (2005).
+Fundamentos de métodos de pesquisa em administração .
+The NBER patent citation data file: Less ons, insights and methodological tools (No.
+National Bureau of Economic Research.
+Haschka, R. E., & Herwartz, H. (2020).
+Innovation efficiency in European high -tech industries: Evidence from a Bayesian stochastic frontier approach.
+Rese arch Policy , 49(8), 104054.
+A., Hall, B. H., & Griliches, Z.
+Econometric models for count data with an application to the patents -R&D relationship (No.
+National Bureau of Economic Research.
+Hausman, J., & McFadden, D. (1984).
+Specification tests for the multinomial logit model.
+Econometrica: Journal of the econometric society , 1219 -1240.
+Isaksson, O. H., Simeth, M., & Seifert, R. W. (2016).
+Knowledge spillovers in the supply chain: Evidence from the high tech sectors.
+Research Policy , 45(3), 699-706.
+Technological opportunity and spillovers of R&D: evidence from firms' patents, profits and market value .
+Real effects of academic research.
+The American economic review , 957 -970.
+International knowledge flows: Evidence from patent citations.
+Economics of innovation and new technology , 8 (1-2), 105-136.
+B., Trajtenberg, M., & Henderson, R. (1993).
+Geographic localization of knowledge spill overs as evidenced by patent citations.
+The Quarterly journal of Economics , 108(3), 577 -598.
+Jansen, J. J., Van Den Bosch, F. A., & Volberda, H. W. (2005).
+Managing potential and realized absorptive capacity: how do organizational antecedents matter?
+Acad emy of management jo urnal , 48(6), 999 -1015.
+Katila, R., & Ahuja, G. (2002).
+Something old, something new: A longitudinal study of search behavior and new product introduction .
+Academy of management journal , 45(6), 1183 -1194.
+Internatio nal technology diffusi on.
+Journal of economic literature , 42(3), 752 -782.
+Kiessling, T. S., Richey, R. G., Meng, J., & Dabic, M. (2009).
+Exploring knowledge management to organizational performance outcomes in a transitional economy.
+Journal of world busi ness, 44(4), 421 -433.
+Koch, S., Bosch, H., Giereth, M., & Ertl, T. (outubro de 2009).
+Integração iterativa de percepções visuais durante a pesquisa e análise de patentes.
+Em 2009 IEEE Symposium on Visual Analytics Science and Technology (pp.
+Knowledge of the firm, combinative capabilities, and the replication of technology.
+Organization science , 3(3), 383 -397.
+Kostopoulos, K., Papalexandris, A., Papachroni, M., & Ioannou, G. (2011).
+Absorptive capacity, inn ovation, and financial per formance .
+Journal of Business Research , 64(12), 1335 -1343.
+Kotabe, M., Jiang, C. X., & Murray, J. Y.
+Managerial ties, knowledge acquisition, realized absorptive capacity and new product market performance of emerging mult inational companies: A case of China .
+Journal of World Business , 46(2), 166 -176.
+The Relationship Between Patent Characteristics and Patent Litigation in the Patent Pool of High -Tech Enterprises.
+In Recent Trends in Decision S cience and Management (pp.
+Research, Society and Development, v. 1 1, n. 5, e21711528070 , 202 2 (CC BY 4 .0) | ISSN 2525 -3409 | DOI: -v11i5.28070 25 Lane, P. J., Koka, B. R., & Pathak, S. (2006).
+The reification of absorptive capacity: A critical review and rejuvenation of the construct.
+Academy of management review , 31(4), 833 -863.
+Regional in novation system, absorptive capacity and innovation performance: An empirical study.
+Technological Forecasting and Social Change , 92, 99 -114.
+Lee, E. Y., & Cin, B. C. (2010).
+The effect of risk -sharing government subsidy on c orporate R&D investment: Empiri cal evidence from Korea.
+Technological Forecasting and Social Change , 77(6), 881 -890.
+Levinthal, D. A., & March, J. G. (1993).
+Strategic management journal , 14(S2), 95 -112.
+Liu, J., Grubler, A., Ma, T. et al.
+Identifying the technological knowledge depreciation rate using patent citation data: a case study of the solar photovoltaic industry.
+Explorati on and exploitation in organizatio nal learning.
+Organization science , 2(1), 71 -87.
+Marchiori, D., & Franco, M. (2020).
+Knowledge transfer in the context of inter -organizational networks: Foundations and intellectual structures.
+Journal of Innovation & Kno wledge , 5(2), 130 -139.
+Geography and growth -some empirical evidence.
+NUPI - Norsk Utenrikspolitisk Institutt , N 623.
+Maurseth, P. B., & Verspagen, B.
+Knowledge spillovers in Europe: a patent citations analysis.
+Scandinavia n Journal of Economics , 104(4), 531 -545.
+Spillovers e governança: uma análise dos spillovers de conhecimento e reputação em tecnologia da informação.
+Academy of Management Journal , 49 (1), 69 -84.
+Minbaeva, D., Pedersen, T., Björkman, I. , Fey, C. F., & Park, H. J.
+MNC knowledge transfer, subsidiary absorptive capacity and HRM.
+Journal of International Business Studies , 45(1), 38 -51.
+Mowery, D. C., Oxley, J. E., & Silverman, B. S. (1996).
+Strategic alliances and interfirm knowledg e transfer.
+Strategic management journal , 17(S2), 77 -91.
+Nair, S. R., Demirbag, M., & Mellahi, K. (2016).
+Reverse knowledge transfer in emerging market multinationals: The Indian context.
+International Business Review , 25(1), 152 -164.
+Narin, F., Hamilton , K. S., & Olivastro, D. (1997).
+The incre asing linkage between US technology and public science.
+Research policy , 26(3), 317 -330.
+Nerur, Rasheed & Natarajan (2008).
+The intellectual structure of the strategic management field: an author co -citation analy sis.
+Strategic Management Journal, v. 29, p .
+"Bibliometric Indicators and Analysis of Research Systems: Methods and Examples", OECD Science, Technology and Industry Working Papers , No.
+1997/01, OECD Publishing, Paris, 10.1787 / 208277770603 .
+Park, H., Yoon, J., & Kim, K. (2013).
+Using function -based patent analysis to identify potential application areas of technology for technology transfer.
+Expert Systems wi th Applications , 40(13), 5260 -5265.
+Pérez‐Nor dtvedt, L., Kedia, B. L., Datta, D. K., & Rasheed, A.
+Effectiveness and efficiency of cross‐border knowledge transfer: An empirical examination.
+Journal of management Studies , 45(4), 714 -744.
+Pigola, A., da Costa, P. R., Carvalho, L. M .
+C., Port o, G. S., & de Paulo, A. F. (2022).
+High Analytics Information Technological Routes: a patent network analysis.
+Research, Society and Development , 11 (4), e38011427569 - e38011427569.
+The evolution of the int ellectual s tructure of operations management – 1980 – 2006: a citation/co -citation analysis.
+Journal of Operations Management , 27, pp.
+Pittaway, L., Robertson, M., Munir, K., Denyer, D., & Neely, A.
+Networking and innovation: a systematic review of th e evidence.
+International journal of management reviews , 5 (3‐4), 137 -168.
+Plank, J., & Doblinger, C. (2018).
+The firm -level innovation impact of public R&D funding: Evidence from the German renewable energy sector.
+Powell, W. W., Koput, K. W., & Smith -Doerr, L. (1996).
+Interorganizational collaboration and the locus of innovation: Networks of learning in biotechnology.
+Administrative science quarterly , 116-145.
+Priem, R. L., & Butler, J. E. (2001).
+Is the resourc e-based "view" a useful perspective for strategic management research?
+Academy of management review , 26(1), 22 -40.
+Statistical bibliography or bibliometrics.
+Journal of documentation , 25(4), 348 -349.
+Pritchard, A., & Wittig, GR (198 1).
+Quevedo -Silva, F., Santos, E. B.
+A., Brandão, M. M., & Vils, L. (2016).
+Estudo bibliométrico: orientações sobre sua aplicação .
+Revista Brasileira de Marketing, 15(2), 246 -262.
+Ramos‐Rodríguez, A. R., & Ruíz‐Navarro, J.
+Changes in the intellectual structure of strategic management research: A bibliometric study of the Strategic Management Journal, 1980 –2000.
+Strategic management journal , 25(10), 981 -1004.
+Research, Society and Development, v. 1 1, n. 5, e21711528070 , 202 2 (CC BY 4 .0) | ISSN 2525 -3409 | DOI: -v11i5.28070 26 Reinert, M. (1990).
+Alceste une méthodologie d'analyse des données textuel les et une application: Aurelia De Gerard De Nerval.
+Bulletin of Sociological Methodology/Bulletin de méthodologie sociologique , 26(1), 24 -54.
+Endogenous technological change.
+Journal of political Economy , 98(5, Pa rt 2), S71 -S102.
+Rope r, S., & Hewitt -Dundas, N. (2015).
+Knowledge stocks, knowledge flows and innovation: Evidence from matched patents and innovation panel data.
+Research Policy , 44(7), 1327 -1340.
+Rosenkopf, L., & Almeida, P. (2003).
+Overcoming local se arch through alliances and mobility.
+Management science , 49(6), 751 -766.
+Beyond l ocal search: boundary‐spanning, exploration, and impact in the optical disk industry.
+Strategic management journal , 22(4), 287 -306.
+Schle imer, S. C., & Pedersen, T. (2014).
+The effects of MNC parent effort and social structure on subsidiary absorptive cap acity.
+Journal of International Business Studies , 45(3), 303 -320.
+Collaborative networks as determinants of knowledge d iffusion patterns.
+Management science , 51(5), 756 -770.
+Small, H., & Garfield, E. (1985).
+The geography of sciencew: d isciplinary and national mappings.
+Journal of Information Science , 11(4), 147 -159 Song, J.
+Subsidiary absorptive capacity and kno wledge transfer within multinational corporations.
+Journal of International Business Studies , 45(1), 7384.
+Local search and the evolution of technological capabilities.
+Strategic management journal, 17(S1), 21 -38.
+Exploring internal stickiness: Impediments to the transfer of best practice within the firm.
+Strategi c management journal, 17(S2), 27 -43.
+Profiting from technological innovation: Implications for integration, collaboration, licensing and public policy.
+Research policy , 15(6), 285-305.
+Thompson, P., & Fox -Kean, M. (2005).
+Patent citati ons and the geography of knowledge spillovers: A reassess ment.
+American Economic Review , 95(1), 450460.
+A penny for your quotes: patent citations and the value of innovations.
+The Rand journal of economics , 172 -187.
+Trajtenberg, M. , Henderson, R., & Jaffe, A.
+University versus corporate patents: A window on the basicness of invention .
+Economics of Innovation and new technology , 5(1), 19 -50.
+Knowledge transfer in intraorganizational networks: Effects of netwo rk position and absorptive capacity on business unit i nnovation and performance.
+Academy of management journal , 44(5), 996 -1004.
+Van den Bosch, F. A., Volberda, H. W., & De Boer, M. (1999).
+Coevolution of firm absorptive capacity and knowl edge environment: Organizational forms and combinative capabilities .
+Organization science , 10(5), 551 -568.
+Advanced bibliometric methods to assess research performance and scientific development: basic principles and recent practic al applications.
+Research Evaluation , 3(3), 151 -166.
+Vermeulen, F., & Barkema, H. (2001).
+Academy of Management journal , 44(3), 457 -476.
+Volberda, H. W., Foss, N. J., & Lyles, M. A.
+Perspective Absorbing the concept of absorptive capac ity: How to realize its potential in the organizat ion field.
+Organization science , 21(4), 931 -951.
+Wang, D., Sørensen, O. J., & Moini, H. (2018).
+Disentangling the value creation mechanism in cross‐border acquisitions: A process‐orient ed approach.
+Thunderb ird International Business Review , 60(3), 387 -409.
+The effects of knowledge transfer on innovation capability : A moderated mediation model of absorptive capability and network reliance.
+The Journal of High Technology Management Research , 31(1), 100372.
+University -industry innovation community dynamics and knowledge transfer: Evidence f rom China.
+Small forces and large firms: Foundations of the RBV.
+Strategic Management Journal , 34(6), 635 -643.
+White, H. D. & McCain, K. W. (1998).
+Visualizing a Discipline: An Author CoCitation Analysis of Information Science, 1972 -1995.
+Journal of the American Society for Information Science 49: 327 -55.
+Zahra, S. A., & George, G. (2002).
+Absorptive capacity: A review, reconceptualization, and extension.
+Academy of management review, 27(2), 185 -203.
+Zhou, A. J., Fey, C., & Yildiz, H. E. (2018).
+Fostering integration through HRM practices: An empirical examination of absorptive capacity and knowledge transfer in cross -border M&As.
+Journal of World Business , 55(2), 100947.
+How kn owledge affects radical innovation: Knowledge base, market knowledge acquisition, and internal knowledge sharing.
+Strategic management journal , 33(9), 1090-1102.

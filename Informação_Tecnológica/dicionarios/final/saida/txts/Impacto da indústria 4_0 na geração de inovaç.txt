@@ -1,0 +1,254 @@
+ Página | 36 Impacto da indústria 4.0 na geração de inovação em tecnologias médicas: um a abordagem patentári a RESUMO Ana Beatriz Bassette Goes Centro de Ciências e Tecnologia, Universidade Presbiteriana Mackenzie beatrizgoes.15@hotmail.com Igor Polezi Munhoz Instituto Federal de Educação, Ciência e Tecnologia de São Paulo igor.munhoz@ifsp.edu.br Alessandra Cristina Santos Akkari Centro de Ciências e Tecnologia, Universidade Presbiteriana Mackenzie alessandra.akkari@mackenzie.br Fatos globais que desafiam a saúde pública, como a pandemia de COVID -19 e o envelhecimento populacional , requer em uma visão holística da aplicação das tecnologias 4.0 com novas práticas sociais .
+O objetivo d esse artigo foi mapear o potencial da Indústria 4.0 na geração de inovação médica .
+Para tanto , desenvolveu -se um estudo exploratório e descritivo, de natureza aplicada e com uma abordagem quantitativa baseada na coleta e tratamento estatísticos de dados patentários para Brasil, EUA, Alemanha e Suíça.
+Constatou -se a baixa contribuição mundial do Brasil (0,08%) na geração de tecnologias , enquanto que EUA e Alemanha destacaram -se em capacidade inovativa .
+Todos os países mostra ram uma variação relativa positiva (> 17%), entre 2011 –2017 .
+Conclui -se sobre a influência da Indústria 4.0 na inovação médica , apontando a aplicação de tecnologias 4.0 como estratégia de desenvolvimento social .
+Logo, esse artigo contribui para direcionar políticas de ciência, tecnologia e inovação a fim de otimizar índices de assistência à saúde.
+PALAVRAS -CHAVE: Indústria 4.0 .
+Página | 37 INTRODUÇÃO O acelerado progresso tecnológico, fomentado pelas disrupções geradas por meio das revoluções industriais, vem provocando mudanças sociais e organizacionais.
+Nesse cenário, sociedades e mercados vêm se modificando com o passar dos anos a partir de fronteiras cada vez mais fluidas e dinâmicas , sendo que essas transformações trazem consigo um delineamento da relação entre o ambiente, o indivíduo e a tecnologia (KUMARI et al., 2018) .
+Três grandes revoluções industriais foram presenciadas mundialmente.
+A primeira introduziu a fabricação mecânica a vapor e, consequentemente, possibilitou o aumento da velocidade de produção, melhorando sua eficiência.
+A segunda apresentou o advento da pro dução em massa movida à eletricidade e a divisão do trabalho.
+A terceira foi marcada pela utilização dos aparelhos eletrônicos e pela tecnologia da informação.
+Finalmente, o desenvolvimento da quarta revolução permitirá uma conexão entre o mundo digital e o físico (KAGERMANN; WAHLSTER; HELBIG, 2013 ; POSADA et al., 2015 ).
+De fato, a sofisticação e a integração das tecnologias digitais estão causando um rompimento em relação à terceira revolução, abrindo espaço para uma transformação capaz de criar um mundo no qual os sistemas físicos e virtuais de produção cooperam de forma global e flexível , por intermédio de fábricas inteligentes, possibilitando a personalização de mercadori as e o desenvolvimento de novos modelos operacionais (JACOB, 2017) .
+A primeira vez que o termo Indústria 4.0 foi mencionado aconteceu em 2011, na Alemanha, com o propósito de desenvolver um novo conceito baseado na utilização de novas tecnologias.
+No mesmo ano, o Governo Federal da Alemanha anunciou a utilização da Indústr ia 4.0 como parte integrante da iniciativa High Tech Strategy 2020 for Germany , visando a liderança em inovação tecnológica (KAGERMANN; WAHLSTER; HELBIG, 2013).
+Segundo Schwab (201 7), a quarta revolução não diz respeito apenas às ferramentas inteligentes e a conexão entre estas, mas abrange um propósito muito mais amplo, desde o sequenciamento genético até a nanotecnologia, transformando a sociedade e a economia global.
+Assim, sua di ferença, quando comparada às demais evoluções, refere -se à integração das tecnologias e a relação entre domínios físico, digita l e biológico.
+Nesse contexto, o avanço das tecnologias 4.0 , como cibersegurança, realidade aumentada, Big Data , realidade virtual, computação em nuvem, entre outros, tem alto potencial de impacto na área médica, sendo passível de remodela r dispositivos e processos, incluindo diagnóstico e medicina preditiva ; atendimento domiciliar ; tratamentos farmacêuticos personalizados ; tratamentos remotamente acionados ; dentre outr as estratégias direcionadas à transformação digital aplicada à assistência à saúde (KHELASSI ; ESTRELA , 2019 ; NEUMAIER, 2019 ).
+A associação entre tecnologia e desenvolvimento social assume particular importância ao se refletir sobre fatos atuais que desafiam a saúde pública no mundo .
+Diante de uma mudança demográfica vinculada ao fenômeno global do envelhecimento da população e a respectiva necessidade de manutenção da Página | 38 qualidade de vida, tem-se a necessidade de desenvolvimento de soluções que permitam aos profissionais e pacientes uma interação de forma mais efetiva do que o co nvencional, escalável e de menor custo.
+De fato, até 2050, é estimado que a população mundial com mais de 65 anos alcance o patamar de 1,6 bilhões, impondo diversos desafios à gestão da saúde (HE; GOODKIND; KOWAL, 2016).
+Essa transição demográfica acarreta rá elevação no número de internações hospitalares, maior tempo de permanência no leito, aumento do uso dos sistemas de saúde, dentre outros aspectos (MEALY; SORENSEN, 2020; VERAS, 2009) que necessitam ser considerados nas políticas públicas, visando uma su stentabilidade dos processos de gestão.
+Ademais, eventos não previstos que se tornam emergências de saúde pública, como a doença COVID -19, causada pelo novo coronavírus SARS -CoV-2 e que foi caracterizada como pandemia pela Organização Mundial da Saúde (OMS) em 11 de março de 2020 (SECRETARIA DE VIGILÂNCIA EM SAÚDE , 2020) , coloca em questão a capacidade dos sistemas de vigilância e assistência à saúde no tocante à celeridade de resp osta e poder de detecção precoce .
+Diversos trabalhos na literatura apontam desafios de cunho tecnológico que devem ser vencidos na área médico -hospitalar a fim de resguarda r a saúde e bem -estar da população, principalmente de idosos ou indivíduos com presença de comorbidades que afetam o sistema imunológico (PENG ; HO; HOSTA, 2020; PHAM et al., 2020; REEVES et al.
+(2020) cita m, para o caso brasileiro, a necessidade de integração dos sistemas de informação; aumento de capilaridade do processamento de dados epidemiológicos em tempo real; infraestrutura tecnológica moderna que permita a notificação de doenças de acordo com o princípio de epidem iologia de precisão, entre outros aspectos que são sugeridos, pelos autores, para integrarem o padrão da vigilância epidemiológica nacional.
+Em contrapartida, Whag, Ng e Brook (2020) já mostram a abordagem tecnológica robusta utilizada por Taiwan para cont enção da doença n a região , englobando a integração do banco de dados nacional de seguro de saúde e o banco de dados da imigração e alfândega, culminando na análise , por Big Data Analytics , a fim de identificar casos positivos com base no histórico de viagens e nos sintomas clínico s relatados pelos cidadãos ; uso de códigos bidimensionais de leitura rápida (QR code ) e desenvolvimento de relatórios digitais, acessados remotamente e em tempo real, para classificar o s indivíduos, de modo que pessoas com passado recente de viagens foram colocad as em quarentena e rastreadas, pelo celular , para garantir que permanecessem em domicílio durante o período de i solamento .
+Ainda, empregando -se sistemas inteligentes, a identificação de novos casos de COVID -19 ocorreu por meio de uma busca proativa, realizada pelo governo, de pacient e com sintomas respiratórios graves , colaborando para detecção precoce.
+Assim, observa -se que as tec nologias 4.0 t êm sido implementadas na indústria da saúde em diferentes países e, durante os últimos anos, foram realizados crescimentos substanciais nas ciências médicas com importantes inovações.
+Contudo, dado que a Indústria 4.0, considerando seus princípios e atributos, ainda está em momento de difusão científica e tecnológica, o desenvolvimento de um mapeamento pode colaborar a fim de avaliar, com base em indicadores, se realmente está ocorrendo a geração de inovação na área de tecnologias médicas.
+Nesse caso, mapeamentos tecnológicos baseados em dados patentários são Página | 39 importantes a fim de reunir, em um único documento, informações estratégicas e de mais fácil assimilação que podem direcionar polí ticas públicas e alavancar índices de inovação.
+Patente pode ser descrita como um documento capaz de proteger uma invenção do uso de terceiros, de modo que o detentor pode impedir que qualquer pessoa utilize atribuições feitas no escopo de suas reinvindicações.
+A patente, além de fornecer proteção legal, também fornece informações detalhadas sobre a tecnologia (GUTMAN; CAPRARO; CHEN, 2016).
+O crescimento das inovações referentes às tecnologias complexas tornou a utilização das proteções patentári as mais recorrentes.
+As patentes são fontes de conhecimentos técnicos e comerciais, sendo uma importante ferramenta de gerenciamento de P esquisa e Desenvolvimento (P &D), pois permitem que as organizações analisem o avanço de inovações e avaliem a competitividade perante o mercado num contexto macro (TONG, 2018).
+Ainda, a proteção intelectual de uma nova tecnologia mostra -se necessária a fim de garantir a manutenção, bem como a recompensa, dos elevados investimento em P&D, explorando o período de exclusividade garantido ao detentor da proteção (BEALL; DARROW; KESSELHEIM, 2019).
+Logo, esse artigo objetivou mapear o potencial da Indústria 4.0 para a geração de novas tecnologias médicas, avaliando se o avanço da Quarta Revolução Industrial tem impactado o desenvolvimento de inovação na área da saúde.
+Para tanto , por meio de uma pesquisa exploratória e descritiva, de n atureza aplicada e abordagem quantitativa, desenvolveu -se um mapeamento tecnológico baseado nas tecnologias médicas e indicadores patentários extraídos da World Intellectual Property Organization (WIPO), considerando, ainda, uma avaliação comparativa entre Brasil, E stados Unidos (EUA) , Alemanha e Su íça.
+A coleta e tratamento estatístico do s dados secundários ponderou dois períodos de tempo distintos, referindo -se a 1996 – 2017 e 2011 – 2017, sendo este último delineado a fim de analisar a variação relativa ocorrida no espaço temporal em que se iniciou a propagação da Indústria 4.0 até o último ano de registro do banco de dados .
+Pretendeu -se, assim, traçar um panorama d o quantitativo de iniciativas desenvolvidas n o campo de assistência à saúde com base na geração de novas tecnologias, possibilitando o suporte ao gerenciamento e planejamento tecnológico e estratégico, especialmente para o caso brasileiro que pode direcionar ações inspiradas nas trajetórias de países referências em inovação e implantação da Indústria 4.0.
+Ressalta -se que há muitos estudos na literatura direcionados a avaliar a quarta revolução sob a perspectiva da produção industrial e processos associados , de modo que ainda há uma lacuna, principalmente na literatura nacional, no tocante à discussão da digitalização da assistência à saúde .
+Logo, a consideração de contexto tecnológico e socia l, baseado em parâmetros , permit e que a abordagem metodológica desenvolvida nesse estudo possa ser a plicada a outras áreas da economia.
+Ademais, uma vez que dados sobre patentes comumente são complexos, estão distribuídos em diferentes bancos de dados e são de difícil interpretação a partir de valores numéricos puros, a compilação e discussão contextuali zada desses índices é um facilitador para direcionamento de políticas públicas de ciência, tecnologia e inovação a fim de otimizar indicadores de um país, sendo essa outra contribuição pretendida por esse estudo.
+Página | 40 METODOLOGIA O presente estudo, quanto aos objetivos, apresenta caráter exploratório e descritivo, apresentando uma natureza aplicada e abordagem quantitativa.
+Quanto aos procedimentos, desenvolveu -se um levantamento bibliográfico seguido por um levantamento de dados p atentários em banco internacional de propriedade intelectual (LAKATOS; MARCONI, 2003).
+De acordo com os preceitos de Crossan e Apaydin (2010), o processo de revisão desenvolvido partiu da definição de critérios para os termos de pesquisa, seguido da categ orização de grupos com os documentos identificados de acordo com a temática, compilação dos dados e sintetização da literatura .
+Para tanto, utilizou -se os bancos científicos Science Direct , SciELO, Scopus , PubMed e Web of Science .
+As palavras -chaves que foram utilizadas referiu -se, principalmente, a Medical Devices , Cloud Computing , Augmented Reality , Big Data , Cybersecurity , IoT, IoS, Autonomous Robots , Industry 4.0 , Health 4.0 e Patent , tan to em português quanto em inglês.
+Após o levantamento bibliográfico, desenvolveu -se uma análise patentária baseada na coleta de dados extraídos da plataforma da WIPO, especificamente utilizando como ferramenta o Intellectual Property Statistics Data Center a fim de obter índices estatísticos das atividades de propriedade intelectual no mundo.
+Na WIPO, o mapeamento tecnológico contou com a seleção de alguns critérios para extração .
+Primeiro, escolheu -se a variável Indicador, selecionandose a extração de dados por tecnologia para direcionar o estudo para a área de assistência à saúde (Indicator: 5 – Patent grants by Technology ).
+Assim, a segunda variável selecionada referiu -se ao objeto de estudo, isto é, tecnologias médicas (Technology: 13 – Medical Technology ).
+Esclarece -se que essas tecnologias podem ser compreendidas como dispositivos médicos, englobando instrumentos, aparelhos, equipamentos ou materiais cujo objetivo seja monitorar, diagnosticar, prevenir, controlar ou tratar doenças, lesões e deficiências (ASLANI et al., 201 9).
+A terceira variável selecionada referiu -se ao tipo de análise, de modo que foi desenvolvido neste estudo um levantamento , primeiramente, por patentes concedidas por país de origem que teve a patente concedida (Report Type: Total count by applicant's origin ) e, então, por escritório que concedeu a patente ( Report Type: Total count by filing office ).
+A análise temporal ocorreu a partir de 1996, pois trata -se do ano em que a Lei da Propriedade Industrial no Brasil - Lei n° 9.279 (BRASIL, 1996) foi criada, até o último ano registrado no banco patentário (2017) .
+Avaliaram -se os indicadores patentários em quatro países , i.e., (i) Brasil, região em que a pesquisa foi desenvolvida e para o qual destina -se o resultado das comparações a fim de apontar tendências e novos direcionamentos de políticas ; (ii) Estados Unidos (EUA) , país com alto investimento em tecnologia, bem como o detentor do maior número de patentes farmacêuticas (AKKARI et al., 2016); (iii) Suíça, onde há um alto desenvolvimento da indústria farmacêutica; (iv) e Alemanha, país em que se iniciou a Indústria 4.0 , em 2011, .
+Os dados foram tabulados por país e ano, por meio de planilhas eletrônicas no Microsoft Excel , tanto para uma análise por origem quanto por escritório.
+A análise foi direcionada para entender melhor a relação dos valores com as políticas de desenvolvimento da Indústria 4.0 em cada um dos países.
+Página | 41 A fim de permitir uma comparação entre os países , obteve -se a variação relativa considerando todo o período analisado (1996 a 2017) e o marco de surgimento da Indústria 4.0 até a última data de registro (2011 a 2017) para verificar se o número de patentes médicas foi impactad o por esse novo paradigma.
+Ressalta -se que a literatura aponta que o indicador patentário pode ser empregado como insumo a fim de avaliar o grau de inovação de um país ( LIU; YANG, 2019 ; MATOS et al., 2019 ), sendo corroborado pelo Manual Frascati , que é um documento elaborado pela Organisation for Economic Co -operation and Development (2002) e referência nas discussões sobre Pesquisa, Desenvolvimento e Inovação; o qual sustenta que a patente é um output do processo inovativo , servindo com indicador de inovação .
+RESULTADOS E DISCUSSÕES Mapeamento tecnológico por origem e por escritório Avaliou -se o setor de tecnologias médicas por quantidade de patentes concedidas por país de origem e por escritório.
+A Tabela 1 apresenta o número de patentes concedidas para Brasil, Alemanha, Suíça e EUA , de modo que se verificou a geração de 356.817 patentes médicas por essas regiões , entre 1996 a 2017 .
+Analisando os pedidos de patentes concedidos ao Brasil, sendo um indicador de geração de inovação, é possível afirmar que vem crescendo desde 1996, com 10,1% de crescimento em 21 anos.
+No mesmo período, a Alemanha apresentou um crescimento de 36,8%, os EUA de 28,8% e a Suíça de 16,8%.
+Tabela 1 - Patentes de tecnologias médicas concedidas para Brasil, Alemanha, Suíça e EUA (1996 -2017) Brasil Alemanha Suíça EUA 1996 5 1.243 327 6.897 1997 7 1.267 281 7.138 1998 6 1.341 338 8.968 1999 14 1.396 385 9.051 2000 12 1.205 342 8.484 2001 18 1.384 431 8.636 2002 23 1.728 594 8.581 2003 27 2.085 738 10.233 2004 21 2.339 786 9.258 2005 33 2.224 782 8.496 2006 25 2.187 851 8.936 2007 12 2.197 898 8.572 2008 19 2.267 1.201 8.863 2009 33 2.336 1.528 10.127 2010 26 2.771 1.555 13.195 2011 37 2.770 1.424 15.139 2012 41 3.373 1.666 17.577 2013 40 3.752 1.643 19.780 2014 52 4.115 1.614 20.751 Página | 42 2015 57 4.401 1.774 20.627 2016 47 5.434 1.914 23.197 2017 46 4.918 1.951 23.954 Total 601 56.733 23.023 276.460 Fonte: Autoria própria a partir de dados coletados da WIPO (2019).
+Segundo Albuquerque e Cassiolato (2002), o desenvolvimento de tecnologias médicas é diretamente dependente de pesquisa e desenvolvimento (P&D), requerendo altos investimentos e conhecimento de ponta, além de associações estratégicas entre os diferentes agentes do processo, como universid ades, empresas, institutos de pesquisas e agências governamentais.
+Na contramão deste cenário, o Brasil apresenta baixa interação entre gestores da saúde, indústria, órgãos regulamentadores e instituições de pesquisa, culminando no baixo desenvolvimento de novas tecnologias médicas (ALMEIDA, 2015).
+Além do desenvolvimento de um ambiente inovador que permita o surgimento de novas tecnologias em escala, é fundamental realizar investimento em capital humano, formando profissionais de excelência e multidisciplinares, sendo este um dos requisitos para o trabalhador 4.0.
+De fato, a aplicação de conhecimentos para geração de inovação na era digital traz à análise, de modo crítico, as qualificações exigidas do colaborador inserido no contexto de manufat ura avançada e internet industrial, permitindo elencar quatro requisitos essenciais: (i) formação interdisciplinar; (ii) capacidade de adaptação; (iii) senso de urgência; (iv) e bom relacionamento interpessoal.
+Assim, o colaborador terá que romper e ultrap assar a busca somente por soluções técnicas para um problema, necessitando da interação com profissionais de diversas áreas, de criatividade e da capacidade adaptativa (ROCHA et al., 2019).
+De acordo com a Tabela 1, n ota-se que os EUA ocupam o primeiro lug ar entre os quatro países estudados , com 276.460 patentes de tecnologia s médica s, seguido s pela Alemanha (56.733 patentes) e pela Suíça (23.023 patentes).
+O índice brasileiro mostra -se expressivamente inferior às outras regiões abordad as, representado aproximadamente 0,2% do total de proteções de tecnologias médicas geradas por es ses países , com apenas 601 patentes concedidas .
+Segundo a classificação Medical Technology da WIPO, foram concedidas 733.340 patentes médicas no mundo, entre 1996 a 2017 , de modo que os países estudados foram responsáveis, conjuntamente, por cerca de 49% dessas proteções (356.817 ).
+A Figura 1 ilustra , de modo comparativo, a porcentagem de contribuição na geração de inovação em tecnologia médica dos países Brasil, Alemanha, Suíça e EUA em relação ao total de proteções mundiais .
+Constata -se a posição destacada dos EUA, contribuindo com 37,37% do total de inovações .
+A Alemanha também apresenta um maior raio em relação à Suíça (3,34%) e ao Brasil (0,08%), demonstrando sua contribuição de cerca de 8% do total de tecnologia médica ger ada no mundo.
+Figura 1 - Contribuição mundial dos países Brasil, Alemanha, Suiça e EUA na geração de inovação em tecnologias médicas Página | 43 Fonte: autoria própria (2019).
+A Tabela 2 apresenta o número de patentes concedidas nos escritórios d e Brasil, Alemanha, Suíça e EUA, isto é, regiões nas quais foi solicitada e concedida a proteção da tecnologia médica, resultando em 229.893 concessões.
+Nota -se, avaliando o total de patentes concedidas, que o Brasil ocupa o terceiro lugar, ultrapassando a Suíça (724 proteções) em 46%, com um total de 1.562 patentes concedidas no escritório brasileiro , de modo a garantir a exploração dessas tecnologias no país pelo detentor .
+Os EUA continuam em primeiro lugar, seguidos pela Alemanha, de modo que essas regiõe s concederam 216.753 e 10.854 patentes de tecnologias médicas, entre 1996 e 2017, respectivamente.
+Observa -se que, por meio da Tabela 2, o total de patentes concedidas no escritório do Brasil (1.562 proteções) é muito superior ao número de patentes concedi das ao Brasil (601 proteções), Logo, a análise por escritório indicou que o Brasil concedeu mais patentes (patentes concedidas no escritório brasileiro) do que lhe foi concedida (patentes concedidas ao Brasil, de acordo com a análise por origem), demonstrando que outras regiões vêm conquistando o mercado brasileiro para fins de exploração exclusiva das tecnologias médicas .
+Tabela 2 - Patentes de tecnologias médicas concedidas nos escritórios do Brasil, Alemanha, Suíça e dos EUA (1996 -2017) Brasil Alemanha Suíça EUA 1996 0 369 70 5.727 1997 0 343 56 6.035 1998 0 347 18 8.100 1999 2 375 23 7.874 2000 6 339 31 8.032 2001 5 370 43 8.169 2002 7 409 37 8.048 2003 4 473 34 9.078 Página | 44 2004 6 604 37 7.335 2005 10 714 34 6.092 2006 9 713 38 6.803 2007 5 698 41 6.100 2008 78 549 31 5.463 2009 185 484 48 6.273 2010 167 464 40 10.144 2011 129 341 20 11.235 2012 162 497 16 13.343 2013 146 533 21 15.425 2014 133 506 27 16.486 2015 185 530 19 16.132 2016 167 613 15 16.772 2017 156 583 25 18.087 Total 1.562 10.854 724 216.753 Fonte: Autoria própria a partir de dados coletados da WIPO (2019).
+A Figura 2 apresenta uma comparação entre os países estudados, considerando o montante de proteções geradas (origem) e concedidas (escritório) por essas regiões.
+De fato, observa -se que os EUA apresentam alta taxa de inovação na área de tecnologias médica s, bem como demonstrou ser o país com maior taxa de atratividade, de modo que 94% das proteções médicas, considerando apenas as quatro regiões estudadas (229.893 concessões), foram concedidas nos escritórios norte -americanos.
+Figura 2 – Porcentagem de patentes de tecnologias médicas concedidas por país de origem e por escritório, considerando apenas o montante do Brasil, Alemanha, Suíça e dos EUA (1996 -2017) Página | 45 Fonte: Autoria própria a partir de dados coletados da WIPO (2019).
+A Suíça , por sua vez, tem mostrado maior capacidade de geração de patente (6,45%) do que de concessão (0,31%), de modo que, na análise por escritório, esse país foi superado inclusive pelo Brasil (0,68%), apontando que as empresas possuem interesse em proteger te cnologias médicas no contexto brasileiro.
+Essa constatação pode estar associada ao fato do Brasil ser um país com mercado farmacêutico emergente, devido ao envelhecimento da população e maior acesso ao sistema de saúde (DE OLIVEIRA et al., 2019).
+Em 2017, o Brasil foi o sexto maior mercado farmacêutico do mundo, ficando atrás apenas dos EUA, China, Japão, Alemanha e França ( INSTITUTE FOR HUMAN DATA SCIENCE , 2019).
+Variação relativa (2011 – 2017) e a associação com a Indústria 4.0 As Tabelas 3 e 4 representam a variação relativa no número de patentes de tecnologias médicas de acordo com a origem e o escritório, respectivamente, considerando as quatro regiões estudadas .
+Pode -se nota r, ao analisar a Tabela 3, que, durante o período de 1996 a 2017, o Brasil foi o país que mais evoluiu na taxa de inovação, quando comparado aos outros países analisados, aumentando seu número de proteções médicas em 89%, embora a magnitude ainda seja inexpr essiva .
+Contudo, percentualmente, nota -se que não há uma discrepância entre as regiões , de modo que a Suíça alcançou 83% de crescimento, assumindo o segundo lugar; Alemanha apresentou aumento de 75%, e, por último, os EUA, com expansão de 71% na geração de patentes médicas.
+Tabela 3 – Variação relativa no número de patentes de tecnologias médicas concedidas ao Brasil, Alemanha, Suíça e aos EUA, considerando dois instantes de tempo (1996 -2017 e 2011 -2017) Período Brasil Alemanha Suíça EUA Variação Relativa 1996 -2017 89% 75% 83% 71% 2011 -2017 20% 44% 27% 37% Fonte: Autoria própria a partir de dados coletados da WIPO (2019).
+Todos os países apresentaram uma variação relativa positiva entre os anos de 2011 e 2017, sugerindo que o aumento na geração de patentes médicas (superior a 20%) potencialmente está relacionado com o surgimento do conceito da Indústria 4.0, estimulando os setores a desenvolverem soluções por meio do uso das tecnologias digitais.
+Na área da saúde , essas soluções podem ser aplicadas de diversas formas, por meio de um dispositivo mé dico que permite o monitoramento contínuo ou até mesmo um sistema que disponibiliza todo o histórico médico dos pacientes em um único local, possibilitando diagnósticos mais assertivos a partir da utilização do Big Data, Computação em nuvem, Internet of Things (IoT) e Internet of Services (IoS).
+Corroborando os dados obtidos nesse trabalho, o estudo de Mück et al.
+(2019) apontou que o número de pedidos de patentes de dispositivos médicos, especificamente wearables medical devices , aumentou em 34 vezes no período 2010–2018, devido à elevação do uso dessas tecnologias pelos consumidores no início dos anos 2010 .
+Página | 46 Ainda, estima -se um aumento de valor do mercado de wearables de US$ 7,4 bilhões em 2018 para US$ 12,14 bilhões até 2021 (RESEARCH AND MARKETS, 2018).
+Quando aplicado à área médica, de fato a América do Norte domina esse mercado, destacando -se as bombas d e insulina, oxímetros de pulso, monitores de pressão arterial e glicosímetros, de acordo com a Grand View Research (2016), empresa de consultoria e pesquisa de mercado sediada na Índia e nos EUA.
+De fato, Buhr (2015) afirma que a Industria 4.0 está vinculada com o progresso social a partir da combinação do desenvolvimento de novos sistemas de assistência técnica, inclusive no setor médico , com novas práticas sociais a partir do diálogo com a sociedade.
+No tocante ao e scritório (Tabela 4) , analisando o intervalo de tempo entre os anos de 1996 a 2017, percebe -se uma discrepância significativa entre os países estudados, de modo que, no Brasil, o número de patentes de tecnologias médicas concedi das resultou em um crescimento de 100%.
+Em contrapartida, a Suíça, no mesmo período, teve um decréscimo de 180%, demonstrando menos interesse dos países em proteger suas inovações na área da saúde nesta região.
+Tabela 4 – Variação relativa no número de patentes de tecnologia s médicas concedidas nos escritórios do Brasil, Alemanha, Suíça e aos EUA, considerando dois instantes de tempo (1996 -2017 e 2011 -2017) Período Brasil Alemanha Suíça EUA Variação Relativa 1996 -2017 100% 37% -180% 68% 2011 -2017 17% 42% 20% 38% Fonte: Autoria própria a partir de dados coletados da WIPO (2019).
+Todavia, ao se analisar o período de 2011, que corresponde ao marco do surgimento da Indústria 4.0, a 2017, percebe -se que a Suíça teve um crescimento relativo de 20%, próximo ao do Brasil (17%) e inferior ao da Alemanha (42%) e EUA (38%).
+Embora seja uma variação positiva , a menor magnitude obtida para os dois primeiros países pode ser explicada, inclusive, com base no desenvolvimento da Indústria 4.0 nessas regiões.
+A literatura aponta que a Suíça ainda está no início de sua caminhada na revolução digital, por meio da iniciativa, lançada somente em 2015, Industrie2025 cujo nome já está vinculado com um processo de transformação contínuo mais longo para a indústria suíça ( SCHÖNSLEBEN; FONTANA; DUCHI, 2017).
+Os autores esclarecem que essa ação foi conduzida por quatro associações industriais, de modo que, devido ao sistema político e regulatório suíço, no país não há nenhum programa destinado à Indústria 4.0 com suporte governamental .
+Ainda, especificamente na área da saúde, vale citar que a fa rmacêutica suíça Novartis, líder em inovação farmacêutica (AKKARI et al., 2016), por exemplo, transferiu sua sede de pesquisa de Basel (Suíça) para Cambridge (Massachusetts) a fim de melhor explorar a rede de colaboração com universidades e institutos de p esquisa líderes globais em biociências e biotecnologia (PISANO; SHIH, 2009).
+A dificuldade do Brasil em desenvolver tecnologias pode estar associada ao ambiente hostil para se gerar negócios.
+Esse ambiente, segundo Costa e Gameiro (2005), é conceitualizado como Custo Brasil , que é explicado como um conjunto de situações que dificultam, ou até mesmo inviabilizam, a geração de novos negócios.
+Ainda segundo os autores, a elevada taxa de juros, excessivas cargas tributárias e Página | 47 burocracia estatais refletem na fuga de capital estran geiro e no receio dos empreendedores ou da iniciativa privada em desenvolverem novas tecnologias.
+Ademais , tem-se que grande parte das indústrias brasileiras ainda transita entre a segunda e terceira revolução industrial, possuindo baixa competitividade no cenário internacional (PEREIRA; DE OLIVEIRA, 2018).
+Assim, a adoção de tecnologias 4.0 ainda é incipiente nas empresas brasileiras, que não possuem know how e, tampouco , o capital suficiente para gerar investimentos consistentes no desenvolvimento de novos dispositivos, de acordo com Tortorella et al.
+Os autores ainda constataram que, de fato, os princípios, atributos e tecnologias vinculadas com a In dústria 4.0 foram mais amplamente aplicados por indústrias localizadas em países desenvolvidas, como Alemanha, Reino Unido e EUA.
+Algumas iniciativas brasileiras começam a ocorrer, embora ainda sejam muito embrionárias, podendo -se citar a Agenda Brasileir a para a Indústria 4.0, desenvolvida pelo Ministério da Indústria, Comércio Exterior e Serviços (MDIC) em cooperação com a Agência Brasileira de Desenvolvimento Industrial (ABDI), que prevê um conjunto de medidas de estímulo às organizações rumo à Indústria 4.0 Alemanha , no tocante ao escritório, teve uma participação modesta no período entre 1996 a 2017, com variação relativa de 37% , ficando à frente somente da Suíça.
+Contudo , analisando este mesmo país após a revolução digital , no intervalo de tempo de 2011 a 2017, nota -se que este apresentou o maior aumento relativo na concessão de patentes médicas (42%), indicando que o interesse de se proteger tecnologias elevou -se a partir do surgimento na Indústria 4.0 na região.
+De fato, a política tecnológica alemã tem sido cada vez mais ousada e considera a plataforma Industrie 4.0 como uma estratégia central para o desenvolvimento tecnológico do país.
+Nesse sentido, tem sido crescente o interesse de outras regiões em conhecer o funcionamento da plataforma, culminando em acordos de cooperação, como aqueles estabelecidos com os EUA, a China e a França .
+Logo, diante de uma infraestrutura avançada e alinhada com a Quarta Revolução Industrial, além de um desenvolvimento tecnológico de ponta com suporte governamental , os países vislumbram a possibilidade de ter mão obra, insumos e know -how para gerar novos dispositivos e processos médicos no país (ARBIX et al., 2017) .
+De forma semelhante , os EUA, que apresent aram uma posição muito semelhante a da Alemanha no tocante à concessão de patentes de tecnologias médicas, apostam no programa National Network of Manufacturing Innovation , instituído pelo governo Obama, em 2012, foca ndo na criação de ambientes de cogeração e de transferência tecnológica, de modo a fomentar a integração entre as diferentes esferas do processo de inovação (UNITED NATIONS EDUCATIONAL, SCIENTIFIC AND CULTURAL ORGANIZATION, 2015) .
+Esses dados apontam que caso especialmente o Brasil não consiga avançar no seu desenvolvimento tecnológico na era digital, além de sua geração de inovação ficar cada vez mais comprometida, impactando diferentes indicadores sociais e econômicos, ainda vislumbra -se a diminuição do interesse de outras nações em investir e cooperar tecnicamente, uma vez que o país ainda não apresenta condições alinhadas com o novo paradigma industrial.
+A Alemanha , os EUA e China são considerados, atualmente, como países representativos do avanço da Quarta Revolução Industrial e, a fim de estarem a frente nesta nova revolução 4.0, vem adotando medidas que seriam de interesse Página | 48 para guiar a alavancagem dos indicadores brasile iros, impactando diretamente no desenvolvimento social .
+Assim, pode -se citar o aumento da interação públicoprivada ; apoio às empresas nascentes de tecnologia ; internacionalização de organizações e institutos de pesquisa ; estabelecimento de regulação e políticas de fomento à inovação tecnológica ; dentre outros aspectos ( ARBIX et al., 2017).
+Ainda, especialmente no tocante às tecnologias médicas, é necessário considerar os aspectos tecnológicos e sociais, de modo a possibilitar uma visão sistêmica do processo e da política de inovação do país.
+Logo, a integração de diferentes setores da economia se faz necessária, especialmente no caso brasileiro, a fim de alinhar as novas demandas da sociedade com as possibilidades de inovações na área da saúde.
+CONSIDERAÇÕES FINAIS Constatou -se o impacto da Indústria 4.0 na geração de inovação médica, obtendo -se uma variação relativa positiva para todos os países analisado, no período de 2011 -2017, embora os índices ainda sejam discretos em função desse novo paradigma ainda estar em momento de difusão científica e tecnológica.
+A análise de dados apontou que os EUA e a Alemanha apresentam o maior número de concessões de patentes, por origem e por escritório, validando suas altas capacidades de geração de inovação e taxa de atratividade de seus mercados .
+A eficiência desses países no desenvolvimento de novos dispositivos é explicada por meio da criação de um cenário que favorece o surgimento dessas novas tecnologias, bem como oferece insumos de diferentes naturezas para o desenvolvimento em cooperação com outras regiões.
+A associação com políticas públicas mais ousadas e com enfoque social direcionado para a saúde são sugeridas ao Brasil, que apresentou índices menos expressivos dentre os países est udados, a fim de estimular a alavancagem na inovação e aquecer o interesse de outras na ções em cooperações técnicas na era digital.
+Observou -se, assim, que a Industria 4.0 está vinculada com o desenvolvimento social, podendo alavancar índices de inovação na área de assistência à saúde.
+Constata -se que os aspectos tecnológicos e sociais devem estar unidos e alinhados, possibilitando um processo ab rangente e incorporado de mudança no desenvolvimento de tecnologias médicas , de modo a assumir particular importância diante de fatos globais que desafiam a saúde pública , como o envelhecimento populacional e a pandemia do COVID -19.
+Essa visão holística da inovação também exige um entendimento mais amplo das política s de ciência, tecnologia e inovação e harmonização público -privado, especialmente para o caso brasileiro, sugerindo -se acompanhar as tendências ditadas pela Alemanha e EUA na era digital a fim d e otimizar indicadores.
+Logo, esse artigo contribui diretamente para o suporte ao gerenciamento e planejamento tecnológico e estratégico, especialmente para o caso brasileiro, direcionando políticas públicas de ciência, tecnologia e inovação a fim de otimizar indicadores d o país.
+Nesse âmbito, observa -se a indicação do uso de tecnologias advindas da Quarta Revolução Industrial para gerar dispositivos médicos, colaborando para assistência à saúde da sociedade.
+Do ponto de vista acadêmico, Página | 49 esse artigo ai nda contribui a fim de delin ear uma proposta metodológica de mapeamento tecnológico , com base em indicadores patentários, que pode ser aplicada a outras áreas em estudos exploratórios.
+Página | 50 Industry 4.0 impact on medical technology innovation: a patent approach ABSTRACT Global facts that challenge public health, such as the COVID -19 pandemic and population aging, require a holistic view of the application of 4.0 technologies with new social practices.
+The objective of this study wa s to map the potential of Industry 4.0 in the generation of medical innovation.
+Therefore, an exploratory and descriptive study was developed, of an applied nature and with a quantitative approach based on the collection and statistical treatment of patent data for Brazil, USA, Germany and Switzerland.
+Brazil's low global contribution (0.08%) to the generation of technologies was found, while the USA and Germany stood out in innovative capacity.
+All countries showed a positive relative variation (> 17 %), between 2011 –2017.
+It concludes about the influence of Industry 4.0 on medical innovation, pointing out the application of 4.0 technologies as a social development strategy.
+Therefore, this article contributes to direct science, technology and innovati on policies in order to optimize health care rates.
+Página | 51 REFERÊNCIAS AKKARI, A. C. S. et al.
+Inovação tecnológica na indústria farmacêutica: diferenças entre a Europa, os EUA e os países farmaemergentes.
+Gest ão & Prod ução , São Carlos, v. 23, n. 2, p. 365 -380, junho 2016.
+ALBUQUERQUE, E. M.; SOUZA, S. G. A. de; BAESSA, A. R. Pe squisa e inovação em saúde: uma discussão a partir da literatura sobre economia da tecnologia.
+Ciência & Saúde Coletiva , Rio de Janeiro, v. 9, n. 2, p. 277 -294, junho 2004.
+ALMEIDA, M. L. P. Globalização, Liberalismo Econômico e Educação Brasileira: Quem controla a produção do conhecimento científico?
+Roteiro , Joaçaba, v. 40, p.117 -133, jan/jun 2015.
+O Brasil e a nova onda de manufatura avançada: O que aprender com Alemanha, China e Estados Unidos.
+Novos Estudos CEBRAP , São Paulo, v. 36, n. 3, p. 29 -49, nov. 2017.
+Consumer opinions on adverse events associated with medical devices.
+Research in Social and Administrative Pharmacy , v. 15, n. 5, p. 568 -574, May 2019.
+BEALL, R. F.; DARROW, J. J.; KESSELHEIM, A. S. Patent term restoration f or topselling drugs in the United States.
+Drug Discovery Today , v. 24, n. 1, p. 20 -25, Jan. 2019.
+LEI Nº 9.279, DE 14 DE MAIO DE 1996.
+Regula direitos e obrigações relativos à propriedade industrial.
+Presidência da República Federativa do Brasil , Brasília, DF, 14 maio.
+BUHR, D. Social innovation policy for Industry 4.0 .
+Friedrich -Ebert -Stiftung, Division for Social and Economic Policies .
+The Friedrich -Ebert -Stiftung, 2015.
+Disponível em : < -files/wiso/11479.pdf >.
+COSTA, S. B. C. da; GAMEIRO, A. H. E ntendendo o custo Brasil.
+In: CONGRESSO BRASILEIRO & INTERNACIONAL IFMA -ABAR , 200 5, Campinas .
+Página | 52 Campinas : IFMA , 2005.
+CROSSAN, M. M.; APAYDIN, M. A Multi -Dimensional Framework of O rganizational Innovation: A Systematic Review of the Literature.
+Journal of Management Studies , v.47, n. 6, p. 1154 -1191, 2010.
+Disponível em: < -6486.2009.00880.x >.
+Pharmaceutical and Biopharmaceutical Patents: The Opportunity of Pharmerging Countries.
+Communications in Computer and Information Science .
+Berlin: Springer International Publishing, 2019, p. 139 -146.
+Disponível em: < -3-030-14969 -7_12 >.
+HE, W.; GOODKIND, D.; KOWAL, P. An aging world: 2015 .
+United States Census Bureau, International Population Reports, 2016.
+Disponível em: < /p95 -16-1.pdf >.
+INSTITUTE FOR HUMAN DATA SCIENCE – IQVIA.
+The Global use of medicine in 2019 and Outlook to 2023 : Forecasts and Areas to Watch.
+Disponível em: < -iqvia -institute/reports/the -global -use-ofmedicine -in-2019 -and-outlook -to-2023 >.
+Connected health and wellness devices market analysis by type, by product, by end -use and segment forecasts to 2024 .
+Disponível em: < -health -wellness -devices -market >.
+GUTMAN, S. Y.; CAPRARO, J.; CHEN, T. Introduction to patent strategies for medical device inventions.
+Surgery , v. 160, n. 5, p. 1139 -1144, 2016.
+JACOB, D. Quality 4.0 Impact and Strategy Handbook .
+Disponível em: < -4-0impact -strategy -109087.pdf >.
+KAGERMANN, H., WAHLSTER, W., HELBIG, J.
+Recommendations for implementing the strategic initiative Industrie 4.0 : Final report of the Industrie 4.0 Working Group.
+Frankfurt: Heilmeyer Und Sernau Q Gestaltung, 2013.
+Disponível em: < -for-implementing -thestrategic -initia tive-industrie -4-0-final -report -of-the-industrie -4-0-workinggroup/ >.
+Health 4.0: Applications, Management, Technologies and Review .
+Med ical Technol ogies Journal , v. 2, n. 4, p. 262 -276, 2019.
+Fog computing for Healthcare 4.0 environment: Opportuniti es and challenges.
+Computers & Electrical Engineering , v. 72, p. 1 -13, 2018.
+LAKATOS, E. M.; MARCONI, M. A. Fundamentos de metodologia científica .
+Emergência do novo coronavírus (SARS -CoV-2) e o papel de uma vigilância nacional em saúde oportuna e efetiva.
+Cadernos de Saúde Pública , v. 36, n.3, 2020.
+Disponível em: < 301&lng=en&nrm=iso >.
+LIU, X.; YANG, X. Identifying Technological Innovation Capability of High -Speed Rail Industry Based on Patent Analysis.
+In: 8TH INTERNATIONAL CONFERENCE ON INDUSTRIAL TECHNOLOGY AND MANAGEMENT – IEEE , 2019, Cambridge .
+Anais eletrônicos… Cambridge : IEEE , p. 127–131, 2019.
+Análise patentária: uma avaliação sobre as instituições científicas, tecnológicas e de inovação do Estado de Sergipe.
+Revista Tecnol ogia e Sociedade , v. 15, n. 37, p. 89 -103, 2019.
+Effects of an aging population on hospital costs related to elective hip replacements.
+Public Health , v. 180, p. 10 -16, 2020.
+Market and Patent Analyses of Wearables in Medicine.
+Trends in Biotechnol ogy, v. 37, n. 6, p. 563 -566, 2019.
+NEUMAIER, M. Diagnostics 4.0: the medical laboratory in digital health.
+Clinical Chem estry and Labpratory Med icine , v. 57, n. 3, p. 343 -348, 2019.
+ORGANISATION FOR ECONOMIC CO -OPERATION AND DEVELOPMENT.
+Proposed standard practice for surveys on research and experimental development – Frascati Manual .
+Disponível em: < -ilibrary.org/science -and-technology/frascati -manual2002_9789264199040 -en>.
+PENG, P. W. H.; HO, P. L.; HOSTA, S. S. Outbreak of a new coronavirus: what anaesthetists should know.
+British Journal of Anaesthesia , v. 124, n. 5, p. 497501.
+PEREIRA, A.; DE OLIVEIRA, E. Indústria 4.0: conceitos e perspectivas para o Brasil.
+Revista da Universidade Vale do Rio Verde , v. 16, n. 1, 2018 .
+Disponível em: Página | 54 < >.
+Artificial Intelligence (AI) and Big Data for Coronaviru s (COVID -19) Pandemic: A Survey on the State -of-the-Arts.
+PISANO, G. P.; SHIH, W. C. Restoring American Competitiveness.
+Harvard Business Review , v. 87, n. 7/8, p. 114 -125, 2009.
+Disponível em: < -american -competitiveness >.
+Visual Computing as a Key Enabling Technology for Industrie 4.0 and Industrial I nternet.
+IEEE Computer Graphics And Applications , v. 35 n. 2, 2640, 2015.
+Rapid Response to COVID -19: Health Informatics Support for Outbreak Management in an Academic Health System.
+Journal of the American Medical Informatics Association , ocaa037, 2020.
+Wearable Medical Devices Market by Device, Application, Type, Distribution Channel – Global Forecast to 202 2.
+Disponível em: < -medical -device -market -81753973.html >.
+Indus try 4.0: Technology Mapping and the importance of Cognitive Ergonomics.
+International Journal of Advanced Engineering, Management and Science , v. 5, p. 296 -303, 2019.
+Disponível em: < -4-0-technology -mapping -and-theimportance -of-cognitive -ergonomics/ >.
+SCHÖNSLEBEN, P.; FONTANA, F.; DUCHI, A.
+What Benefits do Initiatives Such as Industry 4.0 Offer for Production Locations in High -wage Countries?
+Procedia CIRP , v. 63, p. 179 -183, 2017.
+SCHWAB, K. The Fourth Industrial Revolution .
+New York: Crown Business, 2017.
+SECRETARIA DE VIGILÂNCIA EM SAÚDE, MINISTÉRIO DA SAÚDE.
+Infecção humana pelo novo coronavírus (2019 -nCoV).
+Boletim Epidemiológico 2020; (02).
+Disponível em: < -SVS-04fev20.pdf >.
+Wearable Technology in Medicine and Health Care .
+London: Elsevier Academic Press, 2018.
+Página | 55 TORTORELLA, G. L. et al.
+Organizational learning paths based upon industry 4.0 adoption: An empirical study with Brazilian manufacturers.
+International Journal of Production Economics , v. 219, p. 284-294, 2020.
+UNITED NATIONS EDUCATIONAL, SCIENTIFIC AND CULTURAL ORGANIZATION – UNESCO.
+Unesco Science Report : Towards 2030.
+Disponível em: < -science -reporttowards -2030 -part1.pdf >.
+VERAS, R. Envelhecim ento populacional contemporâneo: demandas, desafios e inovações.
+Revista de Saúde Pública , v. 43, n. 3, p. 548 -554, 2009.
+WANG, C. J.; NG, C. Y.; BROOK, R. H. Response to COVID -19 in Taiwan: Big Data Analytics, New Technology, and Proactive Testing.
+JAMA , v. 323, n. 14, 1341 -1342, 2020.
+Recebido: 27/01/2020 Aprovado: 11/07/2020 DOI: 10.3895/rts.v16n45.11551 Como citar: GOES, A.B.B.
+Impacto da indústria 4.0 na geração de inovação em tecnologias médicas: uma abordagem patentária.
+Soc ., Curitiba, v. 16, n. 4 5, p. 36-55, out./dez.
+Correspondência: _ Direito autoral: Este artigo está licenciado sob os termos da Licença Creative Commons -Atribuição 4.0 Internacional.

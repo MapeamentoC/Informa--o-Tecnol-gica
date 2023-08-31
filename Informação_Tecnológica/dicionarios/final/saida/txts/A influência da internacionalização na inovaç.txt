@@ -1,0 +1,358 @@
+INFLUÊNCIA DA INTERNACIONALIZAÇÃO NA INOVAÇÃO DAS NAÇÕES COM BASE NO GLOBAL INNOVATION INDEX INFLUENCE OF INTERNATIONALIZATION ON NATIONS' INNOVATION BASED ON THE GLOBAL INNOVATION INDEX INFLUENCIA DE LA INTERNACIONALIZACIÓN EN LA INNOVACIÓN DE LAS NACIONES SEGÚN EL GLOBAL INNOVATION INDEX Marcio Aparecido Lucio1 Marcia Bronnemann 2 Artigo recebido em janeiro de 2021 Artigo aceito em abril de 2021 RESUMO A inovação é essencial para a manutenção da competitividade e desenvolvimento de uma nação, da mesma forma que um país depende da internacionalização para se inovar.
+O Global Innovation Index (GII), apresenta um ranking de inovação todos os países, por meio indicadores de insumos e resultados, facilitando a comparação entre as nações e indicando os caminhos para a inovação.
+Dentre esses índices, alguns permitem verificar se existe e qual o nív el de influência da internacionalização nos níveis de inovação de um país.
+Assim o objetivo deste estudo é analisar a influência, tanto dos insumos, como dos resultados do GII relacionados a internacionalização nas notas de inovação de um país e se o nível de desenvolvimento deste país também influência seu nível de inovação.
+Esta é uma pesquisa quantitativa com base nos dados do GII de 2019 das 50 maiores economias do mundo, diferenciando as desenvolvidas das em desenvolvimento.
+Utilizando correlação linea r e o modelo de regressão linear múltipla, pode -se concluir que tantos os indicadores de insumos (inputs) como de resultados (outputs) têm influência significativa nas notas do ranking de inovação e que os países em desenvolvimento encontram maior dificuld ade em internacionalizar suas empresas, prejudicando assim sua capacidade inovativa.
+Palavras -chave: Global Innovation Index (GII).
+ABSTRACT Innovation is essential for maintaining a nation's competitiveness and development, just as a country depends on internationalization to innovate.
+The Global Innovation Index (GII) presents an innovation ranking for all countries, using input and results i ndicators, facilitating the comparison between nations and indicating the paths for innovation.
+Among these indices, some allow to verify if there is and what is the level of influence of internationalization in the innovation levels of a country.
+Thus, the aim of this study is to analyze the influence of both inputs and GII results related to internationalization in a country's innovation scores and whether the country's level of development also influences its level of innovation.
+This is a quantitative s urvey based on data from the 2019 GII of the 50 largest economies in the world, differentiating those developed from those in development.
+IFC - Instituto Federal Catarinense.
+E -mail: marcio.lucio@ifc.edu.br .
+FURB - Universidade Regional de Blumenau.
+2 Using linear correlation and the multiple linear regression model, it can be concluded that both inputs and outputs i ndicators have a significant influence on the innovation ranking scores and that developing countries find it more difficult to internationalize their companies, thus impairing their innovative capacity.
+Keywords: Global Innovation Index (GII).
+RESUMEN La innovación es fundamental para mantener la competitividad y el desarrollo de una nación, así como un país depende de la internacionalización para innovar.
+El Índice de Innovación Global (GII) presenta un ranking de innova ción para todos los países, utilizando indicadores de insumos y resultados, facilitando la comparación entre naciones e indicando los caminos para la innovación.
+Entre estos índices, algunos permiten verificar si existe y cuál es el nivel de influencia de la internacionalización en los niveles de innovación de un país.
+Así, el objetivo de este estudio es analizar la influencia tanto de los insumos como de los resultados del GII relacionados con la internacionalización en los puntajes de innovación de un paí s y si el nivel de desarrollo del país también influye en su nivel de innovación.
+Se trata de una encuesta cuantitativa basada en datos del GII de 2019 de las 50 mayores economías del mundo, diferenciando las desarrolladas de las en desarrollo.
+Utilizando la correlación lineal y el modelo de regresión lineal múltiple, se puede concluir que tanto los indicadores de insumos (inputs) como los de productos (outputs) tienen una influencia significativa en los puntajes del ranking de innovación y que los países e n desarrollo tienen más dificultades para internacionalizar sus empresas, lo que perjudica su capacidad innovadora.
+Palabras clave : Global Innovation Index (GII).
+1 INTRODUÇÃO A globalização e os avanços nas tecnologias de comunicação e transporte têm favorecido o crescimento do comércio e dos investimentos entre países (CAVUSGIL et al., 2010).
+Neste sentido, tem -se a internacionalização das empresas, que consiste no desempenho de atividades de comércio e de i nvestimentos transfronteiriços, trazendo com benefícios o aumento do valor da marca pela presença internacional e a capacidade ampliada de atendimento a clientes globais, além do acesso a novos mercados com forte crescimento econômico e o aumento da compet itividade das empresas frente a players internacionais (KNIGHT; CAVUSGIL, 2004).
+Ao se internacionalizarem, além de terem mais acesso a novas tecnologias e possibilidades de inovação e adquirirem novos conhecimentos, as empresas ficam expostas a uma press ão competitiva maior que no mercado local.
+E, por outro lado, a inovação é considerada peça fundamental para a manutenção da competitividade no mercado global, criando empregos e melhorando a qualidade de vida (SOARES, 2016).
+O desenvolvimento internacional e a capacidade inovativa parecem se reforçar mutuamente uma vez que atuar no exterior melhora a capacidade inovativa das empresas, ao passo que a inovação leva as empresas ao desenvolvimento de novos produtos, serviços e processos que aumentam a participação delas nos mercados internacionais (GARRIDO et al., 2017).
+Se, por um lado, a inovação facilita a aquisição de conhecimentos e promove capacidades, levando as empresas a entrar em novos mercados, por outro lado as empresas 3 internacionalizadas lidam com novos recursos, redes e ambientes que facilitam ou promovem a inovação (KNIGHT; CAVUSGIL, 2004).
+Boermans e Roelfsema (2015) analisaram os efeitos causais da internacionalização na inovação em dez países com economias em tr ansição.
+Os resultados mostraram que exportar leva a um aumento em pesquisa e desenvolvimento (P&D), nas vendas e no número de patentes internacionais; que o Investimento Direto Estrangeiro ou Foreign Direct Investment (FDI) leva a um aumento em P&D e no n úmero de patentes internacionais; e a terceirização internacional da produção gera um aumento nas vendas pela inovação de produtos.
+(2013) analisaram o impacto da internacionalização no desempenho de inovação de 42 países e encontraram u ma relação positiva entre os dois fenômenos.
+Segundo eles, as análises sugerem que competir em mercados internacionais por meio de FDI e exportações amplia o aprendizado e a necessidade de inovação das firmas, o que aumenta a capacidade de inovação dos paí ses de origem.
+O Índice Global de Inovação ou Global Innovation Index (GII) fornece métricas detalhadas sobre o desempenho da inovação em cerca de 130 países e economias em todo o mundo.
+A análise e o monitoramento dos Indicadores de Inovação se revelam interessante, porquanto propicia constatar que, dentre os elementos considerados promotores de inovação, o conhecimento revela -se de como preponderante e presente no conjunto de variáveis que compõem indicadores (GII, 2019).
+Esse monitoramento permite tam bém identificar diferenças entre os insumos e resultados dos países desenvolvidos e emergentes.
+Assim, conhecendo as pontuações selecionadas para a mensuração dos indicadores de inovação, subsidiam -se os planejamentos e desenvolvimentos de ações futuras no sentido de buscar melhores resultados nos indicadores mensurados, que resultarão em atividades, regiões e países mais inovadores.
+Este estudo analisa os dados do Índice Global de Inovação que é publicado pela Universidade de Cornell, INSEAD, e pela Organização Mundial da Propriedade Intelectual (WIPO, uma agência especializada das Nações Unidas).
+O núcleo do Relatório GII consiste em um ranking dos insumos (capacidades) e resultados de inovação das economias mundiais.
+Nos últimos anos, o GII se estabeleceu como uma referência líder em inovação (GII, 2019).
+Assim o objetivo de trabalho é analisar a influência, tanto dos insumos (inputs), como dos resultados (outputs) do GII 2019, relacionados a internacionalização, nas notas de inovação de um país e se o nível de desenvolvimento também influencia no seu nível de inovação.
+Para maior compreensão se decidiu apresentar as hipóteses no tópico referencial teórico, em função do desenvolvimento dos textos até o momento de explicitá -las.
+2 REFERENCIAL TEÓRICO O mercado mundial é caraterizado por profundas mudanças sociais, econômicas e tecnológicas.
+A mudança é constante e penetrante, e a inovação facilita o processo de adaptação às muitas dessas mudanças.
+Consequentemente, a inovação des empenha um papel no fomento da economia, em reforçar e manter o alto desempenho das empresas, na construção da competitividade industrial, na melhoria do padrão de vida, e na criação de uma melhor qualidade de vida ( GOPALAKRISHNAN; DAMANPOUR, 1997) .
+4 Segundo Garcia e Calatone (2002), inovação é um processo iterativo iniciado pela percepção de um novo mercado e/ou nova oportunidade de serviço para uma invenção baseada em tecnologia que leva a tarefas de desenvolvimento, produção e comercialização que bu scam o sucesso comercial da invenção.
+Capacidade de inovação e experiência internacional são fatores frequentemente relacionados ao processo de internacionalização das empresas (FLEURY et al., 2013; JOHANSON; VAHLNE, 1977; KNIGHT; CAVUSGIL, 2004), sendo as atividades de exportação a primeira etapa do processo (JOHANSON; VAHLNE, 1977).
+Entretanto, empresas de países em desenvolvimento parecem apresentar vantagens (por exemplo, são mais usadas para lidar com pior qualidade regulatória, menor controle da corru pção e ambientes políticos instáveis, que são proeminentes em tais países) e seguem padrões de expansão internacional que diferem das empresas baseadas em países desenvolvidos, onde os modelos de internacionalização foram criados ( CUERVOCAZURRA; GENC , 200 8; GUILLÉN; GARCÍA -CANAL , 2009).
+Empresas de países em desenvolvimento desejavam expandir -se para o exterior, a fim de superar as limitações impostas pelo governo do país de origem no mercado doméstico.
+Em muitos países em desenvolvimento e recém -industr ializados, limitações como sistemas de licenciamento, alocações de cotas e restrições à exportação impediram as empresas de terem oportunidades de crescimento suficientes à sua disposição, daí o desejo de expandir no exterior (AULAKH, 2007; MATHEWS, 2006).
+Para Guillén e García -Canal ( 2009) essas empresas foram forçadas a lidar não apenas com a responsabilidade de estrangeiros, mas também com a responsabilidade e a desvantagem competitiva que decorrem do fato de os retardatários não disporem de recursos e c apacidades em relação às empresas multinacionais estabelecidas dos países mais avançados.
+(2013) uma característica das empresas multinacionais (EMN) de países em desenvolvimento é que elas desfrutam de mais liberdade para implement ar inovações organizacionais para se adaptarem aos requisitos da globalização porque não enfrentam as restrições típicas das EMNs estabelecidas.
+Guillén e García -Canal ( 2009) consideram que como grandes players mundiais com longas histórias, muitas EMNs da s economias desenvolvidas sofrem de inércia e dependência de trajetória devido a seus valores, cultura e estrutura organizacional profundamente arraigados.
+Mathews (2006) mostrou como as novas EMNs da Ásia adotaram várias formas organizacionais inovadoras que atendiam às suas necessidades, incluindo estruturas em rede e descentralizadas.
+(2016), numerosas variáveis afetam o desempenho EMNs nas exportações, por exemplo, aquelas relacionadas a questões gerenciais (por exemplo, compromisso co m a internacionalização, orientação internacional, barreiras à exportação percebidas), físicas (tamanho da empresa, recursos financeiros e localização da empresa), organizacional (por exemplo, recursos da empresa, estratégia geral de internacionalização, força do produto) e recursos relacionais (canal de distribuição e relacionamento com o cliente, elos da cadeia de suprimentos, pesquisa interpessoal e visitas ao mercado externo).
+É importante destacar que a utilização de múltiplos indicadores de inovação gera relativa instabilidade em função dos pesos adotados para cada um dos indicadores propostos, sendo importante relativizar e contextualizar as realidades locais como advertem os economistas (LABIAK JR et al., 2015).
+Contudo, especialistas acreditam os surveys adotados pela OCDE (2009) possuem problemas de ponderação entre indicadores, o que pode gerar distorções nas suas composições para inovação, principalmente quanto ao mérito de muitos desses indicadores, por refletirem diversas vezes problemas de int erpretação e comunicação dos dados analisados.
+Assim, esses indicadores acabam gerando distorções relacionadas às 5 políticas de indução à inovação aplicadas nos países que estão sendo comparados (EDLER et al., 2003).
+Em função da complexidade em se constit uir fatores que contribuam com o desenvolvimento de indicadores de inovação, de forma a representar uma análise comparativa consistente entre países, a Comissão Europeia promoveu a chamada "composição de indicadores de inovação", com a agregação de diferen tes tipos de dimensões de construções mais simples, com o objetivo de diminuir a complexidade dos fenômenos associados à multidimensionalidade (OCDE, 2009).
+Na linha os indicadores complexos estruturados, o Índice Global de Inovação ou Global Index Innova tion (GII, 2019) desenvolveu um ferramental matemática de compensação por pesos estruturados, para gerar resultados mais factíveis em função de cada fator analisado.
+O GII 2019 procura estruturar os indicadores de inovação, considerando como elemento funda mental o desenvolvimento do ser humano, desta forma constituindo indicadores complexos através de cinco pilares de entrada: Instituições, Capital Humano e Pesquisas, Infraestrutura, Sofisticação do Mercado, Instituições, Capital Humano e Pesquisas e dois p ilares de saída: Conhecimento e Tecnologia Desenvolvidos, e Criatividade .
+A composição dos indicadores de inovação constitui -se em pilares e subpilares que por meio dos dados e pontos que estes itens e subitens recebem, pontuam o seu respectivo indicador global por meio de médias aritméticas, consolidados os valores, os sete ind icadores levam cada país à classificação do ranking total de inovação dos 130 países que compõem o relatório de 2019, porém este número aumenta ou diminui em cada relatório anual considerando -se a instabilidade política, guerras, ditaduras entre outros fat ores os quais a Organização das Nações Unidas (ONU) considere não alinhado à condição de um país, ou uma nação a ser considerada politicamente sólida (SILVA et al, 2018).
+Para este estudo serão considerados os indicadores que se referem à internacionaliza ção dos países, tanto nos pilares de insumos como nos de resultados.
+Esses indicadores são descritos no Quadro 1.
+Quadro 1 – Componentes do Í ndice Global de Inovação Pilar Indicador Descrição Capital humano e pesquisa Empresas globais, gasto médio P&D Despesa média em P&D das três principais empresas globais.
+Se um país tiver menos de três empresas globais listadas, o número é a média da soma das duas empresas listadas ou o total de uma única empresa listada.
+Sofisticação de negócios Importações de alta tecnologia Importações de alta tecnologia como porcentagem do comércio total.
+Essas importações contêm produtos técnicos com alta intensidade de P&D.
+Importação de serviços de TIC Serviços de telecomunicações, computadores e informações como uma porcentagem do comércio total, contratados de outros países .
+Negócios de joint venture / aliança estratégica Acordos de joint ventures / alianças estratégicas, com detalhes sobre o país de origem das firmas parceiras, entre outros.
+Investimento direto estrangeiro, Investimento direto estrangeiro é a média das entradas líquidas de investimento para adquirir uma participação gerencial duradoura (10% ou mais do capital votante) em uma empresa que opera em 6 entradas líquidas uma economia diferente da do inve stidor.
+Produtos de conhecimento e tecnologia Exportações de alta tecnologia Exportações de alta tecnologia como porcentagem do comércio total.
+Essas exportações contêm produtos técnicos com alta intensidade de P&D.
+Exportação de serviços de TIC Serviços de telecomunicações, computadores e informações como uma porcentagem do comércio total, fornecidos a outros países .
+Investimento direto estrangeirosaídas líquidas Investimento direto é uma categoria de investimento transfronteiriço associada a um residente em uma economia que tem controle ou um grau significativo de influência na gestão de uma empresa residente em outra economia.
+A propriedade de 10% ou mais das ações ordinárias do capital votante é o critério para determinar a existência de u ma relação de investimento direto.
+Tratado de Cooperação em Patentes - (PCT) Aplicações internacionais Este é o número de pedidos de patentes internacionais apresentados através do Tratado de Cooperação em Patentes (PCT) administrado pela OMPI.
+O sistema PCT torna possível buscar proteção de patente para uma invenção simultaneamente em vários países, registrando um único pedido de patente internacional.
+Produtos criativos Exportação de serviços culturais e criativos Exportação de serviços criativos (% do total de exportações) de acordo com a Classificação Estendida dos Serviços de Balança de Pagamentos EBOPS 2010 , exemplo : Serviços de publicidade, pesquisa de mercado e pesquisa de opinião pública; publicidade, serviços audiovisuais e afins.
+Exportação de bens criativos Valor total das exportações de produtos criativos, líquido de reexportações (US $ atuais) sobre o comércio total.
+Bens criativos, conforme definido no Marco da UNESCO para Estatísticas Culturais de 2009 .
+Controle País Subdesenvolvido Um país subdesenvolvido é aquele pouco industrializado e tem uma baixa renda per capita.
+O seu IDH é baixo, e os cidadãos têm um padrão de vida moderado a baixo.
+Fonte: Adaptado de GII (2019) A escolha dos indicadores acima se justifica porque a internacionalização ocorre quando uma empresa decide atuar no exterior com o propósito de globalizar suas atividades.
+Segundo Johanson e Vahlne (1977) e Wright et al (2000) o processo de internacionaliz ação normalmente inicia -se pelas atividades de importação e exportação e podem evoluir para investimentos diretos no exterior.
+(2004) constataram que as empresas inovadoras e internacionalizadas tendem a aproveitar de maneira mais eficiente os rendimentos crescentes de escala e atuam no comércio internacional de maneira mais intensa, pois exportam produtos de maior valor agregado que as outras categorias de firma.
+Justifica -se estudar os países em desenvolvimento , pois os sistemas de inovação da maioria das economias de baixa e média renda têm um conjunto de características comuns: baixos níveis de educação; baixos níveis de investimentos em ciência e tecnologia; menor exposição a tecnologias estrangeiras; fluxos internos limitados de conhecim ento; ciência mais fraca; ambientes de negócios desafiadores, com acesso inadequado a recursos financeiros e mercados de capital de risco subdesenvolvidos; baixa capacidade de absorção e inovação nas 7 empresas domésticas; e uso limitado da propriedade intel ectual.
+A informalidade também é generalizada, tornando a inovação mais difícil de medir e estudar (GII, 2019).
+Estudos anteriores já utilizaram o GII para a mensuração ou comparação da inovação de ou entre países.
+Mercan e Gotkas (2011) desenvolveram uma pesquisa com o objetivo de explicar os efeitos e a magnitude das componentes do ecossistema na fabricação da inovação, com base no conjunto de dados do GII.
+Como resultados obteve -se que medida que o nível de desenvolvimento do cluster aumenta, devido às interações, a produção da inovação aumenta e que existe uma relação positiva, mas insignificante, entre o nível de cultura de inovação e o resultado da inovação.
+A pesquisa de Taranenko (2013) teve como objetivo fornecer um entendimento mais específico da política de competitividade da inovação em nível macro.
+A pesquisa é baseada nos dados gerados pelo GII.
+O resultado revelou lacunas críticas para os determinantes mais importantes da competitividade da Ucrânia.
+O fortalecimento da posição competitiva pod e ser realizado através da superação sistêmica dos lags e ameaças críticas, simultaneamente com a criação das arestas competitivas.
+(2016) apresentou com um modelo de equação estrutural (SEM) baseado na estrutura nacional de inovaç ão entre sete fatores que representam insumos (instituição, capital humano e pesquisa, infraestrutura, sofisticação de mercado e sofisticação de negócios) e produtos (produtos de conhecimento e tecnologia, e saídas criativas).
+Usando dados de GII de 2013, concluíram que a sofisticação e a infraestrutura dos negócios têm os efeitos diretos e indiretos mais fortes na produção criativa, respectivamente.
+(2019) examinaram as relações entre os fatores do índice global de inovação e investigaram o efeito moderador da indulgência sobre essas relações.
+Utilizaram o Índice de Inovação Global (GII) e as Dimensões Culturais de Hofstede (HCD).
+Trabalharam com a Modelagem de Equações Estruturais (MEV) e seus resultados indicaram que os países com insumos suficientes em inovação fazem a transformação em produtos de inovação e que os países líderes em inovação têm pontuação mais indulgente, moderando vários relacionamentos.
+Os estudos de Morales e Brennan (2009), Kayam (2009) e Ning e Sutherland (2012) identificaram que o FDI é um fator essencial no desenvolvimento econômico, pois provê, ao país anfitrião, recursos diversos, como: capital, conhecimento e tecnologia, além de oportunidade de empregos.
+A abertura à entrada de FDI pode ser prejudicial para o pa ís, porque é passível de aumentar a competição doméstica e forçar firmas a buscar outros mercados no exterior, alegam que também é possível se beneficiar das novas tecnologias dessas multinacionais, mas só se houver uma intervenção política considerável pa ra absorver tais transformações.
+Diante destas constatações é definida a primeira hipótese: (H1) os insumos do GII relacionados com a internacionalização influenciam positivamente o nível de inovação dos países.
+(2004), Boermans e Roelfsema (2012) e Filippetti et al.
+(2013) tiveram como resultados que exportar leva a um aumento em pesquisa e desenvolvimento (P&D), nas vendas e no número de patentes internacionais; e competir em mercados internacionais por meio de FDI e exportações amplia o aprendizado e a necessidade de inovação das firmas, o que aumenta a capacidade de inovação dos países de origem.
+8 Com base nestes estudos, mostra -se a segunda hipótese: (H2) os resultados do GII relacionados com a internacionalização influenciam positivamente o nível de inovação dos países.
+Muitas vantagens das empresas de países emergentes não são passíveis de transferência no processo de internacionalização, pois são baseadas em fatores locais , como mão-de-obra barata e matéria -prima abundante e acessível.
+Fleury e Fleury (2007), Cuervo -Cazurra e Genc (2008) e Rahman et al.
+(2017) Apontam que empresas de países subdesenvolvidos são relativamente atrasadas no que se refere à sua capacidade geren cial, além de operarem em ambientes turbu lentos em seus países de origem, multinacionais de países subdesenvolvidos serem menos competitivas do que as de países desenvolvidos, sobretudo por suas instituições pouco estáveis e a inobservância quanto à necess idade de se investir em pesquisa e desenvolvimento de novas tecnologias contribui ainda para que não haja superação do subdesenvolvimento, sendo mantida a dependência tecnológica e, consequentemente, econômica dos países subdesenvolvidos aos países desenvo lvidos.
+Diante do exposto, apresenta -se a terceira hipótese: (H3) Países subdesenvolvidos tem menos efetividade em gerar inovação com processos de internacionalização que os países desenvolvidos.
+De acordo com os pilares selecionados referentes a inte rnacionalização, apresentam -se as hipóteses evidenci adas nesta pesquisa na Figura 1.
+Figura 1 – Estrutura das hipóteses da pesquisa Fonte: Dados da pesquisa Nível de Inovação do País H1 Resultados (Outputs) Internacionalização H3 Insumos (Inputs) Internacionalização Estágio de Desenvolvimento do País H2 9 3 MÉTODO A presente pesquisa terá uma abordagem quantitativa com coleta de dados secundários um único momento (corte transversal).
+O método adotado será detalhado a seguir em termos de hipóteses, participantes, procedimentos de coleta, tratamento e de análise de dados.
+Em termos de população foram considerados os 50 países mais ricos do mundo, sendo 25 desenvolvidos e 25 em desenvolvimento, listados pelo – Global Inde x Inovattion de 2019.
+Os dados utilizados (insumos, resultados e ranking) na pesquisa possuem natureza secundária e foram obtidos nessa mesma base do GII de 2019.
+O espaço temporal deste estudo abrangeu o período de 2018.
+Os dados foram coletados junto a r elatórios elaborados por estes órgãos e foram levantados em escalas anuais.
+As variáveis selecionadas foram as descritas no Quadro 1.
+O tratamento dos dados foi realizado com auxílio do software de análise estatística SPSS versão 23 que permitiu a contage m e elaboração de gráficos a partir dos dados coletados.
+As ferramentas estatísticas utilizadas foram: a correlação linear e a regressão linear múltipla.
+Na correlação linear pode -se investigar se duas variáveis estão correlacionadas ou conectadas umas às outras ( BUGLEAR , 2005).
+Para maior precisão na avaliação faz -se necessário calcular um coeficiente de relação entre as variáveis.
+Segundo Schultz e Schultz (1992), o método mais utilizado para medir a correlação entre duas variáveis é o Coeficiente de Co rrelação Linear de Pearson, neste estudo considerou -se que este coeficiente varia de -1 a 1.
+O sinal indica direção positiva ou negativa do relacionamento e o valor sugere a força da relação entre as variáveis, se o valor for zero indica que não há relação linear entre as variáveis.
+A correlação forte positiva refere -se a um grau entre os coeficientes envolvidos, perfeitamente alinhados em um período de tempo T. Por outro lado, a correlação moderada representa um coeficiente de correlação intermediário e pouco correlacionado, ao passo que a correlação fraca se refere a um grau de coeficiente que não a influência entre as variáveis envolvidas no período de tempo T. E por último a forte negativa tem uma tendência de um coeficiente de correlação bem significati vo, mas em escala decrescente.
+No modelo de regressão linear múltipla foram comparados os dois coeficientes tanto da correlação como o da regressão.
+A regressão linear múltipla é um modelo matemático que serve para verificar se duas ou mais variáveis estã o relacionados de alguma forma (BORGES, et al, 2017).
+Neste modelo a comparação entre os coeficientes da correlação e da regressão foram efetuados na perspectiva de verificar um melhor desempenho das variáveis, nesta etapa procurou -se analisar a relação de mensuração entre cada incremento de uma unidade de elementos de internacionalização e a nota do país no ranking.
+Os dados foram analisados de maneira a comparar anualmente as variáveis: de insumo e resultados do GII com a nota do país no ranking de inova ção global, de acordo com as equações 1 e 2 .
+3.1 Análise de Insumos (Inputs) RANK t = β0 + β1 FDI_ENTR t + β2 I_JOIN_V t + β3 IMP_HTEC t + β4 IMP_STEC t + β5I_GLO_PD t + β6 SUBDES +ε, em que: (1) RANK t = Nota do País no Ranking do Índice de Inovação Global no período β0t = Constante 10 β1 FDI_ENTR t = Investimento direto estrangeiro, entradas líquidas no período β2 I_JOIN_V t = Negócios de joint venture / aliança estratégica no período β3 IMP_HTEC t = Importações de alta tecnologia no período β4 IMP_STEC t = Importação de serviços de TIC no período β5 I_GLO_PD t = Empresas globais, gasto médio P&D no per íodo β6 SUBDES = variável dummy sendo, 1 se o país é em desenvolvimento ou 0 se é desenvolvido ε = Termo de erro 3.2 Análise de Resultados (Outputs) RANK it = β0 + β1 PAT_INT t + β2 EXP_HTEC t + β3 EXP_STEC t + β4 FDI_SAIDA t + β5EXP_SCRIA t + β6 EXP_PCRIA t + β7 SUBDES +ε, em que: (2) RANK it = Nota do País no Ranking do Índice de Inovação Global no período β0t = Constante β1 PAT_INT t = Tratado de Cooperação em Patentes (PCT) Aplicações internacionais no período β2 EXP_HTEC t = Exportações de alta tecnologia no período β3 EXP_STEC t = Exportação de serviços de TIC no período β4 FDI_SAIDA t = Investimento direto estrangeiro - saídas líquidas no período β5 EXP_SCRIA t = Exportação de serviços culturais e criativos no período β6 EXP_PCRIA t = Exportação de bens criativos no período β7 SU BDES = variável dummy sendo, 1 se o país é em desenvolvimento ou 0 se é desenvolvido ε = Termo de erro 4 ANÁLISE DOS RESULTADOS E DISCUSSÃO A apresentação dos dados foi divido em duas partes, análise dos insumos e análise dos resultados.
+Para cada parte inicialmente realizou -se uma estatística descritiva das variáveis e em seguida foram realizados os procedimentos adequados para a utilização da regressão linear múltipla.
+4.1 1ª Etapa – Análise dos Insumos A Tabela 1 apresenta a análise de correlaç ão para todas as variáveis, a mais forte é FDI_ENTR com 0,788 (excetuando a dummy SUBDES com -0,832) e mais fraca é a IMP_HTEC com 0,083.
+Identificou -se também a ausência de multicolinearidade, pois não existe nenhuma alta correlação entre as variáveis ind ependentes (>0,7).
+Todas variáveis são 11 significativas exceto IMP_HTEC e I_GLO_PD .
+Deste modo, têm -se evidências suficientes para afirmar que as variáveis analisadas são correlacionadas.
+Tabela 1 - Correlações entre a nota do Ranking e as Variáveis de Insumos (N=50) RRANK FDI_ENTR I_JOIN_V IMP_HTEC IMP_STEC I_GLO_PD SUBDES Pearson RANK 1,000 ,788 ,718 ,083 ,634 ,318 -,832 FDI_ENTR ,788 1,000 ,514 -,039 ,442 ,128 -,630 I_JOIN_V ,718 ,514 1,000 ,016 ,511 ,281 -,616 IMP_HTEC ,083 -,039 ,016 1,000 -,283 ,171 ,191 IMP_STEC ,634 ,442 ,511 -,283 1,000 ,190 -,568 I_GLO_PD ,318 ,128 ,281 ,171 ,190 1,000 -,175 SUBDES -,832 -,630 -,616 ,191 -,568 -,175 1,000 Sig.
+,000 ,000 ,284 ,000 ,012 ,000 FDI_ENTR ,000 .
+,000 ,395 ,001 ,188 ,000 I_JOIN_V ,000 ,000 .
+,457 ,000 ,024 ,000 IMP_HTEC ,284 ,395 ,457 .
+,023 ,118 ,092 IMP_STEC ,000 ,001 ,000 ,023 .
+,093 ,000 I_GLO_PD ,012 ,188 ,024 ,118 ,093 .
+,112 SUBDES ,000 ,000 ,000 ,092 ,000 ,112 .
+Fonte: autores A Tabela 2 apresenta o resumo do modelo de regressão.
+Observou -se que não há autocorrelação entre os resíduos e que há independência entre os erros, por meio do teste de Durbin -watson que tem valor igual 1,594 .
+Outro ponto a se destacar na análise é o R2, ou também chamado de coeficiente de determinação, que neste estudo apresentou R2 = 0, 902.
+Pode -se constatar que as variáveis preditoras influenciam/explicam em 90,2% a variável RANK.
+Tabela 2 - Resumo do Modelo R R2 R2 Ajustado Erro padrão da estimativa Estatísticas de mudança DurbinWatson Alteração R2 Alteração F df1 df2 Sig.
+F ,956a 0,914 ,902 3,68646 ,914 76,195 6 43 ,000 1,594 Preditores: (Constante), SUBDES, I_GLO_PD, IMP_HTEC, IMP_STEC, FDI_ENTR, I_JOIN_V Variável Dependente: RANK Fonte: autores A próxima análise deste estudo será mostrada na Tabela 3, que apresenta a Análise de variância (ANOVA), que visa verificar se o modelo é adequado, isto é, se ele tem um bom poder de explicação dos dados, essa tabela demon stra que o modelo é adequado para explicar 12 os dados, pois, o valor do p -value foi 0,000, desse modo se tem evidências suficientes para afirmar que há uma relação entre as variáveis analisadas ao nível de 5%, ou seja, as variáveis independentes explicam o R ANK.
+Tabela 3 - ANOVAa Soma Quadrados Graus de liberdade Quadrado Médio F Sig.
+Regressão 6212,924 6 1035,487 76,195 ,000b Residual 584,369 43 13,590 Total 6797,294 49 a. Variável Dependente: RANK b. Preditores: (Constante), SUBDES, I_GLO_PD, IMP_HTEC, IMP_STEC, FDI_ENTR, I_JOIN_V Fonte: autores Na Tabela 4, destacam -se os valores dos coeficientes estimados e a sua respectiva significância.
+O previsor mais forte é o FDI_ENTR, pois possui um coeficiente padronizado de 0,348 sendo mais que 50% maior do segundo previsor com maior valor.
+Já as Estatísticas de Colinearidade confirmam a inexistência de multicolinearidade, pois nenhum valor de tolerância é menor que 0,100 e todos os VIF das variáveis são menores que 10, atendendo assim os requisitos da regressão.
+Tabela 4 - Coeficientes do modelo de regressão das variáveis de insumo Coeficientes não padronizados Coeficientes padronizados t Sig.
+Estatísticas de colinearidade B Erro Padrão Beta Tolerância VIF (Constante) 27,867 3,802 7,330 ,000 FDI_ENTR ,122 ,021 ,348 5,855 ,000 ,566 1,767 I_JOIN_V ,053 ,024 ,134 2,170 ,036 ,522 1,915 IMP_HTEC ,122 ,027 ,224 4,530 ,000 ,819 1,220 IMP_STEC ,115 ,032 ,211 3,575 ,000 ,573 1,744 I_GLO_PD ,107 ,063 ,081 1,693 ,098 ,877 1,140 SUBDES -10,230 1,594 -,439 -6,418 ,000 ,428 2,337 a. Variável Dependente: RANK Fonte: autores A análise resultou em um modelo estatisticamente significativo, pois: F(6,43) = 13,590; p <0,001; R2 =,0914.
+As variáveis FDI_ENTR (β=0,348; t = 5,855; p< 0,001), IMP_HTEC (β=0,224; t = 4,530; p<0,001) , IMP_STEC (β=0,211; t = 3,575; p<0,001) , SUBDES (β= -0,439; t = -6,418; p<0,001) são previsores da nota do ranking.
+Já as variáveis I_JOIN_V e I_GLO_PD não são estatisticamente significativos .
+Diante desta an álise infere -se que a equação de regressão linear múltipla (3) resultante é: 13 RANK t = 27,867+ 0,122 FDI_ENTR t + 0,122 IMP_HTEC t + 0,115 IMP_STEC t + (-10,230 SUBDES) + ε (3) Portanto, a equação de regressão linear múltipla chegou a uma nova identidade de regressão a partir dos coeficientes das variáveis explicativas: Investimento Direto Estrangeiro, entradas líquidas (FDI_ENTR), Importações de alta tecnologia no período (IMP_H TEC), Importação de serviços de TIC (IMP_STEC) e pais em desenvolvimento (SUBDES), no modelo de identidade positiva, isto é, o modelo é aceitável.
+Assim pode -se confirmar a Hipótese 1 (H1) a qual prediz que insumos (inputs) do GII relacionados com a internacionalização influenciam positivamente a nota no ranking de inovação do Índice Global de Inovação, sendo possível a realização de inferências.
+No caso do "Investimento dir eto estrangeiro, entradas líquidas", os países buscam a atração de empresas estrangeiras com o objetivo de obter ativos estratégicos, para isto os governos devem reduzir as dificuldad es para empresas entrarem no paí s, reduzindo risco de ser estrangeiro ("l iability of foreignness") e a desvantagem da origem ("disadvantage of foreignness"), no primeiro caso tornado claro como se manifestam as relações entre os agentes locais em seus tecidos produtivos e a necessidade de ajuste ou adaptação às regras de funcio namento do mercado local, no segundo aspecto, reduzindo a discriminação dos governos e/ou consumidores de outros países contra determinadas nacionalidades (STAL; CAMPANARIO, 2010).
+O FDI, segundo Cheung e Ping (2014), pode beneficiar a atividade de inova ção no país anfitrião por meio de canais indiretos, como engenharia reversa, rotatividade de mão de obra qualificada, efeitos de demonstração e relacionamento fornecedor -cliente.
+Do ponto de vista conceitual, os setores de FDI nos quais são adotadas tecnol ogias mais avançadas podem gerar efeitos benéficos substanciais em termos de inovação local (BUCKLEY e GHAURI , 2015; ASCANI et al., 2019 ).
+Segundo Moreira (2007), as e mpresas multinacionais localizadas em mercados tendencialmente amplos e abertos, realizam a transferência de tecnologia e inovação pode ocorrer em ambos os sentidos, da sede para as filiais e das filiais para a sede .
+Importações de Alta Tecnologia e Importação de Serviços de TIC também influenciam o nível de inovação de um país (em nível men or que o FDI), isso se explica pelo fato de que as empresas que diferenciam seus produtos obtém melhor preço no mercado internacional, porém demandam um maior número de componentes de tecnologia superior, ou outros produtos complementares, que não são fabr icados nacionalmente, dessa forma, as empresas que adotam estratégia baseada na inovação de produtos precisam importar componentes de maior conteúdo tecnológico para complementarem as suas linhas de produtos ofertados ao mercado externo ( ROSA et al., 2018) .
+Países que estão em desenvolvimento econômico, dependem fortemente da importação de tecnologia estrangeira para suprir a necessidade de capacidade tecnológica e de inovação de sua indústria, além de necessitar de assistência técnica estrangeira necessár ia para especializar sua mão -de-obra interna, outra forma também é a engenharia reversa, as importações de bens de capital estrangeiros transformaram -se na principal fonte de aprendizado tecnológico de suas empresas (SALMON; SHAVER, 2006; PABIS, 2016; CHEU NG; PING, 2014 ).
+Schneider (2005), por exemplo, destacou a importância da importação de alta tecnologia para aumentar a inovação doméstica, espera -se que o país que importa produtos de alta tecnologia aprenda sobre novas tecnologias por meio de efeitos 14 colaterais.
+A variável dummy SUBDES foi analisada após a análise dos resultados da 2ª etapa, na verificação da Hipótese 3 (H3) .
+Etapa – Análise dos Resultados A Tabela 5 apresenta a análise de correlação para todas as variáveis, a mais forte é PAT_INT com 0, 810 (excetuando a dummy SUBDES com -0,832 ) e mais fraca é a EXP_PCRIA com 0,173.
+Identificou -se também a ausência de multicolinearidade, pois não existe nenhuma alta correlação entre as variáveis independentes (>0,7).
+Todas as variáveis são significativas exceto EXP_STEC e EXP_PCRIA .
+Deste modo, têm -se evidências suficientes para afirmar que as variáveis analisadas são correlacionadas.
+Tabela 5 - Correlações entre a nota do Ranking e as Variáveis de Resultados (N=50) RANK PAT_ INT EXP_ HTEC EXP_ STEC FDI_ SAIDA EXP_ SCRIA EXP_ PCRIA SUBDES Pearson RANK 1,000 ,810 ,459 ,365 ,612 ,601 ,173 -,832 PAT_INT ,810 1,000 ,315 ,361 ,465 ,442 -,041 -,694 EXP_HTEC ,459 ,315 1,000 ,126 ,322 ,187 ,785 -,232 EXP_STEC ,365 ,361 ,126 1,000 ,350 ,410 -,069 -,296 FDI_SAIDA ,612 ,465 ,322 ,350 1,000 ,277 ,156 -,414 EXP_SCRIA ,601 ,442 ,187 ,410 ,277 1,000 -,080 -,526 EXP_PCRIA ,173 -,041 ,785 -,069 ,156 -,080 1,000 ,117 SUBDES -,832 -,694 -,232 -,296 -,414 -,526 ,117 1,000 Sig.
+(1 extrem) RANK ,000 ,000 ,005 ,000 ,000 ,115 ,000 PAT_INT ,000 ,013 ,005 ,000 ,001 ,388 ,000 EXP_HTEC ,000 ,013 ,191 ,011 ,097 ,000 ,053 EXP_STEC ,005 ,005 ,191 ,006 ,002 ,318 ,018 FDI_SAIDA ,000 ,000 ,011 ,006 ,026 ,140 ,001 EXP_SCRIA ,000 ,001 ,097 ,002 ,026 ,290 ,000 EXP_PCRIA ,115 ,388 ,000 ,318 ,140 ,290 ,209 SUBDES ,000 ,000 ,053 ,018 ,001 ,000 ,209 Fonte: autores A Tabela 6 apresenta o resumo do modelo de regressão.
+Observou -se que não há autocorrelação entre os resíduos e que há independência entre os erro s, por meio do teste de Durbin -Watson que tem valor igual 2,205 .
+Para este teste a regra é a seguinte: valores próximos de 2 é o ideal em decorrência desse resultado não ser significativo, pois, garante a suposição de independênc ia entre os erros, entretanto quando o valor deste teste fo r menor do que 1 e superior a 3 há suposição não é satisfeita.
+Outro ponto a se destacar na análise é o R2, ou também chamado de coeficiente de determinação, que neste estudo apresentou R2 = 0, 914.
+Pode -se constatar que as variáveis preditoras influenciam/explicam em 91,4% a variável RANK.
+15 Tabela 6 - Resumo do Modelo R R2 R2 ajustado Erro padrão da estimativa Estatísticas de mudança DurbinWatson Alteração R2 Alteração F df1 df2 Sig.
+F ,956a ,914 ,899 3,74144 ,914 63,368 7 42 ,000 2,205 Preditores: (Constante), SUBDES, EXP_PCRIA, EXP_STEC, FDI_SAIDA, EXP_SCRIA, PAT_INT, EXP_HTEC Variável Dependente: RANK Fonte: autores A Tabela 7 apresenta a Análise de variância (ANOVA), essa tabela demonstra que o modelo é adequado para explicar os dados, pois, o valor do p -valor foi 0,000, desse modo se tem evidências suficientes para afirmar que há uma relação entre as variáveis analisadas ao nível de 5%, ou seja, as variáveis independentes explicam o RANK .
+Tabela 7 - ANOVAa Soma Quadrados df Quadrado Médio F Sig.
+Regressão 6209,363 7 887,052 63,368 ,000b Residual 587,931 42 13,998 Total 6797,294 49 a. Variável Dependente: RANK b. Preditores: (Constante), SUBDES, EXP_PCRIA, EXP_STEC, FDI_SAIDA, EXP_SCRIA, PAT_INT, EXP_HTEC Fonte: autores Na Tabela 8, destacam -se os valores dos coeficientes estimados e a sua respectiva significância.
+Os previsores mais fortes são o PAT_INT , pois possui um coeficiente padronizado de 0, 365 e o EXP_PCRIA com 0, 300.
+Já as Estatísticas de Colinearidade confirmam a inexistência de multicolinearidade, pois nenhum valor de tolerância é menor que 0,100 e todos os VIF das variáveis são menores que 10, atendendo assim os requisitos da regressão.
+Tabela 8 - Coeficientes do modelo de regressão das variáveis de insumo Coeficientes não padronizados Coeficientes padronizados t Sig.
+Estatísticas de colinearidade B Erro Padrão Beta Tolerância VIF (Constante) 38,302 1,917 19,98 1 ,000 PAT_INT ,127 ,024 ,365 5,274 ,000 ,429 2,329 EXP_HTEC -,032 ,031 -,093 -1,007 ,320 ,243 4,115 16 EXP_STEC -,007 ,025 -,015 -,286 ,776 ,747 1,339 FDI_SAIDA ,104 ,030 ,186 3,410 ,000 ,691 1,446 EXP_SCRIA ,139 ,041 ,193 3,397 ,000 ,640 1,562 EXP_PCRIA ,117 ,034 ,300 3,389 ,000 ,262 3,811 SUBDES -10,761 1,616 -,461 -6,661 ,000 ,429 2,330 a. Variável Dependente: RANK Fonte: autores A análise resultou em um modelo estatisticamente significativo, pois: F(7,42) = 13,998; p <0,001; R2 =,914.
+As variáveis PAT_INT (β=0, 365; t = 5,274; p<0,001), FDI_SAIDA (β= , 186; t= 3,410; p<0,001) , EXP_SCRIA (β=0, 193; t 3,397; p<0,001) , EXP_PCRIA (β=0, 300; t= 3,389; p<0,001), SUBDES (β= -0, 461; t= -6,661; p<0,001) são previsores da nota do ranking.
+Já as variáveis EXP_HTEC e EXP_STE C não são estatisticamente significativos .
+Diante desta análise infere -se que a equação de regressão linear múltipla (4) resultante é: RANK it = 38,302+ 0,127 PAT_INT t + 0,104 FDI_SAIDA t + 0,139 EXP_SCRIA t + 0,117 EXP_PCRIA t + (-10,761SUBDESENV) + ε (4) Portanto, a equação de regressão linear múltipla chegou a uma nova identidade de regressão a partir dos coeficientes das variáveis explicativas: Tratado de Cooperação em Patentes (PCT) Aplicações internacionais (PAT_INT ), Investimento direto estrangeiro - saídas líquidas (FDI_SAIDA ), Exportação de serviços culturais e criativos (EXP_SCRIA ), Exportação de bens criativos (EXP_PCRIA ) e país em desenvolvimento (SUBDES) , no modelo de identidade positiva, isto é, o modelo é acei tável.
+Assim , pode -se confirmar a Hipótese 2 (H2) a qual prediz que os resultados (outputs) do GII relacionados com a internacionalização influenciam positivamente que a nota no ranking de inovação do Índice Global de Inovação, sendo possível a realizaçã o de inferências.
+A variável "Tratado de Cooperação em Patentes (PCT) Aplicações internacionais", tem como objeto o número de pedidos de patentes internacionais.
+A Propriedade Intelectual vem sendo utilizada nos últimos anos como uma estratégia para o des envolvimento dos países, por adotar um elo entre universidade e empresa, e por atuarem em um campo complexo da invenção, inovação e criatividade.
+Por conterem uma grande quantidade de conhecimentos sobre as inovações tecnológicas, as patentes representam uma valiosa fonte de informações sobre o desenvolvimento da tecnologia e atividades inovadoras.
+O registro de patentes, considerado como um índice do desenvolvimento indu strial e de pesquisa dos países está entre os principais indicadores de produção do co nhecimento tecnológico.
+É um termômetro que afere o índice do desenvolvimento de pesquisa e inovação dos países.
+As paten tes são consideradas indicador relevante para se avaliar a capacidade do país em transformar o conhecimento científico em produtos ou i novações tecnológica s (SOUZA, 2014).
+Baseado no fato das patentes serem uma forma de garantir o direito à propriedade intelectual, Gittelman (2008) considera que elas incentivem os investimentos das empresas em inovações para alcançar maior competitividade, num mercado extremamente globalizado, 17 competitivo e gerador permanente de inovações tecnológicas, é fundamental que as empresas atentem para a importância da utilização de patentes como uma ferramenta competitiva que exige uma proposta dif erenciada de gestão, não como uma simples gestão de serviço, mas como um potencial para geração de inovações.
+O Investimento Direto Estrangeiro também influencia o desempenho em inovação dos países de origem destes investimentos.
+Normalmente o FDI acontec e de países mais industrializados para países menos industrializados, ou de países em desenvolvimento ricos em capital para países em desenvolvimento com escassez de capital.
+Nas últimas décadas, no entanto, um novo fenômeno apareceu, a saber, um fluxo rev erso de FDI dos países em desenvolvimento para os desenvolvidos e para outros países em desenvolvimento.
+(2017) considera que em diversos países desenvolvidos, além dos serviços de informação e assistência técnica, o go verno também fornece o apoio financeiro, os recursos são distribuídos, em grande medida, por instituições de desenvolvimento para o apoio aos projetos de investimento diretos.
+Em relação aos países em desenvolvimento, o apoio à internacionalização das empr esas tem tido como metas principais o aumento da competitividade e a expansão do comércio, sendo que políticas mais sistemáticas de apoio à internacionalização são observadas nos países asiáticos.
+Bano e Tabbada (2015) também consideram que a s políticas de concorrência devem ser adotadas pelos governos.
+Essas políticas incentivam o investimento nacional e internacional.
+Políticas de visão externa, a integração das economias nacionais na ordem global, geralmente são favoráveis ao crescimento e desenvolvime nto.
+As variáveis Exportação de Serviços Culturais e Criativos e Exportação de Bens Criativos também são relevantes quanto à questão do nível de inovação de uma nação.
+(2019) consideram que Indústrias Culturais e Criativas (ICC) podem desem penhar um papel vital nos esforços de inovação e crescimento, as ICC incluem indústrias culturais (como dança, música e artesanato), artes criativas que juntas produzem produtos criativos (artes visuais, artes cênicas, filmes, música etc.)
+e serviços criat ivos (por exemplo, serviços de arquitetura, publicação e software).
+As ICC foram identificadas como uma combinação de criatividade e recursos intelectuais com valores de negócios e necessidades de mercado, essa combinação gera um ciclo virtuoso de inovação composto pelo entrelaçamento de processos baseados na cultura e na criatividade (SCHIUMA; LERRO, 2014).
+Exportações globa is de bens e serviços criativos registraram em 2011 o valor de US$ 559 bilhões, valor correspondente ao dobro registrado em 2002.
+O crescimento das exportações dos países em desenvolvimento foi ainda mais forte, com média de 12,1% ao ano no período e as perspectivas de crescimento cont ínuo são boas, pois a economia criativa reflete estilos de vida contemporâneos cada vez mais associados a redes sociais, inovação, conectividade, estilo, status, marcas, experiências culturais e cocriações.
+Economias emergentes e em transição apresentam desafios adicionais para suas indústrias criativas.
+A indústria criativa é uma indústria voltada para P&D e inovação, assim, países com baixos níveis de compromisso com a inovação e P&D podem ser vítimas da divisão criativa, onde algumas nações poderão crescer e se desenvolver mais rapidamente, além disso, as exportações de bens criativos podem ajudar ainda mais os países em sua transição para níveis mais altos de renda per capita (GOUVEA; VORA, 2018).
+Complem entando as análises, a Hipótese 3 (H3) Países subdesenvolvidos tem menos efetividade em gerar inovação com processos de internacionalização que os países 18 desenvolvidos, também é aceita, pois nas duas análises dos pilares de insumos e resultados, a variável dummy SUBDES tem sempre valor negativos, insumos (β=-0,439; t = -6,418; p<0,001) e resultados (β=-0, 461; t= -6,661; p<0,001).
+Isto significa que a situação do país como subdesenvolvido ou em desenvolvimento, terá impacto negativo nas equações de predição da nota do ranking do Índice Global de Inovação.
+É consenso que as empresas multinacionais dos países desenvolvidos acumulam ao longo dos anos recursos raros e difíceis de imitar (OLIVEIRA JR.; BORINI, 2009), e buscam com isso explorar sua superioridade competitiva em mercados internacionais, seja por meio de suas vantagens de propriedade, localização ou internalização (DUNNING, 1988).
+Países emergentes buscam o desenvolvimento tecnológico com atraso, na maior parte das vezes copiando e adaptando soluções exógenas, pois os sistemas nacionais de inovação não estão plenamente desenvolvidos, dificultando as interações entre as diferentes instituições que determinam o desempenho inovador das empresas nacionais (NELSON, 2006) .
+Já na perspectiva do modelo de cr escimento neoclássico, segundo Costa e Figueira (2017), o capital deveria fluir dos países ricos para os países pobres, considerando a lógica dos retornos mais elevados.
+Isso não explica, porém, por que a maior parte do investimento direto no exterior (FDI ) tem lugar entre os países desenvolvidos, em vez de provir para o mundo em desenvolvimento.
+Uma explicação para este paradoxo teórico -empírico poderia ser encontrada na incerteza política elevada em países menos desenvolvidos.
+Assim, se os países menos de senvolvidos almejarem atrair fluxos de FDI, devem fazer esforços para reduzir o risco político.
+As empresas dos países em desenvolvimento se internacionalizam por inovações organizacionais (adaptação de sua estrutura produtiva para atender o mercado exter no), ao contrário das empresas dos países já desenvolvidos que, normalmente, se internacionalizam motivadas por inovações tecnológicas (ganho de eficiência), outra diferença é que as empresas dos países em desenvolvimento tendem a aceitar maiores riscos (b uscando mercados não usuais, menos competitivos), do que as empresas de países desenvolvidos (ISMAIL, 2013).
+5 CONSIDERAÇÕES FINAIS O objetivo de trabalho foi analisar a influência, tanto dos insumos (inputs), como dos resultados (outputs) do GII 2019, relacionados à internacionalização, nas notas de inovação de um país e se o nível de desenvolvimento também influência no seu nível de inovação .
+Por meio de uma a nálise estatística com as variáveis dos pilares do GII relacionadas com o a internacionalização, foi alcançado o objetivo ao montar uma modelo e a partir dele confirmar a influência significativa dessas variáveis nas notas finais dos países no ranking do Global Innovation Index, além de identificar que os países em desenvolvimento têm mais dificuldades em inovar por meio de atividades de internacionalização.
+Como principais achados pode -se destacar que: a) o FDI tende a levar à prosperidade econômica no pa ís de origem e no país anfitrião - embora alguns setores, como trabalhadores no país de origem e capitalistas no país de acolhimento, possam sofrer perdas no curto prazo.
+Se, no entanto, o investimento (proveniente de fontes tradicionais ou novas) leva a u ma alocação mais eficiente de recursos, a sociedade como um todo ganha em longo prazo; b) que as Importações de produtos e serviços de Alta Tecnologia, são importantes principalmente 19 para os países em desenvolvimento, pois as empresas que adotam estratégia baseada na inovação de produtos precisam importar componentes de maior conteúdo tecnológi co, podendo ser uma fonte de aprendizado tecnológico ao realizar a engenharia reversa destes componentes e também que o país que importa produtos de alta tecnologia aprenda sobre novas tecnologias por meio de efeitos colaterais; e c) a Exportação de Bens e Serviços Culturais e Criativos são relevantes ao desempenhar um papel vital nos esforços de inovação e crescimento, sendo identificadas como uma combinação de criatividade e recursos intelectuais com valores de negócios e necessidades de mercado, essa com binação gera um ciclo virtuoso de inovação composto pelo entrelaçamento de processos baseados na cultura e na criatividade.
+Outro achado importante é referente à questão do desenvolvimento do país, onde nações desenvolvidas levam vantagem sobre as em dese nvolvimento, pois elas começaram antes o processo de internacionalização de suas empresas e possuem um processo inovativo mais consolidado e por isso conseguem escolher seus investimentos.
+Já as nações em desenvolvimento são obrigadas muitas vezes a fazer aposta de risco, sofrendo mais as consequências do risco de ser estrangeiro (" liability of foreignness ") e a desvantagem da origem (" disadvantage of foreignness "), mas também se identificou que a inovação é uma das ferramentas mais apropriadas para o desen volvimento dessas nações.
+Como limitações deste estudo, podemos destacar o uso de dados de apenas um período de apuração do ranking do Índice Global de Inovação e somente da base de dados do GII.
+Outra limitação diz respeito à generalização dos achados de ste estudo, ao se trabalhar apenas com as 50 principais economias do mundo.
+Mesmo com o reconhecimento destas limitações, os achados deste estudo fornecem base para estudos futuros, com a realização uma pesquisa com o ranking de vários anos, podendo assim fazer uma análise histórica, gerando um resultado mais consistente.
+Ou estudos combinando este ranking de inovação, com o de desenvolvimento humano e de cultura, para se obter melhor entendimento de como os países em desenvolvimento podem melhor suas condi ções econômicas e sociais.
+Inovação, via internacionalização, faz bem para as exportações brasileiras.
+Texto para discussão , Brasília, IPEA, n. ju2004, 2004.
+; MORRISON, A. Heterogeneous foreign direct investment and local innovation in Italian Provinces.
+Structural Change and Economic Dynamics , 2019.
+DOI: 10.1016/j.strueco.2019.06.004 AULAKH, P.S.
+Emerging multinationals from developing economies: Motivations, paths and performance.
+Journal of international management , v. 3, n. 13, p. 235 -240, 2007.
+DOI: 10.1016/j.intman.2007.05.001 BANO, S.; TABBADA, J.
+Foreign direct investment outflows: Asian developing countries.
+Journal of Economic Integration , v. 30, n. 2, p. 359 -398, 2015.
+DOI: 10.11130/jei.2015.30.2.359 BOERMANS, M. A.; ROELFSEMA, H. The effects of internationalization on innovation: firm-level evidence for transition economies.
+Open Economies Review , v. 26, n. 2, p. 333350, 2015.
+DOI: 10.1007/s11079 -014-9334 -8 20 BORGES, F.Q.
+Efeitos dos investimentos em inovação no brasil: uma análise da dinâmica entre inovação, população economicamente ativa e produto interno bruto (2005 -2015).
+Revista Economia & Gestão , v. 17, n. 47, p. 164 -178, 2017.
+DOI: 10.5752/P.1984 -6606.2017v17n47p164 BRUHN, N.; CALEGÁRIO, C.; CARVALHO, F.; CAMPOS, R.; SANTOS, A.
+Mergers and acquisitions in Brazilian industry: a study of spillover effects, Interna tional Journal of Productivity and Performance Management , v. 66 n. 1, p. 51 -77,2017.
+DOI: 10.1108/IJPPM -11-2014 -0179 BUCKLEY, Peter J.; GHAURI, Pervez.
+The internalisation theory of the multinational enterprise: A review of the progress of a research agenda after 30 years.
+In: International business strategy .
+London: Routledge, 2015. p. 99 -121.
+DOI: 10.4324/9781315848365 BUGLEAR, J. Stat significa o negócio : um guia para negócios.
+Estatística Butterworth Heinemann Press, 2005 CAVUSGIL, S. T.; KNIGHT, G.; RIESENBERGER, J. R .
+Negócios internacionais: estratégia, gestão e novas realidades .
+CETINGUC, B.; CALIK, E.; CALISIR, F. The Moderating Effect of Indulgence on the Relationships Among Global Innovation Index Indicators.
+In: Industrial Engineering in the Big Data Era .
+Springer, Cham, p. 417 -425, 2019.
+DOI:10.1007/978 -3-030-03317 -0_34 CHEUNG, K.; PING, L. Spillover effects of FDI on innovation in China: Evidence from the provincial data.
+China economic review , v. 15, n. 1, p. 25 -44, 2014.
+DOI: 10.1016/S1043951X(03)00027 -0 COSTA, L.P.S; FIGUEIRA, A.C.R.
+Risco político e internacionalização de empresas: uma revisão bibliográfica.
+EBAPE.BR , v. 15, n. 1, p. 63 -87, 2017 DOI: 10.1590/1679395156933 .
+CUERVO -CAZURRA, A.; GENC, M. Transforming disadvantages into adv antages: Developing -country MNEs in the least developed countries.
+Journal of international business studies , v. 39, n. 6, p. 957 -979, 2008.
+DOI: 10.1057/palgrave.jibs.8400390 DUNNING, J. H. The eclectic paradigm of international production: a restatement and some possible extensions, Journal of International Business Studies , v. 19, n. 1, p. 1 -31, 1988.
+EDLER, J.; KUHLMANN, S.; BEHRENS, M. Changing Governance of Research and Technology Policy – The European Research Area .
+Cheltenham: Edward Elgar Publishing.
+FILIPPETTI, A.; FRENZ, M.; IETTO -GILLIES, G. The role of internationalization as a determinant of innovation performance .
+Londres: CMIR Research working paper series, 2013.
+DOI: 10.2139/ssrn.2114289 FLEURY, A.; FLEURY, M.T.L.
+Internacionalização das empresas brasileiras: em busca de uma abordagem teórica para os late movers .
+In: Internacionalização e os países emergentes / Afonso Fleury, Maria Tereza Leme Fleury (Org.)
+The Brazilian multinationals' approaches to innovation.
+Journal of International Management , v. 1 9, n. 3, p. 260 -275, 2013.
+DOI: 10.1016/j.intman.2013.03.003 GARCIA, R.; CALATONE, R. A critical look at technological innovation typology and innovativeness terminology: a literature review.
+The Journal of Product Innovation Management , v.19, n.2, p.110 -132.
+DOI: 10.1111/1540 -5885.1920110 21 GARRIDO, I.L.
+; GONCALO, C. R.; VASCONCELLOS, S. L. Mantendose Inovadoras: O papel do Desempenho Passado, da Capacidade Absortiva e da Internacionalização.
+Brazilian Business Review , v. 14, n. 6, p. 559-574, 2017.
+DOI: 10.15728/bbr.2017.14.6.1 .
+GII - The Global Innovation Index 2019 : Creating Healthy Lives —The Future of Medical.
+Cornell University, INSEAD E WIPO, 2019.
+Disponível em < -2019 -report > Acesso em 10 dez.
+GITTELMAN, M. A note on the value of patents as indicators of innovation: Implications for management research.
+Academy of Management Perspectives , v. 22, n. 3, p. 21 -27, 2008.
+DOI: 10.5465/amp.2008.34587992 GOPALAKRISHNAN, S.; DAMANPOUR, F. A review of innovation research in economics, sociology and technolo gy management.
+Omega , v. 25, n. 1, p. 15 -28, 1997.
+DOI: 10.1016/S0305 -0483(96)00043 -6 GOUVEA, R.; VORA, G. Creative industries and economic growth: stability of creative products exports earnings.
+Creative Industries Journal , v. 11, n. 1, p. 22 -53, 2018.
+DOI: 10.1080/17510694.2017.1416529 GUILLÉN, M. F.; GARCÍA -CANAL, E. The American model of the multinational firm and the "new" multinationals from emerging economies.
+Academy of Management Perspectives , v. 23, n. 2, p. 23 -35, 2009.
+DOI: 10.5465/amp.2009.39985538 ISMA IL, N.W.
+Innovation and high -tech trade in Asian countries.
+In: Proceedings from International Conference on Recent Developments in Asian Trade Policy and Integration .
+The internationalization process of the firm - a model of knowledge development and increasing foreign market commitments.
+Journal of international business studies , v. 8, n. 1, p. 23 -32, 1977.
+DOI: 10.1057/palgrave.jibs.8490676 KAYAM, S. S. Home market determinants of FDI outflows from developing and transition economies .
+MPRA Paper 16781, University Library of Munich, Germany , 2009.
+; CAVUSGIL, S. T. Innovation, organizational capabilities, and the bornglobal firm.
+Journal of in ternational business studies , v. 35, n. 2, p. 124 -141, 2004.
+DOI: 10.1057/palgrave.jibs.8400071 LABIAK JR, S.; CARLOS, R.; PACHECO, R.; MARCHEZAN, M.L.
+; SCHNEIDER , V. Indicadores Indiretos de Ino vação.
+In: 25ª Conferência Anprotec, Cuiabá, 2015.
+Dragon multinationals: New players in 21st century globalization.
+Asia Pacific journal of management , v. 23, n. 1, p. 5 -27, 2006.
+DOI: 10.1007/s10490 -006-6113 -0 MERCAN, B.; GOKTAS, D. Components of innovation ecosystems: a cross -country study.
+International research journal of finance and economics , v. 76, n. 16, p. 102 -112, 2011.
+MORALES, R.; BRENNAN, L. Ireland's innovative governmental policies promoting internationalization.
+Research in International Business and Finance , v. 23, p. 157 -168, 2009.
+DOI: 10.1016/j.ribaf.2008.03.012 MOREIRA, A.C .
+A transferência internacional de tecnologia: a revisão da literatura e uma crítica.
+Revista Estudos do ISCA , v.2007, n.3, p.1 -19, 2007.
+DOI: 10.34624/ei.v0i1/2/3.6865 22 NELSON, R. R. As fontes do crescimento econômico .
+NING, L.; SUTHERLAND, D. Internationalization of China's private‐sector MNEs: An analysis of the motivations for foreign affiliate formation.
+Thunderbird International Business Review , v. 54, n. 2, p. 169 -182, 2012.
+OECD, Innovation in Firms :A Microeconomic Perspective, Paris: OECD Publishing, 2009.
+DOI: 10.1787/9789264056213 -en.
+OLIVEIRA JR, M.; BORINI, F. M. Gestão de Subsidiárias.
+GV Executivo , v. 8, n. 2, p. 1821, 2009 OURA, M.M.
+Innovation capacity, international experience and export performance of SMEs in Brazil.
+International Business Review , v. 25, n. 4, p. 921932, 2016.
+DOI: 10.1016/j.ibusrev.2015.12.002 PABIS, T.C.
+Sistema Nacional de Inovação: As Políticas Tecnológicas e de Inovação da Coréia do Sul.
+Blucher Engineering Proceedings , v. 3, n. 4, p. 1331 -1351, 2016.
+RAHMAN, M.; UDDIN, M.; LODORFOS, G. Barriers to enter in fore ign markets: evidence from SMEs in emerging market.
+International Marketing Review , v. 34 n. 1, p. 68 -86, 2017.
+DOI: 10.1108/IMR -10-2014 -0322 ROSA, J.P.; DA ROSA, S.S.; ANTONIOLLI, P.D.
+A estratégia da inovação, a chave para o desenvolvimento: uma comparação entre a realidade brasileira e americana.
+Iberoamerican Journal of Industrial Engineering , v. 10, n. 19, p. 157 -176, 2018.
+Learning by Exporting: New Insights from Examining Firm Innovation.
+Journal of Economics & Management Strategy , v. 14, n. 2, p. 431 -460, 20 05.
+DOI: 10.1111/j.1530 -9134.2005.00047.x SANTORO, G.; BRESCIANI, S.; PAPA, A. Collaborative modes with cultural and creative industries and innovation performance: the moderating role of heterogeneous sources of knowledge.
+Technovation, v. 92, p. 102040, 2018.
+DOI: 10.1016/j.technovation.2018.06.003 SCHIUMA, G., LERRO, A.
+Do Cultural and Creative Industries (CCI) matter for innovation and value creation in knowledge -based business?
+Aims, forms and practice of collaboration in Italy.
+SCHNEIDER, P. H. International trade, economic growth and intellectual property rights: A panel data study of developed and developing countries.
+Journal of Development Economics , v. 78, n. 2, p. 529 -547, 2005.
+DOI: 10.1016/j.jdeveco.2004.09.001 SCHULTZ, D.P.
+História da psicologia moderna .
+Utilities Analysis for Latin America and Caribbean Innovation Indicators.
+IEEE Latin America Transactions , v. 16, n. 11, p. 28342840, 2018.
+DOI: 10.1109/TLA.2018.8795126 SOARES, T.J.; TORKOMIAN, A.L.
+The Brazilian Innovation System: Critical Analysis and Considerations.
+Interciencia , v. 41, n. 10, p. 713721, 2016.
+Re -evaluation of global innovation index based on a structural equation model.
+Technology Analysis & Strategic Management , v. 28, n. 4, p. 492-505, 2016.DOI: 10.1080/09537325.2015.1104412 23 SOUSA, D.C.; GONÇALVES, R.F.
+; ABE, J M.; SACOMANO, J.B. Análise do impacto das patentes no índice global de inovação com aplicação de lógica paraconsi stente anotada.
+Exacta , v. 12, n. 2, p. 13 -22, 2014.
+DOI: 10.5585/ep.v12n2.4913 STAL, E.; CAMPANÁRIO, M. A. Empresas multinacionais de países emergentes: o crescimento das multilatinas.
+Economia Global e Gestão , Lisboa, v. 15, n. 1, p. 55 -73, abr.
+Strategic analysis of innovation -based competitiveness in the global economy.
+Montenegrin Journal of Economics , v. 9, n. 1, p. 127 -134, 2013.
+UNCTAD - Comércio de produtos criativos atingiu novo pico em 2011 .
+WRIGHT, P., KROLL, M. J.; PARNELL, J. Administração estratégica : conceitos.
+A regional university -industry cooperation research based on patent data analysis.
+Asian Social Science , v. 6, n. 11, p. 88, 2010.

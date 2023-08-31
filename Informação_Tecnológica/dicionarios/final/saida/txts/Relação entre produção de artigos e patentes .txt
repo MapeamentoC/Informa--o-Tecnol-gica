@@ -1,0 +1,285 @@
+ 923 ISSN 1983 -5213 ARTIGOS Relação entre produção de artigos e patentes da Universidad e Federal do Rio Grande do Sul e o financiamento de pesquisa 1 Verônica Barboza Scartassini Universidade Federal Fluminense, Programa de Pós -Graduação em Ciência da Informação, , Niterói, RJ, Brasil veronicascartassini@gmail.com Ana Maria Mielniczuk de Moura Universidade Federal do Rio Grande do Sul, Programa de Pós -Graduação em Ciência da Informação, , Porto Alegre, RS, Brasil ana.moura@ufrgs.br DOI: rici.v13.n3.30936 Recebido/Recibido/Received : 2020 -04-15 Aceitado/Aceptado/Accepted: 2020 -07-09 Resumo : O desenvolvimento de universidade s e agências de pesquisa foi importante para alavancar a ciência brasileira .
+A partir disso, o estudo buscou compreender o processo de financiamento de pesquisa da produção científica e tecnológica pertencente a Universidade Federal do Rio Grande do Sul no período de 2008 a 2018 e indexada nas bases de dados Web of Science e PatentScope .
+Trata -se de uma pesquisa descritiva que usa a cientometria como método.
+Os dados foram coletados em agosto de 2019 e unificados em um banco de dados no Excel, software utilizado nos procedimentos de an álise e criação de tabelas e gráficos junto com o NotPad++ .
+Verificou -se que a Universidade possui 16.700 registros indexad os na W eb of Science com indícios de financiamento, e na PatentScope , 381 registros de patentes .
+Ambas as produções ap resentam sinais de crescimento, onde a produção científica da UFRGS é, em sua maioria, financiada por instituições públicas de fomento.
+Os depósitos de patentes realizad os pela Universidade ocorreram com instituições de ensino e pesquisa, m as também com empresas.
+Verificando a relação entre financiamento com a produção tecnológica, a pesquisa evidenciou , a partir da autoria, que a produção tecnológica da U niversidade também é realizada com algum tipo de fomento.
+Universidade Federal do Rio Grande do Sul.
+Relationship between production of articles and patents at the Federal University of Rio Grande do Sul and the research funding Abstract : The development of universities and research agencies was important to leverage Brazilian science.
+From this, the study sought to understand the process of funding research with scientific and technological production belonging to the Federal University o f Rio Grande do Sul in the period from 2008 to 2018 and indexed in the Web of Science and PatentScope databases.
+It is a descriptive research that uses scientometry as a method.
+The data were collected in August 2019 and unified in a database in Excel, software used in the analysis and creation of tables and graphs.
+It was found that the University has 16,700 records with indications of funding indexed in the Web of Science, and 381 patent records in the PatentScope.
+Both productions show signs of growth, w here UFRGS 'scientific production is mostly financed by public funding institutions.
+The patent deposits made by the University took place with 1 Trabalho oriundo da dissertação defendida em dezembro de 2019 na Univ ersidade Federal do Rio Grande do Sul para obtenção do grau de Mestra em Comunicação e Informação.
+Pesquisa realizada com o apoio do CNPq por meio de concessão de bolsa de mestrado.
+Inf., ISSN 1983 -5213, Brasília , v. 13, n. 3, p. 915 -935,set./dez.
+924 educational and research institutions, but also with companies.
+Verifying the relationship between financing and technological production, the research showed, from the authorship, that the technological production of the University, also, is carried out receiving some type of promotion.
+Universida de Federal do Rio Grande do Sul.
+Relación entre producción de artículos y patentes en la Universidad Federal de Rio Grande do Sul y los fondos de investigación Resumen: El desarrollo de universidades y agencias de investigación fue importante para aprovechar la ciencia brasileña.
+A partir de esto, el estudio buscó comprender el proceso de financiación de la investigación con producción científica y tecnológica pertenecie nte a la Universidad Federal de Rio Grande do Sul en el período de 2008 a 2018 e indexado en las bases de datos de Web of Science y PatentScope.
+Es una investigación descriptiva que utiliza la cienciometría como método.
+Los datos se recopilaron en agosto d e 2019 y se unificaron en una base de datos en Excel, software utilizado en el análisis y la creación de tablas y gráficos.
+Se descubrió que la Universidad tiene 16.700 registros con indicaciones de financiación indexadas en la Web of Science y 381 registr os de patentes en el PatentScope.
+Ambas producciones muestran signos de crecimiento, donde la producción científica de UFRGS es financiada principalmente por instituciones de financiación pública.
+Los depósitos de patentes realizados por la Universidad se realizaron con instituciones educativas y de investigación, pero también con empresas.
+Al verificar la relación entre el financiamiento y la producción tecnológica, la investigación mostró, a partir de la autoría, que la producción tecnológica de la Univer sidad, también, se lleva a cabo recibiendo algún tipo de promoción.
+Financiación de la investigación.
+Universidade Federal do Rio Grande do Sul.
+1 Introdução A Ciência da Informação preocupa -se em solucionar problemas informacionais e compreen der a sociedade por meio de diversos estudos.
+Nesse sentido, se destacam os estudos voltados para a comunicação científica, estudos métricos da informação, indicadores de produtividade e avaliação, assim també m como o uso e consumo das informações nos mais variados graus.
+Esta pesquisa busca , a partir dos insumos e produtos oriundos da produção científica e produção tecnológica representados pela publicação de artigos científicos e depósitos de patentes, entender o processo do financiamento de pesquisas.
+Desta forma, compreendemos que artigos científicos são os documentos da Ciência, sendo o elemento mais alto de aceitação e crédito científico, dotado de rigor metodológico e necessária avaliação pelos pares para a obtenção de reconhecimento e relevância .
+As patentes representam , por sua vez, o mais alto grau de descoberta técnica, possuindo aplicabilidade industrial, valor econômico e científico pelo rigor e critérios estabelecidos para a concessão de cartas -patentes, concedida por um escritório regulador com relação a uma instituição su perior, muitas vezes o próprio Estado.
+Nesse sentido, é importante compreender que a difusão científica e seu desenvolv imento segue m uma tendência global (FÁVERO, 2006; SCHWARTZMAN, 2001).
+Dessa forma, a o longo do desenvolvimento educacional brasileiro, as universidades passaram a RICI: R.Ibero -amer.
+Inf., ISSN 1983 -5213, Brasília , v. 13, n. 3, p. 915 -935,set./dez.
+925 integrar em seus cursos aspectos da pesquisa científica , similares ao que já ocorria em outros países .
+No Brasil foi nos anos de 1970 que a pós -graduação passa a estar ligada às universidades.
+A iniciativa foi realizada pela C oordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES ) através da proposição de ações de fomento e avaliação dos cursos de pós -graduação.
+Essa vinculação visava à institucionalização da ciência no país , além de ampliar a utilização da estrutura of erecida pela universidade à pós -graduação.
+Nesse sentido, o Conselho Nacional de Desenvolvimento Científico e Tecnológico ( CNPq ), a Financiadora de Estudos e Projetos ( FINEP) e Fundação de Amparo à Pesquisa do Estado de São Paulo (F APESP ) passaram a adotar o mesmo sistema de fomento que a CAPES, por meio do vínculo institucional (GUIMARÃES, 2002).
+Atualmente, o desenvolvi mento científico é realizado em universidades e centros de pesquisa, impulsionado por alunos e professores dos cursos de pós-graduação recebendo fomento governamentais ou da iniciativa privada.
+O investimento do Estado no desenvolvimento de novos conhecimentos, assim como a aplicação desses insumos, é fundamental para o seu próprio desenvolvimento , seja social, político e e conômico, contribuindo para o aumento da riqueza nacional e também para o bem -estar da população (SCHWARTZMAN, 2008).
+Em uma perspectiva econômica, Chaimovich e Melcop (2007) apontam que países da América Latina e Caribe não conseguiam destinar nem 1% do s eu Produto Interno Bruto (PIB) em Pesquisa e Desenvolvimento (P&D) .
+O Brasil destinou, segundo os autores, 0,91% do PIB para pesquisas nesse período.
+Arias Perez e Zuluaga Borda (2014) complementam dizendo que o Brasil investe mais de seu PIB do que países da América Latina: o país investi u 1,16% do PIB no setor em 2010.
+Em âmbito nacional, o Estado de São Paulo destinou 1,61% de seu PIB em P&D no ano de 2011, mais do que o próprio país .
+Este índice se equipara ao investimento realizado por países desenvolv idos no setor, fazendo com que o Estado de São Paulo se destaque como o que mais contribui para o desenvolvimento da ciência e tecnologia (FUNDAÇÃO., 2014).
+Em relação à posição brasileira como país que mais investe em insumos de Ciência, Tecnologia e Inovação (C,T&I) na América Latina, Fazzio (2017) aponta que houve um aumento nos repasses dos anos 2000 a 2013, porém, o momento de crise financeira enfrentada pelo país, não prioriza a ciência e a tecnologia, os quais têm relações diretas com o desenvolvim ento econômico e que poderiam diminuir os agravantes da crise .
+O investimento realizado em CT&I é majoritariamente governamental e, apesar disso, ao longo do período percebe -se crescimento dos i nvestimentos privados no setor (ARIAS PEREZ; ZULUAGA BORDA, 20 14).
+Com base no que foi exposto, o trabalho se propôs a investigar como se caracteriza o financiamento de pesquisas em artigos e patentes da Universidade Federal do Rio Grande do Sul (UFRGS), indexadas na Web of Science (WoS) e PatentScope no período de 2 008 a 2018.
+Inf., ISSN 1983 -5213, Brasília , v. 13, n. 3, p. 915 -935,set./dez.
+926 objetivos se concentram em identificar a produção científica e tecnológica a partir de indicadores de produtividade e autoria, assim como, investigar aproximações do fomento à pesquisa na produção científica e tecnológica.
+Nesse sentido, o estudo se justifica, pois, compreende que o avanço científico e tecnológico brasileiro está atrelado ao financiamento público, via agências de fomento como o CNPq e a CAPES.
+Dessa forma, torna -se necessário estudar os produtos oriundos do investimento públ ico no processo de promoção da ciência e da tecnologia brasileira.
+Soma -se a isso o fato de as universidades estarem sendo alvos de cortes financeiros, e muitas vezes perseguições, justifica -se explicitar o papel da universidade dentro do contexto econômic o e social na promoção de políticas públicas e soluções de crises.
+O estudo estar sendo realizado na Universidade Federal do Rio Grande do Sul, importante instituição científica e tecnológica do sul do Brasil indicada como a melhor universidade federal do Brasil (UFRGS, 2018), reforça os elementos elencados.
+2 Metodologia O trabalho possui caráter descritivo e abordagem quantitativa na análise e compreensão dos resultados.
+É também considerada uma pesquisa cientométrica e/ou bibliométrica, pois através de inferências e técnicas estatísticas visa compreender a produção científica de uma determinada área do conhecimento, instituição ou país (SANTOS; KOBASHI, 2009).
+O estudo se constitui na utilização de duas bases de dados, uma base referente à produção científica, a WoS, devido a apresentar um campo referente a indicação de financiamento, e outra à produção tecnológica, a PatentScope, por indexar patentes de todo o mundo e por suas funcionalidades de recuperação da informação.
+A coleta dos dados fo i realizada em agosto de 2019, utilizando delimitação temporal do período de 2008 a 2018, separadamente em cada base de dados.
+Após os processos de unificação dos dados exportados da WoS em uma base do Excel, limpeza e padronização deles , o corpus analisad o formou um total de 16.700 registros de artigos financiados.
+A exportação dos registros da base PatentScope foi exportado uma única vez e após a limpeza dos registros o corpus totalizou 381 registros de patentes.
+A expressão de busca foi a mesma nas bases de dados e abrangia todas as variações possíveis do nome da universidade.
+A base PatentScope não indica se as patentes publicadas e registradas na base são desenvolvidas recebendo algum tipo de fomento.
+Dessa forma, compreende -se que os elementos Autor e Inventor são o elo entre as bases e as publicações de artigos e patentes.
+Assim, pode -se supor que se o Autor de artigos recebe fomento e for o mesmo no campo RICI: R.Ibero -amer.
+Inf., ISSN 1983 -5213, Brasília , v. 13, n. 3, p. 915 -935,set./dez.
+927 Inventor da patente, tanto o artigo como a patente foram desenvolvidos com auxílio de algum tipo de fomento.
+Para contribuir com essa análise, foram analisados os currículos Lattes dos inventores que apresentam correlação entre artigo e patente, extraindo informações referentes a fomento que tenham recebido no período de 2008 a 2018.
+Os indicadores de produtividade analisados foram ano de publicação, instituições, área do conhecimento, financiamento, periódico e autoria (campos AF, C1, PY, SC, FU e SO da WoS e Applicants , Inventors , Publication Date , IPC e Country da PatentScope ).
+A apresentação dos dados para análise e discussão dos resultados foram dispostos conforme a Lei de Elitismo de Price2.
+A utilização da Lei de Price mostra o núcleo central dos atores que apresentam real impacto nas análises realizadas em ambos os conjuntos de dados, no caso os artigos científicos e as patentes.
+Todos os processos envolvendo a reunião dos arquivos, no caso dos arquivos da coleta de artigos, como também a limpeza, a padronização dos dados e análise, assim como a representação destes em formas de gráficos e tabe las, foram realizados no software Excel em conjunto com o software Notepad++3, utilizado no processo de padronização dos dados.
+3 Análise dos resultados 3.1 Produção científica A UFRGS se consolida por ser uma instituição federal atuante na região sul do Brasil com quase um século de existência.
+Tal situação faz com que a UFRGS se constitua como uma das mais importantes universidades públicas do país ao lado de outras instituiçõe s, como as universidades estaduais paulistas, a Universidade Federal de Minas Ger ais (UFMG), a Universidade Federal do Rio de Janeiro (UFRJ).
+Não obstante, a Universidade aparece como a 5ª instituição com o maior número de documentos indexados na WoS no pe ríodo de 2011 a 2016 (CLARIVATE., 2018).
+No Gráfico 1, é possível visualizar o número de artigos financiados por ano que tenham no mínimo um autor da UFRGS e indexados na WoS dentro do período analisado.
+2 No presente artigo a apresentação dos dados será condensada e apresentar á até cinco atores de cada elemento analisado devido à falta de espaço.
+3 Notepad++ é um editor de texto de código fonte aberto, que permite uma melhor visualização dos dados devido a sua funcionalidade na padronização e visualização dos dados, como substituição e quebra de linha, apagamento de espaços.
+Inf., ISSN 1983 -5213, Brasília , v. 13, n. 3, p. 915 -935,set./dez.
+928 Gráfico 1 – Frequência d as publicações financiadas da UFRGS e indexadas na WoS no período de 2008 -2018 (n=16.700) Fonte: Dados de pesquisa.
+Brambilla (2011) apontava que a produção científica da UFRGS vinha crescendo na primeira década dos anos 2000.
+Seguindo tendência apontada pelo estudo, o Gráfico 1 mostra a continuidade das taxas de crescimento propostas pela autora, embora a quantidade da amostra seja reduzida, tendo em vista que se tratam de artigos financiados.
+Esse crescimento observado desde os anos 2000, pode estar ligado ao fato de que a WoS tem aumentado a indexação de periódicos brasileiros .
+Outro ponto reside na preocupação da CAPES e do CNPq em estar em alinhados com as propostas do governo federal , ao longo dos anos 2000 , em aumentar os indicadores científicos brasileiros.
+Dessa forma, estimular a produção científica das universidades públicas aumentaria, consequentemente, a média na cional em publicação científica, já que o Brasil ocupa a 13ª posição no ranking de países que mais produzem ciência, com 250.680 documentos indexados na Web of Science (CLARIVATE., 2018; LETA, 2011).
+Na Tabela 1, há indicação da produtividade das unidades acadêmicas da UFRGS com base na afiliação dos pesquisadores e o número de programas de pós -graduação que estão vinculados a elas.
+Verificar a prod utividade interna da Universidade e de seus cursos de pósgraduação ligados a essas unidades é importante no processo de compreensão do papel da UFRGS dentro do contexto científico, assim como contribui para o processo de análise da produção cientifica da instituição.
+Tabela 1 – Frequência de produção das unidades ligadas a UFRGS com base na afiliação dos pesquisadores (n=22.756) RICI: R.Ibero -amer.
+Inf., ISSN 1983 -5213, Brasília , v. 13, n. 3, p. 915 -935,set./dez.
+929 Unidade Acadêmica Nº de ocorrências % Programas de Pós-Graduação4 Instituto de Biociências 3.124 13,728% 4 Instituto de Ciências Básicas da Saúde 2.838 12,471% 6 Faculdade de Medicina 2.389 10,498% 12 Instituto de Física 1.648 7,242% 4 Instituto de Química 1.562 6,864% 5 Demais unidades 10.978 48,24% TOTAL 22.756 100,000% Fonte: Dados da pesquisa.
+As unidades acadêmicas Instituto de Biociências, Instituto de Ciências Básicas da Saúde e Faculdade de Medicina, quando somadas , representam 36,70% da produção.
+Estão vinculadas a áreas como as ciências da saúde, biologia, química, farmácia, entre outras.
+Apesar de atenderem a comunidade acadêmica com similaridades entre disciplinas, as unidades funcionam de maneira separada, dada a autonomia destinada as unidades que compõem a UFRGS.
+No G ráfico 2 é possível visualizar a taxa de produtividade por as sunto dos artigos financiados da UFRGS, corroborando com os dados apresentados na Tabela 1 .
+É preciso levar em consideração que a classificação temática de cada artigo publicado é de responsabilidade dos autores e ocorre por meio de atribuição de palavras -chave no momento da redação dos manuscritos, assim como também é responsabilidade da base de dados quando realiza a indexação do periódico em seu banco de dados.
+Dessa forma, as áre as do conhecimento expostas no G ráfico 2 foram classificadas pela própria W eb of Science.
+Gráfico 2 – Frequência de publicações por área do conhecimento da UFRGS (n=25.926) 4 Dados retirados dos sites institucionais de cada unidade acadêmica da UFRGS.
+Inf., ISSN 1983 -5213, Brasília , v. 13, n. 3, p. 915 -935,set./dez.
+Esses dados demonstram que existe tendência de a UFRGS publicar nessas áreas, caracterizando sua produção científica desde o estudo proposto por Brambilla (2011) .
+Meadows (1999 ) deixa claro que áreas como as ciências médicas e exatas, em conjunto com as engenharias, tendem a publicar mais do que as áreas das ciências humanas e sociais.
+Isso explicaria as áreas médicas e e xatas serem majoritárias no estudo.
+Porém, leva -se em consideração que a WoS não indexa a totalidade das produções científicas realizadas pela UFRGS.
+Outro ponto a ser ressaltado é que o estudo analisou os registros que foram financiados, restringindo aind a mais o recorte estud ado.
+Referente as agências financiadoras do estudo, na Tabela 2, estão dispostas as principais agências de fomento responsáveis por financiar as pesquisas pertencentes a UFRGS.
+Tabela 2 – Principais agências financiadoras das pesquisas da UFRGS indexadas na WoS no período de 2008 a 2018 (n=55.817) Agências financiadoras Localidade Nº ocorrências % Natureza da Agência financiadora CNPq Brasil 13.836 24,788% Pública/Federal CAPES Brasil 8.371 14,997% Pública/Federal FAPERGS Brasil 4.425 7,928% Pública/Estadual HCPA Brasil 1.702 3,049% Pública/Federal UFRGS Brasil 1.240 2,222% Pública/Federal Demais instituições - 26.283 47,09% TOTAL - 55.817 100,00% Fonte: Dados da pesquisa.
+Percebe -se, na Tabela 2, que a maioria das instituições que fomentam a pesquisa são de natureza públic a. Até a quinta colocação as agências são nacionais brasileiras que têm por RICI: R.Ibero -amer.
+Inf., ISSN 1983 -5213, Brasília , v. 13, n. 3, p. 915 -935,set./dez.
+931 finalidade fomentar e avaliar as práticas científicas e de formação realizadas no Brasil.
+Tal ponto explica a posição do CNPq e CAPES nas duas primeiras colocações, pois são as duas principais agências de fomento no território nacional , de acordo com Mueller ( 2008).
+Bernal , em 1940, já indicava que a organização de fundos monetários para a ciência faz parte da sua consolidação enquanto área e que um fundo vasto para a realização de pesquisas também é importante: "uma parte integral de qualquer reorganização da ciência necessita ser provida de um sistema financeiro satisfatório5" (BERNAL, 1940, p. 309, tradução nossa) .
+De certo modo, isso explica o porquê de as principais fontes de financiamento serem de origem pública, já que a máquina pública deveria prover, pelo menos em parte, a estrutura cie ntífica, se não toda ela.
+O autor ainda explicita a relação entre desenvolvimento científico e estrutura financeira, indicando que sem estrutura econômica não há ciência.
+Os veículos que representam as principais publicações da UFRGS estão dispostos na Tabela 3.
+A amostra apresenta relação com diferentes países e somam fatores de impacto, indicando que os artigos publicados são revisados pelos pares e conceituados dentro da comunidade acadêmica.
+Tabela 3 – Principais periódicos das publicações da UFRGS ind exadas na WoS no período de 2008 a 2018 (n=16.700) PERIÓDICOS Nº de publicações % Fator de Impacto País PLOS ONE 294 8,303% 2,776 EUA MONTHLY NOTICES OF THE ROYAL ASTRONOMICAL SOCIETY 207 5,846% 5,231 Inglaterra GENETICS AND MOLECULAR BIOLOGY 106 2,994% 2,127 Brasil JOURNAL OF THE BRAZILIAN CHEMICAL SOCIETY 104 2,937% 1,335 Brasil ZOOTAXA 101 2,852% 0,990 Nova Zelândia Demais periódicos 15.888 155,17% -TOTAL 16.700 100,000% -Fontes: Dados de pesquisa.
+Os títulos indicam uma variedade de disciplinas abrigadas pelas áreas de concentração mencionadas no Gráfico 2.
+Nesse cenário é preciso destacar a atuação dos periódicos estrangeiros, que se mostram como preferência de publicação, em especial a revista Plo s One .
+Esse periódico nasce em 2003 , com o intuito de promover a ciência aberta cobrando uma taxa 2 An integral part of any reorganization of Science would be the provision f a satisfactory system of finance.
+Inf., ISSN 1983 -5213, Brasília , v. 13, n. 3, p. 915 -935,set./dez.
+932 básica para custear os gastos com a editoração.
+Tal elemento é considerado inovador dentro do cenário e fez com que o periódico crescesse e se consolidasse em diversos ramos do conhecimento com revistas ainda mais especializadas.
+Em 2006 o periódico mantinha 1.129 artigos publicados e saltou, em 2016, para 21.695 (LETA, 2018).
+Essa agilidade em publicar a informação científica se apresenta como um elemento impo rtante para indicar a preferência dos pesquisadores da UFRGS em publicarem na Plos One.
+3.2 Produção tecnológica No Brasil, as universidades acabam ganhando notoriedade por se estabelecerem como as principais instituições que patenteiam em território nacional.
+Dentro desse cenário, há um predomínio da região sudeste com as universidades estaduais paulistas (UNICAMP e USP), em conjunto com universidades federais da mesma região, como UFMG e UFRJ e então a região sul com a UFRGS (MUELLER; PERUCCHI, 2014).
+Atualmente o Brasil é o 24º maior depositante de patentes do mundo (BASTOS; FRENKEL, 2017).
+No entanto, parte dos pedidos depositados no país é oriundo de depositantes externos.
+Em 2018, o INPI regist rou 41.503 pedidos de patentes sendo que, destes, 27.444 são pedidos externos; somente 7.473 são pedidos de solicitantes brasileiros (INSTITUTO., 2018 ).
+Ness e sentido, no Gráfico 3 é possível verificar a produção tecnológica da UFRGS dentro do período estudado.
+Gráfico 3 – Frequência dos pedidos das patentes da UFRGS na PatentScope no período de 2008 -2018 (n=381) Fonte: Dados da pesquisa.
+É possível identi ficar que a produção tecnológica da UFRGS está em crescimento e esse não é um fato isolado.
+O crescimento de patentes universitárias ocorreu em todo o Brasil devido a promulgação da Lei de Acesso a Inovação de 2004 que atribuiu garantias legais sobre os RICI: R.Ibero -amer.
+Inf., ISSN 1983 -5213, Brasília , v. 13, n. 3, p. 915 -935,set./dez.
+933 inventos desenvolvidos nas universidades, incentivando o desenvolvimento de inovações, assim como acompanhamento dos registros tecnológicos (POJO, 2019).
+Na Tabela 4 estão dispostas as principais instituições que estabelecem colaboração com a UFRGS em produ ção tecnológica.
+Tabela 4 – Principais instituições de colaboração da UFRGS nas patentes indexadas na PatentScope no período de 2008 a 2018 (n=276) Instituições depositantes Nº de depósitos % País Biolab Sanus Farmacêutica LTDA 45 6,849 Brasil BRASKEM S.A 21 3,196 Brasil HCPA 16 2,435 Brasil USP 15 2,283 Brasil PETROBRAS 12 1,826 Brasil Demais depositantes 167 25,417TOTAL 276 100,000 Font e: Dados da pesquisa.
+A produção tecnológica da UFRGS apresenta número significativo de colaborações.
+Das instituições colaboradoras, encontram -se instituições de ensino e pesquisa, como o Hospital de Clínicas de Porto Alegre (HCPA) e a Universidade de São Paulo (USP).
+Somente 3 instituições estão vinculadas com a indústria, como a Biolab, a Braskem e a Petrobras.
+No que se refere aos países em que os registros foram depositados é possível visualizar na Tabela 5, a existência de um percentual considerável de patentes depositadas em outros países além do Brasil .
+Tabela 5 – Países e escritórios em que as patentes da UFRGS foram depositadas no período de 2008 a 2018 (n=381) País Nº de depósitos % Brasil 276 72,441% WIPO6 30 7,874% Estados Unidos da América 22 5,774% Austrália 6 1,575% Argentina 6 1,575% Demais países 41 10,761% TOTAL 381 100,000% Fonte: Dados da pesquisa.
+6 World International Patent Office RICI: R.Ibero -amer.
+Inf., ISSN 1983 -5213, Brasília , v. 13, n. 3, p. 915 -935,set./dez.
+934 A UFRGS prioriza depositar suas invenções no Instituto Nacional de Propriedade Industrial (INPI), já que mais de 70% dos registros de pat entes estão vinculados ao órgão .
+Ressalta -se que é da escolha do inventor o melhor modo de dar entrada para requisitar o pedido de sua invenção.
+Assim, mesmo que o INPI seja o principal órgão de depósito do país, existem também outros escritórios que despertaram o interesse por parte dos inventores da UFRGS na escolha para o depósito de suas patentes.
+É o caso da WIPO por meio da via PCT7, que conta com 30 registros.
+A via PCT constitui -se como uma outra forma dos depositantes conseguirem a carta -patente de suas in venções , dada por acordo regulado pela WIPO que concede a proteção legal ao depositante sobre sua invenção.
+No Gráfico 4 é possível verificar em quais áreas as patentes da UFRGS estão sendo desenvolvidas.
+É preciso salien tar que a atribuição do código CIP8 é dada pelo inve ntor bem como pelo escritório responsável pela patente.
+Gráfico 4 – Frequência dos assuntos das patentes depositadas pela UFRGS, indexadas na PatentScope no período de 2008 a 2018, pelo código CIP (n=1.272) Fonte: Dados da pesquisa.
+Existe tendência d as universidades em desenvolver patentes classificadas nas seções A e C, que se referem às áreas médicas e química.
+No caso da UFRGS a predominância é dese nvolver trabalhos nas seções A, B e C, que compreendem as áreas médicas, desenvolvimento de fármacos, de instrumentos e processos químicos e bioquímicos , dados corroborados pelos estudos de diversos autores (CATIVELLI; LUCAS, 2016 ; INPI, 2007; POJO, 7 Patent Cooperation Treaty 8 Código Internacional de Patentes.
+Trata -se de uma classificação específica para patentes.
+Inf., ISSN 1983 -5213, Brasília , v. 13, n. 3, p. 915 -935,set./dez.
+Em complemento ao que foi apontado, estão a predominância dos códigos da seção A61K e C02F que compreendem: A61K: PREPARAÇÕES PARA FINALIDADES MÉDICAS, ODONTOLÓGICAS OU HIGIÊNICAS (dispositivos ou métodos especialmente adaptados para dar aos produ tos farmacêuticos formas físicas determinadas ou para sua administração A61J 3/00; aspectos químicos de, ou uso de materiais para ataduras, curativos, almofadas absorventes ou artigos cirúrgicos A61L; composições saponáceas C11D); C02F: TRATAMENTO DE ÁGUA, DE ÁGUAS RESIDUAIS, DE ESGOTOS OU DE LAMAS E LODOS (processos para tornar inócuos ou menos nocivos os agentes químicos nocivos, efetuando uma transformação química nas substâncias A62D 3/00; separação, tanques de sedimentação ou dispositivos de filtração B01D; arranjos especiais em vasos flutuantes de instalação para tratamento de água, de águas residuais ou esgotos, p. ex.
+para produção de água doce B63J; adição de materiais à água para evitar corrosão C23F; tratamento de líquidos radioativamente contamin ados G21F 9/04) [3]; (INSTITUTO., 2018d).
+3.3 Análise dos autores e inventores que receberam financiamento A relação entre a produção científica e tecnológica financiada se estabeleceu por meio da autoria.
+Um pesquisador brasileiro que recebe fomento po de desenvolver uma série de documentos, sejam eles patentes, livros ou artigos que validem seu financiamento.
+Assim, mesmo que documentos de patentes não tragam indicação de financiamento da pesquisa, o fato de o pesquisador receber fomento já faz com que a patente possa ser considerada como financiada.
+Sobre isso, no período de 2000 a 2004, o INPI verificou que 3% do total de depósitos estão relacionados às FAPs, pois estas instituições aparecem vinculadas com alguma universidade financiada por elas (INSTI TUTO., 2007).
+Para o desenvolvimento desta pesquisa, foram identificados pesquisadores que publicassem tanto artigos quanto patentes.
+Na produção científica, a amostra de autores que recebiam financiamento totalizou 58.768.
+Destes, pouco mais de 1% (525 ) também depositam patentes, enquanto que na produção tecnológica há um total de 865 inventores e destes 61% também escrevem artigos científicos.
+Essa relação pode ser explicada com base no vínculo dos pesquisadores, onde muitos deles estão atrelados a ins tituições de ensino e pesquisa que tem por tradição publicar artigos.
+Em relação aos 39% restante dos pesquisadores, depreende -se que estes possuem preferência em divulgar suas pesquisas em outras formas de divulgação científica, ou até mesmo se dediquem a o patenteamento de novos inventos.
+Mueller (2008) indica que a avaliação da produção tecnológica é diferente da avaliação da produção científica.
+Enquanto na avaliação da produção científica a valorização do produto é realizada com base nos pares e no próp rio campo, na avaliação da produção tecnológica os fatores externos como mercado, financiador e consumidor regulam a atividade.
+Esse também pode ser um indício do predomínio de pesquisadores na produção científica, em conjunto com RICI: R.Ibero -amer.
+Inf., ISSN 1983 -5213, Brasília , v. 13, n. 3, p. 915 -935,set./dez.
+936 o fato de que a avaliação da produção tecnológica por parte das agências de fomento é relativamente recente e implica em compreensão e desenvolvimento de melhores indicadores para a avaliação dessa produção.
+Na Tabela 6 está apresentada, por meio da utilização da Lei do Elitismo de Price, os principais autores/i nventores que receberam fomento no período analisado.
+Inf., ISSN 1983 -5213, Brasília , v. 13, n. 3, p. 915 -935,set./dez.
+937 Tabela 6 – Principais autores e inventores da UFRGS e suas fontes de fomento no período de 2008 -2018 Inventores Nº de patentes % Nº artigos % Correlação Financiamento (2008 -2018) Bolsa PQ9 Vínculo institucional Guterres, Silvia Stanisçuaski 37 2,198% 174 0,099% 0,9998 CNPq 1A Professora Titular; Farmácia Pohlmann, Adriana Raffin 34 2,020% 156 0,089% 0,9962 CNPq; FAPERGS 1A Professora Titular Aposentada; Química Jornada, Denise Soledade 17 1,010% 10 0,006% 0,9962 CNPq; FAPERGS - Ex-aluna de pósgraduação Bergmann, Carlos Perez 17 1,010% 74 0,042% 0,9962 CNPq; CAPES; FAPERGS; FINEP; ANEEL 1A Professor Titular, Engenharia Vaz Junior, Itabajara Da Silva 15 0,891% 64 0,036% 0,9962 CNPq; CAPES; Fiocruz; FAPERGS 1A Professor Titular, Veterinária Santos, Joao Henrique Zimnoch Dos 14 0,832% 28 0,016% 0,9961 CNPq; FAPERGS; UFRGS; Ministério de Ciência e Tecnologia do Irã 1B Professor Titular, Química Malfatti, Celia De Fraga 11 0,654% 63 0,036% 0,9961 CNPq; CAPES; FAPERGS; UFRGS; UFSC; Instituto MaxPlanck; FINEP 1C Professora Titular, Engenharia Kapczinski, Flavio Pereira 10 0,594% 198 0,112% 0,9961 CNPq; CAPES; FIP 1A Professor Titular, Medicina Dupont, Jairton 10 0,594% 154 0,087% 0,9960 CNPq; CAPES; FINEP; Opp Petroquímica S/A; UFRGS; Centro de Pesquisa e Desenvolvimento Leopoldo Américo Miguêz de Mello 1A Professor Titular, Química Petzhold, Cesar Liberato 9 0,535% 49 0,028% 0,9960 CNPq; CAPES 2 Professor Titular, Química Santos, Luis Alberto Dos 8 0,475% 7 0,004% 0,9959 CNPq; CAPES; FINEP; FAPERGS - Professor Adjunto, Engenharia 9 Bolsa de Produtividade em Pesquisa, vinculada ao Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq).
+Informação disponibilizada pelo currículo Lattes de cada pesquisador.
+Inf., ISSN 1983 -5213, Brasília , v. 13, n. 3, p. 915 -935,set./dez.
+938 Sanches, Paulo Roberto Stefani 8 0,475% 10 0,006% 0,9959 CNPq 1D HCPA, Engenheiro Zuardi, Antonio Waldo 8 0,475% 10 0,006% 0,9958 CNPq; FAPESP 1A Professor USP, Medicina Moreira, Jose Claudio Fonseca 8 0,475% 190 0,108% 0,9957 CNPq; FAPERGS; UFRGS; Universidade do Extremo Sul Catarinense; 1A Professor Titular, ICBS Hallak, Jaime Eduardo Cecilio 8 0,475% 11 0,006% 0,9956 CNPq; CAPES; FINEP; FAPESP 1A Professor USP, Medicina Crippa, Jose Alexandre De Souza 8 0,475% 17 0,010% 0,9954 CNPq;FAPEPS; Fundação de Apoio Ao Ensino Pesquisa e Assistência do Hospital das Clínicas; FINEP; Sti Pharm;Thc Pharm; USP 1A Professor USP, Medicina Strohaecker, Telmo Roberto 7 0,416% 30 0,017% 0,9952 PETROBRAS - Professor Titular, Engenharia Termignoni, Carlos 7 0,416% 29 0,016% 0,9949 CNPq; FAPERGS 2 Professor Titular, ICBS Pranke, Patricia Helena Lucas 7 0,416% 37 0,021% 0,9943 CNPq; CAPES; FAPERGS 2 Professora Titular, Farmácia Silva Junior, Danton Pereira Da 7 0,416% 4 0,002% 0,9932 HCPA; UFRGS - HCPA, Engenheiro Oliveira, Patricia Gnieslaw De 7 0,416% 3 0,002% 0,9898 CNPq; CAPES; HCPA; FAPERGS - Ex-aluna de pósgraduação Moncada, Edwin 7 0,416% 7 0,004% 1,0000 Braskem - Pesquisador da Braskem Demais autores 1.415 84,076% 174.844 99,248% - -TOTAL 1.683 100,000% 176.169 100,000% - -Fonte: Dados da pesquisa.
+Inf., ISSN 1983 -5213, Brasília , v. 13, n. 3, p. 915 -935,set./dez.
+939 Ao todo, 1% dos pesquisadores aparecem tanto no corpus de produção científica quanto de produção tecnológica.
+Esse dado indica que mesmo a UFRGS possuindo indicadores favoráveis ao seu crescimento nas produções de ciência e tecnologia, apenas uma pequena parcela dos pesquisadores desenvolve ambas as atividades.
+Quando analisados os índices de correlação entre a produção de artigos e patentes dos pesquisadores, observa -se que, individualmente, esta correlação apresenta -se como forte, pois ficam próximas de 1 .
+Percebe -se que o financiamento de pesquisa se mostra também mais presente quando o pesquisador está vinculado a programas de pós -graduação e possua índices elevados de produtividade, cercado de elementos como prestígio acadêmico e fomento par a a realiz ação de seus projetos, elementos descritos e compreendidos por Bourdieu (1976; 2004) .
+4 Considerações finais No Brasil, a realização de pesquisas científicas se consolida dentro das universidades, em especial nos cursos de pós -graduação, e com o financiamento oriundo, em grande parte, de agências públicas como as já men cionadas CAPES, CNPq e FAPERGS.
+Constatou -se que no período de 2008 a 2018 a UFRG S possuía 16.700 registros com indícios de financiamento, assim como apresenta sinais de crescimento .
+Não se pode também descartar o fato de que ao longo desse período a base possa ter aumentado o número de periódicos indexados.
+Esse fator, aliado a uma política nacional de desenvolvimento científico, fica evidente no crescimento da produção científica d a UFRGS e brasileira.
+Quando analisada a produção interna da Universidade, as principais unidades acadêmicas se consolidam por serem os Institutos de Biociências (13,728%), Instituto de Ciências Básicas da Saúde (12,471%), Faculdade de Medicina (10,498%), Instituto de Física (7,242%) e Instituto de Química (6,864%) .
+A concentração das publicações da UFRGS acaba se realizando em áreas relacionadas às unidades acadêmicas apontadas.
+Existe predomínio das áreas das ciências exatas e da terra, como Química (6,1 4%), Engenharia (5,26%), Física (4,23%), Ecologia e Meio Ambiente (3,05%), Botânica (2,48%), Ciências da Saúde (3,42%), Neurociência e Neurobiologia (4,73%), Bioquími ca e Biologia Molecular (3,85%).
+O fato de haver concentração dessas áreas pode estar rel acionado com o interesse temático da base em indexar documentos voltados especificamente para essas áreas, o que deixaria as Ciências Humanas, Sociais e Sociais Aplicadas em desvantagem numérica e por isso podem não ter aparecido de forma representativa no s dados analisados.
+A produção científica da UFRGS é, em sua maioria, realizada com o fomento de instituições como CNPq (24,788%), CAPES (14,997%) e FAPERGS (7,928%), mas o HCPA (3,049%) e a própria UFRGS (2,222%) também apareceram como instituições finan ciadoras das pesqui sas.
+Inf., ISSN 1983 -5213, Brasília , v. 13, n. 3, p. 915 -935,set./dez.
+940 A concentração da produção científica analisada ocorreu em periódicos internacionais, como Plos One (8,303%), Monthly Notices of the Royal Astronomical Society (5,846%) e Zootaxa (2,852%).
+Referente a produção tecnológ ica da UFRGS, foram recuperados 381 registros corresponde nte ao período de 2008 a 2018.
+Constata -se que houve crescimento no número de depósitos da Universidade, acompanhando as demais universidades públicas.
+Os depósitos realizados pela Universidade ocorreram, em alg uns casos, com colaboração de outras instituições.
+Algumas dessas instituiç ões são empresas, como a Biolab, a BRASKEM e a Petrobras , outras são instituições de ensino e pesquisa como o HCPA e a USP .
+Devido a essas colaborações, alguns dos depósitos foram r ealizados fora do território nacional, como é o caso da WIPO (7,874%) e dos EUA (5,774%).
+No entanto, realizar o depósito no Brasil ainda é preferência (72,441%).
+A área de concentração da produção tecnológica da Universidade é predominante na s seções A e C da CIP.
+Verificando a relação entre a produção científica e a produção tecnológica que tenha, de algum modo, sido financiada, a pesquisa evidenciou que pouco mais de 1% dos pesquisadores que produzem artigos também produzem patentes, enquanto que 61% d os pesquisadores que depositam patentes também produzem artigos científicos.
+Analisando os currículos destes pesquisadores mais profundamente, os mesmos mostram que possuem trajetória acadêmica ligada à pós -graduação, participam de um projeto de pesquisa c oordenado por um pesquisador ligado à pós -graduação ou fazem parte do setor de desenvolvimento de uma empresa/instituição de pesquisa que se vincula a algum pesquisador de um programa de pósgraduação , o que demonstra que pode haver uma ligação da produção tecnológica universitária ao âmbito da pós -graduação no Brasil.
+Referências ARIAS PEREZ, J. E.; ZULUAGA BORDA, C. Financing and execution of research and development activities in Latin America.
+Hallazgos , v. 11, n. 22, p. 311 -328, 2014.
+Disponível em: Acesso em: 22 maio 2019.
+BASTOS, V. D.; FRENKEL, J. Resultados paradoxais da política de inovação no Brasil.
+Disponível em: a%20pol%C3%ADtica%20de%20inova%C3%A7%C3%A3o%20no%20Brasil_P.pdf Acesso em: 12 fev.
+BERNAL, J. D. The social functions of Science .
+London: George Routledge & Sons LTD. 1940.
+Inf., ISSN 1983 -5213, Brasília , v. 13, n. 3, p. 915 -935,set./dez.
+941 BOURDIEU, P. Le champ scientifique .
+Actes de Ia Recherche en Sciences Sociales, n. 2/3, jun.
+Disponível em: -campo -cientifico -pierrebourdieu.pdf Acesso em: 18 dez.
+BOURDIEU, P. Os usos sociais da ciência : por uma sociologia clínica do campo científico.
+São Paulo: Editora Unesp, 2004.
+Produção científica da Universidade Federal do Rio Grande do Sul representada na Web of Science : 2000 -2009.
+219 f. Tese (Doutorado) – Programa de PósGraduação em Comunicação e Informação, Universidade Federal do Rio Grande do Sul.
+Disponível em: .br/handle/10183/28922 Acesso em: 18 dez.
+CATIVELLI, A. S.; LUCAS, E. R. O. Patentes universitárias brasileiras: perfil dos inventores e produção por área do conhecimento.
+Encontros Bibli : Revista Eletrônica de Biblioteconomia e Ciência da Informaçã o, v. 21, n. 47, p. 67 -81, 2016.
+DOI: 10.5007/1518 -2924.2016v21n47p67 Acesso em: 11 out.
+CHAIMOVICH, H.; MELCOP, P. D. Notas preliminares sobre financiamento a pesquisa no Brasil.
+Revista USP , São Paulo, n. 73, p. 6 -23, mar.
+Disponível em : Acesso em: 28 de maio de 2018.
+Disponível em: -CAPES -InCitesReportFinal.pdf Acesso em: 18 dez.
+A Universidade no Brasil: das origens a Reforma Universitária de 1968.
+Educar , n. 28, p. 17 -36, 2006.
+Disponível em: Acesso em: 18 dez.
+FAZZIO, D. Uma breve análise do financiamento da pesquisa no Brasil.
+Disponível em -pesqui sabc -19-edicao Acesso em: 28 de maio de 2018.
+FUNDAÇÃO DE AMPARO À PESQUISA DO ESTADO DE SÃO PAULO.
+Indicadores FAPESP de Ciência, Tecnologia e Inovação .
+Disponível em: Acesso em: 19 dez.
+GUIMARÃES, R. Pesquisa no Brasil: a reforma tardia.
+São Paulo em Perspectiva , v. 16, n. 4, p. 41-47, 2002.
+Disponível em: Acesso em: 18 dez.
+INSTITUTO NACIONAL DE PROPRIEDADE INTELECTUAL.
+2018 d. Disponível em: -servicos/patente/classificacao -de-patentes Acesso em: 14 out.
+INSTITUTO NACIONAL DE PROPR IEDADE INTELECTUAL.
+Relatório de atividades INPI : 2018.
+Disponível em: asileiras.pdf Acesso em: 14 out.
+Inf., ISSN 1983 -5213, Brasília , v. 13, n. 3, p. 915 -935,set./dez.
+942 INSTITUTO NACIONAL DE PROPRIEDADE INTELECTUAL.
+Universidades Brasileiras : utilização do sistema de patentes de 2000 a 2004.
+Disponível em: Acesso em: 18 dez.
+LETA, J. Indicadores de desempenho, ciência brasileira e a cobertura das bases informacionais.
+Revista USP , São Paulo, n. 89, maio 2011.
+Disponível em: http ://rusp.scielo.br/scielo.php?script=sci_arttext&pid=S0103 -99892011000200005&lng = Acesso em: 28 de maio de 2018.
+LETA, J. Plos One: promovendo os periódicos de acesso aberto ou reforçando o mainstream?
+In: ENCONTRO BRASILEIRO DE BIBLIOMETRIA E CIENTOMETRIA , 6, 2018, Rio de Janeiro.
+Rio de Janeiro: UFRJ, 2018, p. 81 -89.
+Disponível em: Acesso em: 06 nov. 2019.
+Brasília: DF: Briquet de Lemos, 1999.
+MUELER, S. P. M.; PERUCCHI, V. Universidades e a produção de patentes: tópicos de interesse para o estudioso da informação tecnológica.
+Perspectivas em Ciência da Informação , v. 19, n. 2, p. 15-36, abr./jun.
+Disponível em: Acesso em: 14 out.
+MUELLER, S. P. M. Métricas para a ciência e tecnologia e o financiamento da pesquisa: algumas reflexões.
+Encontros Bibli : Revista Eletrônica de Biblioteconomia e Ciência da Informação, Florianópolis, n.
+Disponível em: -2924.2008v13nesp1p24 Acesso em: 18 dez.
+POJO, S. da R. Proteção e licenciamento de tecnologias da Universidade : a experiência da UFRGS.
+102 f. Dissertação (Mestrado) – Programa de Pós -Graduação em Administração, Universidade Federal do Rio Grande do Sul.
+Disponível em: ume.ufrgs.br/handle/10183/98316 Acesso em: 18 dez.
+POJO, S. da R. Transferência e valoração de tecnologias no contexto das universidades : um estudo comparativo Brasil e Portugal.
+176 f. Tese (Doutorado) – Programa de PósGraduação em Administr ação, Universidade Federal do Rio Grande do Sul.
+Disponível em: Acesso em: 18 dez.
+Inovação tecnológica da UFRGS: uma análise da colaboração identificada nas patentes indexadas na base Orbit.
+In: ENCONTRO BRASILEIRO DE BIBLIOMETRIA E CIENTOMETRIA, 6, 2018, Rio de Janeiro.
+Rio de Janeiro: UFRJ, 2018, p. 135 -143.
+Disponível em: Acesso em: 6 nov. 2019.
+SANTOS, R. N. M. dos; KOBASHI, N. Y. Bibliometria, Cientometria, Infometria: conceitos e aplicações.
+Tend ências da Pesquisa Brasileira em Ciência da Informação , Brasília, v. 2, n. 1, p. 155-172, jan./dez.
+Disponível em: f.br/index.php/article/view/0000007766/d21e752088538fd1c3cd25b463 1ab325 Acesso em: 15 jul.
+SCHWARTZMAN , S. Um espaço para ciência : a formação da comunidade científica no Brasil.
+276 p. Disponível em: Acesso em: 25 fev.
+Inf., ISSN 1983 -5213, Brasília , v. 13, n. 3, p. 915 -935,set./dez.
+943 SCHWARTZMAN, S. Universidades e desenvolvimento na América Latina : experiências exitosas de centros de pesquisas.
+Rio de Janeiro: Centro Edelstein de Pesquisas Sociais, 2008.
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL.
+UFRGS permanece como a melhor universidade federal no Índice Geral de Cursos .
+Disponível em: -permanece -como -a-melhor -universidade -federal -noindice -geral -de-cursos Acesso em: 25 fev.

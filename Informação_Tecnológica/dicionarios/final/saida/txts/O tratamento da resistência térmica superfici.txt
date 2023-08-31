@@ -1,0 +1,208 @@
+, Ponta Grossa, v. 15, n. 3 , p. 126-147, Jul./Set.
+Página | 126 O tratamento da resistência térmica superficial nas normas técnicas brasileiras e sua influência no consumo energético estimado para edifícios RESUMO Monalisa Coelho Martins Monalisa.cmartins@gmail.com Universidade Federal do Paraná (UFPR ), Curitiba, Paraná, Brasil Aloísio Leoni Schmid iso@ufpr.br Universidade Federal do Paraná (UFPR), Curitiba, Paraná, Brasil O aprimoramento do desempenho térmico de edificações está se tornando o foco de estudos para reduzir a demanda energética no setor .
+As edificações são alvos de geração de gases prejudiciais ao efeito estufa e também no que concerne ao elevado consumo energétic o. Os edifícios consomem em média 30% da energia elétrica dispon ível e a tendência é que essa demanda aumente com o passar dos anos .
+Contudo, a s linhas de transmissão não estão acompanhando esse aumento de demanda energética e devido aos picos de consumo geram sobrecarga no sistema causando os indesejados "apagões".
+Nos cálculos de desempenho térmico, um dos parâmetros utilizados é a resistência térmica superficial, cujo cálculo envolve diversos fatores, principalmente ambientais.
+Na NBR 15220 -2 "Desempenho térmico de edificações" , são sugeridos valores médios de resistência térmica superficial que são utilizados em todo o país, in dependente d as características ambientais de cada região.
+Portanto, o foco desse trabalho é analisar as consequências do uso dos coeficientes convectivos nas oito zonas Bioclimáticas do Brasil , utilizando os coeficientes convectivos da n orma e, comparar com outros métodos consagrados na bibliografia .
+Os resultados demonstraram que o método sugerido pela norma brasileira na maioria dos casos pode fornecer valores de demanda energética acima daquela obtida por outros métodos, resultando em um superdimensionam ento de sistemas de condicionamento térmico, com potência até 57,30% maior.
+Contudo, em alguns casos, houve evidências de subdimensionamento, deixando clara a importância da análise para diferentes condições climáticas.
+Resistênci a térmica superficial.
+Desempenho térmico de edifícios.
+, Ponta Grossa, v. 15, n. 3, p. 126-147, Jul.
+Página | 127 INTRODUÇÃO As edificações são alvos de geração de gases prejudiciais ao efeito estufa e também no que concerne ao elevado consumo energético.
+Os edifícios consomem em média 30% da energia elétrica disponível e a tendência é que essa demanda aumente com o passar dos anos (EPE, 2016) .
+Contudo, as linhas de transmissão não estão acompanhando esse aumento de demanda energética e , devido aos picos de consumo , geram sobrecarga no s istema causando os indesejados "apagões".
+Para o estudo do desempenho térmico das edificações, entre os diversos dados utilizados, os valores dos coeficientes superficiais de transferência de calor dos materiais são importantes, pois têm papel na determin ação da quantidade de energia que é transferida de um meio ao outro, através das paredes, janelas e telhados.
+Esses coeficientes dependem basicamente da geometria da superfície, da natureza do escoamento do fluido, das propriedades termodinâmicas, entre outras, o que torna o cálculo relativamente complexo.
+Existem vários métodos disponíveis na literatura e estes podem levar a resultados muito diferentes para um mesmo problema.
+A partir de alguns estudos, foi verificado que o uso de diferent es valores para os coeficientes de transferência de calor por convecção pode resultar em diferenças de 20,0% a 40,0% no consumo de energia estimado para o edifício.
+(EMMEL et al., 2007; SHAO et al., 2009).
+Para o coeficiente de convecção interno essas dife renças podem ser de até 8,0%.
+Esses números são de grande interesse, justificando uma busca de valores mais precisos desses coeficientes, pois, com isso, seria possível desenvolver projetos de condicionamento térmico mais seguro , garantindo a faixa de conforto térmico almejada, e mais eficientes, o que iria ao encontro da política energética atual, pois o uso racional da energia é um importante vetor no atendimento da demanda nacional, contribuindo para a segurança energética, para a competitividade da economia e para a redução das emissões de gases de efeito estufa.
+Nos cálculos de desempenho térmico, um dos parâmetros utilizados é a resistência térmica superficial, cujo cálculo envolve diversos fatores, principal mente ambientais.
+A NBR 15220 -2 "Desempenho térmico de edificações", são sugeridos valores médios de resistência térmica superficial que são utilizados em todo o país, independente das características ambientais de cada região.
+As variáveis ambientais sã o utilizadas como parâmetros de entrada em simulações computacionais do desempenho de edifícios.
+Existem outros parâmetros de entrada e, entre eles, estão os coeficientes superficiais de transferência de calor, que envolvem efeitos de convecção e também da radiação (ISO 6946, 2007) .
+Alguns autores tratam do fenômeno térmico convectivo se referindo aos coeficientes convectivos, e outros autores se referem às resistências térmicas superficiais, que são o inverso dos primeiros.
+Para que os modelos forneçam res ultados confiáveis é importante que os materiais, processos internos, ambiente externo, interações, e condições de operação sejam considerados simultaneamente.
+Por isso, é importante certificar -se de que o método escolhido é aderente à sua aplicação, para se obter resultados mais próximos da realidade.
+Associado a isso, sabe -se, também, que existe um desvio R. Gest.
+, Ponta Grossa, v. 15, n. 3, p. 126-147, Jul.
+Página | 128 entre os estudos experimentai s, que são realizados sob condi ções controladas, e a realidade dos fenômenos ocorridos em campo.
+(MORRI -SON; GILLIAERT, 199 2).
+A norma brasileira NBR 15220 -2 (ABNT 2005) sugere valores constantes de resistências superficiais e o método sobre o qual se baseou esta norma está descrito na ISO 6946.
+É possível verificar que o método apresenta, em algumas etapas, valores também ta belados de parâmetros, tal como para o coeficiente convectivo interno hcint, sem informar o procedimento utilizado para obtenção desses valores.
+Para o coeficiente convectivo externo, h cext, na ISO 6946 é apresentada uma equação em função da velocidade do vento, contudo, não são fornecidas informações das condições que originaram essa equação.
+Portanto, o foco desse trabalho é analisar as consequências do uso dos coeficientes convectivos nas oito zonas Bioclimáticas do Brasil, utilizando os coeficientes convectivos da norma e, comparar com outros métodos consagrados na bibliografia.
+REFERENCIAL TEÓRICO MÉTODOS PARA CÁLCULO DOS COEFICIENTES CONVECTIVOS SUPERFICIAIS Método da NBR 15220 (ABNT 2003) O fluxo de calor que um ambiente transfere ao outro depende da resistência térmica entre os ambientes, além da diferença de temperatura e da área de interface.
+A norma brasileira NBR 15220 (ABNT 2005), no item 4, apresenta algumas equações, tal como da resistência térmica total descrita na equação 1.
+RT = R se + R+ R si (1) t Onde  RT representa a resistência térmica total em (m²K)/W;  Rse representa a resistência do ar para a superfície externa em (m²K)/W;  Rt representa a resistência da su perfície externa até a superfície interna (m²K)/W;  Rsi representa a resistência superficial interna para o ar em (m²K)/W.
+Para o caso de uma parede, R t representa a resistência térmica da parede propriamente dita, R se representa a resistência térmica da superfície externa da parede para o ar, e R si a resistência térmica da superfície interna para o ar.
+Com relação às resistências térmicas superficiais, na norma brasileira NBR 15220 (ABNT 2005) são apresentados alguns valores médios recomendados no seu an exo A, conforme as Tabelas 1 e 2.
+Por estarem na norma NBR, estes valores são amplamente utilizados no Brasil, para o dimensionamento da perda ou ganho de calor da edificação, independente das características ambientais de cada região.
+, Ponta Grossa, v. 15, n. 3, p. 126-147, Jul.
+Página | 129 Tabela 1 – Resist ência térmica superficial interna (NBR 15220) Rsi (m²K)/W Direção do fluxo de calor Horizontal Ascendente Descendente 0,13 0,10 0,17 Fonte: ISO 6946 ( 1997 ) Tabela 2 – Resistência térmica superficial externa (NBR 15220) Rse (m²K)/W Direção do fluxo de calor Horizontal Ascendente Descendente 0,04 0,04 0,04 Fonte: ISO 6946 ( 1997 ) É importante observar que os valores sugeridos na norma são constantes, e a mesma não apresenta explicitamente a metodologia utilizada para o cálculo, contudo, a norma alerta que a resistência térmica superficial pode variar de acordo com diversos fatores, tais como emissividade da superfície, velocidade do ar sobre a superfície e temperatura.
+Pode -se verificar a similaridade com os valores da norma ISO 6946:1997 "Building components and building elements - Thermal resistance and thermal transmittance - Calculation methods", transcrita na Tabela 3.
+Tabela 3 – Resistência superficial (m²K/W) (ISO 6946) Direção do fluxo de calor Ascendente Horizontal Descendente Rsi 0,10 0,13 0,17 Rse 0,04 0,04 0,04 Fonte: ISO 6946 ( 1997 ) Evidencia -se que a NBR 15220 (ABNT 2005) utilizou os valores da norma ISO 6946:1997 apresentados na Tabela 3.
+Ressalta -se que a ISO está referenciada na NBR.
+Um dado importante é que a norma ISO apresenta em seu anexo o método utilizado para obtenção dos valores.
+As equações de 2 a 5 descrevem como os valores da tabela 3 foram calculados.
+Rs = 1 hC+hr (2) Onde  Rs é a resistência térmica superficial em (m²K)/W;  hc é o coeficiente de troca de calor por convecção em W/(m²K);  hr é o coeficiente de troca de calor por radiação térmica em W/(m²K).
+Para o cálculo do coeficiente de radiação utilizam -se as equações 3 e 4.
+, Ponta Grossa, v. 15, n. 3, p. 126-147, Jul.
+Página | 130 hr = ε hro (3) hro=4σ Tm3 (4) Onde  hr é o coeficiente de troca de calor por radiação térmica em W/(m²K);  "ε" é a emissividade da superfície (adimensional);  hro é o coeficiente de radiação para uma superfície de corpo negro em (w/m²K);   = 5,67x10 -8W/(m²K) é a constante de Stefan -Boltzmann;  Tm é a temperatura termodinâmica média da superfície e dos seus arredores, em kelvin (K).
+Para o coeficiente convectivo h c existem dois tipos: resistência superficial interna e externa.
+Para a resistência térmica superficial interna, na norma ISO 6946:1997 o valor de hc é apresentado em forma de tabela, e depende da direção do fluxo de calor, conforme mostra a Tabela 4, onde hc é denominado hci (coeficiente de convecção interno).
+Tabela 4 – Coeficiente de convecção interno Coeficiente de convecção intern o h ci [W/(m²K)] Direção do fluxo de calor Ascendente Horizontal Descendente 5,0 2,5 0,7 Fonte: ISO 6946 ( 1997 ) Para encontrar a resistência térmica superficial externa, o coeficiente convectivo é calculado e depende basicamente da velocidade do vento, conforme Equação 5, onde h c é denominado h ce (coeficiente de convecção externo).
+hce= 4+4v (5) Onde  hce é o coeficiente de troca de calor por convecção da superfície externa em W/(m² K);  v é a velocidade do vento adjacente à superfície em m/s.
+Os demais dados utilizados nas equações anteriores e que resultaram nos valores de resistências térmicas superficiais internas e externas da ISO 6946:1997 e que foram transpostos para NBR 15220 estão descritos na Tabela 5.
+, Ponta Grossa, v. 15, n. 3, p. 126-147, Jul.
+Página | 131 Tabela 5 – Dados utilizados nos cálculos Dados de entrada Emissividade Temperatura interna (C) Temperatura externa (C) Velocidade do vento (m/s) 0,9 20 0 4 Fonte: ABNT NBR 15220 (2005) Os valores de h ro foram retirados da ISO 6946:1997 para as temperaturas de 0 ˚C e 20 ˚C e a Tabela 6 apresenta os resultados.
+Tabela 6 – Dados utilizados nos cálculos Temperatura (°C) Temperatura (K) hro (W/m²K) 0 273,15 4,62 20 293,15 5,71 Fonte: ISO 6946 (1997 ) Percebe -se que os parâmetros ambientais utilizados são típicos de países com inverno rigoroso, onde a temperatura externa, considerada numa média anual, atinge facilmente 0 ˚C, pois esse foi o valor utilizado para obtenção dos valores de resistênci a térmica superficial externa.
+METODOLOGIA DA PESQUISA O objetivo deste trabalho de pesquisa é a comparação entre os métodos de cálculos dos coeficientes convectivos utilizados nos projetos térmicos de edificações e a análise do impacto no dimensionamento dos equipamentos de condicionamento de ar e na previsão do consumo energético ao se utilizar diferentes métodos de cálculo dos coeficientes convectivos, através da simulação computacional de uma edificação de múltiplos pavimentos.
+DESENVOLVIMENTO DA SIMUL AÇÃO Para a simulação e análise do impacto dos diferentes métodos de cálculo dos coeficientes convectivos serão consideradas as oito zonas bioclimáticas brasileiras.
+Para isso, a simulação compreendeu uma cidade de cada zona bioclimática.
+Para a realiza ção da análise da demanda de energia considerando diferentes métodos de cálculo do coeficiente convectivo superficial, foi organizado o seguinte procedimento, executado nessa ordem: i. Para cada método de cálculo levantado, foi verificada a variação dos valores dos coeficientes convectivos utilizando diferentes valores climáticos.
+Com base na variação dos coeficientes convectivos, foram estabelecidos diferentes valores a serem utili zados nos cálculos de demanda de energia.
+, Ponta Grossa, v. 15, n. 3, p. 126-147, Jul.
+Foi definida uma geometria de edificação padrão, para realização dos cálculos de demanda, para simulação em cada uma das oito cidades que representam as zonas bioclimáticas.
+Os resultados de demanda de ene rgia de cada cidade foram compilados, para análise.
+As combinações de valores a serem utilizados na simulação para cada cidade das 8 zonas bioclimáticas estão apresentadas na Tabela 7 totalizando 96 variantes.
+A simulação foi realizada em uma ferramenta computacional.
+O software utilizado, denominado Mestre, é um sistema para simulação do comportamento térmico de edificações em múltiplas zonas, utilizando linguagem Java.
+As vantagens da utilização desse software são: portabilidade, caráter compacto, gratu idade e utilização de dados relativamente simples.
+O modelo adotado para simulação foi o de uma edificação de múltiplos pavimentos com projeção retangular, a ser utilizada em todas as cidades.
+As dimensões dos ambientes utilizados nos cálculos são de 5,5 m de largura, 9,0 m de profundidade e altura do pé direito de 2,5 m conforme as Figuras 3, 4 e 5.
+Tabela 7 – Combinações de valores de coeficientes a serem usados na simulação Coeficiente convectivo externo hc,ext W/(m2K) Coeficiente convectivo interno hc,int W/(m2K) 5,5 7,6 10,0 8,0 sim.
+12 Fonte: Autoria própria (2017) Para realizar cada etapa da simulação, outros parâmetros devem ser considerados, tais como fontes de calor internas, bem como a temperatura a ser mantida internamente.
+Assim, foram consideradas as seguintes premissas para a simulação:  Temperatura interna a ser mantida entre 20,0 ºC e 26,0 ºC;  Fonte de calor interna considerando uma pessoa constantemente dentro do ambiente, fornecendo 100 W de taxa de produção de calor;  Fonte de calor considerando uma lâmpada no período entre 18 h e 24 h, com valor de 50 W de taxa de produção de calor.
+, Ponta Grossa, v. 15, n. 3, p. 126-147, Jul.
+Página | 133 Figura 3 - Edifício de múltiplos andares Fonte: Autoria própria (2017) Figura 4 - Elevação frontal do ambiente da edificação Fonte: Autoria própria (2017) Figura 5 – Isométrica Fonte: Autoria própria (2017) Foi considerado no cálculo um fluxo de ar na ventilação dado pelo valor mínimo por pessoa de 27 m³/h, conforme Portaria 3523 (BRASIL, 1998), considerando uma pessoa em seu interior.
+Os valores dos materiais utilizados estão detalhados na T abela 8.
+, Ponta Grossa, v. 15, n. 3, p. 126-147, Jul.
+Página | 134 Tabela 8 – Valores dos materiais utilizados Fonte: Autoria própria (2017) RESULTADOS E DISCUSSÕES Os resultados obtidos na simulação de demanda energética para cada cidade serão expostos a seguir.
+Serão apresentados os valores de demanda de energia e potência máxima para diversas combinações de possíveis valores de coeficiente s convectivos externos e internos, para cada cidade considerada.
+CURITIBA – Z1 A energia necessária anual para manter o ambiente entre 20 ˚C e 26 ˚C na cidade de Curitiba, para diversas combinações de valores de coeficientes convectivos externos e internos , está descrita na Tabela 9, onde estão em vermelho os valores máximos e mínimos, e em azul os valores obtidos com o método da NBR 15220 -2 (ABNT 2005).
+Os valores representam a energia total, independentemente se é para aquecimento ou resfriamento.
+Percebe -se que a variação de energia é mais sensível à variação do coeficiente convectivo interno.
+Tabela 9 – Energia necessária para manter a temperatura entre 20 ˚C e 26 ˚C na edificação simulada em Curitiba Energia por ano (kWh/ano) hc interno W/(m2K) 5,5 7,6 10,0 hc externo W/(m ²K) 8,0 1041,16 1054,33 1075,5 16,0 1092,68 1145,04 1205,31 25,0 1133,78 1212,21 1299,46 40,0 1169,83 1271,38 1384,85 Fonte: Autoria própria (2017) Para melhor análise e detalhamento, serão apresentados os valores com curvas para cada valor do coeficiente convectivo interno, separados por aquecimento e resfriamento.
+Na mesma figura os valores obtidos com o método da norma são comparados com valores ma is baixos de h c. Nesta comparação, considera -se a hipótese de que o método que deu origem aos valores sugeridos pela NBR vale para países com clima frio, devido às temperaturas consideradas no cálculo, portanto, seria natural que os valores de h c tivessem uma tendência para a segurança, superdimensionado o sistema de aquecimento e, para isso, os valores de h c deveriam ser maiores.
+Considerando que os projetistas utilizam o método da norma, a hipotética realidade no Brasil poderia indicar uma demanda menor.
+O contrário é válido, ou seja, quando a demanda da NBR é menor, indica Componente Espessura (m) Condutividade térmica (W/(mK) Área (m²) Resistência térmica (m²K)/W Alvenaria 0,120 0,600 11,67 0,200 Vidro 0,004 1,000 2,08 0,004 R. Gest.
+, Ponta Grossa, v. 15, n. 3, p. 126-147, Jul.
+Página | 135 que o sistema pode estar subdimensionado.
+Essa análise está indicada na Figura 6.
+Figura 6 – Energia de aquecimento e resfriamento necessários manter a temperatura entre 20 ˚C E 26˚C - coeficiente convectivo interno hc,int.
+Fonte: Autoria própria (2017) Outro dado importante é a demanda de potência máxima exigida durante o período de simulação, para o fornecimento de calor.
+Esse valor pode ser usado qualitativamente para comparar os métodos, pois, de forma simples, poderia -se considerar que um sistema de condicionamento de ar possui capacidade mínima igual ou superior à demanda máxima solicitada.
+A demanda de potência máxima exigida do sistema foi analisada para as simulações que apresentaram a maior e a menor demanda de energia.
+Também foi a analisada a d emanda de potência máxima obtida para os valores de coeficientes sugeridos pela NBR 15220 -2.
+Os valores estão demonstrados na Tabela 10.
+Tabela 10 – Potência máxima para manter a temperatura entre 20 ˚C e 26 ˚C na edificação simulada - Curitiba.
+ENERGIA PO R ANO MÍNIMA SIMULAÇÃO 1 NBR 15220 SIMULAÇÃO 8 MÁXIMA SIMULAÇÃO 9 POTÊNCIA MÁXIMA DE RESFRIAMENTO 735,0 W 760,0 W 789,0 W POTÊNCIA MÁXIMA DE AQUECIMENTO 593, W 861,0 W 959,0 W Fonte: Autoria própria (2017) Os resultados obtidos para as demais cidades serão expostos seguindo o mesmo padrão utilizado para a cidade de Curitiba, conforme a seguir.
+, Ponta Grossa, v. 15, n. 3, p. 126-147, Jul.
+Página | 136 SANTA MARIA - Z2 Tabela 11 – Energia necessária para manter a temperatura entre 20 ˚C e 26 ˚C na edificação simulada em Curitiba Fonte: Autoria própria (2017) Figura 7 – Energia de aquecimento e resfriamento necessários manter a temperatura entre 20 ˚C E 26_˚C - coeficiente convectivo interno h c,int.
+Fonte: Autoria própria (2017) Tabela 12 – Potência máxima para manter a temperatura entre 20 ˚C e 26 ˚C na edificação simulada.
+ENERGIA POR ANO MÍNIMA IMULAÇÃO 1 NBR 15220 SIMULAÇÃO 8 MÁXIMA SIMULAÇÃO 12 POTÊNCIA MÁXIMA DE RESFRIAMENTO 1000,0 W 1160,0 W 1176,0 W POTÊNCIA MÁXIMA DE AQUECIMENTO 757,0 W 1166,0 W 1237,0 W Fonte: Autoria própria (2017) 0,0200,0400,0600,0800,01000,01200,0 8,0 16,0 25,0 40,0Energia por ano (kWh/ano) Coeficiente convectivo externo W/(m ²K) Resfriamento - 5,5 W/(m²K) Aquecimento - 5,5 W/(m²K) Resfriamento - 7,6 W/(m²K) Aquecimento - 7,6 W/(m²K) Resfriamento - 10,0 W/(m²K) Aquecimento - 10,0 W/(m²K)Zona Bioclimática 2: Santa Maria NBR 15220 Realidade -NBR 15220 > Realidade ; -Segurança; -Gasto inicial excessivo;-Risco de insuficiência; -Gasto inicial economizado .
+Energia por ano (kWh/a no) hc interno W/(m2K) 5,5 7,6 10,0 hc externo W/(m2K) 8,0 1492,48 1533,06 1574,18 16,0 1518,83 1594,37 1670,23 25,0 1548,39 1648,16 1750,63 40,0 1576,34 1699,09 1827,77 R. Gest.
+, Ponta Grossa, v. 15, n. 3, p. 126-147, Jul.
+Página | 137 BELO HORIZONTE – Z3 Tabela 1 3 – Energia necessária para manter a temperatura entre 20 ˚C e 26 ˚C na edificação simulada.
+Energia por ano (kWh/ano) hc interno W/(m2K) 5,5 7,6 10,0 hc externo W/(m2K) 8,0 1486,19 1475,95 1471,31 16,0 1363,59 1341,17 1327,90 25,0 1319,60 1292,58 1277,03 40,0 1289,51 1259,99 1244,10 Fonte: Autoria própria (2017) Figura 8 – Energia de aquecimento e resfriamento necessários manter a temperatura entre 20 ˚C e 26 ˚C - coeficiente convectivo interno h c,int.
+Fonte: Autoria própria (2017) Tabela 1 4 – Potência máxima para manter a temperatura entre 20 ˚C e 26 ˚C na edificação simulada.
+ENERGIA POR ANO MÁXIMA SIMULAÇÃO 12 NBR 15220 SIMULAÇÃO 6 MÍNIMA SIMULAÇÃO 1 POTÊNCIA MÁXIMA DE RESFRIAMENTO 1010,0 W 940,0 W 865,0 W POTÊNCIA MÁXIMA DE AQUECIMENTO 651,0 W 540,0 W 344,0 W Fonte: Autoria própria (2017) 0,0200,0400,0600,0800,01000,01200,01400,01600,0 8,0 16,0 25,0 40,0Energia por ano (kWh/ano) Coeficiente convectivo externo W/(m2K) Resfriamento - 10,0 W/(m²K) Aquecimento - 10,0 W/(m²K) Resfriamento - 5,5 W/(m²K) Aquecimento - 5,5 W/(m²K) Resfriamento - 7,6 W/(m²K) Aquecimento - 7,6 W/(m²K)Zona Bioclimática 3: Belo Horizonte Realidade NBR 15220 -NBR 15220 > Realidade ; -Segurança; -Gasto inicial excessivo; -Investimento empatado .-Risco de insuficiência; -Gasto inicial economizado .
+, Ponta Grossa, v. 15, n. 3, p. 126-147, Jul.
+Página | 138 BRASÍLIA – Z4 Tabela 15 – Energia necessária para manter a temperatura entre 20 ˚C e 26 ˚C na edificação simulada.
+Energia por ano (kWh/ano) hc interno W/(m2K) 5,5 7,6 10 hc externo W/(m2K) 8,0 1267,56 1239,2 1220,61 16,0 1148,66 1106,39 1078,08 25,0 1106,48 1059,18 1028,01 40,0 1078,21 1027,88 995,68 Fonte: Autoria própria (2017) Figura 9 – Energia de aquecimento e resfriamento necessários manter a temperatura entre 20 ˚C e 26 ˚C - coeficiente convectivo interno h c,int.
+Fonte: Autoria própria (2017) Tabela 1 6 – Potência máxima para manter a temperatura entre 20 ˚C e 26 ˚C na edificação simulada.
+ENERGIA POR ANO MÁXIMA SIMULAÇÃO 12 NBR 15220 SIMULAÇÃO 8 MÍNIMA SIMULAÇÃO 1 POTÊNCIA MÁXIMA DE RESFRIAMENTO 907,0 W 865,0 W 834,0 W POTÊNCIA MÁXIMA DE AQUECIMENTO 507,0 W 417,0 W 255,0 W Fonte: Autoria própria (2017) 0,0200,0400,0600,0800,01000,01200,01400,0 8,0 16,0 25,0 40,0Energia por ano (kWh/ano) Coeficiente convectivo externo W/(m²K) Resfriamento - 7,6 W/(m²K) Aquecimento - 7,6 W/(m²K) Resfriamento - 5,5 W/(m²K) Aquecimento - 5,5 W/(m²K) Resfriamento - 10,0 W/(m²K) Aquecimento - 10,0 W/(m²K)Zona Bioclimática 4: Brasilia Realidade NBR 15220 -NBR 15220 > Realidade ; -Segurança; -Gasto inicial excessivo; -Investimento empatado .-Risco de insuficiência; -Gasto inicial economizado .
+, Ponta Grossa, v. 15, n. 3, p. 126-147, Jul.
+Página | 139 VITÓRIA DA CONQUISTA – Z5 Tabela 1 7 – Energia necessária para manter a temperatura entre 20 ˚C e 26 ˚C na edificação simulada.
+Energia por ano (kWh/ano) hc interno W/(m2K) 5,5 7,6 10 hc externo W/(m2K) 8 1286,30 1253,26 1231,2 16 1212,78 1172,47 1146,96 25 1189,73 1149,53 1126,1 40 1176,17 1138,13 1119,63 Fonte: Autoria própria (2017) Figura 10 – Energia de aquecimento e resfriamento necessários manter a temperatura entre 20 ˚C e 26 ˚C - coeficiente convectivo interno h c,int.
+Fonte: Autoria própria (2017) Tabela 18 – Potência máxima para manter a temperatura entre 20 ˚C e 26 ˚C na edificação simulada.
+ENERGIA POR ANO MÁXIMA SIMULAÇÃO 12 NBR 15220 SIMULAÇÃO 8 MÍNIMA SIMULAÇÃO 1 POTÊNCIA MÁXIMA DE RESFRIAMENTO 1049,0 W 982,0 W 896,0 W POTÊNCIA MÁXIMA DE AQUECIMENTO 569,0 W 469,0 W 298,0 W Fonte: Autoria própria (2017) Resfriamento - 7,6 W/(m²K) Aquecimento - 7,6 W/(m²K)7,60,0200,0400,0600,0800,01000,01200,01400,0 8,0 16,0 25,0 40,0Energia por ano (kWh/ano) Coeficiente convectivo externo W/(m²K) Resfriamento - 5,5 W/(m²K) Aquecimento - 5,5 W/(m²K) Resfriamento - 7,6 W/(m²K) Aquecimento - 7,6 W/(m²K) Resfriamento - 10,0 W/(m²K) Aquecimento - 10,0 W/(m²K)Zona Bioclimática 5: Vitória da ConquistaNBR 15220Realidade -NBR 15220 > Realidade ; -Segurança; -Gasto inicial excessivo; -Investimento empatado .-Risco de insuficiência; -Gasto inicial economizado .
+, Ponta Grossa, v. 15, n. 3, p. 126-147, Jul.
+Página | 140 CAMPO GRANDE - Z6 Tabela 18 – Energia necessária para manter a temperatura entre 20 ˚C e 26 ˚C na edificação simulada.
+Energia por ano (kWh/ano) hc interno W/(m2K) 5,5 7,6 10,0 hc externo W/(m2K) 8,0 2239,13 2282,82 2319,14 16,0 2116,54 2156,34 2193,36 25,0 2070,10 2110,19 2150,14 40,0 2038,70 2079,99 2124,01 Fonte: Autoria própria (2017) Figura 11 – Energia de aquecimento e resfriamento necessários manter a temperatura entre 20 ˚C e 26 ˚C - coeficiente convectivo interno hc, int.
+Fonte: Autoria própria (2017) Tabela 19 – Potência máxima para manter a temperatura entre 20 ˚C e 26 ˚C na edificação simulada.
+ENERGIA POR ANO MÍNIMA SIMULAÇÃO 7 NBR 15220 SIMULAÇÃO 8 MÁXIMA SIMULAÇÃO 3 POTÊNCIA MÁXIMA DE RESFRIAMENTO 1052,0 W 1085,0 W 1095,0 W POTÊNCIA MÁXIMA DE AQUECIMENTO 802,0 W 916,0 W 769,0 W Fonte: Autoria própria (2017) Aquecimento - 7,6 W/(m²K) 0,0500,01000,01500,02000,02500,0 8,0 16,0 25,0 40,0Energia por ano (kWh/ano) Coeficiente convectivo externo W/(m².K) Resfriamento - 7,6 W/(m²K) Aquecimento - 7,6 W/(m²K) Resfriamento - 5,5 W/(m²K) Aquecimento - 5,5 W/(m²K) Resfriamento - 10,0 W/(m²K) Aquecimento - 10,0 W/(m²K)Zona Bioclimática 6: Campo Grande Realidade NBR 15220 -NBR 15220 > Realidade ; -Segurança; -Gasto inicial excessivo; -Investimento empatado .-Risco de insuficiência; -Gasto inicial economizado .
+Aquecimento - 7,6 W/(m²K)convectivo interno de 3,0 (W.m-2.K-1) R. Gest.
+, Ponta Grossa, v. 15, n. 3, p. 126-147, Jul.
+Página | 141 CUIABÁ – Z7 Tabela 20 – Energia necessária para manter a temperatura entre 20 ˚C e 26 ˚C na edificação simulada.
+Energia por ano (kWh/ano) hc interno W/(m2K) 5,5 7,6 10,0 hc externo W/(m2K) 8,0 3183,07 3281,28 3358,60 16,0 3110,12 3223,64 3319,64 25,0 3082,80 3205,33 3313,75 40,0 3064,49 3195,23 3315,22 Fonte: Autoria própria (2017) Figura 12 – Energia de aquecimento e resfriamento necessários manter a temperatura entre 20 ˚C e 26 ˚C - coeficiente convectivo interno h c,int.
+Fonte: Autoria própria (2017) Tabela 21 – Potência máxima para manter a temperatura entre 20 ˚C e 26 ˚C na edificação simulada.
+ENERGIA POR ANO MÍNIMA SIMULAÇÃO 10 NBR 15220 SIMULAÇÃO 8 MÁXIMA SIMULAÇÃO 3 POTÊNCIA MÁXIMA DE RESFRIAMENTO 1258,0 W 1363,0 W 1366,0 W POTÊNCIA MÁXIMA DE AQUECIMENTO 505,0 W 556,0 W 453,0 W Fonte: Autoria própria (2017) 0,0500,01000,01500,02000,02500,03000,03500,04000,0 8,0 16,0 25,0 40,0Energia por ano (kWh/ano) Coeficiente convectivo externo W/(m²K) Resfriamento - 5,5 W/(m²K) Aquecimento - 5,5 W/(m²K) Resfriamento - 7,6 W/(m²K) Aquecimento - 7,6 W/(m²K) Resfriamento - 10,0 W/(m²K) Aquecimento - 10,0 W/(m²K)Zona Bioclimática 7: Cuiabá NBR 15220Realidade -NBR 15220 > Realidade ; -Segurança; -Gasto inicial excessivo; Neste caso os valores são muito pr´ximos .
+, Ponta Grossa, v. 15, n. 3, p. 126-147, Jul.
+Página | 142 BELÉM – Z8 Tabela 22 – Energia necessária para manter a temperatura entre 20 ˚C e 26 ˚C na edificação simulada.
+Energia por ano (kWh/ano) hc interno W/(m2K) 5,5 7,6 10 hc externo W/(m2K) 8,0 3050,33 3124,1 3181,33 16,0 3000,62 3087,18 3159,79 25,0 2980,61 3074,45 3156,59 40,0 2966,89 3067,06 3157,81 Fonte: Autoria própria (2017) Figura 13 – Energia de aquecimento e resfriamento necessários manter a temperatura entre 20 ˚C e 26 ˚C - coeficiente convectivo interno hc,int.
+Fonte: Autoria própria (2017) Tabela 2 3 – Potência máxima para manter a temperatura entre 20 ˚C e 26 ˚C na edificação simulada.
+ENERGIA POR ANO MÍNIMA SIMULAÇÃO 10 NBR 15220 SIMULAÇÃO 8 MÁXIMA SIMULAÇÃO 3 POTÊNCIA MÁXIMA DE RESFRIAMENTO 940,0 W 973,0 W 1011,0 W POTÊNCIA MÁXIMA DE AQUECIMENTO 0,0 W 0,0 W 0,0 W Fonte: Autoria própria (2017) cc0,0500,01000,01500,02000,02500,03000,03500,0 8,0 16,0 25,0 40,0Energia por ano (kWh/ano) Coeficiente convectivo externo W/( m²K) Resfriamento - 7,6 W/(m²K) Aquecimento - 7,6 W/(m²K) Resfriamento - 5,5 W/(m²K) Aquecimento - 5,5 W/(m²K) Resfriamento - 10,0 W/(m²K) Aquecimento - 10,0 W/(m²K)Zona Bioclimática 8: Belém NBR 15220Realidade-NBR 15220 > Realidade ; -Segurança; -Gasto inicial excessivo; -Investimento empatado .
+, Ponta Grossa, v. 15, n. 3, p. 126-147, Jul.
+Página | 143 CONCLUSÕES CURITIBA - Z1 Verifica -se que os resultados obtidos nas simulações para a cidade de Curitiba apresentam maior consumo energético para o aquecimento, características típicas de regiões frias.
+Segundo a Tabela 9, a potência máxima de aquecimento para manter o conforto té rmico segundo a NBR 15220 -2 (ABNT 2005) é 45,2% maior do que a potência exigida caso fossem utilizados os menores valores de coeficiente convectivos obtidos através de outros métodos.
+Para o resfriamento, verificou -se que a potência máxima da norma é 3,4% maior do que a potência máxima seguindo os mesmos critérios.
+Assim, verifica -se que para o dimensionamento de um sistema de conforto térmico, o risco de superdimensionar o sistema de aquecimento é consideravelmente maior.
+Quanto à previsão de consumo de energia total, há o risco de se exagerá -la em 16,4% em relação à obtida ao se adotar os valores mais prováveis para os coeficientes de convecção , interno e externo são de 5,5 e 8,0 W/ m2K respectivamente.
+SANTA MARIA – Z2 Na cidade de Santa Maria há um consumo maior de energia para resfriamento.
+A potência máxima para resfriamento usando os coeficientes convectivos da NBR é 16,0% maior do que quando são usados os valores menores dos coeficientes de outros métodos.
+Seguindo o mesmo critério de análise, para aquecimento a potência é 54,0% maior.
+Assim, há maior risco de se superdimensionar o sistema de aquecimento.
+Quanto à previsão de consumo total de energia, há o risco de se exagerá -la em 10,4% em relação à obtida ao se adotar os valores mais prováveis para os coeficientes de convecção interno e externo, de 5,5 e 8,0 W/ m2K, respectivamente.
+BELO HORIZONTE E BRASÍLIA – Z3 E Z4 Essas duas cidades possuem comportamentos semelhantes entre si.
+Nelas, ao contrário das demais zon as bioclimáticas, a potência máxima indica subdimensionamento quando comparada com as simulações com coeficientes menores.
+Em Belo horizonte, para resfriamento, a norma NBR resulta em uma potência máxima 6,9% menor do que aquela obtida com os valores menor es de coeficientes.
+Para o aquecimento é 17,0% menor.
+Seguindo o mesmo critério, Brasília possui para resfriamento uma potência 4,6 % menor e aquecimento com potência 17,7% menor.
+Quanto à previsão de consumo de energia total, há o risco de se calcular um valor, em Belo Horizonte 13,0% menor utilizando os coeficientes da NBR e, em Brasília, 16,4% menor, em relação à obtida ao se adotar os valores mais prováveis para os coeficientes de convecção interno e externo de 5,5 e 8,0 W/ m2K, respectivamente.
+, Ponta Grossa, v. 15, n. 3, p. 126-147, Jul.
+Página | 144 VITÓRI A DA CONQUISTA – Z5 Seguindo o mesmo critério utilizado nas demais cidades, em Vitória da Conquista tem -se para resfriamento, segundo a NBR, uma potência máxima 6,3% menor e aquecimento 17,5% menor.
+Quanto à previsão de consumo de energia, há o risco de se calcular um valor 10,6% menor em relação à obtida ao se adotar os valores mais prováveis para os coeficientes de convecção interno e externo de 5,5 e 8,0 W/ m2K, respectivamente.
+CAMPO GRANDE E CUIABÁ – Z6 E Z7 Nessas cidades o consumo de energia é quase que totalmente utilizado para resfriamento.
+As simulações para Campo Grande resultaram em uma potência máxima para resfriamento 3,1% maior e aquecimento com potência 14,2% maior.
+Em Cuiabá há uma potência de resfriamento 8,3% maior e potência de aqueciment o 10,0% maior.
+Novamente percebe -se um risco considerável de superdimensionamento no sistema de aquecimento.
+Quanto à estimativa de consumo de energia total, não se nota grande diferença entre os métodos.
+Em Campo Grande a NBR está 3,5% acima da menor ener gia simulada e 4,6 % em Cuiabá em relação à obtida ao se adotar os valores mais prováveis para os coeficientes de convecção interno e externo de 5,5 e 8,0 W/ m2K, respectivamente.
+BELÉM –Z8 Em Belém a energia consumida é totalmente dirigida para o resfria mento.
+A potência máxima para manter o conforto térmico segundo a NBR para o resfriamento foi 3,5% maior, ou seja, haveria um pequeno superdimensionamento no sistema de refrigeração.
+Nesta cidade não há necessidade de aquecimento.
+Quanto à previsão de cons umo total de energia, há o risco de se calcular um valor 3,6% maior em relação à obtida ao se adotar os valores mais prováveis para os coeficientes de convecção interno e externo de 5,5 e 8,0 W/ m2K, respectivamente.
+Verifica -se, portanto, que o presente t rabalho demonstrou que o Brasil possui uma grande variação nos resultados do dimensionamento dos sistemas para o conforto térmico.
+Esta variação pode resultar em superdimensionamento ou subdimensionamento de sistemas de condicionamento térmico.
+Conclui -se que um método mais apurado para cada região, considerando suas particularidades climáticas, poderia contribuir para uma maior eficiência do sistema e, assim, seria possível tornar as edificações mais econômicas contribuindo também com o meio ambiente, atra vés do uso racional de energia.
+, Ponta Grossa, v. 15, n. 3, p. 126-147, Jul.
+Página | 145 The treatment of the superficial thermal resistance in the Brazilian technical norms and its influence in the estimated energy consumption for buildings ABSTRACT Improving the thermal performance of buildings is becoming the focus of studies to reduce energy demand in the industry.
+The buildings are targets of generation of gases harmful to the greenhouse effect and also with regard to the high energy consumption.
+Buildings consume an average of 30% of available electricity and the trend is that demand will increase over the years.
+However, the transmission lines are not keeping up with this increase in energy demand and because of the peaks of consumption, they gen erate overload in the system causing the unwanted "blackouts".
+In the calculations of thermal performance, one of the parameters used is the surface thermal resistance, whose calculation involves several factors, mainly environmental.
+In NBR 15220 -2 "Therm al performance of buildings", mean values of surface thermal resistance are suggested that are used throughout the country, regardless of the environmental characteristics of each region.
+Therefore, the focus of this work is to analyze the consequences o f the use of the convective coefficients in the eight Bioclimatic zones of Brazil, using the convective coefficients of the norm and compare with other methods established in the bibliography.
+The results showed that the method suggested by the Brazilian s tandard in most cases can provide values of energy demand above that obtained by other methods, resulting in an oversizing of thermal conditioning systems, with power up to 57.30% higher.
+However, in some cases, there was evidence of under sizing , making clear the importance of the analysis for different climatic conditions .
+Thermal performance of buildings.
+, Ponta Grossa, v. 15, n. 3, p. 126-147, Jul.
+Página | 146 REFERÊ NCIAS ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS, ABNT.
+Desempenho térmico de edificações .
+EMMEL, M. G.; ABADIE, M. O.; MENDES, N. New external convective heart transfer coefficient correlations for isolated low -rise buildings.
+Energy and Buildings , Elsevier 2007. p. 335 -342.
+EPE – Empresa de Pesquisa Energética.
+Resenha mensal do mercado de Energia Elétrica .
+Brasi l. Nota Técnica DEA 13/15 2015.
+EPE – Empresa de Pesquisa Energética.
+Resenha mensal do mercado de Energia Elétrica.
+ISO INTERNATIONAL ORGANIZATION FOR STANDARDIZATION.
+ISO 6946 – Building components and building elements – Thermal resistance and thermal transmittance – Calculation method.
+HOLMAN, J. P. Heat Transfer , 5th ed, McGraw -Hill Book, 1981.
+MIRSADEGHI, M.; CÓSTOLA, D.; BLOCKEN, B.; HENSEN, J. L. M. Review of external convective heat transfer coefficient models in building energy simulation programs: Implementation and uncertainty.
+Energy and Buildi ngs, Elsevier 2013. p. 134 -151.
+Variability and impact of internal surfaces convective heat transfer coefficients in the thermal evaluation of office buildings.
+PEETERS, L.; BEAUSOLEIL -MORRISON B., I.; NOVOSEL AC, A.
+Internal convective heat transfer modeling: Critical review and discussion of experimentally derived correlations.
+SHAO, J. LIU J.; ZHAO J.; ZHANG W.; SUN D.; FU Z.
+A novel method for full -scale measurement of the external convective heat transfer coefficient for building horizontal roof.
+, Ponta Grossa, v. 15, n. 3, p. 126-147, Jul.
+Página | 147 Recebido : 02 Jan .
+9288 Como citar : MARTINS , M. C.; Schmid A. L. O tratamento da resistência térmica superficial nas normas técnicas brasileiras e sua influência no consumo energético estimado para edifícios .
+Industr ., Ponta Grossa, v. 15, n. 3 , p. 126-147, Jul./Set .
+http:/periodicos.utfpr.edu.br/revistagi Acesso em: Correspondência: Monalisa Coelho Martins Universidade Federal do Paraná (UFPR), Curitiba, Paraná, Brasil Direito autoral: Este artigo está licenci ado sob os termos da Licença Creative Commons -Atribuição 4.0 Internacional.

@@ -1,0 +1,402 @@
+ E&G Economia e Gestão , Belo Horizonte, v. 18, n. 49, Jan./Abr.
+2018 25 A FUNÇÃO DA INTELIGÊNCIA COMPETITIVA NA REDUÇÃO DO EFEITO CHICOTE NA CADEIA DE SUPRIMENTOS DE FRUTAS ORGÂNICA S THE FUNCTION OF COMPETITIVE INTELLIGENCE IN THE REDUCTION OF THE BULLWHIP EFFECT IN THE SUPPLY CHAIN OF ORGANIC FRUITS Paolo Edoardo Coti -Zelati Faculdades de Campinas (FACAMP) coti_zelati@outlook.com Ketter Valéria Zuchi Caliari Universidade Presbiteriana Mackenzie – SP kettercaliari@gmail.com Gilberto Perez Universidade Presbiteriana Mackenzie – SP gilberto.perez@mackenzie.br Submissão: 06/10/2017 Aprovação: 06/03/2018 RESUMO O mercado para os produtos orgânicos no Brasil está em formação e ainda é um setor muito instável em função do abastecimento irregular.
+Levando -se em conta este cenário , o objetivo , com este estudo buscou -se verificar de que forma a Inteligência Competitiva (IC) é usada para a redução do efeito chicote na cadeia de suprimentos de frutas orgânica s. Para tanto , desenvolveu -se uma pesquisa descritiva de natureza qualitativa com quatro executivos de empresas que atuam diretamente com a produção, distribuição e venda de produtos agroalimentares de origem orgânica.
+Os dados, obtidos por meio da percepção dos entrevistados, foram analisados para que se identificassem padrões recorrentes ou pontos comuns nos mesmos.
+Os resultado s deste trabalho sugere m que a IC como ferramenta organizacional pode ser utilizada para avaliar o comportamento e o controle do efeito chicote na cadeia de suprimentos de frutas orgânica s, a partir das informações e o conhecimento compartilhado pelas empresas parceiras.
+Palavra s-chave : Inteligência competitiva .
+Frutas orgânica s. E&G Economia e Gestão , Belo Horizonte, v. 18, n. 49, Jan./Abr.
+2018 26 ABSTRACT The market for organic products in Brazil are in training and is still a very unstable sector depending on the irregular supply.
+Given this scenario, the objective, this study sought to check how competitive intelligence (CI) is used for the reduction of the bullwhip effect in supply chain of organic fruit.
+To this end, developed a descriptive qualitative research with four business executives who work directly with the production, distribution and sale of agrifood products of organic origin.
+The data, obtained through the perception of respondents, were analyzed in order to identify recurring patterns or common po ints.
+The results of this study suggest that the IC as organizational tool can be used to evaluate the behavior and control of bullwhip effect in supply chain of organic fruit, from the information and knowledge shared by the partner companies.
+Keywords : Competitive intelligence.
+E&G Economia e Gestão , Belo Horizonte, v. 18, n. 49, Jan./Abr.
+2018 27 1 INTRODUÇÃO O Brasil é o país que apresenta o maior potencial de produção orgânica no mundo, são aproximadamente 90 milhões de hectares agricultáveis, sem contar as áreas de produção convencional que podem migrar para o sistema orgânico de cultivo agropecuário.
+Atualmente ocupa o terceiro lugar em áreas cultivadas com produção orgânica e possui cerca de 90 mil produtores rurais orgânicos, tanto certificados como não certifi cados.
+Os produtos com maior volume de produção e consumo orgânico no país são: açúcar, café, frango, fumo, hortaliças, laranja, leite, ovo s e soja (PLANETA ORGÂNICO, 201 6).
+A condição básica para que um produto seja considerado orgânico é a ausência de defensivos e fertilizantes químicos em seu cultivo.
+Para Darolt (2010), no processo produtivo agropecuário orgânico são utilizadas tecnologias de produção dos primórdios da agricultura.
+É um sistema de produção que exclui a utilização de fertilizantes químic os e sintéticos, além de defensivos químicos, reguladores de crescimento e aditivos sintéticos para alimentação animal.
+Ainda segundo Darolt (2010), a produção orgânica utiliza adubo verde, rotação de culturas, compostagem e controle biológico de pragas e doenças.
+Em toda a cadeia produtiva, ou seja, na preparação do solo, compra de insumos, produção, processamento, estocagem, transporte e distribuição, o respeito às normas estabelecidas é fundamental para que um produto seja reconhecido como orgânico (SAM BIASE; MOORI; SATO, 2004).
+O mercado de produtos orgânicos cresce de forma significativa desde 2012, e este fato deve -se à regulamentação realizada em 2011 para a produção e comercialização desses produtos no Brasil (MINIUSSI; COTI -ZELATI; ARAÚJO, 2015) .
+De acordo com I -UMA (2016), os investimentos nesse setor e o lançamento de produtos inovadores que acompanham as tendências da população também contribuem para aumentar a expectativa de crescimento para os próximos anos, podendo a produção orgânica no Bras il atingir um faturament o de R$ 2 bilhões .
+Com 1,767 milhões de hectares cobertos com lavouras orgânicas, o Brasil é o terceiro maior país no que tange a área cultivada, superando os Estados Unidos que têm 1,64 milhões de hectares voltados à produção agro pecuária orgânica, porém antecedido pela Austrália, com 12,02 milhões de hectares e a Argentina, com 2,78 milhões de hectares.
+Segundo o Instituto de Desenvolvimento Sustentável e Energias Renováveis ( IDER, 2016), o mercado para os produtos orgânicos está em formação e ainda é um setor muito instável em função do abastecimento irregular, além da pequena variedade de produtos comercializados de maneira direta.
+No ano de 2016, o mercado consumidor de produtos orgân icos no Brasil cresceu 50%, porém ainda são comuns contribuindo para que o valor dos negócios no setor crescesse ultrapassasse os US$ 100 milhões .
+Mesmo assim, são comuns atrasos nas entregas ou entregas incompletas, de maneira que a distribuição de produtos orgânicos não flui de maneira constante , o que pode ocasionar o efeito chicote ( bullwhip effect ) (IDER, 201 6).
+De acordo com Lee, Padmanablan e Whang (1997) , o efeito chicote é um fenômeno ocorrido na programação de materiais ou insumos de determinada cadeia de suprimentos, cujo principal resultado apresenta -se como uma distorção nos valores dos releases ou programas de materiais que são intercambiados pelos diferentes agentes desta cadeia.
+Os resultados do efeito chicote causam distorções na necessidade real da cadeia de suprimentos, alterando as quantidades demandadas pelos cliente s aos fornecedores.
+Estas distorções geram excessos ou falta de produtos , o que representa sempre um desperdício para a cadeia de suprimentos (ABINAJM FILHO; FARIA; SILVEIRA, 2012) .
+Para o controle do efeito chicote são necessárias ferramentas estratégicas (HARLAND, 1996) .
+A inteligência competitiva pode ser interpretada como um sistema de E&G Economia e Gestão , Belo Horizonte, v. 18, n. 49, Jan./Abr.
+2018 28 monitoramento ( environmental scanning ), definindo -a como um conjunto de procedimentos para coleta e análise de informação sobre o macro ambiente, possibilitando à organização um processo de aprendizagem contínuo, voltado ao planejamento e a decisões estratégicas (GARCIA , 1997).
+A questão central que nasce a p artir deste debate é : como a inteligência competitiva é usada para a redução do efeito chicote na c adeia de suprimentos de frutas orgânica s?
+Esse é o contexto base em que este artigo se desenvolveu , procurando oferecer uma contribuição à área com objetivo geral de verificar de que forma a inteligência competitiva é usada para a redução do efeito chicote na cadeia de suprimentos de frutas orgânica s. Os objetivos específicos foram : (a) identificar os resultados da inteligência competitiva no efeito chicote na cadeia de suprimentos de frutas orgânica s; (b) identificar as fontes utilizadas para inteligência competitiva na cadeia de suprimentos de frutas orgânica s. O estudo foi estruturado em seis seções.
+Além desta introdução, desenvolveu -se a revisão da teoria sobre inteligência competitiva e efeito chicote na cadeia de suprimentos .
+A seguir , foi apresentada a caracterização da cadeia de suprimentos de produtos orgânicos.
+Na sequência foram apresentados os procedimentos metodológicos.
+Após, foram analisados os resultados.
+Finalmente, a última seção apresenta as conclusões desta pesquisa, além de sugestões para futuros estudos .
+2 REFERENCIAL TEÓRICO Neste capítulo realizou -se um estudo teórico sobre os conceitos de efeito chicote na cadeia de suprimentos e inteligência competitiva .
+2.1 Efeito chicote na cadeia de suprimentos Kopczak e Johnson (2003) definem cadeia de suprimentos como duas ou mais empresas trabalhando de forma conjunta para planejar e executar as operações relaciona das aos suprimentos, obtendo maior sucesso do que se trabalhasse m de forma isolada, ou seja, a colaboração na cadeia de suprimentos é baseada em objetivos recíprocos.
+A cadeia de suprimentos funciona como uma rede de parcerias entre fabricantes, fornecedoras de matéria -prima, transportadoras, varejistas ou de qualquer outra categoria (SIMCHI -LEVI; KAMINSKY; SIMCHI -LEVI, 2010 ).
+Portanto, as companhias que apresentam melhor desempenho são aquelas que melhor integram os principais processos internos com fornecedores e clientes estruturando, desta maneira, uma cadeia de suprimentos com perspectivas e procedimentos definidos e consistentes (ZHANG; DILTS, 2004).
+Importante salientar que todas as empresas, dentro de uma cadeia de suprimentos, possuem um r elacionamento transacional com as demais organizações participantes.
+Devido às novas demandas, essas empresas desenvolvem um relacionamento de trabalho conjunto com as demais firmas de sua cadeia (LI et al., 2006).
+Efeito chicote na cadeia de suprimentos é a distorção da percepção da procura ao longo da cadeia na qual os pedidos para o fornecedor tem variância diferente das vendas para o consumidor (LEE; PADMANABLAN; WHANG, 1997).
+De acordo com Svensson (2005), o efeito chicote indica que a variabilidade n o nível de estoques tende a ser maior ao se afastar do ponto consumo.
+Os fatores que o causam este fenômeno podem ser : o compartilhamento de informações deficientes, dados de mercado insuficientes e previsões incorretas.
+O efeito chicote é um dos fenômenos mais conhecidos e difundidos na área de gestão de operações.
+O termo "chicote" é usado para descrever o fato que uma leve variação da demanda do consumidor pode gerar grandes oscilações na produção dos fornecedores que E&G Economia e Gestão , Belo Horizonte, v. 18, n. 49, Jan./Abr.
+2018 29 estão localizados na outra extremidade da cadeia de suprimentos (SILVA, 2017) .
+O efeito chicote também pode ser denominado como amplificação da demanda, amplificação da variabilidade ou ainda por efeito Forrester (WANG; DISNEY, 2016).
+(2016) esclarecem que o uso deste último termo para referenciar o efeito chicote, se deve ao fato que o fenômeno foi documentado e estudado pela primeira vez por Forrester (1958).
+(2010) , as empresas fazem suas previsões de demanda com base em dados históricos, e assim programam suas linhas de produção.
+As ordens enviadas para os fornecedores atualiz am a série histórica de pedidos, o problema é que as flutuações nas ordens de pedidos podem ser muito maiores que os dados da demanda.
+Como resultad o do efeito chicote, o padrão de compra do cliente não reflete o seu padrão de consumo e a variação das quantidades de compra é muito maior do que a variação da taxa de consumo (LEE; PADMANABLAN; WHANG, 1997 ; SILVA, 2017 ).
+O efeito chicote ocorre a partir do momento em que a variabilidade da demanda aumenta à medida que se prossegue à montante da cadeia de suprimentos, desde o varejista até os fornecedores de insumos, acarretando em impactos negativos sobre a regularidade e estabilidad e dos pedidos que são recebidos ( WANG; WANG; OUYANG, 2015 ).
+De acordo com Harland (1996), a política de preços utilizada por uma empresa influência muito na forma como os clientes se comportam com relação aos pedidos.
+Se existirem épocas em que ocorrem promoções, provavelm ente a maioria dos pedidos será realizada neste período.
+O que faz com que os estoques esvaziem e a produção fique com uma programação superior a sua capacidade, causando maiores custos de produção (SELES et al., 2016 ).
+Para Moori, Perera e Mangini (2011 ), se os varejistas identificam um aumento da demanda sobre a oferta de produtos, este irá se prevenir fazendo pedidos maiores do que o normal, isto faz com que a indústria tome cuidado no momento de fazer a alocação de sua produção .
+Nesta mesma situação quando os varejistas emitem suas ordens de compra para vários fornecedores , o que atender primeiro será beneficiado, as demais ordens serão descartadas, fazendo com que os fornecedores tenham que estocar o que já foi produzido (GONÇALVES; GIORDANO, 2014 ).
+No ente ndimento de Lee, Padmanablan e W hang (1997 ) é possível evitar o efeito chicote de três maneiras: (a) compartilhar informações: trata -se de transmitir informações sobre a demanda em tempo hábil tanto à montante quanto à jusante ; (b) alinhamento de canais: trata -se da coordenação dos preços, do transporte, do inventário do planejamento e da apropriação entre os locais montante e jusante na cadeia de suprimentos ; (c) eficiência operacional: se refere a atividades que melhorem o desem penho, tais como redução de custos e tempo de espera.
+Além disso, e mpresas procuram desenvolver estratégias inovadoras que colocam novos desafios , tais como: integrar novos sistemas de informação, estabelecendo novas relações organizacionais e implementação de novos sistemas de incentivo e de medição (COELHO; FOLLMANN; RODRIGUEZ, 2009 ).
+Para ess es autor es, empresas inovadoras em diferentes indústrias podem con trolar o efeito chicote e melhorar o desempenho em sua cadeia de suprimentos através da coordenação da informação e planejamento junto à cadeia de suprimentos.
+2.2 Inteligência competitiva Para a Society of Competitive Intelligence Professionals (SCIP)1, a inteligência 1 A Society of Competitive Intelligence Professionals (SCIP) é a entidade que representa os profissionais de Inteligência Competitiva (IC).
+E&G Economia e Gestão , Belo Horizonte, v. 18, n. 49, Jan./Abr.
+2018 30 competitiva (IC) pode ser definida como uma condição necessária para a tomada de decisão baseada no entendimento do ambiente competitivo , e esta decisão deve ter como base um programa sistemático e ético de coleta e análise de informações sobre as capacidades, vulnerabilidades e intenções dos concorrentes do neg ócio (BRODY, 2008) .
+De acordo com Teixeira e Valentim (2016) , esta definição tem foco na prospecção e monitoramento da concorrência e do mercado competitivo e trata da principal ação estratégica para a sobrevivência das organizações que pautam seu sucesso na previsão de tendências e rapidez nas ações frente à concorrência.
+Tarapanoff (2006) conceitua a IC como um processo de continuo monitoramento de informaçõ es internas e externas, que engloba além dos concorrentes, informações cient íficas, tecnológicas, sociais, politicas e econômicas referentes ao mercado, clientes, fornecedores e parceiros , possibilitando a identificação das ameaças, oportunidades, pontos fortes e fracos da organização.
+Nesta outra abordagem a IC é alicerçada não somente pelas informações externas, mas também pelas internas, possibilitando o conhecimento da capacidade da organização no monitoramento de clientes, forne cedores e parceiros, visando garantir a eficácia do planejamento estrat égico e do processo decis ório (TEIXEIRA; VALENTIM, 2016).
+Em estudo feito em Instituições Superiores de Ensino (IES), Garcia -Alsina, CobarsíMorales e Ortoll (2016) constataram a escas sez de recursos dedicados à IC.
+Com relação aos recursos humanos, aos autores mencionam a necessidade de profissionais com perfis voltados à gestão de informações.
+Tal escassez influencia no tempo necessário para a tomada de decisão, que via de regra, é maior na procura da informação, do que o tempo para analisa -la.
+De acordo com Castro e Abreu (2006) , o conceito de IC é bastante amplo e p ossui várias abordagens que são fundamen tais para suportar as decisões táticas e estratégicas de todas as áreas funcionais de uma organização.
+O processo decisório passa por transformações desde seu estágio inicial até a sua maturidade.
+As incertezas do ambiente competitivo, inexperiência dos gestores, dificuldades de interação com o ambiente externo, são fatores que causam dúvidas na análise comportamental das organizações na fase inicial deste processo .
+A previsibilidade do comportamento organizacional proporcionada pelo fluxo de informações na fase da maturidade coloca a organização numa posição de conforto estratégico podendo causar os pontos cegos do ambiente competitivo e conduzir a decisões erradas devido à supremacia dos dados do ambiente interno sobre o externo.
+Tais decisões afetam o desempenho final da organização (CASTRO; ABREU, 2006) .
+Sendo assim, a inteligência competitiva é utilizada como suporte às estratégias empresariais, principalmente no forne cimento e gerenciamento de informações relevantes para a competitividade empresarial.
+De acordo com Reginato e Gracioli (2012) a inteligência competitiva auxilia no monitoramento do ambiente externo, ameaças e oportunidades e pontos fortes e fracos, permi tindo uma postura anteci pativa diante dos concorrentes, além de contribuir para a construção da memória organizacional, através da gestão do conhecimento, possibilitando o armazenamento de informações do ambiente interno.
+Os autores afirmam que estas contr ibuições possibilitam a elaboração de estratégias condizentes com as atividades do negócio da empresa e gerar valor agregado aos produtos ofertados (REGINATO ; GRACIOLI, 2012) .
+O papel da informação na inteligência competitiva é fundamental, pois é pelo gerenciamento das informações que as empresas ganham suporte às estrat égias empresariais.
+O tratamento da informação possibilita a empresa a redução de custos operacionais, automação do escritório, automação comercial e industrial, controle de estoque e o utras aplicações na organizaç ão (COHEN, 2002).
+E&G Economia e Gestão , Belo Horizonte, v. 18, n. 49, Jan./Abr.
+2018 31 Para Cohen (2002) a informação é capaz de alterar custos em qualquer par te da cadeia de valor da firma impactando no gerenciamento de toda a cade ia de suprimentos.
+Segundo Porter e Millar (1985) cada atividad e de valor, dentro da cadeia de valor, utiliza componentes físicos e informacionais e a tecnologia da informação se encarrega da distribuição da informação necessária a cada atividade.
+A aplicação da IC na cadeia de suprimentos passa pelo gerenciamento do fluxo de informações e da geração de valor proporcionada pelo relacionamento com clientes e fornecedores.
+Tudo isso implica em novas práticas para a definição dos negócios, estruturação da organização e da ger ência e na busca de produtividade (COHEN, 2002).
+3 CARACTERIZAÇÃO DA CADEIA DE SUPRIMENTOS DOS PRODUTOS ORGÂNICOS A agricultura orgânica é um sistema produtivo que utiliza praticas alternativas se comparada à agricultura convencional.
+Nessa modalidade de produção não se utiliza fertilizantes químicos e defensivos sintéticos, também chamados de agrotóxicos ou defensivos agrícolas (PENTEADO, 2010).
+Ainda para esse autor, a agricultura orgânica é a reunião de diversas correntes de pesquisa e pensamento.
+A produção agrícola orgânica é agrupada em quatro vertentes: a agricultura biodinâmica, a agricultura biológica, a agricultura orgânica e a agricultura natural.
+Dessas vertentes originam -se outros métodos como a permacultura e a agricultura regenerativa.
+Ess as correntes fazem parte do que atualmente é conhecida de forma genérica como agricultura sustentável.
+De acordo com Vilckas e Nantes (2007), considera -se sistema orgânico de produção agrícola todo aquele que adota técnicas específicas que tenham como obj etivo a potencialização do uso dos recursos naturais e socioeconômicos disponíveis , sempre respeitando a integridade cultural das comunidades rurais.
+Portanto a agricultura orgânica segue os passos da sustentabilidade econômica, da m aximização dos recursos sociais e da minimização no uso de energia não renovável.
+Nos últimos anos a agricultura orgânica vem se desenvolvendo de forma acelerada e já é praticada em mais de 120 países.
+O mercado agroalimentar orgânico vem sendo apontado como aquele que mais cresce no Brasil e no mundo (GEMMA; TERESO; ABRAHÃO, 2010).
+No Brasil a agricultura orgânica também vem sendo reconhecida pelos órgãos oficiais de pesquisa como uma das principais maneiras de buscar um equilíbrio entre a produção agrícola e a preservação dos recursos naturais (SOUZA; ALCÂNTARA, 2011).
+De acordo com a página eletrônica do SEBRAE (201 6), o Brasil vem se consolidando como um dos princ ipais produtores e exportadores de produtos orgânicos no Mundo.
+São mais de 15 mil propriedades já certificadas para a produção orgânica ou em processo de transição, das quais 75% fazem parte da agricultura familiar.
+Ainda para o SEBRAE (201 6), o aumento da demanda por alimentos orgânicos, principalmente nos países industrializados, é favorável para o desenvolvimento da exportação brasileira de produção orgânica, sobretudo nos mercados de açúcar, café, carne, frutas tropicais e outros produtos bás icos.
+A cadeia de suprimentos de produtos orgânicos pouco se diferencia de uma cadeia de suprimentos convencional.
+São duas diferenças fundamentais.
+A primeira refere -se à inexistência da figura do intermediário ou atacadista entre a produção e o elo decor rente.
+A segunda diferença está relacionada à necessidade de certificação que atesta a legitimidade do produto orgânico (ORMOND et al., 2002; COTI -ZELATI; MOORI, 2015) .
+A Figura 1 apresenta um esquema da cadeia produtiva orgânica .
+De acordo com Souza (2003), a cadeia de suprimentos de produtos orgânico s apresenta alguns pontos fracos, a E&G Economia e Gestão , Belo Horizonte, v. 18, n. 49, Jan./Abr.
+2018 32 produção inconstante é um deles.
+O produtor não tem conhecimento preciso da demanda por produtos orgânicos, portanto não tem como planejar sua safra e não sabe quantos clie ntes poderá atender, portanto tem dificuldades para desenvolver novas estratégias de mercado visando conquistar novos consumidores (MINIUSSI; COTI -ZELATI; ARAÚJO, 2015) .
+Cadeia produtiva de alimentos orgânicos.
+Fonte: adaptado a partir de Ormond et al.
+De acordo com Smolinski , Guerreiro e Raiher (2011) , não é tão simples encontrar insumos orgânicos em quantidade e variedade adequada , o que resulta em elevados custos.
+Uma oferta maior de insumos orgânicos acarretaria preços mais baixos e uma liberdade de escolha por pa rte do produtor (WILSON, 2001) .
+4 PROCEDIMENTOS METODOLÓGICOS Neste artigo foi adotada uma pesquisa descritiva de natureza qualitativa.
+Para Gil (2008), a s pesquisas sociais podem ser agrupa das em três níveis: pesquisas exploratórias, descritivas e explicativas.
+A pesquisa descritiva fundamenta -se na exposição detalhada das características de um fenômeno mediante a utilização de técnicas padronizadas de coleta de dados (GIL, 2008).
+Segundo Me rriam (2002), a pesquisa qualitativa espera compreender determinada situação por meio da interpretação e experiência de indivíduos sobre tal contexto.
+Ou seja, o pesquisador busca entender uma situação através da lógica e perspectiva dos entrevistados (GOD OI; BALSINI, 2006).
+O m étodo qualitativo emerge d o paradigma fenomenológico e interpretativista , desse modo, não são utilizados meios estatísticos como base do processo de análise na técnica em questão (RICHARDSON, 1999).
+A coleta de dados se deu por meio de entrevistas , com o objetivo de extrair dos entrevistados , segundo suas experiências, se o efeito chicote na cadeia de suprimentos poderia ser controlado a partir da aplicação da inteligência competitiva .
+O roteiro (estruturado ) foi adap tado a partir dos instrumento s de coleta de dados do s trabalho s de Abinajm Filho, Faria e Silveira (2012) e de Vidigal e Nassif (2012) .
+As entrevistas foram realizadas individualmente com executivos de empresas que pertencem a uma cadeia de suprimentos de frutas orgânica s no Brasil .
+Em seguida, o conteúdo das gravações foi transcrito para a continuidade d a análise dos dados.
+É importante salientar E&G Economia e Gestão , Belo Horizonte, v. 18, n. 49, Jan./Abr.
+2018 33 que os entrevistados foram previamente informados de que se tratava de uma pesquisa de cunho acadêmico, com vis tas a compreender a percepção de cada um acerca do tema, e que nenhum dado referente à empresa e/ou ao participante seria divulgado.
+A análise dos dados referente a esta pesquisa foi fundamentada nos princípios de análise de conteúdo com base nos conceitos de categorização ( BARDIN, 2011 ).
+De acordo com essa estratégia de categorização, a organização e interpretação de dados são feitas por temas relevantes ao pesquisador.
+Para Flores (1994), os dados possuem significado limitado, portanto é necessário encontrar sentido neles.
+A análise de conteúdo abrange as iniciativas de explicitação, sistematização e expressão do conteúdo de mensagens, com a finalidade de se efetuarem deduções lógicas e justificadas a respeito da origem dessas mensagens seguindo como orientação: (a) quem as emitiu; (b) em que contexto; (c) quais efeitos se pretende causar por meio delas (BARDIN, 2011 ).
+Segundo a autora, a análise de conteúdo é um conjunto de técnicas que se baseia na s operaç ões de classificação dos elementos c onstitutivos, redução de dados e passagem do particular para o geral , seguido das conclus ões.
+5 APRESENTAÇÃO E ANÁLISE DOS RESULTADOS Richardson (1999) defende que a análise de resultados depende de um conjunto de ações por parte do pesquisador, desde a interpretação e síntese da inform ação coletada até as constatações sobre o problema de investigação.
+O conteúdo das gravações foi transformado em texto, possibilitando, desta forma, as primeiras reflex ões sobre o conteúdo.
+5.1 Perfil da amostra Os entrevistados são executivos de empresas integrantes da cadeia de suprimentos de produtos agroalimentares orgânicos.
+Em comum acordo com os entrevistados, decidiu -se pela não divulgação de seus nomes.
+As entrevistas ocorreram primeiro semestre de 2016 e foram gravadas com a anuência de cada participante.
+O Quadro 1 apresenta o perfil dos participantes da pesquisa e o Quadro 2 o perfil das empresas envolvidas na coleta de dados.
+Entrevistado Formação Cargo Tempo na e mpresa Tempo n o setor de orgânicos E1 Administração Proprietário 9 meses 9 meses E2 Administração Proprietário 2 anos 2 anos E3 Administração Gerente comercial 3 anos 7 anos E4 Engenheiro Gerente de produtos orgânicos 17 anos 20 anos Quadro 1 .
+Caracterização dos entrevistados.
+Empresa Ramos de atividade Tempo no mercado de orgânicos Tempo de parceria com fornecedor/comprador de orgânicos Empresa1 Comércio v arejista 9 meses 9 meses Empresa2 Comércio v arejista 2 anos 2 anos Empresa3 Produtor Agroindustrial 19 anos 19 anos Empresa4 Produtor Agroindustrial 24 anos 24 anos Quadro 2 .
+E&G Economia e Gestão , Belo Horizonte, v. 18, n. 49, Jan./Abr.
+2018 34 5.2 Análise de conteúdo Durante a análise de resultados buscou -se entender se as ferramentas de inteligência competitiva podem contribuir para o controle do efeito chicote na cadeia de suprimentos de frutas orgânica s no Brasil.
+Seguindo -se as orientações de Bardin (2011), após a leitura aten ta das entrevistas, realizou -se a identificação dos pontos -chave de cada uma delas.
+Na sequência, estas unidades foram agrupadas por similaridade , em unidades intermediárias de análise e, finalmente formaram -se as quatro categorias finais que são apresentadas a seguir.
+CAT1: Compartilhamento de informações, comunicação colaborativa e in teligência competitiva A troca eficiente de informações opera como uma ferramenta no auxílio do planejamento da demanda, além de contribuir para a eliminação das atividades que não tragam valor para a operação ao evitar possíveis congestionamentos de informações (PAULRAJ; CHEN, 2007).
+(2009), a comunicação interorganizacional e compartilhamento de informações entre empresas da mesma cadeia de suprimentos removem obstáculos pela lealdade, possibilita eliminação de barreiras técnicas para modularização e contribui para a solução de problemas organizacionais.
+Para a formação dessa categoria destacam -se os seguintes trechos d e entrevistas : É muito difícil a comunicação com alguns dos meus fornecedores porque são da roça mesmo, s ó por celular e às vezes eles nem atendem telefone.
+Com os fornecedores maiores de outros estados a gente tem contato sempre e é por e -mail.
+A gente faz contato sem pre quando tem que fazer um pedido ou quando eles pedem algum feedback de um produto.
+Quando eu faço um pedido novo e não peço um produto que costumo pedir eles perguntam o que está acontecendo, se está vencendo, porque não está saindo.
+Já com os clientes criei grupos no Whatsapp e sempre informo quando chega produtos, eu tenho clientes com dieta restrita e peço produtos somente para eles.
+Também faço contato via Facebook .
+Essas informações são usadas no planejamento da empresa, sempre , até para promoções de produtos que estão encalhados ou perto do vencimento .
+Desde que abrimos a empresa, as informações são por telefone e e -mail com os fornecedores e clientes.
+Quase não uso redes sociais para trabalhar as informações.
+Eu troco informações com os for necedores até para planejar a demanda e não ficar com estoque , pois os produtos são frutas e verduras e estragam rápido, então tenho que pedir apenas o que sai mais.
+Como meus fornecedores são todos do estado é difícil se comunicar e planejar, porque são p equenos produtores que tem muita dificuldade em produzir.
+Não tem incentivo do governo para nada.
+a troca de informações vindas do mercado é quase nula.
+São poucas as informações, algumas nem tão precisas assim.
+Na minha opinião falta um pouco mais de colaboração no setor de produtos orgânicos.
+Nós da ponta de cá estamos muito distantes do consum idor final, salvo nos casos de feiras locais, e, portanto, sofremos com a falta de comunicação e informação precisa .
+acho que a cadeia de produtos orgânicos deveria procurar mais ferramentas tecnológicas ligadas à gestão da informação e comunicação e ntre as empresas, sei lá, talvez constituir uma data base abastecido com informações do mercado e da cadeia produtiva do produto orgânico, isso contribuiria para a clareza das informações e aí todos falariam a mesma língua ou pelo menos próximo disso, evit ando a distorção das informações distribuídas.
+nós procuramos informar nosso fornecedor de matéria -prima, por exemplo, mas essa informação não posso garantir que seja precisa, porque ela pode já ter vindo viciada dos elos que estão à minha frente, é um grande círculo vicioso, entende?
+Tipo telefone sem fio (risada ).
+Eu acredito que falta IC nas empresas que E&G Economia e Gestão , Belo Horizonte, v. 18, n. 49, Jan./Abr.
+2018 35 atuam no mercado orgânico, não sei se é falta de investimento ou qual motivo, mas falta esta gestão mais estratégica das informações, dados, resul tados e conhecimento do cenário em que nosso produto está inserido.
+De nossa parte as informações são compartilhadas de forma adequada, eu acho, o problema é que, falando em cadeia produtiva, dependemos de uma informação mais ampla, mas clara e que tenha uma visão do todo do mercado e não simplesmente da visão dentro da porteira .
+falta esta perspectiva para o agronegócio orgânico, ao contrário do tradicional, que também sofre com problemas semelhantes, o conhecimento adquirido não é transmitido , ou seja, a empresa esquece que sobrevive pela sua cadeia e não de forma individual e sozinha.
+O agronegócio, como o orgânico também, depende das informações obtidas antes da porteira, dentro da porteira e, principalmente, fora da porteira.
+O mercado vare jista é nosso termômetro e a partir dele temos dados do mercado consumidor.
+as informações disponíveis ao longo da cadeia são precisas, talvez a troca destas mesmas informações seja algo a se corrigir, faltam ferramentas estratégicas que contribuam n a configuração destas informações e constitua conhecimento compartilhado ao longo da cadeia.
+De acordo com os relatos dos entrevistados E1 e E2 , pode -se perceber que ocorre uma troca de informações com os fornecedores e clientes, apesar da dificuldade apr esentada por alguns fornecedores do interior do estado, e esta troca é eficiente visto que é utilizada principalmente no planejamento das demandas.
+No ca so do entrevistado E1 há uma comunicação colaborativa entre as empresas, pois os fornecedores de médio e grande porte buscam informações sobre o consumo, validade, aceitação dos produtos no ponto de venda (comércio varejista).
+A partir das informações são planejadas ações estratégicas, inclusive de promoção.
+Os trechos das entrevistas com os entrevistados E3 e E4 demonstram que a ponta da cadeia (o elo produtivo) acaba sofrendo com a falta de informações ou informações imprecisas disponibilizadas pelos elo s mais próximos do consumidor final.
+Essa eventual imprecisão nas informações compartilhadas ao longo da cadeia de suprimentos, pode causar distorções entre a demanda do produto e a quantidade produzida (efeito chicote).
+CAT 2: Confiabilidade e flexibiliza ção do processo de entrega e gestão de estoque Entregar o produto no local e no prazo certo.
+Uma empresa pode ser competitiva baseando na confiabilidade da entrega, mesmo não apresentando a melhor qualidade e o menor custo (WARD et al.
+Para Slack (2009), confiabilidade pode ser entendida como um conjunto de informações dentro do planejamento que evita despesas indiretas com atrasos.
+(1998), tornar o sistema de fornecimento mais confiável permite à organização identificar falhas no conhecimento e confiabilidade do sistema organizacional.
+(2000) aborta a questão da confiabilidade na entrega como serviço, ou seja, a velocidade na entrega da mercadoria dentro de um intervalo de tempo aceitável.
+A flexibilidade está ligada à capacidade de variar do desenvolvimento de novos produtos e serviços que atendam os mais diversos tipos de mercado, ou seja, traçar um planejamento que acompanhe as flutuações de demanda (DORNIER et al.
+Nesse sentido, destacam -se os s eguintes trechos das entrevistas: Nas distribuidoras que a gente costuma comprar aqui no ES que a gente não precisa fazer compra grande, a gente compra semanalmente e quinzenalmente e sempre entregam certo e no prazo.
+Nas outras empresas a gente faz compra uma vez por mês por que temos que pagar frete, então a gente espera juntar um pedido grande e manda, mas sempre podemos contar com as entregas no dia correto.
+E&G Economia e Gestão , Belo Horizonte, v. 18, n. 49, Jan./Abr.
+2018 36 Só tem atraso na entrega quando tem problema com o clima.
+As vezes não vem algum produto que peço, mas é muito difícil porque já sabemos a época das frutas e verduras e tenho mais que um fornecedor, para não ficar na mão caso algo falhe.
+Não vejo esta estabilidade nas entregas quando se trata de produtos orgânicos (risada).
+Como falta informação, a produção não é estável, constante e adequada à demanda do mercado .
+A agricultura orgânica sofre com a falta de informação, portanto muitas vezes temos produtos demais e não vendemos tudo e, na maioria das vezes, produzimos pouco, com medo do estoque desnecessário, e falta produto no mercado.
+Devido a isso precisamos, de forma constante, recalcular a produção, distribuição e vendas, fica difícil traçar uma estratégia a longo prazo de produção, precificação e vendas de produtos .
+nossa empresa, talvez devido ao porte, não tem problema com fornecimento de matéria -prima, conseguimos utilizá -la de forma inteligente ao longo da produção de nossa safra.
+o estoque é algo complicado para a agricultura orgânica.
+Nossos produto s já são perecíveis e, além disso, orgânicos, não possuem drogas químicas que mantém e protegem o produto por mais tempo do que o seu natural.
+A distorção entre a real demanda por produtos orgânicos e a produção gera estoque ao lon go da cadeia de suprimentos levando a custos mais altos.
+O produto orgânico pode custar, em média, 40% a mais que o produto tradicional, grande parte deste custo se dá na transação do produto e não simplesmente na questão da produção orgânica que realmente é mais cara e perde -se mais produto.
+A distribuição de produtos de origem agrícola no Brasil não é adequada.
+O transporte é ruim, perde -se muito produto, os tempos de entrega são desastrosos, a comunicação entre as empresas não é adequada o que pre judica todo o setor de produtos orgânicos.
+É difícil pensar em uma distribuição constante, seria o ideal até para uma plataforma de planejamento mais estratégica, mas infelizmente, isso está um pouco distante de nossa realidade.
+O custo do nosso produto, q ue já é alto devido a produção, pode subir muito mais devido às questões de distribuição .
+A cadeia como um todo perde muito produto parado que não é absorvido pelo mercado.
+Precisaríamos de uma ferramenta estratégica que fornecesse o conhecimento adequado para todas as empresas da cadeia equilibrarem suas produções, distribuições e vendas de produtos orgânicos, evitando assim essa distorção entre produção e venda final e contribuindo para uma sutil redução de preço final d produto orgânico o que potencializ aria o setor como um todo.
+Quanto ao processo de entrega e gestão de estoque os entrevistados E1 e E2 informaram que não possuem problemas.
+O processo é confiável, há o cumprimento dos prazos, ocorre um planejamento baseado nas demandas, estoque e p razo de entregas.
+Para garantir o produto ao consumidor final os empresários buscam além do planejamento do estoque, a parceria com mais de um fornecedor, o que garante a confiabilidade e flexibilidade no processo.
+A partir das entrevistas de E3 e E4 é po ssível observar que as organizações agroindustriais estão sofrendo com a falta de informação ao longo da cadeia de suprimentos.
+Esta falha está afetando as estratégias de produção, distribuição e vendas de produtos orgânicos.
+O trecho destacado da entrevis ta com E4 deixa claro que falta uma ferramenta estratégica mais efetiva na gestão da cadeia de suprimentos de produtos orgânicos.
+Entende -se que a prática e desenvolvimento da IC podem contribuir para o controle dos estoques e redução de custo ao longo da cadeia de suprimentos dos produtos de origem orgânica, além de minimizar as distorções entre demanda e produção.
+E&G Economia e Gestão , Belo Horizonte, v. 18, n. 49, Jan./Abr.
+2018 37 CAT 3: Fontes a inteligência competitiva na cadeia de suprimentos Para se alcançar (e sustentar) vantagem competitiva, a s organizações contemporâneas precisam buscar e reunir informação e conhecimento .
+Essas ferramentas estratégicas são resultados d o desenvolvimento das atividades dos indivíduos dentro da empresa .
+A gestão do conhecimento além de auxiliar a organização em seu desempenho, também, auxilia o processo de intelig ência competitiva subsidiando a geração de ideias, solucionando problemas e a tomada de decisão (SILVA, 2007).
+Os seguintes trechos de entrevistas corroboram para a formação des sa categoria.
+e m uma cadeia de supr imento agroalimentar não há como reunir conhecimento e informações precisas se não houver uma descentralização de interesse e poderes, as empresas, principalmente as grandes redes de distribuição, devem começar a pensar no todo, na cadeia como um todo e nã o somente nos seus interesses.
+Esta postura individual contribui para que a informação não seja disponibilizada da maneira adequada ou de forma completa [.].
+Pouco se fala em IC em nossa empresa, talvez essa seja a perna que falta para corrigir falhas de produção e distribuição de produtos orgânicos.
+uma saída adequada, talvez, seja a busca por essa capacidade profissional fora da empresa em um primeiro momento, talvez a partir de consultoria.
+As informações reunidas pela nossa empresa se dão pela soma da informação disponibilizada pelos parceiros, nem sempre completa e precisa, e a informação que nós mesmos buscamos, através de instituições de pesquisa e desenvolvimento, tais como EMBRAPA , MAPA e etc.
+Entendo que a IC precisa ser desenvolvida na cadeia e nas próprias empresas participantes da cadeia.
+Não é fácil encontrar ou determinar qual seria o perfil ideal para essa atividade.
+esse profissional precisa ser competente para entender o mercado .
+A união da informação com o conhecimento formando a base para a inteligência competitiva e por consequência a vantagem competitiva, é trabalhada muito mais pelo entrevistado E1, principalmente em relação à pesquisa e busca de informações e sua aplicabilidade nas estratégias da empresa com clientes e fornecedores.
+O entrevistado E2 se preocupa apenas com manter os funcionários informados.
+É possível observar, por meio dos trechos das entrevistas de E3 e E4 que as organizações agroindustria is orgânicas não conhecem muito bem o conceito de IC, muitas vezes ela é confundida com conceitos próximos tais como inteligência de mercado ou estratégica.
+De qualquer forma, é possível deduzir que práticas de IC contribuiriam com o desenvolvimento da agr icultura orgânica como um todo.
+Os problemas de abastecimento prejudicam mercado e todas as empresas envolvidas na produção, distribuição, promoção e venda de produtos orgânicos.
+CAT4: Importância do capital humano envolvido Ressalta -se, que para formatar inteligência competitiva a organização precisa do capital humano.
+Para Valentim (2002), as pessoas são consideradas ativos importantes, uma vez que compartilham conhecimento individual que ao ser difundido na empresa, traz benefícios importantes e resulta em mais competência e desempenho organizacional.
+A formação des sa categoria baseia -se em alguns posicionamentos dos entrevistados, como por exemplo : As pessoas chegam aqui com muitas dúvidas, o que é glúten, etc.
+e nós temos que esclarecer, meus funcionários são treinados para isso também.
+Tem coisa que eu compro sem saber o que é, para ler, estudar, pesquisar, então aqui tem que fazer sempre o trabalho explicativo.
+O cliente olhou então a gente recomenda para estar próximo e explicar sobre o produto, porque tem gente que não pergunta, então temos E&G Economia e Gestão , Belo Horizonte, v. 18, n. 49, Jan./Abr.
+Aqui a gente tem sempre novidade.
+Como eu fiz nutrição, não terminei, mas conheço um pouco, eu explico sempre aos funcionários.
+Minha funcionária participa de todos os processos da loja então ela conhece os produtos, os fornecedores, tudo.
+Eu valorizo isso, porque temos que conhecer o negócio, os produtos e o mercado para trabalhar melhor.
+Na minha opinião, e posso estar errado, falta pessoal competente e preparado para trabalhar com a questão da IC em sua empresa e refletir essa visão estratégica para a cadeia de suprimentos.
+(E3) Segundo Bardin (2011), após a etapa de categorização, parte -se para a etapa final da análise de conteúdo, que é a discussão dos resultados, apresentada a seguir.
+5.3 Discussão dos resultados São muitas os estudos sobre efeito chicote ( bullwhip effect ) na cadeia de suprimentos, as mais antigas datando do meio do século passado.
+Forrester (1958) detectou uma distorção da percepção de demanda causada por falta de visibilidade, falha na informação compartilhada e gestão dos níveis de estoque ineficiente, tendo sido o precursor da pesquisa neste campo do conhecimento organizacional.
+O efeito chicote na cadeia de suprimentos se caracteriza a partir do momento em que as ordens de compra dos vendedores para os seus fornecedores tendem a ter uma variação maior do que a demanda do consumidor que iniciou o processo (WARBURTON, 2004) .
+Entretanto o compartilhamento das in formações entre os agentes na cadeia de suprimentos de orgânicos minimizam as distorções causadas pelo efeito chicote.
+Aspectos importantes são descobertos através da comunicaç ão colaborativa eficiente que auxiliam na previsão de demanda, gerenciamento efi ciente dos estoques , eliminação do desperdício e atendimento ao cliente final .
+Os entrevistados evidenciaram a importância das informações na cadeia de orgânicos e seu papel na inteligência competitiva da empresa, formando a base das estratégias utilizad as por eles.
+Observou -se que, quando ocorre o compartilhamento das informações ao longo da cadeia, são formuladas estratégias que buscam contribuir para o controle do efeito chicote .
+Neste processo, a inteligência competitiva é componente fundamental , pois busca o monitoramento de informações do macro ambiente que possibilitam o processo de aprendizagem contínuo e o diferencial competitivo (GARCIA, 1997).
+Ressalta -se que nessa cadeia produtiva existem pequenos produtores de frutas, verduras e legumes orgâ nicos que não possuem acesso , ou que possuem acesso restrito , à tecnologia da informação e que por isso a informação necessária para reduzir ou eliminar o efeito chicote fica comprometida, sobretudo aos varejistas envolvidos na cadeia, conforme identificad o nas entrevistas realizadas para esta pesquisa.
+Para os entrevistados o papel da informação na inteligência competitiva é fundamental, pois através dele empresas ganham suporte às estratégias empresariais.
+Tratar as informações reduz custos operacionais e controle de estoque (COHEN, 2002).
+Vale destacar que apesar de alguns entrevistados não utilizarem tecnologia da informação no monitoramento das informações, reconhecem a importância da mesma no processo de inteligência competitiva e estratégia empresar ial e seus impactos na minimização dos efeitos na cadeia de suprimentos e na geração de valor das atividades (PORTER; MILLAR, 1985) .
+A aplicação da inteligência competitiva nas atividades das empresas proporcionaria efeitos positivos no desempenho da cad eia produtiva como um todo.
+Podemos perceber nas E&G Economia e Gestão , Belo Horizonte, v. 18, n. 49, Jan./Abr.
+2018 39 falas dos entrevistados o quanto o mercado é carente de estratégias voltadas para informação, planejamento de produção e de entregas e comunicação eficiente.
+A gestão eficiente da cadeia de suprimentos supor tada por informações confiáveis reduziria os impactos do efeito chicote gerando competitividade, seja através dos custos ou do diferencial dos produtos.
+Ainda que os entrevistados não saibam efetivamente definir suas práticas como sendo práticas de IC, sua aplicação na cadeia de suprimentos possibilita o gerenciamento do fluxo de informações e da geração de valor proporcionada pelo relacionamento com clien tes e fornecedores , implicando em novas práticas para a definição dos negócios, estruturação da organização e da gerência e na busca de produtividade (COHEN, 2002).
+6 CONCLUS ÕES O crescente aquecimento do mercado sustentável tem atraído um número cada vez maior de produtores rurais, transformadores, processadores e distribuidores, a fim de atender da melhor maneira a demanda do consumidor por produtos orgânicos, desenvolvendo novas estratégias e estrutura de abastecimento buscando satisfazer essas expec tativas geradas (NEVES et al., 2015).
+Neste cenário , o produtor agroalimentar orgânico precisa controlar, ao mesmo tempo, os aspectos técnicos, econômicos, mercadológicos, sociais, financeiros, políticos, legais e ambientais dentro de seu negócio (VILCKAS; NANTES, 2007).
+Segundo esses autores, um problema muito comum na produção rural, inclusive na produção agrícola orgânica, é a distância entre os agentes da cadeia produtiva, o que dificulta a gestão da empresa rural como um todo e os negócios relacionado s à mesma.
+O tema cadeia de suprimentos agroindustrial tem sido foco principal em diversas pesquisas, isto porque a melhoria na gestão desta acaba resultando um aperfeiçoamento em todos os seus elos (BRONZERI, 2010).
+Levando -se em conta estes aspectos , o objetivo geral deste estudo foi verificar de que forma a inteligência competitiva é usada para a reduç ão do efeito chicote na cadeia de suprimentos de frutas orgânic as.
+Os objetivos específicos foram: (a) identificar resultados da IC no efeito chicote na cadeia de suprimentos de frutas orgânica s; (b) identificar possíveis fontes utilizadas para IC na cadeia de suprimentos de frutas orgânica s. Foi realiza da uma pesquisa empírica do tipo descritiva , de natureza qualitativa com a participação de quatro entrevistados (executivos) de quatro organizações integrantes da cadeia de suprimentos de frutas orgânica s. Durante a pesquisa, buscou -se compreender e relacionar os conceitos de inteligência competitiva com o controle do efeito chicot e na cadeia de suprimentos de frutas orgânica s. Os objetivos foram alcançado s visto que foram detectadas práticas de inteligência competitiva nas empresas pesquisadas e os resultados que estas práticas têm no efeito chicote na cadeia de suprimentos de orgânicos.
+Foi observado que, mesmo levando -se em conta a dificuldade na comunic ação entre membros da cadeia, as empresas que se utilizaram das informações obtidas com fornecedores e clientes para a formulação de suas estratégias , conseguiram resultados positivos, no que tange o gerenciamento de estoques, redução de custos e entrega d o produto ao consumidor final.
+Esta pesquisa contribui para o desenvolvimento de estratégias de gestão de cadeia de suprimentos para o setor de produtos orgânicos.
+Este artigo procurou enriquecer o entendimento, alargando as fronteiras do conhecimento sob re efeito chicote e inteligência competitiva dentro da gestão da cadeia de suprimentos da agroindústria orgânica.
+Além disso, pode ampliar as discussões e debates sobre o desenvolvimento distribuição de produtos relacionados à agricultura orgânica.
+E&G Economia e Gestão , Belo Horizonte, v. 18, n. 49, Jan./Abr.
+2018 40 Os resu ltados deste estudo forneceram indícios relevantes que podem ser utilizados para avaliar o comportamento e o controle do efeito chicote na cadeia de suprimentos de produtos de origem orgânica frente às informações e o conhecimento compartilhados pelas organizações parceiras .
+Além disso, pode ajudar na compreensão dos benefícios advindos da evolução gestão de empresas produtoras de orgânicos, visando a um melhor desempenho de negócios para o setor.
+O uso de ferramentas de IC , tais como a tecnologia da i nformação, o compartilhamento de informações, a inteligência coletiva e informações do ambiente externo podem contribuir no controle do efeito chicote.
+Estas ferramenta s devem estar alinhada s com as estratégias das empresas e de toda cadeia de suprimentos de frutas orgânica s. É importante registrar que o problema do efeito chicote não será sanado ou minimizado com uma ação única e isolada .
+O resultado positivo deste processo só será alcançado por meio do desenvolvimento de competências por parte de todos participantes da cadeia de frutas orgânica s. Todos os elos desta cadeia devem estar comprometidos em compartilhar informações, dispostos a gerenciar e serem gerenciados, dentro do conceito de SCM.
+Segundo Denzin e Lincoln (2006), o método qualitativo consiste em destacar as qualidades das entidades e os processos, bem como os significados, que não são examinados ou medidos experimentalmente com relação à quantidade, volume, intensidade ou frequência.
+Por conseguinte, não analisa as relações causais entre variáveis e nem conta com modelos matemáticos ou tabelas estatísticas para a pesquisa.
+Para prosseguimento do estudo são feitas as seguintes sugestões : (a) uma análise da influência da inteligência competitiva sobre o desempenho operacional na cadeia produtiva de produtos agroalimentares o rgânicos; (b) realizar uma pesquisa de concepção longitudinal, permitindo, assim, verificar se o resultado obtido é causa ou efeito de determinado fatores, de orige m interna ou externa.
+E&G Economia e Gestão , Belo Horizonte, v. 18, n. 49, Jan./Abr.
+2018 41 REFERÊNCIAS ABINAJM FILHO , J.; FARIA , A. C.; SILVEIRA , M. A. P. E feito chicote na indústria automotiva brasileira .
+In: Anais do XV Simpósio de Administração da Produção, Logística e Operações Internacionais (SIMPOI) , São Paulo: FGV, 2012.
+BARDIN, L. Análise de conteúdo .
+BRODY, R. Issues in defining competitive intelligence: an exploration .
+Journal of Competitive Intelligence and Management, v. 4, n. 3, p. 3 -16, 2008.
+BRONZERI, M. S. Estratégias na cadeia produtiva do café: uma análise de empresas e produtores do norte pioneiro do Paraná.
+In: Anais do XIII Simpósio de Administração da Produção, Logística e Operações Internacionais (SIMPOI ), São Paulo: FGV, 2010.
+CASTRO, J. M. DE; ABREU, P. G. F .
+Influência da inteligência competitiva em processos decisórios no ciclo de vida das organizações.
+Ciência da Informação , Brasília, v. 35, n. 3, p. 15-29, set./dez.
+COHEN, M. F. Alguns aspectos do uso da informação na economia da informação.
+Ciência da Informação , Brasília, v. 31, n. 3, p. 26 -36, set./dez.
+COELHO, L. C.; FOLLMANN, N.; RODRIGUEZ, C. M. T. O impacto do compartilhamento de informações na redução do efeito chicote na cadeia de abastecimento .
+Gest ão & Produção , São Carlos, v. 16, n. 4, p. 571 -583, 2009.
+COTI -ZELATI, P. E.; MOORI, R. G. O papel da colaboração no desempenho da gestão da cadeia de suprimentos: um estudo sobre o café orgânico .
+Organizações Rurais & Agroindustriais , Lavras, v. 17, n. 2, p. 195 -208, 2015, DAI, H.; LI, J.; YAN, N.; ZHOU, W. Bullwhip effect and supply chain costs with low -and high-quality information on inventory shrinkage.
+European Journal of Operational Research , v. 250, n. 2, p.457 -469, 2016.
+DAROLT, M. R. Agricultura orgânica.
+Instituto Agronômico do Paraná (IAPAR ), Curitiba, 2010.
+S. O planejamento da pesquisa qualitativa: teorias e abordagens.
+Logística e operações globais : textos e casos.
+FLORES, J. F. Análisis de dados cualitativos : aplicaciones a la investigación educativa.
+Harvard Business Rev iew, Boston, n. 36, p. 37 -52, jul./ago.
+E&G Economia e Gestão , Belo Horizonte, v. 18, n. 49, Jan./Abr.
+2018 42 FREITAS, L. M.; DINIZ, A. C. M.; LEITE, M. S. A.; VILLAR, A. M. O s reflexos do efeito chicote nos custos logísticos de estoque: o caso de uma empresa componente da cadeia de suprimento de bebidas .
+Revista Produção Online , Florianópolis, v. 10, n. 2, p. 342 -367, 2010.
+GARCIA, T. D. Seminário de inteligência c ompetitiva : informação e conhecimento.
+A.; ABRAHÃO, R. F. Ergonomia e complexidade: o trabalho do gestor na agricultura o rgânica na região de Campinas –SP.
+Revista Ciência Rural , Santa Maria, v. 40, n. 2, p. 318 -324, 2010.
+GIL, A. C. Métodos e técnicas de pesquisa social .
+GODOI, C. K.; BALSINI, C. P. V. A pesquisa qualitativa nos estudos organizacionais brasileiros: uma análise bibliométrica.
+In: GODOI, C. K.; BANDEIRA -DE-MELLO, R.; SILVA; A.
+B. Pesquisa qualitativa em estudos organizacionais : paradigmas, estratégias e méto dos.
+GARCIA -ALSINA, M.; COBARSÍ -MORALES, J.; ORTOLL, E. Competitive intelligence theoretical framework and practices: the case of Spanish universities.
+Aslib Journal of Information Management , v. 68, n. 1, p. 57 -75, 2016.
+GONÇALVES, L. C.; GIORDANO, C. V. Impactos do efeito chicote na cadeia de suprimentos da indústria de alimentos paulista.
+Revista Científica Hermes , Osasco, v. 11, p. 67-82, 2014.
+HARLAND, C. M. Supply chain management: relationships, chain and networks.
+British Journal of Management , v. 7, p. 63 -80, 1996.
+Instituto Universal de Marketing em Agribusiness.
+Mercado orgânico brasileiro fatura R$ 1,5 bilhão em 2012, apresentando crescimento .
+Disponível em: < -organico-brasileiro -fatura -r-15-bilhao -em-2012apresentando -crescimento/>.
+Instituto de Desenvolvimento Sustentável e Energias Renováveis .
+Disponível em: < Acesso em: 2 abr .
+International Federation of Organic Agriculture Movements.
+The world of organic agriculture : s tatistics & emerging trends 2012.
+Industrial dynamics: a major breakthrough for decision makers.
+Harvard Business Review , v. 36, p. 37 -66, jul./ago.
+The supply -chain management effect.
+MIT Sloan Management Review , v. 44, n. 3, p. 27 -34, 2 003.
+LEE, H; PADMANABHAN, V; WHANG, S. The bullwhip effect in supply c hain.
+MIT Sloan Management Review , Cambridge, v. 38, n. 3, p. 93 -102, 1997.
+E&G Economia e Gestão , Belo Horizonte, v. 18, n. 49, Jan./Abr.
+2018 43 LI, S.; RAGU -NATHAN, B. RAGU -NATHAM, T. S. RAO, S. S. The impact of supply chain management practices on competitive advantage and organizational performance.
+Omega , v. 34, n. 2, p. 107 -124, 2006.
+B. Qualitative research in practice : examples for discussion and analysis.
+San Francisco: Jossey -Bass, 2002.
+; COTI -ZELATI, P. E.; ARAÚJO, D. L. A.
+The role of innovation in the competitiveness of Brazilian organic products .
+Independent Journal of Management & Production , Jacar eí, v. 6, n. 3, p. 758 -772, 2015.
+MOORI, R. G.; PERERA, L. C. J.; MANGINI, E. R. U ma análise investigativa do efeito chicote na cadeia de suprimentos da indústria alimentícia .
+Revista de Gestão , São Paulo, v. 18, n. 3, p. 469 -488, 2011.
+NEVES, M. F.; CASTRO, L. T. E. ; KALAKI, R. B. ; ANTOLINI, L. S. ; SCARE, R. F. A strategic plan proposal for private interest associations (PIA): the Case of Orplana.
+Business Management Review , v. 4, n. 12, p. 370 -379, 2015.
+ORMOND, J. G. P.; de PAULA, S. R. L.; FAVERET FILHO, P.; ROCHA, L. T. M. Agricultura Orgânica: Quando o Passado é Futuro.
+BNDES Setorial , Rio de Janeiro, n. 15, p. 3-34, mar.
+Strategic buyer -supplier relationships, information technology and external logistics integration.
+Journal of Supply Chain Management , v. 48, n. 2, p. 214, 2007.
+Posição do Brasil no mercado de alimentos orgânicos .
+E. How information gives you competitive advantage.
+Harvard Business Review , v. 63, n. 4, p. 149 -160, jul./ago.
+REGINATO, C. E. R.; GRACIOLI, O. D. Gerenciamento estratégico da informação por meio da utilização da inteligência competiti va e da gestão do conhecimento: um estudo aplicado à indústria moveleira do RS.
+Gestão da Produção , São Carlos, v. 19, n. 4, p. 705 -716, 2012.
+J. Pesquisa social : métodos e técnicas.
+SAMBIASE, M. F.; MOORI, R. G.; SATO, G. S. Um estudo exploratório dos fatores relevantes na decisão de compra de produtos orgânicos .
+Revista de Administração Mackenzie , São Paulo, v. 5, n. 1, p. 13 -34, 2004.
+Serviço Brasileiro de Apoio à Micro e Pequena Empresa .
+Disponível em: <http:// www.sebrae.com.br>.
+E&G Economia e Gestão , Belo Horizonte, v. 18, n. 49, Jan./Abr.
+2018 44 SELES, B. M. R. P.; JABBOUR, A.
+B. L. S.; JABBOUR, C. J. C.; DANGELICO, R. M. The green bullwhip effect, the diffusion of green supply chain practices, and institutional pressures: Evidence from the automotive sector .
+International Journal of Production Economics , v. 182, p. 342 -355, 2016.
+SILVA, H. M. Gestão do conhecimento e inteligência competitiva em organizações: uma abordagem conceitual.
+Revista de Iniciação Científica da FFC , Marília, v. 7, n. 1, p. 84 -93, 2007.
+SILVA, R. B. P ercepções dos varejistas da cadeia de suprimentos da indústria farmacêutica em relação ao efeito chicote ( EC): uma abordagem qualitativa .
+Desafio Online , Campo Grande, v. 5, n. 3, p. 330 -350, set./dez.
+SIMCHI -LEVI, D.; KAMINSKY, P.; SIMCHI -LEVI , E. Cadeira de sup rimentos : projeto e gestão .
+Porto Alegre: Bookman, 2010 SLACK, N .
+England: Management Books 2000 Ltd, 2009.
+SMOLINSKI, R.; GUERREIRO, E.; RAIHER, A. P. Análise do mercado de produtos orgânicos: estudo de caso de feira em Ponta Grossa, PR .
+Desenvolvimento e Meio Ambiente , Curitiba, v .
+C. M. Aspectos institu cionais do sistema agroindustrial de produtos orgânicos.
+Revista Informações Econômicas , São Paulo, SP, v. 33, n. 3, 2003.
+SOUZA, A. P. O.; ALCÂNTARA, R. L. C. Alimentos orgânicos: estratégias para o desenvolvimento do mercado.
+In: NEVES, M. F.; CASTRO, L. T.
+Marketing e estratégia em agronegócios e alimentos .
+SQUIRE, B.; COUSINS, P. D.; LAWSON, B.; BROWN, S. Benefiting from suppliers capabilities: empirical evidence for the extended resource -based -view of the firm.
+International Journal of Operations and Production Management , v. 29, n. 8, p. 766 -788, 2009.
+SVENSSON, G. The multiple facets of the bullwhip effect: refined and re -defined.
+International Journal of Physical Distribution & Logistics Manag ement , n. 35, n. 10, p. 762-777, 2005.
+Inteligência, informação e conhecimento .
+TEIXEIRA, T. M. C; VALENTIM, M. L. P. Inteligência competitiva organizacional: um estudo teórico.
+Perspectivas em Gestão & Conhecimento , João Pessoa, v. 6, número especial, p. 3 -15, jan. 2016.
+VALENTIM, M. L. P. Inteligência competitiva em organizações: dado, informação e conhecimento.
+DataGramaZero , Rio de Janeiro, v. 3, n. 4, p. 1-13, ago.
+VIDIGAL, F.; NASSIF, M. E. I nteligência competitiva: metodologias aplicadas em empresas brasileiras .
+Informação & Informação , Londrina, v. 17 n. 1, p. 93 -119, 2012 .
+E&G Economia e Gestão , Belo Horizonte, v. 18, n. 49, Jan./Abr.
+2018 45 VILCKAS, M.; NANTES, J. F. D. Agregação de valore: uma alternativa para a expansão do mercado de alimentos orgânicos.
+Revista Organizações Rurais e Agroindustriais , Lavras, v. 9, n. 1, p. 26 -37, 2007.
+WANG, X.; DISNEY, S. M. The bullwhip effect: progress, trends and directions.
+European Journal of Operational Research , v. 250, n. 3, p. 691 -701, 2016.
+WANG, Z.; WANG, X.; OUYANG, Y. Bounded growth of the bullwhip effect under a class of nonlinear ordering policies.
+European Journal of Operational Research , v. 247, n. 1, p.72-82, nov. 2015.
+WARBURTON, R. D. H. An analytical investigation of the bullwhip effect.
+Production and Operations Management , v. 13, n. 2, p. 150 -160, 2004.
+WARD, P. T.; McCREERY, J. K.; RITZMAN, L. P.; SHARMA, D. Competitive priorities in operations management.
+Decision Sciences , v. 29, n. 4, p. 1035 -1045, 1998.
+Agricultura orgânica: entre a ética e o mercado?
+Revista Agroecologia e Desenvolvimen to Rural Sustentável , Porto Alegre, v. 2, n. 1, 2001.
+System dynamics of supply chain network organization structure.
+Information System and e -Business Management , v. 2, n. 2, p. 187 -206, 2004.

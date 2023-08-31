@@ -1,0 +1,354 @@
+UNIVERSIDADE FEDERAL DE SANT A CATARINA CAMPUS ARARANGUÁ CENTRO DE CIÊNCIAS, TECNOLOGIAS E SAÚDE DEPARTAMENT O DE ENERGIA E SUSTENT ABILIDADE CURSO DE GRADUAÇÃO EM ENGENHARIA DE ENERGIA Pedro Henrique Passos Catini CENTRO DE INOV AÇÃO EM ARARANGUÁ: ANÁLISE ESTRA TÉGICA E PERSPECTIV AS P ARA O SET OR DE ENERGIA Araranguá 2021Pedro Henrique Passos Catini CENTRO DE INOV AÇÃO EM ARARANGUÁ: ANÁLISE ESTRA TÉGICA E PERSPECTIV AS P ARA O SET OR DE ENERGIA Trabalho Conclusão do Curso de Graduação em Engenharia de Energia do Centro de Energia e Sustentabilidade da Universidade Federal de Santa Catarina como requisito para a obtenção do título de Bacharel em Engenharia de Ener gia.
+Orientador: Prof. Kátia Cilene Rodrigues Madruga, Dra.
+Araranguá 2021Pedro Henrique Passos Catini CENTRO DE INOV AÇÃO EM ARARANGUÁ: ANÁLISE ESTRA TÉGICA E PERSPECTIV AS P ARA O SET OR DE ENERGIA O presente Trabalho de Conclusão de Curso, do Curso de Engenharia de Ener gia, foi avaliado e aprovado pela banca examinadora composta pelos seguintes membros: Kátia Cilene Rodrigues Madruga, Dra.
+Universidade Federal de Santa Catarina Leonardo Elizeire Bremermann, Dr .
+Universidade Federal de Santa Catarina Paulo César Leite Esteves, Dr .
+Universidade Federal de Santa Catarina Marcos Roberto Lopomo, Ms. Agência Reguladora de Serviços Públicos do Estado de São Paulo (ARSESP) Certificamos que essa é a versão original e final do trabalho que foi julgado adequado para obtenção do título de Engenheiro/a de Ener gia.
+Luciano Lopes Pfitscher , Dr. Coordenador do Curso Kátia Cilene Rodrigues Madruga, Dra.
+Orientador ou Coorientador Pedro Henrique Passos Catini Autor Araranguá, 21 de Setembro de 2021.CENTRO DE INOV AÇÃO EM ARARANGUÁ: ANÁLISE ESTRA TÉGICA E PERSPECTIV AS P ARA O SET OR DE ENERGIA INNOV ATION CENTER IN ARARANGUÁ: STRA TEGIC ANAL YSIS AND PERSPECTIVES FOR THE ENERGY SECT OR Pedro Henrique Passos Catini RESUMO A renovação e o desenvolvimento de uma economia dependem da inovação, que muito se relaciona com novos empreendimentos e Startups.
+A partir do modelo da Tríplice Hélice, que é baseado nas ações conjuntas de seus atores (governo, empresas e universidades), pode-se criar um ambiente fértil para o desenvolvimento de Centros de Inovação Regionais que têm sido implementados no Estado de Santa Catarina.
+No município de Araranguá um desses Centros está em fase inicial de implantação.
+Um dos setores que apresenta potencial para soluções e novos modelos de negócios é o de energia.
+Nesse contexto, o objetivo deste trabalho foi realizar uma análise estratégica e discutir perspectivas para o setor de energia, considerando a implantação do centro de inovação em Araranguá.
+O método utilizado foi a pesquisa descritiva.
+Os dados para análise foram coletados em plataformas abertas e documentos públicos.
+Entre os principais resultados destaca-se que o município de Araranguá possui um número crescente de estudantes no nível superior e que atualmente existe uma densidade superior de capital intelectual nas Universidades em relação ao número das média e grande empresas, quando comparado com Florianópolis que é uma referência em Ecossistema de Inovação.
+Além disso, o Centro de Inovação no município já possui os agentes do Modelo Tríplice Hélice engajados e ativos.
+Conclui-se que o município de Araranguá demonstra ter capacidades para desenvolver Startups de Energia, e o Centro de Inovação pode contribuir nesse sentido.
+Palavras-chave: Startups, Centro de Inovação, Tríplice Hélice, Tecnologia e Energia.
+ABSTRACT The renewal and development of an economy depends on innovation, which is closely related to new ventures and startups.
+From the Triple Helix model, which is based on the joint actions of its actors (government, companies and universities), it is possible to create a fertile environment for the development of Regional Innovation Centers that have been implemented in the State of Santa Catarina.
+In the municipality of Araranguá one of these centers is in the initial phase of implementation.
+One of the sectors that presents potential for solutions and new business models is the energy sector.
+In this context, the objective of this work was to carry out a strategic analysis and discuss perspectives for the energy sector, considering the implementation of the innovation center in Araranguá.
+The method used was descriptive research.
+Data for analysis were collected from open platforms and public documents.
+Among the main results, it is highlighted that the municipality of Araranguá has a growing number of students in higher education and that currently there is a higher density of intellectual capital in universities compared to the number of medium and large companies, when compared to Florianópolis, which is a reference in Innovation Ecosystem.
+In addition, the Innovation Center in the municipality already has the agents of the Triple Helix Model engaged and active.
+It is concluded that the municipality of Araranguá demonstrates that it has the capacity to develop Energy Startups, and the Innovation Center can contribute in this regard.
+Keywords: Startups, Innovation Center, Triple Helix, Technology and Energy.1 INTRODUÇÃO .
+A importância da inovação tecnológica tem sido percebida como irrefutável para o aumento da competitividade no cenário regional, nacional e internacional.
+Todavia, a inovação precisa respeitar os limites e recursos do planeta, principalmente no cenário atual, de redução de recursos e mudanças climáticas.
+Isso significa buscar soluções operacionais otimizadas, síncronas com a complexidade do mundo moderno.
+Nesse sentido, um dos argumentos que têm sido construído no meio acadêmico é que uma forma de promover o desenvolvimento de inovações tecnológicas é a cooperação entre a universidade e a empresa.
+Nesse viés surgem os Ecossistemas de Inovação bem como o Centro de Inovação que permite uma conexão organizada entre empresas, instituições de ensino e governo, modelo conhecido como modelo Tríplice Hélice.
+Esse pode ser definido por uma organização em que a universidade/academia, a indústria e o governo, como esferas institucionais primárias, interagem para promover o desenvolvimento por meio da inovação e do empreendedorismo.
+No processo de interação novas instituições secundárias, que podem ser Startups, são formadas conforme a demanda.
+No entanto, a dinâmica para desenvolver uma Tríplice Hélice regional provém de "organizadores regionais de inovação" e "iniciadores regionais de inovação" (ETZKOWITZ, 2017; ROSENLUND et al, 2017).
+Sobre as Startups cabe salientar que essas desenvolvem modelos de negócio com grande risco de insucesso.
+Estudos indicam que 25% das Startups sobrevivem até um ano de vida, enquanto 50% delas mantêm as atividades apenas por até quatro anos e 75% finalizam suas operações em até treze anos.
+Dessa forma, é preciso mapear quais são seus os principais desafios, a fim de mitigá-los e garantir a sustentabilidade desse tipo de empreendimento.
+Assim, para que um empreendimento desse tenha sucesso são necessários recursos adjacentes.
+Em outras palavras, é preciso de um Ecossistema de Inovação e que o mesmo seja apropriado para promover conexões e fomentar a educação empreendedora (NOGUEIRA, ARRUDA, 2015; NOGAMI, 2019; ARMANIOS, 2017).
+Em relação aos Ecossistemas de Inovação, entende-se que seus desenvolvimentos se dão da formação de redes colaborativas, que são compostas por vários atores com interesses pessoais que estão inseridos no mesmo ambiente de negócios.
+Nessa circunstância, para as Startups de base tecnológica os motivos para entrada em uma rede de cooperação estão relacionados com a falta de recursos e com a necessidade de incorporar conhecimento e desenvolvimento de parcerias estratégicas.
+Consequentemente, atuam de forma mais idealista e subjetiva, tendo diferentes configurações contextualizadas por cada agente envolvido.
+(DESIDÉRIO; POPADIUK, 2015; ETZKOWITZ, 2017).
+Por outro lado, os Centros de Inovação possuem um papel mais prático e com ações bem estabelecidas pela estratégia de uma comunidade física ou virtual.
+Seus recursos são alocados por períodos definidos, e são limitados pelos possíveis empreendedores inovadores, Startups ou ainda projetos específicos de pesquisa e desenvolvimento 25 (P&D) de empresas estabelecidas, onde o conhecimento é centralizado.
+O Centroproporciona um ambiente sólido para a aplicação de atividades de desenvolvimento de tecnologia e negócios baseadas na referida Tríplice Hélice, com uma cultura de inovação voltada para o empreendedorismo (ABDALA, et al, 2016).
+Nesse cenário, o Estado de Santa Catarina está ampliando a sua rede de inovação, através dos Centros de Inovações Regionais, e o município de Araranguá é apontado com grande potencial para esse projeto.
+O município já conta com grandes Instituições de Ensino, tais como: Universidade do Extremo Sul Catarinense (UNESC), Instituto Federal de Santa Catarina (IFSC), Universidade do Sul de Santa Catarina (UNISUL), Universidade Federal de Santa Catarina (UFSC) entre outras.
+Salienta-se aqui o papel UFSC, uma instituição de mais de 60 anos, que tem sido fonte de grandes realizações em pesquisa e tecnologia para o país.
+Um dos motivadores desses resultados está em sua cultura e valores que incluem a Inovação e Empreendedorismo.
+A instituição é capaz de identificar , criar, implantar , implementar , apoiar e incentivar novas oportunidades, iniciativas, carreiras, ações e práticas inovadoras e empreendedoras.
+(AUDY , 2017; VEFAGO; TRIER WEILLER, 2020).
+Essas características criam as condições para a sua participação no modelo Tríplice Hélice.
+Cabe destacar que a UFSC possui 5 (cinco) cursos no Campus Araranguá: Engenharia de Computação, Engenharia de Energia, Fisioterapia, Medicina e Tecnologias da Informação e Comunicação.
+Além disso, oferta os cursos de pós-graduação em Energia e Sustentabilidade, Tecnologias de Informação e Comunicação, Ciências de Reabilitação e Ensino Profissional de Física (UFSC, 2021).
+Em uma região onde pelo menos 22% do PIB da economia é proveniente da Indústria, os cursos de Engenharia e Tecnologia se tornam parceiros chaves para um desenvolvimento sustentável do segmento (SEBRAE, 2019).
+Nesse viés, torna-se importante a análise estratégica de setores econômicos para que possam ser identificados seus pontos fortes e fracos e, desta forma, prospectar riscos e oportunidades futuras.
+Diante disso, o setor de energia representa uma oportunidade para o desenvolvimento de soluções tecnológicas por meio de Startups, considerando a necessária mudança para uma economia de baixo carbono.
+Assim, entende-se que existe espaço aberto para muitos novos modelos de negócios com base tecnológica na área ener gética (DA TAMINER, 2021).
+Considerando o cenário acima exposto e a implantação do Centro de Inovação no município de Araranguá, o presente estudo visa realizar uma análise estratégica do setor de ener gia bem como discutir sobre perspectivas futuras.
+A estrutura do estudo contempla, além desta introdução, os procedimentos metodológicos, o referencial teórico, resultados e discussões e a conclusão.
+MÉT ODO O estudo possui característica de pesquisa descritiva e revisão bibliográfica, considerando que seu objetivo incluiu a pesquisa baseada em bases de dados abertas e artigos para correlacionar variáveis sem manipulá-las.
+(GIL, 2010; LAKA TOS; MARCONI, 201 1).Para realização do presente estudo, foram consideradas as seguintes etapas: 1.
+Na primeira etapa foi realizada a revisão bibliográfica dos conceitos referentes à temática da investigação, com o propósito de compreender os conceitos de diferentes perspectivas.
+Dessa forma, foram selecionados diversos artigos em três bases de dados, que são: Capes, SciELO e Google Scholar .
+Para tanto, utilizou-se nas buscas as seguintes palavras: "Tríplice Hélice", "Startups", "Setor Energético", "Centro de Inovação" e "Ecossistema de Inovação"; 2.
+Na segunda etapa, foram coletados dados junto às plataformas Abstartups, Economapas, Data Miner e Liga Ventures bem como em documentos públicos (Sebrae e IBGE).
+Na coleta foram considerados dados sobre Brasil, Santa Catarina e os municípios de Florianópolis, Joinville, Blumenau e Araranguá.
+Os três primeiros municípios foram escolhidos, porque possuem Centros de Inovação.
+Nesse sentido, podem servir como benchmarking ou como modelos na comparação com Araranguá.
+Foram considerados os critérios de maturidade de ecossistemas (por tempo de existência, número de atores e capital investido).
+Nesse sentido, temos Florianópolis como o polo mais maduro e estruturado, Joinville em desenvolvimento e crescimento, Blumenau em constituição e desenvolvimento e Araranguá na fase de ideação.
+A localização das cidades pode ser observada na figura 1; Figura 1 - Localização dos municípios selecionados para o estudo comparativo Fonte:IBGE 2017 /Adaptada pelo autor , (2021).
+A terceira etapa, consistiu na organização dos dados que foram tabelados considerando: número de atores por localidade, o número de capital investido por localidade e número de tecnologias do setor de energia desenvolvida por Startups; 4.
+Na quarta etapa, foram realizados estudos e avaliações dos recursos do ecossistema de Startups de energia.
+Para tanto, utilizou-se ferramentas web de diversas empresas de inovação no Brasil, tais como: Distrito, Liga Ventures e ABStartups.
+Essas empresas permitiram o acesso da informação do número de Startups no setor de energia, do número de tecnologias sendo desenvolvidas, dos valores captados em investimentos, do nível de maturidade e da localização desses negócios.
+Assim, pode-se analisar a correlação e influência dos Ecossistemas nos municípios que já possuem Centro de Inovação estabelecido, com o desenvolvimento dessas Startups; 5.
+Por fim, na última etapa foi feita a análise estratégica ou SWOT , considerando os resultados obtidos por meio da estruturação de tabelas.
+Essas permitiram a análise dos pontos fortes e fracos, bem como dos riscos e oportunidades.
+3 REFERENCIAL TEÓRICO 3.1 Tríplice Hélice A Tríplice Hélice consiste em um paradigma de produção de inovação que deixa de ser centrado apenas na indústria e passa a se apoiar em três elementos conectados: as empresas, as universidades e o governo.
+Nesse cenário, todas as partes possuem um papel relevante.
+As instituições de ensino superior são centro da produção de inovação em si, tanto pela pesquisa e desenvolvimento de tecnologias quanto pela formação de profissionais de alto nível, pois congregam pessoas e conhecimentos especializados; as empresas puxam esse processo, a partir de suas demandas práticas; e o governo é o facilitador , por meio de programas de incentivo à pesquisa e da redução das burocracias necessárias para desenvolver e implementar as inovações.
+Em outras palavras, essa Hélice passa por um processo de evolução, em três fases, até chegar ao modelo em que os atores estejam conectados de forma ideal.
+Na primeira fase, empresas, universidades e governo são atores que não se sobrepõem e mantêm relações institucionais.
+As empresas visam produzir; as universidades visam gerar e transmitir conhecimento; o Governo visa administrar o Estado e, dentro dessa atividade, regular as empresas e universidades.
+Eles não trabalham de forma conjunta para atingir seus objetivos.
+Na segunda fase, verificam-se as relações bilaterais entre esses elementos.
+Nessa etapa, empresas e universidades podem formar parcerias, porque as empresas precisam de profissionais qualificados e as universidades precisam de investimentos.
+Finalmente, na terceira fase, constrói-se uma relação entre os três elementos, com uma diluição das fronteiras entre eles e assim se aproximando de um modelo de trabalho em ecossistema.
+3.2 Inovação O termo inovação relaciona-se ao ato de fazer algo novo.
+Dessa forma, compreende diversas definições, e para analisarmos os impactos dos atores (empresas, universidades e governo) da Tríplice Hélice.
+Em um ecossistema de inovação, o modelo que podemos adotar é o da inovação tecnológica.
+Uma vez que essa possui influência essencial nas estratégias de crescimento das empresas e negócios.
+A adoção das práticas inovativas nas empresas está estreitamente associada à busca de diferenciações capazes de criar vantagens competitivas mais sustentáveis entre concorrentes, através da produção de melhorias nos serviços e nos produtos.
+(FUCK; VILHA, 2012; SIL VA et al., 2017).
+Nos tempos de hoje, com a assimilação de cada vez mais tecnologias nos setores produtivos e nos comportamentos do consumidor , temos um ambiente de muitasincertezas.
+Dessa forma, as empresas não podem aplicar inovação apenas com investimentos ou financiamento em projetos de P&D.
+O momento pede mais, o modelo de inovação tecnológica vem para complementar as estratégias de negócios atuais.
+Com objetivo de apoiar esse modelo, surgem os ecossistemas de inovação que são capazes de permitir recursos e ambientes favoráveis para o desenvolvimento desse tipo de estratégias.
+(MORGADO, 201 1; SIL VA et al., 2017).
+3.3 Ecossistema de Inovação O ecossistema de inovação é um termo usado para se referir aos sistemas interor ganizacionais, políticos, econômicos, ambientais e tecnológicos da inovação, em que o crescimento do negócio é catalisado, sustentado e apoiado.
+No Brasil, o cenário de inovação e colaboração intensificou-se após o estabelecimento do marco legal em 2016, por meio das Lei de Inovação (Lei n.13.243) e Lei do Bem (Lei n. 11.196) respectivamente, que ofereceram maior segurança jurídica para os atores envolvidos no processo de inovação.
+Além disso, as leis incentivaram com benefícios fiscais a atividade de cooperação em pesquisa e desenvolvimento entre empresas e Instituições Científico-T ecnológicas.
+(RUSSELL; SMORODINSKA YA, 2018; IKENAMI; GARCIA; RINGER, 2016).
+Um ecossistema de inovação precisa ser organizado de tal maneira que todas as relações entre os diversos atores (Quadro 1) dependem de ações instrumentadas a ponto de prospectar a melhor funcionalidade de um sistema regional/local ou nacional de inovação.
+Além da competição, um dos elementos da liderança em um ecossistema de inovação é a capacidade de orquestração, com a finalidade de buscar outros atores, com o intuito de organizá-los para que os tornem mais robustos e resilientes.
+Quadro 1 - Atores e suas características ATORES OBJETIV O CARACTERÍSTICAS DOS ATORES Governo (setor público) Regulamentação Instituições fornecedoras de mecanismos de programas, regulamentos, políticas e incentivos.
+Institucional Organizações públicas ou privadas e independentes, prestadores de assistência especializada e conhecimento aos demais atores envolvidos com inovações.
+Fomento Bancos, governos, investidores anjo, capitalistas virtuais e indústrias, fornecedores de mecanismos de financiamento das etapas de edifício do ecossistema de inovação.
+Universidades Conhecimento Instituições educacionais e/ou de pesquisa e desenvolvimento responsáveis por formar pessoas, promover o espírito empresarial e criar empresas futuras.
+Inclui também, pesquisadores e estudantes.
+(continuação) Empresas (setor privado) Negócios Empresas fornecedoras de requisitos para avaliação de soluções, desenvolvimento de tecnologias e conhecimento em seus departamentos de pesquisa e desenvolvimento (P&D).
+Aqui ainda podem ser incluídos empresários, estudantes, pesquisadores, profissionais e indústria, pessoas que possuem uma ideia, descoberta ou invenção (incremental ou disruptiva) e querem transformar em algo útil e/ou comercializável.
+Ambiente Ambientes promotores da interação dos atores locais de inovação, desenvolvedores de P&D e o setor produtivo, colaborando para disseminar a cultura de inovação e empreendedorismo na região.
+Fomento Programas de financiamentos de projetos de P&D, modelos de formação de empreendedores e realizações de eventos.
+Fonte: Teixeira 2015 /Adaptada pelo autor , (2021).
+No Quadro 1, verificam-se as características dos atores do modelo Tríplice Hélice.
+Nele observam-se os papéis exercidos por cada um deles e a importância desse trabalho unificado para desenvolvimento de um ecossistema de inovação.
+Cabe salientar que o ecossistema é formado por diferentes outros atores: Startups, incubadoras e aceleradoras que serão detalhadas na sequência.
+O termo Startups começou a ser utilizado no Brasil em 1999, em plataformas digitais de comercialização de produtos.
+As Startups podem ser definidas como organizações em fase inicial, que se localizam em cenários de incerteza e que possuem modelos de negócios escaláveis.
+Essas são focalizados na inovação em produtos ou serviços, com a finalidade de ofertá-los como solução para demandas latentes de mercado, inserindo-se em novos campos de atuação.
+Consequentemente, elas criam soluções que sejam repetíveis e escaláveis, com potencial de alto crescimento (DORNELAS, 2016; ABST ARTUPS, 2021).
+Em 2011 foi fundada a Associação Brasileira de Startups (ABStartups), que é uma entidade sem fins lucrativos, com o objetivo de aumentar a competitividade das Startups brasileiras.
+Para tanto, disponibiliza aos gestores de tais organizações informações e dados relevantes sobre seus mercados de atuação e tecnologias por meio da plataforma chamada StartupBase.
+O Quadro 2 apresenta as características das Startups, de acordo com a referida associação.Quadro 2: Características das Startups, segundo a ABStartups Inovação Startup apresenta um produto ou serviço novo – ou com aspectos novos em seu modelo de negócio – para o mercado a que se destina, como elementos de diferenciação.
+Escalabilidade O modelo de negócio de um startup precisa ser escalável, isto é, poder atingir rapidamente muitos usuários a custos relativamente baixos.
+Repetitividade O modelo de negócios de uma startup deve ser repetível, ou seja, deve ser possível replicar ou reproduzir a experiência de consumo de seu produto ou serviço de forma relativamente simples, sem exigir o crescimento na mesma proporção de recursos humanos ou financeiros.
+Flexibilidade e rapidez: Em função de sua característica inovadora, do ambiente incerto e altamente competitivo, a startup deve ser capaz de atender e se adaptar rapidamente a demandas do mercado.
+Geralmente, tem estruturas enxutas, com equipes formadas por poucas pessoas, com flexibilidade e autonomia.
+Fonte: StartupBase /Adaptada pelo autor , (2021).
+As incubadoras de empresas são mecanismos de criação e desenvolvimento de micro e pequenas empresas por meio da orientação e formação do empreendedor , nos aspectos de gestão dos negócios ou projetos.
+Dessa forma, possibilitam a implementação de práticas de inovação tais como: visão, métodos, processos e ferramentas.
+As aceleradoras são organizações que ajudam Startups a definir e construir seus produtos iniciais, identificar clientes promissores para elas, e segurar recursos, tais como funcionários e capital.
+Para a consolidação das Startups, as aceleradoras constituem um importante papel, uma vez que têm a função de auxiliá-las a atingirem o seu ponto de equilíbrio e obter investimentos que garantam a consolidação dos seus produtos/serviços no mercado.
+Na sua maioria os programas de aceleração disponibilizam programas de capacitações e mentorias, acesso à capital e espaços em formato de coworking.
+(SANT OS; RIMOLI, 2016; COHEN et al., 2019).
+Um ecossistema de inovação precisa considerar os diversos atores do mercado, movimentos econômicos e alinhamentos entre as instituições que buscam relações com os impactos gerados pela inovação numa determinada localidade.
+As fases de desenvolvimento de um ecossistema (Quadro 3) são partes importantes do processo de impacto local.
+(SANT OS, 2020).Quadro 3 - Fases de maturidade de uma Startup FASE 1 – Nascimento Fase em que há muita incerteza, o que dificulta a antecipação dos esforços e recursos que serão necessários.
+A divisão do trabalho é baixa, ocasionando sobreposição das atividades.
+O maior desafio desta fase é a criação de valor superior ao que já existe e arquitetar a estrutura do ecossistema.
+FASE 2 – Expansão Nesta fase, superada a incerteza tecnológica, a preocupação é ganhar massa crítica e incorporar novos negócios, por meio da promoção da diversidade e atração de outros atores.
+O desafio desta fase é elevar o volume e escala de modo consistente.
+FASE 3 – Liderança do Ecossistema ou Continuidade Uma vez que o ecossistema passa a se estabelecer com robustez e produtividade, inicia a competição pela liderança dentro do ecossistema, ao mesmo tempo em que precisa continuar a cooperar para manter o ecossistema dominante no ambiente.
+Além disso, também há atores de fora que querem fazer parte do ecossistema.
+O desafio desta fase é alinhar a trajetória de inovação, diferenciação e valorização.
+FASE 4 – Renovação Fase em que, devido ao fato de estar estabelecido, há risco de obsolescência.
+O desafio nesta fase é tentar se renovar , para evitar a perda de recursos e atores e se desarticular por completo.
+Fonte: Santos 2020 /Adaptada pelo autor , (2021).
+Conforme observado, as referidas fases incluem as descrições de desenvolvimento das Startups em grau de maturidade do negócio.
+Essas fases são relevantes para estipular os recursos que o Ecossistema de Inovação precisa ter, junto de seus atores, para entregar um ambiente fértil para essas novas empresas.
+No Brasil, temos diferentes ecossistemas de inovação ativos e em desenvolvimento.
+Em Santa Catarina, podemos destacar a densidade de Startups por habitante no Estado (Figura 1).
+O ecossistema de inovação catarinense têm se tornado cada vez mais relevante para o ambiente de tecnologia, com diversos programas de empreendedorismo, incubação, aceleração e incentivo para novos projetos, empresas e Startups.
+Figura 1: Os 10 Estados em densidade de Startups por habitante no Brasil Fonte: ABStartups /Adaptada pelo autor, (2021).
+Na figura verifica-se que o Estado de Santa Catarina tem vocação e recursos para continuar inovando e empreendendo.
+Dessa forma, avalia-se que os Programas Estratégicos adotados pelo Governo do Estado de Santa Catarina, tal como a expansão dos Centro de Inovação, só têm a somar com esse ecossistema.
+3.4 Centr o de Inovação em Santa Catarina Os Centros de Inovação em Santa Catarina são ambientes criados para promover e dar suporte ao empreendedorismo inovador .
+Eles fazem parte do Programa de Inovação do Governo do Estado de Santa Catarina e originaram-se em 2011.
+O modelo é inspirado na experiência da cidade espanhola de Barcelona na área de inovação.
+Seus serviços visam apoiar o empreendedor desde o momento em que o negócio é apenas uma ideia até o momento em que ele está pronto para encarar o mercado, crescer e escalar .
+O Centro também objetiva estimular a inserção da cultura de inovação nas empresas na região onde está instalado bem como estabelecer ligações entre Startups e empreendedores com empresas consolidadas e outros atores importantes (SDE, 2017).
+Para tanto, seus serviços incluem a pré-incubação de empresas, incubação, aceleração, coworking , espaço maker , espaço para eventos e capacitações, espaço para P&D, marketplace e One Stop Shop .
+Além disso, os Centros colaboram para a conexão entre empresas e instituições financeiras e investidores, conforme pode ser visto no Quadro 4.
+Quadro 4 - Portfólio de funções dos Centro de Inovação do Estado de Santa Catarina Função Subfunções Governança do ecossistema Coordenação, mapeamento, compartilhamento de serviço, compartilhamento de infraestrutura, padronização de serviços e monitoramento da maturidade.
+Informação One stop shop , eventos, agenda única, networking, comunicação interna e externa e show room.
+Inovação Coworking , pré-incubadora, incubadora física, aceleradora, escaladora, espaço maker , projetos inovadores de empresas estabelecidas, transferência tecnológica, propriedade intelectual, inovação aberta, socialização de ideias e projetos P&D.
+Talentos Formação, orientação, estágio, atração e retorno, marketplace de talentos e línguas estrangeiras.
+Capital Acesso a investidores, acesso a crédito, avais e garantias, intermediação de negociações e marketplace de investimentos.
+Atração de investimentos Observatório dos setores estratégicos, planejamento de atração de investimentos, missões nacionais e internacionais e landing page empresarial.
+Especialização inteligente Plano de especialização inteligente, governança de cluster , encontros entre setores, projetos impulsionadores setoriais e agenda tecnológica.
+Internacionalização Internacionalização das empresas, cooperação institucional, cooperação entre habitats de inovação, cooperação para comércio e cooperação com organizações internacionais.
+Desenvolvimento urbano Marketplace de espaços, City Lab , mapa urbanístico, mapa de infraestrutura e cidades inteligentes.
+Comunidade Inovação social, preparação de novas gerações de inovadores, formação de pais e mães, inclusão digital de vovós e vovôs e desafios sociais.
+Fonte: SDE, 2017 /Adaptada pelo autor, (2021).
+As funções e subfunções são as atividades que tornam o Centro de Inovação um local fértil e prático para realização de projetos e desenvolvimento de soluções inovadoras entre seus atores.
+Percebe-se que a ideia do Centro de Inovação expande-se paradistintas regiões do estado catarinense.
+A próxima seção trará um exemplo que começa a desenvolver -se no extremo sul.
+3.5 Centr o de Inovação em Araranguá O Centro de Inovação do Programa do Governo do Estado de Santa Catarina será desenvolvido em 25 etapas.
+Essas são as etapas previstas (Quadro 5) pelo governo estadual (SDE, 2017).
+Quadro 5 - Etapas para construção de um Centro de Inovação no Programa do Governo do Estado de Santa Catarina ETAPA 1 Construir um Comitê de Implantação ETAPA 2 Definir Presidente e Secretário do Comitê ETAPA 3 Capacitação dos envolvidos ETAPA 4 Elaboração da Lei de Inovação Municipal ETAPA 5 Selecionar a Entidade gestora ETAPA 6 Definir a relação jurídica entre a entidade gestora e o poder público ETAPA 7 Definir uma visão de futuro para a região ETAPA 8 Mapear o ecossistema regional da região ETAPA 9 Definir as áreas de especialização inteligente do Centro ETAPA 10 Elaborar modelo de negócio ETAPA 11 Elaborar planejamento estratégico ETAPA 12 Definir ordem de prioridade para as funções e subfunções ETAPA 13 Definir funções oferecidas diretamente pelo centro e as terceirizadas ETAPA 14 Celebrar as parcerias e contratos ETAPA 15 Definir quadro de pessoal necessário para operar as funções ETAPA 16 Definir Plano de Ocupação do Centro ETAPA 17 Elaborar Plano de Sustentabilidade EconômicoFinanceiro ETAPA 18 Contratar a Entidade gestora ETAPA 19 Definir Diretor ETAPA 20 Validar e capacitar a equipe de operação ETAPA 21 Elaborar Plano de Ação ETAPA 22 Nomear o Conselho de Administração ETAPA 23 Publicar editais de seleção de empresas, projetos e ideias para ingressar nos Programas do Centro ETAPA 24 Implantar o One Stop Shop ETAPA 25 Formar e Conectar a rede de mentores, investidores e prestadores de serviço Fonte: SDE (2017) /Adaptada pelo autor, (2021).
+O município de Araranguá encontra-se na Etapa 3, onde verifica-se que instituições governamentais, de ensino e empresas estão presentes.
+O projeto já tem local estabelecido.
+Ele será localizado na infraestrutura da Universidade do Extremo Sul Catarinense (UNESC), no bairro Cidade Universitária, Araranguá SC, 88705-240 (GOVERNO DO EST ADO DE SANT A CATARINA, 2021).
+O Centro de Inovação de Araranguá irá atender toda a região da Associação dos Municípios do Extremo Sul Catarinense (AMESC).
+Essa conta com 15 municípios (Figura 2) que possuem uma população estimada de 204.380.
+Araranguá é considerada como cidade pólo e com maior população, ou seja, com 61.310 habitantes (IBGE, 2010).Figura 2 - Mapa dos municípios pertencentes a AMESC Fonte:PBDEE-AMESC (2021).
+4 RESUL TADOS E DISCUSSÃO Nesta seção são apresentadas a avaliação dos recursos propostos para desenvolvimento de um Centro de Inovação, considerando a estrutura do modelo Tríplice Hélice bem como o mapeamento e avaliação do ecossistema de startups de energia .
+Por fim, é realizada a análise estratégica do município de Araranguá com relação às perspectivas para o setor de ener gia.
+4.1 Avaliação dos r ecursos O Centro de Inovação pode ser avaliado de maneira quantitativa, pois possui um caráter mais prático de atuação dentro de um Ecossistema de Inovação, assim consegue-se mensurar alguns indicadores para sua existência, tal como os recursos relevantes para seu desenvolvimento, conforme visto no Quadro 4.
+Para compreender a realidade de Araranguá e verificar o quanto o município está preparado para colocar em prática cada função do Centro Inovação foram estruturados dados, conforme mencionado anteriormente.
+sobre Brasil, Santa Catarina, Florianópolis, Joinville, Blumenau e Araranguá (Quadro 6), Tendo em vista que o Centro de Inovação em Araranguá está em desenvolvimento e nas fases iniciais do processo, para avaliar os recursos de funções, conforme apresentado no Quadro 4, organizou-se uma avaliação por pilares que se correlacionam com o desenvolvimento das funções e subfunções, tais como: existência de mecanismos culturais, densidade de recursos de apoio, acesso a capital, ambiente regulatório eficiente, acesso a talentos e a mercado, conforme demonstrado no Quadro 6.
+Quadro 6 - Avaliação dos recursos necessários para o desenvolvimento do Centro de Inovação Pilares Brasil Santa Catarina Florianópolis Joinville Blumenau Araranguá Cultura (eventos, cases, mídia específica e mentores) Sim Sim Sim Sim Sim Sim Densidade (espaço de trabalho, apoio jurídico, apoio contábil, incubadoras, aceleradoras, parque tecnológico, programa de mentoria, grupo de desenvolvimento e presença digital) Sim Sim Sim Sim Sim Não Acesso a capital (rede de investimentos) Sim Sim Sim Sim Sim Não Ambiente regulatório (desburocratização de processos, incentivo a financiamento, ór gão oficiais apoiadores) Sim Sim Sim Sim Sim Não Talentos (universidades e escolas técnicas) Sim Sim Sim Sim Sim Sim Acesso a mercado (grandes empresas) Sim Sim Sim Sim Sim Sim Fonte: Análise do autor, (2021).
+Por meio do Quadro 6, verifica-se que na perspectiva de recursos, o município de Araranguá precisa estabelecer planos de ação junto dos atores para desenvolver os pilares: densidade, acesso à capital e ambiente regulatório.
+No contexto de densidade, identificou-se que o município possui uma incubadora ativa, porém com poucas representatividade no seu objetivo.
+Conforme já indicado pelos estudos de Santos (2020), a atividade é importante para o desenvolvimento de ideias e novos projetos dentro do Centro de Inovação, com as empresas e universidades.
+Segundo a SDE (2017), o Centro de Inovação e seus projetos necessitam de acesso à capital e, com relação a esse recurso, o município não possui entidades ou grupos de investidores organizados com foco no empreendedorismo e Startups, o que torna o ambiente dependente de recursos governamentais ou dos próprios empreendedores.
+Quanto ao ambiente regulatório, identificou-se que está em vigor a Lei Complementar Municipal n.298.
+Essa lei regulariza os espaços de uso compartilhado para escritórios, coworking e afins.
+Além disso, a regulamentação e participação da Prefeitura no processo de criação do Centro de Inovação.
+Isso indica um aspecto positivo para a conquista da desburocratização de processos e maior apoio ao empreendedorismo tecnológico local.
+Isso estaria alinhado com o que é recomendado pela SDE (2017).
+Além disso, vai ao encontro do que é previsto por Bencke et al.
+(2018) no modelo de Tríplice Hélice já que os autores indicam que entre as funções do governo está a de reduzir a burocracia.Com relação aos outros indicadores, percebe-se que o município realiza eventos de empreendedorismo.
+Identificaram-se entre eles o Empreende SC e a FAN da ACIV A. Além disso, o local possui 14 Instituições de Ensino Superior e outras 10 Escolas Técnicas e Profissionalizantes, conforme apresentado no Quadro 7.
+Por fim, no quesito acesso a mercado, o município conta com médias e grandes empresas, tais como: Pagé, Prodapys, Dimasa, Daros Construções e entre outras.
+Esses resultados novamente indicam que existem as condições para o fomento aos negócios, conforme o modelo Tríplice Hélice o que está alinhado ao proposto por Abdala (2016).
+Quadro 7 - Número de escolas técnicas, profissionalizantes e instituições de ensino superior Locais Brasil Santa Catarina Florianópolis Joinville Blumenau Araranguá Instituições de Ensino Superior 2.608 97 54 32 23 14 Escolas Técnicas e Profissionalizantes 661 39 32 25 15 10 Fonte: IBGE (2019) / Adaptado pelo autor, (2021).
+Ainda sobre a avaliação do indicador de ensino, se faz válido compreender o cenário atual e potencial de crescimento do números de estudantes matriculados, pois são informações que caracterizam o recurso de talentos, citados no Quadro 6.
+Nesse contexto, o Quadro 8, apresenta o município de Araranguá em crescimento mais acelerado do que as cidades de referência, o que torna o cenário positivo para ações de empreendedorismo com as Universidades.
+Por tanto, conforme avaliado por Audy (2017) é possível inferir que o município de Araranguá deverá ter maior capital intelectual ao longo do tempo.
+Salienta-se aqui a percepção de que o município reúne alguns programas no nível técnico (eletromecânica) de graduação (engenharia de energia, engenharia de computação, administração, direito, contabilidade) e de pós-graduação (ener gia e sustentabilidade) que permitem perceber condições para a abertura de modelos de negócios na área de ener gia.
+Quadro 8 - Número de estudantes e taxa de crescimento dessa população por município Indicador Brasil Santa Catarina Florianópolis Joinville Blumenau Araranguá Número de estudantes matriculados no ensino superior 8.033.574 97 162.075 95.039 57.103 8.039 Taxa de crescimento anual 1,80% 39 5,73% 5,40% 5,39% 7,14% Fonte: INEP (2019) / Adaptado pelo autor, (2021).
+O número de empresas do município onde está se desenvolvendo um Centro Inovação é importante, pois as empresas possuem papel importante na atuação do modelo Tríplice Hélice, já que são responsáveis pelas oportunidades de desafios e negócios que serão gerados nos Programas do Centro de Inovação.
+Entretanto, conforme Teixeira (2015), um indicador chave para o sucesso desse tipo de ator é a sua capacidade de investir ou contratar tecnologias desenvolvidas pelas Startups, ou seja, sua maturidade para inovar .Dessa maneira, podemos avaliar a quantidade de empresas pelo segmento (indústria ou serviço), mas principalmente avaliar a quantidade de empresas de médio e grande porte.
+Em outras palavras, empresas que tenham mais de 100 funcionários, segundo classificação do IBGE.
+Quadro 9 - Número absoluto de empresas por categoria (indústria, serviços e de médio e grande porte) Categoria Brasil Santa Catarina Florianópolis Joinville Blumenau Araranguá Indústrias 654.553 56.949 2.052 5.103 4.301 554 Serviços 3.009.864 154.902 24.592 15.500 12.857 1.408 Média e Grande Empresas (MGE) 71.970 3.419 5.359 4.069 3.500 249 Fonte: Data Sebrae (2021) / Adaptado pelo autor, (2021).
+O município de Araranguá apresentou, em números absolutos, um ambiente empresarial reduzido em relação aos três municípios de referência (Florianópolis, Joinville e Blumenau), conforme apresentado no Quadro 9.
+Todavia, quando comparam-se os valores do número de estudantes matriculados no ensino superior por número de MGEs verifica-se que Araranguá possui o melhor indicador com a média de 32 estudantes por cada empresa, enquanto que Florianópolis, Joinville e Blumenau, possuem respectivamente: 30, 23 e 16.
+Esse indicador é interessante pois demonstra que dentro da realidade de Araranguá, é possível identificar que as Instituições de Ensino Superior possuem capital intelectual suficiente para atender as empresas do local, da mesma forma como vemos na realidade dos outros municípios de referência.
+Ademais, conforme evidenciado por Santos e Rimoli (2016), quanto maior a capacidade de participações e agentes para se conectar , maior será a capacidade do Modelo Tríplice Hélice ter êxito, ou seja maior número de estudantes, maior o número de projetos e maior o número de oportunidades de resultados entregues para o ecossistema.
+4.2 Mapeamento e avaliação do ecossistema de Startups de energia Os dados de mercado sobre inovação no setor de energia no Brasil e no mundo apontam uma carência de projetos e soluções inovadoras.
+Entre as informações que mais chamam a atenção é a de que, no Brasil (um gigante em potencial energético), apenas 1,5% das Startups estão relacionadas ao setor de Energia.
+Isso significa que, atualmente, o país tem aproximadamente 200 Startups que desenvolvem soluções em energia.
+É um número pouco expressivo e com o agravante de que um percentual pequeno dessas empresas tem maturidade para atuar prontamente no setor .
+A referida baixa oferta de soluções maduras frente às demandas de mercado e a falta de integração das iniciativas nacionais que fomentam a inovação no país reflete a realidade de que o Brasil avança menos do que poderia em inovação na área de tecnologias de baixo carbono.
+De acordo com o Global Innovation Index de 2019, neste quesito, o país ocupa o 66º lugar em uma lista de 129 países e fica atrás de todas as nações do Brics (Rússia, Índia e China).
+(GLOBAL INNOV ATION INDEX, 2019).Considerando que a tendência no setor de energia é de descentralização e digitalização, por meio de novas tecnologias e serviços inteligentes, existe uma urgência de que o setor energético brasileiro desperte para seu potencial na futura economia.
+Nesse sentido, salienta-se a importância da união de esforços, a fim de promover a troca de conhecimentos e experiências, o incentivo à pesquisa e desenvolvimento de soluções de vanguarda que permitam uma transição energética à altura da capacidade de produção e distribuição das ener gias renováveis.
+Assim, pensando em atender a tendência global, pode-se organizar em 11 categorias de tecnologias e perfis das Startups de Ener gia no Brasil, conforme o Quadro 10.
+Quadro 10 - Número de Startups de Energia por categoria de tecnologia e município Categoria Brasil Santa Catarina Florianópolis Joinville Blumena u Araranguá Baterias 5 2 1 1 0 0 Comercialização e Financiamento de Energia 14 1 1 0 0 0 Data Analytics 29 5 3 0 0 0 E-mobilidade 17 3 2 1 0 0 Eficiência Ener gética 34 6 3 1 1 0 Geração Compartilhada 34 1 1 0 0 0 Gestão de Consumo 25 2 1 1 0 0 Gestão de Equipes e Operações 10 1 1 0 0 0 Inspeção por Imagem 8 0 0 0 0 0 Novos Equipamentos 2 1 0 1 0 0 Sustentabilidade 10 5 3 1 0 0 Fonte: Liga Ventures (2020) / Adaptado pelo autor, (2021).
+Os dados do Quadro 10, demonstram que assim como no Brasil, os municípios de referência e Araranguá possuem poucas ou nenhuma iniciativas para o setor de energia.
+Isso confirma os dados indicados pelo Global Innovation Index.
+4.3 Análise SWOT Considerando os resultados obtidos nas sub-seções, 4.1 e 4.2 do presente estudo, é possível avaliar o cenário do município de Araranguá, referente ao objetivo de apresentar as oportunidades do setor de energia a partir do desenvolvimento do Centro de Inovação em Araranguá.
+Para tanto, foi utilizada como ferramenta a Análise SWOT que verifica o ambiente interno, forças e fraquezas do município de Araranguá, bem como o ambiente externo, oportunidades e ameaças, na comparação do município com relação à Florianópolis, Joinville e Blumenau.Quadro 11 - Análise SWOT referente aos impactos do Centro de Inovação no Setor de Energia Fatores positivos Fatores negativos Fatores internos Strengths (Forças): ● Lei que regulariza os espaços de uso compartilhado; ● Existência de incubadora; ● Número de estudantes matriculados no ensino superior por MGE; ● Existência do curso de Graduação e em Engenharia de Energia e de Pós-Graduação em Energia e Sustentabilidade; ● Número de eventos de empreendedorismo na região; ● Número de Instituições de Ensino Superior e Escolas Técnicas e Profissionalizantes.
+Weakness (Fraquezas): ● Poucos subsídios para desenvolvimento de tecnologia e inovação no município; ● Poucos programas locais na área de empreendedorismo e inovação; ● Poucas ações de integração entre os cursos das IES locais (contabilidade, direito, administração, engenharia de energia, engenharia de computação).
+● Nenhum grupo de investimento especializado em capital de risco (Startups).
+Fatores externos Opportunities (Oportunidades): ● Número de empresas de Energia em Santa Catarina para capitalizar Startups na região; ● Número de programas de inovação em Santa Catarina para apoiar o Centro de Inovação em Araranguá.
+Threats (Ameaças): ● Evasão de capital intelectual para outros municípios mais competitivos; ● Maturidade das empresas locais para trabalhar com inovação.
+No Quadro 10, considerou-se como fatores internos as variáveis relacionadas às funções ou recursos dos atores da Tríplice Hélice (universidades, empresas e governo), ou seja, variáveis que podem ser controladas ou estimuladas de maneira direta no município de Araranguá.
+Com relação aos fatores externos, considerou-se as variáveis que não podem ser controladas ou que precisam de esforços de outros atores para serem influenciadas.
+A partir da análise, depreende-se que o município reúne condições para o desenvolvimento do setor de energia, porque há forças internas e que o Estado pode oferecer apoio.
+As informações também colaboram para que os pontos fracos e ameaças externas possam ser eliminados ou reduzidos por meio do estabelecimento de objetivos e metas que visem o desenvolvimento do setor .
+5 CONCLUSÃO Este estudo teve como objetivo realizar uma análise estratégica do setor de energia a bem como discutir sobre perspectivas futuras a partir do desenvolvimento do Centro de Inovação em Araranguá.
+Nesse contexto, realizou-se um estudo de carácter exploratório por meio de revisão bibliográfica e de documentos públicos bem como a coleta de dados de plataformas (Economapas, Data Miner e Liga Ventures).
+Entende-se que o objetivo foi alcançado, pois com dados coletados foi possível avaliar os recursos e indicadores presentes no município de Araranguá que podem serrelevantes para o desenvolvimento do Centro de Inovação no município.
+Particularmente, verificou-se a capacidade local para influenciar o cenário do setor de energia no desenvolvimento de tecnologia e inovação.
+Para estudos futuros recomenda-se que sejam mapeadas todas as linhas de pesquisas já desenvolvidas nas Universidades e Escolas Técnicas que podem contribuir com o segmento de energia, para entender com maior profundidade a realidade do potencial desse ator no modelo Tríplice Hélice.
+Além disso, sugere-se a coleta de dados por meio de questionário junto a representantes dos atores: governo, empresas e instituições de ensino superior .
+Dessa forma, será possível avaliar a maturidade e o engajamento de cada um dos atores para o desenvolvimento do ecossistema local em torno do Centro de Inovação de Araranguá.
+6 REFERÊNCIAS ABDALA, L.; DEPINÉ, Á.; POZZOBON, C.; TRZECIAK, D.; FERREIRA, M.; SCHREINER, T.; ELEUTHERIOU, V.; TEIXEIRA, C. Centr o de Inovação: alinhamento conceitual .
+Disponível em < Acesso em: 10 jul.
+Disponível em: < Acesso em: 10 jul.
+How Entrepreneurs Leverage Institutional Intermediaries in Emer ging Economies to Acquire Public Resources.
+Strategic Management Journal , 38(7), 1373-1390.doi: 10.1002/smj.2575.
+Associação Brasileira de Startups ABST ARTUPS.
+Disponível em:< Acesso em: 10 jul.
+Associação dos Municípios do Extremo Sul Catarinense (AMESC), 2021.
+Mapa da Divisão Política dos Municípios Associados à AMESC .
+Disponível em: < .amesc.com.br/cms/pagina/ver/codMapaItem/71 142>.
+A inovação, o desenvolvimento e o papel da Universidade.
+Estudos Avançados , [S. l.], v. 31, n. 90, p. 75-87, 2017.
+Disponível em: < .revistas.usp.br/eav/article/view/137885>.
+BENCKE, F. F.; DORION, E. C. H.; OLEA, P. M.; PRODANOV , C. C.; LAZZAROTTI, F.; ROLDAN, L. B.
+A Tríplice Hélice e a construção de ambientes de inovação: O caso da Incubadora Tecnológica de Luzerna/SC.
+Desenvolvimento em Questão , [S. l.], v. 16, n. 43, p. 609–639, 2018.
+DOI: 10.21527/2237-6453.2018.43.609-639.
+Disponível em: < .revistas.unijui.edu.br/index.php/desenvolvimentoemquestao/article/view/ 5592>.
+INSTITUT O BRASILEIRO DE GEOGRAFIA E EST ATÍSTICA (IBGE).
+COHEN, S., FEHDER, D. C., HOCHBERG, Y. V., & MURRA Y, F. (2019).
+The Design of Startup Accelerators.
+Resear ch Policy , 48(7), 1781-1797.doi: 10.1016/j.respol.2019.04.003.
+CORNELL UNIVERSITY , INSEAD, and WIPO (2020).
+The Global Innovation Index 2020: Who Will Finance Innovation?
+Ithaca, Fontainebleau, and Geneva.
+Disponível em: < .wipo.int/global_innovation_index/en/2020/>.
+DESIDÉRIO, P. H. M.; POPADIUK, S. Redes de Inovação Aberta e compartilhamento de conhecimento: aplicações em pequenas empresas.
+INMR Innovation & Management Review , [S. l.], v. 12, n. 2, p. 110-129, 2015.
+Disponível em: < .revistas.usp.br/rai/article/view/100335>.
+Disponível em: < Acesso em: 10 jul.
+DORNELAS, José, Empr eendedorismo: transformando idéias em negócios , 6 ed.
+D'AVILA, J. C.; BILESSIMO, S. M. S.; TRIER WEILLER, A. C.; ESTEVES, P. C. L.; SILVA, S. M. D. A TRÍPLICE HÉLICE COMO FATOR DE DESENVOL VIMENT O REGIONAL SOB A ÓTICA DE ESPECIALIST AS.
+Anais do Congr esso Internacional de Conhecimento e Inovação – ciki, [S. l.], v. 1, n. 1, 2017.
+Disponível em: < Acesso em: 20 jul.
+Disponível em: < Acesso em: 10 jul.
+ETZKOWITZ, H.; ZHOU, C. Hélice Tríplice: inovação e empreendedorismo universidade-indústria-governo.
+Estudos Avançados , [S. l.], v. 31, n. 90, p. 23-48, 2017.
+Disponível em: < .revistas.usp.br/eav/article/view/137883>.
+FONSECA, MARCELO L. M. APOIO À INOV AÇÃO E AO EMPREENDEDORISMO TECNOLÓGICO: ASPECT OS DA GESTÃO DA INCUBADORA DE EMPRESAS DE BASE TECNOLÓGICA DO LNCC.
+R evista de Empr eendedorismo e Gestão de Micr o e Pequenas Empr esas , [S. l.], v. 3, n. 02, p. 110–125, 2018.
+Disponível em: < .revistas.editoraenterprising.net/index.php/regmpe/article/view/178>.
+FUCK, MARCOS P.; VILHA, ANAP ATRÍCIA M. Inovação Tecnológica: da definição à ação.
+Contemporâneos – Revista de Arte e Humanidades .
+São Paulo, n. 9, nov. 2011 a abr.
+Disponível em:< .revistacontemporaneos.com.br/n9/dossie/inovacao-tecnologica.pdf>.
+GIL, A. C. Como elaborar projetos de pesquisa.
+Instituto Nacional de Estudos e Pesquisas Educacionais (Inep).
+Censo da Educação Superior: Sinopse Estatística – 2019 .
+Disponível em: < .inep.gov .br/superior/censosuperior/sinopse/default.asp>.
+IKENAMI, Rodrigo K.; GARNICA, Leonardo A.; RINGER, Naya J. Ecossistemas de inovação: Abordagem analítica da perspectiva empresarial para formulação de estratégias de interação.
+Revista de Administração, Contabilidade e Economia da Fundace , [s.l.
+], v. 7, n. 1, p.162-174, 2016.
+Disponível em: < .fundace.or g.br/revistaracef/index.php/racef/article/view/232>.
+INSTITUT O NACIONAL DE ESTUDOS E PESQUISAS EDUCACIONAIS ANÍSIO TEIXEIRA (INEP).
+LAKA TOS, E. M.; MARCONI, M. A. Metodologia científica.
+A. da C.; SOUZA, T. A.; CASTRO, C. C. de.
+Desafios e Críticas ao Modelo de Hélice Tríplice: uma revisão integrativa.
+Desenvolvimento em Questão , [S. l.], v. 18, n. 52, p. 233–248, 2020.
+DOI: 10.21527/2237-6453.2020.52.233-248.
+Disponível em: < .revistas.unijui.edu.br/index.php/desenvolvimentoemquestao/article/view/ 9439>.
+Disponível em: < Acesso em: 20 jul.
+MORGADO, EDUARDO M. Inovação, novos conceitos ampliados: oportunidades para empresas.
+Revista de Ciências Gerenciais , v. 15, n. 21, p. 225, 2011.
+Destruição Criativa, Inovação Disruptiva e Economía Compartilhada: Uma Análise Evolucionista e Comparativa.
+Revista Suma de Negócios , 10(21), 9-16. doi:10.14349/sumneg/2019.V10.N21.A2.
+NOGUEIRA, V., & ARRUDA, C. (2015).
+Causa da Mortalidade de Startups Brasileiras: O que Fazer para Aumentar as Chances de Sobrevivência no Mercado?
+Disponível em: < .fdc.or g.br/conhecimento/publicacoes/artigo-29767>.
+NOVELI, M.; SEGA TTO, A. P. Processo de cooperação universidade empresa para a inovação tecnológica em um parque tecnológico: evidências empíricas e proposição de um modelo conceitual.
+INMR Innovation & Management Review , [S. l.], v. 9, n. 1, p. 81-105, 2012.
+Disponível em: < .revistas.usp.br/rai/article/view/79251>.
+2021.ROCZANSKI, Carla R. M. O papel das universidades para o desenvolvimento da inovação no Brasil.
+In: XVI Colóquio Internacional de Gestión Universitaria .
+Disponível em: < 8.pdf?sequence=1> Acesso em: 10 jul.
+ROSENLUND, J.; ROSELL, E.; HOGLAND, W. Overcoming the triple helix boundaries in an environmental research collaboration.
+Science and Public Policy , 44(2), p. 153-162, 2016.
+Disponível em: < g/a/oup/scippl/v44y2017i2p153-162.html>.
+RUSSELL, Martha G. & SMORODINSKA YA, Nataliya V., 2018.
+Leveraging complex for ecosystemic innovation, Technological Forecasting and Social Change , Elsevier , vol.
+Disponível em: < .sciencedirect.com/science/article/pii/S0040162517316475>.
+A atuação das startups no cenário socioeconômico do Brasil: Um mapeamento das startups em relação aos Objetivos de Desenvolvimento Sustentável da Agenda 2030.
+Departamento de Engenharia de Computação e Sistemas Digitais , Universidade de São Paulo (USP), São Paulo, 2020.
+Disponível em: < g/10.29327/4425639>.
+SECRET ARIA DE ESTADO DO DESENVOL VIMENT O ECONÔMICO SUSTENTÁVEL (SDE).
+O Guia de Desenvolvimento de Ecossistemas e Centr os de Inovação , 2017.
+SILVA, Fernando F.; MAR TINHO, André T.; BOTELHO, Wagner C.; QUINTINO, Luis F. ANÁLISE DE ARTIGOS CIENTÍFICOS QUANT O A INOV AÇÃO DA TECNOLOGIA: UM ESTUDO BIBLIOMÉTRICO.
+Revista Científica Semana Acadêmica .
+Disponível em: < g.br/artigo/analise-de-artigos-cientificos-quanto-inovacao- da-tecnologia-um-estudo-bibliometrico>.
+Ecossistema de inovação na educação de Santa Catarina.
+In: TEIXEIRA, C. S.; EHLERS, A. C. S.; SOUZA, M. V.
+Educação fora da caixa: tendência para a educação no século XXI.
+Florianópolis: Bookess , 2015, v. 1.
+Disponível em: < Acesso em: 10 jul.
+TERRA DOS SANT OS, L. C.; RIMOLI, C. A. APLICAÇÃO DO MODELO HÉLICE TRIPLA DE INOV AÇÃO EM REDES DE PMEs: O CASO DA VITIVINICUL TURA EM JUNDIAÍ (SP).
+Revista Visão: Gestão Organizacional , Caçador (SC), Brasil, v. 1, n. 1, 2016.
+Disponível em: < Acesso em: 02 ago.
+2021.VEFAGO, Y.; TRIER WEILLER, A.; BARCELLOS DE PAULA, L. The Third Mission of Universities: The Entrepreneurial University .
+Brazilian Journal of Operations & Production Management , v. 17, n. 4, p. 1-9, 28 out.
+Disponível em: < Acesso em: 19 ago.

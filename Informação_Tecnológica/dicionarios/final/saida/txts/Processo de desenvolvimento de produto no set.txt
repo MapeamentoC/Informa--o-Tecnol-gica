@@ -1,0 +1,374 @@
+Product development process in the packing sector: an incremental innovation proposal focusing on the greater practicality in the use of tin foil use Denis Ramos de Oliveira1 - Univ.
+de Viçosa - Campus Rio Paranaíba - Inst.
+Exatas e Tecnológicas Kaique Messias de Menezes2 - Univ.
+de Viçosa - Campus Rio Paranaíba - Inst.
+Exatas e Tecnológicas Gustavo Tiradentes de Oliveira Mendes3 - Univ.
+de Viçosa - Campus Rio Paranaíba - Inst.
+Exatas e Tecnológicas Gustavo Pereira Rosa4 - Univ.
+de Viçosa - Campus Rio Paranaíba - Inst.
+Exatas e Tecnológicas Gustavo Alves de Melo5 - Univ.
+de Viçosa - Campus Rio Paranaíba - Inst.
+Exatas e Tecnológicas Maria Gabriela Mendonça Peixoto6 - Univ.
+de Viçosa - Campus Rio Paranaíba - Inst.
+Exatas e TecnológicasProcesso de desenvolvimento de produto no setor de embalagens: proposta de inovação incremental com enfoque na maior praticidade no uso do papel alumínio Este artigo teve como objetivo apresentar uma proposta de desenvolvimento de embalagem para papel alumínio dotada de mecanismo de corte móvel e com proteção ao usuário.
+Com base na simulação de uma pesquisa de mercado, verificou-se a existência de uma lacuna representada pelos consumidores de papel alumínio insatisfeitos com os resultados do corte deste produto.
+Frente a isso, diversos são os casos observados em que há dificuldades associadas ao corte do papel, onde o consumidor precisa utilizar uma tesoura ou outro instrumento, ocorrendo um desperdício de papel.
+Para tanto, foram utilizadas ferramentas e técnicas de tomada de decisão para processos de desenvolvimento de produto, tais como, QFD , Análise de Custos, FMEA , Benchmarking , SWOT e Análise Ergonômica.
+Dessa forma, o formato desta proposta buscou proporcionar, ao consumidor, maior praticidade, segurança e precisão no corte do papel, sendo que fatores como o baixo custo de matéria-prima e a complexidade da embalagem, aliados à grande utilidade e carência de mercado, podem intensificar, ainda mais, as chances de o produto se inserir no setor de embalagens, com um grande potencial competitivo.
+Palavras-chave: Processo de desenvolvimento de produto.
+This paper aimed to present a development proposal for packaging for tin foil with a mobile cutting mechanism and user protection.
+Based on the simulation of a market research, a gap was shown, represented by consumers of tin foil dissatisfied with the results of this product cutting.
+Faced with this, several cases are observed in which there are difficulties associated with cutting the paper, where the consumer has to use scissors or other instruments, and thus a waste of paper occurs.
+Therefore, tools and decision-making techniques were used for product development processes, such as QFD, Cost Analysis, FMEA, Benchmarking, SWOT and Ergonomic Analysis.
+As a result, , the format of this proposal sought to provide the consumer with greater practicality, safety and precision in paper cutting, and factors such as the low cost of the raw material and the complexity of the packaging, allied to the large utility and lack of market, can further intensify the chances of the product entering the packaging sector, with larger competitive potential.Keywords: Product development process.
+Tools.RESUMO Abstr ActRecebido 17/01/2017 ApRovAdo 13/11/2017 1. dennis.rdo@gmail.com; 2. kaique.menezes2@yahoo.com.br; 3. gustavo.tiradentes@ufv.br; 4. gustavo.rosa@ufv.br; 5. gustavo.a.melo@ufv.br; 6.
+Universidade Federal de Viçosa, Campus de Rio Paranaíba, Rodovia MG-230, Km 8, Rio Paranaíba, MG, 38810-000, Caixa Postal 22, mgabriela@ufv.br OlIVEIRA , D. R.; MEnEzEs, K. M.; MEnDEs, G. T. O; ROs A, G. P .
+; MElO, G. A.; PEIxOTO , M. G. M. Processo de desenvolvimento de produto no setor de embalagens: proposta de inovação incremental com enfoque na maior praticidade no uso do papel alumínio.
+Gestão da Produção, Operações e Sistemas , Bauru, Ano 14, nº 3, jul-set/2018, p. 325-349.
+DOI : 10.15675/gepros.v13i3.1964Processo de desenvolvimento de produto no setor de embalagens: proposta de inovação incremental com enfoque na maior praticidade no uso do papel alumínio326 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 14, nº 3, jul-set/2018, p. 325-3491.
+INTRODUÇÃO A inovação de produto se refere ao desenvolvimento e lançamento no mercado de um novo produto e tecnologia, que é o resultado do desenvolvimento de uma nova ideia, sendo a maioria das inovações uma consequência de modificações incrementais de produtos (GALBRAITH, 1997; TUSHMAN; NADLER, 1997; LUKAS; FERRELL, 2000).
+O projeto, ou desenvolvimento, de produto caracteriza-se como a tradução de uma necessidade de mercado, de tecnologias e ideias existentes, em um produto inovador (KRISHNAN; ULRICH, 2001).
+A inovação é um fator crítico para o desempenho eficiente da empresa e contribui para o seu sucesso comercial (BAKER; SINKULA, 1999).
+Em um cenário econômico global de intensa competição e dinamismo, o desenvolvimento de novos produtos e processos emerge como ponto fundamental de competitividade.
+Organizações que chegam ao mercado, mais rapidamente e mais eficientemente, através de produtos inovadores que estão de acordo com as necessidades e expectativas dos seus clientes principais, criam maiores vantagens competitivas.
+Neste concorrido cenário mercadológico, de-sempenhar de maneira eficaz e eficiente a inovação tem se tornado uma exigência para a sobrevivência da empresa; desempenhá-la de maneira excelente tem se tornado um diferencial e pode ser considerada a razão do êxito das organizações (WHEELWRIGHT; CLARK, 1992).
+O Projeto de Desenvolvimento de Produto (PDP) é determinante para o crescimento e representa uma estratégia chave para as empresas, visto que é fundamental para aumentar os níveis de satisfação dos clientes.
+A importância dessa temática tem crescido em decorrência do fato de que o ciclo de vida dos produtos está diminuindo, o que força as empresas a lidarem com desafios mais complexos no âmbito do projeto de produto (HAUSER; URBAN, 1993; HART, 1996; GONZÁLEZ; PALACIOS, 2002; ULRICH; EPPINGER, 2000; YEH et al., 2010).
+Apesar do uso das ferramentas da qualidade como, Quality Function Deployment (QFD ) e Failure Mode and Effect Analysis ( FMEA ), se mostrar uma estratégia eficiente para melhorar o desempenho das empresas no PDP, poucas organizações têm utilizado essa metodologia (MAHAJAN; WIND, 1992; SEWARD, 1992).
+Processo de desenvolvimento de produto no setor de embalagens: proposta de inovação incremental com enfoque na maior praticidade no uso do papel alumínio327 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 14, nº 3, jul-set/2018, p. 325-349Os processos envolvidos em um projeto de produto estão sujeitos a incertezas (ORMEROD, 2005).
+Estas estão mais presentes em produtos radicalmente inovadores, que são aqueles que não existem até então no mercado (COOPER, 2000).
+Entretanto, produtos com inovações incrementais, como o produto que será proposto neste artigo, podem apresentar altos níveis de incerteza e não obter sucesso mercadológico por não considerar essa premissa.
+A New Coke , criada como uma inovação incremental da Coca-Cola nos Estados Unidos na década de 80, e o Arch Deluxe Burger do McDonalds, concebido em meados dos anos 90, são exemplos de produtos com inovações incrementais que não obtiveram sucesso, apesar dos produtos que foram previamente alterados o terem alcançado (SCHINDLER, 1992; DUBOW; CHILDS, 1998; KLEIJNEN et al., 2009).
+Para diminuir essas incertezas relacionadas à inovação é necessário, além de outros fatores, o uso adequado de ferramentas e metodologias.
+Existe uma ampla variedade de embalagens no mercado e essas buscam combinar os diversos atributos de cor, design , forma, símbolos a fim de transmitir as informações e emoções que a empresa deseja ao cliente (NANCARROW et al., 1998).
+As embalagens são uma forma de atrair o consumidor e também de fazê-lo identificar-se à marca.
+Assim, tem crescido a importância do projeto de embalagens, e das próprias embalagens no mercado, como um dos principais canais de comunicação com o cliente, e de marketing (CONNOLLY; DA VIDSON, 1996; RETTIE; BREWER, 2000).
+De acordo com Keles e Dundar (2007), o papel alumínio pode ser utilizado como material protetor e de conservação, como utensílio culinário, facilitando o preparo e conservação de alimentos e tem aplicações também no mercado estético.
+Logo, é um produto ao qual podem ser atribuídos diversos fins e amplamente utilizado pelos diversos mercados consumidores e classes sociais no Brasil.
+Entretanto, as atuais embalagens para papel alumínio deixam a desejar quanto à presença de um mecanismo eficiente para o corte, gerando consumidores insatisfeitos.
+Uma embalagem inovadora para papel alumínio dotada de ferramenta de corte visa preencher essa lacuna de mercado, além de atender aos consumidores insatisfeitos com os atuais suportes de parede para papel alumínio, que podem apresentar preços exorbitantes.Processo de desenvolvimento de produto no setor de embalagens: proposta de inovação incremental com enfoque na maior praticidade no uso do papel alumínio328 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 14, nº 3, jul-set/2018, p. 325-349Para tanto, este trabalho teve como objetivo a proposição de um projeto de produto, a partir da aplicação de ferramentas e técnicas de apoio a processos de tomada de decisão, com o intuito de diminuir as incertezas e gerar um produto inovador.
+O produto consistiu em uma embalagem de caráter inovador para papel alumínio, dotada de mecanismo para fazer o corte de maneira ainda mais eficiente.
+Tratou-se, portanto, de uma proposta que simula o cenário de um projeto de produto, baseada na busca pelo atendimento de uma necessidade de mercado e que represente sucesso mercadológico, ao traduzir as expectativas dos clientes em requisitos do produto.
+Processo de desenvolvimento de produto no setor de embalagens A inovação é vital para sustentar e promover os negócios atuais das empresas e para criar novos mercados (CHESBROUGH, 2003).
+Ao longo dos anos, diversos autores incluindo Schumpeter (1939), Prahalad e Hamel (1990) e Pavitt (1990) geraram significativas contribuições para assuntos relacionados ao desenvolvimento e inovação de produtos e processos.
+Cooper (2011) argumenta que produtos inovadores aumentam receitas, fatias de mercado, resultados líquidos e os preços das ações.
+De acordo com Wood e Moreau, (2006) as empresas buscam continuamente diferenciar o que vendem da concorrência por meio do acréscimo de atributos inovadores aos produtos existentes.
+O projeto de produto tem se tornado um fator crítico para o sucesso comercial das organizações, devido à intensa competitividade e aumento das exigências do mercado, com o intuito de melhorar o seu desempenho e alcançar maior participação no mercado (CLARK; FUJIMOTO, 1991).
+O PDP objetiva cumprir com as especificações tecnológicas e de manufatura do produto, para que o seu processo de produção seja eficiente.
+É necessário considerar as necessidades do mercado, as fronteiras do produto e as estratégias da empresa e do desenvolvimento do produto.
+Fatores como a inter -Processo de desenvolvimento de produto no setor de embalagens: proposta de inovação incremental com enfoque na maior praticidade no uso do papel alumínio329 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 14, nº 3, jul-set/2018, p. 325-349nacionalização dos mercados, redução do ciclo de vida dos produtos e aumentos da diversidade de produtos e tecnologia, têm aumentado a importância do PDP para o sucesso das empresas (ROZENFELD et al., 2006).
+Esse processo é sistematizado para desenvolver, testar, garantir a lucratividade da empresa e aumentar os níveis de satisfação do consumidor (ULRICH, EPPINGER, 2000).
+Em se tratando do PDP no setor de embalagens, deve-se ressaltar sua ampla relevância no contexto econômico brasileiro e mundial.
+A indústria de embalagens apresenta grande abrangência e aplicação em variados setores econômicos.
+As embalagens servem como um dos principais canais de comunicação com os consumidores: elas têm a capacidade de criar a necessidade de consumo, criar emoção, representam praticidade, conveniência, conforto, além de ser uma maneira de conservar os produtos (BUCCI, 2003).
+Na contemporaneidade vem se evidenciando um aumento da complexidade dos projetos de desenvolvimento de embalagens, seja para atender aos mercados físicos ou virtuais.
+O processo de desenvolvimento envolve simultaneamente diversos requisitos que influenciam diretamente o desempenho e a relação produto-usuário (ZA V ADIL; SILV A, 2013).
+A intensa concorrência observada nos mercados incentiva o uso de ferramentas relacionadas ao projeto de produto para aperfeiçoar os seus resultados e aumentar a rentabilidade das organizações (NARVER; SLATER, 1990).
+Ferramentas de apoio ao processo de desenvolvimento de produto O uso e a implementação efetiva de ferramentas e técnicas no PDP tem sido um importante elemento de gerenciamento da integração no processo de desenvolvimento de produtos.
+Numerosos instrumentos e técnicas foram desenvolvidos ao longo dos anos para tornar o processo PDP mais gerenciável, de forma que a aplicação de ferramentas nesse processo inclui estudos envolvendo, dentre outras, QFD , conjoint analysis , benchmarking e design of experiment (DOE) (SEWARD, 1992; LAMB, DALE, 1994; MC QUARTER et al., 1995; SPRING et al., 1998; LIN, 2003).
+Processo de desenvolvimento de produto no setor de embalagens: proposta de inovação incremental com enfoque na maior praticidade no uso do papel alumínio330 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 14, nº 3, jul-set/2018, p. 325-349Embora o uso dessas ferramentas não garanta o sucesso do processo de inovação, sua implementação pode, de forma geral, servir para identificar os problemas de forma sistêmica, complementando o esforço da empresa para melhorar o resultado do PDP (COOPER; KLEINSCHMIDT, 1986).
+Estudos têm também ilustrado que há uma relação positiva entre o uso de ferramentas de apoio ao PDP e o desempenho das empresas (NIJSSEN; LIESHOUT, 1995; MIRANDA; BAŇEGIL, 2002; KAYNAK, 2003).
+Sabe-se que a opinião do cliente representa fator crucial para a satisfação do mercado em que a empresa encontra-se inserida, ou almeja alcançar.
+Satisfazer o consumidor está relacionado ao cumprimento das necessidades e expectativas do mesmo (JURAN, 1992).
+Sem informações a respeito de um segmento de mercado, dificilmente uma empresa irá conquistá-lo, crescer e ter sucesso (KOTLER, 2000).
+Neste sentido, a pesquisa de mercado refere-se a uma ferramenta que orienta a identificação das necessidades e expectativas dos clientes, do seu perfil, promove a avaliação de conceitos e inovações e também auxilia a tomada de decisões para o sucesso do desenvolvimento de um produto (POLIGNANO; DRUMMOND, 2001; SEBRAE, 2016).
+Frente a este cenário, o brainstorming pode ser entendido como uma ferramenta de geração de ideias, com frequente uso no processo de desenvolvimento de produto (LAMM; TROMMSDORFF, 1973; MULLEN; JOHNSON; SALAS, 1991).
+(2015) define o brainstorming como uma técnica criativa, individual ou grupal, no qual os esforços são feitos para encontrar uma conclusão para um problema específico, reunindo uma lista de ideias arquitetadas pelos participantes.
+Por outro lado, para Oliveira et al.
+(2010), o QFD ajuda especificamente na maximização da satisfação do cliente, pois tem como objetivo "ouvir a voz do cliente" e traduzir suas especificações em requisitos para a melhoria do produto, na condição de especificações técnicas.
+Em outras palavras, o QFD é, portanto, a conversão dos requisitos do consumidor em requisitos técnicos do produto, de forma que a qualidade do produto acabado se dá a partir dos desdobramentos sistemáticos das relações entre esses requisitos.
+Logo, o QFD é uma ferramenta útil para facilitar o PDP a aumentar a satisfação dos consumidores (CHENG, 2016).Processo de desenvolvimento de produto no setor de embalagens: proposta de inovação incremental com enfoque na maior praticidade no uso do papel alumínio331 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 14, nº 3, jul-set/2018, p. 325-349Já Kelessidis (2000) define benchmarking como o processo de melhoria de desempenho pela constante identificação, compreensão e adaptação de práticas externas, e de processos encontrados dentro e fora de uma organização.
+O autor também ressalta que a prática conduz ao pensamento "fora da caixa" pela busca de alternativas de melhorias externas à organização.
+Tratando-se do desenvolvimento de produtos, esta pode também ser considerada uma ferramenta bastante utilizada (SILV A et al., 2002).
+De acordo com Baxter (1995), o estudo de produtos concorrentes pode contribuir para incorporar novas características ao produto que está sendo desenvolvido.
+A análise ergonômica, enquanto metodologia de apoio ao desenvolvimento de projeto de produto atua como instrumento de criação de produtos com usabilidade mais fácil para o homem.
+Esta tem como foco o usuário, assegurando o seu fácil uso, aprendizado, segurança e utilidade.
+O aspecto mais importante é a segurança do usuário.
+O produto deve ser projetado a fim de dar segurança e oportunidade de funcionamento eficiente ao consumidor, cumprindo com os objetivos das tarefas (PALMER, 1976; IIDA; 1990; MORAES, 1993).
+De maneira complementar, a ferramenta de qualidade, FMEA , consiste em uma avaliação das possíveis falhas inerentes a um produto ou processo (mais comuns), de modo que são considerados, de forma conjunta, os riscos e as ações corretivas características.
+Além disso, a ferramenta pode contribuir para a construção de um processo produtivo de maior qualidade, confiabilidade e segurança, buscando-se a redução de falhas e custos, assim como também pode estimular o trabalho em equipe, fato comprovado pela utilização do brainstorming em sua elaboração (ZORZAN; DORNELES; SERV AT, 2013).
+Por fim, no âmbito da análise de custos, Baxter (1995) leva em conta fatores como custos de material, de mão de obra e indiretos, para cada componente do produto, bem como ressalta que o preço dos produtos pode ser entendido como um fator "perigosamente explosivo".
+Além disso, pesquisas indicam que o preço de um produto pode ter vinte vezes mais impacto nas vendas do que divulgação (DIAMANTOPOULOS; MATHEWS, 1995).
+Neste sentido é que a análise SWOT - Strengths (Forças), Weaknesses (Fraquezas), Opportunities (Oportunidades) e Threats (Ameaças) se refere a uma ferramenta estrutural utilizada na análise do ambiente interno e externo da empresa ou produto para a formulação de estratégias, permitindo identificar os pontos fortes e fracos, e as oportunidades e ameaças.
+(KOTLER, 2000).Processo de desenvolvimento de produto no setor de embalagens: proposta de inovação incremental com enfoque na maior praticidade no uso do papel alumínio332 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 14, nº 3, jul-set/2018, p. 325-3493.
+PROCEDIMENTOS METODOLÓGICOS A metodologia se refere, segundo Vianna (2001), à ciência que descreve os métodos utilizados, a fim de alcançar os objetivos propostos.
+Este trabalho foi dividido em três etapas, a saber: a primeira etapa caracterizou-se pela definição do produto a ser desenvolvido, da segmentação do seu possível mercado consumidor e da definição dos parâmetros gerais de usabilidade do produto.
+O produto a ser desenvolvido foi escolhido por meio do desenvolvimento da ferramenta brainstorming , seguindo as etapas propostas por Baxter (2000) para auxiliar a geração de ideias: inspiração, preparação, incubação, iluminação e verificação.
+A ideia selecionada, com base nos resultados obtidos por meio do brainstorming , foi a embalagem inovadora para papel alumínio, dotada de um mecanismo de corte.
+Após a seleção desta ideia, os autores buscaram definir, baseando-se no levantamento bibliográfico, brainstorming e pesquisa de mercado, o segmento de mercado que o produto iria atender e as necessidades dos possíveis consumidores, justificando seu desenvolvimento e os parâmetros do produto inovador.
+A segunda etapa do projeto envolveu a utilização de ferramentas de apoio ao processo de tomada de decisão, que serviram de base para a proposição de melhorias para a ideia inicial, além da definição das especificações do produto final.
+Nesta etapa, foi realizada uma pesquisa de mercado, por meio de um questionário hospedado em uma plataforma online , como forma de identificar os requisitos necessários para a elaboração de ferramentas como o QFD , Análise de Custos, FMEA , Benchmarking , SWOT e Análise Ergonômica.
+Estas ferramentas foram elaboradas com base na análise dos dados da pesquisa de mercado, assim como no brainstorming e levantamento de literatura.
+A terceira etapa do projeto referiu-se à revisão dos aspectos gerais do conceito final do produto inovador e dos resultados da aplicação das ferramentas, onde se buscou a identificação e o aprimoramento dos parâmetros que pode-riam garantir melhor usabilidade, segurança e que atendessem às necessidades dos consumidores.
+Processo de desenvolvimento de produto no setor de embalagens: proposta de inovação incremental com enfoque na maior praticidade no uso do papel alumínio333 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 14, nº 3, jul-set/2018, p. 325-349No desenvolvimento das referidas ferramentas, este artigo buscou promover uma análise quali-quantitativa, construindo uma relação harmoniosa entre a abordagem qualitativa e quantitativa.
+A análise quantitativa se baseou na análise de dados mensuráveis e numéricos, como estatísticas e percentuais da pesquisa de mercado, custos e valores do FMEA .
+Já a qualitativa buscou interpretar e analisar dados verbais e visuais, pela aplicação das ferramentas, fundamentalmente relacionados à análise ergonômica.
+Preocupou-se em captar os significados e compreender a realidade, objetivando a identificação das necessidades dos possíveis usuários e a tradução das mesmas em requisitos que gerassem os melhores conceitos para o projeto de produto (BERTO; NAKANO, 1998; FRASER; GODIN, 2004; DUBOIS; ARAÚJO, 2007; BRASILEIRO 2013; ALMEIDA, 2014).
+RESULTADOS E DISCUSSÃO Conforme já mencionado, a primeira ferramenta aplicada no processo de desenvolvimento do produto inovador foi o brainstorming .
+Seguindo as etapas propostas por Baxter (2000) para o seu desenvolvimento, foi apresentado um problema que demandava solução, consistindo na elaboração de um projeto de produto inovador servindo, portanto, de inspiração inicial.
+De maneira subsequente, realizou-se a análise do problema, que consistia na proposição de ideias de novos produtos, a fim de estimular o processo de preparação.
+A partir daí foi estimulada a geração de possíveis ideias e de produtos a serem desenvolvidos.
+Houve um intervalo de dias para a incubação e consequente aperfeiçoamento de concepções.
+Após esse período, foram selecionados os melhores conceitos de produto, com base na votação dos autores.
+Logo, a ideia selecionada foi a embalagem inovadora para papel alumínio dotada de um mecanismo de corte.
+Com base nesta ideia selecionada para PDP, buscou-se identificar e segmentar o possível mercado consumidor desse produto inovador, através da pesquisa de mercado.
+Esta metodologia também auxiliou na identificação das expectativas dos clientes e na avaliação de conceitos e inovações (POLIGNANO; DRUMMOND, 2001).
+A ferramenta escolhida para apoiar a pesquisa de mercado foi o questionário, um documento composto por um conjunto de questões, com a finalidade de gerar os conceitos necessários, por meio das res -Processo de desenvolvimento de produto no setor de embalagens: proposta de inovação incremental com enfoque na maior praticidade no uso do papel alumínio334 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 14, nº 3, jul-set/2018, p. 325-349postas, para se alcançar os objetivos do projeto (PARASURAMAN, 1991).
+Esse questionário foi hospedado em uma plataforma online , cujo endereço foi promovido em redes sociais e em outros canais de comunicação, a fim de atingir um elevado número de respostas.
+Com base nas porcentagens de cada resposta do questionário, e também em decorrência das sugestões feitas pelos respondentes, nota-se o amplo uso do papel alumínio por pessoas de várias faixas etárias, bem como a maioria dos respondentes afirmou usar esse produto com certa frequência.
+Já em relação à renda mensal dos entrevistados, houve uma distribuição uniforme entre diversas rendas.
+Ademais, considerando-se que o papel alumínio é utilizado para diversos fins e pelos mais diversos tipos de consumidores (KELES; DUNDAR, 2007), e constatando-se essa heterogeneidade de rendas e faixa etária na pesquisa de mercado, não foi feita nenhuma distinção de classe social, ou faixa etária, a serem atendidas pelo produto inovador.
+Muitos entrevistados afirmaram sentir dificuldade ao realizar o corte do papel alumínio, visto que as atuais embalagens no mercado não oferecem nenhum mecanismo para fazê-lo.
+Também, afirmaram utilizar outro instrumento para fazer o corte, como tesoura ou faca, o que pode representar um risco à segurança.
+Além desses problemas, afirmaram que um dos motivos da insatisfação com os atuais produtos no mercado envolve o corte do papel alumínio que, em muitos casos, não é eficiente, o que gera desperdício do papel.
+Portanto, nota-se assim uma lacuna de mercado de consumidores com proble-mas de usabilidade e risco à integridade física.
+A quase totalidade dos entrevistados afirmou estar disposta a comprar uma embalagem para papel alumínio dotada de alguma melhoria, o que pode tornar viável o desenvolvimento de uma embalagem inovadora que venha preencher essas lacunas de mercado.
+Foi solicitado ao consumidor avaliar os critérios mais importantes com relação a novos conceitos de embalagens para papel alumínio, com o intuito de fornecer diretrizes para o PDP.
+Os critérios avaliados foram: preço, praticidade, portabilidade, segurança, uso de materiais recicláveis e durabilidade.
+Assim, foi possível concluir, por meio dos níveis de importância de cada critério, que os mais importantes para o consumidor em uma embalagem inovadora de papel alumínio seriam respectivamente: praticidade, preço acessível e segurança e, em menor proporção, a durabilidade e o uso de materiais recicláveis.
+O critério portabilidade não será abordado, pois não obteve nenhuma resposta.Processo de desenvolvimento de produto no setor de embalagens: proposta de inovação incremental com enfoque na maior praticidade no uso do papel alumínio335 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 14, nº 3, jul-set/2018, p. 325-349Com base na segmentação do mercado, identificação das lacunas e hierarquização das necessidades realizadas por meio do brainstorming e da pesquisa de mercado, foi desenvolvida uma análise ergonômica relacionada ao PDP.
+Essa análise forneceu resultados para a adequação das características do produto aos critérios de segurança, usabilidade, etc., por meio do levantamento dos problemas, inferidos pelos autores, que poderiam vir a surgir na interação produto-usuário, da sua sistematização e da análise da tarefa (PHEASANT, 1996; QUARESMA, 2001; MORAES; PEQUINI, 2004).
+A análise da tarefa foi desenvolvida, buscando-se sugerir melhorias ao design do produto (MORAES; PEQUINI, 2004) e teve como resultado a sugestão da introdução de um mecanismo de corte nas atuais embalagens, buscando-se solucionar os problemas gerados pela interação homem-objeto.
+Vale ressaltar que não houve a concepção material dessa ferramenta incremental, mas ape-nas a sua sugestão para um possível usuário do produto inovador.
+A partir da avaliação do usuário foram propostas melhorias no dispositivo de corte, com relação à segurança da região cortante deste mecanismo, formado pela lâmina.
+Este não deverá ter contato direto com o usuário da embalagem, ficando isolado por um dispositivo plástico, que também poderá promover um corte mais eficiente.
+Ademais, propôs-se a elaboração de instruções claras na embalagem, para uma fácil adequação do usuário a essa ferramenta.
+Com base na ferramenta FMEA foi possível observar como riscos potenciais: a falha do corte realizado pela lâmina, o deslize do dispositivo de corte, o deslize do papel, que é proporcionado por duas hastes no interior da embalagem e o posicionamento correto da base metálica que servirá de suporte para o mecanismo de corte.
+Como efeitos potenciais de falhas foram verificados a inviabilidade e a ocorrência de acidentes no corte do papel.
+Os resultados indicam a falha no corte do papel como o principal risco associado ao produto, uma vez que tal falha apresentou maior risco calculado.
+Com relação às prováveis ações corretivas, destacam-se a troca da lâmina e a inspeção do dispositivo de corte, das dimensões corretas da embalagem, bem como do encaixe da haste interna e do alinhamento da lâmina com a base metálica.
+A análise SWOT foi utilizada no planejamento estratégico com o intuito de identificar as forças, fraquezas, oportunidades e ameaças do produto a ser desenvolvido, sendo realizada através de um brainstorming entre os autores, Processo de desenvolvimento de produto no setor de embalagens: proposta de inovação incremental com enfoque na maior praticidade no uso do papel alumínio336 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 14, nº 3, jul-set/2018, p. 325-349onde foram levantados e discutidos argumentos e suas ponderações sobre o impacto desses diversos fatores no produto.
+A primeira análise referiu-se ao ambiente externo, ou seja, ao mercado.
+As oportunidades identificadas foram: produto novo no mercado, aumento da popularidade da culinária no Brasil e insatisfação dos consumidores com produtos já existentes no mercado.
+De forma semelhante, as ameaças levantadas foram: recessão da economia, resistência do mercado em aderir novos produtos e acirrada concorrência no ramo de embalagens.
+Comparando o resultado final das oportunidades e ameaças, podemos concluir que as oportunidades sobressaíram-se às ameaças.
+Analisando-se o ambiente interno, foram listadas quatro forças do produto, a saber, praticidade, segurança, durabilidade e flexibilidade.
+Por último, foi feita a análise das fraquezas do produto, onde foram listados três argumentos: preço, integridade dos componentes da embalagem e a mudança do espaço produtivo.
+Comparando-se os resultados finais, podemos ver que as forças sobrepõem-se às fraquezas.
+Portanto, analisando-se o resultado final da análise SWOT , podemos observar que com a aplicação desta ferramenta o produto tende para forças e oportunidades, o que significa que o produto inovador pode vir a apresentar vantagens competitivas, tanto relacionadas ao ambiente interno como em relação ao mercado.
+Os requisitos dos clientes para o uso da ferramenta QFD foram novamente levantados por meio de um brainstorming entre os autores e analisados pela pesquisa de mercado.
+A partir do questionário foram avaliados os principais re-quisitos do cliente, de acordo com possíveis consumidores do produto.
+Posteriormente, esses foram traduzidos como requisitos de características de qualidade.
+De acordo com os resultados obtidos pela pesquisa de mercado e relacionando-os aos pesos de cada requisito no QFD , foram tomadas as decisões para o desenvolvimento do projeto de produto, juntamente com uma análise dos resultados das outras ferramentas.
+Foram definidas as características finais do produto, bem como seus respectivos processos produtivos, buscando-se atender aos requisitos.
+Por meio da aplicação do QFD , notou-se uma relevância dos requisitos que garantem segurança e qualidade da ferramenta de corte.
+Os resultados estão demonstrados no Quadro 1.Processo de desenvolvimento de produto no setor de embalagens: proposta de inovação incremental com enfoque na maior praticidade no uso do papel alumínio337 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 14, nº 3, jul-set/2018, p. 325-349Quadro 1 - Resultados da aplicação do Quality Function Deployment - QFD .
+Características técnicasPeso relativo (Maior relevância)Requisitos Resistência da caixa13 Qualidade do papel 12 Durabilidade Ferramenta de corte16 Rigidez da ferramenta 14 Alinhamento da ferramenta 12 Estrutura de proteção eficiente Fonte: Elaborado pelos autores.
+Logo, com base nos resultados obtidos pela implementação do conjunto de ferramentas complementares e interdependentes empregadas no PDP, tem-se que a embalagem de papel alumínio dotada de mecanismo para corte deverá ser desenvolvida, considerando-se os componentes descritos adiante.
+A embalagem deverá ser composta por papel cartão, que tem os seguintes benefícios, segundo informações do Fórum Papel Cartão (2016): durabilidade, rigidez, eficiência para impressão e preço acessível.
+Assim, esta embalagem inovadora terá condições de atender às expectativas dos clientes, com relação à durabilidade e qualidade e preço baixo, visto se tratar de um material, segundo levantamento de custos feito pelos autores, com preço superior apenas ao papelão, quando comparado aos materiais mais comuns observados nas embalagens existentes no mercado.
+O material da lâmina responsável pelo corte do papel alumínio deverá ser à base de alumínio, que pode ser produzida por meio do corte de uma chapa desse material.
+Essa lâmina, pelo fato de ser pouco espessa, deverá realizar o corte do papel pelo contato deslizante horizontal e pela aplicação de força.
+A chapa de alumínio tem um custo não elevado e terá a função de promover rigidez e eficiência no corte, esperadas pelo usuário (BOHLER – BRASIL, 2016).
+O restante da chapa de alumínio deverá ser utilizado para a construção de um suporte na embalagem que evitará o contato da lâmina com o papel cartão e facilitará o corte, que também servirá de apoio.Processo de desenvolvimento de produto no setor de embalagens: proposta de inovação incremental com enfoque na maior praticidade no uso do papel alumínio338 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 14, nº 3, jul-set/2018, p. 325-349A lâmina para o corte do papel alumínio será acoplada a um dispositivo plástico, que fornecerá segurança ao usuário ao impossibilitar seu contato direto com esta, além de facilitar o movimento para a aplicação de força horizontal, por parte do usuário.
+Buscando, assim, atender os critérios de segurança, praticidade, durabilidade, preço acessível.
+Serão desenvolvidas duas hastes de plástico para o papel alumínio ser acoplado no interior da embalagem e para que possa ser retirado ao ser puxado externamente à caixa.
+O uso do plástico, segundo informações da Associação Brasileira da Indústria de Plástico (2016), se justifica devido às suas propriedades de baixo peso, custo, elevadas resistências mecânicas e químicas, facilidade de aditivação e, ainda, pelo fato de serem totalmente recicláveis.
+Ainda com relação ao critério durabilidade evidenciado pela aplicação das ferramentas, essa embalagem inovadora poderá funcionar como refil para o papel alumínio da empresa.
+Este poderá ser vendido separadamente e com dimensões exclusivas.
+Assim, a embalagem poderá ser utilizada somente com o papel alumínio da mesma empresa.
+Terá um custo superior às embalagens vendidas atualmente, em decorrência desse fato, mas devido à escolha de materiais já citados, não deverá ser um custo tão discrepante.
+Além disso, espera-se que tenha um valor consideravelmente inferior aos atuais suportes de parede para papel alumínio.
+A embalagem inovadora terá uma abertura na parte lateral para que o consumidor possa substituir o rolo de papel alumínio quando este vir a acabar.
+Com base nos benchmarkings realizados e em dados fornecidos por Bohler-Brasil (2016), Associação Brasileira do Alumínio (2016), Lotus Metal (2016), Indústria da Transformação do Material Plástico (2012) e pelo Fórum Papel Cartão (2016), tem-se que o processo produtivo dos componentes da embalagem para papel alumínio dotada de mecanismo de corte, pode ser evidenciado adiante.
+Para a produção do papel cartão, primeiramente se aquece a madeira no digestor, em seguida ocorre a separação das fibras de celulose, subsequentemente ocorre a lavagem, refinamento e mistura e, por fim, tem-se o papel cartão, que segue para a impressão.
+Para a produção do suporte para corte e da lâmina da embalagem, faz-se necessário primeiramente a laminação e, em Processo de desenvolvimento de produto no setor de embalagens: proposta de inovação incremental com enfoque na maior praticidade no uso do papel alumínio339 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 14, nº 3, jul-set/2018, p. 325-349seguida, gera-se a chapa de alumínio inteira, finalizando com o corte no tamanho desejado.
+Já, para a produção dos dispositivos de plástico, o processo de formação inicia-se primeiramente com a injeção do material, seguido da extrusão e sopro, bem como posteriormente a rotomoldagem e a termoformação e, assim, obtém-se o plástico.
+O processo de produção do papel alumínio, que é um dos componentes do produto final, dá-se pelo derretimento do alumínio, desbastamento e frisagem a frio e, para finalizar, ocorre o corte do papel.
+O processo produtivo da embalagem consiste na montagem destes componentes.
+Após a montagem, será feita a venda.
+Algumas das máquinas ne-cessárias para garantir o processo produtivo descrito são para papéis gráficos, impressão de gravuras, secadores de celulose, revestimento de rolos, acabamentos, automação para controle e produção e corte.
+São necessárias máquinas para a impressão gráfica.
+Como propostas ao marketing do produto e a fim de atender ao requisito de materiais recicláveis/sustentáveis expostos pelos possíveis consumidores sugere-se um enfoque na divulgação da sustentabilidade inerente à embalagem de papel cartão.
+No Brasil, segundo o Fórum Papel Cartão (2016), a produção de papel cartão é 100% sustentável, embora esta informação não seja tão explorada por muitas empresas.
+Assim, esta informação pode ser difundida pelo marketing e na própria embalagem inovadora.
+As dimensões da embalagem deverão ser de 4 cm x 4 cm x 28 cm.
+Os custos do produto foram estimados também por meio de brainstorming entre os autores, no qual foi utilizado, como parâmetro, o peso dos componentes do produto.
+Foi feito um levantamento do preço médio, por quilograma, de cada material necessário para a fabricação da embalagem.
+Então, foi realizada uma estimativa baseada no peso final do produto e de cada um de seus componentes, com um acréscimo, já que o peso por quilograma da matéria prima é do material bruto, sendo necessário um processamento dessa matéria prima.
+A Tabela 1 apresenta uma visão geral dos custos incorridos pelo produto proposto.Processo de desenvolvimento de produto no setor de embalagens: proposta de inovação incremental com enfoque na maior praticidade no uso do papel alumínio340 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 14, nº 3, jul-set/2018, p. 325-349Tabela 1 - Tabela de custos do produto.
+Componente MaterialPreço materialPeso na embalagem (Kg)Preço por embalagem (R$)Preço após o processamento (R$) Caixa Papel cartão 0,24 0,08 0,0192 0,0288 Lâmina de corteAlumínio 4,10 0,002 0,0082 0,0123 Suporte externoAlumínio 4,10 0,04 0,1640 0,2460 Dispositivo de deslizePlástico 0,43 0,015 0,0065 0,0097 Suporte interno Plástico 0,43 0,01 0,0043 0,0065 Total 0,147 0,20 0,30 Fonte: Elaborada pelos autores.
+O custo do papel alumínio foi estimado em R$ 1,09 e, somando-se ao custo estimado da embalagem chegou-se a um custo final do produto no valor de R$ 1,39 para a embalagem proposta neste trabalho, com as dimensões sugeridas, com papel alumínio.
+Por fim, levando-se em consideração todas as especificações e parâmetros levantados e descritos anteriormente, foi elaborado o protótipo do produto, embalagem de papel alumínio dotada de ferramenta para corte, conforme demonstra a Figura 1.Processo de desenvolvimento de produto no setor de embalagens: proposta de inovação incremental com enfoque na maior praticidade no uso do papel alumínio341 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 14, nº 3, jul-set/2018, p. 325-349Figura 1 – Protótipo final do produto.
+Fonte: Elaborada pelos autores.
+CONCLUSÕES Por meio desta proposta, pôde-se demonstrar a importância do apoio em ferramentas e técnicas de tomada de decisão para o PDP, mais especificamente para a inovação de embalagens de papel alumínio, contribuindo também para o aumento de estudos nesta área.
+Com base nos resultados e melhorias evidenciadas por meio dessas ferramentas, foram desenvolvidas alternativas relacionadas a cada requisito do cliente - praticidade, preço acessível e segurança, e durabilidade e uso de materiais recicláveis.
+Assim, foram combinados os parâmetros essenciais dessas alternativas para a elaboração de uma embalagem inovadora para papel alumínio que preenchesse as lacunas identificadas e buscando garantir a satisfação dos possíveis consumidores.Processo de desenvolvimento de produto no setor de embalagens: proposta de inovação incremental com enfoque na maior praticidade no uso do papel alumínio342 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 14, nº 3, jul-set/2018, p. 325-349Portanto, a proposta para embalagem de papel alumínio inovadora apresentada neste estudo, de fato caracteriza-se como uma alternativa satisfatória, com chances de obtenção de sucesso mercadológico, uma vez que há uma ponderação consistente e relevante entre os custos do produto e os benefícios associados à sua utilização.
+Ainda, este trabalho demonstrou aspectos iniciais de uma provável carência de mercado quanto à demanda por um produto com características compatíveis ao apresentado, embora pesquisas mais profundas e realistas sejam importantes para consolidar ainda mais esta proposta inicial de projeto de produto.
+History of Quality Function Deployment in Japan, in The Best on Quality: targets, improvements, systems.
+Edited by H. J. Zeller, International Academy for Quality Book Series, Hanser Publishers, Munich.
+Quality Function Deployment: Integrating Customer Requirements.
+Cambridge: Productivity, 1990, 369 p.ALMEIDA, M. Elaboração de projeto, TCC, dissertação e tese .
+São Paulo: Atlas, 2014.ASSOCIAÇÃO BRASILEIRA DA INDÚSTRIA DO PLÁSTICO.
+Disponível em: < Acesso em: 23 out.
+ASSOCIAÇÃO BRASILEIRA DO ALUMÍNIO.
+Disponível em: < Acesso em: 23 out.
+BAKER, W. E.; SINKULA, J. M. Orientation, market orientation, and innovation: integrating and extending models of organizational performance.
+Journal of Market-Focused Management , v. 4, n. 4, p. 295-308, 1999.
+BARBOSA, V. Reciclado ainda é mais caro que produto novo , 2010.
+Disponível em: < Acesso em: 24 out.
+2016.Processo de desenvolvimento de produto no setor de embalagens: proposta de inovação incremental com enfoque na maior praticidade no uso do papel alumínio343 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 14, nº 3, jul-set/2018, p. 325-349BAXTER, M. Projeto de Produto: Guia prático para design de novos produtos.
+São Paulo: Editora Edgard Blucher Ltda., 1995.
+BAXTER, M. Projeto de Produto: Guia prático para o design de novos produtos.
+Edgard Blucher Ltda, 2000.BERTO, R. M. V. S.; NAKANO, D. N. Métodos de pesquisa na Engenharia de Produção.
+In: ENCONTRO NACIONAL DE ENGENHARIA DE PRODUÇÃO, 18, 1998.
+ENEGEP, Niterói, RJ, CD-ROM, 1998.
+Lâminas de Corte e vinco Bohler , 2016.
+Disponível em: < Acesso em: 23 out.
+BRASILEIRO, M. M. Manual de produção de textos acadêmicos e científicos .
+São Paulo: Atlas,2013.BUCCI, D. Z. Avaliação de Embalagens de PHB (Poli (Ácido 3-Hidroxibutírico)) para Alimentos .
+Dissertação (Mestrado em Engenharia de Produção) - Universidade Federal de Santa Catarina, Centro Tecnológico, Programa de Pós-Graduação em Engenharia de Produção, Florianópolis, SC, 2003.
+CARPINETTI, L. C. R. Gestão da Qualidade – Conceitos e Técnicas.
+São Paulo: Atlas, 2012.CHENG, L. C. QFD em desenvolvimento de produto: características metodológicas e um guia para intervenção.
+Revista Produção Online , v. 3, n. 2, 2003.
+CHESBROUGH, H. W. Open Innovation: The New Imperative for Creating and Profiting from Technology.
+Harvard Business School Publishing Corporation , 2003.
+CONNOLLY, A.; DA VIDSON, L. How does design affect decisions at point of sale?
+Journal of Brand Management , v. 4, n. 2, p. 100-7, 1996. COOPER, L. G. Strategic marketing planning for radically new products.
+Journal of marketing , v. 64, n. 1, p. 1-16, 2000. COOPER, R. G. Winning at New Products: Creating Value through Innovation.
+4th ed., Basic Books, 2011.Processo de desenvolvimento de produto no setor de embalagens: proposta de inovação incremental com enfoque na maior praticidade no uso do papel alumínio344 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 14, nº 3, jul-set/2018, p. 325-349COOPER, R. G.; KLEINSCHMIDT, E. J.
+An investigation into the new product process: steps, deficiencies and impact.
+Journal of Product Innovation Management , v. 3, p. 71-85, 1986.
+DIAMANTOPOULOS, A.; MATHEWS, B.
+Marketing Pricing Decisions: a Study of Managerial Practice.
+London: Chapman & Hall, p. 7, 1995.
+DUBOIS, A.; ARAUJO, L. Case research in purchasing and supply management: opportunities and challenges.
+Journal of Purchasing & Supply Management , v. 13, n. 3, p. 170-181, 2007.
+DUBOW, J. S.; CHILDS, N. M. New Coke, mixture perception, and the flavor balance hypothesis.
+Journal of Business Research , v. 43, n. 3, p. 147-155,1998.
+FERRARI, F. M.; MARTINS, R. A.; TOLEDO, J. C. Ferramentas do Processo de Desenvolvimento de Produto como Mecanismos Potencializadores da Gestão do Conhecimento.
+In: CONGRESSO BRASILEIRO DE GESTÃO DE DESENVOLVIMENTO DE PRODUTO, 3, 2001, Florianópolis.
+Vargem Grande do Sul, p. 1-8, 2001.
+FERREIRA, H. S. R; TOLEDO, J. C. Metodologias e Ferramentas de Suporte à Gestão do Processo de Desenvolvimento de Produto (PDP) na Indústria de Autopeças .
+Disponível em: < Acesso em: 23 out.
+FILHO, E. E. M.; V ASCONCELLOS, F. F. B; ANDRADE, J. R. Pesquisa de Mercado para a Argamaxi1 , 2009.
+FÓRUM PAPEL CARTÃO SUSTENTÁ VEL.
+Disponível em: < Menu=21&idRepCat=12>.
+FRASER, M. T. D.; GONDIM, S. M. G. Da fala do outro ao texto negociado: discussões sobre a entrevista na pesquisa qualitativa.
+Paidéia , v. 14, n. 28, p. 139-152, 2004.GALBRAITH, J. R. Projetando a organização inovadora.
+Como as organizações aprendem .
+São Paulo: Futura, p. 190-218, 1997.Processo de desenvolvimento de produto no setor de embalagens: proposta de inovação incremental com enfoque na maior praticidade no uso do papel alumínio345 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 14, nº 3, jul-set/2018, p. 325-349GONZÁLEZ, F.; PALACIOS, T. The effect of new product development techniques on new product success in Spanish firms.
+Industrial Marketing Management , v. 31, n. 3, p. 261-271, 2002.
+HAMEL, G.; PRAHALAD, C. K. Competing for the future.
+Harvard Business Review , v. 72, n. 4, p. 122–128, 1994.
+HART, S. New product development: a reader.
+HAUSER, J. R.; URBAN, G. L.; WEINBERG, B. D. How consumers allocate their time when searching for information.
+Journal of Marketing Research , v. 30, n. 4, p. 452-466, 1993.
+IIDA, I. Ergonomia projeto e produção .
+São Paulo: Edgar Blucher Ltda, 1990.
+INDÚSTRIA DA TRANSFORMAÇÃO DO MATERIAL PLÁSTICO.
+Disponível em: < Acesso em 10 nov. 2016.JURAN, J. M. Controle da Qualidade – Handbook.
+Conceitos, Políticas e Filosofias da Qualidade, São Paulo: McGrawHill Ltda., 1992.
+KAYNAK, H. The relationship between total quality management practices and their effects on firm performance.
+Journal of Operations Management , v. 21, p. 405-35, 2003.
+KELES, O.; DUNDAR, M. Aluminum foil: Its typical quality problems and their causes.
+Journal of Materials Processing Technology , v. 186, n. 1, p. 125-137, 2007.
+KELESSIDIS, V. INNOREGIO: Dissemination of Innovation Management and Knowledge Techniques.
+Thessaloniki Technology Park, Greece, 2000.
+KLEIJNEN, M.; LEE, N.; WETZELS, M. An exploration of consumer resistance to innovation and its antecedents.
+Journal of Economic Psychology , v. 30, n. 3, p. 344–357, 2009.KOTLER, P. Administração de marketing: análise, implementação e controle.
+São Paulo: Atlas, 676 p., 1994.KOTLER, P. Administração de Marketing .
+São Paulo: Prentice Hall, 2000.Processo de desenvolvimento de produto no setor de embalagens: proposta de inovação incremental com enfoque na maior praticidade no uso do papel alumínio346 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 14, nº 3, jul-set/2018, p. 325-349KRISHNAN, V.; ULRICH, K. T. Product development decisions: a review of the literature.
+Management science , v. 47, n. 1, p. 1-21, 2001.
+LAMB, G. E.; DALE, B. G. Quality improvement in research and development: a study.
+Proceedings of the Institution of Mechanical Engineers.
+Journal of Engineering Manufacture , v. 208, p. 253- 257, 1994.
+LAMM, H.; TROMMSDORFF, G. Group Versus Individual Performance on Tasks Requiring Ideational Proficiency (Brainstorming): a review.
+European Journal of Social Psychology , v. 3, p. 361-387, 1973.
+LIN, C. C. QFD in product development: methodological characteristics and a guide for intervention.
+International Journal of Quality & Reliability Management , v. 20, n. 1, p. 107-22, 2003.
+LITCANU, M.; PROSTEAN, O.; OROS, C.; MNERIE, A. V. Brain-Writing Vs.
+Brainstorming Case Study For Power Engineering Education.
+Procedia-Social and Behavioral Sciences , v. 191, p. 387-390, 2015.
+Disponível em: <http:// www.lotusmetal.com.br/produtos/chapa-aluminio-cortada>.
+A.; FERRELL, O. C. The effect of market orientation on product innovation.
+Journal of the Academy of Marketing Science , v. 28, n. 2, p. 239-247, 2000.MAHAJAN, V.; WIND, J.
+New product models: Practice, shortcomings and desired improvements.
+Journal of Product Innovation Management , v. 9, n. 2, p. 128-139,1992.
+MALHOTRA, N. K. Pesquisa de marketing: uma orientação aplicada.
+Porto Alegre: Bookman, 2004.MATERIAL RECOVERY FACILITY CHARGES.
+Disponível em: < Acesso em: 23 out.
+2016.MATTAR, F. N. Pesquisa de marketing: metodologia, planejamento, execução e análise, São Paulo: Atlas, 1994.Processo de desenvolvimento de produto no setor de embalagens: proposta de inovação incremental com enfoque na maior praticidade no uso do papel alumínio347 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 14, nº 3, jul-set/2018, p. 325-349MC QUARTER, R. E.; SCURR, C. H.; DALE, B. G.; HILLMAN, P. G. Using quality tools and techniques successfully.
+The TQM Magazine , v. 7, n. 6, p. 37-42, 1995.
+MIRANDA, F. J.; BANĚGIL, T. M. The effect of new product development techniques on new product success in Spanish firms.
+Industrial Marketing Management , v. 31, p. 261-71, 2002.
+MORAES, A.; PEQUINI, S. Ergonomia e usabilidade .
+MORAES, A. F. O projeto ergonômico de espaços de trabalho: Exemplos de estações de trabalho informatizadas.
+In: LAMBERTS, R.; GONTIJO, L.; GERGES, S.; PHILIPPI, P.; PEREIRA, F. Anais.
+do 2º Encontro Conforto no ambiente.
+Florianópolis: ANTAC: ABERGO: SOBRAC, p. 363-372, 1993.
+MORAES, A.; MONT'ALV ÃO, C. Ergonomia conceitos e aplicações .
+Rio de Janeiro: 2AB, 2000.MULLEN, B.; JOHNSON, C.; SALAS, E. Productivity loss in brainstorming groups: A meta-analytic integration.
+Basic and applied social psychology , v. 12, n. 1, p. 3-23, 1991.
+NANCARROW, C.; WRIGHT, T. L.; BRACE, Gaining competitive advantage from packaging and labeling in marketing communications.
+British Food Journal , v. 100, n. 2, p. 110-118, 1998.
+NIJSSEN, E. J. LIESHOUT, K. Awareness, use and effectiveness of models and methods for new product development.
+European Journal of Marketing , v. 29, n. 10, p. 27-44, 1995.
+ORMEROD, P. Why most things fail: evolution, extinction and economics.
+Rio de Janeiro: Fundação Getúlio Vargas, 1976.
+Addison Wesley Publishing Company, 1991.
+PA VITT, K. What we know about the strategic management of technology.
+California Management Review , v. 32, n. 3, p.17–26, 1990.Processo de desenvolvimento de produto no setor de embalagens: proposta de inovação incremental com enfoque na maior praticidade no uso do papel alumínio348 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 14, nº 3, jul-set/2018, p. 325-349PETRY, A. Mercado brasileiro de polipropileno com ênfase no setor automobilístico .
+Trabalho de Conclusão de Curso de Graduação - Universidade Federal do Rio Grande Do Sul, Departamento de Engenharia Química, Rio Grande do Sul, RS, 2011.
+London: Taylor & Francis, 1986.
+POLIGNANO, L. A. C.; DRUMOND, F. B. O papel da pesquisa de mercado durante o desenvolvimento de produtos.
+In: CONGRESSO BRASILEIRO DE GESTÃO DE DESENVOLVIMENTO DE PRODUTOS, 3, 2001.
+Disponível em: <http:// www.sibr.com.br/sibr/portal.jsp?id=9&pagina=preco_cempre.jsp>.
+QUARESMA, M. M. R Aplicação de dados antropométricos em projeto de design: como projetar corretamente produtos ergonômicos.
+Dissertação (Mestrado em Design) – Pontifícia Universidade Católica, Rio de Janeiro, 2001.
+RETTIE, R.; BREWER, C. The verbal and visual components of package design.
+Journal of Product & Brand Management , v. 9, n. 1, p. 56-70, 2000.
+ROZENFELD, H.; FORCELLINI, F. A.; AMARAL, D. C.; TOLEDO, J. C.; SILV A, S. L.; ALLIPRANDINI, D. H.; SCALICE, R. K. Gestão de desenvolvimento de produtos: uma referência para a melhoria do processo.
+S ão Paulo: Saraiva, 542p., 2006.
+SCHINDLER, R. M. The real lesson of new coke: the value of focus groups for predicting the effects of social influence.
+Marketing Research , v. 40, n. 22, 1992.
+McGraw-Hill, New York, NY, 1939.
+Pesquisa de mercado: o que é e para que serve: Conheça a definição e aplicação da pesquisa, como definir seu público-alvo e analisar o mercado em que se vai atuar.2016.
+Disponível em: < serve.97589f857d 545410VgnVCM1000003b74010aRCRD>.
+2016.Processo de desenvolvimento de produto no setor de embalagens: proposta de inovação incremental com enfoque na maior praticidade no uso do papel alumínio349 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 14, nº 3, jul-set/2018, p. 325-349SEWARD, E. Quality in R&D: it all began with a customer's request.
+Research Technology Management , v. 35, n. 5, p. 28-34, 1992.
+SILV A, C. E.; GONÇALVEZ E. A. L.; SILV A, C. E. S.; TURRIONI, J.
+B. O benchmarking no desenvolvimento de novos produtos .
+SILVEIRA, C. B. FMEA – Análise dos Modos de Falha e seus Efeitos .
+Disponível em: < falhas-efeitos/>.
+SPRING, M.; MCQUATER, R.; SWIFT, K.; DALE, B.; BOOER, J. D. The use of quality tools and techniques in product introduction: an assessment methodology.
+The TQM Magazine , v. 10, n. 1, p. 45-50, 1998.
+TUSHMAN, M.; NADLER, D. Organizando-se para a inovação.
+Como as organizações aprendem .
+São Paulo: Futura, p. 166-189, 1997.
+ULRICH, K.; EPPINGER, S. Product design and development .
+Boston: Irwin McGraw-HilL, 2000.
+WOOD, S. L.; MOREAU, C. P. From fear to loathing?
+How emotion influences the evaluation and early use of innovation.
+Journal of Marketing , v. 70, n. 3, p. 44–57, 2006.
+YEH, T.; PAI, F.; YANG, C. Performance improvement in new product development with effective tools and techniques adoption for high-tech industries.
+Quality & Quantity , v. 44, n. 1, p. 131-152, 2010.
+ZA V ADIL, P.; SILV A, R. P. Identificação e sistematização de diretrizes para o design de embalagens sustentáveis.
+UFRGS: Design & Tecnologia , n. 5, 2013.
+ZORZAN, F; DORNELES, L; SERV AT, M. E. FMEA: orientações conceituais para a aplicação de uma ferramenta de antecipação de falhas.
+In: SEMANA INTERNACIONAL DAS ENGENHARIAS DA FAHOR, 3, 2013.
+WHEELWRIGHT, S. C.; CLARK, K. B. Revolutionizing product development: quantum leaps in speed, efficiency, and quality.

@@ -1,0 +1,314 @@
+Fernanda Bochi dos Santos, Thiago Monteiro Alves, Daniela Gralha de Caneda Queiroz, Felipe Grando Brandão, Rene Faustino Gabriel Júnior e Ana Maria Mielniczuk de Moura Inovação tecnológica da UFRGS: uma análise da colaboração identificada nas patentes indexadas na base Orbit 92 InCID: R. Ci.
+e Doc., Ribeirão Preto, v. 10, n. 2, p. 92-114, set.
+2020 DOI: 10.11606/issn.2178 -2075.v10i2p92 -114 Inovação tecnológica da UFRGS: uma análise da colaboração identificada nas patentes indexadas na base Orbiti Technological innovation at UFRGS: an analysis of the identified collaboration in the patents indexed in the Orbit base Fernanda Bochi dos Santos Doutoranda em Ciência da Informação pelo Programa de Pós-Graduação em Ciência da Informação – UNESP , campus de Marília .
+E-mail: nandabochi@gmail.com Thiago Monteiro Alves Mestrando em Ciência da Informação pelo Programa de Pós -Graduação em Ciência da Informação da Universidade Federal do Rio Grande do Sul – UFRGS E-mail: thiagomonalves@gmail.com Daniela Gralha de Caneda Queiroz Doutoranda em Ciência da Inform ação pelo Programa de Pós -Graduação em Ciência da Informação da Universidade de Brasília – UnB.
+E-mail: daniela.caneda@gmail.com Felipe Grando Brandão Doutorando em Design pelo Programa de Pós -Graduação em Design pela Universidade Federal do Rio Grande do Sul – UFRGS.
+E-mail: felipe.brandao@ufrgs.br Rene Faustino Gabriel Júnior Doutor em Ciência da Informação pelo Programa de Pós -Graduação em Ciência da Informação – UNESP , campus de Marília.
+E-mail: r enefgj@gmail.com Ana Maria Mielniczuk de Moura Doutora em Comunicação e Informação pela Universidade Federal do Rio Grande do Sul – UFRGS.
+E-mail: ana.mmoura@uol.com.br Resumo É um estudo de caráter descritivo, com viés patentométrico , que objetiva estudar as características da colaboração interinstitucional nas patentes da UFRGS, contemplando as redes de colaboração com outras instituições e países, e identificando os campos tecnológicos e os principais inventores.
+Foram coletados dad os de 124 registros indexados na base de dados Orbit, que foram tratados e analisados com a ajuda dos softwares Pajek, MapChart, VOSviewer e Excel, resultando em redes, mapas e tabelas.
+Apresenta nos resultados que a UFRGS: possui forte parceria com Braske n, Universidade de Caxias do Sul e Universidade Federal do Rio de Janeiro; colabora mais intensamente com instituições brasileiras, mas aparecem Paraguai, Argentina e Uruguai nas suas relações estrangeiras; possui mais registros nas áreas de Necessidades H umanas, Química, Operações de Processamento e Transporte e Física, com patentes depositadas majoritariamente no escritório do Brasil, destacando inventores das áreas da engenharia, farmácia, veterinária e química.
+Finaliza com a ideia de que a UFRGS está buscando colaboração internacional.
+Palavras -chave: Inovação tecnológica.
+Universidade Federal do Rio Grande do SulUFRGS.
+Fernanda Bochi dos Santos, Thiago Monteiro Alves, Daniela Gralha de Caneda Queiroz, Felipe Grando Brandão, Rene Faustino Gabriel Júnior e Ana Maria Mielniczuk de Moura Inovação tecnológica da UFRGS: uma análise da colaboração identificada nas patentes indexadas na base Orbit 93 InCID: R. Ci.
+e Doc., Ribeirão Preto, v. 10, n. 2, p. 92-114, set.
+Abstract This article is a descriptive study, with a patentometric bias, which goal is to study the characteristics of the interinstitutional collaboration in patents at UFRGS, including the networks with different institutions and another countries, and also identifying the technological fields and the main inventors.
+Data from 124 registers indexed in the Orbit database were collected, and they were treated and analyzed with the following softwares: Pajek, MapChart, VOSviewer e Excel, and is presented in nets, maps e tables.
+The results shows that UFRGS: has a strong partnership with Braskem, University of Caxias do Sul and the Federal University of Rio de Janeiro; collaborates with more intensity with Brazilian institutions, but Paraguay, Argentina and Uruguay also appear in their foreign relations; has more records in the areas of Human Necessities, Ch emistry, Performing Operations and Transporting and Physics, with patents deposited majorly in the Brazil's Office, specially inventors from the fields of engineering, pharmacy, veterinary and chemistry.
+In the end, concludes that UFRGS is seeking for inte rnational collaboration.
+Keywords: Technological innovation.
+Federal University of Rio Grande do Sul - UFRGS.
+Introdução O princípio da colaboração na ciência aconteceu nos séculos XVII e XVIII, na França napoleônica, fomentada pelas instituições científicas (PRICE, 1963; BEAVER; ROSEN, 1978), estando ligado às próprias origens da ciência moderna e aos estágios iniciais de s ua profissionalização.
+Para Maltrás Barba (2003), a colaboração científica nasceu a partir da necessidade da especialização funcional e do trabalho em equipe, além da necessidade de infraestrutura e recursos materiais, somado aos comentários e às sugestões dos colegas.
+Assim, a "colaboração é a norma" na ciência atual, a chamada Grande Ciência, tanto para pesquisadores quanto para instituições, de tal forma que muitos países têm voltado suas políticas científicas a fim de incentivar cada vez mais a colabora ção, desse jeito, formando um "sistema transnacional" (MALTRÁS BARBA, 2003, p. 245).
+Em vista disso, percebe -se um crescente interesse da comunidade científica em formar parcerias com outras instituições e outras áreas do conhecimento (KATZ; MARTIN, 1997; VANZ, 2009).
+Isto posto e considerando -se a interação e a interdependência entre a ciência e a tecnologia e inovação (CT&I), como colocado por Mueller e Perucchi (2014), é inconteste a importância de se estudar a colaboração.
+De fato, por meio da colaboraç ão pode -se desvelar o desenvolvimento de tendências de pesquisa e a difusão de novas ideias (determinando a atividade de inovação), desse modo, ajudando a mapear um campo, com a descoberta de sua estrutura e relações, como suporte às políticas de fomento ( ASSEFA; RORISSA, 2013).
+Fernanda Bochi dos Santos, Thiago Monteiro Alves, Daniela Gralha de Caneda Queiroz, Felipe Grando Brandão, Rene Faustino Gabriel Júnior e Ana Maria Mielniczuk de Moura Inovação tecnológica da UFRGS: uma análise da colaboração identificada nas patentes indexadas na base Orbit 94 InCID: R. Ci.
+e Doc., Ribeirão Preto, v. 10, n. 2, p. 92-114, set.
+À vista disso, este trabalho propõe -se a investigar a colaboração da Universidade Federal do Rio Grande do Sul (UFRGS) com outras instituições e países no que tange à inovação tecnológica materializada a partir do depósito de patent es.
+A UFRGS está ranqueada entre as 500 melhores universidades no mundo (QS, 2018), sendo caracterizada e reconhecida pela comunidade como uma instituição de valores sólidos, com excelência em ensino, pesquisa e extensão, tendo muitas das suas pesquisas re vertidas em inovação tecnológica, protegidas por depósito de patente.
+É uma instituição com 29 unidades regionais e acadêmicas, a qual atende aproximadamente 30 mil alunos de graduação e 12 mil alunos de pós -graduação stricto sensu , através de seus 98 curs os de graduação e 152 cursos de pós -graduação stricto sensu (73 de doutorado e 79 de mestrado), com seus 2800 docentes e 2600 técnicos administrativos (UNIVERSIDADE., 2018).
+E, pelo sétimo ano consecutivo, a UFRGS foi apontada como a melhor universidade federal do Brasil, tendo atingido a maior nota entre as fed erais no Índice Geral de Cursos (IGC).
+Em relação a todas as universidades brasileiras — federais, estaduais ou privadas —, a UFRGS é a segunda melhor do país, atrás apenas da Universidade Estadual de Campinas (Unicamp), em São Paulo, que obteve nota 4,38.
+Os dados são relativos ao ano de 2017 e foram fornecidos pelo Ministério da Educação (UNIVERSIDADE., 2018).
+Dessa forma, esta pesquisa tem como problematização: quais as características da colaboração da UFRGS em depósitos de patentes indexadas na base de dados Orbit da Questel©?
+Para tanto, é objetivo geral conhecer e analisar a colaboração da UFRGS com outras instituições e países no que tange à inovação tecnológica na forma de depósito de patentes, e são objetivos específicos: (a) identificar a colaboração da UFRGS com outras instituições; (b) identificar os países com os quais estabelece parceria; (c) identif icar os campos tecnológicos das patentes depositadas; e (d) identificar os principais inventores e sua atuação dentro da universidade.
+Assim, este artigo apresenta uma primeira parte com referencial teórico, sob os títulos Colaboração em CT&I, Interação Un iversidade -Indústria -Governo - Hélice Tripla e Classificações das Áreas Tecnológicas de Patentes, seguida da apresentação da metodologia; na segunda parte são demonstrados e analisados os resultados encontrados, culminando com as conclusões obtidas nesta p esquisa.
+Fernanda Bochi dos Santos, Thiago Monteiro Alves, Daniela Gralha de Caneda Queiroz, Felipe Grando Brandão, Rene Faustino Gabriel Júnior e Ana Maria Mielniczuk de Moura Inovação tecnológica da UFRGS: uma análise da colaboração identificada nas patentes indexadas na base Orbit 95 InCID: R. Ci.
+e Doc., Ribeirão Preto, v. 10, n. 2, p. 92-114, set.
+Colaboração em CT&I A colaboração na ciência estimula a criação do conhecimento e o processo de inovação, decorrentes da troca de informações e da união de competências na busca de objetivos comuns (LIMA; LEITE, 2012).
+Tais autoras ainda descr evem que a colaboração é extremamente eficiente na produção de conhecimento, dentro da linha de inovação tanto técnica quanto operacional.
+Além disso, para elas, a colaboração permite reunir pesquisadores de vários lugares, áreas e universidades, dessa for ma, rompendo barreiras de distância, gerando conhecimento globalizado.
+Beaver e Rosen (1978) especificam as razões para a colaboração na ciência (as quais aqui se ampliam também para a CT&I como um todo): acesso a equipamentos especiais; parceria com pesqu isadores com habilidades específicas; acesso a materiais raros; visibilidade; reconhecimento; aumento da eficiência no uso do tempo; aumento da eficiência no trabalho; obtenção de experiência; treinamento de pesquisadores; amparo de discípulos pesquisadore s; aumento da produtividade, a qual, por sua vez, está associada à alta qualidade (BEAVER; ROSEN, 1979); aumento da capacitação, com o objetivo de obter fontes de financiamento, visibilidade e reconhecimento; evita a concorrência; superação do isolamento i ntelectual; confirmação ou avaliação de um problema; estímulo ou capacitação; proximidade espacial; e mero acaso.
+Katz e Martin (1997) colocam que dois cientistas colaboram quando compartilham dados, equipamentos e/ou ideias em um projeto, que resulta, ger almente, em experimentos e análises de pesquisa publicados, geralmente, sob forma de artigo.
+Indo além desta compreensão dos autores, pode -se conjecturar que uma colaboração possa resultar em uma patente (até como forma de proteção da propriedade intelectu al), considerando -se que assim como os artigos científicos são o meio de divulgação do conhecimento científico, as patentes o são para o conhecimento tecnológico (MUELLER; PERUCCHI, 2014).
+E esse conhecimento tecnológico, por sua vez, pode ter como desdobr amento ou consequência a inovação (MUELLER, 2008).
+Pavanelli e Oliveira (2012) ainda afirmam que as patentes são indicadores da capacidade de uma nação em transformar o conhecimento científico em produtos ou inovações tecnológicas.
+E essa transferência de conhecimento entre ciência e tecnologia é um processo complexo, de acordo com Meyer e Bhattacharya (2004).
+Fernanda Bochi dos Santos, Thiago Monteiro Alves, Daniela Gralha de Caneda Queiroz, Felipe Grando Brandão, Rene Faustino Gabriel Júnior e Ana Maria Mielniczuk de Moura Inovação tecnológica da UFRGS: uma análise da colaboração identificada nas patentes indexadas na base Orbit 96 InCID: R. Ci.
+e Doc., Ribeirão Preto, v. 10, n. 2, p. 92-114, set.
+Assim, a colaboração pode ser medida pela coautoria (como forma de colaboração na produção científica) e/ou coinvenção (como forma de colaboração na produção de conhecimento tecnológico, principalmente na figura da patente, conforme Matheus, Vanz e Moura (2007),).
+Assim, As patentes assinadas por um ou mais inventores (coinvenção) podem ser úteis nas análises e elaboração de índices de colaboração por instituições, além de refletir um esforço conjunto de pesquisadores e profissionais com foco de interesse no mesmo objeto, o que denota a relevância, a necessidade e a demanda destes (PAVANELLI; OLIVEIRA, 2012, p. 121).
+No caso das universidades, Póvoa (2 006) descreve que a colaboração dá -se com empresas e instituições de pesquisa na produção de patentes.
+Nesta mesma linha de pensamento, Scholze e Chamas (2000) também comentam a respeito da parceria entre as universidades e as instituições de pesquisa (ond e a invenção é criada) e o setor industrial (que leva a invenção para o mercado).
+As autoras creditam a parceria à legislação de propriedade intelectual do Brasil.
+Assim, continuam as autoras, essa parceria decorre de políticas governamentais e pela percep ção (por parte das universidades, instituições de pesquisa e indústria) da importância dessa colaboração, ainda que o nível de colaborações na tecnologia não tenha atingido o nível de colaborações na ciência (MEYER; BHATTACHARYA, 2004).
+Desse modo, tal col aboração possui caráter formal, frequente e planejado, com contratos rígidos com regulamentação de direito de propriedade intelectual, podendo ter sido gerado ainda na fase de pesquisa (SCHOLZE; CHAMAS, 2000).
+Esta parceria (entre empresas, indústrias, ins tituições de pesquisa, universidades, governos…) é mais bem compreendida no tópico seguinte deste artigo.
+Interação Universidade -Indústria -Governo – Hélice Tripla As interações universidade -indústria -governo, formadoras da "hélice tríplice" de inovação e empreendedorismo, são a base para o desenvolvimento econômico e social baseado no conhecimento, como bem colocam Etzkowitz e Zhou (2017).
+Assim, prosseguem os autor es, além da coevolução das instituições mediante interações mútuas, trata -se da transição das principais esferas de dupla para tríplice hélice.
+Nesta relação de cooperação entre universidade, indústria e governo existem vários fatores que precisam ser cons iderados, tais como, conforme Gomes e Pereira (2015): políticas governamentais, formas de contrato, cultura organizacional, vantagens e barreiras.
+Existem Fernanda Bochi dos Santos, Thiago Monteiro Alves, Daniela Gralha de Caneda Queiroz, Felipe Grando Brandão, Rene Faustino Gabriel Júnior e Ana Maria Mielniczuk de Moura Inovação tecnológica da UFRGS: uma análise da colaboração identificada nas patentes indexadas na base Orbit 97 InCID: R. Ci.
+e Doc., Ribeirão Preto, v. 10, n. 2, p. 92-114, set.
+20 20. ainda outros elementos que precisam ser levados em conta como o depósito de patentes e a transferênci a de tecnologia, que precisam ser mais bem entendidos entre as três hélices (principalmente entre as universidades, que são desenvolvedoras de tecnologia, mas que precisam estabelecer relação com o setor produtivo para que suas criações produzam benefícios à sociedade), de acordo com Ipiranga, Freitas e Paiva (2010).
+Para Gomes e Pereira (2015), a atuação de uma universidade empreendedora, com interação com o meio empresarial, tendo o governo como um intermediador no processo, apresenta como produto final e sperado a inovação, a qual potencializa oportunidades para o desenvolvimento tecnológico.
+No Brasil, o sistema universitário, especialmente os cursos de pós -graduação das instituições públicas, federais e estaduais, tem sido o maior responsável pela criaçã o de novos conhecimentos.
+Nossos pesquisadores são, em sua grande maioria, professores desses cursos.
+Historicamente, o governo do Brasil tem atuado de maneira preponderante na formação para pesquisa e na determinação dos rumos da ciência, operando, princi palmente, por meio das agências de fomento, financiando a formação de pesquisadores em universidades estrangeiras e também os cursos nacionais (MULLER, 2008).
+Rapini, Chiarini e Santos (2018) destacam ainda que as interações entre universidade e empresa ab rangem atividades menos complexas, tais como de consultoria, serviços rotineiros (mensuração, testes e controle de qualidade) e, em menor ocorrência, atividades mais sofisticadas, as quais envolvem fluxo de conhecimento tácito e codificado (atividades de pesquisa científica, projetos cooperados e transferência de tecnologia).
+Os autores destacam que existe uma fraca demanda por conhecimento, em termos quantitativos e qualitativos, por parte das empresas, existindo pouco interesse em estabelecer relações com universidades, sendo que a contribuição mais expressiva destas últimas reside na formação de recursos humanos.
+Em seu estudo, tem -se que 11,9% das empresas que interagiram com grupos de pesquisa são do setor de fabricação de produtos alimentícios, seguida s das empresas do setor de metalurgia (6,8%); fabricação de veículos automotores, reboques e carrocerias (6,8%); e indústrias extrativas (6,6%).
+Assim, os autores concluem que existe uma grande variedade de setores, inclusive, na sua maioria setores tradic ionais, evidenciando que a interação com universidades está mais vinculada à existência de uma base industrial capaz de demandar conhecimento da universidade, não estando relacionado necessariamente a setores de alta tecnologia ou baseados em ciência.
+O tó pico a seguir apresenta as classificações das áreas tecnológicas de patentes, Fernanda Bochi dos Santos, Thiago Monteiro Alves, Daniela Gralha de Caneda Queiroz, Felipe Grando Brandão, Rene Faustino Gabriel Júnior e Ana Maria Mielniczuk de Moura Inovação tecnológica da UFRGS: uma análise da colaboração identificada nas patentes indexadas na base Orbit 98 InCID: R. Ci.
+e Doc., Ribeirão Preto, v. 10, n. 2, p. 92-114, set.
+20 20. baseadas nos assuntos ou nas próprias áreas tecnológicas as quais pertencem as invenções exemplificadas acima.
+Classificações das Áreas Tecnológicas de Patentes A fim de auxiliar na recuperação das informações de patentes, foram criadas diversas codificações que possibilitam agrupar e organizar os documentos a partir dos assuntos ou áreas tecnológicas as quais pertencem as invenções.
+Foi com este intuito que a Org anização Mundial da Propriedade Intelectual (OMPI - WIPO em inglês) criou a Classificação Internacional de Patentes (CIP), usualmente empregada para indexar a documentação patentária em diversas bases de dados de patentes (FRANÇA, 1997).
+A OMPI é uma entid ade internacional, criada em 1967 e com sede em Genebra, que faz parte das 16 agências especializadas da Organização das Nações Unidas (ONU).
+Tem como objetivos regular, orientar, atualizar e propor padrões internacionais para a proteção da propriedade int electual em nível mundial (ONUBR, 2018).
+De acordo com o Guia da CIP, publicado pela OMPI, esta classificação representa todo o corpo de conhecimento necessário para classificar patentes a fim de auxiliar no processo de recuperação de suas informações.
+A C IP, então, é dividida em oito grandes classes ou seções (representadas pelas letras que vão de A até H), as quais, por sua vez, se subdividem hierarquicamente em subclasses, grupos e subgrupos, cada um recebendo um código que define a classe tecnológica qu e representa a patente (WORLD INTELLECTUAL PROPERTY ORGANIZATION, 2018).
+As oito classes citadas são: A — necessidades humanas; B — operações de processamento; transporte; C — química; metalurgia; D — têxteis; papel; E — construções fixas; F — engenharia m ecânica; iluminação; aquecimento; armas; explosão; G — física; e H — eletricidade.
+Bhattacharya (2007), em seu estudo sobre o delineamento de dados de patentes na Índia e China, afirma que os escritórios nacionais de patentes utilizam o primeiro código atr ibuído a uma invenção para definir qual a principal classe ou setor da indústria a qual pertence determinada patente.
+Entretanto, os outros códigos atribuídos não podem ser desconsiderados, já que uma patente pode possuir diferentes aplicabilidades industr iais e para cada uma delas pode ser atribuído um novo código de classificação.
+Fernanda Bochi dos Santos, Thiago Monteiro Alves, Daniela Gralha de Caneda Queiroz, Felipe Grando Brandão, Rene Faustino Gabriel Júnior e Ana Maria Mielniczuk de Moura Inovação tecnológica da UFRGS: uma análise da colaboração identificada nas patentes indexadas na base Orbit 99 InCID: R. Ci.
+e Doc., Ribeirão Preto, v. 10, n. 2, p. 92-114, set.
+De acordo com Maricato e Noronha (2013), apesar das limitações linguísticas e semânticas presentes em qualquer sistema de classificação, a CIP é uma interessante alternativa para a construção de indicadores, já que a sua sistemática de classificação possui uma dinâmica consistente.
+Os autores ainda afirmam que as invenções podem ser classificadas como um produto ou um processo e, desta forma, um invento pode estar posicionado em diferentes lugares da CIP, pois recebe vários códigos de classificação.
+Noruzi e Abdekhoda (2012) afirmam que os estudos de análise da CIP permitem investigar em quais áreas do conhecimento estão distribuídas as tecnologias das patentes, assim como as tend ências gerais da produção tecnológica de um país ao longo do tempo.
+Quanto ao uso da CIP como indicador, Maricato e Noronha (2013) ainda afirmam que seu uso tem sido adotado com relativo sucesso para análises de áreas tecnológicas específicas.
+Porém, pross eguem os autores, a maior parte dos estudos utiliza as classificações de patentes com foco na inteligência competitiva, principalmente no monitoramento de invenções dos concorrentes em determinado setor ou indústria.
+Metodologia Esta pesquisa configura -se como um estudo descritivo, com viés patentométrico, cujo objetivo, conforme descrito, é o de estudar as características da colaboração interinstitucional identificada nas patentes da UFRGS indexadas na base de dados Orbit ( ).
+Justifica -se o uso da base de dados Orbit pelo fato dela indexar as patentes depositadas no Instituto Nacional da Propriedade Industrial (INPI) e nos outros escritórios nacionais de propriedade industria l presentes nos demais países.
+Além disso, essa é uma das principais bases utilizadas pela Secretaria de Desenvolvimento Tecnológico - SEDETEC/UFRGS.
+Ressalta -se que a SEDETEC é a responsável pela gestão da propriedade intelectual na UFRGS, atuando também na transferência de tecnologia, na interação com a sociedade e na promoção do empreendedorismo e da inovação.
+Assim, a coleta foi realizada no mês de janeiro de 2018, utilizando a expressão de busca "Universidade Federal do Rio Grande do Sul", resultando e m 428 patentes.
+Com o objetivo de recuperar e analisar todas as patentes indexadas pela base, não foi utilizado o critério de temporalidade dos registros para a coleta.
+Os dados extraídos foram exportados para uma planilha Microsoft Office Excel, possibili tando as padronizações necessárias para as posteriores Fernanda Bochi dos Santos, Thiago Monteiro Alves, Daniela Gralha de Caneda Queiroz, Felipe Grando Brandão, Rene Faustino Gabriel Júnior e Ana Maria Mielniczuk de Moura Inovação tecnológica da UFRGS: uma análise da colaboração identificada nas patentes indexadas na base Orbit 100 InCID: R. Ci.
+e Doc., Ribeirão Preto, v. 10, n. 2, p. 92-114, set.
+A padronização dos nomes dos inventores foi realizada a partir dos dados informados pelos próprios inventores em seus Currículos Lattes ( s.cnpq.br/ ), na Plataforma Lattes, do Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq).
+A partir da mesma plataforma, também foram coletadas as informações referentes aos vínculos institucionais dos inventores, tais como: local de atuaç ão, departamentos e programas de pósgraduação que estivessem associados.
+Após a limpeza dos dados, das 428 patentes coletadas restaram, por fim, 394 patentes.
+A limpeza dos dados fez -se necessária, pois se observou que em alguns registros a UFRGS não constava no campo de depositante.
+Para as análises referentes aos países e clusters de colaboração, foram utilizados os dados para geração de grafos e mapas através dos softwares Pajek ( -lj.si/pajek/ ), MapChart ( ) e VOSviewer ( ).
+Resultados A partir do corpus final utilizado de 394 patentes, constatou -se que a UFRGS possui 270 (68,52%) registros de patentes contendo um único depositante e 124 (31,47%) registros de patentes em colaboração com outras empresas e instituições de pesquisa.
+Assim, conforme a Figura 1, entre as patentes em colaboração , 70 (56,45%) d elas apresentaram uma forte parceria com outras instituições como: Braskem, com 15 patentes; Universidade de Caxias do Sul (UCS), com 9 patentes; Universidade Federal do Rio de Janeiro (UFRJ), com 8 patentes; Biolab Farmacêutica, Pontifícia Universidade Ca tólica do Rio Grande do Sul (PUCRS), Empresa Brasileira de Pesquisa Agropecuária (EMBRAPA), Hospital de Clínicas de Porto Alegre (HCPA), Petróleo Brasileiro S.A. ( Petrobras) e Companhia Estadual de Energia Elétrica - Rio Grande do Sul (CEEE), com 5 patente s cada; e Universidade de São Paulo (USP) e Tecnano com 4 patentes cada.
+As 54 (43,54%) patentes restantes demonstraram as parcerias esporádicas realizadas entre a UFRGS e outras empresas e instituições de pesquisa, com 1, 2 ou 3 registros de patentes em c olaboração.
+Fernanda Bochi dos Santos, Thiago Monteiro Alves, Daniela Gralha de Caneda Queiroz, Felipe Grando Brandão, Rene Faustino Gabriel Júnior e Ana Maria Mielniczuk de Moura Inovação tecnológica da UFRGS: uma análise da colaboração identificada nas patentes indexadas na base Orbit 101 InCID: R. Ci.
+e Doc., Ribeirão Preto, v. 10, n. 2, p. 92-114, set.
+Figura 1 – Colaboração em patentes da UFRGS com outras instituições Fonte: dados da pesquisa.
+Na análise da Figura 1, observa -se que existe uma forte colaboração da UFRGS com as empresas, com destaque para a Braskem, que é uma empresa petroquímica brasileira, e possui sede no estado do Rio Grande do Sul, como maior colaboradora.
+Tal parceria envolv e também a UFRJ.
+Ainda na área do petróleo, destaca -se a parceria com a Petrobras.
+Em estudo de Bueno (2017), sobre as redes de colaboração tecnológica entre a Petrobras e universidades, a UFRGS aparece como a segunda universidade com o maior número de pat entes em colaboração com a Petrobras.
+Ainda neste estudo, dentre as patentes, podem ser encontradas tecnologias relacionadas às classes C09K (materiais para aplicações diversas, não incluídas em outro local; aplicações de materiais não incluídos em outro l ocal), C07C (compostos acíclicos ou carbocíclicos; preparação de compostos macromoleculares; produção de compostos orgânicos por eletrólise ou eletroforese) e C07F (compostos acíclicos, carbocíclicos ou heterocíclicos contendo outros elementos que não o ca rbono, o hidrogênio, o halogênio, o nitrogênio, o enxofre, o selênio ou o telúrio) da CIP (BUENO et al., 2017).
+(2014) a respeito das patentes das instituições de ensino superior no estado de Santa Catarina, entre os anos de 2001 e 2011, na base de patentes do INPI, resultou que a empresa Whirlpool, com sede em Santa Catarina e titular das marcas Brastemp, Consul e Kitchen Aid, foi a que mais depositou patentes junto com a UFSC, na área de Engenharia Mecânica.
+Assim como no caso da U FRGS, pode -se inferir que a proximidade física entre empresa/indústrias e universidade enseja o trabalho conjunto na produção de patentes.
+Já na Fernanda Bochi dos Santos, Thiago Monteiro Alves, Daniela Gralha de Caneda Queiroz, Felipe Grando Brandão, Rene Faustino Gabriel Júnior e Ana Maria Mielniczuk de Moura Inovação tecnológica da UFRGS: uma análise da colaboração identificada nas patentes indexadas na base Orbit 102 InCID: R. Ci.
+e Doc., Ribeirão Preto, v. 10, n. 2, p. 92-114, set.
+20 20. pesquisa sobre a propriedade industrial protegida pela Universidade Federal de Minas Gerais (UFMG), através do estudo dos documentos de patentes depositados no Brasil e no exterior e publicados até o final de novembro de 2012, Teixeira e Souza (2013) encontraram que 70% dos parceiros eram centros e fundações do poder público, sendo responsáveis por 75% das patentes depositadas em conjunto; a UFMG possuía 21 patentes desenvolvidas em conjunto com instituições do setor privado, representando menos de 5% das patentes, indicando, segundo os autores, dificuldade de comunicação entre os interesses público e privado da pes quisa desenvolvida.
+Diante disso, pode -se inferir que a UFRGS apresenta laços fortes de colaboração com empresas.
+Outra grande parceira percebida na Figura 1 é a BioLab, empresa farmacêutica com sede em São Paulo, responsável pela pesquisa, desenvolvimento, produção e comercialização de medicamentos.
+Já na área de saúde, a UFRGS desenvolve parcerias com instituições locais, como por exemplo, o HCPA (instituição participante da rede de hospitais universitários do Ministério da Educação (MEC) e vinculado academicamente à UFRGS).
+Na área da agricultura, a parceria com a Embrapa apresenta -se como a maior integradora do Mercosul, envolvendo diversas instituições da Argentina, Chile, Paraguai e Uruguai, sendo a rede com maior número de nós.
+Observa -se também, porém de forma menos intensa, colaborações da UFRGS com outras empresas e universidades nacionais, tais como a Fundação Oswaldo Cruz (Fiocruz), Universidade Estadual do Norte Fluminense Darcy Ribeiro (UENF), Universidade Estadual de Santa Cruz ( UESC), Universidade Federal de Minas Gerais (UFMG), Universidade Federal do Paraná (UFPR), Universidade Federal de Santa Catarina (UFSC), Universidade Federal de Santa Maria (UFSM), Universidade de Brasília (UnB), Universidade Estadual de Campinas (Unicamp ), entre outras, e ainda com universidades americanas, tais como a Washington State University e Texas A&M University.
+Entretanto, destaca -se que essas parcerias de colaborações são pontuais, com poucas ocorrências, não mantendo perenidade.
+Em relação aos indicadores de parcerias nacionais e estrangeiras, a UFRGS colabora prioritariamente com empresas e instituições brasileiras.
+Tal resultado alinha -se do encontrado por Moura e Scartassini (2017) em estudo a respeito do depósito de patentes de instituições gaúchas na base de patentes do Instituto Nacional de Propriedade Industrial (INPI), no qual se evidencia a colaboração da UFRGS com empresas e instituições da França.
+A Figura 2 mostra as colaborações com empresas e instituições estrangeiras, destacando as parcerias com países Fernanda Bochi dos Santos, Thiago Monteiro Alves, Daniela Gralha de Caneda Queiroz, Felipe Grando Brandão, Rene Faustino Gabriel Júnior e Ana Maria Mielniczuk de Moura Inovação tecnológica da UFRGS: uma análise da colaboração identificada nas patentes indexadas na base Orbit 103 InCID: R. Ci.
+e Doc., Ribeirão Preto, v. 10, n. 2, p. 92-114, set.
+20 20. da América do Sul, como Paraguai (Direccion de Investigacion Agricola del Ministerio de Agricultura y Ganaderia), Argentina (Consejo Nacional de Investigaciones Científicas y Técnicas - CONICET; Instituto de Agrobiotecnologia Rosario - INDEAR) e Uruguai (Instituto de Investigaciones Biológicas Clemente Estable – IIBCE; Instituto Nacional de Investigación Agropecuária – INIA; Universidade da República).
+Importante destacar que essas relações podem ter sido facilitadas pela proximidade g eográfica entre estes países, pela afinidade cultural e por fatores econômicos, conforme afirmam Zitt, Bassecoulard e Okubo (2000).
+Os Estados Unidos (Agricultural Research Service; Texas A&M University; Washington State University; University Of Massachus etts US Navy) também figuram entre os países que mais colaboram com a UFRGS, além de Israel (Yissum Research Development), França (Universite de Rouen), China (Sichuan University), Holanda (ID Lelystad Institute Dierhouderij) e Itália (Consiglio Nazionale Delle Ricerche).
+Figura 2 – Países colaboradores em patentes com a UFRGS Fonte: dados da pesquisa A fim de identificar os campos tecnológicos das patentes depositadas, analisou -se, por meio da Classificação Internacional de Patentes (CIP), apenas aquelas em que a UFRGS estabeleceu parceria, ou seja, 124 registros.
+Desse total, 14 patentes não entraram nas análises, pois não apresentavam o númer o CIP, resultando em 110 registros analisados.
+Todos os números de classificação foram considerados, visto que uma patente pode ser classificada em mais de uma área tecnológica, como descrito anteriormente.
+Na Figura 3 apresentam -se as relações entre os co laboradores da UFRGS e as seções da CIP que predominam nos depósitos.
+Fernanda Bochi dos Santos, Thiago Monteiro Alves, Daniela Gralha de Caneda Queiroz, Felipe Grando Brandão, Rene Faustino Gabriel Júnior e Ana Maria Mielniczuk de Moura Inovação tecnológica da UFRGS: uma análise da colaboração identificada nas patentes indexadas na base Orbit 104 InCID: R. Ci.
+e Doc., Ribeirão Preto, v. 10, n. 2, p. 92-114, set.
+O destaque vai para a seção de Necessidades Humanas (seção A), seguidas pela seção de Química (seção C), Operações de Processamento e Transporte (seção B) e Física (seção G).
+Destaca -se que poucas das patentes depositadas estão relacionadas às seções H (eletricidade), F (engenharia mecânica; iluminação; aquecimento; armas; explosão) e D (têxteis; papel) da CIP.
+Já na seção E, referente a construções fixas e edificações, não foi encontrado nenhum registro de patente.
+Figura 3 – CIPs das patentes depositadas pela UFRGS Fonte: dados da pesquisa.
+Ao analisar os campos tecnológicos das patentes a partir das subclasses da CIP (Tabela 1), observa -se que há um forte interesse da UFRGS no depós ito de tecnologias relacionadas a atividades terapêuticas específicas de compostos químicos ou de preparações medicinais (A61P) e também a preparações com finalidades médicas, odontológicas ou higiênicas (A61K).
+Dentre as principais parcerias da universida de para o desenvolvimento de tecnologias voltadas para estes setores, encontram -se outras instituições de ensino superior, como a USP e UFRJ, e a empresa Biolab Farmacêutica.
+Quanto às tecnologias voltadas para o setor da química, verifica -se que as princi pais colaboradoras da UFRGS são a UFRJ e a Braskem.
+Os produtos gerados para o setor, investigam predominantemente os compostos macromoleculares obtidos por reações apenas Fernanda Bochi dos Santos, Thiago Monteiro Alves, Daniela Gralha de Caneda Queiroz, Felipe Grando Brandão, Rene Faustino Gabriel Júnior e Ana Maria Mielniczuk de Moura Inovação tecnológica da UFRGS: uma análise da colaboração identificada nas patentes indexadas na base Orbit 105 InCID: R. Ci.
+e Doc., Ribeirão Preto, v. 10, n. 2, p. 92-114, set.
+20 20. por ligações insaturadas carbono -carbono (C08F), compostos heterocíclicos (C07D) e o uso de substâncias inorgânicas ou orgânicas não -macromoleculares como ingredientes de composições (C08K).
+Tabela 1 – Principais subclasses da CIP atribuídas as patentes da UFRGS e seus colaboradores predominantes Subclasses nº de patentes que apresentam % em relação ao total Colaboradores A61K 31 28,2 % USP; UFRJ; Biolab; UENF A61P 23 20,9 % UFRJ; Biolab; UENF; USP; UCS B01J 10 9,1 % Braskem; Petrobras C08F 10 9,1 % Braskem G01N 9 8,2 % Braskem; UCS C07D 8 7,3 % UFRJ; HCPA C08K 7 6,4 % Braskem Fonte: dados da pesquisa.
+As patentes classificadas nas seções B e G da CIP, são produtos gerados a partir da colaboração com diversas universidades e empresas, destacando -se principalmente a UCS, Braskem e a Petrobras.
+As subclasses da CIP que tiveram maior atribuição às inovações destas seções, estão relacionadas a processos químicos ou físicos e a aparelhos pertinentes aos mesmos (B01J) ou a processos de investigação ou análise de materiais a partir de suas propriedades químicas ou físicas (G01N).
+Ao analisarem a produção tecnológica da UFRGS entre os anos de 1990 e 2013, Scartassini e Moura (2014) encontraram resultados próximos ao deste estudo.
+As áreas que mais apareceram no estudo das autoras foram as de preparações para finalidades médicas, odontológicas ou higiênicas (A61K), com 53 registros, seguidas das áreas de compostos acíclicos ou carbocíclicos (C07C) e atividades terapêuticas específicas de compostos químicos ou preparações medicinais (A61P), ambos com 24 registros.
+No já citado estudo d e Moraes et al.
+(2014) realizado em instituições de ensino superior no estado de Santa Catarina, as áreas que mais apareceram foram Física (secção G), Química, Metalurgia (seção C) e Necessidades Humanas (seção A), totalizando 58,8% do total.
+No também já citado estudo de Teixeira e Souza (2013) das patentes da UFMG, os autores encontraram como área de maior interesse: Fernanda Bochi dos Santos, Thiago Monteiro Alves, Daniela Gralha de Caneda Queiroz, Felipe Grando Brandão, Rene Faustino Gabriel Júnior e Ana Maria Mielniczuk de Moura Inovação tecnológica da UFRGS: uma análise da colaboração identificada nas patentes indexadas na base Orbit 106 InCID: R. Ci.
+e Doc., Ribeirão Preto, v. 10, n. 2, p. 92-114, set.
+Necessidades Humanas (seção A) e Química, Metalurgia (seção C).
+Percebe -se, então, que existe coincidência nas áreas com mais destaque, moti vando estudo posterior a fim de verificar se esta é uma característica das instituições de ensino em nível nacional.
+Com base nos dados dos depósitos de patentes da universidade, foram identificados os escritórios prioritários de depósitos relacionados na Tabela 2.
+Tabela 2 – Escritórios de Depósito Prioritário das Patentes da UFRGS (N= 394) Escritórios Patentes % estrangeiro % do total BR – Brasil 378 - 95,92% WO – WIPO 9 56,25% 2,28% US - Estados Unidos 3 18,75% 0,80% ZA – África do Sul 1 6,25% 0,25% CA – Canadá 1 6,25% 0,25% UY – Uruguai 1 6,25% 0,25% JP – Japão 1 6,25% 0,25% Total 394 4,06% 100% Fonte: dados da pesquisa.
+Nota -se que 378 (95,92%) patentes foram depositadas prioritariamente no escritório brasileiro e as outras 16 patentes (4,06%) tiveram como depósito prioritário escritórios internacionais, fato que demonstra o interesse da universidade e dos seus colaboradores em depositar suas invenções prioritariamente no país de origem.
+A ssim, percebe -se que as ações de incentivo do governo br asileiro para a promoção da inovação, internacionalização das instituições científicas e tecnológicas, proteção dos resultados de pesquisa e estímulo às interações entre universidades, indústria e governo são necessárias e bem -vindas.
+Nesse sentido, pode -se destacar o Novo Marco Legal de Ciência, Tecnologia e Inovação brasileiro (Lei nº 13.243/2016), que foi regulamentado, recentemente, pelo Decreto nº 9.283/2018.
+Convêm lembrar que esses instrumentos legais foram precedidos pela Lei nº 10.973/2004 e a pela Emenda Constitucional número 85/2015.
+Cabe destacar aqui que os depósitos de patentes realizados via Tratado de Cooperação em Matéria de Patentes (PCT, sigla em inglês), os quais geram publicações WO, concedem um prazo adicional de 18 meses em relação ao prazo previsto na Convenção da União de Paris (CUP), que é de 12 meses, para que os interessados entrem nas fases nacionais nos territórios nos quais pretendem realizar a proteção.
+O PCT é administrado pela Organização Mundial da Propriedade Intelectual ( OMPI ou WIPO em inglês) Fernanda Bochi dos Santos, Thiago Monteiro Alves, Daniela Gralha de Caneda Queiroz, Felipe Grando Brandão, Rene Faustino Gabriel Júnior e Ana Maria Mielniczuk de Moura Inovação tecnológica da UFRGS: uma análise da colaboração identificada nas patentes indexadas na base Orbit 107 InCID: R. Ci.
+e Doc., Ribeirão Preto, v. 10, n. 2, p. 92-114, set.
+20 20. e já conta com mais de 150 países signatários (WORLD INTELLECTUAL PROPERTY ORGANIZATION, 2017).
+Importante destacar que Teixeira e Souza (2013), em pesquisa citada anteriormente, encontraram resultados semelhantes no que tange aos e scritórios com maior quantidade de depósitos: BR - Brasil, WO - OMPI, EP - Escritório Europeu e USEstados Unidos.
+Com base nos dados foram identificados os principais inventores de patentes da UFRGS, sua vinculação acadêmica e a atuação dentro da univer sidade.
+Foram selecionados os inventores que correspondem ao primeiro quartil do número total de patentes, sendo considerada uma amostra representativa para análise (Tabela 3).
+Tabela 3 – Número de patentes por inventores da UFRGS e sua atuação/seu vínculo na universidade Inventor Nº Instituto Departamento PPG Carlos Perez Bergmann 15 EE DEMAT PPGEP Sílvia Stanisçuaski Guterres 13 FACFAR FAR02 PPGCF Itabajara da Silva Vaz Júnior 13 FAVET VET3 PPGBCM/PPGCV Jairton Dupont 13 IQ DQO PPGQ/PPGCIMAT Adriana Raffin Pohlmann 10 IQ DQO PPGQ/PPGCF/PPGNanofarma João Henrique Zimnoch dos Santos 9 IQ DQI PPGQ Pedro Migowski da Silva 9 IQ DQI PPGQ Sérgio Ribeiro Teixeira 9 IF DEPFIS PPGCIMAT Adriano Friedrich Feil 9 IF DEPFIS PPGCIMAT Fonte: dados da pesquisa.
+A partir da Tabela 3, destaca -se o professor Carlos Perez Bergmann por apresentar 15 patentes registradas como de sua autoria, o maior quantitativo dentre os inventores recuperados.
+Bergmann possui graduação em Engenharia Metalúrgica, mestrado em Engenharia de Minas, Metalúrgica e de Materiais pela UFRGS e doutorado em Engenharia pela Rheinisch Westfälische Technische Hochschule Aachen, na Alemanha.
+Atualmente é professor titular da UFRGS, sendo vinculado ao Departamento de Materiais (DEMAT) da Escola de Engenharia (EE) e atua na área de inovação tecnológica no Programa de Pós -graduação em Engenharia de Fernanda Bochi dos Santos, Thiago Monteiro Alves, Daniela Gralha de Caneda Queiroz, Felipe Grando Brandão, Rene Faustino Gabriel Júnior e Ana Maria Mielniczuk de Moura Inovação tecnológica da UFRGS: uma análise da colaboração identificada nas patentes indexadas na base Orbit 108 InCID: R. Ci.
+e Doc., Ribeirão Preto, v. 10, n. 2, p. 92-114, set.
+Produção (PPGEP) e no Programa de Pós -Graduação em Engenharia de Minas, Metalúrgica e de Materiais (PPG3M).
+Sílvia Stanisçuaski Guterres possui graduação em Farmácia e mestrado em Ciências Farmacêuticas pela UFRGS, além de doutorado pela Faculté de Pharmacie -Université de Paris XI.
+A inventora apresentou 13 registros de patentes e é prof essora titular da universidade, sendo vinculada ao Departamento de Produção e Controle de Medicamentos (FAR02) da Faculdade de Farmácia (FACFAR), atuando na área de nanobiotecnologia farmacêutica no Programa de Pós-Graduação em Ciências Farmacêuticas (PPGC F).
+O inventor Itabajara da Silva Vaz Júnior também apresentou 13 registros de patentes e é graduado em Medicina Veterinária pela Universidade Federal de Pelotas, com mestrado e doutorado em Ciências Biológicas pela UFRGS.
+Atualmente é professor titular da Faculdade de Veterinária (FAVET) junto ao Departamento de Patologia e Clínica Veterinária (VET3), atuando como orientador do Programa de Pós -Graduação em Biologia Celular e Molecular (PPGBCM) e do Programa de Pós -Graduação em Ciências Veterinárias (PPGCV) .
+Jairton Dupont possui formação em Química pela Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS), doutorado em Química pela Universidade Louis Pasteur de Strasbourg e pós -doutoramento pela Universidade de Oxford.
+É professor titular do Instit uto de Química (IQ) da UFRGS e está vinculado ao Departamento de Química Orgânica.
+É docente nos Programas de Pós -Graduação em Química (PPGQ) e Pós -graduação em Ciência dos Materiais (PPGCIMAT), além de atuar com pesquisa e desenvolvimento na área de organ ometálicos e catálise.
+Assim como Dupont, Adriana Raffin Pohlmann também possui vinculação ao IQ e ao DQO e apresentou 10 registros de patentes.
+É graduada em Farmácia e mestre em Química pela UFRGS, além de doutora pela Chimie Thérapeutique - Universite P aris V. Além de professora titular da universidade, Pohlmann atua como orientadora nos Programas de Pós -Graduação em Química (PPGQ), em Ciências Farmacêuticas (PPGCF) e em Nanotecnologia Farmacêutica (PPGNanoFarma).
+João Henrique Zimnoch dos Santos e Pedro Migowski da Silva apresentaram 9 registros de patentes.
+Além disso, ambos atuam como professores do IQ, sendo vinculados ao Departamento de Química Inorgânica (DQI) e ao PPGQ.
+João Henrique Santos é bacharel em Química Industrial e mestre em Química pela UFRGS e possui doutorado em Chimie Fernanda Bochi dos Santos, Thiago Monteiro Alves, Daniela Gralha de Caneda Queiroz, Felipe Grando Brandão, Rene Faustino Gabriel Júnior e Ana Maria Mielniczuk de Moura Inovação tecnológica da UFRGS: uma análise da colaboração identificada nas patentes indexadas na base Orbit 109 InCID: R. Ci.
+e Doc., Ribeirão Preto, v. 10, n. 2, p. 92-114, set.
+Moleculaire et Catalyse - Université Toulouse III Paul Sabatier.
+Pedro Migowski da Silva é bacharel, mestre e doutor em Química pela UFRGS além de possuir pós -doutorado pela UFRGS, PUCRS e pela RWTH Aachen University.
+Os dois últimos inventores analisados são ligados ao Instituto de Física (IF) da UFRGS e apresentaram 9 registros de patentes cada um.
+Sérgio Ribeiro Teixeira é bacharel e doutor em Física pela UFRGS e mestre em Física pela Universidade Estadual de Campinas ( UNICAMP).
+Além de professor titular da universidade e coordenador do PPGCIMAT, o inventor também atua com pesquisa e desenvolvimento nas áreas de caracterização estrutural de nanopartículas de metais de transição, nanopartículas magnéticas, propriedades es truturais e de transporte em filmes finos, multicamadas e ligas heterogêneas metal/isolante.
+Adriano Friedrich Feil é graduado em Licenciatura em Física pela PUCRS, mestre em Engenharia e Tecnologia de Materiais pela PUCRS, doutor em Ciências dos Materiais pela UFRGS e pós -doutor pelo Instituto de Física da UFRGS e pelo National Renewable Energy Laboratory.
+Atualmente o inventor é professor na Faculdade de Física e no Programa de Pósgraduação em Engenharia e Tecnologia de Materiais da PUCRS.
+Porém, as dive rsas patentes recuperadas que estão associadas ao inventor estão relacionadas ao período de seu doutorado e pós-doutorado na UFRGS.
+Percebe -se que, ainda que os inventores em maior destaque sejam das áreas de Engenharia, Farmácia e Veterinária, há um grand e número de patentes advindas do Instituto de Química (IQ) e do Instituto de Física (IF) da UFRGS.
+Importante registrar que tanto o IQ quanto o IF possuem expressiva produção científica, dando indícios de que estas unidades estão conseguindo transformar o conhecimento científico em produtos ou inovações tecnológicas, como bem colocam Pavanelli e Oliveira (2012).
+Além disso, observando outros estudos sobre patentes em universidades, verifica -se que os números apresentados pela UFRGS estão em consonância com os demais estudos.
+No já comentado estudo de Moraes et al.
+(2014), nas Instituições de Ensino Superior e de Pesquisa do estado de Santa Catarina, os autores mais frequentes apareceram 5 vezes.
+Já no estudo de Teixeira e Souza (2013), na UFMG, os pesquisad ores com mais patentes depositadas possuíam 32 cada (do Departamento de Engenharia Mecânica e também do Departamento de Microbiologia).
+Fernanda Bochi dos Santos, Thiago Monteiro Alves, Daniela Gralha de Caneda Queiroz, Felipe Grando Brandão, Rene Faustino Gabriel Júnior e Ana Maria Mielniczuk de Moura Inovação tecnológica da UFRGS: uma análise da colaboração identificada nas patentes indexadas na base Orbit 110 InCID: R. Ci.
+e Doc., Ribeirão Preto, v. 10, n. 2, p. 92-114, set.
+Considerações finais A colaboração científica é uma atividade que vem sendo praticada e se desenvolve progressivamente nas diferentes áreas do conhecimento, favorecendo a comunidade acadêmica e a sociedade como um todo.
+A análise das 394 patentes que tem como depositante a UFRGS mostrou forte colaboração da Universidade com empresas e instituições, com um percentual de cerca de 30% de patentes depositadas em colaboração.
+Os dados mostram que as maiores parceiras da UFRGS são empresas cujas matrizes estão localizadas na região sudeste, onde se concentra o maior investimento em Pesquisa, Desenvolvimento e Inovação (PD&I).
+Al ém dessas empresas, é notável a colaboração da UFRGS com outras instituições de ensino superior e hospitais escolas, reforçando o trabalho colaborativo que vem ocorrendo entre as universidades do estado e as interestaduais.
+O estudo mostrou ainda que a UFR GS vem buscando parcerias com universidades e empresas internacionais, destacando países como Paraguai, Argentina e Uruguai, e também cooperação com os Estados Unidos, fortalecendo a internacionalização de suas pesquisas.
+Além disso, este estudo evidenciou que as instituições trabalham no sentido de fomentar uma crescente colaboração científica internacional.
+Essa constatação não colide com o fato da UFRGS priorizar a proteção dos seus inventos no território nacional.
+Convém ressaltar que essa prática dá -se, inclusive, devido aos altos custos envolvidos num processo de proteção internacional.
+Destaca -se ainda a importância dos estudos métricos aplicados pela Ciência da Informação (bibliometria, patentometria, cientometria , entre outras) como contribuição para a geração de resultados e indicadores para a avaliação do desenvolvimento científico e tecnológico de determinada área do conhecimento, instituição ou país.
+Como afirma Mueller (2008), são a partir das avaliações dest es indicadores que o governo e as agências de fomento à pesquisa, identificam e estimulam as melhores iniciativas com ativos financeiros.
+Sendo assim, a partir deste estudo pôde -se conhecer e analisar a colaboração da UFRGS com outras instituições e países de acordo com a CIP e, por consequência, evidenciar a produção tecnológica desenvolvida pela universidade, gerando indicadores que possam ser utilizados para impulsionar o desenvolvimento de novas pesquisas.
+Por fim, cabe ainda destacar a necessidade de e studos futuros que utilizem um viés qualitativo para a análise dos dados a fim de identificar aspectos mais complexos da produção Fernanda Bochi dos Santos, Thiago Monteiro Alves, Daniela Gralha de Caneda Queiroz, Felipe Grando Brandão, Rene Faustino Gabriel Júnior e Ana Maria Mielniczuk de Moura Inovação tecnológica da UFRGS: uma análise da colaboração identificada nas patentes indexadas na base Orbit 111 InCID: R. Ci.
+e Doc., Ribeirão Preto, v. 10, n. 2, p. 92-114, set.
+20 20. científica e tecnológica.
+O uso de uma metodologia qualitativa permitirá aferir quais as motivações destes pesquisadores para a produção e proteção de suas invenções; os porquês de desenvolverem tecnologias em colaboração; e compreender se o estímulo de tal atividade foi o desenvolvimento de um produto aplicável em alguma demanda ou segmento da sociedade ou se estes produtos fora m o resultado de uma pesquisa de natureza básica.
+Referências ASSEFA, S. G.; RORISSA, A.
+A bibliometric mapping of the structure of STEM education using co -word analysis.
+Journal of the American Society for Information Science and Technology , Bloomington, v. 64, n. 12, p. 2513 -2536, Dec. 2013.
+BHATTACHARYA, S. Delineating the patent data: a case study of prolific patenting institutions of India and China.
+DESIDOC Journal of Library and Information Technology , New Delhi, v. 27, n. 1, p. 87 -95, Jan. 2007.
+BEAVER, D. B.; ROSEN, R. Studies in scientific collaboration: part I.
+The professional origins of scientific co -authorship.
+Scientometrics , Dordrecht, v. 1, n. 1, p. 65 -84, Sep. 1978.
+BEAVER, D. B.; ROSEN, R. Studies in scientific collaboration: part II.
+Scientific coauthorship, research productivity and visibility in the french scientific elite, 1799 -1830.
+Scientometrics , Dordrecht, v. 1, n. 2, p. 133 -149, Jan. 1979.
+Rede de cooperação tecnológica da Petrobras e universidades e das suas áreas de tecnologia: panorama atual e perspectivas.
+Revista Iniciativa Econômica , Araraquara, v. 3, n. 2, jul./dez.
+ETZKOWITZ, H.; ZHOU, C. Hélice tríplice: inovação e empreendedorismo universidadeindústria -governo.
+Estudos Avançados , São Paulo, v. 31, n. 90, p. 23 -48, maio/ago.
+Disponível em: < -40142017.3190003 >.
+FRANÇA, R. O. Patente como f onte de informação tecnológica.
+Perspectivas em Ciência da Informação , Belo Horizonte, v. 2, n. 2, p. 235 -264, jul./dez.
+Disponível em: < s.eci.ufmg.br/index.php/pci/article/view/636/425 >.
+GOMES, M. A. S.; PEREIRA, F. E. C. Hélice tríplice: um ensaio teórico sobre a relação universidade -empresa -governo em busca da inovação.
+International Journal of Knowledge Enginee ring and Management , Florianópolis, v. 4, n. 8, p. 136 -155, mar./jun.
+Fernanda Bochi dos Santos, Thiago Monteiro Alves, Daniela Gralha de Caneda Queiroz, Felipe Grando Brandão, Rene Faustino Gabriel Júnior e Ana Maria Mielniczuk de Moura Inovação tecnológica da UFRGS: uma análise da colaboração identificada nas patentes indexadas na base Orbit 112 InCID: R. Ci.
+e Doc., Ribeirão Preto, v. 10, n. 2, p. 92-114, set.
+IPIRANGA, A. S. R.; FREITAS, A.
+A. F.; PAIVA, T. A. O empreendedorismo acadêmico no contexto da interação universidade – empresa – governo .
+Cadernos EBAPE.BR , Rio de Janeiro, v. 8, n. 4, p. 676 -693, dez.
+KATZ, J. S.; MARTIN, B. R. What is research collaboration?
+Research Policy , Amsterdam, n. 26, p. 1 -18, 1997.
+Disponível em: < ~sylvank/pubs/Res_col9.pdf >.
+LIMA , E. G. S.; LEITE, D. Influências da avaliação no conhecimento produzido pelos pesquisadores em redes de pesquisa .
+In: LEITE, Denise; LIMA, Elizeth Gonzaga dos Santos.
+Conhecimento, avaliação e redes de colaboração : produção e produtividade na universidade .
+Porto Alegre: Sulina, 2012. cap.
+Los indicadores bibliométricos : fundamentos y aplicación al análisis de la ciencia.
+MARICATO, J. M.; NORONHA, D. P. Coclassificação em artigos e patentes em biodiesel: limites e possibilidades para análise das relações e interações entre a ciência e a tecnologia.
+Liinc em Revista , Rio de Janeiro, v. 9, n. 1, p. 85 -102, maio 2013.
+MATHEUS, R. F.; VANZ, S. A. S.; MOURA, A. M. M. Co -autoria e co -invenção: indicadores da colaboração em CT&I no Brasil.
+In: CONGRESO IBEROAMERICANO DE INDICADORES DE CIENCIA Y TECNOLOGÍA, 7., 2007, São Paulo.
+Anais… São Paulo: 2007. p. 1 -16.
+Disponível em: < -invencao_indicadores_da_colaboracao_em_CTI_no_Brasil >.
+MEYER, M.; BHATTACHARYA, S. Commonalities and differences between scholarly and technical col laboration.
+Scientometrics , Budapest, v. 61, n. 3, p. 443 -456, 2004.
+As patentes de Santa Catarina segundo seus depósitos: estudo métrico nas instituições de ensino superior.
+Revista A CB: Biblioteconomia em Santa Catarina, Florianópol is, v. 19, n. 1, p. 33 -51, jan./jun.
+MOURA, A. M. M.; SCARTASSINI, V. B. Depósito de patentes no estado do Rio Grande do Sul: uma abordagem patentométrica.
+PontodeAcesso , Salvador, v. 11, n. 1, p. 42 -59, abr.
+MUELLER, S. P. M. Métricas para a ciência e tecnologia e o financiamento da pesquisa: algumas re flexões.
+Encontros Bibli : Revista Eletrônica de Biblioteconomia e Ciência da Informação, Florianópolis, p. 24 -35, jan./jun.
+MUELLER, S. P. M.; PERUCCHI, V. Universidades e a produção de patentes: tópicos de interesse para o estudios o da informação tecnológica.
+Perspectivas em Ciência da Informação , Belo Horizonte, v. 19, n. 2, p. 15 -36, abr./jun.
+Fernanda Bochi dos Santos, Thiago Monteiro Alves, Daniela Gralha de Caneda Queiroz, Felipe Grando Brandão, Rene Faustino Gabriel Júnior e Ana Maria Mielniczuk de Moura Inovação tecnológica da UFRGS: uma análise da colaboração identificada nas patentes indexadas na base Orbit 113 InCID: R. Ci.
+e Doc., Ribeirão Preto, v. 10, n. 2, p. 92-114, set.
+NORUZI, A.; ABDEKHODA, M. Mapping Iranian patents based on International Patent Classification (IPC), from 1976 to 2011.
+Scientometrics , v. 93, n. 3, p. 847 -856, Dec. 2012.
+Disponível em: < -012-0743 -4>.
+OMPI : Organização Mundial da Propriedade Intelectual.
+PAVANELLI, M. A.; OLIVEIRA, E. F. T. Conhecimento tecnológico e inovação no Brasil: um estudo patentométrico na Universidade Estadual Paulista.
+Ibersid : Revista de Sistemas de Información y Documentación, Saragoça, n. 6, p. 119 -125, 2012.
+PÓVOA, L. M. C. Depósitos de patentes de universidades brasileiras (1979 – 2004).
+In: SEMINÁRIO SOBRE A ECONOMIA MINEIRA, 12., 2006, Diamantina.
+Diamantina: Cedeplar/UFMG, 2006. p. 1 - 22.
+Disponível em: < -2006/D06A006.pdf >.
+PRICE, D. S. Little science, big science .
+New York: Columbia University Press, 1963.
+London: QS Quacquarelli Symonds, 2018.
+Disponível em: < -rankings/world -university -rankings/2018 >.
+RAPINI, M. S.; CHIARINI, T.; SANTOS, U. P. Interação de grandes empresas com universidades no Brasil: evidências a partir da pesquisa "Sondagem da Inovação".
+In: GARCIA, R. C.; RAPINI, M. S.; CÁRIO, S. A. F.
+Experiências de interação universidade -empresa no Brasil .
+Disponível em: < ar.ufmg.br/component/phocadownload/category/13economia?download=1101:experiencias -de-interacao -universidade -empresa -no-brasil >.
+SCARTASSINI, V. B.; MOURA, A. M. M. A produção tecnológica da Universidade Federal do Rio Grande do S ul no período de 1990 a 2013.
+Pesquisa Brasileira em Ciência da Informação e Biblioteconomia , João Pessoa, v. 9, n. 1, p. 18 -33, 2014.
+Disponível em: < s.ufpb.br/ojs/index.php/pbcib/article/view/19167 >.
+SCHOLZE, S.; CHAMAS, C. Instituições públicas de pesquisa e o setor empresarial: o papel da inovação e da propriedade intelectual.
+Parcerias Estratégicas , Brasília, v. 5, n. 8, p.85-92, maio 2000.
+TEIXEIRA, R. C.; SOUZA, R. R. O uso das informações contidas em documentos de patentes nas práticas de inteligência competitiva: apresentação de um estudo das patentes da UFMG.
+Perspectivas em Ciência da Informação , Belo Horizonte, v. 18, n. 1, p.106 -125, jan./mar.
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL.
+Fernanda Bochi dos Santos, Thiago Monteiro Alves, Daniela Gralha de Caneda Queiroz, Felipe Grando Brandão, Rene Faustino Gabriel Júnior e Ana Maria Mielniczuk de Moura Inovação tecnológica da UFRGS: uma análise da colaboração identificada nas patentes indexadas na base Orbit 114 InCID: R. Ci.
+e Doc., Ribeirão Preto, v. 10, n. 2, p. 92-114, set.
+VANZ, S. A. S. As redes de colaboração científica no Brasil (2004 -2006) .
+204 f. Tese (Doutorado em Comunicação e Informação) – Universidade Federal do Rio Grande do Sul, Porto Alegre, 2009.
+2018 WORLD INTELLECTUAL PROPERTY ORGANIZATION.
+Guide to the international patent classification .
+WORLD INTELLECTUAL PROPERTY ORGANIZA TION.
+Proteger suas invenções no estrangeiro : perguntas e respostas sobre o Tratado de Cooperação em matéria de Patentes (PCT).
+ZITT, M.; BASSECOULARD, E.; OKUBO, Y. Shadows of the past in international cooperation: collaboration profiles of the top five producers of s cience.
+Scientometrics, Amsterdam v. 47, p. 627 -657, 2000.
+Disponível em: < d=S14139936201000020000400042&lng=en >.
+2019 Artigo aceito em: 19 nov. 2019 i Agradecimentos O presente trabalho foi realizado com apoio da Coordenação de Aperfeiçoamento de Pessoal de nível SuperiorBrasil (CAPES) e apoio da Pró -Reitoria de Pesquisa (PROPESQ/UFRGS).

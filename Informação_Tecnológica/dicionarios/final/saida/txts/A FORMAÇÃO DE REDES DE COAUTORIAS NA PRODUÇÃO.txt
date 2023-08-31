@@ -1,0 +1,309 @@
+2 , n 2, AGOSTO/ 2018 Revista Estudos e P esquisa s em Administração n° BACKES, FREITAS, BARBOSA e BARBOSA Vol.
+2, n. 2, AGOSTO /2018 n° Journal of Studies and Research in Administration 76 A FORMAÇÃO DE REDES DE COAUTORIA S NA PRODUÇÃO CIENTÍFICA DE INOVAÇÃO NOS PPGAs BRASILEIROS THE NETWORK OF CO -AUTHORIES FORMATION IN THE SCIENTIFIC PRODUCTION OF INNOVATION IN THE BRAZILIAN PPGAs Danieli Artuzi Pes Backes Universidade Federal de Mato Grosso -0002 -6411 -6649 Jessi ca Fernanda Yoshida de Freitas Universidade Federal de Mato Grosso -0003 -0306 -140X Manuela de Carvalho e Barbosa Universidade Federal de Mato Grosso 00-0001 -7866 -9597 Mateus de Carvalho e Barbosa Universidade Federal de Mato Grosso -0001 -5814 -6107 RESUMO Este estudo teve como objetivo identificar as relações entre os pesquisadores de Inovação dos Programas de Pós -graduação em Administração (PPGAs) stricto -sensu brasileiros , usando como base a abordagem teórico -metodológica da Análise de Redes Sociais (ARS) .
+No intuito de mapear as redes de coautoria de produção científica, utilizou -se o software Ucinet 6 e NetDraw 2.160 para geração dos grafos, chegando a resultados que apontaram relações fracas quanto à formação da rede de coautores de Inovação.
+Entretanto , ficou claro o comportamento proativo de alguns pesquisadores que agem como nós centrais de produção científica intrainstitucional e outros que agem como pontes interinstitucionais.
+Em contrapartida, identificou -se uma parcela significativa de autores que não possui nenhum vínculo com os pesquisadores da rede estudada, deixando uma lacuna a ser pesquisada em estudos futuros, com a finalidade de compreender o comportamento desses pesquisadores, analisando suas relações de coautoria tanto nacionais quanto in ternacionais.
+Palavras -chave : Redes; Coautoria; I nova ção; P rogramas de pós -graduação; Administração.
+ABSTRACT This study aimed to identify the relationship between the Innovation researchers in the Administration Graduate stricto sensu programs in Brazil, based on the theoretical and methodological approach of Social Network Analysis (SNA).
+In order to map the scientific production of co -authorship networks, the Ucinet 6 and NetDraw 2160 software were used to generat e the graphs, reaching results that showed weak relationships for the formation of the Innovation coauthors network.
+However, proactive behavior became clear to some researchers that act as central nodes of intra -institutional scientific p roduction and others that act as inter bridges.
+In contrast, it was found that a significant number of authors do not have any link with Recebido em 17/07/2018 e aprovado em 14/08/2018 Revista Estudos e P esquisa s em Administração n° BACKES, FREITAS, BARBOSA e BARBOSA Vol.
+2, n. 2, AGOSTO /2018 n° Journal of Studies and Research in Administration 77 the researchers in the studied network, leaving a gap to be investigated in future studies in order to understand the b ehavior of these researchers, analyzing their co -authored relations both national and international.
+Keywords : Networks; Co -authoring; Innovation; G raduate programs; Management.
+INTRODUÇÃO O desenv olvimento do sistema de inovação de uma nação depende da articulação entre universidades, empresas, governo (CRUZ, 2005) e demais agentes envolvidos com tecnologia, pesquisa e desenvolvim ento.
+Por meio dos resultados de suas pesquisas, as instituições de ensino superi or oferecem às empresas a oportunidade de conhecer as soluções tecnológicas utilizadas em outros contextos, que podem resolver seus problemas, aprimorar seus processos ou gerar novos produtos e serviços (VELHO , 2007) .
+As instituições de ensino superior agem como facilitadoras quanto ao acesso das empresa s às tecnologias atualizadas e melhor adequadas ao sistema produtivo, por meio de novos instrumentos e técnicas, além da formação de profissionais especializados e pesquisadores competentes, que possuem habilidades específicas, proporcionadas pelo intercam bio de conhecimento entre área acadêmica e empresarial, tanto nacional quanto internacional (VELHO, 2007) .
+Essas pessoas tendem a modificar o ambiente onde atuam, conseguindo despertar um espírito crítico e criativo, que favorece a inovação (LUNDVALL, 2002 , p. 1).
+Portanto, para que ocorra inovação é nece ssária "uma ampla e produtiva base científica, estreitamente ligada à educação superior e particularmente à pós -graduação" (PAVITT, 1998 , p. 803).
+Pelo próprio arcabouço criado pela Capes no Brasil, por meio dos documentos de área (CAPES, 2013) , que regulamentam e orientam as ações dos cursos de ensino superior, a produção científica individual tem cedido lugar às produções colaborativas, modalidade associativa na qual há vários pesquisadores envolvidos com o mesmo tema de pesquisa.
+Essa prática tem se tornado constante e é incentivada pelas ag ências de fomento à pesquisa, tanto pela economia de recursos como pela importância das associações, negociações e interligações com o maior número possível de elementos e fatores (SILVA, 2002).
+A colaboração aumenta a produtividade dos pesquisadores (CRONIN, 2005; LEE ; BOZEMAN, 2005), promove o intercâmbio de conhecimentos e contribui com a inovação.
+Uma das formas de verificar as relações quanto às produções científicas conjuntas entre diversos pesquisadores é por meio da ferramenta de Análise de Re des Sociais (ARS), que neste trabalho receberá a denominação de análise de coautoria.
+As análises de coautoria buscam compreender a produção científica por meio da verificação das parcerias formadas entre os pesquisadores (PARREIRAS ; SILVA ; MATHEUS ; BRANDÃO ; et al ., 2006) e integração entre as instituições de ensino, identificado pelas afiliações dos pesquisadores.
+As redes sociais na academia representam a socialização, intercâmbio e disseminação do conhecimento (RIBEIRO ; CIRANI ; FREITAS, 2014) .
+A partir da identificação de um amplo conjunto de pesquisadores brasileiros voltados para o tema inovação , que não se restringem apenas à área da Adminis tração, adotou -se um filtro para este estudo, que consiste na seleção restrita aos professores -pesquisadores permanentes dos programas d e pós -graduação stricto sensu de Administração .
+Esse filtro se justifica pela profundidade e especialização das pesquisas realizadas nos programas stricto sensu , que se difere de outros níveis educacionais por ter como finalidade maior a contribuição Revista Estudos e P esquisa s em Administração n° BACKES, FREITAS, BARBOSA e BARBOSA Vol.
+2, n. 2, AGOSTO /2018 n° Journal of Studies and Research in Administration 78 ao desenvolvimento científico.
+Para aprimorar ainda mais a busca, optou -se por selecionar os programas com nota de avaliação da Capes igual a 5, 6 e 7 , no triênio 2010 -2012 .
+Assumindo o pressuposto de que houve mudança de comportamento dos pesquisadores nos últimos anos no que se refere à tendência de pub licar em pares em detrimento das produções científicas individuais, este estudo assume a hipótese H1, de que os pesquisadores brasileiros dedicados ao tema inovação realizam suas pesquisas com outros pesquisadores não só de seus próprios programas, mas em parceria com pesquisadores de outras instituições.
+Portanto, o objetivo do estudo é verificar o comportamento intra e interorganizacional dos pesquisadores e mapear as relações entre os pesquisadores brasileiros do tema inovação , por meio d as redes de coau toria.
+O estudo é composto pelas seguintes partes: além d a introdução, consta o referencial teórico baseado no conceito de Análise de Redes Sociais e mais especificamente análise de redes de coautoria de produção científica .
+Na sequência, seguem os procedi mentos metodológicos adotados para o estudo e na análise e discussão dos resultados se expõem as inter-relações entre os pesquisadores dos programas de pós -graduação stricto sensu de Administração mais conceituados.
+P or fim, na conclusão, há a síntese dos resultados e apresentação das limitações do estudo incluindo sugestões para novas pesquisas.
+REFERENCIAL TEÓRICO O ser humano é um ser social por natureza e suas relações com outros seres semelhantes criam as r edes sociais.
+O conceito de redes sociais deu origem à Análise de Redes Sociais (ARS), que consiste na identificação das interrelações entre atores voltados para um mesmo interesse.
+(STOR CH, 2007) afirma que já se realiza essa técnica desde a década de 1950 quando o argentino Jacob Moreno criou a sociometria, que foi aprimorada pela matemática e teoria dos grafos.
+Entretanto, o manual de teorias e aplicações de redes sociais, produzido pela organização Politaktiv (2011) aponta Elton Mayo e W. Lloyd Warner e sua equi pe da Universidade de Harvard como um dos precursores, que em 1930 já explorou as relações interpessoais e formação de grupos informais de trabalho em uma empresa de Chicago.
+Contudo, o início do estudo das redes sociais pode ser atribuído a Ferdinand Tö nnies, que no final de 1800 afirmou que os grupos sociais são formados por laços pessoais que interligam pessoas que compartilham dos mesmos valores e crenças ou de forma impessoal, se conectam por meio de relações formais e instrumentais.
+Nos anos 1960 e 70 vários pesquisadores se empenharam no estudo do tema, entre eles Harrison White, Charles Tilly e Stanley Milgram, pesquisadores independentes da Universidade de Harvard, sendo que dois alunos de White, Mark Grenovetter e Barry Wellman, organizaram e pop ularizaram os estudos de análise de redes sociais ( POLITAKTIV, 2011) .
+A análise das redes estuda as ligações entre atores sociais, que podem ser pessoas ou empresas e demais instituições organizadas como unidades sociais (WASSERMAN ; FAUST, 1994) e o esco po da ARS é mapear as estruturas criadas entre as relações e as ligações dos participantes da rede, assim como sua evolução e impactos decorrentes (FREITAS ; PEREIRA , 2005).
+O interesse de empresas e governos no mapeamento e estudo das redes sociais tem sua base fundamentada na estrutura necessária para implantação de processos de inovação, inteligência competitiva e outras técnicas e métodos dependentes de processos sociais em rede, contribuindo sobremaneira para a elaboração e aplicação de estratégias inov ativas por parte desses atores (STORCH, 2007) .
+Considerando que por meio do ensino e da pesquisa nas instituições de ensino superior (IES) as tecnologias atualizadas são disseminadas, chegando até os mais diversos tipos de Revista Estudos e P esquisa s em Administração n° BACKES, FREITAS, BARBOSA e BARBOSA Vol.
+2, n. 2, AGOSTO /2018 n° Journal of Studies and Research in Administration 79 organizações (VELHO, 2007) , é necessária a construção de uma base científica ampla e produtiva que interligue os pesquisadores para que a inovação ocorra (PAVITT, 1998 ).
+A inovação é essencial em tempos de competição entre mercados e empresas para adaptação às mudanças ambientais e ganho de competitividade.
+Ao inovar a organização permite o crescimento sustentado e ganho de lucratividade (GAMBIN, 1998), portanto, a inovação é fundamental para o sucesso de uma empresa e correspondente a essa importância deve ser a gestão (DAVILA; EPSTEIN; SHELTON, 2007).
+A inovação pode ser compreendida como a combinação ou incorporação de conhecimento aplicados a novos processos, produtos ou serviços (LUECKE, 2003).
+Segundo a OCDE (2005) inovação é a introdução de um bem ou serviço novo ou aprimorado, podendo se tratar de produto (bem o u serviço), processo (técnicas de produção e distribuição), marketing (design, promoção, precificação, embalagem, distribuição) ou inovação organizacional (prática de negócio).
+Os dois tipos mais difundidos de inovação são as inovações radical e increment al.
+A radical diz respeito a uma criação original e categoricamente nova, tendo envolvido quase sempre novos processos produtivos, assim como novas tecnologias.
+Por outro lado, a inovação incremental trata das melhorias que podem ser realizadas em processo s, produtos e tecnologias já existentes.
+Entretanto, as duas andam juntas, de modo que geralmente após uma inovação radical se seguem várias inovações incrementais que visam o melhoramento da inicial (LUECKE, 2003).
+Embora, as duas sejam as principais, há várias outras formas de inovação, como a aberta (CHESBROUGH, 2003), a disruptiva (CHRISTENSEN, 1997), a modular e a arquitetural (HANDERSON; CLARK, 2001), dentre outras.
+Nos últimos anos os pesquisadores acadêmicos passaram a dedicar muita atenção à inovaç ão.
+No Brasil, em especial, o assunto vem ganhando espaço devido à urgência de seu desenvolvimento.
+Segundo Rossi (2009) o tema inovação ainda tem muito a avançar em nosso país.
+O ranking Global Innovation Index (GII, 2018), classificou o Brasil em 6º luga r na América Latina e Caribe e em 64º no ranking mundial de inovação.
+Diante dessa realidade e considerando que a inovação é um tema transversal na área da Administração, além de possuir conceito plural e de múltiplas faces (RESENDE JUNIOR; GUIMARÃES, 2012 ), mesmo pesquisadores de outros temas da área da Administração vem participando de redes sociais colaborativas de pesquisa sobre o tema .
+A análise das redes sociais de relacionamento vem sendo empregada em grande escala nos estudos de coautoria científica nos últimos anos.
+As redes de relacionamento identificam as relações e interações entre pessoas, empresas e organizações que possuem características ou objetivos comuns e proporcionam a realização de trocas de informações, disseminação do conhec imento e outros recursos entre seus membros.
+As interações entre agentes formam redes de relacionamento e suas ligações vão construindo e reconstruindo estruturas sociais (TOMAÉL ; MARTELETO, 2005).
+Na produção científica as redes de relacionamento promovem economia de tempo, estrutura e equipamentos, recursos tecnológicos, financeiros e organizacionais, além do intercâmbio de conhecimento, que podem ultrapassar os limites entre departamentos e instituições e eliminar as fronteiras entre países (CRONIN, 2005; GLÄNZEL ; SCHUBERT, 2004; GLANZEL, 2002; KRETESCHEMER, 2004; MEADOWS, 1999; SHIRABE ; TOMIZAWA, 2002) .
+A troca de conhecimento entre estudiosos de diferentes nacionalidades proporciona a evolução da ciência de forma que sua aplicação se torna passível nos mais diferentes contextos.
+As inter -relações constituídas para progresso científico foram proporcionadas p elo advento das tecnologias de informação e comunicação, de modo que os autores passaram a Revista Estudos e P esquisa s em Administração n° BACKES, FREITAS, BARBOSA e BARBOSA Vol.
+2, n. 2, AGOSTO /2018 n° Journal of Studies and Research in Administration 80 desenvolver estudos conjuntos sem a presença no mesmo espaço físico.
+Essa dinâmica é compensatória, uma vez que trabalhos de cooperação internacional possuem maior i mpacto e visibilidade (GLÄNZEL ; SCHUBERT, 2004) .
+Para estudo dessas interações , a tecnologia possibilitou a criação de várias metodologias para análise de redes, tanto pela quantidade de informações disponíveis quanto pelos softwares desenvolvidos para processamento de dados (MATHEUS ; SILVA, 2006) .
+Muitos são os estudos realizados sobre as redes colaborativas de produção científica ou redes de coautoria, a exemplo de Newman (2001a, 2001b) , um dos autores mais citados d a área , Subramanyam (1983) , Luukkonen, Persson e Sivertsen (1992) , Beaver (2001) , Barabâsi et al.
+(2002) , Persson, Glänzel e Danell (2004) ; Hou, Kretschmer e Liu (2008) ; Glänzel e Schubert (2004) , Lee e Bozeman (2005) , Figg et al .
+Nos últimos anos há um número crescente de produção internacional e citação de estudos nessa área.
+No Brasil, há o mesmo interesse em torno do tema e vários são os estudos dedicados ao mesmo , como por exemp lo, Balancieri, Bovo, Kern, Pacheco e Barcia (2005) , Marteleto (2010) , Gazda e Quandt (2010) , Matheus, Vanz e Moura (2012) , Ribeiro et al.
+Estes são alguns dos estudos nacionais mais citados da área, dentre outros referenciados no corpo deste artigo.
+As redes são compostas por três elementos, quais sejam, nós ou atores, vínculos ou relações e fluxos.
+Os nós ou atores são indivíduos ou grupos que se unem em prol de um objetivo comum.
+Os vínculos são as ligações existentes entre dois ou mais nós.
+O fluxo indica a direção da relação entre os nós, utilizando uma seta para essa finalidade, podendo ser unidirecionais ou bidirecionais.
+Entretanto, quando um nó possui ausência de vínculo, diz -se que está solto, por não estabelecer fluxo com nenhum outro membro da rede (VELÁZQUEZ ; AGUILAR, 2005).
+Em estudos de coautoria, que visa compreender a produção científica por meio da formação de parcerias entre pesquisadores (PARREIRAS et al., 2006) , os fluxos são bidirecionais, não podendo existir interação de um autor com o outro sem que o fluxo retorne à origem.
+Essa estrutura é denominada rede simé trica.
+PROCEDIMENTOS METODOLÓGICOS O desenvolvimento do estudo se deu de forma longitudinal e documental, servindo de base inicial para seleção da amostra do estudo a classificação da Coordenação de Aperfeiçoamen to de Pessoal de Nível Superior (CAPES, 2016) , dos programas de Pósgraduação stricto -sensu em Administração .
+Foram selecionados para o estudo os programas com notas 5, 6 e 7, ou seja, os programas mais conceituados da área que representam os níveis de referência nacional e internacional dentre os programas brasileiros.
+O período estudado compreende dez anos de produção científica dos professores permanentes desses programa s (2005 -2015), pois se acredita que esse período oferece um corte longitudinal suficiente para estabelecer a formação de redes de produção científica ligadas ao tema Inovação entre os professores permanentes dos melhores programas de Administração do Brasi l. Buscando alcançar o objetivo determinado para o presente estudo, isto é, a identificação das redes de coautoria dos pes quisadores brasileiros do tema I novação, adotou -se os seguintes passos: 1.
+Foram selecionados na Plataforma Sucupira os programas de pós -graduação stricto sensu de Administração , com nota de avaliação da Capes (2016) igual a 5, 6 e 7 , no triênio 2010 -2012, conforme Tabela 1.
+Revista Estudos e P esquisa s em Administração n° BACKES, FREITAS, BARBOSA e BARBOSA Vol.
+2, n. 2, AGOSTO /2018 n° Journal of Studies and Research in Administration 81 Tabela 1.
+Instituições ofertantes de cursos stricto sensu em Administração selecionadas e respectivas notas de avaliação da CAPES - Triênio 2010 -2012 N INSTITUIÇÃO NOTA 1 FUNDAÇÃO GETÚLIO VARGAS/SP (FGV/SP) 7 2 UNIVERSIDADE DE SÃO PAULO - USP 7 3 FUNDAÇÃO GETÚLIO VARGAS/RJ (FGV/RJ) 6 4 UNIVERSIDADE FEDERAL DE MINAS GERAIS (UFMG) 6 5 UNIVERSIDADE DO VALE DO ITAJAÍ (UNIVALI) 5 6 UNIVERSIDADE DO VALE DO RIO DOS SINOS (UNISINOS) 5 7 UNIVERSIDADE FEDERAL DE LAVRAS (UFLA) 5 8 UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE (UFRN) 5 9 UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL (UFRGS) 5 10 UNIVERSIDADE MUNICIPAL DE SÃO CAETANO DO SUL (USCS) 5 11 UNIVERSIDADE NOVE DE JULHO (UNINOVE) 5 12 UNIVERSIDADE PRESBITERIANA MACKENZIE (UPM) 5 13 PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL (PUC/RS) 5 14 PONTIFÍCIA UNIVERSIDADE CATÓLICA DO PARANÁ - PUC/PR 5 15 PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO DE JANEIROPUC/RJ 5 16 UNIVERSIDADE FEDERAL DA BAHIA - UFBA 5 17 UNIVERSIDADE FEDERAL DA PARA ÍBA/JOÃO PESSOA - UFPB/JP 5 18 UNIVERSIDADE DE BRASÍLIA – UNB 5 Fonte: Capes (2016) .
+O próximo passo foi identificar, dentre todos os programas, aqueles que possuem linhas de pesquisa voltadas à Inovação, n a Plataforma Sucupira, Capes (2016), sendo encontrados os seguintes programas: 1) Fundação Getúlio Vargas/SP (FGV/SP); 2) Universidade d e São Paulo – USP; 3) Universidade Federal d e Lavras (UFLA); 4) Universidade Federal d o Rio Grande d o Sul (UFRGS) ; 5) Un iversidade Municipal de São Caetano d o Sul (USCS); 6) Universidade Nove d e Julho (UNINOVE); 7) Pontifícia Universidade Católica do Rio Grande d o Sul (PUC/RS); 8) Universidade F ederal d a Bahia – UFBA; 9) Universidade de Brasília – UNB.
+A partir dos programas selecionados, foi elaborada uma lista com os nomes dos professores permanentes vinculados ao quadro -docente de cada programa, totalizando 252 docentes.
+Na Plataforma Lattes, foi realizado o levantamento de todos os professorespesquisadores que já haviam publicado artigos voltados para o tema Inovação em periódicos nacionais e internacionais no período de 10 anos (2005 a 2015), utilizando como palavra de busca "Inovação" e "Innovation".
+Os nomes dos pesquisadores de Inovação foram sendo organizados em ordem alfabética na primeira coluna de uma planilha eletrônica, sendo que após a identificação de 128 pesquisadores, a coluna foi transposta sobre a primeira linha da planilha, de forma a produzir uma matriz simétrica onde os da dos dos pesquisadores pudessem ser cruzados, tomando -se o cuidado para que a diagonal da matriz contivesse todos os valores zerados.
+Todos os artigos produzidos pelos pesquisadores dentro do período estabelecido foram verificados para identificação das coautorias, registrando -se na planilha o número de vezes que os pesquisadores selecionados formaram parcerias para alcançar um objetivo comum, referente à pesquisa do tema Inovação.
+É importante ressaltar que dentre os autores selecionados há pesquisadores que possuem uma vasta rede de coautores, mas que não foram Revista Estudos e P esquisa s em Administração n° BACKES, FREITAS, BARBOSA e BARBOSA Vol.
+2, n. 2, AGOSTO /2018 n° Journal of Studies and Research in Administration 82 contabilizados em razão do filtro ter sido aplicado com a finalidade de identificar as interações dos professores permanentes vinculados aos programas mais conceituados da área da Administração.
+A planilha foi transferida para o software Ucinet 6 (UCINET SOFTWARE, 2016) ; (BORGATTI ; EVERETT ; FREEMANN, 2002), que permite a criação e armazenamento de dados.
+O software é utilizado para identificação dos nós e linhas que interligam os pesquisadores do tema, assim como a força da re lação entre eles e mapeamento dos autores centrais, que agem como mediadores fundamentais das redes (VELÁZQUEZ ; AGUILAR, 2005).
+O passo seguinte foi interpretar as saídas do software, fazendo uso das funções gráficas do Netdraw, que permite a geração d e grafos em duas dimensões e proporciona análise qualitativa sobre as interações entre os nós.
+Os cálculos matemáticos que fundamentam a análise de redes sociais podem ser verificados no livro -manual de Wasserman e Faust (1994).
+A seguir são expostos os r esultados encontrados após a manipulação dos dados.
+RESULTADOS A Análise de Redes Sociais (ARS) é compreendida como "um instrumento indutivo de investigação social e como tal só após análise criteriosa permite quantificar e qualificar as relações entre os atores como fortes/fracos, formais/informais, cooperação/competição, centralizadas/des centralizadas" (VARANDA, 2007, p. 208 ).
+Dessa forma, passa -se a apresentar os resultados alcançados como base para a in terpretação das características da rede de coautoria formada pelos pesquisadores do tema Inovação vinculados aos melhores programas de Pósgraduação stricto -sensu em Administração (PPGA) do Brasil.
+A rede obtida possui um total de 128 nós ou ato res e apres enta reduzido grau de conectividade entre seus nós, conforme pode ser observado na Figura 1 .
+Figura 1: Rede de coautoria da área de Inovação dos PPGAs brasileiros.
+Fonte: dados da pesquisa (2016).
+Revista Estudos e P esquisa s em Administração n° BACKES, FREITAS, BARBOSA e BARBOSA Vol.
+2, n. 2, AGOSTO /2018 n° Journal of Studies and Research in Administration 83 Após análise visual das interações, percebeu -se que nem todos os nós demonstravam interação entre si, evidenciando que há autores que não realizam pesquisas científicas com outros pesquisadores vinculados aos quadros de docentes permanentes dos programas pesquisados.
+Isso não significa que esse s autores produzam de maneira isolada, mas tão somente, que não produzem com os docentes permanentes dos programas.
+A seguir, serão apresentadas as estatísticas obtidas após transformação dos dados pelo software Ucine t. Densidade da rede A densidade da rede, que mede as relações existentes frente às relações possíveis indica um coeficiente baixo, D=2,2%, demonstrando densidade reduzida.
+Este tipo de rede é chamada esparsa, pois apresenta pequena quantidade de ligaçõe s em relação ao total de nós (HATALA, 2006) .
+Portanto, trata -se de um conjunto de atores com pouca conectividade.
+Porém, novamente lembramos que não se trata da rede social de coautoria completa dos pesquisadores de Inovação, mas apenas dos pesquisadores permanentes dos programas melhor conceituados.
+Grau de centralidade Quanto ao grau de centralidade, que significa a quantidade de nós aos quais um nó está ligado, o cálculo é realizado em relação a dois indicadores: a) grau de entrada (GE) dos nós, que significa a quantidade de interações que este nó recebe dos outros nós da rede, e, b) grau de saída (GS), que remete à quantidade de interações que este nó mantém com os outros nós (VELÁZQUEZ ; AGUILAR, 2005).
+Como a matriz de coautoria é simétrica, neste estudo, só há um valor para ambos, isto é, a coautoria só pode existir quando os pesquisadores tiveram o mesmo grau de interação entre si.
+O grau de entrada e saída normalizado (GESN) diz respeito aos valores de entr ada e saída em percentual.
+Os valores encontrados para todos os atores desta pesquisa se encontram na Tabela 2.
+Tabela 2: Graus de centralidade de entrada e saída - absoluto e normalizado, gr aus de intermediação, e de proximidade de entrada e proximidade de saída normalizados e coeficiente de cluster .
+Nº Pesquisadores GES GES N GI N GPE N GPS N CC 1 ALBUQUERQUE, LINDOLFO GALVAO DE 2.00 0.016 0.000 0.075 0.070 1.000 2 ALFINITO, SOLANGE 0.00 0.000 0.000 0.053 0.053 0.000 3 ALMEIDA, MARTINHO ISNARD RIBEIRO DE 5.00 0.039 0.092 0.084 0.074 1.000 4 AMAL, MOHAMED 0.00 0.000 0.000 0.053 0.053 0.000 5 ANDRADE, JOSE CELIO SILVEIRA 0.00 0.000 0.000 0.053 0.053 0.000 6 ANTONELLO, CLAUDIA SIMONE 0.00 0.000 0.000 0.053 0.053 0.000 7 ANTONIALLI, LUIZ MARCELO 1.00 0.008 0.000 0.070 0.067 0.000 8 BALDI, MARIANA 1.00 0.008 0.000 0.079 0.053 0.000 9 BARCELLOS, MARCIA DUTRA DE 6.00 0.047 0.049 0.059 0.080 2.000 10 BECKER, GRACE VIEIRA 0.00 0.000 0.000 0.053 0.053 0.000 11 BENEDICTO, GIDEON CARVALHO DE 1.00 0.008 0.000 0.070 0.067 0.000 12 BOAVENTURA, JOAO MAURICIO GAMA 0.00 0.000 0.000 0.053 0.053 0.000 13 BORENSTEIN, DENIS 1.00 0.008 0.000 0.079 0.070 0.000 14 BRASIL, VINICIUS SITTONI 3.00 0.024 0.000 0.059 0.075 4.000 15 BRESCIANI, LUIS PAULO 3.00 0.024 0.000 0.072 0.069 4.000 16 BRITO, LUIZ ARTUR LEDUR 0.00 0.000 0.000 0.053 0.053 0.000 17 BRITO, MOZAR JOSE DE 5.00 0.039 0.007 0.073 0.069 0.000 18 BRUNI, ADRIANO LEAL 1.00 0.008 0.000 0.053 0.053 0.000 19 CABRAL, SANDRO 0.00 0.000 0.000 0.053 0.053 0.000 20 CALEGARIO, CRISTINA LELIS LEAL 2.00 0.016 0.007 0.073 0.069 0.000 21 CAMARGO, MARIA EMILIA 15.00 0.118 0.025 0.059 0.074 2.267 Revista Estudos e P esquisa s em Administração n° BACKES, FREITAS, BARBOSA e BARBOSA Vol.
+2, n. 2, AGOSTO /2018 n° Journal of Studies and Research in Administration 84 22 CAPPELLE, MONICA CARVALHO ALVES 1.00 0.008 0.000 0.053 0.053 0.000 23 CASTRO, CLEBER CARVALHO DE 0.00 0.000 0.000 0.053 0.053 0.000 24 CIRANI, CLAUDIA BRITO SILVA 2.00 0.016 0.062 0.079 0.072 0.000 25 COSTA, BENNY KRAMER 5.00 0.039 0.002 0.080 0.073 1.000 26 DI SÉRIO, LUIZ CARLOS 0.00 0.000 0.000 0.053 0.053 0.000 27 DORION, ERIC CHARLES HENRI 37.00 0.291 0.000 0.059 0.071 1.667 28 DUTRA, JOEL SOUZA 2.00 0.016 0.000 0.053 0.053 0.000 29 FARIA, ANA CRISTINA DE 2.00 0.016 0.000 0.070 0.067 1.000 30 FELDMANN, PAULO ROBERTO 1.00 0.008 0.000 0.053 0.053 0.000 31 FERREIRA, GABRIELA CARDOZO 7.00 0.055 0.001 0.059 0.078 2.167 32 FISCHER, ANDRE LUIZ 2.00 0.016 0.000 0.053 0.053 0.000 33 FISCHMANN, ADALBERTO AMERICO 3.00 0.024 0.063 0.083 0.072 0.000 34 FONTENELLE, ISLEIDE ARRUDA 0.00 0.000 0.000 0.053 0.053 0.000 35 FOUTO, NUNO MANOEL MARTINS DIAS 1.00 0.008 0.000 0.053 0.053 0.000 36 FREITAS, HENRIQUE MELLO RODRIGUES DE 4.00 0.031 0.000 0.053 0.053 0.000 37 GASPAR, MARCOS ANTONIO 1.00 0.008 0.000 0.070 0.067 0.000 38 GIL, ANTONIO CARLOS 0.00 0.000 0.000 0.053 0.053 0.000 39 GOUVEA, MARIA APARECIDA 2.00 0.016 0.013 0.077 0.071 0.000 40 GUIMARAES, TOMAS DE AQUINO 4.00 0.031 0.010 0.059 0.075 0.333 41 HANSEN, PETER BENT 0.00 0.000 0.000 0.053 0.053 0.000 42 HASTENREITER FILHO, HORACIO NELSON 2.00 0.016 0.000 0.053 0.053 0.000 43 HOFFMANN, VALMIR EMIL 0.00 0.000 0.000 0.053 0.053 0.000 44 IKEDA, ANA AKEMI 0.00 0.000 0.000 0.053 0.053 0.000 45 KAYO, EDUARDO KAZUO 0.00 0.000 0.000 0.053 0.053 0.000 46 KNIESS, CLAUDIA TEREZINHA 3.00 0.024 0.013 0.078 0.072 0.333 47 KRUGLIANSKAS, ISAK 4.00 0.031 0.020 0.080 0.073 0.333 48 KUBO, EDSON KEYSO DE MIRANDA 1.00 0.008 0.000 0.070 0.067 0.000 49 LEITE, NILDES RAIMUNDA PITOMBO 2.00 0.016 0.000 0.075 0.070 1.000 50 LIMA, EDMILSON DE OLIVEIRA 2.00 0.016 0.000 0.078 0.072 2.000 51 LOPES, FERNANDO DIAS 2.00 0.016 0.054 0.081 0.070 0.000 52 LUCE, FERNANDO BINS 0.00 0.000 0.000 0.053 0.053 0.000 53 LUCIANO, EDIMARA MEZZOMO 0.00 0.000 0.000 0.053 0.053 0.000 54 MAÇADA, ANTONIO CARLOS GASTAUD 1.00 0.008 0.000 0.053 0.053 0.000 55 MACCARI, EMERSON ANTONIO 9.00 0.071 0.093 0.081 0.073 0.200 56 MALAFAIA, GUILHERME CUNHA 3.00 0.024 0.010 0.059 0.071 0.000 57 MARTELANC, ROY 0.00 0.000 0.000 0.053 0.053 0.000 58 MARTENS, CRISTINA DAI PRA 3.00 0.024 0.000 0.053 0.053 0.000 59 MAZZON, JOSE AFONSO 1.00 0.008 0.000 0.072 0.067 0.000 60 MEDEIROS, JANANN JOSLIN 2.00 0.016 0.000 0.059 0.073 1.000 61 MILAN, GABRIEL SPERANDIO 5.00 0.039 0.032 0.059 0.076 2.000 62 MUNIZ, RAQUEL JANISSEK 1.00 0.008 0.000 0.053 0.053 0.000 63 NASCIMENTO, LUIS FELIPE MACHADO DO 0.00 0.000 0.000 0.053 0.053 0.000 64 NASCIMENTO, PAULO TROMBONI SOUZA 3.00 0.024 0.000 0.078 0.071 0.000 65 NASSIF, VANIA MARIA JORGE 0.00 0.000 0.000 0.053 0.053 0.000 66 NIQUE, WALTER MEUCCI 0.00 0.000 0.000 0.053 0.053 0.000 67 NOHARA, JOULIANA JORDAN 2.00 0.016 0.000 0.068 0.000 0.000 68 ODELIUS, CATARINA CECILIA 2.00 0.016 0.000 0.059 0.073 1.000 69 OLEA, PELAYO MUNHOZ 37.00 0.291 0.002 0.059 0.073 2.000 70 OLIVA, FABIO LOTTI 6.00 0.047 0.069 0.084 0.073 0.500 71 OLIVEIRA JUNIOR, MOACIR DE MIRANDA 2.00 0.016 0.005 0.075 0.072 0.000 72 OLIVEIRA, LEONARDO ROCHA DE 0.00 0.000 0.000 0.053 0.053 0.000 73 OLIVEIRA, MIRIAN 1.00 0.008 0.000 0.053 0.053 0.000 74 OLIVEIRA, SIDINEI ROCHA DE 6.00 0.047 0.049 0.078 0.072 0.167 75 PAIXAO, ROBERTO BRAZILEIRO 1.00 0.008 0.000 0.053 0.053 0.000 76 PEDROZO, EUGENIO AVILA 4.00 0.031 0.005 0.059 0.069 0.000 Revista Estudos e P esquisa s em Administração n° BACKES, FREITAS, BARBOSA e BARBOSA Vol.
+2, n. 2, AGOSTO /2018 n° Journal of Studies and Research in Administration 85 77 PEREIRA, RAQUEL DA SILVA 8.00 0.063 0.054 0.075 0.070 0.167 78 PERIN, MARCELO GATTERMANN 16.00 0.126 0.031 0.059 0.078 0.533 79 PICCININI, VALMIRIA CAROLINA 1.00 0.008 0.000 0.075 0.070 0.000 80 PLONSKI, GUILHERME ARY 3.00 0.024 0.079 0.082 0.074 0.667 81 POLO, EDISON FERNANDES 0.00 0.000 0.000 0.053 0.053 0.000 82 QUEIROZ, MARCO AURELIO LIMA DE 0.00 0.000 0.000 0.053 0.053 0.000 83 QUINTELLA, ROGERIO HERMIDA 0.00 0.000 0.000 0.053 0.053 0.000 84 REZENDE, DANIEL CARVALHO DE 1.00 0.008 0.000 0.073 0.068 0.000 85 RIBEIRO, AUREO EDUARDO MAGALHAES 0.00 0.000 0.000 0.053 0.053 0.000 86 RIBEIRO, ELIZABETH MATOS 1.00 0.008 0.000 0.053 0.053 0.000 87 RIBEIRO, MARIA TERESA FRANCO 2.00 0.016 0.000 0.053 0.053 0.000 88 RODRIGUES, LEONEL CEZAR 4.00 0.031 0.007 0.078 0.072 0.000 89 ROMEIRO, MARIA DO CARMO 3.00 0.024 0.007 0.070 0.067 0.333 90 RUAS, ROBERTO LIMA 2.00 0.016 0.000 0.059 0.071 5.000 91 SAES, MARIA SYLVIA MACCHIONE 0.00 0.000 0.000 0.053 0.053 0.000 92 SAMPAIO, CLÁUDIO HOFFMANN 13.00 0.102 0.017 0.059 0.078 0.900 93 SANTOS, ANTONIO CARLOS DOS 0.00 0.000 0.000 0.053 0.053 0.000 94 SANTOS, CRISTIANE PIZZUTTI DOS 0.00 0.000 0.000 0.053 0.053 0.000 95 SANTOS, ERNANI MARQUES DOS 0.00 0.000 0.000 0.053 0.053 0.000 96 SANTOS, ISABEL CRISTINA DOS 10.00 0.079 0.039 0.073 0.069 0.143 97 SANTOS, REGINALDO SOUZA 1.00 0.008 0.000 0.053 0.053 0.000 98 SANTOS, SILVIO APARECIDO DOS 7.00 0.055 0.090 0.084 0.074 0.417 99 SAUAIA, ANTONIO CARLOS AIDAR 0.00 0.000 0.000 0.053 0.053 0.000 100 SBRAGIA, ROBERTO 7.00 0.055 0.068 0.080 0.073 0.167 101 SERRA, FERNANDO ANTONIO RIBEIRO 5.00 0.039 0.090 0.080 0.074 0.667 102 SETTE, RICARDO DE SOUZA 2.00 0.016 0.000 0.075 0.070 1.000 103 SILVA, DIRCEU DA 2.00 0.016 0.057 0.077 0.071 0.000 104 SILVA, LAERCIO BAPTISTA DA 1.00 0.008 0.000 0.070 0.067 0.000 105 SILVA, MONICA DE AGUIAR MAC -ALLISTER 0.00 0.000 0.000 0.053 0.053 0.000 106 SILVA, TANIA NUNES DA 3.00 0.024 0.000 0.058 0.066 0.000 107 SILVEIRA, AMELIA 2.00 0.016 0.000 0.075 0.070 0.000 108 SILVEIRA, MARCO ANTONIO PINHEIRO 1.00 0.008 0.000 0.068 0.066 0.000 109 SOBREIRO, VINICIUS AMORIM 0.00 0.000 0.000 0.053 0.053 0.000 110 SORDI, JOSE OSVALDO DE 0.00 0.000 0.000 0.053 0.053 0.000 111 SOUZA, EDA CASTRO LUCAS DE 1.00 0.008 0.000 0.053 0.053 0.000 112 SOUZA, ELISABETH REGINA LOIOLA CRUZ 2.00 0.016 0.000 0.053 0.053 0.000 113 SOUZA, MARIA TEREZA SARAIVA DE 1.00 0.008 0.000 0.072 0.068 0.000 114 STREHLAU, SUZANE 0.00 0.000 0.000 0.053 0.053 0.000 115 TEIXEIRA, FRANCISCO LIMA CRUZ 2.00 0.016 0.000 0.053 0.053 0.000 116 TONDOLO, VILMAR ANTONIO GONCALVES 2.00 0.016 0.000 0.059 0.071 0.000 117 TORRES JUNIOR, ALVAIR SILVEIRA 0.00 0.000 0.000 0.053 0.053 0.000 118 TORRES, CLAUDIO VAZ 1.00 0.008 0.000 0.053 0.053 0.000 119 TURRI, SILVIA NOVAES ZILBER 3.00 0.024 0.007 0.075 0.070 0.000 120 URDAN, ANDRE TORRES 0.00 0.000 0.000 0.053 0.053 0.000 121 VASCONCELLOS, EDUARDO PINHEIRO GONDIM DE 3.00 0.024 0.019 0.078 0.072 0.000 122 VELOSO, ANDRES RODRIGUEZ 2.00 0.016 0.007 0.074 0.069 0.000 123 VILAS BOAS, ANA ALICE 1.00 0.008 0.000 0.053 0.053 0.000 124 WRIGHT, JAMES TERENCE COULTER 0.00 0.000 0.000 0.053 0.053 0.000 125 YU, ABRAHAM SIN OIH 5.00 0.039 0.012 0.081 0.072 0.500 126 ZAMBALDE, ANDRE LUIZ 8.00 0.063 0.033 0.076 0.070 0.100 127 ZAWISLAK, PAULO ANTONIO 1.00 0.008 0.000 0.053 0.053 0.000 128 ZEN, AURORA CARNEIRO 1.00 0.008 0.000 0.053 0.053 0.000 Fonte: dados da pesquisa (2016).
+Revista Estudos e P esquisa s em Administração n° BACKES, FREITAS, BARBOSA e BARBOSA Vol.
+2, n. 2, AGOSTO /2018 n° Journal of Studies and Research in Administration 86 Alguns pesquisadores alcançaram valores elevados quanto ao nível de centralidade, o que significa que são centros de redes e atuam de maneira colaborativa com outros autores, além de promover interação entre a rede, como por exemplo, Almeida, Barcellos, Br ito M., Camargo, Costa, Dorion, Ferreira, Maccari, Milan, Olea, Oliva, Oliveira S., Pereira, Perin, Sampaio, Santos I., Santos S., Sbragia, Serra, Yu e Zambalde.
+Há pesquisadores que atingiram percentagens elevadas de centralidade, como pode ser observado na coluna do Grau de Entrada e Saída Normalizado, a exemplo de Camargo (11,8%), Dorion (29%), Olea (29%), Perin (12,6%).
+Cabe destacar que Dorion e Olea podem ter alcançado um alto nível de centralidade por produzir quantidade elevada de artigos em conjunt o, mesmo assim esses autores mantém boa rede de relacionamento com outros autores.
+Na direção oposta, é possível perceber um número elevado de pesquisadores que não interage com os demais, a exemplo de todos os nós com graus de entradas e saídas igual a z ero na Tabela 2.
+Esse grupo chega a 40 pesquisadores, um número elevado se comparado aos 128 nós da rede.
+Em decorrência desse fato, o grau de centralização da rede é baixo ( 7.87) e indica que há quantidade reduzida de nós centrais na rede.
+Grau de I ntermediação O grau de intermediação (GI) , por sua vez, indica o controle da comunicação e a capacidade que um nó tem de intermediar a comunicação entre pares de nós.
+Este indicador também permite examinar os caminhos geodésicos da rede.
+Isso quer dizer qu e o valor do GI é encontrado a partir das vezes que um nó aparece no caminho geodésico dos outros pares de nós.
+Por sua habilidade de ligação, esses nós recebem o nome de pontes (VELÁZQUEZ; AGUILAR, 2005).
+Visualmente é possível verificar as relações na Fi gura 1, sendo que por este meio é mais fácil visualizar os caminhos geodésicos, ou seja, as linhas conectoras entre os nós.
+Estatisticamente os valores normalizados se encontram na Tabela 2, na coluna intitulada GIN.
+No geral, os atores não apresentaram g rau de intermediação elevado, uma vez que os maiores valores encontrados foram de aproximadamente 9%.
+Nesse quesito, os pesquisadores que se destacaram foram: Almeida, Barcellos, Cirani, Fischmann, Lopes, Maccari, Oliva, Oliveira S, Pereira, Plonski, Santo s S., Serra, Silva D., todos com indicadores superiores a 0.04.
+Dentre estes se destacam Almeida, Maccari, Santos S. e Serra, com indicadores iguais ou superiores a 0.09.
+Grau de Proximidade O Grau de Proximidade (GP) define a capacidade de um nó se con ectar a todos os nós da re de.
+O cálculo é feito pela distâ ncia geodésica que um nó possui em relação a todos os outros nós.
+Mesmo para matrizes simétricas o cálculo inclui o grau de proximidade de entrada (GPE) e grau de proximidade de saída (GPS) dos nós (VELÁZQUEZ; AGUILAR, 2005) .
+Os valores normalizados estão disponíveis na Tabela 2 nas colunas denominadas GPEN e GPSN.
+Tomando como base principal de análise as entradas , podemos observar que alguns atores se sobressaem em relação aos demais, como: Almeid a, Costa, Fischmann, Kruglianskas, Lopes, Macarri, Oliva, Plonski, Sbragia, Serra e Yu.
+Isso significa que esses pesquisadores possuem maior proximidade com os outros pesquisadores da rede, no sentido de receber interações dos demais.
+Também indica que os outros autores da rede têm mais facilidade de acesso a estes pesquisadores.
+Do ponto de vista da saída , ou proximidade dos nós analisados em relação aos demais e sua facilidade de acesso, se destaca Barcellos, com grau acima de 8%.
+Em geral, a rede apresenta grau de proximidade reduzida, possivelmente pelo número elevado de nós que aumentam a dist ância absoluta entre um nó e outro e como a medida é relacionada Revista Estudos e P esquisa s em Administração n° BACKES, FREITAS, BARBOSA e BARBOSA Vol.
+2, n. 2, AGOSTO /2018 n° Journal of Studies and Research in Administration 87 a todos os nós da rede, os nós menos centralizados, localizados nas pon tas tendem a registr ar boa distâ ncia com o nó no sentido oposto à sua localização.
+Com relação a todos os indicadores analisados , graus de centralidade de entrada e saída, graus de intermediação normalizada e graus de proximidade de entrada e saída normalizados , quatro pesqu isadores se destacaram como os autores que se sobressaíram em relação aos demais em todos os indicadores estatísticos, sendo eles, Almeida, Maccari, Oliva e Serra.
+Significa que são pesquisadores -chave na promoção e disseminação do conhecimento e estudo da Inovação entre as várias instituições que possuem programas conceituados de pós -graduação em Administração.
+A partir do formato apresentado pela rede, é importante analisar como as instituições estão ligadas pelos professores pesquisadores de Inovação.
+Uma das medidas possíveis para essa finalidade é a análise de cluster .
+Coeficiente de cluster O coeficiente de agrupamento ou cluster mede a fração média de nós adjacentes a um determinado nó e suas ligações com outros nós.
+O coeficiente geral de aglomer ação da rede, também chamado de cluster , indica o grau de relacionamento dos atores entre si, assim como o grau de sinergia entre o grupo (FREITAS ; PEREIRA, 2005).
+O coeficiente geral de cluster da rede é 0.831 , o que significa um nível de aglomeração reduzido entre os autores de inovação dos PPGAs.
+Os pesquisadores (nós) das redes formam cluster de coautores que pod em ser visualizados na Figura 2 .
+Figura 2: Formação de cluster e interações entre os coautores dos PPGAs.
+Fonte: dados da pesquisa (2016).
+Legenda: USCS UNINOVE UFRG S PUC/RS UCS USP UNB UFBA UFLA Revista Estudos e P esquisa s em Administração n° BACKES, FREITAS, BARBOSA e BARBOSA Vol.
+2, n. 2, AGOSTO /2018 n° Journal of Studies and Research in Administration 88 Nota -se autores pontuais que mantém nível de articulação elevados em relação aos demais coautores, em especial o pesquisador Ruas, que alcançou o coeficiente igual a 5, indicando que o autor possui conexão com vários autores, que possuem ligações important es com outros autores, promovendo assim, a sinergia do grupo.
+À direita se aglomeram os pesquisadores filiados à Universidade de São Caetano do Sul (USCS), cujo centro de re de é a pesquisadora Santos, I. Entretanto neste grupo, Pereira ocupa uma posição es tratégica ao fazer a ponte entre os pesquisadores da USCS e da Universidade Nove de Julho (UNINOVE).
+Esta pesquisadora faz a conexão com Silva, D., que possui ligação com os demais membros da UNINOVE , cujo pesquisador central é Maccari.
+Este por sua vez, e stá conectado à Serra, que faz a ligação entre a UNINOVE e Universidade de São Paulo (USP), por meio de Almeida .
+Almeida possui vínculos de pesquisa importantes que se desdobram entre as demais pontes que irão ligar a USP à Universidade Federal do Rio Gra nde do Sul (UFRGS) e à Pontifícia Universidade Católica do Rio Grande do Sul (PUC/RS).
+Na rede da USP há vários pesquisadores que agem como centros de rede, como Oliva e Santos S. Oliva possui ligação com Fischmann (USP), que age como elo entre esta univer sidade e a UFRGS, por meio de Lopes (UFRGS), que possui vínculo com Barcellos (UFRGS).
+Esse pesquisador, faz ponte com vários pesquisadores -chave da PUC/RS, como Perin, Ferreira, Milan e Camargo, que congrega o restante da rede da PUC/RS.
+Perin ainda faz p onte com a Universidade de Brasília (UNB) por meio de Guimarães.
+Há um grupo de pesquisadores que não possui ligações com os demais docentes permanentes de outros programas, eles estão localizados na parte inferior da rede e possuem vínculos com seus pare s para produção científica, unindo -se em duplas ou trios de coautores.
+Estes pesquisadores pertencem a várias instituições, mas em especial chama a atenção a concentração de afiliados à Universidade Federal da Bahia (UFBA).
+E por fim, há o caso dos autores que não possuem vínculo algum, nem com os pesquisadores da própria instituição, como é o caso de todos os docentes da Fundação Getúlio Vargas (FGV).
+Nessa condição aparecem 40 pesquisadores estudados.
+Isso não significa que sua produção seja isolada de outras instituições, apenas que não produzem com os docentes permanentes dos programas de mesmo nível que ela própria.
+Discussão d os Resultados É fato que nas ciências sociais a produção científica colaborativa é menos intensa que em outras áreas do conhec imento.
+E studos teóricos em sua maioria produzem artigos com menor número de autores que pesquisas experimentais, cujos projetos podem envolver numerosas equipes de pesquisadores (MARTELETO, 2010 ; CRONIN, 2005; KATZ ; MARTIN, 1997 ).
+Entretanto, o associativismo entre pesquisadores de diferentes escolas e diferentes áreas do conhecimento oferecem as ferramentas necessárias para a construção e desenvolvimento de um campo científico.
+Assim, pode -se verificar que os pesquisadores que co ntribuem com a evolução da ciência da Inovação no Brasil não tendem a formar redes densas de coautoria entre si.
+A estrutura encontrada para a rede dos docentes permanentes dos PPGAs ficou dividida em dois hemisférios.
+A parte superior se apresenta interli gada por pesquisadores que agem como pontes ou elos de ligação entre duas ou mais instituições e outros que congregam os próprios colegas de instituição, que por meio dos autores pontes permanecem interligados aos demais pesquisadores da rede.
+Na parte inf erior surge um conjunto de pesquisadores que produzem de forma isolada com seus pares, em alguns casos em trios, demonstrando que estes autores não participam ativamente do intercambio com pesquisadores de outras instituições de mesmo nível de desempenho.
+Contudo, vale ressaltar que nem todos os pares pertencem à mesma instituição, Revista Estudos e P esquisa s em Administração n° BACKES, FREITAS, BARBOSA e BARBOSA Vol.
+2, n. 2, AGOSTO /2018 n° Journal of Studies and Research in Administration 89 portanto, em menor grau estes autores também colaboram com a pesquisa interinstitucional de Inovação.
+O intercâmbio de conhecimento entre programas de pós -graduação é incentivad o pela Capes, que ao definir as regras no documento de área (CAPES, 2013), dá as diretrizes para novos cursos e fornece os critérios para a avaliação dos antigos.
+Um dos critérios estabelece que é desejável que os professores permanentes participem de inte rcâmbio acadêmico e tecnológico com outras instituições de ensino.
+O atendimento deste critério é um ponto forte para avaliação dos programas, realizadas pelas Capes a cada três anos e que define o ranking dos cursos por meio das notas atribuídas , que dent re vários critérios incluem as associações interinstitucionais.
+Certamente programas com corpo docente com maior capacidade de associação intra e interinstitucional possuem maiores chances de serem melhor avaliados pelos órgãos reguladores.
+Na análise mai s pontual dos dados obtidos, vale destacar o grau de articulação dos pesquisadores afiliados à PUC/RS.
+Eles formam uma rede de pesquisadores associados a pelo menos dois programas pertencentes a universidades diferentes, a exemplo da UNB e UFRGS, além de m anter uma relação muito forte de colaboração científica entre si.
+Vários pesquisadores atuam de forma sinérgica com outros pesquisadores de inovação, como pode ser verificado por meio do coeficiente de cluster , cujos valores estão dispostos na Tabela 2, na coluna intitulada CC, na qual se destacam os atores Barcellos, Brasil, Bresciani, Camargo, Ferreira, Lima, Milan, Olea, Ruas, todos com coeficiente de cluster maior que 2, sendo que seis pesquisadores desse grupo pertencem a PUC/RS.
+Da mesma forma é inter essante notar o comportamento dos pesquisadores da UFRGS com relação à coautoria.
+Eles se encontram dispersos pela rede fazendo pontes e criando laços com 4 universidades.
+Nesse sentido, a participação em redes sociais de coautoria é tão importante para a instituição da qual o pesquisador faz parte, quanto para a ele próprio.
+Segundo L. C. Freemann a padronização dos vínculos sociais, por meio da noção intuitiva, produz efeitos relevantes sobre o indivíduo (MARTELETO, 2010) .
+Em redes de coautoria podem -se elencar as vantagens das relações de troca em torno de oportunidades, crescimento profissional e intelectual, molde do comportamento conforme os autores da área, assim como atualização e desenvolvimento de competências acadêmico -científicas.
+O intercambio na área de Inovação é extremament e importante, por sua transversalidade, se aplica a várias áreas do conhecimento e deve estar aberta a receber contribuições e soluções de fontes diversas.
+CONCLUSÃO A inovação é dependente da pesquisa para seu desenvolvimento, aprimoramento e disseminação e a produção científica é a oportunidade para pesquisadores de diversas escolas realizarem o intercambio de conhecimento.
+As redes de coautoria são uma das oportunidades para troca, associação, integração e colaboração entre os vários pesquisa dores da área.
+Portanto, este estudo tinha como objetivo verificar as relações entre os pesquisadores de inovação que fazem parte do corpo docente permanente dos PPGAs brasileiros, a partir da abordagem da análise de redes.
+A pesquisa chegou a resultados que demonstraram relações fracas quanto à formação da rede de coautores de Inovação.
+Fato bastante claro com os resultados obtidos foi a postura de alguns pesquisadores que agem como nós centrais dentro de suas redes e outros que agem como pontes.
+A formaç ão das redes deixou bastante clara a separação dos autores por instituição, onde foi possível perceber que a maioria participa de redes de produção científica intrainstitucional e poucos são os autores que promovem a ligação interinstitucional.
+Mesmo Revista Estudos e P esquisa s em Administração n° BACKES, FREITAS, BARBOSA e BARBOSA Vol.
+2, n. 2, AGOSTO /2018 n° Journal of Studies and Research in Administration 90 diant e do perfil associativo de alguns a rede apresentou baixo coeficiente de concentração em razão da quantidade de pesquisadores que não apresentam conexão com outros autores da rede.
+Dos 128 autores pesquisados, 40 deles não possui interação alguma com outro s autores da rede formada neste estudo.
+A hipótese do estudo é que os pesquisadores selecionados formavam redes de coautores com os pesquisadores de outras instituições e da própria, a qual é afiliado, sendo que esta foi suportada parcialmente, porque fo i possível observar clara articulação dos nós pertencentes a alguns programas, como a UFRGS que possui vínculos com instituições como a USP, PUC/RS, UFLA e UNINOVE, demonstrando ser o grupo mais articulado de coautoria interinstitucional, além da PUC/RS q ue se mostrou uma rede de coautores proativos e articulados tanto com os próprios colegas de instituição quanto com os pesquisadores de outras instituições como UNB e UFRGS e que vários de seus nós apresentam os valores mais relevantes para formação de clusters de produção científica.
+Entretanto, identificou -se mais dois grupos de coautoria, o primeiro que formam uma aglomeração específica, isolados em pares e trios de produção científica e, o segundo grupo, que é formado por nós totalmente independentes, q ue não mantém laços com nenhum outro nó da rede.
+Este pode ser o reflexo de uma das limitações do estudo, que resumiu a pesquisa aos professores permanentes dos PPGAs de conceito elevado, segundo a avaliação da Capes, triênio 2010 -2012, contudo, foi possív el perceber que há instituições que não possui vínculo algum com nenhum pesquisador de Inovação dos outros cursos de nível equivalente, a exemplo da FGV e UFBA.
+Estudos futuros podem ser de natureza qualitativa para possibilitar a compreensão da formação de redes de coautoria dessas duas instituições em específico e também dos pesquisadores que optam por não formar parcerias com autores de outros cursos semelhantes.
+Outra recomendação seria examinar a rede internacional dos pesquisadores desses cursos para possibilitar a mensuração do nível de internacionalização dos programas e intercambio de conhecimento da área com pesquisadores de outros níveis de desenvolvimento da inovação mundial.
+REFERÊNCIAS BALANCIERI, R. ; BOVO, A.
+B. ; KERN, V. M. ; PACHECO, R. dos; BARCIA, R. M. A análise de redes de colaboração científica sob as novas tecnologias de informação e comunicação: um estudo na Plataforma Lattes.
+Ciência da informação , v. 34 n.1, p. 64 –77, 2005.
+BARABÂSI, A. L.; JEONG, H. ; NÉDA, Z. ; RAVASZ, E. ; SCHUBERT, A. ; VICSEK, T. Evolution of the social network of scientific collaborations.
+Physica A: Statistical mechanics and its applications , v. 311 n. 3 , p. 590 –614, 2002.
+BEAVER, D. D. Reflections on scie ntific collaboration (and its study): past, present, and future.
+Scientometrics , v. 52 n. 3 , p. 365 –377, 2001.
+BEZ, G. S. ; FARACO, R. A. ; ANGELONI, M. T. Aplicação da Técnica de Análise de Redes Sociais em uma Instituição de Ensino Superior.
+Anpad –XXVI Simpósio da inovação tecnológica , 2010.
+BORGATTI, S. P.; EVERETT, M. G.; FREEMAN, L. C. Ucinet for Windows: software for social network analysis.
+Harvard, MA: Analytic Technologies, 2002.
+Revista Estudos e P esquisa s em Administração n° BACKES, FREITAS, BARBOSA e BARBOSA Vol.
+2, n. 2, AGOSTO /2018 n° Journal of Studies and Research in Administration 91 CAPES.
+Disponível em: < ira.capes.gov.br/sucupira/>.
+Documento de Área e Comissão - Trienal, 2013.
+Disponível em: < -de-area-e-comissao>.
+Disponível em: < ccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1534824390&Signature=JdHgyvZTu rVUw%2B%2BCV8Yv7A80Mts%3D&response -contentdisposition=inline%3B%20filename% 3DOpen_innovation_The_new_imperative_for_c.pdf>.
+CHRISTENSEN, T. Perceptions and alliances in Europe, p. 1865 –1940.
+International Organization , v. 51, n.1, p. 65-97, 1997 .
+doi:10.1162/002081897550302 CRONIN, B.
+The hand of science: academic writing and rewards .
+A Universidade, a Empresa e a Pesquisa que o país precisa .
+MCT, Centro de Estudos Estratégicos (CEE), Brasilia: DF.
+DAVILA, T.; EPSTEIN, M. J.; SHELTON, R. As regras da inovação .
+DA SILVA, H. do S. S.; ROCHA, E. S. ; da SILVA, W. M. C. Inovar Para Desenvolver: Relação entre os atores Universidade, Empresa e Governo.
+Scientific collaboration and endorsement: Network analysis of coauthorship and citation networks.
+Journal of informetrics , v. 5 n. 1 , p. 187 –203, 2011.
+FIGG, W. D. ; DUNN, L. ; LIEWEHR, D. J. ; STEINBERG, S. M. ; THURMAN, P. W. ; BARRETT, J. C. ; BIRKINSHAW, J.
+Scientific collaboration results in higher citation rates of published articles.
+Pharmacotherapy: The Journal of Human Pharmacology and Drug Therapy , v. 26 n. 6 , p. 759 –767, 2006.
+FREITAS, M. C. ; PEREIRA, H. B. de B. Contribuição da análise de redes sociais para o estudo sobre os fluxos de informações e conhecimento.
+Anais.Encontro Nacional de Ciência da Informação, Salvador, 2005.
+Disponível em: < Acesso em: 21 out.
+GAZDA, E. ; QUANDT, C. O. Colaboração interinstitucional em pesquisa no Brasil: tendências em artigos na área de gestão da inovação.
+RAE -eletrônica , v. 9 n. 2 , 2010.
+GLÄNZEL, W. Coauthorship patterns and trends in the sciences (1980 -1998): the Bibliometric study with implications for database indexing and search strategies.
+Library Trends, Urban , v. 50 n. 3, 461 -473, 2002.
+GLÄNZEL, W. ; SCHUBERT, A. Analysing scientific networks through co -authorship .
+In Handbook of quantitative science and technology research , p. 257 –276.
+Disponível em: < -4020 -2755 -9_12 >.
+Revista Estudos e P esquisa s em Administração n° BACKES, FREITAS, BARBOSA e BARBOSA Vol.
+2, n. 2, AGOSTO /2018 n° Journal of Studies and Research in Administration 92 HENDERSON, R. M.; CLARK , K. B.
+Architectural innovation: The reconfiguration of existing product technologies and the failure of established firms.
+Administrative science quarterly , v. 35, p. 9 -30, 1990.
+HATALA, J. P. Social network analysis in human resource development: A ne w methodology.
+Human Resource Development Review , v. 5 n. 1 , p. 45 –71, 2006.
+HOU, H. ; KRETSCHMER, H. ; LIU, Z.
+The structure of scientific collaboration networks in Scientometrics.
+Scientometrics , v. 75 n. 2 , p. 189 –202, 2008.
+KRETSCHMER, H. Author productivity and geodesic distance in bibliographic co -authorship networks, and visibility on the Web Scientometrics, Amsterdam , v. 60 n. 3, p. 409 -420, 2004.
+The impact of research collaboration on scientific pr oductivity.
+Social studies of science , v. 35 n. , p. 673 –702, 2005.
+LUECKE, R. Managing Creativity and Innovation .
+Harvard Business School Press: Boston, 2003.
+The University in the Learning Economy, DRUID Working Papers, 2002.
+LUUKKONEN, T. ; PERSSON, O. ; SIVERTSEN, G. Understanding patterns of international scientific collaboration.
+Science, Technology & Human Values , v. 17 n. 1 , p. 101 –126, 1992.
+MARTELETO, R. M. Redes sociais, mediação e apropriação de informações: situando campos, objetos e conceitos na pesquisa em ciência da informação , 2010.
+2016 MATHEUS, R. F. ; SILVA, A.
+B. de O. Análise de redes sociais como método para a Ciência da Informação.
+DataGramaZero -Revista de Ciência da Informação , v. 7 n. 2 ., 2006.
+MATHEUS, R. F. ; VANZ, S. A. de S.; MOURA, A. M. M. de.
+Coautoria e co -invenção: indicadores da colaboraç ão em CT&I no Brasil.
+Congres so Ibero -americano de Indicadores de Ciencia Y Tecnología –Ricyt , v. 7, 2012.
+Disponível em: < orao_em_CTI_no_Brasil/links/551bf2220cf2fe6cbf 7604eb.pdf >.
+Brasilia: Briquet de Lemos, 1999.
+268 p. NEWMAN, M. E. Scientific collaboration networks.
+Shortest paths, weighted networks, and centrality.
+Physical review E , v. 64 n. 1 , 016132, 2001a.
+NEWMAN, M. E. The structure of scientific collaboration networks.
+Proceedings of the National Academy of Sciences , v. 98 n.2 , p. 404 –409, 2001b.
+OECD ORGANIZATION ECONOMIC COOPERATION DEVELOPMEN T. Manual de Oslo: diretrizes para coleta e interpretação de dados sobre inovação .
+PARREIRAS, F. S. ; SILVA, A. de O.; MATHEUS, R. F. ; BRANDÃO, W. C., et al.
+REDECI: colaboração e produção científica em ciência da informação no Brasil.
+Perspectivas em ciência da informação , v. 11 n. 3, p. 302–317, 2006 .
+PAVITT, K. "The social shaping of the national science base", Research Policy , v. 27 n. 8, p. 793–805, 1998.
+Revista Estudos e P esquisa s em Administração n° BACKES, FREITAS, BARBOSA e BARBOSA Vol.
+2, n. 2, AGOSTO /2018 n° Journal of Studies and Research in Administration 93 PERSSON, O. ; GLÄNZEL, W. ; DANELL, R. Inflationary bibliometric values: The role of scientific collaboration and the need for relative indicators in evaluative studies.
+Scientometrics , v. 60, n. 3 , p. 421 –432, 2004.
+Social network analysis theory and applications , 2011 .
+RESENDE JUNIOR, P. C.; GUIMARÃES, T. de A. Inovação em Serviços: o estado da arte e uma proposta de agenda de pesquisa.
+Revista Brasileira de G estão de Negócios , v. 14, n. 44, 2012.
+RIBEIRO, H. C. M. ; CIRANI, C. B. S. ; FREITAS, E. J. Análise da produção científica da Revista de Administração e Inovação.
+RAI: Revista de Administração e Inovação , v. 10 n. 4, p. 208–228, 2014 .
+ROSSI, A. Inovar para competir .
+Fundação Dom Cabral – Núcleo de Inovação.
+SHIRABE, M.; TOMIZAWA H. Likelihood of access to overseas international co -autorship Scientometrics , Amsterdam, v. 53, p. 123 -129, 2002.
+SILVA, E. El scientific network and the construction of knowledge.
+information and Society: Studies , Joao Pessoa, v.12, n.1, p.120 -148, 2002 .
+STORCH, S. As redes sociais já fazem parte de nosso jeito de pensar.
+Revista Intranet Portal , 2007 .
+Disponível em: < http:// revista.intranetportal.org.br/2007/10/as -redes -sociais -ja-fazemparte -de-nosso -jeito-de-pensar/ >.
+SUBRAMANYAM, K. Bibliometric studies of research collaboration: A review.
+Journal of information Science , v. 6 n. 1, p. 33–38, 1983 .
+THE GLOBAL INNOVATION INDEX 2018.
+The local dynamics of innovation.
+TOMAÉL, M.; MARTELETO, R. M. Social networks: positions of the actors in flow of informa tion.
+VARANDA, M. P. Ação coletiva entre pequenos empresários: uma análise de redes sociais.
+Análise Social , v. 42 n. 182, p. 207-239, 2007 .
+A.; AGUILAR, G. N. Manual introdutório à análise de redes sociais .
+Traduzido por Maria Luisa Lebre Air es; Joanne Brás Laranjeiro; Silvia Claudia de Almeida Silva , 2005 .
+Disponível em: < Acesso em: 22 set.
+VELHO, L. O papel da formação de pesquisadores no sistema de inovaçã o. Ciência e Cultura , v. 59 n. 4 , p. 23 –28, 2007.
+Revista Estudos e P esquisa s em Administração n° BACKES, FREITAS, BARBOSA e BARBOSA Vol.
+2, n. 2, AGOSTO /2018 n° Journal of Studies and Research in Administration 94 WASSERMAN, S. ; FAUST, K. Social Network Analysis: methods and applications .
+In: Structural analysis in social the social sciences series.
+Cambridge: Cambridge University Press, v. 8, 1994.

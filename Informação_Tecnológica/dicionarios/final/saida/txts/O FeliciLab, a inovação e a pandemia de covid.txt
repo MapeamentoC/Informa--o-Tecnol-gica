@@ -1,0 +1,239 @@
+Reciis – Revista Eletrônica de Comunicação, Informação & Inovação em Saúde, Rio de Janeiro, v. 16, n. 2, p. 461-472, abr.-jun.
+2022 [www.reciis.icict.fiocruz.br ] e-ISSN 1981-6278 RELATOS DE EXPERIÊNCIA O FeliciLab, a inovação e a pandemia de covid-19 FeliciLab, innovation and the covid-19 pandemic El FeliciLab, la innovación y la pandemia de covid-19 Genilton da Silva Faheina Junior1,a genilton@gmail.com | Camila Campos Colares das Dores1,b camilacamposcolares@gmail.com | Clarisse Castro Cavalcante1,c clarisse.cavalcante@esp.ce.gov.br | Marcos José Nunes de Oliveira1,d marcos.espce@gmail.com | Uirá Porã Maia do Carmo1,e uira@culturalivre.org | 1 Escola de Saúde Pública do Ceará Paulo Marcelo Martins Rodrigues.
+a Doutorado em Engenharia Química pela Universidade Federal do Ceará.
+b Mestrado em Ciências da Computação pela Universidade Estadual do Ceará.
+c Doutorado em Informação e Comunicação em Saúde pela Fundação Oswaldo Cruz.
+d Graduação em Odontologia pela Universidade do Oeste Paulista.
+RESUMO Com o fim de propiciar um ambiente que possibilite decisões ágeis, criativas e efetivas no sistema de saúde, o Laboratório de Inovações no SUS do Ceará (FeliciLab) tem adotado o uso de métodos inovadores de gestão de projetos.
+Este relato de experiência tem como objetivo apresentar como a Escola de Saúde Pública do Ceará (ESP/CE) conseguiu, através do FeliciLab, orquestrar um conjunto de pessoas, métodos e tecnologias capazes de provocar uma quebra em padrões até então apresentados no mercado de tecnologias direcionadas para o sistema de saúde, diante da crise sanitária ocasionada pela pandemia de covid-19.
+Com adoção de metodologias mais ágeis de condução de trabalho e gerenciamento de crises, ampliou-se a percepção de valor da tecnologia da informação (TI) da ESP/CE, nutrida pela compreensão de que inovar é mais do que produzir e implantar tecnologias: trata-se de transformar os modos de criar e consumir soluções, de forma a impactar os contextos e as experiências das pessoas.
+Palavras-chave: Metodologias ágeis; Transformação digital; Difusão de inovações; Políticas de Saúde; Covid-19.Reciis – Revista Eletrônica de Comunicação, Informação & Inovação em Saúde, Rio de Janeiro, v. 16, n. 2, p. 461-472, abr.-jun.
+2022 [www.reciis.icict.fiocruz.br ] e-ISSN 1981-6278 FAHEINA JUNIOR, Genilton da Silva et al.
+462ABSTRACT In order to provide an environment with agile, creative, and effective decisions in the health system, the Felicilab laboratory has been adopting the use of innovative project management methods.
+This experience report aims to present how the Escola de Saúde Pública do Ceará (ESP/CE), Brazil, had managed to orchestrate, through FeliciLab, a set of people, methods, and technologies from a disruptive perspective of standards hitherto presented in the market of technologies directed to the health system, in face of the health crisis caused by the covid-19 pandemic.
+With the adoption of more agile methodologies for conducting work and managing crisis, the perception of the value of the Information technology (IT) used at ESP/CE was expanded, understanding that innovating is more than producing and implementing technologies: it means transforming the ways of creating and consume solutions in order to impact on personal experiences and their context.
+Keywords : Agile methodologies; Digital transformation; Diffusion of innovations; Health policies; Covid-19.
+RESUMEN A fin de propiciar un ambiente con decisiones ágiles, creativas y efectivas en el sistema de salud, el Laboratório de Inovações no SUS do Ceará (FeliciLab) tiene adoptado el uso de métodos innovadores de gestión de proyectos.
+Este relato de experiencia tiene como objetivo presentar cómo la Escola de Saúde Pública do Ceará (ESP/CE), a través del FeliciLab, ha conseguido orquestar un conjunto de personas, métodos y tecnologías capaces para quebrar estándares hasta entonces presentados en el mercado de tecnologías dirigidas al sistema de salud, frente a la crisis de salud provocada por la pandemia de Covid-19.
+Con la adopción de metodologías más ágiles para la realización del trabajo y la gestión de crisis, se amplió la percepción del valor de la tecnología de la información (TI) ESP/CE, alimentada por el entendimiento de que innovar es más que producir e implementar tecnologías: se trata de transformar formas de crear y consumir soluciones para impactar los contextos y las experiencias de las personas.
+Palabras clave : Metodologías ágiles; Transformación digital; Difusión de las innovaciones; Politicas de salud; Covid-19.
+INFORMAÇÕES DO ARTIGO Contribuição dos autores: Concepção e desenho do estudo: Uirá Porã Maia do Carmo, Clarisse Castro Cavalcante, Marcos José Nunes de Oliveira.
+Aquisição, análise ou interpretação dos dados: Uirá Porã Maia do Carmo, Clarisse Castro Cavalcante, Marcos José Nunes de Oliveira, Camila Campos Colares das Dores, Genilton da Silva Faheina Junior.
+Redação do manuscrito: Genilton da Silva Faheina Junior, Clarisse Castro Cavalcante, Marcos José Nunes de Oliveira.
+Revisão crítica do conteúdo intelectual: Uirá Porã Maia do Carmo, Clarisse Castro Cavalcante, Marcos José Nunes de Oliveira, Camila Campos Colares das Dores, Genilton da Silva Faheina Junior.
+Declaração de conflito de interesses : não há.
+Fontes de financiamento : Governo do estado do Ceará.
+Agradecimentos/Contribuições adicionais : ThoughtWorks, Universidade Estadual do Ceará.
+Histórico do artigo: submetido: 22 mar.
+Licença CC BY-NC atribuição não comercial.
+Com essa licença é permitido acessar, baixar ( download ), copiar, imprimir, compartilhar, reutilizar e distribuir os artigos, desde que para uso não comercial e com a citação da fonte, conferindo os devidos créditos de autoria e menção à Reciis.
+Nesses casos, nenhuma permissão é necessária por parte dos autores ou dos editores.Reciis – Revista Eletrônica de Comunicação, Informação & Inovação em Saúde, Rio de Janeiro, v. 16, n. 2, p. 461-472, abr.-jun.
+2022 [www.reciis.icict.fiocruz.br ] e-ISSN 1981-6278 Relato de experiência | O FeliciLab, a inovação e a pandemia de covid-19 463INTRODUÇÃO No final de 2019, o mundo presenciou o surgimento e a proliferação do vírus SARS-CoV-2 na China, agente etiológico da covid-19, que se disseminou rapidamente em 2020 (READ et al ., 2020).
+Nesta situação crítica, em que ficam ainda mais evidenciadas as desigualdades sociais na oferta de assistência ao bemestar para a população, tornou-se necessário o fortalecimento de medidas sustentáveis no Sistema Único de Saúde (SUS), com respostas mais rápidas e efetivas.
+Isto tornou-se possível da adoção de ferramentas inovadoras para auxiliar medidas responsivas durante a pandemia.
+Em âmbito nacional, o primeiro caso da doença foi registrado em 26 de fevereiro de 2020, segundo divulgação do Ministério da Saúde (BRASIL, 2020a), o que impulsionou pessoas, instituições e organizações das mais diversas naturezas a criarem ferramentas que se adequassem a auxiliar o combate da proliferação comunitária do vírus, evitando uma pane na logística nos sistemas de saúde, economia e educação.
+No Ceará, em 15 de março foi identificado um caso incipiente, despertando a necessidade de gerar esforços na busca de soluções para o enfrentamento da situação pandêmica, de acordo com a realidade local (CEARÁ, 2020a).
+Nesse cenário, o governo do estado do Ceará, através da Secretaria de Saúde (Sesa), começou a realizar investimentos estratégicos de enfrentamento da pandemia em todo o estado, priorizando o uso de ferramentas de inovação e tecnologia.
+Diante desta perspectiva, o FeliciLab (Laboratório de Inovação no SUS do Ceará), recém-gerado na Escola de Saúde Pública do Ceará Paulo Marcelo Martins Rodrigues (ESP/CE), foi elaborado como um espaço para conglomerar, captar, produzir, distribuir e conectar soluções inovadoras em um ambiente de experimentação interdisciplinar e de conhecimento aberto.
+Esse laboratório possui a perspectiva de oferecer novas formas de elaborar projetos e criar produtos com uso de ferramentas da Tecnologia da Informação (TI), por muito tempo centrada no desenvolvedor e não no cidadão, que participava do processo de desenvolvimento apenas de forma pontual.
+Antes da criação do FeliciLab, a ESP/CE já trilhava o caminho de oferecer ferramentas inovadoras a partir de experiências em educação permanente centrada no estudante, como uma das premissas educacionais documentadas no Projeto Político Pedagógico (ESCOLA DE SAÚDE PÚBLICA DO CEARÁ, 2016).
+Por outro lado, foi observada uma carência de oferta de serviços integrados e mais ágeis, com dados que se cruzam em diferentes territórios para serem apropriados e utilizados por profissionais de saúde e cidadãos.
+Desse modo, a força-tarefa desempenhada com dedicação e troca de experiências foi direcionada para o desenho de capacitadores tecnológicos, com adoção de ferramentas capazes de oferecer dados organizados e integradores, e maior amplitude relacionada aos atores envolvidos no sistema (cidadãos, profissionais de saúde e gestores).
+Esta forma de pensar está alinhada com o propósito que impulsiona as atividades do FeliciLab: atenção centrada no cidadão, tornando-o cada vez mais empoderado como cocriador de seu bem-estar e oferecendo espaço transparente para que ele tenha voz ativa nas tomadas de decisões políticas, articulado com os princípios da inovação aberta e colaborativa.
+A logística adotada para o período pandêmico, em que foi imperativa a necessidade de respostas rápidas em processos indispensáveis, foi catalisadora da materialização desses modelos inovadores nos projetos do laboratório.
+A pandemia, portanto, parece ter sido uma situação que, mesmo sem ser intencional, criou um cenário oportuno para quebrar barreiras relativas à falta de compreensão do corpo de funcionários acerca das propostas inovadoras, bem como, relativas à falta de estrutura e de política de inovação.
+Este relato de experiência tem como objetivo apresentar como a ESP/CE conseguiu, durante a pandemia, orquestrar um conjunto de pessoas, métodos e tecnologias, dando respostas rápidas e inovadoras, em uma perspectiva com padrões já apresentados no mercado de tecnologias direcionadas para o sistema de saúde, diante da crise sanitária ocasionada pela pandemia de covid-19.Reciis – Revista Eletrônica de Comunicação, Informação & Inovação em Saúde, Rio de Janeiro, v. 16, n. 2, p. 461-472, abr.-jun.
+2022 [www.reciis.icict.fiocruz.br ] e-ISSN 1981-6278 FAHEINA JUNIOR, Genilton da Silva et al.
+464ABORDAGEM METODOLÓGICA Trata-se de um estudo descritivo com um relato de experiência que visa contar a história de como as competências do FeliciLab emergiram e se consolidaram com força e urgência diante da necessidade de dar suporte às decisões e ações da Escola de Saúde Pública do governo do estado do Ceará desde os primeiros dias da pandemia de covid-19 no estado, tendo a inovação como fio condutor dos processos e produtos.
+A CONCEPÇÃO DO FELICILAB E A EXPANSÃO DA INOVAÇÃO E TECNOLOGIA NA ESP/CE Quando o primeiro caso de covid-19 foi confirmado no Ceará, o FeliciLab estava dando seus primeiros passos.
+Idealizado com o objetivo de processar dados, saberes e narrativas para promoção da saúde, do bemestar e da felicidade das pessoas, o laboratório da ESP/CE havia definido muito recentemente sua equipe de base e realizado uma semana de planejamento colaborativo para estruturar processos e fluxos de trabalho.
+A ideia de como atuar na linha de frente para o enfrentamento da pandemia era ainda embrionária, porque esse cenário epidemiológico se descortinava com pouca informação relevante e de forma muito incipiente no Brasil.
+O fato de Fortaleza ser uma cidade turística e ponto de conexão de voos internacionais fez com que o vírus se disseminasse com muita velocidade em nosso território.
+Sobretudo por causa do contato com países europeus, como a Itália (LAZZERINI; PUTOTO, 2020), epicentro da pandemia no período em que foram divulgados os primeiros casos no estado e identificada como possível rota de transmissão do vírus para o país (CÂNDIDO et al ., 2020).
+Ciente desta fragilidade, o governo do estado do Ceará determinou que se colocasse em prática o distanciamento social, com a finalidade de conter o avanço da doença.
+Diante desta situação crítica e inédita no estado, todas as atividades que necessitavam de presença física foram interrompidas e direcionadas para a realidade digital: reuniões, cursos, canais e fluxos de comunicação e de tomadas de decisão (CEARÁ, 2020b).
+Como equipe de inovação tecnológica, no processo de geração do FeliciLab já havia se iniciado a adoção de ferramentas digitais para a colaboração em rede na execução de projetos, com uso de metodologias mais ágeis que as tradicionais.
+Graças à estrutura previamente criada, foi possível, mesmo que com as limitações impostas pela situação, a realização de diversas atividades da instituição com o auxílio da equipe de inovação, ainda se estruturando na ESP/CE, na busca de recursos e novos formatos de trabalhos feitos muitas vezes de forma paralela.
+Nesse contexto de pandemia, a transformação digital do governo estadual, definida e orientada pela Plataforma de Modernização da Saúde, lançada em agosto de 2019 pela Secretaria da Saúde do Ceará (CEARÁ, 2019), foi dotada de materialidade tanto em micro quanto em macroprocessos de inovação.
+A Plataforma visa reestruturar o modelo de governança, planejamento e gestão, como esforço para integrar inovação e eficiência na prestação dos serviços de saúde centrados nas pessoas.
+Pela necessidade de isolamento e de distanciamento social, essa transformação digital materializou-se primeiro nos processos de trabalho, para então começar a ser apropriada como nova cultura e ambiência dos modos de criar, refletir e disseminar inovação.
+É válido ressaltar que a nova Superintendência da ESP/CE havia sido nomeada em 1º de outubro de 2019, ou seja, apenas cinco meses antes do início do distanciamento social ter sido proposto.
+Nesse período, grandes e importantes decisões e ações estavam sendo realizadas.
+A mudança de gestão marcou uma nova fase da instituição, que rapidamente começou a ampliar sua função por meio de uma nova visão estratégica, consolidando a inovação como um dos pilares.
+No mesmo mês de outubro, os primeiros sinais de mudanças rumo à nova missão da escola começam a aparecer quando, de imediato, surgiram propostas do governo do estado do Ceará para a adoção de métodos Reciis – Revista Eletrônica de Comunicação, Informação & Inovação em Saúde, Rio de Janeiro, v. 16, n. 2, p. 461-472, abr.-jun.
+2022 [www.reciis.icict.fiocruz.br ] e-ISSN 1981-6278 Relato de experiência | O FeliciLab, a inovação e a pandemia de covid-19 465mais colaborativos.
+O marco inicial dessas mudanças residiu na proposta de utilização de uma ferramenta digital de ensino à distância, o Ambiente Virtual de Aprendizagem (AVA), antes usado apenas para o EAD (Ensino a Distância), ocasião na qual foi criado um grupo de trabalho para a atualização do Projeto Político Pedagógico da escola.
+Nessa época, a instituição possuía algumas limitações técnicas, culturais e de infraestrutura que foram rapidamente modificadas para que as propostas feitas pela inovação, ainda pouco definida como um setor, fossem levadas adiante.
+Com equipamentos tecnológicos em qualidade e quantidade aquém da necessidade, nenhuma prática com adoção de aplicativos e ferramentas online de compartilhamento de conteúdos, além de processos de trabalho muito analógicos e pouco transparentes, a ESP/CE carecia de um remodelamento profundo, tanto nos trabalhos da equipe do Núcleo de Informação e Comunicação (Nutic), quanto na própria equipe e infraestrutura.
+Essas mudanças se deram pelo entendimento de que esses fatores, a forma de trabalho, equipe e estrutura, são a chave para o início de toda a cadeia de eventos que se seguiram dentro da ESP/CE rumo ao modelo inovador, na construção da rede de saúde não apenas para o estado do Ceará, mas também compreendendo o importante papel da ESP/CE em âmbito nacional.
+Surgimento da pandemia: transformação com criatividade e efetividade Em virtude da situação emergencial, a equipe multidisciplinar do FeliciLab (Figura 1) sofreu uma pressão inesperada para mudar radicalmente a forma de trabalhar e já colocar em prática grande parte de seus trabalhos em um formato remoto e colaborativo, com uso de interfaces digitais (síncronas e assíncronas) para realizar as tarefas.
+Essa oportunidade catalisou a materialidade de novos métodos de gestão direcionando para práticas com parâmetros inovadores de trabalho, menos baseados no controle, e empoderando as pessoas com maior autonomia no gerenciamento de regras, tempo e criatividade.
+Neste contexto, se antes o setor do serviço público estava inerte às formas de trabalho remotas com uso das tecnologias da internet, a partir do surgimento da pandemia ele teve que se render a uma cultura baseada na transparência e colaboração em rede, dando efetividade e vazão para uma transformação que já vinha acontecendo, mas em uma dinâmica que não incentivava os investimentos em estrutura e pessoal qualificado.
+Figura 1 – Representação das soluções geradas e times do FeliciLab Fonte: elaboração dos autores.Reciis – Revista Eletrônica de Comunicação, Informação & Inovação em Saúde, Rio de Janeiro, v. 16, n. 2, p. 461-472, abr.-jun.
+2022 [www.reciis.icict.fiocruz.br ] e-ISSN 1981-6278 FAHEINA JUNIOR, Genilton da Silva et al.
+466A escola já trilhava um trajeto com capacidade de implementação tecnológica e decisões norteadas pela inovação.
+Após a mudança de gestão da ESP/CE, delineada pela Plataforma de Modernização da Saúde, a tecnologia passou a ser vista como um processo transversal e com uma maior dimensão estratégica.
+Por outro lado, a introdução de novas metodologias colaborativas e baseadas em sistemas abertos encontrou barreiras dentro do próprio corpo da ESP/CE durante o início da nova gestão.
+Tal dificuldade pode ser explicada pelo caráter sistêmico das ferramentas de inovação que, quando iniciadas em um ambiente composto por variados atores, ocasionam uma complexa adaptação nos campos políticos institucionais, administrativos, tecnológicos e operacionais (ABROL et al ., 2016).
+Dentre os fatores que explicam a dificuldade de interação dos colaboradores com as novas bases de conhecimento, foi observado que profissionais estavam fortemente condicionados aos métodos fechados e competitivos, o que possivelmente ocasionou inércia nos princípios dos sistemas abertos e colaborativos; além disso, a falta de recursos e a carência estrutural também contribuíram para a dificuldade em pauta.
+Inicialmente, essa operacionalização da inovação se tornou dificultosa, mas apresentou uma perspectiva de superação na medida em que, na percepção de valores, foram reconhecidos os potenciais e impedimentos, dentre os quais a falta de recursos se destacava.
+Os esforços do governo do estado do Ceará para implantar políticas de saúde centradas no cidadão foram a força motriz inicial que permitiu o florescimento do laboratório de inovação.
+As inovações desenvolvidas desde o surgimento do FeliciLab estão sendo conduzidas pelos colaboradores que já representavam a capacidade tecnológica da ESP/CE, com potencial para a geração de um conjunto de ferramentas e produtos para o setor saúde e educação.
+As ideias e produtos gerados pelo setor se adequavam às demandas da Autarquia, mas ainda estavam condicionadas a um modo de fazer focado no desenvolvedor, com breve participação do usuário, que atuava de forma muito pontual.
+Assim, a pandemia foi uma oportunidade para que as estruturas públicas, antes resistentes às quebras de condicionamentos, ficassem passíveis e receptivas às novas formas de trabalho, com uso de ferramentas da tecnologia da informação que foram utilizadas em maior escala, de forma a atender às necessidades de trabalho em formato remoto.
+Transição para novos métodos de gestão do sistema de saúde Nos serviços de saúde pública brasileiros é notória uma cultura em transformação, por meio da adoção de sistemas de dados robustos, que são consumidos para diferentes finalidades, de pesquisa à execução de políticas de saúde, como o Datasus (SALDANHA; BASTOS; BARCELLOS, 2019) e o Sistema de Informação Hospitalar Descentralizado (BRASIL, 2020b).
+Apesar disso, tal cultura ainda se caracteriza como conservadora e engessada, além de dificultar o fluxo integrado de informações entre os variados setores que compõem o governo.
+No contexto da crise histórica causada pelo aparecimento da pandemia, tornou-se imperativo o uso de soluções tecnológicas inovadoras, ágeis e eficientes para os desafios surgidos na esfera da educação, ciência e, principalmente, nos setores da saúde como medidas responsivas à situação crítica atual (SALLES NETO et al ., 2020).
+Essa mudança digital já vem sendo observada nos processos assistenciais da governança pública voltada para a saúde, mas ainda persistem barreiras nutridas por uma cultura hierarquizada, que dificulta a absorção de novas formas de pensar e de usar as ferramentas digitais, de modo a apresentar um serviço que ofereça uma gestão com qualidade e agilidade para o cidadão (BITTAR et al ., 2018).
+No geral, o sistema de saúde atual no país possui como característica uma fragmentação que torna a interoperabilidade de dados falha, causando dificuldades na integração da rede de serviços de saúde, principalmente com a atenção primária à saúde (UZUELLI et al ., 2019).
+Nessa realidade, os diferentes territórios (municipal, estadual e federal) não interagem entre si, causando um grande número de sistemas Reciis – Revista Eletrônica de Comunicação, Informação & Inovação em Saúde, Rio de Janeiro, v. 16, n. 2, p. 461-472, abr.-jun.
+2022 [www.reciis.icict.fiocruz.br ] e-ISSN 1981-6278 Relato de experiência | O FeliciLab, a inovação e a pandemia de covid-19 467de dados para diferentes finalidades, o que torna dificultosa a jornada do cidadão com integralidade, equidade e regionalização para o usuário final.
+E, principalmente, ainda se apresenta falha ao não fornecer em plenitude serviços baseados em valores humanos, "[.]
+relativos à acessibilidade, à coletividade ou à importância do exercício da voz política da população, primordial nos regimes democráticos."
+De forma que a gestão se direciona cada vez mais para um caminho incapaz de suprir as necessidades coletivas da população, bem como enfraquece o combate às desigualdades na saúde e o princípio da universalidade propagado pelo SUS.
+Logo, para ressignificar as experiências, é preciso desenvolver soluções que organizem a forma como o serviço é prestado, pensando na universalidade, transparência e qualidade da informação, compreendendo as jornadas e demandas das pessoas usuárias (FONTES, 2018).
+Esse recorte pode ser considerado um reflexo da forma como a TI é vista na administração pública, pautada na Tecnologia da Informação corporativa estatal, com modelo tecnológico fechado e que não oferece resposta efetiva às demandas coletivas com criatividade e inventividade humana.
+Essa forma de conduzir a gestão da TI, "apesar de alinhar-se e responder às demandas básicas dos negócios, [.]
+não dá ainda mostras claras de avanço de aderência à natureza evolutiva dos modelos de negócios necessária à sustentação de desempenho desses [.]"
+(RODRIGUES; MACCARI; SIMÕES, 2009, p. 483).
+Uma das estratégias para mudar este cenário reside, portanto, na inserção de métodos ágeis e colaborativos disruptivos centrados no cidadão em contraponto ao modo de gestão de saúde tradicional aplicado até então no Brasil.
+A geração de ideias dos processos do FeliciLab está na oferta de espaço para que novos conhecimentos sejam introduzidos, amplificando novas formas de visão e materialidade do uso de TI nos serviços oferecidos pelo SUS em benefício de todos os cidadãos.
+A partir dessa compreensão, o FeliciLab passa a impulsionar que as iniciativas da ESP/CE, seja no campo da educação permanente presencial ou à distância, da pesquisa científica, da pesquisa clínica e da comunicação em saúde, sejam conduzidas com uma abordagem centrada nas necessidades e experiências dos usuários.
+Mais do que nunca, foi necessário desenvolver os processos focados na integração de dados, sistemas e instituições, de forma a responder à evolução do quadro epidêmico de forma rápida, para auxiliar a comunicação entre os variados atores do sistema de saúde do estado do Ceará.
+Primeiros resultados rumo ao legado de inovação tecnológica nos serviços de saúde Nesses dezoito meses de vida pandêmica, o FeliciLab estruturou uma força tarefa digital de enfrentamento à covid-19, que resultou em produções muito significativas.
+Primeiramente, construiu-se uma barra de alerta (BARRA., 2020) de informações na página da internet da Sesa, que orienta o caminho para os conteúdos oficiais sobre o coronavírus e as políticas emergenciais do governo estadual.
+Em paralelo, criouse o grupo Força-Tarefa Anti Corona (2020), aberto para participação de qualquer pessoa interessada, disponível no aplicativo Telegram, com o intuito de mobilizar pessoas de todo o Brasil a trabalharem de forma colaborativa com o FeliciLab.
+Em seguida, montou-se o site coronavirus.ceara.gov.br , que passou a ser o repositório oficial do governo, com informações e orientações para trabalhadores da saúde e cidadãos (CEARÁ, 2020c).
+Todas as ações supracitadas foram realizadas em 48 horas após o primeiro caso de covid-19 confirmado no Ceará.
+A barra foi incorporada por sites governamentais e não governamentais e alcançou 30 mil acessos nas primeiras horas de funcionamento; o grupo no serviço de mensagens instantâneas Telegram tem, até março de 2021, 98 participantes de diversas regiões do país, apresentando ideias diuturnamente; e o site organizou, criou e apresentou conjuntos de conteúdos robustos, selecionados e criados com base em evidências científicas.
+Além disso, na semana em que a Lei que regulamenta o Sistema Único de Saúde Reciis – Revista Eletrônica de Comunicação, Informação & Inovação em Saúde, Rio de Janeiro, v. 16, n. 2, p. 461-472, abr.-jun.
+2022 [www.reciis.icict.fiocruz.br ] e-ISSN 1981-6278 FAHEINA JUNIOR, Genilton da Silva et al.
+468completou 30 anos, a Lei 8.080 (BRASIL, 1990), o FeliciLab entregou à cidadania o iSUS, um aplicativo criado em código aberto para dar suporte aos profissionais de saúde através de dispositivos inteligentes.
+Os processos do laboratório são, portanto, desenvolvidos cada vez mais próximos das necessidades dos usuários dos produtos, sob o prisma dos princípios do Design de Serviços, que se propõe a estudar as formas de interações entre os diferentes atores em um sistema (gestores e usuários), bem como os variados métodos e ferramentas utilizados, objetivando alcançar a leitura da jornada de vida das pessoas (STICKDORN; SCHNEIDER, 2014).
+A partir da concepção do FeliciLab, foram criadas as parcerias, visando à troca de conhecimentos para agregar valor aos processos e produtos.
+Essas integrações aceleraram os projetos, como sistemas legados que precisavam de refatoração, revisão e reconstrução.
+A aplicação de tais dinâmicas inovadoras se materializou, de fato, por intermédio de uma cumplicidade estratégica com universidades públicas e com uma empresa de consultoria global em tecnologias, a ThoughtWorks, que se dedicaram de forma voluntária aos projetos, fortalecendo competências técnicas e metodológicas, em vários aspectos no desenvolvimento de produtos e serviços.
+Por meio das parcerias, foram apresentadas as melhores práticas no escopo da engenharia de software , no que se refere ao ciclo de desenvolvimento, em que estão presentes as seguintes etapas: análise e levantamento de requisitos, design, implementação, testes e evolução (PRESSMAN; MAXIM, 2016).
+A maioria dessas práticas foi apresentada no contexto bem específico em cada momento dos projetos, nos quais foram utilizadas técnicas como: • Cerimônias padronizadas; • Metodologias ágeis; • Papéis e expectativas.
+A forma como foi iniciada a parceria, mediante uma postagem na rede social Twitter, demonstra o potencial de colaboração em rede na incorporação das Tecnologias da Informação e Comunicação (TIC) como uma causa, e não só como uma ferramenta.
+Foi uma oportunidade em que se tornou efetiva a forma de encarar o uso das redes sociais e seus potenciais de engajamento e participação das pessoas, dando vazão para um modo de usar o veículo com envolvimento cívico e canal aberto de coparticipação na implementação de alternativas políticas.
+Trata-se, portanto, de nova era para a governança em saúde pública, em que variados agentes se empoderam de espaços midiáticos para propagar conhecimento e tornar os trabalhos colaborativos, governança na qual "[.]
+torna-se inescapável incorporar o papel de novos agentes públicos e privados e instituições multilateriais potencialmente capazes de gerar impactos, sejam eles negativos ou positivos."
+Para tanto, fez-se o uso de metodologias ágeis, uma nova percepção assentada em quatro grandes pilares do manifesto ágil (indivíduos e interações, software em funcionamento, colaboração com o cliente e respostas às mudanças), que propõe alternativas à gestão de projetos tradicionais e que tem a função de aprimorar o processo de desenvolvimento de um produto ou serviço, com o objetivo final de fazer entregas com rapidez e maior frequência (PRIKLADNICKI; WILLI; MILANI, 2014).
+Por ser uma abordagem inovadora da gestão de projetos, capaz de incrementar interações, dar mais eficiência a processos, bem como, agilizar o fluxo de trabalho, a gestão ágil tem sido adotada por equipes e áreas do laboratório para além da tecnologia da informação.
+Dentre as metodologias inovadoras adotadas nas atividades de gestão dos projetos do laboratório, optou-se pelo uso do Scrum, uma abordagem de gestão ágil para o desenvolvimento de produtos e serviços inovativos (RUBIN, 2017).
+A implementação desse modelo na gestão de tecnologias e desenvolvimento de Reciis – Revista Eletrônica de Comunicação, Informação & Inovação em Saúde, Rio de Janeiro, v. 16, n. 2, p. 461-472, abr.-jun.
+2022 [www.reciis.icict.fiocruz.br ] e-ISSN 1981-6278 Relato de experiência | O FeliciLab, a inovação e a pandemia de covid-19 469projetos forneceu uma estrutura que auxiliou na melhor integração da equipe interdisciplinar, bem como, ampliou o espaço para reflexão acerca das conquistas e dos fracassos, com o fim de aprimorar a execução dos projetos.
+Nessa ocasião, os colaboradores se fortaleceram no aprendizado com as experiências adquiridas e se organizaram para resolver problemas de forma colaborativa.
+Embora o Scrum seja mais usado pelas equipes de desenvolvimento de software , os princípios e as lições dessa estrutura podem ser aplicados a todos os tipos de trabalhos em equipe e assim fizemos com todos os setores da ESP/CE.
+As principais cerimônias adotadas em parceria com a ThoughtWorks foram Kick-off, Dev Huddle, Daily, Desk Check, Retrospectiva (SUTHERLAND, 2014).
+Uma das filosofias proeminentes das metodologias ágeis reside na entrega contínua, com uso de ciclos curtos na entrega de funcionalidades dos produtos, porém mais frequentes, o que auxilia a redução de custos e tempo.
+Tal característica foi primordial para a elaboração de ferramentas com maior agilidade e frequência dada a dinâmica do período pandêmico.
+A adoção dessa forma de gerenciar produtos e processos se materializou na construção e manutenção do iSUS, um aplicativo que agrega uma série de informações e direcionamentos visando oferecer acesso personalizado a manuais, protocolos de manejo clínico do paciente.
+Tendo o manejo clínico do paciente com covid-19 como primeiro protocolo disponibilizado no aplicativo, o iSUS deverá se tornar uma solução de referência e de suporte para todas as linhas de cuidado trabalhadas pela Secretaria da Saúde do Ceará inicialmente, e espera-se que para todo o Brasil em futuro próximo.
+A equipe do laboratório também atuou na logística da Central de Ventiladores Mecânicos e Equipamentos Respiratórios (CVMER), que visa identificar, recrutar e direcionar equipamentos respiratórios para as unidades de saúde.
+Equipamento essencial para o tratamento de pacientes em estágio avançado, os 103 ventiladores mecânicos revisados e entregues possibilitaram o tratamento de mil pessoas até julho de 2020 (MOURA; CAJAZEIRAS; MUNIZ, 2020).
+O FeliciLab foi um dos canais que favoreceu a sinergia entre o desenvolvimento dos protótipos, fornecedores de materiais, fabricantes, profissionais de saúde e unidades de atenção básica, propiciando a distribuição dos respiradores em maior escala.
+Antes do projeto ser implantado, todo o processo era executado de forma manual e sem registro informatizado, causando maior lentidão na audição dos equipamentos.
+Medidas simples e efetivas foram adotadas inicialmente, como o uso de formulários eletrônicos para o registro informatizado das peças e de colaboradores, bem como reuniões no formato remoto para delineamento da CVMER, que deu celeridade na confecção dos respiradores e distribuição desses equipamentos para as unidades de saúde.
+Dentro desse contexto, também foi gerado o ResCovid, um sistema de registro clínico eletrônico para pacientes hospitalizados com covid-19 no estado do Ceará.
+Esse produto proporciona uma coleta de dados padronizada sobre a história clínica, diagnóstico, intervenções terapêuticas, ocorrência de complicações e desfechos clínicos visando oferecer para o sistema de saúde estratégias de atenção e tomadas de decisões de forma mais ágil.
+Também objetiva organizar os dados de forma sistemática, visando realizar estudos retrospectivos sobre os casos de pacientes internados devido à infecção pelo vírus e, assim, otimizar as estratégias a serem adotadas no cuidado ao cidadão durante a pandemia.
+Esse tem sido, desde então, um dos principais desafios do FeliciLab: apoiar e orientar a ESP/CE e seus níveis distintos de apropriação e consumo de tecnologias, na transição do trabalho analógico para o trabalho majoritariamente digital, considerando que muitas das novas práticas adotadas durante a pandemia deverão ser continuadas mesmo quando superarmos esse cenário epidemiológico, justamente porque já estavam no bojo da transformação digital.Reciis – Revista Eletrônica de Comunicação, Informação & Inovação em Saúde, Rio de Janeiro, v. 16, n. 2, p. 461-472, abr.-jun.
+2022 [www.reciis.icict.fiocruz.br ] e-ISSN 1981-6278 FAHEINA JUNIOR, Genilton da Silva et al.
+470CONSIDERAÇÕES FINAIS Avaliando em retrospectiva, compreendemos que, diante de uma crise sanitária sem precedentes na história recente do Brasil, como a pandemia de covid-19, o FeliciLab tem sido oportunizado a responder com ousadia e sem temor ao que lhe foi solicitado enquanto laboratório de inovações para o desenvolvimento de soluções inteligentes, baseadas nas necessidades e experiências das pessoas, produzindo mais transparência, colaboração e compartilhamento do conhecimento para o Sistema Único de Saúde no estado do Ceará.
+Trata-se de uma quebra de paradigmas nos modos de produzir e gerenciar novas tecnologias de informação e comunicação.
+onde o bem-estar e a felicidade emergem como valores institucionais e referências que justificam a adoção de metodologias mais ágeis e efetivas de condução de trabalho e gerenciamento de crises.
+Essa transformação tem se dado em diferentes velocidades e camadas.
+Por um lado, vivemos a transição das metodologias tradicionais para as metodologias ágeis na conjuntura governamental.
+Discussões como gestão para resultados, pensar o desenho das experiências com foco no cidadão e modernizar as tecnologias da informação e da comunicação aplicadas à saúde, acabam convergindo para uma mesma direção: o desejo de desburocratização, de efetividade e de rapidez na prestação de serviços essenciais à manutenção da vida humana.
+Sabemos que esse processo se configura como uma mudança de cultura, que requer o entendimento, o empoderamento e a apropriação das pessoas que dele participam, o que requer tempo e aprendizagem.
+Mas esse não é o único desafio.
+Tendo se voltado majoritariamente para a busca de soluções referentes ao enfrentamento da pandemia, o FeliciLab agora vive a experiência de amadurecer o próprio ciclo de inovação inerente às suas criações e soluções.
+De apontar quais delas serão úteis para além da pandemia e de mensurar o impacto dessas entregas nas políticas de saúde do estado do Ceará.
+A descontinuidade de soluções que se mostrem desnecessárias, de baixo impacto social ou de curto ciclo de vida faz parte do próprio ciclo da inovação, que se renova na prática crítica da atualização das versões das soluções desenvolvidas.
+Site, Central de Ventiladores, iSUS, Rescovid são todos produtos do FeliciLab que seguem em permanente avaliação e evolução, até quando se mostrarem úteis e necessários à própria evolução da cidadania.
+As experiências iniciais demonstradas pelas ações do FeliciLab oferecem pioneirismo na aplicação de metodologias disruptivas no sistema de saúde brasileiro, na perspectiva de fornecer ferramentas de disseminação de dados de forma ágil, aberta e colaborativa.
+Assim, esperamos que esse relato de experiência possa inspirar e produzir o contato e o diálogo com outras instituições e sujeitos do ecossistema global de inovação, especialmente a que acontece no setor público e que foca na melhoria da qualidade de vida e do bem-estar das pessoas, e consequentemente da governança.
+O próprio fato de sermos signatários das políticas digitais de código aberto e de software livre, com o intuito de desenvolver soluções que possam ser escaláveis e aplicáveis em diferentes cenários e territórios, nos provoca permanentemente à busca de diálogo e capilarização dessas ideias e potências.
+Decorrido o primeiro aniversário da pandemia, uma data com poucas razões a comemorar, as ações do laboratório talvez residam na colaboração e na disrupção das sementes do futuro que sonhamos realizar.Reciis – Revista Eletrônica de Comunicação, Informação & Inovação em Saúde, Rio de Janeiro, v. 16, n. 2, p. 461-472, abr.-jun.
+2022 [www.reciis.icict.fiocruz.br ] e-ISSN 1981-6278 Relato de experiência | O FeliciLab, a inovação e a pandemia de covid-19 471REFERÊNCIAS ABROL, Dinesh et al.
+A criação de sistemas inclusivos de inovação em saúde: lições da Índia.
+Cadernos de Saúde Pública , Rio de Janeiro, v. 32, supl.
+Contributors: Francisco Thiago, Uirá Porã, Italo Rodrigues, @flavionc.
+Ministério da Saúde declara transmissão comunitária nacional.
+Ministério da Saúde, Brasília, DF, 21 mar.
+Disponível em: noticias/2020/marco/ministerio-da-saude-declara-transmissao-comunitaria-nacional .
+SIHD – Sistema de Informação Hospitalar Descentralizado .
+Rio de Janeiro: Datasus, 2020b.
+Secretaria para Assuntos Jurídicos.
+Lei n° 8.080, de 19 de setembro de 1990.
+Dispõe sobre as condições para a promoção, proteção e recuperação da saúde, a organização e o funcionamento dos serviços correspondentes e dá outras providências.
+Diário Oficial da União, Brasília, DF, a.
+BITTAR, Olímpio J. Nogueira V. et al.
+Sistemas de informação em saúde e sua complexidade.
+Revista de Administração em Saúde , São Paulo, v. 18, n. 70, 2018.
+Routes for covid-19 importation in Brazil.
+Journal of Travel Medicine , Oxford, v. 27, n. 3, p. 1-7, 2020.
+Disponível em: article/27/3/taaa042/5809508 .
+Plataforma de Modernização da Saúde .
+Fortaleza: Secretaria da Saúde do Estado do Ceará, 2019.
+Disponível em: sesa_2019_sem-marcas-de-corte.pdf .
+Secretaria de Saúde do Estado do Ceará.
+Boletim epidemiológico , Fortaleza, n. 15 , 16 mar.
+Disponível em: epidemiologico_n_15_160320_covid19_espce.pdf .
+Decreto n. 33.519, de 19 de março de 2020.
+Intensifica as medidas para enfrentamento da infecção humana pelo novo coronavírus.
+Diário Oficial do Estado do Ceará , Fortaleza, a.
+Disponível em: sites/20/2020/03/Decreto-n.-33.519-de-19-de-mar%C3%A7o-de-2020.-Intensifica-as-medidas-paraenfrentamento-da-infec%C3%A7%C3%A3o-humana-pelo-novo-coronavirus.pdf .
+Secretaria de Saúde do Estado do Ceará.
+Fortaleza: Escola de Saúde Pública do Ceará, 2020c.
+Aportes da teoria crítica da tecnologia à análise da inovação nos serviços de saúde.
+Interface – Comunicação, Saúde, Educação , Botucatu, v. 24, p. e19072, p, 2020.
+DOI: org/10.1590/interface.190723 .
+ESCOLA DE SAÚDE PÚBLICA DO CEARÁ.
+Fortaleza: Escola de Saúde Pública do Ceará, 2016.
+FONTES, Breno Augusto Souto Maior.
+Redes sociais e governança em saúde.
+Ciência & Saúde Coletiva , Rio de Janeiro, v. 23, n. 10, p. 3123-3132, 2018.
+FORÇA-TAREFA ANTI CORONA: grupo público.
+2022.Reciis – Revista Eletrônica de Comunicação, Informação & Inovação em Saúde, Rio de Janeiro, v. 16, n. 2, p. 461-472, abr.-jun.
+2022 [www.reciis.icict.fiocruz.br ] e-ISSN 1981-6278 FAHEINA JUNIOR, Genilton da Silva et al.
+472LAZZERINI, Marzia; PUTOTO, Giovanni.
+Covid-19 in Italy: momentous decisions and many uncertainties.
+The Lancet Global Health , Londres, v. 8, n. 5, p. e641-e642, 2020.
+Governança, redes sociais e promoção da saúde: reconfigurando práticas e institucionalidades.
+Ciência & Saúde Coletiva , Rio de Janeiro, v. 23, n. 10, p. 3143-3150, 2018.
+DOI: http:// dx.doi.org/10.1590/1413-812320182310.15872018 .
+Disponível em: d3sFmwhNgBs4g/?lang=pt .
+MOURA, Jackson de; CAJAZEIRAS, Ariane; MUNIZ, Deborah.
+Central de Ventiladores Mecânicos garante funcionamento de 103 leitos de UTI.
+Escola de Saúde Pública do Ceará , Fortaleza, 10 jul.
+PRESSMAN, Roger S.; MAXIM, Bruce R. Engenharia de software .
+Nova York: McGraw Hill; Porto Alegre: AMGH, 2016.
+PRIKLADNICKI, Rafael; WILLI, Renato; MILANI, Fabiano.
+Métodos ágeis para desenvolvimento de software .
+Novel coronavirus 2019-nCoV: early estimation of epidemiological parameters and epidemic predictions.
+medRxiv , [S. l.], 2020.01.23.20018549, 28 jan. 2020.
+DOI: 1101/2020.01.23.20018549 .
+RODRIGUES, Leonel Cezar; MACCARI, Emerson Antonio; SIMÕES, Sergio Alexandre.
+O desenho da gestão da tecnologia da informação nas 100 maiores empresas na visão dos executivos de TI.
+JISTEMJournal of Information Systems and Technology Management , São Paulo, v. 6, n. 3, p. 483-506, 2009.
+Disponível em: XNYf8qnLNTW6NPJnGSkDYcN/abstract/?lang=pt .
+RUBIN, Kenneth S. Essential Scrum : a practical guide to the most popular agile process.
+Boston: AddisonWesley Professional, 2012.
+SALDANHA, Raphael de Freitas; BASTOS, Ronaldo Rocha; BARCELLOS, Christovam.
+Microdatasus: pacote para download e pré-processamento de microdados do Departamento de Informática do SUS (Datasus).
+Cadernos de Saúde Pública , Rio de Janeiro, v. 35, n. 9, p. e00032419, 2019.
+DOI: org/10.1590/0102-311x00032419 .
+SALLES NETO, Luiz Leduíno et al.
+Forecast UTI: application for predicting intensive care unit beds in the context of the covid-19 pandemic.
+Epidemiologia e Serviços de Saúde , Brasília, DF, v. 29, n. 4, p. e2020391, 2020.
+Disponível em: wXWGfh955NzD5RtBXLwkycp/?lang=en .
+STICKDORN, Marc; SCHNEIDER, Jakub (org).
+Isto é design thinking de serviços : fundamentos, ferramentas, casos.
+Scrum : a arte de fazer o dobro do trabalho na metade do tempo.
+UZUELLI, Fernando Henrique de Paula et al.
+Reforma de atenção hospitalar para modelo de saúde baseada em valor e especialidades focais.
+Ciência & Saúde Coletiva , Rio de Janeiro, v. 24, n. 6, p. 2147-2154, 2019.
+Disponível em: sbFSqzDgSLVdsspQgdv/?lang=pt .

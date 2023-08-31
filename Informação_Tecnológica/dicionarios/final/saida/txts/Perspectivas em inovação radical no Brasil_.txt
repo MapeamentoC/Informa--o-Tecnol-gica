@@ -1,0 +1,264 @@
+1 Cadernos de Ciência & Tecnologia, Brasília, v. 36, n. 2, e26432, maio/ago.
+2019Perspectivas em inovação radical no Brasil Lívia Abreu Torres1 Leonardo Sousa de Freitas2 RESUMO O objetivo deste artigo é apresentar um mapeamento da produção científica nacional sobre o tema inovação radical, evidenciando lacunas e oportunidades para futuras pesquisas.
+Realizou-se um levantamento bibliométrico dos artigos relacionados à temática nos principais periódicos brasileiros segundo critério WebQualis 2015, sem estabelecer recorte temporal, tendo-se identificado 16 artigos.
+A pesquisa caracterizase como descritiva, com abordagens quantitativa e qualitativa, com análises realizadas por meio do software SPSS e análise manual de conteúdo.
+Os resultados permitiram evidenciar baixa produção científica nacional e ausência de abordagens quantitativas.
+Foram identificados os autores mais citados nas temáticas inovação e inovação radical, e oferecido um panorama sobre temas abordados, contribuições dos autores pesquisados e sugestões para futuras pesquisas.
+Termos para indexação: tecnologia disruptiva, produção científica, bibliometria.
+Prospects of radical innovation in Brazil ABSTRACT The purpose of this article is to present a mapping of the national scientific yield on the radical innovation theme, highlighting gaps and opportunities for future research.
+A bibliometric survey of the articles related to the topic in the main Brazilian journals according to WebQualis 2015 standard was carried out, without establishing a temporal cut, and 16 articles were identified.
+The research is descriptive, with quantitative and qualitative approaches, with analyses performed through SPSS software and manual content analysis.
+The results showed low national scientific yield and lack of quantitative approaches.
+The most cited authors were identified in the themes innovation and radical innovation, and an overview on the covered topics was provided, including contributions of the authors researched and suggestions for future research.
+Index terms: disruptive technology, scientific production, scientometrics.
+INTRODUÇÃO Inovações são conhecidas por representar um papel central na criação de valor e vantagem competitiva sustentável (Baregheh et al., 2009).
+São consideradas chave para o sucesso e renovação das organizações (Slater et al., 2014) e, apesar de muitas vezes 1 Bacharel em Comunicação, mestre em Administração Estratégica, analista da Secretaria de Inteligência e Macroestratégia (SIM) da Embrapa, Brasília, DF.
+livia.torres@embrapa.br 2 Bacharel em Ciência da Computação, mestrando do Programa de Pós-Graduação em Administração da Universidade de Brasília (UnB), analista do Ministério da Ciência, Tecnologia, Inovações e Comunicações (MCTIC), lotado no Departamento de Ecossistemas Digitais da Secretaria de Políticas Digitais, Brasília, DF.
+leonardo.freitas@mctic.gov.brCC&T Cadernos de Ciência & TecnologiaISSNe 1678-3964 www.embrapa.br/cct Recebido em 19/09/2018 Aprovado em 17/12/2018 Publicado em 03/06/2019 This article is published in Open Access under the Creative Commons Attribution licence, which allows use, distribution, and reprodution in any medium, without restrictions, as long as the original work is correctly cited.Ideias centrais • Inovações incrementais e radicais • Panorama de publicações nacionais em inovação radical • Principais autores em inovação radical • Lacunas e oportunidades para futuras pesquisas em inovação2 L. A. Torres e L. S. de Freitas Cadernos de Ciência & Tecnologia, Brasília, v. 36, n. 2, e26432, maio./ago.
+2019parecerem caras, costumam gerar receitas que superam os custos envolvidos na sua implementação (Rubera & Kirca, 2012).
+Em 1990, a Organização para a Cooperação e Desenvolvimento Econômico (OCDE) publicou o Manual de Oslo, que define inovação como o desenvolvimento de uma novidade ou a aquisição de algo já existente, mas considerado essencialmente novo para a organização que o adota.
+O Manual expande a visão de que a inovação ocorre apenas na área de Pesquisa e Desenvolvimento (P&D), e classifica a inovação como […] implementação de um produto (bem ou serviço) novo ou significativamente melhorado, ou um processo, ou um novo método de marketing, ou um novo método organizacional nas práticas de negócios, na organização do local de trabalho ou nas relações externas (Manual…, 2005, p.55).
+De acordo com o Manual de Oslo (Manual…, 2005), inovações podem ser do tipo incrementais, quando proporcionam melhoramentos contínuos em produtos, processos e operações; ou radicais, quando causam impacto significativo no mercado ou em atividades econômicas.
+Christensen (2012) acrescenta que tecnologias incrementais melhoram o desempenho de produtos estabelecidos, ao passo que as de ruptura trazem para o mercado uma proposição de valor diferente da disponível.
+Inovações radicais são disruptivas para os consumidores porque introduzem produtos e proposições de valor que interferem nos seus hábitos e comportamentos (Markides, 2006).
+Elas interrompem ou redefinem trajetórias de produtos estabelecidos (Christensen & Boer, 1996), trazem mais satisfação para os consumidores (Chandy & Tellis, 1998) e redefinem expectativas do mercado (Nagy et al., 2016).
+A maioria das tecnologias produzidas que dão suporte à melhoria do desempenho de produtos são as tecnologias incrementais (Christensen, 2012).
+As empresas relutam em investir em tecnologias disruptivas, pois o custo associado ao seu desenvolvimento é geralmente mais alto; por isso, é mais comum o foco em inovações incrementais, traduzidas em ações como extensão de linha de produtos existentes, melhoramentos e redução de custos (Wind & Mahajan, 1997).
+Rubera & Kirca (2012) ressaltam que, apesar de serem tipicamente mais caras, as vantagens de investir em inovações radicais superam os custos mais elevados.
+Para os autores, a dificuldade de imitar as inovações radicais e os seus benefícios gerados no longo prazo traz vantagens para as empresas e efeito mais positivo no mercado.
+O investimento em inovações radicais traz poderosos resultados no desempenho e na sobrevivência das organizações (Chandy & Tellis, 1998).
+As inovações radicais oferecem benefícios sem precedentes, como redução substancial de custos, capacidade de criar novos negócios e desempenho organizacional superior, mantendo as empresas alinhadas com as rápidas evoluções das necessidades dos clientes (Slater et al., 2014).
+A inovação radical é um motor de crescimento, possibilitando, ao longo da história, criar indústrias inteiras, derrubar gigantes e transformar pequenas empresas em líderes de mercados (Chandy & Tellis, 2000).
+Um produto com capacidade de inovação radical apresenta raridade e inimitabilidade, bases para obter vantagem competitiva (Slater et al., 2014).
+Já Winde e Mahajan (1997) acreditam na importância de investir em inovações incrementais e disruptivas, ressaltando que uma das formas de buscar esse equilíbrio é trabalhar com o horizonte temporal de curto e longo prazo.
+Empresas que trabalham com inovações radicais se distinguem, pois focam no longo prazo, buscando identificar o futuro do mercado e dos concorrentes (Chandy & Tellis, 1998).
+(2014) destacam que as inovações incrementais ajudam a reduzir o risco das empresas e a produzir fluxo de caixa necessário para financiar o desenvolvimento de inovações radicais.
+O Manual de Bogotá (Jaramillo et al., 2001), criado com a finalidade de estudar inovações em países subdesenvolvidos e em empresas latino-americanas, comparou inovações geradas nesses países com os resultados encontrados no primeiro mundo, constatando marcadas diferenças.
+A maior parte das inovações nos países subdesenvolvidos é verificada em atividades como mudanças organizacionais, administrativas e de comercialização de novos produtos.
+Há uma participação muito Perspectivas em inovação radical no Brasil .3 Cadernos de Ciência & Tecnologia, Brasília, v. 36, n. 2, e26432, maio/ago.
+2019pequena desses países em atividades de P&D, e a maior parte das inovações em desenvolvimento consistem em inovações "menores" (modificações ou melhorias em tecnologias existentes).
+Além disso, destaca-se que, nesses países, a pesquisa básica apresenta um dinamismo menor do que a pesquisa aplicada, predominando estratégias de caráter defensivo com perspectivas de curto prazo.
+Ao realizar uma análise histórica em artigos internacionais publicados ao longo de 150 anos que tratam do tema inovação radical, Chandy & Tellis (2000) constataram que os Estados Unidos são responsáveis por quase dois terços dos produtos radicalmente novos, seguidos da Europa ocidental, que responde pela maior parte dos produtos restantes, e pelo Japão, responsável por pequenas inovações.
+O relatório Global Innovation Index, de 2016, que compara o desempenho em inovação em 128 países, ressaltou que a América Latina e o Caribe são regiões com inexplorado potencial de inovação e que nenhuma dessas economias destacou-se como empreendedora em inovação.
+O relatório sinaliza também que há muitos riscos no curto prazo, por isso, esses países precisam pensar num horizonte mais longo de atuação.
+No Brasil, De Negri & Salerno (2005) afirmam que, além de as taxas de inovação serem inferiores às dos países europeus, a maior parte das empresas realiza inovações de processo que correspondem a atividades voltadas para a redução de custo associada à difusão de tecnologias já existentes no mercado.
+A maioria das empresas brasileiras têm historicamente recorrido à tecnologia estrangeira para introdução de inovações (Lima & Fernandes, 2009).
+A Pintec 2011, Pesquisa de Inovação Tecnológica da indústria brasileira realizada pelo IBGE, mostra que 35,7% das empresas com 10 empregados ou mais implementaram algum tipo de inovação em produto ou processo, o que significa que, de acordo com a pesquisa, 74,3% das empresas brasileiras informaram que não realizaram nenhuma inovação em produto ou processo (IBGE, 2013).
+Apesar de a literatura consultada apontar os benefícios resultantes do investimento em inovações radicais, percebe-se que os esforços brasileiros são ainda tímidos, ficando aquém do seu potencial.
+Diante disso e da importância da pesquisa científica, que, por meio do efeito "transbordamento", gera conhecimento para as empresas, contribuindo para o desenvolvimento de inovações e progresso técnico (Lima & Fernandes, 2009), este estudo tem como objetivo apresentar um panorama da produção científica publicada no Brasil no tema inovação radical.
+Acredita-se que conhecer o que os principais periódicos brasileiros têm publicado pode contribuir para entender como o tema inovação radical tem sido discutido e tratado no País, aportando insumos para que sejam identificadas possíveis lacunas, desafios e oportunidades.
+Além desta introdução, este estudo apresenta mais três seções: método, apresentação e análise dos resultados, e considerações finais.
+MÉTODO Para analisar o tema inovação radical e apresentar um panorama da produção científica publicada no Brasil, utilizou-se da análise bibliométrica.
+Segundo Chueke & Amatucci (2015), os estudos bibliométricos se concentram em examinar e sistematizar a produção de artigos num determinado campo do saber, apontando principais lentes teóricas, ferramentas metodológicas usadas e problemas para serem investigados em futuros estudos.
+A pesquisa caracteriza-se como descritiva, com abordagem qualitativa e quantitativa.
+Como critério de busca, identificaram-se, na Plataforma Sucupira (segundo o índice WebQualis 2015) da Capes, os periódicos na área de avaliação de "Administração pública e de empresa, ciências contábeis e turismo" e os resultados classificados como A1, A2, B1 e B2 que continham nos seus títulos as palavras "inovação" ou "innovation".
+Foram encontrados 21 resultados: 18 internacionais e 3 nacionais.
+Uma vez que o objetivo deste estudo é realizar um panorama das publicações nacionais, excluíram-se as de origem estrangeira, tendo-se obtido como definitivos três periódicos nacionais, conforme pode ser observado na Tabela 1.
+4 L. A. Torres e L. S. de Freitas Cadernos de Ciência & Tecnologia, Brasília, v. 36, n. 2, e26432, maio./ago.
+2019Nos periódicos selecionados, foram realizadas buscas nos títulos, resumos e palavras-chave das seguintes combinações de palavras: "inovação" AND "radical"; "inovação" AND "disruptiva"; "tecnologia" AND "radical"; "tecnologia" AND "disruptiva"; "innovation" AND "radical"; "innovation AND disruptive"; "technology" AND "radical"; "technology" AND "disruptive"; "innovation" AND "breakthrough"; e "technology" AND "breakthrough".
+A fim de abranger o maior número possível de trabalhos publicados sobre o tema, não se restringiu o período de tempo de busca e contemplaram-se todos os trabalhos publicados online disponíveis nos periódicos selecionados.
+Foram encontrados 16 artigos (Tabela 2), os quais foram analisados e selecionados, pois tinham relação direta com o tema.
+Finalizada a identificação desses 16 artigos, partiu-se para sua leitura e tabulação, destacando-se os seguintes itens: relação de autores, área da última titulação, universidade ou instituição da última titulação, objetivo do artigo, referencial teórico, contribuições e sugestões para futuras pesquisas, bem como os seguintes aspectos metodológicos: natureza, delineamento, abordagem, método, instrumento de coleta, origem dos dados e tipos de pesquisa.
+Para análise estatística das informações contidas nas categorias mencionadas, foi utilizado o software IBM SPSS Statistics 20.
+Já as análises qualitativas foram realizadas por meio da análise manual de conteúdo.
+Lista de periódicos selecionados.
+Periódico ClassificaçãoNúmero de artigos encontrados RAI: Revista de Administração e Inovação B1 10 Revista Brasileira de Inovações B1 6 Revista Acadêmica Observatório de Inovação do Turismo B2 0 Tabela 2.
+Periódico RAI: Revista de Administração e Inovação Artigo 1 Sixth generation innovation model: description of a success model Artigo 2 A natureza das inovações em agroindústria de arroz do Rio Grande do Sul Artigo 3 How intellectual property rights encourage pharmaceutical innovation Artigo 4 A caracterização do design thinking como um modelo de inovação Artigo 5 Inovação no setor público federal no Brasil na perspectiva da inovação em serviços Artigo 6 O impacto de tecnologias sustentadoras e de ruptura no processo de desenvolvimento de produtos Artigo 7 Em busca da Epoché: uma pesquisa quantitativa como subsídio à redução fenomenológica Artigo 8 Factors for selecting partners in innovation projects – evidences from alliances in the Brazilian petrochemical leader Artigo 9 O papel da tecnologia na estratégia: caso de uma operadora de telefonia fixa e a tecnologia VOIP Artigo 10 Impacto ambiental da tecnologia da informação Periódico Revista Brasileira de Inovação Artigo 11Demandas e ofertas tecnológicas em economias retardatárias: anotações a partir de dois segmentos econômicos no Nordeste brasileiro Artigo 12 Trajetórias tecnológicas em combustíveis sintéticos: análise dos mecanismos de seleção e indução Antigo 13 Punctuated equilibrium and technological innovation in the polymer industry Artigo 14 Nathan Rosenberg: historiador das revoluções tecnológicas e de suas interpretações econômicas Artigo 15 Modelos teóricos e interesses de mensuração no surgimento da pesquisa de inovação brasileira (Pintec) Artigo 16 Mitos e realidades sobre a difusão do comércio eletrônico nas empresas brasileirasPerspectivas em inovação radical no Brasil .5 Cadernos de Ciência & Tecnologia, Brasília, v. 36, n. 2, e26432, maio/ago.
+2019APRESENTAÇÃO E ANÁLISE DOS RESULTADOS Em primeiro lugar, esta seção abordará a síntese ilustrada das análises quantitativas fruto do levantamento dos 16 artigos publicados na temática de inovação radical nos periódicos de administração brasileiros sobre inovação.
+Em seguida, é traçado um panorama sobre a institucionalização da pesquisa de inovação radical no Brasil.
+Por fim, enuncia-se uma análise de conteúdo dessa produção, que convida a reflexões, identifica lacunas e sugere novos estudos.
+Análises quantitativas Os resultados provieram da análise dos periódicos: Revista de Administração e Inovação, com 10 artigos (62,5%) e fator de impacto 0,352 no sistema Spell (Scientific Periodicals Electronic Library); e Revista Brasileira de Inovação, com seis artigos (37,5%) e fator de impacto não disponível.
+Acerca do nível acadêmico dos autores, conforme demonstrado na Figura 1, nota-se uma maioria expressiva de doutores em administração, correspondendo a 27,8% (10 autores) dos casos.
+Logo após encontram-se os doutorandos em administração e os doutores em economia, com 11,1% cada um (4 autores), seguidos dos doutores em engenharia de produção, com 8,3% (3 casos).
+É grande a quantidade de autores da área de administração (somando-se os doutores e doutorandos, chega-se ao total de 38,9%) e a presença contida ou nula de outras formações stricto sensu relacionadas à inovação, como cursos de Política Científica e Tecnológica, Gestão da Inovação, Empreendedorismo e as formações em geral das Ciências Exatas.
+6 L. A. Torres e L. S. de Freitas Cadernos de Ciência & Tecnologia, Brasília, v. 36, n. 2, e26432, maio./ago.
+2019Em um total de 19 instituições formadoras dos 36 autores dos artigos, no que tange à sua última titulação, observa-se, na Figura 2, que a Universidade de São Paulo (USP) foi a que teve mais destaque, com 6 estudos (16,7%).
+Em segundo lugar estão a Universidade de Brasília (UnB) e a Universidade Federal do Rio de Janeiro (UFRJ), com 4 estudos cada uma (11,1%), seguidas da Universidade Nove de Julho (Uninove), com 3 estudos (8,3%).
+Em relação à última formação dos 36 autores dos estudos levantados, 72,2% são nacionais (abrangendo 26 autores) e 27,8% internacionais (10 autores).
+Quando se observa a distribuição regional dos primeiros autores de cada artigo, nota-se um percentual predominante da região Sudeste (11 artigos ou 68,8%), seguida pela região Sul (2 artigos ou 12,5%).
+Logo depois, encontram-se as regiões Nordeste e Centro-Oeste (1 artigo ou 6,3%).
+Nenhum artigo proveio da região Norte, e 1 artigo (6,3%) é oriundo de fora do Brasil.
+Tal distribuição é constatada pela Figura 3.
+Instituição de formação dos autores.
+Percebe-se, no Brasil, uma grande concentração de estudos de inovação radical na região Sudeste.
+Essa estatística se coaduna com o fato de o polo nacional de inovação estar distribuído no eixo Rio de Janeiro-São Paulo-Belo Horizonte.
+Porém, atores acadêmicos eminentes no cenário de inovação, como, por exemplo, a Unicamp, apresentaram presença tímida no levantamento, ou mesmo nula, como o caso da Universidade Federal de Pernambuco e a Universidade Federal de Minas Gerais.
+No que tange à distribuição temporal das publicações selecionadas, observou-se uma regularidade na publicação de artigos ao longo dos últimos 15 anos.
+Apesar da relevância crescente Perspectivas em inovação radical no Brasil .7 Cadernos de Ciência & Tecnologia, Brasília, v. 36, n. 2, e26432, maio/ago.
+2019do tema inovação radical, nota-se uma estagnação na quantidade de publicações ao longo do período investigado por este estudo.
+A Figura 4 ilustra essa distribuição.
+Nos 16 artigos selecionados, o estudo de caso mostrou-se o método mais presente, abrangendo 56,3% dos casos (9 artigos), seguido da pesquisa bibliográfica, com 37,5% dos casos (6 artigos).
+Por último, apenas um estudo (6,3%) utilizou o método de análise documental juntamente com o levantamento qualitativo.
+Esses resultados podem ser aferidos na Figura 5.
+Distribuição regional dos autores.
+Entrevista foi o instrumento de coleta mais utilizado (43,8% ou 7 casos), seguido da consulta a banco de dados, com 12,5% (2 estudos) dos casos.
+Os demais artigos (43,8% ou 7 casos) utilizaram métodos isentos de instrumentos de coleta.
+A maioria dos dados tem origem estritamente secundária (62,5% ou 10 estudos), enquanto os dados de origem primária e secundária abrangem apenas 37,5% (6 estudos).
+Quanto ao enquadramento, a maioria classifica-se no tipo teórico-empírico, com 56,3% (7 artigos), enquanto 43,8% (9 artigos) dos trabalhos caracterizaram-se como ensaios teóricos.
+No que tange à abordagem, todos foram qualitativos.
+Nota-se, portanto, uma grande lacuna na produção de pesquisas quali-quanti e quantitativas, com o uso de estatísticas inferenciais.8 L. A. Torres e L. S. de Freitas Cadernos de Ciência & Tecnologia, Brasília, v. 36, n. 2, e26432, maio./ago.
+2019Por fim, não há indícios metodológicos que subsidiem a classificação de validade dos artigos selecionados.
+Citações em inovação Foi feito levantamento de todos os autores citados na temática de inovação nos artigos utilizados nesta bibliometria e a frequência dessas citações.
+A Figura 6 representa essa realidade por meio de uma nuvem de palavras em que quanto mais citado, maior o tamanho da fonte do nome do autor.
+Trata-se de um universo de 212 autores citados em um total de 321 ocasiões.
+Autores citados na temática de inovação.Perspectivas em inovação radical no Brasil .9 Cadernos de Ciência & Tecnologia, Brasília, v. 36, n. 2, e26432, maio/ago.
+2019Observou-se quase uma curva exponencial na progressão de quantidade de citações por autor: 166 autores foram citados apenas uma vez, 25 por duas vezes, 9 por três vezes, 5 por quatro vezes, 1 por cinco vezes, 3 por seis vezes, 1 por sete vezes e 2 por quatorze vezes.
+Assim, a fim de apresentar os autores mais citados na temática de inovação deste relato bibliométrico, decidiu-se selecionar os citados por mais de 2 vezes, os quais estão descritos na Figura 7.
+Autores mais citados na temática de inovação.
+Em seguida, destacaram-se os três mais citados: Rosenberg, com 14 citações (13,3%) em 8 artigos; Nelson, com 14 citações (13,3%) em 7 artigos; e Winter, com 7 citações (6,7%) em 5 artigos.
+Foram analisados todos os referenciais teóricos citados desses autores na perspectiva de identificar os artigos com maior número de citações.
+A busca de artigos por autor citado, porém, não identificou estudos que se destacassem em número de citações.
+Citações em inovação radical Dando prosseguimento na análise dos autores citados no levantamento, delimitaram-se aqueles que se relacionam especificamente ao tema inovação radical.
+A Figura 8 representa essa frequência por meio de uma nuvem de palavras em que quanto mais citado, maior o tamanho da fonte do nome do autor.
+Trata-se de um universo de 36 autores citados em um total de 44 ocasiões.
+Destacam-se Christensen (4 citações) em dois artigos, Epstein (2 citações) em dois artigos e Davila (2 citações) em dois artigos.
+Os demais 33 autores foram citados apenas uma vez.
+Institucionalização da pesquisa sobre inovação radical no Brasil Um panorama da institucionalização da pesquisa sobre inovação radical no Brasil pôde ser obtido pelo levantamento dos grupos de pesquisa cadastrados com o termo Inovação Radical.
+O Diretório de Grupos de Pesquisa do CNPq indicou o cadastro de apenas três grupos com essa entrada: estão ativos o grupo "Gestão da Inovação e Gestão da Inovação Radical" (Universidade de São Paulo – USP), formado em 2011 e liderado pelo prof. dr. Mario Sergio Salerno, e o grupo "Gestão de Transferência de Tecnologia" (Universidade Tecnológica Federal do Paraná – UTFPR), formado em 10 L. A. Torres e L. S. de Freitas Cadernos de Ciência & Tecnologia, Brasília, v. 36, n. 2, e26432, maio./ago.
+20192004 e liderado pelo prof. dr. João Luiz Kovaleski.
+O grupo "Sistemas Produtivos e Engenharia de Produção", liderado pelo prof. dr. Antonio Batocchio, foi constituído em 2008 e excluído em 2014.
+Todos são da área de Engenharia de Produção.
+Já a busca apenas pelo termo "Inovação" resultou em 2.091 grupos de pesquisa, das mais diversas áreas e regiões do País.
+Autores citados na temática de inovação radical.
+Análise de conteúdo Principais temáticas Foi analisado o tema principal de cada um dos 16 artigos e verificadas semelhanças entre eles, possibilitando a classificação em quatro categorias: i) processo de inovação, com 7 artigos (43,75%); ii) impactos das inovações, 4 artigos (25%); iii) modelos de inovações, 4 artigos (25%); e iv) método, 1 artigo (6,25%).
+Foco em inovação radical Pela leitura dos artigos, identificou-se que a temática inovação radical tem relação direta com 8 dos 16 artigos selecionados, o que representa 50% dos trabalhos.
+Ou seja, esses artigos têm como objetivo investigar algum aspecto diretamente relacionado aos tipos de inovação (radical, incremental), utilizando referencial teórico específico e apontando conclusões diretamente relacionadas a essa temática.
+Ressalta-se que, dos demais artigos, 3 abordam o tema de forma indireta, ou seja, têm como objetivo trabalhar o tema inovação, trazendo, ao longo do texto, algum tipo de relação com a temática inovação radical.
+Por fim, os 5 artigos restantes utilizam a palavra "radical" apenas como um adjetivo para se referir ao tipo de inovação discutido, ou aos impactos gerados por ela.
+A ideia de inovação radical, neste último grupo, é apenas mencionada no resumo, sem mais explicações, justificativas, aprofundamentos teóricos ou discussões ao longo do texto.
+Optou-se por manter esse último grupo por acreditar que esse dado agrega informação à proposta do artigo.
+O fato de artigos publicados em periódicos especializados em inovação se referirem ao termo inovação radical apenas como um adjetivo, sem referencial teórico e discussões que expliquem e sustentem essa afirmação, permite questionar se de fato há um conhecimento científico nessa temática.
+Perspectivas em inovação radical no Brasil .11 Cadernos de Ciência & Tecnologia, Brasília, v. 36, n. 2, e26432, maio/ago.
+2019A seção a seguir apresenta, de forma descritiva, a síntese dos objetivos e resultados dos estudos revisados, evidenciando o grau de relação que eles têm com a temática inovação radical.
+Os cinco próximos artigos utilizam de forma pontual o termo inovação radical, apenas para se referir ao tipo de tecnologia abordada ou os impactos gerados por ela, sem recorrer à literatura específica e sem mais discussões.
+Artigo 3 – How intellectual property rights encourage pharmaceutical innovation: nesse artigo, Ryan (2009) analisa como os direitos à propriedade intelectual incentivam a inovação farmacêutica.
+São apresentadas discussões que corroboram a importância da relação entre essas variáveis, questionando também a viabilidade de alguns modelos.
+O termo inovação radical é somente utilizado como adjetivo para se referir aos tipos de inovações em produtos farmacêuticos.
+Artigo 10 – Impacto ambiental da tecnologia da informação: Souza et al.
+(2004) analisam a suposta revolução radical que a internet teria causado no consumo de papel, chegando à conclusão que é necessária uma conscientização para mudanças de hábitos da população.
+A temática inovação radical é apenas utilizada para classificar a revolução causada pela internet na diminuição do consumo de papel.
+Artigo 12 – Trajetórias tecnológicas em combustíveis sintéticos: análise dos mecanismos de seleção e indução: com o objetivo de identificar e delimitar a existência de trajetórias tecnológicas em combustíveis líquidos sintéticos, Dunham et al.
+(2006) definem conceitos de trajetórias tecnológicas, contribuindo para o entendimento do mercado, adoção de alternativas energéticas e compreensão dos processos de inovação.
+A expressão inovação radical apresenta-se apenas como um adjetivo para a promessa de conversão direta de gás natural em combustíveis líquidos sintéticos.
+Artigo 15 – Modelos teóricos de mensuração no surgimento da pesquisa de inovação brasileira (Pintec): Silva & Furtado (2017) produziram um artigo com o objetivo de analisar a gênese da Pintec.
+O estudo esclareceu como se deu o processo de construção da pesquisa, o papel dos seus atores e modelos teóricos, demonstrando que o modelo foi original por contemplar uma pesquisa de P&D e outra de inovação.
+O tema inovação radical aparece apenas como um adjetivo para classificar a pesquisa Pintec.
+Artigo 16 – Mitos e realidades sobre a difusão do comércio eletrônico nas empresas brasileiras: Tigre & Dedrick (2003) têm como objetivo identificar mitos e realidades sobre a difusão da tecnologia da informação na economia mundial.
+Chegam à conclusão que, apesar da inegável importância do comércio eletrônico, sua difusão constitui uma nova aplicação das tecnologias da informação e não uma tecnologia disruptiva.
+A terminologia inovação radical é utilizada como um possível adjetivo para o uso comercial da internet.
+As três pesquisas a seguir abordam o tema inovação, mencionando de forma indireta a inovação radical, ou seja, o foco é em inovação, mas há associações com a temática inovação radical ao longo dos artigos.
+Artigo 7 – Em busca da epoché: uma pesquisa quantitativa como subsídio à redução fenomenológica: Maisonnave & Pinto (2007) realizaram um ensaio teórico com o objetivo de discutir a possibilidade de experimentar uma metodologia diferenciada, pois acreditam que tanto o conceito quanto a influência da inovação disruptiva só podem ser explicados por meio da abordagem fenomenológica.
+O ensaio demonstra a validade e limitações desse tipo de metodologia.
+Artigo 9 – O papel da tecnologia na estratégia: caso de uma operadora de telefonia fixa e a tecnologia VOIP: Coimbra et al.
+(2005) buscam investigar os impactos da adoção da tecnologia 12 L. A. Torres e L. S. de Freitas Cadernos de Ciência & Tecnologia, Brasília, v. 36, n. 2, e26432, maio./ago.
+2019voz sobre protocolo de internet (V oIP).
+Os autores concluem que a referida tecnologia emergente é disruptiva, pois representa uma ameaça real aos serviços tradicionais estabelecidos de telefone fixa, intensificando a obsolescência tecnológica e causando alterações no arcabouço regulatório.
+Artigo 14 – Nathan Rosenberg: historiador das revoluções tecnológicas e de suas interpretações econômicas: Albuquerque (2017) realizou ensaio teórico por meio de análises bibliográficas das obras de Rosenberg com o objetivo de discutir um elemento paradoxal nas suas obras.
+O autor revisita as obras de Rosenberg e demonstra que suas contribuições teóricas colaboraram para o desenvolvimento dos conceitos de inovações incrementais e de tecnologias radicais.
+Por fim, os 8 artigos abaixo têm relação direta com a inovação radical, aportando discussões e resultados para o avanço nesse campo.
+Artigo 1 – Sixth generation innovation model: description of a success model: com o objetivo de apresentar um modelo que possibilite a implementação de políticas de inovação em bases contínuas, Barbieri & Álvares (2016) apresentam um modelo que possibilita identificar as inovações radicais e incrementais.
+O modelo concentra seus esforços em inovações incrementais, o que representa um diferencial perante os modelos existentes, preenchendo uma lacuna na literatura.
+Artigo 2 – A natureza das inovações em agroindústrias de arroz do Rio Grande do Sul: com o objetivo de realizar uma análise da natureza das inovações em agroindústrias de arroz, Paraginski (2014) utilizou o modelo da Cadeia de Valor de Porter.
+O autor constatou que as inovações radicais são mais associadas às atividades primárias de cadeia de valor, e as incrementais são mais situadas nas atividades de apoio, servindo muitas vezes de suporte para as grandes inovações.
+Artigo 4 – A caracterização do design thinking como um modelo de inovação: ao tentar caracterizar o design thinking como um modelo de inovação, Macedo et al.
+(2015) evidenciaram que o design thinking possibilita gerar inovações de várias naturezas (radical, semirradical e incremental) e tipos (produto, serviço, processo, organizacional e de marketing).
+Os autores concluem que o design thinking é um modelo que orienta o processo de geração de inovações, se diferenciando pela criatividade e pensamento holístico.
+Artigo 5 – Inovação no setor público no Brasil na perspectiva da inovação em serviços: Ferreira et al.
+(2015) analisaram como ocorre a inovação no setor público com base em casos de inovação premiados no Concurso de Inovação na Administração Pública Federal, identificados no período entre 2006 e 2010.
+Observou-se a ocorrência de inovação radical nos grupos 1 e 3 e no grupo 2 – inovação incremental.
+No grupo 1, a inovação foi embasada fortemente no componente tecnológico; já nos grupos 2 e 3, a abordagem se fundamentou na inovação organizacional e em serviços baseados em conhecimento.
+Artigo 6 – O impacto de tecnologias sustentadoras e de ruptura no processo de desenvolvimento de produtos: com o objetivo de examinar os impactos de inovações e tecnologias sustentadoras e de ruptura no processo de desenvolvimento de produtos de empresas que atuam no Brasil, Rimoli (2005) demonstra que: i) o surgimento de tecnologias de ruptura é um evento de caráter mercadológico e não tecnológico; e ii) uma das maneiras de abordar o problema das tecnologias de ruptura é adotar uma perspectiva de processo de satisfação de necessidades, procurando realmente compreender qual é o benefício desejado pelos clientes, em vez de incorporar diretamente suas sugestões.
+Artigo 8 – Factors for selecting partners in innovation projets – evidences from aliances in the brazilian petrochemical leader: Garcez et al.
+(2014) analisam os fatores de seleção de parceiros em projetos de alianças bilaterais, dependendo do tipo de parceiro e do tipo de projeto de inovação.
+Os autores identificaram que as alianças com concorrentes e fornecedores costumam ser incrementais; com clientes são geralmente radicias ou buscam novos mercados; com institutos de pesquisa, costumam ser incrementais e focar em plataforma de produtos e processos; e com universidades, a inovação costuma ser tipicamente radical.
+Perspectivas em inovação radical no Brasil .13 Cadernos de Ciência & Tecnologia, Brasília, v. 36, n. 2, e26432, maio/ago.
+2019Artigo 11 – Demandas e ofertas tecnológicas em economias retardatárias: anotações a partir de dois segmentos econômicos no Nordeste brasileiro: com o objetivo de analisar as oportunidades e desafios à inovação em regiões retardatárias, Dunham et al.
+(2006) demonstram que apesar de os esforços nessas regiões se concentrarem na imitação ou adaptação, e não na inovação radical, essa última pode ocorrer quando há investimento em pesquisa, competência técnica, estratégias de médio e longo prazo, debate público, sistema de inovação, entre outros.
+Artigo 13 – Punctuated equilibrium and technological innovation in the polymer industry: objetivando discutir a natureza dos processos de mudanças tecnológicas, Fialho et al.
+(2003) concluíram que: i) as mudanças incrementais podem alterar dramaticamente bases de conhecimento científicas e tecnológicas, enquanto rupturas radicais podem trazer mudanças incrementais; ii) nem sempre uma tecnologia anterior se torna completamente obsoleta quando uma nova é lançada; iii) a natureza radical ou incremental da tecnologia não pode ser identificada até que a trajetória seja consolidada.
+Apesar de os últimos oito artigos (que tratam diretamente do tema inovação radical) não possuírem validade externa e, portanto, não permitirem generalizações de seus resultados, pode-se constatar que há um esforço de identificar circunstâncias que favorecem o surgimento de inovações radicais.
+Conforme relatado nos resultados, destaca-se a associação entre inovações radicais e as seguintes variáveis: a) atividades primárias da cadeia de valor; b) presença de componente tecnológico; c) parcerias com clientes e universidades; d) investimento em pesquisa; e) competência técnica; f) estratégias de médio e longo prazo; g) debate público; h) sistema de inovação; e i) foco no mercado por meio da identificação das necessidades e benefícios desejados pelos clientes.
+A análise dos resultados provoca reflexões sobre a possibilidade de mudanças incrementais causarem alterações drásticas, e rupturas radicais gerarem mudanças incrementais.
+Ressalta-se também a necessidade de esperar a consolidação de uma trajetória tecnológica para somente depois identificar a natureza da inovação.
+Por fim, constata-se o empenho de autores em avançar em modelos que contribuam para a geração e identificação de inovações radicais e incrementais.
+Sugestões de futuras pesquisas nos artigos citados Foram analisadas as sugestões de futuras pesquisas dos oito artigos que têm relação direta com o tema inovação radical.
+O relato abaixo sintetiza os pontos demandados: 1) Pesquisas que analisem a ocorrência de processos de inovação nas relações de coprodução de serviços públicos, identificando elementos indutores e inibidores.
+2) Estudos mais amplos que contemplem: • abordagem qualitativa em diversos setores;14 L. A. Torres e L. S. de Freitas Cadernos de Ciência & Tecnologia, Brasília, v. 36, n. 2, e26432, maio./ago.
+2019• abordagem quantitativa com teste de proposições; e • recortes transversais em diferentes contextos.
+3) Pesquisas mais profundas nas seguintes linhas: • movimentos de ruptura que já ocorreram e os danos que causaram às empresas líderes; • dificuldades para os líderes se manterem no mercado; • monitoramento de tecnologias e sistemas tecnológicos emergentes, identificando indícios de inovações e tecnologias disruptivas.
+CONSIDERAÇÕES FINAIS A análise das publicações brasileiras sobre inovações radicais demonstrou que a produção científica nacional mapeada é baixa e não apresenta evolução quantitativa nos últimos 15 anos.
+Foi possível constatar que, dos 16 artigos selecionados, apenas 8 trazem contribuições diretas para o avanço na temática.
+A maioria das publicações concentra-se na região Sudeste, e foca em estudos de caso e pesquisas bibliográficas.
+Não foram encontrados estudos quantitativos.
+Além das lacunas mencionadas, esta análise oferece um panorama sobre os principais autores utilizados nas temáticas inovação (Rosenberg, Nelson e Winter) e inovação radical (Christensen, Epstien e D'ávila), destacando quatro categorias temáticas de inovação (processo, impactos, modelos e métodos).
+Por fim, são apresentadas contribuições diretamente associadas ao tema inovação radical, bem como sugestões para futuras pesquisas.
+Aponta-se para a necessidade de ampliar a produção nacional, principalmente por meio de pesquisas quantitativas com inferências estatísticas.
+Outrossim, sugere-se a produção de uma bibliometria internacional sobre o tema, comparando-se os resultados aos deste estudo.
+Por último, acredita-se que o mapeamento da produção científica dos grupos de pesquisa sobre inovação radical institucionalizados no Brasil pode aportar informações complementares.
+REFERÊNCIAS ALBUQUERQUE, E. da M. Nathan Rosenberg: historiador das revoluções tecnológicas e de suas interpretações econômicas.
+Revista Brasileira de Inovação, v.16, p.9-34, 2017.
+BARBIERI, J.C.; ÁLV ARES, A.C.T.
+Sixth generation innovation model: description of a success model.
+Revista de Administração e Inovação, v.13, p.116-127, 2016.
+DOI: BAREGHEH, A.; ROWLEY , J.; SAMBROOK, S. Towards a multidisciplinary definition of innovation.
+Management decision, v.47, p.1323-1339, 2009.
+DOI: 10.1108/00251740910984578.
+Organizing for Radical Product Innovation: The Overlooked Role of Willingness to Cannibalize.
+Journal of Marketing Research, v.35, p.474-487, 1998.
+DOI: CHANDY , R.K.; TELLIS, G.J.
+Incumbency, size, and radical product innovation.
+Journal of Marketing, v.64, p.1-17, 2000.
+O dilema da inovação: quando as novas tecnologias levam empresas ao fracasso.
+Customer power, strategic investment, and the failure of leading firms.
+Strategic Management Journal, v.17, p.197-218, 1996.
+; AMATUCCI, M. O que é bibliometria?
+DOI: org/10.18568/1980-4865.1021-5.
+de; POLO, E.F. O papel da tecnologia na estratégia: caso de uma operadora de telefonia fixa e a tecnologia V oIP.
+Revista de Administração e Inovação, v.2, p.98-109, 2005.
+Perspectivas em inovação radical no Brasil .15 Cadernos de Ciência & Tecnologia, Brasília, v. 36, n. 2, e26432, maio/ago.
+Inovações, padrões tecnológicos e desempenho das firmas industriais brasileiras.
+Trajetórias tecnológicas em combustíveis sintéticos: análise dos mecanismos de seleção e indução.
+Revista Brasileira de Inovação, v .5, p.99-129, 2006.
+DUTTA, S.; LANVIN, B.; WUNSCH-VINCENT, S.
+The Global Innovation Index 2016: winning with global innovation.
+Ithaca: Cornell University, 2016.
+da; SOUSA, M. de M. Inovação no setor público federal no Brasil na perspectiva da inovação em serviços.
+Revista de Administração e Inovação, v.12, p.99-118, 2015.
+FIALHO, B. de C.; HASENCLEVER, L.; HEMAIS, C.A.
+Punctuated Equilibrium and Technological Innovation in the Polymer Industry.
+Revista Brasileira de Inovação, v.2, p.309-328, 2003.
+; SBRAGIA, R.; KRUGLIANSKAS, I.
+Factors for selecting partners in innovation projects - evidences from alliances in the Brazilian petrochemical leader.
+Revista de Administração e Inovação, v.11, p.241-272, 2014.
+Instituto Brasileiro de Geografia e Estatística.
+JARAMILLO, H.; LUGONES, G.; SALAZAR, M. Normalización de Indicadores de Innovación Tecnológica em América Latina y el Caribe: Manual de Bogotá.
+; FERNANDES, A.C. Demandas e ofertas tecnológicas em economias retardatárias: anotações a partir de dois segmentos econômicos no Nordeste brasileiro.
+Revista Brasileira de Inovação, v .8, p.303-340, 2009.
+; CASAROTTO FILHO, N. A caracterização do design thinking como um modelo de inovação.
+Revista de Administração e Inovação, v.12, p.157-182, 2015.
+da R. Em busca da epoché: uma pesquisa quantitativa como subsídio à redução fenomenológica.
+Revista de Administração e Inovação, v.4, p.86-101, 2007.
+MANUAL de Oslo: diretrizes para coleta e interpretação de dados sobre inovação.
+MARKIDES, C. Disruptive innovation: in need of better theory.
+Journal of Product Innovation Management, v.23, p.19-25, 2006.
+DOI: NAGY , D.; SCHUESSLER, J.; DUBINSKY , A.
+Defining and identifying disruptive innovations.
+Industrial Marketing Management, v.57, p.119-126, 2016.
+A natureza das inovações em agroindústrias de arroz do Rio Grande do Sul.
+Revista de Administração e Inovação, v.11, p.55-72, 2014.
+O impacto de tecnologias sustentadoras e de ruptura no processo de desenvolvimento de produtos.
+Revista de Administração e Inovação, v.2, p.89-102, 2005.
+RUBERA, G.; KIRCA, A.H. Firm innovativeness and its performance outcomes: a meta-analytic review and theoretical integration.
+Journal of Marketing, v.76, p.130-147, 2012.
+How intellectual property rights encourage pharmaceutical innovation.
+Revista de Administração e Inovação, v.5, p.110-125, 2009.
+de M.; FURTADO, A.T. Modelos teóricos e interesses de mensuração no surgimento da pesquisa de inovação brasileira (Pintec).
+Revista Brasileira de Inovação, v.16, p.97-128, 2017.
+; MOHR, J.J.; SENGUPTA, S. Radical product innovation capability: literature review, synthesis, and illustrative research propositions.
+Journal of Product Innovation Management, v .31, p.552-566, 2014.
+; VICENTE, I. Impacto ambiental da tecnologia da informação.
+Revista de Administração e Inovação, v.1, p.31-41, 2004.
+; DEDRICK, J. Mitos e realidades sobre a difusão do comércio eletrônico nas empresas brasileiras.
+Revista Brasileira de Inovação, v.2, p.377-405, 2003.
+Issues and opportunities in new product development: an introduction to the special issue.
+Journal of Marketing Research, v.34, p.1-12, 1997.

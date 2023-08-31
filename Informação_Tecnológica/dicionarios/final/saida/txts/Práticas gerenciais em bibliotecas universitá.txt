@@ -1,0 +1,295 @@
+Revista Brasileira de Biblioteconomia e Documentação, São Paulo, v. 18, p. 01-20, 2022 | 1 Práticas gerenciais em bibliotecas universitárias: possibilidades para inovação Managerial practices in university libraries: possibilities for innovation Claudia Barbosa dos Santos de Souza Doutoranda em Ciência da Informação pela Universidade Estadual Paulista Júlio de Mesquita Filho (UNESP).
+E-mail: claudia.bs.souza@gmail.com Daniela Spudeit Doutora em Ciência da Informação pela Universidade Federal de Santa Catarina (UFSC).
+Docente do Departamento de Biblioteconomia e Gestão da Informação e do Programa de Pós-Graduação em Gestão da Informação da Universidade do Estado de Santa Catarina (UDESC).
+E-mail: danielaspudeit2@gmail.com RESUMO Busca analisar a contribuição do uso de metodologias e ferramentas nas práticas gerenciais em bibliotecas universitárias, acredita-se que desta forma seja possível promover inovação e melhoria nos serviços prestados.
+O escopo escolhido foi um conjunto de unidades de informação que faz parte de um sistema universitário localizado no estado de Santa Catarina, no sul do Brasil.
+Apresentou-se algumas metodologias e ferramentas como: Programa 5S, Benchmarking, Ciclo PDCA, Normas ISO, BSC, 5W2H, Brainstorming, SWOT, Métodos Ágeis, PMBOK, entre outras, que podem ser usadas nas unidades de informação para melhorar suas práticas gerenciais.
+Os resultados mostram que há pouco uso na aplicação de métodos e ferramentas gerenciais, por razões diversas, citadas pelas bibliotecárias, dentre elas: o desconhecimento de ferramentas gratuitas, a submissão a ferramentas pagas, dificuldades de utilizar ferramentas gerenciais (pagas ou gratuitas), insuficiência de mão de obra auxiliar na unidade de informação, ocasionando sobrecarga de trabalho técnico ao bibliotecário.
+Percebe-se que, embora alguns bibliotecários tenham conhecimento teórico sobre gestão de unidades de informação e sobre ferramentas e métodos gerenciais, não conseguem, de fato, aplicar o que sabem em sua rotina de trabalho, no ambiente universitário.
+Acredita-se que além de buscar o atendimento das necessidades informacionais e satisfação das demandas de toda a comunidade universitária, os gestores das bibliotecas de instituição de ensino superior devem conhecer e usar ferramentas, plataformas e instrumentos de gestão para promover a inovação e a melhoria contínua dos seus serviços, para ampliar os investimentos e justificar os recursos destinados para atender seus objetivos organizacionais.
+Palavras-chave: Prática gerencial.
+ABSTRACT It seeks to analyze the contribution of the use of methodologies and tools in managerial practices in university libraries because it is believed that in this way it is possible to promote innovation and improvement in the services provided.
+The chosen scope was a set of information units that are part of a university system located in the state of Santa Catarina, in southern Brazil.
+Some methodologies and tools were presented such as 5S Program, benchmarking, PDCA Cycle, ISO standards, BSC, 5W2H, brainstorming, SWOT, agile methods, PMBOK, among others that can be used in the information units to improve their management practices.
+The results show that there is little use in the application of management methods and tools for several reasons cited by librarians, among them: lack of knowledge of free tools, submission to paid tools, difficulties in using management tools (paid or free), insufficiency of hand of auxiliary work in the information unit, causing an overload of technical work to the librarian.
+It is noticed that, although some librarians have theoretical knowledge about the management of information units and about management tools and methods, they cannot actually apply what they know in their work routine in the university environment.
+It is believed that in addition to seeking to meet the informational needs and satisfying the demands of the entire university Revista Brasileira de Biblioteconomia e Documentação, São Paulo, v. 18, p. 01-20, 2022 | 2 community, the managers of libraries of higher education institutions must know and use tools, platforms and management instruments to promote innovation and continuous improvement of its services to expand investments and justify the resources destined to meet its organizational objectives.
+1 INTRODUÇÃO As organizações atualmente buscam manter a competitividade a partir da melhoria dos processos e da adoção de instrumentos e metodologias inovadores para promover práticas gerenciais de excelência.
+A partir dessa perspectiva, as unidades de informação, embora sejam consideradas instituições sem fins lucrativos, também precisam se atualizar e incorporar em suas rotinas administrativas algumas ferramentas para inovar e promover melhorias na prestação de serviços de informação, bem como na qualidade do atendimento.
+Inovar significa criar algo, mas também pode ser a melhoria de um processo, produto, metodologia, ferramenta, ou mesmo a melhoria da forma de gerir algo na instituição.
+Segundo o Manual de Oslo, a inovação é a introdução de algo novo em qualquer atividade humana.
+A diversidade de significado de inovação dá-se pela abrangência de sua aplicação como vetor de desenvolvimento humano e melhoria da qualidade de vida (OCDE, 2005).
+Assim, é fundamental que as organizações busquem inovar para gerar sustentabilidade e um diferencial competitivo.
+Para Werebe (1995), o vocábulo "inovar", por vezes, possui caráter valorativo, na medida em que significa - mudar para melhor, dar um aspecto novo, consertar, corrigir, adaptar a novas condições - algo que está superado, que é inadequado, obsoleto etc.
+Barbosa e Franklin (2011, p.89) explicitam que as bibliotecas são "organizações prestadoras de serviço cuja permanência no ambiente produtivo é regulado pela demanda social, tendo em vista que produzem serviços e produtos voltados para o bem-estar da sociedade".
+Dentro desse contexto, as bibliotecas universitárias, foco desse estudo, também devem buscar inovar e melhorar seus serviços, pois têm papel primordial no desenvolvimento científico e tecnológico de um país, principalmente pela grande produção e circulação de informação e pela geração de novos conhecimentos, que possibilitam os avanços de uma nação.
+Para isso, as bibliotecas universitárias devem pautar sua missão no ensino, pesquisa e extensão, atividades empreendidas dentro das universidades.
+Tarapanoff (1982) enfatiza que: Revista Brasileira de Biblioteconomia e Documentação, São Paulo, v. 18, p. 01-20, 2022 | 3 [.]
+a Biblioteca Universitária, como parte da sociedade na qual opera, reflete as características gerais do país, o seu grau de desenvolvimento, sua tradição cultura, seus problemas e prioridades sócio-econômicas.
+a universidade e a Biblioteca Universitária brasileira são produtos da história social, econômica e cultural do país, bem como das características regionais brasileiras aos mais variados segmentos sociais (TARAPANOFF, 1982, p. 24).
+A biblioteca universitária deve ser vista "como uma instância privilegiada de criação/produção de saberes, formação de competências e de difusão da experiência cultural e científica da sociedade" (LUCK et al., 2000, p.2).
+Dessa forma, deve atender "necessidades de um grupo social ou da sociedade em geral, através da administração do seu patrimônio informacional e do exercício de uma função educativa, ao orientar os usuários na utilização da informação" (LUCK et al., 2000, p, 2).
+No Brasil, as bibliotecas universitárias são mantidas por instituições de ensino superior (IES) e avaliadas por critérios estabelecidos pelo Ministério da Educação.
+Para isso, os gestores devem adequar a infraestrutura desses ambientes informacionais para que uma IES (ou um curso) seja aprovada, independentemente de pertencer a um órgão público ou privado.
+Dessa forma, os gestores da IES investem recursos para manter o espaço físico adequado, para promover a acessibilidade, para garantir a quantidade mínima de bibliografias e/ou recursos para acesso à informação.
+Além disso, no caso das instituições particulares de nível superior, ainda existe a acirrada competitividade entre as organizações, para se manterem firmes no "mercado educacional".
+Pelos motivos acima elencados, além de buscar o atendimento das necessidades informacionais e satisfação das demandas de toda a comunidade universitária, os gestores das bibliotecas de IES devem conhecer e usar ferramentas, plataformas e instrumentos de gestão para promover a melhoria contínua dos seus serviços e justificar os recursos investidos, para atender seus objetivos organizacionais.
+Dentro dessa perspectiva, a presente pesquisa tem como objetivo analisar a contribuição do uso de metodologias e ferramentas nas práticas gerenciais, em bibliotecas universitárias, pois acredita-se que dessa forma seja possível promover inovação nos serviços prestados.
+Para tanto, o escopo escolhido foi um conjunto de unidades de informação que faz parte de um sistema universitário, localizado no estado de Santa Catarina, no sul do Brasil.
+O sistema é composto por uma biblioteca central e bibliotecas setoriais distribuídas em diferentes cidades do estado.
+São abertas à comunidade interna e externa Revista Brasileira de Biblioteconomia e Documentação, São Paulo, v. 18, p. 01-20, 2022 | 4 e possuem amplo e variado acervo impresso e digital, em diferentes áreas do conhecimento.
+Para atingir sua missão e seus objetivos de fornecer suporte informacional aos programas de ensino, pesquisa e extensão para toda a comunidade universitária, incentivar a implantação de serviços bibliotecários nas bibliotecas setoriais, promover a melhoria do funcionamento das bibliotecas, para que atuem como centros de ação cultural e educacional permanentes, torna-se importante a adoção e o uso efetivo de instrumentos gerenciais.
+O uso de ferramentas e metodologias na gestão de unidades de informação é muito importante para facilitar os processos e otimizar recursos no alcance dos objetivos institucionais e, principalmente, agregar qualidade aos serviços prestados pela unidade de informação.
+Acredita-se que esses instrumentos tornam as práticas gerenciais mais eficazes e eficientes1 na medida em que são usados de forma sistemática e periódica para planejar, desenvolver, controlar e avaliar os serviços e processos, no atendimento das necessidades de informação dos alunos, professores e comunidade universitária.
+2 SOBRE METODOLOGIAS E FERRAMENTAS GERENCIAIS As unidades de informação enfrentam o desafio de organizar seu funcionamento e adaptar-se às demandas vigentes, contribuindo com serviços de informação que agreguem valor à comunidade a que servem e incorporando novos princípios e valores, segundo García-Reyes (2007).
+Ao focar em práticas gerenciais realizadas dentro organização, é importante esclarecer que os processos são interligados e interdependentes, principalmente ao pensar a gestão dentro do paradigma planejar-desenvolver-controlar-agir (PDCA), também conhecido como o Ciclo de Deming, de acordo com Vergueiro (2002).
+Neste quesito, Chiavenato (2003), Maximiano (2007) e outros autores das teorias administrativas concordam que o controle é a quarta função administrativa e que depende do planejamento, da organização e da direção, para compor o processo 1Eficiência e eficácia aqui entendidas como medidas de avaliação do desempenho da organização, ou seja, fazer o que foi planejado de acordo com os objetivos propostos, dentro dos recursos e prazos pré-definidos.
+Revista Brasileira de Biblioteconomia e Documentação, São Paulo, v. 18, p. 01-20, 2022 | 5 administrativo.
+Assim sendo, os processos gerenciais envolvem planejamento – organização – execução – controle.
+Sob este aspecto, Chiavenato (2000 p. 131) explica que "o planejamento, a organização, a direção e o controle formam o processo administrativo".
+Quando separados, são consideradas funções administrativas, mas quando feitos em conjunto, formam o processo administrativo para alcance dos objetivos propostos, de acordo com este autor.
+Assim, processo significa: Qualquer fenômeno que apresente mudança contínua no tempo ou operação que tenha certa continuidade ou sequência, o conceito de processo implica que os acontecimentos e as relações entre eles sejam dinâmicos, em evolução, sempre em mudança.
+O processo não é coisa imóvel, parada, estática, mas móvel, contínua.
+Os elementos do processo agem uns sobre os outros, são mais do que uma sequência, compõem um sistema (CHIAVENATO, 2000, p. 132).
+García-Reyes (2007, p. 13) esclarece que "esta visão holística de gestão supera o caráter instrumental da administração, frequente no âmbito profissional", ou seja, concebe os processos de forma inter-relacionada, centrada nos objetivos para que as unidades de informação gerem resultados de valor potencializado.
+Dessa forma, ao planejar é necessário elaborar um plano que se configure como um instrumento de planejamento e traduza as estratégias estabelecidas.
+O desenvolvimento envolve a organização, a estrutura e toda logística necessária para desenvolver o plano e executar suas etapas; a direção e o controle se relacionam com a avaliação, o monitoramento e o acompanhamento dos recursos, dentro dos prazos estabelecidos para atingir os objetivos do planejamento.
+Barbosa e Franklin (2011, p.94) deixam claro que "para que a gestão aconteça num movimento racional dos recursos ou variáveis gerenciais é preciso que a organização seja submetida aos processos administrativos", ou seja, esteja dentro do ciclo de planejar, organizar, executar e controlar para poder avaliar se os objetivos traçados no planejamento estão sendo cumpridos dentro dos prazos e recursos definidos.
+Sem isso, não é possível traçar estratégias para mobilizar os recursos e acompanhar o alcance dos resultados.
+Esse ciclo deve ocorrer em qualquer ambiente organizacional para garantir a eficiência e eficácia dos serviços prestados.
+Em uma biblioteca, mesmo que sem fins lucrativos, a aplicação dessas etapas nas práticas gerenciais se torna necessária para Revista Brasileira de Biblioteconomia e Documentação, São Paulo, v. 18, p. 01-20, 2022 | 6 garantir a sustentabilidade da mesma, bem como possibilitar a inovação nos serviços prestados.
+As unidades documentárias e de informação são sistemas integrados, constituídos com o fim de cumprir a missão de prover a sociedade com informação útil – científica, técnica, cultural, factual, corporativa etc.
+– sempre priorizando a informação que promove conhecimento, ou seja, aquela informação que mobiliza a estrutura mental do sujeito e modifica seu estado cognitivo – passando (o sujeito) de alguém que não sabia sobre um determinado evento e, agora, passa a sabê-lo.
+Para cumprir esta missão, estas organizações, envoltas em um determinado ambiente, agregam pessoas com perfis diferenciados, realizam tarefas pertinentes à área de conhecimento, criam estrutura própria, aplicam tecnologias concernentes e adotam metodologias coerentes com a natureza dos serviços, tudo isto em busca de resultados competitivos (BARBOSA, FRANKLIN, 2011, p.95).
+Entre as diferentes metodologias e instrumentos gerenciais, já muito usados em empresas, que podem também ser usados em unidades de informação, cita-se alguns no Quadro 1, abaixo, e como podem ser aplicados.
+Quadro 1- Ferramentas gerenciais Ferramenta Aplicação Matriz SWOT Para conhecer o ambiente e fazer um diagnóstico, alinhando pontos fortes, fracos, ameaças e oportunidades Estudos de usuários e de comunidades Também conhecido como pesquisa de mercado, em empresas, serve pata conhecer melhor o público-alvo, suas características e demandas e de comunidades Balanced Scorecard (BSC) Permite realizar uma gestão estratégica, a partir de indicadores de desempenho, sob a perspectiva dos clientes, do aprendizado e crescimento, dos processos internos e da gestão financeira Normas ISO e programa 5S Contêm medidas e indicadores para controle de qualidade da organização Método 5W2H Contribui para a organização e controle de atividades de projetos e processos Brainstorming Ajuda a conhecer as boas práticas de outras instituições Ciclo de Deming (PDCA) Auxiliam no processo de organizar as atividades para elaborar os projetos Metodologias ágeis Ajudam na organização e controle de atividades de projetos e processos PMBOK Auxiliam na gestão de projetos Fonte: Elaborado pelas autoras (2022).
+Com o intuito de atender a missão institucional, as Bibliotecas Universitárias devem fazer o uso de ferramentas apropriadas, de acordo com as necessidades previamente identificadas.
+Revista Brasileira de Biblioteconomia e Documentação, São Paulo, v. 18, p. 01-20, 2022 | 7 Para esta pesquisa, elencou-se alguns métodos específicos de gestão: Programa 5S, benchmarking, Ciclo PDCA, normas ISO, BSC, 5W2H, brainstorming, SWOT, métodos ágeis, PMBOK, entre outros, que serão apresentados na sequência.
+O programa 5S é um método de origem japonesa, desenvolvido no momento do pós-guerra, para a reconstrução do país, culminando em um modelo de padrão de qualidade denominado "made in Japan".
+Tem por objetivo principal mudar a maneira de pensar dos colaboradores, através da filosofia de mudança no ambiente de trabalho, com o intuito de evitar desperdícios, além de promover arrumação e limpeza do ambiente.
+Os 5S significam: Seiri (organização, utilização e descarte), Seiton (arrumação, ordenação), Seisou (limpeza, higiene), Seihetsu (padronização), Shitsuke (disciplina).
+Têm por objetivo a educação e o treinamento dos colaboradores, propiciando a mudança cultural institucional.
+(MARSHALL JÚNIOR et al., 2006).
+Como exemplo de aplicação do Programa 5S em bibliotecas, tem-se o relato de Rebello (2005), no Serviço de Biblioteca e Documentação Científica do Hospital Universitário da Universidade de São Paulo (SBDC-HU/USP).
+A autora enfatiza que se trata de uma ferramenta para implantação de um programa de qualidade.
+No artigo são descritas as estratégias utilizadas para a aplicação dos cinco sensos, que visam promover a alteração do comportamento das pessoas e transformar o ambiente das organizações.
+A implantação do Programa no SBDC-HU/USP proporcionou uma reorganização na Biblioteca, provocando uma mudança no ambiente físico, nas questões organizacionais, ajudando a melhorar a autoestima do pessoal e auxiliando o relacionamento entre os setores do hospital.
+As ações implementadas apresentaram resultados efetivos, tais como: ambientes mais limpos e organizados, combate ao desperdício, motivação, flexibilização nas relações entre o chefe e a equipe, espírito de equipe, elevação do moral dos funcionários e maior comprometimento com a instituição.
+Percebeu-se que a mobilização de todos se deu mais pelo prazer do que pelo dever, resultando em um ambiente de qualidade com gestão participativa.
+Benchmarking também é uma ferramenta que pode ser usada para melhorar a gestão em unidades de informação.
+Trata-se de um processo contínuo e sistemático que consiste em avaliar produtos, serviços e processos de trabalho de organizações reconhecidas como representantes de melhores práticas.
+Tem por objetivo a melhoria organizacional através da análise de realidades comparativas entre empresas do mesmo segmento, como forma de captar e aprender identificando oportunidades e ameaças.
+De Revista Brasileira de Biblioteconomia e Documentação, São Paulo, v. 18, p. 01-20, 2022 | 8 acordo com Marshall Júnior et al.
+(2006, p. 143), o benchmarking "almeja aperfeiçoar sua gestão através da busca por melhores processos e prática inovadoras, aceleração dos ciclos de aprendizado e melhoria como um todo, redução de prazos e custos, estabelecimento de referências quantitativas para a melhorias dos resultados".
+O benchmarking foi usado na biblioteca escolar como uma proposta de atendimento às necessidades de informação dos usuários, conforme discorrem Behr, Moro e Estabel (2010).
+As autoras apresentam uma proposta de discussão a respeito da qualidade nos serviços de informação, a construção do conhecimento focada no usuário e considerações acerca da utilização da comparação de informações na busca por excelência.
+As autoras abordam os processos de busca, tratamento, utilização e comparação de informações para a verificação da qualidade dos serviços prestados aos usuários das bibliotecas, enfocando a aplicação de benchmarking e do sensemaking para qualificar os serviços das bibliotecas e atender os usuários nas suas necessidades de busca da informação.
+Sensemaking é o processo pelo qual o ser humano cria sentido acerca do mundo que o rodeia para tomar decisões.
+É uma competência em evidência por causa do aumento exponencial de dados e informações desde o advento da era digital.
+Já o benchmarking é um processo de estudo de concorrência, podendo ser uma análise profunda das melhores práticas usadas por empresas de um mesmo setor que o seu e que podem ser replicadas no seu empreendimento.
+Entre seus benefícios estão a redução de custos e o aumento na produtividade, entre outros.
+Caracteriza-se como uma contribuição aos bibliotecários, possibilitando uma reflexão a respeito da necessidade de novas atitudes, que incluam a interação com os usuários na verificação do processo de busca de informação no espaço da biblioteca, na interpretação do sentido, na construção do conhecimento e na tomada de decisão, a fim de tornar os serviços de informação qualificados e acessíveis para todos.
+O ciclo PDCA, que significa planejar, desenvolver, controlar e avaliar, "é um método gerencial para promoção de melhoria contínua e reflete, em suas quatro fases, a base da filosofia do melhoramento contínuo".
+Segundo Lins (1993), o PDCA é abordado em quatro etapas: planejamento (Plan), ação (Do), verificação (Check), correção (Act), e tem por objetivo o gerenciamento da rotina e da melhoria dos processos organizacionais.
+Behr, Moro e Estabel (2008), em seu artigo, abordam algumas metodologias e ferramentas para gestão de bibliotecas escolares, no qual salientam a contribuição do Revista Brasileira de Biblioteconomia e Documentação, São Paulo, v. 18, p. 01-20, 2022 | 9 ciclo PDCA para a melhoria da gestão e serviços das bibliotecas.
+As autoras apresentam ainda algumas situações de problemas e dificuldades, no âmbito da biblioteca escolar, exemplificados na utilização das ferramentas e na aplicação da junção de três ferramentas (fluxograma, PDCA e 5W2H) para avaliação dos serviços.
+Existem também as normas ISO que foram criadas por uma organização não-governamental internacional e reúnem mais de uma centena de organismos nacionais de normalização.
+Têm como escopo todos os campos do conhecimento, exceto as normas de engenharia eletrônica e elétrica, sendo um trabalho desenvolvido por especialistas do mundo todo.
+Souza, Vianna e Costa (2018) apresentam um relato de experiência de aplicação da norma NBR ISO 11620 em bibliotecas especializadas.
+A aplicação possibilitou identificar linhas de ação para a melhoria dos produtos e/ou serviços oferecidos.
+Constata que todos os serviços/produtos necessitavam de aperfeiçoamento, destacando-se a urgência na melhoria do espaço físico e a criação da tabela de temporalidade para a documentação arquivística integrante do acervo.
+Também como exemplo de uso da norma ISO em bibliotecas, Viapiana, Castro, Kroeff e Moraes (2018) desenvolveram e validaram um modelo de avaliação da gestão, para uma biblioteca pública estadual brasileira, alinhado aos indicadores da norma ISO 11620:2014.
+A matriz SWOT é uma ferramenta utilizada no planejamento estratégico, que visa analisar a concorrência com base nos pontos fortes e fracos, oportunidades e ameaças de ambientes internos e externos (DECOURT; NEVES; BALDNER, 2012).
+Castro e Vieira (2019) usaram a ferramenta de gestão SWOT em uma biblioteca da íUniversidade Federal do Piaui (UFPI), através da qual estabeleceram estratégias para minimizar ou remediar fragilidades, aproveitar os aspectos positivos tanto no ambiente interno quanto no ambiente externo, eliminando possíveis obstáculos ao bom desenvolvimento da biblioteca.
+Damian e Silva (2016) também usaram a matriz SWOT para melhorar o serviço de referência virtual (SRV) visando identificar os principais pontos fortes, pontos fracos, ameaças e oportunidades do serviço de referência virtual.
+Foi possível verificar que o SRV é uma oportunidade para aumentar a satisfação do usuário e, também, a interação das bibliotecas universitárias com seus usuários.
+Revista Brasileira de Biblioteconomia e Documentação, São Paulo, v. 18, p. 01-20, 2022 | 10 O sistema Kamban é conhecido como uma filosofia empresarial de origem oriental, que tem por objetivo a redução de custos através da regulação de estoques.
+Tal método foi originado de um subsistema do sistema Toyota, para otimizar o seu processo de fabricação de veículos.
+Tal sistema tem como premissa o controle dos processos, antecipação de prazos de entregas e controle do estoque (LAGE JUNIOR; GODINHO FILHO, 2008).
+O PMBOK foi desenvolvido pelo Project Management Institute (PMI), cujo objetivo é fornecer boas práticas para a Gestão de Projetos por meio da descrição (documentação) de todo o ciclo de vida de gestão de projetos e de todos os processos relacionados.
+Possui 05 grupos de processos: Início, Planejamento, Execução, Monitorização e controle, Fecho.
+Trata-se de uma ferramenta transdisciplinar por lidar com diversas áreas do conhecimento (CARVALHO; ROMÃO; FAROLEIRO, 2016).
+Spudeit e Ferenhof (2017) apresentam a gestão de projetos (com o uso do PMBOK) como uma das alternativas para promover a eficácia no planejamento e execução, em uma unidade de informação, por meio de soluções que atendam a estas necessidades.
+Como resultados obtidos, apontam que todas as dez áreas do PMBOK® são aplicáveis em unidades de informação e, cabe ao bibliotecário, promover a execução, acompanhamento e finalização desses processos.
+Os autores concluem que as unidades de informação têm como missão promover o acesso às fontes de informação e por isso é importante que sejam adotadas as boas práticas do PMBOK®, pois aceleram o lançamento de produtos e serviços, reduzem custos, melhoram os controles de qualidade e otimizam recursos e esforços.
+Existem também as metodologias ágeis, que é uma abordagem no gerenciamento de projetos utilizado em desenvolvimento de software.
+Uns dos mais conhecidos é o scrum, por ter como objetivo principal gerenciar os processos de desenvolvimento de software.
+"O Scrum é focado em pessoas e indicado para ambientes em que os requisitos surgem e mudem rapidamente" (SILVA; HOENTSCH; SILVA, 2009).
+Como exemplo de metodologia ágil, Victorino e Schiessl (2018) relatam a experiência da aplicação do Scrum enfatizando o papel dos profissionais da informação na automação de serviços de informação usando métodos ágeis.
+No início da década de 1990, surgiram os métodos ágeis para o gerenciamento e desenvolvimento de software que se popularizaram rapidamente devido ao alto índice de sucesso obtido.
+O método Scrum é um dos mais populares utilizados para o gerenciamento ágil de projetos.
+Uma Revista Brasileira de Biblioteconomia e Documentação, São Paulo, v. 18, p. 01-20, 2022 | 11 equipe Scrum é composta por profissionais de computação e pelo gestor do escopo, que é um profissional que domina os conhecimentos a respeito dos processos que serão automatizados por meio do desenvolvimento de software.
+Os estudos de usuários também oferecem importantes ferramentas de gestão, pois contém um conjunto de conhecimentos, que busca compreender, por meio de investigações, identificar a necessidade informacional dos usuários, por meio de interação entre usuário e informação, ampliando e/ou interferindo na sua produção (COSTA, 2016).
+Existe o Balanced Scoredcard (BSC), que traduz a missão e a estratégia da empresa em um conjunto abrangente de medidas de desempenho, que serve de base para um sistema de medição e gestão estratégica .
+O BSC tem como proposta tornar entendível para todos os níveis da organização a visão, a missão e a estratégia, com o intuito de que todos na empresa saibam o que fazer e de que forma suas ações impactam o desempenho organizacional.
+"A intenção é canalizar os esforços, evitando a dispersão das ações e recursos empreendidos em prol da implementação da estratégia" (SILVA, 2003, p.66).
+O brainstorming, também conhecido por tempestade de ideias, é um processo onde os indivíduos organizacionais emitem ideias de forma livre, sem críticas, no menor espaço de tempo possível.
+Tem por objetivo "maximizar o fluxo de ideias, a criatividade e a capacidade de analítica do grupo" (LINS, 1993, p. 157).
+O esquema 5W2H é uma ferramenta utilizada para mapeamento e padronização de processos, na elaboração de planos de ação e no estabelecimento de procedimentos associados a indicadores.
+De acordo com Marshall Júnior et al.
+(2006), o 5W2H tem objetivo basicamente gerencial por buscar entendimento através da definição de responsabilidades, métodos, prazos, objetivos e recursos associados.
+Tais instrumentos e ferramentas gerenciais visam estabelecer procedimentos e padrões, redução de custos, além da otimização de tempo com identificação e mapeamento de processos, podendo ser utilizados em qualquer tipo de instituição e em unidades de informação, mediante adequação.
+3 MATERIAL E MÉTODO Trata-se de uma pesquisa de caráter exploratório e descritiva, de acordo com os objetivos propostos.
+Caracteriza-se como pesquisa bibliográfica e documental conforme os meios usados, assim como tem caráter qualitativo, de acordo com a abordagem e Revista Brasileira de Biblioteconomia e Documentação, São Paulo, v. 18, p. 01-20, 2022 | 12 tratamento.
+Para tanto, foi feita uma coleta de dados por meio da aplicação de um questionário para busca de informações.
+O instrumento foi enviado por e-mail para os coordenadores das bibliotecas composto por dez questões abertas e fechadas em que, inicialmente, perguntou-se sobre faixa etária, formação, cargo, função, tempo de atuação, entre outras questões, para definir o perfil do respondente.
+Além disso, perguntou-se sobre as ferramentas e instrumentos gerenciais que conhecia e quais efetivamente usava nos últimos dois anos de atuação na biblioteca; também buscou identificar de que forma o uso dessas ferramentas contribuía para a gestão da unidade de informação e quais os desafios e dificuldades que encontravam para utilizar as ferramentas em seu dia a dia.
+Obteve-se resposta de seis bibliotecários, que coordenam as doze unidades de informação, conforme será exposto a seguir.
+4 APRESENTAÇÃO E DISCUSSÃO DOS RESULTADOS Em relação ao sexo, 100% das respondentes são do sexo feminino, por essa razão, todas as respostas serão relacionadas à atuação das bibliotecárias (no gênero feminino).
+Quanto à faixa etária, apenas uma bibliotecária tem idade entre 20 a 29 anos, as demais têm entre 30 a 39 anos.
+Em relação ao cargo, todas são bibliotecárias e coordenam sua unidade.
+No que tange à formação, todas tem o bacharelado em Biblioteconomia, porém o ano de formação é bem variado.
+A bibliotecária com mais tempo de profissão formou-se em 1996, e a mais recente, em 2012.
+As demais se formaram entre 2006 e 2009.
+Muitas já têm pós-graduação em diferentes áreas como, especialização em gestão de pessoas, gestão de arquivos, gestão de projetos e responsabilidade civil, desenvolvimento regional.
+Apenas uma está cursando o mestrado (em andamento) em Gestão de Unidades de Informação, no Programa de Pós-Graduação em Gestão da Informação, na sua própria instituição.
+Ao serem questionadas sobre as ferramentas, plataformas e metodologias que conhecem para fazer a gestão das unidades de informação, foram citadas o Balanced Scorecard, Programa 5S, Lean Office, Gestão de Projetos, Matriz SWOT, Gestão de Processos, Normas ISO, MS Project, Brainstorming, Espinha de peixe, Canvas, 5W2H, Kamban, PDCA e o uso de relatórios e estatísticas para facilitar a gestão de unidades de informação.
+Revista Brasileira de Biblioteconomia e Documentação, São Paulo, v. 18, p. 01-20, 2022 | 13 As mais citadas foram: Balanced scorecard (duas pessoas), estudo de usuário (quatro pessoas), Canvas (três pessoas), 5W2H (três pessoas).
+As demais ferramentas foram citadas apenas uma vez.
+Ao se perguntar quais ferramentas conheciam, apesar de existirem inúmeros cursos e publicações na área sobre essas ferramentas e metodologias, poucas são as conhecidas pelas profissionais que participaram da pesquisa.
+Ao questionar as bibliotecárias sobre quais plataformas e instrumentos usaram efetivamente nos últimos dois anos, na unidade de informação em que atuam, para fazer a gestão, as respostas foram: Programa 5S (duas pessoas), kamban (uma pessoa), Plano de marketing (uma pessoa), Estudo de usuário (três pessoas), elaboração de projetos (uma pessoa), 5W2H (uma pessoa).
+Duas bibliotecárias assinalaram a opção "nenhuma".
+Na opção "outros", uma das bibliotecárias respondeu "matriz SWOT e brainstorming".
+Outra colocou "Talvez possa considerar o Pergamum – para fins estatísticos (usuários, empréstimos), Office 365, para compartilhamento de documentos para trabalho compartilhado e o Google Drive Formulários, para realização de pesquisas de satisfação."
+Nesta questão havia alternativas para responder que contemplavam diferentes metodologias e plataformas como, PMBOK, Métodos Ágeis, scrum, trello, Seis Sigma, MS Project, entre outras.
+Pelas respostas percebe-se que apesar de existirem dezenas de ferramentas e metodologias, poucas (ou quase nenhuma) são usadas na gestão das bibliotecas universitárias da instituição investigada.
+São diferentes instrumentos e plataformas que ajudariam muito as bibliotecas, pois sabe-se de sua efetividade em empresas e instituições sem fins lucrativos no planejamento, na organização das rotinas, no controle e avaliação, assim como no desenvolvimento das atividades gerenciais em uma unidade de informação.
+Almeida (2005) enfatiza que existem muitas pressões nas organizações para manter ou cortar custos, ampliar e melhorar a qualidade de serviços e programas, porém em muitas bibliotecas ou serviços de informação são usadas poucas ferramentas, e em alguns casos, não de forma rigorosa ou adequada.
+A autora também destaca que "devido à necessidade de garantirem a sobrevivência de suas atividades e de seus projetos, bem como competirem por recursos, as unidades de informação também têm buscado a eficiência no uso de seus recursos, a eficácia de resultados e a efetividade de suas ações" (ALMEIDA, 2005, p.11).
+Revista Brasileira de Biblioteconomia e Documentação, São Paulo, v. 18, p. 01-20, 2022 | 14 Para isso, é importante que o bibliotecário faça um estudo de usuário, uma análise do ambiente usando, por exemplo, a matriz SWOT, que permite identificar ameaças e oportunidades do ambiente externo, bem como pontos fortes e fracos no ambiente interno, para a partir disso, desenvolver um plano de marketing com o uso do PDCA, ou pode optar por utilizar a criação de projetos com a utilização de ferramentas como o 5W2H, a partir das boas práticas do PMBOK.
+Para isso, existem várias plataformas que permitem a gestão como, o trello, kamban, métodos ágeis, MS Project, entre outros, que possibilitam ao gestor o planejamento, organização, direção e acompanhamento das ações, para verificar se os objetivos pré-estabelecidos estão sendo atingidos.
+Outra questão diz respeito à forma como essas ferramentas ajudam nas práticas gerenciais da unidade de informação.
+Abaixo segue as principais percepções das profissionais que responderam ao questionário: Kanban é utilizado para acompanhar o fluxo de produção, assim todos estão conscientes de suas atividades e etapas do processo.
+É um processo simples e fácil de ser acompanhado por todos os interagentes.
+Todas as ferramentas e metodologias visam maior controle e agilidade no desempenho das tarefas.
+Isso traz uma padronização e controle para toda equipe envolvida com a gestão.
+Ajuda a direcionar o foco dos serviços, bem como corrigir e melhorar os serviços/produtos oferecidos pela unidade de informação.
+Essas ferramentas aplicadas na unidade onde trabalho serviram para auxiliar no planejamento das atividades e serviços da biblioteca de modo que atendessem as necessidades dos usuários reais e potenciais.
+Melhoria nos processos da biblioteca.
+No registro dos processos e possibilidade de identificação de problemas.
+Percebe-se que as profissionais que participaram da pesquisa conhecem a importância do uso e aplicação de diferentes ferramentas, plataformas e metodologias para gestão nas unidades de informação, bem como vantagens, porém muitas vezes desconhecem como usar ou precisam de capacitação e incentivo da própria instituição ou sistema de bibliotecas.
+Gianesi e Correa (1994) alertam sobre a necessidade de profissionalismo na gestão e adaptação das técnicas de administração para melhorar a qualidade dos serviços prestados, bem como na organização dos processos.
+Revista Brasileira de Biblioteconomia e Documentação, São Paulo, v. 18, p. 01-20, 2022 | 15 Ao perguntar sobre os desafios e dificuldades que as bibliotecárias encontravam para utilizar as ferramentas/ plataformas/ metodologias no dia a dia, eis algumas respostas: Uma das maiores dificuldades na utilização dessas ferramentas é a falta de pessoal e consequentemente de tempo para aplicação das metodologias.
+Desta forma, como pode ser observado nas questões anteriores, apesar de conhecer praticamente todas as metodologias disponíveis na área da gestão, acabamos aplicando apenas aquelas mais objetivas e menos robustas.
+A real dificuldade encontra-se na falta de interesse em conhecer e entender o uso das ferramentas, tanto pelo gestor quanto pelos colaboradores.
+Cada um tem uma aplicabilidade que melhor se aplica.
+Muitas atividades de gestão se iniciam de forma improvisada, e fazer o caminho para padronização torna todo o processo moroso, e que muitas vezes são abandonados inconcluídos pela falta de preparo no uso da ferramenta.
+Licenciamento e treinamento para fazer uso pleno dos recursos".
+"Não conhecer as ferramentas que possam auxiliar na gestão de bibliotecas.
+Por se tratar de instituição pública dependemos muito da disponibilização de recursos para os planos de marketing por exemplo, e no estudo de usuários temos pouca participação de algumas pesquisas que desenvolvemos.
+Ao analisar as respostas sobre os desafios e dificuldades encontrados para usar efetivamente as ferramentas e plataformas, é comum observar que a falta de tempo, de pessoas, de recursos, de interesse, de capacitação, de conhecimento impede a aplicação de diferentes metodologias na gestão das unidades de informação investigadas.
+No entanto, é comum perceber nas pessoas que participaram da pesquisa que falta iniciativa ou mesmo interesse em buscar conhecer e conscientizar as pessoas (seja equipe ou chefia superior) sobre essa necessidade.
+A qualidade a ser percebida pelos clientes, no caso das universidades, composta por professores, alunos e comunidade acadêmica, deve ser a prioridade na gestão de unidades de informação.
+Vergueiro (2002) salienta que desde o século XX essa busca da qualidade é uma das marcas das organizações e agora no século XXI isso torna-se ainda mais necessário.
+"Qualidade do meio ambiente em que se vive, encarado agora de maneira mais sistêmica e globalizante" (VERGUEIRO, 2002, p. 11).
+A ausência de recursos financeiros é um impeditivo comum na área de Biblioteconomia, porém atualmente existem tantas formas de captar recursos, seja por meio de editais públicos, seja por meio de leis de incentivo como a Lei Revista Brasileira de Biblioteconomia e Documentação, São Paulo, v. 18, p. 01-20, 2022 | 16 Rouanet ou mesmo patrocínios de fornecedores e instituições parceiras que podem otimizar os recursos e possibilitar as melhorias necessárias na execução de um projeto.
+Usar uma ferramenta como PDCA, matriz SWOT, programa 5S, 5W2H, Kamban, Canvas ou qualquer outro instrumento, não custa nada financeiramente e ainda traz inúmeros benefícios para a gestão de uma unidade de informação.
+Não há necessidade de pagar licença ou qualquer imposto para a utilização de vários softwares gratuitos, que possibilitam a melhoria nos processos gerenciais em uma instituição.
+5 CONCLUSÃO A capacidade de administrar uma unidade de informação está intrinsecamente voltada para o conhecimento e a implementação de práticas de gestão e de ferramentas gerenciais.
+As práticas de gestão de unidades de informação se fazem necessárias para que a missão da biblioteca seja alcançada, para que ela possa atuar de forma proativa e estratégica, e atender a instância superior.
+A pesquisa buscou analisar a contribuição do uso de metodologias e ferramentas nas práticas gerenciais em bibliotecas universitárias, pois acredita-se que desta forma seja possível promover inovação nos serviços prestados.
+Acredita-se que o uso dessas ferramentas e metodologias agregarão um diferencial às unidades de informação para otimizar o trabalho, gerenciar as rotinas e possibilitar a inovação nos serviços prestados visando uma melhoria contínua.
+Além disso, o uso desses instrumentos na gestão de unidades de informação é muito importante para facilitar os processos, otimizar recursos no alcance dos objetivos institucionais e principalmente agregar qualidade aos serviços prestados pela unidade de informação.
+Inovar significa criar algo, mas também pode ser a melhoria de um processo, produto, metodologia, ferramenta ou mesmo a melhoria da forma de gerir algo na instituição, sendo que isso pode ser feito com o uso de diferentes recursos tecnológicos como, softwares e aplicativos, ou mesmo de ferramentas de gestão que facilitam a organização dos processos, ou mesmo ainda a criação de serviços e produtos informacionais.
+Assim, é fundamental que as organizações busquem inovar para gerar sustentabilidade e um diferencial competitivo.
+Os objetivos propostos foram atingidos.
+Identificou-se que há pouco uso de ferramentas e metodologias gerenciais, por razões diversas citadas pelas bibliotecárias, Revista Brasileira de Biblioteconomia e Documentação, São Paulo, v. 18, p. 01-20, 2022 | 17 dentre elas: o desconhecimento de ferramentas gratuitas, a submissão a ferramentas pagas, dificuldades de utilizar ferramentas gerenciais (pagas ou gratuitas), insuficiência de mão de obra auxiliar na unidade de informação, ocasionando sobrecarga de trabalho técnico ao bibliotecário.
+Percebe-se que, embora algumas bibliotecárias tenham conhecimento teórico sobre gestão de unidades de informação e sobre ferramentas e métodos gerenciais, não conseguem de fato aplicar o que sabem em sua rotina de trabalho no ambiente universitário.
+Como sugestões práticas para resolver os problemas, sugere-se que as equipes sejam capacitadas sobre o uso de diferentes ferramentas e metodologias, depois que cada equipe de trabalho tenha escolhido algumas ferramentas para testar em suas rotinas e que haja um terceiro momento para compartilhar essas experiencias e juntas definirem algumas que possam ser usadas por todos, como por exemplo, algum aplicativo ou software, matriz SWOT para fazer análises dos cenários e buscar soluções, uso do scrum ou kamban para elaborar projetos, a matriz 5W2H para mapear e padronizar processos, entre outros.
+As bibliotecas da instituição pesquisada podem ser geridas de forma estratégica e inovadora, por meio da busca de soluções através de práticas e ferramentas de gestão utilizadas há décadas por empresas e organizações, que têm fins lucrativos, como forma de ter seus processos identificados, avaliados e constantemente adequados às novas demandas, gerando qualidade nos serviços prestados pelas unidades de informação.
+Ao se alinhar com as Cinco Leis de Ranganathan, a biblioteca só se tornará um organismo em crescimento se buscar inovação em produtos, serviços e no seu modo de atuação.
+Para isso, a busca por qualidade, eficiência e eficácia deve ser algo presente e pautado no planejamento estratégico da biblioteca com o uso de diferentes ferramentas e instrumentos que facilitam a gestão das unidades de informação.
+Acredita-se que o uso de ferramentas e metodologias na gestão de unidades de informação é muito importante para facilitar os processos, otimizar recursos no alcance dos objetivos institucionais e, principalmente, agregar qualidade aos serviços prestados pela unidade de informação.
+Revista Brasileira de Biblioteconomia e Documentação, São Paulo, v. 18, p. 01-20, 2022 | 18 REFERÊNCIAS ALMEIDA, Maria Christina Barbosa de.
+Planejamento de bibliotecas e serviços de informação.
+Brasília: Briquet de Lemos, 2005.
+BARBOSA, Marilene Lobo Abreu; FRANKLIN, Sérgio.
+Controle, avaliação e qualidade de serviços em unidades de informação.
+In: LUBISCO, Nídia Maria Lienert.
+Bibliotecas universitárias: elementos para o planejamento, avaliação e gestão.
+Salvador: EDUFBA, 2011. p. 89-137.
+Disponível em: Acesso em: 24 jan. 2022.
+BEHR, Ariel; MORO, Eliane Lourdes da Silva; ESTABEL, Lizandra Brasil.
+Gestão da biblioteca escolar: metodologias, enfoques e aplicação de ferramentas de gestão e serviços de biblioteca.
+Ciência da Informação, v. 37, n. 2, 2008.
+Disponível em Acesso em: 24 jan. 2022.
+BEHR, Ariel; MORO, Eliane Lourdes da Silva; ESTABEL, Lizandra Brasil.
+Uma proposta de atendimento às necessidades de informação dos usuários da biblioteca escolar por meio do benchmarking e do sensemaking.
+Informação & Informação, v. 15, n. 1, p. 37-54, 2010.
+Disponível em: Acesso em: 24 jan. 2022.
+CARVALHO, Márcio Filipe Alves; ROMÃO, Mario José Batista; FAROLEIRO, Paulo Jorge Coelho.
+Governança e Gestão de Projetos de TI: Integração do COBIT 5 e PMBOK.
+In: CONFERÊNCIA DA ASSOCIAÇÃO PORTUGUESA DE SISTEMAS DE INFORMAÇÃO, 16, Portugal, 2016.
+Disponível em: Acesso em: 02 jan. 2022.
+CASTRO, Maria José Rodrigues de; VIEIRA, David Vernon.
+Ferramenta de gestão SWOT aplicada a biblioteca universitária da UFPI.
+In: ENCONTRO NACIONAL DE PESQUISA E PÓS-GRADUAÇÃO EM CIÊNCIA DA INFORMAÇÃO (XX ENANCIB), 20, 2019.
+Disponível em: Acesso em: 24 jan. 2022.
+Administração: teoria, processo e prática.
+Introdução à teoria geral da administração.
+Rio de Janeiro: Elsevier; Campus, 2003.
+COSTA, Maria de Fátima Oliveira.
+Estudo de usuários da Informação: Ensino e Aprendizagem no Brasil.
+DAMIAN, Ieda Pelogia Martins; SILVA, Marcia Regina.
+Serviço de referência virtual: uma análise estratégica por meio da aplicação da matriz swot.
+InCID: Revista de Ciência da Informação e Documentação, v. 7 n. 2, p. 118-135, 2016.
+Disponível em Acesso em: 24 jan. 2022.
+DECOURT, Felipe; NEVES, Hamilton da Rocha; BALDNER, Paulo Roberto.
+Planejamento e gestão estratégica.
+Rio de Janeiro: Editora FGV, 2012.
+Gestion de unidades de información.
+In: VERGUEIRO, Waldomiro; MIRANDA, Angélica.
+Administração de unidades de informação.
+Revista Brasileira de Biblioteconomia e Documentação, São Paulo, v. 18, p. 01-20, 2022 | 19 GIANESI, Irineu G. Nogueira; CORREA, Henrique Luiz.
+Administração estratégica de serviços: operações para a satisfação do cliente.
+LAGE JUNIOR, Muris; GODINHO FILHO, Moacir.
+Adaptações ao sistema kanban: revisão, classificação, análise e avaliação.
+Gestão & Produção, v.15, n.1, p.173-188, 2008.
+Disponível em: Acesso em: 20 jan. 2022.
+LINS, Bernardo Felipe Estellita.
+Ferramentas básicas de qualidade.
+Ciência da Informação, v. 22, n. 2, p. 153-161, 1993.
+Disponível em: Acesso em: 20 jan. 2022.
+A Biblioteca Universitária e as diretrizes curriculares do ensino de graduação.
+In: SEMINÁRIO NACIONAL DE BIBLIOTECAS UNIVERSITÁRIAS, 11., Florianópolis, 2000.
+Disponível em: Acesso em: 20 dez.
+2021 MARSHALL JÚNIOR, Isnard et al.
+Rio de Janeiro: Editora FGV, 2006.
+MAXIMIANO, Antônio César Amaru.
+e ampl, São Paulo: Atlas, 2007.
+Manual de Oslo: diretrizes para coleta e interpretação de dados sobre inovação.
+Disponível em: Acesso em: 20 dez.
+REBELLO, Maria Alice de França Rangel.
+Implantação do programa 5S para a conquista de um ambiente de qualidade na biblioteca do hospital universitário da universidade de São Paulo.
+Revista Digital de Biblioteconomia & Ciência da Informação, v. 3, n. 2, p. 165-182, 2005.
+Disponível em: Acesso em: 24 jan. 2022.
+O Balanced Scorecard e o processo estratégico.
+Caderno de Pesquisa em Administração, v.10, n.4, p. 61-73, out./dez.
+Disponível em: Acesso em: 02 jan. 2022.
+SILVA, Fernanda Gomes; HOENTSCH, Sandra Costa Pinto; SILVA, Leila Maciel de Almeida.
+Uma análise das Metodologias Ágeis FDD e Scrum sob a Perspectiva do Modelo de Qualidade MPS.BR.
+Scientia Plena, v. 5, n.12, 2009.
+Disponível em: Acesso em: 20 dez.
+SOUSA, Jamile de; VIANNA, William Barbosa; COSTA, Heloisa.
+Identificação de linhas de ação para melhoria contínua em biblioteca especializada: um estudo a partir da norma ABNT NBR ISO 11620:2008/2014.
+Pesquisa Brasileira em Ciência da Informação e Biblioteconomia, v. 13, n. 2, 2018.
+Disponível em Acesso em: 24 jan. 2022.
+SPUDEIT, Daniela Fernanda Assis de Oliveira; FERENHOF, Helio Aisenberg.
+A aplicação do PMBOK® na gestão de projetos em unidades de informação.
+Informação & Informação, v. 22, n. 1, p. 306-330, 2017.
+Disponível em: Revista Brasileira de Biblioteconomia e Documentação, São Paulo, v. 18, p. 01-20, 2022 | 20 Acesso em: 24 jan. 2022.
+A Biblioteca Universitária vista como uma organização social.
+Qualidade em serviços de informação.
+São Paulo: Arte & Ciência, 2002.
+VIAPIANA, Noeli; CASTRO, Alice Carneiro de; KROEFF, Márcia Silveira; MORAES, Mário Cesar Barreto de.
+Modelo de avaliação da gestão para uma biblioteca pública.
+Ciência da Informação, v. 47, n. 3, 2018.
+Disponível em: Acesso em: 24 jan. 2022.
+VICTORINO, Marcio de Carvalho; SCHIESSL, Marcelo.
+O papel do profissional da informação na automação de serviços de informação utilizando o método ágil scrum.
+Informação & Tecnologia, v. 5, n. 2, p. 24-44, 2018.
+Disponível em: Acesso em: 24 jan. 2022.
+Alcance e limitações da inovação educacional.
+Inovação Educacional no Brasil: problemas e perspectivas.
+Campinas: Autores Associados, 1995. p. 265-286.
+Recebido em: 24 de janeiro de 2021 Aprovado em: 30 de abril de 2022 Publicado em: 17 de junho de 2022

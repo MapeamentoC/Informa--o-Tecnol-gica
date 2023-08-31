@@ -1,0 +1,433 @@
+REVISTA MERITUM • v .15 • n .3 • p .
+2020 103Como citar esse artigo/How to cite this article: CRUZ, Lucas Vinícios; LANA, Henrique Avelino.
+Direito, inovação e technologia: análise econômica das fintechs.
+Revista Meritum, Belo Horizonte, vol.
+15, n. 3, p. 103-123, Set./Dez.
+DOI: INOVAÇÃO E TECHNOLOGIA: ANÁLISE ECONÔMICA DAS FINTECHS LAW, INNOVATION AND TECHNOLOGY: ECONOMIC ANALYSIS OF FINTECHS Lucas Vinicios cruz1 Henrique aVeLino Lana2 RESUMO O presente artigo faz um estudo jurídico e econômico das fintechs, que são sociedades empresárias, geralmente startups, que atuam no mercado financeiro, mediante as ferramentas metodológicas da Análise Econômica do Direito.
+O objetivo geral é demonstrar a inteiração entre fintechs e análise econômica do direito.
+O objetivo específico é demonstrar a utilidade das fintechs para reduzir os custos de transação para os seus usuários, sob a ótica da Análise Econômica do Direito.
+Neste sentido, o problema a ser respondido é saber como o uso de fintechs pode contribuir, especificamente, também, para reduzir os custos de transação, tornando as operações financeiras mais céleres e mais eficientes.
+Para chegar-se a hipótese de resposta ao problema, a metodologia a ser utilizada é a da finalidade de pesquisa aplicada, com pesquisa exploratória, em abordagem qualitativa, por método indutivo, mediante pesquisa bibliográfica, toda ela especializada sobre o tema.
+PALAVRAS-CHAVE: Análise Econômica do Direito.
+ABSTRACT This article makes a legal and economic study of fintechs, which are entrepreneurial companies, usually startups, that operate in the financial market, through the methodological tools of the Economic Analysis of Law.
+The overall objective is to demonstrate the interaction between fintechs and economic analysis of law.
+The specific objective is to demonstrate the usefulness of fintechs to reduce transaction costs for their users, from the perspective of Economic Law Analysis.
+In this sense, the problem to be answered is how the use of fintechs can specifically contribute also to reduce transaction costs, making financial operations faster and more efficient.
+To arrive at the hypothesis of answer to the problem, the methodology to be used is the purpose of applied research, with exploratory research, in qualitative approach, by inductive method, through bibliographic research, all specialized on the subject.
+KEYWORDS: Economic Analysis of Law.
+1 Mestrando em Direito Privado pela PUC Minas (bolsista CAPES/PROEX TAXAS).
+Pós-graduado em Direito de Empresa pela PUC Minas (especialização).
+Graduado em Direito pelo Centro Universitário UNA, gratificado com a medalha de ouro Portal UNA, premiação entregue ao melhor aluno do curso de Direito do Centro Universitário UNA.
+Membro pesquisador e bolsista do Grupo de Pesquisa Empresa, Direito e Desenvolvimento Social, vinculado ao Centro Universitário UNA.
+Currículo completo: 2 Pós Doutorando, Doutor, Mestre e Especialista em Direito Empresarial.
+Advogado no Moreira do Patrocínio & Avelino Lana Advogados.
+Professor no Centro Universitário na UNA e PUC Minas.
+E-mail: henrique@mpaladvogados.com.brLucas Vinicios Cruz e Henrique Avelino Lana REVISTA MERITUM • v .15 • n .3 • p .
+INTRODUÇÃO O mundo digital está em constante evolução.
+Cada vez mais, nos deparamos com novas invenções tecnológicas que, até então, muitos acreditavam ser impossível.
+Smartphones cada vez mais modernos e computadores que cabem na palma da mão.
+Dia após dia, o mercado digital inova e surpreende a todos.
+Ao nosso redor, tudo está em constante evolução.
+E, com o setor financeiro não poderia ser diferente.
+O setor financeiro possui uma leva de novos agentes que também evoluíram, iniciando uma era de tecnologia, inovação e potencial de crescimento.
+Dentre os novos agentes, estão as chamadas fintechs que, em apertada síntese, são sociedades empresárias, geralmente startups, que utilizam tecnologia para inovar e aprimorar o setor financeiro.
+Em um levantamento feito em 2018 pela Finnovation, em conjunto com o Finnovista e o Banco Interamericano de Desenvolvimento (BID), apurou-se a existência de 377 fintechs no Brasil, um crescimento de 40% em relação ao ano de 2017 3.
+Internacionalmente, segundo dados do relatório Fintech Trends to Watch in 2018, da CB Insights, 1128 fintechs movimentaram US$ 16,6 bilhões em investimentos e negociações em 2017.
+Essas startups do mercado financeiro já entraram em 2018 com o pé direito e estão ganhando cada vez mais espaço e trazendo inovação.
+4 E, ainda internacionalmente, quanto as fintechs , a Europa é o mercado mais aquecido –  cresceu 121% em investimentos  em 2017 em relação a 2016.
+A América do Norte seguiu líder, arrematando 47% do total de capital.5 3 Disponível em: Acesso em 08 jun.
+4 Disponível em: Acesso em 01 jun.
+5 Vejam-se algumas fintechs que se destacam no mercado internacional: Em relação aos meios de pagamento, tem-se: 1) Ant Financial: A Ant Financial ocupa o 1º lugar da lista das "100 fintechs mais inovadoras do mundo".
+O ranking foi baseado no estudo 2017 Fintech100, elaborado pela KPMG e a H2 Ventures.
+A startup chinesa é a startup mais valiosa do mundo, avaliada em inacreditáveis US$ 150 bilhões.
+Controlada pela Alibaba, a Ant Financial é focada em meios de pagamento.
+Sua tecnologia de reconhecimento facial permite que clientes paguem com um sorriso em lojas na China; 2) Square: Fundada pelo criador do Twitter, Jack Dorsey, a norte-americana Square é uma fintech internacional especializada em meios de pagamentos.
+Atualmente, a Square está avaliada em US$ 5,1 bilhões, contra US$ 12,2 bilhões do Twitter, mas a startup tem grande potencial lucrativo no curto prazo; 3) Adyen: A Fintech holandesa é uma plataforma de pagamentos online e marketplaces.
+A Adyen permite a conexão de pagamentos em todo o mundo, otimização de receitas e gerenciamento de riscos.
+Desde que foi criada, em 2006, a fintech já levantou US$ 266 milhões em investimentos venture capital, segundo o Venture Beat.
+O valuation recém-alcançado de US$ 14 bilhões à posiciona apenas atrás do Spotify.
+A Adyen processa pagamentos de marcas como a Uber, Cabify, Netflix, Magazine Luiza e Spotify.
+Em relação a empréstimos, há: 4) SoFi: A fintech norte-americana é focada em uma plataforma on-line de empréstimos.
+A SoFi, que fez muito barulho ao ser um dos anunciantes da última edição do Super Bowl, tem uma carteira de crédito de mais de US$ 5 bilhões, dividida entre mais de 170 mil correntistas.
+A startup disponibiliza diversos tipos de empréstimos pessoais, como empréstimo universitário e hipotecas.
+Criada em 2011, a SoFi já levantou US$ 2,1 bilhões em investimento e possui o valuation de US$ 4,5 bilhões; 5) Kabbage: A Kabbage é uma startup que auxilia empresas menores a conseguirem empréstimos, com valores geralmente variando de US$ 2.000 a US$ 100.000.
+A fintech faz o processo de maneira muito automatizada e leva segundos para aprovar o crédito.
+A solicitação é feita de forma online através de uma inscrição na plataforma e pode ser pago de 6 a 12 meses.
+Criada em 2009, a startup possui o valuation de US$ 1 bilhão e já recebeu o total de US$ 1,6 bilhão em aporte; 6) Funding Circle: A startup britânica é um marketplace de empréstimos para financiar negócios.
+Os empreendedores se inscrevem em uma plataforma, recebem ofertas de empréstimos de investidores e podem pagar o valor de 6 meses a 5 anos.
+O Funding Circle oferece empréstimos de até 1 milhão de libras para empresas que querem levantar capital rapidamente ou tiveram o crédito recusado por um banco.
+Seu modelo se baseia em análise de dados e já emitiu mais 5 bilhões de libras em empréstimos desde 2010, conectando diretamente 50 mil negócios com 80 mil investidores.
+A Funding Circle é um dos unicórnios (startups avaliadas em US$ 1 bilhão ou mais) no mundo das fintechs de crédito.
+Em relação a seguros de vida, há: 7) Clover Health: Essa fintech norte-americana oferece seguros de saúde com preços acessíveis, criados com base no quanto o usuário pode pagar por ano.
+Criada em 2013, a Clover Health já recebeu US$ 425 milhões em aporte e possui o valuation de US$ 1,2 bilhão; 8) Oscar: A Oscar traz a experiência de ir ao médico para o mundo digital.
+Além de viabilizar planos de saúde, as consultas que são feitas on-line são de graça para os pacientes.
+Direito, inovação e technologia: análise econômica das fintechs REVISTA MERITUM • v .15 • n .3 • p .
+2020 105Assim, o presente artigo tem como objetivo, realizar uma análise econômica e jurídica da fintech, para demonstrar que a sua utilização pode facilitar as transações, reduzir os custos de transação, maximizar os resultados e induzir comportamentos, aumentando-se a eficiência nos negócios jurídicos celebrados, de acordo com a Análise Econômica do Direito.
+Para tanto, será realizada uma breve introdução ao estudo da Análise Econômica do Direito, passando-se para um panorama geral das startups e, então, ser feita uma análise da fintech , almejando-se, de forma construtiva e acadêmica, refletir se a sua utilização pode, ou não, reduzir os custos de transação.
+BREVES PONDERAÇÕES SOBRE A ANÁLISE ECONÔMICA DO DIREITO Conforme foi acima salientado, o principal objetivo deste artigo é demonstrar se a utilização das fintechs pode facilitar as transações, reduzir os custos de transação, maximizar os resultados e induzir comportamentos, aumentando-se a eficiência nos negócios jurídicos celebrados.
+Porém, para se chegar à melhor conclusão, faz-se necessário realizar uma breve explicação acerca da Análise Econômica do Direito, bem como a forma que esta se aplica ao Direito Empresarial6.
+A Análise Econômica do Direito (AED), também conhecida como Law and Economics , se trata de um método de estudo jurídico-econômico no que diz respeito à estruturação, formaA startup norte-americana tornou-se um unicórnio 16 meses depois de ser criada, em 2013.
+Atualmente, possui o valuation de US$ 3,2 bilhões, após ter levantado US$ 892 milhões em investimentos.
+Em relação a compra e venda de ações, há: 9) Robinhood: Criado em 2013, o aplicativo gratuito chamado Robinhood transformou a maneira como os norte-americanos investem na bolsa.
+O rápido crescimento no número de usuários do aplicativo Robinhood mostra uma demanda que antes não era atendida: usuários buscando maneiras mais fáceis de investir na bolsa sem pagar taxas de transação.
+Robinhood agora é uma wealthtech consolidada, avaliada em US$ 5,6 bilhões e uma das fintechs mais valiosas do mundo.
+Em maio deste ano, negociou uma rodada de investimentos série D no valor de US$ 363 milhões.
+Hoje, contabiliza 4 milhões de usuários e mais de US$ 150 bilhões em volume de transações.
+Mas se não cobra taxa, como faz dinheiro?
+Movimentando valores transferidos para plataforma mas não investidos, além de cobrar US$ 6 por um plano premium.
+E agora o app decidiu expandir sua atuação para as criptomoedas.
+A partir de fevereiro, os usuários poderão negociar Bitcoins, Ethereum, Litecoin, Ripple, entre outras, sem taxas.
+Por enquanto, operam nos EUA e Austrália.
+Em relação a transferências internacionais, há: 10) Revolut: A britânica Revolut traz serviços bancários sem ser um banco.
+A startup promove a transferência de dinheiro gratuita entre países, além de permitir transações de compra e venda de criptomoedas sem taxas.
+A startup atingiu o patamar de unicórnio apenas 33 meses depois de ser criada.
+Fundada em 2015, já recebeu US$ 336 milhões em investimentos e hoje possui o valuation de US$ 1,7 bilhão.
+A fintech Revolut prevê que as suas receitas aumentem quatro vezes em 2018.
+No ano passado, a fintech teve uma receita de 14,3 milhões de euros.
+A previsão é que a empresa feche 2018 com uma receita de 57 milhões de euros, suportadas no forte aumento do número de clientes e novos produtos.
+Apesar do crescimento nas receitas e número de clientes, a Revolut registou um prejuízo de 16,5 milhões de euros, já que duplicou o seu número de trabalhadores, requisitou uma licença bancária e expandiu para 10 mercados.
+Em relação a Análises de riscos e tendências de mercado financeiro, tem-se: 11) Kensho: Esse software de inteligência artificial se propõe a uma tarefa hercúlea: analisar eventos importantes para o mercado financeiro, responder ao questionamento de investidores e elaborar relatórios tentando prever novas tendências.
+O Kensho é quase o Siri das bolsas de valores; 12) Black Swan: O termo Black Swan se tornou popular na crise econômica de 2007, nos Estados Unidos, para classificar eventos não previstos pelo mercado.
+Não à toa, o objetivo dessa startup israelense é, com base em Big Data e computação cognitiva, fazer análises de riscos para governos e instituições financeiras.
+Disponível em: Acesso em 01 jun.
+6 A Constituição da República Federativa do Brasil de 1.988 utiliza a expressão Direito Comercial (art.
+Porém, o Código Civil de 2.002 trouxe a chamada Teoria da Empresa, motivo pelo qual a expressão Direito Empresarial, ou Direito de Empresa, passou a ser adotada.Lucas Vinicios Cruz e Henrique Avelino Lana REVISTA MERITUM • v .15 • n .3 • p .
+2020 106ção, impacto e consequências da aplicação dos princípios da Ciência Econômica ao Direito.
+Pode ser definida como a aplicação da teoria econômica, em especial, seu método, para o exame da formação, estruturação e impacto da aplicação das normas e instituições jurídicas (RIBEIRO; GALESKI JÚNIOR, 2009, p. 53).
+A Análise Econômica do Direito invoca a metodologia da ciência econômica junto à realidade fática do mundo jurídico.
+Embora a AED já tenha sido mencionada e estudada por outros estudiosos das Ciências Econômicas, como Adam Smith, ao estudar os efeitos econômicos decorrentes da formulação das normas jurídicas, e Jeremy Bentham, ao associar legislação e utilitarismo, ambos no século XVIII (ZYLBERSZTAJN; SZTAJN, 2005, p. 74), foi apenas a partir da década de 1960, que a AED ganhou forças para que Direito e Economia se unificassem (PIMENTA; LANA, 2010, p. 92).
+Isto, pois, em 1960, Ronald Coase publicou a obra The Problem of Social Cost, iniciando a chamada Teoria dos Custos de Transação, obra que, em 1991, levou o autor a ser agraciado com o Prêmio Nobel de Economia.
+Quanto ao assunto, Pimenta e Boglione dissertam: O ganhador do Nobel explicou como a introdução de custos de transação na análise econômica determina as formas organizacionais e as instituições do ambiente social.
+A inserção de custos de Transação na economia evidenciaria a importância do Direito na determinação de resultados econômicos (PIMENTA; BOGLIONE, 2013, p. 268).
+Importante mencionar, que além da obra de Ronald Coase, acima mencionada, há de se destacar também que Guido Calabresi, professor da Universidade de Yale, ao desenvolver sua obra Some Thoughts on Risk Distribution And Law of Torts, contribuiu fortemente para o avanço da AED.
+Isto, pois, Calabresi demonstrou a importância da análise de impactos econômicos da alocação de recursos para a regulação da responsabilidade civil, seja no âmbito legislativo ou judicial.
+Com isso, sua obra inseriu a análise econômica em questões jurídicas, apontando que uma análise jurídica adequada não prescinde do tratamento econômico das questões (ZYLBERSZTAJN; SZTAJN, 2005, p. 1-2).
+Além de Ronald Coase e Guido Calabresi, há de se destacar que Richard Posner, com sua obra Economic Analysis of Law , bem como Henry Manne, George Stigler, Armen Alchian, Steven Medema, Oliver Wiliamson, entre outros, também contribuíram para o fortalecimento da pesquisa acadêmica acerca da Análise Econômica do Direito (ZYLBERSZTAJN; SZTAJN, 2005, p. 74).
+A Economia pode ser aproveitada para prever as conseqüências das diversas regras jurídicas.
+Trata-se de tentar identificar os prováveis efeitos das regras jurídicas sobre o comportamento dos atores sociais relevantes em cada caso (COOTER, 1982, p. 1260).
+Permite-se modelar o comportamento humano de modo que seja possível ao profissional do Direito entender os prováveis efeitos que advirão como conseqüências das diferentes posturas legais (SALAMA, 2008).
+De fato, os estudiosos da Análise Econômica do Direito se reúnem em uma mesma classificação, que pertence à mesma denominação, pois detém consenso em relação aos conceitos e institutos que lhes são essenciais, o que não impede que sejam, não raras às vezes, vistos construtivos e pertinentes debates, específicos, doutrinários sobre sua eventual aplicabilidade.
+Nesta senda, busca-se com o estudo da AED, elaborar, interpretar e aplicar a metodologia da ciência econômica às relações jurídicas, de modo a reduzir os custos de transação e alcançar a eficiência econômica.
+Logo, pode-se dizer que a AED tem como finalidade, a busca pela eficiência econômica.
+Direito, inovação e technologia: análise econômica das fintechs REVISTA MERITUM • v .15 • n .3 • p .
+2020 107Neste diapasão, eficiência, nas palavras de Bruno Salama, "diz respeito à maximização de ganhos e minimização de custos.
+Dessa ótica, um processo será considerado eficiente se não for possível aumentar os benefícios sem também aumentar os custos" (SALAMA, 2008, p. 55).
+No Direito Empresarial, o custo de transação possui suma importância, pois é fundamental para o sucesso do empresário, já que é representado pelo valor monetário e pelo tempo despendido para celebrar as transações jurídicas, seja para planejá-las, seja para efetivá-las em seus efeitos.
+Pode-se dizer, assim, que o custo de transação é aquilo de que se necessita abrir mão, pagar, ou gastar tempo e dinheiro, para efetivação, manutenção, precaução, alienação ou cessão dos efeitos jurídicos de uma relação contratual (LANA, 2017, p. 75).
+De acordo com Eduardo Goulart Pimenta (2010, p. 22-23), "custos de transação consistem naquilo que se precisa pagar ou de que se deve abrir mão para constituir, manter, proteger ou transferir os direitos e deveres decorrentes de uma relação contratual".
+Logo, a eficiência consiste em diminuir ao máximo os custos de transação, para que, cada vez mais, sejam celebrados contratos e cada vez mais haja organização e acúmulo dos fatores de produção, resultando em maximização de riquezas, que são representadas pelo lucro.
+Conforme preleciona Eduardo Goulart Pimenta: A eficiência do Direito está em minimizar (ou hipoteticamente, acabar) com os custos de transação - mediante redução ou eliminação das dificuldades e gastos para contratação - de forma que, no exercício da empresa, haja uma maior quantidade e qualidade de trocas e relações jurídicas destinadas à organização dos fatores de produção.
+Sob um enfoque econômico a disciplina jurídica da empresa deve se preocupar em procurar reduzir ao máximo os custos que os empresários enfrentam para concretizar as relações jurídicas destinadas à organização dos fatores de produção (PIMENTA, 2010, p. 33).
+Existem duas conotações importantes de eficiência conhecidas e utilizadas na AED: a eficiência de Pareto, aquela na qual a posição de A melhora sem prejuízo da posição de B, bem como a chamada eficiência Kaldor-Hicks , na qual o produto da vitória de A excede os prejuízos da derrota de B, aumentando, portanto, o excedente total (PINHEIRO; SADDI, 2005, p. 88).
+A eficiência de Pareto significa que os bens devem ser transferidos de quem os valoriza pouco, em favor daqueles que mais os valorizam (SZTAJN, 2005, p. 76).
+Ou seja, em Pareto, a eficiência se dá nas transações que melhorem a situação de um agente econômico, sem piorar a situação de outrem.
+Segundo Eduardo Goulart Pimenta e Stefano Boglione, "o padrão ótimo de eficiência se dá quando os agentes econômicos têm acesso aos bens que mais valorizam, através de um sistema de trocas ou alocação de recursos" (PIMENTA; BOGLIONE, 2013, p. 268).
+Ainda sobre a eficiência em Pareto, Armando Castelar Pinheiro e Jairo Saddi explicam que uma alocação de recursos será Pareto eficiente quando "não há mudança que melhore a situação de um agente sem piorar a situação de pelo menos um outro agente".
+(PINHEIRO; SADDI, 2005, p. 120).
+O ponto primordial da eficiência em Pareto é demonstrar que as transações podem ser tão eficientes ao ponto de que seria impossível realizar qualquer transação Lucas Vinicios Cruz e Henrique Avelino Lana REVISTA MERITUM • v .15 • n .3 • p .
+2020 108em que as partes sofreriam prejuízos.
+Em contrapartida, a eficiência de Kaldor Hicks significa que as leis positivadas "devem ser utilizadas para causar o máximo de bem estar, em relação ao maior número de indivíduos, na medida em que os ganhos gerais compensem as possíveis perdas sofridas individualmente por alguns" (PIMENTA; LANA, 2010, p. 107).
+Nas palavras de Eduardo Goulart Pimenta e Stefano Boglione: Tem-se a Eficiência de Kaldor-hicks, portanto, quando o produto da vitória de A excede os prejuízos da derrota de B, aumentando, portanto, o excedente total.
+Haverá um ganho real no bem-estar da sociedade quando a redistribuição da riqueza importe que os agentes econômicos não desejem retornar à posição original, embora ainda recebessem, em dinheiro, o valor correspondente ao acréscimo em seus bens e serviços (PIMENTA; BOGLIONE, 2013, p. 268).
+Portanto, de acordo com a Análise Econômica do Direito, as partes devem tomar decisões que acarretem maior bem-estar, ou seja, devem agir em prol da eficiência, em consonância à eficiência de Pareto ou eficiência de Kaldor Hicks .
+Seguindo esta linha de raciocínio, Irineu Galeski Junior e Márcia Carla Pereira Ribeiro salientam que o indivíduo deve aplicar a decisão que causar o maior bem-estar, tendo em vista que a AED tem por foco a busca do melhor bem-estar, da melhor alocação possível de bens, conduzindo ao bem-estar dentro dos limites (RIBEIRO; GALESKI JÚNIOR, 2009, p. 89).
+Nas palavras dos autores: Dentre duas possíveis decisões, aquela que causar o maior bem-estar é a que deve ser aplicada, devendo ser observado se as partes envolvidas estão em uma situação inicial relativamente homogênea.
+A escola de Law & Economics, para todos os efeitos, tem por foco a busca do melhor bem-estar, da melhor alocação possível de bens, conduzindo ao bem-estar dentro dos limites morais (RIBEIRO; GALESKI JÚNIOR, 2009, p. 89).
+Bruno Salama (2008, p. 54-55) bem sintetiza as ferramentas metodológicas que podem ser usufruídas no estudo do Direito e Economia, quais sejam, escassez, maximização racional, equilíbrio, incentivos e eficiência.
+Quanto à escassez, o autor entende que, se os recursos fossem infinitos, não seria necessário equacionar a sua alocação.
+Logo, todos poderiam ter tudo o que quisessem, na quantidade que quisessem.
+Já em relação à maximização racional, o autor defende que esta se refere à opção por escolhas que atendam aos interesses pessoais dos indivíduos.
+Assim, os indivíduos calculam para alcançar os maiores benefícios com os menores custos, levando ao processo de decisão marginalista, que quer dizer que, nos processos de tomada de decisão e realização de escolhas, os indivíduos só realizarão o próximo passo de uma atividade se os benefícios desta excederem os seus custos.
+Já no que tange ao equilíbrio, prossegue ao dizer que este é o padrão comportamental interativo que se atinge quando todos os atores estão maximizando seus próprios interesses simultaneamente.
+E quanto aos incentivos, são preços implícitos, tendo em vista que os indivíduos procuram realizar escolhas que maximizem seus benefícios com a consequente redução dos custos.
+Em relação à eficiência que, como já foi dito, refere-se à maximização de ganhos e minimização de custos.
+Assim, o autor conclui dizendo que um processo será eficiente se for possível aumentar os benefícios sem aumentar os custos.
+Direito, inovação e technologia: análise econômica das fintechs REVISTA MERITUM • v .15 • n .3 • p .
+2020 109Como se nota, considerando-se o aspecto dinâmico da empresa, esta é um feixe coordenado de relações jurídicas estabelecidas por contratos e, diante disso, por uma abordagem econômica, a eficiência consiste em diminuir ao máximo os custos de transação, para que, cada vez mais sejam celebrados contratos e cada vez mais haja organização, acúmulo dos fatores de produção, resultando em maximização de riquezas representadas pelo lucro.
+Especialmente em relação aos contratos celebrados pelo empresário ou sociedade empresária, a AED deve ser sempre utilizada, buscando-se reduzir a escassez dos recursos, optando a sociedade empresária por escolhas que atendam aos seus interesses, no intuito de alcançar maior benefício com o menor custo, bem como a eficiência no que contratar, com quem contratar, quando contratar e como contratar, ou seja, estes atos devem ser praticados de forma a buscar a eficiência.
+Assim, avança-se na fundamentação para se saber como as fintechs podem ser vantajosas nas transações realizadas pela sociedade empresária para contribuir para reduzir os custos de transação e dar mais celeridade e eficiência.
+STARTUP: UMA MISTURA DE INOVAÇÃO, TECNOLOGIA E INCERTEZAS O termo startup é cada vez mais usado e está em destaque no mundo tecnológico e empreendedor, tendo ganhado maior notoriedade no final da década de 1990, com as chamadas empresas '.com' (OIOLI, 2019, p. 11).
+Mas, afinal, o que seria uma startup ?
+Quais são as suas características?
+Eric Ries (2012, p.26) define a startup como "uma instituição humana projetada para criar novos produtos e serviços sob condições de extrema incerteza".
+O Autor destrincha este conceito, ao argumento de que a parte mais importante nesta definição é o que ela omite, tendo em vista que o conceito de startup não diz respeito ao tamanho da empresa, a sua atividade ou o seu setor da economia.
+Passei a perceber que a parte mais importante dessa definição é o que ela omite.
+Não diz nada a respeito do tamanho da empresa, da atividade ou do setor da economia.
+Qualquer pessoa que está criando um novo produto ou negócio sob condições de extrema incerteza é um empreendedor, quer saiba ou não, e quer trabalhe numa entidade governamental, uma empresa apoiada por capital de risco, uma organização sem fins lucrativos ou uma empresa com investidores financeiros decididamente voltada para o lucro (RIES, 2012, p. 26).
+Deste conceito, são destacados pelo autor, os termos instituição, produto, inovação e extrema incerteza como caracterizadores de uma startup .
+Consideremos cada uma das partes.
+A palavra instituição conota burocracia, processo, até letargia.
+Como isso pode ser parte de uma startup?
+No entanto, as startups bem-sucedidas estão repletas de atividades associadas ao desenvolvimento de instituições: contratação de funcionários criati-Lucas Vinicios Cruz e Henrique Avelino Lana REVISTA MERITUM • v .15 • n .3 • p .
+2020 110vos, coordenação das atividades deles, e criação de uma cultura empresarial que gera resultados.
+Frequentemente, perdemos de vista o fato de que uma startup não consiste num produto, numa inovação tecnológica ou até mesmo numa ideia brilhante.
+Uma startup é maior do que a soma de suas partes; é uma iniciativa intensamente humana.
+O fato de que o produto ou serviço da startup é uma nova inovação também é parte essencial da definição, e também uma parte delicada.
+Prefiro empregar a definição mais ampla de produto, aquela que abrange qualquer fonte de valor para as pessoas que se tornam clientes.
+Qualquer coisa que os clientes vivenciam da interação com uma empresa deve ser considerada parte do produto daquela empresa.
+Isso é verdade em relação a uma quitanda, um site de comércio eletrônico, um serviço de consultoria e uma entidade de serviço social sem fins lucrativos.
+Em todos os casos, a organização se dedica a revelar uma nova fonte de valor para os clientes e se preocupa com o impacto do seu produto sobre esses clientes.
+Também é importante que a palavra inovação seja compreendida amplamente.
+As startups utilizam muitos tipos de inovação: descobertas científicas originais, um novo uso para uma tecnologia existente, criação de um novo modelo de negócios que libera um valor que estava oculto, ou a simples disponibilização do produto ou serviço num novo local ou para um conjunto de clientes anteriormente mal atendidos.
+Em todos esses casos, a inovação é o cerne do sucesso da empresa.
+Há mais uma parte importante dessa definição: o contexto no qual a inovação acontece.
+A maiorias das empresas – grandes e pequenas – estão excluídas desses contextos.
+As startups são projetadas para enfrentar situações de extrema incerteza.
+Abrir uma nova empresa, que seja um clone exato de um negócio existente, copiando modelo de negócios, precificação, cliente-alvo e produto, pode até ser um investimento econômico atraente, mas não é uma startup, pois seu sucesso depende somente da execução – tanto que esse sucesso pode ser modelado com grande exatidão.
+(Eis por que tantas pequenas empresas podem ser financiadas com simples empréstimos bancários; o nível de risco e incerteza são tão bem entendidos que um analista de crédito pode avaliar suas perspectivas futuras.)
+A maioria das ferramentas da administração geral não são projetadas para florescer no solo adverso da extrema incerteza, no qual as startups vicejam.
+O futuro é imprevisível, os clientes testemunham um conjunto crescente de alternativas, e o ritmo da mudança está sempre aumentando.
+No entanto, a maioria das startups – tanto em garagens quanto em empresas – ainda é administrada por meio de prognósticos padrão, marcos de produtos e planos de negócios detalhados (RIES, 2012, p. 26-27).
+Bruno Feigelson, Erik Fontenele Nybø e Victor Cabral Fonseca dão um conceito mais amplo sobre o que é uma startup .
+Para os autores, uma startup é "um grupo de pessoas à procura de um modelo de negócios, baseado em tecnologia, repetível e escalável, trabalhando em condições de extrema incerteza" (FEIGELSON; NYBØ; FONSECA, 2018, p. 31).
+Uma grande vantagem do modelo de negócio adotado pelas startups é a efetiva capacidade de o produto ser replicável e escalável em virtude do uso da tecnologia, em que ser replicável significa que "é possível entregar o produto ou o serviço em escala de maneira potencialmente ilimitada, sem a necessidade de adaptação ou customização para cliente", Direito, inovação e technologia: análise econômica das fintechs REVISTA MERITUM • v .15 • n .3 • p .
+2020 111enquanto ser escalável significa que a startup "tem capacidade para crescer cada vez mais por meio da venda de um produto ou serviço que pode ser produzido ou distribuído em grandes quantidades, resultando em uma economia de escala, sem a necessária alteração do modelo de negócios ou ampliação significativa de seus custos" (FEIGELSON; NYBØ; FONSECA, 2018, p. 34-35).
+Além das características acima, Bruno Feigelson, Erik Fontenele Nybø e Victor Cabral Fonseca (2018, p. 24-26) também trazem as seguintes características de uma startup : • Encontra-se em estágio inicial, sendo notadamente carente de processos internos e organização, muitas vezes sem um modelo de negócio claro; • Possui perfil inovador, sendo esta uma das características mais importantes; • Possui significativo controle de gastos e custos, de modo a focar os investimentos no desenvolvimento de seu produto ou serviço principal; • Seu produto ou serviço é operacionalizado por meio de um produto mínimo viável (MVP), que é o desenvolvimento do produto ou serviço de uma forma simples, apenas para que seja possível verificar se realmente existe demanda e para manter os custos iniciais baixos; • O produto ou ideia explorado é escalável, isto é, ser facilmente expandido para outros mercados e em diferentes níveis de capilaridade e distribuição, de modo a alcançar uma economia de escala por meio de replicação de um mesmo produto para inúmeros clientes; • Apresenta necessidade de capital de terceiros para operação inicial, razão pela qual é comum a busca por investidores externos para financiamento das operações; • Utiliza tecnologia a favor do seu modelo de negócio, para desenvolver negócios escaláveis e inovadores; • Atuam em um mercado de extrema incerteza, em razão do alto risco.
+Fato é que apesar do forte laço com a tecnologia, uma startup não precisa, imprescindivelmente, trabalhar com produtos ou serviços digitais.
+As startups são a grande aposta do mercado e formam verdadeiros ecossistemas no mundo todo.
+São de baixo capital inicial e rápido crescimento, com DNA jovem e um modelo de negócio promissor.
+Para ingressar no universo das startups , não basta ter uma grande ideia.
+É preciso trabalhar duro, conhecer o cliente a fundo e ter coragem para correr riscos em busca de sonhos ambiciosos.
+As startups se mostram atividades iniciantes, detentoras de abordagem jovem e adaptadas ao modelo digital, tão importante nos dias atuais.
+Muito embora sejam pequenas, proporcionam propostas inovadoras de serviços a serem prestados ou produtos a serem produzidos e fabricados.
+Almeja-se gerar impacto por meio de algo que se revele novo e possua enormes possibilidades de desenvolvimento.
+Decorrem de ideias com boas chances de êxito de serem líderes e grandes players dos seus mercados.
+A startup está em fase embrionária e busca um modelo de negócio repetível, escalável e altamente lucrativo, priorizando a inovação em um ambiente de alto risco.Lucas Vinicios Cruz e Henrique Avelino Lana REVISTA MERITUM • v .15 • n .3 • p .
+2020 112O potencial de atingir grandes mercados com uma estrutura enxuta é um dos principais traços das startups.
+Com um capital inicial muito baixo, a empresa pode chegar a alcançar milhões de consumidores.
+Startups estão fortemente relacionadas à tecnologia.
+Mesmo que o foco não seja uma solução voltada especificamente para a área, dificilmente algo terá resultado positivo se seus idealizadores não usarem essa ferramenta a favor.
+Se considerarmos ainda que uma startup é uma empresa que explora atividades inovadoras, esse conceito de aplicação de novas tecnologias fica ainda mais evidente e justificável.
+As principais características de uma startup são a inovação, a escalabilidade, a repetibilidade, a flexibilidade e a rapidez.
+Ou seja, conceitos muito semelhantes e próximos às novidades tecnológicas.
+Atualmente, raramente algo é feito sem que haja influência da tecnologia, sobretudo quando estamos falando de inovações.
+Aliás, o próprio conceito do "novo" traz uma ideia futurista, como sendo uma forma de executar tarefas ou resolver questões que ainda não foram criadas.
+Saliente-se que a inovação é a principal característica das startups .
+Inovar é o primeiro passo de uma empresa que deseja se lançar como startup .
+O principal alicerce de uma startup é apresentar e desenvolver solução para problemas de uma maneira inovadora e nunca antes testada, mas que tem grandes chances de dar certo e se tornar um excelente negócio.
+Assim, trazem serviços que sempre foram necessários, mas que nunca foram pensados antes.
+Igualmente, acontece com os produtos, pois servem como soluções certeiras referentes as inúmeras e diferentes demandas da sociedade.
+Isso pois as startups  rompem e quebram padrões em relação a outras empresas do mesmo segmento, geralmente já consolidadas.
+Esta característica se denota por meio de formas de atendimento, isenção ou redução de taxas e até mesmo no modo como os serviços são prestados ou disponibilizados.
+Ou seja, o propósito é fugir do que o mercado oferece, destacando-se e auferindo a competitividade necessária.
+Ademais, são escaláveis, ou seja, detêm muita possibilidade de crescimento, vertiginoso, fazendo isso sem consequências ou limites nas suas operações.
+Tal escalabilidade ocorre sobretudo por serem geralmente atreladas ao meio digital.
+Consequentemente, seus produtos e serviços podem ser entregues a um número cada vez maior de clientes, sem que enseje mais esforços, investimentos, gastos ou despesas.
+Um negócio escalável é aquele que pode crescer em um ritmo muito acelerado sem alterar o modelo proposto.
+Ou seja, a receita da empresa aumenta exponencialmente, mas os custos continuam praticamente os mesmos.
+Uma startup é repetível, pois o mesmo produto ou serviço pode ser ofertado em larga escala, não possuindo nenhum tipo de limitação.
+Para tanto, deve ser pouco flexível ou customizável.
+Ser repetível é entregar os mesmos produtos e serviços de modo reprodutivo, sem a necessidade de customizar em excesso.
+A proposta é multiplicar e alcançar mais clientes e adaptações atrapalhariam essas metas.Direito, inovação e technologia: análise econômica das fintechs REVISTA MERITUM • v .15 • n .3 • p .
+2020 113Lembre-se que outra característica é inerente: a incerteza.
+Isso pois uma startup não tem um direcionamento bem definido no que diz respeito ao sucesso e há alto risco de insucesso.
+Portanto, apesar de serem propostas sólidas e com grande chance de terem bons resultados, não possuem precedentes que a autorizem e ajudem a deter perspectivas claras e absolutas ao longo do tempo futuro.
+Insta mencionar que, como regra, atividades inserta no contexto do empreendedorismo digital  possuem sua atuação pela rede mundial de computadores, dispensando-se locais físicos e também a necessidade de deslocamento para realizar atendimentos, consultas, reuniões, etc.
+Geralmente, são negócios praticamente 100% digitais.
+As startups pairam em torno de produtos e serviços realmente inovadores.
+Logo, ao se ter boas reflexões e ser atento a serviços que podem ter êxito e sucesso, mais cedo ou mais tarde, ideias totalmente incríveis tendem a surgir.
+No mesmo sentido, qualquer startup decorre a partir de uma fase de protótipo, pela qual o modelo de negócio será testado perante o seu público-alvo, em uma amostragem reduzida e pequena.
+É importante começar por uma versão básica, compreender e observar os resultados que ela obtém, avaliando-se a reação do público.
+Depois dos testes, também será possível e relevante focar nas adaptações para se chegar ao modelo final.
+Para criar uma, deve-se ter bons parceiros, pois começar sozinho é sempre muito difícil.
+Precisam de diferentes competências para serem exercidas por pessoas de confiança dentro do seu networking, que possuam habilidades complementares à sua.
+Logo, uma startup é uma mistura de inovação, tecnologia, incertezas e riscos, em que um grupo de pessoas trabalham juntos em prol do desenvolvimento de um produto ou serviço, replicável e escalável.
+Agora, passa-se a aprofundar em um segmento específico de startup , quais sejam, fintechs .
+3.1 A DEFINIÇÃO DE STARTUP DE ACORDO COM LEI COMPLEMENTAR N. 167/2019 Em que pese o crescimento exponencial das startups no ecossistema empreendedor, foi apenas no ano de 2019 que a legislação pátria regulamentou, de forma expressa e inequívoca, as startups .
+Assim, foi publicada a Lei Complementar n. 167/2019, que alterou a Lei Complementar 123/2016 e trouxe o conceito de startup , bem como um regime tributário específico para o empreendedor que queira seguir este modelo de negócio.
+De acordo com o artigo 13, da LC 167/19, foi incluído, na LC 123/16, o artigo 65-A7, acompanhado de 13 parágrafos, que criou o Inova Simples, que consistente em um regime 7 LC 123/2016 – Art.
+É criado o Inova Simples, regime especial simplificado que concede às iniciativas empresariais de caráter incremental ou disruptivo que se autodeclarem como startups ou empresas de inovação tratamento diferenciado com vistas a estimular sua criação, formalização, desenvolvimento e consolidação como agentes indutores de avanços tecnológicos e da geração de emprego e renda.
+§ 1º Para os fins desta Lei Complementar, considera-se startup a empresa de caráter inovador que visa a aperfeiçoar sistemas, métodos ou modelos de negócio, de produção, de serviços ou de produtos, os quais, quando já existentes, caracterizam startups de natureza incremental, ou, quando relacionados à criação de algo totalmente novo, caracterizam startups de natureza disruptiva.
+§ 2º As startups caracterizam-se por desenvolver suas inovações em condições de incerteza que requerem experimentos e validações constantes, inclusive mediante comercialização experimental provisória, antes de procederem à comercialização plena e à obtenção de receita.
+§ 3º O tratamento diferenciado a que se refere o caput deste artigo consiste na fixação de rito sumário para abertura e fechamento de empresas sob o regime do Inova Simples, que se dará de forma simplificada e automática, no mesmo ambiente digital do portal Lucas Vinicios Cruz e Henrique Avelino Lana REVISTA MERITUM • v .15 • n .3 • p .
+2020 114especial simplificado, que permite às iniciativas empresariais que se autodeclarem como startups ou empresas de inovação tratamento diferenciado.
+Este regime diferenciado se trata de um rito sumário para abertura e fechamento de empresas sob o regime do Inova Simples, que se dará de forma simplificada e automática, de forma digital, através da Redesim – Rede Nacional para a Simplificação do Registro e da Legalização de Empresas e Negócios (Art.
+Ainda de acordo com o dispositivo, o objetivo do Inova Simples é estimular a criação, formalização, desenvolvimento e consolidação destas iniciativas empresariais como agentes indutores de avanços tecnológicos, bem como fomentar a geração de emprego e renda.
+Neste diapasão, o artigo 65-A, §§1º e 2º, da LC 123/16, conceitua, de forma expressa, o que seria uma startup .
+De acordo com a referida Lei, considera-se  startup  a empresa de caráter inovador que visa a aperfeiçoar sistemas, métodos ou modelos de negócio, de produção, de serviços ou de produtos, já existentes ou totalmente novos.
+É importante pontuar que a atividade desenvolvida pela startup pode visar aperfeiçoar sistemas, métodos ou modelos de negócio, de produção, de serviços ou de produtos já existentes, ocasião em que se caracterizam  startups  de natureza incremental, ou, estar relacionada à criação de algo totalmente novo, caracterizando-se  startups  de natureza disruptiva.
+Além disso, as startups também tem como característica o desenvolvimento das suas inovações em condições de incerteza, que requerem experimentos e validações constantes, inclusive mediante comercialização experimental provisória, antes de procederem à complementação plena e à obtenção de receita.
+Destrinchando o conceito trazido pelos parágrafos 1º e 2º, do artigo 65-A, da LC 123/16, percebe-se que o legislador seguiu fielmente as características de startups usadas mundialmente, tendo em vista que, para ser considerado startup , é preciso, principalmente mas não apenas: (i) ter caráter inovador e (ii) desenvolvimento da atividade em condição de incerteza.
+da Rede Nacional para a Simplificação do Registro e da Legalização de Empresas e Negócios (Redesim), em sítio eletrônico oficial do governo federal, por meio da utilização de formulário digital próprio, disponível em janela ou ícone intitulado Inova Simples.
+§ 4º Os titulares de empresa submetida ao regime do Inova Simples preencherão cadastro básico com as seguintes informações: I - qualificação civil, domicílio e CPF; II - descrição do escopo da intenção empresarial inovadora e definição da razão social, que deverá conter obrigatoriamente a expressão "Inova Simples (I.S.
+)"; III - autodeclaração, sob as penas da lei, de que o funcionamento da empresa submetida ao regime do Inova Simples não produzirá poluição, barulho e aglomeração de tráfego de veículos, para fins de caracterizar baixo grau de risco, nos termos do § 4º do art.
+6º desta Lei Complementar; IV - definição do local da sede, que poderá ser comercial, residencial ou de uso misto, sempre que não proibido pela legislação municipal ou distrital, admitindo-se a possibilidade de sua instalação em locais onde funcionam parques tecnológicos, instituições de ensino, empresas juniores, incubadoras, aceleradoras e espaços compartilhados de trabalho na forma de coworking; e V - em caráter facultativo, a existência de apoio ou validação de instituto técnico, científico ou acadêmico, público ou privado, bem como de incubadoras, aceleradoras e instituições de ensino, nos parques tecnológicos e afins.
+§ 5º Realizado o correto preenchimento das informações, será gerado automaticamente número de CNPJ específico, em nome da denominação da empresa Inova Simples, em código próprio Inova Simples.
+§ 6º A empresa submetida ao regime do Inova Simples constituída na forma deste artigo deverá abrir, imediatamente, conta bancária de pessoa jurídica, para fins de captação e integralização de capital, proveniente de aporte próprio de seus titulares ou de investidor domiciliado no exterior, de linha de crédito público ou privado e de outras fontes previstas em lei.
+§ 7º No portal da Redesim, no espaço destinado ao preenchimento de dados do Inova Simples, deverá ser criado campo ou ícone para comunicação automática ao Instituto Nacional da Propriedade Industrial (INPI) do conteúdo inventivo do escopo da inciativa empresarial, se houver, para fins de registro de marcas e patentes, sem prejuízo de o titular providenciar os registros de propriedade intelectual e industrial diretamente, de moto próprio, no INPI.
+§ 8º O INPI deverá criar mecanismo que concatene desde a recepção dos dados ao processamento sumário das solicitações de marcas e patentes de empresas Inova Simples.
+§ 9º Os recursos capitalizados não constituirão renda e destinar-se-ão exclusivamente ao custeio do desenvolvimento de projetos de startup de que trata o § 1º deste artigo.
+É permitida a comercialização experimental do serviço ou produto até o limite fixado para o MEI nesta Lei Complementar.
+Na eventualidade de não lograr êxito no desenvolvimento do escopo pretendido, a baixa do CNPJ será automática, mediante procedimento de autodeclaração no portal da Redesim.
+O disposto neste artigo será regulamentado pelo Comitê Gestor do Simples Nacional".Direito, inovação e technologia: análise econômica das fintechs REVISTA MERITUM • v .15 • n .3 • p .
+2020 115O artigo 65-A, §4º, da LC 123/16 traz as informações que devem ser prestadas, através de preenchimento de cadastro pelos empreendedores que adotarão o Inova Simples.
+Dentre estas informações, destaca-se o que consta no inciso II, que preleciona que a razão social da startup que adotar este regime especial simplificado deverá conter, obrigatoriamente, a expressão "Inova Simples (I.S.)".
+Ainda, os recursos capitalizados pela startup que adotar este regime, não constituirão renda e serão destinados, exclusivamente, para o custeio do desenvolvimento dos seus projetos.
+Além disso, a Lei faculta a comercialização experimental, pela startup , do serviço ou produto até o limite fixado para o microempreendedor individual.
+Portanto, a alteração trazida pela LC 167/19, 19 é fortemente voltada para a startup em seu estágio inicial.
+Todavia, ao caracterizar e conceituar uma startup , mostrou um grande avanço na legislação brasileira.
+Porém, percebe-se que referidas alterações carecem de maiores regulamentações e esclarecimentos, tendo em vista que ainda há lacunas a serem preenchidas.
+FINTECHS: TECNOLOGIA E INOVAÇÃO DOS SERVIÇOS FINANCEIROS O termo fintech junta a atividade de finanças com tecnologia (em inglês, financial technology ), e pode ser utilizado para se referir a empresas e negócios que apliquem tecnologia para prestar serviços financeiros ou serviços relacionados a serviços financeiros (OIOLI; SILVA; ZILIOTI, 2019, p. 187).
+De acordo com Rébecca Menat, diretora de comunicações do The Assets (2017, p. 10), fintech significa tecnologia financeira e "engloba uma nova onda de empresas mudando a maneira que as pessoas pagam, enviam dinheiro, emprestam e investem".
+São exemplos de fintechs : NuBank, Creditas, GuiaBolso, PayPal, Bidu, PicPay, Toro Investimentos, Neon, QuintoAndar, Méliuz, dentre outras.
+O Banco Central define as fintechs da seguinte forma: Fintechs são empresas que promovem inovações nos mercados financeiros por meio do uso intenso de tecnologia, com potencial para criar novos modelos de negócios.
+Internacionalmente, as fintechs são classificadas da seguinte forma: de pagamento, compensação e liquidação, depósito, empréstimo e levantamento de capital, financiamento, e gestão de investimentos.
+No Brasil, podemos identificar as seguintes categorias de fintechs : de pagamento, gestão financeira, empréstimo, investimento, financiamento, seguro, negociação de dívidas, criptoativos e Distributed Ledger Technologies (DL Ts), câmbio, e multisserviços (BRASIL, 2018).
+Conforme Mariana Congo (2017), fintech é o termo usado para descrever empresas que prestam serviços de natureza financeira, tendo o uso da tecnologia como seu diferencial, sendo que todos os seus clientes são atendidos apenas pelo computador ou smartphone .Lucas Vinicios Cruz e Henrique Avelino Lana REVISTA MERITUM • v .15 • n .3 • p .
+2020 116A Equipe Nubank (2019), define as fintechs como "startups ou empresas que desenvolvem produtos financeiros totalmente digitais, menos burocráticos, mais transparentes e que desafiam o mercado dominado pelos grandes bancos".
+Esta terminologia teve origem na cidade de New York, em um programa de aceleração de startups desenvolvido pela Accenture, em parceria com a Prefeitura de New York.
+Com o tempo, fintech passou a designar o seguimento de startups que inovam os serviços financeiros, baseando-se em tecnologia e, assim, criando novos modelos de negócio em áreas como conta corrente, cartão de crédito, empréstimos pessoais e corporativos, pagamentos, investimentos, seguros, entre outros (GANZER, et al., 2017) Neste sentido, as fintechs utilizam a tecnologia para conseguirem inovar e aprimorar os serviços financeiros fornecidos pelos bancos, ou seja, "as empresas do ramo utilizam recursos tecnológicos amplamente disseminados para criar metodologias, processos e ferramentas que facilitam o acesso a serviços financeiros" (ALECRIM, 2018).
+Ganzer, citando o Manual da OECD (GANZER, et al., p. 5, apud OECD, 2005), afirma que inovar não significa necessariamente criar algo que nunca existiu, mas consiste também no apri moramento das técnicas produtivas que podem afetar desde a qualidade até as características físicas do produto ou serviço, ou até mesmo o desenvolvimento de modelos de negócios econômicos.
+Neste diapasão, as fintechs oferecem os mais diversos serviços financeiros, tais como financiamentos, financiamentos alternativos, seguros, gestão patrimonial, gestão de finanças, pessoais, pagamentos, investimentos, gestão de finanças empresariais e bancos digitais, sendo que estes serviços são oferecidos por meio de celular ou internet banking sem que haja necessidade de deslocamento físico até a instituição (BIGNARDI; PIACENTE, 2018, p. 569).
+4.1 A REGULAMENTAÇÃO DAS FINTECHS PELO CONSELHO MONETÁRIO NACIONAL Atualmente, não há nenhuma lei que regule diretamente as fintechs .
+Porém, em 2018, o Conselho Monetário Nacional (CMN) editou a Resolução n. 4.656, de 26 de abril de 2018, que dispõe sobre a fintech exclusivamente de crédito.
+De acordo com o Banco Central, as fintechs de crédito são instituições financeiras que concedem e intermediam operações de crédito (BRASIL, 2018).
+Neste diapasão, conforme o artigo 1º, da Resolução n. 4.656/18, esta criou a Sociedade de Crédito Direto (SCD) e a Sociedade de Empréstimo Entre Pessoas (SEP), disciplinou a realização de operações de empréstimo e de financiamento entre pessoas por meio de plataforma eletrônica e estabelece os requisitos e os procedimentos para autorização para funcionamento, transferência de controle societário, reorganização societária e cancelamento da autorização dessas instituições.
+De acordo com esta Resolução, tanto a SCD, quanto a SEP são consideradas instituições financeiras, podendo operar exclusivamente por meio de plataformas digitais, ou seja, pela internet ou aplicativos (OIOLI; SILVA; ZILIOTI, 2019, p. 190).Direito, inovação e technologia: análise econômica das fintechs REVISTA MERITUM • v .15 • n .3 • p .
+2020 117O artigo 3º desta Resolução dispõe que a SCD é instituição financeira que tem por objeto a realização de operações de empréstimo, de financiamento e de aquisição de direitos creditórios exclusivamente por meio de plataforma eletrônica, com utilização de recursos financeiros que tenham como única origem capital próprio.
+Já a SEP está prevista no artigo 7º, da Resolução 4.656/18, que preleciona que a SEP é uma instituição financeira, que tem por objeto a realização de operações de empréstimo e de financiamento entre pessoas exclusivamente por meio de plataforma eletrônica.
+Oioli, Silva e Zilioti (2019, p. 191), esclarecem que a principal diferença entre a SCD e a SEP é que a primeira só poderá atuar utilizando capital próprio, enquanto a segunda poderá captar recursos das partes envolvidas na operação, agindo como intermediário das instituições financeiras tradicionais, sem reter o risco de crédito.
+Abaixo, veja-se quadro comparativo da SCD e da SEP , criado por Oioli, Silva e Zilioti (2019, p. 190-191): SCD SEP ObjetoEmpréstimos; Financiamentos; e Aquisição de Direitos CreditóriosEmpréstimos e Financiamentos Origem do Capital Próprio Credores e devedores Forma de atuaçãoExclusivamente por plataforma eletrônicaExclusivamente por plataforma eletrônica Outros serviçosAnálise de crédito para terceiros; Cobrança de crédito para terceiros; Atuação como representante de seguros por meio de plataforma eletrônica; e Emissão de moeda eletrônicaAnálise de crédito para clientes e terceiros; Cobrança de crédito para clientes e terceiros; Atuação como representante de seguros; e Emissão de moeda eletrônica Denominação "Sociedade de Crédito Direto" "Sociedade de Empréstimo entre Pessoas" VedaçõesCaptar recursos públicos, exceto mediante emissão de ações; e Participar do capital de instituições financeirasRealizar operações de empréstimo e financiamento com recursos próprios; Participar do capital de instituições financeiras; Coobrigar-se ou prestar qualquer tipo de garantia nas operações de empréstimo ou financiamento, exceto em algumas hipóteses; remunerar ou utilizar em seu benefício os recursos captados pelas operações de empréstimo ou financiamento; transferir recursos aos devedores antes de sua disponibilização pelos credores; transferir recursos aos credores antes do pagamento pelos devedores; manter recursos dos credores e dos devedores em conta de sua titularidade não vinculados às operações de empréstimo ou financiamento; e vincular o adimplemento da operação de crédito a esforço de terceiros ou do devedor, na qualidade de empreendedor.Lucas Vinicios Cruz e Henrique Avelino Lana REVISTA MERITUM • v .15 • n .3 • p .
+2020 118Ainda de acordo com os autores, esta Resolução também estabelece as diretrizes para a obtenção da autorização para que uma fintech funcione como SCD ou SEP , bem como os procedimentos a serem observados em suas operações.
+Em suas palavras: No caso da SCD, o empréstimo ou financiamento deve ser realizado sempre por meio de plataforma eletrônica, com utilização exclusiva de recursos próprios.
+Já com relação à SEP o empréstimo ou financiamento se iniciará com a manifestação inequívoca de vontade das partes (potenciais credores e devedores).
+Em seguida, ocorrerá a disponibilização, pelos credores, dos recursos objeto da transação à SEP , que por sua vez celebrará instrumento representativo do crédito com os devedores e com os credores.
+Apenas após a conclusão desta etapa que a SEP poderá realizar a transferência dos recursos aos devedores, de modo a assegurar que entidade não retenha para si o risco de crédito decorrente de eventual inadimplemento das partes envolvidas na transação (OIOLI; SILVA; ZILIOTI, 2019, p. 191).
+Portanto, apenas as fintechs de crédito possuem regulamentação pela CMN, consistentes em Sociedade de Crédito Direto (SCD) e Sociedade de Empréstimo Entre Pessoas (SEP).
+VANTAGENS DAS FINTECHS: REDUÇÃO DOS CUSTOS DE TRANSAÇÃO E BUSCA PELA EFICIÊNCIA De acordo com Kashyap e Weber (2017, p. 227), internet, mobilidade, redes sociais e a ascensão de sites de comparação de preços mudaram o jogo ao longo da última década e criaram uma nova geração de clientes que exigem simplicidade, velocidade e conveniência em suas interações com os prestadores de serviços financeiros.
+Assim, as fintechs colocam os seus clientes no centro do seu modelo de negócios.
+Para Spiros Margaris (2017, p. 240), conselheiro da FinTech Forum e CEO do Margaris Advisory, fintechs são especializadas e focadas na adaptação aos sonhos e desejos dos clientes, "são, portanto, mais flexíveis e adaptáveis do que as grandes empresas financeiras.
+Além disso, sua razão de existir e futuro estão sempre intimamente ligados com a satisfação das necessidades e desejos dos clientes".
+Em razão do uso da tecnologia, as fintechs possuem menor custo operacional, motivo pelo qual os serviços oferecidos chegam ao consumidor com um preço mais baixo que os serviços ofertados por instituições financeiras tradicionais.
+A título de ilustração, a fintech Creditas, que atua com empréstimos com garantia, faz empréstimos a uma taxa de 0,99% ao mês, conforme informado pelo seu site8.
+Em contrapartida, de acordo com estatísticas apresentadas pelo Banco Central9, os bancos tradicionais cobram taxa de juros mensais multo superior, como o Banco Santander, que impõe uma taxa mensal de 14,77, ou a Caixa Econômica Federal, com taxa mensal de 12%.
+8 Disponível em: Acesso em 06 ago.
+9 Disponível em: -Consolidadas-porTaxasAnuais.rdl&nome=Pessoa%20F%C3%ADsica%20-%20Cheque%20especial&parametros=tipopesso a:1;modalidade:216;encargo:101&exibeparametros=false&exibe_paginacao=false.
+2019.Direito, inovação e technologia: análise econômica das fintechs REVISTA MERITUM • v .15 • n .3 • p .
+2020 119Neste sentido, as fintechs aparecem como uma opção mais viável para o consumidor pessoa física e as sociedades empresas, através de uma estrutura de custos significativamente mais baixa que os bancos tradicionais, tendo em vista o seu modelo de negócio mais enxuto, através da utilização da tecnologia.
+Com isso, pode-se oferecer soluções mais eficientes, com serviços financeiros personalizados de acordo com as necessidades do usuário, por exemplo, empréstimos, desconto de recebíveis, serviços de pagamento e recebimento, gestão de fluxo de caixa, remessas de pagamento offshore e trade finance eletrônico (FARIA, 2018, p. 53).
+Um grande diferencial das fintechs em relação às instituições financeiras tradicionais é o uso da tecnologia, pois é possível que os clientes controlem os produtos através dos seus smartphones (NUBANK, 2019).
+Outra vantagem é a desnecessidade de deslocamento até agências ou sede das fintechs, tendo em vista que tudo é contratado e solucionado através da internet.
+Em seu site, a Nubank cita como vantagens das fintechs : No geral, as fintechs são conhecidas por oferecer soluções financeiras inéditas, menos burocráticas, mais intuitivas de serem usadas – afinal, elas normalmente estão disponíveis no smartphone do cliente – e com custos baixíssimos, às vezes inexistentes, para os usuários.
+Um exemplo são os cartões de crédito sem anuidade ou as contas digitais gratuitas.
+Por já terem nascido no mundo digital e não contarem com grandes estruturas físicas, como as agências bancárias, seus custos são muito reduzidos.
+Por isso muitas oferecem produtos livres de taxas e conseguem escalar rapidamente.
+Em resumo, as fintechs chegam no mercado trazendo produtos financeiros inovadores.
+Em muitos casos, eles foram desenhados para serem mais simples e vantajosos para os clientes (NUBANK, 2019).
+Em razão de todas estas vantagens, as fintechs conseguem inovar o sistema financeiro, tornando-o mais eficiente, tendo em vista que, com a sua utilização, é possível reduzir os custos de transação.
+Isto, pois, como foi acima exposto, o custo de transação é aquilo de que se necessita abrir mão, pagar, ou gastar tempo e dinheiro, para efetivação, manutenção, precaução, alienação ou cessão dos efeitos jurídicos de uma relação contratual (LANA, 2014, p. 29).
+Com as fintechs , o usuário economiza dinheiro, pois as transações são menos custosas e, muitas vezes, gratuitas, bem como as taxas de juros são muito inferiores à cobrada pelas instituições financeiras tradicionais.
+Além disso, o usuário também consegue economizar tempo, já que, em regra, as fintechs operam exclusivamente pela internet, não sendo necessária a presença física do contratante, poupando-o de perder tempo com deslocamento.
+Assim, caso seja necessária a realização de transferência de valores, por exemplo, as partes conseguem fazê-la de qualquer lugar através de um computador ou smartphone .
+Ainda, algum empresário ou sociedade empresária que necessite de capital de giro para manter as operações, consegue fazer um emprés-Lucas Vinicios Cruz e Henrique Avelino Lana REVISTA MERITUM • v .15 • n .3 • p .
+2020 120timo de forma rápida, eficiente e segura, a juros mais baixos do que tradicionalmente se consegue.
+Consequentemente, acarretará redução dos custos de transação.
+Com a redução dos custos de transação, haverá maior eficiência nos negócios jurídicos celebrados, resultando na possibilidade de celebração de novos contratos, novas transações e cada vez mais haja organização e acúmulo dos fatores de produção, resultando em maximização de riquezas do lucro.
+Portanto, pode-se afirmar que as fintechs tornam o serviço financeiro e as relações jurídicas mais eficientes, pois consegue reduzir os custos de transação, beneficiando os seus usuários.
+6 CONCLUSÃO Este trabalho não pretende esgotar o tema.
+Tratam-se de reflexões construtivas, acadêmicas e não definitivas, mas que procuraram ser expostas de forma técnica, objetiva, completa e fundamentada.
+O problema a ser respondido neste artigo é se o uso de fintechs pode contribuir, especificamente, também, para reduzir os custos de transação, tornando as operações financeiras mais céleres e mais eficientes.
+Como foi acima exposto, a Análise Econômica do Direito (AED), trata-se de um método de estudo jurídico-econômico, em que os princípios da Ciência Econômica são aplicados ao Direito, isto é, a aplicação da teoria econômica ao Direito.
+Assim, com o estudo da AED, busca-se, através dos métodos da Ciência Econômica, reduzir os custos de transação, que é tudo aquilo que se precisa pagar ou abrir mão para constituir, manter, proteger ou transferir os direitos e deveres decorrentes de uma relação contratual.
+Com a redução dos custos de transação, será possível alcançar a eficiência e, assim, aumentar o lucro.
+Assim, quando da celebração dos negócios jurídicos, as partes devem sempre buscar a redução dos custos de transação e a maximização dos resultados, alcançando-se a tão almejada eficiência.
+Neste diapasão, com as novas tecnologias, cresce, cada vez mais, o número de startups , que é uma mistura de inovação, tecnologia, incertezas e riscos, em que um grupo de pessoas trabalham juntos em prol do desenvolvimento de um produto ou serviço, replicável e escalável.
+Inclusive, o conceito adotado pela LC 167/19, ao regulamentar as startups , preservou estas características.
+Algumas startups atuam no setor financeiro.
+A estas, dá-se o nome de fintech , que é a startup que usa a tecnologia para aprimorar e inovar os serviços financeiros.
+As fintechs prestam serviços como empréstimos, financiamentos, pagamentos, gestão financeira, gestão patrimonial, dentre outros, todos utilizando a tecnologia.Direito, inovação e technologia: análise econômica das fintechs REVISTA MERITUM • v .15 • n .3 • p .
+2020 121Apenas as fintechs de crédito são regulamentadas no Brasil, através da Resolução n. 4.656/18, do Conselho Monetário Nacional, que criou a Sociedade de Crédito Direto (SCD) e a Sociedade de Empréstimo Entre Pessoas (SEP), disciplinou a realização de operações de empréstimo e de financiamento entre pessoas por meio de plataforma eletrônica e estabelece os requisitos e os procedimentos para autorização para funcionamento, transferência de controle societário, reorganização societária e cancelamento da autorização dessas instituições.
+Em razão do uso da tecnologia, as fintechs conseguem prestar serviços financeiros, a valores mais baixos do que usualmente cobrado por uma instituição financeira tradicional.
+Além disso, as fintechs dispensam o deslocamento para comparecimento em agências físicas, o que economiza o tempo do usuário.
+As fintechs possuem inúmeras vantagens que trazem inovação ao sistema financeiro, acarretando na redução dos custos de transação e maior eficiência nos serviços financeiros prestados, resultando na possibilidade de celebração de novos contratos, novas transações e cada vez mais haja organização e acúmulo dos fatores de produção, resultando em maximização de riquezas do lucro.
+Portanto, como hipótese de resposta à pergunta problema que foi proposta neste artigo, constata-se que as fintechs podem sim contribuir para reduzir os custos de transação e aumentar a eficiência.
+Disponível em Acesso em 03 jun.
+Análise Econômica do Direito: Contribuições e Desmistificações.
+Disponível em: Acesso em: 22 ago.
+BIGNARDI, Silvia Dourado Casado; PIACENTE, Fabricio.
+Fintech, a inovação no segmento bancário e o uso da tecnologia blockchain, uma análise bibliométrica do estado da literatura.
+Disponível em sp.gov.br/pos-graduacao/workshop-de-pos-graduacao-e-pesquisa/013-workshop-2018/artigos/SistemasProdutivos/Tecnologia_Informacao/Fintech_a_inovacao_no_segmento_bancario_e_o_uso_da_tecnologia_blockchain.pdf.
+Pessoa física – cheque especial .
+Disponível em rdl&nome=Pessoa%20F%C3%ADsica%20-%20Cheque%20especial&parametros=tipopessoa:1;modalidade:216;e ncargo:101&exibeparametros=false&exibe_paginacao=false.
+Resolução nº 4.656, de 26 de abril de 2018.
+Disponível em normativos/busca/downloadNormativo.asp?arquivo=/Lists/Normativos/Attachments/50579/Res_4656_v1_O.
+CHISHTI, Susanne; BARBERIS, Janos.
+A Revolução Fintech: O manual das startups financeiras .
+Rio de Janeiro: Alta Books Editora, 2017.Lucas Vinicios Cruz e Henrique Avelino Lana REVISTA MERITUM • v .15 • n .3 • p .
+2020 122COASE, Ronald H. O Problema do Custo Social.
+Disponível em: Acesso em: 28 ago.
+O que é fintech e como ela revoluciona hoje o mercado financeiro?.
+Disponível em magnetis.com.br/o-que-e-fintech/.
+Tradução: Luis Marcos Sander, Francisco Araújo da Costa.
+Fintech: o que é e por que está em alta?
+Disponível em Acesso em 04 jun 2019.
+Disponível em Acesso em 08 jun.
+O que é fintech e por que esse termo ficou tão popular?
+Disponível em com.br/fintech-o-que-e/.
+O que é fintech, a revolução no mercado financeiro.
+Disponível em Acesso em 03 jun 2019.
+Fintechs de crédito e intermediários financeiros: uma análise comparativa de eficiência.
+Dissertação (Mestrado em Empreendedorismo) - Faculdade de Economia, Administração e Contabilidade, Universidade de São Paulo, São Paulo, 2018. doi:10.11606/D.12.2019.tde-07012019-112337.
+FEIGELSON, Bruno; NYBØ, Erik Fontenele; FONSECA, Victor Cabral.
+Disponível em Acesso em 03 jun 2019.
+Disponível em FintechLab_2017.pdf.
+JÚDICE, Lucas Pimenta; NYBO, Erik Fontenele.
+KASHYAP , Manoj K.; WEBER, Grégory.
+Como tecnologias emergentes mudarão os serviços financeiros.
+In: CHISHTI, Susanne; BARBERIS, Janos.
+A Revolução Fintech: O manual das startups financeiras .
+Rio de Janeiro: Alta Books Editora, 2017.
+Conheça algumas das maiores fintechs brasileiras.
+Disponível em com.br/maiores-fintechs -brasileiras/.
+Dissolução parcial nas sociedades limitadas: Análise econômica sobre a inclusão do aviamento na apuração de haveres.
+Belo Horizonte: Arraes Editores.
+Falência e Recuperação de Empresas: Análise econômica do direito.
+Belo Horizonte: Editora D'Plácido.
+Sociedades Limitadas: Uma Leitura Via Law And Economics.
+In: SCIENTIA IURIS, Londrina, v. 18, n. 1, p. 9-43, jul.
+Disponível em: viewFile/15206/14724.
+Tradução: Allan Vidigal Hastings.
+O supermercado de fintech – o banco está morto, vida longa ao banco!.
+In: CHISHTI, Susanne; BARBERIS, Janos.
+A Revolução Fintech : O manual das startups financeiras.
+Rio de Janeiro: Alta Books Editora, 2017.
+MORETTI, Eduardo; OLIVEIRA, Leandro Antônio Godoy.
+Startups: Aspectos jurídicos relevantes.
+Por que estamos tão animados com FinTech .
+In: CHISHTI, Susanne; BARBERIS, Janos.
+A Revolução Fintech: O manual das startups financeiras .
+Rio de Janeiro: Alta Books Editora, 2017.
+OIOLI, Erik Frederico; SILVA, Rafael Toni; ZILIOTI, Matheus.
+Fintechs e a regulação do sistema financeiro nacional .
+In: OIOLI, Erik Frederico (coord.).
+Manual de Direito para Startups .
+São Paulo: Thomson Reuters Brasil, 2019.Direito, inovação e technologia: análise econômica das fintechs REVISTA MERITUM • v .15 • n .3 • p .
+2020 123GANZER, Paula Patrícia.
+Startups fintechs : uma análise a partir do radar da inovação.
+Disponível em https:// www.researchgate.net/publication/323199144_STARTUPS_ FINTECHS_UMA_ANALISE_A_PARTIR_DO_RADAR_ DA_INOVACAO.
+Rio de Janeiro: Campus Jurídico.
+PIMENTA, Eduardo Goulart; BOGLIONE, Stefano.
+Princípios e Conceitos Fundamentais da Análise Econômica do Direito .
+In: MARÇAL; Antônio Cota; PIMENTA; Eduardo Goulart; NUNES, Maria Emília Naves; MAGALHÃES, Rodrigo Almeida (Org.).
+Os Princípios na Construção do Direito .
+Rio de Janeiro: Lumen Juris, 2013.
+PIMENTA, Eduardo Goulart; LANA, Henrique Avelino Rodrigues de Paula.
+Análise Econômica do Direito e Sua Relação Com o Direito Civil Brasileiro.
+In: Revista da Faculdade de Direito da Universidade Federal de Minas Gerais.
+Direito e economia num mundo globalizado: cooperação ou confronto?
+PINHEIRO, Armando Castelar; SADDI, Jairo.
+RIBEIRO, Márcia Carla Pereira; GALESKI, Irineu Júnior.
+Contratos Empresariais e análise econômica .
+In: TIMM, Luciano Benetti (Org.).
+Porto Alegre: Livraria do Advogado, 2008; SANTOS, Ricardo Paulo Henrique dos.
+As Fintech na geração Millennials.
+Disponível em bitstream/10400.26/23184/1/RicardoSantos_ISG.pdf.
+In: SZTAJN, Raquel; ZYLBERSZTAJN, Décio (Org.).
+Análise econômica do direito e das organizações .
+SZTAJN, Raquel; ZYLBERSZTAJN, Décio.
+Direito e Economia: Análise econômica do direito e das organizações .
+2005; VIANNA, Fernando Ressetti Pinheiro Marques; BARROS, Letícia Lins de Souza.
+Fintechs e bancos tradicionais: parceria ou competição?.
+Disponível em hgLN0J: Acesso em 15 jul.
+Recebido/ Received : 23.10.2019.
+Aprovado/ Approved: 05.06.2020.

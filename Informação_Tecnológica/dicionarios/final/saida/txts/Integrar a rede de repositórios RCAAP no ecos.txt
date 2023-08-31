@@ -1,0 +1,85 @@
+118 Ci.Inf., Brasília, DF , v.48 n.3 (Supl.
+2019Integrar a rede de repositórios RCAAP no ecossistema de gestão de ciência – PTCRIS Paulo Lopes Bacharel em Systems and Information Technology pela Universidade Atlântica - Lisboa, Portugal.
+Project manager at RCAAP (Área do Conhecimento Científico) da Fundação para a Ciência e a Tecnologia (FCT) - Lisboa, Portugal.
+E-mail: plopes@fccn.pt José Carvalho Post-graduation in Information Systems pela Universidade do Minho (UMinho) – Portugal.
+Gestor de Projetos da Universidade do Minho (UMinho) – Portugal.
+E-mail: jcarvalho@sdum.uminho.pt Paulo Graça RCAAP technical Engineer (FCCN) da Fundação para a Ciência e a Tecnologia (FCT) – Lisboa - Portugal.
+E-mail: Paulo.graca@fccn.pt Fernando Ribeiro Fundação para a Ciência e a Tecnologia (FCT), Lisboa, Portugal.
+E-mail: Fernando.ribeiro@fccn.pt Data de submissão: 27/09/2019.
+Data de aprovação no ConfOA: 12/06/2019.
+Data de publicação RESUMO Os repositórios institucionais são parte importante do ecossistema de gestão de ciência.
+Para integrar esses sistemas num ecossistema mais amplo, é necessário garantir o cumprimento de um quadro normativo que garanta a interoperabilidade entre os sistemas.
+Esta comunicação tem como principal objetivo dar a conhecer o trabalho desenvolvido pelos repositórios digitais no sentido de aumentar o seu nível de interoperabilidade para facilitar os processos de workflow dos utilizadores nas diversas plataformas do ecossistema.
+Palavras-chave : Interoperabilidade.
+RCAAP repository network integration into science management ecosystem – PTCRIS ABSTRACT Institutional repositories are an important part of the science management ecosystem.
+To integrate these systems into a wider ecosystem, it is necessary to ensure compliance with a regulatory framework that ensures interoperability between systems.
+This paper aims to show the work done at the level of digital repositories in order to increase their level of interoperability to facilitate the workflow processes of users on various ecosystem platforms.
+Curriculum management system.Ci.Inf., Brasília, DF , v.48 n.3 (Supl.
+2019 119Integrar a rede de repositórios RCAAP no ecossistema de gestão de ciência – PTCRIS Integre la red de repositorios RCAAP en el ecosistema de gestión científica - PTCRIS RESUMEN Los repositorios institucionales son una parte importante del ecosistema de gestión científica.
+Para integrar estos sistemas en un ecosistema más amplio, es necesario garantizar el cumplimiento de un marco regulatorio que garantice la interoperabilidad entre sistemas.
+Esta comunicación tiene como objetivo dar a conocer el trabajo realizado a nivel de repositorios digitales con el fin de aumentar su nivel de interoperabilidad de modo a facilitar los procesos de flujo de trabajo de los usuarios en diversas plataformas del ecosistema.
+Palabras clave : Interoperabilidad.
+INTRODUÇÃO Este trabalho descreve o papel e a importância das normas e diretrizes na integração de repositórios institucionais dentro dos ecossistemas mais amplos para melhor gerir a investigação, bem como para melhor apoiar o acesso aberto, dados abertos e uma ciência aberta.
+Este documento relata o contexto, estratégia e trabalho desenvolvido até agora para tornar a rede portuguesa de repositórios (RCAAP) compatível com o ecossistema de gestão de ciência (PTCRIS), adotando o seu quadro normativo.
+Serão apresentados exemplos práticos do trabalho efetuado e abordadas as questões estratégicas relacionadas com esse trabalho (desafios, necessidades, cenários e metodologias).
+ANÁLISE E DISCUSSÃO DOS RESULTADOS A gestão de ciência e a tecnologia e ensino superior tem vindo, ao longo do tempo, a tornarse cada vez mais complexa.
+Contribuem para essa complexidade, entre outros fatores, o aumento do número de agentes, instrumentos e a quantidade de informação envolvidos nos ciclos do processo de investigação e dos processos do ensino superior (CARVALHO, J. et al., 2016).Para fazer face a essa complexidade e ao seu aumento, têm vindo a ser desenvolvidos e adotados, em todo o mundo, sistemas integrados de ciência, tecnologia e de ensino.
+Em Portugal, as instituições de ensino superior (IES) têm feito esforços notáveis na adoção desses sistemas.
+Contudo, esses sistemas, com diferentes níveis de maturidade, tendem a operar de forma isolada.
+Nesse contexto, em 2014 surge o programa PTCRIS1 (Portuguese Current Research Information System).
+O PTCRIS é um programa desenvolvido pela Unidade de Computação Científica Nacional (UCCN) da FCT, que tem como objetivo o desenvolvimento sustentado de um ecossistema integrado de informação de suporte à atividade científica nacional (MOREIRA, J.M.
+O desenvolvimento de tal ecossistema é crucial para garantir tanto a desburocratização e a simplificação dos processos administrativos, quanto a produção, gestão e acesso a dados fidedignos, completos e atualizados, dos quais depende a efetividade e eficiência dos processos de tomada de decisão.
+Para dar cumprimento ao seu objetivo, o PTCRIS dedica-se à definição de um quadro normativo e à criação de infraestruturas que viabilizem a adoção desse normativo (figura 1): 1 Disponível em: .
+2019.120 Ci.Inf., Brasília, DF , v.48 n.3 (Supl.
+2019Paulo Lopes / José Carvalho / Paulo Graça / Fernando Ribeiro Figura 1 ‒ Âmbito de atuação do PTCRIS O RCAAP 2 é o principal instrumento para a implementação do Open Access (OA) em Portugal.
+Tem por missão promover, apoiar e facilitar a adoção do acesso aberto ao conhecimento científico em Portugal e tem como objetivo a recolha, agregação e indexação dos conteúdos científicos em acesso aberto (ou acesso livre) existentes nos repositórios institucionais das entidades nacionais de ensino superior e outras organizações de I&D.
+(DONATO, 2010) 2 Disponível em: .
+2019.Como serviço nacional que agrega a produção científica de vários repositórios institucionais e revistas científicas, o RCAAP constitui peça importante do ecossistema PTCRIS (ver figura 2).
+A adoção pelo RCAAP dos normativos de interoperabilidade definidos pelo PTCRIS é crucial para a sua integração com outros sistemas de gestão de ciência.
+Figura 2 - Adopção no RCAAP do quadro normativo do PTCRIS Ci.Inf., Brasília, DF , v.48 n.3 (Supl.
+2019 121Integrar a rede de repositórios RCAAP no ecossistema de gestão de ciência – PTCRIS Tendo sempre como ponto de referência o utilizador (autores, investigadores, instituições), o aumento da interoperabilidade na rede RCAAP alinha-se com a visão geral do PTCRIS, que defende o princípio "enter once, re-use multiple".A fim de promover esse princípio no RCAAP , foram identificados cinco blocos de casos de uso (figura 3) relacionados com necessidades de interação entre os utilizadores e sistemas ou apenas entre sistemas (trocas de informação máquina - máquina): Figura 3 ‒Blocos de casos de uso de interoperabilidade Cada um destes blocos prevê um conjunto de ações que promovem a interoperabilidade tendo por base o quadro normativo definido pelo PTCRIS: Bloco 1 – Claim – Contempla a possibilidade de um autor: a) relacionar a sua conta Ciência ID (o Ciência ID é um identificador único para investigadores em Portugal) com a sua conta local no seu repositório institucional; e, b) a possibilidade de reclamar os seus trabalhos no repositório.
+A figura 4 contextualiza o primeiro caso e mostra como a possibilidade de login via Ciência ID foi acrescentada ao repositório.
+O processo de login por essa via envolve o relacionamento da conta local com a conta Ciência ID.
+Caso esse relacionamento não seja validado, é criada uma nova conta no repositório:122 Ci.Inf., Brasília, DF , v.48 n.3 (Supl.
+2019Paulo Lopes / José Carvalho / Paulo Graça / Fernando Ribeiro Figura 4 ‒ Login no repositório com Ciência ID A figura 5 contextualiza o segundo caso.
+Do lado do sistema de gestão curricular (Ciência Viate3) foi criado um método de importação de trabalhos a partir do RCAAP .
+O utilizador pode selecionar vários critérios para isolar a sua produção científica - busca por autor, por título de trabalho, por repositório, por tipo de produção, por datas, entre outros.
+A API do portal RCAAP está a ser desenvolvida para permitir também a importação de trabalhos por identificador de autor (Ciência ID e/ou ORCID).
+2019.Bloco 2 – Depósito no Repositório a partir de entidades externas – Contempla a possibilidade de se enviar uma publicação para o repositório a partir de um sistema externo como, por exemplo, o sistema de gestão de currículos (Ciência Vitae).
+A figura 6 mostra o último passo do processo de envio de uma publicação para um repositório a partir da Plataforma Ciência Vitae: Figura 5 ‒ Importação de trabalhos a partir de plataforma Ciencia Vitae Ci.Inf., Brasília, DF , v.48 n.3 (Supl.
+2019 123Integrar a rede de repositórios RCAAP no ecossistema de gestão de ciência – PTCRIS Figura 6 ‒z Depósito a partir da plataforma Ciência Vitae Bloco 3 – Sincronização – Prevê a adoção do mecanismo de sincronização PTCRISync4 nos repositórios e no Portal RCAAP .
+Esse mecanismo já funciona em alguns sistemas do ecossistema, como é o caso da Plataforma Ciência Vitae.
+Na figura 7 podemos ver o ecrã onde são identificadas as produções já sincronizadas ou por sincronizar com o Orcid.Nesse caso o Orcid funciona com um Hub central que permite fazer circular a informação entre os diversos sistemas que adotem esse método de sincronização.
+Ao referenciar sua produção científica (no Repositório, no seu perfil Orcid ou no seu CV), o utilizador pode fazer circular essa informação entre os vários sistemas sem ter a necessidade de reintroduzir a informação em cada um dos sistemas.124 Ci.Inf., Brasília, DF , v.48 n.3 (Supl.
+2019Paulo Lopes / José Carvalho / Paulo Graça / Fernando Ribeiro Figura 7 ‒ Sincronização de informação com o perfil Orcid Bloco 4 – Controlo de autoridade – Prevê a introdução de mecanismos de controlo de autoridade para autores, instituições e financiamento.
+A figura 8 mostra como nos repositórios foi adicionada a possibilidade de relacionar um autor com seus identificadores (Ciência ID e/ou Orcid) no ato do depósito de uma publicação: Figura 8 ‒ Interface para seleção de autor (com identificador) Ci.Inf., Brasília, DF , v.48 n.3 (Supl.
+2019 125Integrar a rede de repositórios RCAAP no ecossistema de gestão de ciência – PTCRIS Bloco 5 – Tarefas de curadoria – Define tarefas de curadoria a executar com o objetivo de enriquecer as publicações existentes nos repositórios para dotálas com informação sobre identificação de autores, instituições e financiamento.
+TRABALHO EFETUADO Partindo das linhas de ação definidas e tendo por base os blocos anteriormente descritos, efetuou-se o seguinte trabalho: Repositórios digitais – A intervenção fez-se ao nível dos repositórios institucionais alojados no serviço SARI (serviço de alojamento de repositórios do RCAAP), que tem por base a versão 5 do DSpace.
+Foram acrescentadas as seguintes capacidades: A. introdução da possibilidade de autenticação através da conta Ciência ID; B. criação de uma interface que permite, no acto do depósito, associar o nome de um autor com o seu identificador (Ciência ID ou ORCID); C. alteração dos formulários de depósito para ficarem de acordo com as novas Guidelines 4 do OpenAIRE e com as definições COAR no que respeita a tipologias de trabalhos, tipos de acesso e versões dos documentos; D. alteração da interface OAI-PMH para expor a informação nos novos formatos; criação de novos fluxos de informação para suportar o depósito a partir de entidades externas.
+Paralelamente, a equipa do RCAAP tem vindo a trabalhar conjuntamente com a Duraspace para dotar a versão 7 do DSpace com capacidade de gerir novas entidades (autores, organizações e financiamento) e de suportar nativamente o esquema de metadados de acordo com as guidelines 4 do OpenAIRE.Portal RCAAP - O Portal RCAAP foi renovado em 2018, tendo por base o software do LaReferencia, com o objetivo principal de acabar com a limitação de suporte de esquemas de metadados hierárquicos que se verificava na versão anterior.
+O suporte de novos formatos prevê que o portal seja capaz de suportar a agregação, gestão e exposição de entidades CRIS: autores, organizações e financiamento.
+Para isso, está a ser efetuado um trabalho conjunto com a equipa do LaReferencia a fim de alterar o modelo de dados do software para que possa gerir as novas entidades.
+Está também a ser desenvolvida uma nova versão da API para exposição desse tipo de informação.
+A utilização de identificadores comuns para essas entidades vai permitir, por exemplo, que o portal possa apresentar páginas de perfis de autores tendo por base a informação agregada a partir dos repositórios (publicações, organizações, financiamento), podendo essas páginas serem ainda enriquecidas com informação adicional proveniente do curriculum vitae desse autor presente no sistema nacional de currículos.
+TRABALHO FUTURO O plano de trabalhos prevê duas atividades principais: a) continuar a implementar os casos de uso definidos nos cinco blocos de integrações RCAAP – PTCRIS; b) apoiar os desenvolvimentos do DSpace7.
+Como referido, o trabalho efetuado iniciou-se na versão 5 do Dspace, mas prevê a migração para a nova versão assim que ela estiver disponível.126 Ci.Inf., Brasília, DF , v.48 n.3 (Supl.
+2019Paulo Lopes / José Carvalho / Paulo Graça / Fernando Ribeiro CONCLUSÕES O objetivo de integrar a rede RCAAP no ecossistema de gestão de ciência PTCRIS tem esbarrado em inúmeras dificuldades, nomeadamente com o facto de as funcionalidades dos softwares de gestão de repositórios e revistas estarem concentradas na gestão de publicações, sem estar preparados para gerir outras entidades importantes do ecossistema de gestão de ciência, como é o caso dos autores, das organizações ou do financiamento.
+A fim de ultrapassar essas dificuldades, foram adoptadas duas grandes linhas de ação: Primeira, trabalhar juntamente com a comunidade responsável pelos principais softwares utilizados pelo RCAAP para influenciar o seu ciclo de desenvolvimento, a fim de que eles integrem funcionalidades de gestão de novas entidades e de adotem normas internacionais de classificação dos dados.
+Em seguida, modificar e adaptar os softwares, ferramentas e processo em utilização para que possam responder às necessidades de interoperabilidade que se pretendem.
+Pretende-se que este trabalho represente a visão de uma rede organizada de repositórios institucionais que combina um alinhamento nacional e internacional em relação às diretrizes e organização das informações dos diferentes sistemas.
+Os desenvolvimentos focam-se na reutilização da informação não apenas para o gestor de repositórios, mas também, e sobretudo, para o próprio utilizador, integrando e permitindo a sincronização de informações de diferentes fontes.
+Por fim, introduz o conceito de gestão de novas entidades, para além das publicações científicas, através dos diferentes sistemas.
+Espera-se que a adoção de normativos nacionais e internacionais comuns aos diversos sistemas de gestão de ciência e a gestão das novas entidades (autores, organizações e financiamento) pelos repositórios tragam benefícios a diversos níveis:– para os autores - fácil acesso à informação relevante sobre oportunidades de financiamento, pessoas, parceiros e/ou concorrentes.
+Permite identificar projetos, publicações e infraestruturas científicas.
+Gestão simplificada da sua informação através da introdução da informação uma vez e reutilização em múltiplas em sistemas do ecossistema PTCRIS.
+Agilização da compilação de dados para relatórios a partir de informação previamente introduzida no ecossistema; – para as organizações - facilitação da atividade de reporting, uma vez que a integração de sistemas facilita a reunião de informação autoritativa, completa, fidedigna e diversa sobre a prática científica, tornando mais célere a produção de relatórios.
+Facilitação do acesso a indicadores/ medidas do desempenho, permitindo uma avaliação do desempenho de investigadores / instituições mais fácil e rápida.
+Otimização dos processos de financiamento, uma vez que a existência de informação autoritativa, completa, fidedigna e atualizada sobre a atividade de investigação permite otimizar, quer do ponto de vista de concessão, quer de obtenção, o processo de financiamento.
+REFERÊNCIAS CARVALHO, J. et al.
+Integrar uma rede de repositórios no ecossistema de gestão de ciência nacional.
+Cadernos BAD , Lisboa, n. 2, p. 125-133, 2016.
+Disponível em: publicacoes/index.php/cadernos/article/view/1589/pdf .
+Disponível em: bitstream/10400.26/25454/1/14417-99852-2-PB.pdf .
+A aplicação do quadro normativo de Portuguese Current Research Information System (PTCRIS) to the Institutional Repositories of the Sientific Repository of Open Access of Portugal (RCAAP).
+Ponto de Acesso, Salvador, v.12, n.2, p. 2-17, 2018.
+Disponível em: bitstream/10400.26/25454/1/14417-99852-2-PB.pdf.

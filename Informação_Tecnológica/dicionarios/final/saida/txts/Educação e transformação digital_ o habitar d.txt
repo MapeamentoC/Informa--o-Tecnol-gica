@@ -1,0 +1,320 @@
+INTERFACES DA EDUCAÇÃO 1 Doutora em Informática na Educação e Mestre em Psicologia pela Universidade Federal do Rio Grande do Sul – UFRGS.
+Bacharel em Informática pela Universidade do Vale do Rio dos Sinos - UNISINOS.
+Atualmente, é professora -pesquisadora titular do Programa de P ósGraduação em Educação na UNISINO .
+2Doutor em Ciências da Educação pela Universidade de Coimbra, professor no departamento de Educação e Ensino a Distância da Universidade Aberta de Portugal.
+3Professor auxiliar com agregação na Universidade Aberta de P ortugal .
+Interfaces da Educ., Paranaíba, v.11, n.32, p. 764 - 790, 2020 ISSN 2177 -7691 Recebido em 22 de outubro de 2019 e aceito em 05 de agosto de 2020 764 Educação e transformação d igital : o habitar do ensinar e do aprender, epistemologias reticulares e ecossistemas de inovação Education and digital t ransformation: the habit of teaching and learning, reticular epistemologies and innovation ecosystems Eliane Schlemmer1 Leonel Morgado2 José António Marques Moreira3 Resumo: As transformações digitais têm provocado alterações na Educação, mas ainda não disseminadas.
+A compreensão da natureza, limites e potencialidades dessas transformações , exige um repensar das epistemologias e das teorias de aprendizagem.
+Propomos um quadro de interpretação dessas alterações, que encara o ensinar e o aprender enquanto percursos que se coengendram num habitar e co -habitar cada vez mais atópico, em contextos híbridos e multimodais.
+Por meio desse quadro, é possível compreender a transformação digital na Educaç ão enquanto deslocamento disruptivo num espaço -tempo de interações ecossistêmicas de inovação.
+Este quadro de interpretação nasce do cruzamento das contribuições de Di Felice sobre os movimentos epistemológico do processo de digitalização que nos leva a um a nova condição habitativa, pós -urbana e atópica, originando epistemologias reticulares; e da perspe ctiva dos Educação e transformação digital.
+Interfaces da Educ., Paranaíba, v.11, n.32, p. 764 - 790, 2020 ISSN 2177 -7691 765 ecossistemas educacionais como sistemas vivos e cognitivos de Capra, Latour e Di Felice, onde se conectam diferentes ecologias, para além das humanas.
+Abstract: Digital transformations have caused changes in education, but not yet disseminated.
+Understanding the nature, limit s, and potentialities of these transformations requires a rethinking of epistemologies and learning theories.
+We propose a framework for interpreting these changes, which views teaching and learning as paths that are co -engendered in an increasingly atopic dwelli ng and co -dwelling, in hybrid and multimodal contexts.
+Through the framework, it is possible to understand the digital transformation in education as disruptive displacement in space -time of ecosystem interactions of innovation.
+This framework of interpret ation arises from the intersection of Di Felice's contributions on the epistemological movements of the digitization process that leads us to a new inhabiting condition, post -urban and atopic, originating reticular epistemologies; and from the perspective of educational ecosystems as Capra, Latour, and Di Felice´s living and cognitive systems, where different ecologies connect in addition to human ones.
+Educação e Transformação Digital Vivemos a quarta revolução industrial (SCHWAB, 2016) provocada , principalmente, pelo desenvolvimento das pesquisas na área da Ciência da Computação.
+Ess a revolução é marcada pela emergência acelerada de diferentes Tecnologias Digitais (TD), interligadas por redes de comunicação Educação e transformação digital.
+Interfaces da Educ., Paranaíba, v.11, n.32, p. 764 - 790, 2020 ISSN 2177 -7691 766 sem fios, capazes de conectar, de forma inteligente, pessoas, coisas e lugares, ou seja, anything, anywhere, anytime , bem como map ear o s percursos dessa conexão e fazer recomendações.
+A Internet das Coisas Internet of Things (IoT), a Inteligência Artificial (IA), as Redes Neurais, o Big Data, os Learning Analytics , o Deep Learning , entre outras aplicações que exigem processamento d e imensos dados simultaneamente, impulsionam as pesquisas para o desenvolvimento da computação quântica1, o que tornará os computadores ordens de grandeza mais poderosos do que os supercomputadores atuais .
+Esse desenvolvimento tecnológico impulsiona o surgimento de sistemas ciber -físicos que possibilitam a construção de ecossistemas, tornando o mundo mais conectado e inteligente e, dessa forma transformando a experiência humana em diferentes sentidos e contextos , por meio da constituição de múltiplas redes sociotécnicas de toda a natureza e com distintos objetivos.
+Isso modifica/amplia, significativamente, a nossa compreensão de espaço e tempo, bem como a nossa condição habitativa (DI FELICE, 2009).
+De acordo com C astells (1999) o espaço de lugares, e nquanto espaço físico, geográfico, se prolonga em espaço de fluxos, constituído pelas redes digitais.
+Isso faz com que a nossa condição habitativa se transforme, uma vez que não está mais vinculada somente aos espaços físicosgeográficos, mas também aos e spaços digitais.
+O tempo passa a ser compreendido segundo a simultaneidade e intemporalidade , permitindo que a comunicação em rede se dê por meio de diálogo síncrono e assíncrono, tornando a interação possível em qualquer tempo.
+Interação que pode ser 1 Enquanto na computação clássica temos o bit, assumindo somente dois estados binários 0 ou 1, na computação quântica, por meio do conceito de superposição, temos o qubit (versão quântica dos bits tradicionais), que pode ser 1, 0 ou ambos simultaneamente, o que faz com que mais operações possam ser realizadas simultaneamente .
+Note-se que o aumento de capacidade computacional dos computadores clássicos, na segunda metade do século XX, transformou -os de máquinas que nos ajudavam a fazer contas, para máquinas qu e nos ajudaram a tomar decisões, a reintrepretar o mundo e a comunicar de forma completamente distinta, mudando assim a sociedede (Morgado, 2005, cap.
+Se este aumento da capacidade computacional que se espera da computação quântica permitir atacar problemas que hoje são intratáveis, ou seja, que demoram demasiado tempo a resolver, como será no futuro quando esse tipo de cálculos passar a estar disponível nu m período de tempo utilizável?
+Que áreas da vida humana se transformarão?
+Educação e transformação digital.
+Interfaces da Educ., Paranaíba, v.11, n.32, p. 764 - 790, 2020 ISSN 2177 -7691 767 retomada, remixada e retornada ao contexto comunicacional em diferentes tempos.
+Para melhor compreender as transformações digitais que estamos vivenciando, retomamos o processo histórico da conectividade da Internet a fim de ressignificá -lo.
+A história da conectividade digital tem início com a invenção da Internet, no final do século XX e, segundo Allen (2013), se populariza com a chegada da visualização de documentos interligados entre si, permitindo a navegação automática visual entre eles - a primeira versão da World Wide Web, ou Web 1.0.
+No início dos anos 2000, a partir de novas soluções tecnológicas, os navegantes passaram não apenas a consultar documentos ou a preencher formulários, mas a modificá -los interativamente, complementando -os com comentários ou outros elementos, criando novos documentos diretamente na Web, desenvolvendo comunidades de debate, contribuindo para a produção do conhecimento e publicação de forma mais imediata.
+Quebrou -se a separação entre os atos de produção e de co nsumo do conteúdo, convergindo ambos os atos numa osmose de produção e consumo.
+Todos somos , desde então , produtores -consumidores, seja em blogues, mídias sociais, plataformas de debate e partilha , ou quaisquer outras.
+Esta mudança paradigmática da interaç ão na Web foi denominada Web 2.0.
+Mais recentemente novas tendências surgiram, cada qual prometendo - e frequentemente concretizando - novas transformações radicais no paradigma da interação e no papel dos produtores/consumidore s face à tecnologia.
+Por exe mplo, a IoT, que liga à Internet dispositivos até então inertes, como válvulas de água, câmaras de videovigilância, termômetros domésticos, biossensores implantados em animais ou praticamente qualquer outro ponto onde se encontre tecnologia digital.
+Falamo s de objetos e aparelhos, mas também de mercadorias, de seres vivos ou até mesmo de superfícies.
+Quase que cada elemento do mundo passou a poder produzir conteúdo vertido na Internet.
+Esta grande quantidade de dados provenientes das interações das pessoas (produtores -consumidores) e das coisas criou um grande potencial Educação e transformação digital.
+Interfaces da Educ., Paranaíba, v.11, n.32, p. 764 - 790, 2020 ISSN 2177 -7691 768 de descoberta de padrões e de relações até então indetectáveis.
+De possibilidades de atuação e de decisão impensadas, potencial expresso no conceito "Big Data".
+Esta diversidade de fontes de dados e dos próprios dados cruzou -se com as tendências já em desenvolvimento na área da detecção de padrões e da IA, permitindo transformações inesperadas.
+Por exemplo, a interpretação da voz humana, um problema longamente atacado, passou de aceitável a mu ito bem -sucedida em poucos anos, graças à possibilidade de receber em pontos centrais (computadores -servidores na Internet), massivamente, exemplos de voz gravada, acompanhados de dados contextuais ricos ("voz gravada numa aplicação de mapas, quando a pess oa está nesta localidade e tem por hábito deslocar -se a esta hora para ali"; "voz com o sotaque de muitas outras pessoas desta região"; "voz gravada a esta hora, onde muita gente costuma procurar restaurantes"; etc.).
+Eficácia semelhante na visão por compu tador , ligada à Internet , originou capacidades insuspeitadas na condução de carros de forma autónoma ou na detecção de rostos em câmaras de videovigilância ou ainda fotografias de eventos.
+Esta área, que emergiu no mercado dos chavões como " Machine Learning", revelou também capacidades de decisão automática por parte de programas com potencial computacional muito inferior à que se julgava necessária para o conseguir.
+Revelou ligações complexas e desafiantes entre os trabalhos na área da neurologia e da informática , quanto à emergência da consciência ou da vida.
+Em suma, as transformações não são apenas otimizações ou aceleração do que já existe, mas sim , verdadeiras recriações do mundo, alterações que abrangem todas as áreas do saber, do agir e da nossa visão e presença no mundo.
+Frente a esse contexto histórico Di Felice (2019)2, refere que o processo de digitalização pode ser compreendido como: ● um progressivo processo de expansão de redes (computador, pessoas, coisas, dados, ….
+); 2 Em comunicação oral, disponível em Educação e transformação digital.
+Interfaces da Educ., Paranaíba, v.11, n.32, p. 764 - 790, 2020 ISSN 2177 -7691 769 ● uma ampliação e incremento de formas de conectividade que nos conectou a outras pessoas, as coisas, a biodiversidade e a tudo o que existe, o que remete a natureza conectiva do humano.
+● um processo generalizado de datatização, de transformação de tudo o que e xiste em dados .
+Com a IoT um objeto, mercadoria é conectado a rede e, para além de transmitir dados, sofre alteração no seu estatuto enquanto é representado por esses dados.
+Isso é válido para tudo, uma vez que tudo são dados convertidos em formatos digita is e, portanto, se torna um processo de transformação que altera o estatuto da realidade.
+● um processo de transfiguração do mundo.
+Não se pode pensar a Internet, a digitalização, apenas na perspectiva da computação ou da comunicação.
+O processo de transform ação se refere a natureza da matéria – de átomo para bit, às ecologias e também ao humano.
+No âmbito da Educação, Schlemmer e Moreira (2019), referem que todas essas transformações nos possibilitam falar de um viver, conviver e aprender, não somente de natureza analógico -geográfica (off -line), mas de natureza digital (on -line).
+Segundo Moreira (2018), o fim da distinção entre o off-line e o on -line e a prop osição do neologismo onlife, é defendido no Onlife Manifesto – Being Human in a Hyperconnected Era (2015)3, ao referir -se a uma nova realidade hiperconectada, onde se afirma: Dualism is Dead!
+É nessa realidade hiperconectada que emerge m diferentes contextos educacionais, apontados por relatórios internacionais.
+Entre eles o Educause Horizon Report - 2019 Higher Education Edition4, o qual refere como tendências no período de um ano ou menos , a presença do Mobile Learning , aumento da apro priação da realidade expandida ( XR5) e, adoção de tecnologias analíticas, possibilitando análise dinâmica, conectada, preditiva 3 Disponi vel em https ://link.springer.com/content/pdf/10.1007%2F978 -3-319-04093 -6.pdf 4 5 XR – Realidade Expandida – é a categoria que envolve todas as várias formas de realidade alterada por computador, tais como: Realidade Virtual, Realidade Aumentada e Realidade Mista Educação e transformação digital.
+Interfaces da Educ., Paranaíba, v.11, n.32, p. 764 - 790, 2020 ISSN 2177 -7691 770 e sistemas e dados personalizados.
+Como tendência para d ois ou três anos , a adoção da Realidade Mista, no cruzamento on -line e off -line, onde coexistem objetos digitais e físicos.
+Este espaço híbrido integra tecnologias analógicas e digitais, desfocando a diferenciação entre os dois mundos.
+Nesse contexto temporal , também estão o s dispositivos holográficos e a IA.
+Como t endência para quatro ou cinco anos , a adoção da tecnologia Blockchain , permitindo ampla solução ecossistêmica .
+Ao possuir características descentralizadas de verificação e armazenamento , atores diversos podem valid ar registos sem depender de entidades certificadoras centralizadas .
+Ela poderá estar presente mais como algo que inspira novas formas de organização do que propriamente na tecnologia em si.
+E, ainda Assistentes Virtuais, tais como Siri, Alexa, Bixby ou Google Assistant.
+Para além desses movimentos, presencia mos o surgimento de cursos totalmente gamificados, cuja progressão nas disciplinas e semestres ocorre a partir da lógica (mecânicas e dinâmicas) dos games, como a proposta das Escolas 426.
+Aulas com p rofessores holográficos7, como a experiência em desenvolvi mento pelo Imperial College , em Londres.
+A realização da m ediação da aprendizagem por Agentes Comunicativos com alto nível de IA.
+Aulas dadas por autômatos, também conhecidos como robôs (human óides e andróides) como os desenvolvidos pelo pesquisador roboticista Ishiguro Hiroshi8, sendo um exemplo, o androide teleoperado de Ishiguro, Geminoid H1-2, seu gêmeo criado para dar aulas quando o professor está impossibilitado.
+É possível citar , ainda , a Analítica Aumentada, que faz uso de Machine Learning para transformar a forma como o conteúdo analítico é produzido, consumido e compartilhado, propiciando o desenvolvimento da "Ciência de dados cidadã - um conjunto emergente de recursos e práticas que p ermite aos usuários finais extrair insights preditivos e prescritivos dos 6 7 -britanicaonde-hologramas -seraoprofessores.html?utm_source=facebook&utm_m edium=social&utm_campaign=post&fbclid=I wAR0GUmWCh_HKKO94QKXsL7EML1FaqQ2uvzl3ZaeiY8JI_Qf4lsyvSc_xHY4 8 Intelligent Robotics Laboratory, Osaka University - -u.ac.jp/ Educação e transformação digital.
+Interfaces da Educ., Paranaíba, v.11, n.32, p. 764 - 790, 2020 ISSN 2177 -7691 771 dados"9.
+Gêmeos Digitais de organizações - DTO10 (representação digital que fazem uso também de sensores), já existentes no mundo geográfico para o digital, o que irá potencializar a capacidade de coletar, visualizar e trabalhar com dados da realidade, resultando em processos mais flexíveis, dinâmicos e responsivos, que podem reagir às mudanças de condições automaticamente.
+Experiências Imersivas, com tecnologia de XR, fazendo pontes e ntre o mundo geográfico e digital, hibridizando espaços urbanos e pós -urbanos, o que potencializa um habitar atópico11 (DI FELICE, 2009).
+Essas experiências híbridas e multimodais conectarão pessoas com o mundo digital, lugares e coisas a partir de uma infinidade de dispositivos periféricos que incluem desde sensores espalhados pelo espaço geográfico até as tecnologias ve stíveis - wearables .
+Espaços inteligentes (cidades inteligentes, digital workplaces , residências inteligentes e fábricas conectadas) que podem se referir a espaços físicos, digitais ou ainda híbridos, habitados por humanos e dotado s de alta TD, impulsionan do a criação de ecossistemas cada vez mais conectados, inteligentes e autônomos, o que potencializa experiências mais imersivas, interativas, automatizadas e contextualizadas.
+Todas essas transformações vêm contribuindo para nos aproximar e nos unir numa grande comunidade global ciber -física, potencializando a comunicação, a colaboração e a cooperação entre entidades e organizações de diferentes naturezas.
+Essa potencialidade torna possível reunir nações e 9 -tendencias -tecnologicas -estrategicas -para-2019 -segundo -ogartner/?fbclid=IwAR0ic0xjUJVEH97dvt93VKbwHh3vnUMNtcFNMgkSkvIrHKrR2rQ4NoVTzw 10 modelo de software dinâmico baseado em dados operacionais ou outros com o objetivo de compreende r como uma organização operacionaliza seu modelo de negócios, se conecta com seu estado atual, implementa recursos e responde a mudanças para entregar o valor esperado ao cliente.
+11 atopia não é um novo tipo de espaço, nem um território simulacro, nem po deria ser definida inteiramente como uma pós -territorialidade, no sentido único da superação das formas físicas e geográficas do espaço.
+Melhor seria defini -la como a substituição destas por uma forma informativa digital e transorgânica, cujos elementos co nstitutivos são as tecnologias informativas digitais, os ecossistemas informativos elaborados pelos sistemas informativos geográficos e territoriais e as redes sociais, compostas pela fusão de elementos inteligentes e pelas formas híbridas do dinamismo das linguagens transorgânicas.
+O habitar atópico se configura, assim como a hibridação, transitória e fluida, de corpos, tecnologia e paisagem, e como o advento de uma nova tipologia de ecossistema, nem orgânica, nem inorgânica, nem estática, nem delimitável, mas informativa e imaterial" (Di Felice, 2009, p.
+Educação e transformação digital.
+Interfaces da Educ., Paranaíba, v.11, n.32, p. 764 - 790, 2020 ISSN 2177 -7691 772 pessoas para pensar na complexidade ecossistêmica do mundo atual e compreender como a relação entre atores humanos (AH) e não humanos (ANH), com o meio ambiente orgânico e/ou inorgânico que habitam, e pelo qual também são habitados, se transforma.
+Em como vamos educar a atual e as futuras geraç ões para de safios reais como o aquecimento global, terrorismo, racismo, tráfico, dentre outros, bem como desenvolver competências para profissões que ainda estão por ser inventadas, considerando que devido a esse avanço tecnológico, o mundo do trabalho tem se transfo rmado significativamente.
+É fato que a conectividade e o habitar atópico (DI FELICE, 2009) potencializados pela rede, está se tornando um novo princípio organizativo da espécie humana.
+Parag Khanna (2016) utiliza o termo "conectografia" para evidenciar um mundo onde a conectividade permite ultrapassar limitações físicas da Geografia.
+Nesse contexto, Schwab (2016) refere a necessidade de um progresso social que possa minimizar as desigualdades sociais.
+Segundo o autor, faz -se necessário compreender o concei to de abertura, como uma forma de soberania; a tecnologia, por meio de expressões como a IA, redes neurais, robótica, IoT, wearables , big data , nanotecnologia, dentre outras e; a educação, como instrumento fundamental para inventividade e construção da inovação.
+Segundo a WEF (2015) e Brasil (2018), países e regiões que exploram plenamente estas tecnologias estarão na vanguarda das economias av anc adas e sustenta veis.
+Referem ainda , a preocupac a o com relac a o aos desafios e oportunidades que geram para as nac o es e, principalmente, para educação.
+Entre os desafios, no campo da educação, está a necessidade de formar pessoas que sejam capazes de aprender, viver, conviver e atuar nessa sociedade hiperconectada, de maneira responsável, crítica e cidadã, a fim de transformá -la.
+Para tal, a inovação e as tecnologias precisam estar focadas nas humanidades e no necessário desenvolvimento social e am biental sustentável.
+Preocupação que também é referida na Estrate gia Brasileira para a Transformac a o Digital – e-Digital (BRASIL, 2018) e em documentos internacionais para o desenvolvimento, como a Agenda 2030 das Nac o es Educação e transformação digital.
+Interfaces da Educ., Paranaíba, v.11, n.32, p. 764 - 790, 2020 ISSN 2177 -7691 773 Unidas, especialmente, quanto aos objetivos: "Educac a o de Qualidade " e "Cidades e Comunidades ustenta veis" (SCHLEMMER, LOPES, AMARAL e FISCHER, 2018, p. 1).
+Os conhecimentos, as capacidades , as atitudes e valore s e, as competências para atuar profissi onalmente precisam ser desenvolvid as numa ambiência formativa e de pesquisa, marcada pela interdisciplinaridade , transdisciplinaridade e internacionalidade .
+Mobilizadas num imbricamento de tecnologias digitais, físicas e biológicas, numa perspectiva reticular, conectiva e atópica, que instigue o pensamento divergente, criativo e inventivo, nos permitindo ser e estar num mundo totalmente integrado , e no qual temos o desafio de estabelecer as bases para as inovações, a partir de um pensar e agir em níve l glocal.
+É fato que a transformação digital, ciber -física, vem exigindo o desenvolvimento de outra orde m de competências, para além das consideradas fundacionais , como a literacia e cálculo .
+Essas representam apenas o ponto de partida do caminho para a m estria d as competências consideradas chave do século XXI , como a comunicação, a colaboração, a criatividade e o pensamento crítico e resolução de problemas (WEF, 2015) e, ainda, a curiosidade, a iniciativa, a cooperação e a inventividade (KASTRUP, 2015) , e a capacidade de lidar com a complexidade emergente – complex learning (FERNANDES, MORGADO, PAREDES, COELHO e RICHTER, 2019) .
+Ora, perante esta nova realidade cada vez mais híbrida e hiperconectada , torna -se necessário criar mecanismos de promoção destas competências que, como destaca o WEF, estão ainda aquém do desenvolvimento esperado na grande maioria dos países.
+É, pois, necessário repensar o paradigma educacional, para além d as "competências fundacionais ", porque hoje o mundo (do trabalho) exige saber trabalhar em equip e, avaliar criticamente a informação e produzir conhecimento, tanto quanto o desenvolvimento de qualidades como a persistência ou a adaptabilidade, que asseguram uma maior resiliência e cap acidade de superação de obstáculos (WEF, 2015).
+Educação e transformação digital.
+Interfaces da Educ., Paranaíba, v.11, n.32, p. 764 - 790, 2020 ISSN 2177 -7691 774 Vários estudos internacionais, para além do já citado do WEF, como o Partnerships for the 21st Century Skills (P21)12 e o estudo da Rede Europeia de Políticas sobre as Competências Essenciais na Educação Escol ar (KeyCoNet)13, apontam também para domínios comuns e específicos , como as Competências Comunicacionais, referentes à capacidade de comunicação oral e escrita, de literacia para as tecnologias e para os média; as Competências de Raciocínio e Resolução de Problemas e as Competências Interpessoais e de Autodirecionamento , referentes à colaboração e trabalho em equip e, à sensibilidade e responsabilidade social, à adaptação e flexibilidade, à curiosidade e criatividade e, finalmente, à autonomia e à iniciativa , fundamentais para a atuação do ser humano nesta sociedade com múltiplas configurações.
+Assim, é fácil compreender porque a discussão sobre a emergência acelerada de diferentes TD, interligadas por redes de comunicação sem fios e, as transformações que podem promover na educação, nomeadamente, no que diz respeito ao desenvolvimento destas competências, estão na centralidade das agendas de pesquisa em nível global.
+As Humanidades Digitais ou ainda as Pós -humanidades (DI FELICE, 2009 ), onde os híbridos adquirem destaque nos possibilitam falar de um viver, conviver e aprender, onlife, numa rede que interliga natureza, técnica e cultura.
+É nessa realidade hiperconectada, na qual é possível desenhar diferentes cenários educacionais, que problematizamos o habitar do ensinar e do aprender no contexto das epistemologias reticulares (DI FELICE, 2012) , buscando a superação de uma compreensão de conhecimento antropocêntrica e de uma compreensão do processo educativo centrado no objeto ou profe ssor ou sujeito (aluno), predominantemente circunscritos ao espaço da sala de aula física -geográfica, para a construção de ecossistemas de inovação na Educação.
+12 13 Educação e transformação digital.
+Interfaces da Educ., Paranaíba, v.11, n.32, p. 764 - 790, 2020 ISSN 2177 -7691 775 Epistemologias reticulares e ecossistemas de inovação na Educação Uma epistemologia se ocupa de questões relacionadas ao conhecer.
+É o estudo sobre a origem do conhecimento, sobre como conhecemos o mundo.
+Esse conhecer, n a contemporaneidade , é mediado por redes e existe , ele mesmo , em rede, sendo objeto de estudo de diferentes áreas do conhecimento.
+O conceito de rede , a partir de Latour (2012) é compreendido como o movimento associativo que forma o social, sendo antes um instrumento de análise, do que objeto dela.
+Nesse contexto , o autor refere a necessidade de repensar o conceito de social , enquanto rede de AH e ANH, onde ator é qualquer pessoa, coisa, (quase) objeto, instituição ou até conceito.
+Algo que produz agência , ou seja, a quele que tem a propriedade de produzir efeito na rede (ainda que indiretamente), de ser actante.
+A compreensão de agência está relacionada aos AH e ANH simetricamente, os quais participam das ações e provocam transformações na rede, em movimento.
+Dessa forma, o não humano deixa de ser considerado soment e como um artefato, cuja significação é atribuída pelo humano e, passa a ter agência , ao participar das ações nas situações cotidianas e provocar transformações.
+Os ANH também interferem nos acontecimentos, na criação de significados, atuando na esfera ref lexiva e simbólica.
+A partir dessa compreensão do que é social, o conceito de rede é entendido como algo vivo, mutável - fluxos, circulações, alianças e movimentos de uma série de elementos animados e inanimados , físicos e etéreos - e não como entidade fixa, reduzida a um conjunto de atores.
+Refere -se a transformações, translações, deslocamentos, portanto, bem distinta da tradicional compreensão de rede, enquanto forma ou estrutura.
+Segundo Di Felice (2019 ) nós humanos , estamos biologicamente vocacionados à conexão e a conectividade .
+Nos conectamos com o ar, somos compostos por proteínas, água, elementos que muitas vezes julgamos ser externos, mas que nos compõem.
+E , no contexto d a digitalização, da conectividade, o modelo comunica tivo de redes se baseia nessa vocação: a conectividade que marca a espécie humana.
+Para Di Felice ( 2012, 2014), o Educação e transformação digital.
+Interfaces da Educ., Paranaíba, v.11, n.32, p. 764 - 790, 2020 ISSN 2177 -7691 776 termo -chave é " reticular": própri o de redes .
+Pode ser compreendido enquanto o que se desenvolve no interior de um ecossistema complexo por meio da colaboração de diversos actantes (circuitos informativos, interfaces, mídias, corpos, paisagens , conceitos e ideis, etc.).
+Diferentemente da complexidade sistêmica (cuja totalidade é maior que a soma das partes, uma vez que comporta as partes e, pr incipalmente, as relações entre elas), a forma -rede tem um caráter cognitivo e apresenta -se como uma série infinita de redes interagentes que possui uma arquitetura tanto interna, quanto externa e se ocupa do devir (característica atópica) por estar num mo vimento contínuo de interações, que alteram suas partes, provocando rachaduras, desequilíbrios, transformações em toda a rede.
+Numa rede, somos membros e não somente observadores.
+A partir dessa compreensão, segundo Di Felice, Torres e Yanaze (2012), não é possível pensar a rede das redes, enquanto um sistema superior (rede superior) formado pela soma de seus subsistemas (redes inferiores).
+Um conjunto de redes com alto nível de interações, revela um novo tipo de complexidade , melhor compreendida a partir d a lógica conectiva e ecossistêmica e não da lógica sistêmica.
+A dimensão ecossistêmica "reúne seus diversos membros em um novo tipo de social, não apenas limitado ao âmbito humano dos "socius", mas expandido às demais entidades técnicas, informativas, territoriais, de forma reticular e conectiva" (Di Felice, 2013, p. 10).
+A partir da compreensão desses conceitos Di Felice (2014), refere a necessidade de pensarmos nas epistemologias reticulares , a qual .exprime uma evidente contradição, de um lado os conh ecimentos (episteme) próprios da mente e dos métodos de conhecimento, do outro, as redes, as linguagens dos instrumentos técnicos utilizados para a observação e todos os atores que contribuem à produção do conhecimento científico.
+O ponto de partida é a co nstatação da característica não exclusivamente humana do conhecimento produzido pelos humanos.
+(Di Felice, 2014)14 Segundo o autor, a produção do conhecimento sempre se deu em rede, por meio de um diálogo fértil entre a mente humana e outras formas de 14 disponível em -reticulares - Educação e transformação digital.
+Interfaces da Educ., Paranaíba, v.11, n.32, p. 764 - 790, 2020 ISSN 2177 -7691 777 inteligência.
+Trata -se de uma ecologia complexa que age na medida em que é estimulada pela linguagem e circuitos informativos não humanos.
+Como exemplo s cita: o alfabeto, a escrita, o telescópio, a Web, o Big Data.
+A diferença é que hoje, a IA e as redes n eurais se articulam, conectando -se a banco s de dados digitais, possibilitando a mineração desses dados, bem como a sua prospeção analítica e a produção de novos dados, em rede.
+Considerando a perspectiva trazida por Latour (20 12, 2016) e Di Felice (2013) e o fato de que na atualidade, as redes digitais, por meio da IA e das Redes Neurais possuem uma inteligência de natureza de máquina, a qual pode potencializar o diálogo, fazendo emergir sínteses e narrativas da complexidade , seria possível, conforme refer e Di Felice (2013), superar essa narrativa auto -centrada do humano, essa visão antropomórfica e antropocêntrica do conhecimento, para então estar aberto para um dimensão transorgânica e trans -linguística da inteligência?
+A epistemologia ocidental tem preferido construir a narrativa que se vê como artifício único da nossa inteligência, os sujeitos pensantes ocupados na compreensão e no conhecimento da natureza e do universo.
+Convém hoje à espécie humana distanciar -se de tal narrativa e se pensar como parte de outras inteligências, cuja complexidade nos proporciona a possibilidade de importantes mudanças.
+A lógica da dominação do homem e do sujeito racional e político sobre o mundo, sucede aquela da relação, da conexão e do diálogo entre diversas linguagens e inteligências.
+(Di Felice, 2014)15 Capra (1996), faz referência a um ecossistema inteligente, compreendido como a interconexão entre os sistemas cognitivos -perceptivos e as arquiteturas informativas, superando a concepção instrumental da mídia e, apontando para uma nova percepção ecológica na qual os elementos, a ambiv alência e a tecnologia da informação são partes integrantes do sistema cognitivo, inaugurando uma nova prática do habitar.
+A partir dessa perspectiva , podemos pensar os Ecossistemas educacionais como sistemas vivos e cognitivos, os quais coengendram diferentes ecologias16, para além do humano.
+Nesse contexto , contemplamos, 15 disponível em -reticulares16 entre elas a ecologia cognitiva, a ecologia social e a ecologia pedagógica .
+Educação e transformação digital.
+Interfaces da Educ., Paranaíba, v.11, n.32, p. 764 - 790, 2020 ISSN 2177 -7691 778 a partir de Di Felice (2019), as ecologias do conhecimento em tempos de programação do mundo , ou seja, aquelas relacionadas a emergência de plataformas de conectividade, de compartilhamento de informações e produção de conteúdos e, as ecologias do conhecimento em tempos de automatização do mundo , evidenciadas pela tecnologia de IoT, IA e deep learning .
+Nos interessa saber, entr etanto, como as epistemologias reticulares e essas novas ecologias do conhecimento podem contribuir para pensar mos em ecossistemas de inovação na educação, uma vez que tanto Latour , quanto Di Felice referem que o conhecimento e a inteligência não são atividades exclusivamente humanas .
+Como esses ecossistemas podem potencializar o surgimento de novos espaços e um novo habitar do ensinar e do aprender?
+A partir do que propõem Capra (1996), Latour (2012), Di Felice, Torres e Yanaze (2012) entendemos ecossiste mas de inovação na educação como ecossistemas complexos, que se constituem por redes de redes de relações conectivas entre AH e ANH (instituições, governos, empresas, cidade/bairro/vila/comunidade, plataformas, sistemas, interfaces, mídias, corpos, etc.
+), ou seja, múltiplas redes que coengendram diferentes actantes, a fim de potencializar os espaços educacionais e o habitar do ensinar e do aprender.
+Nessas relações conectivas a compreensão de interação muda, pois não mais se supõe a preexistê ncia dos dois termos (organismo e meio, sujeito e objeto) que interagem, mas sim, entende -se a interação como constituição de si e do meio, ou seja, o que enatua nesse autoengendramento (PASSOS, 2015).
+Não se trata de AH e ANH isoladamente, mas das relaçõe s e processos que se constituem a partir dessa nova compreensão de interação.
+Dessa forma, Latour e Serres nos auxiliam ao trazer o hibridismo para a interação, numa simbiose entre natureza, técnica e cultura.
+Isso nos possibilita pensar nos diferentes ato res intervenientes que agem e interagem, produzindo e recebendo interferências constantes, constituindo alianças.
+Ou seja, emerge daí, uma nova relação Educação e transformação digital.
+Interfaces da Educ., Paranaíba, v.11, n.32, p. 764 - 790, 2020 ISSN 2177 -7691 779 simbiótica, que se afasta tanto do paradigma tecnocêntrico, quanto antropocêntrico, contribuindo para o surgimento de cultura planetária e ecossistêmica.
+Isso nos ajuda a entender um ecossistema de inovação na educação como movimento reticular e conectivo , entre AH e ANH, que se constitui em espaços urbanos e pós -urbanos, no contexto de uma cultura híbrida e multimodal , potencializando o habitar atópico do ensinar e do aprender.
+O habitar do ensinar e do aprender ao longo das transformações digitais Segundo Schlemmer et al.
+(20 06); Trein e Schlemmer (2009); Schlemmer, Trein e Oliveira (2008) e; Schlemmer e Backes (2015), o habitar, o co-habitar , o e-habitar e o e -co-habitar c onsistem além da ideia de estar, morar, residir, sobretudo de viver e conviver em diferentes espaços que podem ser físicos -geográficos e/ou digitais -virtuais .
+Ao nos apropriar mos desse s espaço s, vamos modificando -o e, também somos modificados por ele .
+Dessa forma habitamos e e -co-habitamos nossas casas, bairros, cidades e; ehabitamos e e -co-habitamos plataformas, jogos, dentro outras TD.
+Esse viver e conviver , quando ocorrem em espaços digitais -virtuais ou híbridos, amplia m significativamente as compreensões sobre a relação e interação entre humanos e não humanos e, na medida em que esses entram em congruência , possibilitam transformações em ambos.
+Nesse processo, a nossa corporalidade e presença também são modificadas, ampliadas, por meio de diferentes formas de representação .
+Nuances que o "eu" do ser humano atribui aos diferentes "eus digitais -virtuais", definindo -se e revelando -se numa relação que é recursiva.
+Para compreender essas diferentes formas de habitar na relação com os processos de ensino e de aprendizagem , retomamos o processo histórico da transformação digital, apresentado anteriormente.
+A Web 1.0 tinha como característica principal disponibilizar a informação para ser acessada pelos usuários, os quais eram consumidores dessa informação.
+O ato de produção, ainda que democratizado face à publicação tradicional em papel ou outros suportes físicos, exi gia uma Educação e transformação digital.
+Interfaces da Educ., Paranaíba, v.11, n.32, p. 764 - 790, 2020 ISSN 2177 -7691 780 separação do ato de consumo: ao ler, não podíamos responder nem comentar.
+Não podíamos editar e nem contribuir.
+Era preciso iniciar uma nova publicação, em novo local, esperando que fosse possível que a comunidade se apercebe sse do vínculo entre a origem e a resposta.
+O produto r e o consumidor, ainda que pudessem ser a mesma pessoa, eram -no em momentos diferentes, vincadamente separados.
+Nesse contexto, o ensinar e o aprender estavam condicionados , não a uma condição habitativa, mas a uma relação de uso, de consumo da informação préexistente .
+Com a Web 2.0 os sistemas passaram a possibilitar a interação, a colaboração e a cooperação imediatas entre os sujeitos e os documentos.
+Os sujeitos, de usuários -consumidores, passaram a ser autores -produtores.
+De acordo com Trein e Schlemmer (2009) nesse contexto, surgiu a Wikipédia, uma enciclopédia aberta e totalmente construída em rede, pelos seus colaboradores.
+Dessa forma, o ensinar e o aprender passaram a ser potencializado s pelas interações em rede, tornando a Web um ambiente que se atualiza va constantemente, pela autoria e produção individual e/ou colaborativa e cooperativa dos sujeitos.
+Dessa forma, para além do uso da tecnologia (perspectiva de usuário -consumidor) tornav a-se possível uma apropriação da tecnologia (perspectiva de autor -produtor -consumidor ), favorecendo o habitar do ensinar e do aprender , uma vez que as tecnologias passaram a representam um lugar onde o sujeito est ava enquanto autorprodutor de um mundo .
+Com a Web 2.0 surge a possibilidade d a apropriação do conceito de inteligência coletiva17, como uma forma de conhecimento colaborativo entre humanos.
+Essa tecnologia evoluiu com o surgimento da IoT, com o desenvolvimento da IA, entre outras , possibilitand o constituir redes 17 Trata -se de uma intelige ncia variada, distribui da por toda parte, constantemente valorizada, coordenada em tempo real, que resulta em uma mobilizac a o efetiva das compete ncias.
+A finalidade dessa intelige ncia e colocar os recursos de grandes coletividades a servic o das pessoas e dos pequ enos grupos, constituindo dessa forma um projeto fundamentalmente humani stico.
+"A intelige ncia coletiva, enfim, seria o modo de realizac a o da humanidade que a rede digital universal favorece, sem que saibamos a priori em direc a o a quais resultados tendem as organizac o es que colocam em sinergia seus recursos intelectuais .
+Educação e transformação digital.
+Interfaces da Educ., Paranaíba, v.11, n.32, p. 764 - 790, 2020 ISSN 2177 -7691 781 inteligentes de interação não somente entre pessoas, mas também entre locais, objetos, coisas, ou seja, tudo o que pode ser conectado a Internet.
+Nesse contexto, o ensinar e o aprender passam a ser potencializados , por meio de atos conectivos18, em u ma rede de AH e ANH, de forma pervasiva e ubíqua , potencializando uma nova condição habitativa do ensinar e do aprender, um habitar atópic o, sensível ao contexto, o que favorece a apropriação da tecnologia enquanto invenção.
+Ess e habitar atópico do ensinar e do aprender pode se dar simultaneamente em contextos físicosgeográficos e nas redes digitais virtuais, de forma hibridizada e multimodal.
+O hibridismo se fundamentado no conceito de híbrido para Latour (1994, 2012) e, de acordo com Sc hlemmer (2013, 2014, 2015a, 2015b, 2016a, 2016b, 2017, 2018) e Schlemmer, Backes e La Rocca (2016) é compreendido a partir do fluxo das ações, interações e comunicação entre AH e ANH; em espaços geográficos e digitais, incluindo o próprio espaço híbrido; pela presença física e digital virtual (perfil em mídia social, personagem em jogo, prop ou avatar em metaversos, por webcam ou ainda por holograma), portanto, presenças plurais; por meio de tecnologias analógicas e digitais integradas, que juntas favore cem diferentes formas de comunicação e interação (textual, oral, gráfica e gestual ); num imbricamento de diferentes culturas (digitais, pré -digitais, tribais, eruditas, dentre outras), constituindo -se em redes e fenômenos indissociáveis, interligando nature zas, técnicas e culturas.
+A multimodalidade é apresentada por Schlemmer, (2016, 2017 e 2018) e Schlemmer, Backes e La Rocca (2016) como a modalidade de educação que integra a modalidade presencial física e a modalidade online, podendo combinar: eletronic learning, mobile learning, pervasive learning, ubiqu itouslearning, immersive learning, gamification learning e Game -Based Learning – GBL.
+No âmbito da aprendizagem pervasiva e ubíqua , as informações estão dispersas no espaço e nas coisas, possibilitando integrar espaços geográficos e espaços digitais virtuais, que podem ser acessadas por dispositivos móveis conectados a redes de comunicação sem fio s. O conceito de ubiquidade, 18 (Di Felice, 201 7) Educação e transformação digital.
+Interfaces da Educ., Paranaíba, v.11, n.32, p. 764 - 790, 2020 ISSN 2177 -7691 782 vinculado à aprendizagem, indica que as TD potencializam a aprendizagem situada , ciente do contexto ("context -aware") , disponibilizando ao sujeito uma gama de informações "sensíveis" ao seu perfil, necessidades, ambiente e demais elementos que compõem seu contexto de aprendizagem, em qualquer lugar e momento.
+A essa possibilidade asso ciamos tecnologias de localização (GPS, sistemas de navegação, sistemas de localização de pessoas, jogos móveis), tecnologias de identificação (etiquetas RFID e códigos QR, marcadores), sensores, e placas microcontroladoras ( por ex., Arduino ), dentre outr as que podem estar presentes em locais, objetos, roupas e acessórios compondo aplicativos diversos, games e processos gamificados.
+A ubiquidade colabora para integrar os aprendizes em contextos de aprendizagem e no seu entorno, permitindo formar redes prese nciais físicas e digitais virtuais entre pessoas, objetos, situações ou eventos.
+No contexto da ubiquidade, a IoT e os wearables se destacam, uma vez que objetos e coisas "inteligentes" podem estar pervasivamente presentes ao nosso entorno, prontos para in teragir e cooperar conosco.
+Nesse contexto, a nossa subjetividade , identidade e alteridade passam a ser constituídas também de forma híbrida, nesse movimento que emerge de relações interacionais em mundos de natureza distintas (físico e digital).
+A nossa vida hoje , é resultado desse hibridismo de uma vida "física" e "dig ital virtual", que vem sendo constituída por diferentes AN e ANH em rede, formando e sendo formados por essa nova cultura que se desenvolve .
+Nós habitamos , co-habitamos, e -habitamos e e -co-habitamos as plataformas, as mídias, os jogos, os ambientes , ao mes mo tempo em que el es nos habitam.
+Dessa forma, o habitar do ensinar e do aprender precisam ser pensados numa perspectiva onlife, atópica, por meio de um novo tipo de ecologia, no qual elementos humanos, tecnológicos -informativos e ambientais interagem, con stituindo uma hipercomplexidade ( MORIN , 2011).
+Não se trata apenas de transferência de informações, mas da alteração dos elementos que passam a coabitar e interagir em conjunto.
+Assim, a dimensão do habitar do ensinar e do aprender em contexto de hibridism o, inclui pensar esses processos enquanto ecologia, numa Educação e transformação digital.
+Interfaces da Educ., Paranaíba, v.11, n.32, p. 764 - 790, 2020 ISSN 2177 -7691 783 condição habitativa que altera todos os interagentes que participam dessa rede ecossistêmica, o que pode então instiga r inovação na educação.
+Nessa realidade hiperconectada, de acelerada e profundas transformações digitais, apresentadas anteriormente, cada vez mais ANH participam nas relações humanas e no processo de cognição, o que nos leva a reconhecer a natureza não apenas humana do conhecime nto, mas o coengendramento, a codeterminação sujeito -objeto.
+No lugar da dicotomia entre AH e ANH estão as diferenças de agências e de ação, que se fazem entre os inúmeros agenciamentos possíveis e que atuam de formas distintas, contribuindo para o surgime nto de uma nova compreensão de interação, enquanto emersão de si e do mundo.
+Isso pode ser compreendido, ao olharmos para a ciência, que é o resultado da transformação do conhecimento criado entre humanos (teorias) e técnicas, tecnologias e instrumentos d e observação.
+Para Di Felice (2019), o que diferencia o conhecimento científico de outros tipos de conhecimento é que a ciência, para conhecer, se apropria técnicas, instrumentos tecnológicos, para observar e medir os seus fenômeno s. Essa relação não é instrumental, porque com a mudança e aprimoramento dos instrumentos técnicos, muda a própria concepção do fenômeno, como demonstra toda a história da ciência e, portanto, muda não somente a medição do fenômeno, mas a própri a concepção do humano sobre o fenôme no e, portanto, o próprio cientista, o próprio humano.
+Isso nos leva a afirmar que do ponto de vista d a cognição, há uma diferença qualitativa entre usar uma TD (enquanto usuário, numa perspectiva utilitarista e reativa) e se apropriar, habitar (enquanto espaço de relações, de invenção, de criação, numa perspectiva de coengendramento e de codeterminação).
+Não é raro presenciarmos, no âmbito do ensinar e do aprender, o uso das TD, enquanto ferramenta, recurso, apoio, um uso meramente instrumental, reproduti vista da forma constituída do ensinar, para fazer mais do mesmo.
+Um exemplo é a incorporação das TD ao Educação e transformação digital.
+Interfaces da Educ., Paranaíba, v.11, n.32, p. 764 - 790, 2020 ISSN 2177 -7691 784 currículo escolar como disciplina, enquanto o processo de inovação acontece fora do currículo, extra -classe, na forma de projetos, clube de robótica , dentre outros.
+Outro exemplo, está relacionado a parte significativa das oferta s de EaD, que por meio das denominadas transposições didáticas, desenvolveram um a pedagogia massificadora e fordista, a qual possibilita multiplicar o ingresso de estudantes o que, em contrapartida, gera um alto índice de evasão e abandono.
+A questão é que as epistemologias, as teorias e as metodologias que ainda subsidiam o ensinar e o aprender , tem origem num mundo pré -digital, cujo modelo de escola é massificador, reprodutivista , homogenizador .
+Não é possível compreender a educação na atualidade, em rede, plataformas e construir ecossistemas de inovação na educação, tendo como subsídio epistemologias, teorias, metodologias e práticas constituídas numa época pré-digital, pela apli cação de um modelo educacional fordista.
+Para que possamos compreender qualitativamente esse processo precisamos olhar para as plataformas, para as redes neuronais artificiais e outras forma s de IA, para a IoT, enfim, para as redes que nos conectam, criand o multiversos de diferentes naturezas, provocando uma transformação da nossa realidade e, superar o limite teórico -epistemológico e metodológico atual.
+A epistemologia reticular parece fornecer uma importante contribuição para que possamos construir uma te oria cognitiva, suficientemente robusta que compreenda a cognição, não como algo exclusivo do humano mas, a partir da ontologia plana, onde AH e ANH estão no mesmo plano, cuja compreensão de inteligência e de conhecimento ultrapassa a visão antropocêntrica e, a aprendizagem possa ser compreendida para além da representação e solução de problemas, enquanto interpretação e invenção de problemas e, a interação, enquanto emersão simultânea de si e do mundo (KASTRUP , 2015), propiciado pela conectividade.
+É preciso reconhecer que as redes, a conectividade está criando novas formas de ser e de estar no mundo, por meio de novas formas de interação, de presença, de expressar sentimentos, de aprender, de trabalhar… as Educação e transformação digital.
+Interfaces da Educ., Paranaíba, v.11, n.32, p. 764 - 790, 2020 ISSN 2177 -7691 785 quais não se limitam mais aos espaços físico s, geográficos, mas se prolongam pelo digital, em todas as redes nas quais habitamos por meio dos nossos corpos tecnologizados ou info -corpos (D I FELICE , 2019).
+Estamos vivenciando uma transformação da ecologia e da sensorialidade dos corpos.
+A educação pa ra essa e para as futuras gerações precisa habitar essa hiperrealidade e se transformar em atos de invenção, de pesquisa e não de consumo de um saber e um fazer já instituídos.
+Existe um ideário pedagógico, no entanto, ainda faltam plataformas e formação de professores, a fim de que seja possível fazer a inovação na educação.
+Precisamos pensar num currículo que se desenvolva por práticas itinerantes, inventivas, agregativas, as quais são arquitetadas no movimento do hibridismo e da multimodalidade.
+Uma co ncepção de currículo, que de acordo com Schlemmer e Moreira (2019) é desenvolvido a partir de epistemologias reticulares, que conectam AH e ANH, num hibridismo de espaços, tempos, presenças, tecnologias e culturas.
+Nesse contexto, as diferentes áreas do saber, conhecimentos científicos e do cotidiano são legitimados e estão coengendrados, na perspectiva da aprendizagem enquanto invenção num habitar atópico, propiciando o engajamento com e no mundo para a transformação social e o desenvolvimento sustentável.
+A partir da discussão apresentada podemos dizer que na atualidade, o habitar do ensinar e do aprender, num sentido amplo, se constitu i enquanto percurso que se coengendra num habitar e co -habitar cada vez mais atópico, em contextos que são híbridos e mult imodais.
+Dessa forma, as epistemologias reticulares podem contribuir , significativamente , para a superação de uma compreensão de conhecimento antropocêntrica e de uma compreensão do processo educativo centrado no objeto ou professor ou sujeito (aluno), tornando possível desenhar diferentes contextos , na perspectiva da construção de ecossistemas de inovação na Educação.
+Faz-se necessário então, compreender a Educação em tempos de transformação digital, enquanto espaço -tempo de relações, a partir de novas epistemologias reticulares, que provocam deslocamentos disruptivos no habitar do ensinar e o do aprender, a partir de interações ecossistêmicas.
+Educação e transformação digital.
+Interfaces da Educ., Paranaíba, v.11, n.32, p. 764 - 790, 2020 ISSN 2177 -7691 786 Referências ALLEN, M. What was Web 2.0?
+Versions as the dominant mode of internet history.
+New Media & Society , 15(2), 2013, p. 260-275.
+Ministério da Ciência, Tecnologia, Inovações e Comunicações.
+Estratégia Brasileira para a Transformação Digital (E -Digital).
+BROWN, Malcolm; et al., EDUCAUSE Horizon Report, Teaching and Learning Edition.
+Louisville, CO: EDUCAUSE, 2020.
+CAP A, F. A eia da ida: uma nova compreensa o cienti fica dos sistemas vivos.
+CASTELLS, M. A Sociedade em Rede.
+Paisagens po s-urbanas: o fim da experie ncia urbana e as formas comunicativas do habitar.
+DI FELICE, M. Redes Sociais Digitais, epistemologias reticulares e a crise do antropomorfismo social.
+Revista USP, v. 22, 2012, p. 06 -19.
+DI FELICE, M. NET -ATIVISMO E ECOLOGIA DA AÇÃO EM CONTEXTOS RETICULARES.
+In Contemporanea: Revista de Comunicação e Cultura - v.11 – n.02 – mai-ago 2013 – p. 267 -283.
+DI FELICE, M. Epistemologias reticulares e crise do humanismo.
+Disponível em -reticulares.Acesso em setembro de 2019.
+Educação e transformação digital.
+Interfaces da Educ., Paranaíba, v.11, n.32, p. 764 - 790, 2020 ISSN 2177 -7691 787 DI FELICE, M. Net -ativismo: da ação social para o ato conectivo.
+São Paulo: Paulos Editora, 2017.
+DI FELICE, M. As Epistemológicas Reticulares e as Ecologias Automatizadas do Conhecimento (comunicação oral).
+Disponível em Acesso em setembro de 2019.
+DI FELICE, M.; TORRES, J.; YANAZE, L.K.
+H. Redes digitais e sustentabilidade: as interac o es com o meio ambiente na era da informac a o. a o Paulo: Annablume, 2012.
+FERNANDES, L., MORGADO, L., PAREDES, H., COELHO, A., & RICHTER, J. Immersive learning experiences for understanding complex systems.
+In: Beck, Dennis; Peña -Rios, Anasol; Ogle, Todd; Economou, Daphne; Mentzelopoulos, Markos; Morgado, Leonel; Eckhardt, Christian; Pirker, Johanna; Koitz -Hristov, Rox ane; Richter, Jonathon; Gütl, Christian; Gardner, Michael (orgs.
+), ILRN 2019 London -Workshop, Long and Short Paper, Poster, Demos, and SSRiP Proceedings from the Fifth Immersive Learning Research Network Conference.
+Graz, Áustria: Verlag der Technischen Un iversität Graz, 2019, p. 107–113.
+), The Onlife Manifesto: Being Human in a Hyperconnected Era.
+Springer Cham Heidelberg New York Dordrecht London, 2015.
+255 p. Disponível em: < -3319-04093-6.pdf>.
+KASTRUP, V. A cognição contemporânea e a aprendizagem inventiva.
+KHANNA, P. Connectography: Mapeando o futuro da civilização global.
+LATOUR, B. Jamais fomos modernos.
+Rio de Janeiro: Editora 34, 1994.
+Educação e transformação digital.
+Interfaces da Educ., Paranaíba, v.11, n.32, p. 764 - 790, 2020 ISSN 2177 -7691 788 LATOUR, B. Reagregando o social: uma introdução à teoria do ator -rede.
+LATOUR, B. Cogitamus: seis cartas sobre as humanidades científicas.
+Rio de Janeiro: Editora 34, 1999.
+A. RECONFIGURANDO ECOSSISTEMAS DIGITAIS DE APRENDIZAGEM COM TECNOLOGIAS AUDIOVISUAIS.
+Em Rede: Revista de Educac a o a Dista ncia, v. 5, n. 1.
+MORGADO, L. C. Framework for Computer Programming in Preschool and Kindergarten.
+Vila Real, Portugal: UTAD, 2005.
+Tese (Doutoramento em Informática), Universidade de Trás -os-Montes e Alto Douro.
+MORIN, E. Os sete saberes necessários à educação do futuro.
+Tradução de Catarian Eleonora F. da Silva e Jeanne Sawaya.
+São Paulo: Cortez; Brasília, DF: UNESCO, 2011.
+PASSOS, E. Pensando a subjetividade com conceitos híbridos: a psicologia em interface com a filosofia e a biologia.
+In V. Kastrup, S. Tedesco, & E. Passos, Políticas da Cognição.
+SCHLEMMER, E. Políticas e práticas na formação de professores a distância: por uma emancipação digital cidadã.
+In: Gatti, Bernardete Angelina; Junior, Celestino Alves da Silva; Ni coletti, Maria da Graça; Pagotto, Maria Dalva Silva.
+Por uma política nacional de formação de professores.
+1ed.São Paulo: Unesp, 2013, v. 1, p. 109 -136.
+SCHLEMMER, E. LABORATÓRIOS DIGITAIS VIRTUAIS EM 3D: ANATOMIA HUMANA EM METAVERSO, UMA PROPOSTA EM IMMERSIVE LEARNING.
+Revista e -Curriculum (PUCSP), 2014, v. 12, p. 2119 -2157.
+Educação e transformação digital.
+Interfaces da Educ., Paranaíba, v.11, n.32, p. 764 - 790, 2020 ISSN 2177 -7691 789 SCHLEMMER, E. Mídia Social em Contexto de Hibridismo e Multimodalidade: o percurso da experiência na formação de Mestres e doutores.
+Revista Diálogo Educacional (PUCPR.
+Impre sso), 2015a, v. 15, p. 399-421 SCHLEMMER, E. Gamification in Hybrid and Multimodal Coexistence Spaces : Design and Cognition in Discuss.
+In: 17th Annual International Conference Education, 2015, Athens.
+Gamification in Hybrid and Multimodal Coexistence Spaces: Design and Cognition in Discussão.
+Athenis (Greece): Gregory T. Papanikos, 2015b.
+Disponível em: www.atiner.gr/papers.htm SCHLEMMER, E. Games e Gamificação: uma alternativa aos modelos de EaD.
+Revista Iberoamericana de Educación a Distancia, 2016a, v. 19, p. 112.
+SCHLEMMER, E. Hibridismo, Multimodalidade e Nomadismo: codeterminaçã o e coexistência para uma Educação em contexto de ubiquidade.
+Educação a distância, qualidade e convergências: sujeitos, conhecimentos, práticas e tecnologias.
+1ed.São Carlos: EdUFSCar, 2016b, v. 1, p. 1 -24.
+SCHLEMMER , E. GAMIFICAÇÃO EM ESPAÇOS DE CONVIVÊNCIA HÍBRIDOS E MULTIMODAIS: A EDUCAÇÃO NA CULTURA DIGITAL.
+SCHLEMMER, E. PROJETOS DE APRENDIZAGEM GAMIFICADOS: Uma metodologia inventiva para a educação na cultura híbrida e multimodal.
+MOMENTO - Diálogos em Educação, 2018, v. 27, p. 41 -69.
+SCHLEMMER, E. ; BACKES, L. Learning in Metaverses: Co -existing in Real Virtuality.
+Hershey: IGI Global, 2015, v. 1.
+356 p. SCHLEMMER, E.; BACKES, L.; LA ROCCA, F. L'Espace de coexistence hybride, multimodal, pervasif et ubiquitaire: le quotidien de l "éducation à la citoyenneté.
+Educação Unisinos (Online), 2016, v. 20, p. 297 -306.
+Educação e transformação digital.
+Interfaces da Educ., Paranaíba, v.11, n.32, p. 764 - 790, 2020 ISSN 2177 -7691 790 SCHLEMMER, E. et al.
+ECoDI: A criação de um Espaço de Convivências Digital Virtual.
+In: XVII Simpó sio Brasileiro de Informática na EducaçãoXVII SBIE, 2006, Brasília.
+XVII Simpósio Brasileiro de Informática na Educação - XVII SBIE, 2006.
+; AMARAL, A.; FISCHER, G. D.; PRINT: Transformação Digital e Humanidades.
+(Projeto de Pesquisa) SCHLEMMER, Eliane; MOREIRA, José A .
+MODALIDADE DA PÓSGRADUAÇÃO STRICTO SENSU EM DISCUSSÃO: dos modelos de EaD aos ecossistemas de inovação num contexto híbrido e multimodal.
+EDUCACAO UNISINOS (ONLINE), v. 23, 2019, p. 689 -708.
+SCHLEMMER, E.; TREIN, D.; OLIVEIRA, C. J. de .
+Metaverso: a telepresença em Mundos Digitais Virtuais 3D por meio do uso de avatares.
+In: XIX Simpósio Brasileiro de Informática na Educação - SBIE, 2008, Fortaleza.
+XIX Simpósio Brasileiro de Informática na Educação - SBIE.
+fortaleza: Universidade Federal do Ceará, 2008. v. 1. p. 1 -10.
+SCHWAB, K. A quarta revolução industrial.
+Rio de Janeiro: Bertrand Brasil, 2013.
+TREIN, D.; SCHLEMMER, E. Projetos de Aprendizagem Bas eados em Problema no Contexto da Web 2.0: Possibilidades para a Prática Pedagógica.
+Revista e -Curriculum (PUCSP), v. 4, 2009, p. 1-20.
+New Vision for Education: Unlocking the Potential of Technology.
+Cologny/Geneva: World Economic Forum, 2015.

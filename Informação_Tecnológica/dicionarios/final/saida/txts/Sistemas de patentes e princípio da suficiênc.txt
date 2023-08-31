@@ -1,0 +1,398 @@
+GALILEU · e‑ISSN 2184‑1845 · Volume XXI · Issue Fascículo 1 · 1st January Janeiro – 30th June Junho 2020 · pp.
+30‑51 30  Sistemas de patentes e princípio da suficiência descritiva: uma abordagem a partir do Direito Brasileiro e do Direito Internacional Patent systems and the descriptive sufficiency principle: an approach from Brazilian Law and International Law JÓNATAS E.M. MACHADO1 jonatas@fd.uc.pt PAULO NOGUEIRA DA COSTA2 pcosta@autonoma.pt GALILEU – REVISTA DE DIREITO E ECONOMIA  · e‑ISSN 2184‑1845 Volume XXI · 1st January Janeiro – 30TH June Junho 2020 · pp.
+30 ‑51 DOI: ‑1845.XXI.1.2 Submitted on March 27th, 2020 · Accepted on June 4th, 2020 Submetido em 27 de Março, 2020 · Aceite a 4 de junho, 2020 SUMÁRIO 1.
+Os requisitos da patenteabilidade.
+A divulgação pública da invenção.
+A descrição escrita da invenção; 3.1.1 Objetivos; 3.1.2. âmbito; 3.2.
+O princípio da suficiência descritiva; 3.2.1.
+O sentido geral do princípio; 3.2.3.
+O  valor informativo e demonstrativo da descrição escrita; 3.2.4.
+Tecnologias previsíveis e imprevisíveis; 3.2.5.
+Conclusão PALAVRAS-CHAVE patente(s); princípio da suficiência; valor; tecnologia.
+The requirements for patentability.
+Public disclosure of the invention.
+The written description of the invention; 3.1.1 Objectives; 3.1.2. scope; 3.2.
+The principle of descriptive sufficiency; 3.2.1.
+The general sense of the principle; 3.2.3.
+The informative and demonstrative value of the written description; 3.2.4.
+Predictable and unpredictable technologies; 3.2.5.
+Conclusion KEYWORDS patent (s); sufficiency principle; value; technology 1 Professor Catedrático da Faculdade de Direito da Universidade de Coimbra e da Universidade Autónoma de Lisboa.
+2 Professor Adjunto do Instituto Superior de Contabilidade e Administração de Lisboa.31  Sistemas de patentes e princípio da suficiência descritiva… JÓNATAS E.M. MACHADO | PAULO NOGUEIRA DA COSTA GALILEU · e‑ISSN 2184‑1845 · Volume XXI · Issue Fascículo 1 · 1st January Janeiro – 30th June Junho 2020 · pp.
+Introdução Os sistemas de patentes pretendem incentivar o desenvolvimento tecnológico de duas maneiras: em primeiro lugar, criando um monopólio temporário a favor do inventor, permitindo-lhe colher os benefícios patrimoniais da sua criatividade e, se for o caso, recuperar os custos do investimento que por ele ou por outros investidores haja sido realizado na atividade de pesquisa e desenvolvimento que possibilitou a invenção.
+Em segundo lugar, promovendo a divulgação e partilha do conhecimento inovador e inventivo, possibilitando a comercialização dos inventos e o progresso científico.
+Estas são as principais virtualidades do sistema de patentes3.
+É a esta luz, por conseguinte, que deve ser entendido o instituto jurídico da patente.
+Esta confere ao seu titular o direito exclusivo temporário de beneficiar da comercialização do seu invento.
+Esta posição jurídica de monopólio tem como condição a divulgação pública dos conhecimentos incorporados na invenção.
+Trata-se de uma troca estruturada em termos de quid pro quo: o inventor divulga o conhecimento e o Estado concede-lhe um monopólio temporário4.
+Um dos objetivos da patente consiste em tornar acessíveis as características e especificações técnicas da invenção de forma a tornar possível a sua replicação.
+Para isso, a patente deve pressupor uma descrição escrita do invento, a qual deve ser suficientemente clara e precisa a fim de habilitar os técnicos com competência na arte ou na ciência em questão a reproduzir a invenção5.
+Este é hoje um elemento universalmente aceite, constando do artigo 29.º  do Acordo TRIPS6 e integrando desde há muito todas as negociações internacionais envolvendo a celebração de tratados em matéria de direito das patentes7.
+O mesmo reveste-se da maior 3 Bair, Stephanie Plamondon – «The Psychology of Patent Protection».
+48, Connecticut Law Review, 2015, pp.
+4 Este entendimento tem sido acolhido na jurisprudência do Supremo Tribunal norte-americano, como se pode ver, por exemplo, no caso Festo Corporation, Petitioner V .
+Shoketsu Kinzoku Kogyo Kabushiki Co., Ltd., Et Al.
+J. E. M. AG Supply, Inc., Dba Farm Advantage, Inc., Et Al., Petitioners V .
+Pioneer Hi-Bred International, Inc.534 U.S. 124; 122 S. Ct. 593; 151 L. Ed.
+5 Sobre o alcance desta doutrina, Golden, John M. – «Construing Patent Claims According to their "Interpretive Community": A Call for an Attorney-Plus-Artisan Perspective».
+21, Harvard Journal of Law and Technology, 2008, pp.
+6 Sublinhamos os aspetos do artigo mais relevantes para o estudo em causa: Article 29 Conditions on Patent Applicants 1.
+Members shall require that an applicant for a patent shall disclose the invention in a manner sufficiently clear and complete for the invention to be carried out by a person skilled in the art and may require the applicant to indicate the best mode for carrying out the invention known to the inventor at the filing date or, where priority is claimed, at the priority date of the application.
+Members may require an applicant for a patent to provide information concerning the applicant's corresponding foreign applications and grants.
+7 Sublinhando estes pontos, Janis, Mark D. – «Patent Law And Policy Symposium: Re-Engineering Patent Law: The Challenge Of New Technologies: Part I: Administrative Law Issues: On Courts Herding Cats: Contending 32  Sistemas de patentes e princípio da suficiência descritiva… JÓNATAS E.M. MACHADO | PAULO NOGUEIRA DA COSTA GALILEU · e‑ISSN 2184‑1845 · Volume XXI · Issue Fascículo 1 · 1st January Janeiro – 30th June Junho 2020 · pp.
+30‑51 importância no contexto das discussões litigiosas em torno do escopo das reivindicações das patentes.
+Um dos problemas que se suscita neste domínio é o que diz respeito aos limites da exigência constitucional e legal da suficiência descritiva, no sentido de que não se pode exigir, por exemplo, a descrição minuciosa pela carta patente de processos e materiais que são amplamente conhecidos no estado da técnica e que se pressupõem sabidos pelo técnico que vier a ler e executar a patente.
+Do ponto de vista jurídico pretende-se uma discussão em torno do sentido e do alcance do princípio da suficiência descritiva, nomeadamente do ponto de vista constitucional.
+É ao tratamento desta questão que dedicamos as páginas subsequentes.
+Os requisitos da patenteabilidade 2.1 Enquadramento A promoção do desenvolvimento científico e tecnológico de um país, com as inerentes atividades de produção, aplicação e divulgação do saber, requer a adoção de uma estrutura de incentivos realista e adequada.
+O direito de propriedade intelectual em geral e a criação dos sistemas de patentes em particular, inscreve-se nesse objetivo essencial.
+As patentes ajudam a proteger os seus titulares da concorrência de terceiros, concedendo-lhes o direito, limitado no tempo, de excluir outros de fazer, utilizar, importar ou vender a invenção patenteada.
+Como bem imaterial, intelectual e incorpóreo dotado de valor comercial, a invenção é o objeto central do direito das patentes8.
+Como se presume a validade das reivindicações constantes das patentes emitidas, estas conferem uma vantagem significativa nos processos por infração da propriedade intelectual.
+O direito das patentes assenta no pressuposto de que a capacidade de excluir temporariamente outros de produzir ou utilizar uma invenção constitui uma forte motivação para incentivar o inventor a divulgar os segredos de sua invenção.
+Neste espírito, o Artigo 5.º XXIX da Constituição Federal do Brasil de 1988 consagra a proteção da propriedade intelectual.
+Aí se dispõe: • XXIX – a lei assegurará aos autores de inventos industriais privilégio temporário para sua utilização, bem como proteção às criações industriais, à propriedade das with the "Written Description" Requirement (and Other Unruly Patent Disclosure Doctrines)».
+2, Washington University Journal of Law & Policy, 2000, pp.
+Hauptelemente des Patentsystems in der Bundesrepublik Deutschland, Kraßer/Ann Patentrecht 7.
+15 -2433  Sistemas de patentes e princípio da suficiência descritiva… JÓNATAS E.M. MACHADO | PAULO NOGUEIRA DA COSTA GALILEU · e‑ISSN 2184‑1845 · Volume XXI · Issue Fascículo 1 · 1st January Janeiro – 30th June Junho 2020 · pp.
+30‑51 marcas, aos nomes de empresas e a outros signos distintivos, tendo em vista o interesse social e o desenvolvimento tecnológico e económico do País; A dignidade constitucional do direito de propriedade intelectual (latu sensu) é inteiramente compreensível atenta a relevância económica, social e cultural do conhecimento científico e do progresso tecnológico9.
+Da Constituição resultam importantes implicações substantivas e processuais para a produção, interpretação e aplicação do direito infraconstitucional, no que toca à promoção e proteção da atividade intelectual e criativa.
+Essa proteção é concretizada, nalguns dos seus aspetos fundamentais, na Lei da Propriedade Industrial, a Lei 9.279/96, 14 de maio, doravante por nós designada de LPI.
+Seguindo uma orientação desde há muito radicada no direito das patentes, o Artigo 8.º da LPI, dispõe: "É patenteável a invento que atenda aos requisitos de novidade, atividade inventiva e aplicação industrial."
+Estabelecem-se, assim, os três requisitos fundamentais da patenteabilidade, sobre os quais nos debruçaremos na estrita medida em que isso seja útil à discussão da questão em apreço.
+Importa salientar que cada um deles deu origem à sua própria linha doutrinal de invalidação das patentes e que, no seu conjunto, as mesmas sustentam as problemáticas da patenteabilidade do objeto e da completude da invenção.
+Como veremos adiante, o tema da descrição escrita da patente é indissociável de todas estas linhas problemáticas e doutrinais, embora conserve a sua autonomia conceitual e dogmática.
+Embora a insuficiência da descrição escrita seja frequentemente invocada pelos tribunais de vários países para invalidar patentes, não é claro numa boa parte da doutrina que se esteja aqui diante de um quarto requisito da patenteabilidade10.
+Vejamos brevemente em que consistem os três requisitos, tendo por base o WIPO Patent Drafting Model.
+2.2 Novidade Uma invenção, por definição, tem que ser nova.
+Não admira, por isso, que a exigência de novidade ocupe um lugar central no sistema de patentes.
+A novidade significa o pedido da patente improcede se nesse momento ou no momento da criação do alegado invento, este 9 Sobre as implicações da natureza constitucional do direito da propriedade intelectual, veja-se Murray, Kali – «Constitutional Patent Law: Principles and Institutions».
+93 Nebraska Law Review, 2015, pp.
+10 Karshtedt, Dmitry – «The Completeness Requirement in Patent Law».
+56, Boston College Law Review, 2015, pp.
+34  Sistemas de patentes e princípio da suficiência descritiva… JÓNATAS E.M. MACHADO | PAULO NOGUEIRA DA COSTA GALILEU · e‑ISSN 2184‑1845 · Volume XXI · Issue Fascículo 1 · 1st January Janeiro – 30th June Junho 2020 · pp.
+30‑51 já estiver a ser usado ou for já conhecido ou cognoscível do público.
+Quer dizer, se uma pretensa invenção for já conhecida, ela não é verdadeiramente uma invenção, não sendo por isso patenteável.
+A novidade não significa uma rotura tecnológica com o passado.
+Mesmo uma pequena novidade é relevante para o sistema de patentes.
+A novidade tem um regime variável de país para pais, podendo ser absoluta ou relativa e incluir ou não prazos de graça para permitir ao inventor a apresentação do pedido de patente mesmo depois de divulgar o seu trabalho11.
+2.3 Atividade inventiva O requisito da atividade inventiva aponta para a presença de um salto inventivo, ou seja, a invenção, para o ser realmente, não deve ser óbvia mesmo para pessoas com conhecimentos especializados na arte ou ciência em questão.
+A invenção, para o ser realmente, tem que representar um avanço significativo relativamente ao estado da arte.
+Se qualquer pessoa, com conhecimentos e competências médios no setor tecnológico em causa, pudesse chegar ao mesmo resultado a partir da agregação de diferentes segmentos da informação geralmente acessível, não se estaria aí perante uma atividade inventiva.
+Uma pretensa invenção pode satisfazer o requisito da novidade, por ser desconhecida do público, sem satisfazer o requisito da atividade inventiva, por ser demasiado óbvia à luz do estado da arte12.
+Em conjunto, os requisitos da novidade e do salto inventivo pretendem averiguar se a pretensa invenção já se encontrava na posse do público em geral ou se estava ainda sob o domínio intelectual e imaterial do inventor13.
+2.4 Aplicação industrial O terceiro requisito da patenteabilidade diz respeito à aplicação industrial, também designado por utilidade.
+Para ser patenteável, a invenção deve realizar a função para que está designada.
+Este terceiro requisito é clarificado no artigo 15.º da LPI, onde se lê: "A invenção e o modelo de utilidade são considerados suscetíveis de aplicação industrial quando possam ser utilizados ou produzidos em qualquer tipo de indústria."
+11 WIPO Patent Drafting Model, Ip Assets Management Series Wold Intellectual Property Organisation, 20 ss.
+12 WIPO Patent Drafting Model, Ip Assets Management Series Wold Intellectual Property Organisation, 22 ss.
+13 Holbrook, Timothy R. – «Patent Anticipation And Obviousness As Possession».
+65 Emory Law Journal, 2016, pp.
+35  Sistemas de patentes e princípio da suficiência descritiva… JÓNATAS E.M. MACHADO | PAULO NOGUEIRA DA COSTA GALILEU · e‑ISSN 2184‑1845 · Volume XXI · Issue Fascículo 1 · 1st January Janeiro – 30th June Junho 2020 · pp.
+30‑51 A utilidade da invenção é a contrapartida que a sociedade recebe do inventor pela atribuição do monopólio temporário que a parente representa.
+O grau de utilidade pode variar significativamente de invenção para invenção, aceitando-se que possa ser mínimo.
+O regime jurídico da aplicação industrial pode variar de Estado para Estado, podendo negar-se a patente a invenções nocivas para a sociedade e haver maior ou menor abertura à concessão de patentes a invenções destinadas aos setores produtivo, transformador e comercial e não apenas dirigidas ao consumidor final.
+Trata-se aí de opções soberanas de política pública de propriedade industrial14.
+Presentemente, a importância do requisito da aplicação industrial tem sido acentuada para sublinhar que a proteção patentária deve ser dirigida para invenções com utilidade prática e não para os resultados da pesquisa fundamental.
+Entende-se que o objeto das patentes não inclui os princípios científicos fundamentais ou o merco conhecimento das leis naturais, antes requer a passagem da teoria à prática, isto é, a transição da pesquisa fundamental para a pesquisa aplicada15.
+Para esta orientação, a invenção deve apresentar um benefício específico acima de tudo para o utilizador final.
+A divulgação pública da invenção Como anteriormente se disse, uma das funções do sistema de patentes consiste na divulgação dos conhecimentos que conduziram à invenção.
+Por esse motivo, o direito da propriedade industrial desde há muito que estabelece a exigência de uma descrição da invenção, a oferecer pelo inventor, como condição de atribuição de uma patente.
+3.1 A descrição escrita da invenção Enquanto documento público, a patente encontra-se sujeita ao exame público.
+Como o próprio nome indica, ela pretende tornar patente, de forma objetivamente controlável, a existência de uma invenção e a prioridade e o escopo das reivindicações do inventor16.
+Ela textualiza a invenção em termos técnicos que prefiguram a atividade necessária à sua reprodução17.
+A patente compreende duas partes fundamentais, a saber, a descrição escrita da patente e 14 WIPO Patent Drafting Model, Ip Assets Management Series Wold Intellectual Property Organisation, 21 ss.
+15 Veja-se, sobre esta temática, Karshtedt, Dmitry – «The Completeness Requirement in Patent Law».
+56, Boston College Law Review, 2015, pp.
+16 Holbrook, Timothy R. – «Patent Anticipation and Obviousness as Possession».
+65 Emory Law Journal, 2016, pp.
+; PatG § 34 [Patentanmeldung], Schäfers Benkard, Patentgesetz11.
+17 Ali, Feroz – «Technical Speech: Patents, Expert Knowledge, and the First Amendment».
+17 Minnesota Journal of Law, Science & Technology, 2016, pp.
+277 ss.36  Sistemas de patentes e princípio da suficiência descritiva… JÓNATAS E.M. MACHADO | PAULO NOGUEIRA DA COSTA GALILEU · e‑ISSN 2184‑1845 · Volume XXI · Issue Fascículo 1 · 1st January Janeiro – 30th June Junho 2020 · pp.
+30‑51 o quadro de reivindicações.
+As mesmas estão intimamente relacionadas, podendo conter áreas significativas de sobreposição18.
+A descrição escrita consiste na especificação detalhada das características técnicas da invenção, sendo frequentemente designada por representação da forma técnica da invenção, concretização preferida da invenção ou modo de realização divulgado da invenção19.
+Ela articula e codifica o conhecimento especializado subjacente à invenção, propiciando a sua especificação e demonstração por escrito e proporcionando um ponto de referência estável para determinar a identidade do intangível.
+A exigência de apresentação, por parte do inventor, de uma descrição escrita pormenorizada da invenção acompanha o procedimento de atribuição das patentes desde o início20.
+Dessa descrição espera-se que, para além da invenção propriamente dita, inclua o melhor modo de utilização ou os correspondentes processos de composição.
+Essa descrição deve ser completa, clara e exata nos termos utilizados.
+A exigência de uma descrição escrita suficientemente clara e precisa da invenção tem sido afirmada pela legislação e a jurisprudência comparadas ao longo das décadas21, conservando ainda toda a sua atualidade e relevância.
+Da descrição escrita espera-se, de um modo geral, a especificação do campo técnico a que a invenção pertence e do estado da técnica de que a invenção procede (estado da técnica, a arte fundo) de forma a permitir compreender os elementos constitutivos de novidade e da atividade inventiva.
+Segue-se a especificação do problema técnico, a menos que seja claro a partir da solução dada ou a partir das explicações sobre os efeitos benéficos da presente invenção.
+A patente deverá especificar o modo em que o objeto da invenção é comercialmente aplicável juntamente com quaisquer efeitos vantajosos da invenção com referência ao estado da técnica.
+A mesma deve indicar, finalmente, pelo menos uma – não necessariamente a melhor (EUA) – maneira de executar a invenção reivindicada, se necessário ilustrada com exemplos e com referência a quaisquer desenhos usando o numeral adequado22.
+A descrição da patente não tem que incluir e não deve incluir informação que não seja absolutamente necessária à representação técnica e inteligibilidade da invenção23.
+18 Ali, Feroz – «Technical Speech: Patents, Expert Knowledge, and the First Amendment».
+17 Minnesota Journal of Law, Science & Technology, 2016, pp.
+19 WIPO Patent Drafting Model, Ip Assets Management Series Wold Intellectual Property Organisation, 35 ss.
+20 Essa exigência constava já na Secção III do Patent Act de 1793.
+21 Veja-se, por exemplo, o caso In Re Ruschig, 379 F.2d 990 (C.C.
+22 PatG § 34 [Patentanmeldung], Schäfers Benkard, Patentgesetz11.
+23 Veja-se, no direito alemão, BPatGE, 23, 96, 07, mencionado em PatG § 34 [Patentanmeldung], Schäfers Benkard, Patentgesetz11.
+37  Sistemas de patentes e princípio da suficiência descritiva… JÓNATAS E.M. MACHADO | PAULO NOGUEIRA DA COSTA GALILEU · e‑ISSN 2184‑1845 · Volume XXI · Issue Fascículo 1 · 1st January Janeiro – 30th June Junho 2020 · pp.
+30‑51 O não cumprimento dos requisitos da descrição escrita é fundamento de recusa da concessão de patente ou de invalidade da mesma se tiver sido concedida.
+Uma referência aos objetivos da descrição escrita permitirá esclarecer melhor o sentido dos elementos constitutivos.
+3.1.1 Objetivos A leitura dos instrumentos normativos que ao longo dos anos têm estruturado o direito das patentes, juntamente com a doutrina e a jurisprudência em torno deles desenvolvida, permite identificar os principais objetivos da exigência da descrição escrita da invenção.
+Em termos gerais, ela pretende, (a) comprovar a verificação dos requisitos da patenteabilidade, a saber, a presença de novidade, de salto inventivo e de aplicação industrial, (b) fundamentar e validar as reivindicações do titular da patente, (c) habilitar os técnicos competentes a operacionalizar a invenção e (d) divulgar publicamente os conhecimentos subjacentes ao invento24.
+Vejamos brevemente estes quatro aspetos, sublinhando a íntima relação que existe entre eles25.
+Em primeiro lugar, a descrição escrita da invenção deve tornar claro o que distingue a invenção do estado da arte, ou seja, de todas as coisas até então conhecidas.
+Além disso, a mesma deve provar, no plano da pesquisa aplicada, que a invenção está efetivamente completa, do ponto de vista estrutural e funcional, evitando a concessão de patentes precoces a desenvolvimentos ocorridos, a montante, em fases iniciais do processo de pesquisa fundamental26.
+Este aspeto prende-se, em primeira linha, com a verificação da novidade e do salto inventivo, embora não esqueça a utilidade gerada, a jusante, pelos resultados da pesquisa.
+A descrição escrita deve atestar que a invenção está efetivamente pronta para ser patenteada, podendo beneficiar do direito de prioridade na proteção.
+Em segundo lugar, a descrição escrita pretende igualmente constituir uma fundamentação técnica e racional para as reivindicações da patente, a começar pela delimitação precisa do seu alcance temporal e avançando para a determinação do âmbito de proteção da patente diante de reivindicações externas de sentido contrário.
+A descrição deve demonstrar que o inventor estava efetivamente na posse do invento que a patente reclama, ou seja, que o requerente é efetivamente o inventor do objeto reivindicado27.
+24 Collin, Kevin Emerson – «The Structural Implications of Inventors' Disclosure Obligations».
+69 Vanderbilt Law Review, 2016, pp.
+25 WIPO Patent Drafting Model, Ip Assets Management Series Wold Intellectual Property Organisation, 35 ss.
+26 Uma discussão desta problemática pode ver-se em Karshtedt, Dmitry – «The Completeness Requirement in Patent Law».
+56, Boston College Law Review, 2015, pp.
+27 Neste sentido, Frank S. Barker and Willis G. Pehl, 559 F.2d 588; 1977 Ccpa Lexis 128; 194 U.S.P .Q.
+(Bna) 47038  Sistemas de patentes e princípio da suficiência descritiva… JÓNATAS E.M. MACHADO | PAULO NOGUEIRA DA COSTA GALILEU · e‑ISSN 2184‑1845 · Volume XXI · Issue Fascículo 1 · 1st January Janeiro – 30th June Junho 2020 · pp.
+30‑51 O monopólio temporário a conceder ao inventor não pode exceder o âmbito do seu contributo para a arte ou ciência em causa tal como consta da descrição escrita.
+A reivindicações da patente devem ser claramente definidas.
+Este aspeto adquire especial relevância nos casos em que as reivindicações sofrem alterações, dando azo a dúvidas sobre se as mesmas correspondem ao invento inicialmente patenteado.
+Esta problemática remete-nos novamente para a doutrina da habilitação e para as discussões doutrinais em torno do âmbito da descrição escrita, que consideraremos a seguir.
+A descrição escrita deve, em terceiro lugar, habilitar os técnicos com competência nas artes e ciências em que o invento se insere, ou que lhe estão mais próximas, a obter a respetiva produção, composição ou utilização.
+Neste ponto manifesta-se o requisito de aplicação industrial.
+Este resultado deve ser conseguido a partir da leitura da descrição escrita, sem que seja necessário proceder a um nível elevado, indevido e inexigível de experimentação, em termos manifestamente desproporcionais28.
+Nisso se consubstancia já referida a doutrina da habilitação (enabling doctrine), que se consubstancia na capacidade de produzir e de utilizar a invenção, como prescreve o princípio da unidade da invenção29.
+Finalmente, importa salientar que a descrição escrita tem como objetivo último a partilha, na esfera pública, do conhecimento incorporado na invenção, isto é, dos princípios técnicos e científicos que lhe estão subjacentes30.
+Essa comunicação pública das especificações da invenção reveste-se de grande interesse, na medida em que a sua combinação com outros conhecimentos na mesma ou noutras áreas do saber artístico e científico pode abrir as portas a ulteriores desenvolvimentos no domínio da pesquisa científica e tecnológica, favorecendo o surgimento de novas invenções.
+Ao mesmo tempo, a divulgação pública do invento previne a duplicação e a redundância do esforço de pesquisa, contribuindo para uma mais eficiente gestão dos recursos.
+Por estas razões, a mesma deve ser levada a cabo com honestidade e boa-fé, embora sem prejudicar a sua função jurídica de delimitação dos direitos exclusivos do inventor31.
+No seu conjunto, estas considerações ajudam a iluminar a problemática do âmbito da descrição escrita e a esclarecer o sentido do chamado princípio da suficiência da descrição escrita.
+28 National Recovery Technologies, Inc., Plaintiff-Appellant, V .
+Magnetic Separation Systems, Inc. And Garry R. Kenny, Defendants-Appellees, 166 F.3d 1190; 1999 U.S. App.
+LEXIS 1671; 49 U.S.P .Q.2D (BNA) 1671.
+29 PatG § 34 [Patentanmeldung], Schäfers Benkard, Patentgesetz11.
+30 A s ay, Clark D. – «The Informational Value of Patents».
+31, Berkeley Technology Law Journal, 2016, pp.
+31 Ali, Feroz – «Technical Speech: Patents, Expert Knowledge, and the First Amendment».
+17 Minnesota Journal of Law, Science & Technology, 2016, pp.
+39  Sistemas de patentes e princípio da suficiência descritiva… JÓNATAS E.M. MACHADO | PAULO NOGUEIRA DA COSTA GALILEU · e‑ISSN 2184‑1845 · Volume XXI · Issue Fascículo 1 · 1st January Janeiro – 30th June Junho 2020 · pp.
+30‑51 3.1.2 Âmbito A doutrina da habilitação é especialmente útil para a tentativa de compreender o âmbito da descrição escrita.
+Trata-se de dois conceitos com áreas quase totalmente sobrepostas, embora a sua precisa delimitação extravase o âmbito do presente estudo32.
+A exigência de habilitação pretende garantir que o conhecimento público seja enriquecido pela especificação da patente até um grau pelo menos proporcional ao âmbito das reivindicações.
+Quer dizer, o âmbito das reivindicações deve ser inferior ou igual ao âmbito da habilitação, mas nunca superior.
+Idealmente, deve existir uma coincidência entre as especificações expressamente reveladas na descrição escrita e as reivindicações do inventor.
+Os tribunais devem ter a preocupação de garantir a correlação entre o escopo da descrição escrita e o escopo das reivindicações, invalidando as reivindicações que vão além do escopo da descrição escrita.
+O âmbito da habilitação, por sua vez, tem sido entendido na jurisprudência como aquilo que é revelado na especificação juntamente com o âmbito do que seria conhecido por um especialista na matéria sem ter que incorrer em experimentação indevida33.
+Isso significa que não é absolutamente necessário que a descrição contenha também os elementos do estado da arte necessários à produção, composição ou utilização da invenção.
+Importa apenas que a descrição escrita da invenção contenha as especificações suficientes de forma a permitir que um técnico competente consiga a partir delas e do seu conhecimento do estado da arte, produzir, compor ou utilizar a invenção sem necessitar para isso de realizar um nível indevido, irrazoável e desproporcionado de experimentação, ou seja, no fim de contas, sem ter que realizar a sua própria e autónoma atividade empírica e científica de pesquisa, desenvolvimento e invenção, de acordo com os correspondentes métodos de "trial and error".
+Os tribunais há muito sustentam que a necessidade de alguma experimentação adicional antes de se poder fazer ou usar a invenção não é fatal para a patente.
+Consequentemente, a exigência de habilitação tem em conta as informações divulgadas na especificação da patente, as informações já disponíveis na arte e ciência pertinente e a informação adicional que pode ser recolhida pelos especialistas na área através de experimentação adicional que não seja considerada desproporcional ou "indevida".34 32 Uma discussão aturada pode ver-se em Janis, Mark D. – «Patent Law And Policy Symposium: Re-Engineering Patent Law: The Challenge Of New Technologies: Part I: Administrative Law Issues: On Courts Herding Cats: Contending with the "Written Description" Requirement (and Other Unruly Patent Disclosure Doctrines)».
+2, Washington University Journal of Law & Policy, 2000, pp.
+33 National Recovery Technologies, Inc., Plaintiff-Appellant, V .
+Magnetic Separation Systems, Inc. And Garry R. Kenny, Defendants-Appellees, 166 F.3d 1190; 1999 U.S. App.
+LEXIS 1671; 49 U.S.P .Q.2D (BNA) 1671.
+34 Durham, Alan L. – «Patent Scope and Enablement in Rapidly Developing Arts».
+94, North Carolina Law Review, 2016, pp.
+40  Sistemas de patentes e princípio da suficiência descritiva… JÓNATAS E.M. MACHADO | PAULO NOGUEIRA DA COSTA GALILEU · e‑ISSN 2184‑1845 · Volume XXI · Issue Fascículo 1 · 1st January Janeiro – 30th June Junho 2020 · pp.
+30‑51 O requisito de "descrição escrita" determina que o titular da patente deve descrever a invenção.
+Mas isso não significa, como veremos adiante, que todas as invenções devam ser descritas exatamente da mesma maneira, com o mesmo grau de detalhe.
+À medida que cada domínio da ciência e da técnica progride, também evolui o equilíbrio entre o que é conhecido e o que é adicionado por cada contribuição inventiva35.
+A exigência legal de descrição escrita da invenção deve ser aplicada a cada invenção em particular, tendo em conta o estado da arte, ou seja, o conhecimento no domínio público.
+3.2 O princípio da suficiência descritiva 3.2.1 Consagração legal Importa analisar o princípio da suficiência descritiva, cuja existência se anunciava a partir das considerações anteriores.
+O mesmo preocupa-se com a identificação dos "requisitos da especificação" que a descrição escrita deve satisfazer.
+Ele tem acolhimento no Artigo 24 da LPI onde se diz: "O relatório deverá descrever clara e suficientemente o objeto, de modo a possibilitar sua realização por técnico no assunto e indicar, quando for o caso, a melhor forma de execução.
+No caso de material biológico essencial à realização prática do objeto do pedido, que não possa ser descrito na forma deste artigo e que não estiver acessível ao público, o relatório será suplementado por depósito do material em instituição autorizada pelo INPI ou indicada em acordo internacional."
+Por seu lado, o Artigo 25 do mesmo diploma estatui: As reivindicações deverão ser fundamentadas no relatório descritivo, caracterizando as particularidades do pedido e definindo, de modo claro e preciso, a matéria objeto da proteção.
+Mais adiante, o artigo 50º/2 da LPI comina a consequência jurídica da nulidade para as patentes que não satisfaçam a exigência de suficiência descritiva.
+A nulidade da patente será declarada administrativamente quando: II – o relatório e as reivindicações não atenderem ao disposto nos arts.
+24 e 25, respectivamente; 35 Salientando este ponto, Daniel J. Capon (et alia) 418 F.3d 1349; 2005 U.S. App.
+Lexis 16865; 76 U.S.P .Q.2d (Bna) 1078.
+41  Sistemas de patentes e princípio da suficiência descritiva… JÓNATAS E.M. MACHADO | PAULO NOGUEIRA DA COSTA GALILEU · e‑ISSN 2184‑1845 · Volume XXI · Issue Fascículo 1 · 1st January Janeiro – 30th June Junho 2020 · pp.
+30‑51 As exigências legais constantes da LPI correspondem ao teor de normas congéneres nos mais diversos ordenamentos jurídicos36.
+Parafraseando parte do artigo 24.º da LPI, podemos dizer que o princípio da suficiência pretende determinar em que medida é que a descrição escrita da patente consegue transmitir de forma clara e suficiente o objeto da invenção, de modo a possibilitar sua realização por técnico no assunto e indicar, quando for o caso, a melhor forma de execução.
+Essa determinação é tanto mais importante quanto é certo que a introdução de ruído, incerteza e insegurança jurídica no sistema de proteção patentária pode ter consequências económicas deletérias para os titulares das patentes, traduzidas no risco de desvalorização significativa das mesmas, e para a comunidade técnica e científica globalmente considerada.
+Não obstante, a determinação do grau de suficiência da descrição escrita não se afigura isenta de controvérsia37.
+Se é certo que o princípio da suficiência da descrição escrita consubstancia uma exigência de otimização, também é verdade que o mesmo consagra uma abertura à ponderação com outros princípios38.
+Em causa está a delicada e difícil operação de procura do equilíbrio adequado entre a cobertura da proteção jurídica das patentes e a real extensão da contribuição de um inventor.
+Se os tribunais limitarem o âmbito de proteção de patentes aos exemplos específicos revelados na patente, os concorrentes poderiam facilmente contornar a patente através de pequenas alterações ao design.
+Mas se a proteção for garantida de maneira demasiado generosa, o titular da patente pode obter benefícios jurídicos e económicos inesperados que acabarão por travar o progresso técnico no futuro.
+Reivindicações patentárias demasiado abrangentes podem impedir o processo científico e técnico desencorajando a iniciativa de novos inventores, ao passo que reivindicações menos abrangentes podem remunerar insuficientemente os inventores já existente, travando também por essa via o progresso técnico.
+Como é sublinhado no WIPO Patent Drafting Model, o agente de patentes deve usar seu melhor julgamento para não pecar por excesso ou por defeito, isto é, para equilibrar as suas preocupações sobre ser subinclusivo na especificação, deixando de fora matérias essenciais para a caracterização da invenção, ou sobreinclusivo, abrangendo muitos aspetos desnecessários e que não sejam efetivamente reivindicados no pedido39.
+Saidman, Perry J. e Leonard, Kerry W .
+– «Describing A Design – When Enough is Enough!
+§ 112 Written Description Requirement for Design Patents».
+97, Journal of the Patent and Trademark Office Society, 2015, pp.
+38 Durham, Alan L. – «Patent Scope And Enablement In Rapidly Developing Arts».
+94, North Carolina Law Review, 2016, pp.
+39 WIPO Patent Drafting Model, IP Assets Management Series Wold Intellectual Property Organisation, 21 ss.
+42  Sistemas de patentes e princípio da suficiência descritiva… JÓNATAS E.M. MACHADO | PAULO NOGUEIRA DA COSTA GALILEU · e‑ISSN 2184‑1845 · Volume XXI · Issue Fascículo 1 · 1st January Janeiro – 30th June Junho 2020 · pp.
+30‑51 3.2.2 O sentido geral do princípio Deve assinalar-se, desde logo, que o princípio da suficiência impõe uma descrição das características inovadoras ou não convencionais relevantes que permitem identificar e diferenciar o invento, devendo a mesma ser levada a cabo com um grau de detalhe e especificação que permita a sua operacionalização (redução à prática) por técnicos competentes nas áreas técnicas e científicas por ele convocadas.
+Manifesta-se, aqui, a já anteriormente apontada ligação íntima entre a descrição escrita e a doutrina da habilitação.
+A descrição escrita deve ser mais do que um mero programa de pesquisa e muito mais do que uma simples licença de caça40.
+Do mesmo modo, entende-se que as descrições escritas que se limitem a detalhar o problema a ser resolvido e contenham meras hipóteses de pesquisa não satisfazem o princípio da suficiência.
+A patente deve descrever a estrutura e a função da invenção sem se limitar a sugerir um caminho, método ou percurso que poderá, se e quando percorrido, conduzir à invenção41.
+A especificação não necessita de divulgar, e de preferência omite, informações que já seriam conhecidas pelos especialistas42.
+Dito isto, a doutrina e a jurisprudência têm militado contra a imposição de requisitos de descritibilidade desproporcionada e injustificadamente elevados.
+Uma vez verificados todos os requisitos da patenteabilidade, ou seja, a novidade, o salto inventivo e a aplicação industrial – ou seja, a existência de uma invenção completa, funcional e dotada de utilidade prática – os tribunais tendem a invalidar as patentes por insuficiência descritiva somente nos casos em que seja evidente a disparidade entre a descrição e as reivindicações ou a impossibilidade de a descrição ser razoavelmente apta a habilitar a operacionalização do invento por técnicos especializados na arte ou ciência relevante sem experimentação excessiva adicional.
+A determinação do sentido do conceito de suficiência descritiva deve ser feita com base em critérios de adequação, razoabilidade e proporcionalidade, apoiados numa boa base factual, tendo em conta a tecnologia em causa, o estado da arte e os técnicos envolvidos.
+Nalguns casos, mesmo com uma boa descrição escrita a reprodução do invento pode exigir experimentação adicional sem que isso demonstre, por si só, a insuficiência descritiva da patente43.
+40 Neste sentido, University of Rochester v. G.D. Searle & Co., No.
+41 Neste sentido, Ariad Pharmaceuticals, Inc. v. Eli Lilly & Co, 598 F.3d 1336 (Fed.
+42 Durham, Alan L. – «Patent Scope and Enablement in Rapidly Developing Arts».
+94, North Carolina Law Review, 2016, pp.
+43 Sublinhando este ponto, Barnes, Dunstan H. – «Technically Speaking, Does It Matter?
+An Empirical Study Linking the Federal Circuit Judges' Technical Backgrounds to How They Analyze the Section 112 Enablement and Written Description Requirements».
+88 Chicago-Kent Law Review, 2013, pp.
+43  Sistemas de patentes e princípio da suficiência descritiva… JÓNATAS E.M. MACHADO | PAULO NOGUEIRA DA COSTA GALILEU · e‑ISSN 2184‑1845 · Volume XXI · Issue Fascículo 1 · 1st January Janeiro – 30th June Junho 2020 · pp.
+30‑51 A decisão sobre se a experimentação adicional é excessiva, indevida ou desproporcional não é uma simples determinação factual, mas antes uma conclusão alcançada pela ponderação de muitas considerações factuais.
+A doutrina e a jurisprudência tendem a sustentar que estas considerações se referem à relação entre a invenção reivindicada, as divulgações incluídas na especificação da patente, e os conhecimentos e habilidades técnicos com habilidade normal.
+Uma lista bem estabelecida de fatores, conhecidos como fatores Wand, figura rotineiramente nas decisões sobre a habilitação do Tribunal de Apelação do Circuito Federal, a instância que nos Estados Unidos mais se ocupa destas matérias44.
+Esses fatores são: (1) a quantidade de experimentação necessária; (2) a quantidade de diretrizes ou orientações apresentadas; (3) a presença ou ausência de exemplos de trabalho; (4) a natureza da invenção; (5) o estado da técnica anterior; (6) a habilidade relativa dos especialistas na técnica; (7) a previsibilidade ou imprevisibilidade da arte; (8) a amplitude das reivindicações.
+Mas para compreender melhor o princípio da suficiência importa analisar mais de perto as questões respeitantes à informação que a descrição escrita deve conter e como é que essa informação deve ser apresentada.
+Trata-se de duas questões decisivas para a validação das descrições escritas.
+3.2.3 O valor informativo e demonstrativo da descrição escrita Relativamente à informação que deve constar da descrição escrita, alguns entendem que, nas patentes de utilidade, as mesmas devem especificar, de forma tão detalhada quanto possível, todas as características estruturais e funcionais da invenção, de forma a retratar e explicar os seus mais diversos aspetos.
+Contudo, esta posição maximalista é considerada desnecessária e ineficiente do ponto de vista dos inventores, das autoridades nacionais de propriedade intelectual e dos próprios tribunais45.
+44 In re Wands, 858 F.2d 731, 737, 8 USPQ2d 1400, 1404 (Fed.
+1988) 45 Sobre as várias posições em confronto, veja-se, Saidman, Perry J. e Leonard, Kerry W .
+– «Describing A Design – When Enough is Enough!
+§ 112 Written Description Requirement for Design Patents».
+97, Journal of the Patent and Trademark Office Society, 2015, pp.
+44  Sistemas de patentes e princípio da suficiência descritiva… JÓNATAS E.M. MACHADO | PAULO NOGUEIRA DA COSTA GALILEU · e‑ISSN 2184‑1845 · Volume XXI · Issue Fascículo 1 · 1st January Janeiro – 30th June Junho 2020 · pp.
+30‑51 Casos há em que os tribunais se têm contentado com a apresentação de desenhos, considerando com isso estar diante de uma descrição suficiente para efeitos de concessão de patente46.
+Nestes casos, os tribunais tendem a considerar desnecessária uma descrição detalhada de todas as características da invenção se as mesmas estiverem representadas num desenho.
+Os detalhes menores podem ser omitidos da divulgação, na expectativa de que os especialistas na matéria, armados com o conhecimento geral disponível para tais pessoas, possam preencher lacunas e extrapolarem conforme necessário para praticar a invenção reivindicada47.
+O importante é assegurar que as características que são associadas à invenção reclamada se encontrem de algum modo representadas na descrição escrita.
+O requerente da patente deve não apenas habilitar os técnicos a reproduzir o evento sem dificuldades desmedidas, como também demonstrar-lhes, e ao público em geral, que estava na posse do evento por si reclamado, ou seja, que efetivamente dominava, no plano intelectual e técnico, a sua estrutura e o seu modo de funcionamento48.
+Alguma jurisprudência considera que esta demonstração é, na verdade, a principal função da descrição escrita49.
+Ela impede que o inventor obtenha uma patente com um âmbito de proteção maior do que a sua efetiva contribuição para o setor técnico e científico relevante50.
+3.2.4 Tecnologias previsíveis e imprevisíveis Um outro aspeto muito importante prende-se com a natureza previsível ou imprevisível das tecnologias em presença51.
+Subjacente a esta distinção encontra-se a noção de que a determinação do que seja necessário para sustentar reivindicações genéricas de uma dada matéria depende de um conjunto diversificado de variáveis, tais como o conhecimento existente no campo específico, a extensão e o conteúdo da técnica anterior, a maturidade da ciência ou tecnologia, a previsibilidade do aspeto em questão e outras considerações apropriadas ao assunto em causa52.
+46 Vas-Cath, Inc. v. Mahurkar (CA FC) 19 USPQ2d 1111, 935 F2d 1555.
+47 Sublinhando este ponto, Durham, Alan L. – «Patent Scope and Enablement in Rapidly Developing Arts».
+94, North Carolina Law Review, 2016, pp.
+48 No caso Vas-Cath, Inc. v. Mahurkar (CA FC) 19 USPQ2d 1111, 935 F2d 1555, (1563-1564.)
+o tribunal sustentou que "o objetivo da exigência de descrição escrita' é mais amplo do que meramente explicar como 'fazer e usar'; o requerente deve também transmitir com clareza razoável para os peritos na arte que, a partir da data de depósito pretendida, ele ou ela estava na posse da invenção.
+A invenção é, para os efeitos da investigação em torno da "descrição escrita", aquilo que é agora reivindicado".
+49 Ariad Pharms., Inc. v. Eli Lilly and Co, 598 F.3d 1336 (Fed.
+50 Neste sentido, Barnes, Dunstan H. – «Technically Speaking, Does It Matter?
+An Empirical Study Linking the Federal Circuit Judges' Technical Backgrounds to How They Analyze the Section 112 Enablement and Written Description Requirements».
+88 Chicago-Kent Law Review, 2013, pp.
+51 Esta distinção é desenvolvida no caso Ariad Pharms., Inc. v. Eli Lilly and Co, 598 F.3d 1336 (Fed.
+52 Neste sentido, Daniel J. Capon (et alia) 418 F.3d 1349; 2005 U.S. App.
+Lexis 16865; 76 U.S.P .Q.2d (Bna) 1078.45  Sistemas de patentes e princípio da suficiência descritiva… JÓNATAS E.M. MACHADO | PAULO NOGUEIRA DA COSTA GALILEU · e‑ISSN 2184‑1845 · Volume XXI · Issue Fascículo 1 · 1st January Janeiro – 30th June Junho 2020 · pp.
+30‑51 De um modo geral, a doutrina e a jurisprudência consideram que as novas tecnologias (v.g.
+software, ótica, biotecnologia, inteligência artificial, internet das coisas) são menos previsíveis do que as tecnologias mecânicas, elétricas e químicas.
+As novas tecnologias, que se encontram em fases iniciais de desenvolvimento e são menos conhecidas, carecem de uma maior especificação na descrição escrita.
+Tanto mais quanto é certo que algumas delas tendem a revelar um grau extremo e sem paralelo de complexidade e miniaturização (v.g.
+Nalguns casos, o grau de pormenorização pode exigir a divulgação precisa de uma sequência de bases de DNA53.
+Nestas áreas, alterações aparentemente insignificantes podem ter grandes consequências nos planos estrutural e funcional.
+Nestes domínios, o risco de reivindicações excessivamente abrangentes é maior.
+À  semelhança do que sucede relativamente à satisfação da exigência de habilitação, os inventores podem ter que fornecer uma quantidade maior de detalhes para satisfazer a exigência da descrição escrita em patentes respeitantes a artes e ciências novas e imprevisíveis (v.g.
+biotecnologia) do que quando se trate de patentes envolvendo outros assuntos54.
+Diferentemente, as tecnologias de base mecânica ou elétrica, por serem mais conhecidas pela comunidade científica e técnica, são mais previsíveis, sendo por esse motivo menor o grau de detalhe exigível na descrição escrita da patente.
+Estudos empíricos recentes mostram uma maior propensão dos tribunais para invalidarem patentes com base na insuficiência descritiva nas tecnologias novas e imprevisíveis, onde a exigência de detalhe é maior, relativamente ao que sucede com as tecnologias mais conhecidas e previsíveis, onde a exigência de detalhe é menor55.
+Com efeito, diante das tecnologias mais conhecidas e previsíveis, a função habilitadora da patente pode ser cumprida de maneira suficiente sem que a descrição escrita tenha que incluir aspetos que se consideram adquiridos no estado da arte.
+O grau de pormenorização necessário para satisfazer a suficiência de descrição escrita varia em função da natureza e do âmbito das reivindicações e da complexidade e previsibilidade da tecnologia pertinente56.
+53 The Regents of the University of California V .
+Eli Lilly, 119 F.3d 1559; 1997 U.S. App.
+LEXIS 18221; 43 U.S.P .Q.2D (BNA) 1398.
+54 Barnes, Dunstan H. – «Technically Speaking, Does It Matter?
+An Empirical Study Linking the Federal Circuit Judges' Technical Backgrounds to How They Analyze the Section 112 Enablement and Written Description Requirements».
+88 Chicago-Kent Law Review, 2013, pp.
+55 Veja-se, neste sentido, o exaustivo estudo empírico levado a cabo por Allison, John R. e Ouellette, Lisa Larrimore – «How Courts Adjudicate Patent Definiteness And Disclosure».
+65, Duke Law Journal, 2016, pp.
+56 Neste sentido, Daniel J. Capon (et alia) 418 F.3d 1349; 2005 U.S. App.
+Lexis 16865; 76 U.S.P .Q.2d (Bna) 1078; Ariad Pharms., Inc. v. Eli Lilly and Co, 598 F.3d 1336 (Fed.
+46  Sistemas de patentes e princípio da suficiência descritiva… JÓNATAS E.M. MACHADO | PAULO NOGUEIRA DA COSTA GALILEU · e‑ISSN 2184‑1845 · Volume XXI · Issue Fascículo 1 · 1st January Janeiro – 30th June Junho 2020 · pp.
+30‑51 Depois de analisarem esta dicotomia, Perry J. Saidman e Kerry Leonard sublinham um ponto que se afigura inteiramente pertinente e que sintetiza a orientação geralmente seguida pela jurisprudência.
+Em seu entender, embora a lei seja a mesma para as artes "previsíveis" e "imprevisíveis", será geralmente mais difícil satisfazer a exigência de suficiência da descrição escrita nas artes "imprevisíveis"57.
+Isto, sem prejuízo de se admitir que mesmo nas tecnologias imprevisíveis e em rápido desenvolvimento os tribunais exageram nas suas exigências de detalhe descritivo58.
+Este problema pode ser tanto mais grave quanto existe a tendência, visível em todos os domínios, no sentido de as empresas radicadas num determinado setor tecnológico optarem, consoante a oportunidade, por intentar ações judiciais de infração ou invalidação total ou parcial de patentes – estratégia que a doutrina designa por "bullying patentário" – contra empresas inovadoras, com o objetivo de, por essa via, eliminar a concorrência atual ou potencial59.
+Como quer que seja, daqui resulta uma incontornável conclusão, que se reveste de grande interesse prático: se existir alguma coisa que não tenha sido claramente revelada na descrição escrita, mas que seja previsível para um especialista na técnica pertinente, deve ainda assim considerar-se observado o princípio da suficiência descritiva.
+O princípio da proporcionalidade em sentido amplo obriga a que não sejam feitas exigências descritivas excessivas60, sob pena de o princípio da suficiência descritiva ser convertido num princípio de exaustividade descritiva, sem que para tal exista base legal ou constitucional.
+3.2.5 Modo de apresentação A descrição escrita da patente inclui, normalmente, um sumário da invenção, uma descrição detalhada da mesma e os correspondentes desenhos61.
+A este propósito, importa afirmar a sedimentação, na doutrina e na jurisprudência, de um dever de clareza, precisão e determinabilidade.
+Descrições escritas suficientemente claras e precisas fundamen57 Saidman, Perry J. e Leonard, Kerry W .
+– «Describing A Design – When Enough is Enough!
+§ 112 Written Description Requirement for Design Patents", 97, Journal of the Patent and Trademark Office Society, 2015, 259 ss.
+; Dunstan H. Barnes, "Technically Speaking, Does It Matter?
+An Empirical Study Linking the Federal Circuit Judges' Technical Backgrounds to How They Analyze the Section 112 Enablement and Written Description Requirements».
+88 Chicago-Kent Law Review, 2013, pp.
+58 Este é o sentido geral da crítica formulada por Durham, Alan L. – «Patent Scope And Enablement In Rapidly Developing Arts».
+94, North Carolina Law Review, 2016, pp.
+59 Uma análise do problema do "bullying" de patentes pode ver-se em Sichelman, Ted – «The Vonage Trilogy: A Case Study In "Patent Bullying».
+90, Notre Dame Law Review, 2014, pp.
+543 ss., 60 PatG § 34 [Patentanmeldung], Schäfers Benkard, Patentgesetz 11.
+80-85a 61 Barnes, Dunstan H. – «Technically Speaking, Does It Matter?
+An Empirical Study Linking the Federal Circuit Judges' Technical Backgrounds to How They Analyze the Section 112 Enablement and Written Description Requirements».
+88 Chicago-Kent Law Review, 2013, pp.
+47  Sistemas de patentes e princípio da suficiência descritiva… JÓNATAS E.M. MACHADO | PAULO NOGUEIRA DA COSTA GALILEU · e‑ISSN 2184‑1845 · Volume XXI · Issue Fascículo 1 · 1st January Janeiro – 30th June Junho 2020 · pp.
+30‑51 tam reivindicações mais resistentes à litigância, menos litigância, invenções mais úteis e funcionais, procedimentos mais céleres de registo, patentes com maior valor de mercado, royalties mais elevados para os detentores das patentes, mais investimento em investigação e desenvolvimento e maiores possibilidades de progresso científico e tecnológico.
+Por seu lado, as vantagens que poderiam resultar da ambiguidade descritiva e reivindicativa – que também as há – são consideradas abusivas, injustas e indesejáveis62.
+Uma vez que a descrição variará inevitavelmente em pormenor, a forma da divulgação também poderá variar em função da tecnologia em questão.
+Como resultado, podem e devem ser utilizados diferentes métodos de divulgação para descrever suficientemente uma invenção de modo que seja compreendida por alguém com uma competência média na arte ou ciência em questão.
+O princípio da suficiência descritiva é compatível com diferentes modalidades de concretização consoante as tecnologias e as invenções em causa.
+Significa isto, entre outras coisas, que a descrição escrita não tem que se limitar apenas a palavras e desenhos 63.
+Ela pode incluir, além disso, diferentes ilustrações, como sejam, imagens, fotografias, diagramas, fórmulas e estruturas64.
+Neste caso, impõe-se a presença de uma explicação sucinta suficientemente próxima da ilustração utilizada.
+A presença de elementos visuais com níveis elevados de qualidade e especificação pode tornar menos necessária uma extensa pormenorização por escrito65.
+A descrição escrita da patente deve procurar ser razoavelmente clara, precisa e determinada, evitando termos ou formulações desnecessariamente vagas ou ambíguas.
+Preferivelmente, ela deve distinguir de forma clara as reivindicações não funcionais das funcionais, procedendo à identificação e pormenorização das correspondentes estruturas 66.
+Se a invenção introduz um melhoramento incremental num sistema já existente, a descrição deve centrar-se na respetiva pormenorização não sendo necessária a descrição pormenorizada de todo o sistema.
+Importa, acima de tudo, assinalar e especificar a parte, melhoria ou combinação do sistema que é reivindicada como invenção67.
+O fundamental é que a descrição escrita identifique claramente o elemento inventivo da patente68.
+A satisfa62 Boothe, Norris – «Exercising a Duty of Clarity: Nautilus, Inc. v. Biosig Instruments, Inc».
+30 Berkeley Technology Law Journal, 2015, pp.
+63 PatG § 3 [Begriff der Neuheit] Melullis Benkard, Patentgesetz11.
+90-115 64 Saidman, Perry J. e Leonard, Kerry W .
+– «Describing A Design – When Enough is Enough!
+§ 112 Written Description Requirement for Design Patents».
+97, Journal of the Patent and Trademark Office Society, 2015, pp.
+65 Mont, Jason Du e Janis, Mark D. – «Disclosing Designs».
+69, Vanderbilt Law Review, 2016, pp.
+66 Boothe, Norris – «Exercising a Duty of Clarity: Nautilus, Inc. v. Biosig Instruments, Inc».
+30 Berkeley Technology Law Journal, 2015, pp.
+67 Neste sentido se pronunciavam já os Patent Acts norte-americanos de 1836 e 1870.
+68 Sobre este aspeto, Boothe, Norris – «Exercising a Duty of Clarity: Nautilus, Inc. v. Biosig Instruments, Inc».
+30 Berkeley Technology Law Journal, 2015, 445 ss., 479 ss.
+48  Sistemas de patentes e princípio da suficiência descritiva… JÓNATAS E.M. MACHADO | PAULO NOGUEIRA DA COSTA GALILEU · e‑ISSN 2184‑1845 · Volume XXI · Issue Fascículo 1 · 1st January Janeiro – 30th June Junho 2020 · pp.
+30‑51 ção do critério da suficiência deve ser entendida à luz da realidade da invenção e da patente como um todo, no quadro de uma abordagem casuística, factual e contextual.
+Isto significa, desde logo, que não basta olhar exclusivamente para a patente e para a descrição escrita nela contida.
+É necessário atender, desde logo, à natureza mais ou menos previsível da arte e da ciência em causa, com as implicações que isso tem no plano da exigência de detalhe.
+Além disso, importa considerar todo o contexto da patente, ou seja, a informação disponível no estado da arte, que se reveste da maior importância para a compreensão e reprodução da invenção.
+A isso acresce, ainda no contexto da patente, a informação sobre a vigência da patente, a sua importância comercial, a sujeição a licenças e outros ónus ou a sua detenção por razões defensivas ou ofensivas, por exemplo.
+Tudo isso influencia o modo como o conteúdo invenção é (ou não) difundido durante e após o termo da patente.
+Uma análise contextual é tanto mais importante quanto é certo que a patente é um texto híbrido, com um pendor a um tempo científico e jurídico, em que a componente jurídica sobressai ao ponto de a patente não poder ser cabalmente entendida, lida e interpretada como se fosse simplesmente um artigo de divulgação científica e técnica69.
+O essencial é que a divulgação efetuada na descrição escrita transmita razoavelmente aos especialistas na ciência e na técnica que o inventor estava efetivamente na posse da matéria reivindicada na data do depósito.
+Por outras palavras, o que importa é que as ilustrações constantes da descrição escrita constante da patente mostrem claramente todas as características do design nalgum contexto, de modo a provar que o inventor tinha o domínio de cada característica no momento em que o projeto foi originalmente divulgado70.
+A aplicação das exigências de adequação, necessidade e proporcionalidade em sentido estrito, que densificam o princípio da proporcionalidade em sentido amplo, impõe o entendimento de que embora seja necessário que o requerente de uma patente ofereça ao público uma divulgação completa e adequada em troca da concessão da patente, a certeza exigida da divulgação não pode ser superior à que é razoável tendo devidamente em conta o assunto envolvido71.
+Verifica-se uma habilitação suficiente ainda que a mesma se baseie, em parte, no conhecimento tácito do estado da arte de um especialista na matéria, não sendo necessária a exigência de que a habilitação requer a divulgação de todos os detalhes da invenção72.
+69 Estes e outros aspetos são destacados por Chien, Colleen V .
+– «Contextualizing Patent Disclosure».
+Vanderbilt Law Review, 2016, pp.
+70 Neste mesmo sentido, In Re Timothy S. Owens, 710 F.3d 1362; 2013 U.S. App.
+LEXIS 5947; 106 U.S.P .Q.2D (BNA) 1248; In Re Scott J. Daniels 144 F.3d 1452; 1998 U.S. App.
+LEXIS 10171; 46 U.S.P .Q.2D (BNA) 1788.
+71 Neste sentido, In Re Storrs 44 C.C.P .A.
+981; 245 F.2d 474; 1957 CCPA LEXIS 149; 114 U.S.P .Q.
+(BNA) 293 72 Neste sentido, Invitrogen Corporation, 429 F.3d 1052; 2005 U.S. App.
+LEXIS 24810; 77 U.S.P .Q.2D (BNA) 116149  Sistemas de patentes e princípio da suficiência descritiva… JÓNATAS E.M. MACHADO | PAULO NOGUEIRA DA COSTA GALILEU · e‑ISSN 2184‑1845 · Volume XXI · Issue Fascículo 1 · 1st January Janeiro – 30th June Junho 2020 · pp.
+30‑51 3.2.6 Divulgação do conhecimento As patentes são ferramentas de comunicação através das quais divulgamos e validamos os avanços científicos e tecnológicos.
+Trata-se de uma forma de comunicação que, sendo protegida pela liberdade de expressão, se encontra constitucionalmente vinculada ao progresso científico e ao desenvolvimento tecnológico e económico.
+Ao conceder patentes, o sistema de patentes desempenha a função de divulgação e certificação do conhecimento especializado desenvolvido em várias disciplinas científicas e técnicas73.
+Conclusão A dignidade constitucional do direito de propriedade intelectual (latu sensu) é inteiramente compreensível atenta a relevância económica, social e cultural do conhecimento científico e do progresso tecnológico.
+Da Constituição Brasileira resultam importantes implicações substantivas e processuais para a produção, interpretação e aplicação do direito infraconstitucional, no que toca à promoção e proteção da atividade intelectual e criativa.
+Essa proteção é concretizada, nalguns dos seus aspetos fundamentais, na Lei da Propriedade Industrial, a Lei 9.279/96, 14 de maio, doravante por nós designada de LPI.
+Uma das funções do sistema de patentes consiste na divulgação dos conhecimentos que conduziram à invenção, donde resulta a exigência de uma descrição da invenção, a oferecer pelo inventor, como condição de atribuição de uma patente.
+O princípio da suficiência pretende determinar em que medida é que a descrição escrita da patente consegue transmitir de forma clara e suficiente o objeto da invenção, de modo a possibilitar sua realização por técnico no assunto e indicar, quando for o caso, a melhor forma de execução.
+Se é certo que o princípio da suficiência da descrição escrita consubstancia uma exigência de otimização, também é verdade que o mesmo consagra uma abertura à ponderação com outros princípios, na busca do equilíbrio adequado entre a cobertura da proteção jurídica das patentes e a real extensão da contribuição de um inventor.
+O princípio da suficiência impõe uma descrição das características inovadoras ou não convencionais relevantes que permitem identificar e diferenciar o invento, devendo a mesma ser levada a cabo com um grau de detalhe e especificação que permita a sua ope73 Ali, Feroz – «Technical Speech: Patents, Expert Knowledge, and the First Amendment».
+17 Minnesota Journal of Law, Science & Technology, 2016, pp.
+50  Sistemas de patentes e princípio da suficiência descritiva… JÓNATAS E.M. MACHADO | PAULO NOGUEIRA DA COSTA GALILEU · e‑ISSN 2184‑1845 · Volume XXI · Issue Fascículo 1 · 1st January Janeiro – 30th June Junho 2020 · pp.
+30‑51 racionalização (redução à prática) por técnicos competentes nas áreas técnicas e científicas por ele convocadas.
+A patente deve descrever a estrutura e a função da invenção sem se limitar a sugerir um caminho, método ou percurso que poderá, se e quando percorrido, conduzir à invenção.
+Uma vez verificados todos os requisitos da patenteabilidade, ou seja, a novidade, o salto inventivo e a aplicação industrial, os tribunais tendem a invalidar as patentes por insuficiência descritiva somente nos casos em que seja evidente a disparidade entre a descrição e as reivindicações ou a impossibilidade de a descrição ser razoavelmente apta a habilitar a operacionalização do invento por técnicos especializados na arte ou ciência relevante sem experimentação excessiva adicional.
+A determinação do sentido do conceito de suficiência descritiva deve ser feita com base em critérios de adequação, razoabilidade e proporcionalidade, apoiados numa boa base factual, tendo em conta a tecnologia em causa, o estado da arte e os técnicos envolvidos.
+Nalguns casos, mesmo com uma boa descrição escrita a reprodução do invento pode exigir experimentação adicional sem que isso demonstre, por si só, a insuficiência descritiva da patente.
+A descrição escrita não tem que ser exaustiva; o importante é assegurar que as características que são associadas à invenção reclamada se encontrem de algum modo representadas na descrição escrita.
+A determinação do que seja necessário para sustentar reivindicações genéricas de uma dada matéria depende de um conjunto diversificado de variáveis, tais como o conhecimento existente no campo específico, a extensão e o conteúdo da técnica anterior, a maturidade da ciência ou tecnologia, a previsibilidade do aspeto em questão e outras considerações apropriadas ao assunto em causa.
+O grau de pormenorização necessário para satisfazer a suficiência de descrição escrita varia em função da natureza e do âmbito das reivindicações e da complexidade e previsibilidade da tecnologia pertinente.
+Se existir alguma coisa que não tenha sido claramente revelada na descrição escrita, mas que seja previsível para um especialista na técnica pertinente, deve ainda assim considerar-se observado o princípio da suficiência descritiva.
+Tendo em conta a complexidade de muitas invenções a que assistimos hoje, quando se fala na necessidade de descrição escrita da patente ser suficientemente clara e precisa para constituir uma habilitar um técnico especializado para a reprodução e utilização do invento, isso pode referir-se, com mais propriedade, não a um único técnico individualmente considerado mas sim à intervenção de uma equipa multidisciplinar e multifuncional de técnicos especializados nas artes e ciências relevantes, cuja atuação concertada é 51  Sistemas de patentes e princípio da suficiência descritiva… JÓNATAS E.M. MACHADO | PAULO NOGUEIRA DA COSTA GALILEU · e‑ISSN 2184‑1845 · Volume XXI · Issue Fascículo 1 · 1st January Janeiro – 30th June Junho 2020 · pp.
+30‑51 adequada e necessária à luz da complexidade das tarefas envolvidas na reprodução e utilização de uma invenção.
+A satisfação do critério da suficiência deve ser entendida à luz da realidade da invenção e da patente como um todo, no quadro de uma abordagem casuística, factual e contextual, e tomando em linha de conta o princípio da proporcionalidade em sentido amplo, nas suas diversas dimensões.

@@ -1,0 +1,226 @@
+The importance of the maturity of the Project Management Office: a case of study in an innovation hub Priscila Manhaes da Silva1 - Universidade Estadual do Norte Fluminense Darcy Ribeiro - Dep.
+de Engenharia de Produção Rogerio Atem de Carvalho2 - Instituto Federal Fluminense - Departamento de Engenharia de Produção Simone Vasconcelos Silva3 - Instituto Federal Fluminense - Departamento de Engenharia de ProduçãoA importância da maturidade em escritórios de gestão de projetos: estudo de caso de um polo de inovação Constantemente, por sofrerem transformações profundas e rápidas, organizações optam pela estruturação por meio de projetos, que possuem um caráter menos burocrático e promovem a otimização contínua.
+Para tanto, recorrem aos escritórios de gestão de projetos, que, entretanto, possuem lacuna quanto sua implantação e funções.
+Este artigo teve como objetivo apresentar uma análise do mapeamento de maturidade do escritório de projetos de um polo de inovação frente ao modelo PMO Maturity Cube , para averiguar a importância de um modelo de maturidade próprio de PMOs no preenchimento dessas lacunas.
+A pesquisa reforçou a visão dos autores do modelo, e trouxe perspectivas para trabalhos futuros.Palavras-chave: Escritório de Gestão de Projetos (PMO).
+Organizations, which undergo profound and rapid transformations, consistently choose structuring through projects that have a less bureaucratic character and promote continuous optimization.
+In order to adopt this structure, they rely on project management offices, which in the meantime create a gap between their establishment and functions.
+This paper aimed to present an analysis of the maturity using PMO Maturity Cube model into a project office at an innovation pole, to investigate the importance of a PMO maturity model to fill these gaps.
+The research reinforced the view of the authors of the model, and provided perspectives for future projects.Keywords: Project Management Offices (PMO).
+Maturity Models.RESUMO ABSTRACTRECEBIDO 24/03/2017 APROVADO 26/09/2017 1.
+Avenida Alberto Lamego, 2000, Parque Califórnia, Campos dos Goytacazes, RJ, 28013-602, pmnhaes@gmail.com; 2. ratem@iff.edu.br; 3. simonevs@iff.edu.br SILVA , P .
+M.; CARVALHO , R. A.; SILVA , S. V. A importância da maturidade em escritórios de gestão de projetos: estudo de caso de um polo de inovação.
+Gestão da Produção, Operações e Sistemas , Bauru, Ano 14, nº 4, out-dez/2018, p. 337-356.
+DOI : 10.15675/gepros.v13i4.2039A importância da maturidade em escritórios de gestão de projetos: estudo de caso de um polo de inovação338 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 14, nº 4, out-dez/2018, p. 337-3561.
+INTRODUÇÃO Ao longo dos anos, organizações sofrem transformações profundas e aceleradas, que requerem respostas evolutivas em suas estruturas e práticas.
+Dentre as principais transformações causadas, é possível destacar a estruturação por meio de projetos, que possuem um caráter menos burocrático e maior capacidade de promover a otimização através de soluções eficientes e de baixo custo (POLLACK; ADLER, 2015).
+Considerando também o aumento constante da demanda e concorrência, existe uma necessidade de lidar com múltiplos projetos, e, portanto de adotar estruturas que possibilitem seu controle e planejamento.
+Advindo do termo em inglês Project Management Office (PMO), essas estruturas vieram a ser conhecidas como escritórios de gestão de projetos, ou apenas escritórios de projetos, e tendem a empenhar o papel de centros de monitoramento e contro le de desempenho de projetos, bem como de desenvolvimento de metodologias de gestão de projetos (GP) (PEMSEL; WIEWIORA, 2013).
+Os conceitos acerca dessas estruturas não são considerados novos, os au tores Desouza e Evaristo (2006) afirmam que as primeiras referências à criação do PMO datam da década de 1950, quando eram principalmente utilizados em projetos associados à engenharia, aeroespacial e militar, onde estimasse que existia maior investimento.
+Sua popularização se deu na década de 1990, quando o evento do bug do milênio (Y2K) levou o meio tecnológico a possuir maior controle dos riscos de seus projetos, através da padronização de suas metodologias de GP.
+Além de melhorar o processo de gestão, os PMOs tam bém proporcionaram resultados positivos quanto ao fator de sucesso dos projetos, levando as organizações a expandir os escopos sob responsabilidade dos PMOs (AUBRY et al., 2010).
+Atualmente, existe um movimento de substituição do uso de setores por múltiplos PMOs, de acordo com o foco de seus projetos ou portfólios.
+Con tudo, a variedade de segmentos que podem ser geridos por um PMO leva a diversas interpretações seus objetivos e atribuições, causando certa confusão e dificuldade quanto a sua implementação e ao reconhecimento de suas funções (AUBRY et al., 2015).
+Frente a esta problemática, define-se como pergunta de pesquisa: Como é possível assegurar que um escritório de projetos está alinhado às necessidades de sua organização?A importância da maturidade em escritórios de gestão de projetos: estudo de caso de um polo de inovação339 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 14, nº 4, out-dez/2018, p. 337-356O presente artigo tem por objetivo analisar a aplicação de um modelo de maturidade específico a PMOs visando explanar sobre sua habilidade em atingir as funções necessárias à organização estudada.
+O modelo escolhido foi o PMO Maturity Cube , cuja publicação é reconhecida na literatura por sua contribuição conceitual, porém pouco utilizada em trabalhos empíricos.
+A unidade de pesquisa selecionada para o mapeamento da maturidade foi o escritório de projetos do Polo de Inovação de Campos dos Goytacazes (PICG), que foi recente implantado para controle dos projetos do polo.
+Na próxima seção será apresentada a revisão bibliográfica, cuja temáti ca envolveu escritórios de projetos; modelos, tipologias, papéis e funções dos PMOs; e maturidade em gestão de projetos (GP), e justificou a escolha do mo delo de pesquisa.
+Na seção 3 são introduzidos os procedimentos metodológicos, seguida pela seção 4, com os resultados obtidos na análise, e por fim, pelas seções 5 e 6, onde são apresentadas as discussões e conclusões da pesquisa.
+Escritórios de gestão de projetos Apesar de estar consideravelmente madura, a metodologia de GP ainda demanda grande atenção de pesquisa, visto sua habilidade de adaptação a novos temas e indústrias, e por possuir um desenvolvimento contínuo de conhecimentos, além de uma natureza multidisciplinar (POLLACK; ADLER, 2015).
+Neste contexto, um PMO se apresenta como uma camada formal de controle composta por um conjunto de profissionais, cujo propósito visa aumentar a eficiência da organização e lidar com suas necessidades de GP, bem como criar uma estratégia competitiva de governança (CRAWFORD, 2010; MÜL LER; GLÜCKLER; AUBRY, 2013).
+Apesar de desta simplificação literária, a implementação de um PMO pode, comprovadamente, auxiliar a diminuição de taxas de falhas, aumentando a capacidade de recursos, melhorando a produtividade, e por fim, permitindo a entrega de projetos antes do previsto e dentro do orçamento (PEMSEL; WIEWIORA, 2013).
+Embora muito esforço tenha sido empregado para definir como deve ser a estrutura do PMO e os serviços e funções que devem ser operados, os autores Aubry, Hobbs e Thuillier (2008) afirmam que não existe ainda uma definição formal que seja aplicável a todos PMOs, visto que sua única certeza de sucesso está associada à capacidade de se adaptar a realidade de cada organização.A importância da maturidade em escritórios de gestão de projetos: estudo de caso de um polo de inovação340 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 14, nº 4, out-dez/2018, p. 337-3562.1.1.
+Modelos e tipologias Devido à expectativa exercida na estrutura dos PMOs, diversos autores enfatizaram modelos que pudessem auxiliar as organizações na implantação dessas estruturas.
+Esses modelos eram compostos pelas funções esperadas de um PMO, e apresentados em conjuntos, formando tipologias (KENDALL; ROLLINS, 2003; HOBBS; AUBRY, 2007; DESOUZA; EV ARISTO, 2006; HILL, 2008; CRAWFORD, 2010).
+Normalmente, o conceito de tipologia está associado à classificação de determinados comportamentos ou características de acordo um tipo, entre os melhores exemplos desta definição está o estudo realizado por Mintzberg (1979) que identificou as cinco principais tipologias ligadas às organizações.
+Além dos trabalhos mais reconhecidos, os autores Hobbs e Aubry (2008), destacam três características dos PMOs: com muitos projetos e muitos geren tes de projetos, com autoridade na tomada de decisões; com poucos projetos e poucos gerentes com autoridade para tomada de decisões; e de muitos projetos com poucos gerentes de projetos, que exercem autoridade moderada na toma da de decisões.
+Recentemente os autores Monteiro, Santos e Varajão (2016) realizaram um estudo com o objetivo de fornecer uma estrutura voltada para negócios e prover planejamento estratégico para que organizações pudessem obter valor através dos PMOs.
+Em seu trabalho foram analisados 47 modelos através da li teratura, reduzindo estes modelos em função de nomenclaturas similares para obter 25 principais através de 12 tipologias.
+Mesmo após esta redução, os autores destacaram que talvez ainda fosse possível reduzir o número de modelos realizando uma comparação entre os papéis e as funções descritos (MONTEI RO; SANTOS; VARAJÃO, 2016).
+Papéis e funções No que se refere aos papéis e funções abordadas pelo PMO, parece haver um consenso quanto à contribuição da pesquisa de Desouza e Evaristo (2006), que relacionou as principais funções do PMO a três papéis: Estratégico, Táti co e Operacional (PEMSEL; WIEWIORA, 2013; HILL, 2008; PINTO; COTA; LEVIN, 2010).A importância da maturidade em escritórios de gestão de projetos: estudo de caso de um polo de inovação341 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 14, nº 4, out-dez/2018, p. 337-356Para Hill (2008), os papéis definidos por Desouza e Evaristo (2006) se destacam por: centralizar tarefas operacionais, que normalmente provêm suporte a projetos individuais; expandir razoavelmente tarefas táticas, que estão associadas à entrega de valor do portfólio; e aplicar a nível estratégico os princípios relacionados ao profissionalismo e excelência nas práticas de GP.
+Posteriormente, os autores Aubry, Hobbs e Thuillier (2008) utilizaram de um estudo extenso com aproximadamente 500 PMOs para enfatizar 27 funções que deveriam ser exercidas por um PMO.
+Com base nessas funções, os autores Pinto, Cota e Levin (2010) realizaram um mapeamento através de outros conceitos reenquadrando essas funções em duas dimensões: Amplitu de (Corporativo, Departamental, Projeto) e Abordagem (Estratégica, Tática e Operacional), para compor seu modelo de estudo.
+A variedade de segmentos organizacionais que podem ser geridos por um PMO levou a diversas interpretações seus objetivos e atribuições, tanto na literatura quanto na prática.
+Deste modo, existem muitas organizações que implementam, ou implementaram seus PMOs sem uma visão clara de como proceder ou mesmo uma direção de que papel será exercido dentro da mesma (AUBRY et al., 2015).
+Maturidade em gestão de projetos Enquanto Kwak (2015), define maturidade com o nível de sofisticação em que uma organização se encontra frente às práticas de GP.
+Os autores Cookie e Davies (2004) enfatizam que os modelos de maturidade foram criados para au xiliar as organizações a entender os níveis de competências, isto é, a habilidade em lidar com projetos e a capacidade em estabelecer estratégias inovadoras.
+Um dos primeiros modelos a abordar o conceito de maturidade foi apre sentado por Crosby, em 1979, o Quality Management Maturity Grid , definindo cinco níveis de maturidade, em que se descrevia o comportamento a ser esperado de uma organização, com foco em gestão de qualidade (IQBAL, 2013).
+Posteriormente, o modelo Capability Maturity Models (CMM) foi desenvol vido pela Software Engineering Institute (SEI) para ser utilizado inicialmente pela engenharia de software (IQBAL, 2013).
+Sua estrutura, igualmente, consistente de cinco níveis de maturidade, e provia uma ferramenta de integração e A importância da maturidade em escritórios de gestão de projetos: estudo de caso de um polo de inovação342 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 14, nº 4, out-dez/2018, p. 337-356uma medida própria para mensurar diversos aspectos da engenharia de software (MULLALY, 2006).
+Devido ao uso do CMM por outras indústrias, a SEI apresentou o Capability Maturity Model Integration (CMMI), um modelo que se destacou por tornar possível às organizações optar pela seleção de práticas por níveis de maturidade ou áreas de processo (MULLALY, 2006).
+Após a inserção do CMMI, algumas organizações como o Project Management Institute (PMI) e a Association for Project Management (APM), bem como diversos autores (MULLALY, 2006; IQBAL, 2013; COOKE-DA VIES, 2004) abordaram o uso de modelos de maturidade destacando as vantagens de seu uso e seu impacto nos projetos, alguns inclusive vieram a desenvolver seus próprios modelos.
+Entre os modelos mais conhecidos, Organizational Project Management Maturity Model (OPM3) foi desenvolvido pela PMI, sob influência das melho res práticas de GP descritas no guide to the Project Management Body of Knowledge (PMBOK), e ainda sob colaboração externa (PMI, 2003).
+Apresentando um diferencial frente aos modelos derivados do CMM, o OPM3 é composto por um livro com informações explicativas, uma lista das melhores práticas de GP, um meio para avaliar o estado da organização e um catálogo detalhado de suas capacidades, simplificadamente, todas as informações necessárias para que gerentes de projetos possam desenvolver um plano de melhoria.
+Para PMI (2013a) utilizar um modelo de maturidade, essencialmente o OPM3, é vital para que as organizações melhorem seu desempenho e garan tam a eficiência de seu gerenciamento.
+Por sua vez, Crawford (2010) define que toda organização que dependente de projetos deve possuir pelo menos um PMO para garantir um melhor desempenho e para atingir sua maturidade.
+Considerando a dificuldade de implantação e as dúvidas ao redor dos objeti vos de um PMO, utilizar um modelo de maturidade próprio para PMOs pode auxiliar a quebrar esta barreira.
+Maturidade em escritórios de projetos A implantação de um PMO está ligada a cultura da organização e, portanto, tende a variar, trazendo grande dificuldade em relação ao estabelecimento de uma padronização, ou mesmo uma base referencial.
+Considerando esta dificul dade, os autores Kendall e Rollins (2003) sugeriram um modelo de maturidade de PMO aplicável em oito níveis de maturidade através das nove áreas de conhe -A importância da maturidade em escritórios de gestão de projetos: estudo de caso de um polo de inovação343 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 14, nº 4, out-dez/2018, p. 337-356cimento citadas no PMBOK neste período.
+Para cada nível foram detalhadas as funções esperadas dos PMOs, frente às melhores práticas do PMBOK, além de um guia de utilização dessas práticas visando alcançar os próximos níveis.
+Embora a obra de Kendall e Rollins (2003) seja reconhecida na literatura, não foi encontrada evidência desse modelo de maturidade em estudos de casos, por padrão, os trabalhos que a mencionam se abstiveram a citar sua funda mentação teórica (AUBRY; HOBBS; THUILLIER, 2007; MÜLLER; GLÜCKLER; AUBRY, 2013; PANSINI; TERZIEV A, 2013).
+Durante uma conferência do PMI, Pinto, Cota e Levin (2010) sugeriram que o grau de maturidade de um PMO deveria ser relacionado à proficiência de criação de valor para a organização.
+Assim, os autores introduziram o PMO Maturity Cube , um modelo de maturidade específico para escritórios de proje to, cuja principal metodologia se baseia em uma auto avaliação do PMO confrontando suas funções exercidas com a funções sugeridas no modelo.
+Além das dimensões citadas anteriormente, o modelo possui a dimensão de Maturidade (Básico, Intermediário, Avançado), conforme ilustrado na Figura 1.
+Figura 1 - Modelo PMO Maturity Cube.
+PMO MATURITY CUBE AMPLITUDEMATURIDADE ABORDAGEMAvançado EstratégicoIntermediário Tático Básico Corporativo Departamental ProjetoOperacional Fonte: Adaptado de Pinto et.
+2010.A importância da maturidade em escritórios de gestão de projetos: estudo de caso de um polo de inovação344 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 14, nº 4, out-dez/2018, p. 337-356Na avaliação do modelo, a amplitude se refere à profundidade de atuação dentro da organização; enquanto a abordagem se baseia nos tipos de serviços a serem prestados, sendo funções estratégicas as que envolvem a gestão estratégica organizacional; funções táticas voltadas para oferecimento de serviços para a equipe; e funções operacionais ligadas aos serviços direcionados a pro jetos.
+A classificação da maturidade se emprega: ao nível básico (de 0% a 33%), no momento inicial do PMO; ao nível intermediário (de 34% a 60%), quando existem atribuições específicas a serem desempenhadas pelo PMO; e ao nível avançado (de 61% a 100%), quando o PMO detém conhecimento para executar adequadamente suas atividades (PINTO; COTA; LEVIN, 2010).
+Assim como o modelo sugerido por Kendall e Rollins (2003), o estudo de Pinto, Cota e Levin (2010) é consideravelmente mencionado por sua gestão estratégica e pela definição de funções relativas ao PMO (UNGER; GEMÜN DEN; AUBRY, 2012; PANSINI; TERZIEV A, 2013; MONTEIRO; SANTOS; V ARAJÃO, 2016), porém poucos trabalhos efetuaram o mapeamento da matu ridade através do modelo (DANTAS, 2013; PMI, 2013; KHALEMA et.
+PROCEDIMENTOS METODOLÓGICOS Nesta seção são apresentados os passos utilizados no estudo e os procedimentos metodológicos executados para alcançar o objetivo de estudo.
+A Figura 2 ilustra a estruturação das etapas de pesquisa para o atendimento do objetivo.
+Figura 2 - Estruturação da metodologia de pesquisa.
+Estudo de caso Passos Coleta de dados Objetivo de pesquisaRevisão bibliográficaSeleção do modelo de estudoSeleção do objeto de estudoAnálise da documentação do PMOEntrevistas semiestruturadasMapeamento Fonte: Autoria própria (2017).A importância da maturidade em escritórios de gestão de projetos: estudo de caso de um polo de inovação345 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 14, nº 4, out-dez/2018, p. 337-3563.1.
+Objeto de estudo De acordo com Almeida (2011) uma população de pesquisa é definida por aqueles a quem ela se refere ou representa, isto é, o universo compreendido dentro da pesquisa.
+No presente trabalho o objeto de estudo se caracteriza como escritório de projetos do Polo de Inovação de Campos dos Goytacazes (PICG), no qual foram selecionados três indivíduos para compor sua amostra.
+A seleção dos indivíduos ocorreu devido à presença no momento de im plantação do escritório, possuindo assim os conhecimentos necessários para o aprofundamento da pesquisa, além de considerável experiência com projetos e tempo de atuação na área.
+Entre esses indivíduos, dois estão representam diretamente o PMO e seus interesses, sendo os gerentes do mesmo, enquanto o terceiro elemento representa a alta gerência da instituição, que neste caso está igualmente envolvida no PMO.
+O PICG, anteriormente conhecido por Unidade de Pesquisa e Extensão Agroambiental (UPEA), foi inaugurado em outubro de 2007, com o intuito de possibilitar atividades de Pesquisa, Desenvolvimento e Inovação (P&DI) asso ciadas ao Instituto Federal Fluminense (IFF).
+Desde sua criação, a polo realiza atividades em atendimento às demandas regionais, a partir de parcerias com empresas e órgãos governamentais.
+Em agosto de 2015, o PICG oficialmente passou a integrar uma das cinco unidades de polos de inovação IFs em parce ria com Empresa Brasileira de Pesquisa e Inovação Industrial (EMBRAPII), (EMBRAPII, 2016).
+Procedimentos de coleta de dados Para Yin (2015), a qualidade de uma pesquisa está relacionada à suas fontes de evidência, sendo viável a utilização de diversas fontes como: a documentação, a entrevista, a observação participante, entre outras mais.
+Neste estudo a acessibilidade aos dados se deu através do contato prévio com o objeto de pesquisa, sendo possível à observação participativa no treinamento e na im plantação do escritório.
+Após a implantação, ocorreram eventuais análises da documentação disponível no escritório, levando enfim as entrevistas realiza das para o levantamento de informações referente ao PMO e para o preenchimento do formulário da pesquisa.
+Para elaboração do formulário de pesquisa, foi utilizado como base o modelo PMO Maturity Cube , proposto pelos autores Pinto, Cota e Levin (2010) para iden -A importância da maturidade em escritórios de gestão de projetos: estudo de caso de um polo de inovação346 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 14, nº 4, out-dez/2018, p. 337-356tificação de lacunas com potencial de aprimoramento em serviços providos por PMOs através de três questionários de autoavaliação referentes às abordagens indicadas pelo modelo.
+Devido sua publicação original estar apresentada na língua inglesa, os questionários foram traduzido e adaptados à realidade do presente estudo.
+Procedimentos de análise de dados Este trabalho utilizou de uma abordagem qualitativa, tendo em vista permitir a riqueza de dados na observação de um fenômeno, que busca explorar o paradoxo envolvido na problemática (VIEIRA; ZOUAIN, 2009).
+Quanto a sua finalidade, tem caráter descritivo pois tem como objetivo identificar caracte rísticas deste fenômeno, formando uma visão geral de sua situação, através de uma análise empírica (FORTIN; CÔTE; FILION, 2009).
+Também é notado o caráter exploratório, pois procura acumular conhecimento a cerca da proble mática levantada por Pinto, Cota e Levin (2010), em relação à falta de visão clara de direção e procedência na implementação de PMOs, bem como da análise de sua maturidade (VERGARA, 2009).
+As perguntas utilizadas nos questionários visaram confrontar os critérios dos serviços esperados de um PMO, assim o questionário de funções estratégicas possui 10 questões; enquanto o questionário de funções táticas possui nove per guntas; e por fim, o questionário de serviços operacionais possui oito perguntas.
+Para cada abordagem, obtém-se respostas referentes a um padrão descrito em níveis, numa variação de 0 a 4, e em duas expectativas (Nível Atual e Nível Dese jado), conforme ilustrado na Figura 3.
+Figura 3 - Exemplo de questionário do PMO Maturity Cube.
+1) Como o PMO provê aconselhamento à Alta Gerência da Organização?Nível atualNível desejado Nível-0 O PMO não executa essa função.
+Nível-1O PMO é acionado eventualmente pela alta gerência a fim de dar o seu posicionamento sobre questões relativas à tomada de decisão estratégica.
+Nível-2O PMO é acionado frequentemente pela alta gerência a fim de dar o seu posicionamento sobre questões relativas à tomada de decisão estratégica, porém seu envolvimento não está formalmente estabelecido.
+Nível-3O PMO participa do processo de tomada de decisão estratégica da organização, estando formalmente estabelecido o seu envolvimento nesse processo.X X Fonte: Autoria própria (2017).A importância da maturidade em escritórios de gestão de projetos: estudo de caso de um polo de inovação347 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 14, nº 4, out-dez/2018, p. 337-356Para permitir à adequação do modelo a natureza volátil do PMO, a cada questão o responde escolhe o Nível Atual de acordo com o quanto as atividades prestadas cabem à função proposta no modelo, enquanto para o Nível Desejado é viabilizado que seja escolhida a função que atende as necessidades do ponto de vista da organização, isto é, apesar dos serviços do questionários serem considerados as principais funções esperadas de um PMO, ao utilizar o modelo, a organização pode determinar se as funções são realmente necessá rias, sem afetar a avaliação da maturidade total do PMO.
+Para maior autonomia e melhor compreensão dos quesitos levantados no formulário, os indivíduos da amostra foram entrevistados em conjunto, possibilitando também um debate das questões do formulário, e respostas concisas através de um consentimento dos envolvidos.
+Optou-se por agir desta forma para facilitar a reflexão dos participantes no momento de responder as perguntas.
+Maturidade em relação à abordagem estratégica De acordo com Aubry, Hobbs e Thuillier (2008), existe uma necessidade imprescindível para qualquer PMO de se estabelecer entre os portfólios da organização, provendo uma metodologia de GP que se alinhe ao planejamento estratégico da organização em que está inserido.
+Neste quesito, em relação à função de participar do planejamento estratégico, o PMO estudado se encon tra no nível 3, atual e desejado, o que significa que está formalmente e regularmente inserido nos processos de planejamento estratégico da instituição.
+Com relação à função de prover aconselhamento à alta gerência, foi igualmente atingido o nível 3, atual e desejado, visto a participação ativa da alta gerência dentro do escritório.
+Os níveis máximos também foram concedidos às funções de desenvolver e manter um quadro estratégico de projetos; moni torar e controlar seu próprio desempenho; e gerenciar um ou mais portfólios em consequência a implantação de uma ferramenta de gestão integrada de senvolvida pela instituição para o controle dos projetos do PMO.
+Indiferentes ao uso da ferramenta, as funções de promover a GP dentro da organização; e gerenciar benefícios de programas; bem como identificar, selecionar e priori -A importância da maturidade em escritórios de gestão de projetos: estudo de caso de um polo de inovação348 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 14, nº 4, out-dez/2018, p. 337-356zar novos projetos obtiveram os últimos níveis em ambas as expectativas.
+Em relação à priorização dos projetos notou-se a influência do externo modelo assumido pelo PICG no momento de associação a EMBRAPII, com a finalidade de atender aos padrões de qualidade das empresas associadas.
+Apenas em duas funções de abordagem estratégicas não foi atingido o ní vel máximo de acordo com o desejado, a função de coordenar e integrar projetos de portfólios ainda não consegue atuar preventivamente para a realização do portfólio dentro do prazo, inferindo o nível 2, enquanto a função de ma peamento do relacionamento e do ambiente de projetos ainda se encontra no nível 1, pela distância notada entre o PMO e os stakeholders dos projetos.
+Em ambos os casos ressalta-se que podem ser consequências do tempo de implan tação do PMO, que ainda é recente, e que pretende alcançar os níveis máximos em breve.
+Tabela 1 - Resultados de abordagem estratégica.
+Questões de Abordagem EstratégicaNível AtualNível Desejado Como o PMO provê aconselhamento à Alta Gerência da Organização?
+3 3 Como o PMO coordena e integra os projetos/programas do portfólio?
+2 3 Como o PMO desenvolve e mantém um quadro estratégico de projetos/ programas?3 3 Como o PMO promove a gestão de projetos na organização?
+3 3 Como o PMO monitora e controla o seu próprio desempenho?
+4 4 Como o PMO participa do processo de planejamento estratégico?
+3 3 Como o PMO gerencia um ou mais portfólios?
+4 4 Como o PMO identifica, seleciona e prioriza novos projetos?
+3 3 Como o PMO gerencia os benefícios de projetos/programas?
+2 2 Como o PMO mapeia o relacionamento e o ambiente de Atual projetos na organização?1 2 Percentual total: 80 100 Fonte: Autoria Própria (2017).A importância da maturidade em escritórios de gestão de projetos: estudo de caso de um polo de inovação349 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 14, nº 4, out-dez/2018, p. 337-356Conforme foi ilustrado na Tabela 1, notou-se existe uma aceitação do PMO na cultura institucional que está inserido, o que inferiu uma maturidade de 80% em relação às abordagens estratégicas, considerando a maturidade desejada de 100%, esta avaliação foi a menos positiva entre as três abordagens do modelo, embora este resultado seja esperado pela amplitude que esta abor dagem abrange.
+Maturidade em relação à abordagem tática No momento de implantação do escritório ocorreu um treinamento com a equipe formada pela alta gerência, pelos gerentes do PMO e pelos gerentes dos projetos, sendo ainda permitida à observação participativa de pesquisa do tra balho em questão.
+No treinamento foi apresentada "uma visão aprofundada da metodologia de gestão de projetos que seria implantada no PMO, dos modelos proposto pela EMBRAPII, e um treinamento de base para o uso da ferramenta de gestão que seria utilizada pelo polo".
+Através do treinamento foi possível cumprir com os níveis máximos em relação ao desenvolvimento e implementação de uma metodologia, bem co mo, o conteúdo do treinamento, e a existência do treinamento em si, cumpre a questão do desenvolvimento de competências em GP.
+Nesta função, entre tanto, foi estabelecido pela instituição que não havia valia em atingir o nível 4, portanto o nível 3 passou a representar o atual e desejado.
+Igualmente, em relação ao recrutamento, seleção, avaliação e determinação de salários de ge rentes foi optado pelo nível 2, tanto atual quanto desejado, devido ao caráter público da instituição e a ausência desta possibilidade de estabelecer bonifica ções financeiras.
+Devido à existência de uma ferramenta de gestão integrada, algumas funções nesta abordagem atingiram o nível máximo em ambos os aspectos, são elas: implementar e administrar sistemas de informação dos projetos; prover um conjunto de ferramentas de GP; gerenciar interfaces de clientes; alocar e movimentar recursos entre projetos; implementar e gerenciar banco de dados de lições aprendidas; e por fim, implementar e gerenciar banco de dados de riscos.
+No entanto, destaca-se que as últimas quatro funções não possuem su gestão quanto ao uso de software por parte do modelo.A importância da maturidade em escritórios de gestão de projetos: estudo de caso de um polo de inovação350 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 14, nº 4, out-dez/2018, p. 337-356Tabela 2 - Resultados de abordagem tática.
+Questões de abordagem táticaNível AtualNível Desejado Como o PMO desenvolve e implementa a metodologia padrão de GP?
+4 4 Como o PMO desenvolve competências em GP?
+3 3 Como o PMO implementa e administra sistemas de informação de gestão de projetos?3 3 Como o PMO gerencia interfaces com clientes?
+3 3 Como o PMO provê um conjunto de ferramentas para a GP?
+3 3 Como o PMO atua na alocação e movimentação de recursos entre os projetos?3 3 Como o PMO implementa e gerencia o banco de dados de lições aprendidas?3 3 Como o PMO implementa e gerencia o banco de dados de riscos?
+3 3 Como o PMO exerce as funções de recrutar, selecionar, avaliar e determinar salários dos GPs?2 2 Percentual total: 100 100 Fonte: Autoria Própria (2017).
+Considerando todos os pontos abordados das funções, conclui-se que o atendimento da maturidade do modelo PMO Maturity Cube nas funções de abordagem tática é de 100%, exatamente como o desejado, conforme ilustrado na Tabela 2.
+Maturidade em relação à abordagem operacional Desde sua implantação o escritório do PICG assumiu um papel de centralização de informações da instituição, portanto sempre foi possível prover aos gerentes do PMO serviços avançados de apoio a GP, como por exemplo: análise de riscos, elaboração e gestão de contratos, e recuperação de projetos.
+Cabe res saltar também que esses requisitos foram preenchidos e igualmente facilitados pelo sistema de informação (SI) do PMO.
+A importância da maturidade em escritórios de gestão de projetos: estudo de caso de um polo de inovação351 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 14, nº 4, out-dez/2018, p. 337-356Outros quesitos como prover serviços especializados aos gerentes de projetos; informar o status dos projetos para a alta gerência; monitorar e controlar o desempenho dos projetos e programas; além de gerenciar arquivos e acervos de documentação de projetos tiveram os níveis máximos inferidos dado o uso do SI.
+Na função de prover mentoring para os gerentes de projetos escritório, existe um processo que atua de forma proativa aos profissionais de GP, e que conforme critérios pré-estabelecidos, envolve o apoio às atividades de plane jamento e controle, assistindo também as funções de gestão de programas e projetos e de condução de auditorias em projetos, promovendo essas funções ao nível 3, máximo e desejado, do modelo.
+Por fim, resta a função de conduzir revisões pós-gestão de projetos, como base nas lições aprendida.
+Considerada importante para o processo de me lhoria contínua, foi a única função da abordagem a não atingir o nível atual máximo, pois atualmente se encontra no nível 2, que prevê sua captação e aná lise, faltando portanto ser integrada aos processos de GP possibilitando seu reaproveitamento.
+Assim, esta abordagem inferiu o nível de maturidade atual de 88%, onde o desejado seria de 100%, conforme ilustrado na Tabela 3.
+Tabela 3 - Resultados de abordagem operacional.
+Questões de Abordagem OperacionalNível AtualNível Desejado Como o PMO provê serviços especializados para os Gerentes de Projetos?
+2 2 Como o PMO informa o status dos projetos para a Alta Gerência?
+3 3 Como o PMO monitora e controla o desempenho de projetos/programas da organização?3 3 Como o PMO provê mentoring para os Gerentes de Projetos?
+3 3 Como o PMO gerencia arquivos e acervos de documentação de projetos?
+3 3 Como o PMO gerencia um ou mais programas ou projetos?
+3 3 Como o PMO conduz auditorias de projetos?
+3 3 Como o PMO conduz revisões pós-gestão do projeto (lições aprendidas)?
+2 3 Percentual total: 88 100 Fonte: Autoria Própria (2017).A importância da maturidade em escritórios de gestão de projetos: estudo de caso de um polo de inovação352 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 14, nº 4, out-dez/2018, p. 337-3565.
+DISCUSSÕES Notadamente, devido à diversidade de aplicação dos PMOs, existe uma melhora plausível na eficácia e eficiência das organizações que adotam essas estruturas, entretanto, essa natural volátil tem causado uma discussão recorrente quanto a melhor definição de métricas quanto a sua implantação e as funções a serem esperadas por esses escritórios.
+O principal objetivo deste trabalho foi verificar se o mapeamento de um modelo de maturidade próprio para PMOs poderia auxiliar a estabelecer um padrão de funções esperadas neste contexto, conciliando também os serviços dos escritórios as necessidades estratégicas das organizações.
+Ainda, como ob jetivo secundário, procurou-se fornecer uma revisão bibliográfica consistente, que fosse baseada na temática dos escritórios de projetos fornecendo uma rela ção com os modelos de maturidade de GP, tendo em vista a importância desses modelos no alinhamento das organizações com seus objetivos estratégicos.
+Ao desenvolver o modelo PMO Maturity Cube , os autores Pinto, Cota e Levin (2010) criticaram a ausência de um método para mensurar a maturida de de PMOs, enquanto fornecedor de valor, desconsiderando a utilização de tempo de implantação como unidade real.
+Em seu estudo, Dantas (2013) usou o modelo para verificar a maturidade de múltiplos PMOs dentro de uma rede de hospitais e propôs um plano de melhoria para que estes PMOs pudessem atingir a maturidade desejada por sua organização.
+Os PMOs estudados, ape sar de estarem implantados há um tempo considerável, não atingiram o nível avançado do modelo.
+Na presente pesquisa, o objeto estudado apresentou um nível avançado em todas as abordagens do modelo, desde seu pior desempenho com 80% na abordagem estratégica, até a abordagem tática em que atingiu 100% do requisitos.
+Considerando que a implantação deste escritório ocorreu a pouco mais de um ano, é possível reforçar a visão dos autores, de que a maturidade de PMOs não deveria ser relacionada a tempo.A importância da maturidade em escritórios de gestão de projetos: estudo de caso de um polo de inovação353 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 14, nº 4, out-dez/2018, p. 337-356De outro ponto de vista, os autores Khalema et.
+(2015) utilizaram o mapeamento do PMO Maturity Cube para efetuar uma comparação com o uso de modelos de maturidade de GP, mais precisamente com o intuito de mensurar a maturidade organizacional.
+Não foi efetuada nesta pesquisa a aplicação de um modelo de maturidade de GP, porém entende-se que a maturidade de PMOs, ape sar de não ser considerada a maturidade organizacional, deve ser aferida e incentivada, tendo em vista a elaboração de planos de melhoria para o próprio PMO, que por sua vez atingirá a melhoria de desempenho dos projetos da organização.
+CONCLUSÕES Inicialmente este trabalho procurou trazer uma perspectiva geral tanto sobre os PMOs, quanto sobre modelos de maturidade, relacionando a maturidade organizacional à maturidade de PMOS através de uma revisão bibliográfica aprofundada.
+Embora tenha sido implantado a pouco mais de um ano, o PMO estudado no presente trabalho apresentou um estágio avançado de maturidade através do modelo PMO Maturity Cube , em boa parte por influência dos profissionais envolvidos na composição da equipe do escritório, visto que possuem expe riência em lidar com projetos e foram responsáveis pelo emprego de diversas práticas de GP importantes, entre elas, o desenvolvimento e emprego de um sistema de informação, a ferramenta de gestão integrada, que representou um fator importante na análise da maturidade do PMO.
+Conclui-se que os modelos de maturidade específicos para PMOs trazem uma nova visão de maturidade importante, que incentiva melhorias nos escri tórios de projetos visando alinhar seu desempenho a estratégia organizacional.
+Entretanto, esses modelos estão recentes e poucos utilizados em trabalhos empíricos que reforcem suas práticas e possuam maior aplicabilidade, vindo a trazer uma luz para as lacunas existentes quanto à implantação e as funções a serem esperadas dos PMOs.A importância da maturidade em escritórios de gestão de projetos: estudo de caso de um polo de inovação354 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 14, nº 4, out-dez/2018, p. 337-356REFERÊNCIAS AUBRY, M. Project management office transformations: Direct and moderating effects that enhance performance and maturity.
+Project Management Journal , v. 46, n. 5, p. 19-45, 2015.
+AUBRY, M.; HOBBS, B.; THUILLIER, D. A new framework for understanding organisational project management through the pmo.
+International Journal of Project Management , v. 25, n. 4, p. 328-336, 2007.
+AUBRY, M.; HOBBS, B.; THUILLIER, D. Organisational project management: An historical approach to the study of pmos.
+International Journal of Project Management , v. 26, n. 1, p. 38-43, 2008.
+AUBRY, M.; MULLER, R.; HOBBS, B.; BLOMQUIST, T. Project management offices in transition.
+International Journal of Project Management , v. 28, n. 8, p. 766-778, 2010.
+ALMEIDA, M. S. Elaboração de projeto, TCC, dissertação e tese: uma abordagem simples, prática e objetiva.
+]: Editora Atlas SA, 2011.BROCKE, J. V, SIMONS, A.; NIEHA VES, B.; NIEHA VES, B.; REIMER, K. Reconstructing the giant: On the importance of rigour in documenting the literature search process.
+Disponível em:< RECONSTRUCTING_THE_GIANT ON_THE_IMPORTANCE_OF_RI GOUR_IN_DOCUMENT.pdf.> Acesso em 20 mar 2017.
+COOKE-DA VIES, T. Project management maturity models .
+The Wiley guide to managing projects, p. 1234-1255, 2004.CRAWFORD, J. K. The strategic project office.
+Quality is free: The art of making quality certain.
+DANTAS, F. K. D. Análise do nível de maturidade de escritório de projetos: o caso da Justiça Federal do Rio Grande do Norte.
+Trabalho de Con clusão de Curso (Monografia) – Departamento de Administração, Universidade Federal do Rio Grande do Norte, Natal, 2013.A importância da maturidade em escritórios de gestão de projetos: estudo de caso de um polo de inovação355 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 14, nº 4, out-dez/2018, p. 337-356DESOUZA, K. C.; EV ARISTO, J. R. Project management offices: A case of knowledge-based archetypes.
+International Journal of Information Management , v. 26, n. 5, p. 414-423, 2006.
+[Online; accessed 20-Janeiro-2016].
+Disponível em: < Acesso em 20 mar 2017.
+HILL, G. M. The complete project management office handbook.
+B.; AUBRY, M. A multi-phase research program investigating project management offices (PMOs): the results of phase I.
+Project Management Journal , v. 38, n. 1, p. 74-86, 2007.
+IQBAL, S. Program Management: A Life Cycle Approach.
+Ginger Levin: CRC Press , 2013.
+KENDALL, G. I.; ROLLINS, S. C. Advanced project portfolio management and the PMO: multiplying ROI at warp speed.
+KHALEMA, L.; WA VEREN, C. C. V.; CHAN, K.-Y.
+The relationship between project management office maturity and organizational project management maturity.
+The Southern African Institute for Industrial Engineering , v. 26, n. 3, p. 12-26, 2015.
+KWAK, Y. H.; WALEWSKI, J.; SADATSAFA VI, H.; NIGEL, L. W. Evolution of project-based organization: A case study.
+International Journal of Project Management , v. 33, n. 8, p. 1652-1664, 2015.
+MINTZBERG, H. The structuring of organization: a synthesis of the resear ch.
+MONTEIRO, A.; SANTOS, V.; V ARAJÃO, J.
+Project management office models - a review.
+Procedia Computer Science , v. 100, p. 1085-1094, 2016.
+MULLALY, M. Longitudinal analysis of project management maturity.
+Project Management Journal, Project Management Institute , v. 37, n. 3, p. 62, 2006.
+MÜLLER, R.; GLÜCKLER, J.; AUBRY, M. A relational typology of project management offices.
+Project Management Journal , v. 44, n. 1, p. 59-76, 2013.A importância da maturidade em escritórios de gestão de projetos: estudo de caso de um polo de inovação356 GEPROS.
+Gestão da Produção, Operações e Sistemas, Bauru, Ano 14, nº 4, out-dez/2018, p. 337-356PANSINI, F.; TERZIEV A, M. Challenges and benefits on the path towards discovering pmo: cases from italian banking sector.
+Procedia Technology , v. 9, p. 627-637, 2013.
+Project management office a knowledge broker in project-based organisations.
+International Journal of Project Management , v. 31, n. 1, p. 31-42, 2013.
+PINTO, A.; COTA, M.; LEVIN, G. The pmo maturity cube, a project management office maturity model.
+Organisational project management maturity model .
+A guide to the project management body of knowledge - PMBOK.
+In: Project Management Institute , 2013.
+Disponível em: < mar 2017.mi.org/pmbok-guide-standards>.
+POLLACK, J.; ADLER, D. Emergent trends and passing fads in project management research: A scientometric analysis of changes in the field.
+International Journal of Project Management , v. 33, n. 1, p. 236-248, 2015.
+UNGER, B. N.; GEMÜNDEN, H. G.; AUBRY, M. The three roles of a project portfolio management office.
+International Journal of Project Management , v. 30, n. 5, p. 608-620, 2012.

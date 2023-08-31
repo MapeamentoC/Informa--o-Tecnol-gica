@@ -1,0 +1,283 @@
+ CENTRAL DE SERVIÇOS COMO INOVAÇÃO NA GESTÃO UNIVERSITÁRIA: UM ESTUDO MULTICASO EM TRÊS INSTITUIÇÕES DE ENSINO SUPERIOR Leandro Costa Azevedo Centro Universitário Una leandrocostazevedo@gmail.com Danilo De Melo Costa Centro Universitário Una danilomct@gmail.com RESUMO As instituições de ensino superior (IES) buscam cada vez mais eficiência para se destacar em um ambiente significativamente competitivo e os serviços de tecnologia da informação vêm se mostrando importantes parceiros estratégicos.
+A partir desta premissa, este estudo visa compreender os benefícios da aplicação da Central de Serviços para a gestão universitária nas instituiç ões de ensino s uperior, como inovação de serviço aplicado ao usuário neste ambiente .
+Neste sentido, discorreu -se sobre a busca pela eficiência competitiva das IES e o papel da tecnologia da informação (TI) como um parceiro estratégico neste contexto.
+Para tanto, foi desenvolvido um estudo exploratório e quantititativo, em uma abordagem multicaso contemplando três IES brasileiras de grande porte localizadas nos estados de Minas Gerais, São Paulo e Santa Catarina, em que 322 funcionários técnico -administrativos responderam a um questionário em escala likert de 7 pontos contendo 56 perguntas.
+Os resultados validaram um modelo estrutural demonstrando os principais benefícios da Central de Serviços para a Gestão Universitário.
+Há um elo forte de ligação entre todas as dimensões estratégicas e operacionais, o que indica que, para que uma Central de Serviços consiga exercer sua função dentro d e uma IES , todos os fatores precisam ser bem observados e consequentemente trabalhados.
+Palavras chave: inovação; central de serviços; gestão universitária; tecnologia da informação, eficiência operacional .
+INTRODUÇÃO Atualmente se vive em mundo onde as inovações tecnológicas solucionaram diversos problemas da sociedade e promoveram a globalização, o acesso a informação se tornou mais fácil e disponível em qualquer lugar e a qualquer momento.
+Ocorreu a chamada evolução da tecnologia da informação.
+A partir de então, seu uso nas instituições e organizações passou a evoluir da mesma forma.
+A T ecnologia da Informação (TI) está enriquecendo todo o processo organizacional, auxiliando na otimização das atividades, facilitando a comunicação e melhorando o processo decisório, pois as informações são mais eficientes e eficazes, chegam ao gestor com mais velocidade e precisão (BEAL, 2001 ; AFFELDT; VANTI, 2009).
+A Tecnologia da Informação (TI) vem desempenhando dia a dia um papel essencial nas organizações, sejam elas públicas ou privadas, essencialmente adequado ao fato de que grande parte das operações/transações é gravada em ambientes informatizados.
+A Tecnolog ia da Informação configura -se como um recurso capaz de suportar a atividade fim da organização, proporcionando agilidade, mobilidade e suporte à tomada de decisão.
+A maximização da relevância da TI deve ser especialmente observada nos quesitos relacionados ao crescimento de investimentos em TI, por este motivo, a gestão da tecnologia da informação passou a ser realizada como um serviço dentro da organização ( AFFELDT; VANTI, 2009).
+O objetivo de um sistema de informação é um tornar a administração de informa ções precisas e necessárias, facilitando os processos e atividades a serem realizados, de forma que o planejamento, organização, controle e direção sejam executados de maneira eficiente.
+A gestão de serviços de informação pode trazer diversos benefícios pa ra a empresa, especialmente a área financeira, pois reduzem os custos das operações e propiciam relatórios mais preciso e rápidos.
+A administração de recursos (materiais, humanos e financeiros) pode ser realizada com mais rapidez e precisão (DIAS, 2000).
+ITIL é a abordagem mais aceita para o gerenciamento de serviços de TI no mundo.
+ITIL fornece um conjunto coerente de melhores práticas, oriundas dos setores público e privado a nível internacional (WHITTLESTON, 2012).
+O modelo ITIL promove a gestão com foco no cliente e na qualidade dos serviços de TI, endereçando estruturas de processos para a gestão de uma organização de TI (FERNANDES; ABREU, 2006).
+Diante do exposto, algumas organizações fazem uso dessas metodologias possibilitando melhorar sua qualidade de gestão e entrega de serviços, a ITIL possui em um de seus capítulos a Central de Serviços, base desse objeto de estudo.
+Central de serviços é originalmente categorizada na biblioteca ITIL como um processo de suporte a serviço, porém trata -se mais de uma função, pois é a principal fonte de relacionamento entre a área de específica (TI, por exemplo) e os usuários dos seus serviços (MAGALHÃES; PINHEIRO, 2007).
+Na Central de Serviços, é definido o conjunto de práticas para cuidar dos serviços de TI no dia a dia, esta função gerencia e aplica as regras para entregar e gerir serviços de acordo com os níveis definidos para clientes e usuários.
+A Central de Serviços pode oferecer atendimento através de diversos canais de contato, além do habitual ramal telefônico : formulário web, conta(s) de correio eletrônico e troca de mensagens instantâneas, entre outros (COHEN, 2008) e é o ponto único de contato entre o provedor de serviço e os usuários, portanto é de sua objetividade administrar incidentes, requisições de serviço e também a concessão com os usuários.
+É possível notar os benefícios advindos de um sistema da informação e da gestão de serviços de TI e a aplicação dessas práticas em Instituições de Ensino Superior privadas, que atualmente enfrentam um grande acir ramento competitivo, podem trazer grandes vantagens.
+3 Tal premissa se confirma por serem organizações que processam um grande volume de muitas informações e que tem como questão estratégica um melhor gerenciamento dos dados.
+Esta melhor gestão e eficiência nas operações pode representar um diferencial competitivo para estas organizações, e a implantação de uma Central de Serviços representa um importante passo para o alcance deste propósito.
+Notado os recursos disponíveis nos dias atuais para melhoria na ges tão de uma instituição, compete a organização a aplicação destes métodos a fim de buscar certificações e premiações e conseguir agregar valor de modo que supere a concorrência e obtenha melhores resultados que sua respectiva concorrência.
+É possível compre ender que este intuito também se aplica as instituições de ensino superior, onde cada vez mais buscam eficiência em um mercado competitivo .
+A partir desta premissa, a este estudo visa compreender os benefícios da aplicação da Central de Serviços para a gestão e governança em TI na s instituiç ões de ensino superior, como inovação de serviço aplicado ao usuário neste ambiente.
+FUNDAMENTAÇÃO TEÓRICA Nesta sessão, inicia -se um debate em torno da necessidade de busca pe la eficiência operacional nas instituições de ensino superior e como a tecnologia pode ser tornar uma parceira estratégica neste sentido .
+2.1 EDUCAÇÃO SUPERIOR E A BUSCA PELA EFICIÊN CIA COMO DIFERENCIAL COMPETIT IVO Colocadas em situação dinâmica, obrigadas a t ransformações, as Instituições de Ensino Superior (IES), prestam seus serviços, e não diferem das outras organizações que sofre o efeito do mercado que atua sobre a economia.
+Esses efeitos tendem a levar as IES a reconhecerem a importância de repensar a fo rma de administrá -las, permitindo uma visão mais competitiva e continuada da sua gestão (LIMA et al., 2013).
+Em geral, as organizações podem ser consideradas sistemas complexos, ambíguos e rodeados de paradoxos.
+Uma vez que existe um conjunto de interações humanas, seus sistemas fogem a uma lógica racional, linear e previsível, influenciando constantemente sua capacidade de gestão.
+No entanto, algumas organizações parecem levar esse conceito ao extremo, sendo, portanto, mais complexas que as outras, como as IES, igrejas, hospitais, organizações artísticas e Organizações não Governamentais – ONG.
+As instituições têm se visto num momento de alteração de gestão e buscarem por novos recursos que atuem em seu benefício econômico.
+Ass im, um dos aspectos críticos da gestão universitária tem sido a prática de estratégias que permitam a esse tipo de organização alcançar o desempenho desejado e se manter competitiva no setor (MEYER; PASCUCCI; MANGOLIN, 2012).
+A produtividade de desempenho estratégico depende da qualidade com que o processo é controlado.
+Assim, medir e avaliar indicadores relacionados a fatores de competitividade tendem a aumentar a produtividade da organização (GITINEJADA; KERAMATIB, 2014).
+Nos dias atuais a educação superior se transformou em um negócio com grandes possibilidades e mercado.
+O faturamento das instituições privadas cresceu 30% em dois anos (HOPER , 2014).
+A estratégia praticada tem sido a de aquisições de instituições ou parcerias com instituições locais em países como Chile, Holanda, Índia, Inglaterra, Espanha, Suíça, 4 França, Bélgica e Brasil (BLUMENSTYK, 2003).
+Colocadas em um contexto competitivo, as instituições devem buscar alternativas para que então possam sobreviver a desestabilização da economia e aos desafios imposto pelo mercado imprevisível e de grande mudança.
+O termo competitividade deve ser encarado de forma que seja aplicado e agregue benefício a organização.
+Atendendo a ciclos menores de entregas do produto; ter produto com qualidade e co nfiabilidade; cumprir com a promessa de entrega; ser hábil para produzir novos produtos rapidamente; possuir flexibilidade para ajustar mudanças no volume e obter custos baixos, são características organizacionais necessária para as organizações (SKINNER, 1969).
+A Confederação Italiana da Indústria publicou um relatório sobre a competitividade da economia italiana, após a introdução da moeda única.
+O estudo analisa a situação de todos os principais fatores que afetam a competitividade do sistema econômico e indica as medidas necessárias para mitigar os fatores que impedem o desenvolvimento, os quais são: pesquisa e inovação, educação, energia e ambiente e logística dos transportes (RIVELLI, 2000).
+Desde o início de 1990, devido à lib eralização econômica, globalização e revolução da Tecnologia da Informação e Comunicação, o ambiente competitivo para as empresas indianas acarretou em estudos sobre fatores de competitividade.
+Com os fatores de competitividade, as empresas indianas espera m melhorar o desempenho e a qualidade do produto, a redução da produção e as rejeições de produtividade mais elevadas.
+Esses resultados, então, implicam em maior competitividade (BALASUBRAHMANYA, 2005).
+A partir destes métodos torna -se imprescindível, adeq uar a gestão de uma instituição para que possa ocorrer o desenvolvimento de seus produtos, serviços e processos, fazendo uso das melhores práticas, adequando os custos, obtendo excelência em qualidade e prazo, atingindo dessa forma o cliente, realizando a sua fidelização.
+O conhecimento dos fatores de competitividade possibilitará à organização trabalhar em sincronia com as 60 exigências ambientais, estruturar -se internamente, reduzir os níveis de incertezas e melhorar seu desempenho (ROMAN et al., 2012).
+O ponto de partida é ter um objetivo correto – é ter a ideia de criar e implementar uma estratégia diferente e especial.
+Como saber se uma estratégia é boa para a organização?
+Somente após sua implementação é que se poderá verificar se um conjunto de decisõ es, ações e comportamentos que consolidam o posicionamento de uma organização estão contribuindo para o cumprimento dos objetivos e melhoria do desempenho organizacional (PORTER, 2002).
+O surgimento de novas instituições, no mercado obrigam as IES a se man ter competitiva, implicando em desenvolver novas estratégias, atendendo a necessidade dos seus consumidores, os quais estão a cada dia mais exigentes aos serviços educacionais prestados.
+A qualidade nos serviços é um diferencial competitivo muito forte e n ão depende apenas de uma única pessoa da empresa, mas de todas trabalhando em conjunto em busca da satisfação do cliente (ALBRECHT, 1994).
+A importância de serviço diz respeito ao presente, o que a organização faz agora e o que seus clientes pensam que ela faz hoje, e não necessariamente o mesmo que a visão ou missão de uma organização, a visão de uma organização diz respeito a onde ela espera estar em algum momento do futuro (JOHNSTON; CLARK, 2002).
+5 Relacionado a educação, a procura por melhorar a qualidad e nos seus serviços prestados é decisiva e fundamental, tendo em conta também os órgãos reguladores que exigem um controle de qualidade para que as IES, mantenham -se funcionando.
+Determinar a qualidade dos serviços educacionais incide em investir nos mais diversos recursos buscando uma melhoria continua, em rumo ao progresso inovação, se destacando no mercado.
+A obtenção do sucesso de uma instituição prestadora de serviço é diretamente proporcional à qualidade deste serviço prestado, ou seja, uma instituiçã o que presta um serviço de excelência na qualidade tem uma propensão muito maior de atender aos anseios do mercado onde está inserida (GRONROOS, 1995).
+Para a organização prestadora de serviços diferenciar -se de seus concorrentes é preciso prestar um servi ço de alta qualidade, o que é alcançado na medida em que ela atende ou excede as expectativas de qualidade do seu público -alvo (KOTLER; BLOOM, 1998).
+Introduzido neste contexto que as ações de estratégias na gestão de serviços, as IES têm um diferencial fr ente à concorrência, e mantendo -se no mercado competitivo em diferença com as outras encontradas por aí a fora.
+Tecnologia como um parceiro estratégico nas IES Para se atingir os objetivos e a necessidades de uma IES, ou qualquer outra organização, tornou -se cada vez mais imprescindível o uso da TI.
+Entretanto, caso a área de TI desconsidere os objetivos estratégicos das organizações em que está inserida, ela será uma área de TI que atua somente como um simples provedor de tecnologia, não se importando neste caso, com as estratégias de negócios de seus clientes (MAGALHÃES; PINHEIRO, 2007).
+A TI evoluiu de uma orientação tradicional de suporte administrativo para um papel estratégico dentro da corporação e esta nova visão tem sido discutida e enfatizada, pois não apenas sustenta as operações de negócio existentes, como também permite que se viabilizem novas estratégias empresariais (LAURINDO, 2002).
+Com isso, a TI não tem mais apenas o objetivo de ser um produto de acesso à tecnologia e informação, mas também passou a ser considerado um componente essencial ao negócio e um fator de sucesso a estratégia de uma organização.
+A tendência da TI é tornar -se um parceiro estratégico das demais áreas de negócios que compõem a organização, dotandose de uma forte Governa nça de TI, alinhada com a Governança Corporativa (MAGALHÃES; PINHEIRO, 2007).
+Para isso é fundamental que a TI se modernize, estabeleça o cliente e o negócio como o foco principal, conheça seus serviços, seus clientes e usuários e mude sua forma de comunic ação com esses, pois as infraestruturas por trás do serviço (serviços de suporte) não são relevantes ao cliente, e sim as características dos serviços, tais como a qualidade do serviço, o tipo do serviço, a disponibilidade e o tempo de resposta (FREITAS, 2 013).
+Assim, fica claro o consenso de que a TI de hoje deve ser vista como uma provedora de serviços, de soluções, orientada ao negócio, com uma postura proativa, ou seja, não ser apenas provedora de tecnologia, mas também fornecedora de serviços que agreg am valor a seus clientes.
+Tendo como premissa este papel, deve -se destacar que o processo expansionista, com as novas diretrizes, preconiza mudanças significativas nas IES: diversificação, flexibilização na estrutura dos cursos de graduação, relação teoria -prática, avaliações periódicas, dentre 6 outras (DOURADO; OLIVEIRA; CATANI, 2003).
+Neste sentido é possível a percepção que as IES possuem um grande desafio em qualificar sua organização principalmente como prestadora de serviços, e isto pode causar um impa cto em relação aos interesses econômicos da instituição, por não conseguir realizar a persuasão e convicção de seus clientes pela falta de eficiência em seus serviços.
+Neste contexto, as instituições estão sendo cada vez mais pressionadas, a agirem de acordo com os preceitos determinados pela tecnologia da informação.
+As IES devem se posicionar de forma proativa na disseminação do uso da TI, buscando uma inserção que proporcione a inclusão dos recursos tecnológicos nas atividades acadêmicas e administrativa s da organização (SILVA; FLEURY, 2003).
+Os desafios vivenciados no atual contexto, marcado pela expansão da educação superior no Brasil, exigem que as organizações de ensino repensem o seu papel, apontando para uma administração mais racional, privilegiand o os critérios de eficiência e eficácia e de produtividade, num contexto marcado pela competitividade e profissionalização, sem se distanciar do seu foco principal, o papel acadêmico e social dessas instituições (MEYER JR.; MURPHY, 2000).
+Torna -se então im prescindível o uso TI, a qualidade e eficiência dos serviços serão ditados pela sua prática, a eficiência de acesso aos recursos demonstrara a profissionalização da instituição com relação aos seus clientes.
+E é neste cenário que a Central de Serviços surg e como a ponte para comunicação entre a TI e a instituição de ensino superior, garantindo a melhor prestação de serviços, enquanto atende aos anseios do negócio, e, consequentemente, de seus clientes.
+METODOLOGIA Essa pesquisa é exploratória pois o autor aprofundou em uma temática pouco estudada que é o papel de uma Central de Serviços para a inovação dos Departamentos de Tecnologia da Informação de Instituições de Ensino Superior, de modo à auxiliar as instituições a compreenderem os benefícios relaciona dos na estruturação de uma Central de Serviços neste contexto (MALHOTRA, 2001) .
+A presente pesquisa possui abordagem quantitativa, pois aplicou questionário s estruturado s para compreender e eficiência da Central de Serviços sob a perspectiva dos usuários internos, para posterior tratamento estatístico.
+A pesquisa também se configura como um estudo Multicasos.
+Optou -se pelo estudo multicasos visto que foi realizado um estud o em três Instituições de Ensino Superior de grande porte de estados diferentes, uma em Minas Gerais, outra em São Paulo e outra em Santa Catarina.
+As técnica s de coleta de dados empregada s foram a coleta de dados bibliográfica, que segundo Fonseca (2002) , é feita a partir do levantamento de referências teóricas já analisadas e publicadas, seja por meios eletrônicos ou escritos, como artigos científicos, livros, páginas de web sites.
+A pesquisa bibliográfica foi realizada no sentido de compreender os princ ipais conceitos da aplicabilidade de uma Central de Serviços, bem como identificar as variáveis que darão subsídio para construção do roteiro de entrevista a ser realizado com os funcionários das três instituições de ensino.
+Foram também aplicados questio nários estruturados não disfarçados em escala Likert de 7 pontos aos funcionários que atuam na operação destas instituições.
+O questionário foi fundamental para verificar a visão dos usuários da Central de Serviço em face a teoria.
+Sua resposta ajudou a compreender lacunas a serem exploradas para uma melhor implantação de adaptação de uma Central de Serviços em uma instituição de ensino superior, devida a sua 7 complexidade singular.
+Os questionários possuíam 5 1 perguntas divididas em 8 construtos de terceiro nível, que consequentemente subsidiaram 2 constructos de segundo nível, conforme quadro 1 .
+Vale a pena ressaltar que o construto de 1º Nível é a própria Central de Serviços.
+Quadro 1 – Relação de construtos e perguntas Construto Pergunta 2º nível 3º nível Estratégico Qualidade da Informação (QIN) 1 A informação fornecida pela Central de Serviços é atualizada 2 A informação fornecida pela Central de Serviços é isenta de erros 3 A informação fornecida pela Central de Serviços é de fácil compreensão.
+4 A informação fornecida pela Central de Serviços está disponível em meios eletrônicos e impressos.
+5 A informação fornecida pela Central de Serviços é completa e contém fatos relevantes.
+6 Quando há erros de qualquer natureza a Central de Serviços informa aos interessados.
+7 Conheço todos os indicadores de TI que envolvem o meu setor.
+Acessibilidade (ACE) 8 A Central de Serviços fornece respostas quando necessária.
+9 Quando entro em contato com a Central de Serviços sou rapidamente atendidx.
+10 Conheço todos os canais de atendimento da Central de Serviços.
+11 Sou prontamente atendidx quando utilizo algum canal de atendimento da Central de Serviços.
+12 A Central de Serviços divulga em seus canais de comunicação as suas formas de contato.
+13 Os líderes são mais produtivos porque têm acesso direto à Central de serviços.
+14 Tenho acesso a todos os processos da Central de Serviços.
+Aumento de Produtividade (APR) 15 A taxa de produtividade do meu trabalho é maior em decorrência do suporte da Central de Serviços.
+16 A Central de Serviços contribui para a minha produtividade.
+17 O sucesso da minha produção está diretamente relacionada ao suporte da Central de Serviços.
+18 As soluções geradas pela Central de Serviços impactam na minha produtividade.
+19 Se a empresa não disponibilizasse a Central de Serviços meu trabalho poderia ser menos produtivo caso precisasse de auxílio.
+20 A entrega do meu trabalho depende da resposta da Central de Serviços em algum momento.
+21 Considero produtivo e eficiente o trabalho da Central de Serviços.
+Alinhamento da Operação à Estratégia (AOE) 22 A Central de Serviços apoia diretamente a estratégia da empresa.
+23 A atuação da Central de Serviços auxilia a gerência a tomar melhores decisões.
+24 Minha liderança conhece os processos da Central de Serviços.
+25 Percebo que a Central de Serviços contribui para que as metas organizacionais sejam atingidas.
+26 A Central de Serviços apoia os processos do meu setor que se envolvem com a estratégia da empresa.
+27 Não considero a Central de Serviços um apoio à estratégia da Empresa 28 A Central de Serviços contém serviços que ajudam no desenvolvimento estratégico da empresa Operacional Infraestrutura Controlada (IFC) 29 Entendo que a Central de Serviços é corresponsável por manter a infraestrutura de TI (Hardwares e softwares) organizados.
+30 A Central de Serviços disponibiliza a política de utilização de recursos computacionais.
+31 Conheço o procedimento caso necessite de auxílio com algum 8 hardware.
+32 Conheço o procedimento caso necessite de auxílio com algum software/sistema na empresa.
+33 A Central de Serviços contribui de alguma forma para a solução de problemas com a infraestrutura de TI.
+34 Acredito que os computadores e periféricos são controlados pela equipe da Central de Serviços.
+35 A Central de Serviços controla o patrimônio dos equipamentos de informática .
+Satisfação no Atendimento (SAT) 36 Sou bem atendidx quando entro em contato por telefone com a Central de Serviços.
+37 Os atendentes da Central de Serviços são prestativos no atendimento.
+38 A Central de Serviços disponibiliza algum canal para avaliação do atendimento.
+39 As respostas dadas pelos atendentes da Central de Serviços via ferramenta HELPDESK são esclarecedoras.
+40 Conheço os indicadores de atendimento da Central de Serviços.
+41 Acredito que a Central de Serviços conhece a necessidade de cada cliente.
+42 Não tenho boas experiências com o atendimento da Central de Serviços.
+Celeridade nas Respostas (CRE) 43 Tenho conhecimento dos prazos de atendimento da Central de Serviços.
+44 Os atendentes da Central de Serviços procuram ser proativos nas respostas.
+45 Quando estou com urgência, sou prontamente atendida pela Central de Serviços.
+46 A Central de Serviços entende quando o atendimento é prioritário.
+47 A velocidade na resposta pela Central de Serviços me ajuda a entregar um melhor resultado.
+48 Considero que exista exagero burocrático nas respostas da Central de Serviços.
+49 A Central de Serviços disponibiliza meios tecnológicos para apoio nas respostas aos clientes.
+Redução do Impacto Negativo (RIN) 50 A Central de Serviços reduz os impactos negativos da operação quando solicitada.
+51 Já precisei da Central de Serviços para atendimento de uma situação no qual reduziu o impacto para o cliente.
+52 Entendo que o trabalho da Central de Serviços evita retrabalhos ocasionando impactos negativos.
+53 A resposta correta e atualizada da Central de Serviços reduz o impacto negativo da empresa.
+54 Meu setor já entregou resultados negativos pela falta de solução da central de serviços .
+55 Meu setor já entregou resultados positivos pela atuação da Cen tral de Serviços.
+56 A Central de Serviços apoia os setores na redução dos retrabalhos e falhas no atendimento.
+Fonte: Elaborado pelos autores.
+Esta pesquisa tomou -se como base funcionários de três Instituições de Ensino Superior do grupo estudado.
+A definição desta amostra se confirma a partir da fórmula abaixo: 𝑛=𝑁∙𝑍2∙𝑝(1−𝑝) 𝑍2∙𝑝∙(1−𝑝)+𝑒2∙(𝑁−1) Em que: 9 n – amostra calculada; N – população; Z – variação normal padronizada associada ao nível de confiança; p – verdadeira probabilidade do evento; e – erro amostral.
+Os cálculos ficaram da seguinte forma: IES Alfa possui 987 Funcionários (50,43%) e a pesquisa será realizada com 162 funcionários, a IES Delta possui 540 funcionários (27,59%) e a pesquisa será realizada com 89 funcionários, IES Gama co m 430 funcionários (21,97%) e a pesquisa realizada com 71 destes.
+No total, 1957 funcionários com uma amostra total de 322 funcionários.
+A Análise de Dados da referida pesquisa aconteceu em duas etapas.
+a) Identificação de constructos na literatura Na primei ra etapa, buscou compreender na literatura, a partir da pesquisa bibliográfica, os principais constructos referentes a implantação de uma Central de Serviços.
+Estes construtores foram categorizados e deram o subsídio necessário para a construção do roteiro de entrevista, que foi aplicado aos funcionários das três instituições de ensino e do modelo estrutural resultante, apresentado ao final desta pesquisa .
+A pesquisa bibliográfica foi realizada com base na literatura do ITIL contida no livro ITIL Service O peration (OGC, 2011).
+Foi tomada como base para a definição dos constructos os principais aspectos considerados na leitura, chamados de constructos de segunda ordem, estratégicos e operacionais, a partir destes, outros de terceira ordem foram desdobrados em qualidade da informação, acessibilidade, aumento da produtividade, alinhamento da operação à estratégia, infraestrutura controlada, satisfação do atendimento, celeridade nas respostas e aumento da produtividade.
+b) Aplicação de questionário junto a func ionários da empresa Na análise descritiva das variáveis de caracterização da amostra foram utilizadas as frequências absolutas e relativas.
+Já na descrição dos itens dos constructos foram utilizadas medidas de posição, tendência central e dispersão, sendo uma das medidas utilizadas o intervalo percentílico bootstrap com 95% de confiança.
+O método bootstrap (EFRON; TIBISHIRANI, 1993) é muito utilizado na realização de inferências quando não se conhece a distribuição de probabilidade da variável de interesse.
+Os itens dos constructos "Qualidade da informação", "Acessibilidade", "Aumento da produtividade", "Alinhamento da Operação à Estratégia", "Infraestrutura Controlada", "Satisfação no Atendimento", "Celeridade nas respostas" e "Redução do impacto negativo" estavam codificados em uma escala likert de concordância variando de 1 (Discordo totalmente) à 7 (Concordo Totalmente).
+Para validar os constructos foi feita uma Análise Fatorial Confirmatória (HAIR et.
+Já para dados ordinais foram desenvolvido s alguns métodos de estimação, como o método dos Mínimos Quadrados Ponderados (WLS – Weighted Least Squares) e Mínimos Quadrados Ponderados Diagonalmente (DWLS – Diagonally Weighted Least Squares).
+Recentemente, o uso do método de estimação DWLS tornou -se popular para análise fatorial de dados ordinais, uma vez que produz estimativas mais precisas e invariantes que o WLS (FORERO; MAYDEU -OLIVARES; GALLARDO -PUJOL, 2009).
+10 Na avaliação da validade convergente utilizou -se o critério da Variância Média Extraída ( AVE) proposto por Fornell e Larcker (1981), que representa o percentual médio de variância compartilhada entre o constructo latente e seus itens.
+Para verificar a confiabilidade foram utilizados os indicadores Alfa de Cronbach (A.C.) e Confiabilidade Compo sta (C.C.)
+Para a validade discriminante foi utilizado o critério de Fornell e Larcker.
+(1981), que garante a validade discriminante quando a variância média extraída (AVE) de um constructo for maior que a variância compartilhada desse constr ucto com os demais.
+Para verificar a dimensionalidade dos constructos foi utilizado o critério de Kaiser (1958) que retorna à quantidade de dimensões do constructo.
+Para verificar a qualidade do ajuste foram utilizadas as estatísticas X²/G.L., CFI, TLI e RMSEA.
+Para um bom ajuste espera -se que X²/G.L.
+seja menor que 3 (ARBUCKLE, 2008), CFI seja maior que 0,95 (BENTLER, 1990), TLI seja maior que 0,95 (BENTLER; BONNET, 1980) e que o RMSEA (STEIGER; SHAPIRO; BROWNE, 1985) seja menor que 0,10, sendo o ideal aba ixo de 0,05.
+Para comparar os indicadores de primeira, segunda e terceira ordem com as variáveis de caracterização foram utilizados os testes de Kruskal Wallis, Mann -Whitney (HOLLANDER; WOLFE, 1999).
+O software utilizado nas análises foi o R (versão 3.5.0).
+RESULTADOS Os funcionários das três instituições de ensino superior, IES Alfa, IES Delta e IES Gama foram perguntados sobre dimensões relacionadas à Central de Serviços, divididas em duas (Operacional e Estratégico) e ramificadas em oito constructo s, quatro para cada.
+Os dados mostram que a média das respostas para cada constructo nos direciona ao grau de importância destes em relação ao funcionamento de uma Central de Serviços .
+A Tabela 1 apresenta a Análise Fatorial Confirmatória utilizando o método DWLS.
+Logo, pode -se destacar que:  Todos os itens dos constructos Qualidade da informação, Acessibilidade, Aumento da produtividade, Alinhamento da Operação à Estratégia, Infraestrutura Controlada, Satisfação no Atendimento, Celeridade nas respostas e Redução do impacto negativo, Estratégicos, Operacionais e Central de Serviços apresentaram carga fatorial superior a 0,50 e foram mantidos nas análises.
+ Nos constructos de segunda ordem (Estratégicos e Operacionais), todos os indicadores apresentaram ca rga fatorial maior que 0,50.
+No constructo de terceira ordem (Central de serviços) os indicadores também apresentaram carga fatorial maior que 0,50.
+ Nos constructos de segunda e terceira ordem, Estratégicos, Operacionais e Central de Serviços respectivamen te, os itens apresentaram relevância similar (C.F.
+próximos), uma vez que os intervalos de confiança se sobrepuseram.
+Tabela 1 – Análise Fatorial Confirmatória Constructo Variáveis Peso C.F.
+Qualidade da informação QIN1 0,43 0,92 [0,89; 0,94] 0,84 QIN2 0,39 0,89 [0,87; 0,91] 0,80 QIN3 0,30 0,69 [0,63; 0,77] 0,48 QIN4 0,42 0,86 [0,83; 0,89] 0,74 11 QIN5 0,36 0,75 [0,66; 0,83] 0,56 QIN6 0,43 0,90 [0,87; 0,93] 0,81 QIN7 0,37 0,83 [0,81; 0,85] 0,69 Acessibilidade ACE8 0,19 0,81 [0,77; 0,85] 0,66 ACE9 0,23 0,87 [0,84; 0,90] 0,76 ACE10 0,19 0,84 [0,80; 0,88] 0,70 ACE11 0,19 0,86 [0,84; 0,89] 0,74 ACE13 0,21 0,85 [0,81; 0,89] 0,72 ACE14 0,14 0,76 [0,72; 0,79] 0,57 Aumento de produtividade APR15 0,18 0,69 [0,64; 0,74] 0,47 APR16 0,22 0,81 [0,77; 0,85] 0,65 APR17 0,22 0,83 [0,79; 0,86] 0,69 APR18 0,25 0,87 [0,83; 0,90] 0,7 APR19 0,27 0,88 [0,86; 0,91] 0,78 APR20 0,21 0,83 [0,79; 0,87] 0,69 APR21 0,25 0,88 [0,86; 0,91] 0,78 Alinhamento da Operação à Estratégia AOE22 0,32 0,84 [0,81; 0,87] 0,71 AOE23 0,29 0,81 [0,78; 0,85] 0,66 AOE24 0,27 0,79 [0,75; 0,82] 0,62 AOE25 0,34 0,81 [0,77; 0,85] 0,66 AOE26 0,25 0,80 [0,76; 0,84] 0,64 AOE27 0,33 0,84 [0,79; 0,89] 0,70 AOE28 0,34 0,91 [0,87; 0,95] 0,83 Infraestrutura Controlada IFC29 0,27 0,87 [0,84; 0,91] 0,76 IFC30 0,27 0,80 [0,76; 0,83] 0,63 IFC31 0,31 0,92 [0,90; 0,93] 0,84 IFC32 0,26 0,78 [0,75; 0,82] 0,61 IFC33 0,28 0,85 [0,81; 0,88] 0,72 IFC34 0,33 0,90 [0,88; 0,93] 0,81 IFC35 0,35 0,90 [0,88; 0,92] 0,81 Satisfação no atendimento SAT36 0,33 0,84 [0,80; 0,87] 0,70 SAT37 0,43 0,90 [0,86; 0,94] 0,82 SAT38 0,37 0,90 [0,87; 0,93] 0,82 SAT39 0,22 0,54 [0,44; 0,64] 0,29 SAT40 0,36 0,89 [0,85; 0,92] 0,78 SAT41 0,37 0,77 [0,71; 0,85] 0,60 SAT42 0,25 0,66 [0,60; 0,73] 0,44 Celeridade nas Respostas CRE43 0,24 0,88 [0,86; 0,90] 0,77 CRE44 0,28 0,93 [0,91; 0,95] 0,86 CRE45 0,25 0,87 [0,84; 0,91] 0,76 CRE46 0,27 0,89 [0,87; 0,91] 0,79 CRE47 0,16 0,58 [0,51; 0,65] 0,34 CRE48 0,21 0,76 [0,70; 0,82] 0,58 CRE49 0,21 0,79 [0,74; 0,84] 0,62 Redução do impacto negativo RIN50 0,43 0,73 [0,68; 0,79] 0,53 RIN51 0,56 0,88 [0,85; 0,91] 0,77 RIN52 0,62 0,96 [0,93; 0,98] 0,92 RIN53 0,47 0,81 [0,75; 0,85] 0,65 RIN54 0,22 0,46 [0,35; 0,54] 0,21 12 RIN55 0,43 0,80 [0,76; 0,84] 0,64 RIN56 0,51 0,91 [0,87; 0,94] 0,83 Estratégicos Qualidade da informação 0,90 0,96 [0,94; 0,97] 0,91 Acessibilidade 1,89 0,99 [0,98; 1,00] 0,98 Aumento de produtividade 1,49 0,98 [0,97; 1,00] 0,97 Alinhamento da Operação à Estratégia 1,02 0,97 [0,95; 0,98] 0,93 Operacionais Infraestrutura Controlada 1,46 0,98 [0,96; 0,99] 0,95 Satisfação no atendimento 1,10 0,96 [0,94; 0,98] 0,92 Celeridade nas Respostas 1,76 0,98 [0,97; 1,00] 0,97 Redução do impacto negativo 0,65 0,90 [0,87; 0,92] 0,81 Central de Serviços Estratégicos 2,98 0,95 [0,91; 0,97] 0,90 Operacionais 3,50 0,96 [0,94; 0,99] 0,93 Fonte: Dados da Pesquisa.
+Na Tabela 2 pode -se verificar as medidas de validade e qualidade dos constructos utilizando o método DWLS.
+Logo, vale destacar que:  Todos os constructos apresentaram Alfa de Cronbach (C.A.)
+e Confiabilidade Composta (D.G.)
+acima de 0,60, ou seja, todos apresentaram o s níveis exigidos de confiabilidade;  Todos os constructos foram unidimensionais segundo o critério de Kaiser;  Todos os constructos apresentaram validação convergente (AVE>0,40), incluindo os constructos de segunda e terceira ordem.
+ Pelo critério de Fornell e Larcker (1981), a validação discriminante foi alcançada por todos os constructos de 1ª ordem (AVE > VCM).
+A Tabela 2 apresenta os parâmetros da qualidade do modelo: X²/G.L., CFI, TLI e RMSEA.
+Para um bom ajuste espera -se que X²/G.L.
+seja menor que 3 (A RBUCKLE, 2008; WHEATON, 1987), CFI seja maior que 0,95 (BENTLER, 1990), TLI seja maior que 0,95 (BENTLER; BONNET, 1980) e que o RMSEA ( STEIGER; SHAPIRO; BROWNE , 1985) seja menor que 0,10, sendo o ideal abaixo de 0,05.
+Tabela 2 – Validação dos constructos Constructos Itens A.C.¹ C.C.² Dim.³ AVE4 VCM5 1º Ordem Qualidade da informação 7 0,94 0,94 1 0,70 0,52 Acessibilidade 6 0,93 0,93 1 0,69 0,63 Aumento de produtividade 7 0,94 0,94 1 0,69 0,61 Alinhamento da Operação à Estratégia 7 0,94 0,94 1 0,69 0,61 Infraestrutura Controlada 7 0,95 0,95 1 0,74 0,63 Satisfação no atendimento 7 0,92 0,92 1 0,63 0,61 Celeridade nas Respostas 7 0,93 0,93 1 0,67 0,65 Redução do impacto negativo 7 0,93 0,93 1 0,65 0,52 2º Ordem Estratégicos 4 0,97 0,99 1 0,95 0,76 Operacionais 4 0,96 0,98 1 0,91 0,76 3º Ordem Central de Serviços 2 0,94 0,95 1 0,91¹ Alfa de Cronbach; ² Confiabilidade Composta; ³ Dimensionalidade; 4 Variância Extraída; 5 Variância compartilhada.
+Desta forma, avaliando os parâmetros de qualidade do ajuste com a estimação DWLS, destaca -se que: 13  A Razão entre a Estatística Qui -Quadrado e os Graus Liberdade foi menor que 3, o que indica um bom ajuste do modelo.
+ Analisando o TLI e o CFI, é possível verificar que ele s apresentaram valores superiores a 0,95 (TLI = 0,995 e CFI = 0,995).
+De acordo com Bentler (1990) e Bentler e Bonnet (1980) valores maiores que 0,95 indicam um ajuste muito bom.
+ O RMSEA apresentou um valor de 0,050 [0,047; 0,053], abaixo do limite máximo de 0,10, o que também indica um bom ajuste de modelo.
+ Dessa forma, conclui -se que o ajuste da Análise Fatorial Confirmatória.
+Figura 1 – Análise Fatorial Confirmatória Fonte: Elaborado pelo s autor es.
+A Tabela 3 apresenta a comparação dos indicadores em relação às instituições.
+Logo, pode -se destacar que: No IES Alfa todos os indicadores apresentaram um valor maior que em comparação às demais instituições.
+Tabela 3 – Comparação dos indicadores em relação às inst ituições Variáveis Nº Média Qualidade da informação IES ALFA 164 4,91 IES DELTA 84 3,08 IES GAMA 74 3,90 Acessibilidade IES ALFA 164 5,24 IES DELTA 84 3,32 IES GAMA 74 4,15 Aumento de produtividade IES ALFA 164 5,41 IES DELTA 84 3,67 IES GAMA 74 4,35 Alinhamento da Operação à Estratégia IES ALFA 164 5,22 IES DELTA 84 3,80 IES GAMA 74 4,39 14 Infraestrutura Controlada IES ALFA 164 5,35 IES DELTA 84 3,42 IES GAMA 74 4,02 Satisfação no atendimento IES ALFA 164 5,38 IES DELTA 84 3,52 IES GAMA 74 4,18 Celeridade nas Respostas IES ALFA 164 5,42 IES DELTA 84 3,62 IES GAMA 74 4,42 Redução do impacto negativo IES ALFA 164 5,67 IES DELTA 84 4,37 IES GAMA 74 4,51 Estratégicos IES ALFA 164 5,20 IES DELTA 84 3,48 IES GAMA 74 4,20 Operacionais IES ALFA 164 5,40 IES DELTA 84 3,64 IES GAMA 74 4,26 Central de Serviços IES ALFA 164 5,31 IES DELTA 84 3,57 IES GAMA 74 4,23 Fonte: Dados da Pesquisa Uma provável razão ao qual o IES Alfa obteve maior média em todos os constructos se deve a proximidade de instalação física da Central de Serviços com a escola, a literatura coloca três tipos de Service Desk , local, centralizado e virtual apontando vantagens e desvantagens em casa modelo.
+CONCL USÃO Muitas organizações que proveem serviços de TI em todo o mundo estão aperfeiçoando seus processos tradicionais de suporte ao cliente na perspectiva de estruturas de gerenciamento de TI.
+O principal motivo para a mudança é que os clientes de TI estão cada vez mais focados na compra de serviços que suportam seus processos de negócios, em vez de produtos de software separados (ZHANG; CAI; ZHANG, 2007).
+O desenvolvimento das tecnologias da computação e sistemas de informação servem para responder as demandas dos setores que trabalham com algum tipo de dado e informação.
+Diante desse entendimento, gerenciar os serviços de Tecnologia da Informação (TI) para que estejam alinhados com os objetivos da organização é f undamental.
+Todavia, como esse setor na maioria das vezes lida com um grande volume de dados podem ocorrer falhas que reduzem a produtividade e entrega dos serviços das organizações, exigindo assim um gerenciamento mais efetivo de tais serviços (TIGRE, 200 6).
+Diante de tudo que foi abordado, este trabalho, buscou preencher uma lacuna existente na literatura sobre a importância da aplicação da função Central de Serviços na gestão universitária, buscou também criar um modelo estrutural que possibilite aos gestores essa implantação de forma mais organizada e estrutural.
+Essa pesquisa colaborou para as práticas cotidianas de gestão universitária , objetivando minimizar os problemas relacionados com as implicações organizacionais.
+Diante das pesquisas bibliográficas encontradas e estudo realizado neste presente trabalho, ficou evidente a grande necessidade de utilização de um framework para gerência e entrega dos serviços, amarrando teoria à prática do dia a dia dentro das organizações.
+15 Pode-se concluir que, o trabalho atendeu ao objetivo de verificar como a implantação de uma Central de Serviços na gestão da tecnologia da informação pode representar um melhor alinhamento estratégico no contexto do ensino superior porque o modelo deixa mais tangível para os gestores de TI a forte relação entre os constructos pesquisados e as respostas dadas pelos clientes que usufruem dos serviços.
+Diante da análise e pesquisa de campo realizada nas três instituições de ensino superior, obteve -se uma evolução para uma modelo estrutural (FIGURA 1) de implantação de uma Central de Serviços dentro de uma gestão universitária.
+Há um elo forte de ligação entre todas as dimensões estratégicas e operacionais, o que indica que, para que uma Central de Serviços consig a exercer sua função dentro da organização, todos os fatores precisam ser bem observados e consequentemente trabalhados.
+Finalmente, a estruturação de uma Central de Serviços extrapola a simples criação de um ponto único de contato e a atribuição de tare fas diárias a atendentes dedicados ao apoio e registro de chamados em uma ferramenta.
+Para que este atinja seu objetivo principal e agregue valor a s instituições de ensino superior é necessária a adoção de práticas que podem ser decisivas para o funcioname nto de toda a TI.
+As mudanças a serem desenvolvidas são de caráter operacional, todavia, precisam do apoio da alta gestão para que então sejam disseminadas para o restante da organização e se aprimore, de forma direta, a gestão universitária.
+REFERÊNCIAS AFFELDT, F. S.; VANTI, A.
+A. Alinhamento estratégico de tecnologia da informação: análise de modelos e propostas para pesquisas futuras.
+Journal of Information Systems and Technology Management , v. 6, n. 2, p. 203 -226, 2009.
+Revolução nos Serviços : como as empresas podem revolucionar a maneira de tratar os seus clientes.
+ARBUCKLE, J. Amos 17 user's guide : Version 170.
+Pleasant, SC: Amos Development Corp, 2008.
+BALASUBRAHMANYA, M. H. Technological innova tions in Indian small enterprises: dimensions, intensity and implications.
+International Journal of Technology Management (IJTM), v. 30, n. 1 -2, 2005.
+BEAL, A. O sistema de informação como estratégia empresarial .
+BENTLER, P. M.; BON ETT, D. G. Significance tests and goodness of fit in the analysis of covariance structures.
+Psychol Bull .,, v. 88, n. 3, p.588 -606, Nov. 1980.
+BENTLER, P. M. Comparative fit indexes in structural models.
+Psychol Bull ., v. 107, n.2, p.238 -246, mar.1990.
+BLU MENSTYK, G. Spanning the Globe: higher -education companies take their turf battles overseas.
+The chronicle of higher education , v. 27, p.21 -24; 34 -35, June, 2003.
+COHEN, R. Implantação de Help Desk e Service Desk .
+208 p. DIAS, D. Motivação e resistência ao uso da tecnologia da informação: um estudo entre gerentes.
+In: ENCONTRO NACIONAL DA ASSOCIAÇÃO NACIONAL DOS PROGRAMAS DE PÓS -GRADUAÇÃO EM ADMINISTRAÇÃO, 22.,1998, Foz do Iguaçu.
+DOURADO, L.F; CATANI, A.M.; OLIVEIRA, J. F. Políticas e gestão da educação superior .
+239 p. EFRON, B.; TIBSHIRANI, R. J.
+An Introduction to the Bootstrap .
+A.; ABREU, V. F. Implantando a governança de TI: da estratégia à gestão dos processos e serviços.
+Rio de Janeiro: Brasport, 2006.
+FONSECA, J. J. S. Metodologia da pesquisa científica.
+FORERO, C. G.; MAYDEU -OLIVARES, A.; GALLARDO -PUJOL, D. Factor analysis with ordinal indi cators: a Monte Carlo study comparing DWLS and ULS estimation.
+Structural Equation Modeling A Multidisciplinary Journal , v.16, n. 4, p. 625 -641, Oct. 2009.
+FORNELL, C.; LARCKER, D. F. Evaluating structural equation models with unobservable variables and measurement error.
+Journal of marketing research , v. 18, n. 1, Feb. 1981, p. 39-50, 1981.
+FREITAS, M. A S. Fundamentos do gerenciamento de serviços de TI: preparatório para a Certificação ITIL Foundation.
+Rio de Janeiro: Brasport, 2013.
+GITINEJADA, B.; KERAMATIB, M. A.
+A survey on existing challenges of BSC implementation for performance measurement .
+Management Science Letters , n. 4, p. 733738, 2014.
+GRONROOS, C. Marketing, gerenciamento e serviços : a competição por serviços na hora da verdade.
+Análise multivariada de dados .
+Nonparametric statistical methods .
+New York: John Wiley & Sons, 1999.
+JARZABKOWSKI, P.; FELTON, E. Strategizing and organ izing in pluralistic contexts .
+Long Range Planning , v. 39, p. 631 -648, 2006.
+JOHNSTON, R.; CLARK, G. Administração de operações de serviços .
+KAISER, H. F. The varimax criterion for analytic rotation in factor analysis.
+Psychometrika , v. 23, n. 3, p. 187 -200, 1958.
+KOTLER, P.; BLOOM, P. Marketing para serviços profissionais .
+B. Tecnologia da informação : eficácia nas organizações.
+Auto avaliação de inst ituições de educação superior: exame de dificuldades organizacionais e gerenciais.
+Revista Electrónica de Investigación y Docencia (REID) , v. 10, p. 21 -42, jul.
+MAGALHÃES, I. L.; PINHEIRO W. B. Gerenciamento de Serviços de TI na Prática : uma abordage m com base na ITIL.
+MALHOTRA, N. K. Pesquisa de marketing : uma orientação aplicada.
+MEYER JR., V.; MURPHY, P. Dinossauros, gazelas & tigres : novas abordagens da administração universitária.
+MEYER JR, V.; PASCUCCI, L.; MANGOLIN, L. Gestão estratégica: um exame de práticas em universidades privadas.
+Adm. Pública , Rio de Janeiro, v. 46, n. 1, fev.
+OFFICE GOVERNMENT COMMERCE – OGC.
+370 p. PORTER, M. A nova era da estratégia.
+In: JÙLIO, C. A.; SALIBINETO, J.
+Estratégia e Planejamento : autores e conceitos imprescindíveis.
+RIVELLI, C. Competitivita gap da colmare .
+Industria Cotoniera , v. 53, n .
+Fatores de competitividade organizacional.
+Brazilian Business Review , v. 9, n. 1, p. 27 -46, 2012.
+Cultura organizacional e tecnologia de informação: um estudo de caso em organizações universitárias.
+I n: RUBEN, G.; WAINER, J.; DWYER, T.
+Informática, organizações e sociedade no Brasil .
+São Paulo: Cortez, 2003. p. 161 -186.
+SKINNER, W. Manufacturing: the missing link in corporate strategy.
+Harvard Business Review , v. 47, n. 3, p. 136 -145, 1969.
+17 STEI GER, J. H.; SHAPIRO, A.; BROWNE, M. W. On the multivariate asymptotic distribution of sequential chi -square statistics.
+Psychometrika , v. 50, n. 3, p.253 -263, Feb. 1985.
+TIGRE, P. B. Gestão da inovação : a economia da tecnologia no Brasil.
+Rio de Janeiro: Elsevier, 2006.
+WHITTLESTON, S. ITIL® is ITIL .
+The Stationery Office University of Northampton.
+ZHANG, L. -J.; CAI, H.; ZHANG, J.
+Tsinghua University Press: Beijing, 2007.

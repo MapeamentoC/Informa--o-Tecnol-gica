@@ -1,0 +1,476 @@
+Revista Electrónica de Enseñanza d e las Ciencias Vol.
+17, Nº 1, 44- 67 (2018) 44 Inovação na prática docente: um estudo de caso sobre a adoção de métodos ativos no ensino de Física universitária Maykon Gonçalves Müller¹, Ives Solano Araujo² e Eliane Angela Veit³ Programa de Pós -Graduação em Ensino de Física, Instituto de Física, Universidade Federal do Rio Grande do Sul, Porto Alegre, Brasil.
+E -mails: ¹maykon.goncalves@ufrgs.br , ²ives@if.ufrgs.br , ³eav@ if.ufrgs.br Resumo: Práticas inovadoras de ensino e a respectiva relaçã o com os sujeitos que a s adotam constituem -se objeto de análise fundamental quando visamos investigar o problema da qualidade do ensino.
+Contudo, a incorporação de novas estratégias d idáticas não é um processo simples; barreiras e tensões surgem, podendo levar à descontinuidade no uso de práticas inovadoras.
+O presente trabalho apresenta resultados de um estudo de caso , realizado com uma professora de Física universitária, que modifico u sua prática docente ao adotar duas metodologias interativas de ensino, o Peer Instruction e o Just-in-time Teaching .
+Através de nossa análise, à luz do modelo de Everett Rogers, percebemos que o processo de mudança da prática de nosso sujeito de pesquisa ocorreu de maneira suave.
+Os indícios , que dão suporte ao resultado encontrado, fundamentam -se: nas características pessoais do caso em estudo , definid as como prérequisitos ao modelo de etapas para a adoção de inovações (perfil inovador e práticas anteri ores); na maneira como ocorreu a incorporação das metodologias de ensino (trial version ou adoção das metodologias em poucas aulas) , que possibilitaram a construção de atitudes positivas frente às metodologias.
+Tais resultados mostram -se relevantes para o entendimento dos principais fatores envolvidos na difusão de inovações didáticas no sistema brasileiro de ensino.
+Palavras -chave: prática docente , ensino de pares, ensino just -in-time, Física Geral.
+Title: Innovation in teaching practice : a case study about the adoption of interactive teaching methodologies on undergraduate Physics Education.
+Abstract: Innovative teaching practices and their relationship with the subjects who adopt them constitute an object that needs analysis when we aim to i nvestigate quality of education.
+However, the incorporation of new teaching strategies is not a simple process; barriers and tensions arise, leading to discontinuity of innovative practices.
+This paper presents results of a case study with a physics instructor, who changed her teaching practice by adopting two interactive teaching methodologies, Peer Instruction and Just-in-time Teaching.
+Through our analysis, based by Rogers' model, we realize that our research subject changed smoothly her practice.
+The evidence that support our findings , are based upon: the personal characteristics of our case, which are defined as prerequisites to the step Revista Electrónica de Enseñanza d e las Ciencias Vol.
+17, Nº 1, 44- 67 (2018) 45 model for the innovation adoption (innovative profile and previous practices); the way the incorporation of the teaching methodolog ies has occurred (trial version - adoption of methodologies in just a few le ctures ) which allowed the construction of positive attitudes towards methodologies.
+Such outcomes show relevant aspects to the understanding of the main factors involved in the dif fusion of educational innovations in the Brazilian education system.
+Keywords : teaching practice, peer instruction, just -in-time teaching, General Physics .
+Introdução Tornar o ensino centrado nos estudantes tem sido foco de atenções da área pesquisa e ens ino de Ciências nos últimos 30 anos.
+Essa tendência tem origem nos resultados poucos positivos em relação à aprendizagem de conteúdos de Ciências, especialmente de Física, obtidos através das abordagens tradicionais (Cummings, 2011) .
+De maneira geral, o impacto de aulas majoritariamente expositivas, onde o professor apresenta o conteúdo e os alunos apenas limitam -se a tomar notas, é pouco expressivo.
+Com frequência, os alunos acabam por associar a disciplina de Física a uma mera memorização e aplicação de fórmulas , desenvolvendo atitudes pouco positivas em relação à aprendizagem dos conteúdos (Müller, Brandão, Araujo e Veit, 2012) .
+Neste contexto, r essignificar as atividades didáticas , especialmente as metodologias de ensino utilizadas pelos professores, torna -se, portanto, fundamental.
+Em relação ao ensino superior, a universidade contemporânea vive um momento de intenso questionamento sobre suas práticas, suscitadas pelo seu modelo operacional instituído, o qual impõe parâmetros de gestão e índices de produtividade (Chauí, 1999).
+Conforme afirmam Bernheim e Chauí (2008, p.27), um dos principais problemas da educação superior centra- se "no desafio quantitativo de atender ao número de matrículas em constante crescimento, sem sacrificar a qualidade inerente à educação de terceiro nível ".
+Como reflexão, os autores (ibid., p.28) argumentam que "mais alunos podem ser recebidos desde que os métodos tradicionais sejam abandonados ".
+Algumas metodologias de ensino têm adquirido destaque em âmbito internacional, especi almente por terem conseguido dinamizar o processo de ensino e aprendizagem e apresentarem, sistematicamente, resultados positivos quanto à aprendizagem dos conteúdos e engajamento dos estudantes.
+Estamos nos referindo, especialmente, a dois métodos: o Justin-Time Teaching (Novak , Patterson, Gavrin, e Wolfgang, 1999) e o Peer Instruction (Mazur, 1997), em uma tradução livre Ensino sob Medida (EsM) e Instrução pelos Colegas (IpC), respectivamente (Araujo e Mazur, 2013).
+O IpC é um método de ensino interativo, desenvolvido pelo professor Eric Mazur na Universidade de Harvard nos anos 90 do século passado.
+Esse método prevê que o professor limite a exposição inicial de um conceito chave específico e, na sequência, apresente um Teste Conceitual (ConcepTest ), de escolha múltipla, a ser respondido individualmente pelos alunos (em aproximadamente dois minutos).
+Os sistemas mais utilizados Revista Electrónica de Enseñanza d e las Ciencias Vol.
+17, Nº 1, 44- 67 (2018) 46 para coletar as respostas dos alunos são os clickers (espécie de controle remoto que enviam as respostas para o computador do pro fessor) e os flashcards (cartões cartonados coloridos).
+Caso a frequência de acertos na votação se situe entre 35% e 70%, os alunos são orientados a formar pequenos grupos, preferencialmente com colegas que tenham optado no Teste Conceitual por alternativas diferentes, e discutir suas respostas por cerca de três minutos, quando votam novamente.
+O objetivo é que os alunos reflitam individualmente e, depois, discutam em grupo suas respostas, cada aluno procurando convencer o outro de que sua resposta é a correta, antes do professor apontar a alternativa certa (Araujo e Mazur, 2013).
+O Ensino sob Medida (EsM) foi elaborado pelo professor Gregor Novak da Universidade de Indiana (EUA) e colaboradores, no ano de 1999.
+Esse método possibilita que o professor plane je suas aulas a partir dos conhecimentos e dificuldades dos seus alunos, manifestadas em suas respostas fornecidas em atividades prévias aos encontros presenciais.
+Usualmente essas atividades envolvem leituras e por isso são denominadas de Tarefas de Leitura (TL).
+Uma TL consiste na indicação de um material para leitura (seções do livro texto, por exemplo) acompanhada de questões para avaliar a compreensão do material e obter feedback sobre as principais dúvidas e dificuldades dos estudantes.
+Diversos trabalhos de pesquisa vêm mostrando uma melhora no desempenho e na capacidade de resolução de problemas adquiridos por alunos de Física em nível Médio e Superior ao trabalharem com o IpC (Crouch e Mazur, 2001; Cummings, Roberts, Henderson, Sabella e Hsu, 200; Fagen, Crouch e Mazur , 2002; Hake, 1998; Lasry , Mazuz e Watkins , 2008) e com o EsM (Belloni e Christian, 2003; Formica , Easley e Spraker, 2010; Wittmann e Thompson, 2008).
+Além disso, algumas pesquisas mostram que a aprendizagem torna- se ainda mais expressi va quando o EsM é utilizado em conjunto com o IpC (Mazur e Watkins, 2010; Crouch, Watkins, Fagen e Mazur, 2007; Crouch e Mazur, 2001).
+Apesar dos resultados positivos obtidos através da incorporação do IpC e do EsM, tais metodologias ainda são pouco utiliz adas no contexto do ensino superior brasileiro, onde a abordagem tradicional se faz muito presente.
+Segundo Henderson (2005), a não adoção de práticas inovadoras por parte dos professores, com resultados notoriamente positivos, indica que existem muitas barreiras no processo de mudança da prática docente.
+Indubitavelmente, a incorporação de novas estratégias didáticas em ambientes formais de ensino não é um processo simples; barreiras e tensões surgem, podendo levar à descontinuidade de práticas inovadoras (Henderson, 2005; Henderson , Dancy e Niewiadomska -Bugaj , 2012).
+Por conseguinte, compreender em profundidade o processo de mudança das práticas de ensino pode contribuir para que novas metodologias s ejam incorporadas com sucesso, tendo sua adoção continuad a. O objetivo desse trabalho é investigar, através de um estudo de caso, o processo de mudança da prática docente de uma professora de Física, a qual chamaremos de Ana (nome fictício), que adotou as metodologias de ensino IpC e EsM no contexto de uma disc iplina de Física Geral universitária.
+Conforme mencionamos anteriormente, diversas são as Revista Electrónica de Enseñanza d e las Ciencias Vol.
+17, Nº 1, 44- 67 (2018) 47 variáveis associadas ao processo de mudança das práticas pedagógicas, fazendo com que o objeto de estudo e o contexto não apresentem limites bem estabelecidos.
+Dessa forma, optamos por estudar apenas uma professora, a Ana, visando compreender profundamente o processo de adoção de inovações.
+Everett M. Rogers (2003) propõe um modelo analítico para a análise do processo de adoção de inovações, que será o ponto de partida para a presente investigação.
+O enfoque metodológico de pesquisa adotado possui um caráter qualitativo.
+Entre as metodologias qualitativas de pesquisa, optamos pelo estudo de caso na acepção de Robert Yin (2015), pois se apresenta como uma boa alternativ a para conduzir pesquisas em que os objetos de estudo e seu contexto são indissociáveis e são influenciados por fatores frequentemente imprevisíveis.
+O modelo analítico para o processo de adoção de inovações de Rogers (2003), bem como as orientações metodo lógicas de Yin (2015) , fundamentarão nossos achados para a seguinte questão de pesquisa, norteadora des te trabalho: como ocorreu o processo de mudança da prática docente de uma professora universitária de Física receptiva a inovações pedagógicas, que passo u a utilizar as metodologias de ensino IpC e EsM?
+A seguir, apresentamos, com mais detalhes, o modelo teórico (Rogers, 2003) e o referencial metodológico (Yin, 2015) adotados.
+Na sequência, expomos os resultados e a discussão, incluindo a trajetória do sujeito de nossa pesquisa , bem como um relato de observação, e, por fim, as considerações finais.
+Referencial teórico: o modelo de adoção de inovações de Rogers Um dos motivos pelos quais há interesse, no campo das pesquisas, pelos processos de difusão e in corporação de inovações é a dificuldade da adoção de novas ideias, mesmo que essas apresentem explicitamente vantagens em relação às ideias vigentes.
+O processo entre a existência (ou descoberta) de uma inovação e sua efetiva adoção, usualmente, leva tempo .
+Segundo Rogers (2003), inovação é uma ideia, prática ou objeto que é percebido como novo por um indivíduo ou por um grupo de indivíduos.
+A percepção da novidade nas novas ideias torna o conceito de inovação relativo ao sujeito que irá, ou não, adotá- lo.
+Em outras palavras, por mais que exista um novo corpo de conhecimentos (ou novas tecnologias, por exemplo) estabelecidos por um curto espaço de tempo, a inovação somente será percebida como algo "novo" quando o indivíduo, além de obter conhecimento sobre s ua existência, desenvolva uma atitude favorável ou desfavorável à sua adoção, ou até mesmo decida adotá- la.
+O processo de implementação de inovações perpassa, segundo Rogers, por cinco etapas: conhecimento (knowledge ), persuasão ( persuasion), decisão ( decision), implementação (implementation), e confirmação (confirmation ).
+Contudo, segundo o autor, existem algumas condições prévias para que esse processo se desenvolva.
+Como pré -requisitos, destacam -se: a percepção de uma necessidade/problema (o professor percebe que suas estratégias de ensino não são eficientes para a aprendizagem de conteúdos de Física); práticas anteriores (quando o Revista Electrónica de Enseñanza d e las Ciencias Vol.
+17, Nº 1, 44- 67 (2018) 48 professor já se engajou na prática de novas estratégias de ensino); personalidade inovadora (quando o professor possui um pe rfil inovador); e as normas sociais (quando há algum movimento externo que torna o professor receptivo à novas metodologias de ensino).
+O processo de implementação de inovações começa quando um indivíduo (ou um grupo de indivíduos) é exposto a uma inovação e passa a adquirir conhecimentos a seu respeito.
+Esse conhecimento engloba a ciência da existência da inovação, bem como os princípios de seu funcionamento e de seu embasamento.
+Após a aquisição inicial de conhecimentos, ocorre a etapa de persuasão, na qual o indivíduo passa a formar uma atitude favorável, ou não, à adoção da inovação.
+Atitude, segundo Rogers, é uma organização relativamente duradoura de crenças de um indivíduo sobre um objeto, que predispõe suas ações.
+), existem cinco fatores que influenciam o desenvolvimento das atitudes, que relacionam -se às características da inovação.
+São elas: (1) Vantagem relativa ( Relative advantage ): define o grau em que uma inovação é percebida como melhor que a ideia predecessora.
+Não importa se a inovação possui um alto grau de vantagem objetiva, mas sim se o indivíduo a percebe como vantajosa.
+(2) Compatibilidade ( Compatibility ): define o grau em que uma inovação é percebida como consistente com valores existentes, experiências anteriores e ne cessidades dos potenciais usuários.
+Uma ideia não compatível com as normas de um grupo social não será adotada tão rapidamente quanto uma ideia compatível.
+(3) Complexidade ( Complexity ): define o grau em que uma inovação é percebida como sendo difícil de compreender e utilizar.
+Geralmente, novas ideias que são mais simples de compreender serão adotadas mais rapidamente que inovações que requerem que os usuários desenvolvam novas habilidades e conhecimentos.
+(4) Testagem ( Trialability ): define o grau em que uma inov ação pode ser testada em uma base limitada.
+Inovações que podem ser testadas em etapas serão, geralmente, adotadas mais rapidamente do que as inovações que não são divisíveis .
+(5) Observabilidade ( Observability ): define o grau em que os resultados de uma inova ção são visíveis para outras pessoas.
+Quanto mais acessível forem os resultados da implementação de uma inovação, mais fácil será para outros indivíduos adotarem a mesma inovação.
+Cabe ressaltar que, segundo o autor, essas não são os único s fatores que afetam o desenvolvimento de atitudes e, subsequentemente, as taxas de adoção, mas pesquisas anteriores indicam que elas são as características mais importantes das inovações para explicar a taxa de adoção.
+Além disso, entre as cinco características citadas, a vantagem relativa e a compatibilidade possuem maior influência em termos da taxa de adoção de inovações (ibid., p.17).
+A etapa subsequente à persuasão é a decisão, na qual o indivíduo engaja- se em atividades que o levam a adotar, ou rejeitar, a inovação.
+Revista Electrónica de Enseñanza d e las Ciencias Vol.
+17, Nº 1, 44- 67 (2018) 49 Exemplos de atividades são a aquisição de informações por meio dos pares que já utilizaram a inovação (experiência vicária), bem como a implementação da inovação em uma versão parcial.
+Ambas as atividades visam diminuir o grau de incerteza quanto a vantage ns e limitações da inovação em questão.
+As últimas duas etapas envolvem a implementação efetiva da inovação, quando o indivíduo (ou um grupo de indivíduos) passa a utilizar a inovação, e a confirmação, que abarca a busca do indivíduo por reforços da deci são tomada.
+Durante a implementação, o autor afirma que alguma reinvenção (ou adaptação) da inovação deve ser esperada.
+Nessa perspectiva, a adoção da inovação é um processo ativo, distanciando -se, portanto, de uma mera reprodução de algo pré -estabelecido.
+Além disso, o modelo proposto por Rogers para o processo de implementação de inovações possui uma ordem cronológica de etapas, contudo, alguma sobreposição delas pode ser encontrada.
+O modelo de difusão de inovações, desenvolvido por Rogers na década de 60, apresenta aplicações nos mais diversos campos de pesquisa, tais como inovações em saúde pública, difusão de políticas públicas, difusão de tecnologias, difusão de inovações na agricultura, difusão de inovações pedagógicas, etc.
+Ao longo dos mais de 50 anos de pesqui sas, o modelo de difusão desenvolvido por Rogers adquiriu um elevado grau de generalização, mostrando -se adequado para diversas áreas de investigação.
+Referencial metodológico: o estudo de caso na acepção de Yin Yin (2015) delimita três condições básicas para utilizar a metodologia de estudos de caso: (a) o tipo de questão de pesquisa proposto; (b) a extensão do controle que um pesquisador tem sobre os eventos comportamentais reais; (c) o grau de enfoque sobre eventos contemporâneos em oposição aos eventos totalmente históricos.
+Os estudos de caso são preferíveis quando as questões de pesquisa são do tipo "como" e por que".
+Tais questões são feitas para eventos contemporâneos em que os comportamentos relevantes não podem ser manipulados.
+Dessa forma, para Y in, um estudo de caso é (ibid., p. 17) "uma investigação empírica que investiga um fenômeno contemporâneo em profundidade e em seu contexto de vida real, especialmente quando os limites do fenômeno e o contexto não são claramente evidentes".
+Segundo o auto r, podemos categorizar os estudos de caso em três tipos: exploratório, descritivo e explanatório (ou analítico).
+Estudos que têm por objetivo obter informações preliminares acerca do respectivo objeto de interesse, ou ainda aprofundar a compreensão de um f enômeno pouco investigado, levando à identificação de categorias de observação ou à geração de hipóteses para estudos posteriores, são denominados exploratórios.
+Os estudos que têm como propósito central descrever como é o caso em consideração são chamados de descritivos.
+Por fim, os estudos que procuram desenvolver proposições teóricas a serem confrontadas com teorias existentes, ou até mesmo gerar novas teorias a serem testadas, são chamados de explanatórios.
+Revista Electrónica de Enseñanza d e las Ciencias Vol.
+17, Nº 1, 44- 67 (2018) 50 Além disso, os estudos de caso podem ser categ orizados em estudos de caso único e estudos de casos múltiplos.
+Os estudos que têm o foco em uma única unidade (uma pessoa, um objeto, um fenômeno) é um estudo de caso único (também conhecido como holístico); já quando o estudo é composto por diversos caso s, e os mesmos são estudados simultaneamente, temos um estudo de caso múltiplo.
+Cabe aqui ressaltar que os casos podem conter quaisquer componentes de um todo, como objetos, ou entidades claramente identificáveis (pessoas, organizações, salas de aula, etc.
+), eventos, atividades (como o ato de ensinar) ou processos (como a aprendizagem de um conhecimento específico), bem como seu contexto.
+Yin afirma que, na medida do possível, o pesquisador deve preferir projetar estudos de caso múltiplos, pois a evidência dos casos múltiplos é, muitas vezes, considerada mais robusta (ibid.).
+No entanto, estudos de caso único podem ser preferíveis quando o caso for caracterizado como crítico, peculiar, comum, revelador ou longitudinal.
+Casos únicos críticos são utilizados quando busca- se especificar um conjunto claro de circunstâncias na qual as proposições teóricas iniciais são válidas, ou ainda quando as características do caso apontam uma determinada tendência e busca- se avaliar se a mesma se confirma.
+Os casos peculiares apresentam -se em oportunidades distintas que as ocorrências diárias.
+Por outro lado, o caso único comum objetiva documentar situações corriqueiras, onde as lições aprendidas sobre o caso podem ser relacionadas a proposições teóricas.
+Os casos reveladores são identificados pela sua capacidade de investigar algum fenômeno inédito, ou que então era inacessível anteriormente.
+Por último, o caso longitudinal é preferido quando se têm acesso ao fenômeno em dois, ou mais, pontos diferentes de tempo.
+O estudo apre sentado no presente trabalho é caracterizado, na perspectiva de Yin, como um estudo de caso único crítico do tipo exploratório, haja vista que almejamos obter informações preliminares sobre um evento contemporâneo, qual se ja o processo de mudança da prátic a docente de uma professora de Física que adotou as metodologias de ensino IpC e EsM , onde o contexto de investigação é uma disciplina de Física Geral III em uma universidade federal brasileira.
+Ana, conforme ficará mais claro na próxima seção, apresentava- se receptiva à adoção de inovações pedagógicas (possuía um perfil inovador) e, portanto, o sucesso, ou fracasso, na utilização de tais metodologias estaria relacionado apenas a questões relativas ao processo de implementação, tornando -a, dessa forma, um e studo de caso crítico.
+Seu estudo é vantajoso pois ela, dessa forma, não apresentaria uma barreira inicial à adoção de novas propostas metodológicas.
+O estudo teve uma duração de cinco meses e, como instrumentos de coleta de dados, além do caderno de camp o, foram registradas em áudio 72 horas -aula da disciplina de Física Geral III e conduzidas duas entrevistas semiestruturadas com a professora.
+Apenas 8 horas-aulas da disciplina, dedicadas à avaliação presencial, não foram gravadas.
+As aulas registradas em áudio foram transcritas e, para cada aula separadamente, foi realizada uma síntese interpretativa, a qual nos auxiliou a compor o relato de observação, bem como identificar situações relevantes que serviram de suporte para respondermos nossas questões de pesquisa.
+Por uma limitação Revista Electrónica de Enseñanza d e las Ciencias Vol.
+17, Nº 1, 44- 67 (2018) 51 de páginas para o presente artigo, as sínteses interpretativas não serão apresentadas de forma integral.
+A análise de dados também seguiu as orientações de Yin (2011), que propõe uma sequência de cinco etapas, a saber: compilação, desagrupamento, reagrupamento, interpretação, e conclusão.
+A primeira etapa, denominada compilação, consiste em organizar as notas de campo, bem como outros dados coletados, de uma forma sistemática.
+Na sequência, os dados sofrem uma quebra em grupos me nores que, por sua vez são reagrupados produzindo grupos de dados categorizados.
+Essa sequência de passos envolve as etapas de desaguamento e reagrupamento, respectivamente.
+afirma que as etapas de desagrupamento e reagrupamento podem ser repetidas quantas vezes forem necessárias.
+As etapas finais envolvem a interpretação e conclusão.
+A interpretação constitui -se na criação de uma narrativa embasada no material reagrupado e categorizado, tornando -se, dessa forma, a parte analítica da investigação.
+Ao final, de pose da interpretação, o pesquisador irá tecer suas reflexões e conclusões sobre seu estudo.
+Resultados e d iscussões Os dados coletados no período de observação em campo das aulas da disciplina de Física Geral III (primeiro semestre de 2013 ) e as duas entrevistas semiestruturadas realizadas (com duração média de 1h), antes e após a implementação do IpC e do EsM feita pela professora de Física, serão analisados na sequência.
+A análise de dados começa pelo relato da trajetória de vida do sujei to da pesquisa, que justifica considerá- lo um caso crítico ( Trajetória de Ana).
+Nele, também levantamos os primeiros indícios de que Ana apresentava alguns dos pré-requisitos estabelecidos pelo modelo de Rogers.
+Na sequência, apresentamos uma seção intitul ada "Mudança na prática de Ana: um relato de observação ".
+Tal relato envolve todo o período da pesquisa.
+Ainda nessa seção , buscamos elencar fatores relevantes ao processo de mudança da prática de Ana, que serviram de base, juntamente com a seção anterior, para a análise da incorporação do IpC e do EsM à luz do modelo de Rogers ( A mudança na prática de Ana à luz do modelo de Rogers ).
+Trajetória de Ana Ana começou a ministrar disciplinas de Física para os cursos de engenharia no primeiro semestre de 2011, m esmo ano em que ingressou como professora via concurso público no Instituto de Física de uma universidade federal brasileira.
+Ela possui Doutorado em Física, título obtido na em uma universidade australiana, e suas experiências como docente, antes de seu D outorado, foram limitadas a aulas particulares de piano.
+Conforme seu relato na primeira entrevista semiestruturada, durante seu Doutorado, Ana realizou um curso opcional cujo objetivo era proporcionar aos doutorandos um espaço para realização de atividades docentes.
+Sua experiência didática como professora nesse curso limitou- se a três aulas, em uma turma de aproximadamente 300 estudantes.
+Lá [se referindo à Universidade na Austrália] não era obrigatório dar aulas, mas, voluntariamente, eu procurei por atividades ligadas ao Revista Electrónica de Enseñanza d e las Ciencias Vol.
+17, Nº 1, 44- 67 (2018) 52 ensino porque eu queria ter experiência nessa parte; eu gosto de dar aula [.].
+Eu queria aprender a ter mais contato com a parte de sala de aula.
+Eu fiz alguns cursos, um deles, por exemplo, era para permitir que alunos de doutorado tivessem a oportunidade de dar aulas, pois na Austrália, a universidade é grande, tem em torno de 300 alunos de Engenharia, Física e Ciências Exatas, e todos eles estão na mesma sala.
+Não existem dois professores dando aula ao mesmo tempo, da mesma discipl ina.
+Então, naquela disciplina, eu participei como professora por três aulas.
+E isso não é um número pequeno, porque outros professores também não dão muito mais aulas do que isso.
+As vezes, um semestre tem cinco ou seis professores, cada um dá mais ou men os um mês de aula.
+Isso é ruim, eu não gosto muito do sistema deles porque acho que é ruim para os alunos.
+Em seu discurso é possível perceber que Ana possui um sentimento positivo frente a atividades docentes, haja vista que, voluntariamente, ela particip ou do curso mencionado.
+Além disso, Ana demonstra certo grau de descontentamento com o sistema de rodízio de professores em uma mesma disciplina, que a universidade empregava, pois entende que é pouco favorável para os estudantes.
+Seu contato com a profiss ão docente, durante esse curso, possibilitou que ela tivesse contato com metodologias de ensino diferenciadas, em específico com o IpC.
+Além disso, Ana conheceu a tecnologia dos clickers , que são pequenos dispositivos similares a pequenos controles remotos que se comunicam por radiofrequência com o computador do professor através de um receptor conectado em uma porta USB.
+Os clickers permitem que o professor obtenha um feedback das respostas dos estudantes a questões de múltipla escolha sobre algum tópico o u conceito específico.
+Tal feedback pode ser utilizado para tomar decisões pedagógicas como, por exemplo, retomar a explicação inicial do conceito abordado na questão.
+Quanto à sua experiência com novas propostas de ensino, Ana relatou em sua primeira entr evista: Eles utilizavam uma tecnologia que eu nunca tinha visto, que eram os clickers, e lá eles não tinham muito acesso, eles compraram um conjunto de 100 clickers e os alunos se dividiam em grupos de três e cada grupo utilizava um clicker, pois não tinha para todos alunos.
+Foi uma experiência muito interessante […].
+No primeiro semestre, eles tentaram o Peer Instruction, a ideia era não dar aula, os alunos lerem uma sessão do livro antes da aula e chegarem na aula e responderem uma série de perguntas e o professor adaptar a explicação para as dúvidas dos alunos, essa era a aula.
+A resposta dos alunos ao PI foi muito ruim, apesar da iniciativa deles ter sido muito boa, eles não conseguiram dar conta do que os alunos precisavam.
+Apesar de Ana demonstrar, em seu discurso, um sentimento favorável ao uso de inovações pedagógicas, especialmente ao uso da tecnologia dos clickers , a experiência pouco sucedida da adoção do IpC, em termos das respostas dos estudantes, marcou negativamente seu primeiro contato com tais metodologias.
+É importante destacarmos que a metodologia de ensino adotada em tal universidade é somente uma versão modificada do IpC, pois a etapa de votação individual foi substituída por votação em grupos de Revista Electrónica de Enseñanza d e las Ciencias Vol.
+17, Nº 1, 44- 67 (2018) 53 aproximadamente três alunos (já que não havia clickers para todos alunos) e, além disso, as dúvidas dos estudantes não eram acessíveis aos professores antes da aula, característica fundamental do EsM.
+Um reflexo dessa experiência pode ser percebido em termos das escolhas metodológicas feitas por Ana quando tornou- se professora universitária no Brasil.
+Em sua primeira experiência como docente universitária no Brasil, Ana optou por utilizar a tecnologia dos clickers , não incluindo elementos centrais do uso combinado entre o IpC e o EsM, como são pre paração prévia às aulas e a discussão entre os colegas durante as questões conceituais.
+Durante suas aulas, Ana utilizava questões de múltipla escolha (questões conceituais), a fim de obter um feedback da aprendizagem dos alunos, além de abrir espaço para tornar os estudantes mais ativos durante o processo de aprendizagem.
+Mesmo com o desconhecimento da existência dos clickers em sua instituição, os quais eram utilizados por outro professor do departamento, Ana utilizou como alternativa os cartões coloridos (flashcards ).
+O uso das questões conceituais também ocorreu no segundo semestre, no entanto, o sistema de votação utilizado por Ana foram os clickers.
+Segundo Lasry (2008) não há diferença, em termos da aprendizagem conceitual alcançada pela implementação do IpC ao se utilizar os clickers ou flashcards como sistemas de votação.
+As respostas dos estudantes, em termos da aprendizagem dos conteúdos e do índice de aprovação da turma, foram identificadas por Ana como fatores de sucesso.
+Aliado a isso, segundo e la, ao utilizar as questões conceituais, os estudantes tornaram -se mais ativos, proporcionando um maior engajamento cognitivo.
+Esse resultado é coerente, segundo sua visão, com o que é importante no processo de aprendizagem.
+Durante a entrevista semiestruturada, ela comentou: "Eu acredito que aprender depende muito da ação, não é uma atividade passiva em que a gente vai aprendendo ".
+De maneira geral, podemos sintetizar que Ana possui dois dos prérequisitos que o modelo de Rogers prevê: seu perfil inovador , caracterizado por sua grande receptividade a novas abordagens para a sala de aula; e suas experiências anteriores (durante seu doutorado e seu primeiro ano como docente) com uma versão modificada do IpC.
+A presença desses prérequisitos torna Ana, segund o Rogers, um sujeito mais suscetível a engajarse no processo de adoção de inovações.
+Na perspectiva de Yin, Ana pode ser reconhecida como um caso crítico, ou seja, suas características apontam que ela será receptiva a adoção do IpC e do EsM e, através de seu estudo, buscamos identificar se tal tendência se confirma.
+Mudança da prática de Ana: um relato de observação A trajetória traçada anteriormente aponta que nosso sujeito de pesquisa apresenta características únicas, motivo pelo qual foi escolhido para o presente estudo.
+Tivemos contato com relatos da prática feita por Ana em suas aulas (aqui brevemente descritas) no final do ano de 2011.
+No primeiro semestre de 2013, Ana foi convidada a modificar sua prática, através da incorporação do IpC e d o EsM em suas aulas durante um tópico de Física da disciplina de Física Geral III (disciplina oferecida aos alunos do curso de Física da universidade em que Ana leciona), que abarca Revista Electrónica de Enseñanza d e las Ciencias Vol.
+17, Nº 1, 44- 67 (2018) 54 os conteúdos referentes aos fenômenos do eletromagnetismo.
+O tópico selecionado foi a Lei de Faraday, que teve uma duração de três aulas, compreendendo seis horas -aula.
+A turma na qual o estudo ocorreu era composta por 28 alunos, 23 do sexo masculino e cinco do sexo feminino.
+As aulas, ministradas no turno da manhã, tinham duração de duas horas -aula.
+O período de observação teve início no dia 11/03/2013.
+No primeiro encontro, Ana apresentou o planejamento da disciplina, explicando aos estudantes quais atividades avaliativas seriam utilizadas.
+Comentou, também sobre a exigência de nota mí nima nas provas e as respectivas datas de execução, além do livro didático que seria adotado como referência.
+Ao explicar a estratégia didática que seria adotada ao longo do semestre, Ana comentou: Bom, como eu disse para vocês, eu acredito que, apesar de existir diversas formas de aprender, a mais eficiente é fazendo.
+Algumas pessoas têm a capacidade de aprender ouvindo, mas fazendo, a gente aprende melhor.
+Então, eu gosto muito de utilizar nas minhas aulas coisas que façam a gente fazer, aprender.
+Apesar de termos poucos, comparando com as engenharias, ainda assim é muita gente, não dá para fazer uma discussão em que todos participem.
+Mas existem essas coisas, que até agora são a sétima, ou oitava, maravilhas do mundo da educação, que se chamam clickers.
+A lguém já ouviu falar sobre os clickers?
+[os alunos demonstraram não conhecer o aparato] Então, apresento a vocês os clickers [mostrou os clickers para os estudantes].
+Eu trouxe essa ideia da Austrália, o professor A já utilizava aqui, mas eu não sabi a. Eu trouxe essa ideia da Austrália, lá onde eu trabalhei.
+Então tem uma turma única para a Universidade inteira, com 300 alunos na sala, e eles utilizam os clickers e funciona.
+Então a ideia é a seguinte: [.]
+no meio da aula, de vez em quando, eu vou colocar uma pergunta.
+É uma pergunta teórica, ou algo conceitual, algo que a gente resolva na hora.
+E aí, todo mundo tem que responder com o seu clicker.
+Aí aparece a estatística das respostas assim que vocês term inaram de responder.
+É uma forma bem bacana de verificar se vocês entenderam.
+Se muita gente não entender a gente tem que voltar e explicar novamente.
+Se todo mundo entendeu nós vamos adiante.
+E é uma forma de todo mundo participar e ninguém vai querer dormir na aula.
+Vocês não são obrigados a utilizar, é uma coisa facultativa.
+Se não quiser, não tem problema.
+Ana, ao explicar o que eram os clickers , afirmou que eles seriam utilizados com o intuito de engajar os estudantes ao longo das aulas, além de fornecer um feedback imediato da aprendizagem dos conceitos expostos através de questões de múltipla escolha.
+Ana reforçou positivamente seu discurso relatando suas experiências anteriores com os clickers , tanto na universidade em que fez se u doutorado, quanto nas aplicações feitas como docente no Brasil.
+Além disso, o entusiasmo de Ana pode ser percebido em diversos momentos em sua fala, onde a expressão "é bem bacana" foi utilizada para enfatizar seu sentimento para com a proposta metodológica.
+Concomitantemente, Ana justifica sua escolha explicitando aos alunos, logo no início de sua fala, suas concepções sobre o processo de aprendizagem.
+Revista Electrónica de Enseñanza d e las Ciencias Vol.
+17, Nº 1, 44- 67 (2018) 55 As aulas, ao longo do semestre, contaram com a presença média de 20 alunos.
+As explanações de Ana eram feitas com o auxílio de apresentações criadas com um software específico e projetadas com um projetor multimídia conectado ao computador.
+Durante as aulas, algumas questões de múltipla escolha eram projetadas, e após um ou dois minutos, sem conversar com o s colegas, os estudantes as respondiam com o uso dos clickers .
+Suas respostas coletadas e processadas pelo computador do professor, geravam gráficos, que permitiam que Ana avaliasse a aprendizagem dos alunos.
+Tais gráficos eram apresentados aos estudantes imediatamente após as votações.
+Quando os estudantes optavam, majoritariamente, pela resposta incorreta, Ana retomava a explicação do tópico da aula, havendo pouca interação entre os estudantes e ela.
+Caso a maior parte dos estudantes optasse pela resposta correta, Ana continuava sua explanação, passando para um novo tópico.
+As aulas expositivas de Ana eram intercaladas, com alguma frequência, com aulas de resolução de problemas numéricos envolvendo os tópicos das aulas.
+Durante essas aulas, Ana circulava e ntre os estudantes, auxiliandoos no processo de resolução dos exercícios propostos.
+Em algumas aulas, Ana utilizou a apresentação de vídeos para auxiliar a exposição dos conteúdos, bem como algumas simulações computacionais do projeto Phet Colorado (para maiores informações sobre o projeto, acessar: ).
+Durante o tópico Lei de Faraday, Ana passou a utilizar o IpC e o EsM.
+Na aula anterior, a pedido de Ana, o pesquisador, primeiro autor des te trabalho, apresentou as metodologias para os estudantes, explicando as modificações que ocorreriam nas próximas três aulas, incluindo a execução de Tarefas de Leitura anteriores às aulas, bem como da incorporação de uma nova abordagem para a respostas das questões conceituais onde, dependendo da frequência de acertos na primeira votação, os estudantes deveriam discutir com colegas sobre suas respostas.
+Os alunos não demonstraram aversão a nova proposta.
+É importante destacar que, mesmo cientes de que Ana já havia tido contato com uma versão modificada do IpC durante seu doutorado, antes da implementação do IpC em conjunto com o EsM, realizamos um encontro onde apresentamos em detalhes tais metodologias, bem como a maneira como procederíamos ao longo da s equência de aulas em que elas seriam utilizadas.
+Dessa forma, retomamos a primeira etapa do modelo proposto por Rogers: conhecimento .
+Para a execução da primeira Tarefa de Leitura, os alunos tiveram que ler três seções de um livro texto indicadas por Ana ( Princípios de Física, V.3, 3ª edição.
+& Jewett, J. J. W.) e tiveram que responder a três questões: uma questão de feedback relativo à leitura e duas questões conceituais sobre a Lei de Faraday (ambas as respostas deviam ser justifica das) (ver Apêndice A).
+A participação dos alunos foi satisfatória; 20 estudantes responderam às questões, apresentando excelentes argumentos e/ou questionamentos que foram utilizados por Ana durante suas explanações do conteúdo.
+A primeira Tarefa de Leitura foi utilizada como subsídio para duas aulas.
+Na primeira aula, Ana abriu sua explanação apresentando algumas dúvidas dos estudantes (obtidas através da primeira Revista Electrónica de Enseñanza d e las Ciencias Vol.
+17, Nº 1, 44- 67 (2018) 56 questão da Tarefa de Leitura).
+Nessa aula, três questões conceituais foram respondidas pelos estudantes e, em todas elas, a etapa da discussão entre os colegas ocorreu.
+As discussões foram frutíferas, gerando uma convergência de 100% para resposta correta em todas as três questões.
+Durante a segunda aula, Ana continuou sua explanação a respeito d a Lei de Faraday.
+Ela complementou sua explanação com algumas dúvidas dos estudantes ainda oriundas da primeira Tarefa de Leitura.
+Além disso, mais duas questões conceituais foram propostas, tendo ocorrido a discussão entre os colegas A convergência para a resposta correta ocorreu em apenas uma questão.
+A segunda Tarefa de Leitura (Apêndice A) teve estrutura similar à primeira: os estudantes leram três seções do livro texto e responderam a três questões.
+A participação dos estudantes foi menor, em termos d e respondentes, apenas 17 alunos realizaram a Tarefa de Leitura, porém a qualidade das respostas e dos questionamentos se manteve boa.
+A explanação de Ana, durante a terceira aula, foi sustentada por algumas dúvidas dos estudantes, oriundas da segunda Tare fa de Leitura.
+Duas questões conceituais foram propostas durante a aula, porém a etapa de discussão entre os colegas não ocorreu, devido ao alto índice de acertos na primeira votação.
+Em sua terceira aula, Ana, antes de iniciar sua explanação, expressou sua opinião sobre as metodologias que estavam sendo utilizadas nas três últimas aulas: Bom pessoal, essas aulas que nós estamos fazendo é um experimento.
+Para mim, esses métodos estão sendo bastante interessantes.
+Assim, é mais difícil, dá dez vezes, duzentas vezes mais trabalho, porque tem que estar preparando a aula tão em cima da hora, mas eu estou gostando.
+Daí pelo menos eu acho que está chegando mais em vocês, do que eu apenas trazer algo que talvez vocês nem estejam interessados ou não, mas, ao mesmo tempo a falta de presença está me preocupando um pouco.
+Se é totalmente inútil eu fazer a aula, nós podemos fazer outra coisa.
+Por favor, me mantenham informada.
+Qualquer opinião de vocês é importante, mesmo que seja uma crítica não muito boa, não tem problema.
+Ana afirma que as metodologias novas estão "chegando" mais aos estudantes, pois as dúvidas dos estudantes são vistas como ponto de partida para suas explanações.
+Além disso, os estudantes acabam por ter a oportunidade de ter contato com os conteúdos de Física antes da aula, ampliando suas oportunidades de aprendizagem.
+Sua atitude mostra- se favorável ao uso do IpC e do EsM, mesmo que o uso dessas metodologias envolva mais trabalho por parte do professor, especialmente relacionado às Tarefas de Leitura, onde os estudantes expressam suas dúvidas sobre o conteúdo e, em alguns casos, tais questionamentos não estariam abarcados em sua explanação usual, exigindo, dessa forma, maior preparação para a aula.
+Além disso, a baixa presença dos alunos na terceira aula foi um fator que Ana apontou em sua fala.
+As aulas foram remodeladas em torno das Revista Electrónica de Enseñanza d e las Ciencias Vol.
+17, Nº 1, 44- 67 (2018) 57 dúvidas dos estudantes, explicitadas nas Tarefas de Leitura, fazendo com que, a princípio, o número de alunos aumentasse.
+Contudo, isso não aconteceu na terceira aula.
+Um ponto importante, que pode estar relacionado à pouca presença dos alunos, era a época de provas em outras disciplinas que estavam sendo cursadas pelos alunos de Ana.
+Segundo relatos de alguns estudantes, muitos não estavam frequentando as aulas para dedicarem -se a outras disciplinas.
+Durante o processo de implementação do IpC e do EsM, o pesquisador auxiliou Ana em suas aulas, especificadamente na construção e correção das Tarefas de Leitura e na seleção de questões conceituais que seriam utilizadas durante as aulas.
+Os alunos respondiam às Tarefas de Leitura através de uma plataforma de ensino a distância (Moodle) e, além de postar as questões para os estudantes, o pesquisador fazia um levantamento das respostas deles, organizando as dúvidas citadas, bem como computando os índices de acerto às questões conceituais.
+Esse suporte fornecido pelo pesquisador à Ana fazia parte da proposta de implementação das metodologias, ou seja, Ana foi convidada a utilizar o IpC e o EsM e, durante todo o processo de implementação, o pesquisador iria auxiliá- la nas tarefas necessárias.
+Consideramos esse suporte de extrema importância para professores que pretenda m começar a utilizar o IpC e o EsM.
+Durante as três aulas narradas anteriormente, Ana engaj ou-se na nossa proposta de modificar sua prática através da incorporação do IpC e do EsM.
+Nossa proposta possibilitou que Ana tivesse uma experiência parcial com as metodologias , permitindo a aval iação das mesmas em termos do grau de vantagem relativa (às práticas anteriores), bem como a compatibilidade com suas crenças.
+Não obstante, à luz do modelo de Rogers, nossa proposta pode ser entendida como uma adoção parcial da inovação ( trial version), a qual pertence a etapa de decisão .
+De maneira geral, a expe riência de Ana com as metodologias foi extremamente positiva.
+Inclusive, após o tópico de Lei de Faraday, Ana, deliberadamente, manteve as duas metodologias até o final da disciplina, que incluía os tópicos de circuitos RC, RL e RLC, além das equações de Maxwell.
+O processo de decisão de adotar uma inovação também é pertencente à etapa de decisão.
+Por conseguinte, após nossa proposta, Ana passou para a etapa de implementação e confirmação .
+A mudança na prática de Ana à luz do modelo de Rogers Conforme argumentamos na seção Trajetória de Ana, o sujeito de nossa pesquisa possuía dois dos pré -requisitos estabelecidos por Rogers, vistos como fundamentais para que se ja dado início ao processo de adoção de inovações.
+Ana possuía um perfil inovador, caracterizado por sua grande receptividade a novas metodologias de ensino, bem como experiências anteriores (durante seu doutorado e seu primeiro ano como docente) com uma versão modificada do IpC.
+A influência desses pré -requisitos pode ser percebida pelo fato de Ana ter se engajado na proposta de modificar sua prática, incorporando o uso conjunto do IpC e do EsM.
+A seção anterior foi dedicada ao relato da experiência de Ana com o IpC e o EsM durante três aulas, bem como a um resumo da prática anterior.
+O processo de adoção das metodologias foi precedido por uma reunião com o Revista Electrónica de Enseñanza d e las Ciencias Vol.
+17, Nº 1, 44- 67 (2018) 58 pesquisador, onde os detalhes referentes à implementação conjunta do IpC com o EsM foram apresentados.
+Entre os detalhes apresentados, destacamos o papel das Tarefas de Leitura como preparação prévi a dos alunos e para a preparação das exposições dos conceitos ( ancoradas nas dúvidas dos alunos), bem como a importância da interação entre os alunos após a primeira rodada de votações para as Questões Conceituais.
+Essa etapa, no modelo de Rogers, refere -se à etapa conhecimento.
+A etapa subsequente ( persuasão ) relaciona -se à formação de atitudes favoráveis, ou desfavoráveis, frente à inovação.
+Usualmente, após o sujeito adquirir conhecimentos sobre a inovação, ele desenvolve atitudes frente à inovação e ent ão passa para a etapa de decisão, onde opta por adotar, ou não, a nova ideia.
+Contudo, esse processo nem sempre é linear; sobreposições das etapas persuasão e decisão podem ser encontradas.
+Em nosso estudo, podemos perceber que essas etapas ocorreram conco mitantemente.
+Ao propormos à Ana que utilizasse o IpC e o EsM durante uma sequência de aulas sobre o tópico de Lei de Faraday, criamos um espaço para que ela pudesse eliminar suas incertezas sobre a eficiência das metodologias em seu contexto de ensino.
+Ro gers afirma que testar a inovação em uma base limitada ( trial version ) é uma estratégia frutífera para diminuir o grau de incerteza sobre as consequências de se adotar a inovação .
+Além disso, Ana também estava revisando suas crenças iniciais sobre o IpC e o EsM; portanto estava na etapa de persuasão .
+Segundo Rogers, existem cinco fatores, relacionados à percepção das características da inovação, que influenciam a formação das atitudes: vantagem relativa, compatibilidade , complexidade, testagem e observabil idade.
+Ana exte rnalizou, em suas aulas e durante a entrevista semiestruturada realizada ao final do semestre, suas percepções acerca do IpC e do EsM.
+Essas percepções puderam ser classificadas em termos da vantagem relativa e da compatibilidade .
+Vantagem r elativa: em termos das vantagens relativas , Ana percebe que o uso conjunto do IpC e do EsM possibilita que os estudantes aprofundem mais o conteúdo trabalhado, pois através das tarefas de leitura, especialmente, o professor é capaz de adaptar suas exposiçõ es para as dúvidas dos alunos.
+Além disso, a discussão entre os colegas é vista como essencial para o desenvolvimento de habilidades de interação social, bem como um espaço para que dúvidas surjam, levando a um maior grau de conhecimento.
+Como aspectos po sitivos da adoção das Tarefas de Leitura, Ana destacou que a preparação prévia dos alunos, além de possibilitar que o professor tome contato com dúvidas que os estudantes possuem, e que muitas vezes não são abarcadas em suas explanações, permite que haja um maior aprofundamento do conteúdo durante o tempo de aula.
+Em sua fala: Os alunos que se preparam para a aula lendo o material previamente, e respondendo perguntas relacionadas, têm um nível de compreensão maior que os outros.
+Eles podem aprofundar o conhecimento na aula, [de modo] muito mais eficiente do que os alunos que têm contato com o conteúdo pela primeira vez durante a Revista Electrónica de Enseñanza d e las Ciencias Vol.
+17, Nº 1, 44- 67 (2018) 59 aula.
+As discussões são mais proveitosas.
+Os alunos se sentem mais seguros sabendo o conteúdo previamente.
+Estimula as perguntas mais inteligentes.
+Os alunos geralmente chegam na aula com dúvidas a respeito do assunto, e na maioria das vezes são dúvidas que nem o professor está preparado para responder.
+Entre os aspectos positivos da adoção do IpC, Ana comentou: A discussão entre co legas é fundamental para despertar a curiosidade.
+E principalmente, para fixar um conteúdo.
+Muitas vezes, após a leitura de um texto, têm -se a impressão de saber do assunto, mas quando se discute com os colegas podem surgir dúvidas, e essas dúvidas são mui to úteis.
+As dúvidas são muito mais importantes do que as certezas.
+Ao buscar respostas para uma dúvida, aí é que se aprende.
+Quando os colegas discutem um determinado assunto em grupos, onde alguns conhecem mais do assunto do que outros, ao tentar convenc er os colegas a trocar de opinião é preciso utilizar argumentos, ponderar, pensar, mudar o vocabulário, e isso é muito bom.
+Desperta dúvidas no locutor, que muitas vezes pode pensar conhecer um assunto, mas quando tenta colocar em palavras para explicar ao s colegas dá- se conta que não têm tanta certeza quanto pensava.
+Mesmo tendo desenvolvido atitudes positivas, Ana elencou algumas dificuldades ao implementar o IpC e o EsM.
+Dentre as dificuldades enfrentadas ao implementar o EsM, Ana comentou: Para que as T arefas de Leitura funcionem bem, é preciso estar muito bem organizado.
+É fundamental despertar nos alunos o interesse em aprender e participar das atividades.
+Muitas vezes os alunos trazem perguntas para a sala de aula que nem o professor sabe a resposta.
+Isso é bom por um lado, mas pode deixar o professor em maus lençóis.
+Pude perceber também que as tarefas de leitura deram uma impressão equivocada aos alunos, que depois de ler o material sentiram que não era mais necessário assistir às aulas.
+Isso pode ser solucionado aumentando -se o nível de complexidade das perguntas feitas em aula, e fornecendo informações nas aulas que não são acessíveis aos alunos em casa (apenas lendo o material).
+Na teoria isso tudo parece muito bom, mas na prática torna a vida do professor um tanto mais complicada.
+Motivar os alunos a frequentar as aulas não é uma tarefa simples.
+Se eles pensam que não precisam ir porque já leram o material, fica ainda pior.
+Ana, em sua fala, afirma que apesar de ser positiva a inserção das dúvidas dos estudantes durante a preparação das aulas, oriundas das Tarefas de Leitura, torna- se necessário que o professor se prepare mais antes de cada aula.
+Por conseguinte, pensando que isso pode ocorrer com alguma frequência du rante a disciplina, é necessário que o professor esteja muito organizado.
+Assim como descrevemos no relato de experiência, Ana, durante a entrevista, comentou que alguns de seus alunos passaram a não frequentar suas aulas após a execução das Tarefas de Lei tura.
+Inclusive, aponta como soluções possíveis para esse problema a inclusão de perguntas mais complexas, em termos de dificuldade, e de informações extras, não contidas no livro texto.
+Revista Electrónica de Enseñanza d e las Ciencias Vol.
+17, Nº 1, 44- 67 (2018) 60 A dificuldade vivenciada por Ana ao utilizar o IpC relaciona- se à escolha das questões conceituais.
+Especialmente, em termos da dificuldade das questões para motivar as discussões entre os colegas.
+Segundo Ana, A maior dificuld ade que senti ao implementar o IpC foi o nível das perguntas feitas em aula, para motivar as disc ussões entre colegas.
+É muito difícil elaborar perguntas criativas de nível adequado para despertar o interesse dos alunos, ao mesmo tempo que não sejam muito complexas e distantes da realidade deles.
+Com grupos totalmente heterogêneos de estudantes de div ersos níveis, isso é a tarefa mais difícil na minha opinião.
+Muitas vezes, uma pergunta que parece óbvia para o professor experiente é um mistério completo para os alunos, outras vezes o que o professor pensa ser um bom início de discussão é óbvio e sem gr aça para os alunos.
+A Tabela 1 sintetiza as vantagens e as limitações expressas por Ana.
+Em resumo, podemos perceber que apesar das dificuldades enfrentadas, Ana desenvolveu uma atitude positiva frente ao IpC e ao EsM.
+Conforme já relatamos, os reflexos de tal atitude puderam ser percebidos através da continuidade do uso das metodologias após a inserção durante o tópico de Lei de Faraday.
+Durante a entrevista semiestruturada, indagamos Ana se ela pretendia continuar utilizando as metodologias, como resposta obtivemos: Sim, já estou me organizando para utilizar essas duas metodologias no próximo semestre.
+Acho que o aprendizado dos alunos é muito mais significativo quando eles constroem o conhecimento a partir de interação, e ao fazer alguma coisa eles têm ma is chances de pelo menos lembrar do assunto.
+EsM IpC Potencialidades Possibilidade de trazer as dúvidas dos alunos para discussão em sala de aula As discussões entre os alunos propiciam uma melhor fixação do conteúdo Discussões mais frutíferas sobre os conteúdos em sala de aula Promove o desenvolvimento de habilidades de interação social Sentimento positivo frente ao domínio do conteúdo por parte dos alunos A interação entre os alunos faz com que as dúvidas deles venham à tona Maior compreensão do conteúdo pelos alunos Dificuldades Necessidade de gastar mais tempo preparando a aula parte do professor, comparado com o ensino tradicional Encontrar o nível adequado de dificuldade das questões conceituais Os alunos podem ficar com a impressão errad a da não necessidade de participar da aula presencial, pois passam a estudar em casa Motivar os estudantes acostumados a trabalhar sozinhos a participar das discussões entre os pares Tabela 1.- Síntese das vantagens e das limitações apontadas por Ana frente ao uso do IpC e do EsM.
+Revista Electrónica de Enseñanza d e las Ciencias Vol.
+17, Nº 1, 44- 67 (2018) 61 Compatibilidade : visando a análise da compatibilidade das metodologias empregadas com as concepções de ensino e aprendizagem de Ana, durante a entrevista semiestruturada, realizada antes da implementação do IpC e do EsM, fizemos a seguinte pergunta: "quais são os elementos fundamentais de uma boa aula?".
+Como resposta, obtivemos: Eu acho que, principalmente em Física, que é a minha área, o aluno tem que fazer alguma coisa.
+Porque quando ele faz, seja pensar em uma resposta de uma pergunta, seja escrevendo, seja movendo a cadeira para chegar mais perto do colega, qualquer ação que ele faça, vai melhorar a aprendizagem dele, a chance de ele aprender.
+Para ter uma boa aula tem que ter participação, o aluno tem que fazer alguma coisa, ele tem que estar disposto a aprender.
+A participação do aluno no processo de aprendizagem, segundo Ana, deve estar relacionada à sua ação.
+Em outras palavras, para que o estudante compreenda um novo conceito, ele deve executar uma a ção, ou um conjunto de ações.
+Contudo, conforme Ana afirmou, nessa abordagem o aluno deve estar pré -disposto a aprender.
+Tal concepção se aproxima da visão de algumas teorias cognitivas de aprendizagem, especialmente, a teoria de Ausubel, a qual afirma que para que ocorra uma aprendizagem significativa, o estudante deve estar motivado e disposto a aprender (Ausubel, 2000).
+Ao responder, também durante a primeira entrevista semiestruturada, "quais são as características de bons alunos e de bons professores ?
+", Ana argumentou: O bom professor é aquele que se preocupa se o aluno está aprendendo, o resto é detalhe.
+O bom aluno é o aluno que tem vontade de aprender, independente da história do aluno, se tem dificuldade, ou não, se ele tem vontade, ele vai aprende r, ele vai correr atrás, ele vai participar, acho que isso é o essencial.
+Ao afirmar que o bom professor deve se preocupar se o aluno está aprendendo, Ana demonstra ser defensora da avaliação formativa, durante o processo de aprendizagem, e não apenas da avaliação somativa, ao final do processo.
+O acompanhamento da aprendizagem dos estudantes, realizado através das questões de múltipla escolha utilizadas por Ana em suas aulas, pode ser interpretado como um processo formativo de avaliação.
+Sua visão do proce sso de ensino e aprendizagem foi externalizada durante a entrevista semiestruturada.
+Segundo Ana, Ninguém ensina ninguém.
+Aprender é um processo que depende da pré-disposição da pessoa.
+É possível aprender de várias formas e cada um vai aprender do seu jei to, de acordo com a sua história.
+Então ensinar tem que ser um processo completamente amplo, que o indivíduo, como pessoa única, consiga desenvolver o seu próprio aprendizado.
+Durante a entrevista, o pesquisador, visando coletar informações complementares ao discurso de Ana, indagou se uma aula expositiva seria capaz de cumprir tais requisitos; como resposta, ela afirmou: "de jeito algum ".
+Ao propor uma abordagem metodológica diferenciada da tradicional, Ana externaliza, por meio de suas ações, suas concepções de Revista Electrónica de Enseñanza d e las Ciencias Vol.
+17, Nº 1, 44- 67 (2018) 62 ensino.
+As escolhas metodológicas feitas por Ana, aqui já descritas, vão ao encontro de suas concepções de ensino e aprendizagem.
+Em síntese, suas crenças externalizadas apontam que a aprendizagem deve ser um processo amplo, na qual o aluno, como s ujeito, adquire conhecimentos através de múltiplas ações.
+Em outras palavras, o aluno deve ser agente de sua aprendizagem, não um receptor passivo de informações.
+Tais concepções vão ao encontro dos pressupostos do IpC e do EsM, portanto, tais metodologias possuem grande compatibilidade com os valores de Ana.
+Apesar de não termos dados empíricos que suportem às percepções de Ana frente a complexidade , a testagem e a observabilidade do IpC e do EsM, podemos aferir, para cada uma das características, que: Complexidade: em termos da complexidade, o auxílio do pesquisador durante a implementação das metodologias pode ter auxiliado na diminuição da complexidade do uso de ambas as metodologias.
+Mesmo que Ana tenha apontado algumas limitações do IpC e do EsM, conf orme sintetizado no quadro 1, não identificamos, em seu discurso, que tais dificuldades enfrentadas caracterizam as metodologias como altamente complexas de serem implementadas.
+Testagem: em termos da testagem , identificamos que ambas as metodologias puderam ser testadas em uma base limitada.
+Inclusive, o presente estudo fora estruturado justamente nessa perspectiva.
+Tanto o IpC, como o EsM, são metodologias que permitem pequenas intervenções, não necessitando uma reestruturação de toda disciplina para que sejam adotadas.
+Essa característica permite que o professor possa "experimentar" as metodologias durante uma unidade de ensino, por exemplo.
+Observabilidade: ambas as metodologias foram (e continuam sendo) foco de diversas pesquisas, entretanto, os resultados obtidos têm, aparentemente, pouco impacto no contexto de ensino universitário brasileiro .
+Ana não teve contato com os resultados oriundos de pesquisas da área, não obstante, podemos inferir que os resultados quanto ao uso do IpC e do EsM foram adquiridos em dois momentos.
+Seu primeiro contato com os métodos teve resultados negativos, contudo, durante a tentativa de implementação descrita nesse trabalho, Ana obteve resultados satisfatórios.
+Conforme já relatamos, após construir suas atitudes frente ao IpC e ao EsM, durante uma sobreposição das etapas de decisão e persuasão , Ana optou por dar continuidade no uso de tais metodologias.
+Esse resultado é extremamente positivo em termos da mudança da prática docente, que de fato ocorreu.
+Nossa descrição detalhada desse processo, à luz do modelo de Rogers, apontou alguns indícios para a maneira como se deu essa transição entre diferentes práticas metodol ógicas, a qual ocorreu de maneira suave , diferentemente do que alguns autores chamam de ruptura paradigmática (Cunha e Zanchet, 2007).
+É importante destacar que, em nosso trabalho, não foi encontrado algum elemento que tenha impedido, ou limitado, a mudança da prática da Ana.
+Esse resultado é ortogonal ao encontrado por Henderson (2005), que também buscou investigar a mudança da prática de um professor de Física, e identificou, como um dos fatores limitantes à mudança, as crenças sobre Revista Electrónica de Enseñanza d e las Ciencias Vol.
+17, Nº 1, 44- 67 (2018) 63 ensino e aprendizagem do professor, que não eram coerentes com a nova abordagem metodológica adotada.
+Dessa forma, acreditamos que nosso trabalho contribui para a literatura relativa à mudança da prática docente ao trazer um relato bem -sucedido de adoção de novas abordagens metodológicas.
+Conclusões e implicações Práticas inovadoras de ensino e a respectiva relação com os sujeitos que a praticam constituem -se objeto de análise fundamental quando visamos investigar o problema da qualidade do ensino, seja na Educação Básica, ou Superior.
+É latente a discussão da necessidade de incorporação de novas estratégias didáticas, que tornem o alu no mais ativo no processo de aprendizagem.
+Diversas são as metodologias de ensino desenvolvidas nos últimos 30 anos pela área de pesquisa e ensino de Ciências (Cummings, 2011) , as quais apresentam resultados notoriamente positivos.
+Contudo, basta observarm os, por exemplo, algumas aulas de Física universitária no Brasil, para que percebamos um ensino baseado excessivamente na transmissão de conhecimentos.
+Por conseguinte, a não adoção de práticas inovadoras por parte dos professores, com resultados notoriame nte positivos, indica que a incorporação de novas estratégias didáticas em ambientes formais de ensino não é um processo simples; barreiras e tensões surgem, podendo levar à descontinuidade de práticas inovadoras (Henderson, 2005; Henderson et al., 2012).
+Compreender em profundidade o processo de mudança das práticas de ensino dos professores pode contribuir para que novas metodologias de ensino sejam incorporadas com sucesso .
+No presente trabalho, objetivamos, através de um estudo de caso exploratório, inv estigar o processo de mudança da prática docente de uma professora de Física, a Ana, que adotou as metodologias de ensino IpC e EsM no contexto de uma disciplina de Física Geral universitária .
+Através do estudo realizado, buscamos elencar elementos que nos auxiliassem a compreender como ocorre o processo de mudança da prática docente .
+Para tal, nossos achados foram ancorados no referencial teórico proposto por Rogers ( 2003), bem como encontrados /analisados através da metodologia de estudo de caso na acepção de Robert Yin (2015).
+À luz do modelo analítico de Rogers (2003) identificamos que Ana possuía dois dos pré -requisitos que influenciam a maneira como o sujeito engaja- se no processo de adoção de uma inovação: perfil inovador, caracterizado por sua grande receptividade a novas metodologias de ensino, bem como experiências anteriores (durante seu doutorado e seu primeiro ano como docente) com uma versão modificada do IpC.
+Tendo identificado tais fatores iniciais, passamos a caracterizar o processo de mudanç a da prática de Ana em termos das cinco etapas estabelecidas por Rogers (Ibid.
+): conhecimento , persuasão , decisão , implementação e confirmação .
+A proposta de incorporação do IpC e do EsM ocorreu d urante o tópico de Lei de Faraday, da disciplina de Física Geral III, a qual abo rda tópicos de eletromagnetismo .
+Antes de Ana passar a utilizar as metodologias, o pesquisador apresentou, em uma reunião, os detalhes referentes a implementação conjunta do IpC com o EsM.
+Ana encontrava- se, portanto, Revista Electrónica de Enseñanza d e las Ciencias Vol.
+17, Nº 1, 44- 67 (2018) 64 na etapa de conhe cimento , caracterizada pela exposição a uma inovação, bem como os princípios de seu funcionamento e de seu embasamento.
+Ao propormos à Ana que modificasse sua prática, através da adoção do IpC e do EsM durante uma sequência de três aulas sobre o tópico de Lei de Faraday, desenvolvemos um espaço para que ela pudesse eliminar suas incertezas sobre a eficiência das metodologias em seu contexto de ensino.
+Segundo Rogers, uma maneira frutífera de diminuir o grau de incerteza sobre as consequências de se adotar a inovação é testá- la em uma base limitada ( trial version) .
+Esse teste é visto, em seu modelo, como pertencente a etapa de decisão.
+Além disso, Ana também estava revisando suas crenças iniciais sobre o IpC e o EsM; portanto estava na etapa de persuasão .
+Em específico sobre a etapa persuasão, Rogers afirma que a formação de atitudes é influenciada pela percepção de, pelo menos, cinco características da inovação: v antagem relativa, compatibilidade , complexidade, testagem e observabilidade .
+Em nosso estudo, identificamos que Ana reconhece as metodologias como coerentes às suas concepções de ensino e aprendizagem e como vantajosas frente a sua prática anterior.
+Conhecer suas crenças educacionais é de extrema importância, visto que, segundo Rogers (ibid.
+), se um a inovação não é consistente com as crenças do sujeito que propendemos que a adote, precisamos que o mesmo mude suas crenças até que essas se tornem consistentes com a inovação; mudança essa que, nas palavras de Cunha e Zanchet (2007), seria considerada um a ruptura paradigmática.
+Tais características mostram -se correlacionadas positivamente com a construção de atitudes positivas frente ao IpC e ao EsM visto que, após construir suas atitudes frente ao IpC e ao EsM, durante uma sobreposição das etapas de deci são e persuasão , Ana optou por dar continuidade no uso de tais metodologias.
+Esse resultado é extremamente positivo em termos da mudança da prática docente, que de fato ocorreu.
+Um possível indicador desse resultado é a maneira como o estudo foi conce bido, envolvendo a adoção do IpC e do EsM apenas em algumas aulas, com o constante auxílio ao professor durante a adoção.
+(2012) afirmam que um dos possíveis fatores que levam à baixa adoção de inovações didáticas é a maneira como os professo res recebem o conhecimento das mesmas, muitas vezes em palestras e workshops , e, que quando o professor engaja- se em atividades de adoção de tais inovações, não existe um suporte para o enfrentamento de dificuldades e conflitos.
+A experiência negativa, nes ses casos, leva a uma descontinuidade no uso das inovações.
+Acreditamos, indubitavelmente, que toda proposta de inovação didática deve ser apresentada ao professor de uma maneira atraente e próxima de sua realidade.
+Manter uma rede de intercâmbio de experi ências, onde haja espaço para um suporte aos professores que optam por inovar é essencial e necessário.
+Como perspectiva de continuidade do presente trabalho, almejamos estudar o processo de mudança da prática docente, através da implementação do IpC e do EsM, por outros professores universitários da mesma instituição de ensino.
+Busca -se avaliar, através de estudos de casos múltiplos, se professores, com características distintas de Ana, também passam a adotar o IpC e o EsM com sucesso .
+Revista Electrónica de Enseñanza d e las Ciencias Vol.
+17, Nº 1, 44- 67 (2018) 65 Referências biblio gráficas Araujo, I. S., e Mazur , E. (2013).
+Instrução pelos Colegas e Ensino sob Medida: uma proposta para o engajamento dos alunos no processo de ensino -aprendizagem de Física.
+Caderno Brasileiro de Ensino de Física, 30, 2, 362 -384.
+The acquisition and retention of knowledge: a cognitive view.
+Dordrecht: Kluwer Academic Publisher.
+Belloni, M. , e Christian , W. (2003) Physlets for quantum mechanics.
+Bernheim, C. T. e Chauí , M. S. (2008) .
+Desafios da universidade na sociedade do conhecimento: cinco anos depois da conferência mundial sobre educação superior.
+Em H. Trindade , Universidade em ruínas na república dos professores (pp.
+Crouch, C. H., e Mazur , E. (2001).
+Peer Instruction: Ten years of experience and results .
+American Journal of Physics , 69(9), 970-977.
+Crouch, C. H., Watkins, J. , Fagen, A. P., e Mazur, E. (2007).
+Peer Instruction: E ngaging Students One -on-One, All At Once.
+Research- Based Reform of University Physics , 1, 1-55.
+A developmental history of physics education research.
+Paper presented at the Second Committee Meeting on the Status, Contributions, and F uture Directions of Discipline -Based Education Research.
+Cummings, K., Roberts, S. G., Henderson, C. , Sabella, M. e Hsu, L. (2008).
+A Study of Peer Instruction Methods with High School Physics Students.
+Physics Education Research Conference, Edmonton, Canada.
+v. 1064 of PER Conference , 103-106.
+Sala de aula universitária e inovações: construindo saberes docentes .
+Educação & Linguagem, 10 (15), 227-249.
+Fagen, A. P., Crouch, C. H., e Mazur , E. (2002).
+Peer Instruction: R esults from a Range of Classrooms.
+The Physics Teacher , 40(4), 206-209.
+Formica, S. , Easley, J. , e Spraker, M. (2010).
+Transforming commonsense beliefs into Newtonian thinking through Just -In-Time Teaching.
+Physical Review Special Topics - Physics Educati on Research , 6(2), 1-7.
+Interactive -engagement versus traditional methods: A six -thousand student survey of mechanics test data for introductory physics courses.
+American Journal of Physics , 66, 64–74.
+The challeng es of instructional change under the best of circumstances: A case study of one college physics instructor.
+American Journal of Physics , 73(8), 778-786.
+Henderson, C.; Dancy, M. e M. Niewiadomska -Bugaj (2012).
+Use of research- based instructional strategies in introductory physics: Where do Revista Electrónica de Enseñanza d e las Ciencias Vol.
+17, Nº 1, 44- 67 (2018) 66 faculty leave the innovation- decision process?
+Physical Review Special Topics - Physics Education Research, 8, 2.
+Clickers or Flashcards: Is There Really a Difference?
+The Physics Teacher , 46(4), 242 -244.
+Lasry, N., Mazur, E. , e Watkins , J.
+Peer instruction: from Harvard to the two year college.
+American Journal of Physics , 76(11), 1066-1069.
+Peer instruction: A user's manual .
+Upper Saddle River, N.J. Prentice Hall.
+Using JiTT with Peer Instruction.
+Em S. P. Simkins e M. H. Maier (Eds.
+), Just in Time Teaching Across the Disciplines (pp 39 -62).
+Müller, M. G., Brandão, R. V., Araujo, I. S., e Veit , E. A.
+A. Implem entação do método de ensino Peer Instruction com o auxílio dos computadores do projeto UCA em aulas de Física do Ensino Médio.
+Caderno Brasileiro de Ensino de Física, 29, 491-524.
+Novak, G. M., Patterson, E. T., Gavrin, A. D., e Wolfgang, C. (1999).
+Just-In-time teaching: blending active learning with web technology .
+Upper Saddle River, N. J. Prentice Hall.
+Diffusion of Innovations 5th ed.
+A prospective and retrospective look at the diffus ion model.
+Journal of health communication, 9(1), 13–19.
+Wittmann, M. C. e Thompson, J. R (2008).
+Integrated approaches in Physics Education: A graduate level course in physics, pedagogy, and education research.
+American Journal of Physics , 76(7), 677 -683.
+Yin, R. K. (2011) Qualitative research from start to finish.
+Yin, R. K. (2015) Estudo de caso: planejamento e métodos .
+Revista Electrónica de Enseñanza d e las Ciencias Vol.
+17, Nº 1, 44- 67 (2018) 67 Apêndice A .- Encontram -se as duas tarefas de leituras utilizadas por Ana.
+• Tarefa de leitura 1 Questões referentes à leitura: 1.
+Descreva brevemente qual(is) ponto(s) você teve mais dificuldades na Tarefa de Leitura, ou ainda o que achou confuso no material.
+Indique também os pontos que mais chamaram sua atenção.
+Sinta-se à vontade para fazer perguntas que possam auxiliar sua aprendizagem Questão conceitual 01 – Em qual(is) situação(ões) você pode alterar o fluxo do campo magnético através de uma superfície qualquer?
+a. Alterando o campo magnético b. Alterando a área em que o campo m agnético está sendo aplicado c. Alterando o ângulo entre o campo magnético aplicado e a área d. Uma combinação das três situações anteriores e. Nenhuma das situações anteriores Questão conceitual 02 – De acordo com a Lei de Faraday, uma condição necessária e suficiente para que uma força eletromotriz seja induzida em um circuito fechado (espira, por exemplo) é a presença, neste circuito, de: a. Campo magnético b. Materiais magnéticos c. Corrente elétrica d. Fluxo magnético variável no tempo e. Campo magnéti co variável no tempo • Tarefa de leitura 2 Questões referentes à leitura: 1.
+Descreva brevemente qual(is) ponto(s) você teve mais dificuldades na Tarefa de Leitura, ou ainda o que achou confuso no material.
+Indique também os pontos que mais chamaram sua atenção .
+Sinta-se à vontade para fazer perguntas que possam auxiliar sua aprendizagem Questão conceitual 01 – Uma barra metálica neutra está se movendo com velocidade constante para a direita através de uma região onde há um campo magnético uniforme apontando par a fora da página.
+O campo magnético é produzido por grandes bobinas que não são mostradas no diagrama.
+Qual dos diagramas a seguir melhor descreve a distribuição de cargas da barra de metal?
+Questão conceitual 02 – Um avião parte da Groenlândia em dire ção ao Alaska.
+Supondo que nessa região o campo magnético é praticamente perpendicular ao avião, em qual asa do avião irá haver um acumulo de cargas positivas?
+a. Direita b. Não há informações suficientes para responder essa pergunta c. Não haverá acumulo de carga d. Esquerda

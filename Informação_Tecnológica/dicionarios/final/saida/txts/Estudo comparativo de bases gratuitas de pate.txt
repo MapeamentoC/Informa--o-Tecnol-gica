@@ -1,0 +1,248 @@
+ Página | 125 Estudo comparativo de bases gratuitas de patentes: patentscope (wipo), espacenet (epo), buscaweb (inpi/br) RESUMO Paula Cotrim de Abrantes paula.abrantes@unirio.br Mestre em Propriedade Intelectual e Inovação pelo INPIArquivista da Universidade Federal do Estado do Rio de Janeiro Daniel Barros Junior daniel.barros.jr@gmail.com Doutorando em Propriedade Intelectual e Inovação pelo INPI Pesquisador em Propriedade Industrial do Instituto Nacional da Propriedade Industrial Elisângela Aparecida da Silva silvaelisangelax@gmail.com Doutora em Engenharia Química pela Universidade Federal de Minas Gerais - Analista de tecnologia no Centro de Inovação e tecnologia - CIT SENAI Genízia Islabão Islabão genizia@inpi.gov.br Doutora em Química pelo IMEDocente Permanente na Academia do Instituto Nacional da Propriedade Industrial Douglas Alves Santos dsaints@inpi.gov.b r Pós-doutor em Propriedade Intelectual e Inovação pelo INPIDocente Permanente na Academia do Instituto Nacional da Propriedade Industrial Sistemas de buscas que facilitam o acesso à informação patentária são cada vez mais importantes para realizar prospecções tecnológicas, mapear concorrentes e verificar tendências tecnológicas, nas mais diversas áreas do conhecimento.
+Todas essas informações podem ser obtidas de um documento de patente.
+É importante, portanto, fazer uma comparação entre as ferramentas de busca de algumas bases de patente para se verificar o que elas disponibilizam aos usuários, e como isso pode ser acessado.
+Neste artigo, foram estudadas as bases gratuitas Patentscope (WIPO), Espacenet (EPO) e BuscaWeb (INPI/BR).
+As duas pr imeiras foram escolhidas por serem duas das principais bases de patentes gratuitas do mundo, e a terceira foi escolhida para fazer uma comparação com a base do Brasil.
+Foram selecionados alguns assuntos para pesquisa de forma aleatória e assim verificar aspectos das bases no que tange à recuperação dos documentos.
+Foi possível observar que as bases Patentscope (WIPO), Espacenet (EPO) são muito parecidas, destoando em poucos aspectos.
+Quanto à BuscaWeb (INPI/BR) se mostrou relevante para busca de documentos nacionais.
+PALAVRAS -CHAVE: Bases de dados de patente gratuitas.
+Página | 126 INTRODUÇÃO As bases de patentes são uma fonte gigantesca de informações e ano a ano elas vêm aumentando cada vez mais.
+A tarefa de encontrar as informações tem se tornado muito complexa.
+A busca de informações na base de patentes pode ser motivada por vários objetivos, tais como, realizar prospecções tecnológicas, mapear concorrentes, verificar te ndências tecnológicas nas mais diversas áreas, e estas são somente algumas das possibilidades que o documento de patente oferece (WIPO, 202 1).
+Nessas bases patentárias é possível encontrar patentes de invenção e de modelos de utilidade, bem como pedidos de patente que ainda estejam em análise ou que tenham sido arquivados ou indeferidos após o exame técnico.
+Dessa forma, estas bases de dados possuem um rico manancial de informações do estado da técnica em patentes (algumas literaturas se referem a estas inf ormações como estado da arte).
+Elas podem fornecer informações de anterioridades, de quais países estão no rol de maiores inovadores, quais instituições, em qual ano determinado assunto pesquisado teve mais depósitos, em qual país uma citada tecnologia est ava amparada pelo patenteamento, enfim, os dados coletados são enormes (QUONIAM et al , 2014).
+Borschiver, Almeida e Roitmant (2008 apud Paranhos ; Ribeiro, 2018) complementa, dizendo que monitorar a informação patentária será um passo à frente quanto a melh orar a competitividade de setores econômicos, seja ele qual for.
+Como as informações disponibilizadas nas bases de dados são de suma importância estratégica para diversos setores e áreas do conhecimento, elas são cotidianamente aprimoradas para que os prof issionais que delas necessitem tenham acesso a informações atualizadas e precisas no menor tempo possível.
+No entanto, Gex -Collet, (2018) argumenta que para possibilitar esse acesso às informações, o profissional de pesquisa precisa ter um conhecimento téc nico das ferramentas que as bases oferecem, pensamento crítico, foco e resolução criativa de problemas.
+Quando se trata de busca de documentos patentários, existem diversas estratégias de busca que podem ser fundamentais para se encontrar um estado da técn ica mais genuíno e próximo da realidade.
+Quanto às estratégias de busca em bases de dados de patentes, traçar um plano detalhado é fundamental para se ter um bom resultado.
+Primeiramente, o pesquisador necessita definir de maneira clar a e precisa o escopo de busca sobre a tecnologia em estudo e, na sequência, é preciso definir as classificações da pesquisa e as expressões ou queries de busca "(processo de extração de dados), a qual é composta pelas palavras -chave e termos referentes a pesquisa" (FERENHOF; FERNANDES, 2016, p. 553).
+Quanto às formas de pesquisa, é importante já estarem pré -definidas, por exemplo: buscas por classificação, texto, bibliografia.
+Uma vez tendo definido tais parâmetros, os resultados encontrados d a busca patentária tenderão a ser mais precisos e confiáveis, possibilitando averiguar o cenário em que a tecnologia está localizada e identificar os maiores inventores, os possíveis concorrentes e possíveis parceiros, por exemplo.
+Nijhof, (2011 apud Gex-Collet 2018), cita em seu artigo que há dois tipos de pessoas trabalhando nas bases: o pesquisador e o localizador.
+O pesquisador é Página | 127 pouco criativo, muito estruturado e analítico.
+Já o localizador seria mais intuitivo, criativo, aquela pessoa que soluci ona os problemas, que orienta o cliente e aceita feedback, procurando se aperfeiçoar continuamente.
+No entanto, afirma que existe um pouco de cada em ambos e que as melhores pesquisas consistem em escolhas consistentes e equilibradas.
+Este artigo tem, portanto, por objetivo, apresentar estudos de caso visando a comparação entre diversas ferramentas gratuitas de buscas de documentos patentários e descrever de maneira simplificada, o passo a passo de três ferramentas de busca de patentes gratuitas Patentscope, Espacenet, BuscaWeb (INPI/BR).
+O referencial teórico descreve alguns detalhes sobre o processo de patentes no Brasil, e apresenta alguns tipos de classificação utilizados no sistema de patentes; a met odologia apresenta a descrição das ferramentas de busca de patentes e faz comparação entre algumas bases de dados de patentes; a análise dos dados e resultados realiza um comparativo dos resultados encontrados na base de dados de patentes, e a conclusão bu sca fornecer ao leitor um arremate do final da pesquisa.
+BREVE DESCRIÇÃO DO PROCESSO DE PATENTES Patente é um título de propriedade temporária sobre uma invenção ou modelo de utilidade concedido e expedido pelo Instituto Nacional da Propriedade Industrial (INPI).
+O INPI concede a uma pessoa física ou jurídica uma carta patente que a permite excluir terceiros de explorar um determinado produto, processo objeto da patente, conforme a Lei 9279/96 (LPI).
+10 da LPI, não são considerados invenção, modelos de utilidade e as teorias científicas; métodos matemáticos; programa de computador; regras de jogo; técnicas e métodos operatórios, terapêuticos e de diagnósticos; esquemas, planos ou métodos comerciais.
+De acord o com o artigo 18 da LPI, não são patenteáveis substâncias, matérias, misturas, elementos ou produtos de qualquer espécie quando resultantes da transformação do núcleo atômico, bem como o que ferir a moral e aos bons costumes, entre outros objetos descrito s nos artigos.
+Quando se fala em patentes, é importante ressaltar questões do estado da técnica, Barbosa (2010) discorre sobre o tema e a Lei n. 9.279, de 14 de maio de 1996 (BRASIL, 1996) pontua o seguinte: no parágrafo primeiro, do artigo 11, é definido como constituído por tudo aquilo tornado acessível ao público antes da data de depósito do pedido de patente, por descrição escrita ou oral, por uso ou qualquer outro meio, no Brasil ou no exterior, ressalvado o disposto nos Artigos: 12 (período de graça), 16 (prioridade unionista) e 17 (prioridade interna).
+No que se refere ao documento de patente, é composto por um relatório descritivo, onde é descrito detalhadamente o objeto de proteção, reivindicações, resumo e figuras.
+Apesar do sistema de patenteament o ser bem estabelecido no Brasil, ainda é notório o grande volume de instituições acadêmicas, industriais e governamentais que desconhecem esse meio de prospecção tecnológica.
+Esse desconhecimento reflete no baixo número de patentes que são depositadas no país.
+Em 2017, foram depositados mundialmente 3.168.900 de pedidos de patentes de invenção.
+O país com maior número de depósitos naquele ano foi a China, com cerca de 1,381 milhões de pedidos.
+No Brasil somente 25.658 pedidos foram depositados, representando 0,8% dos depósitos Página | 128 mundiais.
+Esses índices são preocupantes, pois dentro dessa baixa porcentagem são abrangidos os depósitos de multinacionais instaladas no Brasil e de não residentes (PEIXOTO; BUAINAIN, 2021).
+É sabido que para melhorar o ranking do Brasil várias medidas devem ser tomadas, dentre elas, a mobilização da sociedade científica com intuito de promover sua integração com o modelo patentário.
+Para isso, treinamentos mais efetivos devem ser realizados.
+Nesse sentido, as informações contidas em documentos patentários são fundamentais para o conhecimento das tecnologias já existentes no mercado e, com uma busca de qualidade, é possível conhecer melhor o que já existe n o estado da técnica sobre o assunto, bem com o identificar o que, de fato, é inovador, facilitando a delimitação da matéria que será reivindicada no momento do depósito do pedido de patente.
+CLASSIFICAÇÕES A Classificação Internacional de Patentes (CIP ou IPC – International Patent Cooperation ) teve suas primeiras discussões em torno de 1920.
+A IPC teve seu primeiro texto estabelecido de acordo com a Convenção Europeia para a Classificação Internacional de P atentes, em 1954, tendo sua primeira edição em 1968 (WIPO, 20 09).
+Ele foi criado pelo Acordo de Estrasburgo relativo à Classificação Internacional de Patentes de 24 de março de 1971, alterada em 28 de setembro de 1979.
+Essa taxonomia divide -se em oito seções com aproximadamente 7 5.000 subdivisões e é atualizada anualmente.
+O IPC, código de classificação internacional, tem o objetivo de classificar os documentos patentários.
+A classificação possui uma letra antes de iniciar a numeração (indica a seção do assunto que vai de A até H).
+Esta letra é seguida por dois dígitos (indica a classe do assunto – H 01).
+Após os dois dígitos numéricos, pode possuir uma outra letra (que indica a subclasse do assunto – H01L).
+Pode haver também um número que pode variar, d e 1-2 dígitos que indicam o grupo principal - H01L21 e, uma barra inclinada "/" , para indicar o subgrupo do IPC: H01L21/02 (LATIPAT, 2021).
+A Classificação Cooperativa de Patentes (CPC - Cooperative Patent Classification ) (CPC, 2021) foi iniciada como uma parceria conjunta entre o United States Patent and Trademark Office - USPTO e o Escritório Europeu - EPO, onde os Escritórios concordaram em harmonizar seus sistemas de classificação existentes (European Classification - ECLA e United States Patent Classification - USPC, respectivamente) e migrar para um esquema de classificação comum.
+Esta foi uma decisão estratégica de ambos os escritórios e é vista como um passo importante para o avanço dos esforços de harmonização que estão sendo realizados atualmente pelo Grupo de Trabalho sobre Classificação do IP5.
+IP5 é o grupo dos cinco maiores escritórios de patentes do mundo (Estados Unidos - USPTO, Europa - EPO, Japão - JPO, China - CNIPA, Coreia do Sul - KIPO) (CNI, 2022).
+A migração para o CPC foi desenvolvida com base em grande parte no Sistema de Classificação Europeu (ECLA) existente, modificado para garantir a conformidade com os padrões do sistema da IPC administrado pela Organização Mundial de Propriedade Intelectual (EPO; USPTO, 2017 ).
+Página | 129 METODOLOGIA No que tange à abordagem do problema, essa pesquisa é quantitativa e qualitativa, pois irá fazer uma análise de fenômenos muito específicos de forma mais detalhada (TOBAR; YALOUR, 2001).
+Quanto aos seus objetivos, é uma pesquisa descritiva; e quanto aos procedimentos técnicos, é uma pesquisa documental e bibliográfica.
+O artigo também retrata uma pesquisa aplicada pois visa solucionar problemas de aplicação específica (SILVA; MENEZES, 2001).
+O estudo prev ê uma comparação entre as bases Patentscope, Espacenet e BuscaWeb (INPI/BR).
+São bases de busca gratuitas disponíveis para consulta.
+As duas primeiras, são as principais bases gratuitas de patentes do mundo.
+A BuscaWeb (INPI/BR) tem documentos de patentes que não estão cobertos pelas duas primeiras.
+Esse trabalho de comparação procederá de forma minuciosa para se constatar as qualidades de buscas e informações disponibilizados por cada base.
+Nesse artigo focamos em três ferramentas de buscas de documentos de patentes que eventualmente permitem buscas de documentos não patentários9.
+Entretanto, existem diversos outros sites de países, como por exemplo: Japão10, Coréia do Sul11, China12, Alemanha13 e Reino Unido14 que podem ser muito úteis para as buscas.
+FERRAMENTAS DE BUSCA ANALISADAS Neste trabalho estão sendo utilizadas três diferentes ferramentas gratuitas de busca de documentos patentários.
+As ferramentas utilizadas neste artigo são Patentscope, Espacenet e BuscaWeb (INPI/BR).
+A Patentscope (WIPO) é uma base de dados de patentes que pertence à Organização Mundial da Propriedade Intelectual (OMPI ou World Intellectual Property Organization - WIPO em inglês) e foi lançada em 2005.
+São 95 milhões de documentos de patentes, incluindo 4,0 milhões de pedidos de patentes internacionais (PCT) publicados de 71 países (WIPO, 2021).
+Possui informações bibliográficas de documentos a partir de 1782 (WIPO, 2021).
+Essa base também oferece como opção de pesquisa documentos de patentes de escritórios de paten tes nacionais e regionais participantes (WIPO, 2021).
+Ela permite elaborar gráficos com os resultados das buscas (INPI, 20 17).
+Os dados são recuperados através de uma listagem em formato "xml".
+Por meio de 4 gráficos, é possível, ao pesquisador, ter uma vi são ampla da evolução das patentes num campo específico do assunto pesquisado.
+O INPI (20 17) informa ainda mais características da base Patentscope: a) acesso a documentos depositados via PCT (formato full text ), de vários países e organizações regionais; b) busca em texto completo em parte dos documentos (inclusive em documentos do Brasil); c) muitos campos de busca específicos; d) apresentação de resultados em tabelas e elaboração de gráficos; e) permite a busca por compostos químicos e etc.
+O usuário pode fazer pesquisas na língua portuguesa, o site oferece essa opção.
+Ela pode ser realizada a partir dos seguintes campos: página de cobertura, qualquer campo, texto integral, texto em inglês, ID/ número, classificação internacional de patentes (I PC), nomes, datas de publicação.
+O Patentscope (2021) esclarece que os critérios de cada campo são os seguintes: a) página de abertura: serão pesquisados na página inicial do documento (título, resumo, nomes e Página | 130 números); b) qualquer campo: serão pesquisados em qualquer campo do documento; c) texto integral: será recuperado um texto completo; d) texto em inglês: irá recuperar textos somente em inglês; e) id/ número: inserir o número da publicação ou do arquivo; f) classificação internacional de patente (CIP o u IPC): inserir o código da classificação internacional de patente e etc.
+O site oferece quatro tipos de pesquisa além da simples: pesquisa avançada, combinação de campos, expansão multilíngue e compostos químicos, neste é necessário um login.
+Ainda é poss ível ter acesso a diversas informações a partir de um único assunto pesquisado.
+Como, por exemplo, principais países depositantes, requerentes, inventores, códigos de classificação e datas de publicação.
+Se o usuário clicar em "tabelas" irá aparecer um grá fico com essas informações.
+O INPI (20 17) esclarece que esta base permite ter acesso a recursos adicionais como: publicações semanais do PCT; listagem de Sequências Genéticas dos pedidos via PCT; Portal de Registro de Patentes; Kind Codes e códigos INID e tutoriais de busca.
+No que se refere à base Espacenet, ela foi lançada em 1998, sendo disponibilizada pelo Escritório Europeu de Patentes (European Patent Office - EPO) .
+Ela oferece acesso gratuito a mais de 120 milhões de documentos de patentes em todo o mundo, contendo informações sobre invenções e desenvolvimentos técnicos de 1782 até hoje, possui documentos de patentes de mais de 100 países.
+A base permite que usuários com pouca ou nenhuma experiência em busca de patentes obte nham uma visão geral do estado da técnica, acompanhem o desenvolvimento da tecnologia (ESPACENET, 2021).
+Ela possui campos de busca similares, assim como caracteres de truncagem (*; ?
+; #) e operadores lógicos ("AND" e "OR").
+O operador OR permite recuperar invenções para todos os termos da pergunta.
+O operador lógico "AND" deve ser usado para se restringir a pesquisa e pode ser usado para combinar características e o "OR" para sinônimos.
+Quando o objetivo é excluir invenções irrelevantes de uma pesquisa, é recomendado o operador "NOT" como parte de um termo a ser pesquisado.
+A base de dados Espacenet possui uma interface de fácil entendimento quanto ao preenchimento dos campos avançados.
+Além disso, é possível baixar os documentos buscados.
+Permite baixar a folha de rosto das patentes que constam de uma lista de resultados da busca (INPI, 20 18).
+Os documentos encontrados na busca podem ser mostrados das seguintes formas de acordo com o INPI (20 18): apenas texto; texto e miniatura; lista compacta (sem abstract ); apenas desenhos; pela ordem de exibição dos documentos; importância (relacionado ao número de documentos que o cita); ordem (crescente/decrescente) data da prioridade e ordem (crescente/decrescente) data de publicação.
+Uma outra base importante para a A mérica Latina e Espanha é a LATIPAT.
+Ela também possui acesso gratuito, e disponibiliza documentos de patentes em português e espanhol (LATIPAT, 2021).
+Quanto aos parâmetros de busca, ela disponibiliza os booleanos: "AND" para características exigidas; "OR " para sinônimos; "*" para qualquer número de caracteres depois da palavra; "?"
+para zero ou um caractere posteriormente à Página | 131 palavra; "#" para exatamente 1 caractere posteriormente à palavra; "()" para restringir um termo (FG PROPRIEDADE INTELECTUAL, 2021).
+A BuscaWeb (INPI/BR) realiza a busca online em documentos de patente depositados no Brasil pode ser feita gratuitamente na base de patentes do INPI, com o sistema BuscaWeb, através da combinação de palavras -chave com a Classificação Internacional de Patent es (CIP ou IPC).
+Esta classificação é apresentada nos guias para Busca de Patentes, tanto em anexo específico como em exemplos de buscas (INPI, 2021).
+O site do INPI também disponibiliza a busca de patentes filtrando pelas patentes expiradas (domínio público) ou a expirar, considerando as patentes (invenção ou modelo de utilidade) concedidas, cuja vigência expirou ou deverá expirar, de acordo com os prazos estabelecidos na legislação de propriedade industrial.
+O resultado obtido por meio de bu scas nessa base constitui forte indicação de liberdade para uso das patentes recuperadas, porém, não constitui prova nem substitui uma consulta oficial ao INPI (INPI, 2021).
+Recentemente o INPI tem disponibilizado estatísticas dos pedidos pendentes de exam e no Brasil (INPI, 2021).
+COMPARATIVOS ENTRE AS FERRAMENTAS DE BUSCA Diversos parâmetros foram sistematizados para compararmos as bases, tendo como modelo o que foi apresentado por Pires (2020): a) Tipo de acesso (acesso); b) número de autoridades de patentes (cobertura); c) tamanho da base de dados (tamanho da base); d) ano inicial da cobertura (Ano inicial); e) número de campos de busca (Campos de Busca); f) tipos de classificação de patentes que pode ser utilizada na busca (Classifica ções); g) exportação de dados (Exportação de dados e download); h) idioma de uso do escritório (Idioma de uso); i) idiomas em que os documentos estão disponíveis (Idioma dos documentos); j) disponibilidade de literatura não patentária (Literatura não paten tária (NPL)); k) apresenta gráficos estatísticos (Gráficos); l) particularidades das numerações na busca (Exemplos de numeração dos documentos recuperados na busca); m) construção das numerações dos documentos (Numeração dos documentos); n) data de publica ção (Data de publicação do documento); o) republicações (Documentos republicados nos EUA após a concessão (REISSUE)); p) diferenças nas famílias (Diferença na recuperação por famílias de patentes); q) características das famílias (DOCDB e INPADOC), ver Quadros 1a e 1b.
+Página | 132 Quadro 1a – Comparação entre ferramentas gratuitas de busca de documentos patentários Descrição Patentscope Espacenet Buscaweb Acesso Gratuito Gratuito Gratuito Cobertura 71 países 90 países Brasil Tamanho da base 90.888.429 e PCT: 4.022.615 128.045.420 588.338 Ano inicial 1782 1782 1970 Campos de Busca 58 12 20 Classificações IPC, CPC IPC, CPC IPC Exportação de dados e download XLS, páginas iniciais em XML.
+Zip (XML + TIFFS) PDF XLS, CSV, páginas iniciais em pdfIdioma de uso inglês, francês, alemão, entre outra Inglês, francês, alemão Português Idioma dos documentos Idioma original Idioma original Português Literatura não patentária (NPL) Sim Sim (apenas citações) Não Gráficos Sim Sim Não Fonte: Elaborado pelos autores a partir de Pires (2020) com acréscimo e atualização de informações.
+Fazendo uma comparação das bases, percebe -se que a Patenscope e a Espacenet são bases gratuitas robustas, com várias formas de exportação de dados, com cobertura documental do século XVIII, cobrem milhões de documentos e de vários países, com no mínimo três idiomas, além de fazerem análises gráficas dos resultados e disponibilizarem literatura não patentária.
+Pires (2020) enfatiza essa questão de tanto a Espacenet como a Patentscope possuem data de inicial de cobertura dos dados bibliográficos de patente em 1782.
+A base BuscaWeb (INPI/BR) tem características próprias por ser uma base nacional, como por exemplo: ter idioma d e uso em português; ter como cobertura somente o Brasil; e possuir uma base menor por conta desses aspectos.
+Outras particularidades que se ressaltam na comparação com as outras duas bases, se referem: à sua data de início, apenas em 1970; a não proporcion ar exportação de dados e download; e facultar classificações de patente somente na IPC.
+Quanto às diferenças mais impactantes entre as bases Patentscope (WIPO) e Espacenet (EPO) foi observado a questão da pesquisa por família, onde uma primeira busca diret a nas bases (sem clicar na opção single family member ), haveria pesquisa pelo INPADOC na Espacenet, e pelo DOCDB na Patentscope.
+Outras diferenças se referem à sequência dos números e o resgate na Patentscope de documentos republicados nos EUA após a conce ssão (REISSUE), possibilidade não oferecida pela Espanenet.
+A BuscaWeb (INPI/BR) não trouxe informações sobre esses últimos pontos.
+Página | 133 Quadro 1b – Comparação entre ferramentas gratuitas de busca de documentos patentários Descrição Patentscope Espacenet BuscaWeb Exemplos de numeração dos documentos recuperados na busca País + ano + sequência de 7 números1 País + ano + sequência de 6 números2 BR + dois algarismos (natureza da proteção) + ano + sequência de 6 números (regra para pedidos depositados a partir de 2012) Numeração dos documentos Mostra o número do documento A3 Mostra o número do documento B4, se houver5Data de publicação do documento Data de publicação do país do documento6 Data de publicação do país do documento7 Data de publicação do pedido (após o período de sigilo) Documentos republicados nos EUA após a concessão (REISSUE) Sim8 Não Não Diferença na recuperação por famílias de patentes DOCDB e INPADOC DOCDB INPADOC Fonte: Elaborado pelos autores a partir de Pires (2020) com acréscimo e atualização de informações.
+ESTUDOS DE CASO COMPARANDO DIFERENTES FERRAMENTAS DE BUSCA PATENTÁRIA Nesta seção são apresentados alguns resultados de três estudos de caso em diferentes áreas do conhecimento.
+O Quadro 2 apresenta exemplos de estratégia de busca utilizando palavras -chave em português e inglês.
+Quadro 2 – Estratégia de busca utilizando palavra -chave Caso Inglês Português 1 flash memory memória flash 2 corrosion, composition, epoxy resin corrosão, composição, resina epóxi 3 lens optical focus detection lentes optica foco detecção Fonte: Elaborado pelos autores.
+COLETA DE DADOS Foi realizada a comparação de bases de dados de patentes com acesso gratuito.
+As escolhidas foram as seguintes: a) Patentscope; b) Espacenet; c) Página | 134 BuscaWeb (INPI/BR).
+A partir de três determinados grupos caracterizando: um campo específico do conhecimento, um processo, é um assunto aleatório, foram realizadas as pesquisas comparando o total de resultados.
+ANÁLISE DOS DADOS E RESULTADOS Os dados foram analisados e foram formuladas estratégias de busca ( strings de busca), explicadas anteriormente por WIPO (2021); INPI (20 18); FG PROPRIEDADE INTELECTUAL (2021).
+Antes das buscas é sugerida a classificação do sistema para estudo, visando auxiliar e facilitar o refinamento das buscas.
+Na plataforma do INPI a classificação está disponível para consulta e pode ser realizada acessando o ícone "classificação IPC/CPC".
+Estudo de caso 1 Plataforma de pesquisa: Espacenet, Patentscope, BuscaWeb (INPI/BR) .
+Classificação IPC: G06F12/0866 .
+Palavras chaves: flash memory .
+Quadro 3 – Resultados do caso Base String de busca Resultado Patentscope IC:(G06F12/0866) AND TI:(flash or memory) 783 Espacenet (title all "flash" OR title all "memory") AND ipc all "G06F12/0866" 210 BuscaWeb Classificação IPC: G06F 12/0866.
+Título: memória OR flash 2 Fonte: Elaborado pelos autores.
+Além das diferenças citadas no Quadro 3, o motivo que acarretou uma diferença de resultados se deve ao agrupamento das famílias.
+A base Espacenet, produz famílias com um maior número de documentos de cada família, assim, tende a aparecer um número menor de resultados e na Patentscope, por sua vez, tende a ocorrer um maior número de documentos duplicados.
+Essa diferença será tanto maior quanto mais internacionalizada for a tecnologia.
+Uma tecnologia, por exemplo, que só tenha depósitos no Brasil, onde não ha ja muitos depósitos no exterior, tende a apresentar os mesmos resultados na Espacenet ou na Patentscope, porque nos dois casos, a família daqueles documentos se restringe aos próprios documentos no Brasil.
+Tendo em vista essa diferença de resultados, deve -se sempre procurar comparar resultados dentro da mesma base, e é necessário cuidado nas comparações entre dados obtidos de diferentes bases de dados.
+A base do INPI recuperou apenas documentos depositados no Brasil, que no caso desta pesquisa, foram dois d ocumentos.
+A base Espacenet retornou 210 resultados, e a Patentscope, 783.
+São dois fatores que contribuem para um menor número de Página | 135 resultados na Espacenet : o fato de ter sido usado o IPC e o fato de conceito de família.
+O conceito de família estendida do I NPADOC é mais amplo e agrupa como documentos da mesma família aqueles documentos que tiverem pelo menos um documento de prioridade em comum.
+O Escritório de Patentes Europeu - EPO suporta dois conceitos de família de patentes (EPO, 2021): a) Família de pat entes simples DOCDB; uma coleção de pedidos de patentes relacionados que cobrem o mesmo conteúdo técnico; b) Família de patentes estendida do INPADOC; uma coleção de pedidos de patentes relacionados que cobre conteúdo técnico semelhante.
+Estudo de caso 2 Espacenet, Patentscope, BuscaWeb (INPI/BR).
+Classificação IPC/CPC: C09D163/00.
+Palavras chaves sugeridas: corrosion; composition.
+As buscas no Patentscope somam 265 documentos, uma particularidade do Espacenet é que ele possibilita a busca em Francês, Ale mão e Inglês.
+Por fim, o Espacenet e BuscaWeb (INPI/BR) apresentaram 217 e 7 documentos, respectivamente.
+Quadro 4 – Resultados do caso Base String de busca Resultado Patentscope TI:(corrosion AND composition) AND IC:(C09D163/00) 265 Espacenet ti = "corrosion" AND ti = "composition" AND ipc = "C09D163/00" 217 BuscaWeb Título: CORROSÃO AND COMPOSIÇÃO \ Classificação (IPC): C09D 163/00 7 Fonte: Elaborado pelos autores.
+Os resultados demonstram que cada plataforma apresenta sua particularidade, para uma busca mais efetiva é necessário a definição das palavras chaves e classificação minuciosamente.
+No decorrer das buscas foram observadas diferentes classificações para o mesmo grupo de palavras chaves.
+Neste sentido, quanto mais es pecífica for sua busca melhores resultados serão obtidos.
+Quadro 5 – Resultados do caso 3 Base String de busca Resultado Patentscope IC:(G02B3/10) and TI:(bifocal OR multifocal) 213 Espacenet (ti = "bifocal" OR ti = "multifocal") AND ipc = "G02B3/10" 137 BuscaWeb Classificação (IPC): 'G02B 3/10' and Título (bifocal OR multifocal) 8 Fonte: Elaborado pelos autores Página | 136 Estudo de caso 3 Plataforma de pesquisa: Espacenet, Patentscope, BuscaWeb (INPI/BR) Classificação IPC/CPC: G02B3/10 .
+Palavras chaves sugeridas: bifocal; multifocal .
+Realizando a busca completa na base de dados BuscaWeb (INPI/BR) foram encontrados 8 pedidos de patentes.
+Visto que a base de patentes do INPI só contém pedidos depositados no Brasil é perfeitamente normal ela apresentar uma resposta com menos pedidos.
+Entretanto, isso reforça os argumentos de que a realizaçã o de uma busca mais ampla não pode se limitar a buscas em bases de patentes de escritórios específicos.
+Para finalizar o estudo, foram comparados alguns resultados da Patenscope e da Espacenet sobre a questão de recuperação por famílias, para verificar se realmente haveria um impacto nos resultados de recuperação das pesquisas.
+O Quadro 6 apresenta uma comparação dos primeiros resultados das strings e bases citadas no quadro.
+O primeiro documen to da Patentscope aparece na Espacenet em vigésimo, o segundo documento como resultado na Patentscope não aparece na Espacenet.
+No entanto, esse mesmo documento "WO2007030352", que aparece em segundo lugar nos resultados do Patentscope, aparece como um doc umento da família do documento "EP1952184".
+Dessa forma, podemos concluir que, enquanto a base Patentscope computa dois documentos, somente um dos dois aparece na lista da Espacenet.
+Quadro 6 – Comparação das bases Patentscope e Espacenet/ famílias Base String de busca Nº na listagem /nº documento/ título Patentscope IC:(G02B3/10) and TI:(bifocal OR multifocal) 1º./ EP1952184 / Photochromic multifocal optical article 2º/ WO2007030352 / Photochromic multifocal optical article Espacenet (ti = "bifocal" OR ti = "multifocal") AND ipc = "G02B3/10" 20º.
+/EP1952184 / Photochromic multifocal optical article WO2007030352 / Photochromic multifocal optical article Pertence à Família do EP1952184 Fonte: Elaborado pelos autores .
+CONCLUSÕES Utilizamos três bases gratuitas, Patentscope (WIPO), Espacenet (EPO) e BuscaWeb (INPI/BR) sendo a última, uma base nacional, e verificamos que cada uma apresenta suas particularidades, tanto nas ferramentas de busca como nos resultados apresentados.
+Obviam ente uma base nacional como a do Brasil Página | 137 apresenta como resultados apenas documentos depositados no respectivo país.
+Esse estudo concluiu que bases gratuitas são ótimas fontes para pesquisas e para fornecer dados para serem trabalhados na investigação acadê mica ou empresarial.
+Elas estão sempre se aperfeiçoando para proverem melhores resultados aos usuários.
+Entretanto, uma busca com uma maior efetividade necessita de uma query de busca adequada e bem formulada, pois isso trará resultados mais de acordo com o objeto de pesquisa.
+Comparando as bases Espacenet e Patentscope, elas apresentaram uma maior cobertura, possuem ótimas ferramentas de busca e de análise de dados, além de trazer também literatura não patentária.
+No entanto, a primeira já num primeiro res ultado, faz um agrupamento de famílias de patentes pelo INPADOC, o que torna os resultados mais objetivos e com menos duplicações de documentos.
+Portanto pode -se concluir que cada base tem sua peculiaridade e se complementam, cabendo ao usuário escolher qu al melhor se enquadra à necessidade da sua pesquisa.
+Página | 138 Comparative study of free patent databases: patentscope (wipo), espacenet (epo), buscaweb (inpi/br) ABSTRACT Search systems that facilitate access to patent information are increasingly important to carry out technological prospecting, mapping competitors and checking technological trends in the most diverse areas of knowledge.
+All this information can be obtained from a patent document.
+It is important, therefore, to make a comparison between the search tools of some patent databases to see what they make available to users, and how this can be accessed.
+In this article, the free databases Patentscope (WIPO), Espacenet (EPO) and BuscaWeb (INPI/BR) were studied.
+The first two were chosen because they are two of the main free patent bases in the world, and the third was chosen to make a comparison with the base in Brazil.
+Some subjects were randomly selected for research to verify aspects of the bases with regard to the recovery of documents.
+It was possible to observe that the Patentscope (WIPO), Espacenet (EPO) bases are very similar, differing in few aspects.
+As for BuscaWeb (INPI/BR) it proved to be relevant for searching nationa l documents .
+KEYWORDS: Free patent databases .
+Página | 139 NOTAS 1 Exemplo: número do documento: US20210042220.
+2 Exemplo: número do documento: US2021042220.
+3 Documento A: patente depositada.
+4 Documento B: patente concedida.
+5 A Espacenet faz o preenchimento da "máscara" de números caso o usuário coloque a sequência com número menor de dígitos.
+6 Documento: US20210042220, data de publicação de: 11/02/2021.
+7 Documento: US2021042220, data de publicação na China de: 05/02/2021 – documento número: CN112328507A.
+10 https:// www.jpo.go.jp/e/ 11 12 -system.cnipa.gov.cn/sipopublicsearch/inportal/i18n.shtml 13 https:// www.dpma.de/english/pat ents/search/index.html 14 https:// www.gov.uk/search -for-patent REFERÊNCIAS BARBOSA, Denis Borges.
+Uma introdução à propriedade intelectual .
+951 p. Disponível em: https:// www.dbba.com.br/wp -content/uploads/introducao_pi.pdf.
+Lei n. 9.279, de 14 de maio de 1996.
+Regula direitos e obrigações relativos à propriedade industrial .
+Disponível em: http: //www.planalto.gov.br/ccivil_03/leis/L9279.htm .
+CONFEDERAÇÃO NACIONAL DA INDÚSTRIA – CNI.
+Propriedade Intelectual para o desenvolvimento industrial.
+Disponível em: -intelectualcni/propriedade -intelectual/dados -e-numeros/ .
+COOPERATIVE PATENT CLASSIFICATION.
+Disponível em: Acesso em: 02 maio 2021.
+Página | 140 EPO – EUROPEAN PATENT OFFICE; USPTO - United States Patent and Trademark Office.
+Guide to the CPC (Cooperative Patent Classification).
+Disponível em: Acesso em: 08 abr.
+Como explorar bancos de dados internacionais?
+Disponível em: -explorar -bancos -de-dadosinternacionais/ .
+FERENHOF, Helio Aisenberg; FERNANDES, Roberto Fabiano.
+Desmistificando a revisão de literatura como base para redação científica: método SSF.
+Revista ACB: Biblioteconomia em Santa Catarina , Florianópolis, SC: v. 21, n. 3, p. 550563, ago./nov., 2016.
+GERMAN PATENT AND TRADE MARK OFFICE.
+Disponível em: https:// www.dpma.de/english/patents/search/index.html.
+Attitude and process – Key aspects for improving search performance .
+54, supplement, sep. 2018, p. S11S17.
+Disponível em: -property/patents .
+INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL - INPI.
+Guia simplificado para buscas em bases de patente gratuitas .
+115 p. Disponível em: ufpb.br/inova/contents/documentos/tutorialbuscas -inpi-parte4.pdf/@@download/file/Tutorial%20Buscas%20INPI%20parte%204.pdf .
+Guia simplificado para buscas em bases de patente gratuitas.
+20 p. Disponível em: -br/assuntos/arquivoscepit/TUTORIALDEBUSCASMdulo3_BaseEspacenet_verso27072018.pdf.
+Página | 141 JAPAN PATENT OFFICE.
+Bem -vindo/a à interface Latipat -Espacenet para pesquisa de documentos de patentes em espanhol e português.
+Disponível em: Acesso em: 14 jun.
+PARANHOS, Rita de Cássia Santos; RIBEIRO, Núbia Moura.
+Importância da Prospecção Tecnológica em Base de Patentes e seus Objetivos da Busca.
+Cadernos de Prospecção – Salvador, v. 11, n. 5 – Ed.
+ProspeCT&I, p. 1274 -1292, dez ., 2018.
+Disponível em: https:// www.wipo.int/patentscope/en/.
+PEIXOTO, Marcus; BUAINAIN, Antônio Márcio.
+Desempenho e Desafios do Sistema de Propriedade Industrial no Brasil.
+Brasília: Núcleo de Estudos e Pesqu isas/CONLEG/ Senado.
+2021 (Texto para Discussão n. 294).
+Disponível em: -legislativos/tipos -deestudos/textos -para -discussao/td294 .
+PIRES, Edilson Araújo; RIBEIRO, Nubia Moura; QUINTE LLA Cristina M. Sistemas de busca de patentes: Análise comparativa entre espacenet, patentscope, google patents, lens, derwent innovation index e orbit intelligence.
+Cadernos de Prospecção – Salvador, v. 13, n. 1, p. 13 -29, mar., 2020.
+Disponível em: https ://periodicos.ufba.br/index.php/nit/article/view/35147/20781 .
+A patente como objeto de pesquisa em Ciências da Informação e Comunicação .
+Encontros Bibli: revista eletrônica de biblioteconomia e ciência da informação, v. 19, n. 39, p. 243-268, jan./abr., 2014.
+SILVA, Edna Lúcia da; MENEZES, Estera Muszkat.
+Metodologia da pesquisa e elaboração de dissertação .
+Florianópolis: Programa de Pós -Graduação em Engenharia de Produção, UFSC, 2001.
+121 p. Disponível em: -daPesquisa -3a-edicao.pdf .
+Página | 142 TOBA R, Federico; YALOUR, Margot Romano.
+Como fazer teses em saúde pública: conselhos, ideias para formular projetos e redigir teses e informes de pesquisas.
+Rio de Janeiro: Editora Fiocruz, 2001.
+172 p. WORLD INTELLECTUAL PROPERTY ORGANIZATION - WIPO.
+Guide to the International Patent Classification .
+37 p. Disponível em: https:// www.wipo.int/publications/en/details.jsp?id=4466.
+Disponível em: https:// www.wipo.int/portal/en/.
+Recebido: 14/07/2021 Aprovado: 20/06/2022 DOI: 10.3895/rts.v18n54.14516 Como citar: ABRANTES, P.C.
+Estudo comparativo de bases gratuitas de patentes: patentscope (wipo), espacenet (epo), buscaweb (inpi/br).
+Soc ., Curitiba, v. 18, n. 54, p. 125-142, out./dez., 2022.
+Correspondência: _ Direito autoral: Este artigo está licenciado sob os termos da Licença Creative Commons -Atribuição 4.0 Internacional.

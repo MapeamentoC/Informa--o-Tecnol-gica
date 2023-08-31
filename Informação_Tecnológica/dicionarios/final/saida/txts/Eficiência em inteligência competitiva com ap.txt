@@ -1,0 +1,201 @@
+200 Paulo Henrique de Oliveira; Carlos Alberto Gonçalve s; Cleiton Martins Duarte R. Intelig.
+, São Paulo, v. 8, n. 1, p. 200-226, jan./mar.
+ISSN: 2236-210X submetido em: 4/8/2017 aceito em: 7/3/2018 EFICIÊNCIA EM INTELIGÊNCIA COMPETITIVA COM APLICAÇÃO DA ANÁLISE ENVOLTÓRIA DE DADOS (DEA): UM ESTUDO NA INDÚSTRIA DIGITAL Paulo Henrique de Oliveira 1 Carlos Alberto Gonçalves 2 Cleiton Martins Duarte 3 RESUMO Objetivou-se com este estudo identificar de forma q uantitativa a eficiência de empresas da Indústria Digital de Minas Gerais em empregar ad equadamente os recursos humanos, tecnológicos e informacionais disponíveis no proces so de Inteligência Competitiva (IC).
+Para tanto, utilizou-se da Análise Envoltória de Da dos (DEA).
+Os resultados indicaram a empresa "j" como a mais eficiente, evidenciando q ue a empresa mais eficiente na produção de IC é efetivamente aquela que utiliza me lhor os recursos que dispõe e, assim, corroborando o argumento de que esses recurs os são fatores determinantes na rapidez da distribuição dos produtos de inteligênci a competitiva defendido por diversos autores.
+A aplicação da DEA para estudo da eficiênc ia nos processos de Inteligência Competitiva das empresas selecionadas foi satisfató ria, visto que apontou as empresas consideradas como padrão de eficiência (benchmarks) e destacou quais recursos precisam ser melhor gerenciados para a produção efi ciente dos produtos de inteligência competitiva demandados.
+Palavras-chave : Inteligência Competitiva.
+Anál ise Envoltória de Dados - DEA .
+1 Doutor em Administração; e-mail: paulo.henrique@if mg.edu.br 2 Doutor em Administração; e-mail: carlos@face.ufmg.
+br 3 Mestre em Administração; e-mail: cleiton.duarte@if mg.edu.br 201 Paulo Henrique de Oliveira; Carlos Alberto Gonçalve s; Cleiton Martins Duarte R. Intelig.
+, São Paulo, v. 8, n. 1, p. 200-226, jan./mar.
+ISSN: 2236-210X submetido em: 4/8/2017 aceito em: 7/3/2018 1 INTRODUÇÃO Inteligência Competitiva (IC) é um assunto em expan são na literatura da estratégia de negócios.
+Entendida como um processo composto pelas etapas de planejamento, coleta, análise e disseminação de pro dutos de inteligência competitiva para os tomadores de decisões estratégicas, a IC te m ganhado espaço e se consolidado como um campo promissor de pesquisa na atualidade e m decorrência da sua proximidade com o processo estratégico, o que é evi denciado pela sua promessa de disponibilização rápida e precisa de informações va liosas sobre o comportamento e intenções dos concorrentes instalados dentro de uma mesma indústria ou mercado consumidor (FULD, 1995; KAHANER, 1996; MILLER, 2002 ; BERNHARDT, 2003; LIEBOWITZ, 2006).
+Levando-se em consideração o crescimento e a modern ização da competição, percebidos em praticamente todos os setores econômi cos mundiais nesses últimos anos, e frequentemente associados a fatores como globaliz ação econômica, avanços tecnológicos e mudanças no comportamento de compra dos consumidores (SIRMON et al., 2010; D´AVENI et al., 2010), muitos empresários e gestores ao redor do m undo têm voltado as suas atenções para a estruturação de uni dades de IC com o objetivo de alavancarem o desempenho de suas empresas a partir do aumento da eficácia das decisões estratégicas tomadas por seus gestores alo cados especialmente na alta cúpula organizacional.
+Em decorrência, observa-se que a IC tem emergido co m a promessa de tornar as empresas mais "inteligentes" e "ágeis", antecipando rapidamente as possíveis ameaças competitivas, como também, possibilitando aos gesto res estratégicos a efetiva 202 Paulo Henrique de Oliveira; Carlos Alberto Gonçalve s; Cleiton Martins Duarte R. Intelig.
+, São Paulo, v. 8, n. 1, p. 200-226, jan./mar.
+ISSN: 2236-210X submetido em: 4/8/2017 aceito em: 7/3/2018 identificação de novas oportunidades de negócios em seus respectivos mercados consumidores.
+Por ser uma capacidade estratégica para as empresas contemporâneas, especialmente para àquelas que enfrentam ambientes competitivos complexos, dinâmicos e hostis (FULD, 1995; WEST, 2001; MILLER, 2002), os responsáveis pela IC precisam ser capazes de combinarem, eficientemen te, os recursos humanos, tecnológicos e informacionais disponíveis em suas e mpresas para a produção e disseminação rápida e eficaz de produtos de intelig ência competitiva para os tomadores de decisões estratégicas, conforme se observa no mo delo teórico utilizado nesta pesquisa (Figura 1).
+Figura 1 – Modelo para aplicação da DEA na análise da eficiência do processo de IC Fonte: Autores da pesquisa No contexto desta pesquisa, os seguintes fatores de entrada ( inputs ) foram considerados: (a) disponibilidade de dados e inform ações sobre o ambiente competitivo; Informaç ões ções Tecnologia Tecnolo gia Competên cia (Profissionais de IC) Competência (Profissionais de IC) Geração da IC DMU Gera ção da IC DMU Rapidez de Disponibi liza ção (Produtos de IC) Rapidez de Disponibi liza ção (Produtos de IC) INPUTS PROCESSO OUT PUT 203 Paulo Henrique de Oliveira; Carlos Alberto Gonçalve s; Cleiton Martins Duarte R. Intelig.
+, São Paulo, v. 8, n. 1, p. 200-226, jan./mar.
+ISSN: 2236-210X submetido em: 4/8/2017 aceito em: 7/3/2018 (b) recursos tecnológicos especializados ( hardware e softwares ), os quais são fundamentais para o armazenamento, recuperação e pr ocessamento rápido das informações coletadas; e (c) competência dos profis sionais de IC necessária para a transformação das respectivas informações em produt os de inteligência competitiva acionáveis.
+Já em relação ao resultado do processo de IC ( Output ), optou-se pelo indicador de "rapidez de disponibilização dos produtos de int eligência competitiva" especialmente porque nesses tempos caracterizados por intensa e d inâmica competição, a rapidez pode ser determinante para o sucesso ou fracasso competi tivo das empresas em seus respectivos mercados consumidores ou setores indust riais (TYSON, 1998; MILLER, 2002; PRESCOTT e MILLER, 2002; BERNHARDT, 2003; LIE BOWITZ, 2006).
+Como ferramenta de análise da eficiência com que as unidades de Inteligência Competitiva combinam e transformam os respectivos r ecursos informacionais, tecnológicos e humanos em produtos de inteligência competitiva acionáveis para os tomadores de decisões estratégicas, utilizou-se a A nálise Envoltória de Dados ( Data Envelopment Analysis – DEA, no inglês) desenvolvido por autores como Ch arnes, Cooper e Rhodes (1978), também conhecido na literat ura como CCR em decorrência das iniciais dos nomes dos respectivos autores.
+A p rincipal característica desse modelo está a premissa de que existe uma relação direta e proporcional entre os recursos consumidos e os produtos obtidos, o que é conhecido como Retorno Constante de Escala ( Constant Return to Scale – CRS).
+Assim, com base nos temas da Inteligência Competiti va e da DEA, nesta pesquisa busca-se mensurar e comparar a eficiência de empresas da Ind ústria Digital de Minas Gerais em empregar adequadamente os seus r ecursos humanos, tecnológicos e informacionais disponíveis na produção e dissemin ação rápida dos produtos de 204 Paulo Henrique de Oliveira; Carlos Alberto Gonçalve s; Cleiton Martins Duarte R. Intelig.
+, São Paulo, v. 8, n. 1, p. 200-226, jan./mar.
+ISSN: 2236-210X submetido em: 4/8/2017 aceito em: 7/3/2018 inteligência competitiva demandados pelos tomadores de decisões estratégicas das respectivas empresas.
+Estruturalmente essa pesquisa está organizada da se guinte forma: na primeira parte, faz-se uma breve apresentação dos temas da I nteligência Competitiva e do método DEA e delineia-se o objetivo da pesquisa; em seguida, na segunda parte, descrevem-se as etapas do processo de Inteligência Competitiva e os seus recursos determinantes; adiante, analisam-se os elementos ce ntrais da DEA, com especial destaque para o modelo CCR de Charnes, Cooper e Rho des (1978); na quarta parte, descrevem-se os procedimentos metodológicos utiliza dos para o alcance do objetivo proposto; por fim, na quinta e sexta partes, aprese ntam-se os resultados alcançados, as conclusões e as limitações desta pesquisa.
+2 INTELIGÊNCIA COMPETITIVA: PROCESSO E RECURSOS DETERMINANTES Conforme mencionado, as pesquisas realizadas sobre o processo da Inteligência Competitiva (IC) têm evidenciado a sua importância para o sucesso da tomada de decisão estratégica das empresas que operam em ambi entes caracterizados por uma intensa e dinâmica competição.
+Normalmente entendid a por Kahaner (1996), Tyson (1998), Herring (2002) e Miller (2002) como um proc esso composto por quatro etapas principais – planejamento, coleta, análise e dissem inação – a IC tem se tornado em um promissor campo de pesquisa, especialmente nesses t empos caracterizados por grandes turbulências e hostilidades concorrenciais percebid os em muitos setores industriais ao redor do mundo.
+205 Paulo Henrique de Oliveira; Carlos Alberto Gonçalve s; Cleiton Martins Duarte R. Intelig.
+, São Paulo, v. 8, n. 1, p. 200-226, jan./mar.
+ISSN: 2236-210X submetido em: 4/8/2017 aceito em: 7/3/2018 Com o aumento da incerteza e dos desafios competit ivos, muitos empresários em toda parte do mundo têm voltado as suas atenções para a IC, especialmente em países como Estados Unidos, Japão, França, Inglater ra e, mais recentemente, África do Sul e Brasil, na tentativa de ajudar os seus gestor es na antecipação rápida e eficaz das possíveis ameaças que possam colocar em risco a sob revivência e o crescimento das suas empresas nos mercados em que atuam ao longo do tempo.
+No Brasil, por exemplo, a IC tem sido promovida pela Associação Brasileira dos Analistas de IC (ABRAIC) e por muitas universidades federais, como as de Minas Gerais (UFMG), Rio de Janeiro (UFRJ), Rio Grande do Sul (UFRGS) e de Santa Catari na (UFSC), dentre outras.
+Na literatura especializada, um grande número de d efinições tem sido proposta pelos autores para o conceito de IC.
+West (2001, p. 12), por exemplo, afirma que a IC é "um processo pelo qual as empresas informam (elas m esmas) sobre todos os aspectos das atividades e desempenhos de seus rivais".
+Mille r (2000, p.13), por sua vez, observa que a inteligência "é mais do que ler artigos em jo rnais; ela é sobre o desenvolvimento de insights únicos e relacionados com questões pertinentes aos ambientes de negócios das empresas".
+Já para Kahaner (1998, p.16), a IC " é um programa sistemático voltado para a obtenção e análise de informações sobre as a tividades dos competidores e tendências do ambiente geral que possam impactar os objetivos das empresas".
+E como um processo, a IC tem sido analisada a part ir das etapas de planejamento e direção (P), coleta de dados e informações sobre os concorrentes e demais eventos de interesse dos ambientes interno e de negócios (tend ências macroambientais) (C), análise desses dados e informações para a produção da intel igência demandada (A) e sua disseminação para os respectivos usuários (D), conf orme demonstrado pela Figura 2.
+206 Paulo Henrique de Oliveira; Carlos Alberto Gonçalve s; Cleiton Martins Duarte R. Intelig.
+, São Paulo, v. 8, n. 1, p. 200-226, jan./mar.
+ISSN: 2236-210X submetido em: 4/8/2017 aceito em: 7/3/2018 Figura 2 – Perspectiva sistêmica do processo de IC Fonte: Baseado em WEST (2001), MILLER (2002) Quando se analisa a IC como um processo (Figura 2) , observa-se que tal processo começa com o planejamento e a direção de s uas principais etapas.
+É neste momento que as necessidades de inteligência dos dec isores estratégicos são identificadas e a ferramenta 5W1H assume especial a tenção.
+Questões como "quais concorrentes precisam ser monitorados?
+", "quais asp ectos ou sinais merecem maior atenção?
+", "para quem os produtos de inteligência c ompetitiva devem ser entregues e em quais momentos específicos?
+", "como os produtos de inteligência competitiva devem ser disponibilizados?"
+e "porque eles são imp ortantes para a empresa?"
+ajudam a direcionar os esforços dos profissionais responsáve is pelo respectivo processo.
+Com as orientações gerais determinadas, a etapa se guinte se concentra na coleta e armazenamento dos dados e das informações necessá rias para a elaboração dos C AP D Dinâmica Competitiva Processo Estratégico IC 207 Paulo Henrique de Oliveira; Carlos Alberto Gonçalve s; Cleiton Martins Duarte R. Intelig.
+, São Paulo, v. 8, n. 1, p. 200-226, jan./mar.
+ISSN: 2236-210X submetido em: 4/8/2017 aceito em: 7/3/2018 produtos de inteligência competitiva demandados.
+Co mo consequência, a identificação adequada das fontes de informações - primárias e se cundárias – e das tecnologias computacionais tem sido consideradas pelos pesquisa dores como determinantes para o desempenho otimizado das demais etapas do processo de IC.
+E dentre as principais fontes primárias disponíveis para os profissionais de inteligência estão os funcionários da própria empresa (administrativos e operacionais) , consultores e experts externos, clientes, funcionários dos fornecedores e dos própr ios concorrentes, entre outros (HERRING, 2002; MILLER, 2002).
+Já em relação às fon tes secundárias, relatórios, revistas especializadas, sites de empresas, informe s do setor, eventos externos (congressos, seminários, palestras e feiras especia lizadas) e publicações diversas assumem especial atenção (WEST, 2001; MILLER, 2002; LIEBOWITZ, 2006).
+Com os dados e informações coletados e armazenados nos bancos de dados e sistemas computadorizados das empresas, a próxima e tapa do processo de IC volta-se para a recuperação, processamento e análise deles p or meio de métodos e técnicas específicas para esse fim, com especial destaque pa ra o modelo das Cinco Forças de Porter, para as técnicas de Análise de Cenários, pa ra o Benchmarking , para a matriz SWOT (Forças, Fraquezas, Ameaças e Oportunidades, n o português), para os Jogos de Guerra e para os Fatores Críticos de Sucesso.
+Nesta etapa, a contribuição cognitiva dos profissionais da inteligência é determinante para o seu sucesso (MILLER, 2002; PRESCOTT e MILLER, 2002; BERGERON e HILLER, 2002; B ERNHARDT, 2003).
+Com os dados e as informações processados, analisa dos e transformados em produtos de inteligência competitiva pelos profissi onais responsáveis pelas respectivas atividades, a etapa final do processo de IC se enca rrega de atender, rápida e eficazmente, as necessidades de inteligência dos re sponsáveis pela tomada de decisão estratégica das empresas.
+E dentre os principais fa tores que são críticos para o sucesso dessa etapa estão: a entrega dos produtos de inteli gência competitiva no momento 208 Paulo Henrique de Oliveira; Carlos Alberto Gonçalve s; Cleiton Martins Duarte R. Intelig.
+, São Paulo, v. 8, n. 1, p. 200-226, jan./mar.
+ISSN: 2236-210X submetido em: 4/8/2017 aceito em: 7/3/2018 oportuno para os seus respectivos usuários e a efic ácia desses produtos para uma rápida e assertiva tomada de decisão estratégica.
+Para Mil ler (2002), os produtos de inteligência competitiva podem ser repassados duran te as reuniões formais e em conversas de bastidores, além de tecnologias comuni cacionais como e-mails, telefones e teleconferências.
+3 METODOLOGIA Com o propósito de mensurar e comparar a eficiênci a dos processos de IC conduzidos nas unidades de Inteligência Competitiva (DMU`s) das empresas pertencentes à Indústria Digital, a utilização da A nálise Envoltória de Dados (DEA) se tornou a mais adequada ferramenta para este fim.
+Pa ra o processamento dos dados, optou-se pelo modelo DEA-CCR com orientação a inputs .
+E a escolha deste modelo, que considera retornos constantes de escala, levou em consideração os estudos dos diversos autores analisados que demonstraram que os recursos e suas respectivas quantidades podem ser fatores determinantes para a geração e disseminação dos produtos de inteligência competitiva demandados pel os tomadores de decisões estratégicas (KAHANER, 1996; MILLER, 2002; SAURIN et al ., 2013).
+Os dados das respectivas DMU´s foram coletados por meio de um questionário estruturado enviado por e-mail aos profissionais re sponsáveis pela atividade de monitoramento do ambiente competitivo das respectiv as empresas.
+Ao todo, foram selecionadas 16 empresas que trabalham com tecnolog ias da informação e da comunicação instaladas no mercado mineiro há mais d e 10 (dez) anos.
+Nas questões do respectivo questionário, foram util izadas escalas de 5 pontos para a mensuração dos recursos de entrada ( Inputs ) do processo de IC - disponibilidade 209 Paulo Henrique de Oliveira; Carlos Alberto Gonçalve s; Cleiton Martins Duarte R. Intelig.
+, São Paulo, v. 8, n. 1, p. 200-226, jan./mar.
+ISSN: 2236-210X submetido em: 4/8/2017 aceito em: 7/3/2018 de informações (DI), tecnologias informacionais (In fraestrutura Tecnológica - IT) e competências dos profissionais de inteligência (CP) e, de saída do respectivo processo (Output ), a rapidez de disponibilização dos produtos de in teligência competitiva (RA) para os usuários, uma vez que o tempo pode ser dete rminante para o sucesso das estratégias competitivas utilizadas pelas empresas em seus mercados consumidores.
+As variáveis utilizadas foram selecionadas com base nos estudos realizados pelos principais autores da IC discutidos na parte teórica deste trabalho, em que foi demonstrada a importância desses recursos para a re alização do processo de IC.
+É preciso ressaltar que a determinação do recurso de entrada Disponibilidade de Informação foi obtida pela soma dos scores das variáveis solicitadas no questionário: participação em eventos externos e monitoramento da concorrência, por isso os seus escores ultrapassaram o valor de 5 da escala utiliz ada para a mensuração de cada uma das respectivas variáveis.
+Com a finalidade de verificar o grau de associação entre os inputs e output utilizados no modelo, conforme sugestões de Souza et al.
+(2012), realizou-se a análise das correlações existentes entre eles, a qual é apr esentada na Tabela 1.
+Os resultados revelaram que existe uma correlação positiva import ante entre os recursos utilizados e o resultado alcançado, o que confere maior robustez a o modelo utilizado.
+Por último, para a verificação da confiabilidade do questionário uti lizado na pesquisa de campo foi utilizado o Alfa de Cronbach, e o seu valor de 0,83 1 atende às exigências apresentadas por Hair et al.
+210 Paulo Henrique de Oliveira; Carlos Alberto Gonçalve s; Cleiton Martins Duarte R. Intelig.
+, São Paulo, v. 8, n. 1, p. 200-226, jan./mar.
+ISSN: 2236-210X submetido em: 4/8/2017 aceito em: 7/3/2018 TABELA 1 - Análise de correlação – Estatística Não -paramétrica (Índice de Spearman ) Alfa de Cronbach = 0,831 DI IT CP DP Disponibilidade de Informações (DI) 1,000 Infraestrutura Tecnológica (IT) 0,596* 1,000 Competência Profissional (CP) 0,327 0,718** 1,000 Rapidez de Disponibilização (DP) 0,739** 0,664** 0,320 1,000 Fonte: Dados da pesquisa (n=16 empresas) Nota: * Correlação é significante ao nível de 0,05.
+** Correlação é significante ao nível de 0,01.
+(An álises com base no SPSS for Windows , 19.0) O perfil das empresas e dos respectivos respondente s estão apresentados no Quadro 1.
+211 Paulo Henrique de Oliveira; Carlos Alberto Gonçalve s; Cleiton Martins Duarte R. Intelig.
+, São Paulo, v. 8, n. 1, p. 200-226, jan./mar.
+ISSN: 2236-210X submetido em: 4/8/2017 aceito em: 7/3/2018 QUADRO 1 - Perfil das empresas e dos respondentes Unidades de Análise Porte Formação Acadêmica Idade (em anos) DMUa Grande Superior Completo 3 DMUb Micro Superior Incompleto 1 DMUc Média Pós-Graduação 2 DMUd Grande Pós-Graduação 4 DMUe Grande Superior Completo 6 DMUf Grande Superior Incompleto 1 DMUg Grande Superior Incompleto 2 DMUh Pequeno Superior Incompleto 4 DMUi Médio Superior Completo 18 DMUj Médio Pós-Graduação 3 DMUk Grande Técnico 19 DMUl Médio Superior Completo 1,5 DMUm Micro Superior Completo 2 DMUn Grande Pós-Graduação 8 212 Paulo Henrique de Oliveira; Carlos Alberto Gonçalve s; Cleiton Martins Duarte R. Intelig.
+, São Paulo, v. 8, n. 1, p. 200-226, jan./mar.
+ISSN: 2236-210X submetido em: 4/8/2017 aceito em: 7/3/2018 DMUo Pequeno Superior Incompleto 0,6 DMUp Grande Superior Completo 1,5 Porter e formação acadêmica dos respondentes Porte das Empresas Grande .
+12,5% Micro.12,5% Formação Acadêmica Pós-Graduação .
+06,25% Tempo médio na empresa 5 anos Fonte: Dados da pesquisa (n=16 empresas) No Quadro 1, observa-se que a metade das empresas analisadas é de grande porte (50%), as de médio porte corresponderam a 25% da amostra considerada e, as demais empresas, corresponderam a 25%, sendo 12,5% de pequeno porte e 12,5% de micro.
+Quanto à formação acadêmica e o tempo de tra balho dos respondentes nas 213 Paulo Henrique de Oliveira; Carlos Alberto Gonçalve s; Cleiton Martins Duarte R. Intelig.
+, São Paulo, v. 8, n. 1, p. 200-226, jan./mar.
+ISSN: 2236-210X submetido em: 4/8/2017 aceito em: 7/3/2018 respectivas empresas, grande parte deles possui pós -graduação e superior completo (25,0% e 37,50%, respectivamente); 31,5% possuem su perior incompleto e 6,25% são de nível técnico.
+Os profissionais possuem 5 anos d e experiência média com atividades de acompanhamento dos concorrentes.
+4 APRESENTAÇÃO E ANÁLISE DOS DADOS Conforme mencionado, para a análise dos dados utili zou-se o modelo DEA-CCR com retorno constante de escala e orientado a input .
+No processamento desses, por meio do software SIAD v.3.0, obteve-se os escores de eficiência, os pesos das variáveis, as folgas, os alvos e os benchmarks a serem observados pelas empresas menos eficientes para a melhoria dos seus processos de Inteligência Competitiva.
+As eficiências Padrão, Invertida, Composta e Normalizada, bem como, os val ores dos inputs (Disponibilidade de Informações, Infraestrutura Tecnológica e Compet ência dos Profissionais de Inteligência) e do output (Rapidez na Disponibilização dos Produtos de Intel igência Competitiva) estão apresentadas na Tabela 2.
+TABELA 2 – Variáveis do modelo DEA e os escores de eficiência considerados na pesquisa Empresas Input 1 Input 2 Input 3 Output Eficiência (CCR) Orientação INPUT Padrão Invertida Composta Normalizada DMUa 6,00 3,00 3,00 2,00 0,489 0,9 0,294 0,376 214 Paulo Henrique de Oliveira; Carlos Alberto Gonçalve s; Cleiton Martins Duarte R. Intelig.
+, São Paulo, v. 8, n. 1, p. 200-226, jan./mar.
+ISSN: 2236-210X submetido em: 4/8/2017 aceito em: 7/3/2018 DMUb 6,00 2,00 2,00 3,00 0,857 0,533 0,661 0,846 DMUc 5,00 1,00 3,00 2,00 0,667 0,692 0,487 0,622 DMUd 4,00 3,00 2,00 3,00 1 0,5 0,75 0,959 DMUe 8,00 2,00 2,00 2,00 0,571 1 0,286 0,365 DMUf 9,00 4,00 5,00 5,00 0,833 0,52 0,657 0,839 DMUg 7,00 3,00 2,00 4,00 1 0,5 0,75 0,959 DMUh 10,00 5,00 5,00 5,00 0,733 0,6 0,567 0,724 DMUi 6,00 3,00 3,00 3,00 0,733 0,6 0,567 0,724 DMUj 5,00 1,00 2,00 3,00 1 0,436 0,782 1 DMUk 2,00 1,00 2,00 1,00 0,733 0,615 0,559 0,715 DMUl 4,00 4,00 5,00 2,00 0,667 1 0,333 0,426 DMUm 3,00 2,00 4,00 1,00 0,458 1 0,229 0,293 DMUn 7,00 4,00 4,00 4,00 0,815 0,55 0,632 0,809 DMUo 7,00 5,00 4,00 5,00 0,965 0,5 0,732 0,937 DMUp 7,00 5,00 4,00 3,00 0,579 0,833 0,373 0,477 Fonte: Dados da pesquisa (análise por meio do software SIAD v3.0).
+215 Paulo Henrique de Oliveira; Carlos Alberto Gonçalve s; Cleiton Martins Duarte R. Intelig.
+, São Paulo, v. 8, n. 1, p. 200-226, jan./mar.
+ISSN: 2236-210X submetido em: 4/8/2017 aceito em: 7/3/2018 Legenda: Input 1= Disponibilidade de Informações (DI); Input 2= Infraestrutura Tecnológica (IF); Input 3= Competência dos Profissionais de IC (CP); Output = Rapidez na Disponibilização dos Produtos de Inteligência Competitiva (RD).
+Os escores de Eficiência Padrão calculados apontara m três DMUs (d, g e j) como eficientes, sendo quase 20% da população estud ada.
+Isto ocorreu, conforme afirma Barreto e Mello (2012), devido ao aspecto de benevolência da DEA em relação àquelas unidades decisórias que possuem maiores res ultados ( outputs ) ou menores quantidades de insumos ( inputs ).
+Nesse sentido, verificou-se que as respectivas D MUs utilizaram menores quantidades dos input2 e input3 e, ainda assim, obtiveram maiores outputs .
+Para o aumento do poder discriminatório do modelo D EA, foi calculada a Eficiência Invertida, a qual viabilizou a apuração das Eficiências Composta e Normalizada.
+E como consequência, ao considerar os escores identificados na Eficiência Composta, observou-se que a DMU j foi a mais eficiente dentre todas (eficiência = 1 ou 100%).
+A partir dos escores da Eficiência Normalizada é po ssível ranquear as DMUs (BARRETO e MELLO, 2012).
+Assim, verificou-se que a DMU j novamente foi a mais eficiente e as DMUs d e g ficaram empatadas na segu nda posição, pois se igualaram em todos os escores de eficiência apurados.
+Destaca-se , entretanto, que a DMU j foi confirmada como a mais eficiente mesmo não possuind o a maior produção (5º.
+posição), uma vez que utilizou menores quantidades de recursos como infraestrutura tecnológica e competência profissional (2º.
+Os escores de eficiência identificados conferem à D MU j um resultado entre os mais elevados da Eficiência Padrão, menor escore na fronteira de ineficiência (Eficiência Invertida), o que gerou os melhores res ultados nas Eficiências Composta e 216 Paulo Henrique de Oliveira; Carlos Alberto Gonçalve s; Cleiton Martins Duarte R. Intelig.
+, São Paulo, v. 8, n. 1, p. 200-226, jan./mar.
+ISSN: 2236-210X submetido em: 4/8/2017 aceito em: 7/3/2018 Normalizada.
+Trajetórias similares foram seguidas p elas DMUs d e g que com essas combinações ficaram logo abaixo da DMU j, na segund a posição.
+Um aspecto que pode ser observado é em relação aos escores de eficiência das DMUs l e p que trocaram de posição (11 e 12 posiçõe s) na fronteira de eficiência normalizada se comparados aos valores da eficiência padrão, justamente devido ao grau mais elevado de ineficiência da DMU l, que acarreto u rebaixamento desta.
+Outra análise realizada foi sobre os benchmarks das entidades que compõem a amostra.
+Os benchmarks referem-se a apontamentos d e modelos padrões, ou seja: DMU(s) indicada(s) como referenciais para as demais , considerando a Eficiência Padrão.
+Quanto à identificação dos benchmarks das e mpresas estudadas, o resultado é apresentado na Tabela 3.
+Observa-se que na primeira linha da tabela estão da DMUs d, g e j, as quais alcançaram a linha da fronteira Efi ciência Padrão, e na coluna estão dispostas todas as unidades decisórias analisadas f ormando uma matriz.
+Em relação à quantidade de parceiros de referências , verifica-se que a DMU j é a primeira, seguida respectivamente pelas DMUs d e g. Ao analisar os valores apontados na Tabela 3 que correspondem as distâncias a serem percorridas por cada DMU para alcance de seu respectivo parceiro padrão de eficiê ncia, observa-se a DMU j como o benchmark mais indicado a quase todas as empresas, exceto as DMUs d, g, l e m. Essas indicações reforçam a evidência da DMU j como o mel hor padrão de eficiente.
+As DMUs d e g, como atingiram a fronteira da Eficiênci a Padrão, são elas mesmas seus próprios benchmarks.
+As DMUs l e m estão mais próxi mas do padrão de eficiência da DMU d. 217 Paulo Henrique de Oliveira; Carlos Alberto Gonçalve s; Cleiton Martins Duarte R. Intelig.
+, São Paulo, v. 8, n. 1, p. 200-226, jan./mar.
+ISSN: 2236-210X submetido em: 4/8/2017 aceito em: 7/3/2018 TABELA 3 – Resultados de benchmarks Empresas DMUd DMUg DMUj DMUa 0,400 0,000 0,267 DMUb 0,000 0,428 0,428 DMUc 0,000 0,000 0,667 DMUd 1,000 0,000 0,000 DMUe 0,000 0,286 0,286 DMUf 0,833 0,000 0,833 DMUg 0,000 1,000 0,000 DMUh 1,000 0,000 0,667 DMUi 0,600 0,000 0,400 DMUj 0,000 0,000 1,000 DMUk 0,200 0,000 0,133 DMUl 0,667 0,000 0,000 218 Paulo Henrique de Oliveira; Carlos Alberto Gonçalve s; Cleiton Martins Duarte R. Intelig.
+, São Paulo, v. 8, n. 1, p. 200-226, jan./mar.
+ISSN: 2236-210X submetido em: 4/8/2017 aceito em: 7/3/2018 DMUm 0,292 0,000 0,042 DMUn 0,963 0,000 0,370 DMUo 1,579 0,000 0,088 DMUp 0,947 0,000 0,053 Parceiros de referência 11 3 13 Fonte: Dados da pesquisa (análise SIADv3.0).
+Diante dessas análises, outro questionamento releva nte para o conhecimento dos gestores das empresas ineficientes seria: o quanto é preciso reduzir de cada um dos insumos aplicados de forma a elevar o nível de efic iência da empresa, sem prejudicar o nível atual de rapidez de disponibilização de produ tos de inteligência competitiva aos tomadores de decisões estratégicas?
+Para responder essa questão, por meio do SIAD, calc ularam-se as folgas e os alvos para cada DMU em relação às três variáveis inputs utilizadas, conforme apresenta a Tabela 4.
+Como alvos, entendem-se as metas a sere m atingidas pelas DMUs ineficientes para o alcance da fronteira de eficiên cia ótima (posição na fronteira do benchmark de cada respectiva DMU) e, as folgas, a parte do a lvo obtida até o momento pela unidade tomadora de decisão (FERREIRA e GOMES, 2009).
+Observando-se na Tabela 4, os resultados relacionad os à variável input Disponibilidade de Informações sobre os Concorrente s - DI mostram que a DMU f é a que possui a maior meta a ser alcançada: na ordem d e 7,5 para que atinja a fronteira da 219 Paulo Henrique de Oliveira; Carlos Alberto Gonçalve s; Cleiton Martins Duarte R. Intelig.
+, São Paulo, v. 8, n. 1, p. 200-226, jan./mar.
+ISSN: 2236-210X submetido em: 4/8/2017 aceito em: 7/3/2018 eficiência.
+Com metas mais aproximadas, encontram-s e, sequencialmente, as DMUs h, o, n e b.
+As demais DMUs possuem alvos mais baixos.
+Quanto à variável Infraestrutura Tecnológica – IT, os resultados apresentam a DMU o com a maior meta a atingir para alcance da fr onteira da eficiência de 4,8246, seguida de perto pelas DMUs n, h e f, respectivamen te.
+As demais DMUS possuem menores metas.
+TABELA 4 – Folgas e alvos das DMU´s eficientes e in eficientes DMU´s Input 1 - DI Input 2 - IT Input 3 - CP Eficiência (%) Escore Folga Alvo Escore Folga Alvo Escore Folga Alvo A 6 0 2,933 3 0 1,467 3 0,133 1,333 49 B 6 0 5,143 2 0 1,714 2 0 1,714 86 C 5 0 3,333 1 0 0,667 3 0,667 1,333 67 D 4 0 4 3 0 3 2 0 2 100 E 8 1,1429 3,429 2 0 1,143 2 0 1,1429 57 F 9 0 7,5 4 0 3,333 5 0,8333 3,3333 83 G 7 0 7 3 0 3 2 0 2 100 H 10 0 7,333 5 0 3,667 5 0,3333 3,3333 73 220 Paulo Henrique de Oliveira; Carlos Alberto Gonçalve s; Cleiton Martins Duarte R. Intelig.
+, São Paulo, v. 8, n. 1, p. 200-226, jan./mar.
+ISSN: 2236-210X submetido em: 4/8/2017 aceito em: 7/3/2018 I 6 0 4,4 3 0 2,2 3 0,2 2 73 J 5 0 5 1 0 1 2 0 2 100 K 2 0 1,467 1 0 0,733 2 0,8 0,667 73 L 4 0 2,667 4 0,6667 2 5 2 1,333 67 M 3 0 1,375 2 0 0,917 4 1,167 0,667 46 N 7 0 5,704 4 0 3,259 4 0,593 2,667 81 O 7 0 6,754 5 0 4,824 4 0,526 3,333 96 P 7 0 4,053 5 0 2,895 4 0,316 2 58 Fonte: Dados da pesquisa ((análise SIADv3.0).
+Já em relação à Competência dos Profissionais (CP) que atuam no processo de IC, os resultados apontam as três DMUs o, h, f com a maior e igual meta a atingir para alcance da fronteira da eficiência na ordem de 3,33 33.
+Seguidas de perto pela DMU n. As outras DMUs possuem metas reduzidas.
+Analisando os resultados dos alvos nas três variáve is de inputs percebe-se que as DMUs f, h e o são aquelas que apresentam as maiores metas de redução em todos os fatores de insumos considerados sendo, portanto, as que precisam maior esforço na diminuição dos insumos utilizados para melhoramento do nível de eficiência.
+221 Paulo Henrique de Oliveira; Carlos Alberto Gonçalve s; Cleiton Martins Duarte R. Intelig.
+, São Paulo, v. 8, n. 1, p. 200-226, jan./mar.
+ISSN: 2236-210X submetido em: 4/8/2017 aceito em: 7/3/2018 5 CONSIDERAÇÕES FINAIS Levando-se em consideração o valor estratégico dos produtos de inteligência competitiva para os gestores das empresas que enfre ntam ambientes competitivos complexos, dinâmicos e hostis, objetivou-se com est e estudo verificar a eficiência das empresas da Indústria Digital de Minas Gerais em em pregar, adequadamente, os recursos informacionais, humanos e tecnológicos dis poníveis nas atividades de geração e disseminação dos produtos de inteligência competi tiva para os seus respectivos usuários (tomadores de decisões estratégicas).
+Para tanto, utilizou-se da Análise Envoltória de Da dos (DEA) com os seguintes fatores de entrada ( inputs ): (a) disponibilidade de dados e informações sobre o ambiente competitivo; (b) recursos tecnológicos especializad os ( hardwares e softwares ); e (c) competência dos profissionais de IC.
+Quanto ao resu ltado do processo de IC ( output ), optou-se pelo indicador "rapidez" de disponibilizaç ão dos produtos de inteligência competitiva porque o tempo é considerado um dos fat ores que determinam o sucesso ou fracasso competitivo das empresas que enfrentam amb ientes de acirrada competição.
+Os resultados apontaram apenas três DMUs como efici entes (d, g e j), considerando a Eficiência Padrão.
+Almejando maior d iscriminação desse resultado, calculou-se a Eficiência Invertida e, a partir dest a, a Normalizada, que indicou apenas a DMU j como a mais eficiente dentre as demais, segui da de perto pelas DMUs d, e e g. Apesar de a DMU j não possuir a maior produção (5º.
+posição), ela apresentou o maior nível de eficiência devido ao menor consumo dos rec ursos disponíveis, com especial destaque para os da infraestrutura tecnológica e da competência profissional (2º.
+222 Paulo Henrique de Oliveira; Carlos Alberto Gonçalve s; Cleiton Martins Duarte R. Intelig.
+, São Paulo, v. 8, n. 1, p. 200-226, jan./mar.
+ISSN: 2236-210X submetido em: 4/8/2017 aceito em: 7/3/2018 A partir desses resultados, observa-se que as DMUs mais eficientes na produção da inteligência competitiva demandada pelos tomador es de decisões estratégicas são efetivamente aquelas que aplicam, adequadamente, o portfólio de recursos que dispõem para a disseminação rápida e eficaz desses produtos aos seus respectivos usuários, o que corrobora o valor estratégico conferido por muitos teóricos da IC aos respectivos recursos.
+Assim, a aplicação da ferramenta DEA para o estudo da eficiência dos processos de IC das empresas selecionadas foi satisfatória, v isto que apontou aquelas consideradas como padrão de eficiência ( benchmarks ) e demonstrou quais recursos precisam ser melhor gerenciados para a produção eficiente e diss eminação rápida dos produtos de inteligência competitiva demandados.
+No caso das em presas da Indústria Digital, o investimento em infraestrutura tecnológica demonstr ou-se ser o principal desafio dos gestores, uma vez que este tipo de recurso é o que mais influencia o nível de eficiência dos processos de IC analisados.
+A principal limitação deste trabalho decorre do fat o dos resultados obtidos não poderem ser generalizados para as demais empresas q ue atuam na Indústria Digital, pois a DEA é uma técnica não-paramétrica que compara a e ficiência de um conjunto restrito de unidades de análise (DMUs).
+Também não foram con siderados nas análises fatores como porte das empresas, tempo de mercado (idade) e condicionantes exógenos aos processos de IC, com especial destaque para a cultu ra organizacional, nível de consciência dos demais funcionários quanto à import ância da IC e apoio da alta administração, o que poderá ser observado em futura s pesquisas acadêmicas sobre o tema.
+223 Paulo Henrique de Oliveira; Carlos Alberto Gonçalve s; Cleiton Martins Duarte R. Intelig.
+, São Paulo, v. 8, n. 1, p. 200-226, jan./mar.
+ISSN: 2236-210X submetido em: 4/8/2017 aceito em: 7/3/2018 EFFICIENCY ON COMPETITIVE INTELLIGENCE WITH APPLICATION OF DATA ENVELOPMENT ANALYSIS (DEA): A STUDY IN THE DIGITAL INDUSTRY ABSTRACT The objective of this study is to identify quantita tively the efficiency of organizations Industry Digital of Minas Gerais in properly employ human resources, technological and informational available in competitive intellig ence process.
+Therefore, we used the data envelopment analysis (DEA).
+The results indica ted the company "j" as the most efficient, suggesting that the company more efficie nt in the production of IC is effectively one that best utilizes the resources av ailable to it and thus supporting the argument that these resources are decisive factors in the rapidity distribution of the products of IC advocated by several authors.
+The ap plication of DEA to study the efficiency of competitive intelligence in the proce sses of the selected companies was satisfactory, as pointed organizations considered e fficiency standards (benchmark) and have shown what resources need to be better managed for the efficient production of intelligence products defendants.
+Keywords : Competitive Intelligence.
+REFERÊNCIAS ANGULO MEZA, L.; BIONDI NETO, L.; SOARES DE MELLO, J. C. C. GOME, E. G. ISYDS – Integrated System for Decision Support ( SIAD - Sistema de Apoio à Decisão): A Software Package for Data Envelopment A nalysis Model.
+Pesquisa Operacional , v. 25, n. 3, p.493-503.
+224 Paulo Henrique de Oliveira; Carlos Alberto Gonçalve s; Cleiton Martins Duarte R. Intelig.
+, São Paulo, v. 8, n. 1, p. 200-226, jan./mar.
+ISSN: 2236-210X submetido em: 4/8/2017 aceito em: 7/3/2018 BARRETO, A. S.; SOARES DE MELLO, J. C. C. Benchmark s de Eficiência no Processamento de Petróleo com Produtos Químicos.
+Relatórios de Pesquisa em Engenharia de Produção , v. 12, n. 4, p. 41-52.
+Annual Review of Information Science and Technology , vol.
+BERNHARDT, D. Competitive Intelligence : how to acquire and use corporate intelligence and counter-intelligence.
+CHARNES, A.; COOPER, W. W.; RHODES, E. Measuring th e efficiency of decision making units.
+European Journal of Operational Research , v.2, n.6, p.429-444, 1978.
+D'AVENI, R. A.; DAGNINO, G. B.; SMITH, K. G. The Ag e of Temporary Advantage.
+Strategic Management Journal , v. 31, n. 13, p. 1371-1385, 2010.
+FERREIRA, C. M. C.; GOMES, A. P. Introdução à Análise Envoltória de Dados : Teoria, Modelos e Aplicações.
+The new competitor intelligence .
+HAIR JUNIOR, J. F.; ANDERSON, R. E.; TATHAM, R. L.; BLACK, W. C. Análise multivariada de dados.
+225 Paulo Henrique de Oliveira; Carlos Alberto Gonçalve s; Cleiton Martins Duarte R. Intelig.
+, São Paulo, v. 8, n. 1, p. 200-226, jan./mar.
+ISSN: 2236-210X submetido em: 4/8/2017 aceito em: 7/3/2018 HERRING, J. P. Tópicos fundamentais de inteligência : processo para identificação e definição de necessidades de inteligência.
+In: PRES COTT, John E.; MILLER, Stephen H. Inteligência Competitiva na Prática .
+Editora Campus, São Paulo, 2002. p.274-291.
+KAHANER, L. Competitive Intelligence : how to gather, analyze, and use information to move your business to the top.
+Strategic intelligence : business intelligence, competitive intelligence, and knowledge management.
+MILLER, J. P. O milênio da Inteligência Competitiva .
+PRESCOTT, John E.; MILLER, Stephen H. Inteligência Competitiva na Prática .
+Editora Campus, São Paulo, 2002.
+SAURIN, V.; LOPES, A. L. M.; COSTA JUNIOR, N. C. A. ; GONÇALVES, C. A. Medidas de Eficiência e Retorno de Investimento: um Estudo nas Distribuidoras de Energia Elétrica Brasileiras com Base em Data Envelopment Analysis , Índice de Malmquist e ROI .
+REA - UFSM , v. 6, n. 1, 2013, p. 25, 38.
+SIRMON, D. G.; HITT, M. A.; ARREGLE, J-C.; CAMPBELL , J. T. The dynamic interplay of capability strengths and weaknesses: i nvestigating the bases of temporary competitive advantage.
+Strategic Management Journal , v.31, p.1386-1409, 2010.
+SOUZA, F. J. V.; SILVA, M. C.; ARAUJO, A. O. Anális e da Eficiência dos Gastos Públicos em Educação dos Municípios do Estado do Ri o Grande do Norte nos anos de 2007 e 2009.
+VII Congresso USP de Controladoria e Contabilidade .
+226 Paulo Henrique de Oliveira; Carlos Alberto Gonçalve s; Cleiton Martins Duarte R. Intelig.
+, São Paulo, v. 8, n. 1, p. 200-226, jan./mar.
+ISSN: 2236-210X submetido em: 4/8/2017 aceito em: 7/3/2018 TYSON, K. W.M.
+The complete guide to competitive intelligence .
+Lisle (Chicago): Kirk Tyson International, 1998.
+WEST, C. Competitive intelligence .

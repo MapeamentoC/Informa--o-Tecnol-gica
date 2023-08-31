@@ -1,0 +1,320 @@
+, Ponta Grossa, v. 13, n. 3 , p. 213-236, set./nov.
+Página | 213 Impacto dos investim entos em inovação na indústria brasileira RESUMO Marcel Groppo de Campos marcel_groppo@hotmail.com KPMG , São Paulo , São Paulo , Brasil David Ferreira Lopes Santos david.lopes@fcav.unesp.br Universidade Estadual Paulista (UNESP ), Jaboticabal , São Paulo, Brasil Frederico Andreis Beneli Donadon fredadministracao@bol.com.br Centro Estadual de Educação Tecnológica Paula Souza (CEETEPS/ETEC ), Taquaritinga , São Paulo, Brasil Este estudo analisou os impactos da capacidade de inovar da indústria brasileira, a partir dos resultados consolidados dos 33 setores industriais do país entre os anos de 1998 a 2011.
+Foi elaborada uma base de dados com informações publicadas da Pesquisa de Inovação Tecnológica (PINTEC/IBGE) nas edições de 2000, 2003, 2005, 2008 e 2011.
+Os dados foram analisados por meio da anál ise de regressão com dados em painel balanceado, por meio da técnica de Mínimos Quadrados Ponderados.
+Considerou -se os investimentos em inovação como um recurso empresarial e os impactos foram analisados para quatro dimensões: produto, processo, mercado e custos.
+Verificou -se que o investimento total em inovação tem impacto significativo e positivo nas dimensões de produto, mercado e parcialmente em custos.
+As análises individuais dos investimentos em inovação direcionam para diferentes estratégias setoriai s de inovação e proporcionam novos 'insights' para compreensão dos efeitos de recurso no desempenho setorial.
+PALAVRAS -CHAVE: Capacidade de Inovar.
+, Ponta Grossa, v. 13, n. 3 , p. 213-236, set./nov.
+Página | 214 INTRODUÇÃO A indústria brasileira tem perdido espaç o na composição do Produto Interno Bruto do país nos últimos anos e a redução da competitividade das empresas nacionais frente ao mercado internacional é a principal causa, conforme aponta estudo da Boston Consulting Group (BCG, 2014).
+Um dos vetores apont ados para a retomada do crescimento da indústria nacional e a busca por um posicionamento de liderança ou de elevada competitividade no mercado global é o investimento em inovação (ARRUDA, VERMULM e HOLLANDA, 2006; FISCHER et al., 2009; CNI, 2010; SOARES e t al., 2016).
+No âmbito acadêmico, a estratégia baseada em inovação é defendida por diferentes autores como Besanko et al.
+(2006) e Freeman e Soete (1997).
+Mas, conforme salientam Ernst (2000) e Gianezini et al.
+(2012), há grande dificuldade por parte do s países em desenvolvimento em expandir seu sistema nacional de inovação, pois a maioria das indústrias têm suas estruturas produtivas integradas às empresas multinacionais, de modo que a atuação das organizações ocorre em cadeias globais e por vezes, suas estratégias podem ser classificadas como dependentes das empresas líderes no mercado global (FREEMAN e SOETE, 1997).
+(2011) mudanças econômicas recentes e o progresso tecnológico a partir de novas fronteiras científicas modificam e intensificam o processo de inovação tecnológica em uma ampla gama de atividades econômicas, em especial nas indústrias de baixa e média tecnologia.
+O autor ainda relata que o resultado desse contexto de modificação é a necessidade indispensável é a abso rção de tecnologias de alta complexidade, seja através do desenvolvimento interno ou por meios externos de inovação.
+Santos (2012) analisou o perfil da indústria brasileira para os anos de 2000, 2003 e 2005 quando observou alta intensidade de investimentos em inovação na aquisição de máquinas e equipamentos, sendo que o investimento médio por empresa caiu no período, assim como, igualmente, a quantidade de pessoas dedicadas à Pesquisa e Desenvolvimento (P&D) no interior das empresas.
+Por outro lado, sabe -se que existem empresas brasileiras e até setores que são altamente competitivos no cenário internacional e que têm na inovação um dos pilares para sua competitividade.
+Essa situação sugere, conforme apontam Franka et al., (2016) uma intensa desigualdade no s investimentos em inovação nas empresas brasileiras.
+Nessa direção, acredita -se que a média incipiente dos investimentos em inovação na indústria nacional esteja impactando de forma negativa o desempenho do agregado, mesmo que algumas empresas ou setores estejam fora desta tendência (SANTOS, 2012).
+Em estudos mais amplos, Lazzarotti (2012) e Santos et al.
+(2014) verificaram que os investimentos nos recursos que formam a inovação exercem impacto no desempenho inovador das empresas, no entanto, os re flexos no desempenho financeiro são controversos.
+Segundo Morganti (2005) e Santos et al.
+(2014) os resultados dos estudos empíricos ainda são limitados, tendo como principais dificuldades o tratamento metodológico das variáveis, bem como a própria definição das variáveis explicativas, tendo em vista a al ta correlação existente entre os construtos criados para definir inovação.
+Também, parte da limitação dos resultados das pesquisas no Brasil refere -se à base de dados concernentes à inovação no Brasil R. Gest.
+, Ponta Grossa, v. 13, n. 3 , p. 213-236, set./nov.
+O Instituto Brasileiro de Geografia e Estatística (IBGE) publica trienalmente a Pesquisa de Inovação Tecnológica (PINTEC).
+No período desta pesquisa (2015/2016) contava -se com cinco edições publicadas: 2000, 2003, 2005, 2008 e 2011.
+Os dados agregados da PINTEC podem ser acessados junto ao dom ínio eletrônico do IBGE e as estratificações podem ser realizadas por setor, porte da empresa e região.
+A metodologia adotada pela PINTEC é a mesma da Community Innovation Survey, utilizada na União Europeia, e tem como fundamento conceitual as premissas p ropostas no Manual de Oslo (PINTEC, 2011).
+A importância estratégica da inovação para as empresas justifica o contínuo aumento das pesquisas nessa área (BECHEIKH et al., 2006; ZANELLO et al., 2016).
+No entanto, ainda não há um modelo preciso para um proces so bem sucedido em inovação, ao nível da firma ou setorial (GOEDHUYS et al., 2014).
+Assim, as atividades em inovação são fatores críticos no desempenho da capacidade de inovar das empresas (SANTOS, BASSO, KIMURA, 2012).
+Por conseguinte, é importante identi ficar e compreender os fatores que determinam o recurso inovação e o seu impacto nos resultados empresariais (CALABRESE et al ., 2013; ZANELLO et al., 2016).
+Diante deste contexto, a motivação que originou esse trabalho foi: Qual o impacto dos investimentos em inovação na indústria brasileira?
+As considerações anteriormente mencionadas justificaram o objetivo deste estudo que foi o de avaliar, de maneira agregada, os impactos da capacidade de inovar da indústria brasileira a partir dos resultados consolidado s por setores industriais das edições 2000, 2003, 2005, 2008 e 2011 da PINTEC/IBGE.
+Além da presente introdução, a seção 2 apresenta a fundamentação teórica que suporta o tema e análise dos resultados A seção 3 compreende os procedimentos metodológicos ut ilizados para obtenção dos resultados e exploração dos resultados, os quais são apresentados e discutidos na quarta seção.
+As considerações finais encerram o estudo com as implicações teóricas, empresariais e ao nível de políticas públicas.
+FUNDAMENTAÇÃO T EÓRICA O referencial teórico deste trabalho visou abordar primeiramente a teoria da inovação, expondo a evolução do conceito inovação, os tipos de inovação existentes e a sua estrutura enquanto um recurso organizacional que precisa estar inserido nas estra tégias empresariais.
+TEORIA DA INOVAÇÃO Schumpeter (1988) teve um papel pioneiro no entendimento e definição do termo "inovação", a partir da diferenciação desta com 'invenção', pois torna claro que invenção é uma concepção para um inédito ou melhorado pro duto, processo ou sistema; e a inovação, na sua concepção econômica, somente é finalizada quando gera riqueza, por meio de uma transação comercial, envolvendo uma invenção.
+Nessa concepção, o referido autor divide a inovação em três partes: a invenção (o i nício da ideia que visa a exploração comercial), R. Gest.
+, Ponta Grossa, v. 13, n. 3 , p. 213-236, set./nov.
+Página | 216 inovação (exploração comercial) e a difusão (disseminação de novos produtos e processos pelo mercado).
+Tigre (2005) enfatizou que, a partir do momento em que foi percebido que a adoção de novas tecnologias t raria a possibilidade de crescimento econômico, um novo contexto foi estabelecido: o avanço da incorporação de inovações nas organizações, no modelo capitalista, passou pela introdução de novas tecnologias, novos conceitos, novos processos, novo modelo de gestão, novas pessoas e novas ideias.
+O Manual de Oslo (2007) define em quatro dimensões as inovações, sendo elas: inovações de produto, inovações de processo, inovações organizacionais e inovações de marketing.
+Segundo Souza e Faria (2013) inovação em pr oduto é quando uma empresa disponibiliza ao mercado bens e serviços novos ou significativamente melhorados, aprimorando sua forma e capacidade de uso.
+Ao atender as necessidades dos clientes e/ou mercado lançando novos produtos ou serviços, a empresa em qu estão terá um maior destaque comparado com outras empresas com quem compete (GONÇALVES FILHO, VEIT e MONTEIRO, 2013).
+Inovação de processo é definida como um conjunto de tarefas que segue uma sequência temporal e que, para uma empresa ser considerada inova dora, precisa possuir a habilidade de agrupar e colocar em prática processos de inovação, ou seja, iniciá -los, gerenciá -los e executá -los de forma regular, visando resultados (BES e KOTLER, 2011).
+(2012) expõem que inovar em processos é acr escentar um novo processo de produção, um novo complexo de distribuição, novas teorias sobre logística e suprimentos, repensar seus bens e serviços ou adicionar inéditos significados que os alterem.
+A inovação mercadológica é uma classificação mais recente e está associada as evoluções nas estratégias e práticas da área de marketing orientadas para a busca de diferenciação de bens e serviços como forma de criar diferenças em relação aos concorrentes significativas para os clientes (GIANEZINI et al., 2012; SHOU et al.
+, 2014), Para Bes e Kotler (2011) as mudanças nas estruturas organizacionais são de extrema importância para que as mesmas saiam da inércia e gerem atividades que resultem em modificações nos seus processos, produtos e serviços, acarretando ganho de competitividade, mesmo que haja resistência por parte dos funcionários da empresa.
+Empresas que se posicionam em mercados com alto grau de competitividade têm a necessidade de investir com continuidade na aquisição e no desenvolvimento de capacidades inovadoras.
+São estas capacidades que, além de manter a empresa no mercado, impulsionam os negócios e possibilitam a criação de novos produtos, novos processos produtivos, aperfeiçoamento da organização e utilização de novos projetos de marketing (RAMOS e ZILBER, 2015).
+INVESTIMENTOS EM INOVAÇÃO Segundo o Manual da PINTEC (2011), atividade inovativa é toda aquela relacionada à inovação de processo e ou produtos, ou seja, etapas científicas, tecnológicas, organizacionais e comerciais, todas necessárias para o desenvolvimento e implementação de produtos e processos novos ou R. Gest.
+, Ponta Grossa, v. 13, n. 3 , p. 213-236, set./nov.
+Ainda, tomando como base o referido material (PINTEC, 2011), há uma divisão das atividades inovativas, conforme sequência: i) Pesquisa e Desenvolvimento (P&D): uma atividade que tem como característica um elemento inédito e a resolução de um problema científico e/ou tecnológico; o P&D engloba a pesquisa básica (novos conhecimentos sem um objetivo ou utilização determinada), a pesquisa aplicada (novos conhecimentos, mas com ob jetivo específico) e desenvolvimento experimental (trabalho realizado em conhecimentos já existentes para a produção de novos materiais e produtos, novos processos, sistemas e outros).
+ii) Aquisição externa de P&D: atividade delegada a terceiros, que exerc em as atividades de P&D para a empresa contratante.
+iii) Aquisição de outros conhecimentos externos, dentre eles: patentes, invenções não patenteadas, licenças, know -how, marcas registradas, serviços de consultoria e acordos de transferência de tecnologia.
+iv) Aquisição externa de software: tem como finalidade a inserção de novos produtos ou processos aperfeiçoados.
+v) Aquisição de máquinas e equipamentos: tem como objetivo a implementação de novos produtos e processos, com a possibilidade de melhoria no de sempenho tecnológico ou de transformar -se em um meio para a implementação de novos produtos.
+vi) Treinamento, aqui considerados apenas treinamentos voltados para desenvolvimento de novos produtos ou processos.
+vii) Introdução das inovações tecnológicas par a a produção e distribuição: englobam procedimentos e preparações técnicas para efetivar a implementação de inovações de processos e produtos, não expostos nos itens anteriores.
+Estudos realizados por Santos (2012) e Santos, Basso e Kimura (2012), com o objetivo de apontar e observar como são estruturados os mais importantes elementos que compõem a capacidade de inovar das empresas brasileiras, trouxeram à tona informações importantes sobre algumas variáveis inovativas: no ano de 2000 o item Conhecimento Ex terno apresentou uma participação de 0,46% da receita das empresas; já no ano de 2003 essa variável saltou para 10,78% e em 2005 apurou -se uma participação de 13,66% da receita.
+Ainda, tomando como base as informações do referido autor, o dispêndio em P&D interno dividido pela receita da firma apresentou um grande crescimento, a considerar a comparação entre os anos de 2000 e 2003, num salto de 0,16% para 10,78%.
+Porém, Santos (2012) observou que a estrutura de inovação das empresas brasileiras no ano em questão estava voltada para a aquisição ou desenvolvimento de inovação externo à empresa, ou seja, investimentos em P&D externo e a aquisição de conhecimentos externos foram maiores que os dispêndios voltados para o desenvolvimento interno das firmas.
+Figu eiredo (2011) afirma que o investimento em P&D tem forte ligação com a capacidade inovadora da empresa, onde a aprendizagem organizacional contribui para impulsionar o desempenho e os resultados econômicos do negócio.
+Investimentos em P&D são insumos para a construção de novos conhecimentos que em certo tempo poderão, ou não, transformar -se em R. Gest.
+, Ponta Grossa, v. 13, n. 3 , p. 213-236, set./nov.
+O processo de inovação engloba as atividades de introdução, desenvolvimento e lançamento de novidades nas organizações (OECD, 2005).
+(2015) as restrições de recursos das firmas acabam por transformar o investimento em P&D em um investimento muito seletivo; empresas com características mais desenvolvidas empregam os recursos de P&D com maior eficiência e com o intuito de movimentar a "fro nteira tecnológica" do setor que atuam.
+Já ao analisar firmas com baixo nível de aprendizado tecnológico, ao deslocar a fronteira tecnológica, a consequência desse deslocamento acarreta em aumento da sua distância relativa, elevando os custos de oportunid ade destes investimentos e diminuindo a eficácia dos resultados, pois as estratégias de imitação elevam a concorrência pelos recursos (FISCHER et al., 2009; COAD, 2011).
+Hall, Lotti e Mairisse (2012) salienta que investimentos em P&D e investimentos em capital físico apresentam algumas características diferentes, já que a composição do investimento em P&D envolve elevados montantes do investimento em salários de mão de obra altamente especializada e treinada.
+Devido a essa composição, a maioria do conhec imento criado passa a ser intangível e incorporado aos engenheiros e pesquisadores.
+Sendo assim, a posse do conhecimento não reside somente na empresa, o que cria uma necessidade em elaborar contratos para esses investimentos, para que os funcionários que tenham o conhecimento continuem trabalhando na empresa.
+Assim, segundo estudo realizado por Jacoski et al.
+(2014), os problemas que mais dificultam o processo de inovação em ordem de importância são: a falta de pessoal qualificado, custos elevados, riscos econômicos excessivos, dificuldade para se adequar a padrões, normas e regulamentações e escassas possibilidades de cooperação com outras indústrias/instituições.
+Quanto a investimentos em inovação no Brasil, Maçaneiro e Cherobin (2009) e Bueno e Torkomian (2015) salientam que nos últimos anos políticas mais sistemáticas vêm sendo realizadas para dar apoio nas atividades de PD&I, que têm como objetivo incentivar as empresas a criarem estratégias de inovação de produto, processos, de forma de uso, de distrib uição e de comercialização, visando assim alcançar níveis superiores de desenvolvimento e geração de renda.
+Estudo do IPEA (2013) sobre dados da PINTEC (2011 ) denotam que a taxa de inovação, indicador este que avalia a relação entre o número de empresas qu e realizaram pelo menos uma inovação e o total de empresas pesquisadas em um período considerado no Brasil, mostraram que, observado unicamente o setor industrial, após uma elevação do indicador nas quatro últimas pesquisas de 31,54% para 38,11% (período 1 998-2008), tem -se uma queda desse indicador para 35,56% (período 2009 -2011).
+Ainda sobre o estudo realizado pelo IPEA (2013) os dispêndios com P&D em 2011 somaram R$ 24,24 bilhões; desse montante 19,95 bilhões representam gastos em atividades internas de P &D. Comparado com o PIB brasileiro, o dispêndio em P&D representa 0,59% do PIB, um aumento de 0,01% em relação à edição anterior da PINTEC, do ano de 2008.
+Observa -se, ainda, como característica do Brasil, que há um grande número de compras de máquinas e e quipamentos visando esforço inovativo das R. Gest.
+, Ponta Grossa, v. 13, n. 3 , p. 213-236, set./nov.
+Página | 219 empresas, com o suporte do BNDES (FAPESP, 2011), situação essa que se contrapõe aos países da Europa, onde os maiores gastos se concentram em P&D interno (OECD.
+Estudo realizado por Oliveira (2015) e que tomou como referência dados da PINTEC das edições 2000, 2004, 2005 e 2008 evidencia que as premissas "escassez de fontes apropriadas de financiamento", "elevados custos de inovação" e "riscos econômicos excessivos" foram os motivos que as empresas destacaram como sendo de alto e médio riscos.
+Bahia e Sampaio (2015) destacou que, no Brasil, os gastos públicos, ao englobarem principalmente investimentos em P&D acadêmicos, não resultam em entusiástica criação de inovação efetiva, sendo necessária maior aproximação das universidades e institutos de pesquisa com as empresas que são as entidades que devem liderar a geração de inovação dentro do conceito schumpteriano.
+RESULTADOS DA INOVAÇÃO Lazzaroti (2012) explicou que a mensuração do processo inovativo é profunda e aspectos como o dinamismo da inovação e o contexto socioeconômico dos países em que a empresa atua acabam por desestruturar as métricas obtidas em pesquisas de inovação; há anos indicadores de inovação estavam relacionados ao departamento de P&D , ou seja, gastos com pesquisa e desenvolvimento e número de funcionários que trabalham no departamento.
+(2014) pode -se utilizar duas ferramentas para avaliar a inovação: a primeira delas é o Manual de Oslo, criado e aperfeiçoado pel o Eurostat e pelo manual OCDE, e que objetiva à mensuração e interpretações de informações associadas a Ciência, Tecnologia e Inovação, ou seja, oferecer explicações para a coleta e interpretação de dados sobre inovação.
+A segunda ferramenta é a PINTEC, pe squisa elaborada pelo IBGE com o auxílio da Finep e MCTI, tendo como principal diretriz saber sobre as atividades inovativas elaboradas nas empresas industriais, de telecomunicação, de informática e de pesquisa e desenvolvimento, de modo a escoltar sua evo lução no tempo.
+A inovação pode impactar de várias maneiras o ambiente e a própria empresa: pode alterar seu faturamento de acordo com o grau de novidade dos produtos, pode manter ou aumentar a participação da mesma no mercado em que está inserida, desenvo lver novos mercados, desenvolver novos produtos ou processos que reduzam o impacto sobre o meio ambiente e, ainda, criar processos ou produtos com mais segurança, seja para o consumidor ou para os próprios funcionários (PINTEC 2011).
+Lazzaroti (2012) salie nta que P&D tem um papel importantíssimo no processo de avaliação de inovação, mas ressalta que ele não engloba outros gastos de inovação e de atividades informais e, raramente, consegue compreender outros tipos de inovação, como a organizacional, a de mar keting e na área de serviço.
+Miranda, Gallon e Nogueira (2011) procuraram identificar o surgimento da relação entre a inovação e o desempenho econômico empresarial, usando os indicadores ROA (retorno sobre o ativo), ROE (retorno sobre investimento), ROS (retorno sobre vendas), RPL (retorno sobre patrimônio líquido) e GI (giro do R. Gest.
+, Ponta Grossa, v. 13, n. 3 , p. 213-236, set./nov.
+Página | 220 investimento), de companhias listadas na BM&FBOVESPA e integrantes do ranking setorial de inovação proposto pelo Índice Brasil de Inovação (IBI).
+Os autores se basearam em investim entos em marketing não rotineiros, treinamentos, software e despesas correntes em P&D, entre outros, como representantes da inovação; como resultado do estudo encontrou -se uma ligação favorável entre investimentos em ativos intangíveis e alguns indicadores econômicos.
+Segundo Fernandes , Lourenço e Silva (2014) a introdução de um sistema de Gestão de Qualidade Total tem resultado favorável sobre a gestão do processo de inovação e que, também, o ato de revisão contínua de processos provoca a melhoria no dese mpenho do processo de inovação.
+Esses apontamentos reforçam a importância de inovações no modelo organizacional e práticas de gestão.
+Sawhney, Wolcott e Arroniz (2006) assinalam que o processo de inovação só é relevante quando há a criação de valor tanto p ara o cliente como para a empresa, ou seja, ao compreender o público -alvo e desencadear ideias com agentes externos à empresa, a companhia cria soluções mais condizentes com a demanda e, assim, acaba por oferecer produtos e serviços que melhor atendam ao p úblico, alcançando maior competitividade do que empresas que não inovam.
+Ainda, segundo De Oliveira et al.
+(2014) a mensuração da inovação e dos seus resultados é de extrema importância para que empresas e instituições como forma de orientação ao seu proce sso de gestão e avaliação das estratégias utilizadas.
+MATERIAL E MÉTODOS A natureza desse estudo é descritiva, a partir de dados secundários oriundos das edições publicadas da Pesquisa de Inovação Tecnológica realizada pelo Instituto Brasileiro de Geografia e Estatística (PINTEC/IBGE).
+Os dados foram analisados por meio da análise multivariada de Regressão com dados em painel balanceado.
+MATERIAL A estrutura da pesquisa promovida pelo IBGE tem por referência conceitual o Manual de Oslo e segue o mo delo aplicado pela "Oficina Estatística da Comunidade Europeia – EUROSTAT, a terceira versão da Community Innovation Survey – CIS 1998 – 2000" (IBGE, 2007, p. 13).
+A pesquisa do IBGE tem por objetivo construir indicadores setoriais, nacionais e regionais d o processo de inovação das firmas instaladas no Brasil.
+O IBGE estruturou a pesquisa da PINTEC para as empresas que afirmaram ser inovadoras em 8 blocos, a saber: Atividades Inovativas, Fontes de Financiamento, Atividades Internas de P&D, Impacto das Inova ções, Fontes de Informação, Cooperação para Inovação, Apoio do Governo e Patentes e Outros Métodos de Inovação (IBGE, 2007).
+Para efeitos desta pesquisa, três blocos serão importantes: Atividades Inovativas, Atividades Internas de P&D e Impacto das Inovaçõ es.
+, Ponta Grossa, v. 13, n. 3 , p. 213-236, set./nov.
+Página | 221 Atividades inovativas e P&D Interno são mensurados pelo número de empresas que realizaram e pelos valores monetários investidos.
+Os indicadores existentes na PINTEC são: Atividades internas de P&D; Aquisição externa de P&D; Aquisição de máquinas e equi pamentos; software; outros conhecimentos externos; Treinamento; Introdução das inovações tecnológicas no mercado; Projeto industrial e outras preparações técnicas para a produção e distribuição.
+Na sequência os Quadros 1 e 2 apresentam as variáveis utiliza das nessa pesquisa, tomadas diretamente da PINTEC/IBGE e que seguem a literatura das principais surveys sobre inovação (SANTOS et al., 2014): Quadro 1 - Variáveis Dependentes a) Dimensão Produto ) (_Baixa Média AltaAltaQualidade Melhoria ) (Pr_Baixa Média AltaAltaodutos Novos b) Dimensão Mercado ) (_Baixa Média AltaAltaMercado Part ) (_Baixa Média AltaAltaMercados Novos c) Dimensão Processo ) (Pr_Baixa Média AltaAltaodução Capacidade ) (PrBaixa Média AltaAltaodução adede Flexibilid d) Dimensão Custos ) (Pr_Baixa Média AltaAltaodução Custos ) (_Baixa Média AltaAltaTrabalho Custos ) (_ ReBaixa Média AltaAltaimpacto dução ) (Pr_ _Baixa Média AltaAltaima Matéria Custos Fonte: Elaborado pelos autores (2017) Quadro 2 - Variáveis Independentes ceitaPD DispêndioInterno PDRe)(_ ceitaExterno PD DispêndioExterno PDRe) _ (_ ceitaSoftware DispêndioSoftwareRe) ( ceitaExternoto Conhecimen Dispêndioto ConhecimenRe) _ ( ceitao Treinament Dispêndioo TreinamentRe) ( ceitaInovação Introdução DispêndioInovação IntroduçãoRe) _ (_  ceitas Industriai ojetos Dispêndios Industriai ojetosRe) _ (Pr_ Pr  ceitaMáquinas Aquisição DispêndioMáquinas AquisiçãoRe) _ (_  Fonte: Elaborado pelos autores (2017) Ressalta -se a abrangência crescente da PINTEC que em 2000, 2003, 2005, 2008 e 2011 alcançaram, respectivamente, 72.005, 84.262, 95.301, 106.862 e 128.699 empresas, em 33 segmentos industriais.
+, Ponta Grossa, v. 13, n. 3 , p. 213-236, set./nov.
+Página | 222 MÉTODO Depois da construção das variáveis em pl anilhas eletrônicas, estes foram exportados para o software de análise multivariada GRETL 1.9.1.
+(GNU Regression, Econometric and Times Series Library).
+O método empregado foi a análise de regressão múltipla com dados em painel com uso dos mínimos quadrado s ponderados, pois obteve -se ausência de homocedasticidade.
+Considerando cada variável de 01 a 10 como dependentes, contra as variáveis de 11 a 18; com efeito, foram criadas dez equações de regressão semelhantes ao modelo da Fórmula 01: it it it it i it u X X X Y  18 18 3 3 2 2 1 1 . (1) Onde, 1Y Melhoria da qualidade; 1 intercepto; 12X = P&D Interno; 13X = P&D Externo 14X = Conhecimento Externo; 15X = Aquisição de Máquinas; 16X = Software; 17X = Treinamento; 18X = Introdução de Inovação Tecnológica; 19X = Projetos Industriais; 2 , 3 a 9 os coeficientes parciais da regressão; u erro estocástico.
+Buscou -se, via análise de regressão com dados em painel, verificar a significância de cada variável independente na explicação das onze variáveis dependent es de maneira singular, além de identificar qual resultado foi melhor explicado pelas variáveis que representam o esforço inovador da indústria brasileira.
+No interesse em verificar o ajuste do modelo foram utilizados os testes de normalidade dos resíduos (Xi), Estatística F do modelo, além do próprio R².
+RESULTADOS E DISCUSSÕES O modelo empírico previsto na Equação 1 foi realizado por meio do modelo de regressão com efeitos fixos a partir do GRETL 1.9.1.
+A escolha pelos efeitos fixos ocorreu em função da capacidade deste em reconhecer as diferenças entre os setores, por meio do intercepto da regressão.
+Como já apontado na literatura, há um consenso de que as estratégias de inovação são distintas entre setores (PAVITT, ROBSON, TOWNSED,1989; SANTOS, 2012).
+P ortanto, os investimentos e resultados em inovação não podem ser admitidos como "aleatórios".
+As estatísticas descritivas quanto a medidas de posição e dispersão são apresentadas na Tabela 1.
+O detalhamento dos resultados ao longo do período e por setores foi demonstrado na seção anterior, sendo que os resultados da Tabela 1 são consolidados por variáveis.
+, Ponta Grossa, v. 13, n. 3 , p. 213-236, set./nov.
+Página | 223 Tabela 1 - Estatísticas descritivas dos resultados de esforço e impacto em inovação da indústria brasileira entre 2000 a 2011 Fonte: Elaborado pelos autores (2017) Três indicadores de impacto apresentaram média, mediana, mínimos e máximos elevados em relação aos outros, sendo eles: Melhoria da Qualidade do Produto (MQP), Manutenção da Participação do Mercado (MPM) e Aumento da Capacidade Produtiva (ACP).
+Além disso, são os que apresentaram o menor coeficiente de variação.
+Pode -se dizer que os impactos mais representativos e consolidados dos investimentos em inovação são nestas variáveis.
+Referidas variáveis estão relacionadas com o impacto que a inovação traz para os setores da economia brasileira.
+Esses resultados concordam com o estudo de Santos (2012) que assinala um perfil industrial de inovação mais voltado para melhoria e com uma estratégia mais defensiva e imitativa de inovação, tendo em vista, que impactos mai s 'agressivos" como Abertura de Novos Mercados e Ampliação da Gama de Produtos não são os mais representativos e apresentam elevado desvio padrão, o que pode sugerir ser uma estratégia específica de determinados setores industriais.
+Assim como nos resultad os de Silva e Suzigan (2014) e Santos (2012), o indicador de manutenção da participação do mercado se apresenta como o Variável Média Mediana Mínimo Máximo Desvio Padrão C.V. Inov_total 0,110111 0,095923 0,02993 0,43963 0,067906 0,61671 P_D_Inte 0,0941374 0,056152 0 0,59215 0,109728 1,16562 P_D_EXT 0,0324857 0,018412 0 0,63079 0,065229 2,00795 O_Conh 0,0350642 0,015484 0 0,25824 0,050573 1,44231 Maq_equ 0,0775754 0,069034 0,00134 0,36683 0,053295 0,687014 TT 0,00804516 0,006050 0,00016 0,04557 0,008182 1,01706 Int_Inov 0,0219001 0,011789 0 0,15396 0,029286 1,33726 PI 0,0399304 0,022470 0 0,52305 0,060067 1,50432 MQP 0,52198 0,532394 0,16660 0,78171 0,113021 0,216523 AGP 0,280544 0,27164 0 0,62954 0,126487 0,450864 MPM 0,463397 0,453627 0,13333 0,79563 0,122293 0,263905 APM 0,355501 0,34577 0,06273 0,62386 0,110538 0,310936 ANM 0,244001 0,22053 0 0,56032 0,140372 0,575291 ACP 0,407335 0,41116 0,12546 0,70390 0,124931 0,306702 AFP 0,335132 0,331145 0,09937 43 0,66183 0,108143 0,322686 RCT 0,190216 0,185103 0 0,45161 0,086816 0,456408 RCM 0,0977762 0,084091 0,00937 0,31785 0,060456 0,618317 RCE 0,0811598 0,072292 0 0,23113 0,052394 0,645577 RIA 0,305485 0,28001 0,07201 0,69522 0,119873 0,392403 R. Gest.
+, Ponta Grossa, v. 13, n. 3 , p. 213-236, set./nov.
+Página | 224 principal impacto das inovações na indústria brasileira, sendo a Aquisição de Máquinas e Equipamentos, P&D Interno e Projetos Industriais as variáveis do recurso inovação com as maiores médias e medianas.
+Os indicadores de menores resultados no quesito média, mediana, mínimos e máximos foram: Redução do Consumo de Energia (RCE), Redução de Consumo de Matérias -primas (RCM) e Redução do Custo de Trabalho (RCT) que denotam que os esforços em inovação na indústria brasileira são mais voltados para produto do que para processo e/ou na dimensão de processos o foco concentrase no aumento de capacidade ou flexibilidade de produção.
+Assim, a indústr ia brasileira ainda não considera a inovação como vetor de sustentabilidade ambiental como em outros contextos (SILVA e SUZIGAN, 2014).
+Nos dados referentes ao esforço inovativo, os Indicadores de Treinamento, P&D externo e Introdução de Inovações de Merca do apresentaram dados abaixo da média dos outros indicadores.
+Esses resultados descritivos completam o perfil das inovações nas empresas industriais brasileiras cujos esforços agregados em inovação são mais voltados inovações incrementais.
+Esse perfil corr obora os apontamentos de Robertson e Patel (2007) que afirmam que as empresas com baixo investimento em Treinamento e Pesquisas podem ser caracterizadas como pouco produtoras de tecnologia.
+A Tabela 2 apresenta os coeficientes de correlação entre as variáv eis independentes no interesse de verificar os graus de associação e avaliar a possibilidade de presença de multicolineariedade de duas variáveis independentes com alto grau de associação, sendo utilizadas no mesmo modelo de regressão para explicar a variá vel independente: Tabela 2 - Matriz de correlação das variáveis utilizadas no modelo Inov.
+total 1 0,144 9 0,4433 0,3788 0,8129 0,472 0,4477 0,3552 P&D.
+Inte 1 0,3692 0,0936 -0,069 0,398 0,3644 0,1298 P&D.
+ext 1 0,4244 0,0246 0,499 0,4973 0,2944 O. Conh 1 0,1913 0,333 0,2849 0,2945 Maq equ 1 0,271 0,1649 0,1863 T.T 1 0,3609 0,0784 Int.
+Inov 1 0,1773 P.I 1 Fonte: Elaborado pelos autores (2017) Nota -se na Tabela 2 que nenhuma variável isolada de investimento em inovação apresentou coeficiente de correlação superior a 0,7, o que denota uma diversidade de estratégias de investimentos em inovação nos diferentes setores industriais da economia.
+Em tempo, como e stes resultados indicam ausência de multicolineariedade, todas as variáveis foram utilizadas no modelo empírico da Equação 1.
+A variável que apresentou maior grau de correlação com as demais foi a P&D Externo o que corrobora a importância dos investimentos neste esforço associado com outros gastos como Treinamento, Aquisição de Outros Conhecimentos e a Introdução de Inovação Tecnológica, sendo esta perspectiva R. Gest.
+, Ponta Grossa, v. 13, n. 3 , p. 213-236, set./nov.
+Página | 225 também ratificada na elaboração do construto inovação por Santos, Basso e Kimura (2012).
+A Tabela 3 apresenta os resultados do modelo empírico proposto para analisar o impacto empresarial dos investimentos em inovação, ou seja, apresentam -se os coeficientes das regressões em painel realizadas quanto a influência dos das variáveis independentes (esforç os de inovação – variáveis identificadas nas linhas) com a variável dependente (impactos da inovação – variáveis identificadas nas colunas).
+Nota -se que os gastos totais com inovação foi a única variável que apresentou coeficientes positivos para todas as variáveis dependentes, incluindo a maior quantidade de variáveis significativas.
+Esse resultado demonstra a importância da análise agregada dos investimentos em inovação em razão da possibilidade de sinergia existente entre as atividades que estruturam o esforço em inovar ou a capacidade de inovação (SANTOS, BASSO e KIMURA, 2012).
+Tabela 3 - Impacto dos investimentos em inovação na indústria brasileira Investim ento / Impacto ACP AFP AGP ANM MPM MQP RIA RCE RCMP RCT Constant e1,333* **1,586 7*** 2,842 1*** 3,373 4*** 1,077 7*** 0,95 7*** 2,45 57** *4,354 9*** 2,622* **1,98 6** * Inovação Total 0,063 0,249 0,523 0** 0,498 9* 0,364 9*** 0,15 39* 0,19 21 0,602 17** 0,4776 * 0,01 95 P&D Interno 0,048 0,012 3 0,085 9* 0,176 7*** 0,014 8 0,00 127 0,07 4120,147 6* 0,1768 ** 0,01 15 P&D Externo -0,018 0,039 3 0,039 8 0,109 0*0,009 20,02 35 0,03 042 0,008 00,0696 0,06 52 Outros Conheci mentos 0,051* * 0,006 60,053 50,129 2*** 0,028 7 0,03 11* 0,10 00** * 0,050 340,0502 0,05 388 Máquina s e Equipam entos 0,095 0,026 90,335 4**0,215 70,179 2**0,11 36*0,10 880,224 80,0777 0,05 929 Treinam ento 0,0996 **0,085 3**0,192 4*** 0,179 98*0,029 20,02 760,18 08** *0,228 5**0,0107 0,08 25 Introduç ão de0,0488 0,0240,0620,1790,0560,020,100,1740,18480,13 R. Gest.
+, Ponta Grossa, v. 13, n. 3 , p. 213-236, set./nov.
+Página | 226 Inovação 1 6 9*** 03** 27 43** * 5** ** 17* ** Projeto Industria l0,1117 ***0,162 9*** 0,222 9*** 0,302 7*** 0,091 8*** 0,04 5330,18 49** *0,113 90,0358 0,00 12 R² 0,2652 94 0,205 644 0,431 933 0,481 500 0,268 284 0,13 2186 0,45 6230 0,274 682 0,2213 31 0,17 751 3 Estatístic a F 0,0009 82 0,012 184 1,00e -07 3,22e09 0,000 856 0,14 9342 1,95 e-08 0,000 637 0,0065 33 0,03 460 6 Nota 1: ACP – Aumento da Capacidade Produtiva; AFP – Aumento da Flexibilidade de Produção; AGP – Aumento na Gama de Produtos; ANM – Abertura de Novos Mercados; MPM – Manutenção da Participação de Mercado; MQP – Melhoria da Qualidade de Produção; RIA – Redu ção do Impacto Ambiental; RCE - Redução no Consumo de Energia; Redução no Consumo de Matéria Prima; RCT – Redução do Custo do Trabalho.
+Nota 2: Nível de Significância: *** > 99%; ** > 95%; *>90%.
+Fonte: Elaborado pelos autores O modelo empírico mostrou -se ajustado pela representativa do coeficiente de determinação (R²) considerando a natureza dessa pesquisa e o p -valor da Estatística F sendo sempre inferior a 5%, sendo possível, portanto rejeitar a hipótese nula de má especificação do modelo.
+Como foi ut ilizado o método de mínimos quadrados ponderados, a ausência de homocedasticidade é corrigida, assim como, a presença de autocorrelação (GUJARATI, 2006).
+O efeito significativo do gasto total com inovação nas variáveis AGP, ANM, MPM e MQP demonstram o maio r perfil da indústria brasileira em voltar a sua inovação para produto, principalmente pela maior participação de indústrias próximas ao mercado consumidor e que precisam atender às demandas de mercado (FISCHER et al.
+Ressalta -se que o impacto positivo e significativo na redução dos custos de energia e matéria prima sugere que sejam as áreas mais relevantes em termos de custo para a indústria que direciona, então, esforços orientados à eficiência produtiva.
+Nota -se que há uma diversidade de vari áveis independentes significativas na explicação das variáveis de impacto da inovação.
+Neste sentido, os resultados do modelo empírico concordam com Franka et al.
+(2016) quanto a diferença nos investimentos em inovação, porém estende a análise de Santos (2 012), pois através deste modelo é possível diagnosticar diferentes estratégias de investimentos em inovação para diferentes resultados empresariais.
+Nota -se que a Abertura de Novos Mercados (ANM) foi o impacto que apresentou a maior quantidade de variáveis explicativas significativas, exceto, a variável Aquisição de Máquinas e Equipamentos.
+Em que pese ter a ANM ter sido o impacto com a menor média e mediana entre as variáveis das dimensões de produto e processo, o resultado do modelo empírico demonstra que essa R. Gest.
+, Ponta Grossa, v. 13, n. 3 , p. 213-236, set./nov.
+Página | 227 estratégia de inovação requer uma estrutura de inovação robusta, especialmente, aquelas mais voltadas à pesquisa e desenvolvimento (GONÇALVES FILHO, VEIT e MONTEIRO, 2013).
+Os investimentos em P&D Interno mostram -se mais significativos quanto ao impa cto ao P&D Externo cuja influência ocorreu somente na Abertura de Novos Mercados, concomitante ao P&D Interno que também apresentou impacto significativo no AGP, RCMP e RCE, sendo este último negativo.
+Estes resultados confirmam a baixa representatividade do P&D Externo na composição do recurso de inovação o que demonstra a dificuldade da indústria nacional em trabalhar P&D em redes de relacionamento (SANTOS, 2012).
+Por outro lado, confirma -se a importância do P&D para um perfil de inovação mais agressivo, voltado para novos produtos e novos mercados.
+O impacto do P&D Interno na redução de custos de matéria prima volta -se um perfil de inovação industrial que busca novos métodos de produção e uso de materiais como forma de melhorar a qualidade dos produtos, c omo também reduzir custos associados (DENARDIN et al., 2012).
+Entendemos, então, que o interesse por esta eficiência visa maiores níveis de competitividade e retenção de margem (NOSHEEN et al., 2016).
+A influência negativa do P&D Interno na redução de cust os de energia pode ser reflexo da estrutura linear e com efeito isolado de cada variável do modelo de regressão em painel, pois as demais variáveis que apresentaram influência significativa, também o foram negativas, sendo o agregado positivo.
+Assim, é possível, que os esforços na redução do consumo de energia não sejam possíveis de serem alcançados com ações únicas de determinadas atividades, mas de um processo integrado.
+A aquisição de outros conhecimentos foi significativa e positiva as variáveis ACP, M QP e RIA, sendo, portanto, a única variável com impacto positivo em algum nível de todas as dimensões analisadas.
+Esses resultados confirmam a dependência que a indústria brasileira tem do conhecimento já estabelecido em outros setores.
+Não se trata aqui d e minimizar a importância estratégica deste recurso para inovação, porém denota a dependência da indústria nacional de conhecimento externo, que associada a fraca integração com outros centros de P&D, confirmam uma estratégia mais passiva na geração de ino vação (SANTOS, 2012; SOARES et a l., 2016).
+As variáveis Aumento da Capacidade Produtiva (ACP) e o Aumento na Flexibilidade de Produção (AFP) que são indicadores mais voltados para inovação em processo apresentam somente três variáveis significativas para A CP e duas para AFP.
+Esses resultados sugerem que os esforços em inovação na indústria brasileira são mais voltados para produtos a processo, concordando, assim com uma indústria mais voltada para produtos de bens de consumo (FISCHER et al., 2009).
+Interess ante destacar que as variáveis Treinamento e Projetos Industriais, ambas significativas, apresentaram efeito negativo o que demonstra uma dificuldade da indústria nacional em desenvolver tecnologia de produção.
+A variável Aumento da Gama de Produto (AGP) apresentou somente o P&D Interno como esforço significativo e positivo o que é esperado e pacífico na teoria (SCHUMPETER, 1988).
+Entretanto, o efeito negativo dessas das variáveis Máquinas e Equipamentos, Treinamento e Projeto Industrial é controverso nos resultados empíricos (MORGANTI, 2005, LAZZAROTTI, 2012) e contrário em R. Gest.
+, Ponta Grossa, v. 13, n. 3 , p. 213-236, set./nov.
+Alguns indicativos podem ser explorados a partir desses resultados: i) o efeito isolado da variável pode ser negativo, porém se a variável fosse combinada o efeito poderia ser o utro, como sugere o resultado global de investimentos em inovação; ii) os investimentos nestas variáveis podem estar sendo realizados de forma inadequada dentro do plano estratégico da empresa, o que resulta na dificuldade empresarial em desdobrar ações es tratégicas em ações táticas (BESANKO et al., 2006); iii) tais resultados podem ser melhores compreendidos de forma agregada em função da sua natureza cumulativa (FIGUEIREDO, 2011).
+Essa situação se manifesta em todas as demais variáveis de impacto da inova ção.
+A Manutenção na Participação de Mercado (MPM) e Melhoria na Qualidade de Produto (MQP) que foram as variáveis que apresentaram as maiores médias e medianas quanto ao impacto da inovação na indústria brasileira não apresentaram P&D Interno e P&D Extern o como significativos e, tampouco, outras variáveis com influência positiva, exceto Outros Conhecimentos para o MQP.
+Em que pese o efeito positivo e significativo do investimento total em inovação nestas variáveis, esperava -se que mais variáveis se apresen tassem como significativas, tendo em vista, a representatividade destas variáveis.
+Este cenário concorda com os três apontamentos realizados anteriormente.
+As variáveis associadas à dimensão de custo que apresentaram as menores médias e medianas entre as v ariáveis de impacto, exceto a Redução do Impacto Ambiental (RIA), não foram influenciadas igualmente pelos investimentos em inovação total.
+Avaliando as variáveis independentes isoladas, apenas o P&D Interno e a Aquisição de Outros Conhecimentos influencia ram positivamente as estratégias de RCMP e RIA, de modo que a Introdução de Inovação Tecnológica foi negativa e significativa para todas as variáveis, Treinamento para RIA e RCE e Projeto Industrial para RIA.
+Entende -se que para esta dimensão, além da poss ibilidade da existência dos três pontos discutidos frente o efeito controverso dos investimentos em inovação nos resultados, pode -se também estender que esta dimensão, de fato não é uma prioridade nos investimentos em inovação no Brasil o que contribui par a explicar a fraca competitividade de preço dos produtos nacionais no mercado e a dependência das políticas cambiais (ARRUDA, VERMULM, HOLLANDA, 2006).
+CONSIDERAÇÕES FINAIS O propósito deste estudo foi analisar o impacto dos investimentos em inovação da indústria brasileira em razão da importância competitiva que esta estratégia exerce no posicionamento de empresas e setores dentro de uma economia global.
+A partir da PINTEC, estudos empíricos anteriores demonstraram que os investimentos em inovação na ind ústria brasileira declinaram nos últimos anos e os resultados destes investimentos no desempenho das firmas têm sido controverso.
+De forma distinta dos demais estudos, esta pesquisa explorou os resultados setoriais de 33 segmentos industriais do Brasil ava liando quatro dimensões de impacto: produto, processo, mercado e custos.
+Verificou -se que há uma diversidade de estratégias de investimentos em inovação e, com efeito, os impactos essas estratégias são múltiplos.
+, Ponta Grossa, v. 13, n. 3 , p. 213-236, set./nov.
+Página | 229 denota que o recurso inovação não pode ser considerado como única variável isolada, por exemplo, P&D Interno, mas precisa ser considerado na sua totalidade e, igualmente, o impacto da inovação não pode ser considerado isoladamente e, tampouco, dissociado da estratégia da empresa.
+Essa situação traz implicações teóricas, empresariais e de políticas públicas.
+As implicações teóricas desse estudo podem ser exploradas quanto a formalização dos modelos empíricos que abordam a inovação enquanto investimentos em P&D ou que associam os resulta dos somente a uma única dimensão.
+Analisar aspectos específicos da inovação por métodos quantitativos se faz necessário, porém deve -se reduzir o escopo das terminologias utilizadas, pois o uso irrestrito do termo "inovação" pode aumentar as controversas te óricas e não uma maior compreensão.
+Ainda na parte teórica, observou -se que há necessidade de estratificar as análises das empresas por meio das estratégias empresariais assumidas por estas.
+Quando se incluem no modelo empírico informações de empresas com diferentes estratégias empresariais a análise dos efeitos nas dimensões de impacto poderá não ser conclusiva.
+Enquanto implicações empresariais este estudo demonstrou que os gestores precisam atentar para a necessidade de incluir a inovação no modelo de ne gócio da empresa para que os investimentos possam ser realizados de forma direcionada ao posicionamento pretendido.
+É provável que parte das explicações dos efeitos negativos dos investimentos em inovação nos impactos empresariais ocorram em função de prob lemas de desdobramento de ação estratégica para ação no plano tático.
+Na esfera de políticas públicas, entende -se que uma das implicações deste estudo seja decorrente da heterogeneidade de resultados entre os setores; como o Brasil tem uma estrutura indust rial diversificada, deve -se valorizar o fomento e integração de sistemas setoriais de inovação com o sistema nacional, pois as diferenças de estágio tecnológico e competitividade de cada setor pode impactar o desempenho da indústria nacional no contexto in ternacional.
+Em adição, políticas voltadas à inovação em processos podem tornar os produtos nacionais mais competitivos no mercado internacional, em especial, frente a outros países emergentes, tendo em vista que há pouca atenção de inovação voltada para redução de custos.
+Novas direções de estudos podem ser estabelecidas como exemplos: i) Avaliar os fatores que restringem a inovação na indústria nacional; ii) Avaliar se os efeitos das condições macroeconômicas no fomento à inovação da indústria nacional; i ii) Associar outros níveis de resultados da inovação às atividades inovativas, como patentes e publicação; iv) analisar comparativamente, por meio de estudos de caso múltiplos, as diferenças de estratégias entre empresas de diferentes setores, a partir do modelo da PINTEC.
+, Ponta Grossa, v. 13, n. 3 , p. 213-236, set./nov.
+Página | 230 Impact of in vestments in innovation in the Brazilian industry ABSTRACT This study analyzed the impacts of the Brazilian industry's capacity to innovate, based on the consolidated results of the 33 industrial sectors of the country between 1998 and 2011.
+A database with published information of the Research of Technological Innovation (PINTEC/IBGE) in the five editions 2000, 2003, 2005, 2008 and 2011.
+Data were analyzed through regression analysis with balanced panel, using weighted least squares technique.
+Investments in innovation were considered as organizational resource and the impacts were analyzed for four dimensions: product, process, market and costs.
+It was verified that the total investment in innovation has a significant a nd positive impact on the dimensions of product, market and partially in costs.
+Individual analyzes of innovation investments address different sectoral innovation strategies and provide new insights for understanding the resource effects of sectoral perfo rmance.
+, Ponta Grossa, v. 13, n. 3 , p. 213-236, set./nov.
+Página | 231 REFERÊ NCIAS ARRUDA, M.; VERMULM, R.; HOLLANDA, S. Inovação Tecnológica no Brasil: A indústria em busca da competitividade global .
+BAHIA, D. S; SAMPAIO, A. V. Diversificação e especialização produtiva na geração de inovação tecnológica: uma aplicação para os estados brasileiros.
+Revista de Administração e Inovação , São Paulo, v. 12, n. 3, p. 109 -134, 2015.
+BECHEIKH, N.; LANDRY, R.; AMARA, N. Lessons from innovation empirical studies in the manufacturing sector: A systematic review of the literature from 1993 – 2003.
+Technovation , v. 26, p. 644 –664, 2006.
+D.; SHANLEY, M.; SCHAEFER, S. A economia da estratégia .
+BES, F. T de; KOTLER, P. A Bíblia da inovação .
+BCG (BOSTON CONSULTING GROUP) .
+The Shifting Economics of Global Manufacturing .
+Disponível em: manufacturing globalization shifting economics global manufacturing/.
+BUENO, A; TORKOMIAN, A. L. V. Financiamentos à inovação tecnológica: Reembolsáveis, não reembolsáveis e incentivos fiscais.
+Revista de Administração e Inovação , São Paulo, v. 11, n. 4, p. 135 -158, 2015.
+CALABRESE, A.; CAMPISI, D.; CAPECE, G.; COSTA, R.; PILLO, F. Competiveness and Innovation in High -tech Companies: an Applic ation to the Italian Biotech and Aerospace Industries.
+International Journal of Engineering Business Management , v. 5, n. 40, p. 1 -11, 2013.
+Appropriate business strategy for leaders and laggards.
+Industrial and Corporate Change , v. 20, n. 4, p .
+CNI (CONFEDERAÇÃO NACIONAL DA INDÚSTRIA ).
+Mobilização Empresarial pela Inovação: Manual de Orientação aos Núcleos .
+DE OLIVEIRA, M. R. G.; CAVALCANTI, A. M.; JUNIOR, F. G. P.; MARQUES, D. B. Mensurando a inovação por meio do grau de inovação setorial e do característico setorial de inovação.
+Revista de Administração e Inovação , São Paulo, v. 11, n. 1, p. 115 -137, 2014.
+, Ponta Grossa, v. 13, n. 3 , p. 213-236, set./nov.
+Página | 232 ERNST, H. Global production networks and the changing geography of innovation system: implication s for developing countries .
+East -west Center Working Papers - Economics Series, n. 9, nov. 2000.
+FERNANDES, A. ; LOURENÇO, L. ; SILVA, M. Influência da Gestão da Qualidade no Desempenho Inovador.
+Review of Business Management , v. 16, n. 53, p. 575593, 2014.
+FIGUEIREDO, P. N. Gestão da inovação: conceitos, métricas e experiências de empresas no Brasil .
+A. D.; CASCARDI, G.; SOARES, R. D.; SILVA, T. N. O processo de gestão da inovação no ambiente industrial: estudo comparativo entre práticas na produção em série e na produção on demand.
+Revista de Administração, Contabilidade e E conomia , Chapecó, v. 8, n. 1, p. 33 -58, 2009.
+FRANKA, A. G.; CORTIMIGLIAA, M. N.; RIBEIROA, J. L. D.; OLIVEIRA, L. S. The effect of innovation activities on innovation outputs in the Brazilian industry: Marketorientation vs. technology -acquisition strategies.
+Research Policy , v. 45, n. 3, p. 577–592, 2016.
+FREEMAN, C.; SOETE, L. The Economics of Industrial Innovation .
+Massachusetts: The MIT Press, 1997.
+FAPESP (FUNDAÇÃO DE AMPARO À PESQUISA DO ESTADO DE SÃO PAULO ).
+Relatório de Atividades de 2011 .
+Disponível em: s/relat2011_completo.pdf.
+B.; TECHEMAYER, C. A.; RÉVILLION, J. P. P. Diferenciação de produto e inovação na indústria agroalimentar: inserção de alimentos funcionais no Brasil.
+Revista de Administração, Co ntabilidade e Economia , Chapecó, v. 11, n. 1, p. 9 -26, 2012.
+GOEDHUYS, M., JANZ, N. ANDMOHNEN, P. Knowledge -based productivity in "low -tech" industries: evidence from firms in developing countries.
+Industrial and Corporate Change , v. 23, n. 1, p. 1 –23, 2014 .
+GONÇALVES F. C; VEIT, M. R; MONTEIRO, P. R. R. Inovação, estratégia, orientação para o mercado e empreendedorismo: identificação de clusters de empresas e teste de modelo de predição do desempenho nos negócios.
+Revista de Administração e Inovação , São Paulo, v. 10, n. 2, p. 81 -101, 2013.
+, Ponta Grossa, v. 13, n. 3 , p. 213-236, set./nov.
+Página | 233 GUJARATI, D. Econometria Básica .
+Rio de Janeiro: Elsevier, 2006.
+HALL, B. H; LOTTI, F.; MAIRISSE, J.
+Evidence on the impact of R&D and ICT investments on innovation and productivity in Italian firms.
+Economics of Inno vation and New Technology , v. 22, n. 3 p. 1 –29.
+Nota técnica: Análise dos dados da PINTEC 2011 , dez.
+Disponível em: Acesso em: 16 fev.
+JACOSKI , C. A.; DALLACORTE, C.; BIEGER, B. N.; DEIMLING, M. F. Análise do desempenho da inovação regional – um estudo de caso na indústria.
+Revista de Administração e Inovação , São Paulo v. 11, n. 2, p. 71 -88, 2014.
+LAZZAROTTI, F. Recurso para Inovação e Desempenho da Firma Inovadora .
+Tese (Doutorado em Administração e Turismo) – Programa de PósGraduação em Administração, Universidade Vale do Itajaí, Biguaçu, 2012.
+MAÇANEIRO, M. B.; CHEROBIN, A. P. M. O financiamento da inovação tecnológica por meio de programas governamentais de apoio às empresas brasileiras.
+Revista de Administração, Contabilidade e Economia , Chapecó, v. 8, n. 2, 291 -324, 2009.
+Diretrizes para a coleta e interpretação de dados sobre inovação .
+MIRANDA, K. F.; GALLON, A. V.; NOGUEIRA, L. C. B. Ativos intangíveis e grau de inovação: Fatores influentes no desempenho econômico empresarial?
+SIMPÓSIO DE ADMINISTRAÇÃO DA PRODUÇÃO, LOGÍSTICA E OPERAÇÕES INTERNACIONAIS, 14, São Paulo, Anais eletrônicos.
+MORGANTI, F. Inovação Tecnológica e Desempenho das Empresas do Setor Químico no Brasil .
+155 f. Dissertação (Mestrado em Administração de Empresas) – Programa de Pós -Graduação em Administração de Empresas, Universidade Presbiteriana Mackenzie, São Paulo.
+MORCEIRO, P. ; FARIA, L. ; FORNARI, V. ; GOMES, R. Por que não baixa tecnologia?
+ENCONTRO NACIONAL DE ECONOMIA 39, Foz do Iguaçu, Anais eletrônicos… Foz do Iguaçu: ANPEC, 2011.
+Linking knowled ge absorption and transmission toward innovation in R &D organizations .
+EUROPEAN CONFERENCE ON KNOWLEDGE MANAGEMENT, 17, Coleraine, Proceedings… Academic Conferences: Ulster University, 2016. pp.
+, Ponta Grossa, v. 13, n. 3 , p. 213-236, set./nov.
+Página | 234 NOSHEEN, S.; SADIQ, R.; RAFAY, A.
+The Primacy of In novation in Strategic Financial Management Understanding the Impact of Innovation and Performance on Capital Structure , IEEE - INTERNATIONAL CONFERENCE ON MANAGEMENT OF INNOVATION AND TECHNOLOGY, 8, Bangkok, Proceeding… ICMIT: Singapore, 2016, pp.
+Oslo Manual : guidelines for collecting and interpreting innovation data.3.
+OLIVEIRA, C. E. Problemas e obstáculos para a realização de inovação em empresas brasileira.
+Revista Brasileira de Gestão e Inovação , Caxias do Sul, v. 3, n. 1, p. 93 -112, 2015.
+PAVITT, K. ROBSON, M. TOWNSED, J., Technological Accumulation, Diversification and Organization in UK Companies, Management Science , v. 35, n. 1. p. 19451983, 1989.
+PINTEC (PESQUISA DE INOVAÇÃO TECNOLÓGICA) .
+Pesquisa In dustrial de Inovação Tecnológica .
+RAMOS, A; ZILBER, S. N. O impacto do investimento na capacidade inovadora da empresa.
+Revista de Administração e Inovação , São Paulo, v. 12, n. 1, p. 303 -325, 2015.
+ROBERTSON, P. L.; PATEL, P. R. New wine in old bottles technological diffusion in developed economies.
+Research Policy , v. 36, n. 5, p. 708 -721, 2007.
+ROCHA, L. A.; PAZ, M. E. D.; ALMEIDA, C. A. S.; OLIVEIRA, D. M. O impacto dos esforços inovativos no desempenho econômico -financeiro das empresas.
+Revista de Administração e Inovação , São Paulo, v. 12, n. 3, p. 82 -108, 2015.
+SANTOS, D. F. L. O Perfil da Inovação na Indústria Brasileira.
+Revista de Gestão Industrial , Ponta Grossa, v. 8, n. 3, p. 142 -163, 2012.
+SANTOS, D. F. L. BASSO, L. F. C.; KIMURA, H.A Estrutura da Capacidade de Inovar das Empresas Brasileiras: Uma Proposta de Construto.
+Revista de A dministração e Inovação , São Paulo, v. 9, n.3, p. 103 -128, 2012.
+SANTOS, D. F. L.; BASSO, L. F. C.; KIMURA, H.; KAYO, E. K. Innovation efforts and performances of Brazilian firms.
+Journal of Business Research , v. 67, n. 34, p. 527-535, 2014.
+, Ponta Grossa, v. 13, n. 3 , p. 213-236, set./nov.
+Página | 235 SAWHNEY, M.; WOLCOTT, R. C.; ARRONIZ, I.
+The 12 different ways for companies to innovate.
+MIT Sloan Management Review , v 47, n. 3 p. 75 -81, 2006.
+A. Teoria do desenvolvimento econômico: uma investigação sobre os lucros, capital, crédito, juros e o ciclo econômico .
+SHOU, Z.; CHEN, J.; ZHU, W.; YANG, L. Firm capability and performance in China: The moderating role of guanxi and institutional forces in domestic and foreign contexts.
+Journal of Business Research , v. 67, n.2, p. 77 –82, 2014.
+SILVA, C. F; SUZIGAN, W. Padrões setoriais de inovação da indústria de transformação brasileira.
+Estudos Econômicos , São Paulo, v. 44, n. 2, p. 277321, 2014.
+The Brazilian Innovation System: critical analysis and.
+Interciencia , Caracas, v. 41, n. 10, p. 713 -721, 2016.
+SOUZA, J. C.; FARIA, M. F. B. Processo de inovação no contexto organizacional.
+Brazilian Business Review , v.10, n. 3, p. 113 -136, 2013.
+TIGR E, P. B. Paradigmas Tecnológicos e Teorias Econômicas da Firma.
+Revista Brasileira de Inovação , Campinas, v. 4, n. 1, p. 187 -223, 2005.
+ZANELLO, G., FU, X., MOHNEN, P.; VENTRESCA, M. The creation and diffusion of innovation in developing countries: a sy stematic literature review.
+Journal of Economic Surveys , v. 30, n. 5, p. 884 -912, 2016.
+, Ponta Grossa, v. 13, n. 3 , p. 213-236, set./nov.
+Página | 236 Recebido : 05 abr.
+2017 DOI: 10.3895/ gi.v13n3.5774 Como citar : CAMPOS, M. G.; SANTOS, D. F. L.; DONADON, F. A.
+B. Impacto dos investimentos em inovação na indústria brasileira.
+Industr ., Ponta Grossa, v. 13, n. 3, p. 213-236, set./nov.
+Correspondência: Marcel Groppo de Campos Rua Leão XIII, 266 – Ap 62B – Vila Independência, Piracicaba, São Paulo, Brasil .
+Direito autoral: Este artigo está licenciado sob os termos da Licença Creative Commons -Atribuição 4.0 Internacional.

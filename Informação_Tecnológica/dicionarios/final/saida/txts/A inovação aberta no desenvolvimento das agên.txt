@@ -1,0 +1,234 @@
+63 Comunicação & Inovação | São Caetano do Sul, SP | v.22 | n. 50 | p. 63 -79 | 2021 | ISSN 2178 -0145 DOI : https//doi.org/10.13037/ci.vol22n 50.8074 A inovação aberta no desenvolvimento d as agências de fact-checking durante a pandemia Open innovation in the development of fact -checking agencies during the pandemic Carlos Franciscatoai ORCID: 0002- 5108- 8677 Ana Laura Farias Gonçalves bii ORCID: 0002- 4977- 423X Recebido em: 10/09/2021.
+Resumo Esta pesquisa busca entender processos inovadores no jornalismo à luz do conceito de inovação aberta e de ecossistema jornalístico.
+Para isso, realiza uma sistematização da literatura e uma pesquisa empírica baseada em estudos de casos múltiplos de três agências de fact-checking , Lupa e Aos Fatos (no Brasil ) e Chequeado (Argentina ), como atores jornalísticos inovadores.
+O estudo compreende u o desenvolvimento de produtos e processos em inovação aberta como resposta à urgente demanda por informação e por verificação de conteúdos falsos na pandemia do coronavírus em 2020.
+Palavras- chave: Inovação aberta.
+Abstract This research seeks to understand innovative processes in journalism in light of the concept of open innovation and journalistic ecosystem.
+For this purpose, it systematizes the literature and performs empirical research based on multiple case studies of three fact -checking agencies, Lupa and Aos Fatos (in Brazil) and Chequeado (Argentina), as innovative journalistic actors.
+The study included the development of products and processes in open innovation as a response to the urgent demand for information and verification of false content in the coronavirus pandemic in 2020.
+1 Introdução O cenário contemporâneo do jornalismo está ancorado em intensas e imprevisíveis transformações recentes de suas práticas, organizações, financiamento e processos de a Universidade Federal de Sergipe.
+E -mail: cfranciscato@uol.com.br b Universidade Federal de Sergipe.
+E -mail: analaurafarias88@gmail.com Carlos Franciscato & Ana Laura Farias Gonçalves 64 Comunicação & Inovação | São Caetano do Sul, SP | v.22 | n. 50 | p. 63 -79 | 2021 | ISSN 2178 -0145 produção, fora do controle de gestores, empresários, jornalistas e acadêmicos.
+Entre essas mudanças estão a redefinição de ambientes e processos de trabalho jornalísticos, a perda de fôlego do modelo empresarial de negócios, a redefinição do lugar e do papel dos públicos em todo o processo de produção e circulação jornalística, os efeitos para a sua identidade profissional, o questionamento aos padrões jornalísticos que fundamentam a atividade, perda de legitimidade e um sentimento de insegurança quanto à preservação de seu estatuto fundado no compromisso com a verdade do seu discurso e na sua capacidade institucional de mediação social pela produção de conhecimento veraz so bre o mundo.
+Deve- se considerar também que esses processos têm ocorrido em um contexto das tecnologias digitais da informação e da comunicação que impõem reconfigurações estruturais ao jornalismo com a emergência de novas infraestruturas, suportes, platafo rmas, ambientes, codificações, linguagens e interações.
+Do ponto de vista acadêmico, um dos desafios é entender esses processos e operar nos núcleos dessas transformações.
+É reconhecido que um desses fatores centrais é a expansão das tecnologias digitais c omo fenômenos estruturantes das práticas jornalísticas e, por consequência, da forte presença da racionalidade técnica dos sistemas informacionais.
+Assim, na academia, a tecnologia e a racionalidade técnica são bases para a construção de um tipo de conheci mento sobre as organizações que procura regrar as suas transformações com a formulação de métricas e padronizações des sas irrupções.
+Da compreensão do fenômeno busca -se padrões para controlá -lo e o direcionar, visando resultados possíveis.
+Estas premissas iniciais vão ser operacionalizadas, neste trabalho, com uma investigação sobre os estudos de inovação sobre processos e produtos desenvolvidos por organizações produtivas e aplicá -los para o ambiente jornalístico.
+Por princípio, o fator inovativo é um com ponente essencial a todos os fenômenos sociais e áreas do conhecimento.
+Ao mesmo tempo, disciplinas do campo das ciências aplicadas vêm dando um tratamento lógico e metodológico a es se processo, a fim de entendê -lo e sistematizálo na forma de modelos expl icativos que se tornam também prescritivos com vistas à obtenção de resultados no nível da produção.
+Nes sas literaturas, a criação desses modelos prescritivos indica a vocação de um tipo de ciência que vislumbra controlar os processos inovadores.
+Portanto, este paper tem por objetivo entender processos inovadores no jornalismo à luz de transformações estruturais daquilo que convencionalmente denominamos de campo do jornalismo, conforme a teoria dos campos sociais de Pierre Bourdieu (1997).
+A inovação aberta no desenvolvimento das agências de fact -checking durante a pandemia 65 Comunicação & Inovação | São Caetano do Sul, SP | v.22 | n. 50 | p. 63 -79 | 2021 | ISSN 2178 -0145 Revisaremos a delimitação de fronteiras e atores des se campo do jornalismo para além das ordens de suas interações sociais (sociabilidade, cultura, discurso e poder) e privilegiaremos olhar para a estruturação des se espaço social considerando interações de um ponto de vista informacional (como aquelas características dos sistemas computacionais).
+Para os propósitos deste trabalho, a inovação é expressão de fluxos do conhecimento e de práticas sociais e não apenas como fenômeno que agrega valor econômico a u m produto ou serviço.
+Assim, evitaremos limitar essa investigação à simples aplicação, ao jornalismo, das noções e modelos já tradicionalmente estabelecidos em disciplinas como a administração, economia, engenharia ou computação.
+Para pensar o jornalismo c omo constituído por interações sociais e informacionais, optamos por nos deslocar do conceito de campo do jornalismo e testar a noção de ecossistema jornalístico.
+Nes sa perspectiva, há contínuos atravessamentos entre interações em uma dimensão maior de hor izontalidade e capilaridade entre atores jornalísticos e não jornalísticos.
+"Falar de um 'ecossistema jornalístico' é admitir que nenhuma organização de imprensa, hoje ou no passado, foi senhora absoluta do próprio destino.
+Relações em outras partes do eco ssistema definem o contexto de toda e qualquer organização", anunciou, há quase uma década, o estudo de Anderson, Bell e Shirky (2013, p. 72).
+Esse novo ecossistema jornalístico finca suas bases nas noções ecológica e sistêmica, em que reconhece um equilíb rio dinâmico entre uma variedade de atores em expansão, em complementaridade e em interação potencialmente contínua, todos convivendo no habitat da internet , o qual uniformiza infraestruturas, configurações e linguagens.
+A noção de ecossistema midiático/jornalístico tensiona a literatura que privilegiava as inovações de produtos e processos geradas dentro de grandes empresas , imersas em sigilosos departamentos de pesquisa e desenvolvimento como estratégias de segredo industrial.
+Como é possível pensar estratégias de segredo em organizações midiáticas tão densamente atravessadas por interações estruturadas digitalmente em uma miríade de atores, incluindo as audiências, mesclando profissionais e amadores?
+Assim, é nesse cenário de multiplicidade de interações , envolvendo atores jornalísticos , que optamos por explorar o conceito de "inovação aberta" como categoria explicativa para compreensão das dinâmicas de produção de novos processos e conhecimentos nes se ambiente "aberto" em vários níveis da inte rnet (nes se caso, estamos nos referindo à cultura open source ).
+Carlos Franciscato & Ana Laura Farias Gonçalves 66 Comunicação & Inovação | São Caetano do Sul, SP | v.22 | n. 50 | p. 63 -79 | 2021 | ISSN 2178 -0145 Adotamos, para dar materialidade empírica a esta discussão, a análise de duas situações com potencial inovador no jornalismo contemporâneo: 1) a emergência das agências de fact -checking como atores jornalísticos inovadores, surgidos para preservação de valores de atividade frente aos fluxos de desinformação estrutural que crescentemente atravessam os ecossistemas informativos e ganham impulso com os embates de opinião nas redes sociais digitai s; 2) a atuação dessas agências de factchecking no desenvolvimento de novos produtos e processos no padrão de inovação aberta como forma de responder à urgente demanda por informação e verificação de conteúdos falsos na pandemia do coronavírus.
+Metodologicamente, executamos um estudo de casos múltiplos (YIN, 2001) de três agências de fact -checking durante a pandemia no ano de 2020 que têm em comum o fato de assumirem o modelo organizacional de agências de verificação na América do Sul, duas no Brasil ( Lupa e Aos Fatos ) e uma na Argentina ( Chequeado ).
+Outro ponto em comum des sas agências é que elas possuem um perfil acentuadamente inovador nos ecossistemas jornalísticos em que estão inseridas.
+Elas se caracterizam como novos atores jornalísticos emergentes em relação às mídias tradicionais, ao criarem procedimentos mais rigorosos de verificação das práticas jornalísticas.
+As reais capacidades inovadoras des sas agências no ecossistema jornalístico foram analisadas com base na categoria de inovação aberta, in vestigando as formas como essas organizações desenvolveram suas próprias ferramentas tecnológicas ou as obtiveram em parcerias externas por meio de terceirizações, redes de trabalho, colaborações pontuais ou softwares "open source" na internet (CHESBROUGH, 2017).
+Dois objetivos específicos guiaram es sa investigação empírica: a) descrever e analisar os procedimentos de criação e desenvolvimento de inovações de processos, produtos, mercados e demandas sociais em fact -checking nos últimos anos; b) identificar tipos de inovação aberta empreendidos pelas agências de fact -checking para enfrentar a desinformação na pandemia.
+2 Gestão da inovação A inovação tem sido predominantemente pensada no horizonte de uma teoria da firma, de negócios e setores produtivos (OECD/EUROSTAT, 2018), bem como em disciplinas de base tecnológica, como as engenharias, e apropriadas também por ciências A inovação aberta no desenvolvimento das agências de fact -checking durante a pandemia 67 Comunicação & Inovação | São Caetano do Sul, SP | v.22 | n. 50 | p. 63 -79 | 2021 | ISSN 2178 -0145 sociais aplicadas como a economia e administração (Tigre, 2006).
+O Manual de Oslo traz uma definição operacional de inovação: Uma inovação é um produto ou processo novo ou melhorado (ou uma combinação deles) que difere significativamente dos produtos ou processos anteriore s da unidade e que foi disponibilizado a usuários em potencial (produto) ou colocados em uso pela unidade (processo) (OECD/EUROSTAT, 2018, p, 20)1.
+São considerados quatro tipos de inovações (produto, processo, organização e marketing), com ênfase na im plementação em ambientes concretos.
+A inovação envolve interações e feedbacks , baseia -se em um processo de aprendizado e aplicação de conhecimentos e requer uma ação contínua para atender demandas e resolver problemas.
+Em uma perspectiva mais geral e aber ta, conhecimento e inovação apresentam um núcleo comum, pois nos parece inevitável que qualquer inovação gere também um acréscimo no estoque de conhecimento disponível, seja tácito ou explícito.
+Ao mesmo tempo, há pouca sistematização teórica: Esta é uma lacuna da conceituação de inovação a partir de uma perspectiva de conhecimento, pois impede que modelos de inovação baseados em conhecimento existentes especifiquem quais processos de conhecimento são mais propensos a gerar uma inovação radical, acelerar a implementação de uma inovação ou sustentar a inovatividade organizacional (QUINTANE et al.
+(2011) sinalizam que a inovação, como artefato, contém o conhecimento necessário para entender como foi criada e como criá- la novam ente.
+Em outras palavras, afirmam que "o conhecimento que é gerado durante o processo de inovação e que permite que o processo seja compreendido constitui a essência do processo de inovação" ( QUINTANE et al ., 2011, p. 938).
+Ao mesmo tempo, os autores argum entam que nem todo novo conhecimento deve ser denominado uma inovação, pois esta apresenta uma raiz vinculada aos ambientes de produção e de seus resultados para a sociedade e o mercado.
+Há que se reconhecer também que as organizações produtivas podem ter diferentes processos de conhecimento sistêmico, seja com ênfase em rotinas e procedimentos, com foco na execução de projetos específicos ou baseado na experimentação e nos resultados.
+Assim, cada modelo apresenta uma forma particular de sistematizar o conh ecimento na organização e, em decorrência, direciona para modos específicos de inovação.
+1 As citações de textos em língua estrangeira fo ram traduzidas pelos autores deste artigo.
+Carlos Franciscato & Ana Laura Farias Gonçalves 68 Comunicação & Inovação | São Caetano do Sul, SP | v.22 | n. 50 | p. 63 -79 | 2021 | ISSN 2178 -0145 A noção de inovação no jornalismo deve ter um tratamento integrado em três dimensões: tecnológica, organizacional e social (FRANCISCATO, 2010).
+(2015) apontam cinco características da inovação jornalística: como ela transforma o serviço jornalístico oferecido; como afeta a produção do conteúdo; como afeta a distribuição do conteúdo; como modifica a organização do trabalho; e como incide sobre a co mercialização do produto final.
+Acreditamos, no entanto, que os autores subestimaram os ganhos sociais das inovações jornalísticas, ao não considerar os modos como reforçam vínculos sociais, valores democráticos e benefícios para a cidadania.
+3 Inovação aberta Para uma melho r compreensão dos processos inovativos realizados, recorremos à categoria de inovação aberta, investigando as formas como essas organizações desenvolveram suas próprias ferramentas tecnológicas ou as obtiveram em parcerias externas por meio de terceirizações, redes de trabalho, colaborações pontuais ou softwares "open source" na Internet (CHESBROUGH, 2017).
+Huizingh (2011) esclarece que a noção de inovação aberta reflete muito menos uma dicotomia do que um continuum entre orga nizações com diferentes graus de abertura.
+Isso é, não se deve opor a ideia de uma organização fechada (em concepção de ideias e desenvolvimento de inovações) em contraposição a práticas de abertura e trocas com parceiros externos.
+Nes se modelo, valorizam -se os ganhos gerados nos fluxos que atravessam fronteiras organizacionais (CHESBROUGH, 2017, p. 30).
+Aitamurto e Lewis (2012) analisa ram os usos e benefícios da inovação aberta no jornalismo digital, investigando ferramentas digitais de Open Application Pr ogramming Interfaces (interfaces de programação de aplicativos abertos - APIs abertas) em quatro organizações de notícias: The New York Times, The Guardian, USA Today e NPR.
+A tese dos pesquisadores é que o surgimento de APIs abertas em organizações de not ícias representa uma mudança em direção a um paradigma de inovação aberta que, em teoria, pode ajudar a enfrentar os desafios de P&D enfrentados pela indústria de notícias, bem como os desafios de encontrar novos modelos de receita.
+Aitamurto e Lewis traba lharam com os dois principais fluxos de inovação aberta caracterizados por Chesbrough, " outside -in" e "inside -out".
+O p rimeiro descreve o processo de "fora para dentro", em que as empresas aumentam sua base de conhecimento aproveitando a sabedoria de seus fornecedores e clientes.
+O segundo envolve um A inovação aberta no desenvolvimento das agências de fact -checking durante a pandemia 69 Comunicação & Inovação | São Caetano do Sul, SP | v.22 | n. 50 | p. 63 -79 | 2021 | ISSN 2178 -0145 movimento de dentro para fora de externalização de processos de inovação para trazer ideias ao mercado com mais rapidez.
+Além desses, os autores destacaram um terceiro tipo ideal, denominado " coupled process " (processo acoplado), no qual as empresas criam alianças, parcerias e joint ventures , cocriando valor para ambas as partes.
+4 Desinformação e fact -checking A expansão das práticas de desinformação na Internet nos anos iniciais do século XXI coincidiu com o surgimento das primeiras atividades sistemáticas de fact -checking .
+Além disso, parece haver uma coincidência temática entre ambas: a veracidade dos conteúdos e sua contraface (a falsidade e a mentira).
+Mas uma suposta correlação direta entre elas não é real: as organizações de fact -checking não foram uma resposta das instituições jornalísticas para combater a desinformação.
+Desinformação é um termo aplicado diferentemente conforme o interesse de uma investigação.
+Em Portugal, a Entidade de Regulação para Comunicação delimitou como desinformação: "toda a informação comprovadamente falsa ou enganadora que é criada, apresentada e divulgada para obter vantagens econ ômicas ou para enganar deliberadamente o público, e que é susceptível de causar um prejuízo público" (ERC, 2019, p.2).
+Em relatório elaborado para a União Europeia, Wardle e Derakshan (2017) classificam a desinformação como um dos tipos de desordem inf ormacional: "Desinformação: informação que é falsa e deliberadamente criada para prejudicar uma pessoa, grupo social, organização ou país.
+Misinformation : informação falsa, mas sem a intenção de prejudicar, mal-information: informação que é baseada na real idade, usada parra atingir uma pessoa, organização ou país".
+De fato, a primeira experiência de fact -checking relatada nos Estados Unidos refere -se às eleições presidenciais de 1992, com o âncora da CNN Brooks Jackson criando um quadro na programação da em issora voltado para checar as declarações dos candidatos em suas campanhas eleitorais.
+Em 2003, Jackson criou o FactCheck.org , ligado ao Centro de Políticas Públicas da Universidade da Pensilvânia, com foco nos discursos de políticos em propagandas e na im prensa.
+Essas experiências consolidaram as características principais dessas organizações: uma atividade jornalística de verificação publicada em mídias tradicionais ou em circulação em redes sociais digitais, com maior atenção para discursos de políticos .
+Sua consolidação como um novo agente do campo do jornalismo ocorre por uma semelhança Carlos Franciscato & Ana Laura Farias Gonçalves 70 Comunicação & Inovação | São Caetano do Sul, SP | v.22 | n. 50 | p. 63 -79 | 2021 | ISSN 2178 -0145 de conhecimentos que dão identidade à profissão e que delimitam seus procedimentos de trabalho.
+Os jornalistas que atuam em fact -checking , ao verificarem o discurso de algum candidato ou autoridade em entrevista, entram em contato com a fonte, apuram, entrevistam e dão espaço, na publicação da checagem, ao "outro lado", com a publicação da alegação da fonte (diretamente ou via assessoria) ou com a recusa ou falta de reto rno.
+Todos esses são elementos básicos do jornalismo tradicional.
+Essas agências carregam uma ideia de comunidade jornalística à medida que suas funções tendem a ser exercidas por profissionais de jornalismo, muitas vezes com experiências pregressas em veí culos jornalísticos.
+5 Análise dos resultados A seguir analisamos a atuação de três agências de verificação ( Lupa e Aos Fatos no Brasil e Chequeado na Argentina) à luz das p remissas teóricas e dos problemas indicados, aplicando- se as técnicas de pesquisa bibliográfica, pesquisa documental e entrevistas realizadas nos meses de setembro e outubro de 2020.
+O levantamento de dados neste ano foi fortemente influenciado pela pandem ia do novo coronavírus, que se tornou uma variável que direcionou várias ações das agências de fact-checking .
+Consideramos que o fenômeno da pandemia vem requisitando dessas agências novas competências: a) conhecimentos especializados do campo da ciência sobre a temática e sobre como atuam, nela, os agentes da desinformação; b) novos produtos ou serviços com base nas tecnologias da informação digital, capazes de executar funcionalidades de combate à desinformação nas situações específicas da pandemia; c) novos processos interacionais surgidos no ambiente das redes sociais digitais e direcionados, agora, para responder às demandas dos públicos por verificação da veracidade de informações sobre a pandemia.
+As análises a segui r trazem três principais conjuntos de dados.
+Inicialmente, um perfil resumido de cada organização.
+Em segundo lugar, uma sistematização e análise dos tipos de ações inovadoras empreendidas pelas agências de fact -checking para enfrentar a desinformação na pandemia.
+Por último, uma descrição de procedimentos organizacionais de criação e desenvolvimento de inovações de processos, produtos, mercados e demandas sociais em fact-checking nos últimos anos e particularmente com foco para a pandemia.
+A inovação aberta no desenvolvimento das agências de fact -checking durante a pandemia 71 Comunicação & Inovação | São Caetano do Sul, SP | v.22 | n. 50 | p. 63 -79 | 2021 | ISSN 2178 -0145 6 As agências de fact -checking As info rmações con stantes no Quadro 1 trazem um perfil resumido de cada organização.
+É perceptível reconhecer que se tratam de organizações recentes (Chequeado em 2010 e Lupa e Aos Fatos em 2015), surgidas como resultante de uma demanda social por mais confiabilidade no fluxo de notícias em circulação.
+São empresas de base tecnológica, com ênfase em tecnologias digitais.
+Possuem uma diversificação de fontes financeiras e estão desatreladas de grandes conglomerados de mídia.
+Agência Criação Sede Perfil Chequeado 2010 Buenos Aires (Argentina) Atuação: verificação do discurso público, entendido pela agência como debates e informações originadas por políticos, economistas, empresários, personalidades públicas, meios de comunicação e outras instituições formadoras de opini ão.
+Propriedade: Fundación La Voz Pública para Verificación del Discurso Publico.
+Lupa 2015 Rio de Janeiro (Brasil) Atuação: registrada como agência de notícias, executa se rviços de verificação de conteúdo disponíveis gratuitamente, venda de serviços a empresas de comunicação e capacitação em factchecking .
+Propriedade: A agência foi fundada pela jornalista Cristina Tardáguila, com apoio financeiro da Editora Alvinegra (RJ) , responsável pela Revista Piauí.
+A agência permanece hospedada no portal da revista, mas afirma não receber mais apoio financeiro desde 2018 e também alega não manter relação editorial com a Piauí .
+Aos Fatos 2015 Rio de Janeiro (Brasil) Atuação: agênci a de notícias, com produção de checagens, reportagens aprofundadas com uso de dados e investigações sobre desinformação .
+Propriedade: Registrada com o nome Tai Nalon Xavier Agência de Noticiais.
+Foi fundada pela diretora executiva Tai Nalon, o diretor de tecnologia Rômulo Collopy e a diretora de inovação Carol Cavaleiro .
+Quadro 1 – Perfil das agências de fact- checking pesquisadas Fonte: elaboração pelos autores .
+6.1 Ações inovadoras das agências para enfrentar a pandemia Este subitem da pesquisa tem por objetivo sistematizar os tipos de ações inovadoras empreendidas pelas agências de fact -checking para enfrentar a desinformação na pandemia.
+Destacaremos em particul ar os produtos inovadores desenvolvidos ou aperfeiçoados em 2020 como forma de alcançar soluções para a desordem informativa Carlos Franciscato & Ana Laura Farias Gonçalves 72 Comunicação & Inovação | São Caetano do Sul, SP | v.22 | n. 50 | p. 63 -79 | 2021 | ISSN 2178 -0145 desencadeada pela circulação de dados falsos ou descontextualizados sobre o novo coronavírus e as formas de tratamento.
+A identificação e descrição de cada produto ou serviço foi realizado com o uso das técnicas de pesquisa bibliográfica, documental, observação sistemática das plataformas e entrevistas com responsáveis pelo desenvolvimento ou operação dessas funcionalidades.
+Foram entrevistados: Carol Cavaleiro (cofundadora e diretora de Inovação da Aos Fatos , entrevistada dia 22/09/2020), Luiza Bodenmüller (gerente de estratégia da Aos Fatos , 24/09/2020), Natália Leal (diretora de conteúdo da Lupa, 24/09/2020) e Pablo Fernández (dire tor de inovação e comunicação da Chequeado, dias 29/09/2020 e 27/10/2020).
+Um primeiro objetivo desta pesquisa foi a identificação dos produtos e serviços como ações inovadoras empreendidas pelas agências de fact -checking e sua relação com as possibilidades de gerar conhecimento mais denso e qualificado sobre a pandemia.
+No Quadro 2 é possível ver um sumário dessas ferramentas, com a descrição detalhada das novas funcionalidades que elas agregam ao fact -checking já executado pelas agências.
+Quadro 2 – Produtos e serviços inovadores na pandemia Produto Agência Início Como opera Chequeabot Chequeado 2017 - Faz transcrição de conteúdos em espanhol, identifica frases checáveis e assuntos já checados .
+- Funciona dentro do site da Chequeado e opera prioritariamente no escaneamento de textos de 30 veículos de comunicação .
+- Pode também ser usado para vídeos do YouTube .
+Latam Chequea Chequeado e Lupa Abril de 2020 (em espanhol) e maio (em português) - Agrupa verificações feitas pelas agência s participantes sobre o coronavírus.
+- A Chequeado coordena o projeto e concentra a base de dados em espanhol, enquanto a Lupa é responsável pela inserção das verificações em português.
+- O banco de dados é aberto e permite a filtragem por classificação, agência, país, dentre outros.
+- A rede Latam Chequea foi criada anteriormente ao coronavírus e já realizou outros trabalhos conjuntos.
+- O uso é feito dentro do site da Chequeado (acessar também pelo site da Lupa) .
+Fátima Aos Fatos Maio de 2020 - A ferramenta já era utilizada no Facebook Messenger e no Twitter desde 2018, mas durante a pandemia chegou também ao WhatsApp (maio de 2020).
+- O usuário entra em contato com Fátima, e a robô ajuda na localização de conteúdos já publicados, além de enviar as três checagens mais recentes.
+- No WhatsApp, o uso é feito ao entrar em contato com o número telefônico fornecido no site e enviar "Oi, Fátima".
+No Epicentro Lupa Julho de 2020 - Simula as mortes decorrentes do coronavírus no Brasil em locais próximos ao pesquisado.
+O usuário pode inserir o endereço de casa e as mortes são projetadas nos arredores.
+- A ferramenta delimita o raio de devastação no local inserido A inovação aberta no desenvolvimento das agências de fact -checking durante a pandemia 73 Comunicação & Inovação | São Caetano do Sul, SP | v.22 | n. 50 | p. 63 -79 | 2021 | ISSN 2178 -0145 e indica uma cidade próxima que teria desaparecido se concentrasse t odas as mortes.
+- Opera dentro do site da Lupa , onde os dados são inseridos.
+Radar Aos Fatos Aos Fatos Agosto de 2020 - Mapeia tendências de desinformação e mostra o número de resultados da última semana.
+- O sistema atribui uma nota de 1 a 10 para ca da publicação, com uma metodologia que inclui análises de palavras -chave.
+- Somente conteúdos abaixo de 5 são exibidos no Radar, por indicarem maiores chances de conterem desinformação.
+- O uso é feito dentro do site da Aos Fatos .
+- Monitora web, Twitter e YouTube , com previsão para Instagram , Facebook e WhatsApp .
+Quadro 2 – Produtos e serviços inovadores na pandemia Fonte: elaboração pelos autores .
+7 Os modelos de desenvolvimento de inovações Este subitem apresenta uma descrição e análise dos procedimentos organizacionais de criação e desenvolvimento de inovações de processos, produtos, mercados e demandas sociais das três agências.
+O desenvolvimento de inovações depende, por um lado, de uma es trutura que reúna conhecimentos especializados internos às organizações, assim como de parcerias estratégicas com agentes externos no caso de inovações abert as.
+Assim, serão destacados a seguir alguns aspectos dessa condição estrutural.
+Por outro lado, for am também consideradas as ações inovadoras específicas desenvolvidas pelas agências de fact -checking para enfrentar a desinformação na pandemia.
+Nes ses casos, houve um destaque para produtos criados nos meses recentes com finalidades informativas ou para produtos já existentes que foram modificados para atender especificamente à verificação de conteúdos sobre a pandemia.
+8 Inovação aberta na pandemia A ferramenta da agência Lupa No Epicentro foi desenvolvida na modalidade de inovação aberta.
+Natália Leal, diretora de conteúdo da agência Lupa, aponta que, desde a ideia inicial des sa ferramenta, a Lupa buscou o Google , empresa multinacional de tecnologia em redes digitais, para par ticipar de sua construção, a qual cont ribuiu com recursos para despesas operacionais.
+Em paralelo, a Lupa constituiu uma equipe específica da agência para conduzir o projeto.
+Mesmo com a parceria externa para produção de No Epicentro em código aberto, a Lu pa detém a propriedade intelectual da ferramenta.
+Carlos Franciscato & Ana Laura Farias Gonçalves 74 Comunicação & Inovação | São Caetano do Sul, SP | v.22 | n. 50 | p. 63 -79 | 2021 | ISSN 2178 -0145 A velocidade com que a pandemia se alastrou e demandou ações urgentes na produção informativa impediu que a Lupa executasse todas as fases de testagem do protótipo de No Epicent ro, como uma testagem prévia em um grupo focal formal.
+Em vez disso, foram buscadas pessoas de contato dos desenvolvedores.
+Por serem usuários externos, conseguiram transmitir à equipe impressões sobre problemas de narrativa, cuja correção tornou o dispositivo mais interativo.
+Es se ciclo acelerado da pandemia fez com que o projeto fosse considerado concluído poucos meses após seu início, sem previsão de uma nova versão.
+O entendimento é que o algoritmo desenvolvido já opera uma atualização dinâmica dos dados que alimentam a visualização, portanto continuará oferecendo informações visuais atualizadas sobre o número de mortos.
+Um out ro modelo de parceria externa que caracteriza inovação aberta foi estabelecid o entre a Chequeado e a Lupa.
+O projeto Latam Chequea consiste em uma rede de agência de checagem para produção de uma base de dados aberta em espanhol sobre verificações a respeito de uma variedade de assuntos, mas tem sido utilizado para armazenar e disponibilizar conteúdos sobre o coronavírus.
+Na parceria com a Chequeado, a Lupa realiza a tradução do conteúdo para a língua portuguesa (a ferramenta foi nomeada como Corona Verificado), articulando a atividade com dois checadores brasileiros ( Aos Fatos e Estadão Verifica) e dois portugueses ( Observador e Polígrafo).
+Nes sa parceria, a Lupa produziu 26 reportagens com apoio do Instituto Serrapilheira e da UNESCO.
+A permuta entre as bases de dados nos dois idiomas potencializa o uso do dispositivo.
+8.1 Inovação aberta e demandas soc iais Chesb rough considera que um dos objetivos centrais da inovação aberta é "entregar uma melhor experiência ao cliente" (2017, p. 31).
+Há, então, a necessidade de introduzir a interação com o usuário em algumas das etapas do desenvolvimento, para que possam ser considerados os seus problemas e necessidades.
+A agência Aos Fatos desenvolveu a fe rramenta Fátima a partir de 2018 para Facebook Messenger e Twitter baseando- se na tecnologia da automatização de procedimentos e conteúdos por meio de robôs.
+O uso de robôs como Fátima ou Chequeabot, da Chequeado, é uma das inovações desafiadoras no fact -checking por operar com a automação das checagens (GRAVES, 2018).
+Com a explosão da pandemia, a Lupa desenvolveu uma ve rsão do robô para WhatsApp.
+Luiza Bodenmüller , gerente de A inovação aberta no desenvolvimento das agências de fact -checking durante a pandemia 75 Comunicação & Inovação | São Caetano do Sul, SP | v.22 | n. 50 | p. 63 -79 | 2021 | ISSN 2178 -0145 estratégia da agência Aos Fatos , reconhece que as inovações geradas em Fátima atendem a demandas sociais imediatas, tanto na sua aplicação como tipo de informação sobre o coronavírus por meio do WhatsApp quanto por ser um meio para receber sug estões de checagem pelos usuários .
+Ou seja, são inovações sociais em sintonia com expectativas de públicos.
+A ferramenta Radar, também da agência Aos Fatos , teve sua concepção iniciada em 2019, com um planejamento do processo de desenvolvimento estendendo- se por 2020, visando às eleições previstas inicialmente para o mês de outubro daquele ano, depois transferidas para novembro.
+Entretanto, com a irrupção da crise sanitária, Aos Fatos abreviou algumas etapas e direcionou o dispositivo para um novo uso, focado na pandemia.
+Radar operou na lógica da inovação aberta com o Google e com startups para o desenvolvimento e operação da ferramenta.
+Assim, as experiênci as da agência Aos Fatos com os dispositivos Fátima e Radar fornecem elementos para investigar o estabelecimento de interações entre agentes do campo midiático.
+De início, é reconhecível que essas duas ferramentas, ao operarem com automação e banco de dados , dependeram da interação com os seus públicos para o desenvolvimento de suas funcionalidades.
+Por ser um robô, Fátima exigiu que a equipe do Aos Fatos alcançasse na ferramenta uma empatia que simulasse traços e reações semelhantes a um perfil humano.
+Rada r, por outro lado, é um dispositivo que opera em uma interface de banco de dados.
+O desenvolvimento dessa ferramenta dependeu de a agência realizar testes de usabilidade com usuários para tornar o layout mais amigável, conforme Carol Cavalheiro, da agência Aos Fatos .
+Na agência Lupa, a lógica inovadora da ferramenta No Epicentro baseou -se na concepção de um ambiente digital que permitisse equilibrar a informação em dados e o envolvimento do usuário.
+Natália Leal, da Lupa, explica que o dispositivo foi desenvolvido para gerar "uma empatia nas pessoas com relação ao número de mortos", por operar com recursos de visualização de dados e criar dimensões espaciais e simbólicas (como o equivalente à população de uma determinada cidade) que geram sensibilização e impacto dos leitores.
+".a gente chegou à conclusão de que a melhor forma seria aproximar -se ao máximo do leitor, e que não existe uma referência melhor para o leitor do que a sua própria casa, a sua própria vizinhança" (LEAL, 2020).
+A pesquisa permitiu refletir em que grau a interação com o usuário no desenvolvimento do produto pode ser automatizada .
+Isso irá depender da abertura dos dados da ferramenta para acesso e avaliação pelo usuário e de grau de intervenção que o Carlos Franciscato & Ana Laura Farias Gonçalves 76 Comunicação & Inovação | São Caetano do Sul, SP | v.22 | n. 50 | p. 63 -79 | 2021 | ISSN 2178 -0145 sistema permitirá a ele.
+O Chequeabot, da agência Chequeado, utiliza princípios de "machine learning" para coletar dados sobre conteúdos de maior interesse de usuários de rede sociais e, assim, responder de forma sensível na disponibilidade de material para consulta.
+Conforme Pablo Fernández, diretor de inovação e comunicação da Chequeado, a automação possibilitou ao dispositivo reagir muito sensivelmente aos conteúdos que estão circulando nas redes sociais digitais, como por exemplo os trending topics do Twitter.
+9 Laboratórios de inovação Entre as três agências de fact -checking pesquisadas, aquela que possui um ambiente organizacional mais bem direcionado para a inovação é a Chequeado.
+Em fevereiro de 2015, a agência inaugurou seu Laboratório de Inovação, destinado a desenvolver novos produtos, realizar inovações incrementais nos produtos já existentes e propor novos fluxos de gestão do conhecimento na agência (inovação organizacional).
+A meta do Laboratório de inovação é tornar as verificações de fatos mais rápidas, mais ricas e mais en volventes ao público, desenvolvendo ambientes de game.
+A criação des se Laboratório da agência foi possível com parcerias de apoiadores externos, como a Omidyar Network, empresa filantrópica de apoio à mídia independente e combate à desinformação.
+A Omidyar Network destinou em 2016 US$ 237 mil a Chequeado durante dois anos para contribuir com o crescimento do fact -checking na América Latina.
+A equipe de inovação da Chequeado busca pensar novos formatos para o conteúdo informativo, visando alcançar audiências mais amplas.
+O principal produto inovador des se Laboratório é o Chequeabot, uma ferramenta de inteligência artificial destinada a gerar uma resposta mais rápida de verificação, considerando o poder de viralização da desinformação.
+Pablo Fernández, coordenador do Laboratório de inovação da Chequeado, entende que a desinformação na pandemia, por ser mais danosa que outras formas de desinformação, exige uma resposta também rápida dos verificadores.
+A agência Aos Fatos também possui seu laboratório de pesquisa e inovação, denominado Aos Fatos Lab, iniciado em 2015.
+Es se departamento atua para dar suporte aos projetos mais avançados tecnologicamente da organização (como automatização e inteligência artificial), bem como prestar serviços externos e realizar consu ltorias a clientes.
+O laboratório reúne atividades técnicas de análise de dados, produção de A inovação aberta no desenvolvimento das agências de fact -checking durante a pandemia 77 Comunicação & Inovação | São Caetano do Sul, SP | v.22 | n. 50 | p. 63 -79 | 2021 | ISSN 2178 -0145 diagnósticos e de relatórios temáticos.
+Atuou também como unidade de apoio a reportagens jornalísticas investigativas, como na reportagem especial " Aos Fatos checa Cidade dos Sonhos", que investigou a execução, pelas prefeituras, das propostas de gestão apresentadas pelos políticos durante as campanhas eleitorais.
+10 Co nclusões O objetivo central desta pesquisa foi entender os processos inovativos desenvolvidos por três agências de fact -checking para combater a desinformação, com ênfase para os procedimentos organizacionais de criação e desenvolvimento de inovações de processos, produtos, mercados e demandas sociais.
+Um aspecto que recebeu uma atenção particular fo i o grau de participação de agentes externos às organizações na colaboração para o desenvolvimento desses produtos, dentro de uma perspectiva de inovação aberta.
+Percebemos que as agências de fact -checking , por representarem um fenômeno inovador dentro do ecossistema jornalístico, apresentam uma gestão particular do conhecimento com que trabalham.
+Isso se dá, em primeiro lugar, porque elas operam de forma principalmente reativa, buscando se contrapor a fluxos de desinformação.
+Ao mesmo tempo, o acompanhamento da atuação dessas agências durante a pandemia demonstrou que elas criaram produtos direcionados não apenas para checar informações em circulação, mas também para organizar e interpretar dados sobre esse complexo fenômeno, aplicando um papel informativo no seu conteúdo.
+Isso foi possível basicamente pela inovação tecnológica no desenvolvimento de seus produtos, com uso de banco de dados, inteligência artificial, algoritmos e visualização interativa para seus públicos.
+Se por um lado a natureza tecnológica dessas organizações direcionou a produção de inovações para ambientes e ferramentas digitais, por outro lado a vocação social de sua atuação na sociedade trouxe uma condição frequente de busca de maior interação com seus públicos.
+Assim, a inovação abert a se revelou tanto nas parcerias com organizações e atores externos às agências, com vistas à busca de recursos financeiros e conhecimentos especializados, quanto no uso de ferramentas tecnológicas que conseguissem aferir mais claramente interesses de seus públicos.
+É compreensível, então, que, com essas vocações, essas organizações tenham demonstrado velocidade de inovação tecnológica, organizacional ou social no desenvolvimento de novos produtos inovadores ou melhorias Carlos Franciscato & Ana Laura Farias Gonçalves 78 Comunicação & Inovação | São Caetano do Sul, SP | v.22 | n. 50 | p. 63 -79 | 2021 | ISSN 2178 -0145 incrementais, gestados internamente ou em parceria externa, para atender às urgentes demandas da pandemia.
+Referências AITAMURTO, T., LEWIS, S. Open innovation in digital journalism: Examining the impact of Open APIs at four news organizations.
+New media & Society , v. 15, n. 2, p. 314-331, 2012.
+W.; BELL, E.; SHIRKY, C. Jornalismo pós -industrial: adaptação aos novos tempos.
+Revista de Jornalismo ESPM , n. 5, p. 30- 89, abr ./jun.
+BODENMÜLLER, L. Entrevista concedida a Ana Laura Farias Gonçalves .
+BOURDIEU, P. Sobre a Televisão .
+Rio de Janeiro: Jorge Zahar, 1997.
+CARVAJAL, M., LARA, A. , GARCÍA AVILÉS, J.
+& GONZÁLEZ, J. L. Ranking de innovación periodística 2014.
+Espanha: Universidad Miguel Hernández, 2015.
+CAVALEIRO, C. Entrevista concedida a Ana Laura Farias Gonçalves .
+CHESBROUGH, H. W. The Future of Open innovation: IRI Medal Address – The Future of open innovation will be more extensive, more collaborative, and more engaged with a wider variety of participants.
+Research – Technology Management , p. 29-35, nov./de z.
+ERC – Entidade Reguladora Para A Comunicação Social.
+A Desinformação —Contexto Europeu e Nacional , 2019.
+FERNÁNDEZ, P. Entrevista concedida a Ana Laura Farias Gonçalves .
+FRANCISCATO, C. Uma proposta de incorporação dos estudos sobre inovação nas pesquisas em jornalismo.
+Estudos em Jornalismo e Mídia .
+GRAVES, L. Understanding the Promise and Limits of Automated Fact -Checking.
+Reuters Institute for the Study of Journalism .
+Dis ponível em: -research/understanding- promise -andlimits -automated -fact-checking Acesso em 14/07/2020.
+Open innovation: State of the art and future perspectives.
+Technovation , n. 31, p. 2- 9, 2011.
+Entrevista concedida a Ana Laura Farias Gonçalves .
+A inovação aberta no desenvolvimento das agências de fact -checking durante a pandemia 79 Comunicação & Inovação | São Caetano do Sul, SP | v.22 | n. 50 | p. 63 -79 | 2021 | ISSN 2178 -0145 OECD/EUROSTAT.
+Oslo Manual 2018: Guidelines for Collecting, Reporting and Using Data on Innovation.
+OECD Publishing: Paris/Eurostat, Luxembourg, 2018.
+QUINTANE , E., CASSELMAN, R. M., REICHE B. S. & NYLUND, P. A.
+Innovation as a knowledge -based outcome.
+Journal of Knowledge Management , n. 15(6), p. 928947, 2011.
+TIGRE, P. B. Gestão da Inovação.
+Rio de Janeiro: Elsevier, 2006.
+WARDLE, C., DERAKHSHAN, H. INFORMATION DISORDER: Toward an interdisciplinary framework for research and policy making : council of europe report.
+Council of Europe Report , 2017.
+Disponível em Internet: -162317- GBR -2018- Report -desinformation -A4BAT.pdf Acesso em 23/09/2019.
+YIN, R. K. Estudo de Caso – Planejamento e Métodos .
+Porto Alegre: Bookman, 2001. i Possui graduação em Comunicação Social Jornalismo pela Universidade Federal de Santa Maria (1989), especialização em Ciência Política pela PUC/RS (1991), mestrado em Comunicação e Cultura Contemporâneas pela Universidade Federal da Bahia (1998) e doutorado em Comunicação e Cultura Contemporânea pela Universidade Federal da Bahia (2003).
+É professor titular da Universidade Federal de Sergipe.
+Atuou como presidente da Associação Brasileira de Pesquisadores em Jornalismo - SBPJor (2007- 2011).
+Tem experiência na área de Comunicação, com ênfase em Teoria e Ética do Jornalismo, atuando principalmente nos seguintes temas: jornalismo, teoria do jornalismo, jornalismo online, pesquisa aplicada e história do jornalismo.
+ii Jornalista da Universidade Federal de Sergipe .
+Mestre em Comunicação Social pela Universidade Federal de Sergipe.
+Graduada em Jornalismo pela Universidade Federal de Pernambuco (UFPE).
+Especialista em Marketing Digital pela Faculdade Dom Bosco.
+Possui experiência em jornalismo científico, político e econômico, em meios de comunicação impressos e online.
+Também atuou em assessorias de imprensa públicas e privadas e na gestão de redes sociais de empresas privadas e instituições públicas.
+Tem experiência profissional nos estados de Pernambuco (2012- 2016) , Ceará (2016- 2017) e Sergipe (desde 2018).

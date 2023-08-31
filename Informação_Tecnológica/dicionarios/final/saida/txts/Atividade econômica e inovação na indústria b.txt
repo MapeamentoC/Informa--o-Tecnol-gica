@@ -1,0 +1,321 @@
+15 BRAZILIAN KEYNESIAN REVIEW, 6(1), p.15-37, 1st Semester/2020 Atividade econômica e inovação na indústria brasileira: uma análise com dados em painel (2010-2016)* Economic activity and innovation in the Brazilian industry: a panel data analysis Rosa Lívia Gonçalves Montenegro† Débora Freire Cardoso" Marco Flávio da Cunha Resende§ Gilberto Libânio** Resumo O objetivo principal do artigo é analisar a relação entre nível de atividade econômica e inovação tecnológica na indústria brasileira, no período compreendido entre 2010-2016.
+A hipótese central deste trabalho é de que quanto maior a atividade econômica maior o impacto positivo sobre a taxa de inovação, por meio de canais como o aumento dos investimentos em capital fixo e a melhoria nas condições de financiamento das atividades de inovação.
+A base de dados consiste nos seis primeiros anos da pesquisa denominada Sondagem da Inovação, por meio da qual foi possível obter um painel segmentado por quatro blocos de setores industriais.
+A metodologia aplicada aborda um modelo de regressão com dados em painel que permitiu um acompanhamento temporal da relação entre nível de atividade industrial e taxa de inovação das empresas.
+Os resultados sugerem que a superação da crise atual e a consequente recuperação da atividade econômica são elementos importantes para a elevação das taxas de inovação na indústria brasileira.
+Palavras-chave: Inovação; Financiamento; Atividade econômica; Dados em painel.
+Abstract The aim of the present work is to analyze the relationship between the level of economic activity and technological innovation in Brazilian industry from 2010 to 2016.
+The central hypothesis of the paper is that the greater the economic activity, the higher the positive impact on the innovation rate, through channels such as the increase in investments in fixed capital and the improvement in the financing conditions for innovation activities.
+The analysis is based on a database of the first six years of the survey called Innovation Survey in which it was possible to obtain a panel segmented by four blocks of industrial sectors.
+These data were analyzed by means of panel data regression model that reveals the temporal evolution of the relation between the level of industrial activity and the rate of innovation of firms.
+The main result suggests that the overcoming of the current crisis and the consequent recovery of economic activity are important elements for the increase of innovation rates in the Brazilian industry.
+Keywords: Innovation; Financing; Economic activity; Panel data.
+JEL Classification: O31; E32; C33.
+* Os autores agradecem o apoio financeiro da CAPES, CAPES Edital PGPSE (n. 42/2014) e do CNPq † PPGE/UFJF, Universidade Federal de Juiz de Fora, e-mail: rosa.livia@ufjf.br ‡ Cedeplar, Universidade Federal de Minas Gerais, e-mail: dfreire@cedeplar.ufmg.br § Cedeplar, Universidade Federal de Minas Gerais, e-mail: resende@cedeplar.ufmg.br ** Cedeplar, Universidade Federal de Minas Gerais, e-mail: gilberto@cedeplar.ufmg.br 16 BRAZILIAN KEYNESIAN REVIEW, (1), p.15-37, 1st Semester/2020 1.
+Introdução O argumento de que as inovações e o progresso tecnológico são cruciais para o crescimento de longo prazo está presente em diversas escolas do pensamento econômico, sendo central para a Escola Evolucionária.6 Tanto o progresso tecnológico como também a exploração (adaptação, assimilação e difusão) de tecnologias importadas são determinantes relevantes para os ganhos de produtividade e o crescimento de longo prazo da economia (Freeman, 1995; Nelson, 1993).
+A Escola Evolucionária considera a incerteza não sujeita a cálculo atuarial um elemento que permeia as decisões de inovar.
+O»Sullivan (2009) aponta que para o empresário que faz investimentos em inovações não há orientações objetivas para a tomada de decisão ou solução de problemas, em função da incerteza fundamental inerente a esse processo.
+Tal incerteza decorre do longo período de maturação do investimento e do fato de que seus resultados não podem ser previstos a partir dos insumos utilizados.
+A indefinição inerente aos investimentos em inovações deve-se, também, à: i) possibilidade de que o projeto inovativo venha a fracassar ou que sua tecnologia ou funcionalidade se torne obsoleta em um período de tempo menor que o necessário para recuperação do investimento; ii) possibilidade de que a inovação não seja absorvida pelo mercado; iii) dificuldade em se prever os fluxos financeiros do projeto de investimento e seu horizonte temporal (Rapini, 2013).
+Portanto, o investimento, seja em inovações ou em capital fixo, requer expectativas otimistas quanto ao futuro do empreendimento e do ambiente econômico no qual este está inserido - expectativas otimistas não-ergódicas é o que Keynes denominou Animal Spirits (Davidson, 1999).
+Em uma economia monetária, estas expectativas são formadas a partir de convenções, que correspondem a uma crença compartilhada e apresentam elevado caráter de intersubjetividade entre os agentes (Resende e Terra, 2017; Carvalho, 2015; Dow, 2010).
+O investimento requer, também, elevado grau de confiança dos agentes nas expectativas otimistas (Keynes, 1936 [1983]).
+O comportamento convencional não elimina a incerteza, mas é capaz de ancorar por algum tempo as decisões de investimento, visto ser o elemento que enseja confiança nas expectativas, conferindo estabilidade ao sistema econômico enquanto for possível "acreditar que o estado atual das coisas permanecerá por algum tempo" - isto é, que determinada crença compartilhada (convenção) seguirá prevalecendo (Keynes, 1936 [1983]; Resende e Terra, 2017; Busato et al., 2019; De Carvalho, 2015).
+6 Nelson e Winter (1982) apontam os antecedentes e as premissas básicas da abordagem Evolucionária.
+17 BRAZILIAN KEYNESIAN REVIEW, (1), p.15-37, 1st Semester/2020 Diversos fatores, atuais e futuros, são relevantes para influenciar e moldar as convenções e, portanto, as expectativas quanto ao futuro da economia.
+Cite-se o conjunto de políticas econômicas adotadas, as instituições, o paradigma tecnológico, o nível da demanda agregada e da atividade econômica, a taxa de lucro, entre outros.
+É possível estudar a relação entre a decisão de investir dos agentes e cada um desses fatores, não obstante todas estas variáveis estejam correlacionadas.
+Este trabalho tem por objetivo analisar a relação entre nível da atividade econômica e inovação tecnológica na indústria brasileira no período 2010-2016.
+Em particular, serão usados os dados trimestrais gerados pela Sondagem de Inovação – uma base de dados ainda não explorada na literatura que trata da temática da inovação no Brasil – para verificar empiricamente se a atividade econômica desempenhou papel relevante para explicar a dinâmica da inovação tecnológica no período.
+A hipótese central do artigo é de que quanto maior a atividade econômica maior o impacto positivo sobre a taxa de inovação, por meio de canais como o aumento dos investimentos em capital fixo e a melhoria nas condições de financiamento das atividades de inovação.
+O restante do artigo está dividido em quatro seções.
+Na próxima seção, discute-se teoricamente a relação entre atividade econômica, expectativas e inovação tecnológica, a partir de uma perspectiva Pós-Keynesiana e Evolucionária.
+A seção 3 apresenta a pesquisa Sondagem de Inovação, de onde se originam os dados utilizados neste trabalho e a metodologia utilizada na estimação.
+Em seguida, são apresentados e discutidos os principais resultados obtidos.
+Por fim, a seção 5 apresenta algumas considerações finais.
+Atividade Econômica, Expectativas, Financiamento e Inovações Expectativas otimistas quanto ao futuro e perspectivas de lucro são peças-chave para explicar a decisão em inovar das firmas nas abordagens Pós-Keynesiana e Evolucionária.
+Assim sendo, estas abordagens são úteis para a compreensão do processo de investimento em inovação, que só ocorre quando há uma expectativa (não probabilística) de retorno positivo do investimento.
+Mais do que isso, tal retorno esperado deve ser maior do que aquele proveniente do investimento em outros ativos.
+De outro lado, a taxa de lucro de um empreendimento está ligada ao grau de utilização da capacidade instalada deste empreendimento que, por sua vez, depende do nível da atividade econômica onde o mesmo está inserido (Carvalho e Oreiro, 2007).
+18 BRAZILIAN KEYNESIAN REVIEW, (1), p.15-37, 1st Semester/2020 O nível da atividade econômica não apenas influencia (positivamente) a taxa de lucro (Kalecki, 1954 [1983]), como também afeta a renda e a demanda agregada, com efeitos sobre as expectativas quanto ao nível da demanda agregada e da taxa de lucro futuros (Keynes, 1936 [1983]).
+Quanto maiores forem os níveis da atividade econômica e do grau de utilização da capacidade instalada, ceteris paribus, maiores serão os investimentos, inclusive em inovação, estimulados por expectativas otimistas dos agentes empreendedores.
+A partir de Kalecki (1954 [1983]) e Keynes (1936 [1983]) é possível constatar neste processo dois efeitos: o acelerador do investimento e o multiplicador dos gastos.
+O aumento do grau de utilização da capacidade instalada, ceteris paribus, leva o empresário a investir visando a ampliação necessária de tal capacidade para satisfazer a demanda futura – efeito acelerador do investimento.
+O investimento, a seu turno, gera mais renda induzindo o consumo agregado e colocando em funcionamento o multiplicador dos gastos, aumentando a ocupação da capacidade instalada que, por sua vez, estimula o investimento e assim por diante, ensejando um ciclo de crescimento virtuoso da economia.
+Este processo virtuoso contribui para reduzir as incertezas quanto ao retorno dos investimentos, inibindo a preferência pela liquidez dos agentes, fortalecendo a fase ascendente do ciclo de crescimento.
+Ou seja, visto que as expectativas dos agentes são formadas tendo como base convenções, a fase ascendente do ciclo de crescimento econômico ajuda estimular, ceteris paribus, a crença compartilhada (convenção) em um futuro promissor, como também a confiança nesta crença, fortalecendo o animal spirits dos empresários e o próprio ciclo de crescimento.
+Porém, ao contrário do que é sugerido por Kalecki (1954 [1983]), este processo não é automático, ou mecânico.
+Conforme Keynes (1936[1983]), convenções são um comportamento defensivo dos agentes que não decorre do cálculo probabilístico e, por isso, estão sujeitas a repentinas e bruscas alterações a depender de uma lista aberta de fatores que podem ocorrer, tais como: mudanças na política econômica, nas instituições ou na economia mundial; surgimento de inovações incrementais e/ou radicais; guerras; entre outros fatores.
+Não obstante, quanto maior for o otimismo na sociedade com relação à economia, ceteris paribus, maiores serão os investimentos.
+Em particular, os investimentos em inovação são muito sensíveis ou dependentes do otimismo visto que, devido a sua natureza, é altamente incerto seu resultado em termos de taxa de retorno (Rapini, 2013).
+Se qualquer tipo de investimento, por estar ligado a um longo horizonte temporal de maturação, remete à questão da incerteza fundamental, não sujeita ao cálculo atuarial, o investimento em inovação é ainda mais sensível a expectativas otimistas.
+19 BRAZILIAN KEYNESIAN REVIEW, (1), p.15-37, 1st Semester/2020 Além desta relação entre o nível da atividade econômica e o investimento em inovação, mediada pela formação de expectativas, há também uma relação indireta entre estas variáveis.
+Quanto maior for o nível da atividade econômica, ceteris paribus, maior será o investimento em capital fixo (formação bruta de capital fixo) – Kalecki (1954 [1983]) demonstra que o investimento em capital fixo é induzido pelo nível da atividade econômica e pela taxa de mudança deste nível.
+De outro lado, Nelson e Winter (1982) e Dosi et al (1994) enfatizam que o investimento em capital fixo é condição necessária, embora não suficiente, para o progresso tecnológico.
+Logo, há uma relação indireta entre o nível da atividade econômica e o investimento em inovação: quanto maior aquele, maior será o investimento em capital fixo decorrente do efeito acelerador, ensejando uma das pré-condições para a inovação e o progresso tecnológico, e favorecendo, deste modo, expectativas otimistas quanto ao retorno dos investimentos em inovação.
+Cabe notar que esse aspecto é particularmente relevante para o caso do Brasil, onde os investimentos em máquinas e equipamentos são recorrentemente identificados como o principal dispêndio em inovação por parte da indústria, o que pode ser visto como reflexo da baixa densidade tecnológica da indústria nacional e da predominância de setores de tecnologia bastante madura.
+Outro importante canal de transmissão por meio do qual a atividade econômica pode influenciar a inovação tecnológica são as condições de financiamento.
+As firmas tomam decisões de investir em inovação a partir de uma estratégia de longo prazo.
+Sua decisão de investir leva em conta o que acontece no seu mercado, mas de forma especialmente relevante, ela é impulsionada pela concorrência e pelo crescimento da demanda por seu produto.
+A firma pode investir mais ou menos de acordo com a disponibilidade interna de recursos financeiros e a sua capacidade de obter financiamento externo.
+Fora da firma, a empresa depende da oferta de crédito para as atividades que ela pretende desenvolver.
+Essas linhas de crédito podem estar mais ou menos adaptadas a sua estratégia, e dependem fundamentalmente da diversidade de instrumentos financeiros, da escala dos recursos ofertados e do perfil do crédito (e.g.
+taxa de juros, prazos, amortizações e garantias bancárias).
+No caso brasileiro há uma restrição importante no processo decisório da empresa.
+As firmas têm restrição de crédito para financiar seu investimento de longo prazo e este fator é particularmente relevante para o financiamento de atividades que busquem novos conhecimentos, como P&D próprio.
+Dado que a decisão de buscar novos recursos para realizar inovação tecnológica é especialmente restrita pela disponibilidade de crédito, a firma pode mudar sua estratégia de investimento 20 BRAZILIAN KEYNESIAN REVIEW, (1), p.15-37, 1st Semester/2020 levando em conta esta restrição, o que significa sub-investir na criação de conhecimento novo.
+Assim, o financiamento interno, a partir de lucros retidos, desempenha papel fundamental na capacidade da firma investir em inovação – o que torna a atividade econômica variável relevante na dinâmica inovativa, dada a correlação existente entre nível de produção e lucratividade das firmas.
+Por fim, a literatura evolucionária é farta em exemplos para o caráter de dependência de trajetória, ou cumulatividade, e de retornos crescentes de escala da inovação e progresso tecnológico (Fagerberg, 1994; Dosi, Freeman e Fabiani, 1994).
+"Technology, far from being a free good, involves a fundamental learning aspect, characterized by varying degrees of cumulativeness, opportunity and appropriability."
+Logo, os estímulos ao investimento em capital fixo e inovações propiciados pelo aumento do nível da atividade econômica favorecem o aprendizado e o progresso tecnológico que, por sua vez, estimulam mais investimentos em inovações dado o contexto de dependência de trajetória e de retornos crescentes de escala da inovação.
+Este processo é característico do setor industrial.
+A indústria possui um sistema produtivo mais complexo e uma maior circularidade no processo de produção (Rodrik, 2008)7, estando mais sujeita a retornos crescentes de escala e sendo mais intensiva em tecnologia (Gala, 2008), o que favorece a troca de informações e aprendizado entre seus vários segmentos, contribuindo para estimular e difundir o progresso tecnológico (Souto e Resende, 2018).
+Neste contexto, Gala (2008) e Woo (2004) constatam que nos setores industriais (tradables) o processo learning-by-doing e a acumulação do progresso tecnológico são maiores vis-à-vis os demais setores, e, por isso, eles contribuem mais para a inovação e o aumento da produtividade da economia.
+Gala e Libânio (2011) apontam com base em argumento de cunho Kaldoriano que, devido a lei de Verdoorn, uma expansão do produto industrial gera ganhos de produtividade, os quais, por sua vez, resultam em nova ampliação do produto, iniciando um ciclo virtuoso de crescimento.
+Todos estes autores mostram que variáveis tais como o nível da atividade econômica e a taxa de câmbio real, ao estimularem o investimento na indústria, estão associadas ao surgimento de inovações e ao progresso tecnológico de uma economia – isto é, para os propósitos deste trabalho, destaca-se que os citados autores apontam um nexo causal entre o nível da atividade econômica e inovação tecnológica.
+7 As cadeias do setor industrial, além de serem sensivelmente maiores, interagem entre si em diversos momentos distintos do processo produtivo.
+Isso caracterizaria essa "circularidade".
+21 BRAZILIAN KEYNESIAN REVIEW, (1), p.15-37, 1st Semester/2020 3.
+Atividade Econômica e Inovação na Indústria Brasileira 3.1.
+Os dados da Sondagem de Inovação A Sondagem de Inovação é uma pesquisa cujo objetivo é acompanhar sistematicamente a evolução da inovação tecnológica na indústria brasileira.
+Sua realização periódica envolve, em primeiro lugar, a execução de uma pesquisa de campo por meio da qual são entrevistadas cerca de 400 empresas a cada trimestre.
+Trata-se de uma amostra representativa, com cobertura setorial, de grandes empresas industriais brasileiras (Agência Brasileira de Desenvolvimento Industrial, s.d.).
+Ao longo dos seis primeiros anos da Sondagem da Inovação, foi possível obter um painel acerca das realizações e tendências nos níveis de inovação de empresas industriais brasileiras.
+A Sondagem permitiu monitorar, entre outros elementos, as variações nas quantidades de novos produtos e processos lançados, nas intenções de inovação de produto e processo, nos projetos de inovação em andamento e abandonados, na quantidade de profissionais dedicados à inovação, nos percentuais de investimento em inovação e nos principais motivadores para a inovação.
+Para os propósitos deste trabalho, interessa particularmente examinar a relação entre atividade econômica e inovação, a partir dos dados da Sondagem de Inovação.
+Neste caso, uma análise preliminar dos dados sugere que a dinâmica da atividade inovativa no Brasil esteve claramente ligada à trajetória macroeconômica durante o período avaliado (2010-2016), principalmente em função de seus reflexos sobre as decisões internas das firmas.
+Como mencionado anteriormente, a inovação – tanto em produto quanto em processo – envolve um forte componente de incerteza, e que expectativas otimistas sobre a demanda futura é um componente fundamental do incentivo a inovar.
+Os anos entre 2010 e 2016 se caracterizaram, em linhas gerais, por uma trajetória de declínio das taxas de crescimento do PIB e da produção industrial brasileira, bem como uma tendência de queda nos investimentos em máquinas e equipamentos.
+A taxa de inovação – definida como o percentual de empresas que inovou em produto ou processo no trimestre de referência – também apresenta trajetória declinante no período, o que sugere um movimento coincidente com a desaceleração da atividade econômica.
+Assim, as próximas seções deste trabalho se dedicam a examinar a relação entre tais variáveis, de modo a testar a importância do nível de atividade sobre a inovação tecnológica.
+Construção da base de dados A hipótese a ser testada neste trabalho é a de que a dinâmica da atividade econômica explica parte da dinâmica da decisão de inovar das empresas, de modo que períodos de crescimento mais acentuado estão relacionados a uma maior taxa 22 BRAZILIAN KEYNESIAN REVIEW, (1), p.15-37, 1st Semester/2020 de inovação.
+Em outras palavras, a proposta do artigo será examinar se os ciclos econômicos influenciam a decisão de inovar das empresas.
+As informações da pesquisa Sondagem da Inovação, ao possibilitarem a análise da decisão de inovar das empresas considerando uma série de características a partir de pesquisa primária, mostram-se potencialmente ricas para esta avaliação.
+Muitos determinantes da atividade tecnológica são considerados pela literatura internacional.
+A capacidade de pesquisa universitária, mercado de trabalho qualificado, grau de industrialização, diversidade industrial, P&D empresarial, mercado consumidor, grau de competição da economia local, e transbordamentos de conhecimento são exemplos (Gonçalves, 2006).
+Desta forma, considerando a amostra pequena e suas propriedades, o modelo estimado tomou a seguinte configuração: a variável dependente é a taxa de inovação; além do nível de atividade como determinante da taxa de inovação, a regressão contempla como variável de controle o número de pessoal ocupado com P&D com curso superior, como uma proxy da qualificação do pessoal empregado em P&D.
+A postura mais parcimoniosa em relação à escolha e número de variáveis de controle é explicada por dois motivos.
+O primeiro se refere à dificuldade de obtenção de informações trimestrais (periodicidade da pesquisa Sondagem), a periodicidade é importante uma vez que a intenção é avaliar se os ciclos econômicos afetam a decisão de inovar.
+O segundo se refere às possibilidades de exploração do banco de dados da Sondagem, dada a limitação de amostra pequena, relatada anteriormente.
+A pesquisa conta com 26 trimestres, período de tempo muito curto para uma análise de séries temporais, que seria o ideal para avaliar a causalidade dos ciclos econômicos na taxa de inovação.
+Por isso, optou-se pela estimação via painel de dados, a partir da utilização de variáveis setoriais.
+Um painel curto é caracterizado pelo maior número de unidades seccionais relativamente ao número de unidades de tempo (n>t), por outro lado, a existência de t > n caracteriza um painel longo, no qual técnicas de séries temporais são associadas às técnicas de dados em painel.
+Conforme ressaltado, o tamanho da amostra impede a utilização de técnicas de séries temporais.
+Deste modo, optou-se pela utilização das técnicas de painel curto.
+A definição das unidades seccionais também esbarrou nas características da amostra.
+Embora fosse possível a identificação da empresa respondente pela respectiva classificação CNAE a dois dígitos, a amostra não era representativa para alguns setores em vários dos períodos da pesquisa, devido à baixa taxa de resposta em alguns deles.
+Assim, as unidades seccionais foram definidas em quatro blocos de setores industriais, o que possibilitou superar a baixa representatividade da amostra presente em alguns dos subsetores, mas, por outro lado, limitou a possibilidade de 23 BRAZILIAN KEYNESIAN REVIEW, (1), p.15-37, 1st Semester/2020 seleção de um maior número de variáveis explicativas, no intuito de preservar graus de liberdade, já que o período de tempo da pesquisa é bastante curto.
+Ainda, a característica da base de dados, onde n<t, também inviabiliza estimações robustas via GMM.
+A classificação dos blocos setoriais pode ser definida da seguinte forma: - Bloco 1: constituído por empresas cujos sistemas de produção possuem capacidade de transformação da estrutura produtiva.
+Fazem parte deste bloco as CNAEs 21 (Fabricação de produtos farmoquímicos e farmacêuticos), 26 (Fabricação de equipamentos informáticos, eletrônicos e ópticos), 27 (Fabricação de máquinas, aparelhos e materiais elétricos), 28 (Fabricação de máquinas e equipamentos), 29 (Fabricação de veículos automotores, reboques e carrocerias), 30 (Fabricação de outros equipamentos de transporte, exceto veículos automotores) e 33 (Manutenção, reparação e instalação de máquinas e equipamentos).
+- Bloco 2: fazem parte deste bloco as empresas cujos sistemas produtivos são intensivos em escala, representadas na Sondagem da Inovação pelas CNAEs 05/06/07/08/09 (Extração de carvão mineral, extração de petróleo e gás natural, extração de minerais metálicos, extração de minerais não-metálicos e atividades de apoio à extração de minerais), 17 (Fabricação de celulose, papel e produtos de papel), 19 (Fabricação de coque, de produtos derivados do petróleo e de biocombustíveis), 20 (Fabricação de produtos químicos), 22 (Fabricação de produtos de borracha e de material plástico), 24 (Metalurgia) e 25 (Fabricação de produtos de metal, exceto máquinas e equipamentos).
+- Bloco 3: formado por empresas cujos sistemas de produção são intensivos em trabalho.
+Na amostragem da Sondagem da Inovação, são as empresas pertencentes às CNAEs 13 (Fabricação de produtos têxteis), 14 (Confecção de artigos do vestuário e acessórios), 15 (Preparação de couro e fabricação de artefatos de couro, artigos para viagem e calçados), 16 (Fabricação de produtos de madeira), 18 (Impressão e reprodução de gravações), 23 (Fabricação de produtos de minerais não-metálicos), 31 (Fabricação de móveis) e 32 (Fabricação de produtos diversos).
+- Bloco 4: são as atividades efetivamente pertencentes ao agronegócio; uma vez que a Sondagem refere-se exclusivamente às empresas industriais, o Bloco 4 é representado por empresas cujos sistemas produtivos são relacionados ao agronegócio, pertencentes às CNAEs 10 (Fabricação de produtos 24 BRAZILIAN KEYNESIAN REVIEW, (1), p.15-37, 1st Semester/2020 alimentícios), 11 (Fabricação de bebidas) e 12 (Fabricação de produtos do fumo).
+No 2º trimestre de 2013, 86 empresas responderam pelo Bloco 4.
+A periodicidade das informações é trimestral e o período de estimação compreende os trimestres dos anos de 2010 a 2016, quando foram realizadas as pesquisas da Sondagem8 .
+As informações para a taxa de inovação e pessoal com nível superior empregado em atividades exclusivas de P&D foram extraídas diretamente do banco de dados da Sondagem da Inovação, a partir da respectiva agregação nos 4 blocos setoriais.
+Para o nível de atividade, por sua vez, foi utilizado como proxy o índice de produção física industrial, mensurado e divulgado pelo IBGE (2017).
+A periodicidade desse índice é mensal e a desagregação setorial corresponde à CNAE dois dígitos, de modo que para compatibilização com o banco de dados deste estudo foram obtidas as médias para os trimestres e blocos setoriais.
+A taxa de inovação é uma medida definida em percentual, a produção física industrial é representada por um índice de base fixa (janeiro de 2012 igual a 100) e o pessoal empregado em P&D corresponde ao número de pessoas empregadas nas atividades de P&D das empresas pesquisadas.
+Todos os dados estão em sua forma logarítmica.
+Dessa forma, o painel de dados conta com 4 blocos setoriais, 26 trimestres e 3 variáveis 3.3.
+Metodologia: Modelo de dados em painel O método escolhido para a estimação da correlação entre nível de atividade industrial e taxa de inovação das empresas caracteriza-se por um painel setorial.
+O empilhamento de dados em painel é adequado ao presente estudo por possibilitar captar as idiossincrasias das unidades estudadas.
+Os modelos de regressão com dados em painel são também chamados de dados combinados, por agregar uma combinação de séries temporais e de observações em corte transversal multiplicadas por T períodos de tempo.
+Nesse caso, há muito mais informação para se estudar o fenômeno e graus de liberdade adicionais.
+Pode-se destacar algumas vantagens dos dados em painel em relação ao uso específico do corte transversal ou das séries temporais (Baltagi, 2008; Hsiao, 2003).
+Da maneira mais simples, um modelo de dados em painel toma a forma da equação (1), a seguir: 8 A série inicia no primeiro trimestre de 2010 e termina no segundo trimestre de 2016.
+A partir do terceiro trimestre de 2016, houve uma mudança metodológica na Sondagem, com alteração no universo das empresas respondentes, o que impede a comparabilidade com os dados da série original.
+Yit = α1 + β1X1it + β2X2it + .+ μit (1) 25 BRAZILIAN KEYNESIAN REVIEW, (1), p.15-37, 1st Semester/2020 A equação (1) corresponde a uma regressão combinada, que empilha as informações temporalmente.
+Ela pode ser computada por Mínimos Quadrados Ordinários (MQO), método que desconsidera as individualidades de cada unidade de análise (indivíduo, país, setor) ao empilhar todas as observações e pressupor que todos os coeficientes (intercepto e coeficientes angulares) são constantes ao longo do tempo e entre as diferentes unidades de corte transversal.
+Para a modelagem dos efeitos não observados existem duas possibilidades: os efeitos fixos e os efeitos aleatórios.
+No modelo de efeitos fixos considera-se que o intercepto específico de cada indivíduo pode estar correlacionado com um ou mais regressores.
+Quanto ao modelo de efeitos aleatórios, pressupõe-se que o intercepto (aleatório) de uma unidade individual não esteja correlacionado com as variáveis explicativas (Wooldridge, 2002).
+A abordagem de efeitos fixos considera que diferenças entre as unidades de corte transversal podem ser captadas por diferentes interceptos, sendo um intercepto para cada unidade (indivíduo, país, setor).
+Neste caso, a equação (1) toma a forma: !!"=##+%!"&!"+'#(#!"+'$($!"+⋯+*!"
+(2) Em que: Dit representa as variáveis Dummy de cada unidade seccional, e, somando-se o intercepto comum do modelo ao coeficiente estimado de cada dummy (α + λit) obtém-se o intercepto específico a cada unidade (indivíduo, país, setor).
+Os resultados alcançados pelo empilhamento de dados e pela estimação em painel por efeitos fixos, em que se considera a existência de efeitos individuais, podem ser comparados por meio do teste de Chow de restrição, como recomenda Baltagi (2008).
+O modelo restrito é o modelo com ausência de efeitos, enquanto o modelo irrestrito é aquele com presença de efeitos.
+A rejeição da hipótese nula, segundo a qual os efeitos não existem, implica que o modelo de efeitos fixos seja o mais adequado.
+É importante destacar que assumir que o efeito não observado seja aleatório não implica que o efeito aleatório seria a melhor de estimação a ser adotada.
+No caso do presente modelo, ao considerar que as variáveis não são correlacionadas, o método de efeitos aleatórios é o mais apropriado.
+A escolha entre o modelo de efeitos fixos ou de efeitos aleatórios é feita por meio da aplicação do teste de Hausman.
+O teste formulado por Hausman tem uma distribuição !$ assintótica.
+Se a hipótese nula for aceita, como foi o caso do presente artigo (Ho: efeitos aleatórios são consistentes e H1: efeitos aleatórios não são 26 BRAZILIAN KEYNESIAN REVIEW, (1), p.15-37, 1st Semester/2020 consistentes) pode-se afirmar que o modelo de efeitos aleatórios é o mais adequado (Greene, 2003).
+Para cumprir os propósitos deste estudo, foi estimada a regressão que possibilita avaliar a existência de uma relação significativa entre o nível de atividade industrial e a taxa de inovação.
+É importante frisar que a intenção deste trabalho é avaliar a correlação entre essas duas variáveis, no sentido do nível de atividade para a taxa de inovação.
+No entanto, a causalidade entre essas duas variáveis não será objeto de estudo, uma vez que, conforme a teoria, a causalidade reversa também pode ser considerada, de modo que a taxa de atividade pode ser determinante da taxa de inovação e, por outro lado, a taxa de inovação pode ter influência sobre o nível de atividade.
+Este problema, muito comum nos fenômenos econômicos, é conhecido como endogeneidade, definida como a grande possibilidade de que a variável explicativa sofra alguma influência da variável que ela deveria explicar, de modo que a variável explicativa se torna correlacionada com o termo de erro estocástico.
+Uma maneira de lidar com esse problema é a partir do uso de variáveis instrumentais (IV) e a estimação via GMM (Generalized Method of Moments).
+Uma dificuldade para a estimação GMM se encontra no tamanho da amostra, limitada temporalmente em 26 trimestres (2010-1 a 2016-2).
+Conforme Wooldridge (2010), estimadores IV são viesados para pequenas amostras e suas propriedades para amostras finitas são frequentemente problemáticas.
+Contudo, de acordo Baltagi e Liu (2009), é possível estimar modelos com pequenas amostras por variáveis instrumentais.
+Para os autores, o estimador EC2SLS (Mínimos quadrados em 2-estágios com componente de erro), utilizado para estimar o modelo proposto é mais eficiente que o estimador G2SLS (mínimos quadrados generalizados em 2-estágios) para amostras finitas (BALTAGI e LIU, 2009).
+Em seu trabalho sobre a eficiência dos estimadores em equações simultâneas, Batalgi e Liu (2009) identificaram que sob condições de amostra pequena, a matriz de diferenças entre os estimadores EC2SLS e G2SLS era semi-definida positiva.
+Entretanto, as suas diferenças tenderiam para zero quando a amostra convergisse para o infinito, o que demonstraria ganhos de eficiência do estimador EC2SLS quando utilizado para amostra finitas9.
+De acordo com Rocha (2011), para um modelo de regressão com dados em painel e componente de erro, tem-se: 9 Para maiores detalhes: Baltagi e Liu (2009) e Han (2016).
+27 BRAZILIAN KEYNESIAN REVIEW, (1), p.15-37, 1st Semester/2020 +!"=,!"´'+-!"
+.=1,2,…,3 5=1,2,3,….8 (3) Onde: -!"=*!+9!"
+"´ com (lxg) observações de variáveis explanatórias que incluem regressores endógenos.
+é um conjunto de k instrumentos exógenos cuja equação pode ser reescrita do seguinte modo: !=,´'+-, onde Y e u são vetores (nxl), Z é um vetor (nxg) e X (nxk), com n=NT.
+A estimação por IV permite estimações consistentes quando as variáveis explicativas são correlacionadas com os termos de erro de uma relação de regressão.
+Nesta situação, o MQO geralmente produz estimativas viesadas e inconsistentes.
+No entanto, se um instrumento está disponível, estimativas consistentes ainda podem ser obtidas.
+Um instrumento é uma variável que não se pertence à equação explicativa, mas está correlacionada com as variáveis explicativas.
+Em modelos lineares, existem dois requisitos principais para a utilização de um IV: i)O instrumento deve ser correlacionado com as variáveis endógenas explicativas, condicionada a outras variáveis; ii) O instrumento não pode ser correlacionado com o termo de erro na equação explicativa, isto é, o instrumento não pode sofrer o mesmo problema que a variável original para a qual ele servirá de instrumento.
+Os instrumentos escolhidos para auxiliar a estimação por EC2SLS são o número de doutores e o percentual do faturamento gasto com P&D.
+A escolha dessas variáveis se justifica, a priori, por serem variáveis relevantes para a dinâmica da inovação e para a formação de capital humano do país, sendo, portanto, instrumentos correlacionados com as variáveis explicativas.
+Estimação e Análise dos Resultados Antes da estimação do modelo, foram calculadas estatísticas descritivas de todas as variáveis, assim como a matriz de correlação.
+Os resultados encontram-se no anexo 1 e 2, respectivamente.
+A partir da forma funcional (equação 3), realizaram-se os demais processos de estimação.
+Em primeiro lugar, testou-se para a existência de raiz unitária nas séries de dados do painel.
+Neste trabalho, utiliza-se o teste de raiz unitária para painel tipo Fisher, o qual é baseado no teste de Dickey-Fuller Aumentado (ADF).
+Neste teste, a hipótese nula define a presença de raiz unitária na série temporal, de modo que sua rejeição pode ser entendida como a ausência de raiz unitária.
+28 BRAZILIAN KEYNESIAN REVIEW, (1), p.15-37, 1st Semester/2020 A Tabela 1 apresenta os resultados para o teste de Fisher e mostra que se permitiu rejeitar a presença de raiz unitária nas séries da taxa de inovação e do número de trabalhadores com curso superior empregados em atividades de P&D a um nível de 1% de significância para todas as estatísticas utilizadas.
+Para o nível de atividade, contudo, todas as estatísticas foram estatisticamente não significativas, de modo que não se deve rejeitar a hipótese de presença de raiz unitária nesta série.
+Assim, para a correção da raiz unitária, a variável nível de atividade deve ser introduzida no modelo em primeira diferença, o que conduz a série a se tornar estacionária.
+Teste de raiz unitária tipo Fisher Taxa de inovação Nível de atividade N. de trabalhadores empregados em P&D Inverse chi-squared 41,94*** 0,46NS 97,04*** Inverse normal -4,38*** 4,29NS -8,41*** Inverse logit -5,82*** 4,87NS -13,67*** Modified inverse chi-squared 8,48*** -1,89NS 22,26*** Fonte: Elaboração própria.
+Nota: * Significativo a 10%; ** Significativo a 5%; *** Significativo a 1%; NS – não significativo.
+Em relação ao modelo econométrico, estimou-se o painel de dados para os 4 blocos setoriais ao longo do primeiro trimestre de 2010 e segundo trimestre de 2016.
+A Tabela 2 descreve os resultados das estimações por efeitos aleatórios.
+A escolha pelo modelo de efeitos aleatórios foi feita com base no teste de Hausman, que foi não significativo e, portanto, não permitiu rejeitar a hipótese nula de que o modelo de efeitos aleatórios é o mais adequado.
+Cabe ressaltar que a regressão apresentou teste de significância conjunta (teste de Wald para MQG) estatisticamente significativo, permitindo rejeitar a hipótese de que todas as estimativas são estatisticamente iguais a zero.
+Vale ainda lembrar que a variável explicativa nível de atividade, cuja proxy é o índice de produção física industrial, foi inserida no modelo em sua primeira diferença, tendo em vista a presença de raiz unitária na série.
+Baseando-se no teste de Breusch-Pagan, rejeitou-se a hipótese de homocedasticidade, ou seja, o modelo apresentou indícios de heterocedasticidade10.
+A Tabela 2 apresenta os resultados do modelo de efeitos aleatórios, que sugerem que a variação do nível de atividade, principal variável de interesse desse 10 Teste de Breusch-Pagan = 14,38, p-value = 0,0001.
+29 BRAZILIAN KEYNESIAN REVIEW, (1), p.15-37, 1st Semester/2020 estudo, está significativamente e positivamente correlacionada com a decisão das empresas a inovarem em produto e processo, a um nível de significância de 5%.
+Tabela 2: Modelos de efeitos aleatórios Coeficiente Erro padrão z p Intercepto -3,44*** 0,80 -4,32 0,000 Nível de atividade – Primeira diferença 0,43** 0,17 2,53 0,012 Número de trabalhadores empregados em P&D 0,13*** 0,02 5,48 0,000 Número de observações 88 Número de grupos 4 Teste de significância global (Wald X2) 35,35*** Teste de Hausman 1,15NS 0,9714 Fonte: Elaboração própria.
+Nota: * Significativo a 10%; ** Significativo a 5%; *** Significativo a 1%; NS – não significativo.
+Contudo, considerando todos os problemas provenientes da estimação do modelo de painel curto, isto é, considerando a existência de omissão de variáveis relevantes, erros de mensuração, simultaneidade e heterocedasticidade, o método de regressão por IV, baseado em Baltagi e Liu (2009) é uma solução que fornece estimadores consistentes dos parâmetros de interesse, conforme apresentado na seção 3.3 (Metodologia).
+Assim, optou-se por uma nova estimação, cujos resultados podem ser observados na Tabela 3.
+Modelo de efeitos aleatórios utilizando variáveis instrumentais (EC2SLS) Coeficiente Erro padrão z p Intercepto -3,71*** 0,61 -6,03 0,000 Nível de atividade – Primeira diferença 0,12*** 0,27 4,43 0,000 Número de trabalhadores empregados em P&D 0,50*** 0,13 3,94 0,000 Número de observações 93 Número de grupos 4 Variáveis instrumentais: número de doutores, Percentual do faturamento gasto com P&D Teste de significância global (Wald X2) 33,77*** 0,0000 Teste de Hausman 13,72*** 0,0010 Fonte: Elaboração própria.
+Nota: * Significativo a 10%; ** Significativo a 5%; *** Significativo a 1%; NS – não significativo.
+Baseado nos resultados da Tabela 3, será avaliada a relação entre nível de atividade econômica e inovação tecnológica na indústria brasileira para o período 30 BRAZILIAN KEYNESIAN REVIEW, (1), p.15-37, 1st Semester/2020 compreendido entre 2010-2016.
+O primeiro passo foi observar que o modelo estimado pelo método de mínimos quadrados em 2-estágios com componente de erro (EC2SLS) obteve todas as variáveis significativas e positivas.
+O desempenho do teste de Hausman que compara a consistência e a eficiência do modelo por variáveis instrumentais foi significativo, rejeitando a hipótese nula de que o modelo somente com efeitos aleatórios seria o mais adequado.
+Além disso, a regressão apresentou teste de significância conjunta para o teste de Wald, permitindo afirmar que os parâmetros são significativos conjuntamente (1%).
+Quanto às variáveis instrumentais utilizadas (número de doutores e o percentual do faturamento gasto com P&D), ambas possuem representatividade, corroborando a importância no tratamento da estimação, ao inserir um conjunto de instrumentos que tem por objetivo retirar o viés da endogeneidade.
+A propósito, ambas as variáveis demonstram a magnitude e significância estatística da influência do ensino superior no crescimento e avanço da inovação no Brasil.
+Para a condição de validade dos instrumentos usados na estimação da Tabela 3, foi realizado o teste de Sargan11.
+Se os instrumentos são válidos, a hipótese nula de adequação dos instrumentos não deve ser rejeitada.
+Nesse caso, não há evidências de inadequação do conjunto de instrumentos utilizados.
+O coeficiente estimado mostra que, um aumento de 1% na variação do nível de atividade estaria relacionado a uma elevação de 0,12% na taxa de inovação.
+Portanto, a hipótese inicial deste estudo, de que a taxa de inovação estaria positivamente e significativamente relacionada ao nível de atividade, ou, de que os ciclos econômicos interferem na decisão de inovar, é corroborada pelas estimativas do modelo de mínimos quadrados em 2-estágios com componente de erro (EC2SLS).
+A observação direta das variáveis também reforça a percepção de que atividade econômica e inovação tecnológica apresentam estreita relação na indústria brasileira.
+Os dados obtidos pela Sondagem de Inovação mostram uma queda considerável da taxa de inovação entre 2010 e 2016, em paralelo à trajetória de declínio da atividade econômica no período.
+Tal resultado se explica principalmente pelo fato de que o investimento em máquinas e equipamentos é o principal responsável pela inovação nas firmas industriais brasileiras.
+Em um ambiente de desaceleração do crescimento econômico e da demanda, as empresas enfrentam maiores dificuldades para financiar tais investimentos, ao mesmo tempo em que tendem a se tornar mais cautelosas frente 11 Teste de Sargan: chi2(49): 60,92.
+Probabilidade do teste: 0,1182.
+31 BRAZILIAN KEYNESIAN REVIEW, (1), p.15-37, 1st Semester/2020 aos custos e riscos associados à introdução de novos produtos.
+Assim, o cenário de maior incerteza quanto à recuperação dos investimentos em máquinas e equipamentos pode ser considerado um elemento fundamental para a redução da atividade inovativa das empresas pesquisadas (Libânio et al, 2019).
+Além disso, a variável que representa o nível de atividade como determinante da taxa de inovação mostra o esforço e o empenho pelas firmas brasileiras (sob a sua variação ou mudança), no período que abrange a pesquisa.
+Nesse caso, o nível de atividade é muito importante na diferenciação e na competitividade das empresas.
+Contudo, a busca pela inovação caracteriza-se por um longo processo, que requer a consolidação das capacidades internas de aprendizado (Paranhos e Hasenclever, 2017).
+Logo, pode-se presumir que para a sobrevivência das empresas, o fator chave para aumentar e potencializar a sua taxa de inovação está centrado nas suas estratégias, nas condições de mercado, na tomada de riscos econômicos excessivos, no custo de investimento e na mão de obra qualificada.
+Todos esses fatores auxiliam no fortalecimento do nível de atividade das empresas e, consequentemente, na sua capacidade de desenvolvimento de novos produtos e processos (Greenan e Lorenz, 2013; Winter, 2006).
+Em relação à variável de controle, os resultados encontrados também sugerem uma relação positiva e significativa entre a quantidade de ocupados em atividades de P&D das empresas, considerando como nível de qualificação a obtenção de curso superior, com a taxa de inovação.
+Isto é, quanto maior o número de ocupados qualificados nas atividades de P&D, maior a taxa de inovação.
+Sendo altamente significativa (1% de significância), a estimativa tem coeficiente de 0,50%.
+Nesse sentido, a qualificação seria variável relevante para explicar a decisão de inovar das empresas.
+Ademais, os resultados para o número de pessoal ocupado com curso superior representam os esforços em pesquisa no Brasil e configuram a principal forma de a empresa realizar as atividades de P&D.
+Deste modo, deve ser salientado que as atividades internas de P&D possuem grande relevância para a grande maioria das empresas.
+Tais atividades, além de serem importantes para a criação de conhecimento usado na geração de inovações, são de extrema utilidade na capacidade de aprendizagem da empresa, o que lhe possibilita uma absorção mais aprofundada do conhecimento externo (Cohen e Levinthal, 1989).
+Quanto maior é a P&D produzida internamente, maior a capacidade da empresa em explorar o conhecimento no ambiente no qual ela atua.
+Para tanto, os investimentos em P&D devem ser regulares.
+32 BRAZILIAN KEYNESIAN REVIEW, (1), p.15-37, 1st Semester/2020 Assim, os resultados alcançados mostram que a dinâmica da taxa de inovação tecnológica na indústria brasileira está intrinsecamente relacionada ao processo de investimentos em P&D e à elevação no ritmo do crescimento econômico.
+A atividade inovativa mostrou-se positiva e relevante frente aos estímulos dados para a sua manutenção e tais resultados evidenciam a importância e a urgência da consolidação da indústria nacional.
+Considerações Finais Este trabalho teve como objetivo central analisar a relação entre nível de atividade econômica e inovação tecnológica na indústria brasileira.
+O ponto de partida, baseado principalmente nas literaturas Evolucionária e Pós-Keynesiana é de que a decisão de investir em inovação está sujeita a alto grau de incerteza e que um maior nível de atividade econômica tende a impactar positivamente os gastos em inovação em virtude de seus efeitos benéficos sobre as expectativas de demanda futura, sobre os investimentos em capital fixo e sobre a disponibilidade de financiamento – externo e interno às firmas – para inovação.
+A hipótese de que a atividade econômica impacta positivamente a taxa de inovação foi testada por meio de uma estimação com dados em painel, a partir das informações da pesquisa denominada Sondagem de Inovação no período compreendido entre 2010 e 2016.
+Os resultados obtidos corroboram a hipótese inicial, uma vez que um aumento de 1% na variação do nível de atividade estaria relacionado a uma elevação de 0,12% na taxa de inovação.
+Assim, tais resultados permitem também inferir que a superação da crise atual e a consequente recuperação da atividade econômica são elementos importantes para a elevação das taxas de inovação na indústria brasileira.
+É oportuno ressaltar que a redução da atividade econômica desde 2010 e a crise política e econômica nos anos recentes prejudicaram o aumento das políticas de inovação e intimidaram a continuidade dessas políticas nos dias atuais.
+Uma das principais conclusões da pesquisa reforça a ideia de que o nível de atividade econômica favorece a inovação tecnológica e, além disso, gera a necessidade de fortalecimento das políticas públicas em prol de medidas de aumento da competitividade da indústria, combinadas com crescimento econômico e qualificação da mão de obra do sistema produtivo.
+Em parte, as etapas alcançadas pela economia brasileira, no período sob estudo, foram significativas.
+Porém, as ameaças aos avanços conquistados podem ser amplificadas e deter o ritmo da evolução produtiva.
+Logo, o trabalho reforça a necessidade de consolidação de políticas públicas que visem o aumento dos investimentos em educação e na Ciência, 33 BRAZILIAN KEYNESIAN REVIEW, (1), p.15-37, 1st Semester/2020 Tecnologia & Inovação (CT&I), combinado com investimentos em P&D e em infraestrutura científica.
+Os resultados apresentados no presente artigo também colaboram na formulação de sugestões de políticas públicas relevantes à economia e ao sistema de inovação brasileiro.
+As propostas a seguir foram apresentadas na IV Conferência Nacional de Ciência, Tecnologia e Inovação (IV CNCTI), realizada em 2010: 1) A consolidação de um sistema nacional de C&T; 2) A formação de alunos e profissionais; 3) A dominação de tecnologias e setores estratégicos para o desenvolvimento nacional; 4) A amplificação do número de pesquisadores nas diversas áreas de CT&I; 5) A melhora na qualidade da educação em todos os níveis de ensino; 6) Utilização da CT&I para o desenvolvimento social.
+Por fim, à medida que as produções científicas e tecnológicas forem mais avançadas, assim como nossos pesquisadores estiverem mais preparados, maiores serão as chances de aumento da capacidade inovadora das empresas.
+Da mesma forma, quanto mais qualificada e capacitada for a população, maior a possibilidade de melhorar o desempenho da estrutura social brasileira.
+No intuito de futuras contribuições à literatura, poder-se-ia averiguar os efeitos das regiões brasileiras sobre o nível de atividade de atividade econômica e de inovação tecnológica da indústria.
+Ademais, um estudo mais aprofundado utilizando a metodologia de dados em painel sobre todos os Estados permitiria uma análise mais apurada do sistema de inovação regional do Brasil, apontando suas potencialidades e fragilidades.
+34 BRAZILIAN KEYNESIAN REVIEW, (1), p.15-37, 1st Semester/2020 Referências AGÿNCIA BRASILEIRA DE DESENVOLVIMENTO INDUSTRIAL (s.d.).
+Brasília: ABDI, vários números.
+Disponível em < Acesso em: 18 set.
+Econometric analysis of panel data.
+Baltagi, B. H., & Liu, L. (2009).
+A note on the application of EC2SLS and EC3SLS estimators in panel data models.
+Statistics & Probability Letters, 79(20), 2189-2192.
+Busato, M. I., Reif, A. C., & Possas, M. L. (2019) Uma tentativa de integração entre Keynes e Kalecki: investimento e dinâmica.
+Brazilian Journal of Political Economy, 39(3), 509-526. de Carvalho, F. J. C. (2015).
+Keynes on expectations, uncertainty and defensive behavior.
+Brazilian Keynesian Review, 1(1), 44-54.
+Carvalho, L. D. D., & Oreiro, J. L. (2007).
+A dinâmica da taxa de lucro, da taxa de juros e do grau de utilização da capacidade produtiva em um modelo pós-keynesiano.
+Estudos Econômicos (São Paulo), 37(4), 903-936.
+Cohen, W. M., & Levinthal, D. A.
+Innovation and learning: the two faces of R & D. The economic journal, 99(397), 569-596.
+Colocando as evidências em ordem: macroeconomia de Keynes versus velho e novo keynesianismo.
+Institutions and markets in a dynamic world.
+The manchester school, 56(2), 119-146.
+Dosi, G., Freeman, C., & Fabiani, S. (1994).
+The process of economic development: introducing some stylized facts and theories on technologies, firms and institutions.
+Industrial and corporate change, 3(1), 1-45.
+10.1093/icc/3.1.1 Dow, S. (2013).
+Keynes on knowledge, expectations and rationality.
+Rethinking expectations: The way forward for macroeconomics, 112.
+35 BRAZILIAN KEYNESIAN REVIEW, (1), p.15-37, 1st Semester/2020 Fagerberg, J.
+Technology and international differences in growth rates.
+Journal of economic Literature, 32(3), 1147-1175.
+The «National System of Innovation»in historical perspective.
+Cambridge Journal of Economics, 19(1), 5-24.
+Real exchange rate levels and economic development: theoretical analysis and econometric evidence.
+Cambridge Journal of Economics, 32(2), 273-288 Gala, P., & Libânio, G. (2011).
+Taxa de câmbio, poupança e produtividade: impactos de curto e longo prazo.
+Economia e Sociedade, 20(2), 229-242 Gonçalves, E. (2006).
+Estrutura urbana e atividade tecnológica em Minas Gerais.
+Economia Aplicada, 10(4), 481-502.
+Greenan, N., & Lorenz, E. (2013).
+Developing harmonized measures of the dynamics of organizations and work.
+In Handbook of Innovation Indicators and Measurement.
+Efficiency comparison of random effects two stage least squares estimators.
+Cambridge, UK: Cambridge University Press.
+Kalecki [1954] Kalecki, M., Sraffa, P., & Robinson, J.
+Teoria da dinâmica econômica: ensaio sobre as mudanças cíclicas e a longo prazo da economia capitalista.
+Keynes, J. M., & Hutchison, T. W. (1983).
+The Collected Writings of John Maynard Keynes, Volumes I-VI and XV-XVI.
+The Economic History Review, 26(1), 141-152.
+Libanio, G., Dias, A. V. C., dos Santos, U. P., Ferreira, C. G., & Londe, A. C. (2019).
+Inovação na indústria brasileira: uma análise a partir dos dados de um painel de empresas da Sondagem de Inovação.
+Gestão e Sociedade, 13(35), 3011-3037.
+36 BRAZILIAN KEYNESIAN REVIEW, (1), p.15-37, 1st Semester/2020 Nelson, R. R.
+National innovation systems: a comparative analysis.
+Oxford University Press on Demand.
+Nelson, R., & Winter, S. (1982).
+An Evolutionary Theory of Economic Change, Cambridge University Press.
+240-265 in Fagerberg, J., Mowery, DC, Nelson, RR.
+New York: Oxford University Press, 2009.
+Paranhos, J., & Hasenclever, l. (2017).
+Teoria da firma e empresa inovadora.
+RAPINI, MS; SILVA, LA ALBUQUERQUE, EM (eds.)
+Economia da Ciência, Tecnologia e Inovação.
+Padrão de financiamento aos investimentos em inovação no Brasil (No.
+Cedeplar, Universidade Federal de Minas Gerais.
+Economic and Social Policies Inconsistency, Conventions and Crisis in the Brazilian Economy, 2011-2016.
+The Brazilian Economy since the Great Financial Crisis of 2007/2008.
+(2011), Crescimento, Fronteira Tecnológica e a Hipótese da Relatividade do Capital Humano, Tese de doutoramento, Unicamp, 145p.
+The Real Exchange Rate and Economic Growth.
+Brookings Papers on Economic Activity 2008(2), 365-412. doi:10.1353/eca.0.0020.
+Souto, K. C. D., & Resende, M. F. C. (2018).
+Real exchange rate and innovation: empirical evidences.
+Brazilian Journal of Political Economy, 38(2), 280-303.
+Toward a neo-Schumpeterian theory of the firm.
+Industrial and Corporate Change, 15(1), 125-141.
+Some fundamental inadequacies of the Washington Consensus: misunderstanding the poor by the brightest.
+Econometric analysis of cross section and panel data MIT press.
+Econometric analysis of cross section and panel data.
+37 BRAZILIAN KEYNESIAN REVIEW, (1), p.15-37, 1st Semester/2020 ANEXO Anexo 1.
+Estatísticas descritivas das variáveis Variáveis Variâncias Média Desvio Padrão Mínimo Máximo Observações Taxa de inovação overall -0,6653 0,2043 -1,4872 -0,1827 N=104 between 0,1314 -0,8485 -0,5370 n=4 within 0,1694 -1,3040 -0,2208 T=26 Número de pessoal ocupado com P&D com curso superior overall 5,8954 0,9168 3,9120 -8,3502 N=104 between 0,8541 5,0082 6,9441 n=4 within 0,5368 4,7993 7,7535 T=26 Nível de atividade overall 4,5728 0,1046 4,2802 4,8391 N=104 between 0,0064 4,5663 4,5802 n=4 within 0,1044 4,2867 4,8434 T=26 Fonte: Elaboração própria dos autores.
+Matriz de correlação Taxa de inovação Número de pessoal ocupado com P&D com curso superior Nível de atividade Taxa de inovação 1 Número de pessoal ocupado com P&D com curso superior 0,544 1 Nível de atividade 0,2896 -0,0354 1 Fonte: Elaboração própria dos autores.

@@ -1,0 +1,203 @@
+Reciis – Rev Eletron Comun Inf Inov Saúde.
+;12(4) | [www.reciis.icict.fiocruz.br] e-ISSN 1981-6278ARTIGOS ORIGINAIS Análise dos pedidos de patente de insulina depositados no Brasil Analysis of the patent applications for insulin in Brazil Análisis de las solicitudes de patente de insulina depositadas en Brasil Carlos Eduardo Collazo Pontes1,a carlospontes@far.fiocruz.br | Wanise Borges Gouvea Barroso1,b wanisefar@gmail.com | 1 Fundação Oswaldo Cruz, Instituto de Tecnologia em Fármacos, Núcleo de Inovação Tecnológica.
+a Mestrado em Gestão, Pesquisa e Desenvolvimento na Indústria Farmacêutica pela Fundação Oswaldo Cruz.
+b Doutorado em Sciences de l'Information et de la Communication pela Universite de Toulon.
+Resumo Entre os medicamentos biotecnológicos, a insulina tem um papel extremamente significativo, pois no ranking mundial de medicamentos ocupa um lugar entre os mais comercializados e, no Brasil, é o insumo farmacêutico que gera mais gastos com importação.
+A insulina é um dos principais medicamentos utilizados para o diabetes, doença que acomete 415 milhões de pessoas e consome 12% das despesas mundiais de saúde.
+O objetivo do presente estudo consiste em analisar a atual situação no ranking de depósitos de pedidos de patente de insulina no Brasil.
+A busca dos documentos de patentes foi realizada utilizando a base de dados Orbit Intelligence®.
+Os resultados observados demonstram a ausência no Brasil de indústrias nacionais inovando, por meio de patentes, nessa área biotecnológica, deixando o país dependente de aquisição da insulina no mercado externo, o que pode acarretar um desabastecimento nacional.
+Dos três países estudados, somente os Estados Unidos apresenta índices de patenteamento que demonstram avanço e investimento em pesquisa e desenvolvimento.
+É necessário aumentar o investimento em P&D e criar políticas públicas que incentivem a inovação do estudo na área biotecnológica no Brasil.
+Palavras-chave: Medicamento; Biotecnologia; Insulina; Patente; Mapeamento.
+Abstract Among the biotechnological drugs, insulin plays an extremely significant role because it occupies the world rank of most commercialized drugs and, in Brazil, it is the pharmaceutical input that generates more expenses with importation.
+Insulin is one of the main medicines used for diabetes, the disease that affects 415 million people and consumes 12% of the world's health expenses.
+This study examines the present classification of patent applications for insulin in Brazil.
+The search for patent documents was carried out using an Orbit Intelligence® database.
+The results show an absence in Brazil of national industries innovating by means of Pontes CEC, Barroso WBG 430 Reciis – Rev Eletron Comun Inf Inov Saúde.
+;12(4) | [www.reciis.icict.fiocruz.br] e-ISSN 1981-6278patents in the biotechnology area, becoming it dependent on external market, which can result in a national insulin shortage supply.
+Taking account the three countries studied, only the United States of America has a number of patents for insulin that demonstrates progress and investment in research and development.
+It is necessary to increase investment in R&D and public policy-making encouraging innovation of the studies in the biotechnology area in Brazil.
+Keywords: Drug; Biotechnology; Insulin; Patent; Mapping.
+Resumen Entre los medicamentos biotecnológicos, la insulina tiene un papel bastante significativo, pues ocupa en el ranking mundial de medicamentos una posición junto a los más comercializados y, en Brasil, es el insumo farmacéutico que genera más gastos con importación.
+La insulina es uno de los principales medicamentos utilizados para la diabetes, enfermedad que afecta a 415 millones de personas y consume 12% de los gastos mundiales de salud.
+El objetivo del presente estudio consiste en analizar la actual situación en el ranking de depósitos de solicitudes de patente de insulina en Brasil.
+La búsqueda de documentos de patentes se realizó utilizando la base de datos Orbit Intelligence®.
+Los resultados observados demuestran la ausencia en Brasil de industrias nacionales innovando, a través de patentes, en esta área biotecnológica, dejando el país dependiente de la adquisición de la insulina en el mercado externo, lo que puede acarrear un desabastecimiento nacional.
+De los tres países estudiados, sólo los Estados Unidos presentan índices de patentamiento que demuestran avance y inversión en investigación y desarrollo.
+Es necesario aumentar la inversión en I&D y crear políticas públicas que incentiven la innovación del estudio en el área biotecnológica en Brasil.
+Palabras clave: Biotecnologia; Medicamento; Insulina; Patente; Mapeamento.
+INFORMAÇÕES DO ARTIGO Contribuição dos autores: Concepção e desenho do estudo: Carlos Eduardo Collazo Pontes e Wanise Borges Gouvea Barroso.
+Aquisição, análise ou interpretação dos dados: Carlos Eduardo Collazo Pontes e Wanise Borges Gouvea Barroso.
+Redação do manuscrito: Carlos Eduardo Collazo Pontes e Wanise Borges Gouvea Barroso.
+Revisão crítica do conteúdo intelectual: Carlos Eduardo Collazo Pontes e Wanise Borges Gouvea Barroso.
+Declaração de conflito de interesses: Este trabalho não apresenta conflito de interesse.
+Fontes de financiamento: Não houve.
+Agradecimentos/Contribuições adicionais: Não há.
+Histórico do artigo: Submetido: 08.jun.2017 | Aceito: 16.out.2018 | Publicado: 21.dez.2018.
+Apresentação anterior: Não houve.
+Licença CC BY-NC atribuição não comercial.
+Com essa licença é permitido acessar, baixar (download), copiar, imprimir, compartilhar, reutilizar e distribuir os artigos, desde que para uso não comercial e com a citação da fonte, conferindo os devidos créditos de autoria e menção à Reciis.
+Nesses casos, nenhuma permissão é necessária por parte dos autores ou dos editores.Artigo original | Análise dos pedidos de patente de insulina depositados no Brasil 431 Reciis – Rev Eletron Comun Inf Inov Saúde.
+;12(4) | [www.reciis.icict.fiocruz.br] e-ISSN 1981-6278Introdução No século XX, com a Revolução Biotecnológica ou Biologia Molecular, ocorreram mudanças nos padrões de pesquisa, desenvolvimento e produção da indústria farmacêutica, conforme descrito por Moreira, Wanghon, Costa, Mileo, Pereira e Pinheiro1 e Pimentel, Gomes, Landim, Maciel e Pieroni2.
+De acordo com Chamas3, a biotecnologia, com o desenvolvimento das técnicas de base genética nas últimas décadas, tem influenciado os rumos das pesquisas das ciências da vida.
+As mudanças na história dos medicamentos começaram no início do século XIX com o domínio da química científica e o desenvolvimento e aprimoramento de processos para extração, purificação e síntese de ativos farmacêuticos.
+Já no século XX, surgiram as drogas produzidas por síntese química em nível industrial.
+Entretanto, a biotecnologia aparece na área farmacêutica no início da década de 70 do século XX com o desenvolvimento da engenharia genética, produzindo moléculas terapêuticas em células transgênicas de bactérias, leveduras e animais conforme ensinado por Lienard, Sourrouille, Gomord e Faye4.
+Em 2007, conforme mostram Evaluate Pharma5, Rader6 e Walsh7, as vendas mundiais de medicamentos biotecnológicos totalizaram quase US$ 100 bilhões.
+Dentro da indústria farmacêutica, que movimentou US$ 600 bilhões, foi o setor que mais cresceu.
+Insulina A história da insulina é descrita por Quianzon e Cheikh8 e apresenta marcos importantes.
+A saber: • em 1922, a descoberta da insulina marcou um grande avanço no tratamento de pacientes com diabetes.
+Nos anos seguintes, a empresa Eli Lilly começou a produzir insulina do pâncreas animal, mais pura e potente; • na década de 1930, desenvolveram-se as insulinas de animais de ação prolongada, a partir da adição de protamina e zinco na formulação; • em 1978, foi preparado o primeiro DNA recombinante de insulina humana por pesquisadores da empresa Genentech®; • em 1982, a Genentech® comercializou a insulina humana, que foi identificada como o primeiro biofármaco; • em 1996, foi aprovado o primeiro análogo de insulina de curta duração, denominado Lispro, para reduzir a incidência de hipoglicemia, ou seja, foram desenvolvidas insulinas fisiológicas que imitam as secreções basal e prandial; • em 2006, a Pfizer iniciou a comercialização do Exubera, a primeira insulina inalada.
+Porém, dois anos depois foi retirada do mercado, pois obteve baixa aceitação dos pacientes.
+A importância dos medicamentos biotecnológicos no mercado é revelada na Figura 1, que apresenta os dez medicamentos mundialmente mais vendidos no último trimestre de 2014.
+Observa-se que 50 % deles (Humira®, Lantus®, Enbrel®, Remicade® e Mabthera®) são de origem biotecnológica, conforme descrito pela Insights9.
+Pontes CEC, Barroso WBG 432 Reciis – Rev Eletron Comun Inf Inov Saúde.
+;12(4) | [www.reciis.icict.fiocruz.br] e-ISSN 1981-6278Os dados da Insights9 ainda apresentam o medicamento Lantus®, uma insulina glargina de longa duração, como o segundo medicamento mais vendido no último trimestre de 2014, com vendas superiores a US$ 10 milhões.
+Figura 1 — Medicamentos mais vendidos no mundo no 4º trimestre de 2014 (US$ milhões) Fonte: Insights (2015)9.
+Conforme a Tabela 1, a área terapêutica com maiores vendas é representada pelos medicamentos oncológicos.
+Os medicamentos antidiabéticos que, em 2014, eram o 4º colocado nesse ranking de vendas, movimentando um pouco mais de US$ 41 bilhões, possuem a previsão de chegar à 2ª colocação em 2020, com vendas de mais de US$ 60 bilhões, superando os medicamentos antirreumáticos e antivirais, conforme descreve a Evaluate Pharma5.
+Tabela 1 — Valor de vendas mundiais por área terapêutica em 2014 e previsão para 2020 Ranking Área terapêuticaVendas (US$ bilhões) 2014 2020 1 Oncologia 79,2 153,1 2 Antidiabéticos 41,6 60,5 3 Antirreumáticos 48,8 53,2 4 Antivirais 43,1 49,6 5 Vacinas 26,7 34,7 Fonte: Evaluate Pharma (2015)5.
+A insulina é um dos medicamentos utilizados no tratamento do diabetes, que, em 2015, atingiu 415 milhões de pessoas em todo mundo, e a expectativa é de que no Brasil, até 2040, a doença acometa 23,2 milhões de brasileiros.
+Além disso, do total das despesas com saúde no mundo, 12 % são empregadas no tratamento do diabetes, conforme ensina Walsh7, a Organização Internacional de Saúde (OMS ou, na Artigo original | Análise dos pedidos de patente de insulina depositados no Brasil 433 Reciis – Rev Eletron Comun Inf Inov Saúde.
+;12(4) | [www.reciis.icict.fiocruz.br] e-ISSN 1981-6278sigla em inglês, WHO – World Health Organization)10 e a Federação Internacional de Diabetes (IDF – International Diabetes Federation)11.
+A Associação Brasileira da Indústria Farmoquímica e de Insumos Farmacêuticos12 (Abiquif) ensina, por meio da Tabela 2, que a insulina foi o insumo farmacêutico mais importado pelo país.
+Apesar de, em 2014, ter sofrido uma queda na importação, este continua sendo o insumo com maior valor total de importação.
+Com isso, demonstra-se a importância da utilização desse medicamento e a necessidade de sua produção nacional.
+Tabela 2 – Principais insumos importados pelo Brasil (em US$ milhões) 2012 2013 2014 Insumo US$ Insumo US$ Insumo US$ Insulina 97,1 Insulina 95,1 Insulina 79,0 Acetato de alfa-tocoferol 58,2 Acetato de alfatocoferol 47,7 Acetato de alfatocoferol 50,3 Dipirona 40,9 Amoxicilina 37,3 Amoxicilina 49,5 Heparina 36,4 Heparina 37,1 Acetato de ciproterona 47,9 Acetato de ciproterona 34,7 Acetato de ciproterona 36,2 Heparina 36,3 Fonte: Abiquif (2015)12.
+Os dados de importação corroboram os dados apresentados pela IDF11, que realizou pesquisa para detectar a incidência do diabetes.
+O resultado deu origem ao Atlas do Diabetes 2015, no qual são apresentados alguns números da incidência da doença no mundo e no Brasil.
+A seguir, destacam-se algumas informações do Atlas: Diabetes no mundo (até 2015): • um em cada 11 adultos apresenta a doença (415 milhões); • 12% das despesas de saúde no mundo são gastas com o diabetes (US$ 673 bilhões); • um em cada sete recém-nascidos é afetado pelo diabetes gestacional; • ¾ das pessoas com diabetes vivem em países de baixa renda; • a cada seis segundos, uma pessoa morre devido ao diabetes.
+Diabetes no Brasil (até 2015): • 14,3 milhões de pessoas acometidas com diabetes; • gastos de US$ 21,8 bilhões em saúde com a doença.
+Prospectiva para o ano de 2040: • um em cada dez adultos terá diabetes no mundo (642 milhões de pessoas); • as despesas mundiais de saúde relacionadas a essa enfermidade serão superiores a US$ 802 bilhões; • somente no Brasil, estima-se que 23,2 milhões de pessoas apresentem a doença.
+Em 2012, cerca de 1,5 milhões de mortes no mundo foram atribuídas diretamente ao diabetes.
+Em 2030, estima-se que o diabetes será a 7ª principal causa de morte.
+Além de causar óbito, o diabetes pode desencadear diversas complicações, tais como ataque cardíaco, acidente vascular cerebral, insuficiência Pontes CEC, Barroso WBG 434 Reciis – Rev Eletron Comun Inf Inov Saúde.
+;12(4) | [www.reciis.icict.fiocruz.br] e-ISSN 1981-6278renal, amputação de membros, perda de visão e danos nos nervos.
+Na gravidez, o diabetes aumenta o risco de morte fetal, conforme mostra o relatório da WHO10.
+Assim, o presente estudo analisa os documentos de patente de insulina recuperados em buscas realizadas em bases de dados de patentes, em que se identificam a quantidade de patentes, os principais depositantes (empresas e países) e inventores.
+Método Inicialmente, identificou-se, no site da WIPO13 (World Intellectual Property Organization)ii, o total de pedidos de patente de residentes (pedidos de patente realizados pelos depositantes em seus próprios países) depositados em todas as áreas tecnológicas no Brasil, Estados Unidos e China.
+Foram utilizadas as informações do Perfil da estatística de depósitos de patentes por países (Statistical Country Profiles)ii.
+A base de dados utilizada na busca de pedidos de patente foi a Orbit Intelligence®14, que possui acesso privado.
+Os critérios de busca foram temporal e por classificação internacional de patentes (CIP).
+Foram utilizadas as CIPs "C07K14/62" para insulina e "A61K38/28" para manipulações de medicamentos contendo insulina.
+Em relação ao critério temporal, o período de 01/01/1995 a 30/06/2016 foi selecionado em face de a primeira classificação para insulina ter sido adotada na 6ª edição da CIP.
+Acredita-se que a recuperação de documentos de patente publicados antes dessa versão da CIP não apresentaria resultados relevantes ou importantes para este estudo.
+Foram comparados os pedidos de patente depositados no Brasil com os pedidos depositados nos Estados Unidos e na China.
+A escolha dos Estados Unidos ocorreu devido ao fato de aquele país possuir o maior mercado de produtos biotecnológicos do mundo e realizar altos investimentos em P&D na área biotecnológica.
+Já a escolha da China se deu em função do aumento de seus investimentos na área biotecnológica nos últimos anos e, além disso, por possuir um crescente mercado de medicamentos biotecnológicos e ser integrante do Brics.
+Cabe ressaltar que os pedidos de patente encontrados na busca referem-se aos representantes das famílias de patentes (FamPat), e não a todos os representantes das famílias de patente (FullPat).
+Ou seja, realizou-se a busca por famílias de patentes agrupadas e não por registros individuais de cada família de patentes.
+Os documentos de patentes encontrados na busca foram analisados em relação à quantidade de pedidos depositados, principais depositantes (empresas e países) e principais inventores, de modo a identificaremse as principais empresas detentoras da tecnologia e os principais experts da área.
+Resultados e discussão Identificou-se no site da WIPO13 o total de pedidos de patente de residentes (pedidos de patente apresentados pelos depositantes em seus próprios países), depositados em todas as áreas tecnológicas, e os países considerados no estudo foram Brasil, Estados Unidos e China.
+A Figura 2 representa a quantidade de pedidos de patente depositados por residentes em cada um destes países, no período de 2000 a 2014. i Disponível em: ii Disponível em: Artigo original | Análise dos pedidos de patente de insulina depositados no Brasil 435 Reciis – Rev Eletron Comun Inf Inov Saúde.
+;12(4) | [www.reciis.icict.fiocruz.br] e-ISSN 1981-6278 Figura 2 – Depósitos de pedidos de patentes de residentes do Brasil, Estados Unidos e China Fonte: Os autores, a partir de WIPO (2017)13.
+Analisando-se a Figura 2, verifica-se que desde 2009 a China vem superando a quantidade de depósitos de pedidos de patente de residentes quando comparada com os depósitos realizados pelos Estados Unidos, e, mundialmente, é o país que mais deposita pedidos.
+O Brasil aumentou 50% da quantidade de depósitos de pedidos no período de 2000 a 2014; entretanto, quando a quantidade de pedidos do Brasil é comparada com a da China e dos Estados Unidos no ano de 2014, verifica-se que o aumento de pedidos do Brasil foi insignificante, pelo fato de a quantidade de pedidos brasileiros representar 1,5% dos pedidos chineses e 0,58 % dos norte-americanos.
+Ao buscar somente as patentes referentes à insulina e composições contendo a mesma, utilizando as Classificações Internacionais de Patentes (CIP) "C07K14/62" e "A61K38/28" e o critério temporal adotado, foram recuperadas 4.463 famílias de patente de diversos países, como Estados Unidos, Japão, Austrália e México, disponíveis na base de dados Orbit Intelligence®.
+Na Tabela 3, são listados os dez principais depositantes de pedidos de patente referentes à insulina.
+Destes, seis são laboratórios multinacionais, a saber: Novo Nordisk®, Eli Lilly®, Sanofi®, Merck Sharp Dohme®, Pfizer® e Astrazeneca®.
+Os demais depositantes são um laboratório adquirido por uma multinacional (Genentech®, adquirido pela Roche®), dois laboratórios de P&D (Mannkind® e Emisphere Technologies®) e uma universidade (Universidade da Califórnia).Pontes CEC, Barroso WBG 436 Reciis – Rev Eletron Comun Inf Inov Saúde.
+;12(4) | [www.reciis.icict.fiocruz.br] e-ISSN 1981-6278Tabela 3 – Principais depositantes de pedidos de patente referentes à insulina, no período de 1995 a 2016 Ranking Depositantes Quantidade de documentos 1 Novo Nordisk® 283 2 Sanofi® 111 3 Eli Lilly® 72 4 Emisphere Technologies® 62 5 Merck Sharp & Dohme® 60 6 Universidade da Califórnia® 40 7 Astrazeneca® 40 8 Mannkind® 34 9 Pfizer® 34 10 Genentech® 32 Fonte: Os autores, a partir de Orbit Intelligence (2017)14.
+Verifica-se que os três depositantes que mais depositaram pedidos de patente, representados na Tabela 3, correspondem também aos três principais laboratórios que comercializam insulina, segundo o relatório Insights9 da IMS Health.
+Conforme mostra a Tabela 3, além dos laboratórios multinacionais, observa-se a presença de três depositantes norte-americanos entre os dez que mais depositaram pedidos de patente: Emisphere Technologies®, que realiza o desenvolvimento de novas formulações de agentes terapêuticos; Mannkind®, que possui foco na pesquisa e desenvolvimento de produtos para câncer e diabetes; e Universidade da Califórnia.
+A presença destes depositantes corrobora as informações apresentadas por Reis15, Judice e Baêta16 e Paul, Thangaraj e Ma17, que mostram o interesse dos Estados Unidos na pesquisa e desenvolvimento de produtos para o tratamento da diabetes, à base de insulina, além do estabelecimento de parcerias entre multinacionais e pequenas empresas de P&D e universidades, como as realizadas pelos laboratórios Emisphere Technologies® e Mannkind® e a Universidade da Califórnia.
+Ao analisar a origem geográfica/institucional dos depósitos das famílias de patentes de insulina, conforme mostra a Tabela 4, verifica-se que os Estados Unidos é o país responsável pela maior quantidade de depósitos de pedidos de patente, seguido dos pedidos PCT (WO) e dos pedidos depositados via Escritório Europeu de Patentes (EP).
+A China aparece na 7ª posição, enquanto o Brasil encontra-se na 10ª, com 17% de todo o quantitativo de pedidos.
+Nota-se que, na Tabela 4, a soma da quantidade dos pedidos de patente dos dez principais países é maior do que o resultado da busca (4.463), visto que um pedido de patente pode ter sido depositado em vários países, dependendo apenas da estratégia adotada pelo depositante para determinada tecnologia.
+Tabela 4 – Principais países com depósitos de pedidos de patente de insulina, no período de 1995 a 2016 Ranking País ou Organização Quantidade de pedidos de patente 1º Estados Unidos 3211 2º WO 2834 3º EP 2314 4º Japão 1996 5º Austrália 1804 6º Canadá 1723 7º China 1525 8º Coreia do Sul 862 9º Índia 835 10º Brasil 778 Fonte: Os autores, a partir de Orbit Intelligence (2017)14.Artigo original | Análise dos pedidos de patente de insulina depositados no Brasil 437 Reciis – Rev Eletron Comun Inf Inov Saúde.
+;12(4) | [www.reciis.icict.fiocruz.br] e-ISSN 1981-6278Apesar de o Brasil encontrar-se na 10ª posição, verificou-se que a quantidade de pedidos de patente de insulina depositados nos Estados Unidos foi 313 % maior que a dos pedidos depositados no Brasil, enquanto na China o percentual a mais de depósitos foi de 96%.
+Este menor interesse do Brasil quando comparado aos Estados Unidos e à China pode ser devido ao fato de a P&D e a comercialização do setor de biotecnologia nacional ainda não serem um atrativo para os países desenvolvidos, mesmo com alguns avanços e esforços, conforme afirmam Torres-Freire, Golgher e Callil18.
+A Figura 3 representa a quantidade de depósitos de famílias de patente de insulina feitos no Brasil por ano de prioridade.
+No período de 1995 a 2001, a média de depósitos/ano foi de 26.
+De 2002 a 2011, a média de depósitos/ano foi de 45, correspondendo a um crescimento de73 % em relação ao período anterior.
+Já de 2012 a 2015 houve redução no número de depósitos/ano, visto que a média neste período foi de 35 depósitos, correspondendo a menos 22% do que no período anterior.
+Verifica-se que o interesse pelos depósitos de pedidos de patente de insulina no Brasil está diminuindo e, acredita-se, que pode estar relacionada às questões econômicas, comercial e políticas do país e do mundo.
+Figura 3 – Quantidade de depósitos de famílias de patente de insulina feitos no Brasil pelo ano de prioridade Fonte: Os autores, a partir de Orbit Intelligence (2017)14.
+Ao analisar os pedidos de patente depositados no Brasil, representados na Tabela 5, verifica-se que os três laboratórios com maior quantidade de pedidos, correspondem aos três maiores depositantes mundiais de patente e maiores laboratórios que comercializam insulina, ou seja: Novo Nordisk®, Sanofi® e Eli Lilly®.
+Destaca-se a presença de uma empresa farmacêutica indiana, a Biocon®, em 6º lugar, mostrando o interesse de empresas da Índia em proteger e comercializar seus produtos no Brasil.
+Pontes CEC, Barroso WBG 438 Reciis – Rev Eletron Comun Inf Inov Saúde.
+;12(4) | [www.reciis.icict.fiocruz.br] e-ISSN 1981-6278Tabela 5 – Top 10 dos depositantes de pedidos de patente de insulina no Brasil, no período de 1995 a 2016 Ranking Empresa Quantidade de pedidos de patente 1º Novo Nordisk 55 2º Sanofi 42 3º Eli Lilly 22 4º Novartis 18 5º Mannkind 16 6º Biocon 15 7º Emisphere Technologies 14 8º Pfizer 13 9º Aventis Pharma 13 10º Merck Sharp & Dohme 12 Fonte: Os autores, a partir de Orbit Intelligence (2017)14.
+Estudo realizado por Madeira19 afirma que as multinacionais, também chamadas de Big Pharmas, continuam presentes e fortalecidas no mercado biotecnológico, mesmo após o surgimento das empresas biotecnológicas, como Amgen® e Genentech®, em função dos processos de aquisição, fusão e joint venture.
+Segundo a Associação Brasileira de Desenvolvimento Industrial (ABDI)20, o crescimento da indústria farmacêutica indiana está relacionado ao aumento das exportações de fármacos e medicamentos, inclusive para o Brasil, que é o sexto país que mais importa esses produtos da Índia.
+Entre os dez maiores depositantes no Brasil, não se identificou nenhum laboratório ou universidade brasileira, o que pode demonstrar a falta de capacidade técnico-científica tanto no desenvolvimento de projetos inovadores quanto no desenvolvimento tecnológico das instituições nacionais, conforme descrevem Torres-Freire, Golgher e Callil18, Almeida e Santos21, e a Associação Brasileira das Indústrias de Química Fina, Biotecnológica e suas Especialidades (Abifina)22.
+Por outro lado, a presença de duas empresas de P&D americanas – Mannkind® e Emisphere Technologies® – caracteriza a capacidade técnica dessas empresas para desenvolverem projetos inovadores.
+Ao analisar os depositantes, verifica-se que o depositante brasileiro com maior quantidade de depósitos referente à insulina é a Universidade Estadual de Campinas (Unicamp) com apenas três pedidos de patente depositados, e encontra-se na 41ª posição.
+Acredita-se que a falta de investimento em P&D e de uma política visando à capacitação técnica dos profissionais da área biotecnológica levaram a essa baixa quantidade de pedidos de instituições brasileiras.
+Apresentam-se, na Figura 4, os dez principais países dos depositantes que tiveram interesse em depositar pedidos de patente de insulina no Brasil.
+Os depositantes americanos foram os que mais tiveram interesse em patentear as invenções no Brasil, aparecendo em 1º lugar nesse ranking, com 53% (416 pedidos) do total de pedidos depositados no Brasil (778 pedidos).
+A China não está representada na Figura 4, pois depositou apenas cinco pedidos de patente.
+Artigo original | Análise dos pedidos de patente de insulina depositados no Brasil 439 Reciis – Rev Eletron Comun Inf Inov Saúde.
+;12(4) | [www.reciis.icict.fiocruz.br] e-ISSN 1981-6278 Figura 4 – Dez principais países depositantes de pedidos de patentes de insulina no Brasil Fonte: Os autores, a partir de Orbit Intelligence (2017)14.
+Segundo a WIPO13, os depositantes norte-americanos são os principais depositantes em outros países e essa situação é observada no Brasil.
+Além disso, destaca-se como o país que mais realiza depósitos de patentes na área biotecnológica, dominando o cenário mundial, conforme afirma a Organização para a Cooperação e o Desenvolvimento Econômico (OCDE)23.
+Por outro lado, a China não tem interesse em realizar depósitos no exterior.
+Na Figura 5 representam-se os cinco inventores que mais depositaram pedidos de patente de insulina no Brasil.
+Svend Havelund é o inventor com a maior quantidade de pedidos de patente depositados, somando um total de 14 documentos, pertencentes ao laboratório Novo Nordisk®, empresa dinamarquesa.
+Em segundo lugar, encontram-se os inventores Se-Chang Kwon, da empresa sul-coreana Hanmi Science®, juntamente com o inventor Paul Habermann, da Sanofi®, empresa francesa.
+Os demais inventores são Richard D. DiMarchi, das instituições americanas Eli Lilly® e Indiana University e Svend Ludvigsen, do laboratório dinamarquês Novo Nordisk®.Pontes CEC, Barroso WBG 440 Reciis – Rev Eletron Comun Inf Inov Saúde.
+;12(4) | [www.reciis.icict.fiocruz.br] e-ISSN 1981-6278 Figura 5 – Principais inventores que depositaram pedidos de patentes de insulina no Brasil Fonte: Os autores, a partir de Orbit Intelligence (2017)14.
+A análise dos principais inventores revela que eles atuam junto às grandes multinacionais dominantes da área, as quais possuem as melhores estruturas de P&D, profissionais qualificados, maior investimento em inovação, e adquirem tecnologias em adiantado processo de desenvolvimento das empresas de P&D.
+Outra informação relevante refere-se ao inventor Richard D. DiMarchi, que possui pedidos de patentes de titularidade da universidade – Indiana University Research & Technology – e da indústria farmacêutica - Eli Lilly®, o que sugere a existência de uma colaboração entre esses depositantes.
+Isso vem comprovar o que Felipe24 afirma, ou seja, incentivos são constantemente desenvolvidos para realização de parcerias de longo prazo entre o setor industrial e acadêmico, possibilitando o desenvolvimento tecnológico.
+Considerações finais A importância de se estudar a insulina pode ser explicada pelos gastos na aquisição do insumo que, em 2014, foram de US$ 79 milhões; pela quantidade de pessoas acometidas pela doença no Brasil, cuja estimativa é atingir 23,2 milhões de pessoas até 2040; e pelos US$ 21,8 bilhões gastos com a doença até 2015.
+Com base no estudo aqui apresentado, verificou-se que os Estados Unidos ainda é o país que domina a biotecnologia, pois além de ser o que mais deposita pedido de patente na área, é o que mais comercializa os produtos dessa área.
+O depositante que domina uma tecnologia de determinada área pode ser verificado pelas buscas de patentes.
+Com isso, é possível conseguir vantagem competitiva face aos concorrentes.
+O presente estudo confirma esta possibilidade, já que os três principais laboratórios que comercializam insulina (Novo Nordisk®, Sanofi® e Eli Lilly®) tanto no Brasil como no mundo, também são os maiores depositantes de pedidos de patente.
+A China aparece na 1ª posição no ranking de pedidos de patente de residentes e na 7ª posição no ranking dos principais países de depósitos de pedidos de patente de insulina.
+Entretanto, nenhum inventor ou empresa chinesa apareceram nas pesquisas realizadas no Brasil, confirmando o desinteresse da China em realizar depósitos no exterior.Artigo original | Análise dos pedidos de patente de insulina depositados no Brasil 441 Reciis – Rev Eletron Comun Inf Inov Saúde.
+;12(4) | [www.reciis.icict.fiocruz.br] e-ISSN 1981-6278Em relação ao Brasil, por meio dos depósitos de pedidos de patente, verifica-se a necessidade de maior investimento em pesquisa e produção de medicamentos biotecnológicos, tais como a insulina, devido ao valor de comercialização, à tendência de aumento na aquisição de unidades farmacêuticas e ao aumento de casos de diabetes.
+Além disso, os depositantes de pedido de patente no país são de origem estrangeira.
+No Brasil, há um alto consumo de insulina e os preços praticados pelos laboratórios são considerados elevados.
+Além disso, os laboratórios públicos e/ou privados nacionais não se encontram nas buscas por patentes, o que revela a manutenção da dependência do mercado internacional para a sua aquisição.
+Isso pode desencadear um desabastecimento desse medicamento, deixando os pacientes sem tratamento e, até mesmo, provocando sequelas ou casos de óbito.
+Dos três países estudados (Brasil, Estados Unidos e China), apenas os Estados Unidos apresentam considerável avanço em pesquisas e desenvolvimento na área biotecnológica do estudo – as insulinas.
+Outro fato observado é a importância daquele país como destinatário de depósitos de pedidos de patente das maiores indústrias mundiais.
+O Brasil, ainda está bem abaixo da média de depósitos de pedidos de patentes relacionados à biotecnologia.
+Além de não desenvolver tecnologia nacional, não tem sido destino de muitas das patentes na área.
+Face ao impacto econômico evidenciado no estudo, sugerem-se ações políticas que visem incentivar a P&D na área biotecnológica, como a criação de bolsas de fomento e capacitação técnica para profissionais da área.
+Além disso, é importante incentivar a cultura da propriedade intelectual no meio acadêmico e científico.
+Moreira E, Wanghon MO, Costa CR, Mileo BAP, Pereira PAR, Pinheiro VS. Patentes Biotecnológicas: um estudo sobre os impactos do desenvolvimento da Biotecnologia no Sistema de Patentes Brasileiro [Internet].
+Belém: Centro Universitário do Pará; [data desconhecida] [citado em 2018 nov 05].
+Pimentel V, Gomes R, Landim A, Maciel M, Pieroni JP.
+O desafio de adensar a cadeia de P&D de medicamentos biotecnológicos no Brasil.
+Lienard D, Sourrouille C, Gomord V, Faye L. Pharming and transgenic plants.
+World Preview 2015, Outlook to 2020.
+Rader R. (Re)defining biopharmaceutical.
+Walsh G. Biopharmaceutical benchmarks 2010.
+J Community Hosp Intern Med Perspect.
+Insights (IMS Health Intelligence Applied).
+Global report on diabetes [Internet].
+Genebra; 2016 [citado em 2018 nov 06].
+Available from: 11. International Diabetes Federation.
+Bruxelas; 2015 [citado em 2018 nov 06].
+Associação Brasileira da Indústria Farmoquímica e de Insumos Farmacêuticos.
+Exportações da cadeia produtiva farmacêutica brasileira em 2015 [Internet].
+Rio de Janeiro; 2015 [citado em 2018 nov. 06].
+World Intellectual Property Organization.
+Statistical country profiles [Internet].
+Genebra; 2016 [citado em 2018 nov 06].
+Available from: country_profile Pontes CEC, Barroso WBG 442 Reciis – Rev Eletron Comun Inf Inov Saúde.
+;12(4) | [www.reciis.icict.fiocruz.br] e-ISSN 1981-627814.
+Disponível em: ˂ Acesso em: 14, 15 e 28/12/2015, 23/05/2016 e 10, 11 e 12/09/2016 15.
+Reis C, Capanema LXL, Palmeira Filho PL, Pieroni JP, Barros JO, Silva LG.
+Biotecnologia para saúde humana: tecnologias, aplicações e inserção na indústria farmacêutica.
+Modelo empresarial, gestão de inovação e investimentos de venture capital em empresas de biotecnologia no Brasil.
+Commercialization of new biotechnology: a systematic review of 16 commercial case studies in a novel manufacturing sector.
+Torres-Freire C, Golgher D, Callil V. Biotecnologia em saúde humana no Brasil: produção científica e pesquisa e desenvolvimento.
+Novos estud CEBRAP; 2014;98:69-93 19.
+Prospecção tecnológica através de depósitos de patentes para produção de proteínas terapêuticas de interesse brasileiro.
+Associação Brasileira de Desenvolvimento Industrial.
+Incorporação da rota biotecnológica na indústria farmacêutica brasileira: desafios e oportunidade.
+Relatório de acompanhamento setorial: maio/2013 [Internet].
+Brasília; 2013 [citado em 2018 nov 06].
+Disponível em: relatorio_biofarmaceutica.pdf 21.
+Registro de propriedade intelectual: a patente como ferramenta de integração de instituições científicas e setor produtivo.
+Associação Brasileira das Indústrias de Química Fina, Biotecnológica e suas Especialidades.
+Inovação tecnológica: um antídoto para a crise.
+Organisation for Economic Co-Operation and Development.
+Key biotechnology indicators [Internet].
+Paris; 2016 [citado em 2018 nov 06].
+Disponível em: keybiotechnologyindicators.htm .
+Desenvolvimento tecnológico e inovação no Brasil: desafios na área de biotecnologia.

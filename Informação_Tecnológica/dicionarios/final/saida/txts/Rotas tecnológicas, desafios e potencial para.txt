@@ -1,0 +1,178 @@
+25 Eng Sanit Ambient | v.27 n.1 | jan/fev 2022 | 25-30RESUMO Mais de dez anos depois da implantação da Política Nacional de Resíduos Sólidos, por meio da Lei federal n° 12.305/2010, a elaboração e a execução de políticas públicas com resultados positivos na gestão dos resíduos sólidos urbanos são precárias.
+O coprocessamento desses produtos em fornos de clínquer pode ser uma alternativa viável para melhorar esse cenário, mas encontra diversas dificuldades de ordem técnica e econômica.
+Neste trabalho, estimou-se a composição e a gravimetria dos resíduos no Brasil com base em dados secundários, de forma a estimar o poder calorífico inferior resultante de diferentes formas de pré-tratamento desses produtos: triagem de orgânicos, triagem de orgânicos e inertes, secagem para redução da umidade e combinação das três estratégias.
+Com base nos valores obtidos de poder calorífico, estima-se a capacidade de coprocessamento de resíduos pré-tratados pelas indústrias nacionais que possuem licenciamento ambiental para essa atividade.
+O tratamento prévio dos resíduos resultou em aumentos entre 20 e 56% em relação ao cenário-base.
+Observou-se que, para o cenário sem triagem, mas com secagem térmica do resíduo, até 8% dos resíduos com destinação inadequada no Brasil atualmente podem ser recebidos por indústrias de cimento para o coprocessamento, desde que haja viabilidade técnica para sua substituição e transporte.
+Palavras-chave: combustível derivado de resíduos; tratamento térmico; pré-tratamento; poder calorífico.
+1Universidade Federal de Minas Gerais, Escola de Engenharia – Belo Horizonte (MG), Brasil.
+*Autor correspondente: vatorres01@gmail.com Conflitos de interesse: os autores declaram não haver conflitos de interesse.
+Recebido: 11/08/2021 – Aceito: 08/11/2021 – Reg.
+ABES: 20210221Artigo Técnico Rotas tecnológicas, desafios e potencial para valoração energética de resíduo sólido urbano por coprocessamento no Brasil Technological routes, challenges and potential for municipal solid waste energetic valorization by coprocessing in Brazil Vitor Alvarenga Torres1* , Liséte Celina Lange1 ABSTRACT More than ten years after the implementation of the Solid Waste Nacional Policy by Brazilian Federal Law nº 12.305/2010, elaboration and execution of public policies with positive results in Municipal Solid Waste management is precarious.
+Coprocessing of Municipal Solid Waste in cement kilns can be a viable alternative for improving this scenario, but still encounters many technical and economical challenges.
+In this study, an estimate of the mean gravimetric composition of Municipal Solid Waste in Brazil is presented, based on secondary data, so as to estimate the resultant lower heating value resultant of different Municipal Solid Waste pre-treatment alternatives; separation of the organic fraction, separation of organic and inert fraction, drying of Municipal Solid Waste and all strategies combined.
+Based on the obtained lower heating value, an estimate of the yearly potential of Municipal Solid Waste coprocessing in industries already licensed for coprocessing of waste in Brazil is presented.
+Pre-treatment of Municipal Solid Waste resulted in lower heating value improvements ranging from 20 to 56% when compared to the base scenario.
+It is observed that, in the scenario where the Municipal Solid Waste is dried but not triaged, up to 8% of the Municipal Solid Waste that is currently disposed inappropriately in Brazil could be received by cement industries for coprocessing, as long as there is technical feasibility for the substitution and transportation.
+Keywords: refuse derived fuel; thermal treatment; pre-treatment; heating value.
+INTRODUÇÃO Destinação dos resíduos sólidos urbanos no Brasil De acordo com os dados publicados no mais recente Panorama dos Resíduos Sólidos da ABRELPE (2021), quase 30 milhões de toneladas de resíduo sólido urbano (RSU) são destinadas anualmente a lixões e aterros controlados no Brasil.
+O valor corresponde a mais de 40% de todo o RSU gerado no país.
+A Política Nacional de Resíduos Sólidos (PNRS), implementada pela Lei federal n° 12.305/2010 (BRASIL, 2010), previa o fim dos lixões até o ano de 2015, meta que não foi atingida.
+De 2010 a 2019, o percentual de resíduos sem destinação 26 Eng Sanit Ambient | v.27 n.1 | jan/fev 2022 | 25-30 Torres, V.A.
+& Lange, L.C.adequada foi reduzido de 43,2% para 40,5%, uma melhoria pouco expressiva e representativa das dificuldades observadas na implementação de soluções de saneamento capazes de atender à complexidade do cenário de gestão de resíduos no país.
+Além disso, cabe notar que, apesar da redução percentual, a quantidade absoluta de RSU com destinação irregular aumentou de 25,4 para 29,4 milhões de toneladas, reflexo do aumento da geração de resíduos pela população nesse período.
+A situação não é, entretanto, uniforme no país.
+Conforme apresentado na Tabela 1 a seguir, as regiões com menor índice de desenvolvimento humano (IDH) e menor densidade populacional têm mais dificuldade para dispor de seu RSU de forma adequada.
+Na Região Centro-Oeste, por exemplo, a porcentagem de RSU destinada a lixões reduziu-se de 22,9 para 22,8% em dez anos de vigência da PNRS.
+Além disso, a redução no volume encaminhado aos lixões ocorre, frequentemente, paralelamente ao aumento no volume destinado a aterros controlados, tal como visto nas regiões Sul, Sudeste e Norte, o que continua a ser uma solução inadequada, apesar de preferível aos lixões.
+Tais regiões possuem, tipicamente, menores densidades populacionais, o que torna a viabilidade técnica e econômica de alternativas tradicionais de manejo de RSU (aterros sanitários e usinas de recuperação energética, dentre outros) baixa pela ausência de escala.
+Os custos adicionais de transporte oneram o Poder Executivo municipal que, tipicamente, já enfrenta constrições orçamentárias diversas.
+O mesmo padrão pode ser observado em escala estadual.
+O estado de Minas Gerais é um ótimo exemplo da realidade da gestão dos RSUs no país, com coleta e destino considerados adequados (aterros sanitários) nas regiões com maior industrialização, densidade populacional e IDH, enquanto munícipios com menor população e menor IDH não conseguem se adequar aos parâmetros estabelecidos pela PNRS, apesar das iniciativas do Estado para viabilizar consórcios de municípios para buscar viabilidade técnica e econômica para a implantação de aterros sanitários.
+Na região sudeste do estado, conhecida como Zona da Mata Mineira e com IDH médio de 0,770 em 88% dos municípios, é adequada a destinação de seus resíduos.
+Já na região norte, com IDH médio de 0,625, apenas em 23% dos municípios a destinação é adequada.
+(FIEMG, 2016; FEAM, 2019) Dado o evidente fracasso das estratégias utilizadas na última década e à complexidade do cenário da gestão dos RSUs no amplo e heterogêneo território nacional, é necessário buscar rotas tecnológicas alternativas, principalmente para os municípios de menor população, onde as soluções tradicionais estabelecidas encontram obstáculos para sua adoção.
+O coprocessamento como rota tecnológica para o tratamento de resíduos Regulamentado no Brasil pela Resolução CONAMA n° 264/1999 (BRASIL, 2000a), posteriormente substituída pela Resolução CONAMA nº 499/2020 (BRASIL, 2000b), o coprocessamento de resíduos é uma rota tecnológica que visa tratar os resíduos por meio da destruição térmica em fornos rotativos (conhecidos como fornos de clínquer) utilizados pela indústria cimenteira.
+Legislações em âmbito estadual com a mesma finalidade devem ser observadas — e.g.
+a Resolução SIMA n° 63/2021 e a Deliberação Normativa Copam n° 154/2010, nos estados de São Paulo e Minas Gerais, respectivamente.
+No processo de fabricação do clínquer, principal componente do cimento Portland, as matérias-primas (cal, bauxita, hematita, sílica e adições) são misturadas e aquecidas a temperatura entre 1.400 e 1.500 °C, viabilizando assim a formação dos silicatos, aluminatos e ferro-aluminatos de cálcio, que garantem ao cimento Portland suas propriedades de dureza, resistência mecânica e rápido endurecimento depois de sua hidratação (SHREVE, 1999).
+Embora a reação de formação do clínquer seja exotérmica, o processo industrial como um todo é altamente endotérmico, de tal forma que o consumo de combustível para manutenção dessa temperatura é um fator crítico dos custos do processo industrial.
+A indústria cimenteira nacional utiliza, em sua absoluta maioria, sistemas a seco, que têm como principal combustível o coque, um combustível fóssil não sustentável e com valor vinculado ao dólar.
+A instabilidade do valor desse produto, com forte tendência a aumento nas últimas décadas, e a alta pegada de carbono decorrente de sua utilização têm levado as indústrias a buscar alternativas de combustíveis mais sustentáveis.
+Dentre as alternativas utilizadas atualmente, destacam-se o carvão vegetal, os resíduos de biomassa do agronegócio (e.g.
+casca de arroz) e os combustíveis derivados de resíduos (CDRs), tipicamente formados por misturas (blends ) de diferentes resíduos industriais com alto poder calorífico, como restos de pneus, borras oleosas e solventes, entre outros (SNIC, 2019; ABCP , 2020).
+A alta temperatura e o tempo de residência dos gases no forno, além dos robustos sistemas de tratamento de emissões atmosféricas necessários para o licenciamento desse tipo de unidade industrial, possibilitam a destruição de compostos perigosos presentes nos resíduos e níveis adequados de emissões atmosféricas (BEER, 2017; BOURTSALAS, 2019).
+Além disso, as cinzas restantes podem ser incorporadas ao produto como adição, desde que os materiais não afetem negativamente as propriedades do cimento produzido, obedecendo às normas técnicas cabíveis quanto à sua composição e ao seu desempenho (ABNT, 2018).
+Dessa forma, o coprocessamento pode ser uma alternativa para a simultânea substituição de combustíveis fósseis e a destinação de resíduos diversos.
+Coprocessamento de resíduo sólido urbano Segundo o Roadmap Tecnológico 2020–2050, publicado pelo Sindicato Nacional das Indústrias de Cimento (2021), é esperada a razão de substituição térmica de 17% dos combustíveis tradicionais por CDR proveniente de RSU nos fornos de clínquer da indústria nacional, índice que é, atualmente, próximo de nulo.
+Os desafios para o coprocessamento de RSU bruto são diversos: a alta umidade (em função da proporção de matéria orgânica), o baixo poder calorífico, a Tabela 1 – Porcentagem de resíduos com destinação inadequada por região do país.
+RegiãoResíduo sólido urbano destinado a lixões (%)Resíduo sólido urbano destinado a aterros controlados (%) 2010 2019 2010 2019 Sul 12,9 11,1 18 18,3 Sudeste 11,7 10,1 17,1 17,2 Centro-Oeste 22,9 22,8 49 35,9 Nordeste 34,2 31,5 32,9 32,9 Norte 38,2 34,9 28,8 29,8 Brasil 19,3 17,5 23,9 23 Fonte: ABRELPE (2021).27 Eng Sanit Ambient | v.27 n.1 | jan/fev 2022 | 25-30 Potencial de Coprocessamento de RSU no Brasilheterogeneidade e a variação da composição do RSU (tanto de uma região para outra quanto ao longo do tempo), a granulometria, que restringe as alternativas de queima, além da possibilidade da presença de componentes perigosos para o produto (mercúrio, chumbo) ou para a integridade dos equipamentos (cloro, flúor, bromo).
+As condições de armazenamento e transporte do RSU representam um desafio adicional, pois a biodegradabilidade e a formação de lixiviado representam riscos ao meio ambiente e aos colaboradores, bem como à vizinhança do empreendimento.
+Além disso, a própria Resolução CONAMA nº 499/2020 (BRASIL, 2000b) limita o coprocessamento de RSU a resíduos que "sejam previamente submetidos à triagem, classificação ou tratamento" , não autorizado o coprocessamento de resíduo in natura .
+Dessa forma, é necessário buscar rotas tecnológicas que envolvam ao menos um desses três passos (triagem, classificação ou tratamento) de forma a atender não somente às determinações normativas legais, mas também a trazer viabilidade técnica ao processo, reduzindo as características negativas do RSU supracitadas e transformando-o em um combustível minimamente adequado aos requisitos do processo industrial.
+METODOLOGIA Neste trabalho, foram avaliadas diferentes rotas tecnológicas para o beneficiamento do RSU, de forma a embasar estudos mais aprofundados para a implantação de sistemas de tratamento e visando avaliar a viabilidade de destinação do RSU para o coprocessamento em indústrias cimenteiras.
+Estimativa do PCI do material Inicialmente, foi estimada a composição gravimétrica do RSU com base em dados secundários obtidos na literatura (ALCANTARA, 2010; COSTA et al., 2012; SIQUEIRA et al., 2016; LIMA et al., 2018; MENEZES et al., 2019; ABRELPE, 2021).
+Com base nesses dados, estimou-se o poder calorífico inferior (PCI), em base úmida, do RSU para os seguintes cenários: 1) RSU in natura ; 2) RSU triado, com destinação da matéria orgânica para compostagem/biometanização ou aterro; 3) RSU triado, com destinação da matéria orgânica para compostagem/biometanização ou aterro e retirada de materiais inertes (metais e vidro); 4) RSU não triado, com redução da umidade do resíduo para 20% por meio de secagem térmica; 5) RSU triado, com retirada de materiais inertes e redução da umidade do resíduo para 20% por meio de secagem térmica.
+Considerou-se que toda a umidade do RSU está contida na fração orgânica.
+Os eventuais custos e/ou ganhos provenientes da reciclagem, da compostagem ou da biometanização de frações retiradas não foram abordados neste estudo.
+A partir de modelos matemáticos, foram calculados os valores de poder calorífico superior (PCS) para cada um dos cenários.
+Foram utilizados dois diferentes modelos para estimativa do PCS na base seca e considerada a média entre eles.
+(2003) estimaram o PCS em base úmida do RSU gerado na Malásia.
+Gravimetria do estudo: 21% plástico, 11% papel, 52% restos de comida, 2% têxteis, 55% de umidade, PCS de 17 MJ.kg-1 (Equação 1).PCS = 0,001 [112,157OR + 183,386PA + 288,737PL + 5064,701] (1) Usón et al.
+(2003) estimaram o PCS em base úmida da fração residual do RSU na planta de tratamento mecânico-biológico de Zaragoza, na Espanha.
+Gravimetria do estudo: 19% plástico, 24% papel, 22% restos de comida e podas, 7% têxteis, PCS de 18 MJ.kg-1 (Equação 2).
+PCS = 0,001 [112,815OR + 184,366PA + 298,343PL – 1.920W + 5130,380] (2) Em que: PCS = Poder calorífico superior [MJ.kg-1] PL = Teor de plásticos [%] PA = Teor de papéis e papelão [%] OR = Teor de matéria orgânica — e.g.
+restos de comida, podas, folhas [%] W = Teor de umidade [%] A média foi comparada a dados secundários de PCS e PCI obtidos na literatura consultada (EIA, 2007; SEELIG & SCHNEIDER, 2012; TSIAMIS & CASTALDI, 2016; AREEPRASERT et al., 2016; GARCIA et al., 2019) para verificação de sua adequação.
+Uma vez que os dados de composição gravimétrica utilizados não são detalhados quanto à natureza de certos materiais (e.g.
+espécies de plástico, natureza da matéria orgânica e resíduos classificados como "outros"), foram utilizadas as médias entre valores da literatura.
+Uma vez obtido o valor do PCS e considerando-se a umidade de 50% e o teor de hidrogênio de 5% em peso, pôde-se calcular o poder calorífico inferior em base úmida, por meio da Equação 3 (DEMIRBAS, 2007), na qual o termo à direita corresponde à retirada da entalpia de aquecimento da água e à formação do vapor d'água à pressão atmosférica: PCI = PCS – 2,535 (9H + W) (3) Em que: PCI = Poder calorífico inferior, em base úmida [MJ.kg-1] PCS = Poder calorífico superior, em base seca [MJ.kg-1] U = Teor de umidade absoluto [kg.kg-1] H = Teor de hidrogênio, em peso [kg.kg-1] Levantamento dos dados do parque cimenteiro nacional e cálculo do potencial de coprocessamento de RSU Com base nos dados disponibilizados pelas associações das indústrias e por meio de pesquisas em documentos públicos acerca do licenciamento de indústrias nas secretarias estaduais de meio ambiente, foram levantados dados gerais da capacidade produtiva de indústrias cimenteiras no país, com enfoque naquelas que já possuem licenciamento para coprocessamento (CIMENTO.ORG, 2021; ABCP , 2020).
+De posse dos valores de capacidade produtiva nominal, do consumo térmico específico médio de 2,272 MJ.kg-1 de cimento na indústria brasileira (SNIC, 2019) e considerando-se a razão de substituição térmica de 17% (meta estabelecida no roadmap do sindicato), foi avaliado o potencial de recebimento de RSU pelo parque nacional cimenteiro para os diferentes cenários propostos.
+Calculada a capacidade de recebimento, discutiu-se brevemente a viabilidade técnica e econômica das rotas propostas para melhor interpretação dos valores obtidos.28 Eng Sanit Ambient | v.27 n.1 | jan/fev 2022 | 25-30 Torres, V.A.
+& Lange, L.C.RESUL TADOS E DISCUSSÃO Determinação da composição e do PCI Foram levantados dados de diferentes fontes bibliográficas para estimar a composição gravimétrica do RSU a ser utilizada.
+Os estudos apontaram grande variação nas composições, conforme pode ser observado na Tabela 2.
+As diferenças são esperadas e estão de acordo com dados da bibliografia consultada, que as atribui à natureza da ocupação humana (urbana ou rural) e ao IDH da região (BANCO MUNDIAL, 2018; MENEZES et al., 2019).
+Ao fim da análise dos valores apresentados e das metodologias dos estudos, optou-se pela utilização dos valores levantados pela ABRELPE, em virtude da atualidade dos dados, da abrangência amostral e da solidez metodológica, de tal forma que podem ser considerados uma boa estimativa da composição média do RSU no Brasil.
+Uma vez estabelecida a composição gravimétrica de referência, foram calculados os valores de PCI para o RSU nos cinco cenários estabelecidos.
+Os resultados obtidos são apresentados na Tabela 3 a seguir.
+Observa-se que a triagem de resíduos orgânicos (cenário 2) resulta em expressivo aumento de 41% no poder calorífico em relação ao cenário-base, o que se explica pelo impacto negativo da umidade presente nessa parcela do RSU.
+A triagem adicional de inertes, no cenário 3, resulta no aumento de 56% em relação ao cenário-base.
+A secagem do RSU reduz o impacto negativo da umidade, resultando em aumento do PCI de 20 a 26% para os cenários 4 e 5, respectivamente.
+Avaliação do potencial de substituição térmica no Brasil Assumindo a razão de substituição térmica de 17% e a demanda térmica específica de 2,272 MJ.kg-1 de cimento produzido, avaliou-se o potencial de recebimento de CDR de RSU para cada um dos cinco cenários propostos.
+Para essa avaliação, foram consideradas as capacidades nominais das plantas com licenciamento para a atividade de coprocessamento de resíduos no Brasil.
+Na Tabela 4, a seguir, são apresentados o número de plantas de coprocessamento por macrorregião do país, assim como a capacidade instalada total em cada uma dessas regiões.
+Considerando-se a capacidade instalada de 55,4 milhões de toneladas de cimento por ano, o consumo térmico de 2,272 MJ.kg-1 e a razão de substituição térmica de 17%, obtém-se a demanda térmica total de 2,14x1010 MJ.ano, que pode ser suprida por CDR proveniente de RSU.
+Cabe notar que a avaliação é de cunho meramente termodinâmico, não sendo conhecidos os detalhes construtivos e operacionais de cada unidade.
+Além disso, não foram obtidos dados sobre a razão de substituição térmica dessas unidades industriais ou sobre os combustíveis alternativos usados atualmente.
+Considerando-se que em todas as unidades há capacidade para receber e processar o CDR, tal como proposto nos cinco cenários hipotéticos, foram obtidos os seguintes resultados para a capacidade de coprocessamento de RSU no Brasil, de forma a suprir a demanda térmica encontrada (Tabela 5).Tabela 2 – Resultados de estudos de composição gravimétrica do Resíduo sólido urbano no Brasil.
+ReferênciaComponente Matéria orgânicaPlásticoPapel e papelãoVidro Metal Outro ABRELPE (2021)45,3 16,8 10,4 2,7 2,3 22,5 Alcantara (2010)60,5 13,2 9,3 3,2 2,4 11,5 Costa et al.
+(2012)46,5 13,5 13,0 3,3 4,0 19,7 Lima et al.
+(2018)44,9 17,1 6,9 1,3 2,8 27,1 Menezes et al.
+(2019)43,8 16,0 15,8 24,5 Siqueira et al.
+(2016)40,5 10,7 8,8 1,1 0,8 38,1 Tabela 3 – Valores calculados de poder calorífico inferior para cada cenário de pré-tratamento.
+CenárioPCI [MJ.kg-1] 1 Resíduo sólido urbano in natura 12,1 2 Resíduo sólido urbano triado, com retirada de orgânicos 17,1 3Resíduo sólido urbano triado, com retirada de orgânicos e inertes18,9 4 Resíduo sólido urbano não triado e seco, com 20% de umidade 14,5 5Resíduo sólido urbano triado e seco, com retirada de inertes e 20% de umidade15,3 PCI: poder calorífico inferior Fonte: elaboração própria.Tabela 4 – Número de empreendimentos com licença para coprocessamento e capacidade instalada total por macrorregião do país.
+RegiãoNúmero de plantas licenciadasCapacidade instalada [ton.ano-1] Sul 4 8.130.000 Sudeste 17 27.360.000 Centro-Oeste 6 7.176.000 Nordeste 8 9.720.000 Norte 3 2.970.000 TOTAL 38 55.356.000 Fonte: elaboração própria.
+Tabela 5 – Potencial de recebimento de CDR proveniente de Resíduo sólido urbano pela indústria de cimento para cada um dos cinco cenários propostos.
+CenárioPotencial [ton.ano-1] 1 Resíduo sólido urbano in natura 1.765.000 2 Resíduo sólido urbano triado, com retirada de orgânicos 1.251.000 3Resíduo sólido urbano triado, com retirada de orgânicos e inertes1.130.000 4Resíduo sólido urbano não triado e seco, com 20% de umidade1.473.000 5Resíduo sólido urbano triado e seco, com retirada de inertes e 20% de umidade1.399.000 Fonte: elaboração própria.29 Eng Sanit Ambient | v.27 n.1 | jan/fev 2022 | 25-30 Potencial de Coprocessamento de RSU no BrasilO cenário 1 apresenta o maior potencial absoluto de recepção de RSU, uma vez que o PCI resultante é baixo em função da ausência de triagem ou secagem do resíduo.
+É necessário lembrar, entretanto, que esse resultado não pôde ser obtido na prática, dado que o coprocessamento de RSU bruto não é passível de licenciamento no Brasil, tampouco possui viabilidade técnica ou econômica para seu uso nas indústrias.
+Os outros cenários atendem à exigência normativa mínima estabelecida pela Resolução CONAMA nº 499/2020 (BRASIL, 2000b), destes, o cenário em que há secagem térmica sem retirada de matéria orgânica (que contém a maior parte da umidade) resulta em maior potencial de recebimento de resíduo em massa, mais uma vez em virtude do PCI menor.
+Cabe ressaltar, entretanto, que o PCI obtido nesse cenário é equivalente àquele observado em combustíveis comuns, como cavacos de madeira ou resíduos fibrosos (FURTADO et al.
+, 2012; FERREIRA et al., 2014).
+Para o cenário sem triagem de inertes, mas com secagem térmica, há potencial para receber até 1,47 milhão de toneladas por ano, o que corresponde a aproximadamente 2,36 milhões de toneladas de RSU bruto antes do pré-tratamento, ou seja, 8% de todo o resíduo com disposição irregular no país atualmente.
+Já para o cenário 5, com triagem e secagem, o potencial de recebimento é de 1,40 milhão de toneladas de CDR, 2,24 milhões de toneladas de RSU úmido e 7,6% dos resíduos com disposição irregular.
+Se considerarmos apenas os resíduos destinados a lixões (11,35 milhões de toneladas por ano no país), até 21% dos RSUs com essa destinação poderiam ser recebidos por usinas de cimento para coprocessamento na forma de CDR (análise termodinâmica simplificada), o que representaria um impacto altamente positivo no cenário nacional de manejo de RSU.
+Para que haja viabilidade técnica, é necessário, entretanto, avaliar o custo e a escalabilidade dos pré-tratamentos utilizados, a distância média de transporte (DMT) entre os pontos de coleta e a unidade de tratamento, assim como entre a unidade de tratamento e a indústria, pois os custos de frete são, tipicamente, parte substancial dos custos operacionais da gestão de RSU.
+Além disso, a composição química do material, em especial quanto aos teores de cloro, enxofre e mercúrio, pode ser um fator limitante para a viabilidade de coprocessamento.
+Consequentemente, uma análise mais aprofundada do raio de influência local de cada uma das unidades industriais é necessária para que se possa, de fato, discutir com mais propriedade os tratamentos aqui apresentados e o posterior coprocessamento do RSU como rota tecnológica viável.
+É importante ressaltar que, uma vez que o reuso e a reciclagem dos materiais têm preferência hierárquica no manejo dos RSUs em relação à valoração energética, rotas com triagem de recicláveis devem ser preferidas sempre que houver viabilidade para tal, como estabelecido na PNRS, em seu artigo 9º.
+Entretanto, dado o alto custo e a necessidade de escala para operações automatizadas, cenários de valoração energética sem triagem podem representar uma solução técnica adequada, já que são preferíveis aos aterros sanitários.
+CONTRIBUIÇÕES DOS AUTORES Torres, V .A.
+: Conceituação, Curadoria de Dados, Análise Formal, Investigação, Metodologia, Administração do projeto, Recursos, Software, Visualização, Escrita – Primeira Redação.
+: Supervisão, Validação, Escrita - Revisão e Edição.
+CONCLUSÕES O coprocessamento de CDR proveniente de RSU pode representar uma alternativa técnica viável e ambientalmente adequada para o destino desses resíduos, encontrando suporte na legislação ambiental vigente, desde que seja pré-tratado o RSU.
+Dada a dificuldade de adequação de grande parte dos municípios brasileiros aos objetivos apresentados na PNRS e a baixa capacidade de investimento do Estado, a participação de entidades privadas com interesse na valoração energética de RSU deve ser considerada como parte da solução, especialmente se considerado o potencial de recebimento de resíduos pelo parque cimenteiro nacional.
+Observou-se que, em análise térmica preliminar, até 22% dos resíduos hoje encaminhados a lixões do país poderiam ser recebidos por indústrias de cimento licenciadas para coprocessamento, desde que a umidade desses produtos fosse adequada.
+Essa análise não leva em conta os custos de pré-tratamento e frete do CDR, bem como a viabilidade técnica para cada tipo de resíduo, especialmente quanto ao conteúdo de cloro.
+Estudos de caso podem ser realizados de acordo com o raio de influência de cada unidade industrial para melhor avaliação não apenas do impacto ambiental positivo gerado, mas também para verificação da viabilidade econômica da operação.
+Associação Brasileira de Cimento Portland (ABCP).
+Panorama do Coprocessamento 2020: Ano Base 2019.
+Associação Brasileira de Normas Técnicas (ABNT).
+NBR 16697: Cimento Portland – Requisitos.
+Associação Brasileira de Empresas de Limpeza Pública e Resíduos Especiais (ABRELPE).
+Panorama 2020: Resíduos Sólidos Urbanos.
+Composição Gravimétrica dos Resíduos Sólidos Urbanos e Caracterização Química do Solo da Área de Disposição Final do Município de Cáceres/MT.
+89 f. Dissertação (Mestrado em Ciências Ambientais) – Universidade do Estado de Mato Grosso, Cáceres, 2010.
+AREEPRASERT, C.; ASINGSAMANUNT, J.; SRISAWAT, S.; KAHARN, J.; INSEEMEESAK, B.; PHASEE, P.; KHAOBANG, C.; SIWAKOSIT, W.; CHIEMCHAISRI, C. Municipal plastic waste composition study at transfer station of Bangkok and possibility of its energy recovery by pyrolysis.
+3rd International Conference on Energy and Environment Research.
+Barcelona: Elsevier, 2016.REFERÊNCIAS30 Eng Sanit Ambient | v.27 n.1 | jan/fev 2022 | 25-30 Torres, V.A.
+What a waste 2.0: A Global Snapshot of Solid Waste Management to 2050.
+Disponível em: org/what-a-waste/trends_in_solid_waste_management.html.
+BOURTSALAS, A.C. WTE: Non-recycled Combustible Wastes in Cement Production.
+In: THEMELIS, N.J.; BOURTSALAS, A.C. Recovery of Materials and Energy from Urban Wastes.
+Lei Federal n° 12305, de 2 de agosto de 2010.
+Institui a Política Nacional de Resíduos Sólidos; altera a Lei n°9605, de 12 de fevereiro de 1998; e dá outras providências.
+Diário Oficial da União, Brasília, DF, 3 de agosto de 2010.
+RESOLUÇÃO CONAMA nº 264, de 26 de agosto de 1999.
+Licenciamento de fornos rotativos de produção de clínquer para atividades de coprocessamento de resíduos (revogada).
+Diário Oficial da União, Brasília, DF, Seção 1, p. 80-83.
+RESOLUÇÃO CONAMA/MMA nº 499, de 6 de outubro de 2020.
+Dispõe sobre o licenciamento da atividade de coprocessamento de resíduos em fornos rotativos de produção de clínquer.
+Diário Oficial da União, Brasília, DF, Seção 1, p. 50.
+BEER, J.; CIHLAR, J.; HENSING, I.; ZABETI, M. Status and prospects of coprocessing of waste in EU cement plants.
+Mapa das Fábricas de Cimento Instaladas no Brasil.
+Disponível em: Acesso em: 02 jul.
+Gravimetria dos resíduos sólidos urbanos domiciliares e perfil socioeconômico no município de Salinas, Minas Gerais.
+Revista Ibero-Americana de Ciências Ambientas, v. 3, n. 2, 2012.
+Effects of moisture and hydrogen content on the heating value of fuels.
+Energy Sources, Part A: Recovery, Utilization and Environmental Effects, v. 29, n. 7, p. 649-655, 2007. org/10.1080/009083190957801 ENERGY INFORMATION ADMINISTRATION, U.S. DEPARTMENT OF ENERGY.
+Methodology for allocating municipal solid waste to biogenic and non-biogenic.
+Washington: Energy Information Administration, 2007.
+FEDERAÇÃO DAS INDÚSTRIAS DO ESTADO DE MINAS GERAIS (FIEMG).
+Diagnóstico Regional: Regional Zona da Mata.
+Estimativa do Potencial Energético de Resíduos Celulósicos de Fabricação de Papel Através de Análise Imediata.
+Revista Brasileiras de Energias Renováveis, v. 3, 2014.FUNDAÇÃO ESTADUAL DO MEIO AMBIENTE (FEAM).
+Panorama da destinação dos resíduos sólidos urbanos no estado de Minas Gerais em 2018.
+Correlação Entre Teor de Umidade e Eficiência Energética de Resíduos de Pinus Taeda em Diferentes Idades.
+Revista Árvore, v. 36, n. 3, 2012.
+S0100-67622012000300020 GARCIA, A.; DA SILVA, J.A.
+Determination of the physical-chemical properties of solid waste for use in the pyrolysis process.
+Revista Brasileira de Energias Renováveis, v. 8, n. 3, 2019.
+; SHAMSUDDIN, A.H.; RAHMAN, R.A.
+Modeling the heating value of Municipal Solid Waste.
+Fuel, v. 82, n. 9, p. 1119-1125, 2003.
+; BRAGA JUNIOR, S.S.; FORTI, J.C. Análise Gravimétrica dos Resíduos Sólidos Urbanos em um Aterro Sanitário.
+Brazilian Journal of Biosystems Engineering, v. 12, n. 4, p. 410-426, 2018.
+Análise estatística da caracterização gravimétrica de resíduos sólidos domésticos: estudo de caso do município de Juiz de Fora, Minas Gerais.
+Engenharia Sanitária e Ambiental, v. 24, n. 2, p. 271-282, 2019. org/10.1590/S1413-41522019177437 SEELIG, M.F.
+Estimating the energy content of municipal solid waste from its physical composition: the heat of combustion of Porto Alegre's household solid waste.
+In: 14º Congresso Brasileiro de Ciência Térmicas e Engenharia.
+Indústrias de Processos Químicos.
+SIQUEIRA, H.; SOUZA, A.D.; BARRETO, A.C.; ABDALA, V.L.
+Composição gravimétrica dos resíduos sólidos urbanos na cidade de Nova Ponte (MG).
+SINDICATO NACIONAL DA INDÚSTRIA DO CIMENTO (SNIC).
+Roadmap Tecnológico do Cimento.
+Disponível em: http:// snic.org.br/noticias-ver.php?id=28.
+Determining Accurate Heating Values of NonRecycled Plastics (NRP).
+Nova York: American Chemistry Council, 2016.
+USÓN, A.; FERREIRA, G.; VÁSQUEZ, D.; BRIBIÁN, I.; SASTRESA, E Estimation of the energy content of the residual fraction refused by MBT plants: a case study in Zaragoza's MBT plant.
+Journal of Cleaner Production, v. 20, p. 38- 46, 2003.
+© 2022 Associação Brasileira de Engenharia Sanitária e Ambiental Este é um artigo de acesso aberto distribuído nos termos de licença Creative Commons.

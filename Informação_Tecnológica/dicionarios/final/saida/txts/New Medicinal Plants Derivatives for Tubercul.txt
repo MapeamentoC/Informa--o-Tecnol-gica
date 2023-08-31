@@ -1,0 +1,210 @@
+DOI: 275Novos Derivados de Plantas Medicinais para Tratamento da Tuberculose em Documentos de Patente New Medicinal Plants Derivatives for Tuberculosis Treatment in Patent Documents Paula T eixeira Pinto Ferreira Neto1 Carla Junqueira Moragas T ellis2 Fabrícia Pires Pimenta3 1Instituto Nacional de Infectologia Evandro Chagas, Fundação Oswaldo Cruz, Manguinhos, RJ, Brasil 2Instituto de Tecnologia de Fármacos, Fundação Oswaldo Cruz, Manguinhos, RJ, Brasil 3Instituto Carlos Chagas, Fundação Oswaldo Cruz, Curitiba, PR, Brasil Resumo O presente trabalho realizou uma prospecção tecnológica a partir de patentes para identificação de derivados das plantas medicinais para o tratamento da tuberculose.
+O uso de patentes como fonte de informação pode otimizar o desenvolvimento de novos medicamentos para o tratamento da tuberculose.
+A identificação de novas tecnologias foi realizada pelo portal Orbit Intelligence, utilizando a sentença "(+tuberculos+)/TI/AB AND (A61K OR A61P)/IPC AND PRD >= 2015" como estratégia de pesquisa.
+Foram identificadas 16 famílias de patentes apresentando derivados de plantas medicinais com evidência de eficácia in vitro contra cepas resistentes de Mycobacterium tuberculosis .
+A proteção patentária dos produtos naturais identificados está restrita aos países dos detentores dos novos produtos: China, República da Coreia e Rússia.
+A maior parte dos derivados de plantas medicinais identificados são substâncias isoladas, principalmente flavonoides e terpenos, extraídos de diferentes espécies de plantas, caracterizando-se, dessa forma, como fitofármacos.
+Palavras-chave: Mycobacterium tuberculosis .
+Desenvolvimento de Medicamentos.
+Abstract The present work focused on conducting technological research based on patents for the identification of medicinal plant derivatives for the treatment of tuberculosis.
+The use of patents as a source of information can optimize the development of new drugs for the treatment of tuberculosis.
+The identification of new technologies was made through the Orbit Intelligence portal, using the sentence "(+tuberculos+)/TI/AB AND (A61K OR A61P)/IPC AND PRD >= 2015" as a research strategy.
+16 families of patents presented medicinal plant derivatives with evidence of in vitro efficacy against resistant strains of Mycobacterium tuberculosis .
+The patent protection of the identified natural products is restricted to the countries of the owners of the new products: China, the Republic of Korea, and Russia.
+Most of the derivatives of medicinal plants identified are isolated substances, mainly flavonoids, and terpenes, extracted from different plant species, thus being characterized as phytopharmaceuticals.
+Keywords: Mycobacterium tuberculosis .
+Área Tecnológica: Prospecção Tecnológica.
+Artigo recebido em: 19/06/2020 Revisado em: 08/04/2021 Aprovado em: 17/11/2021Direito autoral e licença de uso: Este artigo está licenciado sob uma Licença Creative Commons.
+Com essa licença você pode compartilhar, adaptar, para qualquer im, desde que atribua a autoria da obra, forneça um link para a licença, e indicar se foram feitas alterações.276Cadernos de Prospecção – Salvador, v. 15, n. 1, janeiro a março, 2022, p. 275-290.
+Paula Teixeira Pinto Ferreira Neto, Carla Junqueira Moragas Tellis, Fabrícia Pires Pimenta 1 Introdução A tuberculose (TB), doença infecciosa crônica, continua sendo a principal causa mundial de morte ocasionada por um único agente infeccioso, o bacilo Mycobacterium tuberculosis.
+Globalmente, estima-se que a doença afetou cerca de 10 milhões de pessoas no ano de 2018 (WHO, 2019).
+A tuberculose é transmitida de uma pessoa infectada para uma pessoa suscetível em partículas transportadas pelo ar.
+Geralmente afeta os pulmões (TB pulmonar), mas pode afetar outros sítios anatômicos (TB extrapulmonar).
+Trata-se, no entanto, de uma doença curável em praticamente todos os casos sensíveis aos medicamentos, desde que o tratamento seja realizado corretamente.
+De modo contrário, a não adesão ao tratamento diminui a possibilidade de cura, mantém ativa a cadeia de transmissão e aumenta o risco de resistência aos medicamentos e óbitos por tuberculose (BRASIL, 2019).
+Um importante agravante dessa enfermidade é a incidência de TB resistente a medicamentos, cujo manejo clínico exige regimes de tratamento mais longos, associados a maiores riscos de eventos adversos, menor adesão e maior custo para os sistemas de saúde (WHO, 2019).
+No Brasil, o Programa Nacional de Controle da Tuberculose (PNCT) é responsável, entre outras ações, por estabelecer as diretrizes para o controle da doença, que tem tratamento padronizado, incluindo esquemas terapêuticos para as formas resistentes da doença, exclusivamente oferecido no serviço público de saúde (BRASIL, 2019).
+O País, apesar de apresentar uma boa cobertura do tratamento, está entre os países com alta carga da doença (WHO, 2019).
+Entre as metas prioritárias para o enfrentamento global à doença, está o desenvolvimento de novas tecnologias para tuberculose latente, além de regimes de tratamento mais simples e curtos, inclusive para a forma resistente a medicamentos (WHO, 2019).
+Como alternativa à busca e ao desenvolvimento de novos medicamentos, destacam-se os produtos derivados da biodiversidade.
+Estes representam não apenas uma alternativa para a ampliação de opções terapêuticas eficazes, seguras e a preços acessíveis, como também uma janela de oportunidade para a Pesquisa e Desenvolvimento (P&D) de produtos com variadas indicações terapêuticas, devido ao alto potencial para inovações radicais e incrementais e capacidade de geração de riqueza (PIMENTEL et al., 2015; BOLZANI, 2016; HASENCLEVER et al., 2017).
+No âmbito da ciência, tecnologia e inovação, a prospecção tecnológica tem colaborado para a identificação de oportunidades para a construção de estratégias futuras em P&D (SANTOS et al., 2004) e os documentos de patentes têm sido considerados uma fonte excepcional de informação científica e tecnológica, na medida em que disponibilizam a informação mais recente sobre o estado da arte e, ainda, oferecem informações de caráter legal e comercial (PIMENTA, 2017; AZEVEDO et al.
+2020; FERREIRA NETO; OLIVEIRA; PIMENTA, 2020).
+O presente trabalho realizou uma prospecção tecnológica a partir de documentos de patentes para identificação de insumos farmacêuticos ativos vegetais e/ou suas substâncias isoladas, para o tratamento da TB, analisando as tendências mais promissoras em patentes.
+277Cadernos de Prospecção – Salvador, v. 15, n. 1, janeiro a março, 2022, p. 275-290.Novos Derivados de Plantas Medicinais para Tratamento da Tuberculose em Documentos de Patente 2 Metodologia A identificação de novas tecnologias desenvolvidas para o tratamento da TB foi realizada em três etapas.
+A primeira consistiu do levantamento de documentos de patente no portal comercial Orbit Intelligence em agosto de 2019.
+O portal foi selecionado por ter cobertura abrangente, disponibilizando patentes mundiais publicadas por mais de 100 autoridades em patentes e facilidade para exportação dos resultados originados da busca.
+O portal Orbit Intelligence permite agrupar automaticamente os documentos de patentes em famílias, o que significa dizer que são reunidos um ou mais documentos de patentes individuais relacionados a uma única invenção, ou seja, a uma única tecnologia.
+As seguintes sinonímias para TB foram consideradas na definição dos termos a serem utilizados na busca: Tuberculose, Tuberculosis, Mycobacterium tuberculosis , antituberculosos, tuberculostáticos.
+O termo "+tuberculos+" foi designado para concepção da estratégia de busca realizada nos campos de título (TI) ou resumo (AB).
+A Classificação Internacional de Patentes (CIP) – IPC, na sigla em inglês – também foi aplicada na estratégia de busca.
+A IPC é um sistema de classificação internacional cujas áreas tecnológicas são divididas em classes, subclasses, grupos principais e grupos, por meio de um sistema hierárquico.
+Uma vez identificados os grupos aos quais o pedido de patente se refere, é possível identificar outros pedidos de patentes relacionados ao mesmo fim.
+Os códigos A61K (Cosméticos ou preparações similares para higiene pessoal) ou A61P (Atividade terapêutica específica de compostos químicos ou preparações medicinais) foram incluídos na estratégia de busca, a fim de delimitar as buscas para medicamentos (FERREIRA NETO; OLIVEIRA; PIMENTA, 2020).
+Com intuito de identificar as mais recentes tendências em relação à P&D como tecnologias emergentes, principais desenvolvedores de novas tecnologias e países onde os depósitos ocorrem, apenas documentos com data de prioridade a partir de 2015 foram consideradas para esta análise.
+A estratégia de busca utilizada pode ser observada a partir da seguinte sentença: " (+tuberculos+)/TI/AB AND (A61K OR A61P)/IPC AND PRD >= 2015".
+A segunda etapa da busca consistiu em uma análise criteriosa do conteúdo dos documentos de patentes levantados, a fim de incluir no presente estudo somente documentos relevantes para a temática.
+Entre os critérios de exclusão das famílias de documentos de patente, para o presente estudo, estão a falta de informações formais ou técnicas; o patenteamento de tecnologias de prevenção e/ou diagnóstico, bem como as de uso veterinário, visando a obter um corpus de estudo contendo somente documentos de patente de medicamentos para o tratamento da TB em humanos.
+Após a realização dessa etapa, deu-se início à terceira etapa de seleção das tecnologias identificadas como relevantes, ao possuírem evidências experimentais de eficácia in vitro , especificamente contra cepas resistentes de M. tuberculosis , e que continham em sua composição um ou mais derivados de plantas medicinais.
+278Cadernos de Prospecção – Salvador, v. 15, n. 1, janeiro a março, 2022, p. 275-290.
+Paula Teixeira Pinto Ferreira Neto, Carla Junqueira Moragas Tellis, Fabrícia Pires Pimenta 3 Resultados e Discussão Conforme fluxo metodológico ilustrado na Figura 1, foram identificadas 16 famílias de patentes apresentando substâncias isoladas ou misturas de substâncias derivadas de plantas medicinais com evidência de eficácia, a partir de estudos experimentais in vitro, contra cepas resistentes de M. tuberculosis .
+Figura 1 – Fluxo metodológico para identificação de derivados de plantas medicinais com evidência de eficácia in vitro contra cepas resistentes de M. tuberculosis Fonte: Elaborada pelas autoras deste artigo279Cadernos de Prospecção – Salvador, v. 15, n. 1, janeiro a março, 2022, p. 275-290.Novos Derivados de Plantas Medicinais para Tratamento da Tuberculose em Documentos de Patente Todas as famílias de patentes identificadas neste estudo contêm apenas um único documento e foram depositadas de janeiro de 2015 a fevereiro de 2017 (ao considerar que os documentos de patente somente são publicados 18 meses após o depósito, a busca realizada em agosto de 2019 somente detectaria documentos depositados até fevereiro de 2017).
+As 16 famílias de patente identificadas encontram-se protegidas em apenas três países do mundo: China, República da Coreia e Rússia.
+Esse resultado é incomum, pois normalmente os responsáveis pelo desenvolvimento de novas tecnologias depositam suas patentes em países considerados estratégicos para suas invenções, países com os mercados promissores, economicamente importantes, ou países com licenciadores em potencial (SANTOS-GANDELMAN; MACHADO-SILVA, 2019).
+A tuberculose, segundo a Organização Mundial da Saúde (OMS) (WHO, 2019), afeta o mundo todo, porém 30 países concentram 87% dos casos.
+A maioria dos casos registrados em 2018 ocorreu no Sudeste Asiático (44%), África (24%) e Pacífico Ocidental (18%), com porcentagens menores no Mediterrâneo Oriental (8%), nas Américas (3%) e Europa (3%).
+Ocorreram cerca de meio milhão de novos casos de TB resistente à rifampicina, dos quais 78% apresentavam TB multirresistente (quando há resistência à rifampicina e à isoniazida).
+Os novos casos de TB resistente se concentraram na África do Sul (3%), Índia (27%), China (14%) e Federação Russa (9%).
+Contudo, a despeito da alta carga da doença, alguns desses países podem não ter despertado o interesse de proteção para as novas tecnologias por parte de seus detentores, devido à ausência de poder de compra, desinteresse político, ou por fragilidade jurídica no âmbito da propriedade intelectual.
+No caso de produtos derivados da biodiversidade, que incluem os derivados de plantas medicinais deste estudo, outra possível causa para o desinteresse na proteção em determinadas regiões do mundo pode incluir a regulamentação de acesso ao patrimônio genético de cada país.
+Embora, no passado, a biodiversidade já tenha sido considerada patrimônio da humanidade que poderia ser utilizado por todos livremente, após a Convenção da Diversidade Biológica (CDB) na década de 1990, adotou-se um entendimento de soberania dos países sobre os recursos existentes em seus territórios, encerrando-se o livre acesso aos recursos genéticos e incentivando o estabelecimento de uma legislação específica pelos países signatários que regulasse o acesso, incluindo inclusive formas de repartição de benefícios pelo uso de sua biodiversidade (PIMENTEL et al., 2015).
+É possível, ainda, que o desinteresse na extensão da proteção dessas novas tecnologias esteja relacionado aos desafios de padronização dos extratos e derivados não isolados das drogas vegetais em função da variabilidade das condições de cada região do mundo.
+Fatores ambientais, como solo, clima e temperatura, e aspectos relacionados ao processo de obtenção das plantas medicinais, como colheita, armazenamento e transporte, podem influenciar na composição química das plantas, sugerindo diferentes perfis toxicológicos e farmacológicos dos produtos obtidos (DENG; WEST; JENSEN, 2010).
+O presente estudo permitiu ainda observar que nenhum dos documentos de novos produtos desenvolvidos para TB identificados estão protegidos no Brasil e, portanto, o conhecimento divulgado nesses documentos de patentes pode ser explorado livremente.
+280Cadernos de Prospecção – Salvador, v. 15, n. 1, janeiro a março, 2022, p. 275-290.
+Paula Teixeira Pinto Ferreira Neto, Carla Junqueira Moragas Tellis, Fabrícia Pires Pimenta O Quadro 1 mostra as oito instituições detentoras das patentes selecionadas neste estudo, por país de depósito.
+Entre elas, cinco são universidades e institutos de pesquisa, uma é indústria farmacêutica, uma é fundação de apoio à pesquisa e uma é empresa de consultoria.
+Metade das instituições estão localizadas na China, três na República da Coreia e uma na Rússia.
+A estratégia de proteção prioritária, ou seja, de depósito do primeiro pedido de patente, em seu país de origem é algo bastante comum, principalmente na área farmacêutica.
+Já a estratégia de proteção em outros países/territórios difere de empresa para empresa, ou mesmo para diferentes áreas.
+A prática comum empresarial é que, ao perceberem que detêm uma grande inovação, solicitam proteção em muitos países/territórios, mesmo cientes dos altos custos para tradução, processamento e representação em cada país/território peticionado.
+Trata-se, portanto, de uma decisão estratégica que pondera a relação custo de proteção versus benefício de proteção.
+Contudo, para muitas instituições, a proteção em diversos países/territórios, mesmo que para invenções potencialmente promissoras, torna-se inviável economicamente.
+O que significa que a tecnologia é protegida somente no país-sede da empresa, provavelmente onde foi gerado o P&D, deixando a tecnologia em domínio público em todos os demais países.
+As informações mostradas no Quadro 1 podem ser úteis no direcionamento estratégico de parceiros para a construção de cooperações na área de P&D de novos produtos derivados de plantas medicinais para combate à TB.
+Quadro 1 – Instituições detentoras das patentes de novos produtos para TB por país de proteção InstItuIção detentora (país* da sede)país de proteção ChIna repúblICa da CoreIa rússIa Zibo Qidingli Patent Information Consulting (CN) 7 0 0 Soonchunhyang University (KR) 0 4 0 Konkuk University Industrial Cooperation Foundation (KR) 0 2 0 National Development Institute of Korean Medicine (KR) 0 2 0 Federal'noe Gosudarstvennoe Byudzhetnoe Obrazovatel'noe Uchrezhdenie (RU)0 0 1 The People's Liberation Army (PLA) n. 309 Hospital (CN) 1 0 0 Qifang pharmaceutical industry (CN) 1 0 0 Sichuan Normal University (CN) 1 0 0 *CN = China; KR = República da Coreia; RU = Rússia.
+Fonte: Elaborado pelas autoras deste artigo, a partir de Orbit Intelligence Nota-se que não há instituições brasileiras entre as empresas detentoras das patentes identificadas neste estudo.
+Tal constatação aponta para uma disfunção no País, sinalizando que poucos esforços têm sido empreendidos no aproveitamento da biodiversidade para o desenvolvimento de novos medicamentos para o combate à TB.
+Revela-se aqui uma dupla negligencia no Brasil: negligencia-se o alto potencial da biodiversidade nacional e a alta carga da doença no País.
+O atraso tecnológico nacional no desenvolvimento de medicamentos derivados da biodiversidade brasileira já é conhecido (BOLZANI, 2016).
+Adicionalmente, tem-se observado a diminuição do interesse pela biodiversidade devido à regulamentação do acesso e da repartição 281Cadernos de Prospecção – Salvador, v. 15, n. 1, janeiro a março, 2022, p. 275-290.Novos Derivados de Plantas Medicinais para Tratamento da Tuberculose em Documentos de Patente de benefícios advindos dos recursos da biodiversidade, apontada como um fator desencorajador para a P&D de novos produtos da biodiversidade brasileira (PIMENTEL et al., 2015; HASENCLEVER et al., 2017).
+Assim, a construção de um ambiente regulatório capaz de harmonizar as atividades de uma extensa cadeia produtiva, desde o cultivo das plantas, o manejo sustentável, a P&D, a produção, a distribuição e o uso de plantas medicinais e derivados, inclusive pelo Sistema Único de Saúde (SUS), se mostra um grande desafio para o País (HASENCLEVER et al., 2017).
+Já a negligência com a tuberculose é mundialmente polêmica.
+A lista de doenças tropicais negligenciadas da OMS para as quais os esforços de controle, eliminação e erradicação estão sendo intensificados não contempla a tuberculose (WHO, 2020).
+Após o ano 2000, com as mudanças observadas no cenário de desenvolvimento de novas drogas voltadas para doenças negligenciadas, surgiu um entendimento de que o termo "doenças negligenciadas" não se aplicaria mais para a TB dada a quantidade de projetos de desenvolvimento de novos medicamentos em andamento (COHEN, 2006).
+Contudo, permanece a demanda por novos tratamentos que contemplem a TB latente, regimes mais simples e curtos para tratamento da TB, incluindo a TB resistente a medicamentos (WHO, 2019), e subsiste a negligência com a população pediátrica e com as formas extrapulmonares da doença (MANDAL et al., 2017).
+Entre as 16 famílias de patentes de derivados de plantas medicinais com eficácia in vitro contra M. tuberculosis analisadas neste estudo, para 13 (81%) delas há algum tipo de proteção ou expectativa em pelo menos um território ou país.
+Desse elenco, seis aguardam análise, enquanto sete já tiveram proteção patentária concedida, indicando que os critérios de patenteabilidade foram alcançados.
+Para as três famílias restantes (19%), duas delas caducaram e uma foi revogada, ou seja, a proteção foi encerrada por um ou mais motivos, por exemplo, falta de novidade.
+Nesse sentido, os conteúdos divulgados nesses documentos de patentes podem ser explorados livremente, sem qualquer necessidade de contrapartida, em qualquer lugar do mundo.
+Analisando as 16 patentes apresentadas neste estudo, 13 delas (81%) apresentam substâncias isoladas de plantas medicinais (fitofármacos), ou seja, medicamentos obtidos da biodiversidade vegetal que diferem dos fitoterápicos por serem substâncias purificadas e isoladas, com estrutura química definida e atividade farmacológica comprovada (Quadro 2).
+Tais substâncias pertencem às seguintes classes de metabólitos secundários: flavonoides (6), cumarina (1), derivado fenólico (1), terpenoides (4) e sapogenina (1), conforme apresentado na Figura 2.282Cadernos de Prospecção – Salvador, v. 15, n. 1, janeiro a março, 2022, p. 275-290.
+Paula Teixeira Pinto Ferreira Neto, Carla Junqueira Moragas Tellis, Fabrícia Pires Pimenta Figura 2 – Estruturas químicas dos 13 fitofármacos com atividade contra M. tuberculosis encontrados nos documentos de patentes identificados neste estudo – agosto de 2019 Fonte: Elaborada pelas autoras deste artigo Quadro 2 – Fitofármacos promissores para o tratamento da tuberculose FItoFármaCoClasse químICapatenteembasamento CIentíFICo apresentado na patenteFontes naturaIsForma de uso da substânCIa Isolada ou mIsturaOrientina Flavonoide CN107837259Dados próprios in vitro : Determinação da CIM da orientina contra cepa H37Rv de M. tuberculosis (0,86 mg/ml).
+Cecropia pachystachya5 g do orientina adicionada a 195 g de dextrina produz 1.000 comprimidos ou cápsulasIsovitexina Flavonoide CN107837255Dados próprios in vitro : Determinação da CIM da orientina contra cepa H37Rv de M. tuberculosis (0,64 mg/ml).
+Cecropia pachystachya5 g do isovitexina adicionada a 195 g de dextrina produz 1.000 comprimidos ou cápsulasApigenina Flavonoide CN107865849Dados próprios in vitro : Determinação da CIM da orientina contra cepa H37Rv de M. tuberculosis (0,74 mg/ml).
+Obtenção e isolamento: segundo de Mello Cruz et al.
+2003.Cecropia pachystachya5 g do apigenina adicionada a 195 g de dextrina produz 1.000 comprimidos ou cápsulas283Cadernos de Prospecção – Salvador, v. 15, n. 1, janeiro a março, 2022, p. 275-290.Novos Derivados de Plantas Medicinais para Tratamento da Tuberculose em Documentos de Patente FItoFármaCoClasse químICapatenteembasamento CIentíFICo apresentado na patenteFontes naturaIsForma de uso da substânCIa Isolada ou mIsturaRhamnetina e Isohamnetina Flavonoide KR101833011Dados próprios in vitro : Determinação da CIM da contra cepas H37Rv MDR (200 mg/ml e XDR 100 mg/ml) para rhamnetina e 100 mg/ml para ambas as estirpes para isorhamnetina.
+Ensaios com células MRC-5 estimuladas ou não com TNF-g mostraram que rhamnetina e isorhamnetina foram capazes de reduzir a secreção de citocinas inflamatórias TNF-a, IL-1 beta, IL-6, IL-12 e MMP-1.
+Rhamnetina levou a redução da fosforilação de p38 MAPK ou ERK em 48,5% e 46,1%, respectivamenteSyzygium aromaticum Coriandrum sativumQualquer composição alimentar ou farmacêutica que contenha rhamnetina a uma concentração entre 0,1 mg/mL e 1.000 mg/mLIsorhamnetina Flavonoide KR101761155Dados próprios in vitro: Ensaios com células MRC-5 estimuladas ou não com TNF-g mostraram que a isorhamnetina foi capaz de suprimir a expressão das citocinas pró-inflamatóriasIL-1 β, IL-6, IL-12, TNF- α, MMP-1 e β-actina e a redução da fosforilação de p38 MAPK ou ERK.
+Dados in vivo: Ensaios em modelos de inflamação pulmonar induzida por LPS em camundongos mostra o efeito da isorhamnetina na inibição da IL-6, IL-12Syzygium aromaticum Coriandrum sativumCápsulas, comprimidos, preparações injetáveis, soluções ou em misturas com alimentos em doses variáveis de 0,01 a 500 mg/dia uma vez ou várias vezes ao dia.
+3-desoxisappanchalcona Flavonoide KR101756353Resultados próprios demonstraram a atividade antituberculina superior à de antibióticos conhecidos como a rifampicina e isoniazida.
+Determinaçao da CIM contra cepas H-37Ra (12,5 a 25 mg/ ml), H-37Rv (12,5-25 mg/ml), MDR (25-50 mg/ml), XDR (12,525 mg/ml) de M. tuberculosis .Caesalpinia sappan L. Ganoderma lucidiumCápsulas, comprimidos ou outras formas farmacêuticas contendo de 10 a 30% da substância ativa.Collinina Cumarina KR101833048Resultados próprios demonstraram a atividade antituberculina superior à de antibióticos conhecidos como a rifampicina e isoniazida.
+Determinaçao da CIM contra cepas H-37Ra (6,25-12,5 mg/ml) , H-37Rv (6,25-12,5 mg/ml), MDR (6,25-12,5 mg/ml), XDR (6,2512,5 mg/ml) de M. tuberculosis.Zanthoxylum schinifolium Anguilla japonicaCápsulas, comprimidos ou outras formas farmacêuticas contendo de 10 a 30% da substância ativa.Foveospirolideo Derivado fenólico CN105287501Determinação da CIM contra cepas H-37Rv (2,5 mg/ml) e MDR (0,6 mg/ml) de M. tuberculosis.Ficus foveolataA mistura de 20 g de Foveospirolideo com 180 g amido, produz 1.000 cápsulas ou comprimidos.
+284Cadernos de Prospecção – Salvador, v. 15, n. 1, janeiro a março, 2022, p. 275-290.
+Paula Teixeira Pinto Ferreira Neto, Carla Junqueira Moragas Tellis, Fabrícia Pires Pimenta FItoFármaCoClasse químICapatenteembasamento CIentíFICo apresentado na patenteFontes naturaIsForma de uso da substânCIa Isolada ou mIsturaVulgarisina A Terpenoide CN105496998Determinação da CIM contra cepas H-37Rv (0,86 mg/ml) e MDR (0,5 mg/ml) de M. tuberculosis.Prunella vulgaris 5 g de Vulgarisina A adicionada a 195 g de dextrina produz 1.000 comprimidos ou cápsulas.
+Linderolideo H Terpenoide CN106265635Determinação da CIM contra cepas H-37Rv (0,79 mg/ml) e MDR (0,6 mg/ml) de M. tuberculosis.Lindera strychnifolia20g de liderolideo H adicionados de 180 g de adjuvante produzem 1.000 cápsulas ou comprimidos.
+Ent -1 β, 7α, 14β-triacetoxykaur -16-en-15one e outros 18 diterpenos Terpenoide KR101731800Dos 19 terpenoides testados, ent -1β, 7α, 14β-triacetoxykaur -16-en15-one apresentou atividade 16 vezes superior à isoniazida contra M. tuberbulosis multirresistente (MDR-TB) e 32 vezes superior à isoniazida e rifampicina contra M. tuberculosis extensivamente resistente (XDR-TB).
+Para esta substancia foram determinadas as seguintes CIM's: H-37Ra (0,1,56 mg/ml), H-37Rv (1,56 – 3,125 mg/ml), MDR (1,56 – 3,125 mg/ml) e XDR (3,125-6,25 mg/ml) de M. tuberculosis.Croton tonkinensisCápsulas, comprimidos ou outras formas farmacêuticas contendo de 10 a 30% da substância ativa.Friedolanostano Terpenoide CN106491616Determinação da CIM contra cepas H-37Rv (0,83 mg/ml) e MDR (0,61 mg/ml) de M. tuberculosis.Garcinia Hombroniana5 g do friedolanostano adicionada a 195 g de dextrina produz 1000 comprimidos ou cápsulas20S-protopanaxatriol Sapogenina KR101665251Determinação da CIM contra cepas H-37Rv e H-37Ra (12,5 - 25 mg/ml), MDR e XDR (2550 mg/ml) de M. tuberculosis.Panax ginsengCapsulas, comprimidos ou outras formas farmacêuticas contendo de 10 a 30% da substância ativa.
+Fonte: Elaborado pelas autoras deste artigo285Cadernos de Prospecção – Salvador, v. 15, n. 1, janeiro a março, 2022, p. 275-290.Novos Derivados de Plantas Medicinais para Tratamento da Tuberculose em Documentos de Patente A maior parte dos fitofármacos identificados neste estudo pertencem ao vasto grupo dos flavonoides.
+Estes caracterizam-se por apresentar um esqueleto polifenólico constituído de 15 átomos de carbono e encontrarem-se amplamente distribuídos na natureza, exibindo um amplo espectro de atividades farmacológicas, inclusive contra M. tuberculosis (SASIKUMAR; GHOSH; DUSTHACKEER, 2018).
+Essa classe de metabólitos vegetais é tão ampla que se subdivide de acordo com suas variações estruturais (SIMÕES et al., 2010).
+Entre os seis flavonoides identificados como candidatos a fitofármacos para o tratamento da tuberculose, três pertencem à subclasse das flavonas: orientina, isovitexina e apigenina, sendo as duas primeiras flavonas glicosiladas e a última apresentando-se sob a forma aglicona.
+Flanonoides da subclasse dos flavonóis, como rhamnetina e isorhamnetina, também têm sido relacionados à atividade Antimycobacterium tuberculosis .
+Kaempferol, quercetina e miricetina demonstraram capacidade de inibir em 68,29%, 74,48% e 84,50%, respectivamente, o crescimento do microrganismo (ZHENG et al., 2014).
+As micobactérias em geral são cercadas por um envelope celular de membrana dupla que as torna intrinsecamente resistentes a muitos antibióticos (XU et al., 2017).
+A maioria dos medicamentos usados clinicamente para tratar TB tem como alvo a síntese macromolecular (LIBARDO; BOSHOFF; BARRY , 2018).
+Flavonoides agem como potentes inibidores de enzimas biocatalisadoras envolvidas na síntese da parede celular de M. tuberculosis (VILLAUME et al., 2017).
+Outros alvos de ação dos flavonoides incluem a ligação com a proteína quinase G em M. tuberculosis (MtPknG) (QASAYMEH et al., 2019) e a ligação com a subunidade B da DNA girase da M. tuberculosis (SURIYANARAYANAN; SHANMUGAM; SANTHOSH, 2013), mesmo alvo das fluoroquinolonas recomendadas nos esquemas terapêuticos para o tratamento da TB resistente à rifampicina (AUBRY et al., 2004), todos alvos promissores na terapia antituberculosa (SASIKUMAR; GHOSH; DUSTHACKEER, 2018).
+Na área de P&D de novos medicamentos, também têm sido objeto de estudo o desenho, a síntese e a descoberta de novos derivados das chalconas com atividade contra TB.
+As chalconas são intermediários essenciais na biossíntese de flavonoides e derivados da chalcona se mostraram potentes contra cepas de M. tuberculosis resistentes à rifampicina e à isoniazida (GOMES et al., 2017).
+Derivados da cumarina também são compostos fenólicos relevantes na química medicinal no processo de descoberta de novos agentes antituberculose.
+Uma revisão recente explorou especificamente compostos fenólicos e identificou 112 produtos isolados de várias fontes vegetais com atividade contra micobactérias, reforçando a relevância dessa classe de produtos como um reservatório natural singular de novos compostos quimicamente diversos que podem vir a agregar no combate à TB (MAZLUN et al., 2019).
+Os terpenos, de igual forma, são reconhecidos por suas propriedades antimicrobianas.
+Terpenos naturais, isolados ou em combinação, podem alterar a parede celular da micobactéria e já demonstraram agir sinergicamente quando coadministrados com tuberculostáticos tradicionais (SIENIAWSKA et al., 2017).
+A elucidação das diferentes propriedades terapêuticas de agliconas obtidas de saponinas também tem sido alvo de estudos recentes, inclusive a aglicona protopanaxatriol, identificada neste estudo (LEE et al., 2015).286Cadernos de Prospecção – Salvador, v. 15, n. 1, janeiro a março, 2022, p. 275-290.
+Paula Teixeira Pinto Ferreira Neto, Carla Junqueira Moragas Tellis, Fabrícia Pires Pimenta Outras revisões reafirmam a relevância desses grupos de fitoquímicos enfatizando seu potencial contra as micobactérias, inclusive M. tuberculosis (GARCIA et al., 2012; SANTHOSH; SURIYANARAYANAN, 2014).
+Além dos 13 (81%) fitofármacos ativos contra M. tuberculosis mostrados no Quadro 2, foram identificados ainda três (19%) misturas de substâncias derivadas de plantas medicinais, fitocomplexos, que merecem destaque.
+Foram eles: uma preparação da medicina tradicional chinesa (CN104689129), um extrato de milho ( Zea mays L.) (RU2657423) e um extrato de Bletilla striata (CN106963881).
+O tratamento da TB por meio de infusões, macerações, tinturas e decocções de partes de plantas medicinais é realizado há séculos em diferentes sistemas tradicionais de medicina no mundo, incluindo o chinês, o africano e o indiano ou Ayurveda (SHARIFI-RAD et al., 2017).
+De forma semelhante, extrato da casca de Zea mays e a Bletilla striata também possuem propriedades terapêuticas (HE et al., 2017; OKOKON et al., 2017).
+De fato, é conhecido que muitos extratos, de diferentes espécies de vegetais, utilizados para TB exibem atividades antimicobacterianas significativas in vitro (GAUTAM; SAKLANI; JACHAK, 2007) .
+Contudo, embora utilizados muitas vezes com considerável eficácia, as doses terapêuticas e seguras ainda devem ser estabelecidas para a maioria das formulações (SHARIFI-RAD et al., 2017).
+Para todos os derivados de plantas medicinais identificados neste estudo, foi estabelecida a Concentração Inibitória Mínima (CIM) para verificação da suscetibilidade do microrganismo aos novos produtos desenvolvidos.
+Todavia, a ausência de padronização entre os métodos utilizados para a avaliação do potencial antituberculoso das substâncias dificulta a comparação dos resultados, não sendo possível eleger um produto mais eficaz entre eles.
+Ressalta-se que entre os 16 produtos derivados da biodiversidade apresentados neste trabalho, fitofármacos ou fitocomplexos ativos naturais, duas patentes (KR101761155 e CN104689129) continham evidências de eficácia in vivo (camundongos).
+Uma das patentes (KR101761155) propõe um mecanismo de ação embasada nos resultados apresentados para a atividade descrita do fitofármaco isorhamnetina.
+Considerando que patentes em geral tendem a disponibilizar o mínimo de dados experimentais possível, a existência de resultados que contemplam evidência de eficácia para cepas de TB resistentes torna a informação dessas patentes muito atrativa.
+Diante do potencial exposto, esforços devem se voltar para a identificação do mecanismo de ação das substâncias ativas, do potencial terapêutico de cada uma e da eficácia e segurança in vivo dos novos produtos desenvolvidos.
+4 Considerações Finais Por meio de uma prospecção tecnológica utilizando patentes como fonte de informação, foi possível identificar 16 produtos derivados da biodiversidade desenvolvidos para o tratamento da TB, com evidências experimentais de eficácia in vitro especificamente para a Mycobacterium tuberculosis , incluindo cepas resistentes.287Cadernos de Prospecção – Salvador, v. 15, n. 1, janeiro a março, 2022, p. 275-290.Novos Derivados de Plantas Medicinais para Tratamento da Tuberculose em Documentos de Patente Entre os derivados de plantas medicinais identificados, há substâncias isoladas (fitofármacos) e misturas de substâncias (fitocomplexos), todas com potencial para compor um novo arsenal terapêutico no combate à TB, incluindo a forma resistente da doença.
+O baixo índice de patenteamento de novos medicamentos derivados de plantas medicinais contra TB resistente reforça o persistente hiato em P&D de novos medicamentos contra a doença em todo o mundo.
+Especificamente no caso do Brasil, não há nenhuma instituição nacional entre as empresas detentoras das patentes identificadas, sinalizando que a nação tem negligenciado não apenas a alta carga da doença no País, como também o alto potencial da biodiversidade brasileira.
+5 Perspectivas Futuras O investimento em P&D em derivados da biodiversidade pode impulsionar o desenvolvimento das capacidades tecnológicas e maximizar a possibilidade de se encontrar fármacos inovadores no futuro.
+Assim, anseia-se que no futuro alguma(s) das substâncias promissoras identificadas neste trabalho venham a se tornar um medicamento, embora haja a possibilidade de que isso não aconteça.
+Ainda que o atual marco regulatório brasileiro de acesso ao patrimônio genético tenha estabelecido alguns avanços em comparação à regulamentação anterior, o Brasil precisa avançar na construção de um ambiente regulatório capaz de incentivar a P&D de derivados da biodiversidade brasileira no País.
+Adicionalmente, espera-se que o uso de patentes como fonte de informação, em combinação com o uso de softwares e de técnicas de mineração de dados, possa ser útil para otimizar o desenvolvimento de novos medicamentos para o tratamento da TB, promovendo inovação, gerando riquezas para o país e respostas para as necessidades em saúde da população brasileira.
+Mycobacterium tuberculosis DNA gyrase: interaction with quinolones and correlation with antimycobacterial drug activity.
+Antimicrob Agents Chemother ., [s.l.
+], v. 48, n. 4, p. 1.2811.288, 2004.
+Prospecção Científica e Tecnológica da Tuberculose no Maranhão e o Uso Medicinal da Copaifera Langsdorffii no Tratamento.
+Cadernos de Prospecção , Salvador, v. 13, n. 3, p. 707-720, 2020.
+da S. Biodiversidade, bioprospecção e inovação no Brasil.
+Secretaria de Vigilância em Saúde.
+Departamento de Vigilância das Doenças Transmissíveis.
+Manual de Recomendações para o Controle da Tuberculose no Brasil.
+Brasília, DF: Ministério da Saúde, 2019.
+Disponível em: manual_recomendacoes_controle_tuberculose_brasil_2_ed.pdf .
+The New World of Global Health [News Focus].
+], v. 311, p. 162-167, 2006.288Cadernos de Prospecção – Salvador, v. 15, n. 1, janeiro a março, 2022, p. 275-290.
+Paula Teixeira Pinto Ferreira Neto, Carla Junqueira Moragas Tellis, Fabrícia Pires Pimenta DENG, S.; WEST, B. J.; JENSEN, J. C. A quantitative comparison of phytochemical components in global noni fruits and their commercial products.
+Novas tecnologias para o tratamento da tuberculose: o que as patentes nos dizem.
+], v. 43, n. 7, p. 998-1009, 2020.
+Recent advances in antitubercular natural products.
+GAUTAM, R.; SAKLANI, A.; JACHAK, S. M. Indian medicinal plants as a source of antimycobacterial agents .
+QSAR-driven design, synthesis and discovery of potent chalcone derivatives with antitubercular activity.
+A indústria de fitoterápicos brasileira: desafios e oportunidades.
+], v. 22, n. 8, p. 2.559-2.569, 2017.
+Bletilla striata : medicinal uses, phytochemistry and pharmacological activities.
+Anti-inflammatory effects of ginsenoside Rg1 and its metabolites ginsenoside Rh1 and 20(S)-protopanaxatriol in mice with TNBS-induced colitis.
+LIBARDO, J. M.; BOSHOFF , H. I.; BARRY , C. E. The present state of the tuberculosis drug development pipeline.
+Diagnosis and treatment of pediatric tuberculosis: An insight review.
+], v. 43, n. 4, p. 466-480, 2017.
+Phenolic Compounds as Promising Drug Candidates in Tuberculosis Therapy.
+], v. 24, n. 13, p. 2.449, 2019.
+Antimalarial and antiplasmodial activity of husk extract and fractions of Zea mays .
+], v. 55, n. 1, p. 1.394-1.400, 2017.
+A patente como fonte de informação (des) necessária para a Biotecnologia em Saúde.
+], v. 29, n. 3, p. 323-332, 2017.
+Biodiversidade brasileira como fonte da inovação farmacêutica: uma nova esperança?
+Predictive Binding Affinity of Plant-Derived Natural Products Towards the Protein Kinase G Enzyme of Mycobacterium tuberculosis (MtPknG).
+SANTHOSH, R. S.; SURIYANARAYANAN, B.
+Plants: A source for new antimycobacterial drugs.
+Prospecção de tecnologias de futuro: métodos, técnicas e abordagens.
+], v. 9 n. 19, p. 189-229, 2004.
+SANTOS-GANDELMAN, J.; MACHADO-SILVA, A.
+Drug development for cryptococcosis treatment: what can patents tell us?
+], v. 114, e180391, 2019.289Cadernos de Prospecção – Salvador, v. 15, n. 1, janeiro a março, 2022, p. 275-290.Novos Derivados de Plantas Medicinais para Tratamento da Tuberculose em Documentos de Patente SASIKUMAR, K.; GHOSH, A. R.; DUSTHACKEER, A. Antimycobacterial potentials of quercetin and rutin against Mycobacterium tuberculosis H37Rv.
+Medicinal plants used in the treatment of tuberculosis ethnobotanical and ethnopharmacological approaches.
+Natural terpenes influence the activity of antibiotics against isolated Mycobacterium tuberculosis.
+Farmacognosia: da planta ao medicamento.
+Porto Alegre: Editora da UFRGS.
+Florianópolis: Editora da UFSC, 2010.
+SURIYANARAYANAN, B.; SHANMUGAM, K.; SANTHOSH, R. S. Synthetic quercetin inhibits mycobacterial growth possibly by interacting with DNA gyrase.
+], v. 18, p. 1.587-1.593, 2013.
+Natural and Synthetic Flavonoids as Potent Mycobacterium tuberculosis UGM Inhibitors.
+], v. 23, n. 43, p. 10.423-10.429, 2017. WHO – WORLD HEALTH ORGANIZATION.
+Global tuberculosis report 2019 .
+Disponível em: Acesso em: 22 out.
+2019. WHO – WORLD HEALTH ORGANIZATION.
+Disponível em: Acesso em: 15 jan. 2020.
+MmpL3 is the flippase for mycolic acids in mycobacteria.
+Proc Natl Acad Sci U S A. , [s.l.
+], v. 114, n. 30, p. 7.993-7.998, 2017.
+Identification of plant-derived natural products as potential inhibitors of the Mycobacterium tuberculosis proteasome.
+BMC Complement Altern Med , [s.l.
+Sobre as Autoras Paula Teixeira Pinto Ferreira Neto E-mail : paulatneto@gmail.com ORCID: Mestre em Saúde Pública pela Escola Nacional de Saúde Pública Sérgio Arouca, Fundação Oswaldo Cruz, em 2018.
+Endereço profissional: Instituto Nacional de Infectologia Evandro Chagas, Fundação Oswaldo Cruz, Avenida Brasil, n. 4.365, Manguinhos, Rio de Janeiro, RJ.
+CEP: 20931-680 Carla Junqueira Moragas Tellis E-mail : carla.tellis@far.fiocruz.br ORCID: Doutora em Ciências com ênfase em Produtos Naturais pela Universidade Federal do Rio de Janeiro em 2006.
+Endereço profissional: Instituto de Tecnologia de Fármacos, Farmanguinhos, Fundação Oswaldo Cruz, Rua Sizenando Nabuco, n. 100, Manguinhos, Rio de Janeiro, RJ.
+290Cadernos de Prospecção – Salvador, v. 15, n. 1, janeiro a março, 2022, p. 275-290.
+Paula Teixeira Pinto Ferreira Neto, Carla Junqueira Moragas Tellis, Fabrícia Pires Pimenta Fabrícia Pires Pimenta E-mail : fabricia.pimenta@fiocruz.br ORCID: Doutora em Ciências Médicas pela Universidade do Estado do Rio de Janeiro em 2008.
+Endereço profissional: Instituto Carlos Chagas, Fundação Oswaldo Cruz, Rua Professor Algacyr Munhoz Mader, n. 3.775, Curitiba, PR.

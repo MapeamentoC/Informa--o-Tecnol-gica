@@ -1,0 +1,519 @@
+Artigos originais Economia e Sociedade, Campinas, Unicamp.
+-3533.20 20v29n1art03 Economia e Sociedade, Campinas, v. 29, n. 1 (68), p. 53-84, janeiro -abril 20 20.
+Inovação e capacidade exportadora: evidências para empresas brasileiras  Luciana Carva lho ** Ana Paula Macedo Avellar ***, ****  Resumo O objetivo deste artigo é verificar se a inovação das empresas brasileiras tem impactos positivos sobre a probabilidade de exportar e a intensidade de exportação.
+A amostra é composta por empresas industriais da Pesquisa de Inovação (P INTEC ) do Instituto Brasileiro de Estatístic a e Geografia ( IBGE ), para os anos de 2003, 2005 e 2008.
+Foram estimados os modelos Probit , Probit bivariado e Probit Ordenado.
+Os resultados revelam que a inovação influencia positivamente a propensão a exportar, em especial, quando inseridas as variáveis de inovação defasadas ao modelo.
+No entanto , os coeficientes associados ao impacto da inovação na intensidade da exportação foram negativos e estati sticamente significativos .
+Palavras -chave : Inovação ; Exportação ; PINTEC .
+Abstract Export capacity : evidence for Brazilian companies The aim of this essay is to verify if the innovation of Brazilian businesses has a positive impact on the probability of exporting and the intensity of exportation.
+The sample is made up of information from the crossover of PIA and PINTEC (Research of Tech nological Innovation), both from IBGE (Brazilian Institute of Geography and Statistics), with the SECEX/MDIC records of foreign trade, for the years 2003, 2005 and 2008.
+The Probit, Bivariate Probit and Ordered Probit models were estimated.
+The results rev eal that innovation has a positive influence on the propensity to export, especially when the lagging innovation variables are inserted into the model.
+However, the coefficients associated with the impact of innovation on the intensity of exportation were negative and statistically significant .
+Keywords: Innovation ; Exportation ; PINTEC .
+Introdução A relação entre inovação tecnológica e capacidade exportador a coloca -se como um dos principais focos de análise das teorias de comércio internacional, concentrando -se, especialmente, no comportamento de países e de setores industriais.
+Os principais estudos, de Posner (1961), Vernon (1966), Freeman (1968) e Krugman (1979), revelam que a tecnologia  Artigo recebido em 14 de julho de 2015 e aprovado em 10 de maio de 2019.
+As autoras agradecem o apoio da Fundação de Amparo à Pesquisa do Estado de Minas Gerais (Fapemig ) e do Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) para a realização des ta pesquisa.
+** Professora do Programa de Pós Graduação em Administração da Universidade Federal de Uberlândia (UFU) , Uberlândia, MG, Brasil .
+*** Professora Associada do Instituto de Economia e Relações Internacionais da Universidade Federal de Uberlândia , Uberlândia, MG, Brasil .
+**** Bolsista Produtividade em Pesquisa do CNPq , Brasília, DF, Brasil .
+Luciana Carvalho, Ana Paula Macedo Avellar 54 Economia e Sociedade, Campinas, v. 29, n. 1 (68) , p. 53-84, janeiro -abril 2020 .
+pode ser um fator importante na dinâmica dos fluxos de comércio entre os países e d os seus padrões de especialização.
+Ao se observar uma grande heterogeneidade no comportame nto das empresas dos setores industriais, iniciou -se uma série de estudos com o intuito de investigar o comportamento inovador das empresas individuais e sua inserção internacional ( Dosi, 1988; Dosi; Pavitt ; Soete, 1990; Fagerberg , 2006).
+Mais recentemente , muitos estudos empíricos foram desenvolvidos para discutir os efeitos da inovação nas exportações em empresas de diversos países do mundo ( Kumar ; Siddarthan, 1994; Wakelin, 1998; Sterlacchini, 1999; Kongmanila ; Takahashi , 2005; Tomiura, 2007; Wignaraja, 2008; Wignaraja, 2011; Cassiman ; Golovko , 2011).
+Grande parte desses estudos encontrou evidências de que a inovação, medida pelos gastos em P&D ou pelo número de novos produtos ou processo s, é um fator importante para explicar o desempenho exportador das e mpresas.
+No Brasil, alguns trabalhos, também utilizando dados por empresa, desenvolveram análise empírica sobre essa temática ( De Negri, 2005; Arbix ; Salerno ; De Negri, 2008; Benetes Cavas, 2010; Avellar ; Carvalho, 2013; Nonnenberg ; Avellar , 2013 ).
+Partindo dessa perspectiva, o objetivo deste artigo é verificar se a inovação das empresas brasileiras tem impactos significativos sobre a probabilidade de exportar e sobre a intensidade da exportação.
+A amostra é composta por informações da PINTEC (Pesqui sa de Inovação) , do IBGE (Instituto Brasileiro de Geografia e Estatística) , para os anos de 2003, 2005 e 2008.
+Foram estimados os modelos Probit , Probit bivariado e Probit Ordenado.
+Este estudo contribui com a literatura empírica acerca da relação entre ex portação e inovação a medida que utilizou um conjunto amplo de indicadores de inovação e de diversos métodos econométricos para a realização da investigação empírica .
+Além de explicar a propensão a exportar, o trabalho controlou a endogeneidade através do uso biprobit e ainda, explicou o impacto da inovação na intensidade da exportação, tema pouco explorado na literatura nacional e internacional.
+O trabalho está organizado em quatro seções, incluindo esta breve introdução.
+A primeira seção apresenta o debate teórico e empírico sobre a influência da inovação tecnológica no comportamento exportador das empresas.
+A segunda seção descreve os procedimentos metodológicos utilizados, assim como a base de dados e as variáveis utilizadas.
+Na terceira seção apresentam -se os resultados do estudo empírico realizado.
+Por fim, a última sintetiza as considerações finais.
+1 Debate teórico 1.1 Inovação e exportação A relação entre inovação e capacidade exportadora coloca -se como um dos principais focos de análise da teoria neo -schumpeteriana e das teorias de comércio internacional, concentrando -se, especialmente, no comportamento de países e de setores industriais.
+Inovação e capacidade exportadora: evidências para empresas brasileiras Economia e Sociedade, Campinas, v. 29, n. 1 (68), p. 53-84, janeiro -abril 2020.
+55 A literatura teórica e empírica sobre comércio internacional vem enfatizando o papel que a inovação tecnológica tem na ampliação da competitividade dos países.
+Ricardo (1817), ao explicar as relações no comércio internacional, atribuiu as vantagens comparat ivas das nações ao diferencial de custos relativos de produção.
+Entendendo que as são funções da disponibilidade de fatores e da produtividade do trabalho, que, por sua vez, depende da tecnologia utilizada no processo produtivo, a visão ricardiana detecta que a tecnologia de processo (ou de produção) é o fator determinante do comércio internacional.
+Outro modelo convencional de comércio internacional é o modelo Heckscher -Ohlin.
+Entre os pressupostos deste modelo, é fundamental a presença das suposições de que a tecnologia é idêntica em todos os países – seja porque é um bem público, ou porque pode ser adquirida a um custo acessível – e de que as curvas de indiferenças são similares entre os parceiros comerciais visto que, dada uma mesma inclinação dos termo s de troca (preços relativos internacionais), o padrão de especialização dos países ocorrerá naqueles produtos e/ou setores cuja produção seja mais intensiva no fator de produção localmente abundante, em termos relativos.
+A relação entre tecnologia e inova ção foi estudada de forma pioneira pelos trabalhos de Posner (1961), Vernon (1966) e Freeman (1968) que constataram que as empresas inovadoras são capazes de criar um monopólio temporário para os seus países.
+Esse fato permitiu o desenvolvimento da teoria dos chamados modelos de hiato tecnológico , com objetivo de explicar a competitividade internacional em função da assimetria no acesso à tecnologia.
+Destaca -se que as vantagens comparativas estáticas, descrita s por Ricardo, foram complementadas com a ideia de vantagens comparativas dinâmicas.
+Posner (1961) construiu um modelo com dois países, sendo um deles com liderança tecnológica, e o outro país com capacidade de imitação do primeiro , após um período de tempo.
+O autor constatou que, quando as empresas de senvolviam um novo produto, geravam poder de monopólio para a exportação em seu país de origem.
+Isso ocorria até a entrada de imitadores no mercado, sugerindo que a mudança técnica ocorrida em um país, e não originada nos demais, induz o comércio durante o período de tempo que leva para o restante do mundo imitar esta inovação.
+Nessa perspectiva, o trabalho de Vernon (1966) enfatiza o papel da inovação e os seus efeitos sobre as economias de escala, bem como as assimetrias tecnológicas, influenciando os pa drões de comércio.
+Para o autor, existe um gap entre o conhecimento de um princípio científico e a incorporação deste princípio em um novo produto.
+Desta forma, evidencia que as vantagens competitivas das empresas norte -americanas , por exemplo, estariam vi nculadas à sua capacidade de inovação em produtos e processos.
+À luz dessa discussão, Freeman (1968) verificou que a liderança exportadora alemã no setor químico estava associada a pesados investimentos em P&D.
+Da mesma forma, acerca do setor de bens de c apital eletrônicos nos Estados Unidos, o autor encontra evidências empíricas Luciana Carvalho, Ana Paula Macedo Avellar 56 Economia e Sociedade, Campinas, v. 29, n. 1 (68) , p. 53-84, janeiro -abril 2020 .
+que a liderança exportadora desse setor no país está fortemente correlacionada com o alto grau de desenvolvimento tecnológico.
+Assim, Posner (1961), Vernon (1966), Freeman (1968 ) concluem que o hiato temporal entre inovadores e imitadores pode ser longo, especialmente quando os inovadores sustentam os fluxos de inovações e as externalidades necessárias para inovar , enquanto nos países imitadores essas eram fracas.
+Finalmente, as contribuições mais consistentes a incorporar a tecnologia no aparato teórico do comércio internacional estão nas chamadas "novas teorias do comércio", nos seus modelos de " hiatos tecnológicos" e na abordagem neo -schumpeteriana.
+A teoria neo -schumpeteriana de comércio baseia -se em pressupostos diferentes das teorias convencionais, pois considera a tecnologia não um bem livremente disponível.
+Além disso, admite que as diferenças tecnológicas e de capacidade inovativa entre os países são essenciais na determi nação da direção e no volume de comércio entre eles.
+Nelson e Winter (1982 ), Dosi (1988), Dosi, Pavitt e Soete (1990) consideram um conceito de tecnologia diferente d o tradicional, que trata tecnologia como uma informação que é, geralmente, aplicável e fá cil de reproduzir e reutilizar, pel a qual as empresas podem produzir e usar inovações empregando livremente um "estoque" ou "reservatório" geral de conhecimento tecnológico.
+As empresas produzem as coisas de maneira que são tecnologicamente diferenciadas d os produtos e métodos de outras empresas e produzem inovações baseadas, geralmente, em tecnologia interna, ainda que com algumas contribuições de outras empresas, e em conhecimento público.
+Dosi (1988) assinala que os países com indústrias maduras dedicam uma significativa parcela de sua renda e força de trabalho à atividade formalizada de pesquisa pura e aplicada e ao desenvolvimento tecnológico, em instituições sem fins lucrativos (universidades, laboratórios governamentais, etc.)
+Com a mesma perspectiva, Dosi, Pavitt e Soete (1990) acentuam que os padrões alocativos induzidos pelo comércio têm implicações dinâmicas, que ajustam, no mercado internacional, as participações de mercado dentro de cada setor e, por meio deles, o nível de atividade nos países.
+Em suma, a abordagem neo -schumpeteriana baseia –se em três ideias fundamentais: i) a tecnologia é fenômeno endógeno, portanto, depende do desenvolvimento de cada país; ii) existem relações importantes entre o padrão de especializ ação e o crescimento econômico: a especialização em setores mais inovadores levaria a taxas de crescimento maiores (mesmo que sejam setores tradicionais) ; ii) a importância das instituições, tais como sistemas educacionais e de proteção da inovação, no desenvolvimento tecnológico.
+Diversos autores destacam que existe um maior dinamismo da inserção comercial dos países "líderes" em inovação.
+A produtividade e o ritmo de inovações tende a ser maior nos setores mais intensivos em tecnologia e que um país es pecializado nesse tipo de produto tende Inovação e capacidade exportadora: evidências para empresas brasileiras Economia e Sociedade, Campinas, v. 29, n. 1 (68), p. 53-84, janeiro -abril 2020.
+57 a apresentar taxas de crescimento e níveis de renda superiores ao s dos países especializados em produtos tradicionais.
+Além disso, em grande parte dos modelos, a especialização inicial tende a ser reforçada com o pas sar do tempo, ampliando a defasagem existente entre os países líderes e os países atrasados.
+Em desenvolvimentos mais recentes da teoria neo -schumpeteriana, Lall (2000) propõe nova classificação de intensidade tecnológica para explicar os padrões de export ação dos produtos manufaturados nos países em desenvolvimento.
+O estudo reforça que a pauta de exportação de países depende de uma trajetória tecnológica e tem implicações direta s para o seu crescimento e desenvolvimento.
+O autor salienta que as estratég ias utilizadas para atingir a competitividade diferem muito entre os países, originando diversos padrões de exportação.
+Entretanto , a teoria de comércio internacional não pode explicar esses padrões sem considerar os processos de aprendizagem e as polític as utilizadas para promovê -los.
+Fagerberg (2006) discute o papel do conhecimento, da tecnologia e da inovação no crescimento econômico e conclui que o desenvolvimento destes fatores está diretamente associado ao crescimento positivo dos países.
+No entanto , o crescimento da inovação e do conhecimento ocorre de maneira assim étrica para alguns países, propiciando desempenhos diferentes em n ível global.
+Dessa forma, o padrão de especialização que emerge desses modelos é aquele no qual o desenvolvimento de novos produtos ficaria a cargo dos países desenvolvidos.
+A sustentação dos fluxos de comércio entre eles e os países atrasados se daria por meio de um processo contínuo de inovação pelos países líderes e da difusão tecnológica aos países atrasados.
+Em síntese , o que tange às teorias de comércio internacional, o s estudos pioneiros de Posner (1961), Vernon (1966), Freeman (1968) e Krugman (1979) revelam que a tecnologia pode ser um fator importante na dinâmica dos fluxos de comércio entre os países e de seus padrões de especialização.
+Para os autores neo -schumpeterianos, Dosi (1988), Dosi, Pavitt e Soete (1990) e Fagerberg (2006), as diferenças de capacidade inovativa entre as empresas e os países são determinantes na sua forma de inserção no comércio internacional.
+Com intuito de encontrar evidências empíricas sobre a relação entre inovação e inserção no comércio internacional, m uitos estudos foram desenvolvi dos para analisar as empresas de diversos países, como Alemanha, Reino Unido e Japão ( Wakelin, 1998; Sterlacchini, 1999; Kongmanila ; Takahashi , 2005; Tomiura, 2007; Cassiman ; Golovko , 2011).
+Grande parte deles encontra evidências de que a inovação, medida pelos gastos com P&D ou pelo número de inovações, é um fator importante para explicar o desempenho exportador das empresas.
+Para países emergentes, como no caso do Brasil, poucos estudos foram realizados, destacando -se a análise para o caso das empresas na Índia, China, Filipinas, Tailândia e Brasil (Kumar ; Siddarthan, 1994; Wignaraja, 2008; Wignaraja, 2011; De Negri, 2005; Arbix ; Salerno ; De Negri, 2008; Avellar ; Carvalho, 2013; Nonnenberg ; Avellar , 2013 ).
+Observa -se Luciana Carvalho, Ana Paula Macedo Avellar 58 Economia e Sociedade, Campinas, v. 29, n. 1 (68) , p. 53-84, janeiro -abril 2020 .
+nesses estudos empíricos para empresa s de países emergentes, uma grande heterogeneidade de resultados sobre a relação entre inovação e desempenho exportador, especialmente no que se refere ao indicador de inovação utilizado .
+Pode -se concluir que, de acordo com a literatura teórica, a forte he terogeneidade no grau de inovação entre países acarreta diferenças substanciais na sua forma de inserção no comércio internacional.
+1.2 Evidências empíricas Diversos estudos empíricos, com base em dados por empresas, buscam encontrar evidências para compreender se a inovação tecnológica é capaz de influenciar a inserção internacional de uma empresa, medida, na maioria dos casos , pela exportação de seus produtos.
+Para Teece (1996), as empresas inovad oras apresentam incentivos para se expandir em mercados estrangeiros, tendo em vista que elas aumentariam seu retorno sobre o investimento.
+Contudo , esses estudos, predominantemente, investigam empresas atuantes em países desenvolvidos e encontram evidênc ias consistentes de que o esforço inovador, medido por gastos com P&D e inovação de novos produtos ou processos , têm impacto positivo sobre o comportamento exportador.
+Enthorf e Pohlmeier (1990), em um estudo para Alemanha, encontram um impacto negativo de inovação de processo na propensão de exportar.
+A metodologia proposta foi o modelo Probit para uma amostra de 452 empresas industriais.
+Em um estudo mais recente para empresas alemãs, Lachenmaier e Woβmann (2006) controlaram o efeito da endogeneidade entre exportação e inovação, através do método de variáveis instrumentais.
+Os resultados evidenciam a existência de relação positiva entre inovação e esforço exportador, considerando, inclusive diferentes setores industriais.
+Em um estudo para o Reino Unido, Wakelin (1998) e Ganotakis e Love (2011) , utilizam o modelo probabilístico estimado para explicar a relação entre exportação e inovação.
+Os resultados econométricos em ambos os trabalhos sugerem que empresas que inovam estão mais propensas a exportar, c ontudo, condicionado ao mercado de exportação.
+Ganotakis e Love (2011) avança m no debate ao encontrar fortes evidências da importância do P&D interno e externo na promoção da inovação.
+Sterlacchini (1999) , Basile (2001) e Nassimbeni (2001) investiga m o comportamento de empresas em uma região da Itália quanto à inovação e exportação.
+Por meio da estimação de um modelo probit e tobit , os trabalhos evidencia m que a probabilidade da empresa tornarse uma exportadora é afetada positivamente pelo esforço i novador , e posiciona -se como um importante fator competitivo, que ajuda a explicar o comportamento exportador das empresas na Itália.
+Além de investigar o efeito da inovação sobre a intensidade da exportação, Delgado, Farinas e Ruano (2002) examinam para e mpresas espanholas o impacto sobre o crescimento Inovação e capacidade exportadora: evidências para empresas brasileiras Economia e Sociedade, Campinas, v. 29, n. 1 (68), p. 53-84, janeiro -abril 2020.
+A metodologia aplicada foi um painel de 1991 a 1996.
+Os resultados empíricos destacam que a introdução de inovações, em especial, as inovações de produto , aumenta a intensidade de exportaçã o, bem como o crescimento da empresa.
+Empresas que inovam constantemente registram maior propensão em exportar e , ainda, apresentam crescimento em valor das exportações em uma magnitude significativa.
+Kongmanila e Takahashi (2005), num estudo sobre empresas no segmento de vestuário no Japão, conclu em, a partir de um modelo proba bilístico, que as inovações de produto e processo são fatores relevantes na determinação do desempenho de exportação, assim como a lucratividade da e mpresa.
+Na mesma linha, Tomiura (2007), também para empresas japonesas, encontra como resultado uma relação positiva entre intensidade de P&D e exportação, especialmente, em empresas de pequeno porte.
+Desse modo, por meio desse conjunto de estudos, verifi cam-se evidências consistentes de que, em empresas de países desenvolvidos, a inovação influencia a inserção internacional, via exportação.
+Destaca -se, entretanto, a existência de poucos estudos na literatura analisando a relação entre esforço inovativo e desempenho exportador para casos de empresas atuantes em países emergentes.
+Kumar e Siddarthan (1994) desenvolvem uma análise que pode ser considerada pioneira sobre essa temática para países emergentes, ao pesquisar a relação entre inovação e exportação para 640 empresas na Índia durante o período de 1988 a 1990 a partir da aplicação do modelo Tobit .
+Os autores assinalam o fato de que a Índia é um país em desenvolvimento e não possui vantagem competitiva alguma em setores de alta tecnologia.
+No entanto, m esmo nesse contexto adverso, a inovação tecnológica influencia positivamente o desempenho exportador de outros setores.
+Wignaraja (2008) investiga a relação entre propriedade do capital, inovação e exportação nas empresas do setor de eletrônicos na China, Tailândia e Filipinas.
+Os resultados econométricos obtidos, baseando -se em um de modelo probabilístico, denotam que a participação de capital estrangeiro e a inovação aumentam a probabilidade das empresas do setor de eletrônicos exportarem.
+Contudo o autor ressalta que a relação entre gastos em P&D e receita de vendas, em nenhum dos casos, mostrou -se estatisticamente significativo.
+A análise do autor, sugere que para países em desenvolvimento essa variável apresenta pouca representatividade dentre os outros esforços inovativos implementados pelas empresas, como a realização de acordos de cooperação com outros parceiros e os esforços de aprendizagem (treinamento, uso de licença de tecnologia do exterior e certificação de qualidade).
+Esse resultado corrobora a s conclusões desenvolvidas pelo estudo efetuado por Guan e Ma (2003), em que analisa apenas o caso chinês e encontram evidências semelhantes.
+Wignaraja (2011) aprofunda a análise sobre o caso das empresas chinesas, observando o comportamento do setor autom obilístico e de eletrônicos, estimando um modelo probabilístico.
+Dentre os resultados o autor encontra evidências de que o indicador que representa a inovação formal (gasto em P&D/receita) não se mostrou estatisticamente Luciana Carvalho, Ana Paula Macedo Avellar 60 Economia e Sociedade, Campinas, v. 29, n. 1 (68) , p. 53-84, janeiro -abril 2020 .
+Contudo, ao se consi derar o Índice de Tecnologia (IT) e os esforços de aprendizagem das empresas , verifica -se que esse tipo de esforço inovativo é o principal determinante da probabilidade de exportação das empresas dos setores analisados.
+Alguns estudos no Brasil também most ram a importância da inovação para a competitividade das empresas exportadoras.
+De Negri (2005) conclui, em seu estudo, que a inovação tecnológica é um fator importante para o desempenho exportador das empresas no Brasil, tanto no que se refere à sua inser ção no mercado internacional, quanto no aumento dos volumes exportados.
+Mais que isso, a autora também observa que empresas inovadoras apresentam um desempenho exportador superior às empresas não inovadoras, especialmente, quando a inovação não se restring e à adaptação de produtos e processos.
+No caso de produtos de menor intensidade tecnológica, as inovações de processo representam um elemento importante para as exportações.
+Para as exportações de produtos de média intensidade tecnológica, tanto inovações de processo quanto de produto são relevantes.
+Por fim, as exportações brasileiras de produtos de alta intensidade tecnológica parecem não sofrer influência de inovações de produto.
+Zucoloto e Toneto Júnior (2005) realizam uma análise empírica sobre o esfor ço inovativo da indústria brasileira de transformação em comparação com um grupo de países da OCDE.
+Os autores constatam a existência de correlação entre o desempenho tecnológico relativo e o comportamento exportador das empresas brasileiras.
+Os resultados encontrados denotam que os testes de correlação foram positivos e estatisticamente significativos a 1%, indicando que existe relação positiva entre o esforço tecnológico relativo , o desempenho das exportações mundiais e o indicador de vantagens comparati vas reveladas na indústria brasileira de transformação.
+Arbix, Salerno e De Negri (2008), baseando -se nos dados da PINTEC 2003, esclarecem que a inovação tecnológica (compreendida como um produto novo para o mercado) é um ativo importante para a empresa in dustrial brasileira internacionalizar -se, via investimento direto no exterior.
+O investimento no exterior, por sua vez, é positiv o e fortemente relacionado com a obtenção de preço -prêmio nas exportações.
+Os resultados comprovam, portanto, que a internacion alização é um passo possível para a empresa inovar e diferenciar produtos.
+Em um estudo comparativo para Brasil, China e Índia, Avellar e Carvalho (2013) investigaram, empiricamente, a relação entre o esforço inovativo e o desempenho exportador.
+Foram utilizados dados por empresa, organizados pelo World Bank Investment Climate Survey de 2002 e 2003 e estimados os modelos probabilísticos.
+Os resultados encontrados para os três países sugerem que o esforço inovativo aumenta a probabilidade das empr esas exportarem.
+Contudo nota -se que , para as empresas do Brasil, Índia e China, a relação entre esforço inovativo e desempenho exportador é mais tênue do que a observada para empresas de países desenvolvidos.
+O Quadro 1 registra a síntese de alguns trabal hos sobre a relação entre inovação e desempenho exportador para países desenvolvidos e em desenvolvimento.
+Inovação e capacidade exportadora: evidências para empresas brasileiras Economia e Sociedade, Campinas, v. 29, n. 1 (68), p. 53-84, janeiro -abril 2020.
+61 Quadro 1 Síntese dos trabalhos empírico s sobre exportação e inovação Ano Autor Pais Variável de Inovação Método Econométrico Resultados Países Desenvolvidos 1990 Enthorf e Pohlmeier Alemanha Novos Processos Probit Coeficiente associado negativo e significativo.
+1998 Wakelin Reino Unido Novos Produtos Probit Coeficiente associado positivo e significativo.
+1999 Sterlacchini Itália Novos Produtos Probit Coeficiente associado positivo e significativo.
+2001 Basile Itália Gastos com P&D Tobit Coeficiente associado positivo e significativo.
+2001 Nassimbeni Itália Novos Produtos Logit /Tobit Coeficiente associado positivo e significativo.
+2002 Delgano, Farinas e Ruano Espanha Novos Produtos Painel Coeficiente associado positivo e significativo.
+2005 Kongmanila e Takahaski Japão Novos produtos e processos Probit Coeficiente associado positivo e significativo.
+2006 Lachenmaier e Woβmann Alemanha Novos em Produto, Processo e intensidade da inovação OLS e Tobit com variáveis Instrumentais Coeficiente associado positivo e significativo.
+2007 Tomiura Japão Intensidade de P&D Probit Coeficiente associado positivo e significativo.
+2011 Ganotakis e Love Reino Unido Gastos com P&D e Inovação de Produto Probit com variáveis instrumentais Coeficiente associado positivo e significativo.
+Países em Desenvolvimento 1994 Kumar e Siddarthan Índia Gastos com P&D Tobit Coeficiente associado positivo e significativo para setores de baixa tecnologia 2008 Wignaraja China, Tailândia e Filipinas Novos produtos e Gastos com P&D Probit Coeficiente associado positivo e significativo para novos produtos e não significativo para P&D 2011 Wignaraja China Gastos com P&D e Índice de Tecnologia Probit Coeficiente associado positivo e significativo.para IT e não significativo para P&D.
+2005 De Negri Brasil Novos de Produto e Processo Probit Coeficiente associado positivo e significativo.
+para setores de baixa tecnologia 2013 Avellar e Carvalho Brasil, China e Índia Novos Produtos, Processos e IT Probit Coeficiente associado positivo e significativo.
+Luciana Carvalho, Ana Paula Macedo Avellar 62 Economia e Sociedade, Campinas, v. 29, n. 1 (68) , p. 53-84, janeiro -abril 2020 .
+2 Notas metodológicas 2.1 Base de dados e descrição das variáveis Esta seção procura identificar e analisar as variáveis relacionadas à capacidade exportadora das empresas brasileiras do setor industrial brasileiro.
+A metodologia da PINTEC segue o padrão das pesquisas realizadas pela Comunidade Europeia ( Community Innova tion Surveys – CIS), os quais igualmente seguem o manual da OCDE, assegurando assim comparabilidade internacional.
+A PINTEC é composta por empresas formais com dez ou mais pessoas ocupadas, pertencentes aos segmentos da indústria extrativa, manufatureira e de alguns serviços selecionados.
+No caso da indústria de transformação, a PINTEC é censitária para o grupo de empresas industriais com quinhentas ou mais pessoas ocupadas , e aleatória para as demais.
+Para a composição do estrato aleatório, além da adoção de técnicas de amostragem estratificada proporcional ao tamanho, assume a premissa de que a inovação constitui um fenômeno raro, o que justifica atribuir maior probabilidade de seleção àquelas empresas que têm maior potencial inovador, sendo que isto é ex presso por meio de algumas características observadas da firma como ter lançado patente, recebido financiamento/subvenção para inovação, sido inovadora, conduzido P&D, entre outras.
+Esta maior probabilidade não causa viés nos resultados, uma vez que o peso de cada empresa na amostra é inversamente proporcional à sua probabilidade de seleção.
+Deste modo , as variáveis explicativas dividem -se em quatro grupos: características das empresas, capacitação tecnológica, classificação setorial e indicadores de inovação.
+O Quadro 2 apresenta o grupo de variáveis.
+As características das empresas são explicadas pelas v ariáveis: pessoal ocupado, idade e origem de capital.
+Existem evidências, em alguns trabalhos empíricos, de que as empresas de maior porte, know how, com desempenho produtivo superior e de maior interação com mercado externo , têm maior propensão a exporta r (Clerides et al., 1998; Bernard ; Jensen 1999; Rogers, 2004; Tomiura, 2007).
+As variáveis que representam a capacitação tecnológica são: pessoal com 3° grau, percentual de financiamento externo, cooperação e treinamento e, por fim, intensidade de P&D e investimentos em máquinas.
+Diversos estudos têm demonstrado a relação positiva entre exportação e capacitação tecnológica ( Clerides et al., 1998; Bernard ; Jensen , 1999; Wakelin , 1998; Basile , 2001; Tomiura , 2007).
+Segundo os autores, essa relação é explicada pelos ganhos de competitividade, melhorias de qualidade e desempenho produtivo.
+Inovação e capacidade exportadora: evidências para empresas brasileiras Economia e Sociedade, Campinas, v. 29, n. 1 (68), p. 53-84, janeiro -abril 2020.
+63 Quadro 2 Descrição das variáveis Nome da Variável Descrição Sinal Esp.
+A) Características da Empresa PO Pessoal ocupado + Wakelin (1998), Basile (2001) PO2 Pessoal ocupado ao quadrado + Wakelin (1998), Nonnenberg e Avellar (2013).
+IDADE Anos desde a formalização da abertura da empresa ª + Wakelin (1998), Basile (2001) ORIGEM DO CAPITAL Variável binária: 0 – empresa não possui participação de capital estrangeiro; 1 – empresa possui participação de capital estrangeiro (incluindo as empresas denominadas mistas pela PINTEC).
++ Wignaraja (2008) PT Produtividade do Trabalho + Cassiman, Golovko e Martínez -ros (2010) e Bernard e Jensen (1999), Mansury (2009) B) Capac itação Tecnológica SKILL Percentual do pessoal ocupado com mais de 12 anos de estudo.
++ FINANCIAMEN TO Percentual de financiamento externo para inovação + COOPERAÇÃO Variável binária: 0 – empresa não participa de arranjos cooperativos; 1 – empresa participa de arranjos cooperativos.
++ Nassimbeni (2001), Tomiura (2007) TREINAMENTO Variável binária: 0 – empresa não realiza treinamento; 1 – empresa realiza treinamento.
++ Tomiura (2007) PATENTE Variável binária: 0 – empresa não obteve patente ou segredo industrial; 1 – empresa obteve patente ou segredo industrial + Tomiura (2007) P&D Gastos em P&D em relação a receita líquida + Tomiura (2007), Wignaraja (2008) M&E Gastos em Maquinas e Equipamentos em relação a receita líquida + Tomiura (2007) C) Características do Setor industrial em que a empresa atua ALTA TECN Empresa que pertence a setores de alta intensidade tecnológica de acordo Lall (2000).
+Variável binária: 0 – indústria baixa e média baixa intensidade tecnológica; 1 – indústria alta intensidade tecnológica.
++ Nassimbeni (2001) MÉDIA_TECN Empresa que pertence a setores de média intensidade tecnológica de acordo Lall (2000).
+Variável binária: 0 – indústria baixa e alta baixa intensidade tecnológica; 1 – indústria média intensidade tecnológica.
+Luciana Carvalho, Ana Paula Macedo Avellar 64 Economia e Sociedade, Campinas, v. 29, n. 1 (68) , p. 53-84, janeiro -abril 2020 .
+Quadro 2 – Continuação Nome da Variável Descrição Sinal Esp.
+BAIXA_TECN Empresa que pertence a setores de baixa intensidade tecnológica de acordo Lall (2000).
+Variável binária: 1 – indústria alta e média baixa intensidade tecnológica.
+0 – indústria baixa intensidade tecnológica.
+- Nassimbeni (2001) D) Indicadores de Inovação INOVA Variável binária : 0 – empresa não introduziu produto ou processo novo ou significativamente aperfeiçoado; 1 – empresa introduziu produto ou processo novo ou significativamente aperfeiçoado.
++ INOVA_PROD Variável binária : 0 – empresa não introduziu produto novo ou s ignificativamente aperfeiçoado; 1 – empresa introduziu produto novo ou significativamente aperfeiçoado.
++ Nassimbeni (2001), Delgado, Farinas e Ruano (2002) INOVA_PROC Variável binária : 0 – empresa não introduziu processo novo ou significativamente ape rfeiçoado.
+1 – empresa introduziu processo novo ou significativamente aperfeiçoado.
++ Delgado, Farinas e Ruano (2002) INOVA_ORG Variável binária : 0 – empresa não implementou novas técnicas de gestão para melhorar rotinas e práticas de trabalho dentro da empresa; 1 – empresa implementou novas técnicas de gestão para melhorar rotinas e práticas de trabalho dentro da empresa.
++ IT Indicador normal izado das capacidades tecnológicas (Lall, 1987, 1992; Wignaraja, 2011, Avellar e Carvalho, 2013).
+Capacidades Tecnológicas selecionadas: 1.
+Licença para uso de tecnologia; 3.
+Melhoria ou Adaptação de Produtos; 5.
+Introdução de Novos Produtos; 6.
++ Wignaraja (2011), Avellar e Carvalho (2013) ª Para o ano de 2005 foi utilizado como base 2003, visto que a PINTEC não disponibilizou a variável ano de formalização .
+A classificação tecnológica proposta pelo artigo baseia -se em Lall (2000), que busca combinar a taxonomia proposta por Pavitt (1984) com a tipologia da OCDE.
+O autor sugere uma classificação a partir de indicadores de atividades tecn ológica de produtos manufaturados e distingue, para quatro grupos de intensidade tecnológica: bens intensivos em recursos naturais; baixa intensidade tecnológica, média intensidade tecnológica; alta intensidade tecnológica.
+Os bens intensivos em recursos n aturais dependem da disponibilidade de recursos locais, desta forma, estão relacionados a vantagens comparativas do país.
+Os setores de "baixa intensidade" têm nos preços o principal determinante da competitividade.
+Esses setores pertencem às indústrias tr adicionais, como têxtil, calçadista, além de outros como as fabricantes de utensílios domésticos.
+As empresas pertencentes a setores de "média intensidade" Inovação e capacidade exportadora: evidências para empresas brasileiras Economia e Sociedade, Campinas, v. 29, n. 1 (68), p. 53-84, janeiro -abril 2020.
+65 empregam tecnologias complexas e têm moderados gastos com P&D, e compreende os setores de bens de capital e certos bens de consumo duráveis.
+Por fim, a "alta intensidade" tem como características tecnologias avançadas e elevados gastos em P&D e, portanto, uma forte tendência à inovação de produto.
+Esses setores são comp ostos pelas indústrias farmacêutica, aeronáutica, e de processamento de dados.
+Por simplificação, esse artigo agrupou os setores de recursos naturais e baixa intensidade tecnológica.
+Destaca -se que para a composição desta mostra utiliz aram -se os setores pr esentes em todas as edições da PINTEC.
+Os indicadores de inovação propostos pelo modelo são: inovação, inovação em produto, inovação em processo, inovação organizacional e índice de tecnologia (IT).
+O IT utilizado nesse estudo baseia -se em um estudo de Lall (1987, 1992), em que o referido autor constrói um indicador com o intuito de mensurar as capacidades tecnológicas das empresas com base em diferentes tipos de esforços inovativos.
+Lall (1987, 1992), Wignaraja (2011) e Avellar e Carvalho (2013) organizam as capacidades tecnológicas das empresas em três grupos de funções técnicas: investimento, produção e redes.
+Para amostra de empresas brasileiras, essas funções estão identificadas nas seguintes variáveis: (i) melhoria de equipamentos, (ii) licenciamento d e tecnologia, (iii) melhoria na qualidade; (iv) adaptação e melhoria de produtos, (v) introdução de novos produtos, (vi) atividade de pesquisa e desenvolvimento (P&D), (vii) subcontratação, (viii) participação em redes de tecnologia.
+Para cada empresa, é a tribuída uma pontuação de 1 , caso esteja presente essa capacidade tecnológica.
+A categoria investimento é representada pelas atividades (i) e (ii); a categoria produção é representada por quadro atividades (itens iii -vi); e a categoria redes pelos itens (v ii) e (viii).
+Por fim, o resultado é normalizado para valor entre 0 e 1.
+Este número pode ser interpretado como a pontuação total de capacidades tecnológicas de cada firma.
+É importante ressaltar, ainda, que esse indicador vem sendo aplicado em diversos es tudos empíricos para países emergentes.
+2.2 Especificações econométricas A primeira etapa da estratégia empírica deste artigo consiste na especificação e estimação de modelos probabilísticos para investigar a relação entre inovação e probabilidade de expo rtar para empresas brasileiras.
+Considere -se a variável binária observável 𝑦𝑖 e a variável contínua não observável (latente) 𝑦𝑖∗, a qual satisfaz o seguinte modelo: 𝑦𝑖∗=x𝑖′𝛽+𝑢𝑖 (1) Onde x𝑖 é um vetor coluna 𝑘x1 e 𝛽 é um vetor coluna 𝑘x1.
+Embora 𝑦𝑖∗ não seja observável, pode -se observar: 𝑦𝑖={1,se 𝑦𝑖∗>0 0,se 𝑦𝑖∗≤0 (2) Dados os modelos (1) e (2) para a variável latente, tem -se: Pr(𝑦𝑖=1)=Pr(x𝑖′𝛽+𝑢𝑖>0) (3) Luciana Carvalho, Ana Paula Macedo Avellar 66 Economia e Sociedade, Campinas, v. 29, n. 1 (68) , p. 53-84, janeiro -abril 2020 .
+Pr(𝑦𝑖=1)=Pr (−𝑢𝑖<x𝑖′𝛽) Pr(𝑦𝑖=1)=𝐹(x𝑖′𝛽) Onde 𝐹(.)
+é uma função de distribuição cumulativa de –𝑢𝑖.
+Se 𝑢𝑖 é normalmente distribuído, tem-se o modelo Probit .
+Deste modo, a Equação 4 apresenta o primeiro modelo proposto: Pr[X>0]= α + λ1PO + λ2PO2+ λ3Idade + λ4Origem do Capital + λ5Produtividade + β1Shill + β2Financiamento + β3Cooperação + β4Treinamento + β5Patente + β6P&𝐷 + π1altatec + π2mediatec + µ𝟏𝐈𝐧𝐝𝐢𝐜𝐚𝐝𝐨𝐫 𝐝𝐞 𝐈𝐧𝐨𝐯𝐚 çã𝐨 (4) Para considerar o efeito da temporalidade da inovação na probabilidade de exportar, um segundo modelo foi proposto com a inserção de variáveis defasadas.
+A Equação 5 identifica as variáveis do modelo: Pr [X>0]=α + λ1PO + λ2PO² + λ3Idade + λ4Origem do Capital + λ5Produtividade + β1Shill + β2Financiamento + β3Cooper ação + β4Treinamento + β5Patente + β6P&𝐷 + π1altatec + π2mediatec + µ𝟑𝐈𝐧𝐝𝐢𝐜𝐚𝐝𝐨𝐫 𝐝𝐞 𝐈𝐧𝐨𝐯𝐚 çã𝐨𝐭−𝟏 (5) A relação de causalidade entre inovação e exportação e/ou exportação e inovação vem sendo discutida em vários estudos ( Lachenmaier ; Woβmann, 2006; Ganotakis ; Love, 2011; Nonnenberg ; Avellar , 201 3).
+Os testes revelam uma existência de endogeneidade para amos tra de empresas de países como Alemanha, Reino Unido e Brasil.
+Dessa forma, o terceiro modelo busca corrigir o problema da endogeneidade para a amostra de empresas brasileiras.
+O método utilizado para estimar consistentemente o efeito da inovação no desemp enho exportador é o procedimento em dois estágios.
+O modelo estimado foi Probit bivariado com o modelo de dummy endógena, que pertence à classe geral de equações simultâneas introduzidas por Heckman (1979).
+Esse modelo está entre os modelos recursivos para escolhas dicotômicas, sendo que a primeira equação (em forma reduzida) é referente à potencial dummy endógena e a segunda equação estrutural determina o resultado de interesse.
+Cameron e Trivedi (2009) apontam que modelo Probit bivariado considera dois resultados binários, potencialmente relacionados.
+Os dois resultados são determinados pelas duas variáveis não observáveis (latentes): 𝑦1𝑖∗=x1𝑖′𝛽1+𝜀1𝑖 (6) 𝑦2𝑖∗=x2𝑖′𝛽2+𝜀2𝑖 (7) Onde x1𝑖é um vetor coluna 𝑘1x1, x2𝑖é um vetor coluna 𝑘2x1, 𝛽1 é um vetor coluna 𝑘1x1 e 𝛽2 é um vetor coluna 𝑘2x1.
+Os erros 𝜀1𝑖 e 𝜀2𝑖 são normalmente distribuídos com média 0, variância 1 e correlação 𝜌. Os dois resultados binários observáveis são: Inovação e capacidade exportadora: evidências para empresas brasileiras Economia e Sociedade, Campinas, v. 29, n. 1 (68), p. 53-84, janeiro -abril 2020.
+67 𝑦1𝑖={1,se 𝑦1𝑖∗>0 0,se 𝑦1𝑖∗≤0 (8) 𝑦2𝑖={1,se 𝑦2𝑖∗>0 0,se 𝑦2𝑖∗≤0 (9) As condições de exogeneidade são condicionadas em termos do coeficiente de correlação ρ, que pode ser interpretado como a correlação entre as variáveis explicativa s nãoobserváveis das duas equações.
+Quando ρ = 0, 𝑦1𝑖∗ e 𝜀2𝑖 não são correlacionados e 𝑦1𝑖∗ é exógeno para a segunda equação do modelo 1.
+Já quando o ρ ≠ 0, há evidência de que 𝑦1𝑖 ∗é correlacionado com 𝜀2𝑖 e, portanto, é endógeno.
+A hipótese nula é a de que as equações são exógenas, e a alternativa é a de que há evidências para a endogeneidade.
+Para verificar a relação da inovação e a intensidade da exportação (percentual das vendas obtidos com exportação) será aplicado o modelo de Probit ordenado.
+A amostra das empresas será organizada em quartis de acordo com a razão entre a receita de exportação e receita total.
+O modelo de Probit ordenado é uma ferramenta bastante utilizada para mensurar fenômenos cuja variável dependente seja discreta e qualitativa.
+A principal característica que diferencia esse modelo Probit binomial tradicional é ser multinomial, e sua variável dependente assume valores que estabelecem certo ordenamento dos dados, não de forma linear, mas, sim, de forma a ranquear os p ossíveis resultados.
+I = 1, se I* ≤ 0 2, se 0 < I * ≤ µ 1 3, se µ 1 < I* ≤ µ 2 4, se µ 2 ≤ I* A equação 6 mostra a relação entre intensidade da exportação e o indicador de inovação .
+Pr [X = 1,2,3,4]= α + λ 1PessoalOcupado + λ 2PessoalOcupado² + λ 3idade + λ3CapitalEstrangeiro + λ 3Produtividade + β 1Shill + β 2Financiamento + β 4Cooperação + β5Treinamento + β 6Patente + β 7P&D + π 1altatec + π 2mediatec + µ3Indicador de Inovação (10) Os coeficientes estimados do modelo Probit não têm uma interpretação direta.
+Para serem comparáveis com os coeficientes estimados do modelo linear, têm de ser divididos pelo fator 2,5 ( Wooldridge 2010; Cameron ; Trivedi , 2009).
+3 Resultados 3.1 Estatística descritiva Os dados das empresas analisadas são provenientes da PINTEC (2003, 2005 e 2008) realizada pelo IBGE.
+O objetivo desta seção é compreender as características das empresas, Luciana Carvalho, Ana Paula Macedo Avellar 68 Economia e Sociedade, Campinas, v. 29, n. 1 (68) , p. 53-84, janeiro -abril 2020 .
+destacando as possíveis diferenças e semelhanças existentes entre as empresas exportadoras e as não exporta doras.
+A base de dado s é composta por 84.260 empresas em 2003 (10.188 exportadoras e 74.072 não exportadoras), 95.301 empresas em 2005 (10.068 exportadoras e 85.233 não exportadoras) e 106.862 em 2008 (9.542 exportadoras e 97.320 não exportadoras).
+Em 2 003, 10.188 empresas realizaram exportação.
+Essas empresas representam cerca de 12,1% da amostra.
+Na comparação com 2005, o número absoluto de empresas exportadoras caiu para 10.068, correspondendo a uma redução 1,53%, em termos relativos.
+Em 2008, o núme ro de absoluto de empresas exportadoras caiu em 526 em relação a 2005.
+Em termos relativos à queda, foi de 1,63% empresas.
+De maneira geral, pode -se verificar a existência de um padrão nos 3 períodos, em que praticamente, todos os indicadores são maiores e ntre as empresas exportadoras.
+Tabela 1 Características d as empresas exportadoras e não exportadoras por número de empresas 2003 2005 2008 Empresas Empresas Empresas Exportadoras Não Exportadoras Exportadoras Não Exportadoras Exportadoras Não Exportadoras Total % Total % Total % Total % Total % Total % ORIGEM CAP.
+1.637 15,1 358 0,4 1.554 15,4 485 0,5 1.825 19,1 1.116 1,1 COOPERAÇÃO 590 5,7 594 0,8 1.012 10,0 1.893 2,2 1.011 10,6 3.519 3,6 M&E 3.358 33,0 12.892 17,4 3.531 35,1 13.668 16,0 3.150 33,0 22.864 23,5 P&D 1.406 13,8 1.250 1,7 1.642 16,3 2.106 2,4 1.286 13,4 2.342 2,4 ATIV.
+4.295 42,2 16.304 22,0 4.617 45,9 17.350 20,4 4.200 44,0 28.834 29,6 TREINAMENTO 1.750 17,1 4.120 5,5 1.761 17,5 4.737 5,5 2.201 23,07 11.429 11,7 PATENTES 802 7,8 874 1,1 998 9,9 938 1,1 1.163 12,2 1.670 1,7 N. Empresas 10.189 74.073 10.068 85.233 9.
+320 Fonte: IBGE, Diretoria de Pesquisas, Coordenação de Indústria, Pesquisa de Inovação Tecnológica (2003, 2005, 2008 ).
+No que se refere à participação de capital estrangeiro (Tabela 1 ), verifica -se que 15,1% das empresas exportadoras possuíam participação de capital estrangeiro em 2003.
+Esse percentual aumentou para 19,1% em 2008.
+Em comparação com as empresas não exporta doras, nota -se que um porcentagem menor de empresas possuem participação de capital estrangeiro , 0,4%, 0,5%, 1,1% em 2003, 2005, 2008, respectivamente.
+Na mesma direção , estudos apontam que a participação de capital estrangeiro aumenta a probabilidade de e xportar (Wignajara , 2011; Correa et al., 2007, Lall, 1987) .
+Esses autores explicam que isso ocorre por dois fatores: i) o know how de empresas estrangeira s no acesso a outros mercados; ii) na maioria das vezes, as empresas estrangeiras têm maiores gastos com P&D, marketing e ainda maior escala de produção do que as empresas domésticas e, por isso, as empresas com participação de capital estrangeiro podem desfrutar de tais vantagens .
+Inovação e capacidade exportadora: evidências para empresas brasileiras Economia e Sociedade, Campinas, v. 29, n. 1 (68), p. 53-84, janeiro -abril 2020.
+69 Outra característica importante é a participação em programas de cooperaçã o.
+As empresas exportadoras, em termos relativos, cooperam 27,6%, na média dos 3 períodos, superior ao percentual das não exportadoras.
+Ademais, a participação em redes de cooperação, ao longo dos anos, aumentou com mais intensidade entre as exportadoras.
+Tomiura (2007) também identificou essa relação para as empresas japonesas.
+A partir da amostra analisada, 64% das empresas exportadoras japonesas participam de um algum tipo de projeto de cooperação.
+Observa -se, assim, que realizar acordos de cooperação é uma característica predominante em empresas que exportam, e tal resultado sugere que as empresas que se inserem no mercado internacional via exportação, já se relacionam com parceiros dentro ou fora do país.
+Na amostra 2003, 2005 e 2008, nota -se que o perc entual de empresas que realizaram gastos com máquinas e equipamentos é quase o dobro entre empresas exportadoras em relação às não exportadoras.
+Esse resultado é condizente com o estudo de Wignajara (2011), que mostra que as empresas chinesas com maiores g astos com máquinas e equipamentos têm maior probabilidade de exportar .
+Ainda pela Tabela 1, pode -se observar quatro importantes variáveis consideradas em diversos estudos como proxies do esforço inovativo das empresas: gastos em P&D, gastos com atividades inovativas e treinamento.
+Quanto aos gastos com P&D, o número relativo de empresas exportadoras é superior ao das não exportadoras para os três períodos.
+Ganotakis e Love (2011), no estudo para o Reino Unido, também concluíram que as empresas exportadoras têm gastos mais elevados com P&D, sugerindo que o esforço inovativo (gastos com P&D) está fortemente relacionado à exportação.
+Quanto aos gastos com atividades inovativas, observa -se a mesma realidade, para os três anos.
+As empresas exportadoras, em média , implementaram mais programas de treinamento que as não exportadoras.
+Quanto ao indicador de resultado inovativo, verifica -se que o número de patentes também é maior entre as empresas exportadoras do que entre as não exportadoras.
+Para os anos de 2003, 20 05 e 2008, o percentual de empresas com patentes foi de 7,8%, 9,9% e 12,2%.
+Tabela 2 Tipo de inovação de empresa exportadoras e não exportadora Tipo de Inovação 2003 2005 2008 Empresas Empresas Empresas Exportadoras Não Exportadoras Exportadoras Não Exportadoras Exportadoras Não Exportadoras Total % Total % Total % Total % Total % total % INOVA_PROD 3.363 33,0 13.783 18,6 3.898 38,7 15.772 18,5 3.273 34,3 22.092 22,7 INOVA_PROC 4.135 40,5 18.523 25,0 4.631 46,0 21.646 25,4 3.744 39,2 30.510 31,4 INOVA_ORG 8.234 80,8 48.057 64,9 8.294 82,4 54.844 64,3 7.460 78,2 64.406 66,2 N. Empresas 10.188 74.072 10.068 85.233 9.542 97.320 Fonte: IBGE, Diretoria de Pesquisas, Coordenação de Indústria, Pesquisa de Inovação Tecnológica (2003, 2005, 2008 ).
+Luciana Carvalho, Ana Paula Macedo Avellar 70 Economia e Sociedade, Campinas, v. 29, n. 1 (68) , p. 53-84, janeiro -abril 2020 .
+A Tabela 2 registra os resultados concernentes às variáveis de inovação.
+Como padrão, nota-se que o percentual maior de empresas inovadoras concentra -se entre as exportadoras.
+No que se refere à inovação de produto, o percentual de empresas exportadoras que inovaram aumentou de 33%, em 2003, para 34,3% em 2008.
+Em referência ao número relativo de empresas que inovaram em processo e organiza cional , houve uma pequena queda em 2008, quando comparado a 2003.
+Esses resultados sugerem uma relação positiva entr e inovação e exportação.
+A seção 3.2 apresenta os resultados da estimação de quatro modelos probabilísticos com intuito de verificar impacto da inovação no desempenho exporta dor das empresas brasileiras.
+3.2 Resultados empíricos As Tabelas 3, 4, 5 e 6 reúnem os resultados das estimações econométricas desenvolvidas nesse estudo1.
+Na Tabela 3 , as colunas 1, 2, 3, 4 e 5 apresentam os resultados do modelo Probit para as amostras de empresas brasileiras, no ano de 2008, com objetivo de testar o efeito de di ferentes indicadores de inovação na probabilidade das empresas exportarem.
+A variável dependente é binária, assumindo valor 1, se a empresa exporta, e valor 0, se a empresa não exporta.
+As variáveis independentes são: i) características da empresa: pessoa l ocupado, pessoal ocupado ao quadrado, idade da empresa, participação de capital estrangeiro; produtividade do trabalho; ii) capacitação tecnológica: pessoal ocupado com 3° grau, financiamento, cooperação, treinamento e patentes; iii) características do s etor industrial: uma variável binária, que assume valor um, se a empresa pertencer a uma indústria de alta e média alta intensidade tecnológica , e valor zero, caso indústria baixa e média baixa intensidade tecnológica.
+iv) indicadores de inovação: INOVA um a variável binária, que assume valor 1 se a empresa desenvolveu uma inovação de produto ou processo e valor zero, caso contrário; INOVA_PROD, uma variável binária, que assume valor um, se a empresa desenvolveu uma inovação de produto e valor zero, caso con trário; INOVA_PROC, uma variável binária, que assume valor um, se a empresa desenvolveu uma inovação de processo e valor zero, caso contrário; INOVA_ORG, uma variável binária, que assume valor um, se a empresa desenvolveu uma inovação organizacional, e val or zero, caso contrário; IT, uma variável categórica, que assume valores entre zero e um, de acordo com o esforço tecnológico da empresa.
+Os resultados dos modelos probabilísticos em relação às características das empresas corroboram as hipóteses desse estudo e os resultados de diversos trabalhos (Wakelin, 1998; Sterlacchini, 1999; Kongmanila ; Takahashi , 2005; Tomiura, 2007; Cassiman ; Golovko , 2011).
+Destaca -se que a probabilidade de exportar relaciona -se positivamente com tamanho, idade, presença de capital estrangeiro e produtividade.
+O tamanho da empresa confirma a hipótese do trabalho identificando uma relação positiva com a exporta ção.
+Esse resultado, conforme assinalado por Krugman (1979) , Wakelin (1998) e Basile (2001) advém da estratégia de crescimento das grandes empresas aliad a às vantagens oriundas da economia de escala.
+No entanto , a variável pessoal ocupado ao quadrado apres enta coeficiente associado negativo e (1) Para a realização desse estudo empírico foi empregando o software Stata 11.
+Todas as estimações foram realizadas utilizando o comando robust , para correção de qu alquer tipo de heterocedasticidade.
+Inovação e capacidade exportadora: evidências para empresas brasileiras Economia e Sociedade, Campinas, v. 29, n. 1 (68), p. 53-84, janeiro -abril 2020.
+71 estatisticamente significativo, indicando que a relação entre tamanho e exportação é não -linear (U invertido), como já apontava Wakelin (1998) e Nonnenberg e Avellar (201 3).
+Tabela 3 Modelo Probit para o ano de 2008 Probit 2008 (1) (2) (3) (4) (5) PO 0,003 (0,00)* 0,003 (0,00)* 0,003 (0,00)* 0,003 (0,00)* 0,003 (0,00)* PO2 -6,230 (1,13)* -6,310 (1,14)* -6,370 (1,15)* -6,350 (1,14)* -6,350 (1,12)* IDADE 0,304 (0,00)* 0,305 (0,00)* 0,304 (0,00)* 0,303 (0,00)* 0,300 (0,00)* ORIGEM DO CAPITAL 1,186 (0,05)* 1,178 (0,04)* 1,187 (0,05)* 1,178 (0,05)* 1,184 (0,05)* PRODUTIVIDADE 0,001 (0,00)* 0,001 (0,00)* 0,001 (0,00)* 0,001 (0,00)* 0,001 (0,00)* SKILL 0,205 (0,18) 0,187 (0,34) 0,243 (0,23) 0,241 (0,21) 0,173 (0,12) FINANCIAMENTO 0,007 (0,00) 0,009 (0,00) 0,012 (0,00) 0,001 (0,00) -0,001 (0,00) COOPERAÇÃO 2008 0,071 (0,04) 0,062 (0,04) 0,100 (0,04) 0,115 (0,04)** TREINAMENTO 0,147 (0,03)* 0,187 (0,03)* 0,213 (0,03)* 0,238 (0,03)* 0,125 (0,03)** PATENTE 0,360 (0,04)* 0,166 (0,03)* 0,164 (0,03)* 0,092 (0,02)** 0,183 (0,03)** P&D -0,349 (0,22) -0,422 (0,25) -0,280 (0,17) -0,296 (0,19) -0,61 (0,28) ALTA_TEC 0,156 (0,03)* 0,154 (0,03)* 0,191 (0,03)* 0,194 (0,03)* 0,151 (0,03)* MÉDIA_TEC -0,006 (0,03) 0,005 (0,03) 0,003 (0,03) 0,004 (0,03) 0,0002 (0,03) INOVA 2008 0,434 (0,04)* INOVPROD2008 0,301 (0,03)* INOVAPROC2008 0,174 (0,37) INOVAORG.2008 0,165 (0,02)* IT 2008 1,035 (0,510) Observações 13154 13154 13154 13154 13154 Pseudo R2 0,1952 0,1918 0,1926 0,1926 01969 Notas: a) Erros Padrão estão entre parênteses; b) b) ***p<0.1, **p<0.05, * p<0.001, ausência de asterisco representa coeficiente não significativo.
+d) Para o modelo 5 foi excluída a variável cooperação para evitar multic olineariedade com a variável IT.
+e) o teste VIF foi menor que 10 em todos os modelos, verificando com isso a ausência de multicolinearidade; f) todas as variáveis foram testadas defasadas, no entanto optou -se pelo modelo com maior significância.
+Luciana Carvalho, Ana Paula Macedo Avellar 72 Economia e Sociedade, Campinas, v. 29, n. 1 (68) , p. 53-84, janeiro -abril 2020 .
+Algumas ca racterísticas apontadas na literatura identificam que as empresas estrangeiras têm maior tendência a ser exportadora s que as nacionais.
+De Negri e Acioly (2004) descrevem que a própria natureza das empresas estrangeiras, mais internacionalizadas e com maior inserção no comércio internacional, bem como o acesso a canais de comercialização não disponíveis para as empresas domésticas proporcionam às empresas estrangeiras maiores vantagens competitivas no comércio exterior.
+Para todos os modelos, pode -se inferir que empresas com participação de capital estrangeiro têm uma propensão maior a exportar.
+Vale ressaltar que, corroborando com os resultados encontrados em alguns estudos internacionais como os de Cassiman, Golovko e Martínez -ros (2010) e Bernard e Jensen (1999), empresas com elevada produtividade t êm maior propensão a exportar.
+As vantagens em custos oriundas da produtividade são elencadas como um dos principais motivos.
+Em um avanço sobre o debate, Love e Mansury (2009) buscam entender a relação de simultaneidade entre exportação e produtividade e, assim, corrigir o viés de seleção e endogenei dade para uma amostra de empresas norte -americanas.
+Os resultados encontrados indicam que a produtividade está positivamente relacionada tanto à exportação quanto com a sua intensidade.
+Quanto aos indicadores de capacitação tecnológica, observa -se que apen as as variáveis treinamento e patente possuem coeficientes associados positivos e estatisticamente significativos para todos os modelos.
+Em um trabalho para uma amostra de empresas japonesas, Tomiura (2007) detectou resultados semelhantes.
+Os resultados en contrados pelo autor constatam que empresas que obtêm patentes aumentam em 5% a probabilidade de exportar.
+As variáveis percentual de pessoal ocupado com 3° grau ( skill), cooperação e gastos com P&D não apresentaram coeficientes associados significativos d iferindo da maior parte de estudos internacionais.
+Assim, infere -se, que as capacitações tecnológicas, para amostra analisada, não causam efeitos na propensão a exportar.
+Por fim, a variável ALTA_TEC, que determina a característica do setor industrial do qual a empresa faz parte, ou seja, se a participação em setores de alta tecnologia afeta a probabilidade de a empresa exportar , verifica -se que nos cinco modelos os coeficientes associados são positivos e estatisticamente significativos.
+Esse resultado sugere que empresas que pertencem a os setores de alta intensidade tecnológica têm maior propensão a exportar do que empresas de setores de baixa intensidade tecnológica.
+Acentua -se que a participação de setores com média in tensidade tecnológica apresenta coeficiente associado positivo e não estatisticamente significativo.
+No que se refere à análise dos cinco indicadores de inovação, o resultado foi diverso.
+No primeiro modelo, o indicador INOVA , que verifica se a empresa ino vou em produto ou processo nos últimos três anos, apresenta um coeficiente associado positivo e estatisticamente significativo.
+Esse resultado denota que empresas que inovaram aumentam a propensão de exportar em 20%.
+O indicador INOVAPROD evidenciou um res ultado semelhante demonstrando que as empresas que inovaram em produto têm uma propensão 12% maior de exportar do que as empresas que inovaram.
+Contudo, nos outros três modelos, os resultados Inovação e capacidade exportadora: evidências para empresas brasileiras Economia e Sociedade, Campinas, v. 29, n. 1 (68), p. 53-84, janeiro -abril 2020.
+73 foram divergentes: inovação de processo, inovação organizaciona l e índice de tecnologia não apresentaram coeficientes associados estatisticamente significativos.
+Alguns trabalhos internacionais também indicam para divergência entre inovação e propensão a exportar.
+Enthorf e Pohlmeier (1990), em um estudo para Alemanha , encontraram um impacto negativo de inovação de processo na propensão de exportar sugerindo que as empresas industriais alemãs obtêm um maior retorno sobre suas inovações de produto no mercado interno do que no mercado externo.
+Na mesma linha, Wakelin (1 998) também revela que, no Reino Unido, a inovação tem um impacto negativo sobre a probabilidade de exportar e, portanto, concluiu que as empresas inovadoras exploram mais o mercado interno.
+Com intuito de verificar o impacto da temporalidade dos indicado res de inovação na probabilidade de exportar, a Tabela 5 inclui variáveis defasadas ao modelo proposto.
+A amostra é composta por 2.825 empresas (723 exportadoras e 2102 não exportadoras), que participaram da PINTEC 2005 e 2008.
+Os modelos (1), (2), (3), (4 ) e (5) correspondem, respectivamente, às variáveis INOVA, INOVA_PROD, INOVA_PROC, INOVA_ORG E IT.
+As demais variáveis são semelhantes às descrit as nos modelos da Tabela 3 .
+No que se refere à idade, origem do capital e produtividade os resultados são semel hantes aos modelos da Tabela 4 e apresentam coeficientes associados positivos e estatisticamente significativos.
+Tabela 4 Modelo Probit para 2008 com variáveis defasadas Probit com Variáveis Defasadas (1) (2) (3) (4) (5) PO 0,001 (0,00)* 0,002 (0,00)* 0,001 (0,00)* 0,001 (0,00)* 0,001 (0,00)* PO2 -2,800 (6,58)* -3,090 (6,72)* -3,930 (6,74)* -2,930 (6,80)* -2,740 (6,61)* IDADE 0,016 (0,00)* 0,017 (0,00)* 0,018 (0,00)* 0,017 (0,00)* 0,016 (0,00)* ORIGEM DO CAPITAL 0,919 (0,09)* 0,953 (0,09)* 0,966 (0,09)* 0,934 (0,09)* 0,948 (0,09)* PRODUTIVIDADE 0,001 (0,00)** 0,001 (0,00)** 0,001 (0,00)** 0,001 (0,00)** 0,001 (0,00)** SKILL 0,142 (0,10) 0,119 (0,11) 0,144 (0,12) 0,165 (0,11) 0,161 (0,11) FINANCIAMENTO 0,005 0,00 0,005 0,00 0,006 0,00 0,005 0,00 0,003 0,00 COOPERAÇÃO 2005 0,225 (0,08)** 0,249 (0,08)** 0,294 (0,08)** 0,294 (0,08)** COOPERAÇÃO 2008 0,120 (0,09) 0,119 (0,90) 0,173 (0,89) 0,173 (0,89) Continua.
+Luciana Carvalho, Ana Paula Macedo Avellar 74 Economia e Sociedade, Campinas, v. 29, n. 1 (68) , p. 53-84, janeiro -abril 2020 .
+Tabela 4 – Continuação Probit com Variáveis Defasadas (1) (2) (3) (4) (5) TREINAMENTO 0,041 (0,07)* 0,094 (0,06)* 0,135 (0,06)** 0,166 (0,06)** 0,029 (0,07) PATENTE 0,430 (0,08)* 0,214 (0,06)* 0,186 (0,06)* 0,104 (0,05)* 0,214 (0,06)* P&D -0.764 (0,77) -0.813 (0,77) -0.813 (0,77) -0.681 (0,74) -1,117 (0,78) ALTA_TEC 0,077 (0,07)** 0,040 (0,08)** 0,193 (0,07)** 0,160 (0,07)** 0,008 (0,08)** MÉDIA_TEC -0,046 (0,07) -0,035 (0,07) -0,023 (0,07) -0,021 (0,07) -0,071 (0,07) INOVA 2005 0,252 (0,07)* INOVA 2008 0,529 (0,09)* INOVPROD 2005 0,135 (0,06)* INOVPROD2008 0,373 (0,06)* INOVAPROC2005 0,207 (0,60)** INOVAPROC2008 0,179 (0,07)** INOVAORG2005 0,109 (0,05)* INOVAORG.2008 0,200 (0,60)* IT 2005 0,706 (0,16)* IT 2008 0,964 (0,19)* Observações 2825 2825 2825 2825 2825 Pseudo R2 0,1795 0,1760 0,1772 0,1727 0,1711 Notas: a) Erros Padrão estão entre parênteses; b) Todas as estimações foram realizadas utilizando o comando robust , para correção de qualquer tipo de heterocedasticidade; c) ***p<0.001, **p<0.05, *p< 0.1, ausência de asterisco representa coeficiente não significativo; d) Para o modelo 5, foi excluída a variável COOPERAÇÃO, para evitar multicolineariedade com a variável IT.
+No entanto, nota -se que, ao inserir a variável cooperação com defasagem, o coeficiente associado torna -se positivo e estatisticamente significativo.
+Esse resultado é semelhante aos encontrados em trabalhos para o Japão e Itália.
+Tomiura (2007) e Nassimbeni (2001) apontam que a participação em redes de cooperação estimula a exportação, à medida que as empresas trocam experiências e, portanto, melhoram suas capacidades.
+Inovação e capacidade exportadora: evidências para empresas brasileiras Economia e Sociedade, Campinas, v. 29, n. 1 (68), p. 53-84, janeiro -abril 2020.
+75 Outra diferença significante no modelo com variáveis defasadas refere -se à análise dos cinco indicadores de inovação.
+Embora, nas equações da Tabela 4, os indicadores de inovação organizacional e o Índice de Tecnologias não tenham registrado coeficientes associados significativos, ao inserir as variáveis do período anterior , os resultados modif icam -se, tornando seus coeficientes associados positivos e estatisticamente significativos.
+Essa evidência reforça que empresas que inovaram em produtos, processo e organização e ainda, investiram em sua capacitação tecnológica, têm mais propensão a export ar que empresas que não o fizeram.
+Vale ressaltar que este trabalho é pioneiro no uso de variáveis defasadas para medir a relação entre exportação e inovação para uma amostra de empresas brasileiras.
+Embora muitos trabalhos utilizem o modelo Probit para an alisar a relação entre inovação e exportação ( Wakelin, 1998; Roper ; Love, 2002; Roper ; Love ; Anon Higon , 2006), em estudos mais recentes, os autores têm buscado corrigir uma possível endogeneidade entre as variáveis ( Lachenmaier ; Woβmann, 2006; Ganotakis ; Love, 2011, Nonnenberg ; Avellar , 2013).
+Desse modo, a próxima etapa da análise empírica é estimar os determinantes da exportação buscando corrigir a endogeneidade entre inovação e exportação (Tabela 6 ).
+Considerando as variáveis endógenas binárias (indicadores de inovação), optou -se pelo uso do modelo Probit bivariado.
+Os modelos (1), (2), (3) e (4) correspondem, respectivamente, às variáveis INOVA, INOVA_ PROD, INOVA_PROC e INOVA_ORG .
+As demais variáv eis são semelhantes às descritas nos modelos da Tabela 4.
+O teste Wald rejeitou a hipótese nula de que ρ = 0.
+Neste caso, as equações de exportação e inovação devem ser estimadas conjuntamente em um modelo biProbit .
+Para o coeficiente de correlação ρ, que mede a correlação entre os termos de distúrbios das duas equações, encontrou -se que o valor estimado é positivo e estatisticamente significante, indicando endogeneidade entre decisão de exportar e inovar.
+Deste modo, as equações de exportação e inovação de vem ser estimadas conjuntamente em um modelo biProbit.
+Os resultados descritos na Tabela 6 indicam que tamanho, idade, presença de capital estrangeiro e produtividade apresentam coeficientes associados positivos e estatisticamente significativos a 1%, asse melhando -se aos resultados obtidos nas estimações dos modelos Probit (Tabelas 3 e 4 ).
+A principal diferença entre os modelos está nos resultados referentes às variáveis skill, financiamento e treinamento que obtiveram coeficientes associados positivos e estatis ticamente significativos.
+Esses resultados sugerem que a capacitação tecnológica influencia positivamente a exportação.
+Luciana Carvalho, Ana Paula Macedo Avellar 76 Economia e Sociedade, Campinas, v. 29, n. 1 (68) , p. 53-84, janeiro -abril 2020 .
+Tabela 5 Modelo Probit bivariado para o ano de 2008 Probit Bivariado (1) (2) (3) (4) Exportação PO 0,02 (0,00)* 0,02 (0,00)* 0,02 (0,00)* 0,02 (0,00)* PO2 -3.54e9 (6.9e9)* -3.60 (6.9e9)* -3.57e9 (7.0e9)* -3.57e9 (7,0e9)* IDADE 0,018 (0,00)* 0,018 (0,00)* 0,018 (0,00)* 0,017 (0,00)* ORIGEM DO CAPITAL 1,00 (0,09)* 1,00 (0,09)* 1,00 (0,09)* 1,00 (0,00)* PRODUTIVIDADE 0,008 (0,00)* 0,008 (0,00)* 0,008 (0,00)* 0,008 (0,00)** SKILL 0,089 (0,11)* 0,089 (0,11)* 0,089 (0,11)* 0,088 (0,11) FINANCIAMENTO 0,006 (0,00)* 0,006 (0,00)* 0,006 (0,00)* 0,006 (0,00)** COOPERAÇÃO 0,269 (0,06)* 0,263 (0,06)* 0,269 (0,06)* 0,262 (0,08)* TREINAMENTO 0,226 (0,06)* 0,238 (0,06)* 0,223 (0,06)* 0,225 (0,06)* PATENTE 0,095 (0,05)* 0,109 (0,05)* 0,095 (0,05)*** 0,091 (0,05) ALTA_TEC 0,167 (0,07)** 0,164 (0,07)** 0,172 (0,07)** 0,171 (0,07)** MÉDIA_TEC 0,006 (0,07) 0,006 (0,07) 0,005 (0,07) 0,006 (0,07) PO 0,020 (0,00)* 0,021 (0,00)* 0,020 (0,00)* 0,000 (0,00)* PO2 -3.58e9 (7.3e9)* -1,71e9 (4.9e9)* -3.41e9 (6,2e9)* -1,40e9 (7.3e9)* IDADE 0,008 (0,00)* 0,004 (0,00)** 0,004 (0,00)*** 0,005 (0,00) ORIGEM DO CAPITAL 0,215 (0,10)* 0,261 (0,073)* -0,015 (0,08) 0,215 (0,10)* PRODUTIVIDADE 0,004 (0,00)* 0,003 (0,00)** 0,000 (0,00)* 0,000 (0,00)** SKILL 1,283 (0,17) 5,561 (0,17)** 0,109 (0,08) 1,283 (0,17) FINANCIAMENTO 0,011 (0,00)* 0,007 (0,00)* 0,005 (0,00)** 0,011 (0,00)* COOPERAÇÃO 0,890 (0,19)* 0,890 (0,19)* 0,704 (0,10)* 0,388 (0,19)* Continua.
+Inovação e capacidade exportadora: evidências para empresas brasileiras Economia e Sociedade, Campinas, v. 29, n. 1 (68), p. 53-84, janeiro -abril 2020.
+77 Tabela 5 – Continuação Probit Bivariado (1) (2) (3) (4) Exportação TREINAMENTO 0,193 (0,00)* 0,193 (0,00)* 1,116 (0,07)* 0,528 (0,06)* PATENTE -2,12 (0,05) -2,12 (0,05)* -1,324 (0,05)* -2,36 (0,05) ALTA_TEC 0,472 (0,11)** 0,571 (0,07)* 0,129 (0,08) - 0,027 (0,11)** MÉDIA_TEC 0,304 (0,88) 0,146 (0,07)* 0,377 (0,88)* - 0,025 (0,88)** Observações 13154 13154 13154 13154 Ρ 0,299* 0,260* 0,106* 0.121* Notas: a) Erros Padrão estão entre parênteses; b) Todas as estimações foram realizadas utilizando o comando robust , para correção de qualquer tipo de heterocedasticidade; c) ***p<0.001, **p<0.05, *p<0.1, ausência de asterisco representa coeficiente não sig nificativo; d) O modelo 5 foi excluído por se tratar de uma variável categórica.
+Por fim, a relação entre inovação e desempenho exportador, analisada a partir do ρ estimado, é positiva e estatisticamente significativa sugerindo que a inovação aumenta a propensão a exportar, bem como a exportação aumenta a propensão a inovar.
+Delga do, Farinas e Ruano (2002), Lachenmaier e Woβmann (2006) e Ganotakis e Love (2011) enc ontraram resultados semelhantes para Espanha, Alemanha e Reino Unido, respectivamente.
+Para corrigir a endogeneidade, os estudos estimaram o modelo Probit com variável instrumental e, em ambos os casos , os estimadores se tornaram mais robustos.
+Após a análise da relação entre inovação e exportação, pretende -se investigar a relação entre inovação e intensidade de exportação.
+A Tabela 6 expõe os resultados dos modelos de Probit ordenado para a amostra empresas exportadoras (4.940 empresas), com int uito de verificar a relação da inovação com a intensidade de exportação.
+A variável dependente é uma ordinal e latente (F) e representa a intensidade da exportação.
+As empresas que apresentam menos de 25% da suas receitas oriundas da exportação compõem a p rimeira categoria (4.024 empresas).
+Quando a intensidade da exportação está entre 25% e 50% da receita , as empresas são pertencentes à segunda categoria (392 empresas).
+Empresas que registram receita entre 50% e 75%, provenientes da exportação, estão na 3° categoria (183 empresas).
+Por fim, empresas com mais de 75% da receita resultante da exportação são da 4° categoria (341 empresas).
+As variáveis independentes são as mesmas dos modelos anteriores.
+Os resultados dos modelos Probit ordenado em relação às ca racterísticas das empresas diferem dos modelos anteriores.
+Os modelos (1), (2), (3), (4) e (5) correspondem respectivamente às variáveis INOVA, INOVA_PROD, INOVA_PROC, INOVA_ORG E IT.
+As demais variáveis são semelhantes às descrit as nos modelos da Tabela 4 .
+Luciana Carvalho, Ana Paula Macedo Avellar 78 Economia e Sociedade, Campinas, v. 29, n. 1 (68) , p. 53-84, janeiro -abril 2020 .
+As variáveis referentes ao pessoal ocupado, idade e produtividade não indicam um coeficiente associado significativo em relação à probabilidade do aumento da intensidade de exportação para amostra de empresas brasileiras.
+Nota -se que, na mesma linha dos modelos anteriores, a participação de capital estrangeiro possui um coeficiente associado positivo e significativo para propensão do aumento da intensidade de exportação.
+Esse resultado sugere que a presença de capital estrangeiro, além de aumentar a proba bilidade de exportação, influencia positivamente a intensidade de exportação.
+Ao examinar os indicadores de capacitação tecnológica, observa -se que a variáveis Skill e P& D revelam coeficientes associados positivos e estatisticamente significativos para todos os modelos.
+Deste modo, percebe -se que as empresas que têm um maior percentual de pessoal ocupado com 3° grau e que investem mais em P&D aumentam a intensidade de exportação.
+Destaca -se que tais indicadores não indicaram resultados significativos para a propensão a exportar , mas influenciam positivamente a intensidade da exportação.
+Quanto aos indicadores setoriais, nota -se que as variáveis referentes aos setores de al ta e média intensidade tecnológica expõem coeficientes associados negativos e estatisticamente significativos.
+Esse resultado é divergente do esperado pelas hipóteses do trabalho e indicam que empresas exportadoras de produtos de alta e média intensidade t ecnológica, no Brasil, não têm sido capazes de uma inserção externa pautada nas armas de competição características desses mercados, as inovações de produto.
+Tabela 6 Modelo Probit Ordenado para o ano 2008 OProbit 2008 (1) (2) (3) (4) (5) PO -5,820 (0,000) -3,770 (0,000) -8,004 (0,000) -0,000 (0,000) -2,400 (0,000) PO2 3,600 (3,100) 3,340 (3,009) 3,900 (3,009) 4,620 (3,007) 2,800 (3,330) IDADE -0,001 (0,001) -0,001 (0,001) -0,001 (0,001) -0,001 (0,001) -0,001 (0,001) ORIGEM DO CAPITAL 0,112 (0,054)*** 0,119 (0,054)*** 0,106 (0,054)*** 0,110 (0,054)*** 0,122 (0,054)*** PRODUTIVIDADE -0,0001 (0,002) -0,0001 (0,000) -0,0001 (0,000) -0,0001 (0,000) -0,0001 (0,000) SKILL 0,282 (0,104)** 0,307 (0,132)*** 0,277 (0,107)*** 0,280 (0,111)*** 0,318 (0,188)*** FINANCIAMENTO 0,0004 (0,0002) 0,0001 (0,0022) 0,0007 (0,002) 0,001 (0,002) 0,000 (0,002) COOPERAÇÃO -0,010 (0,069) -0,012 (0,069) -0,035 (0,068) -0,059 (0,067) Continua.
+Inovação e capacidade exportadora: evidências para empresas brasileiras Economia e Sociedade, Campinas, v. 29, n. 1 (68), p. 53-84, janeiro -abril 2020.
+79 Tabela 6 – Continuação OProbit 2008 (1) (2) (3) (4) (5) TREINAMENTO 0,018 (0,058) 0,009 (0,055) 0,065 (0,056) 0,110 (0,052) 0,027 (0,052) PATENTE -0,143 (0,056) -0,036 (0,046) -0,035 (0,048) -0,036 (0,044) -0,057 (0,044) P&D 1,821 (0,707)*** 2,022 (0,715)** 1,684 (0,702)** 1,599 (0,702)** 2,262 (0,705)* M&E 0,041 (0,081) 0,022 (0,087) 0,039 (0,082) 0,029 (0,085) 0,007 (0,080) ALTA_TEC -0,734 (0,061)* -0,718 (0,061)* -0,764 (0,061)* -0,770 (0,061)* -0,735 (0,060)* MÉDIA_TEC -0,535 (0,053)* -0,539 (0,053)* -0,537 (0,053)* -0,551 (0,053)* -0,540 (0,053)* INOVA2008 -0,357 (0,063)* INOVAPROD 2008 -0.393 (0,053)* INOVAPROC2008 -0,206 (0,053)* INOVAORG.
+2008 0,157 (0,480)* IT 2008 0.999 (1,439)* Observações 4940 4940 4940 4940 4940 Pseudo R2 0,0448 0,0448 0,0484 0,0425 0,0423 Notas: a) Erros Padrão estão entre parênteses; b) Todas as estimações foram realizadas utilizando o comando robust , para correção de qualquer tipo de heterocedasticidade; c) ***p<0.001, **p<0.05, *p<0.1, ausência de asterisco representa coeficiente não sig nificativo; d) Para o modelo 5, foi excluída a variável COOPERAÇÃO para evitar multicolineariedade com a variável IT.
+Outro aspecto importante refere -se aos indicadores de inovação.
+Verifica -se que as inovações de produto e processo revelam coeficientes associados negativos e estatisticamente significativos.
+Esse resultado sugere que empresas que inovam em produto e processo não aumenta m a sua intensidade d e exportação.
+Nonnenberg e Avellar (2013) utilizando -se de outra metodologia (modelo de seleção de H eckman) também encontram resultado similar, ou seja, a inovação possibilita a uma empresa se tornar exportadora, mas não aumenta a intensidade da exportação em relação às vendas.
+As justificativas para esse resultado não são muito evidentes, mas uma hipót ese baseia -se no fato das empresas brasileiras serem empresas predominantemente de setores de baixa intensidade tecnológica e com baixa participação de empresas de capital estrangeiro.
+Com relação à inovação organizacional e Índice de Tecnologia, observa -se que os coeficientes associados são positivos e estatisticamente significativos.
+No caso do IT, um Luciana Carvalho, Ana Paula Macedo Avellar 80 Economia e Sociedade, Campinas, v. 29, n. 1 (68) , p. 53-84, janeiro -abril 2020 .
+indicador que mensura as capacidades tecnológicas das empresas com base em diferentes tipos de esforços inovativos, o resultado sugere que, embora a inova ção não aumente a intensidade da exportação, um conjunto de esforços inovativos eleva a intensidade de exportação.
+O Quadro 3 sintetiza o resultado do modelos estimados da relação entre inovação e capacidade exportadora.
+Quadro 3 Resultado dos modelos Indicador Probit Probit defasado BiProbit OProbit INOVA2008 + + + _ INOVAPROD 2008 + + + _ INOVAPROC2008 NS + + _ INOVAORG.
+2008 + + + + IT 2008 NS + + + Fonte: Elaboração própria .
+Considerações finais A relação entre inovação e capacidade exportadora está no cerne do debate internacional acerca de desempenho empresarial.
+A literatura econômica aponta que empresas inovadoras têm maior propensão a exportar que as não inovadoras.
+No caso do Brasil, as evidências encontradas a partir dos modelos probabilísticos deste artigo sugerem que a inovação tem uma influência positiva na capacidade exportadora das empresas.
+No entanto , a estrutura produtiva, que diferencia países desenvolvidos e em desenvolvimento , provoca para uma relação mais tênue.
+No que se refere ao perfil das empresas brasileiras exportadoras em relação às não exportadoras, verifica -se que há um predomínio das grandes empresas entre as exportadoras e de pequenas empresas entre as não exportado ras.
+A análise descritiva da amostra permite afirmar que as exportadoras são mais velhas, são mais intensas em P&D, possuem um percentual do pessoal ocupado com treinamento superior, produzem mais patentes e inovam com maior frequência às não exportadoras.
+O exercício empírico deste artigo busca avançar no debate sobre exportação e inovação, à medida que insere variáveis defasadas de inovação, corrige os problemas de endogeneidade e analisa o impacto da inovação na intensidade da exportação.
+As evidências e ncontradas pelas estimações dos modelos probabilísticos inferem que existe um padrão nos vários modelos, no que se refere às variáveis tamanho, idade e participação de capital estrangeiro e produtividade que influenciam positivamente a decisão de exportar das empresas.
+Inovação e capacidade exportadora: evidências para empresas brasileiras Economia e Sociedade, Campinas, v. 29, n. 1 (68), p. 53-84, janeiro -abril 2020.
+81 Quanto aos indicadores de capacitação tecnológica, nota -se que ao inserir variáveis defasadas e corrigir a endogeneidade, os coeficientes tornam -se significativos, indicado que os ganhos propiciados pelos esforços inovativos podem ocorrer ao longo do tempo.
+Outra importante conclusão refere -se aos gastos com P&D, proxy de esforço inovativo, que não apresentou coeficiente significativo para nenhuma das estimações.
+Esse resultado denota que os gastos com P&D da indústria brasileira ainda são in cipientes para aumentar a propensão a exportar.
+Com relação aos indicadores de inovação, os resultados foram positivos e significativos, concluindo que a inovação aumenta a propensão a exportar.
+Os resultados tornaram -se mais robustos com a inserção de var iáveis defasadas e a estimação do modelo biprobit .
+Ao analisar a intensidade da exportação, no entanto, os resultados se alteram.
+Os indicadores de inovação de produto e processo revelam um impacto negativo na intensidade de exportação das empresas brasile iras.
+Uma das possíveis explicações decorre do fato de as empresas inovadoras brasileiras apresentarem pouca participação de capital estrangeiro e maior concentração em setores de baixa intensidade tecnológica .
+Referências bibliográficas ARBIX, G. ; SALERNO, M. ; DE NEGRI, J.
+A. O impacto da internacionalização com foco na inovação tecnológica sobre as exportações das firmas brasileiras.
+DADOS – Revista de Ciências Sociais , Rio de Janeiro, v. 48, n. 1, p. 395 -442, 2008.
+; MENDONÇA, M. Inovaçã o e competitividade: uma agenda para o futuro.
+In: CASTRO, A. C.; LICHIA, A.; PITANGUI, H.O.
+; SABORA, J. Brasil em desenvolvimento 01.
+Rio de Janeiro: Civilização Brasileira, 2005.
+; CARVALHO, L. Esforço inovativo e desempenho exportador: evidências para Brasil, Índia e China.
+Estudos Econômicos , 43, 2013 .
+BASILE, R. Export behaviour of Italian manufacturing firms over the nineties: the role of innovation.
+BENETES CAVAS, P. Determinantes da atividade exportadora : uma análise das empresas paulistas.
+Dissertação (Mestrado )–Universidade de São Paulo, 2010.
+Exceptional exporter performance: cause, effect, or both?
+Journal of International Economics , 47, p. 1-25, 1999 .
+CAMERON, A. C.; TRIVEDI, P. K. Microeconomics Using Stata .
+CASSIMAN , B.; GOLOVKO E.; MARTÍNEZ -ROS , E. Innovation, exports and productivity.
+International Journal of Industrial Organization , 28, p. 372-37, 2010.
+Luciana Carvalho, Ana Paula Macedo Avellar 82 Economia e Sociedade, Campinas, v. 29, n. 1 (68) , p. 53-84, janeiro -abril 2020 .
+CASSIMAN, B.; GOLOVKO, E. Innovation and internationalization through exports.
+Journal of International Business Studies , 42, 2011.
+CLERIDES, S. ; LACH, S. ; TYBOUT, J.
+Is learning by exporting important?
+Micro -dynamic evidence from Colombia, Mexico, and Mo rocco.
+Quarterly Journal of Economics , 113, p. 903947, 1998 .
+CORREA, P.; DAYOUB, M.; FRANCISCO, M. Identifying supply -side constraints to export performance in Ecuador: an exercise with investment climate survey data .
+World Bank Policy Research Working Paper, n. 4179, Mar .
+DE NEGRI, F. I novação tecnológica e exportações das firmas brasileiras .
+In: ENCONTRO NACIONAL DE ECONOMIA , 33, Anpec , Natal, 2005.
+A. ; ACIOLY, L. Novas evidências sobre os determinantes do investimento externo na indústria de transformação brasileira .
+(Texto para Discussão , 1019 ).
+A. ; FREITAS, F. Inovação tecnológica, eficiência de escala e exportações brasileiras .
+(Texto para Discussão , n.1044 ).
+DE NEGRI, J.; SALERMO, M. Inovações, padrões tecnológicos e desempenho das firmas brasileiras .
+A. ; RUANO, S. Firm productivity and export markets: a non-parametric approach.
+Journal of International Eco nomics , p. 397-422, 2002.
+DOSI, G. Sources, procedures and microeconomic effects of innovation.
+Journal of Economic Literature , v. 26, n. 3, p. 1120 -1171, 1988.
+DOSI, G. Finance, innovation and industrial change .
+Journal of Economic Behavior and Organization , v. 13, issue 3, p. 299 -319, 1990.
+DOSI, G.; PAVITT, K ,; SOETE, L.G.
+The economics of technical change and international trade .
+London: Harvester Wheatsheaf, 1990.
+ENTHORF, H. ; POHLMEIER, W. Employment, innovation and export activity: evidenc e from firm -level data.
+Microeconometrics : surveys and applications.
+London : Basic Blackwell, Goodman, L.A., Kruskal , 1990.
+Innovation: a guide to the literature.
+In: FAGERBERG, J; MOWERY, D. C.; NELSON, R. R. The Oxford handbook of innovation .
+FREEMAN, C. Chemical process plant: innovation and the world market.
+National Institute Economic Review , n. 45 , 1968 .
+GANOTAKIS, P.; LOVE, J. R&D, product innovation and exporting: evidence from UK new technology firms .
+Oxford Economic Papers , v. 63, n. 2, Apr .
+Inovação e capacidade exportadora: evidências para empresas brasileiras Economia e Sociedade, Campinas, v. 29, n. 1 (68), p. 53-84, janeiro -abril 2020.
+83 GUAN, J., MA, N. Innovative capability and export performance of Chinese firms.
+Sample selection bias as a specification error .
+Econometrica , v. 47, n. 1, p. 153 -61, Jan. 1979.
+; TAKAHASHI, Y. Inter -firm cooperation and firm performance: an empirical study of the Lao garment industry cluster .
+International Journal of Business and Management , 2005.
+KRUGMAN, P. A mode l of innovation, technology transfer, and the world distribution of income.
+Journal of Political Economy , v. 87, n .
+KUMAR, N.; SIDDARTHAN, N. S. Technology, firm size and export behaviour in developing countries: the case of Indian enterprises .
+The Journal of Development Studies , v. 31, n. 2, p. 289 -309, 1994.
+LACHENMAIER, S.; WO βMANN, L. Does innovation cause exports?
+Evidence from exogenous innovation impulses and obstacles using German micro data.
+Oxford Economic Papers , n. 58, p. 317 -350, 2006 .
+LALL, S. Learning to industrialize .
+Basingstoke (UK): Macmillan Press , 1987 .
+LALL, S. Technological capabilities and industrialization.
+World Development , 20, p. 165186, 1992 .
+LALL, S. The technological structure and performance of developing country manufactured exports, 1985 -1998.
+QEH Working Paper Series , n. 44, 2000.
+Exporting and productivity in business services: evidence from the United States.
+International Business Review , v. 18, 2009.
+NASSIMBENI, G. Technology, innovation capacity, and the export attitude o f small manufacturing firms: a Logit/T obit model.
+Research Policy , 30, p. 245-262, 2001.
+NELSON, R. Capitalism as an engine of progress .
+NELSON, R.; WINTER, S. An evolutionary theory of economic change .
+Cambridge: Harvard University Press, 1982.
+B.; AVELLAR, A. P. Exportações e processos inovativos : um estudo para América Latina e Europa do Leste.
+Instituto de Pesquisa Econômica Aplicada, 2013 .
+(Texto para Discussão , n. 1899 ).
+RICARDO, D. Princípios de economia política e tributação .
+São Paulo: Victor Civita, 1817.
+ROGERS, M. Networks, firm size , and innovation.
+Small Business Economics , 22, p. 141153, 2004.
+Luciana Carvalho, Ana Paula Macedo Avellar 84 Economia e Sociedade, Campinas, v. 29, n. 1 (68) , p. 53-84, janeiro -abril 2020 .
+ROTHWELL, R. Towards the fifth -generation innovation process.
+International Marketing Review , v. 11, n. 1, 1994.
+Innovation and export performance: evidence from UK and German manufacturing plants .
+Research Policy , 31, p. 1087 -1102, 2002.
+ROPER, S. ; LOVE, J. H. ; ANON HIGON, D. The determinants of export performance: evidence for manufacturing plants in Ireland and Northern Ireland.
+Journal of Political Economy , 53, p. 586-615, 2006 .
+Do innovative activities matter to small firms in non -R&D intensive industries?
+An application to export performance.
+Research Policy , 28, p. 819 -832, 1999.
+PAVITT, K. Sectoral patterns of technical change: towards a taxonomy and a theory.
+Research Policy , 13, p. 343-373, 1984.
+Technological accumulation, diversification and organization in the U.K. Companies, 1945 -1983 .
+Management Science , v. 35, n. 1, p. 81-99, 1989.
+International Trade and Technical Change, Oxford Economic Papers , v. 13, p. 323 -341, 1961.
+Firm organization, industrial structure, and technological innovation.
+Journal of Economic Behavior & Organization , v. 31, p. 193-224, 1996.
+TOMIURA, E. Effects of R&D and networking on the export decision of Japanese firms.
+Research Policy , 26, p. 758-767, 2007.
+VERNON, R. International investment and international trade in the product cycle.
+Quarterly Journal of Economics , n. 83, 1966 .
+WAKELIN, K. Innovation and export behavior at the firm level.
+Research Policy , 26, p. 829841, 1998.
+WIGNARAJA, G. Trade liberalization in Sri Lanka : exports, technology and industrial policy.
+London/New York: Macmillan Press/St Martins Press , 2008.
+WIGNARAJA, G. Innovation, learning, and exporting in China: does R&D or a technology index matter?
+Journal of Asian Economics , 2011.
+WOOLDRIDGE, J. M. Econometric analysis of cross section and panel data.
+ZUCOLOTO, G. F.; TONETO JUNIOR, R. Esforço tecnológico da indústria de transformação brasileira uma comparação com países selecionados.
+Revista de Economia Contemporânea , Rio de Janeiro, v. 9, n. 2, p. 337-365, mai o/ago.

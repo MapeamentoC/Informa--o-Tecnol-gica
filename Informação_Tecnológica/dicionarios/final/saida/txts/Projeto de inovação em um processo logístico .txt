@@ -1,0 +1,463 @@
+ 46 e-ISSN: 2236 -0972 Recebido em: 18 out.
+2020 Aprovado em: 07 nov. 2020 Editora Chefe : Rosária de Fátima Segger Macri Russo Editor Científico: Luciano Ferreira da Silva Revista de Gestão e Projetos - GeP 11(3), p. 46-71, set./dez.
+2020 PROJETO DE INOVAÇÃO EM UM PROCESSO LOGÍSTICO NO CONTEXTO DA ECONOMIA COMPARTILHADA: VEHICLE FILL RATE INNOVATION IN A LOGISTIC PROJECT IN THE CONTEXT OF SHARED ECONOMY: VEHICLE FILL RATE Giovana Crevat in Engenheira Universidade Federal do ABC - ABC Santo André, SP – Brasil giovanacrevatin@gmail.com Silvia Novaes Zilber Doutora em Administração de Emp resas Universidade de São Paulo Professora da Universidade Federal do ABC - UFABC Santo André, SP – Brasil silvia.zilber@ufabc.edu.br Resumo O objetivo deste artigo foi analisar o projeto de implementação d o frete compartilhado numa indústria, identificando as mudanças na estrutura organizacional e os resultados obtidos.
+Também foram identificados os fatores críticos de sucesso do projeto de implementação.
+Para atender ao objetivo, utilizou -se o método de es tudo de caso, com a coleta de dados realizada através de um questionário semiestruturado, desenvolvido a partir da revisão da literatura e posterior análise dos dados utilizando o método de análise de conteúdo.
+O caso escolhido foi uma empresa multinaciona l do ramo de produtos lácteos, que desenvolveu um projeto de inovação na área de transportes, o vehicle fill rate .
+Este projeto de inovação foi possível devido à estrutura flexível da empresa, e seu sucesso levou à criação de uma nova área, integrada à áre a de logística, trazendo uma solução imediata para o problema de ociosidade do fill rate, levando não só à redução de custos, mas também à melhoria do faturamento da empresa.
+A estrutura resultante do projeto pode ser entendida como sendo similar à de uma startup, pois as atividades não são bem definidas entre as funções e a equipe é multitarefa.
+Palavras -Chave: Projeto de Inovação em Logística.
+Economia Compartilhada; Frete Compartilhado.
+Abstract The objectiv e of this article was to analyze the project of the implementation of shared freight in an industry, identifying the changes in the organizational structure and the results obtained.
+Critical success factors for the implementation project were also identif ied.
+For this, the case study method was used, with data collection performed through a semi -structured questionnaire developed from the literature review and subsequent data analysis using the content analysis method.
+The case was a multinational company in the dairy industry, which developed an innovation project in transportation, the vehicle fill rate.
+This innovation project was possible due to the company's flexible structure, and its success led to the creation of a new area, integrated with the lo gistics area, bringing an immediate solution to the fill rate idleness problem, leading not only to the costs reduction, but also to improve the company's revenue.
+The resulting structure of the project can be understood as being similar to that of a start up, as the activities are not well defined among functions, and the team is multitasking.
+Keywords: Innovation Project in Logistics.
+Cite como - American Psychological Association (APA) Crevatin, G., & Zilber , S. N. (2020, set./dez.).
+Projeto de inovação em um processo logístico no contexto da economia compartilhada: Vehicle fill rate .
+Revista de Gestao e Projetos (GeP) , 11(3), 46-71.
+Crevatin, G., & Zilber , S. N. (2020, set./dez.).
+Projeto de inovação em um processo logístico no contexto da economia compartilhada : Vehicle fill rat e _ _ 47 Revista de Gestão e Projetos - GeP 11(2), p. 46 -71, set./dez.
+2020 1 Introdução Empresas, em geral, consta tam cada vez mais a necessidade de melhoria na eficiência e otimização dos transportes, devido ao aumento da produtividade na cadeia de suprimentos como um todo (Bhattacharya, Kumar, Tiwari & Talluri, 2014).
+O foco na logística e gestão da cadeia de abaste cimento na maioria das indústrias é um meio para melhorar a competitividade da indústria ou empresas.
+Assim, é preciso desenvolver um projeto de gestão da cadeia de suprimentos que reduza seu custo, processo e tempo de desenvolvimento de produto, para se p osicionar no mercado e não perder os benefícios no mercado global (Salmiah et al., 2020).
+Um processo logístico insere -se num contexto maior, que é o da cadeia de suprimentos.
+Segundo Korpysa, Halicki e Lopatka (2020), a ciência moderna entende a cadeia de suprimentos sob a perspectiva de projetos, onde um elemento importante é a gestão eficiente deste projeto numa ótica de gestão empreendedora, como sendo a capacidade de reconhecer e explorar oportunidades de mercado.
+Em um cenário de crise financeira, como as que ocorreram em 2008 e 2014 no Brasil, uma oportunidade identificada relaciona -se ao estudo dos recursos logísticos, que necessitam ser alocados de maneira eficiente, de forma a terem seus custos minimizados.
+Segundo De Paula e Pires (2017), a econ omia brasileira passou por fases de crescimento entre os períodos de 2003 e 2014, e rapidamente começou a declinar entre 2015 e 2016.
+A conjuntura financeira instável vivenciada no Brasil nos períodos citados afeta todos os ramos do mercado, por conta da b aixa no consumo, e consequente redução da produção (Colona, Kelch, & Gomes, 2017).
+Nesse âmbito, a área de transportes, inserida na área logística, encontra -se entre aquelas levadas a reduzir custos operacionais.
+Nesse contexto, uma oportunidade identifica da pela área de logística foi a otimização do espaço disponível para transporte em um caminhão, denominado fill rate, já estudada em diversas circunstâncias, visando encontrar inovações na área de logística que mais se adaptem a cada situação (Hosseini & Shirani, 2011).
+Um exemplo é o compartilhamento de transporte entre uma empresa -mãe e suas fornecedoras, na China, de modo a distribuir os custos de transporte entre si (Qiu & Huang, 2016).
+O problema da ociosidade no transporte de cargas já se fazia sentir como o comentado por Taflin, Persson e Hultenberger (1982), em que 30% dos caminhões de um estudo na Suécia possuíam baixo fill rate durante sua locomoção e 40% ainda possuíam capacidade utilizável nas carretas.
+Tal problema está diretamente ligado a duas questões amplamente levantadas por empresas que realizam transporte: a otimização de recursos financeiros e a preservação dos recursos ambientais Crevatin, G., & Zilber , S. N. (2020, set./dez.).
+Projeto de inovação em um processo logístico no contexto da economia compartilhada : Vehicle fill rate _ 48 Revista de Gestão e Projetos - GeP 11(3), p. 46-71, set./dez.
+2020 (Crainic, Gendreau, & Potvin, 2009; Maibach et al., 2008).
+Algumas das soluções encontradas para a diminuição da ociosidade dos caminhões em momentos de crise se enquadram dentro da economia compartilhada.
+Tal conceito se refere ao compartilhamento de bens e serviços em busca de novas soluções para o mercado, criando oportunidades de crescimento em economias trad icionais que por vezes se encontram estagnadas, caracterizando -se como uma inovação (Taeihagh, 2017; Kim, Baek, & Lee, 2018).
+O compartilhamento de um serviço ou processo permite a otimização de recursos de ambas as partes, reduzindo custos operacionais (C astillo, Bell, Rose, & Rodrigues, 2018).
+A economia compartilhada já foi estudada em diversos casos reais como Uber e Airbnb (Anwar, 2018), porém, esse contexto também pode ser utilizado em logística.
+O compartilhamento do frete entre transportadoras incorpora diversos benefícios, tais como incremento do portfólio de clientes, aumento do rendimento perante o mercado, otimização de recursos e redução de custos (Krajewska & Kopfer, 2006).
+Esse compartilhamento adiciona inovação em um setor da economia tradic ional (o setor logístico), que possui processos e áreas já pré -estabelecidos.
+A forma como uma empresa se estrutura para implantar um novo processo pode ser entendida como um projeto de inovação organizacional.
+Esse tipo de inovação ocasiona mudanças no mo do de fazer negócios da empresa, no arranjo das relações de trabalho para aumentar a eficiência e na qualidade dos seus processos (OECD, 2005).
+Porém, uma estrutura organizacional rígida pode ser uma barreira a projetos de inovação, devido à centralização do poder de tomada de decisão nos altos cargos gerenciais, demandando mais tempo para aprovação de projetos (Jones, 2010).
+A fluidez de uma estrutura organizacional reflete a possibilidade de as inovações organizacionais saírem da fase de projeto, adquirin do maior autonomia (Oliveira, 2004).
+A partir do cenário apresentado, o transporte de mercadorias enfrenta o problema de ociosidade no seu vehicle fill rate , ou seja, na otimização do espaço dos veículos utilizados em seus fretes.
+Esse problema é enfatizad o ainda mais no contexto de crise, levando empresas a buscarem soluções para melhorar a eficiência no processo logístico de entregas.
+Uma alternativa encontrada pode ser a proposição de um projeto de inovação de tais processos logísticos, que requer estru turas organizacionais mais flexíveis e facilitadoras de soluções de problemas, foco da presente pesquisa.
+(2020), a cadeia de suprimento sob a perspectiva de projetos tem na flexibilidade da gestão um fator importante para o estabelecimento dos times de projeto e coordenação dos diversos agentes envolvidos.
+A partir deste contexto, o objetivo deste artigo foi analisar o projeto de implementação de frete compartilhado numa indústria, Crevatin, G., & Zilber , S. N. (2020, set./dez.).
+Projeto de inovação em um processo logístico no contexto da economia compartilhada : Vehicle fill rat e 49 Revista de Gestão e Projetos - GeP 11(3), p. 46-71, set./dez.
+2020 identificando as mudanças na estrutura organ izacional ocorridas e os resultados obtidos.
+Também foram identificados os fatores críticos de sucesso do projeto de implementação.
+Para atender ao objetivo proposto, foi realizado um estudo de caso único, analisando -se uma empresa do ramo alimentício, que se enquadra no setor de transporte refrigerado de produtos lácteos frescos.
+Diante da recessão financeira dos anos de 2015 -2016, a empresa se deparou com uma situação de necessidade de corte de gastos e diminuição da ociosidade de espaço em seus caminhões de entrega, encontrando a solução na economia compartilhada, aplicada ao fill rate do transporte de mercadorias.
+Como resultado deste projeto, a empresa de bens de consumo criou um projeto de frete compartilhado, cujo sucesso levou à criação de uma nova á rea, ainda em processo de consolidação, prestadora do serviço de transporte para outras empresas parceiras, que também precisam de caminhões refrigerados.
+Como contribuição do artigo, a solução do problema de diminuição de gastos logísticos utilizando o c onceito de economia compartilhada mostrou -se solução viável.
+O projeto de compartilhamento logístico usando o vehicle fill rate inseriu a empresa industrial no setor de prestação de serviços, trazendo uma inovação neste segmento, beneficiando amplamente a cadeia de suprimentos da empresa, levando a uma estrutura organizacional mais flexível, que favoreceu este projeto de inovação.
+2 Revisão da Literatura Como o presente artigo trata de mudanças na estrutura organizacional devido à implementação de um projeto de inovação logístico, a primeira parte desta revisão se atém a questões relacionadas à inovação e estrutura organizacional, a segunda parte dá enfoque à logística, mais especificamente ao transporte de mercadorias; a terceira parte contextualiza a economi a compartilhada, o Vehicle fill rate e frete compartilhado.
+Finalmente tem -se uma visão de fatores de sucesso relacionados a projetos logísticos.
+2.1 Inovação e estrutura organizacional Segundo Scannell, Vickery e Droge (2000), a inovação em uma empresa ou negócio compreende a habilidade de prever ou solucionar necessidades de um cliente ou fornecedor.
+A inovação, tanto organizacional como de produtos ou processos, pode implicar mudanças de estruturas e processos convencionais já fixados na empresa.
+Isto ocasiona uma transição no modo como é gerado o valor da empresa, aumentando a competitividade da mesma (Zhan, Tan, Ji, Chung, & Tseng, 2017).
+O Manual de Oslo (OECD, 2005) destaca que a inovação em processos e a inovação organizacional estão relacionadas, normalmente ocorrendo simultaneamente.
+Ambas têm a finalidade de limitar os custos através de metodologias Crevatin, G., & Zilber , S. N. (2020, set./dez.).
+Projeto de inovação em um processo logístico no contexto da economia compartilhada : Vehicle fill rate _ 50 Revista de Gestão e Projetos - GeP 11(3), p. 46-71, set./dez.
+2020 melhoradas de produção, distribuição e organização empresarial.
+Os estudos a respeito de tipos de estruturas organizacionais auxiliam o entendimento da relação entre pessoas e suas funções dentro do sistema estudado, dado que a estrutura organizacional impacta diretamente no rendimento das atividades, no relacionamento dentro de uma área, e entre elas (Hatch, 2006).
+Segundo Daft (2015), estrutura orga nizacional é definida como uma combinação de atividades atribuídas a integrantes de um sistema de modo a garantir sua unidade.
+Em uma visão mais generalizada, estrutura organizacional é a relação das partes, que juntas, compõem um todo organizado (Hatch, 2 006).
+De acordo com a literatura, existem diversos tipos de estruturas: linear, funcional, matricial, por projetos, unidades de negócios.
+Daft (2015) destaca que cada tipo de estrutura organizacional atende a um determinado objetivo organizacional.
+Ainda, a estrutura organizacional ajuda a administrar, auxiliar e solucionar diversos problemas dentro de uma empresa, de modo que a estrutura esteja sempre alinhada com as necessidades e objetivos dela (Hardy & Dougherty, 1997).
+A organização dos setores e a distribuição de funções e atividades devem ser de tal modo que otimize a produtividade da empresa e promova a inovação nos seus processos, necessitando de flexibilidade para que possa se adequar às mudanças nos processos de uma empresa (Henderson, 1994).
+Jones (2010) mostra que estruturas mais flexíveis permitem maior adaptabilidade da empresa, de modo a mudarem rapidamente com qualquer tipo de alteração no seu ambiente interno ou externo.
+2.2 Transporte de mercadorias (freight transportation) No contexto da logística, o estudo a respeito de transporte de mercadorias sempre foi importante em função do impacto que traz para toda a cadeia de suprimentos e à economia (Crainic & Laporte, 1997).
+Todo transporte baseia -se na movimentação de materiais e/ou bens ac abados gerida por uma instituição profissional, tornando -se uma função de extrema importância para qualquer tipo de atividade executada em uma sociedade (Dablanc, 2007; Crainic & Laporte, 1997).
+O transporte de mercadorias é influenciado pela economia por estar diretamente ligado ao volume de produção, que por sua vez, depende da demanda do mercado (Dablanc, 2007).
+Desse modo, Crainic (2000) afirma que um serviço de uma transportadora se adapta facilmente às oscilações de mercado, demanda e condições de res trição.
+Mas também, a eficiência e eficácia desse serviço se faz essencial para o bom andamento de qualquer economia (Davies, Mason, & Lalwani, 2007).
+Ainda, o custo do transporte impacta diretamente o custo do produto devido ao grande número de agentes en volvidos (Crainic, 2000), e particularidades dos produtos e entregas (Perego, Perotti, & Mangiaracina, 2011).
+Como o mercado é grande e crescente, a competitividade neste setor só tende a Crevatin, G., & Zilber , S. N. (2020, set./dez.).
+Projeto de inovação em um processo logístico no contexto da economia compartilhada : Vehicle fill rat e 51 Revista de Gestão e Projetos - GeP 11(3), p. 46-71, set./dez.
+2020 aumentar, com a entrada de novas transportadoras, o aumento da deman da e outras situações que isso pode acarretar (Davies et al., 2007).
+Todas as mudanças que afetam a indústria de transportes fazem com que a redução dos custos logísticos esteja no objetivo de qualquer empresa, além de incrementar cada vez mais a eficiênci a, diminuir o tempo de entrega e, assim, aumentar a confiança dos clientes (Crainic et al., 2009).
+2.3 Economia compartilhada, Vehicle fill rate e Frete compartilhado Segundo Gan et al.
+(2018), o termo "economia compartilhada" se tornou conhecido por vol ta de 2010.
+A expressão se refere ao aluguel, troca ou compartilhamento de bens ou serviços através de recursos de tecnologia da informação de modo a não exigir a troca de propriedade entre empresas (Taeihagh, 2017).
+A economia compartilhada permite que ex ista otimização na capacidade de bens/ serviços através do compartilhamento de informação de empresas que possuem mais experiência e rede de contatos que outras (Gan et al., 2018).
+O tema é amplamente conhecido em casos como Uber e Airbnb , porém já foi apl icado em outros campos, o que permite exemplificação da distribuição dos custos operacionais, diminuindo os gastos individuais (Castillo et al., 2018).
+A economia compartilhada ajuda na reestruturação da economia convencional, aumentando a sua produtivida de e tornando o mercado atual mais dinâmico (Kim et al., 2018).
+Segundo Ndubisi, Ehret e Wirtz (2016), esse modelo de negócio pode apresentar riscos quando aplicado à distribuição.
+Apesar de facilitar o relacionamento entre clientes finais e empresas vend edoras menores, pode criar um consumo competitivo (Castillo et al., 2018).
+Entretanto, pelo lado logístico da operação, a economia compartilhada pode auxiliar o desenvolvimento de melhorias na cadeia logística de um produto, além da rede de relacionamentos (Gan et al., 2018).
+A melhoria da capacidade disponível no transporte sempre foi foco de atenção para a redução de custos logísticos e aumento da eficiência do transporte (Christopher, 1998).
+Em geral, as empresas passaram a estar mais atentas à taxa de p reenchimento de seu transporte, ou vehicle fill rate , em função da influência direta que esta taxa exerce sobre o custo do combustível, distâncias percorridas e tempo de entrega (Hosseini & Shirani, 2011).
+Diversos aspectos podem influenciar o fill rate de um veículo, incluindo aspectos econômicos, físicos e ambientais.
+Além disso, cada setor que utiliza o transporte tem diferentes critérios para o cálculo do fill rate , tornando -se uma área de estudo muito ampla e nova, devido à existência de poucos trabalh os sobre sua medição.
+Porém, segundo Hosseini e Shirani (2011) a influência econômica e ambiental deste cálculo, além da eficiência desta medida tornam o cálculo do fill rate necessários.
+Ainda, a sustentabilidade no transporte também se enquadra nos ponto s de melhoria de uma empresa.
+Quanto menor a capacidade Crevatin, G., & Zilber , S. N. (2020, set./dez.).
+Projeto de inovação em um processo logístico no contexto da economia compartilhada : Vehicle fill rate _ 52 Revista de Gestão e Projetos - GeP 11(3), p. 46-71, set./dez.
+2020 utilizada de um veículo, mais insustentável se torna tal operação (Enarsson, 1998).
+A colaboração entre transportadoras, numa visão de economia compartilhada, começou a ser pensada à medida que a pres são para o aumento da eficiência dos serviços de transportes foi crescendo (Verdonck, Caris, Ramaekers, & Janssens, 2013).
+A incorporação deste tipo de compartilhamento teve um aumento significativo em função da redução dos custos de transportes para cada empresa, considerando que estas não precisam arcar sozinhas com o alto custo de um veículo para transportes (Agarwal et al., 2010).
+Além disso, surgem outros benefícios como a expansão do portfólio de recursos, melhoria no posicionamento de mercado e a possibilidade de otimização no planejamento dos transportes (Krajewska & Kopfer, 2006).
+Segundo Verdonck, Caris, Ramaekers e Janssens (2013), um possível tipo de compartilhamento de frete é o compartilhamento da capacidade do caminhão (vehicle fill rate ).
+Este se baseia na divisão do investimento e dos custos de utilização de um veículo para transporte de materiais e mercadorias entre empresas que estão horizontalmente associadas, otimizando a utilização de um mesmo caminhão.
+Esse modelo de compartilhamento pode ser dividido de duas maneiras: controle limite e controle estrito.
+No controle limite, uma empresa é detentora do veículo de transporte e determina o volume limite que as outras colaboradoras poderão utilizar.
+Já no controle estrito, modelo de maior relevância para este trabalho, uma única empresa tem poder de decisão sobre a alocação das entregas das outras, baseando -se nas suas próprias entregas, de modo a obter sinergia com seus clientes finais (Verdonck et al., 2013).
+2.4 Fatores de sucesso em pr ojetos logísticos De acordo com Korpysa et al.
+(2020), a flexibilidade na gestão empreendedora de projetos na área de cadeia de suprimentos tem um papel importante em apoiar o estabelecimento de times de projetos ágeis e o relacionamentos entre pessoas, permitindo o fluxo do conhecimento pela cadeia como um todo, garantindo o sucesso do mesmo.
+Já para Vezzoni , Pacagnella, Banzi e Silva (2013) , a comunicação eficiente, o empowerment , o gerenciamento de mudanças e de requisitos, a preparação para enfrentar riscos e o suporte da alta administração aumentam a probabilidade dos projetos atingirem o sucesso.
+De acordo com Franz, Molenaar e Bradley (2020), projetos com uma excelente "química" entre seus integrantes e termos de contrato transparentes, foram aquel es que obtiveram os mais baixos custos unitários e baixo crescimento de custos durante o projeto, mostrando que quanto maior o entrosamento dos atores do projeto e comunicação fluída, melhores os resultados.
+Esses autores também afirmam que projetos que en volvem tanto as pessoas que desenharam o projeto quanto as que vão efetivamente implementá -lo, desde o início do estabelecimento de objetivos, Crevatin, G., & Zilber , S. N. (2020, set./dez.).
+Projeto de inovação em um processo logístico no contexto da economia compartilhada : Vehicle fill rat e 53 Revista de Gestão e Projetos - GeP 11(3), p. 46-71, set./dez.
+2020 conseguem o atingimento dos prazos do mesmo sem grande extensão do tempo, mostrando a importância do fator humano no atingimento dos objetivos.
+Quanto ao ambiente organizacional mais favorável ao sucesso na gestão de um projeto, Verones (2014) afirma que é mais fácil integrar objetivos de aprendizado em ambientes orientados a projetos utilizando -se estruturas matric iais.
+De acordo com Ayat, Imran, Ullah e Kang (2020), os fatores de sucesso na gestão de projetos são o envolvimento do usuário, as relações entre os stakeholders do projeto, a inteligência emocional do gestor do projeto, os perfis de comunicação e o apoi o da alta administração.
+Shenhar e Dvir (2007) em seu livro sobre os fatores de sucesso em gestão de projetos exploraram o fato de que 85% dos projetos estudados por eles falharam em atingir as metas de tempo e orçamento.
+A hipótese dos autores para tal fa to é de que os gestores de projetos falham em avaliar a incerteza e a complexidade envolvidas num projeto.
+Ao buscarem identificar fatores que pudessem levar ao aumento da taxa de sucesso dos projetos, os autores propuseram uma abordagem de gestão de proje tos adaptativa, mostrando que um projeto não é apenas uma sequência de atividades, mas sim, processos relacionados ao negócio que precisam entregar resultados.
+Para extrapolar os critérios de sucesso de tempo e orçamento, os autores propõem cinco dimensões , sendo que uma das dimensões propostas por Shenhar e Dvir (2007) foi a dimensão "preparação para o futuro": como o projeto vai preparar a empresa para usar novas tecnologias, atingir novos mercados e prover novas capacidades.
+3 Método Neste tópico foi de scrito o tipo de pesquisa, os critérios para a escolha do caso, o método da coleta de dados, bem como o da análise dos dados coletados.
+3.1 Tipo de pesquisa Segundo Yin (2001) existem diferentes estratégias para se realizar uma pesquisa, como levantament o, pesquisa histórica, estudo de caso, experimentos e análises de arquivos.
+O estudo de caso é utilizado para questões empíricas, sem haver uma distinção muito grande entre o assunto estudado e o contexto em que ele está inserido, geralmente em situações a tuais.
+O tipo de pesquisa escolhido para melhor estudar a situação identificada no presente artigo foi o estudo de caso exploratório, por se caracterizar como um fenômeno recente, permitindo compreender melhor o que ocorre nesses casos através da realizaçã o de entrevistas.
+Segundo Yin (2001) existem dois tipos principais de estudo de caso, o único, que contempla todos os aspectos a serem elucidados para se atender ao objetivo de pesquisa, e o múltiplo, que pode apresentar exemplos e contra exemplos, a fim d e compará -los para se chegar a uma conclusão.
+Para analisar o caso da Crevatin, G., & Zilber , S. N. (2020, set./dez.).
+Projeto de inovação em um processo logístico no contexto da economia compartilhada : Vehicle fill rate _ 54 Revista de Gestão e Projetos - GeP 11(3), p. 46-71, set./dez.
+2020 empresa em questão foi escolhida a estratégia de aplicação de um estudo de caso único, pois a situação analisada é difícil de ser encontrada, possibilitando à pesquisa testar uma teoria previamente não discutida.
+3.2 Escolha do caso Um projeto de inovação no transporte no contexto da economia compartilhada não é um fenômeno muito presente na literatura; assim, faz -se necessária a análise de uma aplicação real de tal serviço.
+A empresa escolhida para ser estudada foi uma multinacional de grande porte do ramo alimentício de produtos lácteos, como iogurtes e leite.
+É líder no mercado mundial no ramo em que atua, há quase 50 anos no mercado brasileiro e possui forte influência nos mercados f inais, com uma rede intensa de relacionamentos, além de uma estruturada malha logística.
+Antes do desenvolvimento deste projeto, a empresa já possuía processos bem estruturados e presença consolidada no mercado.
+Entretanto, encontrou uma situação de grande ociosidade no seu transporte, impactando seus resultados financeiros.
+Desse modo, a empresa identificou na economia compartilhada uma alternativa possível para a resolução de seu problema.
+A empresa em questão foi escolhida para ser tema do estudo de caso deste artigo por apresentar o dilema de ociosidade no transporte e haver desenvolvido um projeto buscando a solução do problema que pode ser caracterizada como uma inovação, através da implementação da economia compartilhada e reestruturação organizaciona l. 3.3 Coleta de dados Para realizar o estudo com a empresa de produtos lácteos, foi elaborado um questionário com perguntas qualitativas divididas em 3 partes, com o objetivo de entender os diferentes aspectos da implementação do projeto de frete compar tilhado: inovação gerada, estrutura organizacional requerida para a implantação do projeto e resultados obtidos pela área.
+Foram entrevistadas 4 pessoas de nível gerencial para compreender melhorar a implementação da inovação dentro da empresa e as estraté gias utilizadas.
+O gerente de transportes foi entrevistado para obter as visões estratégica e operacional, desde a criação da área.
+Os atuais responsáveis pela área de transporte compartilhado, chamada Cologistic , forneceram o entendimento sobre como é ger ir a área atualmente, além dos resultados que estão sendo colhidos.
+Ainda, uma das gerentes de Cologistic participou do início do projeto em 2014, fornecendo informações sobre a introdução desta inovação.
+Também foi entrevistada a antiga gerente de Cologi stic para compreender o início da operação e a evolução nos últimos dois anos.
+As entrevistas foram realizadas presencialmente, e gravadas para registro.
+As perguntas elaboradas visaram contemplar questões ligadas ao projeto de inovação no processo de tra nsporte, às mudanças na estrutura organizacional para a Crevatin, G., & Zilber , S. N. (2020, set./dez.).
+Projeto de inovação em um processo logístico no contexto da economia compartilhada : Vehicle fill rat e 55 Revista de Gestão e Projetos - GeP 11(3), p. 46-71, set./dez.
+2020 criação da nova área e aos resultados obtidos com a implantação do novo processo.
+O questionário foi dividido em 3 blocos, quais sejam: perguntas referentes à inovação em processo, perguntas sobre a e strutura organizacional e perguntas a respeito dos resultados obtidos pela área.
+O embasamento teórico para a elaboração do questionário está presente em dois assuntos chaves do trabalho.
+Inovação, segundo OECD (2005), é a introdução de algo novo ou reestr uturado.
+Uma inovação pode ser por processo, quando está ligada a mudanças de procedimentos e no modo de operar, ou então, uma inovação organizacional que trata das mudanças na estrutura da empresa.
+Outro foco do questionário baseou -se na estrutura organiz acional, que é a relação entre áreas, através da combinação de atividades para integrar uma unidade (Hatch, 2006).
+Quanto maior a fluidez na estrutura de uma empresa, mais apta à inovação essa estará (Jones, 2010).
+As questões elaboradas foram divididas em 3 blocos e são apresentadas no Quadro 1.
+Quadro 1 - Questionário elaborado a partir da revisão da literatura Inovação Estrutura Organizacional Resultados Obtidos pela Área Como se originou a ideia de compartilhamento de transporte?
+Os recursos existentes na empresa se mostraram suficientes para a implementação no início do projeto?
+Qual a maior dificuldade de operar em sinergia com uma outra empresa?
+No início do projeto como foram estruturados os processos para essa nova forma de realizar o transporte?
+Houve resistência por parte da empresa e dos funcionários para implementação da nova área?
+Qual a maior diferenciação que a área de Cologistic tem em relação às outras transportadoras convencionais na visão dos clientes parceiros?
+O projeto logo virou uma área ou as atividades do novo processo de transporte foram se inserindo em outras áreas?
+As atividades da área são distribuídas por quais funções?
+Existe uma proporção entre essas funções?
+Qual a maior dificuldade que a área enfrenta hoje?
+Que tipo de inovação teve que ser feita em transportes para a implementação da nova área de Cologistic ?
+As atividades e controles da nova área foram inseridos nos departamentos de suporte da empresa (TI, fiscal, financeiro, monitoram ento)?
+Qual o maior benefício de utilizar o serviço da empresa ao invés de uma transportadora convencional?
+Quais indicadores são usados para mensurar os resultados obtidos?
+Qual foi o principal foco inicial do projeto?
+A forma como a área e stá estruturada é eficiente?
+Ela leva a retrabalhos e esforços desnecessários?
+A operação do transporte compartilhado pode ser considerada sustentável?
+Fonte: Elaborado pelos autores, 2020.
+Crevatin, G., & Zilber , S. N. (2020, set./dez.).
+Projeto de inovação em um processo logístico no contexto da economia compartilhada : Vehicle fill rate _ 56 Revista de Gestão e Projetos - GeP 11(3), p. 46-71, set./dez.
+2020 3.4 Análise dos dados A análise dos dados obtidos com a pesquisa foi realizada seguindo o método de análise de conteúdo segundo Bardin (2011).
+De acordo com a autora, a análise de conteúdo é uma ferramenta utilizada na comunicação para encontrar indicadores que resumem as variáveis de uma certa mensagem, a pa rtir do uso de procedimentos padrões.
+Bardin (2011) propõe que o método de análise de conteúdo seja dividido em 5 partes principais, seguindo a respectiva ordem: organização da análise, codificação, categorização, inferência e tratamento informático.
+Iniciando -se com a organização, esta deve ser realizada em 3 etapas: pré -análise, exploração do material e tratamento dos resultados.
+A etapa de pré -análise é usada para conhecer todo o material a ser utilizado.
+Assim devem ser escolhidos os documentos que se rão submetidos para análise, além de serem formuladas as hipóteses e os objetivos, para guiar a leitura dos documentos.
+Após, devem ser elaborados os índices e indicadores, que auxiliarão na extração do conteúdo das mensagens.
+E por fim, realizar a prepara ção do material, na qual estes são editados e impressos.
+Na próxima etapa, de exploração do material, o conteúdo extraído deve ser categorizado, por regras de diferenciação e agrupamento a fim de identificar as unidades de significação.
+Por fim, os resulta dos devem ser tratados e interpretados, de modo a se tornarem significativos e válidos para o estudo em questão, através de análises estatísticas, condensando e destacando os resultados.
+A autora também classifica alguns tipos de análise que podem ser real izados, a saber, a análise categorial, que é o agrupamento categórico dos conteúdos, e a análise por enunciação, que observa a frequência com que cada assunto aparece na entrevista.
+Também são sugeridas a análise de avaliação, análise da expressão e anális e das relações.
+Para o presente estudo de caso, foram escolhidas as análises "categorial" e "enunciação", que avaliam o conteúdo das entrevistas, e não a análise comportamental.
+Assim, foram realizadas entrevistas para obter respostas a respeito do caso, que então foram analisadas e divididas em categorias pertinentes ao objetivo de pesquisa.
+A análise foi feita de forma manual e qualitativa.
+4 Apresentação dos Resultados e Análises Os resultados do estudo de caso são apresentados e analisados nesta seção , que está dividida em: (1) Descrição da empresa e da área estudada; (2) Cologistic : descrição do processo de implementação do projeto de inovação em logística, que resultou na criação da área denominada Cologistic , seus benefícios e dificuldades, por meio da análise das entrevistas realizadas e embasamento na literatura.
+Também foram identificados os fatores de sucesso do projeto.
+Crevatin, G., & Zilber , S. N. (2020, set./dez.).
+Projeto de inovação em um processo logístico no contexto da economia compartilhada : Vehicle fill rat e 57 Revista de Gestão e Projetos - GeP 11(3), p. 46-71, set./dez.
+2020 4.1 Descrição da empresa A empresa estudada é uma multinacional de capital aberto com sede na Europa, presente em mais de 1 20 países, tendo cerca de 100 mil funcionários ao redor do mundo.
+No Brasil, a empresa iniciou suas atividades em 1970, e hoje possui cerca de 8 fábricas e 5 mil funcionários.
+Atua em 3 segmentos: laticínios frescos, água engarrafada e nutrição clínica, po ssuindo 26% de participação de todo o mercado global de produtos lácteos frescos, além de 80% das vendas, sendo considerada líder de mercado neste segmento.
+A área estudada dentro da empresa é a área de Tranportes, aplicada somente à divisão laticínios fre scos, chamada Essential Dairy and Plant Based .
+Tal área está inserida na diretoria de Supply Chain , com diversas áreas como Customer Service , Planejamento, Central de Atendimento ao Cliente dentre outras, possuindo uma estrutura organizacional funcional, q ue agrupa atividades especializadas em áreas.
+Em 2014 foi criada uma área de projetos em Supply com o intuito de encontrar inovações para reduzir custos de operação.
+Um projeto deu início à área estudada neste artigo (a área de Cologistic) , na época chamad o Codistribuição, que tinha como principal atividade prestar serviços de distribuição para outras empresas.
+Com o tempo, este projeto foi sofrendo alterações e se tornou um projeto de implementação de uma nova área dentro de Transportes, cuja função era o ferecer o transporte compartilhado de produtos refrigerados a outras empresas parceiras, utilizando a frota própria da empresa, transportadoras e distribuidoras.
+A operação foi iniciada em 2016, com a efetiva criação da área de Cologistic (Logística Compa rtilhada) dentro da área de Transportes.
+No início do projeto de frete compartilhado, havia somente duas empresas parceiras; hoje já são 8 empresas de ramos distintos, como chocolates, sucos e laticínios.
+A área criada a partir do projeto inicial de frete compartilhado, a Cologistic , possui uma estrutura que atua sob a Gerência de Transportes, e é formada por dois gerentes, um trainee e 3 colaboradores que têm atuação operacional e analítica.
+4.2 Projeto de Criação da área Cologistic: projeto de implementação da inovação em logística Com base na literatura e nos dados coletados nas entrevistas realizadas, foi possível compreender e analisar o projeto de implementação da nova área de Cologistic , que promoveu uma inovação no setor de transportes, além da análise da situação atual da área.
+As respostas obtidas nas entrevistas foram categorizadas e apresentadas em forma de quadros, e divididas entre os 3 constructos que embasaram a pesquisa: inovação em processo, estrutura organizacional e resultados obtidos pela á rea.
+Crevatin, G., & Zilber , S. N. (2020, set./dez.).
+Projeto de inovação em um processo logístico no contexto da economia compartilhada : Vehicle fill rate _ 58 Revista de Gestão e Projetos - GeP 11(3), p. 46-71, set./dez.
+2020 4.2.1 Inovação em processo Assim como a maioria das inovações, que surgem pela busca de uma melhoria ou da solução de um problema (OECD, 2015), a área estudada também se originou a partir do problema identificado pela empresa, visando a redução de custos logísticos advindos da ociosidade dos caminhões de entrega de produtos da empresa de laticínios.
+Conforme relatado pelos entrevistados, por conta da recessão econômica vivenciada no país, o volume da empresa havia caído mais de 20% em 2 anos e a empresa precisava encontrar soluções para reduzir ao máximo seus custos.
+Assim, foi criada, em 2014, uma área de projetos em Supply para obter inovações logísticas, pois o maior custo atrelado ao produto é o custo logístico (Crainic, 2000).
+A área de Supply, então, criou o projeto de "Codistribuição" para realizar a distribuição compartilhada de seus produtos com os produtos de outra empresa parceira, ocupando o espaço ocioso do caminhão de entrega.
+A ideia logo evoluiu para o transporte compartilhado, com o surgi mento da área Cologistic , em função da proximidade física das duas empresas.
+A empresa de laticínios precisava tratar a ociosidade do seu transporte, e a empresa parceira necessitava de uma malha logística maior para fazer suas entregas.
+Assim, este projet o gerou sinergia para as duas empresas envolvidas.
+Tal fato corrobora o preconizado por Verdonck et al.
+(21013) , pois o aumento da exigência de eficiência nas entregas fez com que as empresas colaborassem para melhorar seus serviços.
+Uma estrutura por pro jeto se dá quando são alocadas diversas especialidades em uma área a fim de proporcionar conhecimento e habilidades para um projeto (Oliveria, 2004): assim se deu o início de Cologistic .
+Porém com as mudanças estratégicas e o crescimento da operação, para que se pudesse entregar melhor nível de serviço e gerar proximidade entre os parceiros, identificou -se a necessidade de transformar o projeto inicial em uma área estruturada, segundo o atual gerente de Cologistic: "implementar novos processos dentro de outras áreas que já existiam e possuíam uma rotina, seria muito mais difícil do que criar uma área nova que aprenderia sozinha os seus próprios processos".
+Foi então implementada uma estrutura mista, seguindo o preconizado por Oliveira (2004), onde ocorr eram adaptações à estrutura organizacional existente para possibilitar o projeto de implementação da inovação logística, adaptando -se às necessidades da nova área criada.
+A nova área, segundo os entrevistados, "possui estrutura funcional de uma área conven cional, porém guiada pela estrutura por projetos" (Daft, 2015; Oliveira, 2004).
+Os entrevistados caracterizaram a criação da nova área – Cologistics - como uma inovação em processo, que segundo o Manual Crevatin, G., & Zilber , S. N. (2020, set./dez.).
+Projeto de inovação em um processo logístico no contexto da economia compartilhada : Vehicle fill rat e 59 Revista de Gestão e Projetos - GeP 11(3), p. 46-71, set./dez.
+2020 de Oslo (OECD, 2015) pode ser definida como a introd ução de um processo novo ou reestruturado.
+No caso estudado, o compartilhamento do transporte pode ser caracterizado como uma inovação no processo de transporte, que já havia sido realizada por outras empresas, porém não na proporção que está sendo feita n esta empresa.
+Não existiam modelos similares na empresa que pudessem inspirar o projeto de sinergia logística com o know -how de uma multinacional, como citado pela antiga gerente da área, "O ápice da inovação foi inserir algo novo dentro de um processo qu e já funciona (transporte)".
+Tal achado corrobora o proposto por Korpysa et al.
+(2020), que entendem que a flexibilidade na gestão de projetos na área de cadeia de suprimentos apoia o estabelecimento de times de projetos ágeis e propicia um melhor relacio namentos entre pessoas.
+Os principais fatores citados nas entrevistas que permitiram a implementação deste projeto de inovação dentro de uma multinacional, foram: os recursos adequados, estruturas ágeis, processos, e habilidades que uma empresa desse porte já possui.
+Além disso, a empresa dispõe de uma forte malha logística distribuída por todo o Brasil, e, por possuir know -how em logística, tornou -se referência em transporte de refrigerados.
+O Quadro 2 resume os achados das entrevistas com relação à inovaç ão em processos e identificados pelas categorias resultantes das análises de conteúdo realizadas.
+Crevatin, G., & Zilber , S. N. (2020, set./dez.).
+Projeto de inovação em um processo logístico no contexto da economia compartilhada : Vehicle fill rate _ 60 Revista de Gestão e Projetos - GeP 11(3), p. 46-71, set./dez.
+2020 Quadro 2 - Resultados das entrevistas relacionados à inovação em processo Categoria Entrevistas Inovação no Transporte Compartilhamento do Transporte Duas empresas trabalharem com sinergia Inserir algo novo dentro de um processo que já funciona (transporte) Origem da Ideia Necessidade de Redução de Custos Proximidade física das empresas Tratar a ociosidade do transporte Aproveitar volume de transp orte, manter a sinergia e uma grande malha logística Fatores que permitiram a inovação Recursos, estruturas e know -how já existentes na multinacional que ofereceu o serviço de transporte compartilhado Grande frota e malha logística em todo Brasil da emp resa de laticínios "A empresa possui know -how no ramo de transportes, e é referência nisso."
+Evolução da fase de projeto à criação da nova área (COLOGISTIC) "O projeto 'Codistribuição' surgiu como um projeto da área de Transportes (mais especificamente, da área de Supply ) e buscava inovações para reduzir custos logísticos e de operação, advindos da ociosidade existente nos caminhões que faziam a distribuição dos pr odutos da multinacional."
+Evolução do projeto "Codistribuição" para a criação de uma nova área subordinada à área de Transportes, a " Cologistic ", devido ao sucesso do projeto inicial, que contemplava parceria com apenas uma empresa localizada próxima à multinacional O crescimento da operação mudou a atenção da alta administração e a priorida de recebida pelo projeto: aumentou o número de parceiros que buscam os serviços de frete compartilhado da multinacional, gerando um novo serviço: o transporte de produtos de outras e mpresas através dos caminhões da companhia, numa estratégia de frete compa rtilhado.
+"Conforme foi se mostrando benéfico, o volume e complexidade da operação foi aumentando."
+Permitiu ampliar os parceiros, diminuindo os custos de operação e aumentando o faturamento da empresa.
+Fonte: Desenvolvido pelos autore s, 2020.
+Crevatin, G., & Zilber , S. N. (2020, set./dez.).
+Projeto de inovação em um processo logístico no contexto da economia compartilhada : Vehicle fill rat e 61 Revista de Gestão e Projetos - GeP 11(3), p. 46-71, set./dez.
+2020 A sín tese apresentada no Quadro 2 mostra que os fatores considerados como inovação são o próprio compartilhamento do transporte, a sua sinergia e a inserção de um novo processo em uma estrutura já estabelecida.
+Além disso, a ideia deste projeto originou -se da necessidade de redução de custos e do problema de ociosidade no transporte, beneficiando -se da localização da empresa parceira (proximidade física).
+Também é possível notar que os fatores que possibilitaram a inovação foram a estrutura flexível da empresa, sua capacitação no ramo logístico e sua influência, pela ampla malha logística que possui.
+Por fim, é possível notar que o projeto de Codistribuição gerou uma mudança estratégica para as duas empresas, evoluindo rapidamente de uma estrutura de projetos p ara a posterior criação de uma área dedicada ao frete compartilhado, a Cologistic.
+Essa nova área permitiu que a empresa ofereça um novo serviço diferente ao da produção de produtos lácteos: a empresa tornou -se uma prestadora de serviços, ao distribuir pro dutos de outras empresas, numa perspectiva de frete compartilhado.
+4.2.2 Estrutura organizacional Uma estrutura organizacional flexível permite adaptação a qualquer mudança que lhe for apresentada (Jones, 2010).
+Também, a maneira como uma empresa trata suas inovações pode influenciar o sucesso e oportunidades de crescimento (Oliveira, 2004).
+Assim, quanto mais flexível e mais aberta a inovações for uma empresa, maiores as chances de se destacar no mercado em que se insere.
+De acordo com as entrevistas, o presen te estudo pode se caracterizar como uma empresa de estrutura flexível, aberta a mudanças e inovações que favoreçam seu crescimento.
+A empresa possui uma cultura de agilidade, em que os processos são desenvolvidos de maneira acelerada, e as suas estruturaçõ es são realizadas durante a execução.
+Não existem longos períodos de planejamento, e as dificuldades vão sendo encontradas no decorrer do dia a dia da empresa.
+Esta característica apresenta vantagens para a implementação de uma inovação, devido à rapidez d e resposta a mudanças no mercado ou a problemas internos, que se faz muito importante devido à grande competição no ramo logístico (Davies et al., 2007), tornando ainda mais relevante a necessidade de redução de custos.
+Entretanto, existem riscos, principa lmente financeiros e operacionais.
+Por se tratar de processos parcialmente estruturados, muitos erros podem ocorrer na sua execução, levando ao término precoce do projeto.
+Além disso, a empresa possui uma estrutura organizacional flexível.
+Segundo uma das atuais gerentes de Cologistic, "A cultura organizacional facilitou a inovação de processo e não só de produto", em virtude da menor burocratização dos processos.
+Comparando com outras multinacionais, as inovações são facilitadas.
+Crevatin, G., & Zilber , S. N. (2020, set./dez.).
+Projeto de inovação em um processo logístico no contexto da economia compartilhada : Vehicle fill rate _ 62 Revista de Gestão e Projetos - GeP 11(3), p. 46-71, set./dez.
+2020 Quando a empresa entende que um projeto ou inovação pode trazer lucro, as condições de realização são simplificadas.
+Essa característica permite que a empresa possua alta taxa de inovação (Henderson, 1994).
+Entretanto, ainda que a empresa facilite as inovações em processos, muita s barreiras de implementação foram identificadas durante a pesquisa.
+Como qualquer mudança dentro de um sistema, houve resistência dentro da empresa quanto à criação da nova área, Cologistic, por outros departamentos.
+Observou -se que muitos departamentos n ão priorizavam as atividades da nova área e que ainda se faz necessária a mudança de mindset por parte dos funcionários para "se pensar em uma empresa de bens de consumo agindo como prestadora de serviço".
+Conforme os departamentos foram entendendo os bene fícios incorporados pela nova área, a aceitação se tornou maior e os processos fluíram mais rápido.
+Uma das maiores dificuldades enfrentadas pela área foi a sua inserção nos processos da empresa.
+Uma multinacional já possui fluxos estruturados, sendo neces sárias mudanças gradativas em tais processos para a incorporação de uma nova atividade.
+As mudanças trazidas pela nova área, a Cologistic, foram benéficas para diversas áreas, pois elas ocorreram não somente para o novo processo, mas também agregaram melho rias aos já existentes.
+A perspectiva para a área é de que, nos próximos anos, todos os sistemas e processos da nova área criada (a Cologistic) já estejam integrados aos demais departamentos da empresa, e que as atividades sejam totalmente absorvidas pela s suas respectivas áreas.
+Foi possível observar nos últimos anos uma evolução dentro da Cologistic .
+Os relatos do início do projeto mostram que todos os processos eram realizados manualmente e sem controles concretos.
+O aumento do volume levou à otimização dos processos da área, que hoje são executados através de sistemas integrados, além de diversos projetos de melhorias que estão sendo aplicados em Cologistic .
+A utilização da tecnologia a favor do transporte auxilia a adaptação dos processos com as mudanç as trazidas pelo mercado (Crainic et al., 2009).
+Também foi identificado na pesquisa, que a área ainda está em crescimento, e possui grande autonomia, tanto operacional, como estratégica, vislumbrando a importância da área para a operação de Supply , e seu potencial de expansão dentro da empresa.
+As características de estrutura organizacional da empresa identificadas através das entrevistas estão apresentadas no Quadro 3.
+Crevatin, G., & Zilber , S. N. (2020, set./dez.).
+Projeto de inovação em um processo logístico no contexto da economia compartilhada : Vehicle fill rat e 63 Revista de Gestão e Projetos - GeP 11(3), p. 46-71, set./dez.
+2020 Quadro 3 - Resultados das entrevistas relacionados à estrutura organizacional da empresa Categoria Entrevistas Cultura de Agilidade O perfil da empresa é de muita agilidade Cultura da empresa: a estruturação é feita durante a execução Não houve planejamento para alocação de recursos para a área quando deixou de ser um projeto Risco: processos são realizados com tentativa e erro Estrutura Organizacional Flexível A empresa é menos burocrática e facilita inovações "A empresa é muito flexível.
+Se você consegue mostrar resultados, principalmente em números, é possível fazer acontec er."
+Barreiras comportamentais à inovação Mudança de mindset nos outros departamentos da empresa Assim como qualquer mudança, houve resistência dentro da empresa Priorização dos processos da empresa como um todo em relação aos processos de Cologistic Inserção nos processos da empresa Desafio da nova área Coligistic para se adaptar aos processos da multinacional, que já possuía fluxos estruturados Mudanças em outras áreas da empresa foram necessárias, não somente para a área nova Incorporação grada tiva de atividades pelos outros departamentos Os departamentos da empresa não absorveram completamente as atividades da área Melhoria em processos Inicialmente os processos eram manuais Evolução: sistemas implementados que operam junto à empresa "O aumento do volume e parceiros leva à automatização de processos."
+Autonomia A operação já funciona sozinha Possui autonomia na tomada de decisões estratégicas Fonte: Desenvolvido pelos autores, 2020.
+Percebeu -se que era necessária uma equipe multitar efa dentro da área, pois as atividades diferenciadas realizadas por uma pessoa só exigem habilidades distintas.
+O aumento do volume proporcionou a implementação de processos e análises de indicadores mais precisos, mostrando cada vez mais o rápido crescime nto pelo qual área está passando.
+As características da estrutura interna da área podem ser observadas no Quadro 4.
+Crevatin, G., & Zilber , S. N. (2020, set./dez.).
+Projeto de inovação em um processo logístico no contexto da economia compartilhada : Vehicle fill rate _ 64 Revista de Gestão e Projetos - GeP 11(3), p. 46-71, set./dez.
+2020 Quadro 4 - Resultados relacionados à estrutura organizacional interna da nova área: Cologistic Categoria Entrevistas Semelhança ao mod elo de Startup "Cologitsic é uma empresa startup dentro de uma multinacional."
+Não possui áreas delimitadas Atividades alocadas de acordo com as prioridades do momento Estrutura interna da área "Por muito tempo a área só realizava atividades operacion ais, sem análises e controles."
+O volume e demanda exigem aumento dos recursos Atividades divididas de acordo com as necessidades diárias Necessidade de uma equipe multitarefa Implementação de novos processos e sistemas com o crescimento da área Fonte: Desenvolvida pelos autores, 2020 .
+Os quadros 3 e 4 sintetizam as respostas das entrevistas relacionadas à estrutura organizacional da área e da empresa.
+Apesar do sucesso da implementação do projeto, foram encontradas barreiras para a aceitação do projeto dentro da empresa: por se tratar de uma novidade houve muitas mudanças processuais e sistêmicas em outras áreas.
+Também foi identificada a estrutura organizacional interna de Cologistic : sintetizando, o seu atual gerente a definiu como sendo "uma empresa startup dentro de uma multinacional".
+A área não possui funções delimitadas e as atividades são alocadas de acordo com as necessidades do momento, assemelhando -se a uma estrutura de Startup; por se tratar de um processo novo, muitas atividades e p rocessos ainda estão sendo desenvolvidos, necessitando de uma equipe que realiza diversas funções.
+4.2.3 Resultados obtidos e Fatores Críticos de Sucesso do Projeto Além do projeto de implementação da nova área de Cologistic , o artigo buscou identificar os resultados obtidos com a implementação deste projeto.
+O Quadro 5 mostra os resultados obtidos.
+Crevatin, G., & Zilber , S. N. (2020, set./dez.).
+Projeto de inovação em um processo logístico no contexto da economia compartilhada : Vehicle fill rat e 65 Revista de Gestão e Projetos - GeP 11(3), p. 46-71, set./dez.
+2020 Quadro 5 - Resultados obtidos pela implementação do projeto de frete compartilhado Categoria Entrevistas Sustentabilidade da Operação "A operação é sustentável."
+"Os indicadores mostram o seu crescimento."
+Maturidade da área "O resultado hoje da área já é reconhecido dentro da companhia como faturamento, e não só diminuição de custos" Dificuldades do compartilhamento Alinhamento de estratégias e r iscos operacionais Operar em sinergia Diversidade de clientes com particularidades específicas da multinacional: transporte de produtos diversos, advindos de outras empresas Dificuldades da área Processos ainda não consolidados Controles dos process os e análise de resultados Cultura Cologistic Outros departamentos não enxergam a importância da área para a empresa Dificuldade de comunicação da estratégia para outros departamentos Benefício da Inovação "Com a redução do volume da empresa e o cenári o econômico, foi possível manter a estrutura física que a empresa possui hoje."
+Networking com os parceiros Crescimento mútuo: troca de experiencias e conhecimento Desenvolvimento de habilidades diferenciadas: pensar em uma parte muito mais ampla da cadeia e não só o transporte Benefícios para o parceiro "A empresa possui uma inteligência por trás do transporte, tornando flexível a mudanças."
+Facilitação de burocracias Já possui estrutura física pronta Multinacional possui credibilidade Objet ivo não é só entregar o produto, mas também oferecer um bom nível de serviço, comunicação, menor preço Fonte: Desenvolvido pelos autores, 2020.
+Todos os entrevistados afirmaram que a operação de Cologistic pode ser considerada sustentável.
+A operação já funciona sozinha, e os indicadores mostram o crescimento da área nos últimos anos.
+A maturidade da área pode ser evidenciada pela otimização do fill rate , que agrega lucro à empresa através da diminuição de combustível, taxa de frete e tempo de entrega (H osseini & Shirani, 2011): esses fatores mostram o sucesso do projeto de frete compartilhado, que levaram à geração de uma nova área na empresa (a Cologistic ).
+Entretanto, ainda falta a incorporação da "Cultura de Cologistic " em outros departamentos, para q ue deem maior importância à área, facilitando seu funcionamento.
+A maior dificuldade no início do projeto de frete compartilhado, citada pelos Crevatin, G., & Zilber , S. N. (2020, set./dez.).
+Projeto de inovação em um processo logístico no contexto da economia compartilhada : Vehicle fill rate _ 66 Revista de Gestão e Projetos - GeP 11(3), p. 46-71, set./dez.
+2020 entrevistados, foi operar com sinergia no compartilhamento de transporte, com o alinhamento de estratégias e expe ctativas das duas empresas.
+A empresa estudada tem o poder de decisão na alocação das entregas (Verdonck et al., 2013), mas também precisa entregar nível de serviço para a empresa parceira.
+Além disso, a área possui parceria com empresas de diversos ramos, cada uma com suas particularidades.
+Na visão das empresas parceiras, relatou -se que os benefícios adquiridos, além do custo mais baixo de transporte, estão relacionados à sinergia com uma empresa multinacional de grande porte, que possui uma inteligência atrelada aos negócios por trás do transporte.
+Ainda, a empresa se torna facilitadora de burocracias, por possuir estrutura física e de processos já prontas.
+Segundo o atual gerente da área, "uma multinacional que possui credibilidade entrega um bom nível d e serviço".
+Os benefícios da inovação apontados nas entrevistas estão relacionados à redução de custos, como exemplificado pela antiga gerente da área, "Com a redução do volume da empresa e o cenário econômico, foi possível manter a estrutura física que a empresa possui hoje".
+Os fatores críticos de sucesso do processo de implantação do frete compartilhado são apresentados no Quadro 6.
+Crevatin, G., & Zilber , S. N. (2020, set./dez.).
+Projeto de inovação em um processo logístico no contexto da economia compartilhada : Vehicle fill rat e 67 Revista de Gestão e Projetos - GeP 11(3), p. 46-71, set./dez.
+2020 Quadro 6 - Fatores Críticos de Sucesso do Projeto de Frete Compartilhado Categoria Entrevistas Flexib ilidade Empresa possui cultura de agilidade em que os processos são menos burocratizados, além de possuir uma estrutura organizacional flexível Suporte da alta Administração Iniciativa apoiada pelo Diretor de Transportes, que permitiu a criação de uma área de projetos em Supply Chain para resolução do problema de aumento de custo por ociosidade dos caminhões de entrega.
+Importância do fator humano As pessoas que desenharam o projeto foram as mesmas que o implementaram, criando uma comunicação e um re lacionamento eficiente entre as pessoas envolvidas no projeto.
+Também foi observado o desenvolvimento de novas habilidades, por exigência da nova atividade.
+Economia compartilhada O conceito de economia compartilhada gerou sinergia para as duas empresa s envolvidas no projeto: de um lado, a empresa objeto de estudo resolveu seu problema de ociosidade dos caminhões, pelo frete compartilhado.
+E a empresa parceira que se utilizou desse serviço, pôde se beneficiar da estrutura e o know how na área de logísti ca de uma multinacional.
+"Preparação para o futuro": oportunidade de novos negócios O projeto de frete compartilhado surgiu da necessidade de redução de custos de distribuição, pela ociosidade dos caminhões de entrega.
+Porém, ao ser implementado, o projeto gerou um serviço novo oferecido pela empresa: o frete compartilhado.
+Essa nova oportunidade identificada gerou uma nova área, a Cologistic , que tem autonomia, funcionando como se fosse uma startup .
+Outras empresas podem utilizar o serviço de distribui ção, a Cologistic , tendo transformado uma empresa puramente industrial numa empresa que oferece serviços de transporte de mercadorias.
+Fonte: Elaborado pelos autores, 2020.
+Como já foi citado no item sobre a estrutura organizacional, a questão de a empresa já operar numa cultura de estrutura flexível e ágil facilitou a execução do projeto, sendo que o apoio da alta administração foi efetivo, com o apoio do diretor de Transportes da empresa (Korpysa et al., 2020; Oliveira, 2004; Jones, 2010).
+Quanto à i mportância do fator humano, a troca de experiências e conhecimento ocorrido durante o projeto entre as duas empresas envolvidas foi além da relação de transporte das empresas: existiu um networking sobre negócios, software e processos entre os envolvidos.
+Além disso, os entrevistados citaram que dentro da área de Cologistic é necessário desenvolver habilidades diferenciadas de uma área de transporte, com uma visão mais ampla da cadeia, de negócios, vendas, recursos tecnológicos, dentre outros (Franz et al., 2020).
+(2018), a economia compartilhada pode levar à evolução das duas partes envolvidas no negócio, o que pôde ser constatado no presente caso: se de um lado a empresa objeto de estudo conseguiu diminuir seus custo de distribuição e a té aumentar seu faturamento com o frete compartilhado, a empresa parceira se beneficiou da infraestrutura Crevatin, G., & Zilber , S. N. (2020, set./dez.).
+Projeto de inovação em um processo logístico no contexto da economia compartilhada : Vehicle fill rate _ 68 Revista de Gestão e Projetos - GeP 11(3), p. 46-71, set./dez.
+2020 oferecida por uma multinacional líder em seu segmento .
+E finalmente, seguindo o preconizado por Shenhar e Dvir (2007), um fator crítico para o suces so de um projeto é sua capacidade de preparar a empresa para o futuro, ou seja, de usar novas tecnologias, atingir novos mercados e prover novas capacidades: o presente caso mostrou que a empresa iniciou o projeto apenas com o objetivo de diminuir seus cus tos logísticos em transporte por caminhões, diminuindo sua ociosidade e acabou ao final do projeto , criando uma nova área, a Cologistic , que justamente possibilitou à empresa aproveitar uma oportunidade de mercado, criando um novo serviço de transportes p or frete compartilhado, que não só diminuiu os custos da empresa, mas também aumentou seu faturamento, além de capacitar os envolvidos no projeto com outras habilidades que não só aquelas relacionadas às atividades de transporte da empresa.
+5 Considerações finais O objetivo deste artigo foi analisar o projeto de implementação de frete compartilhado numa indústria, identificando as mudanças na estrutura organizacional e os resultados obtidos.
+Também foram identificados os fatores críticos de sucesso do proje to.
+O projeto surgido na empresa de produtos lácteos pela necessidade de diminuição de custos de transportes devido à ociosidade dos caminhões foi tão exitoso que gerou a criação de uma nova área na empresa, a Cologistic , que oferece serviços de frete comp artilhado, numa parceria com outras empresas.
+Este foi um projeto de implantação de uma inovação na área logística inserida na economia compartilhada, por se tratar da introdução de um processo melhorado e reestruturado, que otimiza o transporte por meio do compartilhamento entre uma empresa que possui mais experiência que outra, trazendo melhorias para uma economia tradicional (OECD, 2005; Gan et al., 2018; Kim et al., 2018).
+Quanto ao sucesso na gestão deste projeto, como a multinacional possui uma estrut ura organizacional flexível, a implementação do projeto de inovação em logística foi facilitada.
+Ainda, a cultura de agilidade da empresa permitiu que tal projeto fosse implementado com mais velocidade, trazendo uma solução imediata para o problema de ocio sidade do fill rate .
+O projeto de implantação dessa inovação logística (o frete compartilhado) foi tão bem sucedido que deu origem à criação de uma nova área ( Cologistic) , integrada aos fluxos já estruturados da empresa.
+A incorporação de novos processos a os demais departamentos da empresa causou resistência com relação à inovação; entretanto, conforme os seus benefícios para a empresa foram sendo mostrados, os processos foram fluindo e passaram a ser mais aceitos, mostrando o sucesso da implantação deste p rojeto.
+A estrutura da área gerada pelo projeto pode ser Crevatin, G., & Zilber , S. N. (2020, set./dez.).
+Projeto de inovação em um processo logístico no contexto da economia compartilhada : Vehicle fill rat e 69 Revista de Gestão e Projetos - GeP 11(3), p. 46-71, set./dez.
+2020 comparada à de uma Startup, pois as atividades não são bem definidas entre as funções, e a equipe é multitarefa.
+Os resultados da implementação do projeto de frete compartilhado levaram não apenas à redução dos custos, objetivo primário do projeto, como ao aumento do faturamento da empresa, ao oferecer um novo serviço, que não está relacionado à produção e, sim à área de Transportes da empresa: ou seja, a empresa vislumbrou uma oportunidade de crescim ento, ao oferecer o serviço de frete compartilhado a outras empresas parceiras, sendo este um fator crítico de sucesso do projeto.
+Também pode se considerar que o fator humano foi um fator de sucesso, com o desenvolvimento de novas habilidades pela equipe envolvida no projeto.
+Como limitações, pode -se considerar o próprio método, que se ateve a um estudo de caso único.
+Porém, como se trata de pesquisa exploratória, sugere -se para estudos futuros, a proposição de estudos em outras indústrias para verificar a viabilidade da implantação de tal projeto de frete compartilhado .
+Referências Agarwal, R., & Ergun, O.
+Network design and allocation mechanisms for carrier alliances in liner shipping.
+Operations Research, 58(6), 1726 -1742.
+Growing global in the sharing economy: Lessons from Uber and Airbnb.
+Wiley Periodicals, 37(6), 59 -68.
+Ayat, M., Imran, M., Ullah, A., & Kang, C. W. (2020).
+Current trends analysis and prioritization of success factors: A systematic literature review of IC T projects .
+International Journal of Managing Projects in Business , doi:10.1108/IJMPB -02-20200075.
+Bhattacharya, A., Kumar, S. A., Tiwari, M. K., & Talluri, S. (2014).
+An intermodal freight transport system for optimal supply chain logistics.
+Transportation Research Part C, 38, 73-84.
+Castillo, V. E., Bell, J. E., Rose, W. J., & Rodrigues, A. M. (2018).
+Crowdsourcing Last Mile Delivery: Strategic Implications and Future Research Directions.
+Journal of Business Logistics, 39 (1), 7 -25.
+Colona, S. F., Kelch, R. S., & Gomes, A. N. (2017).
+Redução dos custos operacionais na gestão da distribuição de cargas por meio da utilização das ferramentas curva ABC e Solver: estudo de caso em operador logísti co em São José dos Campos - SP.
+Service network design in freight transportation.
+European Journal of Operational Research, 122 (2), 272 -288.
+Crainic, T. G., Gendreau, M., & Potvin, J. Y.
+Intelligent freigh t-transportation systems: Assessment and the contribution of operations research.
+Transportation Research Part C, 17(6), 541 –557.
+Crainic, T. G., & Laporte, G. (1997).
+Planning models for freight transportation.
+European Journal of Operational Research, (97), 409438.
+Logistics and Supply Chain Management: Strategies for reducing costs and improving service .
+Goods transport in large European cities: Difficult to organize, difficult to modernize.
+Tr ansportation Research Part A, 41(3), 280 –285.
+Organization Theory and Design (12th ed.).
+Davies, I., Mason, R., & Lalwani, C. (2007).
+Assessing the impact of ICT on UK general haulage companies.
+International Journ al of Production Economics, (106), 12 -27.
+De Paula, L F; & Pires, M (2017).
+Crise e perspectivas para a economia brasileira.
+Estudos Avançados, 31(89), 125 -144.
+Evaluation of Suppliers: how to consider the environment.
+Crevatin, G., & Zilber , S. N. (2020, set./dez.).
+Projeto de inovação em um processo logístico no contexto da economia compartilhada : Vehicle fill rate _ 70 Revista de Gestão e Projetos - GeP 11(3), p. 46-71, set./dez.
+2020 International Jo urnal of Physical Distribution & Logistics Management , 28(1), 5-12.
+Franz, B.; Molenaar, K. R. & Roberts, B.
+A. M. (2020) Revisiting Project Delivery System Performance from 1998 to 2018 3.
+Gan, M., Yang, S., Li, D., Wang, M., Chen, S., Xie, R., & Liu, J (2018).
+A Novel Intensive Distribution Logistics Network Design and Profit Allocation Problem considering Sharing Economy.
+Hardy, C., Dougherty, D. (1997).
+European Management Journal, (15), 16 -27.
+Organization Theory: modern, symbolic and postmodern perspectives (4th ed.).
+Oxford: Oxford University Press.
+Managing innovation in the Information Age.
+Harvard Business Review, (72), 100 -107.
+Holzapfel, A., Kuhn, H., & Sternbeck, M. G. (2018).
+Product allocation to different types of distribution center in retail logistics networks.
+European Journal of Operational Research , (264), 948 -966.
+Hosseini, S. V., & Shirani, M. (2 011).
+Fill Rate in Road Freight Transport (Tese de Mestrado).
+Department of Technology Management and Economics, Chalmers University of Technology, Göteborg, Sweden Jones, G. R. (2010).
+Organizational theory, design and change (3rd ed.).
+Kim, K., Baek, C., & Lee, J. D. (2018).
+Creative destruction of the sharing economy in action: The case of Uber.
+Transportation Research Part A, (110), 118 -127.
+Korpysa, J.; Halicki, M. & Lopatka, A.
+(2020) Entrepreneurial management of project supply chain – a model approach.
+Problems and Perspectives in Management , 18 (3), 211-223.
+Krajewska, M., & Kopfer, H. (2006).
+Collaborating freight forwarding enterprises: Request allocation and profit sharing.
+Maibach, M., Sch reyer, C., Sutter, D., Van Essen, H. P., Boon, B. H., Smokers, R., Schroten, A., Doll, C., Pawlowska, B., & Bak, M. (2008).
+Handbook on Estimation of External Cost in the Transport Sector.
+Internalisation Measures and Policies for All external Cost of Tran sport (IMPACT), European Commission DG TREN .
+Ndubisi, N. O., Ehret, M., & Wirtz, J.
+Relational Governance Mechanisms and Uncertainties in Non -ownership Services.
+Psychology & Marketing, ( 33), 250 -266.
+Organization for Economic Cooperation and Devel opment (2005).
+Oslo Manual: Guidelines for Collection and interpreting innovation .
+Sistemas, organização e métodos: uma abordagem gerencial (14a ed.).
+Perego, A., Perotti, S., & Mangiar acina, R. (2011).
+ICT for logistics and freight transportation: a literature review and research agenda.
+International Journal of Physical Distribution & Logistics Management, (41), 457 -483.
+Transportation service sharing an d replenishment/delivery scheduling in Supply Hub in Industrial Park (SHIP).
+International Journal of Production Economics, (175), 109-120.
+Salmiah, S.; Rusmardiana, A.; Desfiandi, A; Aswin; Febrianty Febrianty, A.; Reni, A; Hasibuan, A N; Idris, I & , Ra fiq, M. (2020).
+Project Supply Chain Management in Product Development: Study of Literature and its Development.
+International Journal of Supply Chain Management, 9 (5), 20507399.
+Scannell, T. V., Vickery, S. K., & Droge, C. L. (2000).
+Upstream supply ch ain management and competitive performance in the automotive industry.
+Journal of Business Logistics, (21), 23 -48.
+Shenhar, A. J., & Dvir, D. (2007).
+Reinventing project management: the diamond approach to successful growth and innovation.
+Hardward Busines s School Press.
+Sprenger, R., & Monch, L. (2012).
+A methodology to solve large -scale cooperative transportation planning problems.
+European Journal of Operational Research, (223), 626636.
+Crowdsourcing, Sharing Economies and Developme nt.
+Journal of Developing Societies, (33), 191 -222.
+Taflin, L. F., Persson, T., & Hultenberger, P. (1982).
+Analyses of the possibilities to coordinate and rationalise the distribution of Crevatin, G., & Zilber , S. N. (2020, set./dez.).
+Projeto de inovação em um processo logístico no contexto da economia compartilhada : Vehicle fill rat e 71 Revista de Gestão e Projetos - GeP 11(3), p. 46-71, set./dez.
+2020 goods - a conclusion of the VART projects.
+Verdonck, L., Caris, A., Ramaekers, K., & Janssens, G. K. (2013).
+Collaborative Logistics from the Perspective of Road Transportation Companies.
+Transport Reviews, (33), 700 -719.
+Verones, G. S. (2014) Métodos para Captura de lições apredidas: em direção à melhoria contínua na gestão de projetos.
+Métodos para a captura de lições aprendidas: em direção à melhoria contínua na gestão de projetos.
+Revista de Gestão e Projetos - GeP, 5 (1), 71-83.
+Vezzoni, G., Pacagnella, A. C., Jr., Banzi, A. L., Jr., & Silva, S. L. (2013).
+Identifi cação e análise de fatores críticos de sucesso em projetos.
+Revista de Gestão e Projetos - GeP, 4(1), 116 -137 Yin, R. K. (2001).
+Estudo de Caso: Planejamento e Métodos (2a ed.).
+Zhan, Y, Tan, K. H., Ji, G., Chung, L., Tseng, M. (2017 ).
+A big data framework for facilitating product innovation processes.
+Business Process Management Journal, (23), 544-554.

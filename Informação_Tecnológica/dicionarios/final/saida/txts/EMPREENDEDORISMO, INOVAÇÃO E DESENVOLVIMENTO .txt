@@ -1,0 +1,381 @@
+Recebido em: 25 de novembro de 2021 Aprovado em: 10 de janeiro de 2022 Sistema de Avaliação: Double Blind Review RGD | v. 19 | n. 1 | p. 154-178 | jan./jun.
+2022 DOI: https:/ /doi.org/10.25112/rgd.v19i1.2636Macário Neri Ferreira Neto Doutor em Administração pela Universidade de Fortaleza (Fortaleza/Brasil).
+E-mail: macario@edu.unifor.br José Ednilson de Oliveira Cabral PhD em Economia da Tecnologia e Inovação pela University of Reading (Reading/Inglaterra).
+Professor na Universidade de Fortaleza (Fortaleza/Ceará).
+E-mail: ednilson@edu.unifor.br Jéssyca Lages de Carvalho Castro Rodrigues Mestra em Administração Pública pela Fundação Getúlio Vargas (Rio de Janeiro/Brasil).
+E-mail: jessycalcastro@gmail.comEMPREENDEDORISMO, INOVAÇÃO E DESENVOLVIMENTO HUMANO NO MUNDO: ANÁLISE COMPARATIVA ENTREPRENEURSHIP, INNOVATION AND HUMAN DEVELOPMENT IN THE WORLD: COMPARATIVE ANALYSISe-ISSN: 2446-6875 p-ISSN: 1807-5436 Gestão e Desenvolvimento | Novo Hamburgo | v. 19 | n. 1 | jan./jun.
+2022155 RESUMO O empreendedorismo, como resultado, é relevante na geração de renda e emprego e, consequentemente, no desenvolvimento das nações, enquanto, como processo, eleva o nível de inovação do ecossistema empreendedor.
+Nesse sentido, este artigo tem como objetivo geral avaliar a relação entre empreendedorismo, inovação e desenvolvimento humano, sob a perspectiva comparativa entre as nações.
+Para alcance deste objetivo, foram utilizados dados secundários disponibilizados nos sites de órgãos mundiais, sobre empreendedorismo, inovação e desenvolvimento humano, frutos de pesquisas conduzidas por instituições de reconhecida capacidade técnica.
+Para análise dos dados se fez uso do aplicativo PLS-Sem, com a utilização de equações estruturais para verificar a validade das hipóteses.
+Da revisão da literatura se formulou um modelo conceitual, tendo habilidades empreendedoras como antecedente de atitude e aspiração empreendedora que, mediados por capacidade de inovação, impactam o índice global de inovação e, finalmente, o desenvolvimento humano dos países.
+Todas as hipóteses foram confirmadas possibilitando concluir que o empreendedorismo contribui para o desenvolvimento humano dos países.
+Embora existam vários estudos sobre empreendedorismo e inovação, ainda são raros os modelos que avaliam o efeito sobre o desenvolvimento humano.
+Daí a contribuição deste estudo para a academia, no sentido de que pode gerar estudos futuros regionalizados e com mais informações, que confirmem ou rejeitem as hipóteses em menor nível de agregação.
+Palavras-chave: Empreendedorismo.
+ABSTRACT Entrepreneurship is considered relevant in generating income and jobs, in addition to raising the level of innovation in the entrepreneurial ecosystem and contributing to the development of nations.
+In this sense, this article had the general objective of evaluating the relationship between entrepreneurship, innovation and human development from the perspective between nations.
+For this, secondary data from researches made available on the websites of world bodies on entrepreneurship, innovation, human development and conducted by institutions of recognized technical capacity were used.
+For data analysis, the application PLSSem was used, using structural equations to verify the validity of the hypotheses.
+There was a relationship between entrepreneurial skills with the entrepreneurial attitude and aspiration, the entrepreneurial attitude and the entrepreneurial aspiration with the capacity for innovation and the capacity for innovation with the global innovation index that tested its relationship with human development, all hypotheses being confirmed and concluding that entrepreneurship contributes to the development of countries.
+Although there are several studies on entrepreneurship and innovation, models that assess the effect on human development are still rare.
+Hence, the contribution of this study to the academy, in the sense that it can generate future regionalized studies with more information, which confirm or reject the hypotheses in a lower level of aggregation.
+Human development.e-ISSN: 2446-6875 p-ISSN: 1807-5436 Gestão e Desenvolvimento | Novo Hamburgo | v. 19 | n. 1 | jan./jun.
+2022156 1 INTRODUÇÃO O empreendedorismo tem tido um papel relevante nas grandes transformações, particularmente, a partir do século XX, influenciando o acelerado desenvolvimento tecnológico e a globalização.
+Recentemente, os efeitos advindos da liberação dos mercados, marcados principalmente pela transição dos países excomunistas para o capitalismo, maximizaram as habilidades e as capacidades empreendedoras frente às novas oportunidades de negócios identificadas diante do cenário de mudança (BARON; ENSLEY, 2006; LIÑÁN; SANTOS, 2007).
+Nesse sentido, a exploração de oportunidades empresariais tem um impacto positivo no crescimento econômico.
+Apesar de Mueller (2007) destacar que um aumento na atividade de empresas inovadoras é mais eficaz do que um aumento no empreendedorismo geral, o fato é que a inovação reflete, fundamentalmente, o resultado da ação empreendedora (SCHUMPETER, 1982).
+Assim, no ecossistema de inovação, os países precisam de empreendedores que valorizem as oportunidades de negócios, tenham as habilidades necessárias e queiram explorar as novas oportunidades (REIS; MOURA; ARAGÃO, 2020).
+Ademais, o impacto da inovação é importante entre países e contextos institucionais, nesse sentido, as inovações dos empreendedores locais podem desempenhar papel importante no crescimento da economia global (NAUDÉ; SZIRMAI; GOEDHUYS, 2011).
+Nesse sentido, a capacidade inovadora nacional é definida como o potencial de uma economia para produzir um fluxo de inovações comercialmente relevantes (FURMAN; PORTER; STERN, 2002) que, em última análise, proporcionem a alavancagem do bem-estar da população dessa economia.
+Evidências crescentes mostram que o empreendedorismo concretiza as inovações e contribui para o crescimento econômico, aumentando a prosperidade nas sociedades por meio da produção de mais mercadorias e serviços e cria ção de novas oportunidades de emprego (DEBUS; TOSUN; MAXEINER, 2017; SABERI; HAMDAN, 2019).
+Um âmbito global, pesquisas confirmam a relação entre inovação, empreendedorismo e competitividade (HERMAN, 2018), a relação entre empreendedorismo e desenvolvimento (DVOULETÝ; GORDIEVSKAYA; PROCHÁZKA, 2018; MANIYALATH; NARENDRAN, 2016; MEYER; JONGH, 2018; SABERI; HAMDAN, 2019) e a relação entre governaça e desenvolvimento humano (AGUIAR FILHO et al.
+Embora estas pesquisas apresentem resultados consistentes, são poucos os trabalhos existentes que avaliam as relações entre os três constructos: empreendedorismo, inovação e desenvolvimento.
+Encontrada a lacuna da pesquisa e para avançar na compreensão dessa relação se formula a seguinte questão de pesquisa: existe uma relação positiva entre empreendedorismo, inovação e desenvolvimento humano em nível global?
+A partir dessa questão, o objetivo geral deste artigo é avaliar a relação entre empreendedorismo, inovação e desenvolvimento humano sob perspectivas entre as nações.
+A principal e-ISSN: 2446-6875 p-ISSN: 1807-5436 Gestão e Desenvolvimento | Novo Hamburgo | v. 19 | n. 1 | jan./jun.
+2022157 hipótese é que existe uma relação positiva entre esses constructos, com o empreendedorismo e as inovações contribuindo, positivamente, para o aumento do índice de desenvolvimento humano (IDH) das nações.
+Para teste dessa hipótese, a pesquisa utilizou os dados disponibilizados por instituições como Banco Mundial, ONU, Fórum Econômico, entre outros, que depois de tabulados, foram analisados pelo uso de modelagem de equações estruturais (MEE) com estimação por mínimos quadrados parciais (PLSSEM).
+Além dessa introdução, este artigo contempla as seguintes seções após a introdução.
+A seção dois se desenvolveu uma revisão da literatura sobre os conceitos utilizados nesta pesquisa.
+A terceira seção foi desenvolvida a metodologia do estudo, na qual se pretendeu integrar a revisão teórica e o plano de hipóteses, descrevendo-se a tipologia da pesquisa, a amostra e o processo da coleta foram utilizados neste estudo, bem como foram apresentadas as variáveis que representam cada construto.
+Na seção 5 são analisados os dados com uso de técnicas de análise de equações estruturais e discutidos os resulatos à luz da litaretura apresentada, e a sexta seção tem-se a conclusão dos estudos com as limitações e propostas de trabalhos futuros.
+2 FUNDAMENTAÇÃO TEÓRICA Nesta seção tem-se o desenvovimento da revisão da literatura sobre os conceitos utilizados nesta pesquisa.
+2.1 EMPREENDEDORISMO O estudo do empreendedorismo envolve os empreendedores, suas atividades e, em destaque, o descobrimento e a exploração de oportunidades.
+Em síntese, resume-se o empreendedorismo ao estudo de como, por quem e quais os efeitos da criação de bens e serviços por meio da descoberta, avaliação e exploração de oportunidades (FILION, 1999; SHANE; VENKATARAMAN, 2000).
+Nesse sentido, as oportunidades são identificadas, avaliadas e exploradas por indivíduos que possuem características peculiares, provenientes das habilidades e experiências individuais sendo esses aspectos denominados de capacidade empreendedora.
+Tal competência de empreender provoca a possibilidade de indivíduos analisarem o potencial econômico latente e, por meio de novos conhecimentos, transformar esse potencial em valor econômico realizável para o mercado demandante (HINDLE; KEVIN, 2007).
+Para Schumpeter (1968), quanto maior o número de pessoas que já fundaram com sucesso novos negócios, menos difícil se torna atuar como empreendedor.
+Ademais, e xistem oportunidades empreendedoras e os e-ISSN: 2446-6875 p-ISSN: 1807-5436 Gestão e Desenvolvimento | Novo Hamburgo | v. 19 | n. 1 | jan./jun.
+2022158 indivíduos precisam apenas reconhecê-las.
+Se eles tiverem força de vontade e decidirem explorar uma oportunidade existente, isso levará ao crescimento econômico (MUELLER, 2007).
+Conquanto, oportunidades, habilidades e intenções estão intimamente ligadas, pois, sem oportunidade, a aspiração não pode ser aplicada; sem a aspiração alavancada pela visão empreendedora, as oportunidades não serão traduzidas em crescimento dos negócios e, sem a habilidade, é improvável que a aspiração e a oportunidade empreendedora sejam realizadas (MORRISON; BREEN; ALI, 2003).
+Esses construtos, atitude, habilidades e aspiração empreendedora são adotados pelo Global Entrepreneurship Index 2018 na mensuração de empreendedorismo, no qual se define empreendedorismo como: "a interação dinâmica incorporada institucionalmente entre atitudes empreendedoras, habilidades empreendedoras e aspirações empreendedoras dos indivíduos, o que impulsiona a alocação de recursos através da criação e operação de novos empreendimentos" ( ACS; SZERB; AUTIO, 2017, p. 16) .
+A atitude empreendedora se refere à disposição geral da população adulta para atividades empreendedoras e o desenvolvimento de novos negócios; a habilidade empreendedora mede a característica da atividade empresarial em estágio inicial; e, a intenção empreendedora mede os esforços da atividade empresarial em introduzir novos produtos / serviços, desenvolver novos processos, fazer entrada no mercado externo, aumentar o número de colaboradores e obter acesso ao capital de risco (INACIO JUNIOR et al.
+No Global Entrepreneurship Index 2018 , a atitude empreendedora está relacionada à capacidade de reconhecer uma oportunidade de negócios, para isso a educação, o treinamento, a capacidade de interação e a propensão ao risco são habilidades para iniciar um novo empreendimento.
+A atitude empreendedora está dividida nas variáveis: i) percepção da oportunidade; ii) habilidades para começar um negócio; iii) aceitação do risco; iv) trabalho em rede; e v) apoio cultural (ACS; SZERB; AUTIO, 2017).
+A intenção empreendedora é a convicção autorreconhecida por uma pessoa de que ela pretende criar um novo negócio e planeje conscientemente fazê-lo, em algum momento no futuro, que pode ser no futuro iminente ou indeterminado ou nunca alcançado (THOMPSON, 2009).
+Já a aspiração empreendedora (AE) se refere à natureza distinta, qualitativa e orientada para a estratégia da atividade inicial.
+Os negócios empreendedores são diferentes dos negócios administrados regularmente, por isso é particularmente importante ser capaz de identificar as variáveis institucionais mais relevantes e outras variáveis de interação relacionadas à qualidade (SZERB; TRUMBULL, 2018).
+Refere-se à natureza distinta, qualitativa e relacionada à estratégia da atividade empreendedora (SZERB; ACS, 2011).
+O Global Entrepreneurship Index 2018 se utiliza de cinco variáveis para representar o constructo da aspiração empreendedora, sendo: i) inovação de produtos; ii) inovação de processos; iii) estratégia de negócio e crescimento; iv) internacionalização; e v) mercado de capitais e investimento ( ACS; SZERB; AUTIO, 2017).e-ISSN: 2446-6875 p-ISSN: 1807-5436 Gestão e Desenvolvimento | Novo Hamburgo | v. 19 | n. 1 | jan./jun.
+2022159 As habilidades empreendedoras são importantes para o sucesso da inovação, além de contribuir para o aumento da produtividade, sendo o capital humano o que possui habilidades cognitivas necessárias para absorver novos conhecimentos e desenvolver novas tecnologias (ACEMOGLU; AGHION; ZILIBOTTI, 2006).
+As habilidades empreendedoras (HE) estão preocupadas, principalmente, em medir algumas características importantes do empreendedor e do startup com alto potencial de crescimento (SZERB; TRUMBULL, 2018).
+Assim, as empresas que investem em inovação também têm maior propensão e intensidade de investimento no treinamento da força de trabalho do que as empresas, que não inovam (TONER, 2011).
+Por conseguinte, as habilidades estão divididas nas variáveis: i) inicialização da oportunidade (liberdade econômica e motivação da oportunidade); ii) absorção de tecnologias; iii) capital humano (treinamento e nível educacional); e iv) domínio de mercado e concorrentes (ACS; SZERB; AUTIO, 2017).
+Por outro lado, o modelo considera o empreendedorismo a partir de ecossistemas nacionais, definidos com o a interação dinâmica e, institucionalmente incorporada entre atitudes, habilidades e aspirações empreendedoras dos indivíduos, que impulsiona a alocação de recursos através da criação e operação de novos empreendimentos ( ACS; AUTIO; SZERB, 2014 ).
+O ecossistema empreendedor é definido por um conjunto de atores e fatores interdependentes coordenados de forma a possibilitar o empreendedorismo produtivo (STAM, 2015).
+Portanto, a atividade empreendedora é considerada como um processo pelo qual os indivíduos criam oportunidades de inovação, que acabará por levar para um novo valor na sociedade e, portanto, este é o resultado final de um ecossistema empreendedor (FURMAN; PORTER; STERN, 2002; STAM, 2015; STAM; SPIGEL, 2016).
+Em suma, as atitudes empreendedoras caracterizam a forma como um país pensa o empreendedorismo.
+Habilidades empreendedoras são iniciativas empreendedoras motivadas por novas oportunidades.
+As aspirações empreendedoras são os esforços dos empreendedores, em estágio inicial, para introduzir inovações e expandir seus negócios, ou seja, o potencial das empresas para alcançar um crescimento rápido e alta produtividade (REIS; MOURA; ARAGÃO, 2020).
+E o Índice Global de Empreendedorismo (GEI) tem sido o instrumento utilizado para examinar e avaliar o desempenho geral do empreendedorismo e o nível de empreendedorismo do país (ecossistema) (LUBBADEH, 2019).
+2.2 CAPACIDADE DE INOVAÇÃO A capacidade de inovação possui papel importante e decisivo na indicação de qual nação prospera, em âmbito global, ademais, permite aos países alcançarem metas nacionais combinando produtividade e-ISSN: 2446-6875 p-ISSN: 1807-5436 Gestão e Desenvolvimento | Novo Hamburgo | v. 19 | n. 1 | jan./jun.
+2022160 com investimentos, mantendo o crescimento e progresso nos padrões de vida da população (NATÁRIO et al.
+A capacidade de inovação depende de um conjunto inter-relacionado de investimentos, políticas e compromissos de recursos que sustentam a produção de novas tecnologias para o Mundo, nesse sentido, a capacidade inovadora nacional não é o nível realizado de produção inovadora em um único momento, mas reflete os determinantes mais fundamentais do processo de inovação (FURMAN; PORTER; STERN, 2002).
+O Global Competitiveness Report 2018, que mede a competitividade nacional - definida como o conjunto de instituições, políticas e fatores que determinam o nível de produtividade -, elenca um conjunto de variáveis para representar o constructo capacidade de inovação.
+Por esse se avalia a quantidade e a qualidade da pesquisa e desenvolvimento formal ou até que ponto o ambiente de um país incentiva a colaboração, a conectividade, a criatividade, a diversidade e o confronto por meio de diferentes visões e ângulos; e a capacidade de transformar ideias em novos bens e serviços (SCHWAB, 2019).
+Como determinantes da capacidade inovativa, Furman, Porter e Stern (2002) apontam a concorrência, pessoal qualificado, clientes sofisticados e exigentes, forte infraestrutura de pesquisas nas Universidades, presença de clusters, entre outros.
+Assim, o Global Competitiveness Report 2019 se utiliza das variáveis: i) diversidade da força de trabalho, clusters, co-invenções internacionais e colaboração de stakeholders ; ii) publicações científicas, pedidos de patentes, gasto com P & D e proeminência de instituições de pesquisa; iii) sofisticação do comprador e pedidos de marcas registradsa (SCHWAB, 2018).
+2.3 INOVAÇÃO Empreendedorismo e inovação são conceitos intimamente relacionados, considerando que os empreendedores interferem no equilíbrio do mercado ao identificar e explorar novos produtos, processos ou serviços, que atendem melhor às necessidades dos clientes e contribuem para elevar a efetividade (produtividade e qualidade) das empresas e economias.
+Por sua vez, as capacidades de inovação são condições básicas para que se introduzam inovações, ou seja o desenvolvimento ou aperfeiçoamento de novos produtos e processos de produção, que cumpram o papel de elevar a capacidade das economias de se tornarem competitivas, particularmente, em setores de alta produtividade (HERMAN, 2018).
+Inovação significa que uma organização está disposta a buscar novas ideias e conceitos no desenvolvimento de processos, produtos ou serviços (HUANG; WANG, 2011).
+Começa com a geração de ideias, algumas das quais levam à invenções, e apenas algumas dessas são comercializadas.
+Assim, u ma inovação de produto é a introdução de um bem ou serviço novo ou significativamente aprimorado em relação às suas características ou usos pretendidos.
+Isso inclui melhorias significativas nas especificações técnicas, componentes e materiais, software incorporado, facilidade de uso ou outras características e-ISSN: 2446-6875 p-ISSN: 1807-5436 Gestão e Desenvolvimento | Novo Hamburgo | v. 19 | n. 1 | jan./jun.
+As inovações de produto podem utilizar novos conhecimentos ou tecnologias, ou podem ser baseadas em novos usos ou combinações de conhecimentos ou tecnologias existentes (TONER, 2011).
+As inovações aumentam a produtividade econômica apenas se alcançarem os mercados desejados e alcançarem resultados comerciais esperados (SCHWAB, 2018).
+Entretanto, a inovação, por si só, não é suficiente para o sucesso dos negócios, pois precisa ser combinada com uma abordagem empreendedora para reconhecer oportunidades, que podem ser exploradas por meio da inovação para fornecer um resultado financeiro bem-sucedido ( BALAN; LINDSAY, 2010).
+O Índice Global de Inovação ou Global Innovation Index 2019 é formado por 80 indicadores divididos nos constructos constantes no Quadro 1.
+Quadro 1– Índice Global de Inovação Variáveis Composição Instituição Ambiente político, ambiente regulatório e ambiente de negócios.
+Pesquisa e capital humano Educação, Ensino Superior e Pesquisa e Desenvolvimento (P&D).
+Infraestrutura Tecnologias da informação e comunicação (TICs), infraestrutura geral e sustentabilidade ecológica.
+Sofisticação do mercado Investimentos, créditos, concorrência, mercado.
+Sofisticação dos negócios Conhecimento, vínculos de inovação e absorção de conhecimento.
+Saídas de conhecimento e tecnologias Criação, difusão e impacto do conhecimento.
+Saídas de criatividade Ativos intangíveis, bens e serviços criativos e criatividade virtual.
+Fonte: Dutta, Lanvin e Wunsch-Vincent (2019).
+O desempenho inovador tem sido medido de várias maneiras: usando patentes, marcas registradas, insumos de P&D e outros indicadores secundários, como publicações ou citações.
+Na atualidade, o principal foco das pesquisas sobre inovação está nas inovações tecnológicas resultantes de novos produtos ou nova forma de produção (NAUDÉ; SZIRMAI; GOEDHUYS, 2011).
+Dentro de economias impulsionadas pela inovação, empreendedores inovadores podem ter um impacto na criação de novos empregos, bem como no crescimento econômico e na riqueza da nação (IAKOVLEVA; KOLVEREID; STEPHAN, 2011).
+Ademais, entre outras coisas, o índice de inovação oferece percepções importantes sobre o potencial da nação para sustentar o crescimento da produtividade e a competitividade em longo prazo (WONGLIMPIYARAT, 2010).e-ISSN: 2446-6875 p-ISSN: 1807-5436 Gestão e Desenvolvimento | Novo Hamburgo | v. 19 | n. 1 | jan./jun.
+2022162 2.4 ÍNDICE DE DESENVOLVIMENTO HUMANO O Índice de Desenvolvimento Humano (IDH) é uma estatística composta de expectativa de vida, de educação e de indicadores de renda per capita, usados para classificar os países em quatro níveis de desenvolvimento humano (SHAH, 2016).
+O IDH é potencialmente um instrumento poderoso para o desenvolvimento social mundial (LIND, 1992), sendo medido pela expectativa de vida ao nascer, pela escolaridade e pela renda nacional bruta per capita (CONCEIÇÃO, 2019).
+Nesse sentido, uma nação pode melhorar as capacidades de seus cidadãos promovendo educação, saúde, nutrição e habilidades de emprego, o que, por sua vez, pode levar ao aumento do emprego e ao desenvolvimento humano geral (MANIYALATH; NARENDRAN, 2016).
+Essencialmente, o Índice de Desenvolvimento Humano utiliza quatro parâmetros para medir e classificar os países de acordo com seu desenvolvimento social e econômico, que inclui a expectativa de vida ao nascer, a expectativa de escolaridade, a média de anos de estudo e a renda nacional bruta per capita (SHAH, 2016).
+O sucesso do desenvolvimento, especialmente, o desenvolvimento humano, pode ser parcialmente avaliado, vendo o quanto os problemas mais fundamentais da comunidade podem ser superados.
+Esses problemas incluem pobreza, desemprego, analfabetismo, segurança alimentar e aplicação da democracia.
+No entanto, o problema é que as conquistas do desenvolvimento humano são parcialmente variadas em que certos aspectos do desenvolvimento são bem-sucedidos e alguns outros fracassam, e então surge a questão de como avaliar o sucesso do desenvolvimento humano como um todo (PURBA, 2019).
+2.5 MODELO CONCEITUAL E HIPÓTESES Estudos indicam que, à medida que os empreendedores investem em novas inovações, essas inovações aumentam o alcance e a riqueza dos produtos e serviços existentes e, em alguns casos, reduzem as barreiras de entrada.
+Isso leva a mais novos empreendedores entrando no mercado e, consequentemente, aumenta o desenvolvimento econômico (PRADHAN et al ., 2020).
+Com o objetivo de analisar a relação entre as atitudes, as habilidades e as aspirações empreendedoras na América Latina, Reis, Moura e Aragão (2020) identificaram uma relação positiva entre habilidades e aspiração empreendedora e habilidades e atitude empreendedora.
+Assim, têm-se as seguintes hipóteses: H1 – A habilidade empreendedora influencia positivamente a atitude empreendedora.
+H2 – A habilidade empreendedora influencia positivamente a aspiração empreendedora.
+Fauzi e Soehari (2020) identificaram que a inovação contribui para o sucesso do empreendedorismo, conforme pesquisa que contou com 74 respondentes de uma indústria de vestuário.
+Para Zhao (2005), e-ISSN: 2446-6875 p-ISSN: 1807-5436 Gestão e Desenvolvimento | Novo Hamburgo | v. 19 | n. 1 | jan./jun.
+2022163 o empreendedorismo e inovação são complementares, e uma combinação dos dois é vital para o sucesso organizacional e sustentabilidade no ambiente dinâmico e em mudança de hoje.
+Assim, tanto o empreendedorismo quanto as capacidades de inovação são importantes para as pequenas e médias empresas no que diz respeito ao desempenho de qualidade (NDUBISI; IFTIKHAR, 2012).
+Nesse sentido são formuladas as seguintes hipóteses: H3 – A atitude empreendedora influencia positivamente a capacidade de inovação.
+H4 – A aspiração empreendedora influencia positivamente a capacidade de inovação.
+H5 – A capacidade de inovação influencia positivamente o índice inovação.
+O desenvolvimento econômico de uma economia é influenciado pelo grau de inovação, pela alocação de recursos para atividades de pesquisa e desenvolvimento, pela qualidade do capital humano e pelo estoque de investimentos estrangeiros diretos (PECE; SIMONA; SALISTEANU, 2015).
+Portanto, apresenta-se a seguinte hipótese: H6 – O índice de inovação influencia positivamente o índice de desenvolvimento humano.
+Ilustrativamente, os elementos e relacionamentos que integram o modelo proposto neste artigo são apresentados na Figura 1.
+Figura 1 – Modelo proposto com as hipóteses Fonte: Os autores (2020) É válido ressaltar que, embora exista uma lógica que a capacidade de inovação se relaciona com a inovação, neste trabalho , os dados são de fontes diferentes, cada qual com as variáveis características da pesquisa original.
+3 MÉTODOS Trata-se de estudo transversal relativo ao ano de 2018, casual-exploratório com a finalidade de explicar as relações entre as variáveis.
+Com uso da técnica quantitativa pela utilização de estatística e uso de dados secundários extraídos de pesquisas de nível global (COOPER; SCHINDLER, 2016).e-ISSN: 2446-6875 p-ISSN: 1807-5436 Gestão e Desenvolvimento | Novo Hamburgo | v. 19 | n. 1 | jan./jun.
+2022164 A presente pesquisa avalia as relações entre empreendedorismo, inovação e desenvolvimento humano, que se utilizou de dados disponibilizados pelas pesquisas Global Entrepreneurship Index 2018 que coleta dados sobre as atitudes empresariais, habilidades e aspirações da população local; Global Innovation Index 2019 que classifica os países e economias do Mundo por meio de medidas, de ambientes e de resultados inovadores; o pilar 12 do Global Competitiveness Report 2019 avalia a capacidade de inovação dos países e Human Development Report 2018 que reflete uma medida resumida do desempenho médio nas principais dimensões do desenvolvimento humano: uma vida longa e saudável, ter conhecimento e um padrão de vida decente.
+Foram selecionados dados referentes à cada constructo, comparando com os demais, com finalidade de verificar a participação dos países.
+Foram excluídas as nações que estavam ausentes em qualquer uma das pesquisas, restando ao final 118 países.
+Os dados foram organizados em tabelas do Excel da Microsoft ® e transportados para o programa SmartPLS para tratamento dos dados e formação do modelo que representasse os constructos.
+O Quadro 2 demonstra os constructos e as variáveis que foram utilizadas neste estudo.e-ISSN: 2446-6875 p-ISSN: 1807-5436 Gestão e Desenvolvimento | Novo Hamburgo | v. 19 | n. 1 | jan./jun.
+2022165 Quadro 2 – Constructos e indicadores Constructo Variável Descrição Atitude empreendedoraAE01 Percepção da oportunidade AE02 Habilidades iniciais AE03 Aceitação de risco AE04 Trabalho em rede AE05 Apoio cultural Habilidades empreendedorasHE01 Inicialização da oportunidade HE02 Absorção de tecnologia HE03 Capital humano HE04 Concorrência Aspiração empreendedoraAS01 Inovação de produtos AS02 Inovação de processos AS03 Alto crescimento AS04 Internacionalização AS05 Capital de risco Capacidade de inovaçãoCI01 Interação e diversidade CI02 Pesquisa e desenvolvimento CI03 Comercialização Índice Global de InovaçãoII01 Instituição II02 Pesquisa e capital humano II03 Infraestrutura II04 Sofisticação do mercado II05 Sofisticação dos negócios II06 Saídas de conhecimento e tecnologias II07 Saídas de criatividade Índice de Desenvolvimento HumanoIH01 Índice de educação IH02 Expectativa de vida IH03 Índice GNI per capita Fonte: dados da pesquisa (2020).e-ISSN: 2446-6875 p-ISSN: 1807-5436 Gestão e Desenvolvimento | Novo Hamburgo | v. 19 | n. 1 | jan./jun.
+2022166 Utilizou-se da modelagem de equações estruturais (MEE) com estimação por mínimos quadrados parciais (PLS-SEM) para a avaliação de relações entre constructos, tendo em vista sua robustez em ausência de normalidade multivariada (BIDO; SILVA, 2019).
+PLS-SEM é a abordagem preferida quando os constructos formativos são incluídos no modelo estrutural e são avaliados com base no seguinte: validade convergente, colinearidade do indicador, significância estatística e relevância dos pesos dos indicadores (HAIR JUNIOR et al ., 2014; HAIR JUNIOR et al ., 2019).
+4 ANÁLISE E DISCUSSÃO DOS RESULTADOS Nesta seção são apresentados os resultados das análises e demonstradas suas relações com o referencial teórico.
+4.1 MODELAGEM DA EQUAÇÃO ESTRUTURADA Para verificar o modelo teórico a ser testado, utilizou-se da modelagem de equações estruturais com o uso da técnica Partial Least Square (PLS), por meio do software SmartPLS 3.2.9.
+O método PLSSEM é muito atraente para muitos pesquisadores, pois permite estimar modelos complexos com muitos constructos, variáveis indicadoras e caminhos estruturais sem impor suposições de distribuição sobre os dados (HAIR JUNIOR et al ., 2019).
+Para uso do PLS é necessário calcular o menor tamanho da amostra, que se deve usar e para efetuar esse cálculo se utilizou do aplicativo G*Power, que a partir das definições de probabilidade de erro em 5%, e f² de 0,15, resultou no valor de 77 casos como amostra mínima.
+Como a amostra selecionada conta com 118 casos se tem um poder de teste de 0,80, conforme recomendado por Hair et al.
+Inicialmente, foi avaliado o modelo externo ou modelo de mensuração, que reporta as relações entre os constructos e as variáveis indicadoras.
+Os indicadores refletivos estão ligados a um constructo, por meio de cargas, que são as correlações bivariadas entre o indicador e o constructo, assim, ao avaliar modelos externos reflexivos, os pesquisadores devem verificar a confiabilidade e a validade.
+No primeiro momento foi excluída a variável AE02 por apresentar correlação com outros constructos maiores que a intra-correlação (HAIR JUNIOR et al ., 2017; HAIR JUNIOR et al ., 2019).
+Refeitos os cálculos, o modelo apresentou os seguintes ajustamentos, conforme demonstrado na Tabela 1.
+O SRMR é definido como a diferença entre a correlação observada e a matriz de correlação implícita do modelo.
+Assim, permite avaliar a magnitude média das discrepâncias entre as correlações observadas e esperadas como uma medida absoluta do critério de ajuste.
+Um valor inferior a 0,10 é considerado um bom ajuste (HAIR JUNIOR et al ., 2017; HAIR JUNIOR et al ., 2019).
+O RMS_theta avalia o e-ISSN: 2446-6875 p-ISSN: 1807-5436 Gestão e Desenvolvimento | Novo Hamburgo | v. 19 | n. 1 | jan./jun.
+2022167 grau ao qual os resíduos do modelo externo se correlacionam.
+A medida deve ser próxima de zero para indicar um bom ajuste do modelo, pois isso implicaria que as correlações entre os resíduos externos do modelo são muito pequenas (perto de zero) (HAIR JUNIOR et al ., 2017; HAIR JUNIOR et al ., 2019).
+O NFI representa uma medida de ajuste incremental, que resulta em valores entre 0 e 1.
+Quanto mais próximo o NFI de 1, melhor o ajuste.
+Para os critérios de ajuste exato (ou seja, d_ULS), se faz compara ção entre seu valor original com o intervalo de confiança criado a partir da distribuição de amostragem (HAIR JUNIOR et al ., 2017; HAIR JUNIOR et al ., 2019).
+No geral, o modelo proposto apresenta um bom ajustamento.
+Tabela 1 – Ajustamento do modelo Índice Valor Estimado Valor Esperado SRMR 0,08 0,08 RMS Theta 0,176 Próximo de 0 NFI 0,73 Próximo de 1 d_ULS 3,23 Entre 2,77 e 3,52 Fonte: dados da pesquisa (2020).
+Os valores apresentados na Tabela 2 demonstram que o alfa de Cronbach e a confiabilidade composta apresentaram valores maiores que 0,7.
+Valores mais altos, geralmente, indicam níveis mais altos de confiabilidade.
+Por exemplo, valores de confiabilidade entre 0,60 e 0,70 são considerados "aceitáveis em pesquisas exploratórias" , valores entre 0,70 e 0,90 variam de "satisfatório a bom" .
+Embora o alfa de Cronbach possa ser muito conservador, a confiabilidade composta pode ser muito liberal e a verdadeira confiabilidade do constructo é, normalmente, vista como estando dentro desses dois valores extremos (HAIR et al ., 2019).
+A validade convergente é a extensão em que o constructo converge para explicar a variância de seus itens.
+A métrica usada para avaliar a validade convergente de um constructo é a variância média extraída (AVE) para todos os itens em cada construto.
+Para calcular o AVE, é necessário elevar ao quadrado o carregamento de cada indicador em uma construção e calcular o valor médio.
+Um AVE aceitável é 0,50 ou superior, indicando que o constructo explica pelo menos 50 por cento da variância de seus itens (HAIR et al., 2019), assim, o modelo apresenta validade convergente.e-ISSN: 2446-6875 p-ISSN: 1807-5436 Gestão e Desenvolvimento | Novo Hamburgo | v. 19 | n. 1 | jan./jun.
+2022168 Tabela 2 – Fiabilidade e Validez do Constructo Construto Alfa de CronbachConfiabilidade Composta (CC)Variância Média Extraída (AVE) Atitude (AE) 0,849 0,898 0,688 Aspiração (AS) 0,878 0,912 0,675 Capacidade de Inovação (CI) 0,871 0,921 0,795 Habilidades Empreendedora (HE) 0,850 0,900 0,693 Indice Desenvolvimento Humando (IH) 0,915 0,940 0,796 Inovação (II) 0,944 0,955 0,751 Fonte: dados da pesquisa (2020).
+A validade discriminante representa a extensão em que o construto é empiricamente distinto de outros construtos ou, em outras palavras, o construto mede o que se destina a medir (HAIR JUNIOR et al ., 2014).
+Para verificar a validade discriminante foram examinados os carregamentos cruzados dos indicadores.
+Este método requer que os carregamentos de cada indicador, em seu constructo, sejam maiores do que os carregamentos cruzados em outros constructos (HAIR JUNIOR et al.
+, 2014) Conforme demonstrado na Tabela 3, os valores em negrito são superiores aos demais valores das variáveis, indicando validade discriminante do modelo.e-ISSN: 2446-6875 p-ISSN: 1807-5436 Gestão e Desenvolvimento | Novo Hamburgo | v. 19 | n. 1 | jan./jun.
+2022169 Tabela 3 – Validez discriminante – cargas cruzadas Variável AE AS CI HE IH II AE01 0,807 0,533 0,514 0,575 0,452 0,488 AE03 0,873 0,730 0,791 0,802 0,741 0,777 AE04 0,774 0,590 0,663 0,591 0,648 0,609 AE05 0,859 0,693 0,635 0,728 0,600 0,684 CI01 0,682 0,708 0,863 0,712 0,656 0,721 CI02 0,701 0,751 0,892 0,764 0,723 0,854 CI03 0,748 0,794 0,918 0,795 0,845 0,877 HE01 0,846 0,804 0,799 0,927 0,778 0,819 HE02 0,726 0,809 0,797 0,868 0,796 0,849 HE03 0,599 0,743 0,616 0,811 0,703 0,699 HE04 0,534 0,590 0,594 0,709 0,496 0,566 AS01 0,534 0,711 0,560 0,555 0,488 0,542 AS02 0,651 0,839 0,834 0,773 0,685 0,822 AS03 0,635 0,817 0,582 0,735 0,621 0,655 AS04 0,665 0,852 0,703 0,771 0,749 0,749 IE05 0,693 0,878 0,746 0,796 0,757 0,753 IH01 0,635 0,721 0,748 0,724 0,892 0,790 IH02 0,642 0,664 0,716 0,707 0,906 0,782 IH03 0,577 0,683 0,706 0,733 0,893 0,789 IH04 0,810 0,826 0,807 0,843 0,878 0,830 II01 0,785 0,788 0,843 0,882 0,823 0,914 II02 0,734 0,802 0,861 0,819 0,866 0,910 II03 0,765 0,825 0,862 0,831 0,909 0,916 II04 0,568 0,627 0,684 0,679 0,677 0,788 II05 0,587 0,677 0,662 0,674 0,604 0,764 II06 0,568 0,724 0,762 0,695 0,684 0,849 II07 0,717 0,794 0,873 0,794 0,808 0,911 Fonte: dados da pesquisa (2020).e-ISSN: 2446-6875 p-ISSN: 1807-5436 Gestão e Desenvolvimento | Novo Hamburgo | v. 19 | n. 1 | jan./jun.
+2022170 Os valores dos indicadores de qualidade de ajuste do modelo são: o coeficiente de determinação de Pearson (R2), que representa o efeito combinado da variável exógena nas variáveis endógenas, 0,75, 0,50, 0,25, respectivamente, descrevendo níveis substanciais, moderados ou fracos de precisão preditiva (HENSELER; RINGLE; SINKOVICS, 2009).
+O coeficiente de relevância ou validade preditiva Q2 representa um meio para avaliar o modelo de interiores com relevância preditiva, Q² com valores superiores a 0, 0,25 e 0,50 representam a precisão preditiva pequena, média e grande do modelo de caminho PLS (HAIR JUNIOR et al.
+Tabela 4 – Indicadores de qualidade do modelo Construto R² Q² Atitude Empreendedora 0,680 0,453 Aspiração Empreendedora 0,794 0,529 Capacidade de Inovação 0,763 0,592 Índice de Desenvolvimento Humano 0,800 0,630 Inovação 0,847 0,630 Fonte: dados da pesquisa (2020).
+A Tabela 5 demonstra os efeitos das relações entre os constructos e, verifica-se que todas as hipóteses foram validadas.
+E, o tamanho do efeito (f²), esse é calculado observando a mudança em R² quando um constructo específico é eliminado do modelo.
+Com base no valor f2, o tamanho do efeito do constructo omitido para um constructo endógeno particular pode ser determinado de modo que 0,02, 0,15 e 0,35 representem efeitos pequenos, médios e grandes, respectivamente (COHEN, 1988).
+Conforme demonstrado na Tabela 4, os constructos apresentam valores preditivos elevados.
+Tabela 5 – Validação das hipóteses Relação Hipótese Coeficiente Erro Padrão Valor de t f² Valor de p Suportada HE -> AE H1 0,825 0,021 30,068 0,475 0,000 SIM HE -> AS H2 0,891 0,017 43,940 0,511 0,000 SIM AE -> CI H3 0,358 0,072 4,966 0,553 0,000 SIM AS -> CI H4 0,566 0,069 8,219 0,493 0,000 SIM CI -> II H5 0,920 0,012 80,236 0,640 0,000 SIM II -> IH H6 0,894 0,017 53,525 0,670 0,000 SIM Nota: Valores-p estimados por bootstrapping com 5000 repetições, nível de significância < 0,001 Fonte: dados da pesquisa (2020).e-ISSN: 2446-6875 p-ISSN: 1807-5436 Gestão e Desenvolvimento | Novo Hamburgo | v. 19 | n. 1 | jan./jun.
+2022171 Conforme a Tabela 5, a primeira hipótese que previa a relação entre habilidades empreendedoras e atitude empreendedora foi validada, assim como a segunda hipótese que previa a relação entre habilidades empreendedoras e aspiração empreendedora.
+Resultados semelhantes foram encontrados no trabalho de Reis, Moura e Aragão (2020), no qual os autores comprovaram a correlação entre habilidades empreendedoras e atitudes empreendedoras (R = 0,67; p < 0,05) e entre habilidades empreendedoras e aspiração empreendedora (R = 0,75; p < 0,05).
+Com relação à hipótese H3, essa foi confirmada expondo a relação entre atitude empreendedora e capacidade de inovação ( β = 0,358, p < 0,001) e a H4 foi validada no enfoque da relação entre aspiração empreendedora e capacidade de inovação ( β = 0,566, p < 0,001), resultado semelhante ao encontrado por Galindo e Méndez-Picazo (2013) ao confirmarem que o empreendedorismo tem um efeito positivo nas inovações.
+A hipótese (H5) que preconiza a relação entre a capacidade de inovação e a inovação (representada pelo índice global de inovação 2019) foi validada ( β = 0,920, p < 0,001).
+Por fim, a relação entre a inovação e o desenvolvimento humano (H6) foi validada ( β = 0,894, p < 0,001), sugerindo que a inovação impacta no desenvolvimento econômico da nação (PECE; SIMONA; SALISTEANU, 2015).
+Entretanto, apesar da inovação ser um dos principais motores do desenvolvimento da ciência e tecnologia das nações, os riscos são elevados e o retorno incerto sobre as taxas de investimentos, principalmente relacionadas a produtos de alta tecnologia (RODRIGUES et al , 2021).
+À guisa de discussões, a aceitação das hipóteses mostra que a habilidade empreendedora é uma característica comportamental que precisa estar presente ou ser desenvolvida pelo empreendedor.
+Confirma, também, pela influência indireta da habilidade empreendedora e pelas diretas de atitude empreendedora e de aspiração empreendedora, sobre a capacidade de inovação, que o empreendedorismo influencia a capacidade inovativa e esta, sobre o desempenho inovativo e sobre o crescimento econômico.
+Portanto, todas as características empreendedoras analisadas incentivam a capacidade e o desempenho inovativo, também incentivam, indiretamente, o crescimento econômico.
+Neste caso, os resultados mostram que empreendedorismo e inovação apresentam correlação positiva com o crescimento econômico, produzindo um efeito circular, no qual três variáveis se influenciam positivamente.
+Em parte por que, quando os indivíduos mergulham em um processo de inovação, certas capacidades são expandidas, o que pode levar a outros aspectos do desenvolvimento humano e ter um impacto maior nas comunidades e na sociedade.
+Assim, trabalhos anteriores demonstraram que o empreendedorismo é, cada vez mais, considerado não apenas um motor do crescimento econômico, mas também um pré-requisito para o desenvolvimento, e-ISSN: 2446-6875 p-ISSN: 1807-5436 Gestão e Desenvolvimento | Novo Hamburgo | v. 19 | n. 1 | jan./jun.
+2022172 geração de emprego, renda e inclusão social (ARIFOVIć; UMIHANIć; MUJANOVIć, 2012; CĂTĂLIN; SORINGEORGE; RĂZVAN, 2017; GALINDO; MÉNDEZ-PICAZO, 2013).
+5 CONCLUSÃO Este estudo confirma, no geral, a proposição teórica e os estudos empíricos prévios no sentido de que empreendedorismo, medido pelas dimensões habilidade, atitude e aspiração empreendedora, afeta positivamente a capacidade inovativa e, mediada por esta, influencia o desempenho inovativo, o qual afeta positivamente o índice de desenvolvimento humano.
+Pelas influências indireta de habilidade empreendedora e diretas de atitude e aspiração empreendedora, encontradas no estudo, pode-se afirmar que o empreendedorismo é um antecedente importante da capacidade de inovação.
+E que esta influencia diretamente o desempenho inovativo, que constitui o elemento antecedente final do desenvolvimento humano.
+Embora existam muitos estudos sobre empreendedorismo e inovação, os modelos que avaliam o impacto no desenvolvimento humano ainda são raros.
+Daí a contribuição deste estudo para a academia, no sentido de que pode gerar estudos futuros regionalizados e com mais informações, que confirmem ou rejeitem as hipóteses em menor nível de agregação.
+Este estudo também fornece evidências de que as atividades empreendedoras têm impacto direto no potencial de inovação, e mostra que essas implicam em maior desenvolvimento humano, contribuindo assim para a discussão do tema.
+Os resultados requerem a atenção das autoridades públicas e privadas e dependendo das políticas voltadas ao empreendedorismo de cada país, as habilidades empreendedoras podem ser maximizadas para melhoria das atitudes e aspirações no ecossistema do empreendedorismo de cada nação.
+Para isso, é muito importante medir o estado das condições que afetam o empreendedorismo, em cada país, como base para a criação e implementação de melhorias nessas condições de forma a garantir o desenvolvimento do empreendedorismo e da economia como um todo.
+Como limitações do estudo se tem o fato de que os indicadores, em termos de cobertura do país, podem não ser um retrato confiável do fenômeno empreendedor investigado, já que atitudes, habilidades e aspirações empreendedoras são fenômenos multifacetados.
+No caso de resultados controversos algumas investigações mais específicas podem ser necessárias.
+Pesquisas futuras podem aprofundar a análise dos efeitos diretos e indiretos encontrados entre as relações avaliadas neste trabalho e as possíveis diferenças entre nações, mesmo considerando a limitação derivada da ausência de dados referentes a alguns países.e-ISSN: 2446-6875 p-ISSN: 1807-5436 Gestão e Desenvolvimento | Novo Hamburgo | v. 19 | n. 1 | jan./jun.
+2022173 REFERÊNCIAS ACEMOGLU, D.; AGHION, P.; ZILIBOTTI, F. Distance to Frontier, Selection, and Economic Growth.
+Journal of the European Economic Association , v. 4, n. 1, p. 37-74, 2006.
+Doi: http:/ /dx.doi.org/10.1162/ jeea.2006.4.1.37 .
+ACS, Z. J.; AUTIO, E.; SZERB, L. National Systems of Entrepreneurship: measurement issues and policy implications.
+Research Policy , v. 43, n. 3, p. 476-494, 2014.
+Doi: http:/ /dx.doi.org/10.1016/j.respol.2013.08.016 .
+ACS, Z.; SZERB, L.; AUTIO, E. The global entrepreneurship index.
+In: Global Entrepreneurship and Development Index 2016 .
+Springer, Cham, 2017. p. 19-38.
+AGUIAR FILHO, A.; TOMÉ, M. A.; FARIAS, A. de B.; MACHADO JUNIOR, C. M.; RIBEIRO, D. M. N. M. Relação Entre os Indicadores de Governança dos Países e o Índice de Desenvolvimento Humano.
+Revista Gestão e Desenvolvimento , v. 16, n. 1, p. 53, 2019.
+Doi: http:/ /dx.doi.org/10.25112/rgd.v16i1.1511 .
+ARIFOVIć, M.; UMIHANIć, B.; MUJANOVIć, M. Global Entrepreneurship and Development Index (GEDI): complex measure of relation between entrepreneurship and development in South-eastern European countries.
+In: PROCEEDINGS OF INTERNATIONAL CONFERENCE FOR ENTREPRENEURSHIP, INNOVATION AND REGIONAL DEVELOPMENT, 5., 2012, Sofia .
+BALAN, P.; LINDSAY, N. Innovation capability, entrepreneurial orientation and performance in Australian hotels: An empirical study.
+CRC for Sustainable Tourism, 2010.
+BARON, R. A.; ENSLEY, M. D. Opportunity Recognition as the Detection of Meaningful Patterns: evidence from comparisons of novice and experienced entrepreneurs.
+Management Science , v. 52, n. 9, p. 13311344, 2006.
+Doi: http:/ /dx.doi.org/10.1287/mnsc.1060.0538 .
+BIDO, D. S.; SILVA, D. SmartPLS 3: especificação, estimação, avaliação e relato.
+Administração : Ensino e Pesquisa, v. 20, n. 2, p. 488-536, 2019.
+Doi: http:/ /dx.doi.org/10.13058/raep.2019.v20n2.1545 .
+; SORIN-GEORGE, T.; RĂZVAN, P. Entrepreneurship in the World: The Analysis of the Global Entrepreneurship Index in the Period 2015-2017.
+Ovidius University Annals: Economic Sciences Series, n. 2, p. 14-18, 2017.
+CLARYSSE, B.; TARTARI, V.; SALTER, A.
+The impact of entrepreneurial capacity, experience and organizational support on academic entrepreneurship.
+Research Policy , v. 40, n. 8, p. 1084-1093, 2011.
+Doi: http:/ /dx.doi.org/10.1016/j.respol.2011.05.010 .e-ISSN: 2446-6875 p-ISSN: 1807-5436 Gestão e Desenvolvimento | Novo Hamburgo | v. 19 | n. 1 | jan./jun.
+Statistical Power Analysis for the Behavioral Sciences .
+Mahwah, NJ: Lawrence Erlbaum, 1988.
+CONCEIÇÃO, P. Human development report 2019.
+Beyond income, beyond averages, beyond today : Inequalities in human development in the 21st century.
+New York, UNDP, 2019. COOPER, D. R.; SCHINDLER, P. S. Métodos de pesquisa em administração .
+Porto Alegre: AMGH, 695 p., 2016.
+DEBUS, M.; TOSUN, J.; MAXEINER, M. Support for Policies on Entrepreneurship and Self-Employment among Parties and Coalition Governments.
+Politics & Policy , v. 45, n. 3, p. 338-371, 2017.
+Doi: http:/ / dx.doi.org/10.1111/polp.12205 .
+DÍAZ-CASERO, J. C.; HERNÁNDEZ-MOGOLLÓN, R.; ROLDÁN, J. L. A structural model of the antecedents to entrepreneurial capacity.
+International Small Business Journal : Researching Entrepreneurship, v. 30, n. 8, p. 850-872, 2011.
+Doi: http:/ /dx.doi.org/10.1177/0266242610385263 .
+DUTTA, S.; LANVIN, B.; WUNSCH-VINCENT, S. The Global Innovation Index 2019: Creating healthy livesThe future of medical innovation.
+World Intellectual Property Organization (WIPO) .
+DVOULETÝ, O.; GORDIEVSKAYA, A; PROCHÁZKA, D. A.
+Investigating the relationship between entrepreneurship and regional development: case of developing countries.
+Journal of Global Entrepreneurship Research , v. 8, n. 1, p. 1-9, 2018.
+Doi: http:/ /dx.doi.org/10.1186/s40497-018-0103-9 .
+FAUZI, M.; SOEHARI, T. D. The effect of entrepreneurial attitudes, innovation and creativity on business success in the garment industry.
+Dinasti International Journal of Management Science , v. 2, n. 1, p. 125-131, 2020.
+Doi: http:/ /dx.doi.org/10.31933/dijms.v2i1.413 .
+FILION, L. J. Empreendedorismo: empreendedores e proprietários-gerentes de pequenos negócios.
+Revista de Administração , v. 34, n. 2, p. 5-28, 1999.
+FORNELL, C.; LARCKER, D. F. Evaluating Structural Equation Models with Unobservable Variables and Measurement Error.
+Journal of Marketing Research , v. 18, n. 1, p. 39-50, 1981.
+FURMAN, J. L.; PORTER, M.; STERN, S. The determinants of national innovative capacity.
+Research Policy, v. 31, n. 6, p. 899-933, 2002.
+Doi: http:/ /dx.doi.org/10.1016/s0048-7333(01)00152-4 .
+e-ISSN: 2446-6875 p-ISSN: 1807-5436 Gestão e Desenvolvimento | Novo Hamburgo | v. 19 | n. 1 | jan./jun.
+; MÉNDEZ-PICAZO, M. T. Innovation, entrepreneurship and economic growth.
+Management Decision , v. 51, n. 3, p. 501-514, 2013.
+Doi: http:/ /dx.doi.org/10.1108/00251741311309625 .
+; MÉNDEZ, M. T. Entrepreneurship, economic growth, and innovation: are feedback effects at work?
+Journal of Business Research , v. 67, n. 5, p. 825-829, 2014.
+org/10.1016/j.jbusres.2013.11.052 .
+Análise multivariada de dados .
+Porto Alegre: Bookman editora, 2009.
+HAIR JUNIOR, J. F.; SARSTEDT, M.; HOPKINS, L.; KUPPELWIESER, V. G. Partial least squares structural equation modeling (PLS-SEM).
+European Business Review , v. 26, n. 2, p. 106-121, 2014.
+doi.org/10.1108/ebr-10-2013-0128 .
+HAIR JUNIOR, J. F. HOLLINGSWORTH, C. L.; RANDOLPH, A.
+An updated and expanded assessment of PLS-SEM in information systems research.
+Industrial Management & Data Systems , v. 117, n. 3, p. 442-458, 2017.
+Doi: http:/ /dx.doi.org/10.1108/imds-04-2016-0130 .
+HAIR JUNIOR, J. F.; RISHER, J. J.; SARSTEDT, M.; RINGLE, C. M. When to use and how to report the results of PLS-SEM.
+European Business Review , v. 31, n. 1, p. 2-24, 2019.
+Doi: http:/ /dx.doi.org/10.1108/ebr11-2018-0203 .
+HENSELER, J; RINGLE, C. M.; SINKOVICS, R. R. The use of partial least squares path modeling in international marketing.
+Advances in International Marketing , p. 277-319, 2009.
+org/10.1108/s1474-7979(2009)0000020014 .
+HERMAN, E. Innovation and entrepreneurship for competitiveness in the EU: an empirical analysis.
+Proceedings of the International Conference on Business Excellence , v. 12, n. 1, p. 425-435, 2018.
+Doi: http:/ /dx.doi.org/10.2478/picbe-2018-0038 .
+Entrepreneurial orientation, learning orientation, and innovation in small and medium enterprises.
+Procedia - Social and Behavioral Sciences , v. 24, p. 563-570, 2011.
+doi.org/10.1016/j.sbspro.2011.09.004 .
+IAKOVLEVA, T.; KOLVEREID, L.; STEPHAN, U.
+Entrepreneurial intentions in developing and developed countries.
+Education + Training , v. 53, n. 5, p. 353-370, 2011.
+org/10.1108/00400911111147686 .
+INACIO JUNIOR, E.; DIONISIO, E. A.; FISCHER, B.
+B.; LI, Y.; MEISSNER, D. The global entrepreneurship index as a benchmarking tool?
+Criticisms from an efficiency perspective.
+Journal of Intellectual Capital , v. 21, p. 1-23, 2020.
+Doi: http:/ /dx.doi.org/10.1108/jic-09-2019-0218 .
+e-ISSN: 2446-6875 p-ISSN: 1807-5436 Gestão e Desenvolvimento | Novo Hamburgo | v. 19 | n. 1 | jan./jun.
+2022176 LIÑÁN, F. Skill and value perceptions: how do they affect entrepreneurial intentions?
+International Entrepreneurship and Management Journal , v. 4, n. 3, p. 257-272, 2008.
+Doi: Http:/ /dx.doi.org/10.1007/ s11365-008-0093-0 .
+Development and Cross–Cultural Application of a Specific Instrument to Measure Entrepreneurial Intentions.
+Entrepreneurship Theory and Practice , v. 33, n. 3, p. 593-617, 2009.
+Doi: http:/ /dx.doi.org/10.1111/j.1540-6520.2009.00318.x .
+LIND, N. C. Some thoughts on the human development index.
+Social Indicators Research , v. 27, n. 1, p. 89-101, 1992.
+Doi: http:/ /dx.doi.org/10.1007/bf00300511 .
+LUBBADEH, T. Entrepreneurship development in Japan: an empirical analysis.
+International Entrepreneurship Review , v. 5, n. 3, p. 19-33, 2019.
+Doi: http:/ /dx.doi.org/10.15678/ier.2019.0503.02 .
+MANIYALATH, N.; NARENDRAN, R. The human development index predicts female entrepreneurship rates.
+International Journal of Entrepreneurial Behavior & Research , v. 22, n. 5, p. 745-766, 2016.
+Doi: http:/ /dx.doi.org/10.1108/ijebr-11-2015-0258 .
+The Importance of Entrepreneurship as a Contributing Factor to Economic Growth and Development: the case of selected european countries.
+Journal of Economics and Behavioral Studies, v. 10, n. 4, p. 287-299, 2018.
+Doi: http:/ /dx.doi.org/10.22610/jebs.v10i4(j).2428 .
+MORRIS, M. H.; LEWIS, P. S.; SEXTON, Donald L. Reconceptualizing entrepreneurship: an input-output perspective.
+SAM Advanced Management Journal , v. 59, n. 1, p. 21, 1994.
+MORRISON, A.; BREEN, J. ALI, S. Small Business Growth: intention, ability, and opportunity.
+Journal of Small Business Management , v. 41, n. 4, p. 417-425, 2003.
+Doi: http:/ /dx.doi.org/10.1111/1540627x.00092 .
+MUELLER, P. Exploiting Entrepreneurial Opportunities: the impact of entrepreneurship on growth.
+Small Business Economics , v. 28, n. 4, p. 355-362, 2007.
+Doi: http:/ /dx.doi.org/10.1007/s11187-006-9035-9 .
+Determinantes da capacidade nacional de inovação: uma análise à realidade europeia.
+In: Conocimiento, innovación y emprendedores: camino al futuro .
+Universidad de La Rioja, 2007. p. 115.
+NAUDÉ, W.; SZIRMAI, A; GOEDHUYS, M .
+Innovation and Entrepreneurship in Developing Countries .
+UNU, 2011.e-ISSN: 2446-6875 p-ISSN: 1807-5436 Gestão e Desenvolvimento | Novo Hamburgo | v. 19 | n. 1 | jan./jun.
+2022177 NDUBISI, N. O.; IFTIKHAR, K. Relationship between entrepreneurship, innovation and performance.
+Journal of Research in Marketing and Entrepreneurship , v. 14, n. 2, p. 214-236, 2012.
+org/10.1108/14715201211271429 .
+PECE, A. M.; SIMONA, O. E. O.; SALISTEANU, F. Innovation and Economic Growth: an empirical analysis for cee countries.
+Procedia Economics and Finance , v. 26, p. 461-467, 2015.
+Doi: http:/ /dx.doi.org/10.1016/ s2212-5671(15)00874-6 .
+PRADHAN, R. P.; ARVIN, M. B.; NAIR, M.; BENNETT, S. E. The dynamics among entrepreneurship, innovation and economic growth in the Eurozone countries.
+Journal of Policy Modeling , v. 42, n. 5, p. 11061122, 2020.
+Doi: http:/ /dx.doi.org/10.1016/j.jpolmod.2020.01.004 .
+Analysis of Human Development Index in the Highlands Region of North Sumatera Province Indonesia.
+In: Multi-Disciplinary International Conference University of Asahan .
+REIS, D. A.; MOURA, F. R.; ARAGÃO, I. M. Attitudes, Abilities and Aspirations in the Worldwide Entrepreneurship Ecosystem.
+International Business Management , v. 13, n. 9, p. 429-437, 2020.
+Doi: http:/ / dx.doi.org/10.36478/ibm.2019.429.437 .
+RINGLE, C. M.; SILVA, D.; BIDO, D. S. Modelagem de Equações Estruturais com Utilização do Smartpls.
+Revista Brasileira de Marketing , v. 13, n. 2, p. 56-73, 2014.
+Doi: http:/ /dx.doi.org/10.5585/remark.
+RODRIGUES, T V; SANTOS FILHO, V H dos; PONTES, J; RESENDE, L. M. M. de; YOSHINO, R T. Goverment Initiatives 4.0: A Comparison Between Industrial Innovation Policies For Industry 4.0.
+Revista Gestão e Desenvolvimento , v. 18, n. 1, p. 119-147, 2021.
+Doi: https:/ /doi.org/10.25112/rgd.v18i1.2411 .
+The moderating role of governmental support in the relationship between entrepreneurship and economic growth.
+Journal of Entrepreneurship In Emerging Economies, v. 11, n. 2, p. 200-216, 2019.
+Doi: http:/ /dx.doi.org/10.1108/jeee-10-2017-0072 .
+SCHWAB, K. The global competitiveness report 2019.
+The theory of economic development: An inquiry into profits, capital, credit, interest, and the business cycle (1912/1934).
+Transaction Publishers , January , v. 1, p. 244, 1982.
+SHAH, S. Determinants of Human Development Index: a cross-country empirical analysis.
+International Journal of Economics and Management Studies , [S.L.
+org/10.14445/23939125/ijems-v3i5p106 .e-ISSN: 2446-6875 p-ISSN: 1807-5436 Gestão e Desenvolvimento | Novo Hamburgo | v. 19 | n. 1 | jan./jun.
+2022178 SHANE, S.; VENKATARAMAN, S. The Promise of Entrepreneurship as a Field of Research.
+Academy of Management Review , v. 25, n. 1, p. 217-226, 2000.
+Doi: http:/ /dx.doi.org/10.5465/amr.2000.2791611 .
+SHANE, S.; LOCKE, E. A.; COLLINS, C. J.
+Human Resource Management Review , v. 13, n. 2, p. 257-279, 2003.
+SOUSA, M. J.; ALMEIDA, M. R. Entrepreneurial skills development.
+Recent Advances in Applied Economics, p. 135-139, 2014.
+USE Discussion paper series , v. 16, n. 13, 2016.
+The Global Entrepreneurship and Development Index Methodology.
+SSRN Electronic Journal , p. 1-30, 2011.
+Doi: http:/ /dx.doi.org/10.2139/ssrn.1857985 .
+THOMPSON, E. R. Individual Entrepreneurial Intent: construct clarification and development of an internationally reliable metric.
+Entrepreneurship Theory and Practice , v. 33, n. 3, p. 669-694, 2009.
+Doi: Http:/ /dx.doi.org/10.1111/j.1540-6520.2009.00321.x .
+THURIK, R.; WENNEKERS, S. Entrepreneurship, small business and economic growth.
+Journal of Small Business and Enterprise Development , v. 11, n. 1, p. 140-149, 2004.
+Doi: Http:/ /dx.doi.org/10.1108/14 626000410519173 .
+TONER, P. Workforce Skills and Innovation: an overview of major themes in the literature.
+OECD Education Working Papers , n. 55, p. 1-73, 2011.
+Doi: http:/ /dx.doi.org/10.1787/5kgk6hpnhxzq-en .
+Innovation index and the innovative capacity of nations.
+Futures , v. 42, n. 3, p. 247-253, 2010.
+Doi: http:/ /dx.doi.org/10.1016/j.futures.2009.11.010 .
+ZHAO, F. Exploring the synergy between entrepreneurship and innovation.
+International Journal of Entrepreneurial Behavior & Research , v. 11, n. 1, p. 25-41, 2005.
+org/10.1108/13552550510580825 .

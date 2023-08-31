@@ -1,0 +1,399 @@
+ INOVAÇÃO DE VALOR E USO DE UMA PLATAFORMA DE IDEIAS POR UMA UNIVERSIDADE BRASILEIRA VALUE INNOVATION USING AN IDEA PLATFORM AT A BRAZILIAN UNIVERSITY Teresa Cristina Monteiro Martins *, UFLA, Brasil Email: teresacristina.ufla@gmail.com André Luiz Zambalde , UFLA, Brasil Email: zamba@ufla.br Submetido: Agosto, 2020 Aceito: Agosto, 2021 *Contato para Correspondência Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n.1, Setembro/Dezembro – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n1.0 7 Página | 150 RESUMO Nos últimos anos, instituições públicas de diversos países utilizaram inovação aberta, sobretudo desafios de ideias, visando maior colaboração dos cidadãos na gestão pública.
+Entretanto, percebe -se a ausência de aprofundamento sobre os valores agregados por estas iniciativas às organizações e aos cidadãos.
+Esta pesquisa aprofunda as investigações neste contexto, utilizan dose o "Radar da Inovação de Valor ": um modelo teórico composto por quatro dimensões e doze fatores críticos para avaliar a percepção de inovação em projetos do setor público.
+Tem -se como objetivo principal aplicar o modelo radar da inovação de valor no s etor público para identificar a percepção de valor por usuários -cidadãos de uma plataforma de ideias , denominado "Desafio Uni+", promovido por uma universidade pública brasileira.
+Trata -se de uma pesquisa aplicada, com objetivos de caráter exploratório -descritivo, abordagem quantitativa e qualitativa, tendo como unidade de análise o "Desafio Uni+", promovido em uma Universidade Brasileira.
+Como resultados, têm -se: a análise e a discussão estatística exploratória acerca dos fatores do "radar", além da descri ção da percepção de inovação de valor associada à participação no "Desafio Uni+".
+Conclui -se que o fator Colaboração não atende à adequabilidade estatística e não pode ser considerado para avaliar o projeto "Uni+".
+Além disso, a comunidade acadêmica perceb eu o projeto como inovador em relação à abertura e à eficiência para captação de ideias, entretanto, não percebeu ou, não foi adequadamente informada, sobre a efetividade do desafio, principalmente, associada à implementação das ideias vencedoras do desafi o. PALAVRAS -CHAVE: Inovação de valor, Setor público, Crowdsourcing, Plataformas de ideias.
+ABSTRACT In recent years, public institutions in several countries have used open innovation, especially challenges of ideas, aiming at greater collaboration of citizens in public management.
+However, there is a lack of deepening about the values added by these initiatives to organizations and citizens.
+In this research, we see k to deepen investigations in this context, using the " Value Innovation Radar ": a theoretical model, proposed by Martins et al.
+(2019), composed of four dimensions and twelve critical factors to assess the perception of innovation in public sector projects .
+The main objective is to apply the "Radar" model to identify the perception of value innovation by users of an idea management platform .
+It is an applied research, with exploratorydescriptive objectives, quantitative and qualitative approaches , and the unit of analysis is the "Uni Challenge +".
+The results include the analysis and the exploratory -statistical discussion about the "Radar" factors .
+We conclude that the Collaboration factor does not meet the statistical suitability to evaluate the "Uni+ Proje ct".
+In addition, the academic community perceived the project as innovative in terms of openness and efficiency in capturing ideas, however, it did not realize, or did not receive the total necessary information about the effectiveness of the challenge, m ainly associated with the implementation of the winning ideas in the process.
+KEY -WORDS: Strategy, Blue Ocean, Principal component analysis, Multivariate statistics.
+Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n.1, Setembro/Dezembro – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n1.0 7 Página | 151 1 INTRODUÇÃO Inovação aberta é um paradigma que assume que as organizações podem utilizar ideias internas e externas, assim como caminhos internos e externos para gerar valor para as organizações e para a sociedade (Chesbrough, Vanhaverbeke, & West, 2006 ).
+Promover a inovação aberta envolve uma série de abordagens, processos e atividades, tais como desafio de ideias, parcerias, financiamentos colaborativos e terceirização.
+Aplicadas no contexto público, tais abordagens apoiam -se na participação social para inovar nos valores oferecidos para a sociedade.
+Entende -se como inovação de valor o conjunto de iniciativas inovadoras que fornecem valor diferenciado aos clientes, com baixo custo para a organização (Kim & Maubourge, 1997 ).
+No setor público, são iniciativas envolvendo a melhoria da qualidade de vida dos cidadãos e a eficiência e baixo custo para as instituições (Ramli, Ahmad, & Harith, 2016 ).
+Assim, implica ir além dos aspectos de eficiência de custo e processos, para compreender também o que é percebido como valioso pelos usuários das inovações (Kelly, Mulgan, & Muers, 2002 ; Liu, 2017 ).
+Por sua vez, conforme Parker et al.
+(2016, p. 11), plataformas tecnológicas constituem "um novo modelo de negócio que usa a tecnologia para conectar pessoas, organizações e recursos em um sistema interativo, no qual podem ser criadas e trocadas quantidades i ncríveis de valor".
+Vale mencionar que Wikipédia , Aribnb e Uber são exemplos de plataformas que inovaram em valor, oferecendo serviços diferenciados a custos mais baixos, cada uma associada a um público, mercado ou setor de atividade específico (Christodoulou & Langley, 2019 ).
+No setor público, a partir do ano 2010, nos EUA e Cingapura, surgiram as primeiras plataformas tecnológicas nas quais os cidad ãos foram chamados a colaborar para a geração de ideias de inovação para organizações públicas (Saunders & Mulgan, 2017 ).
+Seguindo essa tendência, surgiram no Brasil as plataformas Cidade Democrática e Prêmio Ideia que utilizaram essa tecnologia para que ministérios, bancos públicos, prefeit uras, universidades e outras instituições captassem ideias dos cidadãos (de Souza et al., 2014 ; Parra Filho & Martins, 2017 ).
+Esse tipo de plataforma tem como benefícios: desburocratizar o acesso à gestão pública, agregar eficiência às interações e oferecer premiações para que cidadãos sintam -se motivados a participar (Mergel, 2015 ).
+Porém, algumas limitações semelhantes àquelas das tradicionais formas de participação social permanecem: baixo engajamento, participação superficial, despreparo dos participantes e falta de feedback do setor público (Alawneh, Al -Refai, & Batiha, 2013 ; Karunasena & Deng, 2010 ; Martins & Bermejo, 2016 ; Martins & Zambalde, 2020 ).
+Para se medir a "inovação de valor" no setor público, considerando a "Inovação de Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n.1, Setembro/Dezembro – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n1.0 7 Página | 152 valor" e o uso de "Plataforma tecnológicas", Martins et al.
+(2019) propuseram o "radar da inovação de valor no setor público".
+Trata -se de um modelo baseado na teoria dos fat ores críticos de sucesso (Howell, 2009 ; Rockart, 1980 ) e representado por gráfico em formato radar, cuja ideia central é questionar os usuários de novos projetos do setor público sobre sua percepção de inovaç ão em relação a 12 fatores, associados a 4 dimensões, que são: i) Abertura: Acessibilidade, Usabilidade e Motivação; ii) Qualidade: Utilidade, Presteza e Satisfação; iii) Eficiência: Governança, Economia e Colaboração; iv ) Efetividade : Confiança, Cultura e Impacto Social.
+Neste contexto, esta pesquisa teve como principal objetivo aplicar o modelo radar da inovação de valor no setor público para identificar a percepção de valor por usuários -cidadãos de uma plataforma de ideias.
+O objeto de estudo, aqui denominado "Desafio U ni+", foi implantado em uma Universidade pública visando à inovação em processos e atividades de ensino, pesquisa, extensão e administração.
+Especificamente, nesta pesquisa, buscou -se: i) elaborar e aplicar um questionário envolvendo as dimensões e fatores do radar da inovação de valor aos participantes do "Desafio Uni+"; ii) analisar de forma exploratória a adequabilidade estatística dos componentes do modelo radar; iii) discutir os resultados desta iniciativa de inovação aberta considerando o uso do radar de inovação de valor no setor público.
+Sendo assim, as contribuições desta pesquisa são o questionário elaborado e as análises que levam a identificação de quais valores devem agregados para que desafios de ideias se consolidem como uma inovação em part icipação pública, já que a literatura apresenta lacunas na avaliação de resultados concretos desse tipo de iniciativa (Oliveira, 2015 ).
+Essas lacunas geram questionamentos sobre o grau de inovação, inclusive de plataformas premiadas por serem inovadoras, como a INSS digital, que apesar de ganhos em otimização de processos apresenta problemas de e xclusão digital do seu público alvo (Klein & Santos, 2019 ).
+Ainda, plataformas de envio de ideias para o setor público como a Dialoga Brasil e a E -cidadania têm seus resultados apresentados em função do número de ideias submetidas, sem maiores discussões acerca dos resultados em termos de valores agregados aos c idadãos (Parra Duarte, Bizelli, Corrêa, & Vargas, 2016 ).
+Nesse sentido, a aplicação do radar da inovação de valor ao projeto Uni+ colabora com a discussão sobre a necessidade de agregação de novos valores à sociedade, organizações e a os cidadãos (usuários), o que é considerado imprescindível para o sucesso no uso de plataformas digitais pelo setor público (Cordella & Bonina, 2012 ).
+Assim, na sequência a esta Introdução apresenta -se o Referencial teórico, com os conceitos que fundamentam a pesquisa; a Metodologia, com a classificação da pesquisa e o detalhamento d e escolhas metodológicas; os Resultados, com a análise de componentes principais, validação das dimensões para o radar e discussão de cada fator do radar para o caso Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n.1, Setembro/Dezembro – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n1.0 7 Página | 153 da Plataforma Uni+; as Conclusões e as Referências bibliográficas.
+2 DESAFIOS DE IDEIAS E RADAR DA INOVAÇÃO DE VALOR De acordo com Scherer and Carlomagno (2000) inovação é a exploração de uma ideia com sucesso, resultando em retorno econômico e ou social para as organizações e para a sociedade.
+Inovação é parte da estratégia das organizações, parte da antecipação às oportunidades e ameaças levantadas por elas e o que as mantém competitivas mesmo com as mudanças do ambiente (Bessant & Tidd, 2009 ).
+Quando uma organização assume que a busca e exploração dessas novas ideias pode ocorrer tanto no âmbito interno quanto externo à organização tem-se a chamada inovação aberta (Chesbrough et al., 2006 ).
+Os desafios de ideias são uma estratégia de inovação aberta, classificada como crowdsourcing (Howe, 2006 ): uma chamada on-line para um público previamente definido, na qual os participantes devem executar uma tarefa em troca de uma recompensa (Estellés -Arolas & González -Ladrón -De-Guevara, 2012 ).
+Basicamente, a tarefa é o envio de ideias sobre áreas previamente definidas e a recompensa é uma premiação ao criador da melhor ideia ou usuário mais participativo.
+Essas características permitem que os desafios de ideias também sejam denominados de crowdstorming - tempestade de ideias da multidão (Abrahamson, Ryder, & Unterberg, 2013 ) ou de Citizensourcing - terceirizar a produção de ideias para os cidadãos (Hilgers & Ihl, 2010 ).
+Neste ponto cabe destacar, que os desafios ocorrem em plataformas tecnológicas que, conforme Parker et al.
+(2016), são ambientes virtuais utilizados para conectar pessoas, organizações e recursos em um ecossistema interativo, para troca de valor.
+A primeira plataforma utilizada para a realização de desafios de ideias foi a Innocentive, criada em 2001 para inovaçã o aberta de processos de pesquisa e desenvolvimento de empresas privadas (Mergel, 2015 ).
+No setor público, a precursora dos desafios de ideias foi a Plataforma "Challenge.gov", prospectando ideias para instituições dos EUA.
+Conforme Saunders and Mulgan (2017) , desafios de ideias são inovadores pela maneira de captar soluções, alcançar e organizar grupos de especialistas e estimulá -los com prêmios e oportunidades de contratação.
+No Brasil, destacam -se as plataformas "Dialoga Brasil" e ecidadania, que permitem o envio de propostas e ideias para criação e melhoria de políticas públicas, entretanto, enfrentam limitações com a falta de divulgação e análise sobre possíveis impactos nas políticas ou serviços públicos (Parra Duarte et al., 2016 ).
+Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n.1, Setembro/Dezembro – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n1.0 7 Página | 154 Assim como os desafios de ideias, o conceito de inovação de valor também surgiu voltado para o setor privado e está associado à Teoria do Oceano Azul (Kim & Mauborgne, 2005 ; Kim & Mauborgne, 2014 ).
+Segundo os autores, inovação de valor é buscar simultaneamente a diferenciação em valor agregado para clientes e o baixo custo para a organização.
+É gerar um salto de valor e de custo -benefício para o usuário da inovação (Figura 1).
+Figura 1 Inovação de valor Fonte: traduzida de Kim and Maubourge (1997) Os autores defendem que a inovação de valor é obtida pela autoavaliação dos negócios da organização visando a encontrar atributos ainda não oferecidos e que possam agregar valor aos usuários (Kim & Mauborgne, 2005 ; Kim & Mauborgne, 2014 ).
+Exemplificando o conceito, pode -se citar negócios de empresas como Amazon, Google, Facebook, AirbnB e Uber que, baseadas em plataformas, geram inovação de valor ao oferecer diferenciação na experiência do consumidor dos setores de produtos, informação, marketing, hoteleiro e de transporte, a custos mais baixos (Christodoulou & Langley, 2019 ).
+No entanto, no setor público a questão é como avaliar e encontrar os atributos percebidos como valiosos para os cidadãos, seja no contexto das ideias e mesmo de tecnologias implementadas (Cordella & Bonina, 2012 ; Cordella & Tempini, 2015 ).
+No setor público, mercado , negócios, concorrência, baixo custo ou sobrevivência são termos incomuns.
+Por outro lado, a capacidade inovadora das plataformas é também demandada neste contexto, em busca de uma gestão de eficiente e de qualidade (Cordella & Bonina, 2012 ; Cordella & Tempini, 2015 ).
+Porém, especificidades como a subjetividade dos objetivos e do próprio conceito de valor tendem a dificultar o alcance de resultados (Aberbach & Christensen, 2005 ; Bozeman & Bretschneider, 1986; Cordelia, 2007 ).
+É nesse sentido que alguns autores estudam a aplicação do conceito "inovação de valor" na esfera pública.
+Pesquisas em que os autores utilizam tal estratégia relatam inovações de valor associadas à: novas fontes de financiamento de estudantes em universid ades, provendo a Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n.1, Setembro/Dezembro – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n1.0 7 Página | 155 manutenção de mais universitários com redução de custos para o Estado pela criação de um fundo de investimento em eu a sociedade investe nesses estudantes (Abdullah, 2014 ); criação de tecnologias sociais para resolver problemas cotidianos como o controle de enchentes com custos reduzidos para o cidadão (Lee, Wang, & Chung, 2017 ); melhoria dos indicadores universitáriospor meio de novas metodologias de planejamento estratégico para universidades públicas (Hasan, Komoo, Nor, & Abdullah, 2017 ); criação de novas formas de competição em programas espaciais – Taiwan (Chern, Huang, & Wu, 2008 ) criação de novos modelos de negócio para conter obsolescência das bibliotecas públicas frente aos meios digitais Ahmat, Jaafar, and Azmi (2016) .
+Também nesse sentido que Martins et al.
+(2019) apresentaram o "Radar da inovação de valor".
+Os autores fizeram um levantamento dos principais fatores relevant es à avaliação da inovação de valor na busca da diferenciação e o baixo custo.
+O modelo propõe avaliação de projetos e iniciativas de inovação no âmbito público.
+O "gráfico radar" (Figura 2) é composto por 4 dimensões e 12 fatores, que são os seguintes: i) Abertura: acessibilidade, usabilidade e motivação; ii) Qualidade: utilidade, presteza e satisfação; iii) Eficiência: governança, economia e colaboração; iv) Efetividade: confiança, cultura e impacto Social.
+Figura 2 Radar da Inovação de Valor do Setor Público.
+012345ABERTURA Acessibilidade Usabilidade Motivação QUALIDADE Utilidade Rapidez Satisfação EFICIÊNCIAColaboraçãoEconomiaProcessoEFETIVIDADEConfiançaCulturaImpacto socialPERCEPÇÃO DOS GESTORES PÚBLICOS PERCEPÇÃO DOS GESTORES PÚBLICOSRADAR DA INOVAÇÃO DE VALOR NO SETOR PÚBLICO MÉDIAABERTURA QUALIDADE EFICIÊNCIAEFETIVIDADESOCIEDADE CIDADÃOSORGANIZAÇÕES DO SETOR PÚBLICO Presteza Colaboração Governança Fonte : Martins et al.
+Os fatores que compõem o radar são fruto de revisão sistemática de literatura complementada de revisão por especialistas das áreas de estratégia e inovação (Martins et al., 2019 ) .
+Os autores denominam os itens do radar de fatores, com base no conceito de Fatores Críticos de Sucesso (FCSs) de Howell (2009) , considerando que a identificação dos FCSs é Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n.1, Setembro/Dezembro – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n1.0 7 Página | 156 essencial para a anális e do ambiente de inovação e negócios e auxilia na definição das métricas de análise das decisões, ou ainda a estabelecer prioridades.
+No Quadro 1, têm -se a descrição detalhada das dimensões e fatores do "radar da inovação de valor no setor público".
+Quad ro 1 Descrição das dimensões do Radar da Inovação de Valor do Setor Público.
+DIMENSÕES CIDADÃOS – SOCIEDADE ABERTURA ABERTURA: POSSIBILIDADES E FACILIDADES DE ACESSO à PLATAFORMA.
+FATORES DESCRIÇÃO Acessibilidade Possibilidade de qualquer pessoa poder usar a plataforma.
+Usabilidade Facilidade de adoção e uso de produto e ou plataforma.
+Motivação Razão e ação favoráveis ao uso da plataforma.
+QUALIDADE QUALIDADE: EXCELÊNCIA ESPERADA OU ADQUIRIDA DE DETERMINADO DA PLATAFORMA.
+Utilidade Caráter do que é útil, serve ao usuário e a organização.
+Presteza Respostas rápidas e corretas às solicitações e contatos.
+Satisfação Atendimento em relação ao que se espera da plataforma.
+ORGANIZAÇÕES – SETOR PÚBLICO EFICIÊNCIA EFICIENCIA: CUSTO -BENEFICIO - CRIAÇÃO, GESTÃO E CONTINUIDADE DA PLATAFORMA.
+Governança Atendimento as normas, gestão e otimização de processos Economia Criação de fontes de recursos e ou redução de custos.
+Colaboração Abordagem cooperativa e colaborativa, por meio de parcerias.
+EFETIVIDADE EFETIVIDADE: TRANSFORMAÇÃO E GERAÇÃO DE VALOR PARA A ORGANIZAÇÃO E PARA A SOCIEDADE.
+Confiança Confiabilidade e adequabilidade do produto ou tecnologia.
+Cultura Mudança de cultura, uso e valorização da tecnologia.
+Impacto social Transformação efetiva da vida do usuário danovação.
+Fonte: adaptado de Martins et al.
+(2019) 3 METODOLOGIA Esta é uma pesquisa aplicada com objetivos de caráter exploratório -descritivo e abordagem quantitativa (análise estatística exploratória de dimensões e fatores críticos) e qualitativa (estudo e discussão dos resultados do desafio – análise documental).
+Qu anto aos procedimentos, têm -se um estudo de caso, aplicado ao "Desafio Uni+" promovido por uma universidade pública brasileira visando à inovação em processos e atividades de ensino, pesquisa, extensão e administração.
+Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n.1, Setembro/Dezembro – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n1.0 7 Página | 157 3.1.
+Objeto de estudo O "Desafio Uni+", promovido por uma Universidade Pública brasileira, foi aberto à participação da comunidade em maio de 2015, tendo como objetivo coletar propostas inovadoras para melhorias e inovação em projetos e atividades da Universidade.
+Em uma plataforma tecnológica em formato de rede social, simulando um jogo, os participantes pontuavam ao propor ideias sobre 11 temas especificados pela Universidade, bem como ao curtir e comentar ideias de outros participantes.
+Os setores da universidade pontuavam pela somatória de p ontos dos indivíduos associados que, no momento do cadastro, informaram a qual setor gostariam de pertencer.
+A premiação consistiu em valores monetários aos três participantes com maior pontuação e, dois prêmios, em forma de empenho, para os setores que ma is pontuaram.
+As ideias foram recebidas até o dia 31 de julho e o resultado divulgado em 21 de agosto 2015, tendo -se 2.546 pessoas cadastradas, com 4.409 ideias postadas, 34.4674 curtidas e 152.809 comentários (Aguiar, 2015b ).
+Um comitê ficou responsável por atribuir uma nota às ideias conforme sua aplicabilidade, viabilidade e custo (Vilas Boas, 2019 ).
+Após a divulgação dos resultados e entrega dos prêmios, as ideias avaliadas como contribuições de alto impacto foram enviadas aos setores responsáveis pelo tema e à comissão que desenvolvia o Plano estratégico da Universidade para o período de 2016 a 2020 (Vilas Boas, 2019 ).
+Ao final da iniciativa, gestores e participantes identificam o projeto como inovador por permitir um novo for mato de gestão colaborativa e levantaram suas limitações: contribuições superficiais; somente 1,27% das ideias consideradas de alto impacto; falta de divulgação sobre as ideias implantadas e de esclarecimentos sobre o recebimento do prêmio; baixo conhecime nto dos participantes sobre os projetos que já vigoravam na universidade (Vilas Boas, 2019 ).
+Protocolo do estudo de caso O estudo d e caso foi conduzido conforme protocolo especificado em Yin (2015) , que recomenda estudos de caso para investigações de fenômenos contemporâneos que podem ser estudados em seu contexto real.
+O autor sugere que o estudo do fenômeno seja divi dido em quatro partes: o planejamento, validação, coleta de dados e análises.
+Esse protocolo evidencia a construção do conhecimento sobre o tema, O Quadro 2 apresenta essas quatro etapas da pesquisa.
+Quadro 2 Síntese do protocolo de pesquisa Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n.1, Setembro/Dezembro – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n1.0 7 Página | 158 Planejamento Nov. 2019 a jan. 2020 - Pesquisa em artigos científicos, notícias sobre o projeto e documentos institucionais sobre o caso: Portarias que autorizam e regulamentam o projeto, bem como determinam responsabilidades e apresentam relatórios sobre os resultados.
+- Elaboração do protocolo de estudo de caso e questionário, levantamento e seleção dos participantes.
+2020 - Validação do questionário por especialistas : etapa de iterações para discussão das versões preliminares do questionário com pesquisadores da área de inovação, por e -mail e em reuniões.
+- Validação por parte da amostra: entrevistas presenciais com base no questionário para considerações e sugestões de indivíduos extraídos da amostra.
+- Pré-teste: Aplicação do questionário em seu formato final à parte da amostra para pré -teste da análise estatística (adequabilidade de componentes principais – dimensões e fatores) e criação do gráfico -radar para anál ise preliminar.
+2020 - Envio dos questionários : individualmente, por e -mail ou redes sociais, com texto e vídeo explicativo prévio contendo informações sobre a pesquisa, o modelo utilizado e convite para participação somente para os usuários que lembrassem de sua participação no Desafio Uni+.
+- Colet a de respostas no período de 06 a 30/04/2020.
+2020 - Análise quantitativa: Análises estatísticas para adequação das dimensões e fatores do radar e esboço do gráfico resultado do "radar da inovação de valor' para discussão.
+- Análise qualitativa: Discussão do caso Desafio Uni+ com base no desenho formado no gráfico radar e anális e documental.
+Fonte: Da pesquisa (2020) Na abordagem quantitativa (estudo estatístico de dimensões e fatores), elaborou -se um questionário com base nas dimensões e fatores inicialmente especificados por Martins et al.
+(2019) para o "Radar da Inovação de Valor no Setor Público" (ver Quadro 1).
+As sim, para cada fator do radar foi apresentada uma afirmação descrevendo como a plataforma poderia ser considerada inovadora em relação àquele fator ( Quadro 3) e o respondente informou seu nível de concordância com a dimensão e o fator em escala tipo Likert de cinco pontos (Antonialli, Antonialli, & Antonialli, 2016 ): (1) Discordo totalmente; (2) Discordo; (3) Nem discordo, nem concordo; (4) Concordo; (5) Concordo totalmente.
+Quadro 3 - Fatores do radar e itens do questionário CIDADÃOS – SOCIEDADE DIMENSÃO FATOR ITEM DO QUESTIONÁRIO Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n.1, Setembro/Dezembro – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n1.0 7 Página | 159 Abertura Acessibilidade A projeto é acessível: Permitiu que mais pessoas, inclusive deficientes, enviassem ideias de inovação.
+Usabilidade A projeto adequada ao perfil de seu público: simplificou a forma de participar e interagir com a administração da universidade.
+Motivação A projeto motiva: trouxe novos desafios e razões para que a comunidade colabore e participe.
+Qualidade Utilidade A projeto é útil: Serviu aos usuários que podem tornar direta e ativa sua participação e colaboração.
+Presteza A projeto é ágil: Permitiu ativação e retorno rápido aos participantes quando da introdução de ideias e comentários.
+Satisfação A projeto satisfez as expectativas: Viabilizou entrada de ideias e opiniões e observações em resposta às ideias apresentadas.
+ORGANIZAÇÕES – SETOR PÚBLICO DIMENSÃO FATOR ITEM DO QUESTIONÁRIO Eficiência Governança O projeto otimiza processos: Impactar nas melhorias, atende às normas e estratégias da organização e pode ser replicado em outras edições.
+Economia A projeto é econômico: constituiu em uma forma mais econômica de levantamento de ideias de inovação e redução de custos.
+Colaboração A projeto é colaborativo: viabilizou parcerias entre pessoas e órgãos internos e externos, inclusive com o compartilhamento de recursos.
+Efetividade Confiança A projeto é confiável e seguro: aumentou a minha relação e confiança na universidade.
+Cultura A projeto mudou a cultura: potencializou uma cultura de valorização da participação dos membros e setores da comunidade; Impacto Social A projeto gerou respostas concretas: viabilizou a geração de resultados (a implantação de uma ideia, por exemplo) e impactou diretamente na minha rotina ou da comunidade.
+Fonte: dados da pesquisa (2020) Ao final do questionário constava a seguinte questão discursiva: "Deixe seu comentário sobre as notas atribuídas nas questões anteriores."
+Os comentários foram organizados em uma tabela e indicados sobre quais fatores versavam cada um dos comentários.
+Após essa análise e separação, alguns desses comentários foram transcritos ao longo do capítulo de resultados para discutir os resultados quantitativos.
+Junto com o questionário, foi enviado um vídeo sobre o "Projeto Uni+" e o "Radar da inovação de valor no s etor público", convidando os indivíduos a responderem a pesquisa.
+Considerou -se como população os indivíduos que participaram do desafio enviando ideias.
+Os pesquisadores coletaram os dados desses indivíduos na base de dados da plataforma do "Projeto Uni+" e os localizaram via e -mail e redes sociais, chegando -se à amostra descrita no Quadro 4.
+Descrição Total População Participantes que enviaram ideias no "Desafio Uni+" 637 Amostragem Indivíduos não encontrados 189 Indivíduos que informaram não se lembrar de terem participado 12 Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n.1, Setembro/Dezembro – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n1.0 7 Página | 160 Total de indivíduos excluídos da pesquisa 201 Amostra Questionários enviados 436 Taxa de resposta Respostas ao questionário 107 Em relação à população 17% Em relação aos questionários enviados 24,5% Fonte: dados da pesquisa (2020) Segundo Hair, Black, Babin, Anderson, and Tatham (2006) , amostras superiores a 100 asseguram resultados robustos desde que a razão entre o número de casos e a quantidade de variáveis seja maior ou igual a cinco.
+Nesta pesquisa, a razão entre o número de questionários (107) e o número de variáveis do Radar (12) , é de aproximadamente 9.
+Sendo assim, as respostas foram submetidas à análise de componentes principais: um procedimento comumente empregado em pesquisas exploratórias para agrupar variáveis (fatores do radar) em componentes principais (dimensões do radar), conforme a semelhança e ntre suas variâncias.
+Em comparação com a análise de fatores, método similar e muito utilizado, a análise de componentes principais é mais simples e fornece resultados análogos quando a comunalidade da maioria dos fatores é maior ou igual a 0,6, o que oco rreu nesta pesquisa (Hair et al., 2006 ).
+A adequabilidade da base de dados foi testada pelos testes de Kaiser -Meyer -Olklin (KMO) - Medida da Adequação da Amostra e Barlett (BTS), os quais devem resultar nos seguintes índices, de acordo com Hair et al.
+(2006) : i) Coeficientes de correlação > 0,3; ii) KMO >0,5 e iii) BTS estatisticamente significante com p<0,05.
+Para esta pesquisa, o menor coeficiente de correlação foi 0,68; o KMO apresentou valor de 0,894 e pel o BTS, a amostra mostrou -se estatisticamente significante com erro menor que 0,0001.
+A rotação da matriz de correlação ocorreu pelo método Varimax, visando à simplificação máxima das colunas da matriz.
+Dois critérios foram utilizados para definir o número de dimensões em que os fatores seriam agrupados: a) Divisão dos 12 fatores do radar em 4 dimensões: a qual pode ser considerada válida caso os autovalores tenham valores próximos de 1 e uma queda brusca da curva de autovalores logo após a quarta dimensão (Vicini & Souza, 2005 ).
+b) Divisão dos 12 fatores pelo número de dimensõ es estabelecido pelo procedimento matemático: resultando no número de dimensões com autovalores superiores a 1, o qual retornou a divisão dos 12 fatores em duas dimensões, que, nesta pesquisa, receberam o nome de estratégias .
+Finalizando o trabalho e atend endo ao terceiro objetivo da pesquisa, foi realizado o estudo e análise das respostas ao questionário "radar da inovação de valor" (seção 5.2).
+Para isso, calculou -se a média das respostas sobre cada item do questionário e traçou -se o gráfico radar, Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n.1, Setembro/Dezembro – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n1.0 7 Página | 161 cujos resultados foram discutidos com base nas respostas dissertativas dos respondentes do questionário, além de relacionadas com publicações científicas, documentos e informações de mídia sobre o objeto de estudo.
+4 ANÁLISE EXPLORATÓRIA DAS DIMENSÕES E FATORES DO RADAR Inicialmente, foi calculado o Coeficiente Alfa de Cronbach, obtendo -se o valor de 0,894 para todas variáveis e valores acima de 0,8 para todas as variáveis, conforme Tabela 1.
+Dessa forma, o coeficiente mostrou a consistência interna das perguntas do questionário.
+Esta consistência, conforme Hair (2005), ocorre a partir de valores acima 0,7.
+Na sequência, procedeu -se a análise de componentes principais dos dados, cujo objetivo foi organizar os itens do questionário em construtos, verifica ndo a adequabilidade da divisão proposta no radar (dimensões e fatores ) para o caso Uni+.
+Inicialmente, foi realizada a análise fatorial fixando -se o número de fatores em 4, conforme matriz rotacionada da Tabela 1.
+Para essa análise, todos os itens apresentaram comunalidades acima de 0,5, valor mínimo adequado, conforme Hair et al.
+(2009); e cargas fatoriais superiores a 0,6, o que significa uma forte corr elação entre os fatores e suas dimensões correspondentes (HAIR et al., 2009) .
+Tabela 1 Análise de componentes principais com definição de quatro dimensões FATORES Alfa de Cronbach DIMENSÕES Efetividade Abertura Qualidade Eficiência ACESSIBILIDADE USABILIDADE MOTIVAÇÃO 0,892 ,692 ,764 ,801 0,886 0,886 UTILIDADE PRESTEZA SATISFAÇÃO 0,885 ,825 ,764 ,615 0,880 0,881.
+GOVERNANÇA 0,898 ,828 ECONOMIA 0,894 ,780 COLABORAÇÃO 0,889 ,574 ,545 CONFIANÇA 0,881 ,688 CULTURA 0882 ,693 IMPACTO SOCIAL 0,881 ,847 Fonte: dados da pesquisa Embora os coeficientes tenham apresentado forte correlação com as dimensões do radar, essa divisão não é suficiente para validar estatisticamente essa divisão, pois os autovalores encontrados foram inferiores a 1.
+Porém, é possível tecer discussões de form a exploratória.
+Nesse sentido, cabe considerar que somente o fator Colaboração obteve carga fatorial inferior a 0,6 e carga acima de 0,5 em duas dimensões, por isso, o fator possui correlação fraca com as dimensões Eficiência e a Efetividade e, para o cas o do "Projeto Uni+", não pode ser utilizado como um fator Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n.1, Setembro/Dezembro – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n1.0 7 Página | 162 que explique associação a qualquer das dimensões.
+No modelo teórico do Radar da Inovação de Valor, Martins et al.
+(2019) apresentam como exemplo de Colaboração a criação de um fundo voluntário par a manutenção de pessoas carentes em universidades da Malásia (Abdullah, 2014 ).
+Nesse sentido, Colaboração significa inovar em parcerias, inclusive com a possibilidade de ganhos financeiros e distribuição dos custos das ações sociais(Martins, 2019).
+Porém, os participantes d o "Desafio Uni+" não identificaram Colaboração entre os setores ou participantes, mas sim, algo representativo de uma forte competição no intuito de vencer o jogo (Aguiar, 2015a ).
+Entende -se que esta abordagem associada à competitividade é um efeito da gamificação que, em desafios de ideias, pode comprometer a qualidade do conhecimento produzido .
+Como a divisão dos doze fatores em quatro dimensões não foi confirmada estatisticamente, para atribuir maior validade à d ifisão do radar, foi realizada a análise dos componentes principais sem a definição do número de componentes a serem gerados e retornando dimensões com autovalores superiores a 1.
+Dessa análise, resultaram comunalidades acima de 0,5, com exceção do fator C olaboração com índice 0,436 e correlações conforme apresentadas na Tabela 2.
+Tabela 2 Análise de componentes principais sem definição do número de componentes .
+DIMENSÃO/FATOR ESTRATÉGIA DE VALOR CUSTO Efetividade/Confiança ,761 Efetividade/Cultura ,713 Efetividade/Impacto Social ,819 Qualidade/Utilidade ,767 Qualidade/Presteza ,785 Qualidade/Satisfação ,732 Eficiência /Colaboração ,560 Eficiência /Economia ,749 Eficiência/ Governança ,763 Abertura/Acessibilidade ,617 Abertura/Usabilidade ,615 Abertura/Motivação ,695 Fonte: Dados da pesquisa A abordagem estatística retornou a divisão dos fatores do radar em dois componentes: o primeiro, formado pelos fatores das dimensões Efetividade e Qualidade, somados ao fator Colaboração e o segundo componente formado pelos fatores das dimensões Abertura e Eficiência, com exceção da Colaboração.
+O fator Colaboração apresentou carga fatorial menor que 0,6, confirmando que, da forma apresentada no questionário, não apresenta correlação com os outros fatores que representam a dimensão Eficiência.
+Sendo necess ária sua exclusão das próximas análises.
+Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n.1, Setembro/Dezembro – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n1.0 7 Página | 163 Após obter os resultados estatísticos, de acordo com Hair et al.
+(2006) é necessário retornar aos conceitos que fundamentaram o modelo (Kim & Maubourge, 1997 ).
+Originalmente, o "radar da inovação de valor" (ver Figura 2) tem quatro dimensões subdivididas por uma linha vertical: à direita, as dimensões Abertura e Qualidade representam estratégias de inovação associadas aos cidadãos; e à esquerda, as dimensões Efetividade e Eficiência representam estratégias mais próximas às organizações.
+Essa subdivisão não ficou comprovada para o "Projeto Uni+".
+Além de uma div isão diferente dos fatores ser constatada pela análise de componentes principais, foi realizada também uma análise discriminante tendo como parâmetros os itens do radar e a função desempenhada pelos respondentes.
+Conforme o teste de Wilks lambda, os result ados não foram significativos, sendo rejeitada a hipótese de que os dados podem ser organizados em grupos conforme a função que os respondentes possuem na organização - se são gestores, servidores ou estudantes.
+Por outro lado, com base na estatística rel acionada à divisão de componentes principais, é possível a subdivisão das dimensões em duas Estratégias: a primeira englobando Abertura e Eficiência(Estratégias de Custo)e a segunda, Qualidade e Efetividade (Estratégias de valor).
+Portanto, propõe -se a sub divisão por uma linha horizontal, para remeter à representação do conceito de Inovação de valor (Figura 1), a qual é baseada na redução de custos na parte superior e na elevação do valor, na parte inferior.
+Dessa forma, na parte superior do radar ficam os fatores de mais fácil mensuração e que se destacam pela redução ou eliminação de algum empecilho ou característica que inviabilizam a abertura ou financiamento do projeto; e na parte inferior, fatores mais subjetivos e que se destacam pela agregação de valores que permitem ao usuário perceber valores diferenciados em determinado produto ou serviço.
+Desse modo, custo não compreende somente aspectos financeiros, mas também custo do esforço organizacional, cognitivo ou motivad or para se utilizar a inovação.
+Moore (1995) afirma que, no setor público, também é gerado valor pela redução dos custos, sejam eles financeiros ou custo do esforço para satisfazer necessidades dos cidadãos e para aumentar a justiça e a equidade no acesso aos serviços públicos.
+Nessa perspectiva, Acessibilidade relaciona -se à redução ou eliminação de características das formas tradicionais de participação que prejudiquem cidadãos a acessarem a plataforma.
+Da mesma forma, a Usabilidade, refere -se à redução o u eliminação de atributos que exigem maior esforço cognitivo, logístico ou até financeiro, para realizar esse acesso.
+E Motivação refere -se à redução de características que desmotivam o cidadão de utilizar a plataforma.
+Embora seja apresentada aqui como um a redução, Motivação foi associada pelos respondentes à premiação em dinheiro oferecida em retribuição pela participação: "o objetivo era votar nas próprias ideias para vencer o prêmio ao Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n.1, Setembro/Dezembro – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n1.0 7 Página | 164 invés de votarem nas ideias que mereciam atenção" (Respondente 3).
+Ainda nesse sentido, a Economia refere -se diretamente à redução ou à eliminação de recursos financeiros da organização; e a Governança, à otimização dos processos e planejamento da universidade pela redução do esforço para se obter informações e a criação d e um método de captação de ideias de inovação replicável periodicamente.
+Sobre esses fatores, a Economia foi associada à obtenção da opinião de um grande número de pessoas de forma barata e a Governança, à gestão adequada vislumbrando controle e replicação da iniciativa: "o custo dessa plataforma é baixo, se comparado aos serviços de consultoria prestados no mercado e, uma vez implantada, pode ser utilizada mais vezes" (Respondente 5).
+Por sua vez, os fatores das dimensões Efetividade e Qualidade evolvem a percepção dos envolvidos em relação a valores subjetivos: atributos relacionados ao ganho de Confiança e à melhoria da imagem da organização, aos Impactos Sociais gerados pela iniciativa; e à mudança na Cultura da comunidade: "[.]
+não observei, como alun o de graduação, impacto direto na vida acadêmica [.]
+[a discussão da] aplicabilidade das ideias, resolveria o sentimento de inutilidade da participação, permitindo o amadurecimento dos pensamentos dos participantes no tocante da administração pública e a umentando a confiança na gestão da universidade."
+(Respondente 75) Também envolvem a percepção do usuário em relação à qualidade do serviço ou produto ofertado: os ganhos em Presteza no atendimento de suas demandas, na percepção de Utilidade da iniciativa, bem como o prazer e Satisfação gerados por seu uso.
+Enfim, entende -se como válida essa nova divisão, quanto ao tipo de estratégia, no qual Abertura e Eficiência são estratégias de custo e Efetividade e Qualidade são estratégias de Valor.
+Trata -se de subdi visão que torna evidente a relação entre as dimensões do "Radar da Inovação de valor" e o conceito original da "Estratégia do Oceano Azul".
+O fator Colaboração teve de ser excluído da pesquisa, por não possuir correlação forte com os grupos de fatores.
+En tretanto, nesta pesquisa, o fator Governança referiu -se tanto à organização e otimização dos processos quanto à gestão e à continuidade da inovação, sendo, portanto, muito abrangente.
+Portanto, sugere -se que em trabalhos futuros seja testado o fator Organi zação em substituição ao fator Colaboração, para abarcar de forma mais detalhada a otimização dos processos pelo uso da inovação.
+Assim, a dimensão Eficiência seria composta pelos fatores Governança, Organização e Economia.
+5 APLICAÇÃO DO RADAR DA INOVAÇÃO DE VALOR AO "PROJETO UNI+" Por fim, o questionário radar foi aplicado com o objetivo avaliar a percepção dos Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n.1, Setembro/Dezembro – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n1.0 7 Página | 165 usuários da "Plataforma ou projeto Uni+" acerca de cada fator.
+A Tabela 3 apresenta o perfil dos respondentes.
+Tabela 3 Perfil dos respondentes do questionário Perfil Membro da comunidade acadêmica Membro externo à comunidade acadêmica.
+Estudante de Servidor (a) Graduação Pósgraduação Terceirizado com função gratificada Sem função gratificada % 47,7 13,1 2,8 9,3 23,4 3,7 Total % 60,75 35,5 Idade (anos) 19 - 30 31 - 40 40 - 50 51 - 60 Mais de 61 Não informada % 57,8 24,8 9,2 5,5 0,9 1,8 Fonte: dados da pesquisa (2020).
+O perfil predominante na amostra é o de estudantes, seguindo por servidores (técnicos e professores), com pequena participação de membros externos à Universidade.
+No cadastro dos participantes na plataforma não foram solicitadas informações sobre seu víncu lo com a instituição, portanto, é impossível tecer discussões comparando o perfil da amostra ao da população.
+A Tabela 4 ilustra a média dos valores atri buídos pelos respondentes em relação a cada fator e dimensão do radar.
+Tabela 4 Média das respostas Dimensões e fatores Média Estratégias de custos 4,12 Eficiência 4,17 Governança 4,35 Economia 4,00 Colaboração * Abertura 4,07 Acessibilidade 4,24 Usabilidade 3,79 Motivação 4,18 Estratégias de valor 3,34 Qualidade 3,22 Utilidade 3,12 Presteza 3,10 Satisfação 3,44 Efetividade 3,48 Confiança 3,62 Cultura 3,60 Impacto social 3,26 *O fator Colaboração foi excluído após os resultados da análise de componentes principais.
+Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n.1, Setembro/Dezembro – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n1.0 7 Página | 166 Fonte: dados da pesquisa (2020).
+Têm-se que índices acima de 4,5 indicam que os respondentes, em média, foram enfáticos em concordar totalmente (máximo = 5) que houve percep ção de inovação relacionada àquele fator.
+Por outro lado, os próximos ou acima de 4 indicam que os respondentes concordam que o "Desafio Uni+" agregou valores em relação ao fator; e índices próximos ou abaixo de três significam que, em média, aquele fator não foi percebido pelos respondentes, pois o índice 3 indica a opção "Não concordo, nem discordo".
+As médias indicaram que as dimensões relacionados a Estratégia de Custo (4,12) – Abertura e Eficiência - são mais bem percebidos pelos usuários do que os relacionados a Estratégia de Valor (3,34) – Qualidade e Efetividade.
+Ambos os fatores da dimensão Eficiência obtiveram índices maiores que 4, indicando que os participantes da pesquisa consideram que o Desafio Uni+ inovou principalmente na Eficiência (4,1 7) do projeto, sendo uma forma mais econômica de levantamento de ideias de inovação e redução de custos – Economia (4) e, ainda, um projeto que impacta na estratégia da organização devendo ser replicado – Governança (4,35).
+O projeto Uni+ também pode ser considerado i novador em Abertura (4,07), com Motivação (4,18) e Acessibilidade (4,24) com índices maiores que 4, indicando que são os principais valores percebidos na utilização do "Desafio Uni+".
+A representação gráfica ( Figura 3) evidencia uma percepção mediana dos respondentes em relação a Estratégias de Valor e mais positiva em relação a Estratégias de custo.
+Figura 4 Radar da Inovação de Valor promovida pelo Uni+ Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n.1, Setembro/Dezembro – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n1.0 7 Página | 167 Fonte: dados da pesquisa (2020).
+As dimensões relacionadas a Estratégias de valor receberam níveis de concordância inferiores a 3,5, demonstrando menor percepção de valor em relação aos respectivos fatores.
+Esse resultado é útil aos gestores dos desafios, pois demonstra que a comunidade percebe a inovação na Aber tura e na Eficiência do Desafio Uni+ como ferramenta de participação pública.
+A Qualidade (3,22) do projeto foi pouco percebida pelos seus usuários, sendo que os dois piores índices foram de fatores dessa dimensão: o projeto foi considerado pouco útil pelos respondentes (3,12), q ue consideraram ainda suas demandas não foram atendidas com maior Presteza (3,10) e não foram certos sobre a Satisfação (3,44) de suas expectativas em relação ao projeto.
+O terceiro pior índice foi o Impacto social (3,26), o que demonstra que os usuários não identificaram impacto gerado pela aplicação das ideia s. Mais do que Impacto ou alguma transformação na comunidade acadêmica após o projeto, a Cultura (3,6) de possibilidade de participação e a Confiança (3,62) foram percebidas, o que elevou o índice da dimensão Efetividade (3,48).
+Esse resultado também ratifica a complexidade do alcance de valores que envolvem indicadores sociais e políticos e que dependem do contexto no qual os cidadãos estão inseridos (Cordella & Bonina, 2012 ).
+Detalhando cada fator, a partir das dimensões da Estratégia de custos, a inovação do projeto Uni+ está mais relacionada à sua Eficiência.
+A Governança (4,35) foi o fator com maior índice da pesquisa, o que pode ter ocorrido pelo o item do questionário referir -se também à repetição do desafio em outras edições.
+Em trabalho relacionado, Vilas Boas (2019) en trevistou 17 gestores e usuários da plataforma e também constatou que a maioria dos entrevistados desejava periodicidade na realização do desafio.
+Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n.1, Setembro/Dezembro – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n1.0 7 Página | 168 Assim, embora o resultado seja positivo, cabe uma ressalva quanto à grande abrangência do fator, já que ele se refere tanto à organização e otimização dos processos, quanto à gestão e à continuidade da inovação.
+Sendo assim, sugere -se que em trabalhos futuros seja testado o fator Organização em substituição ao fator Colaboração, para abarcar de forma mais detalh ada a otimização dos processos pelo uso da inovação.
+Assim, a dimensão Eficiência seria composta pelos fatores Governança, Organização e Economia.
+A Economia (4) foi o terceiro fator mais percebido pelos respondentes, demonstrada pelo índice 4 e por coment ários como: "Foi uma plataforma inovadora e inédita para resolução de problemas.
+Imagino que o custo dessa plataforma de brainstorming também tenha sido baixo, se comparado aos serviços de consultoria prestados no mercado" (servidor técnico sem função gratificada).
+Sobre as dimensões das Estratégias de curto, a Abertura também impacta na percepção de inovação dos respondentes.
+Compondo essa dimensão, a Acessibilidade (4,24) foi o fator com o segundo maior índice, indicando que os respondentes perceberam a i nclusão de pessoas que antes não opinavam sobre os problemas da Universidade.
+Dessa forma, o desafio atinge seu objetivo de dar voz a pessoas da comunidade que até então não eram ouvidas (Vilas Boas, 2019).
+Segundo o reitor da Universidade: " abrir mais um espaço coletivo para a proposição de soluções e uma gestão compartilhada foi alcançado" (Aguiar, 2015b ; Murugesan & Sudarsanam, 2019 ).
+Quanto à menor percepção dos usuários acerca da inovação em Usabilidade (3,79), o resultado pode ser explicado pelo fato de o item do questionário referir -se à interação com os administradores, o que não ocorreu de forma direta e pode ser melhorado com o maior envolvime nto dos gestores comentando as ideias.
+Motivação (4,18) foi o quarto fator com maior índice.
+Notícias e pesquisas sobre o "Projeto Uni+" já enfatizavam inovação nas razões pelas quais as pessoas participaram do projeto: o prêmio financeiro, o incentivo de amigos e a possibilidade de estabelecer uma rede de comunicação com pessoas de ideias semelhantes – razões citadas pelos respondentes nos comentários do questionário.
+Em relação às Estratégias de valor , com exceção da Satisfação , os fatores da dimensão Qualidade – Presteza, Utilidade – tiveram índices próximos ao neutro .
+Isso sugere que os usuários da plataforma, em média, não consideram que o projeto tenha trazido novos ganhos em termos de Utilidade (3,12) para a comunidade acadêmica e, ainda, não favoreceu o atendimento mais célere de suas demandas – Presteza (3,10).
+Ainda na dimensão Qualidade , o fator Satisfação (3,44) obteve índice pouco maior que Presteza e Utilidade .
+Pela análise dos comentários, uma possível razão para isso está no fato de existirem diferentes expectativas em relação ao desafio, os gestores satisfazem -se por: "oferecer mais um espaço coletivo para a Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n.1, Setembro/Dezembro – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n1.0 7 Página | 169 proposição de soluções que contribuam para uma gestão compartilhada".
+Enquanto os membros da comunidade satisfazem -se pelo ( a): "impacto direto das ideias na vida acadêmica" ( Síntese dos comentários dos respondentes 30, 35 e 76); "implementação concreta das ideias" (Respondentes 7, 13, 17, 20, 21 e 74); "melhoria de network e feedback dos departamentos sobre as ideias" ( Respond entes 27, 35 e 66); "Visibilidade social na comunidade externa" (Respondente 53) Nesse sentido, pode -se retomar Kim e Mauborgne (2005, 2014) que afirmam que para se alcançar a inovação de valor é preciso que a estratégia de inovação possua foco, singularid ade e uma mensagem consistente.
+Os resultados sobre o fator Satisfação demonstram que embora na visão dos gestores o foco do Uni+ estaria na abertura para a interação, isso não ficou claro aos participantes que esperavam mais da fase de absorção das ideias .
+Sendo assim, houve uma limitação em relação à mensagem consistente : enquanto era esperada a divulgação qualitativa das ideias que seriam colocadas em prática, a ênfase da divulgação foi em aspectos quantitativos, como o número de interações na plataforma e de ideias viáveis.
+Esse fato impactou negativamente na Satisfação e também nos fatores da dimensão Efetividade (3,48).
+O Impacto social (3,26) das ideias ou do projeto na vida da comunidade acadêmica não foi percebido : "É uma ótima ferramenta, mas precisa de ajustes e mais impacto social.
+"(Respondente 35); "Não vi nenhum resultado efetivo do UFLA+ na comunidade da UFLA."
+(Respondente 9); "A ferramenta é muito interessante, mas os resultados precisam ser aplicados."
+Porém, não vi resultados de implementação das ideias sugeridas pelas pessoas."
+(Respondente 56); "não vi nenhum impacto concreto."
+Segundo comentários de gestores da plataforma, a implatanção de ideias ficou prejudicada pela baixa qualidade de ideias ou pelo fato de as ideias já serem semelhantes a projetos já desenvolvidos na universidade e desconhecidos da comunidade acadêmica.
+Sobre esse aspecto, chama a atenção o comentário do respondente 79, aluno de graduação: "vis ando uma participação mais bilateral, acredito que seria interessante [.]
+discutira aplicabilidade das ideias durante o desafio, visando, inclusive, modificações das mesmas, para que essas se tornem mais aplicáveis".
+Corrobora para essa sugestão o trabal ho de Martins and Bermejo (2016) , no qual os autores demonstraram que a participação de agentes públicos questionando as ideias postadas pela comunidade durante o desafio pode melhorar a qualidade do conteúdo gerado.
+Assim, a baixa divulgação e interação sobre a aplicabilidade das ideias contribuiu para essa percepção neutra e m relação aos Impactos Sociais.
+Embora não tenha sido percebido ganhos em termos de Impacto social, os ganhos em Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n.1, Setembro/Dezembro – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n1.0 7 Página | 170 Confiança (3,62) e Cultura (3,6) foram mais bem percebidos: os respondentes consideraram positiva a inovação promovida na imagem da organização e na cultura de participação gerada.
+As mudanças na imagem referem -se a agregar a percepção de uma universidade que oportuniza a participação social (Respondente 57) e é sensível à opinião da comunidade.
+Fatores que também podem impactar na cultura da com unidade que passa a desejar participar e ter suas demandas ouvidas, pedindo por novas edições.
+Do total de respostas do questionário, 23% das respostas foram consideradas neutras.
+Comparando o gráfico gerado nesta pesquisa com outros que esboçam a inovaçã o em várias áreas do setor privado (Abrucio, 2007 ; Camargo & Guimarães, 2013 ; Gonçalves, 2005 ), o Radar da Inovação de valor do caso Uni+ apresenta maior número de fatores com índices mais próximos ao neutro (3 – não concordo; nem discordo).
+Esse resultado neutro poderia ser associado pelo espaço tempor al de 5 anos entre o caso estudado e a pesquisa, que faz com que os respondentes não se lembrem com detalhes do fenômeno.
+Porém, o fato de a maioria dos fatores relacionados à Estratégias de custos possuírem índices superiores a 4 retiram parte dessa razão e reforçam a ideia de que resultados quantitativos da inovação tendem a ser melhor mensurados e divulgados (quantidade de acessos, interações, ideias) em detrimento de aspectos qualitativos (novos relacionamentos, qualidade da interação, impacto das ideia s).
+E, sendo as Estratégias de valor mais relacionadas aos aspectos qualitativos, sua mensuração e divulgação pode ter ficado comprometida, levando a essas respostas neutras.
+Essa neutralidade ressalta a importância do ponto neutro do questionário, como o pção para os respondentes que se esqueceram ou não querem opinar sobre alguns aspectos, o que entretanto, contradiz (Hakola, 2016 ), que propõe retirar os pontos n eutros na medição da satisfação de usuários -cidadãos acerca dos serviços públicos, considerando -os positivos devido ao alto nível de expectativa dos cidadãos.
+Assim, o desafio Uni + é percebido como inovador somente nos aspectos da Eficiência e Abertura, ou seja, ele se diferencia das demais estratégias de participação social por alcançar um público que anteriormente não havia tido a experiência de participação na proposição de idei as para a universidade e de forma mais econômica.
+Enfim, o radar da inovação de valor, assim como a tela da estratégia do Oceano Azul (Kim & Mauborgne, 2005 ; Kim & Mauborgne, 2014 ), auxilia na auto-avaliação pela organização sobre os aspectos que diferenciam essa estratégia das disponíveis anteriormente para participação social, como ouvidorias e assembleias.
+Porém, diferente da tela da estratégia que considera somente os aspectos nos quais uma organização se diferencia das demais, os elementos do r adar da inovação de valor são considerados Fatores Críticos de Sucesso o que implica que todos têm Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n.1, Setembro/Dezembro – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n1.0 7 Página | 171 sua importância na percepção da inovação no setor público.
+Assim, o destaque da inovação gerada pelo Uni+ em Acessibilidade e Motivação não diminui a necessi dade de se encontrar soluções para elevar o Impacto Social, a Presteza e a percepção de Utilidade dos desafios de ideias no setor público.
+6 CONCLUSÕES Esta pesquisa fundamentou -se no estudo e análise da adequabilidade de dimensões e fatores e na aplicabilidade do "Radar da Inovação de Valor" Shafiq , Tasmin, Qureshi, and Takala (2019) no contexto do "Projeto Uni+" de geração de ideias para a promoção da inovação em uma Universidade pública.
+Com base em levantamento realizado por questionário, baseado no radar, validado e aplicado aos participantes do "Projeto Uni+" propôs -se um novo desenho e subdivisão do radar em: Estratégias de custo e Estratégias de valor.
+Sendo as Estratégias de custo associadas às dimensões Abertura – fatores Acessibilidade Usabi lidade e Motivação - e Eficiência – fatores Governança e Economia.
+e as Estratégias de Valor associadas às dimensões Qualidade – fatores Utilidade, Presteza e Satisfação e Efetividade - fatores Confiança, Cultura e Impacto social.
+Sendo eliminado o fator Colaboração que não se mostrou significativo no contexto da análise realizada e propondo o teste do fator Organização para diminuição da abrangência do fator Governança.
+O radar da inovação de valor adaptado ao caso Uni+ foi utilizado para fundamentar a análise das respostas obtidas pelos respondentes da pesquisa, chegando -se às seguintes conclusões em relação ao nível de inovação do projeto: i) O desafio Uni+ é inovador em Abertura e Eficiência, porém não foi percebido como gerador de valores associados à Qualidade e Efetividade; ii) para se atingir a inovação de valor é necessário maior foco nos objetivos e mensagens consistentes ao público -alvo da proposta para que haja um alinhamento das expectativas e conseqüente aumento dos fatores associados às Estr atégias de valor, sobretudo no Impacto Social, Utilidade, Satisfação e Presteza; iii) é desejável que se aumente o foco na capacidade absortiva das ideias produzidas o que pode ser feito com o feedback durante o andamento do desafio, para melhoria da quali dade das ideias, bem como feedback em médio e longo prazo sobre o que foi absorvido.
+Sobre a contribuição da pesquisa para a literatura, têm -se a proposição de ferramenta que aproxima do contexto do setor público a teoria da inovação de valor de Kim & Mauborgne (2005) , amplamente utilizada para gerar inovações substanciais no setor privado.
+Esperando -se Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n.1, Setembro/Dezembro – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n1.0 7 Página | 172 assim, estimular discussões sobre fatores mais subjetivos esperados como resultados dos projetos de inovação no setor público.
+A pesquisa também oferece uma abordagem diferenciada do radar da inovação de Sawhney, Wolcott, & Arroniz (2006) e a tela da estratégia do Oceano Azul (Kim & Mauborgne, 2005 ; Kim & Mauborgne, 2014 ), pelo fato de o Radar da inovaç ão de valor no setor público estar baseado abordagem dos Fatores Críticos de Sucesso.
+Enquanto o radar da inovação e a tela da estratégia são instrumentos de avaliação dos tipos ou atributos de inovação para vencer a concorrência, o radar da inovação de va lor é um instrumento para se verificar é se um projeto de inovação no setor público é relevante considerando áreas chaves, que são representadas pelos fatores componentes do radar.
+Finalmente , conclui -se também que recorrer à percepção de valor dos usuários de um projeto de inovaç ão é uma estratégia válida para simplificar a avaliação de fatores mais abstratos e subjetivos.
+Porém, dados quantitativos não são suficientes para compreender as razões pelas quais determinados fatores não são percebidos.
+Nesta pesquisa, recorreu -se a aná lise de comentários espontâneos e à literatura para contornar tal limitação.
+Como trabalhos futuros, outros projetos, planos e processos de inovação no setor público podem ser avaliados a partir do radar e de adaptações do questionário proposto.
+A compara ção dos resultados obtidos em diferentes iniciativas pode fazer contribuir para o alcance de maturidade do "radar da inovação no setor público" bem como para estudos e discussões relacionadas a aplicabilidade da Estratégia do Oceano Azul ao setor público, incentivando pesquisas que também considerem a percepção dos cidadãos acerca das iniciativas de inovação.
+A conceptual model to establish an Islamic Finance Unit at a Malaysian public university.
+Asian Social Science, 10 (9), 100 -107.
+Aberbach, J. D., & Christensen, T. (2005).
+Citizens and consumers: An NPM dilemma.
+Public management revie w, 7(2), 225 -246.
+Abrahamson, S., Ryder, P., & Unterberg, B.
+Crowdstorm: the future of innovation, ideas, and problem solving : John Wiley & Sons.
+Trajetória recente da gestão pública brasileira: um balanço crítico e a renova ção da agenda de reformas.
+Revista de Administração Pública, 41 (SPE), 67 -86.
+Desafio UFLA+ soluções inovadoras tem noite de premiações.
+Diretoria de Comunicação da UFLA.
+Retrieved 20 mai 2020 Aguiar, C. (2015b, 7 ago 202 0).
+Finalizada primeira rodada do desafio UFLA + com 4,5 mil ideias para a universidade.
+Diretoria de Comunicação da UFLA.
+Ahmat, M. A., Jaafar, C. R. C., & Azmi, N. A.
+The Transformation of Reference Services in Hamzah Sendut Library, Universiti Sains Malaysia.
+In B. H. Voon, J. Hamali, F. Abdullah, C. Joseph, S. H. Leong, U. H. Lau, E. S. M. Chung, K. C. Ng & A. K. Teo (Eds.
+), Irssm -6: The 6th International Research Symposium in Service Management - Service Imperatives in the Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n.1, Setembro/Dezembro – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n1.0 7 Página | 173 New Economy: Servic e Excellence for Sustainability (Vol.
+Amsterdam: Elsevier Science Bv.
+Alawneh, A., Al -Refai, H., & Batiha, K. (2013).
+Measuring user satisfaction from e -Government services: Lessons from Jordan.
+Government information quarterly, 30 (3), 277 -288.
+Antonialli, F., Antonialli, L. M., & Antonialli, R. (2016).
+Usos e abusos da escala Likert: estudo bibliométrico nos anais do ENANPAD de 2010 a 2015.
+Paper presented at the Congresso de Administração, Sociedade e Inovação.
+Inovação e empreendedorismo : Bookman Editora.
+Bozeman, B., & Bretschneider, S. (1986).
+Public management information systems: Theory and prescription.
+Public administration review , 475 -487.
+Camargo, F. d. O., & Guimarães, K .
+O princípio da eficiência na gestão pública.
+Revista CEPPG -CESUC -Centro de Ensino Superior de Catalão, Ano XVI nº, 28 .
+Chern, J. S., Huang, A., & Wu, L. (2008).
+Incubating domestic space -qualified manufacturers through ROCSAT programs.
+Paper presented at the 6th International Symposium of the International Academy of Astronautics: Small Satellites for Earth Observation, IAA 2007, Berlin.
+Chesbrough, H., Vanhaverbeke, W., & West, J.
+Open innovation: Researching a new paradigm : Oxford Un iversity Press on Demand.
+Christodoulou, I., & Langley, P. A.
+A gaming simulation approach to understanding blue ocean strategy development as a transition from traditional competitive strategy.
+Journal of Strategic Marketing , 1-26.
+E -government: towards the e -bureaucratic form?
+Journal of information technology, 22 (3), 265 -274.
+Cordella, A., & Bonina, C. M. (2012).
+A public value perspective for ICT enabled public sector reforms: A theoretical reflection.
+Government Informati on Quarterly, 29 (4), 512 -520.
+Cordella, A., & Tempini, N. (2015).
+E -government and organizational change: Reappraising the role of ICT and bureaucracy in public service delivery.
+Government Information Quarterly, 32 (3), 279-286. de Souza, W. V. B., Caval cante, C. C. M., Pereira, W. R., de Souza Bermejo, P. H., Martins, T. C. M., & Pereira, J. R. (2014).
+Planning the use of crowdstorming for public management: a case in the Ministry of Education of Brazil.
+Estellés -Arolas, E., & González -Ladrón -De-Guevara , F. (2012).
+Towards an integrated crowdsourcing definition.
+Journal of Information science, 38 (2), 189 -200.
+Hair, J., Black, W., Babin, B., Anderson, R., & Tatham, R. (2006).
+Adapting Net Promoter thinking in public sector organizations.
+Hasan, F. A., Komoo, I., Nor, M. N. M., & Abdullah, Z.
+Transformation of universities and the national Blue Ocean Strate gy: A case study of Universiti Malaysia Terengganu.
+Journal of Sustainability Science and Management, 12 (1), 70 -78.
+Citizensourcing: Applying the concept of open innovation to the public sector.
+International Journal of Publ ic Participation, 4 (1).
+Critical success factors simplified: Implementing the powerful drivers of dramatic business improvement : CRC Press.
+Karunasena, K., & Deng, H. (2010).
+Exploring the Public Value of e -Government: An Empirical Study from Sri Lanka.
+Paper presented at the Bled eConference.
+Kelly, G., Mulgan, G., & Muers, S. (2002).
+Kim, W. C. , & Mauborgne, R. (2005).
+Value innovation: a leap into the blue ocean.
+Kim, W. C., & Mauborgne, R. (2014).
+Blue ocean strategy, expanded edition: How to create uncontested market space and make the competition irrelevant : Harvard business review Press.
+Kim, W. C., & Maubourge, R. (1997).
+Klein, A. D., & Santos, E. R. (2019).
+A utilização das tecnologias da informação no âmbito da previdência social: a inclusão excludente da internet aos segurados previdenciári os/The use of Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.9, n.1, Setembro/Dezembro – 2021 ISSN: 2319 -0639 DOI: 10.18226/23190639.v9n1.0 7 Página | 174 information technologies in the framework of social security: the excluding inclusion of the internet to the private insured.
+Brazilian Journal of Development, 5 (2), 1692 -1701.
+Lee, Y. L., Wang, W. S., & Chung, S. M. (2017).
+The Blue Ocean S trategy applied in a flood control product development.
+Paper presented at the 2017 IEEE International Conference on Applied System Innovation, ICASI 2017.
+Exploring Online Engagement in Public Policy Consultation: The Crowd or the Few?
+Australian Journal of Public Administration, 76 (1), 33 -47.
+Martins, T. C. M., & Bermejo, P. H. d. S. (2016).
+Desafio de ideias para o governo aberto: o caso da Polícia Militar de Minas Gerais – Brasil.
+Cadernos Gestão Pública e Cidadania, 21 (70).
+Martins, T. C. M., & Zambalde, A. L. (2020).
+A Sabedoria das Multidões e a Esfera Pública: a coprodução de soluções para problemas públicos em plataformas de gestão de ideias.
+Administração Pública e Gestão Social .
+Martins, T. C. M., Zambalde, A. L., Grützmann, A., de Souza Bermejo, P. H., de Almeida, E. L., & do Nascimento, T. B. P. (2019).
+Value Innovation in the Pub lic Sector: Concept, Determining Factors and Framework.
+Lecture NOtes in Computer Science, 11709 , 163 -175.
+Opening Government: Designing Open Innovation Processes to Collaborate With External Problem Solvers.
+Social Science Computer Rev iew, 33 (5), 599 -612.
+Wernerfelt, B., A resource -based view of the firm Strategic Management Journal, 5, pp.
+Creating public value: Strategic management in government : Harvard university press.
+Murugesan, R., & Sudarsanam, S. K. (2019).
+Transdisciplinary approach for sustainable rural development.
+International Journal of Recent Technology and Engineering, 8 (1), 2454 -2460.
+Consequências da adoção de inovações: um modelo de análise além do viés pró-inovação.
+Parker, G. G., Van Alstyne, M. W., & Choudary, S. P. (2019).
+Plataforma: a revolução da estratégia : Alta Books.
+Parra Duarte, C., Bizelli, J., Corrêa, V., & Vargas, T. (2016).
+Governo e participação digital: limites e possibilidades do Programa Di aloga Brasil .
+Parra Filho, H. C. P., & Martins, R. A. P. (2017).
+Governança digital como vetor para uma nova geração de tecnologias de participação social no Brasil| Digital governance as a vector for a new generation of social participation technologies i n Brazil.
+Blue ocean strategy in Malaysian public sector: An analysis of the four action framework.
+Advanced Science Letters, 22 (5-6), 1702 -1706. doi: 10.1166/asl.2016.6736 Rocka rt, J. F. (1980).
+The changing role of the information systems executive: a critical success factors perspective.
+Saunders, T., & Mulgan, G. (2017).
+Governing with collective intelligence.
+Sawhney, M., Wolcott, R. C., & Arroniz, I.
+The 12 different ways for companies to innovate.
+MIT Sloan management review, 47 (3), 75.
+Scherer, F. O., & Carlomagno, M. S. (2000).
+Gestão da inovação na prática: como aplicar conceitos e ferramentas para alavancar a inovação : Editora Atlas SA.
+Shafiq, M., Tasmin, R., Qureshi, M. I., & Takala, J.
+A new framework of blue ocean strategy for innovation performance in manufacturing sector.
+International Journal of Engineering and Advanced Technology, 8 (5), 1382 -1389. doi: 10.35940/ijeat.E1197.0585C19 Vicini, L., & Souza, A.
+Análise multivariada da teoria à prática.
+Monografia (Trabalho de Conclusão de Curso de Especialização em Estatística) -Universidade Federal de Santa Maria, Santa Maria .
+Plataforma de Ideias e Inovação Aberta aplicada a Universidade Pública:a abordagem crowdstorming.
+(Dissertação de Mestrado), Universidade Federal de Lavras.
+Xu, M., Qi, L., Zhang, L. B., Zhang, T., Yang, H. S., & Zhang, Y. L. (2019).
+Ecosystem attributes of trophic models before and after construction of artificial oyster reefs using Ecopath.
+Aquaculture Environment Interactions, 11 , 111 -127. doi: 10.3354/aei00284 Yin, R. K. (2015).
+Estudo de Caso -: Planejamento e métodos : Bookman edit ora.

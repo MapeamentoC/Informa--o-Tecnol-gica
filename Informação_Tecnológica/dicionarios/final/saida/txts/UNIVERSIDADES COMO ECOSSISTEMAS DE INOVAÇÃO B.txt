@@ -1,0 +1,359 @@
+ Revista Práxis Educacional , Vitória da C onquista – Bahia - Brasil, v. 14, n. 27, p. 103-133, jan./mar.
+Práxis Educacional e-ISSN 2178 -2679 Revista 103 ARTIGO UNIVERSIDADES COMO ECOSSISTEMAS DE INOVAÇÃO BASEADOS EM FLUXOS DE CONHECIMENTO UNIVERSITIES AS KNOWLEDGE FLOW BASED INNOVATION ECOSYSTEMS UNIVERSIDADES COMO ECOSISTEMAS DE INNOVACIÓN BASADOS EN FLUJOS DE CONOCIMIENTO José Roberto Branco Ramos Filho Universidade Federal do Oeste do Pará – Brasil Universidade Nova de Lisboa – Portugal Celson Pantoja Lima Universidade Federal do Oeste do Pará – Brasil Resumo O presente artigo apresenta a simulação do comportamento de indivíduos em um ambiente universitário expostos a um ambiente estável e a um ambiente em constante mudança para avaliar a evolução de sua motivação em aprender e adotar novas práticas pedagógicas .
+Para tanto, foi utilizada a adaptação de um modelo computacional de ecossistema de inovação baseado em fluxos de conhecimento implementado usando o paradigma de simulação multiagentes.
+Palavras -chave: Ecossistemas de inovação.
+Abstract This article presents a simulation of the behavior of individuals exposed to a stable university environment and to a constantly changing environment to evaluate the evolution of their motivation to learn and adopt new pedagogic al practices.
+In order to do so, an adapted innovation ecosystem based on knowledge flows computational model has been used.
+The model was implemented using the multiagent simulation paradigm.
+Keywords: Innovation ecosystems.
+Resumen El presente artículo presenta la simulación del comportamiento de individuos en un ambiente universitario expuestos a un ambiente estable y a un ambiente en Revista Práxis Educacional , Vitória da C onquista – Bahia - Brasil, v. 14, n. 27, p. 103-133, jan./mar.
+Práxis Educacional e-ISSN 2178 -2679 Revista 104 constante cambio para evaluar la evolución de su motivación en aprender y adoptar nuevas prácticas pedagógicas.
+Para ello, se utilizó la adaptación de un modelo computacional de ecosistema de innovación basado en flujos de conocimiento implementado usando el paradigma de simulación multiagentes.
+Palabras clave: Ecosistemas de innovación.
+Introdução Já é senso comum que, ainda que nem todas as inovações tenham tido raízes nas universidades, estas originara m várias inovações revolucionárias e de grande impacto, especialmente nas últimas décadas (BALCONI; BRUSONI; ORSENIGO, 2010; KLINE; ROSENBERG, 1986).
+Contudo, os avanços da academia são usualmente direcionados ao uso na sociedade em geral ou a adicionar ao corpo de conhecimento existente para auxiliar em novas descobertas, e não à ampla melhoria de seus próprios métodos.
+Pode até afetar o conteúdo, mas nem sempre mudam a forma como as aulas são ministradas (FELDER et al., 2000).
+Adiciona -se a isto o fato de cursos de nível superior, como os de engenharia, não ensinarem seus alunos a serem professores (ROBINSON; HOPE, 2013; WANKAT, 1999).
+E posto que a maioria dos professores universitários, ainda que altamente graduados, foram formados nestes cursos, é costu meiro priorizar o conteúdo específico disciplinar na elaboração dos cursos em detrimento das necessidades e técnicas pedagógicas (WANKAT, 1999), de forma que as técnicas e métodos utilizados em sala de aula para apresentar o conteúdo costumam ser aquelas q ue os hoje docentes apreciavam, ou associavam a professores de boa reputação, quando eles próprios eram estudantes (ROBINSON; HOPE, 2013).
+A distância entre o estado da arte e a prática é ainda maior quando se considera o ensino de alunos com necessidades especiais.
+Ao mesmo tempo, tem se hoje nas universidades uma elevada taxa de evasão, especialmente elevada em cursos da área de ciências exatas.
+Esta evasão desperdiça os recursos públicos e o tempo aplicado nos desistentes no caso das universidades públicas, e bota em risco a viabilidade dos cursos Revista Práxis Educacional , Vitória da C onquista – Bahia - Brasil, v. 14, n. 27, p. 103-133, jan./mar.
+Práxis Educacional e-ISSN 2178 -2679 Revista 105 privados.
+O maior prejuízo, no entanto, é o do estudante, que desiste do curso antes de concluir sua formação.
+Dentre as razões apontadas por diferentes estudos estão a repetida reprovação e a baixa acessibilidade ao conte údo das aulas por parte de pessoas com algum tipo de deficiência ou necessidade especial, seja ela física, cultural ou acadêmica (AULCK et al., 2016; MUSTAFA; CHOWDHURY; KAMAL, 2012; STOFFEL; ZIZA, 2014).
+Estes números poderiam ser melhorados com a adoção das melhores práticas, de novas técnicas pedagógicas e de novas ferramentas de suporte ao ensino, dentre as quais muitas de eficácia já.
+No entanto o uso de muitas destas inovações permanece restrito.
+O problema abordado neste trabalho, portanto, é entende r por que o conhecimento disponível não flui até quem o utilizaria em suas atividades, apesar da promessa de melhores resultados, com foco no comportamento do receptor do conhecimento, ainda que os indivíduos estejam inicialmente motivados.
+Adota -se como h ipótese a ideia de que isto pode estar relacionado à estabilidade da demanda do ambiente.
+Para melhor compreender a difusão de novos conhecimentos relativos à forma como as universidades realizam suas atividades, este trabalho aplica um modelo conceitual d e ecossistemas de inovação baseado em fluxos de conhecimento ao contexto universitário.
+Experimentos foram realizados utilizando um modelo computacional baseado em agentes construído de acordo com o modelo conceitual citado.
+Ambos, o modelo conceitual e o modelo computacional serão apresentados nas seções a seguir.
+No entanto, antes cabe esclarecer brevemente o que são ecossistemas de inovação.
+Ecossistemas de inovação Um ecossistema pode ser visto como uma comunidade de organismos vivos vivendo em conjun ção com componentes abióticos (como água, ar, minerais do solo), em constante interação através de fluxos de energia, de matéria e de informação (CHRISTIAN, 2009; ODUM; BARRET, 2004).
+Revista Práxis Educacional , Vitória da C onquista – Bahia - Brasil, v. 14, n. 27, p. 103-133, jan./mar.
+Práxis Educacional e-ISSN 2178 -2679 Revista 106 Já inovação é definida pelo Manual de Oslo (OCDE, 2005, p. 55) como "[.]
+a implementação de um produto (bem ou serviço) novo ou significativamente melhorado, ou um processo, ou um novo método de marketing, ou um novo método organizacional nas práticas de negócios, na organização do local de trabalho ou nas relações externas" .
+Senge (2006, p. 5) define o termo como uma ideia que pode ser "[.]
+replicada de maneira confiável em uma escala significativa a custos praticáveis".
+Portanto, uma ideia, uma prova de conceito ou mesmo um protótipo que foi testado em laboratório, mas nã o implementado em seu propósito final, deve ser considerado como uma invenção e não deve ser confundido com inovação (METCALFE; RAMLOGAN, 2005; SENGE, 2006).
+A partir dos dois conceitos e do corpo de conhecimento que se formou em seu entorno é possível obs ervar o fenômeno da difusão de inovações a partir de uma perspectiva ecológica, enfatizando forças motoras como nichos ambientais de recursos e adaptação, assim como processos dinâmicos evolucionários, como variação, seleção e retenção (DURST; POUTANEN, 20 13).
+Desta forma, pode -se afirmar que em ecossistemas de inovação atores competem e/ou cooperam para obter recursos em um ambiente comum, circulando recursos e informação.
+Também são importantes as relações entre os atores, a tecnologia, as instituições, a s interações sociológicas e a cultura (MERCAN; GÖTKAS, 2011).
+Estes atores e suas relações evoluem com o objetivo de obter vantagens competitivas, melhor adaptação ao seu ambiente e aumentar sua capacidade de sobreviver.
+Estes conceitos têm sido utilizados para explicar a difusão de inovações em mercados e indústrias, mas a dinâmica de adaptação e seleção pode ser observada também em outros contextos.
+Ao analisarmos universidades como ecossistemas de inovação pode -se considerá -las como o ambiente provedor d e recursos, regras e cultura onde diversos atores convivem, cooperando e/ou competindo para melhorar sua reputação e assim garantir sua permanência no ambiente e sua prosperidade.
+Revista Práxis Educacional , Vitória da C onquista – Bahia - Brasil, v. 14, n. 27, p. 103-133, jan./mar.
+Práxis Educacional e-ISSN 2178 -2679 Revista 107 Modelo de ecossistema de inovação baseado em fluxos de conhecimento O mode lo conceitual foi elaborado a partir do corpo de conhecimento de diversas disciplinas, como a economia, a computação, a gestão do conhecimento, a biologia, a filosofia e outras.
+Influenciaram fortemente este trabalho as teorias de cluster (DELGADO; PORTER; STERN, 2014; PORTER, 1998), sistemas de inovação (COOKE et al., 2011; COOKE; URANGA; ETXEBARRIA, 1997; FREEMAN; SOETE, 1997; LUNDVALL et al., 2002), ecossistemas de inovação (DURST; POUTANEN, 2013; ENGEL, 2015; HWANG; HOROWITT, 2012; MUNROE; WESTWIND, 200 9; OH et al., 2014; RITALA; ALMPANOPOULOU, 2017), ecossistemas biológicos (ALLEN; HOEKSTRA, 2015; CHRISTIAN, 2009; ODUM; BARRET, 2004), tipos de conhecimento (BUNGE, 1997, 1998; NONAKA; TAKEUCHI, 1995), difusão de conhecimento em comunidades de prática (HU ANG; WEI; CHANG, 2007; NONAKA; TAKEUCHI, 1995), engenharia de confiança interorganizacional em colaborações em rede (MSANJILA, 2009), teorias econômicas evolucionárias (NELSON; WINTER, 1982; TEECE, 2007), modelagem de sistemas complexos adaptativos baseado s em agentes (MILLER; PAGE, 2007; WILENSKY; RAND, 2015), dentre outras.
+Várias dos trabalhos consultados apontam aspectos comuns a este trabalho, como a menção a papéis que podem ser assumidos por diferentes tipos de atores presentes no ecossistema e a imp ortância do fluxo de conhecimento e os relacionamentos entre os atores (e. g. CARAYANNIS; CAMPBELL, 2009; DURST; POUTANEN, 2013; ETZKOWITZ; LEYDESDORFF, 2000).
+No entanto não explicitam que papéis são estes, em especial do ponto de vista do fluxo de conhec imento, que tipo de conhecimento está envolvido e como este fluxo se dá e evolui com o tempo.
+Este modelo visa preencher esta lacuna, complementando outros modelos que abordam aspectos como geografia, disponibilidade de capital, maturidade da tecnologia a ser adotada, interação entre indústria, academia e governos, dentre outros.
+O modelo proposto sustenta -se em três elementos principais: entidades, relações e conhecimento.
+Este último está contido nas entidades e flui através das relações estabelecidas.
+Es tes elementos estão imersos em Revista Práxis Educacional , Vitória da C onquista – Bahia - Brasil, v. 14, n. 27, p. 103-133, jan./mar.
+Práxis Educacional e-ISSN 2178 -2679 Revista 108 um contexto fornecido pelos Elementos de Sustentação do Ambiente, que pode favorecer ou inibir os fluxos de conhecimento, como se pode observar na Figura 1.
+O ambiente também seleciona as entidades que irão prosperar e sobrev iver, recompensando as entidades na proporção de sua aptidão, que por sua vez que buscam maneiras de melhorar sua adaptação e com isto suas chances de sobrevivência.
+Figura 1 – Componentes do modelo conceitual de ecossistema de inovação Fonte: Os autores.
+Entidades Os papéis das entidades em relação ao conhecimento dentro do ecossistema são: • Geradoras: criam novo conhecimento científico, fazem descobertas, criam invenções, adicionam ao corpo de conhecimento.
+• Difusoras: absorvem, armazenam e processam conhecimento criado por outra entidade e o transmitem a outras organizações sem, contudo, causar grandes avanços no "estado da arte" ou aplicá -lo em soluções disponíveis diretamente ao público.
+• Integradoras: criam relações, validam credenciais, estabelecem ambientes de confiança, disseminam valores culturais; criam visões compartilhadas.
+Revista Práxis Educacional , Vitória da C onquista – Bahia - Brasil, v. 14, n. 27, p. 103-133, jan./mar.
+Práxis Educacional e-ISSN 2178 -2679 Revista 109 • Consumidoras: aplicam conhecimento a produtos, processos, metodologias, e serviços ligados à atividade fim da organização.
+É através do consumo que o conhecim ento é incorporado a soluções que chegam ao público e passam a ser consideradas inovações (Senge, 2006).
+As entidades em um ecossistema usualmente não desempenham apenas um dos papéis acima descritos de maneira pura, mas o impacto que estas causam ao desem penhá -los permite atribuir a elas papéis dominantes, que por sua vez determinarão seu comportamento.
+As entidades podem ainda ser individualmente caracterizadas por sua (HUANG; WEI; CHANG, 2007) (i) motivação para aprender; (ii) vontade de compartilhar; (i ii) nível de conhecimento, assim como as regras pelas quais estes parâmetros evoluem a cada interação com outros agentes e com o ambiente.
+Relações Estas são as conexões entre as entidades, e podem variar em natureza e força.
+Para os propósitos do modelo , as relações entre duas entidades A e B serão caracterizadas por (i) distância entre as entidades, que pode ser considerada como distância geográfica, social, tecnológica ou de domínio; (ii) nível de confiança (de A em B e de B em A), que pode ser vincula da à reputação ou à aptidão de cada uma das partes; (iii) histórico de interações entre A e B, que pode afetar positiva ou negativamente a confiança entre os agentes.
+Conhecimento O conhecimento é contido nas entidades.
+Para que haja difusão, duas entida des devem estabelecer uma relação onde há suficiente confiança para que o fluxo se inicie.
+Também é necessário que haja algum conhecimento em comum, para que as entidades possam se comunicar em um determinado domínio de forma eficaz.
+Para os fins deste tra balho é Revista Práxis Educacional , Vitória da C onquista – Bahia - Brasil, v. 14, n. 27, p. 103-133, jan./mar.
+Práxis Educacional e-ISSN 2178 -2679 Revista 110 suficiente classifica -lo em tácito e explícito (NONAKA; TAKEUCHI, 1995), e científico e tecnológico na forma definida por Bunge (1997, 1998).
+A distinção entre conhecimento científico e tecnológico é de particular importância, posto que a transferê ncia de conhecimento científico para o conhecimento tecnológico e sua consequente introdução à prática não se dá de maneira trivial.
+Dadas as dificuldades inerentes ao aprendizado e ao fluxo de conhecimento, é mais comum que o conhecimento flua entre entid ades com conhecimentos de mesma natureza (HUANG; WEI; CHANG, 2007).
+O desenvolvimento de ciência em tecnologia é feita por entidades que possuam os dois tipos de conhecimento.
+Isto terá um impacto na escolha de parceiros para interação, e no tipo de conhec imento que fluirá entre entidades.
+Elementos de sustentação do ambiente O ambiente onde o ecossistema está instalado possui características tangíveis e intangíveis que o fazem mais ou menos permissivo ao estabelecimento e à manutenção de um ecossistema ( ENGEL, 2015; HWANG; HOROWITT, 2012; MUNROE; WESTWIND, 2009).
+A cultura, as leis, o clima econômico e político, as práticas em uso, a qualidade e as regras do mercado de trabalho, dentre outros são os elementos que determinam as "regras do jogo".
+A compreen são destes elementos e de como eles afetam a forma como as entidades avaliam suas ações é importante para compor a caracterização da demanda do ambiente, assim como os mecanismos que operam dentro do ecossistema para a distribuição de recursos, para a seleção de indivíduos, para a retribuição por compartilhamentos de conhecimento, dentre outros.
+Com isto, o comportamento das entidades em dois diferentes ecossistemas pode evoluir de maneira distinta, mesmo partindo das mesmas condições iniciais, levando a co mportamentos macro completamente diferentes.
+Desta forma, para estudar os fluxos de conhecimento em um ecossistema de inovação, e até mesmo para determinar se o ecossistema Revista Práxis Educacional , Vitória da C onquista – Bahia - Brasil, v. 14, n. 27, p. 103-133, jan./mar.
+Práxis Educacional e-ISSN 2178 -2679 Revista 111 existe ou não, é necessário identificar que tipos de entidades estão presentes, sua s características quanto ao compartilhamento de conhecimento e ao aprendizado, os tipos de conhecimento disponíveis e os elementos de sustentação do ecossistema em particular.
+Há muitas semelhanças entre os ecossistemas, mas há também muitas diferençasalgumas sutis - o que faz com que um elemento essencial em um possa ser dispensado em outros.
+As múltiplas combinações de entidades e características do ecossistema, assim como sua evolução com o tempo, tornam a simulação ainda mais importante para sua comp reensão.
+Metodologia Utilizou -se neste trabalho o método de pesquisa científico clássico para a condução e o delineamento do percurso da pesquisa.
+Esta se fundamenta na indução incompleta ou científica, criada por Galileu e aperfeiçoada por Bacon (MARCONI; LAKATOS, 2003), onde se parte de observações sistemáticas, formulação de hipóteses, seguido de experimentações e conclusões.
+Durante a elaboração do modelo conceitual foram identificadas várias dificuldades para a realização de experimentos em ec ossistemas de inovação reais, tais como o tempo e os recursos disponíveis, a viabilidade prática, os aspectos éticos de se interferir diretamente nos sistemas observados, além da dificuldade de se obter indicadores lineares que realmente meçam o desempenho de um ecossistema (LO, 2017; OH et al., 2014; RITALA; ALMPANOPOULOU, 2017).
+Portanto, optou -se por utilizar a simulação computacional para a realização dos experimentos, tal como sugerido por Ritala e Almpanopoulou (2017) e Miller e Page (2007).
+(2007 apud CARAYANNIS; PROVANCE; GRIGOROUDIS, 2016), este tipo de simulação é particularmente adequada ao desenvolvimento de teorias por conta de suas vantagens em reforçar a precisão teórica e a validade relacional interna, além de por p ermitir a Revista Práxis Educacional , Vitória da C onquista – Bahia - Brasil, v. 14, n. 27, p. 103-133, jan./mar.
+Práxis Educacional e-ISSN 2178 -2679 Revista 112 elaboração teórica e a exploração através da experimentação computacional.
+Dentre os paradigmas da simulação computacional foi selecionada a modelagem baseada em agentes por conta de suas vantagens para a simulação de sistemas complexos adaptativ os, como a modelagem do ponto de vista dos agentes, a flexibilidade para a adição de novas regras de ação e para a interação com o modelo, a capacidade exibir fenômenos emergentes, sua facilidade de comunicação se comparado a modelos matemáticos, a possibi lidade de simular ambientes com milhões de agentes individuais heterogêneos, e a possibilidade de se observar a formação do comportamento macroscópico de um sistema a partir do comportamento microscópico de seus agentes (WILENSKY; RAND, 2015).
+O procedimen to metodológico de modelagem utilizado foi predominantemente top-down , de onde se parte de um modelo conceitual previamente elaborado para a implementação do modelo computacional, ainda que o processo de implementação tenha levado a alterações no conceito, fato típico do método bottom -up onde o modelo conceitual é formulado de forma exploratória durante a implementação, com a adição de regras e o teste de hipóteses (WILENSKY; RAND, 2015).
+Como ambiente de modelagem, optou -se pelo NetLogo (WILENSKY, 1999), u ma plataforma de programação livre e amplamente utilizada dedicada à criação de modelos multiagentes.
+Os resultados esperados da simulação são qualitativos, e visam avaliar a dinâmica de ambientes quanto ao fluxo de conhecimento e sua evolução com o tempo.
+Observa -se a quantidade e a qualidade das interações entre os agentes, dadas as demandas do ambiente e o desempenho individual dos agentes em seus diferentes papéis, assim como a evolução do comportamento dos agentes com o tempo, dadas a sua percepção dos resultados de suas ações, que por sua vez irão afetar o comportamento macro do sistema.
+Revista Práxis Educacional , Vitória da C onquista – Bahia - Brasil, v. 14, n. 27, p. 103-133, jan./mar.
+Práxis Educacional e-ISSN 2178 -2679 Revista 113 Modelo computacional de uma universidade como ecossistema de inovação Para que seja possível a tradução do modelo conceitual apresentado em um modelo computacional, os mecanismos específicos do ecossistema em estudo devem ser implementados juntamente com os mecanismos mais genéricos referentes ao modelo conceitual.
+Modela -se aqui uma universidade onde todas as entidades participantes da simulação são detentoras de con hecimento pedagógico tecnológico ou científico.
+Professores são considerados consumidores de conhecimento, ao passo que pesquisadores são considerados como geradores.
+Cabe frisar que para ser considerado um professor o indivíduo não precisa ocupar formalme nte o cargo de docente.
+Basta lecionar, ainda que em disciplinas de diferentes domínios do conhecimento que não os ligados à Educação, ou ocupando formalmente diferentes cargos – e.g.
+técnico em educação que ministra cursos de capacitação interna.
+Estes sã o considerados consumidores puros.
+Docentes que pesquisam na área da Educação, por esta lógica, podem ser considerados geradoresconsumidores.
+E alunos de pós -graduação em Educação podem ser considerados geradores puros.
+Aqueles que pesquisam em outras áre as, por não gerarem conhecimento pertinente ao ecossistema em questão não são considerados geradores.
+Pode -se ainda considerar aqueles que possuem conhecimento científico e tecnológico em Educação, como docentes da área da Educação, mas que não se envolvem em pesquisa, assumindo o papel de difusores.
+A única exceção são os possíveis integradores, que não precisam possuir qualquer tipo de conhecimento, mas sim advogar em favor da disseminação do conhecimento e conectar indivíduos.
+A disposição de cada indiví duo quanto à necessidade de aprender novas técnicas educacionais varia, assim como os outros parâmetros que determinam o seu comportamento.
+Isto é emulado pela criação de indivíduos cujos parâmetros são gerados de maneira aleatória, formando Revista Práxis Educacional , Vitória da C onquista – Bahia - Brasil, v. 14, n. 27, p. 103-133, jan./mar.
+Práxis Educacional e-ISSN 2178 -2679 Revista 114 uma distribuiç ão normal com média e desvio padrão fornecidos pelo usuário.
+No ambiente acadêmico, onde se costuma registrar cuidadosamente teorias e métodos para publicação e ensino e, portanto, disponibilizar o conhecimento na forma explícita, pode -se frisar a importân cia da distinção entre o conhecimento científico e o tecnológico.
+Somando a isto o fato de que os campi de uma mesma universidade costumam ser relativamente próximos, localizados em uma mesma cidade ou região, além de bem conectados, pode -se ignorar os efe itos da distância geográfica, considerando o ambiente como uma "cabeça de alfinete" (MILLER; PAGE, 2007).
+Como elementos de suporte do ambiente pode -se citar o seu regimento, sua cultura, os instrumentos legais externos que regem a forma de ministrar e o c onteúdo das disciplinas, e as métricas que conferem reputação aos docentes.
+Estas podem fomentar ou dificultar a adoção de novas formas de ensinar.
+De posse destas informações já se pode criar muitos dos mecanismos que regerão o modelo computacional do eco ssistema.
+Os referidos mecanismos mudam de ecossistema para ecossistema, assim como mudam de universidade para universidade.
+Desta forma, pequenos ajustes podem ser necessários para que se possa aplicar esta análise a diferentes universidades.
+Representaç ão do conhecimento Utilizando mecanismos biológicos para a representação das soluções que tornam uma entidade apta a existir no ambiente, o conhecimento pode ser expresso como uma "cadeia de DNA", onde cada alelo representa um determinado conhecimento.
+A cadeia é dividida em duas zonas, uma representando o conhecimento tecnológico e outra representando o conhecimento científico, abarcando todos os conhecimentos úteis ao Revista Práxis Educacional , Vitória da C onquista – Bahia - Brasil, v. 14, n. 27, p. 103-133, jan./mar.
+Práxis Educacional e-ISSN 2178 -2679 Revista 115 ecossistema.
+Em um modelo computacional, isto pode ser visto como cadeias de bits.
+O am biente também é caracterizado por uma cadeia de bits de conhecimento que representa a demanda, o padrão contra o qual o conhecimento das entidades será medido para determinar sua aptidão.
+No caso de uma universidade cabe frisar que esta pode ser diferente do discurso oficial, sendo determinada pelas metodologias aceitas em regimento, leis, e prática, efetivamente utilizadas para fins de avaliação, remuneração, promoção e desligamento da universidade.
+Na presente simulação não é o objetivo determinar qual conhecimento específico teria mais ou menos chance de se difundir, pois isto exigiria o mapeamento exaustivo do conhecimento existente em um dado ecossistema e sua precisa valoração do ponto de vista do ambiente e do ponto de vista das entidades.
+Isto envolv eria noção profunda da maturidade de cada tecnologia e de sua viabilidade em cada ecossistema, fugindo ao escopo deste trabalho.
+Avalia -se aqui a tendência que um fragmento de conhecimento indistinto teria de se difundir dadas as características dos indiví duos e do ecossistema, assim como a evolução do comportamento dos indivíduos.
+Desta forma, nesta implementação a demanda do ambiente e as soluções dos indivíduos assumirão a forma de zeros e uns, todos com igual chance se propagar se houver disposição para isto.
+Mecanismos de seleção Na natureza a própria existência demanda recursos e tempo, assim como a reprodução e a evolução.
+No modelo estes recursos são provenientes do ambiente, e são distribuídos às entidades a cada iteração de acordo com a sua aptid ão, avaliada pela comparação entre a cadeia de bits tecnológica da entidade e a cadeia de demanda do ambiente.
+Desta forma, os mais aptos possuem mais chances de sobreviver no ambiente.
+Revista Práxis Educacional , Vitória da C onquista – Bahia - Brasil, v. 14, n. 27, p. 103-133, jan./mar.
+Práxis Educacional e-ISSN 2178 -2679 Revista 116 Em um ambiente universitário pode -se considerar estes recursos como a reputação ganha com o alinhamento ao ambiente da universidade, sua cultura, seu regimento.
+Aqui se tem uma diferença importante da implementação do modelo para um ecossistema industrial, onde o que se deseja são recursos financeiros.
+Outra diferença é que em um ecossistema industrial estes recursos financeiros são limitados e divididos entre as entidades de acordo com sua aptidão relativa, colocando -os em competição uns com os outros pela própria sobrevivência.
+Se houver um competidor muito mais apto que se us pares ele leva uma grande fatia dos recursos tornando a sobrevivência dos menos aptos impossível.
+Reputação, por outro lado, não é tão limitada.
+Nesta implementação de ecossistema as entidades concorrem contra um padrão.
+Recebem, portanto, a cada iteraç ão uma quantidade de recursos proporcional à sua aptidão isolada, aferida em função deste padrão.
+Para que este mecanismo funcione e os recursos acumulados por uma entidade não tendam ao infinito, a cada iteração uma quantidade mínima é retirada, juntamente com uma parcela proporcional à quantidade de recursos que esta possui acumulados.
+Esta quantidad e mínima de recursos para sobreviver se relacionará, portanto, com o nível de aptidão mínimo tolerável para a permanência no ambiente.
+Desta forma, toda entidade que alcançar ou superar o mínimo pode permanecer ativa, independente de haverem na universidad e outras entidades muito mais aptas, e seus recursos se manterão estáveis ou crescerão.
+Se os recursos da entidade chegarem a zero ela será removida do ambiente.
+O acúmulo de recursos, portanto, proporciona à entidade mais tempo de permanência no ambiente caso uma mudança reduza sua aptidão, conferindo -lhe tempo para adaptação, além de servir como parâmetro de avaliação da reputação para as outras entidades.
+Este mecanismo, claro, pode ser desabilitado se a universidade possuir grande estabilidade em seus cargos, ou mantida apenas para alguns tipos de papéis que são avaliados quanto à aptidão pedagógica, tornando possível a manutenção de entidades nos quadros da universidade Revista Práxis Educacional , Vitória da C onquista – Bahia - Brasil, v. 14, n. 27, p. 103-133, jan./mar.
+Práxis Educacional e-ISSN 2178 -2679 Revista 117 independente de sua aptidão, cancelando os efeitos da sel eção natural sobre o todo ou parte da população.
+Fluxos de conhecimento através de mecanismos de cruzamento e mutação Utiliza -se para a implementação destes mecanismos um algoritmo genético adaptado dos encontrados em Deb (1999), Engler e Kusiak (2011) e Mitchell (1996), com algumas alterações para se adequar à realidade de um ecossistema de inovação.
+O objetivo não é utilizar o algoritmo mais eficiente possível na busca da solução ótima, mas um que mimetize o fluxo de conhecimento entre entidades através de mecanismos de cruzamento, que selecionam porções aleatórias de bits do receptor e os substituem pelos bits correspondentes do emissor (Figura 2).
+Figura 2 – Exemplo de cruzamento entre entidades Fonte: Os autores.
+Se as cadeias de bits tiverem diferenças consideráveis, haverá uma chance maior de que os bits escolhidos sejam diferentes entre o emissor e o receptor e ocorra, portanto, transferência de conhecimento.
+No entanto, estas cadeias devem ser de mesma natureza, em alinhamento com as ideias de Huang, Wei e Chang (2007).
+Revista Práxis Educacional , Vitória da C onquista – Bahia - Brasil, v. 14, n. 27, p. 103-133, jan./mar.
+Práxis Educacional e-ISSN 2178 -2679 Revista 118 No algoritmo utilizado, os "genitores" não são destruídos após a troca de conhecimento para dar lugar à nova geração após o cruzamento.
+A parte emissora permanece inalterada na população, ao passo que a receptora é substituíd a por um dos resultados do cruzamento.
+A chance de um receptor iniciar todo o processo depende de sua motivação para aprender.
+Um parceiro para o cruzamento será então escolhido aleatoriamente pelo receptor em uma loteria onde possuem mais chances as entid ades com maior aptidão, reputação e histórico de interações passadas com o receptor.
+Isto porque entidades com vastos recursos ou com elevada aptidão relativa (denotando habilidades desejáveis) (FREEMAN; ENGEL, 2007; MSANJILA, 2009) usualmente gozam de boa reputação, atraindo parceiros interessados em aprender com elas (ou plagia -las).
+Entidades com poucos recursos e baixa aptidão relativa, pela mesma lógica, não atraem parceiros.
+Este também é um mecanismo de seleção natural, uma das forças motoras de um e cossistema, e também a forma de implementar uma medida da confiança que as entidades têm entre si.
+Modelos computacionais que incluam a noção de distância geográfica (e/ou relacional) podem ainda ajustar estas chances de seleção com penalidades proporciona is à distância, reduzindo a probabilidade de seleção de entidades distantes.
+Com isto uma entidade só teria boas chances de interagir com uma entidade distante se esta tiver elevada reputação.
+Apenas entidades com o mesmo tipo de conhecimento que o recepto r possui participam da loteria.
+Após o sorteio, o receptor confirma se o potencial emissor possui aptidão maior que a sua e o convida a compartilhar seu conhecimento.
+O emissor irá, então, decidir se interage ou não dependendo de sua disposição em comparti lhar.
+Após o cruzamento, o receptor e o emissor lembrar -se-ão de ter interagido entre si, aumentando a chance de interação entre entidades que já se conhecem.
+O efeito da ação de entidades integradoras também age sobre o cruzamento, não sobre as chances no sorteio, mas sobre a motivação em aprender do receptor e a disposição em compartilhar do emissor, elevando Revista Práxis Educacional , Vitória da C onquista – Bahia - Brasil, v. 14, n. 27, p. 103-133, jan./mar.
+Práxis Educacional e-ISSN 2178 -2679 Revista 119 a chance de que duas entidades integradas interajam.
+O sorteio para o receptor integrado dá chances iguais a todos.
+Já o sorteio para o emissor segu e as regras de loteria com mais chances para os mais aptos.
+Aqui entram também os fatores de sustentação do ambiente.
+Em um ambiente neutro pode -se deixar as decisões de se executar ações relacionadas ao conhecimento dependerem apenas das características d os agentes.
+Já em face de crises, ou ambientes com instabilidade financeira e/ou jurídica, o ambiente pode afetar negativamente os parâmetros relacionados às ações dos agentes.
+Conhecimento novo, por sua vez, é criado por mecanismos de mutação.
+Estes varia m a cadeia de uma entidade mutante trocando o valor de cada bit de acordo com o valor de uma taxa de mutação escolhida pelo usuário Pode -se, também, "gerar" conhecimento novo para o ecossistema pela absorção de conhecimento por cruzamento com elementos ext ernos ao mesmo, que podem ser introduzidos pelo usuário durante a simulação.
+Novas contratações para substituir entidades que deixem de fazer parte da universidade também podem ser criadas pelos mecanismos de cruzamento e mutação, que desta vez usa a infor mação de duas entidades sorteadas para gerar novas entidades ao invés de modificar as já existentes, refletindo a seleção por pares e o aculturamento dos novos entrantes à realidade da universidade, com alguma variação inerente ao próprio indivíduo.
+Entradas e saídas do modelo As entradas podem tanto ser fornecidas à interface do modelo, de modo que este então gerará aleatoriamente um ambiente povoado pela quantidade e tipo de agentes determinados, refletindo os valores médios e a dispersão fornecido s para cada parâmetro.
+As saídas consistem na representação gráfica das entidades, que refletirá a reputação dos agentes através de seu tamanho, a aptidão Revista Práxis Educacional , Vitória da C onquista – Bahia - Brasil, v. 14, n. 27, p. 103-133, jan./mar.
+Práxis Educacional e-ISSN 2178 -2679 Revista 120 relativa dos agentes através de sua cor, o seu papel em relação ao conhecimento através de seu format o, e quem está compartilhando conhecimento naquela iteração através de links; e em gráficos que exibem a evolução média dos parâmetros que determinam o comportamento dos agentes e registram suas interações, assim como a evolução da aptidão média no ecossis tema.
+Estas representações visuais serão atualizadas a cada iteração, dando ao observador uma noção da evolução do ecossistema.
+Dentre as saídas implementadas para que se possa observar a evolução do modelo, estão: • Curvas da aptidão média das entidades e m geral; da aptidão científica média das entidades geradoras; da aptidão tecnológica média das entidades consumidoras; da motivação para aprender média das entidades com conhecimento tecnológico; da motivação para aprender média das entidades com conhecime nto científico; da disposição de compartilhar média; da média dos recursos das entidades; gráficos que contam as entidades que executaram cada ação relacionada ao conhecimento; do número de bits trocados / interações de cruzamento; • Histograma a aptidão e dos recursos dos agentes; • Monitores com o valor instantâneo de diversos parâmetros do modelo.
+Com isto pode -se avaliar a evolução do mindset dos agentes, de sua adaptação ao ambiente, da absorção de novo conhecimento e o impacto disto no seu comportamento interativo.
+Estas saídas podem, então, serem gravadas em um arquivo para posterior análise e comparação com simulações com parâmetros difere ntes.
+A atual interface gráfica do modelo computacional pode ser observada na Figura 3.
+Revista Práxis Educacional , Vitória da C onquista – Bahia - Brasil, v. 14, n. 27, p. 103-133, jan./mar.
+Práxis Educacional e-ISSN 2178 -2679 Revista 121 Figura 3 – Interface gráfica do modelo computacional Fonte: Os autores.
+Experimentos e resultados Tomou -se como caso de estudo o de uma típica universidade fed eral, onde há estabilidade no cargo contanto que um mínimo de requisitos seja atendido durante o estágio probatório e a carreira docente.
+Desta forma, uma vez que este patamar é atingido a entidade pode permanecer indefinidamente no sistema se mantiver sua aptidão acima do limiar mínimo.
+O mix de papéis utilizados também foi limitado neste experimento, limitando -se a consumidores puros, consumidores -geradores, e geradores puros.
+Optou -se por não utilizar integradores para frisar os efeitos da motivação indi vidual das entidades.
+Também não se utilizou difusores dada a presença de muitos geradores -consumidores, que neste modelo assumem o mesmo papel por serem inclinados pelo seu caráter acadêmico a compartilhar conhecimento, além de gerarem novo conhecimento e aplicálo.
+Utilizou -se a opção de reposição de entidades removidas do ambiente, posto que uma universidade precisa manter os números de seu quadro docente relativamente estáveis.
+Para a reposição são utilizadas entidades Revista Práxis Educacional , Vitória da C onquista – Bahia - Brasil, v. 14, n. 27, p. 103-133, jan./mar.
+Práxis Educacional e-ISSN 2178 -2679 Revista 122 que consomem (apenas ensinam) e en tidades que geram e consomem (pesquisam e ensinam).
+O modelo foi simulado com alguns parâmetros comuns a todos os cenários, de acordo com o Quadro 1: Quadro 1 – Parâmetros iniciais comuns a todos os cenários Parâmetro Valor Parâmetro Valor Semente de números aleatórios da simulação Varia Número de iterações 3000 Número de bits das cadeias 100 Motivação para aprender (desvio padrão) 50% (10%) Recursos iniciais 1000 Disposição em compartilhar (desvio padrão) 50% (10%) Recursos do nicho (máximo que cada entidade pode receber / iteração) 3000 Confiança em parceiros conhecidos + 5% Recursos mínimos para viver 1001 Taxa de mutação 2% Fator de aumento dos recursos para viver (dos recursos acumulados) 10% Confiança criada pela ação de integradores + 20% Custo de cruzamento 0 Desempenho em desenvolvimento (desvio padrão) 50% (10%) Custo de desenvolvimento 0 Desempenho em pesquisa (desvio padrão) 50% (10%) Custo de geração 0 Probabilidade de cada bit da cadeia original ser igual à ao bit da cadeia do ambiente 50% Fonte: Os autores.
+Os agentes são criados respeitando uma distribuição normal com o desvio padrão e a média escolhidos pelo usuário.
+São, portanto, heterogêneos em seus parâmetros a menos que se opte por um desvio padrão nulo.
+Nesta simulação utilizou -se combinações de regras de adaptação da motivação em aprender para avaliar o efeito que estas tem sobre o comportamento dos indivíduos e sobre as interações no ecossistema.
+A disposição em compartilhar, o desempenho em pesquisa e o desempenho em desenvolvimento foram mantidos fixos após a criação das entidades, pois assume -se que em uma universidade há uma pré -disposição perene a Revista Práxis Educacional , Vitória da C onquista – Bahia - Brasil, v. 14, n. 27, p. 103-133, jan./mar.
+Práxis Educacional e-ISSN 2178 -2679 Revista 123 criar novo conhecimento e a compartilhar resultados dada a necessidade constante de elaboração de teses , dissertações e trabalhos de conclusão de curso.
+Os agentes avaliam suas interações de cruzamento através do aprendizado em si e através do aumento percebido em sua adaptação ao ambiente de acordo com o Quadro 2: Quadro 2 – Variação da motivação em apren der com a experiência Avaliação de aptidão e de aprendizado Fato Efeito Fato Efeito Aprendizado nulo -5% Aprendizado e diminuição da aptidão - 5% Aprendizado e manutenção da aptidão -5% Aprendizado e aumento da aptidão +10% Fonte: Os autores.
+Algumas observações devem ser feitas quanto a estas avaliações: quando entidades com conhecimento científico e tecnológico interagem, elas realizam o cruzamento com as duas cadeias de DNA e, portanto, a avaliação leva em consideração a mudança de ambos, so mando os escores de aptidão das cadeias.
+Com isto, um ganho de aptidão em uma das cadeias pode ser anulado por uma perda de aptidão na outra, levando a um resultado nulo pelo esforço empreendido e, portanto a uma avaliação negativa.
+Este comportamento de a valiação pode mudar de ecossistema para ecossistema, acomodando diferenças de mindset que podem ser mais ou menos tolerantes ao fracasso.
+O ambiente foi povoado com 100 consumidores puros (professores), e 50 geradores -consumidores (pesquisadores -professores) e 50 geradores puros (pesquisadores).
+Escolheu -se um número de iterações suficiente para que a dinâmica do sistema assuma seu caráter de regime permanente, determinada por tentativa e erro.
+Dados estes parâmetros, os experimento s foram montados da seguinte forma: Revista Práxis Educacional , Vitória da C onquista – Bahia - Brasil, v. 14, n. 27, p. 103-133, jan./mar.
+Práxis Educacional e-ISSN 2178 -2679 Revista 124 Experimento 1 Neste experimento o ambiente não muda ao longo do tempo.
+As entidades começam medianamente aptas (Figura 4), e para aumentar esta aptidão terão que adotar novos conhecimentos provenientes de pesquisa.
+Os indivíduos também começam com 50% de chance de interagirem entre si, ou seja, já motivados a aprender (Figura 5).
+Figura 4 – Aptidão média daqueles por tipo de conhecimento – experimento 1 Fonte: Os autores.
+Ao início deste experimento o conhecimento tecnológico é uniforme e, portanto não há incentivo para a troca de informação entre os consumidores, posto que não há o que aprender com seus pares.
+A cada interação sua motivação diminui, pois as interações não acrescentam nem conhecimento nem aptidão, como se pode observar na Figura 5.
+O mesmo é verdade entre os geradores ao início, mas assim que novo conhecimento científico começa a ser criado por mutação e começa a ser transmitido por cruzamento, a motivação e m aprender dos agentes cresce, Revista Práxis Educacional , Vitória da C onquista – Bahia - Brasil, v. 14, n. 27, p. 103-133, jan./mar.
+Práxis Educacional e-ISSN 2178 -2679 Revista 125 juntamente com a aptidão média.
+À medida que este conhecimento é desenvolvido em conhecimento tecnológico e passa a ser compartilhado, cresce também a motivação em aprender dos consumidores, mas dado o tempo que leva esta tra dução, a motivação dos geradores se mantém sempre maior do que a dos consumidores.
+Figura 5 – Motivação em aprender média das entidades por tipo de conhecimento – experimento 1 Fonte: Os autores.
+Com o tempo, um elevado nível de aptidão é alcançado (Figura 4), e a geração e adoção de novos conhecimentos passam a ter uma maior chance de distanciar o indivíduo do mix de conhecimento ideal para atender à demanda do ambiente, que neste experimento é estável.
+Neste momento, a aptidão média dos geradores começa a cair, e a dos tecnológicos a estabilizar, à medida que experiências infrutíferas de interação começam a ocorrer em quantidade superior às frutíferas.
+A partir daí, a motivação em aprender tende a cair a baixos níveis, a aptidão dos consumidores fi ca estável e a aptidão dos geradores passa a oscilar, posto que não foi facultada aos geradores a opção de parar de criar novos Revista Práxis Educacional , Vitória da C onquista – Bahia - Brasil, v. 14, n. 27, p. 103-133, jan./mar.
+Práxis Educacional e-ISSN 2178 -2679 Revista 126 conhecimentos caso esta atividade não se mostre frutífera.
+Os agentes avaliam de antemão a aptidão de seus interlocutores, e ist o também faz com que o número de operações de cruzamentos tenda números próximos a zero.
+Também não se observou mortalidade de agentes, dado o fato de que todos ao início eram suficientemente aptos e que a demanda do ambiente não mudou.
+Não houve, portanto necessidade de renovação de quadros por inaptidão, reforçando a noção de estabilidade do sistema.
+Experimento 2 Neste experimento todos os parâmetros do experimento 1 foram mantidos, exceto pelo período de mudança da cadeia do ambiente, que foi fixado em 500 iterações de maneira que após este período o ambiente é solicitado a utilizar o mesmo algoritmo de mutação utilizado pelos geradores na criação de novo conheciment o. Ao início do experimento 2 as entidades se comportam da mesma forma que no experimento 1, dado o fato de que foram usados os mesmos parâmetros e sementes de geração de números aleatórios.
+No entanto, a cada 500 iterações a cadeia de demanda do ambiente sofreu mudanças que, ao mesmo tempo em que aumentaram a aptidão de algumas entidades que já haviam mudado nos mesmos bits que a cadeia de demanda do ambiente, diminuíram a aptidão da maioria das entidades que estavam se adaptando bem às características ant eriores da demanda, como se pode observar na Figura 6.
+Isto renovou o ganho potencial em continuar gerando novo conhecimento e aplicando -o, fazendo com que a motivação em aprender dos geradores de conhecimento crescesse e se mantivesse alta, ao passo de que a motivação em aprender dos consumidores se manteve oscilando, mas relativamente alta em relação ao experimento 1, como se pode observar na Figura 7.
+Revista Práxis Educacional , Vitória da C onquista – Bahia - Brasil, v. 14, n. 27, p. 103-133, jan./mar.
+Práxis Educacional e-ISSN 2178 -2679 Revista 127 Figura 6 – Aptidão média daqueles por tipo de conhecimento – experimento 2 Fonte: Os autores.
+Desta vez pôde -se observar algumas poucas renovações no quadro da universidade, ocorridas logo após as mudanças na demanda do ambiente, evidenciando os mecanismos de seleção natural que permitem que apenas os aptos permaneçam no ambiente.
+A substituição fo i feita utilizando os mecanismos de cruzamento e mutação, emulando a escolha de novos indivíduos a partir da seleção por pares seguindo editais que refletem a demanda do ambiente, ou seja, seleciona -se tomando como base os indivíduos sobreviventes no ambie nte com boa aptidão, resultando na melhora do nível médio de aptidão até a ocorrência de uma nova mudança na demanda do ambiente.
+Revista Práxis Educacional , Vitória da C onquista – Bahia - Brasil, v. 14, n. 27, p. 103-133, jan./mar.
+Práxis Educacional e-ISSN 2178 -2679 Revista 128 Figura 7 – Motivação em aprender média das entidades por tipo de conhecimento – experimento 2 Fonte: Os autores.
+Conclusões Com o uso do modelo foi possível observar a influência da estabilidade da demanda do ambiente sobre a motivação em aprender de indivíduos que dependem diretamente do alinhamento a esta demanda.
+Nestes experimentos a pesquisa era a única fonte d e novo conhecimento, posto que os agentes foram criados de maneira razoavelmente homogênea.
+Observou -se que um ambiente estável e seguro, com baixa probabilidade de eliminação de agentes e de mudança no que se espera dos mesmos não conduz à inovação no lon go prazo, ou seja, o consumo de conhecimento, ainda que sustente a geração de novos conhecimentos.
+Isto porque os agentes, uma vez que asseguram sua sobrevivência e bom nível de aptidão, param de inovar justamente para proteger este status, evitando riscos e esforços sem benefício aparente.
+As entidades neste ambiente, portanto, não formam um ecossistema de inovação.
+Já um ambiente instável aumenta os ganhos potenciais em continuar aprendendo, dado o fato de que a queda da aptidão causada pelas mudanças só pode ser revertida através do aprendizado e da aplicação de novos conhecimentos.
+O aprendizado e a inovação são, portanto, as únicas Revista Práxis Educacional , Vitória da C onquista – Bahia - Brasil, v. 14, n. 27, p. 103-133, jan./mar.
+Práxis Educacional e-ISSN 2178 -2679 Revista 129 maneiras de se permanecer no ambiente a longo prazo.
+Neste ambiente as mesmas entidades, assumindo os mesmos papéis com as mesmas condições iniciais formam um ecossistema de inovação.
+Conclui -se que é possível utilizar um modelo de ecossistemas de inovação para representar ambientes universitários no que concerne o conhecimento em Educação, dadas as semelhanças entre os papéis e mecanismos de aprendizado e evolução envolvidos.
+No entanto, os mecanismos que representam a utilidade das ações dos agentes devem ser cuidadosamente adaptados à realidade do ambiente.
+Os motivos que movem as entidades dentro de uma universidade não são os mesmos que movem entidades em um mercado, e podem mudar até mesmo entre duas universidades diferentes, como entre públicas e privadas, e isto tem que ser levado em consideração.
+No entanto, uma vez adaptado, o modelo é uma valiosa ferramenta para antec ipar as reações das entidades em um ambiente, assim como avaliar se elas formarão um ecossistema que conduz à inovação.
+Referências ALLEN, Timothy F. H.; HOEKSTRA, Thomas W. Toward a Unified Ecology .
+New York, USA: Columbia University Press, 2015 .
+Predicting Student Dropout in Higher Education.
+Disponível em: BALCONI, Margherita; BRUSONI, Stefano; ORSENIGO, Luigi.
+In defence of the linear model: An essay.
+Research Policy , [s. l.], v. 39, n. 1, p. 1 –13, 2010.
+Ciencia, Técnica y Desarrollo .
+Buenos Aires: Editorial Sudamericana, 1997.
+Social Science under Debate: A Philosophical Perspective .
+Toronto: University of Toronto Press, 1998.
+Disponível em: CARAYANNIS, Elias G.; CAMPBELL, David F. J.
+"Mode 3" and "Quadruple Helix": toward a 21st century fractal innovation ecosystem.
+International Journal of Technology Management , [s. l.], v. 46, n. 3/4, p. 201 –234, 2009.
+Revista Práxis Educacional , Vitória da C onquista – Bahia - Brasil, v. 14, n. 27, p. 103-133, jan./mar.
+Práxis Educacional e-ISSN 2178 -2679 Revista 130 CARAYANNIS, Elias G.; PROVANCE, Mike ; GRIGOROUDIS, Evangelos.
+Entrepreneurship ecosystems: an agent -based simulation approach.
+Journal of Technology Transfer , [s. l.], v. 41, n. 3, p. 631 –653, 2016.
+CHRISTIAN, Robert R. Concepts of Ecosystem, Level and Scale.
+In: BODINI, Antonio; KLOTZ, St efan (Eds.).
+: United Nations Educational, Scientific and Cultural Organization, 2009. v. I. COOKE, Philip et al.
+Handbook of regional innovation and growth .
+Cheltenham, UK: Edward Elgar Publishing, 2011.
+COOKE, Philip; URANGA, Mikel Gomez; ETXEBARRIA, Goio.
+Regional innovation systems: Institutional and organizational dimensions.
+Research Policy , [s. l.], v. 26, p. 475 –491, 1997.
+An introduction to genetic algorithms.
+Sadhana , [s. l.], v. 24, n. 4–5, p. 293 –315, 1999.
+DELGADO, Mercedes; PORTER, Michael E.; STERN, Scott.
+Clusters, convergence, and economic performance.
+Research Policy , [s. l.], v. 43, n. 10, p. 1785 –1799, 2014.
+Disponível em: http:/ /dx.doi.org/10.1016/j.respol.2014.05.007 DURST, Susanne; POUTANEN, Petro.
+Success factors of innovation ecosystemsInitial insights from a literature review.
+)CO -CREATE 2013: THE BOUNDARY -CROSSING CONFERENCE ON CO - DESIGN IN INNOVATION 2013, Anais .
+: Aalto University Publication, 2013.
+Disponíve l em: 13.pdf ENGEL, Jerome S. Global Clusters of Innovation: lessons from Silicon Va lley.
+California Management Review , [s. l.], v. 57, n. 2, p. 36 –66, 2015.
+ENGLER, Joseph; KUSIAK, Andrew.
+Modeling an Innovation Ecosystem with Adaptive Agents.
+International Journal of Innovation Science , [s. l.], v. 3, n. 2, p. 55 –68, 2011.
+ETZKOWITZ , Henry; LEYDESDORFF, Loet.
+The dynamics of innovation: from National Systems and "Mode 2" to a Triple Helix of university –industry – government relations.
+Research Policy , [s. l.], v. 29, n. 2, p. 109 –123, 2000.
+the Future of Engineering Education Ii.
+Education , [s. l.], v. 34, n. 1, p. 26 –39, 2000.
+Disponível em: df Revista Práxis Educacional , Vitória da C onquista – Bahia - Brasil, v. 14, n. 27, p. 103-133, jan./mar.
+Práxis Educacional e-ISSN 2178 -2679 Revista 131 FREEMAN, Christopher; SOETE, Luc.
+The Economics of Industrial Innovation .
+FREEMAN, John; ENGEL, Jerome S. Models of Innovation: Startu ps and Mature Corporations.
+California Management Review , [s. l.], v. 50, n. 1, p. 94 –119, 2007.
+Disponível em: ngel_paper2007.pdf HUANG, Nen -Ting; WEI, Chiu -Chi; CHANG, Wei -Kou.
+Knowledge management: modeling the knowledge diffusion in community of practice.
+Kybernetes , [s. l.], v. 36, n. 5/6, p. 607 –621, 2007.
+HWANG, Victor W.; HOROWITT, Greg.
+The Rainforest - the secret to building the next Silicon Valley .
+Los Altos Hills: Regenwald, 2012.
+KLINE, Stephen J.; ROSENBERG, Nathan.
+An Overview of InnovationEuropean Journal of Innovation Managem ent, 1986.
+LO, Andrew W. Adaptive Markets: Financial Evolution at the Speed of Thought .
+Princeton: Princeton University Press, 2017.
+National systems of production, innovation and competence building.
+Research Policy , [s. l.] , v. 31, n. 2, p. 213 –231, 2002.
+MARCONI, Marina de Andrade; LAKATOS, Eva Maria.
+Fundamentos de metodologia científica .
+São Paulo: Editora Atlas S.A., 2003.
+Components of Innovation Ecosystems.
+International Research Journal of Finance and Economics , [s. l.], n. 76, p. 102 – 112, 2011.
+Disponível em: METCALFE, Stan; R AMLOGAN, Ronnie.
+Innovation systems and the competitive process in developing economiesCentre on Regulation and Competition Working Paper Series : Centre on Regulation and Competition (CRC) Working Papers.
+Disponível em: < .edu/bitstream/30672/1/cr050121.pdf>.
+MILLER, John H.; PAGE, Scott E. Complex Adaptive Systems: An Introduction to Computational Models of Social Life .
+Princeton: Princeton University Press, 2007.
+Disponível em: MITCHELL, Melanie.
+An introduction to genetic algorithms.
+Computers & Mathematics with Applications , [s. l.], v. 32, n. 6, p. 133, 1996.
+Disponível em: oks/about/An_Introduction_to_Genetic_Algorithm s.html?id=0eznlz0TF Revista Práxis Educacional , Vitória da C onquista – Bahia - Brasil, v. 14, n. 27, p. 103-133, jan./mar.
+Práxis Educacional e-ISSN 2178 -2679 Revista 132 IC&pgis=1%5Cn 920&amp;path=ASIN/0262631857%5Cn pii/S0898122196902278 MSANJILA, Simon Samwel.
+On Inter -Organizational Trust Engineering in Networked Collaborations: modeling and management of rational trust .
+Universiteit van Amsterdam, [s. l.], 2009.
+Disponível em: MUNROE, Tapan; WESTWIND, Mark.
+What Makes Silicon Valley Tick?
+: The Ecology of Innovation at Work .
+MUSTAFA, Mohammad Nurul; CHOWDHURY, Linkon; KAMAL, Md Sarwar.
+Students dropout p rediction for intelligent system from tertiary level in developing country.
+2012 International Conference on Informatics, Electronics and Vision, ICIEV 2012 , [s. l.], p. 113 –118, 2012.
+NELSON, Richard R.; WINTER, S. G. An Evolutionary Theory of Economic Change .
+Disponível em: NONAKA, Ikujiro; TAKEUCHI, Hirotaka.
+The knowledge -creating company: how japa nese companies create the dynamics of innovation .
+New York, USA: Oxford University Press, 1995.
+Manual de Oslo: diretrizes para coleta e interpretação de dados sobre inovação .
+Brasília: OCDE, Eurostat, FINEP, 2005.
+Disponível em: -ilibrary.org/science -and-technology/manual -deoslo_9789264065659 -es ODUM, Eugene P.; BARRET, Gary W. The Scope of Ecology.
+Innovation ecosystems: A critical examination.
+PORTER, Michael E. The Adam Smith address  : Location, clusters, and the "new " microeconomics of competition.
+Business Economics , [s. l.], v. 33, n. 1, p. 7–13, 1998.
+Disponível em: RITALA, Paavo; ALMPANOP OULOU, Argyro.
+In defense of "eco" in innovation ecosystem(star, open).
+Technovation , [s. l.], v. 61, n. January, p. 39 –42, 2017.
+ROBINSON, Terrell E.; HOPE, Warren C. Teaching in higher education: is there a need for training in pedagogy in graduate deg ree programs?
+Research in Revista Práxis Educacional , Vitória da C onquista – Bahia - Brasil, v. 14, n. 27, p. 103-133, jan./mar.
+Práxis Educacional e-ISSN 2178 -2679 Revista 133 Higher Education Journal , [s. l.], v. 21, p. 1 –11, 2013.
+Disponível em: 90440371&site=eds -live&scope=site&groupid=Test SENGE, Peter M. The Fifth Discipline : the art e practice of the learning organisation .
+: Random House Business B ooks, 2006.
+STOFFEL, Wagner Pina; ZIZA, Cleiton Ricardo.
+Evasão escolar em cursos superiores: estudo comparativo entre os pedidos de trancamento e o aproveitamento escolar.
+In: IX SIMPÓSIO PEDAGÓGICO E PESQUISAS EM EDUCAÇÃO 2014, Resende, Rio de Janeiro.
+Resende, Rio de Janeiro TEECE, David J. Explicating dynamic capabilities: The nature and microfoundations of (sustainable) enterprise performance.
+Strategic Management Journal , [s. l.], v. 28, n. 13, p. 1319 –1350, 2007.
+WANKAT, Phillip C. Educating engineering professors in education.
+Journal of Engineering Education , [s. l.], v. 88, n. 4, p. 471 –475, 1999.
+NetLogo Evanston, ILCenter for Connected Learning and Computer -Based Modeling, Northwestern University, , 1999.
+Disponível em: WILENSKY, Uri; RAND, William.
+An Introduction to Agent -Based Modeling: modeling natural, social, and engineered complex systems with NetLogo .
+Cambridge, Massachusetts, U.S.A.: MIT Press, 2015.
+SOBRE OS AUTORES José Roberto Branco Ramos Filho Doutorado em andamento em Sociedade, Natureza e Desenvolvi mento, Universidade Federal do Oeste do Pará (UFOPA), com co -tutela coma Universidade Nova de Lisboa (UNL); mestre em Engenharia Mecânica, pela Universidade Federal de Santa Catarina (UFSC); professor da UFOPA; membro do Grupo de Pesquisa em Computação Apl icada do Tapajós (COAT/UFOPA); bolsista CAPES PDSE; e -mail: jose.ramos@ufopa.edu.br Celson Pantoja Lima Doutor em Engenharia Electrotécnica e de Computadores, pela Universidade Nova de Lisboa (UNL); professor da Universidade Federal do Oeste do Pará (UFOPA) e do Programa de Pós -graduação em Sociedade, Natureza e Desenvolvimento; Líder do Grupo de Pesquisa em Computação Aplicada do Tapajós (CO AT/UFOPA); e -mail: celson.lima@ufopa.edu.br Recebido em: 04 de outubro de 2017.
+Aprovado em: 12 de dezembro de 2017.

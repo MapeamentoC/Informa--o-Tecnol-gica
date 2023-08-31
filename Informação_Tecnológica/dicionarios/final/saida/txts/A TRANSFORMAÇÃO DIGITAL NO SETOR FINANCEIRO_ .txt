@@ -1,0 +1,402 @@
+V. 10, N. 1, P. 139-154, jan-jun/2019.
+ISSN: 2178 -4833 A TRANSFORMAÇÃO DIGITAL NO SETOR FINANCEIRO: UMA ANÁLISE A PARTIR DA RELAÇÃO ENTRE TECNOLOGIA DE INFORMAÇÃO, WEB 2.0 E INOVAÇÃO Elaine Drumond Pires e Silva 1 Fabricio Ziviani2 Eric de Paula Ferreira Eric De Paula Ferreira3 Renata de Souza França4 Paulo Isnard5 Data de recebimento: 28/12/2018 Data de aceite: 16/08/2019 Resumo O objetivo deste estudo foi analisar a relação entre a tecnologia da informação (TI) e inovação na transformação digital (TD) das instituições financeiras (IF).
+A pesquisa aborda temas como Web 2.0, TI, modelo de negócio, apresentando a TI como cata lisadora da inovação.
+Para analisar o impacto da TI, Web 2.0 e o modelo de negócio com relação à inovação, foi realizada uma pesquisa quantitativa descritiva.
+Os dados da pesquisa foram coletados por meio de questionário , criado a partir do marco teórico.
+O resultado da pesquisa demonstra o quanto a TI pode ser transformadora quando impacta o modelo de negócio e promove novas formas de realizar negócios.
+Dessa forma, foi comprovado por meio de um modelo conceitual, dados coletados pela amostra e com o uso d e modelagem de equações estruturais, que existem oportunidades de promover inovação quando a TI é parte integrante do ciclo de negócios e dos processos das IF.
+Palavras -chave: Tecnologia da Informação, Web 2.0, Modelo de Negócio, Inovação.
+THE DIGITAL TRANSFORMATION IN THE FINANCIAL SECTOR: AN ANALYSIS FROM THE RELATIONSHIP BETWEEN INFORMATION TECHNOLOGY, WEB 2.0 AND INNOVATION Abstract 1 Doutoranda em Sistema de Informação e Gestão do Conhecimento pela Universidade Fumec.
+E -mail: elaine.drumond73@gmail.com 2 Doutorado em Ciências da Informação pela Universidade Federal de Minas Gerais, Brasil e professor adjunto I do Programa de PósGraduação em Sistemas de Informação e Gestão do Conhecimento da Universidade FUMEC.
+E -mail: fazist@hotmail.com 3 Doutorando em Gestão do Conhecimento e Sistema de Informação pela Universidade Fumec.
+E-mail: eric.p.f@gmail.com 4 Doutoranda em Gestão do Conhecimento e Sistema de Informação pela Universidade Fumec.
+E -mail: profrenatafranca@gmail.com 5 Doutorando em Gestão do Conhecimento e Sistema de Informação pela Universidade Fumec.
+E -mail: ppisnard@y ahoo.com.br LATIN AMERICAN JOURNAL OF BUSINESS MAN AGEMENT www.lajbm.
+com.br 140 The objective of this study was to analyze the relationship between information technology (IT) and innovation in digital transformation of financial institutions.
+The research covers topics such as Web 2.0, information technology, business model, presenti ng information technology as a catalyst for innovation.
+To analyze the impact of information technology, Web 2.0 and business model relating to innovation, a quantitative descriptive approach was carried out.
+The research data was collected through an e -survey, defined from the theoretical framework of the research.
+The research results demonstrate how IT can be transformative when it impacts organizations' business model and promotes new ways of doing business.
+In this way, it was quantitatively proven thr ough a conceptual model, data collected by the sample and use of structural equation modeling, that there are opportunities to promote innovation when IT is an integral part of the business cycle and processes of financial institutions.
+Keywords : Informa tion Technology, Web 2.0, Business Model, Innovation.
+Introdução No mercado atual, a s empresas enfrentam um ambiente mais complexo e competitivo.
+As soluções de hoje, representadas por produtos e serviços prestados pelas empresas, estão ficando obsoletas em um intervalo de tempo cada vez menor.
+Os modelos de negócios estão tornando -se mais curtos, colocando em xeque o conceito de vantagem competitiva duradoura (GHANI; ZAKARIA, 2013; WESTERMAN; BONNET; McAFEE, 2016) .
+Para atender aos desafios des se ambiente em constante mudança, as empresas se vêm pressionadas a mudar o modelo de negócio, a fim de garantir a sua viabilidade e são forçadas a encontrar formas de gerenciamento mais eficazes e inovadoras (SAITO ; OLIVEIRA ; TÁVORA JUNIOR, 2011).
+A cres cente demanda do mercado por inovação faz com que as unidades de negócios das organizações exijam o uso da Tecnologia de Informação (TI).
+A Tecnologia da Informação (TI) tem um efeito de transformação sobre o negócio e é capaz de alterá -lo em diversas área s, como produção, serviço, administração e até mesmo o ambiente de organização (VENKATRMAN; HENDERSON, 2004).
+A TI cria aplicações que acarretam vantagem estratégica às organizações, promove a inovação de produtos e serviços da empresa e permite a análise de informações sobre a concorrência (TURBAN; RAINER; POTTER, 2003).
+O ambiente empresarial tem passado por muitas mudanças nos últimos anos, que têm sido consideradas diretamente relacionadas com a TI.
+Um dos aspectos mais importantes desse novo contexto é o surgimento do ambiente digital, que permiti, de fato, a realização de negócios na era digital e do comércio eletrônico (ALBERTIN, 2000).
+Os setores industriais estão sendo afetados pela transformação digital.
+A expansão dos meios digitais faz com que a s características que definem a economia do software tendam a se difundir para a economia em geral e afetam, inclusive, as atividades mais tradicionais (ZACKIEWICZ, 2015).
+A intensa competitividade impõe às empresas a necessidade de se adaptarem e de desen volverem medidas que as façam competir de forma efetiva.
+A inovação é uma dessas medidas (SAITO et al.
+Nas organizações financeiras os desafios não são diferentes.
+Com o aparecimento de novos modelos de negócio e da geração de valor baseados na nov a plataforma global, a Internet, fica evidente que a economia tem sofrido mudanças profundas (GLOVA et al.
+A Internet permite a ampliação do alcance do mercado das empresas e da conexão com o consumidor, fazendo com que muitas empresas que atuavam apenas no meio físico, passem a utilizar a Internet para fazer novos negócios (ZILBER; VANSCONCELLOS, 2005; ZACKIEWICZ, 2015).
+Diante desse contexto e da importância da inovação para a sobrevivência da empresa, este trabalho propõe um modelo de análise do impacto da TI e a inovação na transformação do modelo de negócio e criação de valor das instituições financeiras (IF).
+Nas empresas muito se discute sobre inovação.
+A inovação passou a ser tratada como uma questão de sobrevivência para as organizações e o motivo é simples: se a empresa não muda o que oferece, seja produto ou serviço, corre o risco de ser superada por outros que o façam (BESSSANT; TIDD, 2009).
+Schumpeter (1981) afirma que a verdadeira concorrência não se dá entre as empresas que produzem os mesmos produtos, mas entre as empresas que buscam pela inovação, que procuram criar novos produtos, repensar seus processos, promovendo a denominada LATIN AMERICAN JOURNAL OF BUSINESS MAN AGEMENT www.lajbm.
+com.br 141 "destruição criadora".
+Muitas empresas desaparecem ou são destruídas por organizações concorrentes, ou de setores diferentes, em decorrência da inovação (TERRA et al, 2012).
+As organizações financeiras e os demais setores industriais estão sendo afetados pela transformação digital.
+Software, hardware, redes e dados estão invadindo o mundo empresarial de uma forma muito rápida, abrangente e profunda.
+Independentemente do setor ou localização geográfica, as empresas serão muito mais digitais no futuro.
+As proteções regulatórias não conseguirão evitar as disrupções por muito tempo (WESTERMAN et al.
+A per spectiva atual nas IF é de crescente inovação tecnológica.
+Soluções digitais, como home banking , mobile banking estão aumentando a popularidade entre os jovens de todo o mundo (APAK et al.
+Dessa forma, os projetos digitais tornaram -se altamente imp ortantes para a transformação digital (LIU et al.
+A sobrevivência e a vantagem competitiva das organizações passaram a depender do sucesso das inovações digitais.
+Portanto, rever os modelos de negócios (MN) tornou -se importante, de modo a favorecer à inovação e a agilidade no atendimento das demandas (WESTERMAN et al.
+Esse artigo está dividido em 6 capítulos.
+O primeiro trouxe uma breve introdução sobre o assunto, bem como seus objetivos e complexidades.
+O segundo capítulo é composto pelos p rincipais conceitos para entendimento da pesquisa.
+Seguido, o terceiro capítulo apresenta a metodologia de pesquisa.
+Posteriormente, tem -se a apresentação da análise e discussão dos resultados.
+O quinto capítulo é composto pelas considerações finais e por fim, as referências utilizadas neste estudo.
+Modelo proposto pela pesquisa Com o objetivo de correlacionar a inovação no setor financeiro a partir da transformação digital, o referencial teórico deste trabalho foi construído baseado em livros e, principa lmente artigos relacionados aos constructos Web 2.0, TI, inovação e modelo de negócio.
+A pesquisa foi fundamentada na TI como o centro da transformação digital dentro das organizações.
+A pesquisa tem o objetivo analisar o impacto da Web 2.0 e da TI, sobre a inovação e a transformação do modelo de negócio para a criação de valor nas instituições financeiras.
+Para alcançar o objetivo foi proposto um modelo apresentando as relações entre os constructos desta pesquisa.
+O modelo proposto foi estabelecido a part ir das conexões entre Web 2.0, TI inovação e modelo de negócio Essas conexões foram determinadas a partir de revisões literárias, referenciais teóricos e estudos relacionados, como apresentado na figura 1.
+Figura 1: Proposta de modelo para a pesquisa Fonte: Elaborado pelos autores LATIN AMERICAN JOURNAL OF BUSINESS MAN AGEMENT www.lajbm.
+com.br 142 No setor financeiro, a oferta de produtos e serviços em aplicações de base tecnológica como internet banking, mobile banking e terminais de auto atendimento trazem vantagens significativas para o atendimento ao cliente.
+Prod utos baseados em tecnologia oferecem redução de custos, aumento do lucro e diminuição do risco, se comparados aos produtos tradicionais (AKHISAR et al.
+De acordo com Liu et al., (2011), projetos e-banking são altamente importantes para a transforma ção digital nas organizações financeiras contemporâneas para sobreviver e alcançar vantagens competitivas na economia digital.
+Segundo os autores Lastres e Albagli (1999), Takeuchi e Nonaka (2008), Tigre (2006), Valentim (2008), Rodriguez (2010) e Dalkir ( 2011), o conhecimento tornou -se a fonte certa de uma vantagem competitiva duradoura.
+A sustentabilidade e a competitividade dependem cada vez mais da capacidade de tratar de forma eficaz a informação e transformá -la em conhecimento.
+As empresas bem -sucedid as são aquelas capazes de criar novos conhecimentos, disseminá -los pela organização, e incorporá -los em novos produtos e tecnologias (CHOO, 2006; TAKEUCHI; NONAKA 2008; RODRIGUEZ, 2010).
+Com a consolidação da sociedade da informação e da globalização, torn a-se essencial a adequação das organizações ao novo ambiente de negócios (ALMEIDA; MOTTA, 1997; LINS; SILVA; QUANDT, 2009).
+Segundo Lastres e Albagli (1999), o contexto contemporâneo caracteriza -se por mudança aceleradas, seja na tecnologia, no mercado ou nos modelos organizacionais, portanto, a capacidade de gerar e absorver inovações torna -se crucial.
+No futuro, é esperado o aumento da diversidade na economia baseada em novos modelos de negócios e criação de empresas fundamentadas em modelos de negócios i novadores (GOREVAYA; KHAYRILLINA, 2015).
+A seguir são apresentadas as concepções de cada um dos constructos que compõem o modelo proposto nesta pesquisa.
+Web 2.0 O linear do século XXI testemunhou um período de grande avanço nas tecnologias digitais.
+O t ermo Web 2.0 ficou popular em 2004 e significou uma profunda mudança no que estava acontecendo no World Wide Web , uma grande democratização na criação de conteúdo (O'REILLY, 2006; WESTERMAN; BONNET; McAFEE, 2016).
+Além disso, o domínio de décadas do deskto p como o dispositivo preferido para as pessoas que trabalham com conhecimento está sendo corrompido por uma nova geração de dispositivos computacionais (WESTERMAN; BONNET; McAFEE, 2016).
+O fenômeno Web 2.0 é provavelmente o líder das mudanças fundamentais, tanto na Internet, como também no modelo de negócio tradicional.
+Desenvolvimentos recentes na Web 2.0 incluem o aumento da difusão das redes sociais e a relevância da geração de conteúdo pelo usuário (WIRTZ; SCHILKE; ULLRICH, 2010).
+O termo Web 2.0 visa à inovação, de forma que a Internet seja usada como apoio ao negócio.
+Wikis , redes sociais, software como serviço, todos são resultados de uma mudança de visão, em que a Internet passa a ser usada como plataforma e não apenas como via de comunicação de dado s (MARZULLO, 2009).
+A proposta da Web 2.0 é criar aplicativos que se beneficiam com os efeitos da rede, tornando -os melhores à medida que mais pessoas passam a usá -los.
+O usuário torna -se o ponto central de um ambiente interativo e colaborativo no qual ele controla seus próprios dados (O'REILLY, 2005).
+Além de favorecer o compartilhamento do conhecimento nas organizações, as características da Web 2.0 estão mudando as regras do jogo, quanto à criação e captura de valor, causando uma disruptura da eficácia estabelecida pelos modelos de negócio (LONDON, 2013).
+Segundo Wirtz, Schilke e Ullrich (2010) é importante a reconfiguração do modelo atual estabelecido na Internet para conhecer as novas necessidades do negócio, e a radical mudança de comport amento dos usuários de Internet.
+De acordo com Lastres e Albagli (1999), a intensificação e a difusão do comércio eletrônico promovem o estabelecimento de uma estrutura legal, bem como o desenvolvimento de aparatos técnicos que garantam segurança, a privac idade, e a confiabilidade das transações comerciais realizadas eletronicamente.
+Entre eles estão questões sobre propriedade intelectual, legalidade quanto às trocas de dados, dinheiro eletrônico ( e-cash) e estabelecimento de padrões para outras formas de p agamentos eletrônicos.
+O uso de novas tecnologias pode ser altamente benéfico e ajudar os gestores a enfrentar desafios de longa data, de novas maneiras, não importando a idade ou o tamanho da organização, porém, esses benefícios não são automáticos.
+A exp eriência mostra que é surpreendentemente difícil para as organizações se afastarem de seus hábitos e ferramentas atuais (McAFEE, 2010).
+Tecnologia da Informação LATIN AMERICAN JOURNAL OF BUSINESS MAN AGEMENT www.lajbm.
+com.br 143 A Tecnologia de Informação (TI) deve ser compreendida como uma poderosa ferramenta habilitador a para as mudanças na organização (TAURION, 2009; McAFFE, 2010).
+Por si, ela não faz nada, mas se a organização souber explorar o potencial da tecnologia, pode mudar profundamente a estrutura do negócio (WIRTZ; SCHILKE; ULLRICH, 2010).
+As decisões sobre as infraestruturas tecnológicas não são meras questões técnicas e podem ser a razão do sucesso ou fracasso empresarial (TAURION, 2009).
+Uma tecnologia apropriada é aquela que impulsiona a estratégia e traz para a empresa vantagem sustentável (TAURION, 2009; WIJAYA et al, 2011).
+Uma nova tecnologia deve criar vantagem competitiva à organização (MATTOS; GUIMARÃES, 2012).
+O ambiente empresarial é fundamentalmente baseado no ambiente digital, que tem como componente básico a Internet, considerada infraestrutura d e comunicação pública de acesso fácil, livre e de baixo custo (ALBERTIN, 2000; WIRTZ; SCHILKE; ULLRICH, 2010).
+A Internet , desde então, vem permitindo a abertura de novos mercados como o comércio eletrônico, home banking e a prestação de serviços de busca que foram preenchidos, principalmente, por novas empresas e indicam oportunidades de desconcentração (TIGRE; NORONHA, 2013; GLOVA; SABOL; VAJDA, 2014).
+É também interessante notar que o desafio não vem de concorrentes que oferecem os mesmos tipos de produt os, mas de empresas que inovam em serviços e modelos de negócios, oferecendo soluções inteiramente diferentes (TIGRE; NORONHA, 2013).
+Nessa perspectiva, o conceito de computação em nuvem está mais popular.
+As companhias estão adaptando os softwares com bas e em nuvem, a fim de melhorar sua eficiência e agregar novos benefícios (DIMITRI; MATEI, 2015).
+Os avanços tecnológicos e mudanças sociais e econômicas permitirão o aparecimento de novas formas de transações comerciais que não serão por meio físico.
+As ame aças do ambiente econômico são tão dinâmicas e desafiadoras, que as empresas estão considerando novas formas de fazer negócios (BRETERNITZ et al, 2008; DIMITRI; MATEI, 2015).
+Em consequência da nova economia digital - software, hardware, redes e dados - invadindo o mundo empresarial de forma rápida e abrangente, é importante para a organização utilizar modelos arquiteturais que estejam alinhados com o que há de mais atual na indústria.
+Isso promove a inovação e permite maior integração com outras organizaç ões e seus consumidores (MARZULLO, 2009).
+A tecnologia WebService é muito conhecida por soluções competitivas e diretamente associada à ideia de serviços (MARZULLO, 2009; BAGHDADI, 2013).
+A Arquitetura Orientada a Serviços (SOA) representa uma nova abordagem para utilização dos recursos de TI em apoio ao negócio da organização (BAGHDADI, 2013).
+A TI torna -se um meio de apoiar o processo de alinhamento estratégico da empresa (WIRTZ; SCHILKE; ULLRICH, 2010).
+Ao desvincular o domínio de negócio de tecno logia e modelos específicos de linguagem ou sistemas operacionais, a solução SOA oferece à organização a chance de acompanhar as mudanças exigidas pelo negócio, sem que isso sobrecarregue o uso dos recursos de TI.
+Os sistemas tornam -se mais flexíveis, exte nsíveis e escaláveis (MARZULLO, 2009).
+De acordo com Liu, Chen e Chou (2011) projetos em plataformas web, como e-banking, são altamente importantes para a transformação digital nas organizações financeiras e para sobreviver e alcançar vantagens competitiva s na economia digital.
+Diante desse cenário, as instituições financeiras passam a fornecer atendimentos aos clientes em plataforma digital, como aplicações mobile e home banking (RAILIENE, 2014; CALLAWAY; JAGANI, 2015; AKHISHAR; TUNAY; TUNAY, 2015).
+Na pla taforma digital, os clientes de aplicações web e mobile esperam respostas rápidas aos seus crescentes requisitos de mudanças.
+Portanto, torna -se uma vantagem competitiva para a organização implementar processos automatizados, que permitem frequentes atuali zações de versões do software (WETTINGER et al, 2015).
+Perante a necessidade de respostas rápidas aos clientes, e às constantes atualizações de versões, surge a capacidade DevOps.
+Considerado como um paradigma emergente, o DevOps tem como objetivo estreita r a integração entre os desenvolvedores e operadores, isso permite rápidas atualizações de versões dos aplicativos web, num senso de entregas contínuas e interações de novas aplicações, pois elimina descontinuidades entre o desenvolvimento e a implantação (FITZGERALD, 2015; EBERT et al, 2016; WETTINGER, 2016).
+Além do desafio cultural e organizacional, para eliminar a ruptura no processo de desenvolvimento, o processo de implantação precisa ser altamente automatizado, para capacitar entregas contínuas do so ftware (FITZGERALD, 2015).
+Modelo de Negócio O modelo de negócio é a descrição de como a organização pretende criar valor por meio dos produtos e serviços que oferece, da sua estrutura organizacional, da alocação de recursos e de seus processos de intera ção com parceiros e clientes, visando à criação de diferenciais e sustentabilidade LATIN AMERICAN JOURNAL OF BUSINESS MAN AGEMENT www.lajbm.
+com.br 144 econômica (LUCIANO, 2004; TEECE, 2010 ).
+Em condições modernas, sempre há o surgimento de novas tecnologias que promovam mudanças das preferências dos clientes e a formação d e uma nova tendência social.
+Nessas condições, o fator chave de sucesso de competitividade é a definição correta do modelo de negócio para as empresas (TEECE, 2010; GOREVAYA; KHAYRULLINA, 2015).
+Segundo Westerman, Bonnet e McAfee (2016) as empresas, antes da era digital, focavam na criação da vantagem competitiva a partir da experiência diferenciada vivida pelos clientes, ou da otimização de suas atividades internas, ou canais de distribuição de maior alcance.
+Porém, com o poder da Internet as organizações estão aptas a interligar diversos participantes e criar novas plataformas para as companhias interagirem e transacionarem.
+As organizações passaram a ter oportunidade de alavancar ativos que não possuem e criar uma nova cadeia de valor (ZILBER; VANSCONCEL OOS.
+2005; GLOVA; SABOL; VADJA, 2014; WESTERMAN; BONNET; McAFEE, 2016).
+Considerando as novas tendências no desenvolvimento de certos tipos de modelos de negócios e companhias que estão emergindo, pode -se notar que as novas soluções tecnológicas têm um imp acto significativo na transformação da arquitetura institucional das empresas e nos seus modelos de negócio (TIGRE; NORONHA, 2013; (GOREVAYA; KHAYRULLINA, 2015).
+Segundo Argenti (2014) um dos desafios mais importantes que os executivos enfrentam é o impac to profundamente perturbador das mudanças tecnológicas.
+Na obra de Garten (2002), Andrew Grove, cofundador e CEO da Intel Corporation, explicou: "Cultuamos a velocidade da mudança tecnológica, mas o que acontece quando o ritmo da mudança é tão rápido que, antes que uma inovação seja implementada ou quando ela está a meio caminho da implementação, outra inovação surge e cria uma interferência destrutiva na primeira."
+De acordo com os autores Luciano (2004), Doz, Kosonen (2010), Saito et al.
+(2011), Ghani, Zakaria (2013), Terra (2012), Zackiewicz (2015), Westerman, Bonnet, McAfee (2016) para atender os atuais desafios, em um cenário de constantes mudanças, a empresa atual precisa se reinventar e adequar seu modelo de negócio para manter a sua viabilidade.
+O s autores Doz e Kosonen (2010) afirmam que o sucesso da renovação e a transformação do modelo de negócio são um dos principais resultados da agilidade estratégica, compreendida por: forte clareza e atenção para o desenvolvimento estratégico; equipes de alto nível com habilidades para tomadas de decisões; e fluidez de recurso.
+Inovação A capacidade de gerar e absorver inovações é crucial para as organizações se tornem competitivas (LASTRES; ALBAGLI, 1999).
+Os avanços tecnológicos transformam os hábitos e o rganizações da sociedade, criam novas perspectivas e restrições.
+Essa realidade acarreta às empresas novos desafios, pois para serem competitivas e manterem -se no mercado altamente competitivo, torna -se necessário aquisição de novas tecnologias para inovar seus produtos e serviços (DE PAULA; BIGNETTI, 2003) por parte das empresas.
+As empresas emergentes dão mais valor à inovação que as empresas maduras.
+A conquista da vantagem competitiva da empresa jovem é proporcionada pelas ideias radicais.
+As novas empr esas abusam da criatividade e dos modelos radicais de novos negócios.
+À medida que elas amadurecem, aprendem a equilibrar seus processos criativos com capacidades de comercialização.
+Com o tempo, a ênfase em comercialização supera o foco na inovação, a cri atividade do tipo radical assume um valor menor dentro da organização e as empresas passam a investir apenas em inovações incrementais (DAVILA; EPSTEIN; SHELTON, 2007; TERRA et al., 2012).
+As inovações nos produtos e processos das organizações podem ser in crementais ou radicais.
+Inovações radicais nas tecnologias da informação e da comunicação criam oportunidades para o aparecimento de novos modelos de negócios que, quando bem -sucedidos, mudam a própria estrutura da indústria global.
+Inovações radicais intr oduzidas nas últimas cinco décadas nas tecnologias da informação e comunicação (TIC) vêm afetando radicalmente a forma como as empresas de rápido crescimento, consideradas paradigmas em determinado período de tempo, estruturam seus modelos de negócios (TIG RE; NORONHA, 2013).
+A inovação é o principal vetor concorrencial quando se trata de desenvolvimento de software .
+A competição não foca tanto nos mercados estabelecidos, mas sim em mercados futuros (ZACKIEWICZ, 2015) .
+A competitividade surge da dinâmica lig ada à inovação, que acarreta o aparecimento e desaparecimento de grandes corporações.
+Permanecem as organizações com capacidades mais efetivas de se adaptarem às mudanças do ambiente (TERRA et al.
+Portanto, a inovação representa uma ruptura no equi líbrio existente tornando a estrutura de oferta incompatível com a estrutura de demanda, em todos os estágios do processo de produção (MAZZALI, 2005; TERRA et al., 2012).
+LATIN AMERICAN JOURNAL OF BUSINESS MAN AGEMENT www.lajbm.
+com.br 145 O mundo vive a era digital e neste momento as informações são facilmente disseminadas nas redes de comunicação (SACCHET et al.
+Atualmente, pode -se levar o conhecimento a longas distâncias por meio da tecnologia e sistemas interativos.
+Novas formas de pensar, agir e vivenciar vão surgindo a todo instante no mun do da comunicação e das tecnologias: relações entre o ser humano, a sociedade, o trabalho e o mercado interagem na transformação contínua por meio dos variados dispositivos informacionais (SACCHET et al , 2011; WESTERMAN; BONNET; McAFEE, 2016).
+A concorrênc ia parece mais acirrada, independente do segmento em que as empresas atuam (SACCHET et al, 2011; TERRA et al.
+As empresas tradicionais possuem o grande desafio de serem criativas sem colocar em risco a capacidade de criação de valor.
+E para que a i novação aconteça, ela deve ser parte integrante do modelo de negócio.
+Sendo assim, a integração do modelo de negócio e da mudança tecnológica em processos até então estagnados, tornam -se importantes para o sucesso da inovação (DAVILA, EPSTEIN, SHELTON, 200 7; TERRA et al.
+O quanto inovar e o tipo de inovação devem ser adequados à estratégia da empresa.
+Portanto, a empresa precisa encontrar sua medida para inovação.
+Não há solução definitiva, cada empresa deve decidir o nível de inovação que será cap az de administrar e sustentar.
+O sucesso da inovação exige uma estratégia clara e adequada ao negócio, e principalmente, a empresa deve estar alinhada à estratégia de inovação.
+(DAVILA, EPSTEIN, SHELTON, 2007; TERRA et al.
+Metodologia Esta pesquis a caracteriza -se por uma abordagem quantitativa descritiva.
+A pesquisa descritiva expõe características de determinada população ou fenômeno.
+Pode também estabelecer correlações entre variáveis e definir sua natureza, ela não tem compromisso de explicar os fenômenos que descreve, embora sirva de base para tal explicação (VERGARA, 2014).
+Esse tipo de pesquisa é permeado pela objetividade durante a coleta e análise dos dados.
+O instrumento da pesquisa é o questionário (e-survey) , definido a partir do referenc ial teórico e da validação de conteúdo por parte dos especialistas.
+Para atender ao objetivo desta pesquisa, que se propõe a analisar a relação entre tecnologia da informação e inovação na transformação digital do setor financeiro, optou -se por realizar a coleta de dados por meio de questionário estruturado do tipo survey , com escala do tipo likert de cinco pontos, variando de 1, discordo totalmente a 5, concordo totalmente.
+A escala foi padronizada subtraindo do valor original o valor central 3 e em seguida o resultado foi dividido por 2 para que a escala oscilasse de -1 a 1.
+Antes de aplicar o questionário aos respondentes, realizou -se um pré -teste com 7 especialistas de tecnologia da informação para identificar pontos fracos no instrumento de pesquisa (COOPER; SCHINDLER, 2003).
+Todos os especialistas têm mais de 15 anos d e experiência no setor financeiro.
+O questionário foi formado por 41 questões, sendo 8 questões de caracterização dos indivíduos e 33 questões relacionadas aos 8 constructos (Internet, Mobilidade, Computação em Nuvem, DevOps, Ferramentas Web 2.0, Plataform a Web 2.0, Modelo de Negócio e Inovação).
+A amostra da pesquisa foi composta por profissionais de TI atuantes no setor financeiro.
+Para a composição da amostra utilizou -se a técnica de snowball , que segundo Baldin e Munhoz (2011: 332), "é uma forma de amo stra não probabilística [.]
+em que os participantes iniciais de um estudo indicam novos participantes que por sua vez indicam novos participantes e assim sucessivamente, até que seja alcançado o objetivo proposto", valendo -se da propagação de respondente s por meio da indicação pelos próprios participantes da pesquisa.
+Ao total foram obtidas 312 respostas válidas.
+Para avaliar a qualidade das respostas do questionário, foi realizada uma análise da existência de outliers , que são observações que apresentam um padrão de resposta diferente das demais.
+Não foi encontrado nenhum valor fora do intervalo da escala de sua respectiva variável, não evidenciando assim o tipo de outlier relacionado a erro na tabulação dos dados.
+Na descrição das variáveis caracterizad oras dos indivíduos foram utilizadas as frequências absolutas e relativas, enquanto que para descrever os itens dos constructos foram utilizadas medidas de tendência central, posição e dispersão, sendo uma destas medidas o intervalo científico boostrap com 95% de confiança, Afim de avaliar as relações entre os constructos foi utilizado o modelo de equações estruturais, Partial Least Square (PLS) (Vinzi, et al., 2010) Para testar o modelo teórico hipotético, foram utilizados os processos de modelagem estrutural e de mensuração.
+Devido à presença de constructos de segunda ordem, ou seja, constructos que não são formados diretamente pelos itens, mas por outras variáveis latentes (indicadores), foi utilizada a abordagem "Two -Step".
+No primeiro momento for am computados os escores LATIN AMERICAN JOURNAL OF BUSINESS MAN AGEMENT www.lajbm.
+com.br 146 das variáveis latentes de primeira ordem, utilizando a análise fatorial com o método de extração das componentes principais e rotação varimax (MINGOTI, 2007).
+A validação dos constructos foi realizada por meio de análises de Confia bilidade, e Variância Média (AVE), para as quais segundo Hair et al.
+(2009), a AVE superior a 0,50 garante a validação convergente, e os indicadores Alfa de Cronbach (AC) e Confiabilidade Composta (CC) acima de 0,7 indicam a confiabilidade do constructo.
+P ara apresentar e comparar os itens e os indicadores de cada constructo, a média e o intervalo percentílico bootstrap de 95% de confiança foram empregados.
+O modelo de mensuração e o modelo estrutural foram comparados.
+Todos os constructos apresentaram índi ce de CC e AC acima de 0,7, portanto, todos os constructos atingiram os níveis exigidos de confiabilidade.
+Todos os constructos foram unidimensionais pelo critério de Kaiser -Meyer -Olkin - KMO e apresentam AVE superior a 0,50, houve validação convergente em todos.
+Dessa forma, os dados apontam que é possível criar um índice validado que represente os constructos Web 2.0, TI, MN e inovação, por meio da média dos itens apresentados.
+Pode -se destacar que todos os itens apresentaram cargas fatoriais acima de 0,5 0 e os intervalos de confiança (I.C.
+– 95%) o que indica a significância de todos os pesos, evidenciando a relevância dos itens para a formação do indicador que representará o constructo.
+O software utilizado para as análises estatísticas foi o R (versão 3 .3.1).
+Desenvolvimento do estudo Esta seção objetiva apresentar e analisar os resultados obtidos por meio do instrumento de pesquisa aplicado aos profissionais de tecnologia da informação que atuam no setor financeiro.
+Para melhor demonstração dos resulta dos serão apresentadas a análise descritiva da amostra e a análise do modelo estrutural.
+Análise Descritiva da Amostra Com o objetivo de identificar as características dos perfis dos respondentes, a primeira parte do questionário obtém informações como sexo, graduação, experiência profissional, setor de atuação, tamanho da empresa, cargo ou função e estado de atuação.
+Foram obtidas 312 respostas durante a coleta de dados, nenhum respondente foi descartado.
+A amostra é composta por 68,27% dos indivíduos d o sexo masculino, e 31,73% do sexo feminino.
+A amostra apresenta um alto grau de escolaridade, 46,47% dos respondentes possuem especialização, 44,55% possuem curso superior e 4,81% mestrado.
+Identifica -se que 96,79% dos respondentes possuem no mínimo curso superior.
+Quanto ao tempo de experiência, 67,31% dos respondentes têm mais de 15 anos de experiência profissional, sendo que 98,72% deles têm mais de 2 anos de experiência profissional.
+Diante do alto nível de escolaridade e tempo de experiência profissio nal, a amostra demonstra um perfil de alta relevância e confiabilidade.
+Com relação à instituição de atuação dos respondentes, a maioria trabalham em bancos, 58,01%, seguidos das administradoras de cartão de crédito, 21,15 %.
+Quanto ao tamanho da empresa, 88,14% trabalham em organizações de médio e grande porte.
+Os cargos mais frequentes são analista de desenvolvimento de sistemas (43,91%), consultor de tecnologia da informação (6,73%) e gerentes de projetos de tecnologia da informação (6,41%).
+A maioria d os respondentes atuam no estado de Minas Gerais e representam 91,99% da amostra.
+De acordo com a análise descritiva dos itens dos constructos foi encontrada uma tendência dos respondentes em concordar com todas as afirmativas.
+É importante destacar que os constructos TI e Web 2.0 são de segunda ordem.
+O constructo TI foi representado pelos constructos de primeira ordem Internet, Mobilidade, Computação em Nuvem, DevOps, e o constructo Web 2.0 pelos constructos Ferramentas Web 2.0 e Plataforma Web 2.0.
+As afirmativas relacionadas ao constructo TI têm como objetivo analisar a relação positiva da TI sobre a transformação do modelo de negócio e a Inovação.
+Conforme demonstrado na tabela 1, no constructo Internet houve uma tendência a concordar com todos os iten s. LATIN AMERICAN JOURNAL OF BUSINESS MAN AGEMENT www.lajbm.
+com.br 147 Tabela 1 - Intervalo de confiança dos itens do constructo Internet Constructo Itens Peso I.C.
+- 95%¹ Internet IT1 A Tecnologia da Informação cria aplicações que acarretam vantagens estratégicas às organizações, e promove a inovação de produtos e serviços.
+0,25 [0,83; 0,89] IT2 As tecnologias WebService permitirem maior integração com outras organizações e clientes, promovem a inovação dos serviços e produtos.
+0,25 [0,76; 0,82] IT3 O investimento em serviços digitais, como internet banking e mobile banking, promovem benefícios para os clientes.
+0,27 [0,83; 0,89] IT4 O investimento em serviços digitais, como internet banking e mobile banking, promovem benefícios para as instituições financeiras.
+0,27 [0,83; 0,89] IT5 O grau de investimento em aplicações web e serviços digitais demonstra o quanto a instituição financeira é inovadora com relação aos seus produtos e serviços.
+0,22 [0,62; 0,71] Fonte: Dados da Pesquisa (2017) O resultado do constructo Internet remete aos trabalhos de Tigre e Noronha (2013).
+Segundo os autores, o desenvolvimento comercial na Internet mostrou a possibilidade da criação de novos modelos de negócios.
+A Internet vem permitindo a abertura de novos me rcados como o comércio eletrônico, home banking e a prestação de serviço.
+O resultado da pesquisa tende a concordar com a relação positiva entre o investimento em serviços eletrônicos, e o desempenho do setor financeiro, indo de encontro com os trabalhos d e Railiene (2014), Akhisar et al.
+(2015) e Callaway e Jagani (2015).
+Da mesma forma, London (2013) já salientava que o desenvolvimento tecnológico está "mudando as regras do jogo", principalmente com a Web 2.0, causando uma disruptura da eficácia estabele cida nos modelos de negócios, trazendo uma nova visão da TI e da estratégia organizacional.
+Conforme tabela 2, no constructo Mobilidade houve uma tendência a concordar com todos os itens, sendo que o item MB1 - "As aplicações de Tecnologia da Informação (mo bile, internet banking) são importantes para o desempenho e a permanência das instituições financeiras no mercado" teve a menor concordância média.
+Tabela 2 - Intervalo de confiança dos itens do constructo Mobilidade Construct o Itens Pes o I.C.95%¹ Mobilidad e MB1 As aplicações de Tecnologia da Informação (mobile, internet banking) são importantes para o desempenho e a permanência das instituições financeiras no mercado.
+0,3 9 [0,71; 0,79] MB2 Projetos e -banking e aplicações mobile são altamente importantes para a inovação e a transformação digital nas instituições financeiras.
+0,4 0 [0,73; 0,80] MB3 A crescente demanda do mercado por inovação permite que as unidades de negócios das organizações exijam cada vez mai s da TI e invistam mais em mobilidade.
+0,3 7 [0,73; 0,81] Fonte: Dados da Pesquisa (2017) A importância do investimento em mobilidade no setor financeiro corrobora com Westerman et al.
+Com o surgimento de tablets e smartphones tornou possível a computação móvel, e partir da mobilidade, os avanços tecnológicos estão mudando a nossa forma de trabalhar e viver.
+(2015) já apontava que na plataforma digital, os clientes de aplicações web e mobile esperam respostas rápidas.
+O que permiti que as organizações ao atenderem essas expectativas criem vantagem competitiva e boa representatividade da IF no mercado.
+Quanto ao constructo Computação em Nuvem, conforme a tabela 6, observou uma tendência a concordar com todos os i tens, tabela 3.
+LATIN AMERICAN JOURNAL OF BUSINESS MAN AGEMENT www.lajbm.
+com.br 148 Tabela 3 - Intervalo de confiança dos itens do constructo Computação em Nuvem Constructo Itens Média Pes o I.C.95%¹ Computaçã o em Nuvem CN1 Os processos digitais podem aplicar de forma conjunta (TI, Computação em Nuvem e a Internet), de modo a criar novos negócios.
+0,3 0 [0,61; 0,69] CN2 Nas organizações que utilizam a plataforma digital no desenvolvimento do negócio, é importante investir em web 2.0, computação em nuvem e arquitetura orientada a serviço (SOA).
+0,3 3 [0,51; 0,59] CN3 Soluções com base em computação em nuvem estão mudando o formato dos princípios atuais do mercado.
+0,3 3 [0,47; 0,56] CN4 A computação em nuvem apresenta flexibilidade, mobilidade, permitindo a redução de custo para as organizações 0,3 1 [0,50; 0,60] Fonte: Dados da Pesquisa (2017) A relevância da afirmativa CN1 corrobora com o trabalho de Dimitri e Matei (2015) ao afirmarem que os avanços tecnológicos permitem o aparecimento de novas formas de transações comerciais, de maneira que as empresas estão considerando novas formas de fazer negócios.
+Além disso, com o desenvolvimento e a nova tendência digital, percebe -se o impacto significativo na transformaçã o da arquitetura institucional e na definição de processos estratégicos (TIGRE; NORONHA, 2013), exigindo que as IF se adaptem aos novos modelos e processos para atendimento ao mercado.
+Dentre as afirmativas do constructo DevOps, o item DV4 - "DevOps reduz o s erros causados pela falta de comunicação entre membros de equipes, por trabalharem de forma integrada."
+apresentou a menor concordância, tabela 4.
+Tabela 4 - Intervalo de confiança dos itens do constructo DevOps Constructo Itens Média Peso I.C.
+- 95%¹ DevOps DV1 Na plataforma digital os clientes de aplicações web e mobile esperam respostas rápidas aos seus crescentes requisitos de mudanças.
+0,31 [0,74; 0,80] DV2 Diante das rápidas respostas exigidas pelos clientes, torna -se uma vantagem competitiva para a organização implementar processos automatizados, que permitam frequentes atualizações de versões do software.
+0,32 [0,70; 0,77] DV3 DevOps proporciona a entrega de valor de forma mais rápida e contínua nas organizações devido as equipes trabalharem de forma integrada.
+0,33 [0,60; 0,68] DV4 DevOps reduz os erros causados pela falta de comunicação entre membros de equipes, por trabalharem de forma integrada.
+0,33 [0,48; 0,58] Fonte: Dados da Pesquisa (2017) Na plataforma digital há um senso de entregas contínuas, portanto, as atualizações das versões das aplicações Web exigem uma velocidade diferente de muitas atividades tradicionais da TI (WESTERMAN et al., 2016).
+O resultado demonstra a relevância na qualid ade e no prazo de entrega da TI diante ao atendimento das expectativas dos clientes e demonstra o quanto a TI e as organizações precisam se reinventar para atender aos desafios da nova era.
+Nessa perspectiva, os DevOps surgem com o objetivo de estreitar a integração dos desenvolvedores e operadores.
+As afirmativas do constructo Web 2.0 têm o objetivo de analisar o impacto sobre a inovação e a transformação do modelo de negócio.
+Quanto às Ferramentas Web 2.0, tem -se que os indivíduos tenderam a concordar com todos os itens, da mesma forma que concordam com os itens da Plataforma Web 2.0, conforme tabela 5.
+LATIN AMERICAN JOURNAL OF BUSINESS MAN AGEMENT www.lajbm.
+com.br 149 Tabela 5 - Intervalo de confiança dos itens do constructo Ferramentas e Plataformas Web 2.0 Constructo Itens Média D.P.
+- 95%¹ Ferramentas Web 2.0 WF1 As ferramentas da Web 2.0 são relevantes para as organizações que almejam criar um ambiente colaborador e disseminador de conhecimento.
+0,29 [0,60; 0,68] WF2 As ferramentas da Web 2.0 promovem novas oportunidades de aprendizado dentro das organizações, capaz de gerar informações e conhecimentos úteis.
+0,31 [0,59; 0,67] WF3 As ferramentas da Web 2.0 fornecem aplicações autodirigidas para pesquisas e o conhecimento.
+0,29 [0,49; 0,57] WF4 A utilização das ferramentas web 2.0 suporta a integração em grupos para troca de conhecimentos, criando um ambiente favorável para a gestão do conhecimento.
+0,29 [0,56; 0,64] Plataforma Web 2.0 WP1 A plataforma digital Web 2.0 promove mudanças fundamentais, tanto na Internet, como nos modelos de negócios tradicionais.
+0,32 [0,50; 0,58] WP2 A plataforma digital Web 2.0 promove a inovação de forma que a Internet seja usada como apoio ao negócio.
+0,34 [0,56; 0,63] WP3 A partir da colaboração e envolvimento dos clientes, proporcionado pela plataforma Web 2.0, as organizações criam maneiras das informações fluírem dentro das organizações, promovendo a inovação de produtos e serviços.
+0,31 [0,52; 0,60] WP4 Para a solução Web ser realmente efetiva, capaz de entregar valor para o negócio, ela deve estar alinhada à estratégia da empresa 0,26 [0,71; 0,78] Fonte: Dados da Pesquisa (2017) O resultado da pesquisa concorda com o trabalho de Liu et al (2011).
+Os autores afirmam que os projetos em plataforma web são altamente importantes para a transformação digital nas organizações financeiras, para sobreviverem e alcançarem vantagens competitivas na economia digital.
+Por isso, surgem novas arquitetura s e ferramentas Web que promovem a inovação e permitem integrações entre consumidores e outras organizações (DIMITRI; MATEI, 2015).
+Em relação ao constructo modelo de negócio, as afirmativas têm o objetivo de analisar o quanto a TI e a inovação impactam o modelo de negócio.
+Nota -se que os indivíduos tenderam a concordar com todos os itens também, conforme tabela 6.
+Tabela 6 - Intervalo de confiança dos itens do constructo Modelo de Negócio Constructo Itens Média Peso.
+- 95%¹ Modelo de Negócio MN1 Nas organizações, o negócio não pode ser separado da TI, ela deve ser parte integrante do ciclo de negócio e processos.
+0,29 [0,73; 0,81] MN2 A inovação tecnológica desafia a empresa com oportunidades e ameaças, obrigando que ela repense a forma de realizar negócios.
+0,32 [0,69; 0,77] MN3 A amplitude da inovação está intimamente relacionada à capacidade da organização de renovar o modelo de negócio.
+0,31 [0,59; 0,68] MN4 As inovações tecnológicas criam oportunidades para o desenvolvimento de novos modelos de negócios.
+0,33 [0,74; 0,80] Fonte: Dados da Pesquisa (2017) O resultado da pesquisa tende a concordar com os autores Tigre e Noronha (2013); Glova et al.
+(2014) quando afirmam que muitas oportunidades de negócios emergiram devido ao avanço expressivo em tecnologia.
+(2014) e Zackiewicz (2015), a introdução de novas tecnologias tem permitido o surgimento de novas aplicações e novas propos tas de negócios.
+Essas novas aplicações têm mudado a forma como os produtos e serviços são comercializados e distribuídos, afetando o modelo de negócio tradicional e impulsionando para uma série de novos tipos de negócios (GLOVA et al.
+Quanto ao c onstructo Inovação, os respondentes tenderam a concordar com todos os itens, tabela 7.
+As afirmativas analisam o quanto a inovação é relevante para o desempenho da organização e sua manutenção no mercado.
+LATIN AMERICAN JOURNAL OF BUSINESS MAN AGEMENT www.lajbm.
+com.br 150 Tabela 7 - Intervalo de confiança dos itens do constructo Inovação Constructo Itens Média Peso I.C.
+- 95%¹ Inovação IN1 Para manter -se no mercado altamente competitivo, é necessário à empresa inovar seus produtos e serviços.
+0,33 [0,74; 0,81] IN2 A inovação de processos e produtos impacta positivamente o desempenho da empresa.
+0,33 [0,65; 0,72] IN3 A inovação consiste não apenas em criar novos produtos, mas também em criar novas formas de atender mercados existentes.
+0,33 [0,77; 0,84] IN4 Inovações radicais nas tecnologias da informação criam vantagem competitiva às organizações, com relação aos seus concorrentes.
+0,28 [0,46; 0,56] Fonte: Dados da Pesquisa (2017) O resultado tende a concordar com Terra et al., (2012), Tigre e Noronha (2013).
+As inovações radicais nas tecnologias da informação criam vantagem competitiva às organizações, com relação aos seus concorrentes A Inovação cria oportunidade para o desenvolvimento de novos modelos de negócios e afeta as at ividades mais tradicionais das organizações (LIU et al., 2011, ZACKIEWICZ , 2015).
+Além disso, esse tipo de inovação vem afetando radicalmente a forma como as empresas crescem e se sustentam, por a inovação ser o principal vetor concorrencial quando se trat a de desenvolvimento de software (TIGRE; NORONHA, 2013).
+Análise Estrutural Para verificar a qualidade dos ajustes foi utilizado o R2 (TENENHAUS , et al.
+O R2 representa em uma escala de 0% a 100% o quanto os constructos independentes explicam os d ependentes, sendo que, no geral, valores menores que 25% representam capacidade explicativa fraca, valores entre 25% e 50% indicam capacidade explicativa moderada e valores acima de 50% evidenciam uma capacidade explicativa substancial (HAIR et al., 2014).
+Os resultados do modelo estrutural são apresentados na tabela 8 e ilustrados na figura 2.
+Com relação ao constructo Inovação a TI apresenta um peso de 0,46 e a Web 2.0 (0,22), já no constructo modelo de negócio, a Inovação tem um peso de 0,31, seguida da TI (0,24) e a Web 2.0 (0,20).
+Tabela 8 - Modelo Estrutural – Capacidade explicativa Endógenas Exógenas Β E.P.
+- 95%² Valor -p R² Inovação Tecnologia da Informação 0,46 0,05 [0,30; 0,59] 0,000 39,10% Web 2.0 0,22 0,05 [0,09; 0,42] 0,000 Modelo de Negócio Web 2.0 0,20 0,06 [0,06; 0,35] 0,002 41,30% Tecnologia da Informação 0,24 0,07 [0,10; 0,37] 0,000 Inovação 0,31 0,06 [0,19; 0,45] 0,000 Fonte: Dados da Pesquisa (2017) De acordo com o resultado do modelo estrutural, a Tecnologia da Informação tem uma influência significativa e positiva sobre a Inovação.Quanto maior o investimento em TI, maior será o resultado em Inovação nas organizações financeiras.
+A Web 2.0 apresenta também uma influência significativa e positiva (β=0,23 [0,09; 0,42]) sobre a Inovação.
+Com relação ao constructo Modelo de Negócio, houve uma influência significativa e positiva (β=0,20 [0,06; 0,35]) da Web 2.0, desta forma, quanto maior o investimento em Web 2.0, maior será o impacto na transformação do Modelo de Negócio.
+O constructo Tecnologia da Informação também apresenta uma influência significativa e positiva (β=0,24 [0,10; 0,37]) sobre o Modelo de Negócio, logo, quanto maior o investimento em Tecno logia da Informação maior será o impacto no Modelo de Negócio.
+Da mesma forma, a Inovação também influencia o Modelo de Negócio de forma significativa e positiva (β=0,31 [0,19; 0,45]), quanto maior o investimento em Inovação no setor financeiro, maior será o impacto na transformação do Modelo de Negócio.
+LATIN AMERICAN JOURNAL OF BUSINESS MAN AGEMENT www.lajbm.
+com.br 151 Figura 2 - Modelo Estrutural Fonte: Dados da Pesquisa (2017) O resultado fortalece a ideia de que a IF é de crescente inovação tecnológica.
+Bessant e Tidd (2009) já demonstravam que se a organização não acompanhar ao mercado e às inovações tecnológicas, correm o risco de serem extintas e superadas por outras organizações.
+Nessa perspectiva, cabe às IF's manterem -se competitivas e analisarem a utilização das Tecnologias, ferramentas e plataformas da Web 2.0 como propulsoras da inovação e da transformação de modelos de negócios eficientes e produtíveis.
+Conclusões Esta pesquisa objetivou analisar a relação entre TI e Inovação, na transformação do modelo de negócio e criação de valor no setor financeiro, de acordo com percepção dos profissionais de TI, a partir dos constructos TI, Web 2.0, inovação e modelo de negócio.
+Para atingir o objetivo proposto, estabeleceram -se os objetivos específicos seguintes: analis ar o impacto da TI no modelo de negócio das IF; analisar o impacto da Web 2.0 na inovação das organizações financeiras; analisar o impacto da TI e Web 2.0 sobre a inovação; e por último, propor o modelo de análise do impacto da TI, Web 2.0 sobre a inovação , e criação de valor nas IF, por meio da transformação digital.
+A pesquisa é caracterizada por uma abordagem quantitativa descritiva.
+Para a coleta de dados, utilizou o instrumento de pesquisa do tipo e-survey , com a obtenção de 312 respondentes, sendo todos profissionais de TI.
+Para o tratamento dos dados foram utilizadas técnicas de análise fatorial exploratória e modelo de equações estruturais.
+Diante do referencial teórico e das constatações empíricas citadas observou -se que a TI e a Web 2.0 contribu em positivamente para o processo de inovação do setor financeiro.
+O resultado da pesquisa demonstra o quanto a TI é transformadora ao impactar o modelo de negócio das organizações, promovendo novas formas de realizar negócios.
+Dessa maneira, foi comprovado , quantitativamente, por meio de um modelo conceitual, dados reais coletados pela amostra e uso de modelagem de equações estruturais, que existem oportunidades de promover a inovação, a transformação digital, e consequentemente, a criação de valor nas orga nizações, quando a TI é parte integrante do ciclo de negócios e processos das instituições financeiras.
+A limitação deste estudo refere -se à restrição da amostra, pois foi composta apenas por profissionais de TI do setor financeiro, embora tenha sido inte ncional.
+O modelo proposto pela pesquisa limita -se à análise apenas das relações entre os constructos Web 2.0, TI e inovação na criação de valor das IF.
+LATIN AMERICAN JOURNAL OF BUSINESS MAN AGEMENT www.lajbm.
+com.br 152 Como pesquisa futura, sugere -se ampliar a pesquisa em outros setores econômicos.
+Outra sugestão é rea lizar a pesquisa no setor financeiro, porém os respondentes seriam os profissionais gestores de negócio, a TI não faria parte da pesquisa.
+Seria muito interessante ter a visão sob a ótica da área comercial, profissionais esses que atuam diretamente com os clientes.
+O desenvolvimento de competências gerenciais como fator de vantagem competitiva: um estudo de caso em uma empresa estatal de telecomunicações.
+Anais Eletrônicos … Rio de Janeiro - RJ, 1997.
+AKHISAR, İ.; TUNAY, K. B.; TUNAY, N. The Effects of Innovations on Bank Performance: The Case of Electronic Banking Services.
+Procedia - Social and Behavioral Sciences , v. 195, p. 369 –375.
+doi: 10.1016/j.sbspro.2015.06.336, 2015.
+APAK, S.; TU NCER, G.; ATAY, E.; KOŞAN, N. İ.
+Insights From Knowledge Management to Radical Innovation: "Internet Banking Applications in the European Union".
+Procedia - Social and Behavioral Sciences , v. 41, p. 45 –50.
+From E -commerce to Social Commerce: A Framework to Guide Enabling Cloud Computing.
+Journal of theoretical and applied electronic commerce research , v. 8, n. 3, p. 5 –6.
+doi: 10.4067/S071818762013000300003, 2013.
+BALDIN, N., MUNHOZ, E. M. (2011).
+snowball (Bola de Neve): uma técnica metodológica para pesquisa em educação ambiental comunitária.
+In: X Congresso Internacional de Educação , 229-341.
+BESSANT, J; TIDD, J. Inovação e Empreendedorismo .
+CALLAWAY, S. K. Strategic Context for Internet Banking: How Traditional Banks Manage e -Commerce to Build IT Capabilities and Improve Performance.
+Journal of Internet Banking and Commerce , v. 20, n. 1.
+CHOO, C. W. A Organização do Conhecimento .
+São Paulo: Editora Senac São Paulo, 2006. COOPER, D. R.; SCHINDLER P. S. Métodos de pesquisas em administração.
+DALKIR, K. Knowledge Management in Theory and Practice .
+Cambridge, London: The MIT Press, 2011.
+Continuous software engineering: A roadmap and agenda.
+Journal of Systems and Software .
+doi: 10.1016/j.jss.2015.06.063, 2015.
+GHANI, A. T. A.; ZAKARIA, M. S. Business -IT Models Drive Businesses Towards Better Value Delivery and Profits Making.
+Procedia Technology , v. 11, p. 602 –607.
+doi: 10.1016/j.protcy.2013.12.234, 2013.
+GLOVA, J.; SABOL, T.; VADJA, V. Business Models for the Internet of Things Environment.
+Procedia Economics e Finance, v.15, p. 1122 -1129, 2014.
+GOREVAYA, E.; KHAYRULLINA, M. Evolutio n of Business Models: Past and Present Trends.
+Procedia Economics and Finance , v. 27, p. 344 –350.
+doi: 10.1016/S2212 -5671(15)01005 -9, 2015.
+HAIR JR, J. F.; BLACK, W. C.; BABIN, B. J.; ANDERSON, R. E. E.; TATHAM, R. L. Análise Multivariada de Dados.
+HENSELER, J.; SARSTEDT, M. Goodness -of-fit indices for partial least squares path modeling.
+Computational Statistics, v. 28, n. 2, p. 565 -580, 2012.
+LASTRES, H. M. M.; ALBAGLI, S. Informatização e globalização na era do conhecimento .
+Rio de Janeiro: Editora Campus, 1999.
+LINS, A. G.; SILVA, W. V. DA; QUANDT, C. O. Criação de Inteligência Competitiva a Partir de Regressão Logística: Estudo no Setor de Telecomunicações.
+Revista ADM. MADE , v. 13, n. 1, p. 38 –56, 2009.
+LATIN AMERICAN JOURNAL OF BUSINESS MAN AGEMENT www.lajbm.
+com.br 153 LIU, D.; CHEN, S.; CHOU, T. Resource fit in digital transformation: Lessons learned from the CBC Bank global e‐banking project.
+Management Decision , v. 49, n. 10, p. 1728 –1742.
+doi: 10.1108/00251741111183852, 2011.
+Generative team learning in Web 2.0 environments.
+Journal of Management Development , v. 32, n. 1, p. 73 -95, 2013.
+MALHOTRA, N. K. Pesquisa de marketing: uma orientação aplicada.
+MARZULLO, F. P. SOA na Prática.
+Inovando seu negócio por meio de soluções orientadas a serviços.
+MATTOS, J. R. L.; GUIMARÃES, L. S. Gestão da Tecnologia e Inovação .
+São Paulo: Editora Saraiva, 2012.
+Rio de Janeiro: Elsevier Editora, 20 10.
+MINGOTI, S. A. Análise de Dados Através de Métodos de Estatística Multivariada: Uma Abordagem Aplicada.
+Disponível em: /web2/archive/what -is-web-20.html.
+RAILIENĖ, G. The use of IT in relationship banking.
+Procedia - Social and Behavioral Sciences , v. 156, p. 569–574.
+doi: 10.1016/j.sbspro.2014.11.242, 2014.
+RIBEIRO, H. C. M.; CORRÊA, R. 10 anos de pesquisa da revista brasil eira de inovação sob a ótica da bibliometria e da rede social.
+Administração Ensino e Pesquisa, v. 15, n. 4, p.725 -763, out./dez.
+RODRIGUEZ, M. V. R. Gestão do Conhecimento e Inovação nas Empresas .
+Rio de Janeiro: Qualitymark Editora, 2010.
+SAITO, M. B.; OLIVEIRA, M. R. G.; JÚNIOR, J. L. T. Inovação tecnológica e a flexibilidade gerencial: uma aplicação da teoria das opções reais.
+Revista de Economia Mackenzie , v. 9, n. 3.
+A Teoria do desenvolvimento econômico.
+São Paulo: Abr il Cultural (Coleção Os Economistas), 1981.
+TAKEUCHI, H; NONAKA I. Gestão do Conhecimento .
+São Paulo: Editora Bookman, 2008.
+TAURION, C. Computação em Nuvem.
+Transformando o mundo da Tecnologia da Informação.
+Rio de Janeiro: Brasport, 2009 TERRA, J. C. et al .
+10 dimensões da gestão da inovação: uma abordagem para a transformação organizacional.
+Rio de Janeiro: Elsevier, 2012.
+TIGRE, P. B. Gestão da Inovação.
+A Economia da Tecnologia no Brasil.
+Rio de Janeiro: Elsevier Editora, 2006.
+Do mainframe à nuvem: inovações, estrutura industrial e modelos de negócios nas tecnologias da informação e da comunicação.
+Revista de Administração , v. 48, n. 1, p. 114 – 127. doi: 10.5700/rausp1077, 2013.
+TURBAN, E.; RAINER Jr ., R. K.; POTTER, R. Administração de tecnologia da informação .
+Rio de Janeiro: Elsevier, 2003.
+VALENTIM, M. L. P. Gestão da Informação e do Conhecimento .
+São Paulo: Editora Polis, 2008.
+LATIN AMERICAN JOURNAL OF BUSINESS MAN AGEMENT www.lajbm.
+com.br 154 VERGARA, S. C. Projetos e Relatórios de Pesquisa em Administração.
+São Paulo -SP: Editora Atlas S.A. 2014.
+WESTERMAN, G.; BONNET, D.; MacAFEE A. Liderando na Era Digital .
+São Paulo: M.Books Editora Ltda, 2016.
+WETTINGER, J; BREITENBUCHER, U; KOPP, O; LEYMANN, F. Streamlining DevOps automation for cloud applicantions us ing TOSCA as standardized metalmodel.
+Future Generation Computer Systems , v. 56, p. 317-332, 2016.
+WIRTZ, B. W.; SCHILKE, O.; ULLRICH, S. Strategic development of business model.
+Implication of the web 2.0 for creating value on the internet.
+Longe Range Planning , v. 43, p. 272 -290, 2010.
+ZACKIEWICZ , M. A economia do software e a digitalização da economia.
+Revista Brasileira de Inovação, Campinas, v. 14, n. 2, p. 313 -336, jul./dez.
+ZILBER, S. N.; DE VASCONCELLOS, E. P. G. Uso de modelo de negócio para a implantação de e -business na indústria automobilística DOI: 10.5585/rai.
+RAI: revista de administração e inovação , v. 2, n. 2, p. 62 –76, 2005.

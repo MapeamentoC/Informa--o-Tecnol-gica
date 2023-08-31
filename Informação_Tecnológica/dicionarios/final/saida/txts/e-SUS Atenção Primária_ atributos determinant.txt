@@ -1,0 +1,276 @@
+e-SUS Atenção Primária: atributos determinantes para adoção e uso de uma inovação tecnológica Primary Healthcare e-SUS: determinant attributes for the adoption and use of a technological innovation e-SUS Atención Primaria: atributos determinantes para la adopción y uso de una innovación tecnológica Fabiana Costa Machado Zacharias 1 Tatiele Estefani Schönholzer 1 Valeria Conceição de Oliveira 2 Rodrigo André Cuevas Gaete 1 Gilberto Perez 3 Luciana Aparecida Fabriz 1 Gabriela Gonçalves Amaral 1 Ione Carvalho Pinto 1 doi: 10.1590/0102-311X00219520 Cad.
+Saúde Pública 2021; 37(6):e00219520ARTIGO ARTICLE Resumo O estudo objetivou analisar a adoção e o uso do e-SUS Atenção Primária (e-SUS APS) como inovação tecnológica na perspectiva dos profissionais da atenção primária à saúde (APS).
+Trata-se de um estudo de método misto explanatório sequencial (QUAN → qual) realizado em municípios do interior de São Paulo, Brasil, utilizando a Teoria da Difusão de Inovação.
+O estudo quantitativo foi do tipo transversal analítico, aplicando-se um questionário validado a 114 profissionais da APS.
+Para testar o modelo do estudo, aplicou-se a modelagem de equações estruturais de mínimos quadrados parciais (PLS-SEM) por meio do software SmartPLS 2.3.0.
+O estudo qualitativo teve caráter descritivo-exploratório, por meio de entrevistas (n = 10) analisadas por análise temática de conteúdo, visando entender os atributos que não influenciaram a adoção e o uso do e-SUS APS.
+Os atributos "experimentação", "facilidade de uso", "vantagem relativa" e "compatibilidade" não apresentaram significância estatística, indicando não serem atributos determinantes para adoção e uso do e-SUS APS.
+Na integração dos dados, evidenciaram-se: falhas de conectividade; ausência de tempo para alimentação do sistema em tempo real e de capacitação; não experimentação prévia; apresentação abrupta do sistema e ausência de habilidade com a tecnologia.
+Os resultados podem auxiliar os demais municípios do Brasil na implantação e/ou efetivação do e-SUS APS, no que tange à importância da infraestrutura organizacional, bem como na capacitação para utilização e manuseio da tecnologia.
+Este estudo contribui para reflexões e propostas de intervenções aos problemas enfrentados no cotidiano do trabalho quanto à adoção e ao uso de uma inovação tecnológica, como o e-SUS APS.
+Difusão de Inovação; Sistemas de Informação em Saúde; Atenção Primária à Saúde; Utilização de Equipamentos e SuprimentosCorrespondência F. C. M. Zacharias Programa de Pós-graduação Enfermagem em Saúde Pública, Escola de Enfermagem de Ribeirão Preto, Universidade de São Paulo.
+dos Bandeirantes 3900, Ribeirão Preto, SP 14040-902, Brasil.
+fabiana.zacharias@usp.br 1 Escola de Enfermagem de Ribeirão Preto, Universidade de São Paulo, Ribeirão Preto, Brasil.
+2 Programa de Pós-graduação em Enfermagem, Universidade Federal de São João del-Rei, São João del-Rei, Brasil.
+3 Programa de Pós-graduação em Administração, Universidade Presbiteriana Mackenzie, São Paulo, Brasil.
+Este é um artigo publicado em acesso aberto (Open Access) sob a licença Creative Commons Attribution, que permite uso, distribuição e reprodução em qualquer meio, sem restrições, desde que o trabalho original seja corretamente citado.Zacharias FCM et al.2 Cad.
+Saúde Pública 2021; 37(6):e00219520 Introdução Os Sistemas de Informação em Saúde (SIS) foram criados visando acompanhar a produção de dados para assegurar avaliações da situação de saúde da população e, dessa forma, servirem como um instrumento para as práticas de atenção e de gestão, além de auxiliarem no planejamento e na tomada de decisões 1,2.
+O Ministério da Saúde do Brasil, planejando informatizar e integrar as informações da atenção primária à saúde (APS), instituiu, em 2013, o sistema e-SUS APS (e-SUS Atenção Primária – https:// sisaps.saude.gov.br/esus/), composto por dois sistemas de software: a coleta de dados simplificada (CDS) e o Prontuário Eletrônico do Cidadão (PEC) 3.
+O sistema e-SUS APS encontra-se em fase avançada de implantação, mas ainda enfrenta desafios e obstáculos relacionados às diferenças na infraestrutura tecnológica e à qualificação profissional, no contexto do Sistema Único de Saúde (SUS).
+Contudo, pressupõe-se que existem diferenças no processo de implantação do e-SUS APS entre os municípios 4,5.
+Diferenças essas influenciadas pela inexistência de uma política de informação e informática em saúde local, voltada para o ordenamento dos processos de produção, uso e disseminação de informação e pela insuficiência de capacitação dos recursos humanos para a gestão da informação 6.
+Nesse contexto, apesar dos obstáculos, o sistema e-SUS APS apresenta-se como uma importante ferramenta para as equipes de saúde, tanto para o cuidado quanto para a gestão.
+Contudo, para que seu uso seja potencializado e efetivo, é preciso que os profissionais conheçam seus instrumentos, bem como os processos envolvidos para a alimentação dos dados.
+Considerando-se o potencial do e-SUS APS, suas implicações no fortalecimento da gestão do SUS e operacionalização da APS, justifica-se investigar sua adoção e uso na perspectiva dos profissionais de saúde.
+Estudos sobre a adoção e o uso de tecnologias por indivíduos e organizações têm sido realizados durante as últimas décadas, o que levou à proposição de diversos modelos que procuraram explicar a adoção dessas tecnologias 7, a exemplo da Teoria da Difusão de Inovação (TDI) 8.
+Como a adoção e o uso de inovações tecnológicas impactam diretamente no resultado do trabalho, desenvolver pesquisas nessa área torna-se relevante 9.
+Segundo a TDI, a adoção e o uso de uma inovação dependem diretamente da maneira como essa é apresentada a seus futuros adotantes.
+A TDI define inovação como uma ideia, prática ou objeto que é percebido como novo por um indivíduo.
+Dessa forma, o sistema e-SUS APS é considerado uma inovação tecnológica.
+Para que as pessoas se sintam atraídas a adotar uma inovação, a TDI apresenta cinco atributos: "vantagem relativa"; "compatibilidade"; "complexidade"; "experimentação" e "observabilidade" 8.
+Para a avaliação da taxa de adoção e difusão de uma inovação, é recomendada 10 a utilização dos atributos universais percebidos nessa inovação, conforme a TDI 8, contudo, quando se trata de uma inovação tecnológica, como o e-SUS APS, o ideal é complementar com outros atributos, como apresentados na literatura 11 e utilizados neste estudo.
+Com base na TDI 8, foi desenvolvido um instrumento para avaliar a percepção dos indivíduos acerca dos atributos que influenciam a adoção e o uso de uma inovação tecnológica 6.
+Para tal avaliação, foram incluídos os atributos "imagem", "uso voluntário" e "demonstração de resultado", esse último sendo a junção de "observabilidade" e "comunicabilidade", e traduz a concretude dos resultados obtidos pelo uso de uma inovação 11.
+Pequenas adaptações foram realizadas para melhor compreensão, como a modificação do termo "complexidade" para "facilidade de uso" e "visibilidade" para "observabilidade" 11.
+Estudos utilizando a TDI para avaliação da taxa de adoção e uso de inovações tecnológicas em diversas áreas vêm sendo empregados tanto no contexto nacional 4,9,12,13 como no internacional 14,15.
+O objetivo desse estudo foi analisar os atributos determinantes para adoção e uso do sistema e-SUS APS como inovação tecnológica na perspectiva dos profissionais das equipes de APS.
+E-SUS ATENÇÃO PRIMÁRIA, ADOÇÃO E USO DE UMA INOVAÇÃO TECNOLÓGICA3 Cad.
+Saúde Pública 2021; 37(6):e00219520 Métodos Trata-se de estudo de método misto 16, com delineamento explanatório sequencial (QUAN → qual), no qual os dados quantitativos são coletados e analisados em uma primeira etapa, seguida da coleta e análise de dados qualitativos desenvolvida sobre os resultados quantitativos iniciais 17.
+Neste estudo, os dados qualitativos auxiliaram na compreensão de como os atributos da TDI 8 influenciam a adoção e o uso do e-SUS APS.
+Dessa forma, os dados qualitativos e quantitativos foram integrados.
+O estudo foi desenvolvido em uma região de saúde no interior do Estado de São Paulo, composta por 26 municípios, desses, sete (26,9%) municípios foram selecionados por utilizarem o sistema e-SUS APS com o PEC, sem interface com outro SIS, os demais municípios (n = 19; 73,1%) foram excluídos por utilizarem SIS privado.
+A escolha desses municípios foi realizada por meio dos relatórios gerados pelo Sistema de Informação em Saúde para a Atenção Básica (SISAB).
+Tais municípios possuíam faixa populacional de até 50 mil habitantes e Índice de Desenvolvimento Humano (IDH) alto (entre 0,7 e 0,8) (Instituto Brasileiro de Geografia e Estatística.
+Pelo Cadastro Nacional de Estabelecimentos de Saúde (CNES), foram identificados 137 profissionais de saúde.
+Participaram do estudo 109 profissionais (médicos; enfermeiros; cirurgiões-dentistas; técnicos e/ou auxiliares de enfermagem; auxiliar de saúde bucal e agentes comunitários de saúde) e 5 recepcionistas das unidades de APS, presentes nas unidades no período de coleta de dados, que ocorreu entre junho e novembro de 2018.
+O estudo quantitativo foi do tipo transversal analítico.
+Para a coleta de dados, utilizou-se um instrumento validado 8, em sua versão adaptada e validada no Brasil 18, composto por 35 assertivas, sendo as de v1 a v27 traduzidas do instrumento original, e as demais (v28 a v33) desenvolvidas pelo pesquisador brasileiro, além de outras duas assertivas iniciais (a e b) acerca de "usuários atuais" do sistema.
+As 33 assertivas versam sobre os atributos da TDI, formuladas em uma escala de respostas de 7 pontos, com pontuações variando entre 1 e 7 pontos, correspondendo às notas mínima e máxima, respectivamente (Quadro 1).
+ATRIBUTOS DEFINIÇÃO ASSERTIVAS Adoção e uso Como o profissional se percebe como usuário do prontuário eletrônico.
+a e b Compatibilidade Grau em que uma inovação é percebida como consistente com valores, necessidades e experiências dos adotantes potenciais.v9; v21; v23 Demonstração de resultados Grau em que os resultados do uso de uma inovação são tangíveis.
+v7; v15; v17; v26 Experimentação Grau em que uma inovação pode ser experimentada antes da adoção.
+v3; v12; v24 Facilidade de uso Grau em que uma inovação é percebida como fácil de usar.
+v6; v14; v20; v22 Imagem Grau em que o uso de uma inovação é percebido para melhorar a imagem de um indivíduo ou o status de um sistema social.v4; v11; v27 Uso voluntário Grau em que o uso de uma inovação é percebido como voluntário ou espontâneo.
+v1; v18 Vantagem relativa Grau em que uma inovação é percebida como melhor que seu precursor.
+v2; v5; v8; v13; v25 Visibilidade Grau em que uma inovação se torna visível para os indivíduos ou grupos de uma organização.v10; v16; v19 Resultado de uso Consequência do seu uso, como forma de atender aos requisitos para os quais a inovação foi introduzida.v28; v29.
+v30; v31; v32; v33Quadro 1 Atributos, definições e assertivas do instrumento utilizados no estudo.
+Ribeirão Preto, São Paulo, Brasil, 2018.Zacharias FCM et al.4 Cad.
+Saúde Pública 2021; 37(6):e00219520 No modelo proposto pelo estudo, as variáveis dependentes são representadas pelos atributos "adoção e uso" e "resultado de uso", e as variáveis independentes, pelos atributos: "compatibilidade", "imagem", "demonstração de resultado", "experimentação", "facilidade de uso", "uso voluntário" e "vantagem relativa" para "adoção e uso" e "adoção e uso" para "resultado de uso".
+Para testar o modelo do estudo, aplicou-se a modelagem de equações estruturais de mínimos quadrados parciais (PLS-SEM).
+Tal método é orientado para explicar a variância do modelo do estudo e para detectar estatisticamente atributos significativos 19.
+O software SmartPLS 2.3.0 ( smartpls.com/smartpls2) foi utilizado para estimar o modelo 20.
+Antes de avaliar o modelo estrutural, avaliou-se o modelo de medição para aferir a confiabilidade de cada atributo, considerando aqueles que apresentaram correlação igual ou superior a 0,7 19.
+Realizou-se a avaliação da carga de cada variável observada em seus respectivos atributos; verificação da variância média explicada (VME) e avaliação dos valores de confiabilidade composta para os atributos e a variável latente "adoção e uso do e-SUS APS".
+Posteriormente, realizou-se a validação do modelo estrutural por meio da verificação dos valores do coeficiente de determinação de variância R² e teste t de Student.
+Foi utilizado o algoritmo de bootstrapping (amostragem aleatória) do software SmartPLS com o parâmetro 500 para o número de casos e amostras para a obtenção dos resultados do teste da distribuição t de Student 20.
+Os resultados do teste t dependem do número de questionários respondidos.
+Para uma amostra de 114 respondentes (graus de liberdade), o valor da distribuição t de Student é de 1,98, para um intervalo de 95% de confiança (IC95%) e significância de 0,05 19.
+O estudo qualitativo teve caráter descritivo-exploratório.
+Para a coleta de dados, com o objetivo de analisar os atributos que não foram determinantes para adoção e uso do sistema e-SUS APS, foram entrevistados 10 profissionais de duas UBS sorteadas.
+As entrevistas foram gravadas em dispositivo de áudio e, após transcrição, foram tratadas e analisadas 21.
+Para determinar o número de entrevistas, foram utilizadas, como critério, a repetição e a saturação dos dados em, no mínimo, dois profissionais por categoria 21.
+Utilizou-se da entrevista individual norteada por um roteiro semiestruturado, abordando questões norteadoras a respeito dos atributos que não contribuíram para adoção e uso do sistema e-SUS APS identificados na primeira etapa, o estudo quantitativo.
+Para a análise das entrevistas, optou-se pela análise de conteúdo na modalidade temática, seguindo as fases definidas como: pré-análise, exploração do material e tratamento dos resultados 14.
+Essa análise permitiu identificar as unidades de registro e codificá-las, atendendo aos princípios da exaustividade, representatividade, homogeneidade e pertinência 22.
+As entrevistas foram codificadas com o número sequencial precedido das iniciais conforme cada categoria profissional: MED – médico; ENF – enfermeiro; DEN – cirurgião-dentista; TEN – técnico de enfermagem; TSB – técnico em saúde bucal; e ACS – agente comunitário de saúde.
+Os dados quantitativos e qualitativos foram analisados separadamente e integrados para interpretação, em conformidade com o que determina o método misto explanatório sequencial (QUAN → qual) 16,17.
+O estudo foi aprovado pelo Comitê de Ética em Pesquisa em Seres Humanos da Escola de Enfermagem de Ribeirão Preto da Universidade de São Paulo (EERP/USP), parecer n o 135/18 de 22/06/2018 e CAAE n o 86670618.7.0000.5393.
+Resultados Dentre os participantes do estudo, 105 (92,1%) eram do sexo feminino, e apenas 9 (7,9%) eram do sexo masculino, com idades variando entre 18 e 73 anos, sendo 38,4 e 36,0 a média e a mediana entre as idades, respectivamente, com desvio padrão de 11 anos.
+Sobre a categoria profissional, a maioria era de ACS (n = 57; 50%); seguidos de enfermeiros (n = 16; 14%); médicos (n = 10; 8,8%); dentistas (n = 7; 6,1%); auxiliares de saúde bucal (n = 4; 3,4%) e recepcionistas (n = 5; 4,4%).
+No que tange ao grau de escolaridade, 7 (6,1%) possuíam Ensino Fundamental; 61 (53,5%), Ensino Médio; 4 (3,5%), Ensino Superior incompleto; e 42 (36,8%), Ensino Superior completo.
+Na primeira etapa, estudo quantitativo, os valores calculados apresentam-se no processamento do modelo proposto utilizando a técnica Partial Least Square (PLS – regressão por Mínimos Quadrados Parciais).
+O modelo estrutural proposto para o estudo mostrou-se adequado, visto que a maioria dos E-SUS ATENÇÃO PRIMÁRIA, ADOÇÃO E USO DE UMA INOVAÇÃO TECNOLÓGICA5 Cad.
+Saúde Pública 2021; 37(6):e00219520 atributos apresentaram valores de correlação ≥ 0,7.
+O atributo "visibilidade" foi excluído por apresentar valores de correlações inferiores a 0,7 para todas as suas variáveis.
+Após esses ajustes, efetuou-se um novo processamento (Figura 1).
+Na Figura 1, estão apresentados os coeficientes de regressão padronizados associados a cada um dos atributos, indicando o quanto eles impactam no atributo "adoção e uso" quando esses aumentam de unidade.
+O atributo que apresentou maior coeficiente de regressão foi "imagem" (4,4), seguido de "uso voluntário" (2,8) e "demonstração de resultado" (2,6), todos com o atributo "adoção e uso", inferindo que, a cada uma unidade, o constructo "adoção e uso" aumenta, a maior contribuição vem dos atributos "imagem", "uso voluntário" e "demonstração de resultado".
+Os demais atributos (facilidade de uso, experimentação, vantagem relativa, compatibilidade) afetaram positivamente a adoção e o uso do e-SUS APS.
+Observa-se que, no interior do círculo que representa o atributo "adoção e uso", o valor de R 2 obtido foi de 23,8%, e do atributo "resultado de uso", de 3,7%.
+Os atributos da TDI explicam 23,8% da adoção e uso do e-SUS APS.
+As Tabelas 1 e 2 apresentam os principais indicadores obtidos para o modelo ajustado, sem o atributo "visibilidade".
+Observa-se que os valores obtidos para o alfa de Cronbach são superiores a 0,7, o que é recomendado pela literatura como valor de corte 19.
+O mesmo aconteceu com a VME e com a confiabilidade composta, ambas com valores sempre acima de 0,5, conforme recomendado 23.
+Os Figura 1 Modelo estrutural final.
+Ribeirão Preto, São Paulo, Brasil, 2018.
+Nota: os valores dos coeficientes de regressão padronizados associados a cada um dos atributos referem-se aos valores atribuídos por cada assertiva que os compõe e, consequentemente, indicam o quanto cada um desses impacta no atributo "adoção e uso".
+Fonte: elaboração própria.Zacharias FCM et al.6 Cad.
+Saúde Pública 2021; 37(6):e00219520 indicadores de um construto específico devem convergir ou compartilhar de uma elevada proporção de variância.
+Apesar de o atributo "experimentação" apresentar VME inferior a 0,5, a confiabilidade foi certificada por meio da confiabilidade composta, que é um indicador de precisão mais robusto, quando comparado ao coeficiente alfa de Cronbach 19 (Tabela 1).
+Os resultados da regressão múltipla indicaram que os atributos "experimentação"; "facilidade de uso"; "vantagem relativa" e "compatibilidade" não possuem efeito significante ao nível de 5% (t > 1,98), não sendo determinantes para o processo de adoção e uso da inovação tecnológica e-SUS APS (Tabela 2).
+Na segunda etapa, estudo qualitativo, a partir do processo de análise dos dados, foi possível interpretar os atributos da TDI que não foram determinantes na adoção e no uso do e-SUS APS na primeira etapa do estudo.
+Os atributos "experimentação" e "compatibilidade" foram identificados pelos profissionais como entraves para a adoção e o uso do e-SUS APS.
+Observa-se que não houve uma fase de experimentação, e que o sistema foi apresentado aos profissionais de saúde de forma abrupta: ".
+A gente não teve nenhum treinamento (.)
+quando implantou, não teve curso nem nada.
+só foram orientações mesmo que deram para a gente! "
+Eu tive 10 minutos com uma médica de outra unidade.
+Depois eu cheguei aqui, e um ACS me explicou.
+Você tem que preencher isso e isso.
+Eu me baseei pelas consultas feitas pela médica anterior.
+a partir de hoje, vocês vão ter que usar o e-SUS.
+(TSB).Tabela 1 Indicadores de apuração do modelo ajustado.
+Ribeirão Preto, São Paulo, Brasil, 2018.
+Atributos Confiabilidade composta Alfa de Cronbach VME √VME Adoção e uso 0,7500 0,3951 0,6087 0,7801 Compatibilidade 0,8976 0,8340 0,7453 0,8633 Demonstração de resultados 0,8821 0,8312 0,6530 0,8081 Experimentação 0,5944 0,7174 0,4890 0,6992 Facilidade de uso 0,8976 0,8571 0,6881 0,8295 Imagem 0,8391 0,6575 0,7256 0,8518 Resultado de uso 0,9409 0,9265 0,7264 0,8523 Uso voluntário 0,7922 0,6215 0,6679 0,8173 Vantagem relativa 0,9235 0,8968 0,7075 0,8411 VME: variância média explicada.
+Tabela 2 Atributos, segundo coeficiente padronizado, valor t e status .
+Ribeirão Preto, São Paulo, Brasil, 2018 (n = 114).
+Atributos Coeficiente padronizado valor t > 1,98 Status do atributo Compatibilidade > adoção e uso -0,012 0,102 Não determinante Demonstração de resultados > adoção e uso 0,332 2,622 Determinante Experimentação > adoção e uso -0,220 1,601 Não determinante Facilidade de uso > adoção e uso -0,118 0,721 Não determinante Imagem > adoção e uso 0,303 4,434 Determinante Resultado de uso > adoção e uso 0,192 3,662 Determinante Uso voluntário > adoção e uso -0,193 2,871 Determinante Vantagem relativa > adoção e uso -0,037 0,298 Não determinanteE-SUS ATENÇÃO PRIMÁRIA, ADOÇÃO E USO DE UMA INOVAÇÃO TECNOLÓGICA7 Cad.
+Saúde Pública 2021; 37(6):e00219520 O número de computadores em quantidade suficiente e a variação de conectividade foram problemas de compatibilidade relatados pelos profissionais, pois esses interferem na digitação dos dados em tempo real: " Quando implantou o e-SUS (.)
+só tinha um computador, tinha até fila… era horrível porque tinha que parar meia hora antes, porque podia ter fila, às vezes, não tinha computador para jogar " (TSB).
+não sei por que, às vezes, a gente não consegue acessar ele.
+Mas eu sei que não é o programa, é o servidor né?
+Você não consegue acessar e você quer trabalhar, trava o programa ."
+a gente chega [da visita domiciliar] e depois que a gente vai alimentar o sistema, à tarde.
+Se o sistema está fora do ar, o lançamento é no outro dia, tem coisa que a gente esquece ."
+Embora os profissionais relatem algumas dificuldades no manuseio do e-SUS APS, conseguem identificar vantagens em usar o sistema, como a segurança dos dados e a alimentação diária do Sistema.
+No começo, a gente não sabia fazer nada (…) mexer no computador (.)
+Às vezes, a gente tem essa dificuldade, é tudo muito novo ainda " (ENF-1).
+Não perde que nem papel, porque antes a gente só preenchia o papel, e sabe Deus onde ia parar isso " (TSB).
+No SIAB, a gente lançava só no final do mês (.)
+Apesar de o uso do Sistema e-SUS APS não ser obrigatório, a adoção e o uso do sistema são influenciados pela imposição das esferas de gestão local, que transmitem a percepção de que o sistema é obrigatório, como ilustram os depoimentos: " O Ministério da Saúde implantou o e-SUS para os trabalhadores da Saúde, eles fizeram todo o mundo engolir goela abaixo [usar] (.)
+a gente faz quando cobra e mesmo cobrando tem vezes que não faz.
+a secretaria e a coordenadora cobram da gente, precisa digitar gente, não deixa de alimentar o sistema" (ENF-1).
+se a gente não passar a nossa produção, não vai aparecer.
+Então a gente tem que passar todo dia (.)
+se não coloca no sistema, é como se não tivesse feito né.
+como se não tivesse realizando " (ACS-1).
+A Figura 2 apresenta a integração entre dados qualitativos e quantitativos.
+No que se refere aos resultados quantitativos, foram considerados os atributos que não tiveram significância estatística, enquanto, para o estudo qualitativo, compilaram-se os fragmentos das falas das entrevistas que convergiram com os dados quantitativos.
+Discussão Os resultados quantitativos apontaram que os atributos "demonstração de resultado", "imagem" e "uso voluntário" foram determinantes, enquanto os atributos "experimentação", "facilidade de uso", "vantagem relativa" e "compatibilidade" não foram fatores determinantes para adoção e uso do e-SUS APS.
+Os dados qualitativos auxiliaram na compreensão de como os atributos da TDI 7 influenciaram a adoção e o uso do e-SUS APS.
+Apesar de alguns atributos não influenciarem a adoção da inovação, foram percebidos outros que se conformaram como contribuições para o cotidiano dos profissionais, como a demonstração de resultados.
+Isso denota potencialidades do e-SUS APS para planejamento e decisão no cotidiano das Equipes de Saúde da Família, mas que precisa de ampliação e efetivação a partir do uso/adoção do Sistema pelos profissionais 4.
+O atributo "facilidade de uso" não foi considerado determinante na adoção e no uso do e-SUS APS.
+Os achados diferem de um estudo realizado na área hospitalar em que tal atributo (facilidade de uso) foi determinante para o uso do prontuário eletrônico na instituição 18.
+Os achados podem estar relacionados à falta de habilidade no manuseio de tecnologias, o que pode tornar a inovação complexa para os usuários, uma vez que a habilidade com as ferramentas tecnológicas influencia a aceitação de uma inovação tecnológica 24.
+Uma revisão sistemática da literatura apontou que a facilidade de uso foi percebida como sendo uma barreira e, ao mesmo tempo, um facilitador para a implementação de registros eletrônicos de saúde 25.
+Nessa revisão, os estudos nos quais os SIS foram relatados como de fácil utilização apontaram que os participantes tenderam a perceber os registros eletrônicos de saúde como uma ferramenta valiosa para facilitar os processos de trabalho.
+No entanto, nos estudos nos quais os registros eletrônicos de saúde não foram adaptados às necessidades ou habilidades dos usuários, foram percebidos como de difícil utilização 25.Zacharias FCM et al.8 Cad.
+Saúde Pública 2021; 37(6):e00219520 Figura 2 Integração dos dados quantitativos e qualitativos.
+Ribeirão Preto, São Paulo, Brasil, 2018.
+Segundo a TDI, inovações que podem ser experimentadas geralmente são adotadas mais rapidamente do que aquelas não experimentadas a priori 8.
+Dessa forma, para o atributo "experimentação", não foi identificada associação estatística significativa, e as falas dos entrevistados comprovaram tal resultado.
+Tal achado corrobora com outros estudos sobre adoção e uso de SIS no que se refere à ausência de experimentação 4,18.
+Como resultado deste estudo, foi apontada, pelos entrevistados, a falta de capacitação para uso do e-SUS APS.
+Em Minas Gerais, a capacitação e o suporte, caracterizados como pouco resolutivos, foram aspectos frágeis na difusão do sistema 4.
+Outro estudo destaca que a oferta de treinamento para os usuários foi fator facilitador ao uso do sistema, e que a ausência de conhecimento desse sistema pode levar à não utilização dele 24.
+Sobre o atributo "compatibilidade", apontado como um fator não determinante para a adoção e o uso do e-SUS APS, foram ressaltados a dificuldade de conectividade da Internet e o número insuficiente de computadores para uso de todos os profissionais.
+Dessa forma, não há consistência com os valores atuais, as experiências passadas e as necessidades dos adotantes potenciais, como indica a TDI 8.
+Estudos indicam algumas dificuldades percebidas no processo de implantação do e-SUS APS, dentre elas, a falta de infraestrutura das UBS; resistências dos profissionais; software inadequado às demandas informacionais e a conectividade da Internet 4,5, uma vez que o e-SUS APS requer uma rede de Internet com banda larga, além de computadores em todos os ambientes de assistência das UBS 26.
+Relativo ao atributo "uso voluntário", os dados quantitativos o determinaram negativamente quanto à adoção e ao uso da inovação e-SUS APS.
+Os profissionais da equipe de saúde evidenciaram que o sistema e-SUS APS foi implantado por imposição de instâncias gestoras, com interesses vin -E-SUS ATENÇÃO PRIMÁRIA, ADOÇÃO E USO DE UMA INOVAÇÃO TECNOLÓGICA9 Cad.
+Saúde Pública 2021; 37(6):e00219520 culados e relacionados ao repasse de verbas aos municípios.
+No contexto da saúde pública do Brasil, em outras oportunidades de implantação de SIS, também foi verificada essa obrigatoriedade 6,27.
+Esse fato reforça a presença de um modelo informacional verticalizado, fragmentado, assistemático e que tende a desenvolver a postura de coletas de dados sem sentido e com pouca utilização desses dados no planejamento e processo decisório local 4,28.
+Com isso, nota-se que a tecnologia, por si só, não é suficiente para garantir que os benefícios potenciais sejam alcançados em termos de eficiência, efetividade e qualidade dos cuidados 5.
+A respeito do atributo "vantagem relativa", o mais forte preditor da adoção e uso de uma inovação, os benefícios e encargos de uma inovação são primeiramente avaliados para determinar sua vantagem relativa 8.
+O e-SUS APS, enquanto inovação, na percepção dos profissionais, é compreendido como uma tecnologia limitada ao arquivamento e registro de atividades, secundária ao trabalho, evidenciando o desconhecimento da importância da alimentação adequada do sistema 4.
+Muitos municípios estão em fase avançada de implantação do e-SUS APS, porém muitos outros necessitam de suporte e/ou de um acompanhamento para efetivar a transição para o novo modelo, visto que o SIAB deixou de existir e que há necessidade de acelerar a implantação do e-SUS APS 5.
+O processo de implantação da estratégia e-SUS APS, apesar de avanços, apresenta fragilidades relacionadas aos responsáveis por acompanhar a implantação; por ter infraestrutura insuficiente nas UBS; deficiências nas capacitações; resistência dos profissionais e efeitos negativos sobre o trabalho 5,29.
+"Demonstração de resultados" foi o atributo que mais contribuiu como determinante na adoção e no uso da inovação e-SUS APS.
+A estratégia de implantação do e-SUS APS busca melhorar toda a estrutura de trabalho das equipes da APS e, como consequência, melhorar o serviço prestado à população.
+Estudo realizado logo após o sistema e-SUS APS com o PEC ter sido implantado identificou uma redução da quantidade de impressos utilizados nos registros de atendimentos e procedimentos realizados pelos profissionais de saúde 5.
+Para o atributo "imagem", os resultados quantitativos levam a deduzir que, devido ao maior número de respondentes se referirem aos ACS, habituados aos registros em papel, a adoção e o uso do e-SUS APS pode trazer status social.
+Estudo realizado na Bahia com a utilização de tablets , pelos ACS, para o lançamento de dados no e-SUS APS, indicou que a maioria se sente satisfeito em utilizar a tecnologia 30.
+A adoção e o uso de um SIS, que substitua sistemas já utilizados há muitos anos e que traz consigo uma nova proposta de uso e com ferramentas diferenciadas, são complexos e exigem esforços dos gestores, dos profissionais de saúde e dos trabalhadores do SUS.
+Esse processo é contínuo e deve ser monitorado e avaliado para que possa ser, na prática, tudo aquilo que foi idealizado na teoria 5.
+Para isso, é importante institucionalizar a inovação no sentido de sua máxima utilização como um elemento crucial do processo de trabalho 13.
+O atributo "resultados do uso", mesmo sendo determinante na etapa quantitativa, contribuiu pouco para adoção e uso do e-SUS APS.
+Os resultados do uso de uma inovação tecnológica só serão identificados quando os usuários perceberem a inovação como uma ferramenta potencial, que solucione problemas e atenda às necessidades no cotidiano do trabalho 18.
+Os atributos de uma inovação são preditores de sua adoção e uso, entretanto, há outras variáveis do contexto organizacional que podem influenciar a adoção e o uso da inovação 8.
+A relação fraca entre os atributos percebidos e a "adoção e uso" da inovação e-SUS APS significa que alguns dos atributos da inovação e-SUS APS não são percebidos pelos profissionais.
+Dessa forma, é necessário investigar outros elementos da TDI.
+É importante enfatizar que a implementação do e-SUS APS precisa ser acompanhada de uma avaliação contínua, a fim de identificar as barreiras e lacunas e propor soluções oportunas.
+Uma inovação tecnológica de alto padrão não tem finalidade se o usuário, por alguma razão, não adotar nem a usar 7.
+Os resultados deste estudo podem auxiliar os demais municípios do Brasil na implantação e/ou efetivação do e-SUS APS no que tange à importância da infraestrutura organizacional, principalmente para apropriada quantidade de computadores e acesso à Internet com qualidade e velocidade adequadas; capacitação para utilização do sistema de informação e manuseio da tecnologia.
+Como limitante do estudo, ressalta-se a não inclusão de outros elementos da TDI no modelo estrutural do estudo, como os "canais de comunicação", o "sistema social" e o "tempo".
+Saúde Pública 2021; 37(6):e00219520 Conclusão Conclui-se que, apesar de os profissionais identificarem fragilidades para adoção e uso da inovação e-SUS APS, eles conseguem vislumbrar potencialidades do sistema para sua adoção e uso.
+Dessa forma, este estudo pode auxiliar gestores como ferramenta para intervenções nos problemas enfrentados no cotidiano do trabalho e como base para novas investigações relacionadas à implantação de inovações tecnológicas, como o e-SUS APS, e a adoção e o uso delas no SUS.
+Colaboradores F. C. M. Zacharias contribuiu na concepção do estudo, coleta de dados, análise e interpretação dos dados, discussão dos resultados e revisão crítica da versão a ser publicada.
+T. E. Schönholzer contribuiu na coleta de dados, discussão dos resultados e revisão crítica da versão a ser publicada.
+V. C. Oliveira, R. A. C. Gaete, L. A. Fabriz e G. G. Amaral contribuíram na discussão dos resultados e redação e revisão crítica da versão a ser publicada.
+G. Perez contribuiu na concepção do estudo; análise e interpretação dos dados; discussão dos resultados, redação e revisão crítica da versão a ser publicada.
+I. C. Pinto contribuiu na concepção do estudo, análise e interpretação dos dados; discussão dos resultados, redação e revisão crítica do conteúdo e revisão e aprovação final da versão final.
+Informações adicionais ORCID: Fabiana Costa Machado Zacharias (00000003-1150-6114); Tatiele Estefani Schönholzer (0000-0002-4294-8807); Valeria Conceição de Oliveira (0000-0003-2606-9754); Rodrigo André Cuevas Gaete (0000-0002-8689-5428); Gilberto Perez (0000-0002-6624-0643); Luciana Aparecida Fabriz (0000-0001-7633-0127); Gabriela Gonçalves Amaral (0000-0002-9629-2815); Ione Carvalho Pinto (0000-0001-7541-5591) Conflitos de interesse Não há conflitos de interesse.
+Agradecimentos Aos profissionais de saúde que participaram do estudo.
+Ao Conselho Nacional de Desenvolvimento Científico e Tecnológico (n o 141559/2016-0), e a Fundação de Amparo à Pesquisa do Estado de São Paulo (n o 2018/12376-9).E-SUS ATENÇÃO PRIMÁRIA, ADOÇÃO E USO DE UMA INOVAÇÃO TECNOLÓGICA11 Cad.
+Saúde Pública 2021; 37(6):e00219520 Referências 1.
+Thaines GHLS, Bellato R, Faria APS, Araújo LFS.
+Produção, fluxo e análise de dados do sistema de informação em saúde: um caso exemplar.
+Texto & Contexto Enferm 2009; 18: 466-74.
+Pinheiro ALS, Andrade KTS, Silva DO, Zacha- rias FCM, Gomide MFS, Pinto IC.
+Health management: the use of information systems and knowledge sharing for the decision making process.
+Texto & Contexto Enferm 2016; 25:e3440015.
+Portaria n o 1.412, de 10 de julho de 2013.
+Institui o Sistema de Informação para a Atenção Básica (SISAB).
+Diário Oficial da União 2013; 11 jul.
+Silva TIM, Cavalcante RB, Santos RC, Gontijo TL, Guimarães EAA, Oliveira VC.
+Diffusion of the e-SUS Primary Care innovation in Family Health Teams.
+Rev Bras Enferm 2018; 71:2945-52.
+Oliveira AEC, Lima IMB, Nascimento JA, Coelho HFC, Santos SR. Implantação do e-SUS AB no Distrito Sanitário IV de João Pessoa (PB): relato de experiência.
+Cavalcante RB, Kerr-Pinheiro MM, Guimarães EAA, Miranda RM.
+Panorama de definição e implementação da Política Nacional de Informação e Informática em Saúde.
+Cad Saúde Pública 2015; 31:960-70.
+Venkatesh V, Morris MG, Davis GB, Davis FD.
+User acceptance of information technology: toward a unified view.
+New York: The Free Press; 1993.
+Caliari KVZ, Zilber MA, Perez G. Tecnologias da informação e comunicação como inovação no ensino superior presencial: uma análise das variáveis que influenciam na sua adoção.
+REGE Revista de Gestão 2017; 24:247-55.
+Larsen TJ, McGuire E. Information systems innovation and diffusion: issues and directions.
+Hershey: Idea Group Publishing; 1998.
+Development of an instrument to measure the perceptions of adopting an information technology innovation.
+Oliveira VC, Guimarães EAA, Perez G, Zacharias FCM, Cavalcante RB, Gontijo TL, et al.
+Factors related to the adoption of the Brazilian National Immunization Program Information System.
+BMC Health Serv Res 2020; 20:759.
+Silva TIM, Cavalcante RB, Silva HRM, Santos RC, Guimarães EAA, Kerr-Pinheiro MM.
+Diffusion of the technological innovation e-SUS AB: acceptance or rejection?
+Cogitare Enferm 2018; 23:e55911.
+Lin C, Guirguis-Blake J, Keppel GA, Dobie S, Osborn J, Cole AM, et al.
+Using the diffusion of innovations theory to assess socio-technical factors in planning the implementation of an electronic health record alert across multiple primary care clinics.
+J Innov Health Inform 2016; 23:450-8.
+Marak Z, Tiwari A, Tiwari S. Adoption of 3D printing technology: an Innovation Diffusion Theory perspective.
+Erdmann AL, Meirelles BHS, Lanzoni GMM, Cunha VP, Ross R. Integrating quantitative and qualitative data in mixed methods research.
+Texto & Contexto Enferm 2017; 26:e1590016.
+Perez G, Zwicker R. Fatores determinantes da adoção de sistemas de informação na área de saúde: um estudo sobre o prontuário médico eletrônico.
+Revista de Administração Mackenzie 2010; 11:174-200.
+Hair JF, Black WC, Babin BJ, Anderson RE, Tatham RL.
+Ringle CM, Silva D, Bido D. Modelagem de equações estruturais com utilização do smartpls.
+Revista Brasileira de Marketing 2014; 13:56-73.
+Fontanella BJB, Luchesi BM, Saidel MGB, Ricas J, Turato ER, Melo DG.
+Amostragem em pesquisas qualitativas: proposta de procedimentos para constatar saturação teórica.
+Cad Saúde Pública 2011; 27:388-94.
+Tenenhaus M, Vinzi, VE, Chatelin Y, Lauro C. PLS Path modeling.
+Comput Stat Data Anal 2005; 48:159-205.
+Analysing the use of a computerized system by hospital managers.
+McGinn CA, Grenier S, Duplantie J, Shaw N, Sicotte C, Mathieu L, et al.
+Comparison of user groups' perspectives of barriers and facilitators to implementing electronic health records: a systematic review.
+Cabral SAAO, Nóbrega JYL, Oliveira AS, Santos DP, Almeida Neto IP, Caja DF, et al.
+A utilização do e-SUS atenção básica (ab) no processo de fortalecimento da efetivação dos princípios doutrinários do SUS.
+Informativo do SEMI 2015; 9:01.
+Holmes ES, Santos SR, Almeida AF, Oliveira JHD, Carvalho GDA, Fonseca LCT, et al.
+Health information systems in the decisionmaking process in primary care.
+Schönholzer TE, Cuevas Gaete RA, Costa Machado Zacharias F, Serrano Gallardo P, Carva- lho Pinto I. El sistema de información sanitaria en Atención Primaria de Brasil.
+Cucciniello M, Lapsley I, Nasi G, Pagliari C. Understanding key factors affecting electronic medical record implementation: a sociotechnical approach.
+BMC Health Serv Res 2015; 15:268.
+Daltro EFMA, Barbosa DSJ, Machado APR, Santos EM, Barrios RMM.
+Aceitação e uso de tecnologias móveis de informação pelos agentes comunitários de saúde de Sapeaçu.
+Rev Baiana de Saúde Pública 2018; 41:324-33.
+Saúde Pública 2021; 37(6):e00219520 Abstract The study aimed to analyze the adoption and use of the Primary Healthcare e-SUS (PHC e-SUS) as a technological innovation from the perspective of workers in primary healthcare (PHC).
+This was a sequential exploratory mixed-methods study (QUAN → qual) in municipalities in the interior of São Paulo state, Brazil, drawing on Diffusion of Innovation Theory.
+The quantitative component was analytical cross-sectional, applying a validated questionnaire to 114 PHC workers.
+The model was tested by applying partial least squares structural equation modeling (PLS-SEM) using SmartPLS 2.3.0.
+The qualitative study was descriptiveexploratory, using interviews (n = 10) with thematic content analysis, aimed at understanding the attributes that did not influence the adoption and use of PHC e-SUS.
+The attributes "experimentation", "ease of use", "relative advantage", and "compatibility" did not display statistical significance, indicating that they were not determinant attributes for the adoption and use of PHC e-SUS.
+Integration of the data evidenced failures in connectivity; lack of time to feed the system in real time and training; lack of prior experimentation; abrupt presentation of the system; and lack of skill with the technology.
+The results can assist other municipalities in Brazil with the implementation of the PHC e-SUS in relation to the importance of the organizational infrastructure, as well as training in the technology's use and handling.
+The study contributes to reflections and proposals for interventions in the problems faced in daily work with the adoption and use of a technological innovation such as the PHC e-SUS.
+Diffusion of Innovation; Health Information Systems; Primary Health Care; Equipment and Supplies UtilizationResumen El objetivo del estudio fue analizar la adopción y uso del e-SUS Atención Primaria (e-SUS APS), como innovación tecnológica, desde la perspectiva de los profesionales de la atención primaria en salud (APS).
+Se trata de un estudio de método mixto secuencial explicativo (CUAN → Cual) realizado en municipios del interior de São Paulo, utilizando la Teoría de la Difusión de Innovación.
+El estudio cuantitativo fue de tipo transversal analítico, aplicándose un cuestionario validado a 114 profesionales de la APS.
+Para probar el modelo del estudio se aplicó el modelado de ecuaciones estructurales de mínimos cuadrados parciales (PLS-SEM), a través del software SmartPLS 2.3.0.
+El estudio cualitativo tuvo carácter descriptivo-exploratorio, mediante entrevistas (n = 10), analizadas por análisis de contenido temático, con el objetivo de entender los atributos que no influenciaron en la adopción y uso de la e-SUS APS.
+Los atributos "probar", "facilidad de uso", "ventaja relativa" y "compatibilidad" no presentaron significación estadística, indicando no ser atributos determinantes para la adopción y uso de la e-SUS APS.
+En la integración de los datos se evidenciaron: fallos de conectividad; ausencia de tiempo para alimentación del sistema en tiempo real y de capacitación; no pruebas previas; presentación abrupta del sistema y ausencia de habilidad con la tecnología.
+Los resultados pueden ayudar a los demás municipios de Brasil en la implantación y/o efectuación de la e-SUS APS, en lo que atañe a la importancia de la infraestructura organizativa, así como la capacitación para la utilización y manejo de la tecnología.
+Este estudio contribuye a las reflexiones y propuestas de intervenciones, respecto a los problemas enfrentados en el día a día del trabajo, en cuanto a la adopción y uso de una innovación tecnológica, como la e-SUS APS.
+Difusión de Innovaciones; Sistemas de Información en Salud; Atención Primaria de Salud; Utilización de Equipos y Suministros Recebido em 24/Jul/2020 Versão final reapresentada em 13/Nov/2020 Aprovado em 17/Nov/2020

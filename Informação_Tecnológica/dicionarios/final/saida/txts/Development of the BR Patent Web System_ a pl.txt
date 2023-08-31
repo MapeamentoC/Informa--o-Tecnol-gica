@@ -1,0 +1,215 @@
+DOI: 69Desenvolvimento do Sistema Web Patente BR: uma plataforma para a prospecção tecnológica de patentes Development of the Patente BR Web System: a platform for the technological prospecting of patents T atiana Costa Nascimento1 Erick Samuel Rojas Cajavilca1 Gabriela Silva Cerqueira1 1Universidade Federal do Oeste da Bahia, Barreiras, BA, Brasil Resumo Patente BR é um sistema web gratuito para a prospecção tecnológica de patentes.
+O seu propósito é acessibilizar e descomplicar as informações estratégicas contidas nos documentos de patentes para popularizar a prospecção tecnológica de patentes e contribuir para o fomento à inovação no Brasil.
+A plataforma realiza busca de patentes, tratamento de dados e análises por meio da geração de gráficos dinâmicos de forma automatizada.
+Ademais, permite a criação de uma vitrine tecnológica de patentes brasileiras e uma academia de patentes para fins educacionais.
+Por fim, sugere-se a implementação da prestação de serviços especializados através da criação de um Centro de Apoio à Tecnologia e Inovação e de outras soluções tecnológicas em patentes por meio do desenvolvimento de uma rede de pesquisa multidisciplinar e multi-institucional no país.
+Abstract Patent BR is a free web system for technological prospecting for patents.
+Its purpose is to make the strategic information contained in patent documents accessible and uncomplicated in order to popularize technological prospecting for patents and foster innovation in Brazil.
+The platform performs patent searches, data processing and analysis by generating dynamic graphics in an automated way.
+Furthermore, it allows the creation of a technological showcase for Brazilian patents and a patent academy for educational purposes.
+Finally, it is suggested to implement the provision of specialized services through the creation of a Support Center for Technology and Innovation and other technological solutions in patents through the development of a multidisciplinary and multi-institutional research network in the country.
+Área Tecnológica: Tecnologia, Inovação e Propriedade Intelectual.
+Artigo recebido em: 19/07/2021 Revisado em: 23/11/2021 Aprovado em: 23/11/2021Direito autoral e licença de uso: Este artigo está licenciado sob uma Licença Creative Commons.
+Com essa licença você pode compartilhar, adaptar, para qualquer im, desde que atribua a autoria da obra, forneça um link para a licença, e indicar se foram feitas alterações.70Cadernos de Prospecção – Salvador, v. 15, n. 1, janeiro a março, 2022, p. 69-84.
+Tatiana Costa Nascimento, Erick Samuel Rojas Cajavilca, Gabriela Silva Cerqueira 1 Introdução É de conhecimento geral que vivemos hoje na sociedade do conhecimento.
+Ao longo dos anos, grande parte desse conhecimento foi armazenado em documentos de patentes.
+Nesse sentido, a patente é uma importante fonte de informação industrial, tecnológica e científica.
+Para o European Patent Office (EPO, 2007), é também a fonte mais atualizada sobre tecnologia aplicada no mundo, na qual cerca de 80% das suas descrições técnicas não estão disponíveis em nenhum outro local.
+Pires, Ribeiro e Quintella (2020) analisaram diversas plataformas de busca que podem ser utilizadas para obtenção de informações estratégicas de patentes, comparando características gerais e desempenho de dois conjuntos diferentes: os sistemas gratuitos (Espacenet, Patentscope, Google Patents e Lens) e os sistemas de acesso pago (Derwent Innovation Index e Orbit Intelligence).
+Na pesquisa foram selecionados oito códigos da Classificação Internacional de Patentes (CIP) para a busca individual em todos os sistemas investigados.
+Como resultado, o Orbit obteve maior destaque na análise comparativa, apontando que as ferramentas comerciais possuem funcionalidades superiores às ferramentas gratuitas.
+Mayerhoff (2008) reconhece que os sistemas proprietários possuem vantagens em relação aos gratuitos, principalmente pela automatização de processos manuais.
+Contudo, considera-se importante fomentar o uso das ferramentas gratuitas, já que, no momento de escolha da plataforma para a prospecção tecnológica de patentes, o custo é um fator limitante para potenciais usuários.
+Nesse âmbito, é importante valorizar as tecnologias desenvolvidas no país.
+Dessa forma, é relevante mencionar o software brasileiro apresentado por Nascimento, Cajavilca e Santos (2019) que fomenta a utilização de duas ferramentas gratuitas para a prospecção tecnológica de patentes: a base de dados Espacenet, escolhida por cumprir maiores requisitos, e o software de análise textual Iramuteq, selecionado pelos critérios de praticidade e reconhecimento em sua especificidade.
+Esse programa de computador desenvolvido em Object Pascal faz a intermediação entre tais ferramentas, automatizando o processo de importação dos dados bibliográficos dos documentos de patentes do Espacenet no Iramuteq, que seria inviável de forma manual se tratando de grande volume de dados.
+Por isso, o software recebeu o nome de Espaceteq, conectando poderosas plataformas para a visualização das informações estratégicas de patentes na forma de gráficos e tabelas, sem a necessidade de conhecimento técnico acerca de comandos e formatações específicas.
+Um avanço do modelo sistematizado por Nascimento, Cajavilca e Santos (2019) é o sistema Patente BR, desenvolvido como produto tecnológico do mestrado profissional no Programa de Pós-Graduação em Propriedade Intelectual e Transferência de Tecnologia para a Inovação (PROFNIT) no polo da Universidade Federal do Oeste da Bahia (UFOB).
+A construção dessa plataforma para a prospecção tecnológica de patentes foi relatada no Trabalho de Conclusão de Curso.
+Portanto, o presente artigo foi elaborado de acordo com os resultados do TCC.
+Nessa perspectiva, o propósito desta pesquisa é apresentar o sistema Patente BR.
+Para cumprir o seu objetivo, este empreendimento foi dividido em seções, incluindo esta Introdução.
+Na segunda seção, Metodologia, discute-se a orientação metodológica do processo de desenvolvimento da proposta.
+Na terceira seção, Resultados e Discussão, estão apresentados as principais funcionalidades do sistema, outros artefatos relacionados ao produto e a proposta para continuidade do projeto e para implementação de outras soluções tecnológicas em patentes, incenti -71Cadernos de Prospecção – Salvador, v. 15, n. 1, janeiro a março, 2022, p. 69-84.Desenvolvimento do Sistema Web Patente BR: uma plataforma para a prospecção tecnológica de patentes vando e orientando futuros desdobramentos.
+Na quarta seção, Conclusão, são apresentadas as considerações finais deste trabalho, apontando limitações e novas possibilidades para a proposta na concepção da problemática geradora.
+Na quinta seção, Perspectivas Futuras, sugestões para os próximos passos para a evolução desse campo de pesquisa foram construídas, lembrando que o modelo aqui apresentado pode ser adaptado e melhorado ao longo do tempo.
+Na última seção, Referências, foram listadas as obras que nortearam o desenvolvimento desta pesquisa.
+2 Metodologia Para a identificação da plataforma para a prospecção tecnológica de patentes foi realizada uma busca de anterioridade da marca Patente BR no site do Instituto Nacional da Propriedade Industrial (INPI).
+Com a sua disponibilidade, foi concebida uma proposta de identidade visual para a possível solicitação futura do pedido de registro da marca mista no INPI e foi registrado o domínio .com com a mesma nomenclatura.
+De modo geral, os principais processos que orientaram a ideação e a criação do sistema web Patente BR foram a análise de ferramentas para a prospecção tecnológica de patentes para identificação de oportunidades de inovação e o desenvolvimento web por meio de conhecimento técnico e da utilização das tecnologias especificadas na Tabela 1.
+Tabela 1 – Tecnologias utilizadas no desenvolvimento do sistema web Patente BR Descrição Tecnologia Linguagem de programação PHP Plataforma para criação de sistemas web Adianti Builder Banco de dados MySQL Desenvolvimento dos gráficosD3, Google Charts disponibilizado no próprio Adianti Builder e jQCloud Website WordPress Plugin do Google Analytics para o site MonsterInsights Provedor de hospedagem Hostinger Fonte: Elaborada pelos autores deste artigo (2021) Também foram consultados materiais de suporte para o desenvolvimento do sistema web Patente BR, a saber, o tutorial criado por Ribeiro (2016), utilizado na disciplina de Prospecção Tecnológica do PROFNIT, e a documentação da Open Patent Services (OPS).
+O primeiro ensina a como executar o tratamento de dados dos arquivos do Espacenet no Excel, a fim de gerar gráficos manuais com data de prioridade e país.
+O segundo explica como realizar a extração de patentes por meio de Interface de Programação de Aplicativos (APIs), podendo acessar as mesmas fontes dos dados bibliográficos do Espacenet.
+Ademais, para maior aprendizado no processo de busca de patentes, foi realizado o curso avançado de Busca de Informações de Patentes a distância da World Intellectual Property Organization (WIPO).
+Por fim, até a disponibilização do sistema web Patente BR na internet, diversas etapas foram executadas e organizadas no mapa mental da Figura 1 para a consolidação dos principais resultados neste artigo.72Cadernos de Prospecção – Salvador, v. 15, n. 1, janeiro a março, 2022, p. 69-84.
+Tatiana Costa Nascimento, Erick Samuel Rojas Cajavilca, Gabriela Silva Cerqueira Figura 1 – Mapa mental das etapas de desenvolvimento do sistema web Patente BR e da proposta para sustentabilidade do projeto ao longo do tempo Fonte: Elaborada pelos autores deste artigo (2021)73Cadernos de Prospecção – Salvador, v. 15, n. 1, janeiro a março, 2022, p. 69-84.Desenvolvimento do Sistema Web Patente BR: uma plataforma para a prospecção tecnológica de patentes 3 Resultados e Discussão O sistema web Patente BR é uma plataforma on-line , gratuita e brasileira para a prospecção tecnológica de patentes.
+A sua proposta busca fomentar o uso das ferramentas gratuitas para a análise de patentes, impondo o mínimo de restrições técnicas ao pesquisador com a automatização de processos.
+Dessa forma, objetiva-se tornar acessível o conhecimento estratégico presente nos documentos de patentes e descomplicar a aprendizagem com visualizações dinâmicas de fácil entendimento.
+Com a popularização da prospecção tecnológica de patentes, tornando-a uma atividade usual, especialmente na academia, espera-se contribuir para o aumento do potencial científico e inovador do país.
+O sistema web foi projetado, em especial, para usuários não especializados ou pesquisadores que já estão acostumados a utilizar ferramentas como Espacenet e Excel em suas pesquisas.
+A plataforma realiza: i) a busca de patentes na mesma fonte dos dados bibliográficos do Espacenet; ii) o tratamento de dados sem a necessidade de conhecimento prévio e manipulação no Excel; e iii) a geração de análises automáticas na forma de gráficos dinâmicos.
+O sistema web Patente BR também é responsivo, podendo ser acessado por diferentes dispositivos.
+Na disciplina de Prospecção Tecnológica do PROFNIT, os estudantes aprendem o passo a passo do processo de busca e análise de patentes com as ferramentas Espacenet e Excel no tutorial de Ribeiro (2016) e recebem acesso temporário ao Orbit.
+No primeiro contato com a prospecção tecnológica de patentes, alguns estudantes podem sentir dificuldade na utilização do Excel, perdendo o foco das questões estratégicas para os aspectos operacionais, assim como outros podem ficar desorientados com o volume de possibilidades, informações e configurações robustas do Orbit.
+Como uma ferramenta intermediária, o Patente BR não procura competir com tais soluções tecnológicas, mas sim reconhece a relevância de ambas e almeja somar forças, potencializando o propósito de todo o ecossistema na difusão do conhecimento em patentes.
+Então, o sistema web pode ser utilizado por diversos públicos, como inventores, inovadores, empreendedores, startups , instituições de ensino, Núcleos de Inovação Tecnológica (NITs), discentes, docentes, entre outros.
+No seguinte endereço do Patente BR , o usuário irá visualizar uma tela de acesso restrito na qual deverão ser informados o usuário e a senha cadastrada.
+Caso seja o primeiro acesso, basta apenas criar uma conta, cadastrando login, nome, e-mail e senha.
+Também é possível recuperar a senha se necessário.
+Ao entrar no sistema, o usuário será direcionado para a página inicial, contendo um menu lateral com os módulos habilitados, um menu superior com opções gerais e a tela padrão de Busca de Patentes no centro.
+De forma semelhante à versão clássica do Espacenet, o módulo de Busca de Patentes foi segmentado em duas abas de modo que as suas características não constituam uma barreira à entrada para o usuário.
+Na Busca Inteligente, pode-se informar um termo ou uma expressão de busca com a utilização de operadores e caracteres especiais como no Espacenet.
+Na Busca Avançada, pode-se utilizar os seguintes filtros para refinar a pesquisa: Título, Resumo, Título ou Resumo, número da Publicação, número da Aplicação, número da Prioridade, Data de Publicação, Requerente(s), Inventor(es), CPC e IPC.
+Para exemplificar, foi informado o termo "covid" na Busca Inteligente.
+Ao pressionar o botão Buscar ou apertar a tecla Enter do teclado, pode-se verificar os resultados da pesquisa 74Cadernos de Prospecção – Salvador, v. 15, n. 1, janeiro a março, 2022, p. 69-84.
+Tatiana Costa Nascimento, Erick Samuel Rojas Cajavilca, Gabriela Silva Cerqueira exibidos numa listagem ordenada como no Espacenet.
+Nessa tela, conforme mostra a Figura 2, as opções são as seguintes: Ver Dados Bibliográficos: ícone localizado em cada registro de patente para mostrar todos os dados bibliográficos disponíveis (número do documento, status , país, título, resumo, requerente(s), inventor(es), data da publicação, data da prioridade, IPC e CPC).
+1) Check : campo que seleciona um registro individualmente.
+2) Marcar todos: botão que seleciona todos os registros da página.
+3) Desmarcar todos: botão que desmarca todos os registros selecionados na listagem.
+4) Gerar Gráficos: botão para construção de todas as análises automatizadas do sistema.
+5) Exportar CSV: botão para fazer o download do arquivo .csv que contém os dados bibliográficos de todas as patentes selecionadas, de modo que o usuário possa gerar manualmente gráficos em outros softwares de sua preferência.
+O diferencial dessa opção é ter acesso aos dados já tratados, incluindo o resumo que não está disponível no arquivo do Espacenet.
+Figura 2 – Visão geral do sistema na tela Busca de Patentes Fonte: Elaborada pelos autores deste artigo (2021) Na tela de visualização das análises de patentes, estão disponíveis 10 gráficos para o usuário.
+Nesse exemplo, selecionados os 100 primeiros resultados, os visuais foram construídos rapidamente de forma automática.
+O primeiro gráfico, indicado na Figura 3, é um cartão que possui o número de patentes analisadas pelo sistema.
+Figura 3 – Cartão com o total de patentes para a busca com o termo "covid" Fonte: Elaborada pelos autores deste artigo (2021)75Cadernos de Prospecção – Salvador, v. 15, n. 1, janeiro a março, 2022, p. 69-84.Desenvolvimento do Sistema Web Patente BR: uma plataforma para a prospecção tecnológica de patentes A segunda análise também é um cartão que mostra o somatório de inventores no conjunto de patentes selecionadas.
+Na Figura 4 foram contabilizados 150 inventores distintos.
+Figura 4 – Cartão com o total de inventores para a busca com o termo "covid" Fonte: Elaborada pelos autores deste artigo (2021) A terceira visualização exibe o panorama patentário no mundo.
+Países que não possuem nenhuma patente são identificados pela cor preta enquanto os que possuem pelo menos uma patente pela cor azul.
+O tom do azul diz respeito ao volume de patentes de determinado lugar.
+Logo, quanto mais patentes, mais escura a tonalidade.
+Como o mapa é dinâmico, basta passar o cursor do mouse para visualizar as informações, conforme mostra a Figura 5, que apresenta o número de patentes dos Estados Unidos.
+Figura 5 – Patentes por país com a visualização no formato de mapa dinâmico para a busca com o termo "covid" Fonte: Elaborada pelos autores deste artigo (2021) Como na análise anterior, o quarto gráfico demonstrado na Figura 6 também evidencia o número de patentes por país.
+A diferença é que este inclui a porcentagem que cada país representa em relação ao total de patentes, e o seu visual é na forma de gráfico de pizza.
+No exemplo em questão, a Austrália possui a liderança com 30% das patentes, no caso, 30 patentes, seguida pelos Estados Unidos (25), Rússia (16) e China (16).76Cadernos de Prospecção – Salvador, v. 15, n. 1, janeiro a março, 2022, p. 69-84.
+Tatiana Costa Nascimento, Erick Samuel Rojas Cajavilca, Gabriela Silva Cerqueira Figura 6 – Patentes por país com a visualização no formato de gráfico de pizza para a busca com o termo "covid" Fonte: Elaborada pelos autores deste artigo (2021) A nuvem de palavras permite a análise de dados textuais por meio da frequência de palavras.
+Ou seja, quanto mais ocorrências de determinado termo no texto, maior o seu destaque na representação gráfica.
+Na quinta análise, como se pode observar na Figura 7, é gerada uma nuvem de palavras do título dos documentos.
+As palavras com maior visibilidade se referem aos termos que aparecem com maior frequência no texto do conjunto de patentes.
+Figura 7 – Nuvem de palavras do título para a busca com o termo "covid" Fonte: Elaborada pelos autores deste artigo (2021) A sexta análise, representada graficamente na Figura 8, também se refere a uma nuvem de palavras, só que do resumo das patentes.
+As palavras com maior tamanho e destaque na cor possuem maior relevância no corpo textual.
+Figura 8 – Nuvem de palavras do resumo para a busca com o termo "covid" Fonte: Elaborada pelos autores deste artigo (2021)77Cadernos de Prospecção – Salvador, v. 15, n. 1, janeiro a março, 2022, p. 69-84.Desenvolvimento do Sistema Web Patente BR: uma plataforma para a prospecção tecnológica de patentes A Figura 9 ilustra a sétima análise do sistema, responsável por exibir a quantidade de patentes depositadas ao longo dos anos.
+Esse gráfico de barras também permite ao pesquisador realizar avaliações sobre o ciclo de vida e a maturidade de determinada tecnologia.
+Como era de se esperar, para a busca com o termo "covid", a partir de 2019, os depósitos de patentes começaram a ter maior representatividade, atingindo o seu ápice em 2020, com 57 documentos.
+Figura 9 – A evolução dos depósitos de patentes em relação ao ano de prioridade para a busca com o termo "covid" Fonte: Elaborada pelos autores deste artigo (2021) A utilização de classificações de patentes na pesquisa permite o agrupamento de documentos em uma mesma área tecnológica.
+No oitavo gráfico identificado na Figura 10, pode-se verificar os principais códigos da Classificação Internacional de Patentes (CIP) e a quantidade de documentos de patente correspondente.
+Figura 10 – Ranking do número de patentes por CIP para a busca com o termo "covid" Fonte: Elaborada pelos autores deste artigo (2021) O nono gráfico exposto na Figura 11 também retrata o ranking dos códigos que possuem maior quantidade de patentes associadas, só que considerando a Classificação Cooperativa de Patentes (CPC).78Cadernos de Prospecção – Salvador, v. 15, n. 1, janeiro a março, 2022, p. 69-84.
+Tatiana Costa Nascimento, Erick Samuel Rojas Cajavilca, Gabriela Silva Cerqueira Figura 11 – Ranking do número de patentes por CPC para a busca com o termo "covid" Fonte: Elaborada pelos autores deste artigo (2021) Por último, a 10ª visualização, representada pela Figura 12, é uma tabela que identifica o número de patentes por inventores.
+É importante considerar que inventores são recursos valiosos e alguns são mais prolíficos do que outros.
+Figura 12 – Ranking dos principais inventores de patentes no mundo para a busca com o termo "covid" Fonte: Elaborada pelos autores deste artigo (2021) Além das funcionalidades apresentadas, foram projetados os módulos Vitrine Tecnológica e Academia para consolidação futura.
+A Vitrine Tecnológica foi estruturada para se tornar mais um ambiente para a prospecção tecnológica no sistema, permitindo exclusivamente o cadastro de patentes brasileiras sem a cobrança de taxas.
+Nesse momento de pandemia, sugere-se, especialmente, a inclusão de tecnologias de enfrentamento à Covid-19, proporcionando ampla visibilidade de soluções aplicáveis a esse objetivo.
+Outra recomendação é a criação de um portfólio para a Rede Federal de Educação para evidenciar o seu potencial inovador, unificando todas as vitrines tecnológicas das instituições federais que foram constituídas de forma isolada em seus próprios websites .
+Dessa forma, a Vitrine Tecnológica poderá se tornar uma importante base de dados de tecnologias brasileiras, facilitando o monitoramento e a transferência de tecnologia.
+A Academia, por sua vez, foi desenvolvida para fins educacionais, oferecendo suporte na formação das habilidades técnicas dos usuários.
+Essa seção permite a inserção de videoaulas e 79Cadernos de Prospecção – Salvador, v. 15, n. 1, janeiro a março, 2022, p. 69-84.Desenvolvimento do Sistema Web Patente BR: uma plataforma para a prospecção tecnológica de patentes cursos on-line gratuitos ou de baixo custo, reconhecendo que, para a prospecção tecnológica de patentes, é preciso, além de ferramentas, habilidades que não foram incorporadas à formação profissional tradicional, segundo Quintella et al.
+Sendo assim, ao estimular a capacitação dos usuários, a expectativa é expandir o número de profissionais qualificados para impulsionar a inovação e o desenvolvimento do país.
+Patente BR ainda conta com módulos para a gestão de dados do sistema, incluindo cadastros diversos, controle financeiro, administração e logs.
+Finalmente, com a conclusão do desenvolvimento da versão 1.0 da plataforma, foi preenchido e encaminhado à UFOB o formulário para abertura de processo de propriedade intelectual para solicitação de pedido de registro de programa de computador no INPI.
+Com o objetivo de orientar a continuidade do projeto e a implementação de ações futuras, foi desenvolvido um modelo de negócio na ferramenta Canvas.
+Nesse planejamento, o Patente BR será disponibilizado gratuitamente com o limite de até 4 GB de uso dos dados de patentes por semana para todos os usuários.
+Isso porque o cadastro no serviço da OPS foi feito na condição de usuário não pagante.
+Acima desse limite semanal, é necessário adquirir uma assinatura anual de 2.800 euros, com base nas informações do site da EPO sobre Open Patent Services.
+Por essa razão, foi criado o módulo de Gestão de Tráfego no sistema, a fim de monitorar a quantidade de banda utilizada por cada usuário.
+No intuito de evitar a instabilidade ou a inoperância do sistema, caso atinja o limite de uso de dados com o possível aumento da demanda, pode-se solicitar o apoio de um agente financiador para que o Patente BR continue a ofertar um serviço 100% gratuito.
+Ou ainda, habilitar planos premium para públicos que trabalham com grande volume de dados com a cobrança de um valor justo baseado no volume de requisições exclusivas.
+De qualquer modo, essa possibilidade já está programada na ferramenta.
+Em sua proposta de valor, ainda é sugerida a criação de uma rede de pesquisa multi-institucional e multidisciplinar na Rede Federal de Educação para a melhoria contínua do Patente BR e para o desenvolvimento de outras soluções tecnológicas em patentes.
+A concepção de um ecossistema especialista na resolução de problemas complexos em matéria de patentes foi inspirada na experiência da rede de pesquisa Data Science BR (DSBR).
+Esse grupo de pesquisa é formado por membros atuantes em diferentes linhas de pesquisa nas Universidades Federais de diversas regiões do país e utiliza a ciência de dados para criar soluções em Big Data Analytics para a gestão de dados da Rede Federal de Educação por meio de uma cultura colaborativa.
+Uma importante ferramenta desenvolvida pelo DSBR foi o Painel Coronavírus lançado em 2020 em parceria com o Ministério da Educação (MEC), cujo objetivo é monitorar o funcionamento e as ações das instituições federais durante a pandemia da Covid-19, promovendo transparência à sociedade e apoiando a tomada de decisão por parte dos gestores públicos.
+Ao longo de todo o processo de construção de uma ferramenta robusta como essa, é necessária a integração de múltiplas habilidades que podem ser obtidas no trabalho em equipe, resultando em ganhos de velocidade na execução das atividades e de diversidade na geração de ideias.
+Além disso, participar de ambientes de aprendizado interdisciplinares e inovadores é uma excelente oportunidade para os pesquisadores desenvolverem habilidades técnicas em diversas áreas e competências de cooperação tão requeridas no mercado de trabalho atual.
+Desse modo, o Patente BR poderá expandir o seu conceito, de um sistema web para uma rede de pesquisa composta de discentes, docentes e pesquisadores das instituições federais.
+Para estimular o surgimento da rede de pesquisa do sistema Patente BR, foi elaborado um formulário de pesquisa no Google Forms para a sondagem de pesquisadores da Rede Federal 80Cadernos de Prospecção – Salvador, v. 15, n. 1, janeiro a março, 2022, p. 69-84.
+Tatiana Costa Nascimento, Erick Samuel Rojas Cajavilca, Gabriela Silva Cerqueira de Educação interessados em fazer parte do ecossistema e foram criados canais digitais para a comunicação com o público.
+Esse questionário foi idealizado com base na experiência pessoal e nas boas práticas vivenciadas no Data Science BR e visa a conhecer o perfil do interessado e as suas principais competências técnicas e comportamentais.
+O mapeamento pode ser iniciado com docentes e discentes do PROFNIT, já que o seu público tem maior afinidade com a temática da proposta e participa de um programa de pós-graduação interdisciplinar por natureza.
+Esse modelo pode ser aperfeiçoado e divulgado em websites , mídias sociais, eventos e grupos de discussão, potencializando o seu alcance com o apoio de agentes multiplicadores, como o PROFNIT.
+O formulário para a coleta de dados está disponível no seguinte endereço: https:// bit.ly/3w8aAJF .
+Sugere-se também a realização de um estudo para definição de um modelo de gestão para condução das atividades da rede de pesquisa, por meio da análise das abordagens existentes e da governança de grupos de pesquisa como o Data Science BR.
+Na intenção de disponibilizar o acesso à plataforma e ao formulário de pesquisa na internet por meio de canais de comunicação, foi desenvolvida outra solução tecnológica complementar, a saber, um website implementado no WordPress que pode ser acessado pelo seguinte endereço: com/.
+Ao clicar no botão "Acesse o sistema", o usuário será direcionado à tela de login do sistema web e, no botão "Quero ser membro", será encaminhado para questionário do Google Forms.
+No site foi incorporado o plugin do Google Analytics denominado MonsterInsights para realizar o monitoramento de importantes indicadores de acesso e foram disponibilizadas outras mídias digitais para comunicação com a rede de pesquisa.
+Além do e-mail administrador@patentebr.
+com no menu superior, à direita, foram colocados ícones para as redes sociais (Instagram, Facebook e YouTube).
+Ao clicar em cada um deles, o usuário será conduzido para o perfil do Patente BR no canal selecionado.
+Em consonância com essa proposta citada no modelo de negócio, ao realizar o curso avançado de Busca de Informações de Patentes da WIPO, tomou-se conhecimento de um programa da instituição para apoiar os inovadores dos países em desenvolvimento.
+A publicação T echnology and Innovation Support Centers – TISCs: Enhancing innovation through knowledge and expertise , da WIPO, esclarece que o Centro de Apoio à Tecnologia e Inovação (TISC) dissemina as melhores experiências e práticas sobre o programa e permite o acesso facilitado a bases de dados de patentes e outros recursos científicos e tecnológicos, treinamentos locais e a distância, informações e materiais, e suporte nas atividades de conscientização, podendo ser implantado em diversas instituições públicas.
+Segundo o Progress and Needs Assessment Questionnaire 2019 , da WIPO, 50% dos membros TISC são instituições acadêmicas.
+O Brasil ainda não faz parte da lista dos participantes, aponta o Directory of T echnology and Innovation Support Centers , da WIPO.
+Nesse sentido, planejar e implantar um Centro de Apoio à Tecnologia e Inovação no Brasil viabilizará a prestação de serviços básicos e adicionais de informação tecnológica, fomentando o potencial inovador inerente aos setores acadêmico, industrial e empresarial.
+No TCC foram compiladas diversas informações relevantes sobre o programa, explicando os seus fundamentos e a sua importância, como funciona a implantação e as boas práticas do processo, e os principais desafios na execução das atividades, para auxiliar nas etapas de planejamento e consolidação do TISC.
+O lançamento do programa é uma ação importante para fomentar o ecossistema ao longo do tempo.
+Por meio do apoio contínuo da WIPO, o ecossistema terá ganhos imensuráveis em nível de maturidade e de aprendizado, consolidando a missão do sistema web Patente BR no país.81Cadernos de Prospecção – Salvador, v. 15, n. 1, janeiro a março, 2022, p. 69-84.Desenvolvimento do Sistema Web Patente BR: uma plataforma para a prospecção tecnológica de patentes 4 Considerações Finais As patentes constituem uma importante fonte de informação industrial, tecnológica e científica, registrando grande parte do conhecimento da humanidade ao longo dos anos.
+Todavia, a análise das informações estratégicas contidas nesses documentos ainda é uma atividade complexa que impõe muitas dificuldades ao pesquisador.
+Em primeiro lugar, os softwares proprietários para a prospecção tecnológica de patentes são mais robustos que as ferramentas gratuitas, entretanto, possuem licenças de valores elevados, tornando inviável a sua utilização para diversos públicos.
+Em segundo lugar, as ferramentas gratuitas são acessíveis, porém, muitas vezes, o usuário precisa realizar muitas etapas manualmente, como acontece com a utilização da base de dados Espacenet.
+Em terceiro lugar, além da utilização de ferramentas, sejam comerciais ou gratuitas, ambas acabam exigindo um certo nível de conhecimento técnico do usuário.
+Por conta de tais dificuldades, o potencial do uso da prospecção tecnológica de patentes ainda não está sendo totalmente explorado na cultura brasileira, o que é perceptível nos indicadores científicos e de inovação do país.
+Para acessibilizar e popularizar a prospecção tecnológica de patentes, é preciso fomentar o uso das ferramentas gratuitas que imponham o mínimo de dificuldades para o usuário, ainda mais as que foram desenvolvidas no país.
+Desse modo, foi apresentada a primeira versão da plataforma on-line , gratuita e brasileira, desenvolvida como produto tecnológico do mestrado no PROFNIT/UFOB para colaborar na solução dessa problemática.
+O propósito do sistema web Patente BR é fomentar o uso das ferramentas gratuitas, automatizando os processos manuais, para descomplicar a prospecção tecnológica de patentes e fomentar a inovação no Brasil.
+O sistema web realiza a busca de patentes na mesma fonte dos dados bibliográficos do Espacenet, o tratamento de dados sem a necessidade de conhecimento prévio e manipulação no Excel e a geração de análises automáticas na forma de gráficos dinâmicos.
+Além disso, para apoiar os estudos de prospecção tecnológica e a transferência de tecnologias brasileiras, foi implementada uma seção para o armazenamento gratuito de patentes brasileiras e um módulo para fins educacionais, no qual videoaulas e cursos on-line podem ser vinculados.
+Obviamente, o Patente BR não busca ser considerado a melhor plataforma para a prospecção tecnológica de patentes.
+Entretanto, com a proposta de criação de um ecossistema de inovação, a ferramenta pode se consolidar no mercado brasileiro como uma ferramenta intermediária.
+É preciso reconhecer que os softwares comerciais para a prospecção tecnológica de patentes, como o Orbit, possuem funcionalidades superiores, e algumas ferramentas gratuitas possuem outras características específicas para diferenciação que podem ser incorporadas nas próximas versões do sistema, por exemplo, a ferramenta Lens, que também analisa os indicadores acadêmicos.
+Como o objetivo deste empreendimento se concentrou na busca de documentos para gerar análises automáticas dos dados bibliográficos com a mesma fonte do Espacenet, outras informações das patentes podem ser adicionadas posteriormente pela integração com outras APIs.
+Além do limite de utilização dos dados de forma gratuita (4 GB semanal), a exibição do serviço do OPS é carregada em lotes de até 100 resultados, permitindo a visualização de 2.000 ocorrências no total.
+Por meio da melhoria contínua, o Patente BR poderá disponibilizar análises cada vez mais complexas e estatísticas de busca.
+A plataforma poderá ainda facilitar o processo de transferência 82Cadernos de Prospecção – Salvador, v. 15, n. 1, janeiro a março, 2022, p. 69-84.
+Tatiana Costa Nascimento, Erick Samuel Rojas Cajavilca, Gabriela Silva Cerqueira de tecnologia com a sua digitalização, bem como auxiliar no processo de gestão de patentes depositadas pelos usuários.
+Também poderá integrar outras APIs e funcionalidades, incluindo a prestação de serviços especializados.
+Finalmente, espera-se que os pesquisadores se sintam confortáveis em reportar sugestões de melhorias para o aperfeiçoamento desta proposta.
+5 Perspectivas Futuras O sistema web Patente BR tem o potencial futuro de apoiar a consolidação da cultura da propriedade intelectual nas instituições e contribuir com a concepção e o surgimento de ambientes colaborativos de aprendizagem multi-institucionais, multidisciplinares e complementares para impulsionar a criação de tecnologias inovadoras no Brasil.
+Dessa forma, a prospecção tecnológica de patentes poderá se tornar uma atividade acessível, rotineira, menos complexa e mais estratégica do que operacional.
+A vitrine tecnológica poderá se tornar uma importante base de dados do portfólio de patentes brasileiras, possibilitando a constituição de uma vitrine tecnológica unificada para a Rede Federal de Educação e, sobretudo, neste momento de emergência em saúde pública, a ampla visibilidade das tecnologias de enfrentamento à Covid-19.
+O objetivo é apoiar as instituições nas etapas de monitoramento e de transferência de tecnologia.
+Além disso, posteriormente poderão ser geradas análises das patentes cadastradas na vitrine tecnológica.
+Através da criação de cursos gratuitos ou de baixo custo, os usuários poderão ter acesso a aulas on-line por meio de cadastros de vídeos do Youtube ou da inserção de links externos para ferramentas, como o Hotmart, por exemplo.
+Sugere-se a produção de capacitações sobre os seguintes temas: Introdução à Patente, Busca e Análise de Patentes, Redação de Patentes, Depositando uma Patente, Patentes para Investidores e Inglês Técnico.
+Por fim, a academia de patentes poderá formar profissionais qualificados para atuar nesse mercado e contribuir com a inovação e o desenvolvimento do país.
+Pode-se aperfeiçoar a prospecção tecnológica do sistema incluindo outras APIs e fontes não patentárias; incorporar análises cada vez mais robustas; criar um aplicativo mobile ; gerar estatísticas de busca no sistema; montar uma política de uso justo; construir modelos para que o usuário crie os seus próprios dashboards em ferramentas de Business Intelligence , como o Power BI; implementar um sistema de gestão de patentes depositadas; desenvolver um protocolo sobre patentes e acesso à API de patentes, já que as informações estão majoritariamente na língua inglesa, são de complexo entendimento e estão dispersas na internet; viabilizar métodos para gerar análises de patentes com a base de dados do INPI; digitalizar os processos de transferência de tecnologia; lançar uma vitrine tecnológica da Rede Federal de Educação e de tecnologias relacionadas à Covid-19; gerar análises de patentes da vitrine tecnológica; desenvolver cursos on-line para compor a academia de patentes; aperfeiçoar o website para o ecossistema, incluindo publicações científicas; incorporar o VLibras no sistema para acessibilidade digital; divulgar ações e conteúdos nas redes sociais; criar aplicações com inteligência artificial, como chatbot ; entre outras inovações.
+Enfim, há muitas outras possibilidades no desenvolvimento de soluções tecnológicas em patentes, portanto, a constituição de um grupo de pesquisa multidisciplinar e multi-institucional na Rede Federal de Educação pode somar forças nesse empreendimento.
+Dessa forma, 83Cadernos de Prospecção – Salvador, v. 15, n. 1, janeiro a março, 2022, p. 69-84.Desenvolvimento do Sistema Web Patente BR: uma plataforma para a prospecção tecnológica de patentes o conceito do Patente BR poderá se expandir, de um sistema web para uma comunidade de pessoas que promovem a inovação no Brasil por intermédio da aplicação do conhecimento em patentes.
+Assim, com as múltiplas habilidades de uma cultura colaborativa, o projeto poderá ganhar velocidade na promoção de inovações para a sociedade.
+Os membros poderão melhorar continuamente o sistema e desenvolver outras tecnologias relevantes.
+Então, a rede de pesquisa poderá se tornar uma referência no ramo de patentes, ofertando até mesmo serviços especializados à comunidade.
+Para isso, recomenda-se o lançamento do Centro de Apoio à Tecnologia e Inovação da World Intellectual Property Organization de forma inovadora no Brasil para desenvolvimento das capacidades técnicas do grupo, a fim de viabilizar a prestação de serviços básicos e de valor agregado para a sociedade e de promover o debate acerca das estratégias competitivas oriundas da propriedade intelectual, em especial, da prospecção tecnológica de patentes.
+Nesse sentido, o grupo poderá constituir massa crítica para alavancar o ecossistema de inovação do país.
+O primeiro passo é apresentar a proposta para uma autoridade governamental (escritórios nacionais de propriedade intelectual, ministérios, agências governamentais ou representações diplomáticas), com objetivo de sensibilizar uma solicitação formal à WIPO.
+É preciso articular com os atores interessados na proposta e acompanhar as etapas de implantação do TISC no país com o monitoramento de indicadores por meio de análises que podem ser desenvolvidas no Power BI, como exemplo.
+Em última análise, é significativo enfatizar a importância do compartilhamento de conhecimento no processo de aprendizagem e de inovação.
+A difusão dessa experiência poderá apontar caminhos sobre como impulsionar a colaboração entre pesquisadores na governança de tais ambientes, bem como poderá influenciar positivamente a criação de outros projetos de inovação pela comunidade acadêmica.
+Coronavírus: monitoramento das Instituições de Ensino.
+Disponível em: Acesso em: 26 jan. 2021.
+Grupo de Pesquisa e Desenvolvimento de soluções em Big Data Analytics .
+Disponível em: Acesso em: 15 abr.
+Disponível em: epo.org/searching-for-patents/data/web-services/ops.html .
+Why researchers should care about patents .
+Disponível em: Acesso em: 15 fev.
+L. Uma Análise Sobre os Estudos de Prospecção Tecnológica.
+Cadernos de Prospecção , Salvador, v. 1, n. 1, p. 7-9, 2008.
+NASCIMENTO, T. C.; CAJAVILCA, E. S. R.; SANTOS, A. T. Sistematização de um Modelo de Prospecção Tecnológica com as Ferramentas Espacenet e Iramuteq: aplicação para banco de dados de patentes verdes do elemento fósforo.
+Cadernos de Prospecção , Salvador, v. 12, n. 3, p. 563575, setembro, 2019.84Cadernos de Prospecção – Salvador, v. 15, n. 1, janeiro a março, 2022, p. 69-84.
+Tatiana Costa Nascimento, Erick Samuel Rojas Cajavilca, Gabriela Silva Cerqueira PIRES, E. A.; RIBEIRO, N. M.; QUINTELLA, C. M. Sistemas de Busca de Patentes: análise comparativa entre Espacenet, Patentscope, Google Patents, Lens, Derwent Innovation Index e Orbit Intelligence.
+Cadernos de Prospecção , Salvador, v. 13, n. 1, p. 13-29, março, 2020.
+Prospecção Tecnológica como uma Ferramenta Aplicada em Ciência e Tecnologia para se Chegar à Inovação.
+], v. 3, n. 5, p. 406-415, dezembro, 2011.
+RIBEIRO, N. M. Tratamento de dados do Espacenet de patentes no Excel : Construção de gráficos com país e ano de prioridade a partir de dados do Espacenet.
+WIPO – WORLD INTELLECTUAL PROPERTY ORGANIZATION.
+Directory of Technology and Innovation Support Centers .
+WIPO – WORLD INTELLECTUAL PROPERTY ORGANIZATION.
+Progress and Needs Assessment Questionnaire 2019 .
+Disponível em: tisc/en/doc/tisc_survey_2019.pdf .
+WIPO – WORLD INTELLECTUAL PROPERTY ORGANIZATION.
+Technology and Innovation Support Centers – TISCs: Enhancing innovation through knowledge and expertise.
+Disponível em: Acesso em: 28 jan. 2021.
+Sobre os Autores Tatiana Costa Nascimento E-mail : tatiana-cn@hotmail.com ORCID: 0000-0001-9504-1996 Mestre em Propriedade Intelectual e Transferência de Tecnologia para Inovação pela Universidade Federal do Oeste da Bahia (UFOB) em 2021.
+Endereço profissional: Rua Manoel Quirino, n. 4, Vila Rica, Goiânia, GO.
+Erick Samuel Rojas Cajavilca E-mail : rojas@ufob.edu.br ORCID: 0000-0002-0835-532X Doutor em Energia e Ambiente pela Universidade Federal da Bahia (UFBA) em 2015.
+Endereço profissional: Rua da Prainha, n. 1.326, Morada Nobre, Barreiras, BA.
+Gabriela Silva Cerqueira E-mail : gabriela.cerqueira@ufob.edu.br ORCID: 0000-0002-3610-4544 Doutora em Química pela Universidade Federal da Bahia (UFBA) em 2017.
+Endereço profissional: Rua da Prainha, n. 1.326, Morada Nobre, Barreiras, BA.

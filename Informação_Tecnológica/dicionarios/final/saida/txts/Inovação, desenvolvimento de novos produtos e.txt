@@ -1,0 +1,556 @@
+, São Carlos, v. 26, n. 1, e1451, 2019 ISSN 0104-530X (Print) ISSN 1806-9649 (Online)Artigo Original 1/15Abstract: This paper focused on the use of internet technologies to support product innovation in Brazilian companies, following a qualitative approach.
+A scoping review of the literature revealed the main uses of the aforementioned technologies for every stage of innovation.
+Interviews with companies' representatives showed that innovative companies use mainly social networks to support innovation activities, but there are reports of investments in co-creation platforms.
+In the scope of this work, internet technologies are used to some innovation stages.
+Basic technologies like e-mail, website and search mechanisms can provide basic support information for all innovation stages.
+The early stages (ideation, design and testing) require more targeted information which may be provided by technologies like ideas competition tools, co-creation platforms, and web mining.
+Finally, blogs, wikis, discussion forums and social networking sites support the final stages (launch and support) of the product innovation process.
+Keywords: New product development; Innovation management; Information technology; Internet.Resumo: Este estudo investigou, a partir de abordagem qualitativa, o uso de tecnologias internet no apoio à inovação de produtos em empresas brasileiras.
+Uma revisão de escopo da literatura evidenciou os principais usos destas tecnologias para cada estágio da inovação.
+A abordagem mostrou que as empresas inovadoras entrevistadas utilizam, principalmente, as redes sociais no suporte às atividades de inovação, mas existem relatos de investimentos em plataformas de cocriação.
+No contexto do estudo, considerando o processo de desenvolvimento de novos produtos, as tecnologias internet podem ser utilizadas conforme o estágio de inovação.
+As tecnologias de suporte básico podem disponibilizar informações para todos os estágios da inovação.
+Os estágios iniciais, como ideação, projeto e teste, necessitam de informações mais direcionadas, as quais podem ser providas pelas tecnologias como ferramentas de competição de ideias, plataformas de cocriação e web mining.
+Por fim, as tecnologias blogs, wikis, fóruns de discussão e redes sociais sustentam informações para os estágios finais (lançamento e suporte) do processo de inovação de produtos.
+Palavras-chave: Desenvolvimento de novos produtos; Gestão da inovação; Tecnologia da informação; Internet.Como citar: Grützmann, A., Zambalde, A. L. & Bermejo, P. H. S. (2019).
+Inovação, Desenvolvimento de Novos Produtos e as Tecnologias Internet: estudo em empresas brasileiras.
+Gestão & Produção , 26(1), e1451.
+ção, Desenvolvimento de Novos Produtos e as Tecnologias Internet: estudo em empresas brasileiras Innovation, New Product Development and Internet Technologies: study in Brazilian companies André Grützmann1  André Luiz Zambalde1  Paulo Henrique de Souza Bermejo2  1 Departamento de Ciência da Computação, Universidade Federal de Lavras – UFLA, Campus Universitário, CEP 37200-000, CP 3037, Lavras, MG, Brasil, e-mail: andre5@ufla.br, zamba@ufla.br 2 Departamento de Administração – ADM, Faculdade de Economia, Administração, Contabilidade e Gestão Pública – FACE, Universidade de Brasília – UnB, Asa Norte, CEP 70910-900, Brasília, DF, Brasil, e-mail: paulobermejo@unb.br Recebido em Jun.
+20, 2016 - Aceito em Maio 27, 2017 Suporte financeiro: Fundação de Amparo à Pesquisa do Estado de Minas Gerais (FAPEMIG), Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) e Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes).1 Introdução A inovação diz respeito ao desenvolvimento de novas soluções que atendam aos mercados ou gerem valor para a sociedade.
+De modo geral, a inovação pode ser entendida como a busca de novidade de valor agregado por meio de novos produtos, serviços ou mercados, métodos de produção ou sistemas de gestão (OECD, 2005; Crossan & Apaydin, 2010).
+Pode ocorrer de forma interna, inovação fechada, ou com a colaboração de entidades externas, inovação aberta (Chesbrough 2003).2/15 Grützmann, A. et al.
+, São Carlos, v. 26, n. 1, e1451, 2019 No contexto da inovação, o conceito de produto tem sido entendido como um conjunto de atributos tangíveis e intangíveis que possa ser consumido por um mercado, suprindo necessidades e desejos (Semenik & Bamossy, 1995; Kotler, 2000; McCarthy & Perreault, 2003; Levitt, 2004).
+Portanto, o desenvolvimento de produtos implica coletar informações e conhecer, de forma sistemática, as necessidades dos consumidores e buscar soluções comerciais para estes (Pugh, 1991; Clark & Fujimoto, 1991).
+Processos como o Stage-Gate ® evidenciam esta sistematização e têm avançado em direção a ambientes virtuais (Cooper, 1990; Cooper, 2008).
+A inovação de produto é caracterizada por diversos autores (Wheelwright & Clark, 1992; Urban & Hauser, 1993; Ulrich & Eppinger, 2004; Rozenfeld et al., 2006) como um processo de desenvolvimento de novo produto composto, genericamente, de cinco estágios: estágio de ideação, para coleta de ideias e conceituação do produto; estágio de projeto, para estruturação e desenvolvimento do produto; estágio de teste, para verificação e correção de problemas no produto; e estágio de lançamento, para oferta do produto ao mercado e recebimento de feedback .
+A integração dos clientes na inovação de produto permite reações mais rápidas e eficientes frente às mudanças do mercado (Sandmeier et al., 2010).
+Neste sentido, a internet assume um papel cada vez mais importante na inovação, tendo em vista que amplifica o contato com os consumidores e colaboradores em potencial.
+A sociedade em rede (Castells, 2003) trouxe novas possibilidades econômicas aos atores com capacidade de utilizar as tecnologias de informação e comunicação.
+Huizingh (2011) destaca que os consumidores, especialmente os mais ativos e críticos, têm sido convidados para testes de produtos ou avaliações de lançamentos.
+A inovação tem sido entendida pelos pesquisadores como uma forma de transformar conhecimento, interno ou externo, em produtos que tenham aceitação no mercado.
+A literatura internacional aponta que tecnologias como e-mail, websites, blogs, redes sociais e web mining podem ser usadas para atividades de inovação, com especial atenção ao desenvolvimento de produtos (Shaw et al.
+2001; Su et al., 2006; Yan et al., 2009).
+(2003) recomendam estudos sobre o papel das tecnologias Internet e Web em cada um dos estágios do desenvolvimento de novos produtos.
+Meyer (2010) sugere novas pesquisas para investigar o uso e a combinação de diferentes tipos de softwares Web na preparação para a inovação.
+Embora o cliente não deva ser visto apenas como recebedor passivo da novidade, ainda existem dúvidas se as empresas estão realmente integrando ferramentas da internet aos seus processos de desenvolvimento e inovação de produtos (Prandelli et al., 2006; Sawhney et al., 2005).
+Nesse contexto, interessa-nos a compreensão do uso das tecnologias internet para inovação de produtos, especificamente em empresas brasileiras, tendo por base uma revisão de escopo da literatura, associada a uma abordagem qualitativa-empírica.
+Os conceitos e aplicações das tecnologias internet são diversos e existem diferenças entre os termos Internet, Web e Web 2.0, sendo a última considerada uma evolução da web, onde os usuários podem usar plataformas para gerar conteúdos e novas aplicações de forma colaborativa (O'Reilly, 2005).
+Neste trabalho, os conceitos foram usados de forma intercambiável.
+Dentre as tecnologias internet, correio eletrônico e website representam os passos preliminares de uma empresa no ambiente online (Kotler, 2000; Vassos, 1997; Wind & Mahajan, 2001).
+Complementarmente, mecanismos de busca são usados para identificar conteúdos relevantes ao negócio (Brin & Page, 1998; Singhal & Nagar, 2013).
+As empresas também têm usado fóruns de discussão, pontos de encontro virtuais de interação entre pessoas que compartilham dos mesmos interesses (Nambisan & Baron, 2009; Haavisto, 2012).
+As redes sociais facilitam a interação e têm sido usadas e investigadas para a inovação.
+Estas redes são serviços baseados na web, onde pessoas podem criar perfis e estabelecer conexões com outras com os mesmos interesses, permitindo comunicação compartilhada (Boyd & Ellison, 2007; Kaplan & Haenlein, 2010).
+Por sua vez, os weblogs ou blogs são usados para compartilhamento de informações e interatividade, ainda que com uma mecânica diferente das redes sociais, pois o conteúdo tende a ser opinativo e pessoal (Anderson, 2007; Murugesan, 2007; Walker, 2007).
+As wikis são ferramentas web que permitem que usuários criem e editem conteúdo online (Gonzalez-Reinhart, 2005; Bean & Hott, 2005).
+A principal diferença entre wikis e blogs está no controle de edição do conteúdo.
+Enquanto nos blogs existe normalmente um responsável pelo controle, nas wikis o conteúdo pode ser criado ou alterado a qualquer momento por usuários habilitados para tal (Stephens, 2009).
+Segundo McKinsey (2008), blogs, wikis e redes sociais são as tecnologias web 2.0 mais comuns usadas pelas empresas.
+Enquanto as tecnologias supracitadas são mais voltadas à interatividade dos internautas, existem outras que focam a busca de conteúdo, soluções, financiamento ou outras contribuições junto a multidões na web.
+Estas tecnologias são denominadas de crowdsourcing (Anderson, 2007).
+Cabe observar que esta atividade pode reduzir custos, visto que as participações são espontâneas, demandando recompensas pelas colaborações em algumas das oportunidades (Howe, 2006).
+Destas tecnologias, as ferramentas de competição de ideias consistem em ambientes onde usuários são instados a oferecer 3/15Inovação, Desenvolvimento de Novos Produtos.
+, São Carlos, v. 26, n. 1, e1451, 2019 aqueles que não guardavam relação com o escopo da pesquisa.
+Também foram retirados os resultados que coincidiam nas duas bases.
+Isto reduziu o número para 133 artigos, os quais foram selecionados para leitura na íntegra.
+A análise dos artigos selecionados permitiu a construção de um quadro de referência relacionando as tecnologias internet mais usadas em cada estágio da inovação.
+O referencial teórico e as pesquisas realizadas permitiram a estruturação de um roteiro de entrevista.
+Este documento forneceu as diretrizes para a condução dos diálogos com as pessoas-chaves nas empresas selecionadas.
+Os objetos de estudo da investigação foram empresas com atuação no Brasil, preferencialmente com atividades de desenvolvimento de produtos ou serviços com foco no mercado nacional e reconhecidamente inovadoras em seus segmentos ( Quadro 1).
+Websites de associações brasileiras de empresas inovadoras foram utilizados para identificar as empresas.
+Foram entrevistadas pessoas-chaves envolvidas com inovação, mercado ou estratégia de oito empresas líderes e de grande destaque em seus setores de atuação no Brasil, e que tenham realizado atividades de inovação.
+Dentre as oito selecionadas, existem duas empresas do setor automotivo, duas do setor de cosméticos e beleza, duas do setor de construção civil e duas que atuam em diversos segmentos de soluções para determinado problema lançado por uma organização (Piller & Walcher, 2006).
+(2011) as consideram uma das formas de aproximar os clientes dos estágios iniciais da inovação, enquanto Zwass (2010) aponta que as plataformas de cocriação habilitam a criação de valor pelos consumidores.
+As tecnologias apresentadas têm sido empregadas para aumentar a interação com consumidores.
+A participação e contribuição dos usuários nos diversos ambientes web tem crescido e levado a quantidades avassaladoras de informações.
+A mineração de dados web ou web mining pode auxiliar na coleta e separação de conteúdo que seja relevante (Etzioni, 1996) para a inovação.
+2 Metodologia A base teórica para este estudo foi construída a partir de uma revisão de escopo sobre inovação de produto e tecnologias internet nas bases de dados Scopus e Web of Knowledge.
+Estas bases foram selecionadas por serem consideradas duas das maiores referências científicas da atualidade, oferecendo ferramentas para pesquisas em artigos de forma multidisciplinar.
+As buscas foram efetuadas com o auxílio de diferentes palavras-chave relacionadas a tecnologias internet, combinadas com o termo inovação.
+Para restringir a pesquisa, limitou-se a busca a artigos da área de administração, produção e economia, escritos na língua inglesa e posteriores ao ano 2000, inclusive.
+A Figura 1 ilustra a expressão genérica utilizada na busca.
+A estratégia de busca utilizada retornou 1.396 resultados na base Scopus e 1.030 na base Web of Knowledge.
+Os abstracts dos artigos foram analisados para eliminar Figura 1.
+Características das empresas pesquisadas.
+Empresa SetorAtividade (em anos)Funcionários (em milhares)Faturamento (bilhões R$)Cargo do EntrevistadoData da EntrevistaDuração (em horas) A automotivo 35 20 20Gerente de Planejamento Estratégico e Inovação17/08/2013 01:06 B automotivo 60 22 26Gerente da área de estratégia corporativa02/10/2013 01:29 Cconstrução civil60 5 4Gerente de marketing digital e institucional da empresa04/10/2013 01:07 Dconstrução civil35 3,5 1Especialista em e-business e mídia social03/10/2013 00:52 Ediversos setores65 4 3Gerente de marketing corporativo da empresa25/09/2013 01:02 Fdiversos setores65 14 8Designer de interação e de Experiência de Usuário22/10/2013 01:15 G cosméticos 35 5,5 2Gerente de pesquisa na área de inovação30/08/2013 01:01 H cosméticos 45 6,5 6Gerente de gestão e redes de inovação03/10/2013 01:064/15Grützmann, A. et al.
+, São Carlos, v. 26, n. 1, e1451, 2019 estágios do processo de inovação, sendo a tecnologia presente no maior número de artigos pesquisados.
+O grande número de menções às plataformas de cocriação pode ser entendido, parcialmente, pelo fato destas serem oferecidas como uma solução integrada às empresas.
+Além disso, a recenticidade destas ferramentas pode ter atraído o interesse do maior número de pesquisadores.
+Os mecanismos de busca não aparecem nos quadros, pois não foram encontrados relatos na literatura.
+Por outro lado, foram encontradas outras denominações relacionadas às aplicações de tecnologias internet na inovação incluídas no quadro sem, no entanto, realizar-se um aprofundamento sobre elas.
+Estas tecnologias são questionário virtual (online), mundo virtual (por exemplo, Second Life) e tagging colaborativo (classificação de websites).
+3.2 Abordagem qualitativa – empresas Todas as organizações pesquisadas reúnem elementos de uma empresa inovadora apontados por Tidd et al.
+(2005), com destaque para os seguintes: 1) alto envolvimento com inovação; 2) visão compartilhada, liderança e vontade de inovar; 3) estrutura organizacional adequada; 4) trabalho de equipe eficaz; e 5) comunicação extensiva.
+O alto envolvimento em inovação esteve presente nos relatos dos entrevistados.
+Desta forma, pode-se compreender que a inovação não fica restrita a um setor específico.
+As habilidades criativas e capacidades de solução de problemas são comuns a significativa parcela dos funcionários.
+Os depoimentos evidenciaram que a inovação é uma tarefa distribuída, embora existam responsáveis por acompanhar o andamento e evolução das atividades.
+Outro ponto comum é o compartilhamento das ideias entre as diversas áreas para facilitar a tomada de decisão sobre quais iniciativas serão financiadas, com direção a inovação.
+A visão compartilhada, liderança e vontade de inovar compreende senso de propósito, aspectos estratégicos e compromisso da alta gerência.
+No material coletado, foi identificado que o direcionamento estratégico para a inovação tem sido expresso na visão da empresa e reforçado pelos executivos, deixando claro para colaboradores o desejo de inovar.
+Também ficou evidente que o compromisso com a inovação acaba por se tornar uma meta dos funcionários, uma vez que a inovação é entendida como fundamental para os resultados da empresa.
+As falas dos entrevistados ressaltam a ocorrência disso, mostrando que a mentalidade e as energias dos colaboradores precisam estar em sincronia com a inovação.
+A estrutura organizacional adequada pressupõe a existência de estruturas e processos que permitam que as mudanças prosperem, distanciando-se da rigidez produtos ao consumidor e empresas.
+Os entrevistados concordaram em participar da pesquisa sob a condição de anonimato e não identificação das empresas.
+As oito entrevistas, totalizando aproximadamente nove horas, foram gravadas com o consentimento dos entrevistados e, posteriormente, transcritas.
+Para esta etapa qualitativa, lançou-se mão da análise de conteúdo, e as transcrições foram analisadas com o auxílio do software ATLAS.ti.
+Segundo Bardin (2009), a análise de conteúdo [.]
+será um único instrumento, mas marcado por uma grande disparidade de formas e adaptável a um campo de aplicação muito vasto: as comunicações (Bardin 2009, p. 33).
+Autores como Amado (2000) e Vala (1986) sugerem que a prática da análise de conteúdo contemple, embora possa sofrer variações inerentes aos objetos de estudo, desde a definição dos objetivos do trabalho até a codificação dos documentos, passando pela explicitação de um quadro de referência teórico, constituição do corpus de análise, leituras repetidas e exaustivas.
+A partir das diretrizes indicadas na literatura, a etapa de análise de conteúdo das entrevistas transcritas seguiu com a seleção de quadro teórico para as análises posteriores.
+Os documentos foram exaustivamente lidos e analisados para, depois, realizar a categorização, com base no referencial teórico identificado na revisão de escopo.
+Com o objetivo de ilustrar claramente as codificações e análises realizadas, optou-se por selecionar trechos das transcrições que fossem mais relevantes e destacá-los no texto.
+3 Resultados e discussão 3.1 Revisão de escopo As publicações pesquisadas na revisão de escopo foram analisadas para identificar evidências de uso de tecnologias internet nos diferentes estágios do processo de inovação de produtos: ideação, conceito, desenvolvimento, pré-lançamento, lançamento e suporte.
+Na nomenclatura dada aos estágios do processo de inovação, buscou-se acompanhar a variação de conceitos presente nos artigos pesquisados.
+O Quadro 2 destaca as relações encontradas entre os temas nos artigos analisados, sendo as tecnologias apresentadas nas linhas e os estágios nas colunas, obtendo-se um indicativo teórico das tecnologias internet mais usadas em determinados estágios da inovação de produtos.
+É possível notar a concentração de trabalhos relacionando as tecnologias de plataformas de cocriação, competição de ideias, redes sociais e fóruns de discussão com a ideação.
+Também deve ser ressaltado o grande número de trabalhos relatando o uso das plataformas de cocriação em todos os 5/15Inovação, Desenvolvimento de Novos Produtos.
+, São Carlos, v. 26, n. 1, e1451, 2019 Quadro 2.
+Estágios da inovação de produtos versus tecnologias internet.
+Ideação Conceito DesenvolvimentoPrélançamentoLançamento Suporte E-mail Eisenberg (2011) WebsiteKozinets et al.
+(2010) Fóruns de discussãoHewer & Brownlie (2010); Howe et al.
+(2000); Jeppesen & Molin (2003); Nambisan & Baron (2009); Nambisan & Baron (2010); Wu & Fang (2010)Jeppesen & Molin (2003); Nambisan & Baron (2009)Nambisan & Baron (2009)Iivari (2010)Iivari (2010); Janzik & Raasch (2011); Jeppesen & Molin (2003); Nambisan & Baron (2009); Nambisan & Baron (2010) Mídias sociaisKozinets et al.
+(2008); Lovejoy & Sinha (2010); Amaral & Rego (2010); Sawhney et al.
+(2008); Hienerth & Lettl (2011); Sawhney et al.
+(2003)Hienerth & Lettl (2011)Janzik & Raasch (2011) Competição de ideiasAntikainen & Vaataja (2010); Blohm et al.
+(2011); Gofman & Moskowitz (2009); Piller & Walcher (2006); Sawhney et al.
+(2009)Gofman & Moskowitz (2009) Plataformas de cocriaçãoAntikainen & Vaataja, (2010); Füller et al.
+(2010); Hemetsberger & Godula (2007); Mahr & Lievens (2012); Hewer & Brownlie (2010); Jeppesen & Frederiksen (2006); Müller-Seitz & Reger (2010); Rohrbeck et al.
+(2010); Chu & Chan (2009); Füller et al.
+(2007); Füller & Matzler (2007)Hemetsberger & Godula (2007); Nambisan & Baron (2009); Rohrbeck et al.
+(2010); Hemetsberger & Godula (2007); Jeppesen & Frederiksen (2006); Nambisan & Baron (2009); Rohrbeck et al.
+(2010); Bell & Loane (2010)Füller et al.
+(2010); Hemetsberger & Godula (2007); Nambisan & Baron (2009); Chu & Chan (2009)Hemetsberger & Godula (2007); Rohrbeck et al.
+(2010); Chu & Chan (2009)Füller et al., 2010; Jeppesen; Frederiksen, 2006 Formulários virtuaisWu & Fang (2010)Howe et al.
+(2003) Mundos virtuaisKohler et al.
+(2009) Rotulagem colaborativaBilgram et al.
+, São Carlos, v. 26, n. 1, e1451, 2019 […] a gente usa muito aquele processo do Stage -Gate, um cara chamado Robert Cooper, o cara que sistematizou esses pensamentos do pipeline, então você tem ideia, conceito, viabilidade, desenvolvimento, [inaudível] , lançamento e pós-lançamento.
+No nosso caso, a gente mapeia esse negócio, pra colocar antes da ideia, cada microcosmos desses que eu te falei, ele tem que ter um armazém de ideias, que são de várias formas, não tem um padrão único (Empresa B, 2013) .
+Então, a inovação dos produtos eu acho que é o processo mais estabelecido, ele é um processo, é um processo só mas ele tem caminhos diferentes e, em especial, a gente tem dois caminhos, tem o caminho de tecnologia e o caminho de produto, eles são processos que tem a base obviamente, geral igual que é a base de qualquer processo Stage-Gate, mais ele tem fases diferentes, as outras inovações, elas têm processos menos estabelecidos, até porque são mais novas (Empresa H, 2013) .
+Em algumas das empresas verificou-se a preocupação com a documentação dos projetos de inovação, possivelmente ligados ao processo utilizado, mas isso não é visualizado em todos os depoimentos.
+Fica destacado que em todas as empresas foram encontradas evidências de que as atividades de inovação são organizadas e possuem estágios delimitados, corroborando os aspectos teóricos.
+O fato de as empresas serem consideradas inovadoras e utilizarem processos específicos para esta atividade permitiu que se procedesse à análise de conteúdo sobre as tecnologias internet e da inovação no desenvolvimento de novos produtos.
+Para isso, optou-se pela categorização tomando por base as seguintes tecnologias: website, e-mail, mecanismos de busca, fóruns de discussão, blogs, redes sociais, wikis, ferramentas de competição de ideias, plataformas de cocriação, mineração de dados, questionário virtual e mundos virtuais.
+Preferencialmente, foram buscados exemplos concretos de utilização em alguma atividade ou em projetos da empresa.
+No entanto, também foram consideradas menções às tecnologias, ainda que de forma mais genérica.
+Tendo em vista que os entrevistados, em sua maioria, não eram especialistas em tecnologias internet, considerou-se que a simples citação do termo dentro de um contexto de atividade significava o seu uso na organização.
+As diferentes tecnologias internet estudadas no escopo desta pesquisa têm diferentes usos nas empresas, influenciados pela área de atuação, cultura, disponibilidade entre outros fatores.
+De maneira geral, pode-se afirmar que o uso de tecnologias internet pelas empresas tem crescido significativamente.
+Uma parcela disso se deve à evolução do ambiente de tecnologia de informação como um todo.
+No entanto, organizacional baseada em setores e departamentos.
+Nos elementos encontrados, foi possível notar que a inovação aparenta não estar confinada aos laboratórios de pesquisa e desenvolvimento.
+No relato dos entrevistados apareceram menções a equipes multidisciplinares e times que permeiam a estrutura organizacional estabelecida, evidenciando alternativas aos processos tradicionais.
+A estrutura organizacional adequada é complementada por equipes de trabalho eficazes, aspectos necessários para uma organização inovadora.
+Os comentários mostraram que o trabalho tende a acontecer em grupos pequenos, mas a participação da empresa existe para avaliar as possibilidades e auxiliar na evolução dos projetos de inovação.
+Por outro lado, também se pode observar que a estrutura para a inovação está estabelecida nas organizações, oferecendo o suporte necessário para as equipes trabalharem.
+A comunicação extensiva permite que informações percorram a organização em todos os níveis hierárquicos, fazendo o uso de diversos canais.
+Alguns dos relatos coletados mostraram o uso de reuniões para comunicação entre as equipes, bem como deixam claro o uso de equipes multifuncionais em projetos.
+Além disso, também foram encontrados indícios do uso intensivo de tecnologias de informação, no suporte às atividades da organização.
+Outro aspecto de interesse da pesquisa era verificar se as empresas possuíam processos de inovação relacionados ao desenvolvimento de novos produtos.
+Sendo assim, elas foram questionadas sobre como ocorria a inovação.
+A partir das falas dos entrevistados, notou-se que as empresas possuem delineamentos de processos de inovação em consonância com os relatos da literatura (ideação, projeto, teste e lançamento), mas acabam adaptando-os conforme suas necessidades.
+Nas empresas A, D, G e H foram identificados os estágios de ideação, análise de viabilidade, implementação/execução e lançamento, sendo que algumas associaram o termo funil para o processo de inovação.
+As empresas buscam ideias para novos projetos, mas necessitam filtrá-las com alguma forma de priorização.
+O pensamento da Empresa D, de certo modo, resume a preocupação das empresas: executar o projeto de inovação e convertê-lo em um produto para o consumidor.
+Nós temos um processo de inovação específico, que foi desenhado para o nosso funil de inovação, chamado Nous.
+[…] você colocar esta ideia e executar é o que é mais difícil.
+A informação não é o poder, na verdade.
+A execução é poder (Empresa D, 2013) .
+O processo Stage-Gate (Cooper, 1990) foi lembrado pelas empresas B, E e H. Na citação da Empresa B, pode ser identificada a necessidade de constantes aprovações para o projeto.
+Já a empresa H mencionou tanto o funil de inovação quanto o Stage-Gate.7/15Inovação, Desenvolvimento de Novos Produtos.
+, São Carlos, v. 26, n. 1, e1451, 2019 Então a gente foi desenvolvendo websites, então a gente vai lá e vai construindo usando a tendência de consumidores mais participativos, então a gente agrega nessas plataformas ou busca fornecedores que permitissem esses ratings and reviews que a gente fala, que tem lá os bazaar voices da vida, essas ferramentas, já nem lembro o nome dos fornecedores, que você inclui esses features dentro dos websites para permitir que as pessoas possam se expressar, avaliar e isso se tornar um embasamento para você investir em novos produtos, em adaptação de novos produtos e melhora de experiências de embalagens, etc.
+As empresas A e H trouxeram outra funcionalidade oferecida nos websites, que é a venda aos consumidores ou parceiros de negócio.
+A empresa H destacou a importância do website para diferentes usos, centralizando a presença da organização na web.
+Um website reconhecido e vinculado à marca faz com que o consumidor tenha uma fonte oficial e reconhecida para buscar informações sobre a empresa e, eventualmente, comunicar-se com ela.
+Semelhante ao website, o e-mail é uma tecnologia difundida na sociedade e seu uso como ferramenta de comunicação é amplo no meio empresarial.
+No entanto, como tecnologia voltada para a inovação, foi citado apenas pelas empresas C e E. Isto, talvez, se deva ao fato de as pessoas utilizarem-no tão cotidianamente, que não tenham lembrado de citá-lo.
+Outro ponto sobre esta tecnologia recai no fato de que e-mails corporativos tendem a ser divulgados somente para contatos próximos e não para o público em geral.
+Além das tecnologias anteriores, os mecanismos de busca têm sido usados para auxiliar empresas a identificar interesses do consumidor.
+A Empresa G relata que são usadas as informações sobre as pesquisas feitas pelos internautas no Google para direcionar os lançamentos da companhia.
+Na visão dela, uma maior quantidade de pesquisas sobre um tema evidencia demanda por produtos ou características associados a ele.
+Com base nisso, a empresa opta por lançamentos consoantes a estas necessidades.
+as próprias ferramentas do Google, então a gente consegue fazer um mapeamento e saber muitas vezes o tipo das pessoas de cada região do Brasil, quais são os temas que as pessoas estão procurando (Empresa G, 2013).
+Além de focar nos interesses do consumidor, outros mecanismos de busca permitem às empresas estudar o mercado, identificando parceiros e também concorrentes, como nos casos das Empresas B e H. O destaque da Empresa H está associado a mecanismos de busca focados em universidades e centros de pesquisa.
+Sua preocupação está em usar estas tecnologias para mapear parceiros cadastrados no Portal da Capes, uma ferramenta destinada para professores e pesquisadores é necessário pontuar que, para algumas organizações, as atividades digitais têm representado significativo incremento no negócio.
+Um trecho que merece ser destacado, no caso da Empresa D, onde o entrevistado enfatizou que a área digital é responsável por 40% do faturamento da empresa.
+Hoje a área digital de business que eu represento, ela é responsável por 40% do faturamento da empresa e as pessoas compram o apartamento digital.
+Apartamentos de 1 milhão, de 200 mil, de 3 milhões, a nossa área representa 40% do faturamento dentro da empresa.
+Então se você imaginar que a empresa fatura R$ 2,5 bilhões, 40% é um número significativo que ajuda todo esse pessoal do digital (Empresa D, 2013) .
+Esta observação é reforçada pelos dados de (IBGE, 2013), onde a fonte de informação considerada mais importante foram as redes de informação informatizadas.
+O depoimento corrobora Kafouros (2006), Lan & Du (2002) e Sethi et al.
+(2003), sobre a importância da Internet para gerar resultados positivos para as empresas.
+A internet e a web vêm crescendo consistentemente, e, nesta citação, é possível vislumbrar que existem empresas que conseguem estruturar seus processos e obtiveram retorno do investimento feito neste ambiente virtual.
+Os websites das empresas são usados para agregar informações para o público em geral e para o consumidor, além de servir para direcionar estas pessoas para outras tecnologias específicas.
+As falas das empresas C e D caracterizaram o uso institucional do website e da centralização de informações para o público visitante.
+O website representa uma das primeiras iniciativas das empresas para estabelecer presença no ambiente virtual, servindo como um canal direto de comunicação, controlado pela empresa.
+"Se você acessar o nosso site, você verá uma barra de contatos e irá ver quantas tecnologias já estão aportadas lá [.]"
+As empresas C e E reforçaram o papel do website em estreitar o relacionamento com os clientes ou consumidores.
+No primeiro caso, a empresa busca converter a maior parte da comunicação com os clientes para o ambiente web.
+Então, você tem um site de relacionamento com o cliente todo via web, onde ele pode acompanhar a obra, ver fotos da obra, segunda via de boletos.
+Então, toda esta parte de relacionamento com o cliente está praticamente 100% em plataforma web (Empresa C, 2013) .
+No segundo caso, o exemplo de uso do website para estimular a interação com os consumidores, oferecendo serviços para coletar opiniões, buscando subsídios para decisões de investimento em produtos.8/15Grützmann, A. et al.
+, São Carlos, v. 26, n. 1, e1451, 2019 de comercialização.
+Porém, na fala do entrevistado da Empresa G não fica claro se a varredura está ligada ao estágio de comercialização.
+Nas Empresas B e H, a vinculação com o setor de vendas (Empresa B) e com os lançamentos (Empresa H) fica nítida, corroborando a literatura.
+Wiki é uma tecnologia que dá aos participantes a possibilidade de compartilhar informações e documentos de maneira colaborativa, oferecendo suporte para a gestão do conhecimento.
+O depoimento da Empresa D mostra o papel do wiki na retenção do conhecimento construído ao longo do tempo e facilitando o acesso a informações necessárias para a realização das tarefas.
+Neste caso, o wiki aparenta ser acessível somente pelos funcionários da empresa.
+O wiki nós já utilizamos desde 2006 […] A gente brinca que, na verdade, a nossa tecnologia de informação chama [Empresa D] Wiki, que P&D e engenharia têm acesso e colocam lá tudo o que deu certo, o que não deu, qual o fornecedor, qual o produto (Empresa D, 2013) .
+A interatividade é a principal característica oferecida pelas redes sociais virtuais, complementando os fóruns de discussão, blogs e wikis.
+A partir da análise dos dados, a tecnologia mais utilizada pelas empresas entrevistadas foi a rede social.
+Em geral, ela tem sido empregada para o monitoramento da reputação da marca e dos consumidores, como pode ser constatado nos depoimentos das empresas B, D e E. Algumas empresas afirmaram monitorar também as redes sociais dos concorrentes.
+Pode-se perceber que as empresas têm utilizado soluções de terceiros, embora algumas optem por realizar o monitoramento internamente, usando equipe própria.
+Exatamente, a comunicação, a área de imprensa monitoramento constante de dados, coisas principalmente, tanto monitoramento em mídia social quanto, por exemplo, em canais já conhecidos de comunicação ou de reclamação, por exemplo, Reclame Aqui, a gente sabe que alguns, que os casos são monitorados e existe um grupo de discussão internamente, pra alinhar a atuação ou posicionamento (Empresa B, 2013) .
+Trabalhamos com Open Innovation, crowdsourcing.
+Estamos presentes em alguma redes sociais que extraem insights desse novo consumidor ou do consumidor já nosso, ou do mercado (Empresa D, 2013) .
+A gente tem atividades de monitoramento da rede social, do ponto de vista de reputação, para proteção da reputação corporativa.
+As redes sociais, como é muito fragmentada, a gente deve ter umas doze Facebook, fanpages das áreas, e a gente monitora isso, também para questão de crise eventual, mas para brasileiros.
+a gente usa também algumas, mais para análise de mapeamento de parceiros, por exemplo, a gente acessa o Portal da Capes e faz uma análise" (Empresa H, 2013).
+O website, e-mail e mecanismos de busca são tecnologias que oferecem acesso à informação, porém possuem interatividade limitada.
+Por sua vez, os fóruns de discussão são tecnologias que permitem a criação de tópicos de debate, onde os participantes podem fazer questionamentos, responder aos demais ou publicar mensagens.
+A Empresa E relata o uso de uma ferramenta específica disponibilizada ao seu público interno para estas trocas de informações, a qual pode ser caracterizada como apoio à inovação e competitividade.
+Então a gente tem lá dentro da Intranet redes que a gente cria comunidades internas aqui da [Empresa E] , então a área de relações governamentais, ou a área de marketing ou a área de supply chain, ele vai lá e cria um share point, que é um lugar onde as pessoas podem criar sua biblioteca com as informações mais importantes que você tem acessível, ou trocar informações, ou registrar manifestações, informações competitivas (Empresa E, 2013) .
+Também com enfoque para a interatividade, os blogs são tecnologias normalmente usadas por pessoas consideradas chave pelas empresas, algumas delas chamadas de lead users .
+Isto faz com que os textos publicados, também chamados posts, mereçam atenção, pois podem afetar a imagem de um produto ou marca.
+Em outra forma de uso, as empresas criam blogs para oferecer um canal de comunicação mais informal com seus consumidores, buscando interatividade através dos comentários nos posts.
+As empresas B, G e H conseguem diferenciar os blogs de outras tecnologias internet, mostrando atenção específica a ela e aos conteúdos postados nos blogs de interesse.
+"Fazemos uma varredura em blogs, em Twitter, Facebook, o que está na rede a gente está analisando, a gente tem contato" (Empresa G, 2013).
+a gente usa muito blogs, YouTube para divulgar nossos lançamentos que a gente conecta com inovação.
+Aqui tem bastante coisa sim" (Empresa H, 2013).
+Eu sei que tem, que existe monitoramento dentro das áreas de vendas e marketing sim, alguns fóruns específicos, a gente tem uma área que eu acho interessante mencionar, uma área super bem estruturada sobre relações corporativas com a imprensa, então existe um monitoramento do ambiente de notícias, então por exemplo, blogs, tem bastante monitoramento da internet sobre o radar do que se fala sobre a [Empresa B] (Empresa B, 2013) .
+Os depoimentos das Empresas B, G e H reforçam o apontado por Droge et al.
+Estes autores destacaram que os blogs têm sido usados nos estágios 9/15Inovação, Desenvolvimento de Novos Produtos.
+, São Carlos, v. 26, n. 1, e1451, 2019 E traz um relato interessante de uso de uma rede social interna para seus cientistas.
+A comparação com o Facebook denota a percepção das características de rede social para o compartilhamento de informações e conhecimento, agrupando cada equipe técnica local em uma estrutura global de pesquisa e desenvolvimento da empresa.
+[…] a gente tem uma ferramenta, que é uma espécie de Facebook interno, para a área técnica, os nossos cientistas, eles têm uma rede lá que eles chamam de [nome da ferramenta omitido] ou coisa assim, parecido com o Facebook.
+Então tem lá essa comunidade fechada, onde tem lá 8 mil e tantas pessoas, e elas trocam informação, desde, olha só esse artigo interessante que saiu na revista Science, ele manda, filtra e todo mundo pode ler a recomendação desse artigo, ou ele pode numa situação específica, em uma situação complicada de desenvolvimento de aplicação de algum produto, e aí esse cara tem uma dúvida, ele pode colocar nessa rede social e alguém ajudar.
+Se o cara da China ou do Nordeste pode dizer: tenta isso, eu já tentei, eu passei por isso.
+Então, é uma ferramenta da comunidade técnica que permite essa troca instantânea de informação, de conhecimento, de indicações, etc., que acelera o processo de inovação.
+Essa é totalmente fechada para os nossos cientistas (Empresa E, 2013) .
+Em suma, o papel das redes sociais tem sido ampliado nas empresas, pois elas permitem este compartilhamento de informações interna e externamente.
+A empresa F resume o interesse nesta tecnologia para o contato com os consumidores, acompanhamento de tendências e monitoramento de concorrentes.
+O trecho final mostra a importância dos conteúdos extraídos das redes sociais para orientar as decisões da empresa.
+[…] então a gente usa, como eu falei, as redes sociais, mecanismos de busca, tanto para buscar referência e ver tendências que estão acontecendo no mundo, ver tendências com relação ao mercado concorrente, o que seu concorrente está fazendo, ver em redes como o Facebook, YouTube, o que os consumidores estão falando, e isto tudo gera informação para a gente poder avaliar as alternativas que estão na mesa, e ajudar a gente a filtrar e orientar para aquilo que faz mais sentido (Empresa F, 2013) .
+Diferente das tecnologias citadas anteriormente, ferramentas de competição de ideias, plataformas de colaboração e ferramentas de web mining são tecnologias mais voltadas para as necessidades das atividades da inovação.
+As ferramentas para competição de ideias têm recebido atenção das empresas que consideram a expressão do consumidor na web importante para melhor definição de seus produtos.
+Enquanto o relato da Empresa A mostra a utilização da tecnologia de forma experimental, o da Empresa E evidencia um questão de coleta, pelo atendimento do consumidor, às vezes ele está migrando, então ele não quer ligar no nosso 0800 ou não mandar um e-mail para o Fale Conosco, aí ele quer falar na rede social, ou quer dar uma sugestão na rede social, aí a gente também tem esse uso (Empresa E, 2013) .
+Dentre os destaques de uso das redes sociais está o caso da Empresa C, no qual a rede social Facebook foi escolhida para um contato mais próximo com os consumidores no estabelecimento de características para um novo empreendimento.
+A Empresa C é uma empresa do ramo imobiliário, e o empreendimento em questão é um edifício, ou seja, estará fisicamente localizado em uma região de uma cidade.
+O relato evidencia o interesse da empresa em diferenciação e também em atingir o maior número de pessoas em âmbito nacional.
+Também pode ser percebida a preocupação em compreender melhor as necessidades dos consumidores, reduzindo a insatisfação.
+A [Empresa C] queria se diferenciar.
+Então resolvemos perguntar para as pessoas o que elas queriam no apartamento delas no lugar de nós decidirmos.
+Porque a gente decide, é claro, com base em pesquisa e tudo mais.
+Mas quem se decepciona, não somos nós.
+Então decidimos fazer diferente.
+Por que não perguntar para as pessoas?
+Mas como nós vamos perguntar, como vamos atingir o Brasil inteiro, falar com todo mundo, e conseguir depois ter todas estas informações transformadas em uma realidade?
+Então, foi quando decidimos ir para as redes sociais, trabalhar com o Facebook (Empresa C, 2013) .
+O Facebook foi utilizado para ampliar o alcance da pesquisa de mercado, além de possibilitar que os próprios consumidores engajados na campanha colaborassem comentando as ideias dos outros.
+Esta interatividade foi percebida pela Empresa C, inclusive comparada a outras tecnologias.
+Então, se não houvesse hoje o Facebook, seria humanamente impossível disponibilizar isto de outra forma.
+Claro que temos e-mail, internet, tem uma facilidade.
+Mas as redes sociais têm uma probabilidade de engajamento, de proximidade e de conversa/diálogo muito maior.
+Até porque não somos nós dialogando com você.
+Somos todos nós dialogando com nós mesmo.
+Você está falando com a [Empresa E] , mas se um colega faz um comentário com você, você responde para ele e o outro viu, achou legal.
+a [Empresa E] , na verdade, faz parte disto.
+Todos construíram algo inovador, e nós fizemos parte disto.
+Isto tudo graças à tecnologia (Empresa C, 2013) .
+Uma das preocupações das empresas ao utilizar redes sociais é a da propriedade intelectual.
+A Empresa 10/15Grützmann, A. et al.
+, São Carlos, v. 26, n. 1, e1451, 2019 monitoramento de redes sociais e blogs e facilita a filtragem e descoberta de assuntos de interesse das empresas.
+Parte de dados também, de tratamento de dados, isso de Big Data, quando a gente faz o estudo, quando pega usando técnicas lá do Hadoop, e vê como isso você pode aplicar de volta, por exemplo, eu estou desenvolvendo simuladores, eu estou desenvolvendo aqui dentro da estratégia corporativa um simulador de indicadores estratégicos pra ajudar no processo de tomada de decisões (Empresa B, 2013) .
+Nós temos algumas ferramentas que entendem quais são os veículos que dá [sic] mais retorno off-line (telefone por exemplo) .
+Então nós conseguimos extrair bastante informação destas tecnologias.
+Então aí entra a questão, até, do Big Data que todo mundo tá falando agora, que a gente consegue extrair estas informações e segmentar estas informações e traçar nosso plano em cima delas (Empresa D, 2013) .
+A gente pode usar aqui uma ferramenta de data mining, como módulo de análise a gente usa um pouco de [inaudível] , Excel, a gente usa também um pouco de integração com design thinking uma parte de também de outros módulos de outras ferramentas externas, que a gente passa aí desde um rol de ferramentas como patentes, publicações científicas, análises de temas de interesse que são postados na internet (Empresa G, 2013) .
+As ferramentas de competição de ideias e as plataformas de cocriação têm sido as tecnologias mais estudadas, segundo o quadro teórico levantado no início desta pesquisa.
+No entanto, assim como na literatura, os resultados desta pesquisa mostram que as iniciativas de utilizar estas tecnologias ainda carecem de resultados que justifiquem os investimentos, conforme Füller et al.
+(2010) apontam que poucas empresas têm implantado estas ferramentas, mas que um número ainda menor consegue estabelecer um direcionamento específico de uso.
+Os autores destacam que este foco, quando existe, está no estágio de ideação.
+Por sua vez, os resultados desta pesquisa vão ao encontro do sugerido por Shaw et al.
+Apenas duas empresas citaram o uso de questionários virtuais relacionados à inovação.
+A empresa E tem utilizado para receber feedback, críticas e sugestões sobre produtos já lançados, enquanto a Empresa H afirma empregar a tecnologia para testes de conceito.
+Ambos os usos mostram uma preocupação em coletar informações mais direcionadas, normalmente em estágios mais avançados do desenvolvimento de novos produtos.
+Os dados coletados nas entrevistas permitiram identificar a importância das tecnologias internet uso mais efetivo na coleta de ideias, conforme mostra o número de desafios lançados.
+A Empresa E relatou que ainda está estudando a tecnologia para usá-la no Brasil, a partir de experiências em outro país.
+A gente fez uma coisa bacana no passado, que foi o [omitido] , foi uma experiência fantástica, da gente usar uma plataforma web para buscar um relacionamento com o cliente, e não clientes, pra saber sobre o carro, o futuro do carro, pra criar um conceito de um carro novo, foi uma experiência realmente muito interessante (Empresa A, 2013) .
+Dentro deste mesmo web site, a gente tem o [omitido] , que a gente fez uns treze desafios nos últimos tempos, e busca essa opinião do consumidor sobre o que ele pensaria para sua cozinha no futuro, pro seu escritório, como seria o lavar ou cuidar do automóvel dele; são todas áreas nas quais a gente tem negócio, mas tenta estimular um brainstorming para essas soluções, então a gente tem isso (Empresa E, 2013) .
+Embora possam existir diferenças conceituais entre as plataformas de competição de ideias e as de cocriação, não foi possível identificar se as empresas que relataram o emprego das primeiras também avançaram para a segunda.
+No universo de empresas entrevistadas, apenas uma destacou o uso de uma plataforma específica para cocriação.
+A empresa H, em meio a outras tecnologias, mencionou mais de uma vez o uso de uma plataforma de cocriação.
+No caso específico da cocriação, é necessário um esforço maior e contínuo para o desenvolvimento das ideias, transformando-as em produtos ou características destes.
+a parte comercial também usa uma ferramenta para gestão de portfólio de fornecedores, a gente usa uma ferramenta para gestão de portfólio que ela também (sic), que a gente fala que ela também é via web, a gente acessa via web, a gente usa partes de documentos pra acessar via web também para utilizar, o que mais a gente (sic)?
+Uma plataforma de coocriação também a gente usa, também Facebook, também redes sociais, mas a gente, a gente usa também, plataforma de coocriação, espera só um pouquinho.
+Plataforma de coocriação a gente também usa, a gente usa web site, a gente usa também web site também com blog incorporado [inaudível] eu acho que são esses que a gente tem usado aqui (Empresa H, 2013) .
+A mineração de dados tem sido empregada pelas empresas para identificar padrões e informações a partir de grandes volumes de dados.
+Normalmente, associa diversas ferramentas para coleta de dados na web e depois seu tratamento, buscando extrair conhecimento aplicável.
+As empresas B, D, E e G citam o uso de ferramentas ou técnicas relacionadas à mineração de dados.
+O emprego destas permite o 11/15Inovação, Desenvolvimento de Novos Produtos.
+, São Carlos, v. 26, n. 1, e1451, 2019 Adicionalmente, os mecanismos de busca têm sido usados pelas empresas de diferentes formas.
+Além da funcionalidade de pesquisas a partir de palavras-chaves e expressões de busca, permitindo explorar informações relacionadas presentes na web, os mecanismos de busca oferecem informações sobre os assuntos mais pesquisados pelos internautas.
+As empresas consideram que as palavras-chaves usadas são indicativos de interesse do consumidor em produtos ou características de produtos, e estes resultados podem direcionar o processo de inovação.
+Os mecanismos de busca também são usados para monitorar concorrentes, possivelmente alimentando ferramentas de estratégia competitiva.
+Website, e-mail e mecanismos de busca oferecem suporte básico para todos os estágios da inovação de produtos, sendo de uso corriqueiro e passível de controle pelas organizações.
+Para complementar, tecnologias como blogs, redes sociais, fóruns de discussão e wikis permitem enfoque na interatividade e comunicação com uma base maior de consumidores.
+O uso destas tecnologias tem sido apontado por pesquisas identificadas na revisão de escopo realizada.
+Os blogs são importantes locais onde lead users podem ser encontrados (Bilgram et al., 2008) para participar dos estágios iniciais e finais de comercialização de produtos (Droge et al., 2010).
+As empresas apontaram a importância do monitoramento da imagem da empresa nos blogs e da presença neles para se comunicar e compreender os consumidores.
+Adicionalmente, as redes sociais são importantes para adquirir conhecimento a partir de pessoas internas e externas à organização (Wi et al., 2011), e podem ser fonte para a inovação (Kaplan & Haenlein, 2010).
+As empresas pesquisadas têm dado forte ênfase no uso das redes sociais para interagir com os consumidores.
+Além de marcar presença no ambiente online e oferecer um canal de comunicação adequado ao interesse dos clientes, as empresas têm monitorado a imagem da empresa e dos concorrentes nas redes sociais.
+Também são apontadas iniciativas para engajamento de consumidores, tendo sido relatado um caso de uso das redes sociais para coletar ideias para um novo empreendimento.
+Os fóruns de discussão são fontes de inovação incremental de produtos (Haavisto, 2012) e podem ser usados para construir comunidades de inovação (Jeppesen & Molin, 2003) e criar boca a boca eletrônico ( electronic word-of-mouth – e-WOM ) no desenvolvimento de produtos (Andreassen & Streukens, 2009).
+Na pesquisa foi verificado que as empresas têm usado os fóruns de discussão com foco no pessoal interno, procurando centralizar e facilitar a comunicação entre os colaboradores.
+Os wikis têm sido usados em conjunto com ferramentas de competição de ideias para obter contribuições para a inovação (Blohm et al., 2011).
+O principal destaque ficou por conta das redes sociais, citadas e usadas por todas as empresas estudadas.
+A interação com os consumidores proporcionada por esta tecnologia parece ter despertado mais interesse, e foram vários os relatos de aplicação, tendo sido utilizadas tanto para oferecer informação quanto para o monitoramento de consumidores e concorrentes.
+O entrevistado da Empresa D destaca a significativa importância do ambiente digital para o faturamento da empresa, inclusive com crescimento contínuo.
+Além do faturamento, a organização identifica que o ambiente eletrônico influencia positivamente as vendas, participação de mercado, entre outros indicadores.
+Ao ser questionado sobre um maior detalhamento do impacto do digital sobre o desempenho da empresa, o entrevistado informa que não pode responder, dando um indicativo de que este é um dado estratégico para empresa.
+Em torno de 40% do faturamento vem pelo digital, então isto é um dos processos.
+Então, a gente tem crescido a cada ano tanto em vendas, Market share e outros passos/métricas que são importantes para a gente avaliar […].
+[Entrevistador]: Mas das tecnologias que você mencionou, você consegue dizer especificamente uma e relacionar com um dos resultados?
+[Respondente]: Não posso te falar (Empresa D, 2013) .
+Por fim, o respondente da Empresa E resume a importância das tecnologias internet para a inovação.
+Além de possibilitar a interação com clientes, ela oferece métricas que auxiliam na gestão do negócio.
+No entanto, seu papel mais importante está relacionado com o suporte dado às pessoas, elemento mais importante da inovação.
+Se as pessoas são o elemento mais importante da inovação, com suas interações em equipes, com suas discussões sobre oportunidades, e se a comunicação ocorre intensamente em plataformas digitais, logo a tecnologia web tem papel significativo (Empresa E, 2013) .
+Os dados pesquisados evidenciam a importância do website para as empresas na centralização de suas informações e contatos.
+Desta forma, é possível segmentar e direcionar os públicos para as tecnologias adequadas a partir do website institucional.
+Junto com o website, o e-mail é uma tecnologia de comunicação usada pelo público interno e que pode ser aberta para o público externo, oferecendo um canal direto entre o consumidor e pessoas ou setores específicos da empresa.12/15Grützmann, A. et al.
+, São Carlos, v. 26, n. 1, e1451, 2019 quais podem ser providas pelas tecnologias com foco na inovação, como ferramentas de competição de ideias, plataformas de cocriação e web mining.
+Por fim, as tecnologias blogs, wikis, fóruns de discussão e redes sociais sustentam a interatividade e comunicação, agregando informações para os estágios finais (lançamento e suporte) do processo de inovação de produtos.
+Embora as empresas possuam seus processos tradicionais de pesquisa e desenvolvimento de novos produtos, o ambiente online apresentou relevância segundo os relatos dos entrevistados.
+No entanto, o foco das empresas parece estar nos estágios iniciais do processo de inovação e, fortemente, no uso de redes sociais.
+Desta forma, podemos dizer que as empresas brasileiras pesquisadas estão praticando a inovação e buscando ouvir o consumidor para agregar valor aos seus produtos.
+Agradecimentos O presente trabalho foi realizado com apoio do Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) ou Fundação de Amparo à Pesquisa de Minas Gerais (FAPEMIG).
+Os autores agradecem os comentários e sugestões dos revisores anônimos.
+Referências Amado, J. S. (2000).
+A técnica de análise de conteúdo.
+Revista de Enfermagem Referência , 1(5), 53-63.
+Recuperado em 15 de agosto de 2011, de https:// web.esenfc.pt/v02/pa/conteudos/downloadArtigo.
+Innovation intelligence: Crowdsourcing in a social network.
+International Journal of Technology Intelligence and Planning , 6(3), 288-299.
+Ideas, technologies and implications for education .
+Bristol: JISC – Technology & Standards Watch.
+Recuperado em 10 de fevereiro de 2012, de techwatch/tsw0701b.pdf.
+Andreassen, T. W., & Streukens, S. (2009).
+Service innovation and electronic word-of-mouth: is it worth listening to?
+Managing Service Quality , 19(3), 249-265. org/10.1108/09604520910955294 .
+Antikainen, M. J., & Vaataja, H. K. (2010).
+Rewarding in open innovation communities - how to motivate members.
+International Journal of Entrepreneurship and Innovation Management , 11(4), 440-456. http:// dx.doi.org/10.1504/IJEIM.2010.032267 .
+Bean, L., & Hott, D. D. (2005).
+Wiki: A speedy new tool to manage projects.
+Journal of Corporate Accounting & Finance , 16(5), 3-8.empresas pesquisadas têm usado o wiki no suporte à gestão do conhecimento, agrupando os conteúdos compartilhados pelas equipes internas.
+No entanto, o wiki pode ser usado junto ao público externo para permitir o compartilhamento de informação de forma mais organizada e objetiva do que, por exemplo, os fóruns de discussão.
+Na visão dos entrevistados, as redes sociais permitem uma diferenciação e aproximação com o público consumidor.
+Dois exemplos mostraram o uso da rede social Facebook para a coleta de ideias para um novo empreendimento de construção civil e o uso de uma rede social interna para os cientistas de uma empresa.
+4 Conclusão As organizações pesquisadas foram caracterizadas como inovadoras e possuem destaque no cenário nacional.
+Os relatos permitem perceber que as práticas de inovação têm sido influenciadas pelo uso de tecnologias internet.
+A literatura pesquisada e delineada no Quadro 2 mostra que a maioria dos estudos tem focado na ideação, porém com o uso de ferramentas de competição de ideias.
+Estas tecnologias podem ser consideradas mais adequadas para a coleta de ideias, pois facilitam e direcionam o processo, muito embora possam desconsiderar o boca a boca online das redes sociais.
+Uma possível recomendação para as empresas brasileiras é o uso destas tecnologias em projetos-piloto para verificar sua efetividade no ambiente online brasileiro.
+As redes sociais foram consideradas as tecnologias mais importantes para a inovação pelas empresas entrevistadas e têm sido usadas tanto para a comunicação com os consumidores quanto para o monitoramento do mercado e dos concorrentes.
+No entanto, as empresas que desejam extrair conhecimento da web para dar suporte ao processo de inovação devem considerar o uso de diferentes tecnologias internet, especialmente aquelas voltadas para a inovação propriamente dita, como competição de ideias e plataformas de cocriação.
+Além disso, não devem descuidar das tecnologias de suporte básico, como o website, e-mail e mecanismos de busca.
+A pesquisa evidenciou que, embora exista preferência por determinada tecnologia, as empresas mantêm investimentos em várias frentes, buscando aproveitar os benefícios de cada uma delas.
+A partir dos dados coletados é possível sintetizar, considerando o processo de desenvolvimento de novos produtos, que as tecnologias internet podem ser utilizadas conforme o estágio de inovação.
+As tecnologias de suporte básico, como website, e-mail e mecanismos de busca, podem disponibilizar informações para todos os estágios da inovação.
+Os estágios iniciais, como ideação, projeto e teste, necessitam de informações mais direcionadas, as 13/15Inovação, Desenvolvimento de Novos Produtos.
+, São Carlos, v. 26, n. 1, e1451, 2019 Innovation Management , 27(1), 66-82. org/10.1111/j.1540-5885.2009.00700.x .
+Ebner, W., Leimeister, J. M., & Krcmar, H. (2009).
+Community engineering for innovations: the ideas competition as a method to nurture a virtual community for innovations.
+R & D Management , 39(4), 342-356.
+Lead-User Research for Breakthrough Innovation.
+Research Technology Management , 54(1), 50-58.
+The World Wide Web: Quagmire or gold mine.
+Communications of the ACM , 39(11), 65-68.
+Frey, K., Luthje, C., & Haag, S. (2011).
+Whom should firms attract to open innovation platforms?
+The role of knowledge diversity and motivation.
+Long Range Planning , 44(5-6), 397-420. lrp.2011.09.006 .
+Füller, J., & Matzler, K. (2007).
+Virtual product experience and customer participation - A chance for customer-centred, really new products.
+Technovation , 27(6-7), 378-387.
+Füller, J., Faullant, R., & Matzler, K. (2010).
+Triggers for virtual customer integration in the development of medical equipment - From a manufacturer and a user's perspective.
+Industrial Marketing Management , 39(8), 1376-1383.
+Füller, J., Hutter, K., & Faullant, R. (2011).
+Why co-creation experience matters?
+Creative experience and its impact on the quantity and quality of creative contributions.
+R & D Management , 41(3), 259-273. org/10.1111/j.1467-9310.2011.00640.x .
+Füller, J., Jawecki, G., & Muhlbacher, H. (2007).
+Innovation creation by online basketball communities.
+Journal of Business Research , 60(1), 60-71. org/10.1016/j.jbusres.2006.09.019 .
+Füller, J., Matzler, K., & Hopper, M. (2008).
+Brand community members as a source of innovation.
+Journal of Product Innovation Management , 25(6), 608-619.
+Gofman, A., & Moskowitz, H. (2009).
+Steps towards a consumer-driven innovation machine for 'ordinary' product categories in their later lifecycle stages.
+International Journal of Technology Management , 45(3/4), 349-363.
+Wiki and the wiki way: Beyond a knowledge management solution .
+Houston: Information Systems Research Center.
+Social Media Discussion Forums and Product Innovation: The way forward?
+Hemetsberger, A., & Godula, G. (2007).
+Virtual customer integration in new product development in industrial markets: The QLL framework.
+Journal of BusinessTo-Business Marketing , 14(2), 1-40. org/10.1300/J033v14n02_01 .Bell, J., & Loane, S. (2010).
+'New-wave' global firms: Web 2.0 and SME internationalisation.
+Journal of Marketing Management , 26(3-4), 213-229. org/10.1080/02672571003594648 .
+Bilgram, V ., Brem, A., & V oigt, K.-I.
+User-centric innovations in new product development — systematic identification of lead users harnessing interactive and collaborative online-tools.
+International Journal of Innovation Management , 12(03), 419-458. org/10.1142/S1363919608002096 .
+Blohm, I., Bretschneider, U., Leimeister, J. M., & Krcmar, H. (2011).
+Does collaboration among participants lead to better ideas in IT-based idea competitions?
+International Journal of Networking and Virtual Organisations , 9(2), 106-122. org/10.1504/IJNVO.2011.042413 .
+Social network sites: Definition, history, and scholarship.
+Journal of Computer-Mediated Communication , 13(1), 210-230.
+The anatomy of a large-scale hypertextual Web search engine.
+Computer Networks and ISDN Systems , 30(1-7), 107-117.
+Open innovation: the new imperative for creating and profiting from technology .
+Boston: Harvard Business School Press.
+Chu, K. M., & Chan, H. C. (2009).
+Community based innovation: its antecedents and its impact on innovation success.
+Internet Research , 19(5), 496-516.
+Clark, K. B., & Fujimoto, T. (1991).
+Product development performance: strategy, organization, and management in the world auto industry .
+Boston: Harvard Business School Press.
+Stage-Gate Systems - a new tool for managing new products.
+Business Horizons , 33(3), 44-54. Cooper, R. G. (2008).
+Perspective: The Stage-Gate®Ideato-Launch Process - Update, What's New, and NexGen Systems.
+Journal of Product Innovation Management , 25(3), 213-232.
+Crossan, M. M., & Apaydin, M. (2010).
+A Multi-Dimensional framework of organizational innovation: a systematic review of the literature.
+Journal of Management Studies , 47(6), 1154-1191.
+Di Gangi, M., Wasko, M. M., & Hooker, R. E. (2010).
+Getting customers' ideas to work for you: learning from dell how to succeed with online user innovation communities.
+MIS Quarterly Executive , 9(4), 213-228.
+Droge, C., Stanko, M. A., & Pollitte, W. A.
+Lead users and early adopters on the web: the role of new technology product blogs.
+Journal of Product 14/15Grützmann, A. et al.
+, São Carlos, v. 26, n. 1, e1451, 2019 Kohler, T., Matzler, K., & Füller, J.
+Avatar-based innovation: Using virtual worlds for real-world innovation.
+Technovation , 29(6-7), 395-407. http:// dx.doi.org/10.1016/j.technovation.2008.11.004 .
+Kozinets, R. V ., Hemetsberger, A., & Schau, H. J.
+The wisdom of consumer crowds collective innovation in the age of networked marketing.
+Journal of Macromarketing , 28(4), 339-354. org/10.1177/0276146708325382 .
+Technovation , 22(12), 761-767.
+Harvard Business Review , 82(7-8), 138-149.
+Efficient structures for innovative social networks.
+Management Science , 56(7), 1127-1145.
+Virtual lead user communities: Drivers of knowledge creation for innovation.
+Research Policy , 41(1), 167-177. respol.2011.08.006 .
+Marchi, G., Giachetti, C., & De Gennaro, P. (2011).
+Extending lead-user theory to online brand communities: The case of the community Ducati.
+McCarthy, E. J., & Perreault, W. D. Jr (2003).
+Essentials of marketing: a global-managerial approach .
+Building the web 2.0 enterprise: McKinsey Global Survey Results .
+Does social software support service innovation?
+International Journal of the Economics of Business , 17(3), 289-311.
+Müller-Seitz, G., & Reger, G. (2010).
+Networking beyond the software code?
+an explorative examination of the development of an open source car project.
+Technovation , 30(11-12), 627-634. technovation.2010.07.006 .
+Virtual customer environments: Testing a model of voluntary participation in value co-creation activities.
+Journal of Product Innovation Management , 26(4), 388-406. org/10.1111/j.1540-5885.2009.00667.x .
+Different roles, different strokes: Organizing virtual customer environments to promote two types of customer contributions.
+Organization Science , 21(2), 554-572. org/10.1287/orsc.1090.0460 .Hewer, P., & Brownlie, D. (2010).
+On market forces and adjustments: Acknowledging consumer creativity through the aesthetics of debadging.
+Journal of Marketing Management , 26(5-6), 428-440. org/10.1080/02672570903458730 .
+Hienerth, C., & Lettl, C. (2011).
+Exploring how peer communities enable lead user innovations to become standard equipment in the industry: Community Pull Effects.
+Journal of Product Innovation Management , 28(1), 175-195.
+Recuperado em 09 de fevereiro de 2012, de crowds.html.
+Howe, V ., Mathieu, R. G., & Parker, J.
+Supporting new product development with the Internet.
+Industrial Management & Data Systems , 100(5-6), 277-284. http:// dx.doi.org/10.1108/02635570010301197 .
+Open innovation: State of the art and future perspectives.
+Discursive construction of 'user innovations' in the open source software development context.
+Information and Organization , 20(2), 111-132. http:// dx.doi.org/10.1016/j.infoandorg.2010.03.002 .
+Instituto Brasileiro de Geografia e Estatística – IBGE.
+PINTEC: Pesquisa de Inovação Tecnológica 2011.
+Janzik, L., & Raasch, C. (2011).
+Online communities in mature markets: why join, why innovate, why share?
+International Journal of Innovation Management , 15(4), 797-836.
+Jeppesen, L. B., & Frederiksen, L. (2006).
+Why do users contribute to firm-hosted user communities?
+The case of computer-controlled music instruments.
+Organization Science , 17(1), 45-63. orsc.1050.0156 .
+Jeppesen, L. B., & Molin, M. J.
+Consumers as co-developers: Learning and innovation outside the firm.
+Technology Analysis and Strategic Management , 15(3), 363-383.
+The impact of the Internet on R&D efficiency: theory and evidence.
+Kaplan, A., & Haenlein, M. (2010).
+The challenges and opportunities of Social Media.
+Business Horizons , 53(1), 59-68. org/10.1016/j.bushor.2009.09.003 .
+Kim, J. H., Bae, Z.-T., & Kang, S. H. (2008).
+The role of online brand community in new product development: case studies on digital product manufacturers in Korea.
+International Journal of Innovation Management , 12(3), 357-376.15/15 Inovação, Desenvolvimento de Novos Produtos.
+, São Carlos, v. 26, n. 1, e1451, 2019 Singhal, N., & Nagar, Y .
+A users search history based approach to manage revisit frequency of an Incremental Crawler.
+International Journal of Computers and Applications , 63(3), 18-22. org/10.5120/10446-5138 .
+Empirical Analysis of Functional Web 2.0 Environments.
+), Web 2.0: The business model .
+Linking innovative product development with customer knowledge: a data-mining approach.
+Tidd, J., Bessant, J., & Pavitt, K. (2005).
+Managing Innovation: Integrating technological, market and organizational change .
+West Sussex: John Wiley & Sons.
+Ulrich, K. T., & Eppinger, S. D. (2004).
+Product design and development .
+Urban, G. L., & Hauser, J. R. (1993).
+Design and marketing of new products .
+Englewood Cliffs: Prentice Hall.
+In: A. S. Silva & J. M. Pinto (Orgs.
+), Metodologia das ciências sociais .
+Marketing Estratégico na Internet .
+In D. Herman, M. Jahn & M. L. Ryan (Eds.
+), Routledge encyclopedia of narrative theory .
+Wheelwright, S. C., & Clark, K. B.
+Revolutionizing product development: quantum leaps in speed, efficiency, and quality .
+New York: Maxwell Macmillan International.
+Wi, H., Oh, S., & Jung, M. (2011).
+Virtual organization for open innovation: Semantic web based inter-organizational team formation.
+Expert Systems with Applications , 38(7), 8466-8476.
+Digital marketing: global strategies from the world' s leading experts .
+Wu, S. C., & Fang, W. C. (2010).
+The effect of consumer-toconsumer interactions on idea generation in virtual brand community relationships.
+Technovation , 30(11-12), 570581.
+Yan, W., Chen, C.-H., Huang, Y ., & Mi, W. (2009).
+A data-mining approach for product conceptualization in a web-based architecture.
+Computers in Industry , 60(1), 21-34.
+Co-Creation: Toward a Taxonomy and an Integrated Research Perspective.
+International Journal of Electronic Commerce , 15(1), 11-48. org/10.2753/JEC1086-4415150101 .O'Reilly, T. (2005).
+Recuperado em 09 de fevereiro de 2012, de Organisation for Economic Co-operation and Development – OECD.
+Oslo Manual Guidelines for Collecting and Interpreting Innovation Data.
+In Organisation for Economic Co-operation and Development.
+The Measurement of Scientific and Technological Activities (3rd ed.).
+Recuperado em 05 de fevereiro de 2012, de oslomanual.
+Piller, F. T., & Walcher, D. (2006).
+Toolkits for idea competitions: a novel method to integrate users in new product development.
+R & D Management , 36(3), 307318.
+Prandelli, E., Verona, G., & Raccagni, D. (2006).
+Diffusion of Web-based product innovation.
+California Management Review , 48(4), 109-136. org/10.2307/41166363 .
+Total design: integrated methods for successful product engineering.
+Rohrbeck, R., Steinhoff, F., & Perder, F. (2010).
+Sourcing innovation from your customer: how multinational enterprises use Web platforms for virtual customer integration.
+Technology Analysis and Strategic Management , 22(2), 117-131.
+Gestão do Desenvolvimento de Produtos: uma referência para a melhoria do processo.
+Sandmeier, P., Morrison, P. D., & Gassmann, O.
+Integrating customers in product innovation: Lessons from industrial development contractors and in-house contractors in rapidly changing customer markets.
+Creativity and Innovation Management , 19(2), 89-106.
+Sawhney, M., Prandelli, E., & Verona, G. (2003).
+MIT Sloan Management Review , 44(2), 77-82.
+Sawhney, M., Verona, G., & Prandelli, E. (2005).
+Collaborating to create: The Internet as a platform for customer engagement in product innovation.
+Journal of Interactive Marketing , 19(4), 4-17. org/10.1002/dir.20046 .
+Semenik, R., & Bamossy, G. (1995).
+Princípios de Marketing: uma perspectiva global .
+Sethi, R., Pant, S., & Sethi, A.
+Web-based product development systems integration and new product outcomes: A conceptual framework.
+Journal of Product Innovation Management , 20(1), 37-56. org/10.1111/1540-5885.201004 .
+Shaw, M. J., Subramaniam, C., Tan, G. W., & Welge, M. E. (2001).
+Knowledge management and data mining for marketing.
+Decision Support Systems , 31(1), 127-137.

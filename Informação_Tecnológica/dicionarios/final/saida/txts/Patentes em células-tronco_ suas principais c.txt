@@ -1,0 +1,373 @@
+ Em Questão , Porto Alegre, v. 26, n. 2, p. 32-57, maio/ago.
+2020 doi: oi.org/10.19132 /1808 -5245262.1 -57 | 32 E-ISSN 1808-5245Patentes em células -tronco: suas principais características e análise de citação Fernanda Bochi Doutoranda ; Universidade Estadual Paulista, Marília, SP, Brasil; nandabochi@gmail.com Ana Maria Mielniczuk Moura Doutora; Universidade Federal do Rio Grande do Sul, Porto Alegre, RS, Brasil; ana.moura@ufrgs.br Resumo: Estudo patentométrico e análise de citação dos documentos de patentes em células -tronco indexados na base de dados Derwent Innovation Index .
+A partir da Lei do Elitismo, fizeram parte deste est udo as 181 patentes mais citadas na temática estudada .
+Após a coleta dos dados, realizou -se a extração das informações que atendessem aos objetivos específicos, tais como os campos número prioritário, classificação internacional de patentes, citação a não patentes e citação a patentes.
+80% das patentes são de empresas com sede nos E stados Unidos da América ; 6,7 %, no Japão; 3,6% , na Inglaterra; aproximadamente 2% , entre França e Suíça; 1,2% , na Dinamarca e Irlanda e as demais empresas (3,3%) estão distribuíd as entre Holanda, Áustria, Alemanha, China e Canadá.
+As patentes foram classificadas em cinco seções da Classificação Internacional de Patentes, sendo a área de Necessidades Humanas a que mais se destacou , com 52,51%.
+As 181 patentes fizeram ao todo 6970 citações a outras patentes, destas, 84 foram mais citadas.
+As patentes que receberam o maior número de citações foram US5486359 -A e US6200806 -B1, ambas depositadas no escritório norte -americano.
+Das 181 patentes, 141 fizeram citação a documentos não patente s. Observou -se que os documentos não patentes mais citados foram as revistas científicas (1426 revistas diferentes citadas ), totalizando 7701 artigos citados (±5,5 artigos/revista).
+Os documentos de patentes contêm muitas informações importantes para a com preensão do desenvolvimento da ciência e da tecnologia.
+Conclui -se que as patentes são fontes que é importante analisar e que estudos mais detalhados sobre citação e os motivos para citar em patentes devem ser realizados.
+1 Introdução Os primeiros estudos com células -tronco foram realizados em camundongos, após a Segunda Guerra Mundial, por volta das décadas de 1950 e 1960.
+Enquanto analisava um tumor no saco escrotal de um camu ndongo, o Patentes em células -tronco: suas principais características e análise de citação Fernanda Bochi e Ana Maria Mielniczuk Moura Em Questão , Porto Alegre, v. 26, n. 2, p. 32-57, maio/ago.
+2020 doi: oi.org/10.19132/1808 -5245262.
+32-57 | 33 E-ISSN 1808-5245pesquisador Leroy Stevens descobriu diversos tecidos, como o ósseo e o sanguíneo, iniciando assim seus estudos sobre células -tronco (MACHADO, 2015; RODRIGUES, 2006).
+Devido ao seu alto poder terapêutico, as célulastronco tornaram -se tema de inte resse mundial.
+Diante disso, universidades, centros de saúde e centros de tecnologia e inovação sentiram a necessidade de pesquisar o assunto e fomentar a patenteabilidade nessa área .
+As patentes são ferramentas importantes para a construção do conheciment o científico e tecnológico, uma vez que colaboram para o desenvolvimento do país em que são depositadas e são fontes dotadas de informações sobre o conhecimento científico e tecnológico (PIMENTA, 2017).
+No entanto, quando se trata de engenharia genética, t al questão provoca discussões de caráter ético, moral, político e religioso, levando -se em consideração as particularidades legais de cada país (FERNANDES, 2008).
+(2014), com o objetivo de compreender o desenvolvimento da pesquisa com células -tronco pluripotentes induzidas (iPS), realizaram um estudo de análise de correlação entre número de documentos de literatura científica e número de documentos de patentes de iPS.
+Nes se estudo , os autores concluíram que as pesquisas com iPS são recentes, u ma vez que a primeira patente foi depositada em 2006, numa universidade do Japão e no Brasil não foram encontrados depósitos de patentes relacionados a essa área .
+Já Santos e Guerrante (2010) traçaram um panorama de como vem sendo reivindicada a proteção n a área no Brasil.
+Elas concluíram que a tecnologia voltada às célulastronco ainda é recente, que circula por diversas áreas do conhecimento e que 30% do que se busca proteger no país se referem às reivindicações de métodos relacionados às aplicações terap êuticas empregando células -tronco.
+Wang, Zhang e Xu (2011) afirmam que estudos métricos em documentos de patentes são comumente aplicados para contagem de patentes, para medir a produtividade e o impacto nas comunidades e para analisar as classificações que mais aparecem, bem como as empresas que mais patenteiam.
+Especificamente sobre a análise bibliométrica em células -tronco, temos os estudos de CantosMateos et al.
+(2012 ), que investigaram a área de células -tronco sob o viés das Patentes em células -tronco: suas principais características e análise de citação Fernanda Bochi e Ana Maria Mielniczuk Moura Em Questão , Porto Alegre, v. 26, n. 2, p. 32-57, maio/ago.
+2020 doi: oi.org/10.19132/1808 -5245262.
+32-57 | 34 E-ISSN 1808-5245palavras -chaves, além do estudo de Zhao e Strotmann (2011), que abordaram a análise de citação em pesquisa com células -tronco.
+A análise de citação, comumente utilizada para medir o impacto da pesquisa, tem como premissa relacionar o citante com o citado, mensurando a qualidade dos trabalhos com base nas fontes de informações utilizadas pela comunidade científica.
+Entende -se a citação como um ato de reconhecimento – por parte do pesquisador – da importância do estudo realizado por determinado autor (MACIAS -CHAPULA, 1998).
+Bornman n e Daniel (2008) reiteram tal afirmativa, reconhecendo que esse tipo de análise é apropriado para a avaliação do desempenho científico.
+Es sa técnica é comumente utilizada para medir o impacto e a visibilidade de autores dentro de uma comunidade científica , permitindo também aferir os tipos de documentos mais citados (GARFIELD, 1972).
+Bornmann e Daniel (2008) afirmam que o impacto das citações está relacionado com outras variáveis, tais como a revista em que são publicados os artigos, as características met odológicas dessas publicações, além da influência, das premiações, das honrarias e do Prêmio Nobel dos cientistas.
+Narin, Noma e Perry (1987) também destacam a premiação pela qualidade do invento como um fator para que as patentes sejam mais citadas.
+Leyde sdorff (2008) considera que os processos de citações da literatura científica são diferentes dos documentos de patentes, entretanto avalia que a análise de citações de patentes é um estudo relevante para o desenvolvimento da Ciência, Tecnologia e Inovação (CT&I ), uma vez que pode ser utilizada para mapear a base científica da patente e para proteger o portfólio industrial, bem como para medir o valor econômico de uma empresa ou país.
+Egger, Seliger e Woerter (2016) afirmam que as citações em patentes são us adas para rastrear a evolução de novos campos da tecnologia, refletindo as mudanças tecnológicas e o crescimento econômico.
+Wang, Zhang e Xu (2011) já haviam considerado as ideias anteriormente mencionadas ao descreverem que as citações de patentes são ind icadores do impacto de uma patente sobre outras, uma vez que as patentes citadas com maior frequência são consideradas como tendo maior influência em Pesquisa e Desenvolvimento ( P&D ).
+Patentes em células -tronco: suas principais características e análise de citação Fernanda Bochi e Ana Maria Mielniczuk Moura Em Questão , Porto Alegre, v. 26, n. 2, p. 32-57, maio/ago.
+2020 doi: oi.org/10.19132/1808 -5245262.
+32-57 | 35 E-ISSN 1808-5245Narin (1976 , 1994) observou que há muita similaridade entre os documento s de literatura científica e os documentos de patentes e que , com base nessa similaridade, é possível aplicar estudos métricos a ambos sob a mesma problematização.
+Glänzel e Meyer (2003) também consideram possíveis e relevantes os estudos bibliométricos em patentes, uma vez que essas investigações são uma forma de mensurar as relações entre ciência, tecnologia e governo.
+Embora Cook (2012) tenha publicado trabalho sobre o assunto, cabe destacar que, n o desenvolvimento deste estudo , observou -se que ainda exi ste uma lacuna quanto à abordagem da citação em patentes de células -tronco, no Brasil e no mundo.
+Esse fato motivou as autoras a pesquisar o assunto em âmbito mundial nos documentos indexados na base Derwent Innovation Index (DII) , a partir do entendimento da importância dos estudos patentométricos para o desenvolvimento da CT&I.
+Os estudos supracitados nos levam a entender que os documentos de patentes são fontes de informações pertinentes à pesquisa científica, porém, devido à sua complexidade, são pouco explorados.
+Sendo assim, entende -se que esta pesquisa, impulsionada pela curiosidade e pelo interesse em compreender como a ciência vem evoluindo e contribuindo para a sociedade nas suas mais variadas necessidades, colaborou para ampliar os estudos nesta t emática na Ciência da Informação.
+Dessa forma, esta pesquisa tem como problematização compreender: Como se caracterizam a produção tecnológica e as citações nas patentes em células -tronco indexadas na base de dados Derwent Innovations Index ?
+Com base no qu e já foi inferido , os objetivos são: investigar as características da produção tecnológica e das citações nas patentes em células -tronco indexadas na base de dados Derwent Innovations Index ; investigar os maiores depositantes das patentes em células -tronco ; identificar os escritórios de depósito das patentes; verificar as classificações dos assuntos das patentes a partir da Classificação Internacional de Patentes ( CIP); investigar as citações às patentes e as citações à literatura não patente .
+Patentes em células -tronco: suas principais características e análise de citação Fernanda Bochi e Ana Maria Mielniczuk Moura Em Questão , Porto Alegre, v. 26, n. 2, p. 32-57, maio/ago.
+2020 doi: oi.org/10.19132/1808 -5245262.
+32-57 | 36 E-ISSN 1808-52452 Metodolo gia A pesquisa caracteriza -se como descritiva com abordagem quantitativa, com viés patentométrico.
+A estratégia de busca foi TS=("Stem* Cell*"), recuperando 32.605 documentos de patentes.
+Devido ao grande volume de dados, sob uma perspectiva diacrônica, u tilizou -se a Lei do Elitismo de Price (1963), tendo como critério os documentos de patentes mais citados (observados no campo de citações da base de dados) , restando 181 patentes a serem analisadas.
+Embora a literatura sugira o uso de uma janela de citação (GLANZEL, THIJS, 2004; MUGNAINI, 2006), neste estudo tal prática não foi aplicada.
+Não houve limite de temporalidade ou de espaço geográfico para a recuperação dos dados, pois foram analisados os dados em âmbito mundial.
+Os dados foram extraídos da base co mo registro completo em extensão .win, gerando -se posteriormente um arquivo simples em extensão .txt.
+Realizaram -se a limpeza e padronização dos dados coletados, limitados aos campos que responderiam aos objetivos da pesquisa (depositante – AE, código da p atente – PN, classificação internacional de patente – IP, citação a documentos não patentes – CR e citação a documentos patentes – CP).
+Posteriormente se utilizaram as ferramentas Notepad ++ e as ferramentas do Microsoft Excel 365 , que proporcionaram a cria ção d os gráficos e tabelas apresentados nos resultados.
+Já para a análise da classificação internacional de patentes e para a identificação da coocorrência das classificações, utilizou -se o software VOSviewer .
+Para a análise dos depositantes, utilizou -se a tabulação do Microsoft Excel 365 , que permitiu especificar quantas vezes determinada patente foi citada por outra.
+A base de dados DII classifica os depositantes em : padronizados (.C), individuais (.
+-Individual) e não padronizados (.
+Foram analisados apenas os depositantes que continham o código padronizado (95 empresas) e que apresentavam mais de nove patentes.
+Para a análise de citação, utilizaram -se os campos CP – citações de patentes e CR – citação a documentos não patentes .
+Das 1 81 patentes deste estudo, apenas duas não fizeram citações a outras patentes.
+Assim como na literatura científica, verificou -se que existem poucas patentes muito citadas e muitas patentes pouco citadas.
+Com o intuito de visualizar com mais atenção os dados da pesquisa, analisaram -se as patentes Patentes em células -tronco: suas principais características e análise de citação Fernanda Bochi e Ana Maria Mielniczuk Moura Em Questão , Porto Alegre, v. 26, n. 2, p. 32-57, maio/ago.
+2020 doi: oi.org/10.19132/1808 -5245262.
+32-57 | 37 E-ISSN 1808-5245citadas 20 vezes ou mais .
+Já no campo CR, que representa a citação dos documentos não patentes , observou -se que , das 181 patentes deste estudo, 141 fizeram algum tipo de citação a documentos não patentes , os quais foram separados em: periódico científico, livros, eventos, entre outros.
+Foi realizada uma pré -limpeza dos dados, desconsiderando 4353 que continham problemas de grafia, nomes incompletos e outros problemas que impossibilitavam qualquer tipo de identificação , tais como "BERES ET AL.
+: "Q1JH43 ", (GENBANK )" e "C. VICARIO -ABEJ&#211 ".
+Após a limpeza e organização, o total de dados trabalhados chegou a 9408, sendo 7701 referentes a artigos de periódicos científicos, 425 a livros e 777 a outros tipos de documentos (e ventos, dicionários, sites).
+Para a análise dos artigos de periódicos , utilizou -se a Lei de Bradford, a fim de identificar os periódicos de maior interesse dos pesquisadores nessa área .
+Os 7701 artigos citados estavam distribuídos em 1426 títulos de periód icos.
+Algumas limitações do estudo foram os registros com informações incompletas e a falta de padronização dos nomes dos inventores, dos depositantes e das citações das patentes e dos documentos não patentes , fato que acabou dificultando a compreensão das informações contidas.
+3 Análise e discussão dos resultados A Tabela 1 apresenta o rol das 15 empresas e instituições com seus respectivos números de patentes depositadas.
+É importante observar que algumas empresas são subsidiárias de empresas -mães ( holdi ng ou matriz), o que significa que as primeiras são legalmente subordinadas às segundas.
+Etzkowitz e Zhou (2017) afirmam que , em uma sociedade baseada no conhecimento, a inovação que antes era dominada pelas empresas vem se inclinando para uma organização cada vez mais colaborativa com o intuito de melhorar os processos que envolvem a CT&I.
+Como podemos observar na Tabela 1, entre os 15 maiores depositantes de patentes em células -tronco, 11 (73,33%) são empresas biofarmacêuticas e centros médicos que estão voltados à produção de subsídios que melhorem a qualidade de vida de pessoas com alguma neoplasia ou à fabricação de produtos de caráter profilático e quatro (26,67%) são universidades.
+Patentes em células -tronco: suas principais características e análise de citação Fernanda Bochi e Ana Maria Mielniczuk Moura Em Questão , Porto Alegre, v. 26, n. 2, p. 32-57, maio/ago.
+2020 doi: oi.org/10.19132/1808 -5245262.
+32-57 | 38 E-ISSN 1808-5245Tabela 1 – Principais depositantes de patentes em células -tronco # Código Depositante Sede Nº Pat.
+% 1 (GERN -C) Geron Corporation EUA 27 5,10% 2 (CGEN -C) Anthrogenesis Corporation EUA 21 3,97% 3 (ETHI -C) Ethicon Endo -Surgery Inc .
+EUA 20 3,78% 4 (UPIT -C) University of Pittsburgh EUA 17 3,21% 5 (KYOW -C) Kyowa Hakko Kogy o Japão 15 2,84% 6 (JOHJ -C) Depuy Synthes Products Inc .
+EUA 14 2,65% 7 (UCWR -C) Case Western Reserve University EUA 14 2,65% 8 (UNMI -C) University Of Michigan EUA 14 2,65% 9 (REGC -C) University Of California EUA 13 2,46% 10 (REGN -C) Regeneron Pharmace uticals Inc. EUA 12 2,27% 11 (KYOW -C) Kyowa Hakko Kirin Co .
+Ltd. Japão 12 2,27% 12 (BIOJ -C) Biogen Idec Inc .
+EUA 11 2,08% 13 (GERN -C) Asterias Biotherapeutics Inc .
+EUA 11 2,08% 14 (IMMD -C) Immunomedics Inc .
+EUA 11 2,08% 15 (GAMB -C) Gambro Blood Collec tion Technologies Inc .
+Suécia 10 1,89% Subtotal 222 41,98% Outros 307 58,02% Total 529 100,00% Fonte: elaborado pelas autoras com base nos dados da pesquisa.
+Nota: O cálculo de % levou em conta o universo de 529 patentes.
+Nas três primeiras posições da Tabela 1 , encontramos as empresas norteamericanas Geron Corporation com 5,10% das patentes, Anthrogenesis Corporation com 3,97% e a Ethicon Endo -Surgery Inc. , com 3,78%.
+As duas primeiras são responsáveis por desenvolver e comercializar produ tos capaz es de retardar a evolução de tumores e até colaborar para que não haja reincidência de doenças imunológicas, metabólicas e inflamatórias .
+Por sua vez , a Ethicon Endo -Surgery Inc. desenvolve, produz e comercializa dispositivos médicos para procedim entos cirúrgicos minimamente invasivos.
+Es sa empresa, juntamente com a DePuy Synthes Products LLC , localizada na 6 ª posição da Tabela (2,65% das patentes desta amostra), são subsidiárias da empresa Johnson & Johnson .
+Em contrapartida, encontramos a Kyowa H akko Kogyo e a Kyowa Hakko Kirin Co. Ltd., respectivamente na 5 ª e na 11 ª posição da tabela (com 2,84% e 2,27% dos depósitos de patentes), ambas com responsabilidades fiscais distintas.
+Alguns estudos sobre análise de redes sociais entre empresas mostram q ue a maior contribuição de uma subsidiária à holding está relacionada com a sua capacidade inovadora, transferência e difusão do conhecimento, existência de matéria -prima e recursos naturais da região, além de mão de obra barata (COSTA; PORTO; PLONSKI, 201 0; JOÃO, 2009).
+Esse fato nos permite Patentes em células -tronco: suas principais características e análise de citação Fernanda Bochi e Ana Maria Mielniczuk Moura Em Questão , Porto Alegre, v. 26, n. 2, p. 32-57, maio/ago.
+2020 doi: oi.org/10.19132/1808 -5245262.
+32-57 | 39 E-ISSN 1808-5245inferir que algumas empresas aqui apresentadas, e que têm essa relação filialmatriz , não realizaram o processo de transferência ou de compra e venda das suas patentes.
+Etzkowitz e Zhou (2017) afirmam que as instituiç ões de ensino superior vêm se reconfigurando em suas ações, ampliando o seu papel de produtora s de ensino e pesquisa, promovendo e atuando em tecnologia e inovação.
+As observações levantadas pelos autores são demonstradas nos resultados desta pesquisa.
+A primeira universidade que apareceu na Tabela 1 foi a University of Pittsburgh , com 3,21% de patentes depositadas ( quarta posição) .
+É um centro internacional de desenvolvimento de aprendizagem e pesquisa, com Comitê de Biossegurança Institucional (IBC) e Com itê de Supervisão de Pesquisa de Células -Tronco Humanas (hSCRO), e depositou patente com University of California (9ª posição, com 2,46% dos depósitos de patentes).
+Esta última também depositou patente com empresas como Cell Genesys Inc .
+Os dados desta pes quisa também mostraram que ainda existem instituições, como a Case Western Reserve University (7ª posição com 2, 65% de patentes depositadas) que não depositam patente com nenhuma outra instituição.
+No entanto , a University of Michigan , localizada na 8 ª posição, com 2,65% do depósito de patentes, tem parceria com a Coulter Pharmaceutical Inc ., comprovando que as instituições de ensino superior vêm assumindo um protagonismo no cenário de inovação e tecnologia que vai além do ensino, da pesquisa e da extensão .
+Assim como nas universidades, podemos verificar que existem empresas que optam por serem as únicas responsáveis pelo depósito de uma patente.
+A Regeneron Pharmaceuticals Inc. , com 2,27% de patentes depositadas (10 ª posição), é uma empresa biotecnológica da qual não há depósito registrado com nenhuma outra empresa, apenas com os inventores da patente.
+A Biogen Idec Inc. (12ª posição com 2,08% das patentes) é outra empresa de biotecnologia, pioneira em Neurociência, que não deposita patentes com outras empr esas.
+Algumas empresas apresentam colaboração no depósito, como a pioneira em medicina regenerativa Asterias Biotherapeutics Inc .
+(13ª com 2.08% de patentes depositadas), responsável por produtos na área de oncologia e neurologia .
+Há patente registrada em seu nome e no da primeira empresa da Patentes em células -tronco: suas principais características e análise de citação Fernanda Bochi e Ana Maria Mielniczuk Moura Em Questão , Porto Alegre, v. 26, n. 2, p. 32-57, maio/ago.
+2020 doi: oi.org/10.19132/1808 -5245262.
+32-57 | 40 E-ISSN 1808-5245Tabela 1, a Geron Corporation .
+Da mesma forma, a Immunomedics Inc. (2,08% de depósito de patentes) registrou patente em parceria com o Grupo Bayer e com a Samsung BioLogics Co. , Ltd. para fabricar hRS7, um anticorpo hum anizado de sua propriedade.
+Por sua vez, a Gambro Blood Collection Technologies Inc ., com 1,89% das patentes (15 ª posição), também apresentou depósito com outras empresas , como a Cobe Laboratories .
+No Gráfico 1, com base em 100% das empresas sedes, verific ou-se que mais de 80% das patentes são de empresas com sede nos Estados Unidos da América ( EUA ); 6,7% , no Japão; 3,6% , na Inglaterra ; aproximadamente 2% entre França e Suíça; 1,2% , na Dinamarca e Irlanda e as demais empresas (3,3%) estão distribuídas entre Holanda, Áustria, Alemanha, China e Canadá.
+Esse resultado demonstra que os Estados Unidos ainda são o país que, além de concentrar o maior número de empresas de biotecnologia, mais desenvolve pesquisa em células -tronco visando à sua patenteabilidade .
+Cab e destacar que a pluralidade biológica e genética se tornou elemento essencial para o avanço e desenvolvimento da biotecnologia.
+Sendo assim, de acordo com Zucoloto e Freitas (2013), enquanto a diversidade biológica se concentra em países emergentes, os do mínios da biotecnologia pertencem a países de economia avançada.
+Essas a firmativas se confirmam ao localizarmos a China no Gráfico 1.
+Dados do Indicador de Propriedade Intelectual Mundial (WIPO, 2017), indicam que a China permaneceu liderando o crescimento global de depósitos de patentes (21,5%), marcas (+30,8%) e desenho indust rial (+14,3%) nos últimos anos.
+Os E UA, que exercem uma influência preponderante em pedidos de patentes em células -tronco, certamente em virtude de sua legislação mais ampla e flexív el, cresceram apenas 2,7% em pedidos de patentes em âmbito global.
+Estudos realizados por Beuzekom e Arundel (2006) e pelo Instituto Nacional de Propriedade Industrial (INPI ) (2007) mostraram que os E UA se destaca m há bastante tempo em pesquisas e patentes de biotecnologia.
+Segundo os autores (BEUZEKOM; ARUNDEL, 2006), o país foi o que mais depositou patentes nessa área no escritório da Europa, seguido do Japão e da França.
+Tais afirmações são analisadas na subseção a seguir.
+Patentes em células -tronco: suas principais características e análise de citação Fernanda Bochi e Ana Maria Mielniczuk Moura Em Questão , Porto Alegre, v. 26, n. 2, p. 32-57, maio/ago.
+2020 doi: oi.org/10.19132/1808 -5245262.
+32-57 | 41 E-ISSN 1808-5245 Gráfico 1 – Países -sede das empresas depositantes de patentes em células -tronco Fonte: elaborado pelas autoras com base nos dados da pesquisa.
+Além da empresa Kyowa Hakko Kogyo , vista na Tabela 1, outras empresas e universidades japonesas fizeram depósitos de patentes em célulastronco, levando o país ao segundo lugar entre as maiores depositantes do corpus desta pesquisa.
+Conforme Cyranoski (2008), a University of Kyoto adquiriu a primeira patente mundial de iPS, solicitando proteção no Japão por meio da via Patent Cooperation Trea ty (PCT).
+De acordo com os pesquisadores, espera -se que a patente internacional cubra as células -tronco de todas as espécies.
+Com exceção da China, todos os países no Gráfico 1 são membros da Organização para a Cooperação e o Desenvolvimento Econômico (OCD E), que tem como objetivo manter a estabilidade financeira dos países -membros e ajudar os demais países a desenvolverem as suas economias.
+No Gráfico 2 podemos verificar que , no domínio internacional , tivemos a WIPO (World Intellectual Property Organizatio n ou OMPI – Organização Mundial de Propriedade Intelectual) com 65% das solicitações de depósito prioritário na via PCT (WO).
+Em âmbito nacional, foram dois escritórios escolhidos, sendo 30% depósito prioritário nos EUA e apenas 1% no escritório alemão.
+Po r fim, no âmbito regional, tivemos o escritório europeu (EPO) com 4% das invenções prioritariamente protegidas nele.
+É importante destacar que , pela WIPO, é possível apresentar pedido simultaneamente aos mais de 150 países -membros do PCT.
+No entanto, mesm o que o pedido seja feito simultaneamente para todos os países que aderiram à via Patentes em células -tronco: suas principais características e análise de citação Fernanda Bochi e Ana Maria Mielniczuk Moura Em Questão , Porto Alegre, v. 26, n. 2, p. 32-57, maio/ago.
+2020 doi: oi.org/10.19132/1808 -5245262.
+32-57 | 42 E-ISSN 1808-5245PCT, a patente não será necessariamente aceita em todos eles, pois isso depende de análise por parte do escritório.
+Um estudo realizado por Scartassini et al .
+(2018) mostrou que, das 64.315 patentes protegidas prioritariamente no Brasil , somente 190 estenderam seu pedido de proteção pela via PCT.
+Desse modo, a solicitação de proteção através da via PCT pode não ser uma prática comum, pelo menos no Brasil.
+Gráfico 2 - Registro de patentes prioritárias em células -tronco por escritórios (N=181) Fonte: Elaborado pelas autoras com base nos dados da pesquisa.
+Quanto às famílias de patentes, verificou -se que as empresas e instituições de ensino fizeram ao todo 3391 depósitos em 3 6 escritórios diferentes.
+Observa -se, no Gráfico 3 , que as patentes depositadas foram distribuídas, não de forma harmônica, entre países desenvolvidos e emergentes.
+Conforme se observa, dos 36 escritórios onde foram realizados depósitos de patentes em célu las-tronco, o que se destaca é o escritório dos EUA , com 34,17% dos depósitos.
+De acordo com Zucoloto e Freitas (2013), se observarmos as patentes depositadas no mundo por campo tecnológico, esse país permanece liderando no que se refere à biotecnologia.
+Rocha, Quintella e Torres (2012) , ao analisar os artigos e as patentes sobre polímeros biocompatíveis aplicados da engenharia de tecidos, verificaram que os EUA lideram tanto em publicação de artigos científicos, quanto em patentes.
+Patentes em células -tronco: suas principais características e análise de citação Fernanda Bochi e Ana Maria Mielniczuk Moura Em Questão , Porto Alegre, v. 26, n. 2, p. 32-57, maio/ago.
+2020 doi: oi.org/10.19132/1808 -5245262.
+32-57 | 43 E-ISSN 1808-5245Gráfico 3 – Regi stro de patentes não prioritárias de células -tronco por escritórios Fonte: Elaborado pelas autoras com base nos dados da pesquisa.
+Nota: Distribuição feita com base nos 3391 depósitos.
+Em 2001, o então presidente dos EUA Georg e W. Bush vetou o financiamento federal para pesquisa com células -tronco embrionárias, restringindo -o para pesquisa com materiais de linhagens já existentes .
+Entretanto , o relatório de Indicadores de Propriedade Intelectual Mundial (WIPO, 2017) aponta o es critório dos Estados Unidos como o segundo maior concedente de patentes no mundo em 2016 (BEUZEKOM ; ARUNDEL, 2006, 2009).
+Zucoloto e Freitas (2013) , ao analisarem a legislação de patentes em Patentes em células -tronco: suas principais características e análise de citação Fernanda Bochi e Ana Maria Mielniczuk Moura Em Questão , Porto Alegre, v. 26, n. 2, p. 32-57, maio/ago.
+2020 doi: oi.org/10.19132/1808 -5245262.
+32-57 | 44 E-ISSN 1808-5245Biotecnologia dos EUA, afirmam que o s documento s não deixam claro o que não pode ser patenteado.
+O EPO, com 13,09%, foi o segundo escritório com maior número de depósitos de patentes e, embora tenha tradição em pesquisas na área de biotecnologia , no relatório geral da WIPO (2017) aparece como o quinto maior escritório do mundo em depósitos de patentes em 2016 (FREITAS ; BIANCHI , 2013).
+(2014) , com o intuito de averiguar os avanços em pesquisa e inovação em iPS, concluíram que , dos 12 escritórios localizados, o da WIPO (378 depósitos) era detentor do maior n úmero de depósitos, seguido dos EUA (93 depósitos) e da China (43 depósitos), ficando o escritório europeu na sexta posição , com nove depósitos.
+De acordo com Diniz e Avelino (2009), muitos países, entre eles Brasil, França e Noruega , entre outros, permite m pesquisa com embriões congelados remanescentes de clínicas de reprodução assistida.
+Outros países, como no caso do Japão e da Austrália, além de permitirem pesquisa com embriões excedentes, autorizam a produção de embriões para fins exclusivos de investi gação científica.
+O Japão foi pioneiro no pedido de iPS e, certamente, por isso segue sendo citado.
+Entretanto Sousa (2013) e Beuzekom e Arundel (2009) mostram que ainda existe uma tímida preocupação do Japão quanto ao depósito de patentes em biotecnologia , o que levou o poder público des se país a investir em diversas medidas para fomentar a inovação nes sa área.
+Já a Austrália é um país que vem se destacando tanto pelas suas pesquisas em biotecnologia, quanto por seu investimento em patentes n a área .
+A legi slação na Austrália, país membro da OCDE e integrante da WIPO, sofreu várias modificações, permitindo o patenteamento de células embrionárias e células -tronco adultas para fins de pesquisa (INPI, 2007).
+O Gráfico 2, que apresenta os depósitos de patentes prioritárias, mostra que a WIPO é responsável por 65% das patentes.
+No entanto, quando analisadas as famílias de patentes, a WIPO encontra -se em quinto lugar, com 6,49% dos pedidos de patentes via PCT, seguida da China (3,33%), da Alemanha (3,24%), do Cana dá (2,92%) e da Espanha (1,86%) .
+No estudo de Machado (2015), a Patentes em células -tronco: suas principais características e análise de citação Fernanda Bochi e Ana Maria Mielniczuk Moura Em Questão , Porto Alegre, v. 26, n. 2, p. 32-57, maio/ago.
+2020 doi: oi.org/10.19132/1808 -5245262.
+32-57 | 45 E-ISSN 1808-5245China se destaca como o segundo maior produtor de artigos científicos originais, mostrando que é um país que vem se preocupando com pesquisa e tecnologia .
+Dados gerais da WIPO (2017), que analisou globalmente a propriedade intelectual do ano de 2016 , apontam que a República da Coreia , que neste estudo se destacou entre os dez escritórios com maior número de pedidos de patentes, com 2,89% , em células -tronco, foi o único escritório em que o índic e geral de concessão de patentes diminuiu no ano de 2016 em relação a anos anteriores.
+Enquanto no Japão o índice de concessão aumentou em 12%, no Canadá, o aumento de concessão de patentes foi 9%, o Brasil teve um aumento de 5,6% e a Rússia , um aumento de 1,2%; porém a República da Coreia diminuiu 1,9% , saindo, de acordo com o relatório da WIPO (2017), de 65% das concessões de patentes para 63,1%.
+Conforme o INPI (2007), a Índia, com 2,03% de patentes depositadas, precisou trabalhar com os problemas de po breza e subdesenvolvimento ao mesmo tempo que se viu obrigada a crescer em tecnologia e inovação.
+Após algumas modificações na Lei de Patentes da Índia, causadas pelas emendas de 1999, 2002 e 2005, passou a ser possível conceder patentes para produtos em qualquer campo tecnológico, químico, alimentício e farmacêutico.
+De acordo com a lei, não é patenteável uma invenção considerada inútil, óbvia ou contrária às leis naturais estabelecidas.
+O Brasil, com 1,00% de depósito de patentes em células -tronco, se destaca pelos seus recursos naturais e diversidades biológicas, o que pode leválo à liderança no que diz respeito à invenção em biotecnologia (ZUCOLOTO; FREITAS, 2013).
+No entanto, sua Lei de Biossegurança impõe algumas restrições à manipulação de embriões humanos , e a lei brasileira de propriedade industrial, nº 9.279, de 14 de maio de 1996, no art.
+18 (I) , diz: "Não é patenteável [.]
+o que for contrário à moral, aos bons costumes e à segurança, à ordem e à saúde pública [.]".
+Sendo assim, podemos infer ir que, no que tange à solicitação de patentes em células -tronco, o Brasil não é um país que desperte o interesse dos demais países, e is so pode estar relacionado com as restrições de sua legislação.
+Também os escritórios como os da Itália, da Dinamarca, d e Portugal, da Eslováquia e do Vietnã apresentaram apenas um depósito, Patentes em células -tronco: suas principais características e análise de citação Fernanda Bochi e Ana Maria Mielniczuk Moura Em Questão , Porto Alegre, v. 26, n. 2, p. 32-57, maio/ago.
+2020 doi: oi.org/10.19132/1808 -5245262.
+32-57 | 46 E-ISSN 1808-5245demonstrando que não são países que atraem a proteção de patentes na área de células -tronco, diferentemente do que ocorre com os EUA.
+Em relação à CIP, conforme vemos na Tabela 2, das oito grandes áreas existentes, as patentes desta pesquisa foram classificadas em cinco áreas , sendo a área de Necessidades humanas a que mais se destaca, com 52,51%, seguida da Química e Metalúrgica , com 42,13%.
+Podemos inferir que es ses resultados estão relacionados ao fato de a maioria dos depositantes ser empresas biotecnológicas que atuam na área de farmacologia e na pesquisa com células -tronco, na busca de químicos e instrumentos que promovam qualidade de vida para a s pessoas com alguma patologia , tais como as neoplásicas.
+Das empresas observadas na Tabela 1, a DePuy e a Case Western Reserve University já patentearam inventos em todas as seções mencionadas na Tabela 2, demonstrando que uma patente pode ser classificada em diversos códigos, dependendo da especificidade e complexidade do invento.
+Tabela 2 – CIPs suas ocorrências Seções Ocorrências % A – Necessidades humanas 1822 52,51% C – Química; Metalurgia 1462 42,13% G – Física 129 3,72% B – Operações de processamento; Transporte 46 1,33% D – Têxteis; Papel 11 0,32% Total 3470 100,00% Fonte: Elaborado pelas autoras com base nos dados da pesquisa.
+Com 16 clusters visíveis , representados pelas suas respectivas cores, na Figura 1 as classificações com maior força, apresentando centralidade e maior relação com as demais classificações, encontram -se na área de Química (seção C), seguida pela área de Necessidades humanas (seção A), e com menos força pelas áreas de Operações de processamento e transporte (B), Física (G) e Têxteis e papel (D).
+Além diss o, é possível observar que o C12N -005/06 , com maior força e centralidade, estabelece maior relação com as demais classificações, ou seja, maior força de links com as outras CIPs, destacando -se das demais.
+Essa classificação, de maneira mais ampla, trata da propagação, conservação ou manutenção de micro -organismo s, de engenharia genética e de meios de cultura, contemplando a área estudada.
+Patentes em células -tronco: suas principais características e análise de citação Fernanda Bochi e Ana Maria Mielniczuk Moura Em Questão , Porto Alegre, v. 26, n. 2, p. 32-57, maio/ago.
+2020 doi: oi.org/10.19132/1808 -5245262.
+32-57 | 47 E-ISSN 1808-5245Figura 1 - Clusters das CIPs em células -tronco Fonte: Elaborado pelas autoras com base nos dados da pesquisa.
+Das classificações apresentadas acima, a A61K -031/17, que se refere a compostos orgânicos nitrogenados como ureia, tioureia, carmustina, entre outros , utilizados na preparação e composição de fármacos , é um cluster forte, porém isolado, indicando a importância dessa classificação para a indústria biofarmacêutica, e a sua independência das demais CIPs .
+Quanto à citação de patentes, Wang, Zhang e Xu (2011) e Chang, Wu e Leu ( 2010 ) reiteram a importância dos estudos patentométricos, pois entendem que as patentes altamente citadas revelam as patentes mais importantes e estabelecem a base da tecnologia e inovação.
+Conforme descrito no Manual para estatísticas de patentes da OCDE (2009) , as citações às patentes permitem rastrear os efeitos da propagação do conhecime nto de uma tecnologia, bem como aferir a curva de obsolescência das tecnologias.
+Compreendendo -se a importância da pesquisa e dos avanços tecnológicos em células -tronco para o desenvolvimento da medicina regenerativa, na Tabela 3 estão elucidadas as patent es que foram mais citadas entre as 181 patentes deste estudo.
+Spinak (2003) afirma que , se uma patente é altamente citada , é possível que e la represente um avanço tecnológico muito relevante, o que indica também o seu valor comercial.
+Nes se sentido, obse rvou-se que entre as patentes representadas na Tabela 3, 100% delas foram depositadas no escritório norteamericano, mostrando um potencial tecnológico muito forte nos EUA, nes sa temática.
+As patentes citadas mais vezes foram, com 40 citações (0,26%), a US5486359 -A e a US6200806 -B1, classificadas , respectivamente, A61K35/12 e C12N5/08 .
+A primeira trata de preparações para finalidades médicas, Patentes em células -tronco: suas principais características e análise de citação Fernanda Bochi e Ana Maria Mielniczuk Moura Em Questão , Porto Alegre, v. 26, n. 2, p. 32-57, maio/ago.
+2020 doi: oi.org/10.19132/1808 -5245262.
+32-57 | 48 E-ISSN 1808-5245odontológicas ou higiênicas e a segunda classificação trata de propagação, conservação e manutenção de microrganismo s e engenharia genética.
+Por sua vez, observou -se que as patentes mais citadas , com exceção da primeira, estão na seção C – química e metalurgia .
+As patente s US5827735 -A (0,20%) e US5736137 -A (0,15%) foram classificadas em química orgânica (C07) , em pept ídeos.
+Já as demais patentes US6090622 -A (0,18%), US5226914A (0,15%) , US5906934 -A (0,15%), US5968829 -A (0,14%) , US5843780 -A (0,14%) , US5591625 -A (0,13%) e US5672499 -A (0,13%) foram todas classificadas em C12 (bioquímica), mais especificamente em C12N, mic roorganismos ou enzimas, engenharia genética.
+Essa predominância se justifica pelo fato de a célula -tronco estar localizada na seção C, mais precisamente em C12N.
+Tabela 3 – Citação a documentos de patentes em células -tronco # Patentes Citadas Citações % 1 US5486359 -A 40 0,26% 2 US6200806 -B1 40 0,26% 3 US5827735 -A 31 0,20% 4 US6090622 -A 28 0,18% 5 US5226914 -A 23 0,15% 6 US5736137 -A 23 0,15% 7 US5906934 -A 23 0,15% 8 US5968829 -A 22 0,14% 9 US5843780 -A 22 0,14% 10 US5591625 -A 21 0,13% 11 US567249 9-A 21 0,13% Subtotal 294 1,89% Outras 15.263 98,11% Total 15.557 100,00% Fonte: Elaborado pelas autoras com base nos dados da pesquisa.
+Nota: O cálculo de % levou em conta o universo de 15 .557 patentes que foram citadas nas 181 patentes deste est udo.
+No Gráfico 4, podemos observar que, dos 424 livros citados, 13,21% deles não continha m ano de publicação, e para indicá -los no gráfico, utilizou -se a sigla SD (sem data ).
+11,56% são livros de 1987 e as obras com menor número de citação são as de 201 6 e 2012 , com 0,24%.
+Segundo Urbizagástegui Alvarado (2012 .
+2002 ), a literatura científica envelhece ao deixar de ser citada e a cada ano aproximadamente 10% das publicações deixam de ser citadas por tornarem -se obsoletas.
+Egghe e Rosseau (2000) trabalham com a obsolescência Patentes em células -tronco: suas principais características e análise de citação Fernanda Bochi e Ana Maria Mielniczuk Moura Em Questão , Porto Alegre, v. 26, n. 2, p. 32-57, maio/ago.
+2020 doi: oi.org/10.19132/1808 -5245262.
+32-57 | 49 E-ISSN 1808-5245da publicação por meio das análises sincrônica e diacrônica, das quais com a primeira, analisam -se as publicações observando -se o passado, e com a segunda, analisam -se as publicações observando -se o futuro .
+Dessa forma, é possível infe rir que as análises sincrônica e diacrônica também se aplicam aos documentos de patentes.
+Com base nas datas prioritárias das patentes que estão entre 1984 e 2012 , é possível observar que houve um resgate sincrônico da literatura, seja para refutar o inven to, seja para enfatizar a autenticidade da patente.
+Observando que o primeiro pedido de patente é de 1984 e que o livro mais antigo é de 1968, podemos inferir que há um resgate literário de , no mínimo , 16 anos, assegurando que o s usos dos documentos cientí ficos ascendentes são importantes para a fundamentação teórica dos documentos de patentes.
+Gráfico 4 - Comparação temporal entre livros citados e a data prioritária da patente Fonte: Elaborado pelas autoras com base nos dados da pesquisa.
+Nota: Para es ta análise utilizou -se a data prioritária das patentes , que é a data do primeiro depósito.
+Com base nos dados apresentados, é possível constatar que os documentos mais citados em patentes são as revistas científicas.
+Neste estudo, aproximadamente 45,54% d os documentos não patentes citados foram revistas científicas.
+Para identificar os principais títulos de periódicos citados pelas patentes em células -tronco , aplicou -se a Lei de Bradford, que assegura que existem poucos periódicos com muita produtividade e muitos periódicos com pouca produtividade.
+Seguindo a lei, dispusemos os periódicos de forma decrescente de produtividade de artigo.
+Após es sa organização, realizou -se o cálculo Patentes em células -tronco: suas principais características e análise de citação Fernanda Bochi e Ana Maria Mielniczuk Moura Em Questão , Porto Alegre, v. 26, n. 2, p. 32-57, maio/ago.
+2020 doi: oi.org/10.19132/1808 -5245262.
+32-57 | 50 E-ISSN 1808-5245necessário para obter as zonas de produtividade, que no estudo de Bradford foram três zonas (núcleo e mais duas zonas).
+Conforme podemos verificar na Tabela 4, os 1426 títulos de periódicos foram agrupados em quatro zonas (o núcleo e mais três zonas).
+A primeira zona , que corresponde ao núcleo, é formada pelos cinco periódicos (0 ,35%) com maior número de citações, totalizando 2006 artigos citados (26,05%), o que equivale a aproximadamente 400 artigos por periódico.
+Já as zonas 1 e 2 contabilizaram respectivamente 23,92% e 25,05% dos artigos com citações médias.
+Por fim a zona 3 , com 1129 periódicos (79,01%) , produziu conjuntamente 1924 artigos citados, não chegando a dois artigos citados por periódico.
+Como podemos observar na Tabela 4, o núcleo apresenta os cinco periódicos mais utilizados para a fundamentação teórica dos documen tos de patentes em células -tronco e as demais zonas apresentam um aumento no número de periódicos com uma redução da produção de artigos científicos.
+Tabela 4 – Núcleo e zonas dos periódicos citados pelas patente s analisadas Zonas Periódicos % Artigos % Núcleo 5 0,35% 2006 26,05% Zona 1 50 3,51% 1842 23,92% Zona 2 242 16,97% 1929 25,05% Zona 3 1129 79,17% 1924 24,98% Total 1426 100,00% 7701 100,00% Fonte: Elaborado pelas autoras com base nos dados da pesquisa.
+Com base na categorização dos periódic os estabelecida pelo Journal Science Report (JCR) , podemos inferir, de acordo com o Quadro 5, que os periódicos mais citados nas patentes em células -tronco são multidisciplinares.
+Essa característica é comum à própria área de biotecnologia, que desenvolve produtos e processos tendo como objeto os agentes biológicos.
+A multidisciplinaridade é vista nas atividades desenvolvidas nas áreas de Farmacêutica, Agricultura, Química, Física, Medicina, entre outras.
+Machado (2015) , em seu estudo sobre células -tronco, ao aplicar a Lei de Bradford , obteve no núcleo nove periódicos com ênfase em "[.]
+medicina, hematologia e oncologia.".
+Os resultados apresentados pelo autor também Patentes em células -tronco: suas principais características e análise de citação Fernanda Bochi e Ana Maria Mielniczuk Moura Em Questão , Porto Alegre, v. 26, n. 2, p. 32-57, maio/ago.
+2020 doi: oi.org/10.19132/1808 -5245262.
+32-57 | 51 E-ISSN 1808-5245mostraram que os periódicos com produção científica na área de células -tronco dos países pertencentes ao agrupamento Brasil, Rússia, Índia, China e África do Sul (BRICS ) refletem a caracterí stica multidisciplinar da área.
+Quadro 5 - Periódicos da primeira zona de Bradford (Núcleo) Periódico Número de citações País de publicação Categorias (JC R) Proceedings of the National Academy of Sciences of the United States of America 558 Estados Unidos Multidisciplinar Science 448 Estados Unidos Multidisciplinar Blood 371 Estados Unidos Hematologia Nature 369 Inglaterra Multidisciplinar Cell 260 Estados Unidos Biologia Celular Fonte: Elaborado pelas autoras com base nos dados da pesquisa.
+Além disso, cabe destacar que, apesar do tema células -tronco ser bastante específico, existe uma variedade quanto à categoria de assuntos dos periódicos citados .
+Obviamente, dos 1426 periódicos citados, a grande maioria refere -se a alguma subárea da saúde.
+No entanto, como visto acima, dos periódicos com maior número de citações, apenas dois deles estão relacionados à área da saúde ( Blood e Cell), as demais revis tas são categorizadas como multidisciplinar es.
+Ao relacionarmos esses resultados com as patentes mais citadas, observamos que os assuntos das patentes mais citadas se referem às subclasses C12N e A61K, que são consideradas classificações que atendem a área da Biotecnologia, classificada por Glänzel e Meyer (2003) como uma área multidisciplinar.
+É importante destacar que, das cinco revistas mais citadas, quatro delas têm como país de publicação os EUA e apenas uma tem como país de publicação a Inglaterra.
+A o longo deste estudo, observou -se que os EUA lideraram como depositante de patentes em células -tronco e o seu escritório de patentes foi o que mais recebeu pedidos de proteção nes sa área, o que nos permite inferir que esse país tem um forte potencial tecno lógico e científico em células -tronco.
+Com base nos resultados obtidos nas citações de documentos não patentes, foi possível observar que existe uma cultura de citar outros Patentes em células -tronco: suas principais características e análise de citação Fernanda Bochi e Ana Maria Mielniczuk Moura Em Questão , Porto Alegre, v. 26, n. 2, p. 32-57, maio/ago.
+2020 doi: oi.org/10.19132/1808 -5245262.
+32-57 | 52 E-ISSN 1808-5245documentos além dos periódicos, embora estes últimos sejam citados com maior frequ ência.
+Conforme já se comentou anteriormente , autores como Garfield (1972) e Macias -Chapula (1998) apresenta ram vários motivos para citar outras obras na literatura científica.
+No entanto, observa -se que nos documentos de patentes , citar outros documentos ou até mesmo outras patentes vai além do reconhecimento ao autor/inventor citado.
+Citar em documentos de patentes tem como viés o reconhecimento do ineditismo da invenção ou a contestação por falta de tal ineditismo.
+As referências de uma patente refletem o estado da arte e , por sua vez , asseguram que a invenção sofreu influência das obras citadas.
+4 Considerações finais O estudo mostrou que , das 181 patentes prioritárias ( corpus do estudo), 65% tiveram seus pedidos feitos prioritariamente no escritório da WIPO, 30% n o escritório dos EUA, 4% n o Europeu e 1% n o escritório alemão.
+No entanto, ao analisar mos os escritórios das famílias de patentes, os EUA novamente se destacaram, seguido s dos escritórios europeu, japonês e australiano.
+A variedade de escritóri os de patentes apresentados neste estudo e a distribuição das patentes protegidas neles estão diretamente relacionadas à legislação de propriedade intelectual de cada país e ao interesse tecnológico que esses escritórios despertam nos pesquisadores e na in dústria.
+Em relação aos assuntos das patentes, as maiores incidências estão na área de Necessidades humanas (seção A) , seguida da área deQuímica (seção C) .
+Para as patentes em células -tronco, a classificação C12N -005 foi a que obteve maior destaque .
+Essa CIP se refere a células não diferenciadas de seres humanos, animais ou plantas, suas manutenções e meios de cultura.
+As 181 patentes mais citadas demonstraram que a maioria das empresas e instituições de ensino superior que realizaram depósitos em célula s-tronco está sediada nos EUA.
+Além disso, a análise dos depositantes permitiu verificar que existe uma potencial parceria entre indústrias, entre as próprias universidades e entre indústrias e universidade s no que se refere a pedidos de patentes.
+Assim, essa análise mostrou que os EUA ainda são o país que, além de concentrar o Patentes em células -tronco: suas principais características e análise de citação Fernanda Bochi e Ana Maria Mielniczuk Moura Em Questão , Porto Alegre, v. 26, n. 2, p. 32-57, maio/ago.
+2020 doi: oi.org/10.19132/1808 -5245262.
+32-57 | 53 E-ISSN 1808-5245maior número de sedes de empresas de biotecnologia, mais desenvolve pesquisa em células -tronco visando à patenteabilidade.
+O indicador de citação permitiu inferir que estudos patent ométricos são importantes para verificar a influência que a literatura científica e as patentes têm sobre outras patentes.
+Verificou -se que, entre as patentes citadas mais de 20 vezes , 100% delas foram depositadas prioritariamente nos EUA, o que demonstra forte potencialidade tecnológica do país em células -tronco.
+Para as citações a documentos não patentes , observou -se que existe um resgate sincrônico da literatura para fundamentar teoricamente as patentes.
+Além disso, quanto à citação de documentos não pat entes , o destaque fica para os periódicos científicos.
+Com base nos cinco periódicos (0,35%) localizados no núcleo, constatou -se que quando se trata de patentes de uma área específica, além dos periódicos des sa área são citados periódicos com uma cobertura de assuntos bem ampla.
+Conclui -se que as células -tronco são um universo em ascensão que ainda tem muito a ser explorado e que os documentos de patentes são fontes ricas de informações que precisam ser trabalhad os com mais profundidade .
+No entanto, a falta de padronização de campos como os de citação a documentos de patentes e documentos não patentes dificulta o estudo, sendo necessárias muitas horas de limpeza dos dados nes ses campos.
+Sugere -se que sejam realizados novos estudos que permitam analisar as m otivações das citações em patentes, de forma qualitativa, visto que a literatura aponta que as citações em patentes apresentam diferenças e existe uma lacuna em estudos de citações a este tipo de documento.
+Referências BEUZEKOM, B.; ARUNDEL, A. OECD biot echnology statistics: 2006.
+BEUZEKOM, B.; ARUNDEL, A. OECD biotechnology statistics: 2009.
+What do citation counts measure?
+A review of studies on citing behavior.
+Journal of Documentat ion, London, v. 64, n. 1, p. 537 -607, 2008 .
+Patentes em células -tronco: suas principais características e análise de citação Fernanda Bochi e Ana Maria Mielniczuk Moura Em Questão , Porto Alegre, v. 26, n. 2, p. 32-57, maio/ago.
+2020 doi: oi.org/10.19132/1808 -5245262.
+32-57 | 54 E-ISSN 1808-5245CANTOS -MATEOS, G. et al.
+Stem cell research: bibliometric analysis of main research areas through KeyWords Plus.
+Aslib Proceedings ,London, v. 64, n. 6, p. 561 -590, 2012.
+CHANG, P. L.; WU, C. C.; LEU, H. J. Usin g patent analyses to monitor the technological trends in an emerging field of technology: a case of carbon nanotube field emission display.
+Scientometrics, Dordrecht, v. 82, n. 1, p. 5 -19, jan. 2010.
+Correlação entre publicações científicas e patentes com célulastronco pluripotente induzidas (IPS): bases para uma prospecção tecnológica.
+Revista Geintec, Sergipe v. 4, n. 5, p. 1574 -1582 , 2014.
+COOK, T. Stem cell patenting in the European Union.
+Journal of Intellectual Property Rights, Índia v. 17, n.1, p. 73 -75, jan. 2012.
+COSTA, P. R.; PORTO, G. S.; PLONSKY, G. A. Gestão da cooperação empresa -universidade nas multinacionais brasileiras.
+Revista de Administração e Inovação, São Paulo, v. 7, n. 3, p. 150 -173, jul./set.
+CYRANOSKI, D. Japan fast -tracks stem -cell patent: Kyoto University secures first award for induced pluripotent cells.
+Natur e, London, v. 455, n. 269, 2008.
+DINIZ, D.; AVELINO, D. Cenário i nternacional da pesquisa com células -tronco embrionárias.
+Revista de Saúde Públi ca, São Paulo, v. 43, n. 3, p. 541 -547, 2009.
+EGGER, P. H.; SELIGER, F.; WOERTER, M. On the distribution of patent citations and its fundamentals.
+Economics L etter, Netherlands , v. 147, p. 72 -77, 2016.
+EGGHE, L.; ROUSSEAU, R. Aging, obsolescence, impac t, growth, and utilization: definitions and relations.
+Journal of the American Society for Information Science , New York, v. 51, n. 11, p. 1004 -1017, 2000.
+ETZKOWITZ, H.; ZHOU, C. Hélice Tríplice: inovação e empreendedorismo universidade -indústria -govern o. Estudos Avançados , São Paulo, v. 31, n. 90, p. 23-48, 2017.
+FERNANDES, M. S. Células -tronco humanas e as patentes.
+Revista do Hospital de Clínicas de Porto Alegre e Faculdade de Medicina da Universidade Federal do Rio Grande do Sul, Porto Alegre, v.28, n.3, p.168176.
+FREITAS, R. E.; BIANCHI, C. F. Propriedade intelectual e aspectos regulatórios em biotecnologia: União Europeia.
+ZUCOLOTO, G. F.; FREITAS, R. E. Propriedade Intelectual e aspectos regulatórios em Biotecnologia.
+Patentes em células -tronco: suas principais características e análise de citação Fernanda Bochi e Ana Maria Mielniczuk Moura Em Questão , Porto Alegre, v. 26, n. 2, p. 32-57, maio/ago.
+2020 doi: oi.org/10.19132/1808 -5245262.
+32-57 | 55 E-ISSN 1808-5245GARFIELD, E. Citation analysis as a tool in journal evaluation: journals can be ranked by frequency and impact of citations for science policy studies.
+GLÄNZEL, W.; MEYER, M. Patents cited in the scien tific literature: an exploratory study of "reverse " citation relations.
+Scientometrics , Dordrecht, v. 58, n. 2, p. 415 -428, 2003.
+Does co-authorship inflate the share of selfcitations?
+Scientometrics , Amsterdan, v. 61, n. 3, p. 395 -404, 2004.
+INSTITUTO NACIONAL DE PROPRIEDADE INDUSTRIAL.
+Estudo Comparativo dos Critérios de Patenteabilidade para Invenções Biotecnológicas em Diferentes Países.
+JOÃO, B. N. Redes em subsidiárias de multinacionais: um estudo de caso com análise de redes sociais de inventores e patentes.
+Revista de Administração Pública, Rio de Janeiro, v. 43, n. 5, p. 1037 -1066, set./out., 2009.
+LEYDESDORFF, L. Patent classifications as indicators of intellectual organization.
+Journal of th e American Society for Information Science and Technology, New York, v. 59, n. 10, p. 1582 -1597, aug. 2008.
+MACHADO, R. N. Estrutura intelectual da literatura científica do Brasil e outros países dos BRICS: uma análise de cocitação de periódicos na área d e célula -tronco.
+366 f. Tese (Doutorado) - Programa de Pós -graduação em Ciência da Informação do Instituto Brasileiro de Informação em Ciência e Tecnologia, Universidade Federal do Rio de Janeiro, Rio de Janeiro, 2015.
+MACIAS -CHAPULA, C. O papel da informetria e da cienciometria e sua perspectiva nacional e internacional.
+Ciência da Informação , Brasília, DF, v. 27, n. 2, p. 134 -140, maio/ago.
+MUGNAINI, R. Caminhos para adequação da avaliação da produção científica brasileira: impacto nacional versus internacional.
+Tese (Doutorado) - Escola de Comunicações e Artes.
+Universidade de São Paulo , São Paulo, 2006.
+NARIN, F. Evaluative bibliometrics: the use of publications and citation analysis in the evaluation of scientific activity.
+Cherry Hill: Computerhorizons, 1976.
+Scientometrics, Dordrecht , v. 30, n. 1, p. 147155, 1994.
+NARIN, F.; NOMA, E.; PERRY, R. Patents as indicators of corporate technological strength.
+Research Policy, Amsterdam , v. 16, n. 2-4, p. 143 -155, 1987.
+Patentes em células -tronco: suas principais características e análise de citação Fernanda Bochi e Ana Maria Mielniczuk Moura Em Questão , Porto Alegre, v. 26, n. 2, p. 32-57, maio/ago.
+2020 doi: oi.org/10.19132/1808 -5245262.
+32-57 | 56 E-ISSN 1808-5245ORGANIZACIÓN PARA LA COOPERACIÓN Y EL DESARROLLO ECONÓMICOS.
+Manual de estadísticas de patentes de la OCDE.
+PIMENTA, F. P. A patente como fonte de informação (des)necessária para a biotecnologia em saúde.
+Transinform ação, Campinas , v. 29, n. 3, 2017.
+PRICE, D. J. S. Litle science, big science and beyond .
+ROCHA, A. M.; QUINTELLA, C. M.; TORRES, E. A. Prospecção de artigos e patentes sobre polímeros biocompatíveis aplicados à engenharia de tecidos e medicina regenerativa.
+Cadernos de prospecção , Salvador , v. 5, n. 2, 2012.
+RODRIGUES, P. C. R. Células -tronco e terapia regenerativa do tecido muscular cardíaco.
+Monografia (Trabalho de Conclusão de Curso)Escola Politécnica de Saúde Joaq uim Venâncio, Rio de Janeiro, 2006.
+S. Análise quantitativa e qualitativa do patenteamento de células -tronco no Brasil.
+Estudo patentométrico das patentes brasileiras na via PCT.
+In: ENCONTRO NACIONAL DE PESQUISA EM CIÊNCIA DA INFORMAÇÃO, 19, 2018, Anais [.]
+SOUSA, A. G. F. Propriedade intelectual e aspectos regulatórios em biotecnologia: Japão.
+ZUCOLOTO, G. F.; FREITAS, R. E. Propriedade Intelectual e aspectos regulatórios em Biotecnologia.
+SPINAK, E. Indicadores cienciométricos de patentes: aplicaciones y limitaciones.
+URBIZAGASTEGUI ALVARADO, R. A lei de lotka na bibliometria brasileir a. Ciência da Informação, Brasília, DF, v. 31, n. 2, p. 14 -20, maio/ago.
+URBIZAGASTEGUI ALVARADO, R. Estudio sincrónico de obsolescencia de la literatura.
+In: ENCONTRO BRASILEIRO DE BIBLIOMETRIA E CIENTOMETRIA , 3., 2012, ANAIS [.]
+WANG, X.; ZHANG, X.; XU, S. Patent co -citation networks of Fortune 500 companies.
+Scientometrics, Dordrecht , v. 88, n. 3, p. 761 -770, 2011.
+World Intellectual Property Indicators: 2017.
+ZHAO, D.; STROTMANN, A. Inte llectual structure of stem cell research: a comprehensive author co -citation analysis of a highly collaborative and multidisciplinary field.
+Scientometrics, Dordrecht, v. 87, n. 1, p. 115 -131, 2011.
+Patentes em células -tronco: suas principais características e análise de citação Fernanda Bochi e Ana Maria Mielniczuk Moura Em Questão , Porto Alegre, v. 26, n. 2, p. 32-57, maio/ago.
+2020 doi: oi.org/10.19132/1808 -5245262.
+32-57 | 57 E-ISSN 1808-5245ZUCOLOTO, G. F.; FREITAS, R. E. Propriedade Intelectual e aspectos regulatórios em Biotecnologia.
+Stem cells patents : main features and citation analysis Abstract: This is a quantitative, patentometric, descriptive study that makes use of production and citation indicators to achieve specific purposes .
+Based on Price's square root law , the 181 most cited patents in the area of stem cells were the object of this study.
+After the collection of patents, information was extracted so that it could meet specific objectives, such as pri ority number, international patent classification, non -patent citation, and patent citation.
+It has been found that 80% of patents are from US -based companies; 6.7% are based in Japan; 3.6% in England, about 2% in France and Switzerland; 1.2% in Denmark an d Ireland, and the others (3.3%) are distributed among companies in the Netherlands, Austria, Germany, China and Canada.
+Regarding the International Patent Classification (IPC), the patents of this research were classified into 5 sections , of which the are a of human needs outstanded with 52.51% .
+The 181 patents found performed a total of 6,970 citations to other patents , of which 84 were the most cited.
+The patents that received the highest number of citations were US5486359 -A and US6200806 -B1, with 40 occu rrences (0.26%), both filed in the US office.
+A hundred forty one out of the 181 patents cited non -patent documents (CR field).
+It was observed that, based on what could be identified, most citations of non -patent documents are citations of scientific jour nals (1,426), totaling 7,701 articles cited (± 5.5 articles/journal).
+Patent documents contain important information for understanding the development of science and technology.
+It is concluded that patents are important sources to be analyzed and that mor e detailed studies of what is cited in patents should be carried out.
+Recebido: 24/04/2019 Aceito: 05/09/2019

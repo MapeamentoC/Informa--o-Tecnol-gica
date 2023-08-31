@@ -1,0 +1,733 @@
+EBAPE.BR, v. 17, nº 4, Rio de Janeiro, Out./Dez.
+ISSN 1679-3951DOSSIÊ – INOVAÇÃO Inovação tecnológica radical e mudança organizacional: a institucionalização de organizações resilientes e formas de trabalho mais substantivas Isabella Francisca Freitas Gouveia de Vasconcelos¹ Hélio Arthur Reis Irigaray¹ Fabiana Braga Leal¹ Leonardo Araujo de Carvalho¹ ¹ Fundação Getulio Vargas/Escola Brasileira de Administração Pública e de Empresas, Rio de Janeiro – RJ, Brasil Resumo Este artigo-dossiê apresenta inicialmente uma reflexão sobre a institucionalização de organizações resilientes, uma vez que a mudança organizacional é a reinvenção de um novo sistema de regras e normas com o propósito de encorajar novas condutas e convívios e formas de negociação necessárias e, no que concerne, lograr a colaboração dos indivíduos na organização e a execução de novas soluções tecnológicas.
+Dedicando-se ao número temático "Inovação em Organizações de Economias Emergentes", o propósito, conforme expresso pelos editores convidados desta edição, Bernardes, Borini e Figueiredo (2019), é instigar uma contemplação orientada à estruturação de uma agenda de pesquisa crítica sobre a área das estratégias de inovação e das organizações em economias emergentes e suas implicações originais na academia brasileira.
+Uma introdução ao estudo da inovação tecnológica na comunicação científica é apresentada, englobando pesquisa científica, publicações científicas e tecnologia digital .
+Palavras-chave: Inovação tecnológica.
+Radical technological innovation and organizational change: the institutionalization of resilient organizations and substantive forms of work Abstract This dossier-article presents a reflection on the institutionalization of resilient organizations.
+It assumes that organizational change is the reinvention of a new system of rules and norms to encourage new behavior and coexistence, as well as necessary forms of negotiation.
+The organizational change results in the collaboration of the individuals in the institution and the implementation of new technological solutions.
+This study is dedicated to the thematic issue "Innovation in Emerging Economy Organizations," and its objective is aligned with the purpose expressed by the issue's guest editors Bernardes, Borini, and Figueiredo (2019), i.e., to promote the establishment of a critical research agenda on the field of innovation and organizations strategy in emerging economies, discussing its implications for the Brazilian academy.
+An introduction to the study of Technological Innovation in Scientific Communication is presented encompassing scientific research, scientific publications.
+Keywords : Technological Innovation.
+Innovación tecnológica radical y cambio organizacional: la institucionalización de organizaciones resilientes y formas de trabajo más sustantivas Resumen Este artículo-dossier presenta inicialmente una reflexión en lo que respecta a la institucionalización de organizaciones resilientes en el sentido de que el cambio organizacional es la reinvención de un nuevo sistema de reglas y normas con el propósito de estimular nuevas conductas, formas de convivencia y de negociación necesarias, y lograr la colaboración de los individuos en la organización y ejecución de nuevas soluciones tecnológicas.
+En lo que se refiere al número temático "Innovación en Organizaciones de Economías Emergentes" el propósito, de acuerdo con los editores invitados de esta edición ‒Bernardes, Borini y Figueiredo (2019)‒, es instigar una contemplación orientada hacia la estructuración de una agenda de investigación crítica sobre el área de estrategias de innovación y de las organizaciones en economías emergentes y sus implicaciones originales en la academia brasileña.
+Se presenta una introducción al estudio de la Innovación Tecnológica en la Comunicación Científica que engloba investigación científica, publicaciones científicas y tecnología digital .
+Palabras clave : Innovación Tecnológica.
+Artigo convidado – 'Dossiê' submetido em 24 de outubro de 2019 e aceito para publicação em 28 de dezembro de 2019.
+DOI: Ê – INOVAÇÃO Inovação tecnológica radical e mudança organizacional: a institucionalização de organizações resilientes e formas de trabalho mais substantivas 896-922 Cad.
+EBAPE.BR, v. 17, nº 4, Rio de Janeiro, Out./Dez.
+Isabella Francisca Freitas Gouveia de Vasconcelos Hélio Arthur Reis Irigaray | Fabiana Braga Leal Leonardo Araujo de CarvalhoINTRODUÇÃO Podemos dizer aqui, com base em Crozier (1987) e corroborando o número especial sobre resiliência publicado no Cadernos EBAPE.BR, que a mudança organizacional é a reinvenção de um novo sistema de regras e normas com o objetivo de estimular novos comportamentos e interações e formas de negociação necessárias e, por sua vez, obter a colaboração dos indivíduos na organização e implementação de novas soluções tecnológicas.
+Não é apenas uma mudança técnica, mas da instituição de novas formas de negociação, controle de recursos, valores, comunicação e práticas sociais e de trabalho que conduzam e propiciem a implementação eficiente de uma nova tecnologia, em um maior nível de complexidade e não tão somente uma mudança técnica (VASCONCELOS, CYRINO, CARVALHO et al.
+Quando se trata de executar as novas formas de trabalho e tecnologias, a comunicação direta e aberta entre estes grupos passa a ser essencial para resolver impasses e permitir mudanças, seria o tipo de comunicação habermasiana.
+Um outro exemplo de comunicação e diálogo na organização, é a que envolve equipes inovadoras, especialmente as que estão orientadas a pesquisa e desenvolvimento em seu processo de inovação científica e/ou tecnológica de alto nível, cuja comunicação tem muitos princípios da chamada ação comunicativa habermasiana (VASCONCELOS, CYRINO, CARVALHO et al.
+Os processos de inovação tecnológica e o conhecimento são gerados por meio destes tipos de comunicação, que busca o entendimento objetivando uma verdade científica e/ou social e ultrapassa o mero interesse estratégico.
+Como sugerem os autores: "Uma perspectiva psicodinâmica indica que, uma vez que se assume como uma organização que aprende, os atores daquela organização devem aceitar que a formação da identidade é contínua e que a organização desenvolverá diversas identidades ao longo do tempo, o que reflete a evolução da forma como a organização e seus membros enxergam a si mesmos" (BROWN e STARKEY , 2000, p. 108, tradução nossa).
+"Do ponto de vista da consultoria, é importante combinar abordagens psicanalíticas com um diagnóstico cuidadoso das tensões sociais internas e externas à organização" (VASCONCELOS e VASCONCELOS, 2002, p. 78, tradução nossa).
+Charles Heckscher (1994) recomenda uma empresa colaborativa ou pós-burocrática, na qual o diálogo entre equipes busca mais o entendimento de questões fundamentais, contribuindo para a troca de conhecimento e a inovação.
+O diferencial da empresa colaborativa, a base de sua principal força, é o fato de ela permitir que as pessoas usem seu conhecimento e capacidade para avançar na busca da missão comum.
+[É o tipo de empresa] onde os subordinados sabem mais do que seus chefes sobre certos problemas e onde trabalham com várias equipes, o que permite acessar perspectivas diferentes.
+É onde [os subordinados] compreendem profundamente as necessidades dos clientes.
+É essencial para o sucesso do sistema que eles possam desafiar seus chefes, propor novas ideias, criticar e argumentar quando necessário.
+Existe uma espécie de diálogo aberto" (HECKSCHER, 1994, p. 11, tradução nossa).
+Mintzberg, por exemplo, já tratava do poderio no futuro de formas organizacionais estruturadas como adhocracias, por exemplo, conforme registrado em seu livro Criando Organizações Eficazes , mostrando que o impulso é empreendido pela assessoria de suporte em direção à colaboração (e inovação) na tomada de decisão, à coordenação por ajuste mutual – estruturando a organização como uma adhocracia (VASCONCELOS, CYRINO, CARVALHO et al.
+temos uma estrutura altamente orgânica, com pouca formalização do comportamento; sua especialização do trabalho é altamente horizontalizada, baseada em treinamento formal, tendência a agrupar especialistas das unidades funcionais para propósitos da organização divididos em pequenas equipes temporárias por projeto, baseadas no mercado, que visam à execução de um trabalho específico; confia nos instrumentos de interligação para encorajar o ajustamento mútuo, mecanismo-chave de coordenação interna e entre as equipes; e adota a descentralização seletiva das equipes localizadas em vários pontos da organização, envolvendo vários grupos formados por gerentes de linha, especialistas operacionais e assessores.
+Inovar significa romper padrões estabelecidos.
+Portanto, a organização inovadora não pode confiar em padronização para a coordenação e deve evitar todas as armadilhas da estrutura burocrática (MINTZBERG, 1994, p. 283).DOSSIÊ – INOVAÇÃO Inovação tecnológica radical e mudança organizacional: a institucionalização de organizações resilientes e formas de trabalho mais substantivas 897-922 Cad.
+EBAPE.BR, v. 17, nº 4, Rio de Janeiro, Out./Dez.
+Isabella Francisca Freitas Gouveia de Vasconcelos Hélio Arthur Reis Irigaray | Fabiana Braga Leal Leonardo Araujo de CarvalhoEssas seriam organizações mais resilientes, com capacidade de inovação e de responder às situações de mudança e ruptura com maior sucesso, constituindo-se em um novo grau de estabilidade e complexidade.
+Por conseguinte, o perfil questionador, o raciocínio inquisidor e crítico, a comunicação direcionada para uma maior compreensão das questões e a comunicação confiável em torno destas, ou seja, tipo habermasiana, são caracteristicas dos sistemas organizacionais resilientes (VASCONCELOS, CYRINO, CARVALHO et al.
+Ruptura tecnológica não é necessariamente ruptura com a história da organização ou com a comunidade humana organizacional.
+Os indivíduos que já possuem muitos anos na organização podem ser incentivados a mudar e se integrarem às novas atividades, novas tecnologias e novas formas de trabalho, sempre que isso for possível.
+Agentes de mudança Heckscher (2007) é um dos autores chave que exploram o conceito de agentes de mudanças.
+Ele afirma que as organizações estão passando por transformações em razão das mudanças pelas quais o mundo e a sociedade atravessam.
+Numa sociedade da informação e do conhecimento, em que a complexidade, a velocidade, a mudança estão presentes cada vez mais, as empresas precisam deixar de ser burocráticas para se tornarem colaborativas.
+Na burocracia, o sistema de regras e normas é rígido, há hierarquia de comando, padrões de desempenho definidos que contribuem para que a organização seja constituída por especialistas, o que dificulta a colaboração em virtude de cada um exercer sua tarefa localmente e num contínuo.
+O autor defende a empresa colaborativa, na qual as equipes se formam com base em experiências e conhecimentos distintos e integrados nos projetos de equipes.
+Tais equipes podem ser temporárias, vindas de lugares distintos – seus membros, muitas vezes, não se conhecem –, mas colaboram com suas habilidades para um fim comum.
+Para o autor, os desafios da organização no sentido de atingir seus indicadores de desempenho passam pela colaboração.
+Um dos desafios colocados por Heckscher (2007) para as organizações é o desenvolvimento da capacidade de estimular pessoas com vasta diversidade de habilidades e visões para trabalhos conjuntos.
+Heckscher (2007) apresenta algumas diferenciações significativas de conceitos na ideia de empresa colaborativa, no qual a velocidade e sinergia entre os stakeholders (diversos agentes envolvidos num projeto, programa) são grandezas importantes para negócios fundamentados em conhecimento e na ideia de cooperação.
+"Cooperação ocorre entre membros localmente.
+Estes são estáveis, as fronteiras na organização são fechadas e as habilidades homogêneas.
+"Colaboração estendida ocorre quando as relações entre os membros da organização fluem e estão num processo de mudança.
+As fronteiras são mais flexíveis e as habilidades e capacidades de seus membros são diversas.
+As equipes, nesse caso, muitas vezes são compostas por colaboradores externos à organização como parceiros de negócio.
+As colaborações estendidas parecem mais com uma rede, com um "cluster" que estão colaborando basicamente com suas experiências e conhecimentos e nessa sinergia conseguem contribuir para um resultado superior (HECKSCHER, 2007, p.
+"Colaboração estendida pode também ser vista como a habilidade dos indivíduos de trabalhar juntos além do escopo de pequenos grupos (HECKSCHER, 2007, p. 2-5) ."
+Heckscher (2007) aborda as principais dimensões que as empresas colaborativas precisam considerar para se tornarem competentes e mais competitivas nos tempos presentes: a) a estratégia de estabelecimento de objetivos e metas deve ser considerada para um período de 3 a 5 anos; b) estrutura concebida como conjunto formalizado de responsabilidades, papéis e regras; c) cultura como padrão de expectativa que é compartilhada entre os membros do grupo no sentido de como agir e reagir a situações na ótica das respostas flexíveis para desafios adaptativos; d) infraestrutura como o meio que dá suporte à cultura e estrutura, incluindo sistema de carreiras, treinamento, premiação e sistema de comunicação que apoiem a capacitação das pessoas para compreenderem umas às outras e a organização.
+DOSSIÊ – INOVAÇÃO Inovação tecnológica radical e mudança organizacional: a institucionalização de organizações resilientes e formas de trabalho mais substantivas 898-922 Cad.
+EBAPE.BR, v. 17, nº 4, Rio de Janeiro, Out./Dez.
+Isabella Francisca Freitas Gouveia de Vasconcelos Hélio Arthur Reis Irigaray | Fabiana Braga Leal Leonardo Araujo de CarvalhoUma das distinções que o autor faz das firmas do século 20 e empresas emergentes é que, na dimensão da estratégia, o primeiro bloco está voltado para produção de massa e o segundo orientado para soluções.
+O primeiro tipo de estrutura é o burocrático, enquanto o segundo tipo é colaborativo.
+Na cultura do primeiro, o paternalismo está presente nas relações, enquanto no segundo a contribuição (entrega) é destaque.
+Heckscher fortalece o conceito de colaboração: "Colaborar significa trabalhar em equipe.
+Isso implica muito mais do que trabalhar em conjunto.
+Implica em um objetivo comum que não pode ser atingido sem a contribuição de todos.
+Isso implica processos de diálogo e negociação, troca de pontos de vista e partilha de informação e construção de racionalidades individuais para a convergência em torno do consenso" (HECKSCHER, 2007, p. 2-3).
+Uma relação entre modelo transformacional, paradoxo, organização e agentes de mudanças faz-se necessária em vista do propósito do presente trabalho.
+No contexto organizacional, quando a possibilidade de colaboração encontra-se bloqueada, pode estar havendo paradoxos cognitivos, ou seja, elementos contraditórios e opostos que não fazem sentido quando considerados em conjunto e simultaneamente por indivíduo ou grupos.
+Nesse caso, pode ser necessária a atuação de facilitadores de mudança, ou seja, indivíduos que atuem de forma a articular a comunicação entre diferentes grupos da organização quando estes possuem entendimento diverso e contraditório da realidade organizacional, representando-a de forma oposta, o que impede toda a ação comum.
+Nesse momento, a atuação do agente de mudança torna-se chave ao realizar um diagnóstico de quais dificuldades impedem a comunicação efetiva entre os indivíduos no sistema.
+Na realidade, o agente realizará um diagnóstico organizacional mapeando, em primeiro lugar, as diferentes representações dos vários grupos.
+Em seguida, interpretará essas diferentes representações construindo uma rede de significados relativa à representação de cada grupo, para compreender como esses diferentes padrões estão inter-relacionados.
+Após o diagnóstico, o agente de mudança iniciará um processo de negociação de significados para construir, pouco a pouco, uma visão conjunta e compartilhada da realidade.
+Isso permitirá a ação comum dos membros da organização.
+Quando não for possível construir uma visão consensual da realidade, existirão outras soluções a serem adotadas, tais como o estabelecimento de formas de conviver com o paradoxo.
+Existem várias situações possíveis: as duas dimensões paradoxais podem ser situadas em esferas diferentes da organização ou, então, podem ser situadas em tempos distintos em um processo de mudança organizacional (LEWIS, 2000).
+Dessa forma, segundo Smith e Lewis (2011), há duas possibilidades de se lidar com paradoxos cognitivos nas organizações: realiza-se a chamada gestão do paradoxo (se "resolve" o paradoxo construindo a visão comum que permita o entendimento compartilhado da realidade) ou se aprende a conviver com as dimensões paradoxais.
+A favor desta última corrente existem vários autores, como Luscher, Lewis e Ingram (2006), que entendem a organização como um sistema complexo em uma sociedade em mutação, logo, sujeita a contradições lógicas todo o tempo.
+Assim, a chamada "ordem" é uma ilusão, uma vez que o "caos" e a tendência à entropia estarão sempre presentes.
+Dessa forma, considerando esta última visão de paradoxos organizacionais, não existiria a chamada "gestão" do paradoxo.
+Nessa perspectiva, os indivíduos que trabalham na organização deveriam aprender a lidar com dimensões opostas e paradoxais e com o desconforto cognitivo que isso pode gerar.
+Cabe ao agente de mudanças ter formação profissional para facilitar esses processos de comunicação, viabilizando aos atores organizacionais soluções possíveis e formas de conviver com essas dimensões.
+Importante salientar que não se trata de apenas conviver com duas dimensões paradoxais e, sim, com múltiplas, que podem atuar ao mesmo tempo.
+Trata-se, na verdade, de uma visão multidimensional.
+Lewis (2000) analisa os estudos de Merton (1970) e afirma que, como decorrência de toda ação social e criação de regras e formas de controle na organização, uma dimensão cognitiva será acentuada por um conjunto determinado destas regras e padrões.
+Com o tempo, haverá uma reação oposta à regulamentação desta dimensão que foi reforçada pela regra.
+Como exemplo, regras que reforçam políticas de gestão para centralização dos procedimentos na organização gerarão pressões sociais para a descentralização; políticas de gestão voltadas para procedimentos de diferenciação gerarão pressões para a dimensão da integração.
+Logo, paradoxos são próprios à ação social em múltiplas dimensões e não podem ser ignorados na atividade do gestor.DOSSIÊ – INOVAÇÃO Inovação tecnológica radical e mudança organizacional: a institucionalização de organizações resilientes e formas de trabalho mais substantivas 899-922 Cad.
+EBAPE.BR, v. 17, nº 4, Rio de Janeiro, Out./Dez.
+Isabella Francisca Freitas Gouveia de Vasconcelos Hélio Arthur Reis Irigaray | Fabiana Braga Leal Leonardo Araujo de CarvalhoExemplos de sucesso em mudança por intermédio da comunicação Habermasiana: o Pacto de Montreal e o Pacto de Paris O aquecimento global e a questão do meio ambiente: histórico Como mostra Carl Sagan (2009) em seu livro Bilhões e Bilhões , uma consequência perigosa da queima de combustíveis fósseis – carvão, petróleo ou o uso de gás natural – é a combinação do carbono dos combustíveis fósseis com o oxigênio do ar .
+Ao se combinar um átomo de carbono C com uma molécula de oxigênio O2, ocorre a sintetização de uma molécula de dióxido de carbono, CO2 (C +O = CO2), um gás que provoca o efeito estufa na Terra.
+Como demonstra Sagan (2009), o que contribui para aquecer a Terra depende do grau de brilho do sol e do grau de reflexão do planeta.
+A Terra reflete parte da luz e do calor recebidos do sol para o espaço.
+Tudo o que não for refletido de volta para o espaço é absorvido pelo solo, por nuvens e ar.
+A vida do ser humano depende de um equilíbrio de gases invisíveis ao olho humano, que mantém o efeito estufa – um pouco de efeito estufa é fundamental para conservar o calor do planeta e sua temperatura média, consideradas as estações, de 13 graus centígrados.
+Porém, a liberação em excesso de CO2 pode aumentar em muito o efeito estufa, levando a Terra a aquecer exageradamente no decorrer dos séculos.
+Disso decorre o risco de tornar-se comparável a V ênus, cuja atmosfera repleta de CO2 leva o planeta a ter uma temperatura média de 450 graus centígrados – imprópria para a vida humana.
+Como mostra Sagan (2009), à medida que não somente a população da Terra aumenta, como também nossa capacidade tecnológica tornam-se ainda maiores, lançamos na atmosfera uma quantidade cada vez maior de gases absorventes no espectro infravermelho.
+Há mecanismos naturais que removem estes gases do ar, mas a sua liberação na atmosfera tem ocorrido em um ritmo superior aos mecanismos de remoção.
+Ao queimar combustíveis fósseis e destruir as florestas (as árvores eliminam o CO2 e o convertem em madeira), os seres humanos são responsáveis pela introdução de sete bilhões de toneladas de dióxido de carbono no ar a cada ano.
+O metano, outro gás que provoca efeito estufa, tem aumentado na atmosfera, devido à agricultura e à indústria.
+O aumento de clorofluorcarbonos a um ritmo de 3,5% ao ano também contribui para o aquecimento do planeta ao diminuir a camada de ozônio da atmosfera.
+Dessa forma, durante o século XX, a temperatura média da Terra deve ter aumentado alguns décimos de 1 ºC.
+Caso a humanidade continue a queimar combustíveis fósseis nesse ritmo até o fim do século XXI, o nível de CO2 deve dobrar na atmosfera.
+Estes dados são confirmados pelo Laboratório Geofísico de Dinâmica Fluida da Administração Nacional Oceânica e Atmosférica de USA (NOAA), em Princeton; pelo Instituto Godddard de Estudos Espaciais da NASA, em Nova York; pelo Centro Nacional para Pesquisa Atmosférica em Boulder, Colorado; pelo Laboratório Nacional Lawrence Livermore do Departamento de Energia, na Califórnia; pelo Centro Hadley para Predição e Pesquisa Climática no Reino Unido; e pelo Instituto Max Planck de Meteorologia, em Hamburgo.
+A previsão, em 2009, era de que o aumento de temperatura ficaria entre 1 ºC e 4 ºC.
+As consequências do aquecimento global – as temperaturas atuais já são as mais altas dos últimos 150 mil anos – podem ser a ocorrência de secas rigorosas no interior, tempestades violentas e enchentes no litoral.
+Dessa forma, medidas urgentes devem ser tomadas para diminuir o aquecimento global e a poluição, tendo em vista a preservação da humanidade – que já possui uma história de civilização de 10.00 anos – e de todas as espécies no planeta.
+Como vimos, cientistas, astrônomos, biólogos, químicos, físicos, geógrafos, entre outros, de laboratórios científicos que estão entre os melhores do mundo, apontam a necessidade do controle do efeito estufa, da poluição e do aquecimento global, para a preservação da humanidade.
+Aqui encontramos a sinergia entre disciplinas de ciências naturais e a Administração de Empresas e Administração Pública e Economia: para estas mudanças, são necessárias inovações radicais que permitam a geração de energia por meio de fontes limpas e renováveis (energia eólica, solar, hidrelétrica, entre outras) e a adaptação das formas de trabalho e das indústrias (incluindo agricultura e pecuária) a tecnologias não poluentes.
+As formas de consumo sustentável, a educação das populações, as cidades inteligentes e planejadas, os carros elétricos com baterias recicláveis, ou solares, o controle da natalidade e das doenças e o advento da inteligência artificial e das fábricas inteligentes 4.0 estão interligados.
+Trata-se de medidas conjuntas da Administração Pública, Terceiro Setor (ONGs e associações) e da Administração de Empresas que promovem a inovação sustentável e a justiça social (a educação e saúde) da população global, ou seja, a sustentabilidade.
+Essa problemática e essa necessidade são reconhecidas pelos cientistas, os quais pressionam os governos para a assinatura de acordos internacionais como a Conferência das Nações Unidas sobre o Meio Ambiente e o Desenvolvimento (ECO-92), no Rio de Janeiro, o Pacto de Kyoto ou ainda o recente Pacto de Paris, que contou com a assinatura de 196 países.
+Na época, DOSSIÊ – INOVAÇÃO Inovação tecnológica radical e mudança organizacional: a institucionalização de organizações resilientes e formas de trabalho mais substantivas 900-922 Cad.
+EBAPE.BR, v. 17, nº 4, Rio de Janeiro, Out./Dez.
+Isabella Francisca Freitas Gouveia de Vasconcelos Hélio Arthur Reis Irigaray | Fabiana Braga Leal Leonardo Araujo de Carvalhoos USA, com o governo Obama, assinaram o pacto, por ém o novo presidente americano, eleito após Obama, retirou os USA do acordo.
+Apesar disso, Microsoft, Facebook, Apple, IBM, Alphabet (Google), Amazon, grandes empresas, com a maior lucratividade no país e o maior faturamento, bem como os governos de Nova York e da Califórnia, comprometeram-se, apesar da decisão do governo federal dos USA, a continuar apoiando o Pacto de Paris e medidas voltadas para a sustentabilidade, adquirindo somente energia de fontes renováveis e apoiando fornecedores que tomem as mesmas atitudes.
+A meta dos governos de Nova York e da Califórnia até metade do século XXI é de que suas fontes de energia sejam renováveis.
+Trata-se do movimento We are still in , relacionado aos compromissos do Pacto de Paris, tendo em vista a preservação do planeta e o controle do aquecimento global.
+A questão que se coloca é como realizar estas metas para impedir o aquecimento global.
+Conforme demonstra Sagan (2009), fundamentando-se em pesquisas científicas comprovadas, o maior emissor de CO2 atualmente são os USA, seguidos da Rússia juntamente com os antigos países da União Soviética, em terceiro lugar, se considerados em conjunto, os demais países em desenvolvimento, ao que se seguem os países da Europa Ocidental e depois o Japão.
+Neste último caso, trata-se de uma das nações com o emprego mais eficiente de combustíveis fósseis do planeta (SAGAN, 2009).
+Em se tratando de uma perspectiva política, os políticos devem ter uma visão que ultrapasse seu mandato e os benefícios eleitorais resultantes de suas ações.
+Dentro de uma perspectiva de esperança realista, muitos cientistas afirmam que são necessárias ações concretas durante os próximos 50 ou 60 anos para evitar os problemas do aquecimento global.
+Para tanto, é necessária uma perspectiva humanista e democrática (como propõe, por exemplo, a perspectiva habermasiana da a ção comunicativa), uma perspectiva que vá além do mero interesse político imediato e eleitoral, que leve em conta, de fato, a necessidade de se tomarem ações concretas dentro de um plano de ação global (como a 21ª Conferência das Partes - COP 21 - ou Pacto de Paris), para que se evitem os problemas anunciados sobre o efeito estufa.
+Deve-se ir além do interesse imediato e egoísta ligado ao poder e se levar em conta os interesses da população humana e do planeta.
+Para isso, é necessária uma estratégia de ação tanto por parte da gestão pública como da iniciativa privada e do terceiro setor.
+Os cientistas propõem, para o acompanhamento da evolução desse problema, além da eliminação de suas causas, o controle da emissão de CO2 e de gases de efeito estufa (GEE), a mudança da indústria e de formas de trabalho, tendo em vista tecnologias não poluentes, a preservação do meio ambiente, a educação das populações para o consumo sustentável, o desenvolvimento sustentável, bem como ações também voltadas para a saúde, controle de natalidade, as cidades inteligentes, a monitoração do planeta, para acompanhar a evolução dos resultados destas medidas.
+Assim, Segundo Sagan (2009), são imprescindíveis ações de monitoração, como a verificação sistemática do sol, da atmosfera, terra e dos oceanos.
+Podem ser realizadas no espaço, em oceanos, por navios, aviões e sensores, para verificar poluição, florestas, desertos, nível dos oceanos, a química da camada de ozônio, etc.
+Isso pode ser observado e monitorado pelo sistema Robótico de Observação da Terra1, da National Aeronautics and Space Administration (NASA), e também pela European Space Agency (ESA) e por outrasnações".
+Segundo dados científicos, é necessário quase um século para que os efeitos de dois terços de GEE lançados atualmente sejam sentidos no planeta.
+A ções de longo prazo devem ser tomadas, iniciando-se na atualidade, tendo em vista a perspectiva de desenvolvimento das gerações futuras.
+Por isso, reforça-se a necessidade de uma perspectiva humanista.
+Uma das formas de se popularizarem as descobertas da ciência tem sido a abertura de cursos e faculdades como a Singularity University , localizada no Vale do Silício, que realiza cursos e palestras de curta duração para os responsáveis por decisões nas empresas, executivos de alto nível, diretores e empresários.
+Visa conscientizar este público – que tem o poder de decidir na direção correta – a embasar, financiar e apoiar desenvolvimentos tecnológicos voltados à preservação do meio ambiente e ao desenvolvimento sustentável.
+Dessa forma, procura-se difundir essa visão científica e possibilitar o conhecimento das últimas descobertas da ciência para os tomadores de decisão.
+O financiamento e apoio também a start-ups que desenvolvem soluções tecnológicas para a inovação sustentável fazem-se necessários, bem como o consequente desenvolvimento de novas profissões e conhecimentos ligados a estes valores.
+1 "Sistema de Observação da Terra, ou Earth Observing System (EOS) é um programa da NASA que se constitui numa série de satélites artificiais.
+As suas missões e instrumentos científicos são voltados para a observação de longo alcance da superfície da Terra, bem como sua biosfera, atmosfera e seus oceanos.DOSSIÊ – INOVAÇÃO Inovação tecnológica radical e mudança organizacional: a institucionalização de organizações resilientes e formas de trabalho mais substantivas 901-922 Cad.
+EBAPE.BR, v. 17, nº 4, Rio de Janeiro, Out./Dez.
+Isabella Francisca Freitas Gouveia de Vasconcelos Hélio Arthur Reis Irigaray | Fabiana Braga Leal Leonardo Araujo de CarvalhoEnergia e inovação Várias medidas com relação a transporte poderiam ser tomadas para reduzir o consumo de combustíveis fósseis.
+Considerando-se a evolução desde os anos 70, como indica Sagan (2009), a criação de carros mais eficientes, com menor consumo de combustível já seria uma primeira providência para eliminar CO2 na atmosfera.
+Carros que funcionassem com combustível menos poluente como o etanol, no caso do Brasil, carros com motores flex, menores e mais econômicos também foram uma solução nesse sentido.
+A preservação do planeta, no entanto, tendo em vista uma economia global, exige mais do que estas providências.
+O projeto de um novo tipo de carro seguro, rápido, com uso eficiente de combustível, limpo também tem sido uma pressão exercida continuamente sobre os principais fabricantes de carros norte-americanos em Detroit.
+O desenvolvimento de um carro elétrico confiável, com bateria reciclável (sem utilização de ácido de chumbo, que é venenoso) e que possa atingir algumas centenas de quil ômetros com uma carga elétrica (desde que a energia elétrica seja gerada por fontes renováveis) já era um projeto da General Motors desde 1996, como afirmava seu presidente à época , Denis Milano (SAGAN, 2009).
+Muitos desenvolvimentos tecnológicos foram feitos posteriormente em se tratando de carros elétricos, como veremos neste trabalho.
+O carro elétrico, autônomo e conectado à internet das coisas é um projeto atual de várias montadoras, que já desenvolveram modelos mais caros e sofisticados, como os da BMW, Porsche etc.
+; mais econômicos e populares, como os da Renault-Nissan; ou a meio-caminho dos dois, como os da Tesla, de Elon Musk.
+Há carros também movidos a energia solar e, atualmente, a ideia de serviços associados a carros, como trataremos ainda neste trabalho.
+Outras fontes de energia Uma das alternativas de fonte de energia foi a Física Nuclear2 sem liberar Gases de Efeito Estufa (GEE) como na queima de combustíveis fósseis.
+Existem navios nucleares e usinas nucleares.
+O custo destas usinas é similar ao das usinas a carvão e não geram efeito estufa .
+No entanto, Sagan (2009) relembra Three Mile Island e Chernobyl, apontando para o fato de que usinas nucleares podem desprender radioatividade perigosa ou até derreter.
+Além disso, geram muito lixo radioativo, que deve ser descartado.
+As meias-vidas de muitos radioisótopos têm duração de séculos ou milênios, compondo um lixo radioativo perigoso.
+A alternativa que se encontra é enterrar este lixo radioativo com segurança para que não vaze.
+Além disso, a utilização de urânio e plutônio pode ser empregada para o uso de armas nucleares, o que é perigoso.
+Na França e no Japão, a maior parte da energia é gerada por usinas nucleares.
+Há outro tipo de usina nuclear, a que funcionaria por fusão nuclear, quando os núcleos são unidos.
+Em princípio, estas usinas de fusão poderiam funcionar com água do mar, um estoque virtualmente inesgotável, sem a geração de GEE, de lixo radioativo e sem que o processo estivesse envolvido com urânio e plutônio.
+Trata-se, por ém, de uma tecnologia possível, ainda não desenvolvida, e que levaria décadas para que acontecesse em escala comercial, enquanto o problema do aquecimento global deve ser solucionado rapidamente.
+A fusão fria também é uma possibilidade.
+A energia eólica e energia solar Estima-se que toda a energia consumida nos USA poderia ser gerada por torres eólicas instaladas nos 10% do território americano onde há mais vento.
+Já a energia solar é permanentemente disponível, não gera efeito estufa e precisa de um mínimo de manutenção.
+A energia solar pode ser usada também para gerar combustível de hidrogênio a partir da água: quando queimado, o hidrogênio simplesmente regenera a água.
+A energia elétrico-solar ou fotovoltaica tem sido há muito tempo utilizada para impulsionar as naves espaciais perto da Terra e por todo o sistema solar interno.
+Sagan (2009) posiciona-se totalmente favorável ao uso da energia solar como a melhor fonte alternativa de energia renovável a ser utilizada.
+2 Reação nuclear, espontânea ou provocada, em que um núcleo atômico, geralmente pesado, se divide em duas partes de massas comparáveis, emitindo nêutrons e liberando grande quantidade de energia (Aurélio Eletrônico).DOSSIÊ – INOVAÇÃO Inovação tecnológica radical e mudança organizacional: a institucionalização de organizações resilientes e formas de trabalho mais substantivas 902-922 Cad.
+EBAPE.BR, v. 17, nº 4, Rio de Janeiro, Out./Dez.
+Isabella Francisca Freitas Gouveia de Vasconcelos Hélio Arthur Reis Irigaray | Fabiana Braga Leal Leonardo Araujo de CarvalhoA questão política e econômica Em seu paper "Está Faltando um Pedaço do Céu", Sagan (2009) mostra que o ozônio é gerado pela eletricidade quando passa pelo ar.
+O ar que respiramos é composto por O2 (oxigênio) e O2 + energia = O + O.
+No entanto, os átomos de oxigênio soltos (O) combinam-se facilmente com outros átomos ao redor e, neste caso, O + O2 + C (catalisador) = O3 + catalisador.
+A Terra possui uma camada de ozônio que a protege em sua atmosfera e, portanto, deve ser protegida.
+No entanto, a evolução da indústria de eletrodomésticos gerou inovações contrárias a esta necessidade.
+A geladeira, por exemplo, exigia um gás em seu interior para funcionar.
+Químicos americanos e alemães criaram tipos de molécula que não existiam, os clorofluorcarbonetos: C1Cl3F1.
+Estes elementos também são os principais tipos de química usados na refrigeração (ar refrigeradores), bem como estão presentes em latas de spray , espuma isolante, solventes industriais e materiais de limpeza na indústria microeletrônica.
+A Dupont era um dos seus maiores fabricantes.
+Estes elementos químicos foram usados durante décadas sem que se tivesse ideia de que originariam algum problema ou algum perigo.
+Quando liberado, o cloro destrói as moléculas de ozônio, mas ele próprio não é destruído.
+Tendo em vista os anos que devem passar até o cloro ser eliminado, ele pode destruir 100 mil moléculas de ozônio.
+O2 + luz UV = 2O 2Cl (de CFCs) + 2O3 = 2 ClO + 2O2 2ClO + 2O = 2Cl (regenerando o C) + 2O2, dando o resultado básico, em resumo, 2O3 é transformado em 3O2.
+O ozônio é produzido a 25km de altitude e é o escudo da Terra contra os raios ultravioleta do sol.
+Um dos perigos dos raios ultravioletas reside no fato de causar o câncer de pele.
+Além disso, a diminuição da camada de ozônio mata os fitoplânctons, que no mar são responsáveis pela eliminação do CO2 da Terra.
+O problema é que os efeitos do CFC duram um século.
+O cientista Sherwood Howland e o Conselho de Defesa dos Recursos Naturais, com base em Washington, desde 1978, proibiram os CFCs em 1978 e estes foram proibidos nos USA, Canadá, Noruega e Suécia.
+A retirada dos CFCs do mercado teve grande resistência da Dupont, que vendia 600 milhões de dólares de CFCs por ano.
+A empresa resistiu, retirando financiamento de congressos e reuniões científicas e, até mesmo, seus anúncios de revistas científicas.
+Os dados eram irrefutáveis, no entanto, e a lógica da proteção ao meio ambiente acabou ganhando.
+Foi confirmado que dois terços do ozônio sobre a Antártida desapareceram, tendo sido corroborado por um satélite da NASA em 1985.
+A camada de ozônio se reconstitui no inverno, mas na primavera desaparece cada vez mais.
+A Dupont só descontinuou o uso dos CFCs totalmente no ano 2000 por interesses econômicos, apesar dos alertas.
+O sucesso do Pacto de Montreal e a comunicação do tipo habermasiana Em 1987, em setembro, muitas das nações que produziam o CFC reuniram-se em Montreal para um acordo, assinado, até mesmo, pelos USA, e reforçado depois por acordos em Londres e Copenhague.
+Na época, 156 nações assinaram o tratado.
+Por meio de pesquisas, encontrou-se um substituto; o FCFC, com moléculas semelhantes, mas envolvendo átomos de hidrogênio – seu desenvolvimento foi empreendido pela Dupont.
+Provou-se dessa forma que, quando as empresas investem em ciência e tecnologia, podem desenvolver tecnologia e inovação sustentáveis que não prejudiquem o meio ambiente.
+Berkeley, na Califórnia, proibiu o isolante branco com CFCs e o McDonald's substituiu em suas embalagens os materiais que usavam os CFCs mais perigosos.
+A questão é que seria necessário eliminar todos os CFCs da Terra e ainda esperar um século para que a atmosfera fique limpa.
+Trata-se, porém, de uma ação fundamental para a humanidade que, apesar de parecer impossível, é realizável – tal como o Teorema da Existência da Vida, algo que se julgava impossível, mas que se tornou factível (SAGAN, 2009).
+As missões da NASA (satélite Nimbus e outros posteriores) são fundamentais para monitorar o nível de nossa camada de ozônio, que felizmente está se recuperando aos poucos (SAGAN, 2009).
+O acordo de Montreal foi um sucesso, provando que uma comunicação entre todos que se atenha aos fatos científicos e que leve em conta não apenas os interesses econômicos imediatos, mas o bem-estar do planeta e da humanidade, pode, se feita de forma democrática e com base em sinceridade de fatos, levar a um real progresso dos interesses do meio ambiente, inovando-se de forma sustentável neste processo – resultado de uma comunicação mais substantiva, do tipo habermasiano.DOSSIÊ – INOVAÇÃO Inovação tecnológica radical e mudança organizacional: a institucionalização de organizações resilientes e formas de trabalho mais substantivas 903-922 Cad.
+EBAPE.BR, v. 17, nº 4, Rio de Janeiro, Out./Dez.
+Isabella Francisca Freitas Gouveia de Vasconcelos Hélio Arthur Reis Irigaray | Fabiana Braga Leal Leonardo Araujo de CarvalhoO Pacto de Paris: outro sucesso de comunicação habermasiana O Acordo de Paris foi aprovado pelos 195 Países que fazem parte da Convenção-Quadro das Nações Unidas sobre a Mudança do Clima (UNFCCC) para reduzir emissões de GEE em prol do desenvolvimento sustentável com o compromisso de manter o aumento da temperatura média global em bem menos de 2°C, acima dos níveis pré-industriais, e de empregar esforços para estabelecer limites referente ao aumento da temperatura a 1,5°C, acima dos níveis pré-industriais.
+Jean Tirole (2017), prêmio Nobel de Economia, analisa os progressos feitos e a imperiosa necessidade de manter o aquecimento global não mais que entre 1,5 e 2,0 graus Celsius.
+O Pacto de Paris, em 2017, assinado por mais de 196 países, foi um sucesso nesse sentido, uma vez que fixou metas ambiciosas para que esta realidade ocorra.
+Os países emergentes, principalmente, precisam controlar a emissão de GEE.
+Foram fixadas metas por país, estabelecendo-se certa quantidade de GEE que cada um pode emitir.
+Para o cumprimento destas metas, Tirole (2017) propõe: objetivos claros para os diversos países quanto à emissão de carbono; auditorias verdes para acompanhar o cumprimento destes objetivos; um imposto relativo à emissão de carbono (a Suécia foi um dos primeiros países a lançar um imposto deste tipo) e um preço universal para este.
+A proposta do pacto de Paris é que, após 2050, não haja mais emissão de GEE e a meta é que o aquecimento fique no máximo em 1,5°C.
+É necessário que a humanidade desenvolva um diálogo em que posicione acima de tudo os interesses do planeta e do meio ambiente, seria um diálogo de inspiração habermasiana envolvendo uma comunicação ética, pragmática e democrática.
+A NDC do Brasil no contexto do Pacto de Paris Após a aprovação pelo Congresso Nacional, o Brasil concluiu, em 12 de setembro de 2016, o processo de ratificação do Acordo de Paris.
+No dia 21 de setembro, o documento foi entregue às Nações Unidas.
+As metas brasileiras deixaram então de ter caráter intencional e se converteram em compromissos oficiais.
+A sigla, portanto, perdeu a letra "i" ( intended , em inglês) e passou a ser chamada apenas de NDC.
+Com a NDC do Brasil, o país comprometeu-se a reduzir até 2025 as emissões de GEE em 37% abaixo dos níveis de 2005, com uma contribuição indicativa subsequente de reduzir até 2030 as emissões de GEE em 43% abaixo dos níveis de 2005.
+Para isso, o país comprometeu-se a aumentar até 2030 em aproximadamente 18% a participação de bioenergia sustentável na sua matriz energética, restaurar e reflorestar 12 milhões de hectares de florestas, alcançar uma presença estimada de 45% de energias renováveis na composição da matriz energética em 2030.
+Outra iniciativa bem-sucedida do conceito de cidadania deliberativa de Habermas Segundo o autor Tenório (2008), cidadania deliberativa significa: "[.]
+que a legitimidade das decisões políticas deve ter origem em processos de discussão, orientados pelos princípios da inclusão, do pluralismo, da igualdade participativa, da autonomia e do bem comum" (TENÓRIO, 2008, p. 105).
+Um exemplo de cidadania deliberativa institucionalizada é a cidade de Bordeaux, na França, onde a prefeitura, em suas diversas regiões, oferece aos cidadãos espaços para debates por tema e grupos e elaboração de propostas que serão levadas à consideração dos tomadores de decisão e devidamente implantadas quando possível, tendo sido elaboradas por meio de debate democrático, participativo e voltado para soluções que pretendam o bem comum.
+Feedbacks são dados para os cidadãos quanto à execução de suas sugestões pela prefeitura da cidade.
+A tomada de decisões na Era Digital e a complexidade envolvida A Quarta Revolução Industrial, ou Indústria 4.0, faz do BIG Data (computadores como o Watson, da IBM, por exemplo) instrumento fundamental para a análise de grandes quantidades de dados, o que pode ajudar os tomadores de decisão e, também, no controle de dados sobre o clima e o meio ambiente.
+Conforme já salientado, a comunicação entre os países e partes interessadas deve ir além dos meros interesses econômicos e políticos imediatos , levando em consideração objetivos no longo prazo para a humanidade e o planeta e baseando-se no real compartilhamento de dados e fatos científicos para DOSSIÊ – INOVAÇÃO Inovação tecnológica radical e mudança organizacional: a institucionalização de organizações resilientes e formas de trabalho mais substantivas 904-922 Cad.
+EBAPE.BR, v. 17, nº 4, Rio de Janeiro, Out./Dez.
+Isabella Francisca Freitas Gouveia de Vasconcelos Hélio Arthur Reis Irigaray | Fabiana Braga Leal Leonardo Araujo de Carvalhopermitir a tomada de decisão.
+No entanto, sem nenhum caráter de ingenuidade, os acordos devem prever impostos verdes, auditorias e sanções para os que não cumprirem as metas estabelecidas.
+Também condições devem ser dadas para que os países em desenvolvimento possam cumprir essas metas, como a injeção de capital para que estas medidas sejam tomadas.
+Como afirma Jean Tirole: "Confiança é importante.
+É necessário que os usuários da Internet tenham confiança no ecossistema digital, essa confiança deve ser aplicada em dois níveis.
+Primeiro, é preciso reconhecer que, hoje em dia, há muita escolha, muita informação, muitas pessoas com quem interagir.
+As plataformas existem para nos guiar e compensar nossa capacidade limitada de prestar atenção, o que levanta a questão da confiabilidade das recomendações que elas oferecem.
+O segundo nível diz respeito ao uso de dados pessoais.
+Esses dados agora são um ativo econômico e político poderoso para quem os possui, e nem sempre serão usados como gostaríamos (o que levanta a complexa questão dos direitos de propriedade sobre esses dados)" (TIROLE, 2017, p. 401, tradução nossa).
+É necessário refletir também sobre quais serviços estão desaparecendo, quais profissões irão desaparecer e quais permanecerão quando softwares inteligentes e robôs substituírem pessoas qualificadas e não qualificadas.
+A ideia é de que muitos outros trabalhos surjam à medida que a tecnologia evolui.
+"A aceitabilidade social da digitalização depende de acreditarmos que nossos dados não serão usados contra nós, que as plataformas online que usaremos respeitarão os termos de nosso contrato com eles e que suas recomendações serão confiáveis.
+Em suma, é baseado em confiança" (TIROLE, 2017, p. 402, tradução nossa).
+Dessa forma, na economia digital, computadores e inteligência artificial são inovações que visam ajudar o ser humano a lidar com a complexidade crescente e a tomar decisões estratégicas.
+Computadores quânticos para lidar com a complexidade Desde os anos 60, pela Lei de Moore, o tamanho dos transístores cai e o poder de processamento dobra a cada um ou dois anos, mas nos atualmente chegou-se ao limite da miniaturização das estruturas de silício e para solucionar esse impasse, surge a computação quântica.
+Ao invés de trabalhar com zeros e uns (a linguagem binária dos computadores de hoje), as máquinas quânticas utilizam a nuvem de probabilidades da posição de uma part ícula subatômica.
+Atualmente, o sistema de inteligência artificial Watson, que utiliza o machine learning , desenvolvendo estratégias, além de analisar grande quantidade de dados, veio não para ser mais inteligente que o humano, mas para tornar as decisões humanas mais inteligentes.
+Assim, Big Data, Internet das Coisas e Computação em Nuvem ( cloud computing ), robótica avançada, inteligência artificial, manufatura aditiva (impressão 3D), manufatura híbrida e realidade aumentada (utilização de assistente virtual que dialoga, tira dúvidas em tarefas de manutenção na indústria, por exemplo) s ão inovações r adicais – produzidas por intermédio do double looping learning , questionamento de paradigmas, reengenharia de modelo de negócios – e que mudam o comportamento das pessoas, como vimos na primeira parte deste trabalho.
+Face à robótica e à automação e tendo em vista a tecnologia, os seres humanos deverão trabalhar em empregos que ainda serão criados e em tarefas que requeiram criatividade e inovação.
+Energia Solar No início do século, o mundo praticamente não usava energia elétrica convertida da luz solar.
+Entre os grandes avanços recentes ou por vir, é o projeto do teto curvo, desenvolvido pelo Instituto Federal de Tecnologia da Suíça, com várias camadas de concreto com pelo menos 12 cm de espessura, e uma fina camada de polímeros que absorvem a luz solar e a transformam em energia.
+A Tesla também desenvolveu um teto solar, ao invés de colocar placas no telhado, as próprias telhas são as placas – o teto, tendo um custo menor que um telhado tradicional.
+Existem também painéis solares transparentes, que podem ser colocados em janelas, vidros de carro e até na tela de celulares.DOSSIÊ – INOVAÇÃO Inovação tecnológica radical e mudança organizacional: a institucionalização de organizações resilientes e formas de trabalho mais substantivas 905-922 Cad.
+EBAPE.BR, v. 17, nº 4, Rio de Janeiro, Out./Dez.
+Isabella Francisca Freitas Gouveia de Vasconcelos Hélio Arthur Reis Irigaray | Fabiana Braga Leal Leonardo Araujo de CarvalhoHá também o projeto futurístico como o da universidade de Strathclyde, na Escócia, de colocar placas de captação de luz solar em satélites na órbita da Terra.
+Em órbita, as placas poderiam captar a luz solar continuamente (com apenas 44 horas de noite por ano).
+A energia acumulada seria enviada à Terra por um intenso raio laser infravermelho ou por um cone de micro-ondas, mas o custo da solução, no entanto, ainda deve conservar-se proibitivo durante muitos anos (COHEN e BEREZOVSKY , 2017).
+Em termos de energia, muitos países procuram fazer estudos com as usinas de fusão nuclear, que gerariam muito menos problemas que as usinas por fissão nuclear.
+A energia das usinas de fusão nuclear Após anunciar a criação de um plasma superquente no mês de junho, a empresa britânica Tokamak Energy acaba de afirmar que a oferta comercial de eletricidade por fusão nuclear deve ser uma realidade a partir de 2030.
+A promessa é fruto do teste bem-sucedido da empresa, que registrou a temperatura mais alta atingida por plasma produzido pelo homem: 15 milhões de graus Celsius (tão quente quanto o centro do Sol).
+A reação foi gerada no reator ST40, onde o material foi confinado em uma câmara a vácuo e mantido dentro de campos magnéticos poderosos .
+Empolgados com o resultado, os cientistas da empresa estão se preparando para produzir um plasma ainda mais quente, com cerca de 100 milhões de graus Celsius.
+Este é o primeiro passo para começar a operar em temperaturas necessárias para a fusão nuclear.
+A Tokamak Energy é uma das maiores empresas que apostam na produção de eletricidade por reatores de fusão.
+A meta é conseguir tirar a ideia do papel antes da metade da década de 2040, período em que o reator concorrente da francesa International Thermonuclear Experimental Reactor (ITER) está projetado para produzir o seu primeiro plasma.
+Por isso, a empresa planeja lançar em 2025 um novo reator, que será construído especialmente para produzir uma grande quantidade de megawatts de energia por fusão.
+A transformação do hidrogênio em hélio por fusão nuclear é a principal reação que mantém as estrelas brilhando por bilhões de anos — daí a ideia de construir um reator de fusão remeter à imagem de "estrelas em uma jarra".
+O ITER (Reator Termonuclear Experimental Internacional, em português) é um projeto civil de reator nuclear situado em Cadarache, na França, para industrialização da fusão nuclear e que associa 35 países da União Europeia, Índia, Japão, China, Rússia, Coreia do Sul, Estados Unidos e Suíça.
+Trata-se do maior projeto científico mundial atual.
+O orçamento do projeto passou de 5 a 19 bilhões de euros.
+A entrada em atividade do primeiro plasma é prevista para dezembro de 2025 e a emissão do primeiro plasma em deuteriumtritium (deutério e trítio) é prevista para 2035 .
+Antes de industrializar a usina a fusão, vai ser necessário construir , primeiro, para pesquisa, um segundo reator de demonstração de funcionamento (demo), mais próximo de um reator de produção (ITER, 2019).
+A fusão nuclear também acontece em bombas de hidrogênio, em que o elemento é derretido por dispositivos de fissão de plutônio em altíssimas temperaturas, o que resulta numa explosão centenas ou milhares de vezes mais potente do que uma bomba nuclear, que funciona via fissão.
+Projetos de fusão controlados como os da ITER e da Tokamak Energy fundirão combustível de hidrogênio em temperaturas muito mais altas e a pressões muito mais baixas do que as que ocorrem no interior do sol, transformando átomos de hidrogênio, que se fundem, em h élio, e liberando grandes quantidades de energia neste processo, replicando, assim, o que ocorre no sol e nas estrelas.
+Defensores da fusão nuclear afirmam que esse tipo de geração de energia pode tornar outras fontes obsoletas.
+Isso porque é possível produzir grandes quantidades de eletricidade por uma quantidade relativamente pequena de deutério e trítio, isótopos pesados de hidrogênio que são relativamente abundantes na água do mar.
+Na teoria, reatores de fusão nuclear podem produzir muito menos resíduos radioativos do que reatores de fissão.
+Além disso, de acordo com o projeto da ITER, é impossível que acidentes nucleares como os de Chernobyl ou de Fukushima aconteçam nessas condições.DOSSIÊ – INOVAÇÃO Inovação tecnológica radical e mudança organizacional: a institucionalização de organizações resilientes e formas de trabalho mais substantivas 906-922 Cad.
+EBAPE.BR, v. 17, nº 4, Rio de Janeiro, Out./Dez.
+Isabella Francisca Freitas Gouveia de Vasconcelos Hélio Arthur Reis Irigaray | Fabiana Braga Leal Leonardo Araujo de CarvalhoO hélio, produzido na fusão, é um gás não radioativo.
+Todos os resíduos que sobram da fusão são tratados e possuem uma meia-vida de apenas algumas dezenas de anos – sendo tratados e estocados, podem ser reciclados depois de 100 anos.
+Trata-se de uma duração muito menor dos resíduos em comparação com a das usinas de fissão nuclear.
+Não há também o risco de explosão nuclear, tendo em vista que a quantidade de combustível presente no reator só permite alimentar a combustão durante alguns segundos.
+Toda perturbação leva a uma parada imediata do reator, não havendo risco no processo de fusão nem de explosão.
+Também não existe risco de contaminação em larga escala (ITER, 2009).
+O problema das usinas de fissão nuclear é o perigo de acidentes, que não existe na usina de fusão, segundo os cientistas, bem como a duração por centenas de milhares de anos dos dejetos produzidos e que possuem radioatividade, o que também não ocorre, como vimos, nas usinas de fusão .
+Na visão dos cientistas, se a eletricidade puder ser gerada dessa forma daqui a 50 anos, será, sem dúvida, um avanço científico no sentido de substituir as usinas por fissão nuclear.
+Carros movidos à energia renovável/sustentável Outra inovação, além dos carros elétricos, são carros movidos por meio da produção de hidrogênio por eletrólise.
+A energia para a eletrólise pode vir de fontes renováveis, como painéis solares, turbinas eólicas, usinas hidroeléricas e geotérmicas.
+A Honda, a General Motors e a Toyota anunciaram a comercialização destes carros até 2020.
+A Porsche, em Leipzig, cria versões híbridas combinando modelo à combustão e elétrico, emitindo 75% de CO2 e alcançando, mesmo assim, 275Km/h.
+A empresa também desenvolve, em Stuttgart, o Mission E, 100% elétrico.
+A BMW desenhou sua atuação futura em quatro pilares: carro autônomo, conectividade, eletrificação e serviços.
+Exemplo do conceito: Drivenow, um sistema de compartilhamento de carros presente em 13 cidades da Europa, com um milhão e meio de clientes (Modelo de Veículo Elétrico BMW i3).
+Nesse sistema, o veículo que o usuário quer usar é localizado e alugado por intermédio de um app (aplicativo).
+A carteira de motorista é validada em algum ponto de atendimento da BMW e a cobrança é feita por minutos de uso.
+O usuário deixa depois o carro em um local permitido da cidade.
+Prioridades: eletrificação, e depois a conectividade e condução autônoma.
+Verifica-se a mudança de comportamento dos indivíduos com o uso de frotas compartilhadas, o que aumenta a mobilidade urbana.
+Os governos promovem incentivos para carros elétricos, como a Alemanha, que oferece subsídio de 4.000 euros para o comprador e determina que, até 2030, a produção de carros com motores a combustão terá de acabar.
+Na França e Reino Unido, a data é 2040.
+Alguns aspectos para constatar: - A Volkswagen pretende, até 2030, ter uma versão elétrica de todos os modelos da empresa com preços atraentes; - A Tesla, fundada em 2003 nos USA pelo sul-africano Elon Musk, vendeu 50.931 unidades do seu carro elétrico em 2016; - O que define uma montadora é a habilidade de lidar com a complexidade de integrar diferentes parceiros para construir um veículo seguro; - A Sono Motors, startup alemã, pretende lançar até 2019 um carro movido a energia solar.
+Fez dois protótipos e fechou acordo com uma fábrica terceirizada.
+- A BMW, a Intel e a Mobileye, empresa israelense de inteligência artificial da Intel, estão desenvolvendo um carro autônomo; - A Renault, com o plano Drive the Future , quer oferecer um carro elétrico e conectado, a um bom preço.
+Seu objetivo são 5 milhões de veículos em ritmo anual a partir de 2022, reunindo todas as suas marcas: Renault, Dacia, Renault Samsung, Alpine e Lada, num faturamento de 70 bilhões de euros; - Renault Nissan quer produzir um carro elétrico, autônomo e conectado a um excelente preço, investindo 18 bilhões de euros em pesquisa e desenvolvimento.DOSSIÊ – INOVAÇÃO Inovação tecnológica radical e mudança organizacional: a institucionalização de organizações resilientes e formas de trabalho mais substantivas 907-922 Cad.
+EBAPE.BR, v. 17, nº 4, Rio de Janeiro, Out./Dez.
+Isabella Francisca Freitas Gouveia de Vasconcelos Hélio Arthur Reis Irigaray | Fabiana Braga Leal Leonardo Araujo de CarvalhoInovações na área de educação A Faculdade Minerva, no vale do Silício, sob direção de Stephen M. Kosslyn, forma os melhores solucionadores de problemas, com a tecnologia a serviço da pedagogia.
+Seu foco é criar quatro competências: a) pensamento crítico; b) pensamento criativo; c) aprender a comunicar-se; e d) interagir de maneira efetiva com pessoas e instituições.
+A prova para avaliar estas competências é o Collegiate Learning Assessment (CLA+).
+O Cornell Tech, em Nova York, seleciona as melhores ideias de alunos em startups e as financia.
+As quatro melhores startups do ano recebem prêmios de 100.000 dólares e investimentos de venture capital .
+Como vimos, a evolução da tecnologia é disruptiva: hoje um smartphone é 1000 vezes mais veloz e 1 milhão de vezes mais barato que um supercomputador dos anos 70.
+A mudança na comunidade humana não precisa ser disruptiva como na tecnologia .
+A Singularity University , criada há menos de 10 anos no Vale do Silício, atrai empresários e executivos interessados em entender as novas tecnologias e seu impacto e alavancar startups .
+Foi criada por Larry Page (da holding Alphabet, dona do Google) e pelo físico Peter Diamandis.
+A instalação está situada em um centro de pesquisas da NASA em Mufett Field , Vale do Silício.
+São 80 alunos por turma; programas de aceleramento de startups , com análise de produtos e serviços e participação de executivos da Microsoft, Google; professores como Craig Venter, da Universidade de San Diego, que sequenciou o genoma humano; network para obter financiamentos de venture capital .
+Trata-se de influenciar os tomadores de decisão com relação aos rumos das atuais inovações disruptivas.
+Atualmente as quatro empresas mais valiosas do mundo constituem-se impérios tecnológicos: Apple, Alphabet, Microsoft e Amazon.
+O Programa de Aceleração de Empresas do Google, Launchpad, criado em 2016 para países emergentes, tem normalmente seis meses de duração, dos quais duas semanas são em São Francisco, com mentores e especialistas de áreas de marketing e desenvolvimento de produto.
+O Google oferece 50.000 dólares para a startup utilizar como quiser e 100.000 dólares em créditos para compra de serviços do próprio Google.
+Além de melhorar os produtos, as startups podem receber investimentos de venture capital .
+As corporações aproximam-se das startups porque temem o "efeito Kodak": serem surpreendidas por uma tecnologia disruptiva que acabe com seus negócios da noite para o dia.
+Ao investir em programas de aceleração, as empresas estabelecem parcerias com as startups e têm chance de fechar acordos antes da concorrência.
+Microsoft, IBM, Oracle e Cisco também têm programas de aceleração de empresas digitais – assim como Coca-Cola, Airbus e Disney.
+Atualmente no mundo, há 579 aceleradoras ativas; 11.300 startups já passaram por programas de aceleração e cerca de 207 bilhões de dólares foram investidos desde 2005.
+Startups são negócios bastante inovadores e de alto risco.
+A falência destas empresas é alta no Brasil: 74% fecham depois de 5 anos.
+As que sobrevivem (26%) demonstram viabilidade e inovação.
+Assim, os países que investiram em ecossistemas nacionais de inovação, conectando pessoas, recursos, políticas e organizações, ganham vantagem no momento em que a indústria migra para a produção (e o uso) de itens com maior valor tendo em vista a inovação de alto nível.
+No Brasil, o setor industrial responde atualmente por 21% do PIB.
+Nos USA, unicórnio ( startup que atingiu o valor de US$ 1 bilhão) tem 1% chance de existir, levando-se em conta todas as startups abertas.
+No Brasil, há 0,02% de chance de uma startup virar unicórnio.
+O país tem quatro startups unicórnio: 99 (aplicativo de mobilidade urbana; criada em 2012); PagSeguro (meio de pagamentos; criada em 2006), Nubank (crédito; criada em 2013), Brex (crédito; criada em 2017).
+Todas atingiram 1 bilhão de dólares em 2018.
+O governo atual de Emannuel Macron criou a Station F, em Paris, uma grande incubadora de startups promissoras.
+Em Madri, o espaço La Nave, de 13.000 metros quadrados, dedicado a startups e cursos de aceleramento, já gerou casos de sucesso como o Cabify (versão espanhola do U ber), que já captou 100 milhões de dólares em investimentos e está presente em mais de 11 países.
+No Rio de Janeiro, um espaço para startups e cursos de aceleração de startups no Porto Maravilha (espaço remodelado no porto do Rio de Janeiro) visa também cumprir esta função.
+DOSSIÊ – INOVAÇÃO Inovação tecnológica radical e mudança organizacional: a institucionalização de organizações resilientes e formas de trabalho mais substantivas 908-922 Cad.
+EBAPE.BR, v. 17, nº 4, Rio de Janeiro, Out./Dez.
+Isabella Francisca Freitas Gouveia de Vasconcelos Hélio Arthur Reis Irigaray | Fabiana Braga Leal Leonardo Araujo de CarvalhoEmpresas que têm programa de aceleração de startups utilizando o corporate venture capital (capital de risco corporativo) investem em outras que estão inovando e desenvolvendo tecnologias com alto potencial de sucesso.
+Nesse caso, o relacionamento entre a startup e a empresa investidora deve ser bem gerenciado para ter uma relação do tipo ganha-ganha, ou seja, boa para ambas.
+Para a corporação, a proximidade com startups permite: (1) velocidade, uma vez que as empresas jovens operam rápido através de cadeia de decisão condensada e metodologias ágeis, o que inspira a corporação a executar mais rapidamente a inovação; (2) reconhecer novas tecnologias e mercados para que possa inovar antes de seus concorrentes; (3) estímulo, com o rápido crescimento característico de startups , a ser menos avessa a risco e mais focada em indicadores de desempenho (4) aproximar-se de novas gerações, uma vez que grandes corporações são percebidas como menos atraentes por este público (AVENA, 2018).
+Para a startup , a proximidade com as corporações permite: (1) maior credibilidade, pois a grande corporação como cliente ou sócia valida o modelo de negócios, produto ou serviço da startup ; (2) alavancar o relacionamento das startups com os meios de comunicação (3) ajudar na negociação com fornecedores (4) opção de financiamento via transferência de ações (AVENA, 2018).
+Como já apresentado no artigo, existem rupturas tecnológicas possíveis de serem previstas, pois se trata de inovações radicais realizadas pela própria empresa.
+Assim como é possível prever as rupturas provocadas pela própria empresa devido à inovação tecnológica radical, é possível prever também os diferentes impactos que a nova tecnologia produzirá na própria organização e na sociedade em geral, por meio do planejamento de cenários ( scenario planning ).
+Com base nisso, redesenham-se formas de trabalho e interação a fim de se implementar organizacionalmente a mudança que acompanhará a evolução tecnológica e que ocasionará modificações também na organização do trabalho humano na empresa.
+Não há necessidade, porém, de rupturas no sistema humano da empresa.
+Internet das Coisas – IoT A Internet das Coisas (IoT) são objetos físicos envelopados por uma camada digital – de uma lâmpada e fechadura até uma turbina e um veículo inteiro.
+São dispositivos que têm, simultaneamente, em alguma intensidade, capacidade de computação, comunicação e controle.
+Comunicação: As coisas inteligentes têm a capacidade de se comunicar sem fio entre si e formar redes de objetos interconectados.
+Identificação: Coisas inteligentes são identificadas com um nome digital – relações entre coisas podem ser especificadas no domínio digital sempre que a interconexão física não puder ser estabelecida (AVENA, 2018).
+Interação: Coisas inteligentes podem interagir com o ambiente por meio de recursos de detecção e atuação sempre que presentes.
+A IoT permite ampla aplicabilidade em muitos setores produtivos, como monitoramento ambiental, cidades inteligentes, negócios inteligentes, casas inteligentes, atendimento médico, segurança e vigilância (AVENA, 2018).
+A IoT pode ajudar tanto em termos econômicos, na redução do consumo de recursos (eletricidade, água), quanto sociais, como diminuição da emissão de carbono, incorrendo na melhoria do nível de satisfação dos moradores, por intermédio de sensores que são usados tanto para monitorar o consumo de recursos como para detectar proativamente as necessidades dos usuários em vários subsistemas, como ligar/desligar a iluminação, o aquecimento, resfriamento etc.
+As cidades inteligentes referem-se à otimização do uso de infraestruturas das cidades e qualidade de vida dos seus cidadãos por intermédio de uma infraestrutura de comunicação avançada e novos serviços no cenário urbano.
+São exemplos o monitoramento do trânsito dos carros em grandes cidades, o controle climático, o controle de energia elétrica etc.
+para otimiz á-los .DOSSIÊ – INOVAÇÃO Inovação tecnológica radical e mudança organizacional: a institucionalização de organizações resilientes e formas de trabalho mais substantivas 909-922 Cad.
+EBAPE.BR, v. 17, nº 4, Rio de Janeiro, Out./Dez.
+Isabella Francisca Freitas Gouveia de Vasconcelos Hélio Arthur Reis Irigaray | Fabiana Braga Leal Leonardo Araujo de CarvalhoO monitoramento ambiental pode permitir que a tecnologia processe informações em tempo real para verificar fenômenos e processos naturais como temperatura, vento, precipitação, altura do rio e integre perfeitamente esses dados heterogêneos em aplicações globais.
+Nesse sentido, a tecnologia de IoT pode permitir colher fatos e ter elementos para ajudar na tomada de decisão.
+As tecnologias de IoT podem melhorar soluções de vida assistida colhendo dados da saúde do paciente que são transmitidos a centros médicos remotos.
+Há, por exemplo, sensores que são utilizados em termos de prevenção, como vestimentas ou smartphones .
+A tecnologia Radio Frequency Identification (RFID), desenvolvida no início da IoT, permite o uso na gestão de estoques, rastreamento de mercadorias e serve para identificação e rastreamento de produtos, além de biossensores que monitoram parâmetros como temperatura e composição bacteriana a fim de garantir a qualidade do produto final.
+A história da General Electric A GE é uma verdadeira gigante.
+É a maior fabricante mundial de motores de pequeno e grande porte para aeronaves comerciais e militares e é conhecida como uma das maiores fabricantes do mundo de equipamentos domésticos (refrigeradores e freezers , fornos de cozimento rápido e de microondas, fogões elétricos e a gás, lavadoras e secadoras, lava-louças, trituradores e compactadores de lixo, aparelhos de ar condicionado e sistemas de purificação de água), que são comercializados com as marcas Monogram, Profile Performance, Profile, GE e Hotpoint, dentre outros produtos com marcas de terceiros, como também a produção de mais da metade das locomotivas.
+Tem operação em mais de 100 países, com a distribuição de seus produtos em outros 180, emprega mais de 327 mil pessoas em todo o mundo.
+A sua linha de produtos transcende os 800, que vão desde uma lâmpada a potentes turbinas de avião e locomotivas .
+Em Paixão por Vencer , J. Welch e S. Welch (2005) mostram como a General Electric buscou, em sua gestão, institucionalizar o principio da franqueza na organização – com polidez, naturalmente – e, ao mesmo tempo, valorizar a área de gestão de pessoas, a desburocratização na avaliação de pessoas e um feedback honesto para cada um.
+De acordo com a política de diferenciação da companhia, 20% foram classificados como de desempenho superior, 70% como competentes com possibilidade de promoção e 10% como de menor desempenho.
+A franqueza e a integridade nos negócios são valores institucionalizados na empresa, sendo a integridade considerada o comprometimento em não apenas seguir a lei, mas também cumprir as promessas que são feitas.
+Em pesquisas em outras empresas, Welch e Welch (2005) afirmam que apenas 20% das pessoas, no máximo, reconhecem existir franqueza em suas organizações.
+A GE também tem o princípio de contratar pessoas que, além de íntegras e francas, sejam inteligentes e possuam as qualidades dos 4Es ( Elegância, Eloquência, Eficiência e Êxito) – energia positiva, influenciando positivamente os colegas, clientes e subordinados; capacidade de executar bem as tarefas e entregar resultados concretos com sucesso e paixão pelo que fazem, dedicando-se realmente ao trabalho.
+Linha do tempo3 1886 – Transferência do Laboratório Edison (agora um monumento nacional) para West Orange, Nova Jersey, originando uma nova forma de fazer negócios, ou seja, um grupo de pessoas ao invés de uma, poderia inventar, construir e comercializar produtos.
+1876 – Edison com o auxílio de um grupo de empregados, inventou um telégrafo com a capacidade de envio de quatro mensagens de uma vez e modernizou o telefone, com o objetivo de falar e ouvir ao mesmo tempo.
+1878 – Thomas Alva Edison, juntamente com Grosvenor P .
+Lowery (consultor da Western Union ), fundaram a Edison Electric Light Company em Menlo Park/New Jersey cujo objetivo era desenvolver um sistema de iluminação comercialmente viável.
+1879 – Thomas Alva Edison desenvolveu a primeira lâmpada de filamento de carbono, tomada de corrente por dínamos de alta tensão especiais, que ficou acesa por 40 horas.
+3 O aprofundamento dos marcos cronológicos da GE pode ser verificado no site da empresa GE.
+Disponível em: < e Disonível em: < Ê – INOVAÇÃO Inovação tecnológica radical e mudança organizacional: a institucionalização de organizações resilientes e formas de trabalho mais substantivas 910-922 Cad.
+EBAPE.BR, v. 17, nº 4, Rio de Janeiro, Out./Dez.
+Isabella Francisca Freitas Gouveia de Vasconcelos Hélio Arthur Reis Irigaray | Fabiana Braga Leal Leonardo Araujo de Carvalho1880 (final da década) – Entrada no mercado inglês com sua subsidiária, a Edison Swan ; na Alemanha, por meio da Algemeine Edison Gesellschaft; e na Itália sob mediação da Societá Edison per la Fabricazione delle Lampade.
+1892 – fusão da Edison General Electric Company e da Thomas Houston Electric Company (fundada em 1883), arquitetada pelo banqueiro J. P .
+Morgan, originou a General Electric Company.
+1896 - listada no índice industrial Dow Jones pelo sucesso adquirido em várias áreas.
+1900 – primeira empresa a inaugurar um laboratório privado para pesquisas científicas em Schenectady/NY .
+1908 – pioneira na construção de locomotivas elétricas (meio de transporte para a estação central de Nova York).
+1914 – a GE executou todo o sistema de controle e instalação elétrica do Canal do Panamá.
+1922 – inauguração de uma das primeiras estações de rádio dos Estados Unidos.
+1927 – instalou o departamento de produção de refrigeradores.
+1932 – criação da divisão de desenvolvimento plástico e da divisão de ar condicionado.
+Década de 40 – mais uma inovação, a construção do primeiro avião a jato dos Estados Unidos, o modelo 1 A.
+1969 – demonstração do seu poderio quando o Projeto Apolo (que levou o homem à Lua), envolveu 37 operações da empresa e mais de 6000 empregados.
+Década de 70 – a GE vivia um período sensível, pois a concorrência já não permitia que as tecnologias da empresa se distinguissem no mercado juntamente com a necessidade de rapidez e de aperfeiçoamento contínuo que exigia a eliminação de barreiras internas de funcionamento para atingir uma comunicação mais eficaz e um menor tempo de resposta.
+1981 – Jack Welch4 assumiu a presidência da empresa com o objetivo de recuperar os dias de reputação da empresa.
+1986 – Aquisição da RCA Cor poration e a sua rede de televisão NBC.
+2001 – Jack Welch deixou o cargo, durante o seu período de gestão, ele edificou uma GE mais magra, forte e mais competitiva, com menos pessoas, diminuiu as unidades de negócio, os níveis e passou a atuar com menos gestores – tornando-se muito mais valiosa.
+É interessante apresentar que o valor de mercado à época de sua gestão passou de US$ 14 bilhões para US$ 410 bilhões.
+Foi também o lançamento das lâmpadas GE Reveal™ .
+2002 – Lançamento do sistema de ultrassom com imagens 3D em tempo real.
+2007 – a empresa sob o comando de Jeff Immelt (ex-chefe da divisão médica da GE e ex-vice presidente da área plástica) neste período mais da metade das vendas globais veio de fora dos Estados Unidos.
+Sendo que na última década, a GE abriu seus três primeiros centros de pesquisa fora dos Estados Unidos: Índia (Bangalore), China (Shangai) e Alemanha (Munique).
+2008 – a GE anunciou a reorganização imediata de suas operações em quatro divisões, dentre as seis atuais, cujo objetivo era aumentar a eficácia e a rentabilidade de seus negócios, por exemplo, a divisão de tecnologia incluindo as operações relacionadas a aviação, transporte e assistência sanitária, entre outras e a divisão de energia abrangendo as operações vinculadas ao setor energético e à água, e a de capital incluindo todas as atividades associadas aos serviços financeiros que disponibiliza às empresas.
+4 Algumas das ações realizadas por Jack Welch para a recuperação da GE: tirou a empresa do ramo dos pequenos aparelhos domésticos, diminuiu a força de trabalho de 404 mil para 229 mil (fim da antiga política de não demissão), fechou 73 fábricas e eliminou 232 produtos, vendeu 12 bilhões em negócios da GE e comprou outros que estavam avaliados em 26 bilhões ; combinou os interesses europeus da GE em aparelhos, equipamentos médicos, distribuição elétrica e sistemas de energia com a não relacionada General Electric Company of Britain, impulsionando o êxito de mercado da empresa de US$ 12 bilhões para mais de US$ 100 bilhões.
+A GE tinha na época 350 unidades de negócios quando Welch assumiu a presidência e passou a atuar com 12 apenas: motores para aviões, eletrodomésticos e ar condicionado, serviços financeiros, distribuição elétrica, sistemas industriais, serviços de informação (internet e intranet), sistemas de transporte e a rede de TV NBC.DOSSIÊ – INOVAÇÃO Inovação tecnológica radical e mudança organizacional: a institucionalização de organizações resilientes e formas de trabalho mais substantivas 911-922 Cad.
+EBAPE.BR, v. 17, nº 4, Rio de Janeiro, Out./Dez.
+Isabella Francisca Freitas Gouveia de Vasconcelos Hélio Arthur Reis Irigaray | Fabiana Braga Leal Leonardo Araujo de CarvalhoSeus slogans Imagination at Work – 2003 A imaginação trabalhando – 2003 Proven products for the 80´s from a proven team – 1980 Produtos de qualidade para os anos 80, feitos por um time de qualidade – 1980 One of the biggest names in almost everything – 1979 Um dos maiores nomes em quase tudo - 1979 Progress for People – 1974 Progresso para as pessoas - 1974 Progress is our most important product – 1965 O progresso é nosso maior produto - 1965 You can put your confidence in General Electric – 1953 Você pode confiar na General Electric – 1953 Principais dados da empresa: a) Origem: Estados Unidos b) Fundação: 1892 c) Fundador: Thomas Edison d) Sede mundial: Fairfield, Connecticut e) Proprietário da marca: General Electric Co. f) Capital aberto: sim g) Chairman/CEO: Jeffey Immelt h) Faturamento: US$ 172,79 bilhões (2007) i) Valor de mercado: US$ 288,5 bilhões (2008) j) Valor da marca: US$ 53,08 bilhões (2008) k) Presença global: mais de 180 países l) Funcionários: 327.000 m) Segmento: conglomerado n) Principais produtos: eletrodomésticos, turbinas de avião, locomotivas, automação industrial, geração de energia o) Ícones : o fundador, Thomas Edison p) Slogan: Imagination at work q) Website: www.ge.com General Electric no Brasil A GE atua no Brasil desde 1919, com oito instalações industriais no país, subdivididas entre os estados de São Paulo, Minas Gerais e Rio de Janeiro, além de escritórios de venda e marketing em outras localidades.
+A matriz está istalada na cidade de São Paulo empregando cerca de 8.000 pessoas e todos os seus onze negócios, em maior ou menor dimensão, mant êm atividades no Brasil, seja de manutenção para motores de avião a geração de energia, transitando por serviços financeiros, eletrodomésticos, equipamentos de diagnóstico por imagem e plásticos de engenharia, conferindo ao mercado brasileiro o que há de mais aprimorado em tecnologia de produtos e serviços.
+Ecoimagination Este programa teve início em dezembro de 2004, quando o presidete Jeffey Immelt determinou que todas as áreas de empresa deveriam ter um engajamento em produtos ambientalmente corretos, desde a fabricação de turbinas aos serviços financeiros – foi lançado em maio de 2005.
+Seu objetivo era o de transverter desafios ambientais em estímulo à inovação e em fontes de receitas, além de reduzir os danos ecológicos da empresa.
+A visão da General Electric é expressa pelo lema Green is Green : investir em inovação sustentável para a construção de um mundo melhor, com lucratividade.DOSSIÊ – INOVAÇÃO Inovação tecnológica radical e mudança organizacional: a institucionalização de organizações resilientes e formas de trabalho mais substantivas 912-922 Cad.
+EBAPE.BR, v. 17, nº 4, Rio de Janeiro, Out./Dez.
+Isabella Francisca Freitas Gouveia de Vasconcelos Hélio Arthur Reis Irigaray | Fabiana Braga Leal Leonardo Araujo de CarvalhoResponsabilidade social A GE Foundation , criada em 1953, é uma organização filantrópica da General Electric, que investe em programas baseados em educação com qualidade.
+Em média a GE investe US$ 550.000 por ano no Brasil.
+Apresenta o programa 'Responsabilidade Social Corporativa' com o engajamento continuado dos empresários em assumir um comportamento ético e colaborar para o desenvolvimento econômico, incrementando, concomitantemente, a qualidade de vida de seus empregados e de suas famílias, da comunidade local e da sociedade como um todo.
+Projetos GE a) Junior Achievement: ação da Fun dação GE voltada para o ensino do empreendedorismo aos jovens ainda na escola, incentivando a sua continuidade educacional.
+b) Círculo de leitura: busca apoiar o jovem no desenvolvimento de sua identidade, comunidade e cidadania através da leitura e o debate em grupo criando um ambiente para que eles possam compartilhar suas experiências e aumentar o seu espaço de conhecimetno e ideias utilizando as palavras e o contato/vínculo um com o outro.
+Estes encontros acontecem uma vez por mês com duração de 2 horas cada dentro da GE (sala de treinamento).
+Os voluntários trabalham de forma participativa com grupos de 10 a 15 jovens, pois os grupos pequenos fornecem perefíveis condições para o diálogo entre jovens e a criação de vínculos com outros jovens e voluntários.
+c) Projeto Fortalecer : apoio a 40 organizações sociais (30 indicadas pela Abrinq e 10 indicadas por voluntários da GE) para que, de modo que em rede possam estimular a defesa dos direitos e o exercício da cidadania da criança e do adolescente de modo mais eficiente.
+d) Rede In formação: melhorar a qualidade do ensino público, qualificando coordenadores de ensino e assistentes pedagógicos da rede municipal para realizar a formação contínua dos professores.
+Este projeto já foi implementado em todas as escolas de São Paulo (capital).
+GE Volunteers A GE Volunteers é uma organização que foi criada em 1928 com o objetivo de incentivar a participação de voluntários (funcionários GE) nas diversas comunidades onde a GE atua.
+O projeto GE Volunteers foi inaugurado no Brasil em 1997, onde a organização é representada por cinco conselhos diretivos: São Paulo, Campinas, Rio de Janeiro, Petrópolis e Contagem.
+Segundo dados internos, durante o período de 1997 a 2007 foram executados mais de 250 projetos sociais e campanhas, cerca de 112.000 horas doadas, 93.000 pessoas beneficiadas e mais de US$ 710.000,00 investidos.
+No mundo, existem mais de 140 conselhos localizados em 37 países.
+Cada conselho é responsável pela mobilização e planejamento de seu voluntariado em projetos à serviço da comunidade à qual está inserida.
+- Campanha do Agasalho: todos os anos, durante um mês são colocadas caixas de arrecadação de agasalho nas copas de todos os andares, onde os funcionários podem fazer suas doações.
+Todo o material doado é destinado a uma entidade diferente a cada ano.
+- Campanha de Natal: acontece todos os anos ao longo do mês de novembro e dezembro.
+Cada ano a campanha tem um público alvo e entidade diferentes.
+- Paint Day: iniciativa global da GE que visa deixar mais alegre o ambiente de diversos hospitais pelo mundo.
+Neste projeto os funcionários dedicam uma manh ã a alegrar crianças.
+- Be Yourself a Volunteacher: uma parceria da GE Volunteers , Gerdau e EFALL Engenharia Elétrica LTDA, que tem como objetivo usar o ensino de inglês como instrumento de educação, auxiliando o pré-adolescente e o adolescente a conquistarem, com autonomia, seus ideais e alcançar um futuro melhor.
+- Comunity Day: uma iniciativa da GE Volunteers do Conselho São Paulo: um dia de cada mês é dedicado a atividades sociais em entidades previamente selecionadas.
+Em 2003, a GE Elfun Volunteers deu início ao projeto que beneficiou crianças de 4 a 14 anos na comunidade do Jacarezinho, vizinha à fábrica de lâmpadas da GE.
+O programa socioeducativo beneficiou cerca de dois mil alunos da rede pública de DOSSIÊ – INOVAÇÃO Inovação tecnológica radical e mudança organizacional: a institucionalização de organizações resilientes e formas de trabalho mais substantivas 913-922 Cad.
+EBAPE.BR, v. 17, nº 4, Rio de Janeiro, Out./Dez.
+Isabella Francisca Freitas Gouveia de Vasconcelos Hélio Arthur Reis Irigaray | Fabiana Braga Leal Leonardo Araujo de Carvalhoensino, cujo objetivo é integrar ao currículo escolar temas como: cuidados com a higiene, cidadania, autoestima, nutrição e saúde preventiva.
+O setor de Recursos Humanos da GE a) Gestão de pessoas: Four Stages Model, estrutura de carreira plana; b) Avaliação 360 graus – as pessoas são avaliadas por todos com os quais trabalham; c) Organização desburocratizada.
+Na gestão de Jacques Welch, a empresa optou por: - ser a primeira ou a segunda nos diversos setores no business onde atua, ajustando negócios (reestruturando), inovando ou fechando mercados onde não terá chance de ser ou a primeira ou a segunda mais bem colocada no setor; - implementar uma cultura de franqueza na organização e luta contra a burocracia, visando à pós-burocracia (ver Heckscher, 2007 e adhocracia de Mintzberg, 1994); - classificar as pessoas, no sistema de gestão, da seguinte forma: desempenho superior (20%), competentes (70%), com menor desempenho (10%).
+Na visão de Jacques Welch, foi possível implementar tal cultura após dez anos de esforços para institucionalizar o valor franqueza e sinceridade nas reuniões e na organização, com exemplo dos líderes, gerentes e alta diretoria.
+A empresa visava também a uma gestão honesta e transparente, exigindo o cumprimento de todos estes valores (franqueza com polidez e educação).
+Na classificação de pessoas, os que estavam entre os 20% recebiam atenção, treinamento, altos salários, promoções, pois eram os mais capazes, inovavam e eram considerados como de alto potencial.
+Os 70% também eram tratados comimportância, recebiam formação, informação e, por meio de uma política de gestão de pessoas baseada em meritocracia, tinham incentivos, benefícios, plano de carreira.
+Os melhores potenciais e talentos eram alavancados para estar entre os 20% melhores.
+Os 10%, considerados não promissores, eram incentivados a mudar de empresa, encontrar novos caminhos onde pudessem se desenvolver.
+Dessa forma, para inovar, a GE pretende ter uma cultura institucionalizada em uma comunicação aberta e franca – definida, aqui, como habermasiana.
+Cada colaborador sabe, de forma franca, qual a sua situação na empresa, tomando ciência de suas possibilidades e de sua avaliação.
+A organização implementa o conceito de learning organization (organização em aprendizado), com uma cultura aberta, no sentido de que a inovação não ocorre para mero deleite intelectual dos pesquisadores, mas porque tem de ter uma função social, de acordo com a visão da empresa, contribuindo com a visão do Ecomagination (inovação sustentável para um mundo melhor, com lucratividade).
+Para que a inovação ocorra, a organização precisa ser enxuta e possuir uma estrutura informal que permita rapidamente a comunicação com todos na busca por soluções.
+Os projetos têm de ser direcionados para um fim específico e precisam ser «vendidos» dentro de um processo de busca de oportunidades, no estilo do Garbage Can Model.
+Isso significa que as soluções existem ainda antes do problema, cria-se algo e aí verifica-se para que serve a invenção, talvez isso esteja ligado a problemas do futuro ou oportunidades e a inovação já seja uma solução.
+A GE afirma que «o processo de inovação ocorre, assim, nas duas direções.
+Na verdade, quando se transforma a invenção em algo concreto, encontramos a inovação.
+Alguns fatores são importantes neste processo: é necessário 'repensar a organização' propondo-se novas soluções e sempre questionando o 'atual estado das coisas'.
+A GE declara que possui estrutura organizacional de aprendizagem ( learning ) voltada para o mercado, mas que também pode colocar suas invenções no próprio mercado.» Esse tipo de cultura, que visa institucionalizar uma prática de comunicação franca, era encontrado em setores da IBM nos valores «respeito ao indivíduo», «busca da excelência» e «fale francamente», conforme artigo (VASCONCELOS, 1993).
+DOSSIÊ – INOVAÇÃO Inovação tecnológica radical e mudança organizacional: a institucionalização de organizações resilientes e formas de trabalho mais substantivas 914-922 Cad.
+EBAPE.BR, v. 17, nº 4, Rio de Janeiro, Out./Dez.
+Isabella Francisca Freitas Gouveia de Vasconcelos Hélio Arthur Reis Irigaray | Fabiana Braga Leal Leonardo Araujo de CarvalhoCrotonville: o centro de excelência em treinamento para os melhores executivos GE Localizado dentro da pequena cidade de Ossining, em uma área de 220.000 metros quadrados, Crotonville é responsável pelo treinamento de todos os executivos considerados como os principais talentos da companhia.
+Quem for escolhido para ser treinado lá pode ter a certeza da gigante aposta que a empesa está fazendo.
+No decorrer dos 130 anos de história, a GE nunca contratou nenhum presidente de fora, todos foram formados dentro da própria companhia, e certamente passaram pelos ensinamentos de Crotonville.
+Aliás, com relação ao treinamento, quem olha para Crotonville tem a nítida impressão, segundo as entrevistas, de que se trata de um campus universitário igual a tantos outros.
+No entanto, quem olhar mais profundamente verá ali que as aulas são totalmente baseadas em problemas reais e passam longe de ser apenas teorias que, geralmente, não são utilizadas na vida real.
+Isso se dá porque o intuito de Crotonville é permitir que os executivos aprendam e possam produzir bons resultados para a companhia – muitos dos problemas apresentados são da própria GE, em um esforço para desenvolver o senso crítico e analítico dos gestores.
+O dia de estudo neste centro de treinamento é bastante árduo, inicia-se às 8h00 e termina no final da tarde.
+A socialização entre os executivos – que são alunos no centro de treinamento – é muito importante, eles realizam também trabalhos em grupo .
+Os professores , em sua maioria, são ex -executivos da GE que conhecem os maiores desafios da empresa e refletem juntamente com os alunos buscando suas soluções.
+Além da teoria, os alunos também buscam soluções práticas e aplicadas para a GE, trocando experiências.
+Jack Welch investiu muito na revitalização deste centro de treinamento.
+Ecoimagination A preocupação com a sustentabilidade tem em seu foco a inovação sustentável, que busca atender as necessidades atuais da população na Terra, sem comprometer seus recursos naturais, permitindo seu legado para gerações futuras.
+A GE quer criar produtos sustentáveis em todas as suas linhas, visando à preservação do meio ambiente e criação de um mundo melhor, mas também à lucratividade («Green is Green»).
+Assim, todos os programas devem ter um engajamento de produtos ambientalmente corretos, desde a fabricação de turbinas aos serviços financeiros.
+Com o tempo, a GE quer ser uma organização inovadora sustentável, que fabrica produtos ecologicamente corretos e atua no pilar do desenvolvimento social, econômico e de proteção do meio ambiente.
+Por intermédio do progama Ecomagination – lançado em 2005 –, a General Electric procura resolver hoje os problemas de amanhã, tendo em vista um ambiente mais claro e limpo, sem poluição e irradiação.
+A imaginação é utilizada para deixar fluir ideias e criar novas perspectivas nas principais áreas de inovação da empesa, com tecnologias que possam resolver estes problemas.
+A ideia baseia-se no «win win game»: todos ganham com a inovação sustentável.
+A GE possui 36 mil profissionais em seus centros de pesquisa e desenvolvimento.
+Entre as novas ideias, estão turbinas que emitem menos GEE, equipamento de automação para casas que reduz o consumo de água e energia.
+Em 2007, as vendas somaram quase 10% das vendas globais da empresa, crescendo três vezes mais rápido que a média de outros produtos da GE.
+H á a perspectiva de se chegar ao investimento de US$ 1,5 bilhão em pesquisa e US$ 25 bilhões em vendas, o que se planejava atingir até 2010.
+No que se refere a geração de energia limpa, responsável por metade das vendas do Ecomagination, originada dos equipamentos de energia eólica, a GE pode ser considerada a maior empresa de energia renovável do mundo, com faturamento de cerca de US$ 10 bilhões por ano.
+Juntamente com a Boeing desenvolve turbinas que, além de mais silenciosas, ajudam a reduzir as emissões das aeronaves de companhias aéreas.
+Tem-se, ainda, a tecnologia de dessalinização, que recicla a água do mar, considerada uma das tecnologias mais promissoras da GE; locomotivas da série Evolution, com motor a diesel, projetadas para reduzir as emissões de gases poluentes em até 40%, tendo um menor consumo de combustível, 9% em relação ao da atual frota operacional, para uma maior distância – possível em virtude do novo motor desenvolvido pela empresa.DOSSIÊ – INOVAÇÃO Inovação tecnológica radical e mudança organizacional: a institucionalização de organizações resilientes e formas de trabalho mais substantivas 915-922 Cad.
+EBAPE.BR, v. 17, nº 4, Rio de Janeiro, Out./Dez.
+Isabella Francisca Freitas Gouveia de Vasconcelos Hélio Arthur Reis Irigaray | Fabiana Braga Leal Leonardo Araujo de CarvalhoTrata-se assim de uma empresa que pretende se desburocratizar, adotar a forma de uma adhocracia em suas diversas unidades de inovação e desenvolver cada vez mais a inovação sustentável, visando ao lucro e também contribuir para um mundo mais sustentável.
+Pesquisa científica, publicações científicas e tecnologia digital Inovação tecnológica na comunicação científica Segundo Amorim-Borher, Ávila , Castro et al.
+(2007), nestas últimas décadas a evolução dos processos de inovação tecnológica está ocupando lugar central na competitividade entre países que operam em um contexto globalizado.
+Observa-se principal atenção, nos estudos, dos indicadores de inovação, pesquisa e desenvolvimento mediante abordagens teóricas, distinto setores e comparações nacionais e internacionais, prosperando a publicação em nível nacional e internacional.
+Neste enquadramento econômico de alta competitividade, a empresa depende de sua capacidade de inovar com maior celeridade do que os concorrentes, investigando novas maneiras e estratégias para fortalecer a inovação.
+Um estudo realizado por Gomes (1999) mostrou que a principal característica do processo de inovação tecnológica é a ação estruturadora hierarquizada que acontece em quatro planos: do indivíduo, da organização, da tecnologia e do campo científico.
+Os periódicos eletrônicos, com o advento da inovação tecnológica, facilitam não apenas o acesso e a circulação do conhecimento dentro e fora do país da base de hospedagem, como também o armazenamento local da informação (GOMES, 1999).
+Ribeiro e Correa (2014), por intermédio de um estudo bibliométrico e de rede social, identificaram que as áreas de estudo com maior destaque foram: políticas de ciência, tecnologia e inovação, gestão da inovação e mudança tecnológica e organizacional, representando 53% do total de todas as áreas que ratificam a importância da temática principal, "inovação tecnológica ", nos periódicos acadêmicos.
+A institucionalização de periódicos em áreas especificas, como também a elaboração de chamadas de trabalho ( call for papers ) são coadjuvantes no propósito de valer-se do debate acadêmico e institucional, sobre o tema "inovação", colaborando para o avanço da ciência brasileira e para o desenvolvimento nacional (RIBEIRO e CORREA, 2014).
+Outro aspecto que merece destaque é a informatização das revistas acadêmicas, a implantação dos sistemas eletrônicos de submissão, gestão e publicação de periódicos científicos na web, como Open Journal System /Sistema Eletrônico de Editoração de Revistas (OJS/SEER)5, ScholarOne, facilitando a acessibilidade e acompanhamento das etapas editoriais pelos autores, avaliadores e gestores.
+Este processo de inovação tecnológica retrata também uma maior credibilidade nos dados gerados a partir das plataformas eletrônicas de hospedagem; por exemplo, os dados estatísticos, altimétricos.
+Ribeiro e Correa (2014) enfatizam que as pesquisas acadêmicas são relevantes, pois, permitem maior percepção e clareza a respeito de como as temáticas acadêmicas e áreas do conhecimento são ou estão sendo estudadas e disseminadas na literatura acadêmica nacional e internacional, especialmente sob o tema "inovação", ainda não esgotado academicamente, seja em congressos, revistas, grupos de pesquisas, chamadas de trabalhos ( call for papers ), incentivando novos pesquisadores para a área.
+Tecnologia digital A era digital inicia-se em 1973 com o uso do celular.
+Em 1981 a IBM lança o primeiro computador pessoal.
+Em 1984 ocorrem a entrada da Apple com o Macintosh e a manifestação da internet na década de 1990.
+O uso do computador e internet foram, por exemplo, considerados instrumentos estratégicos para outras inovações que foram surgindo, como mecanismos de busca, marketing de conteúdo, marketing de redes sociais, inbound marketing .
+Uma das maiores mudanças na interação humana no cenário atual é a recente proliferação das redes sociais online .
+As relações sociais do mundo real estão sendo migradas para o mundo virtual, resultando em comunidades online que unem pessoas de diversas localidades.
+Esse movimento de entrada na dimensão digital possibilita que os indivíduos compartilhem 5 "OJS/SEER é um sistema que gerencia o fluxo editorial desde a submissão do original pelo próprio autor, incluindo todo o processo de revisão pelos avaliadores, editores e autores, até a publicação do fascículo na web.
+É um software livre, de código fonte aberto, que está sendo adotado por milhares de periódicos no mundo, segundo o PKP" ( Public Knowledge Project CONTENTMIND, 2014).
+DOSSIÊ – INOVAÇÃO Inovação tecnológica radical e mudança organizacional: a institucionalização de organizações resilientes e formas de trabalho mais substantivas 916-922 Cad.
+EBAPE.BR, v. 17, nº 4, Rio de Janeiro, Out./Dez.
+Isabella Francisca Freitas Gouveia de Vasconcelos Hélio Arthur Reis Irigaray | Fabiana Braga Leal Leonardo Araujo de Carvalhoconhecimento, entretenham uns aos outros e propiciem diálogos entre diferentes culturas (BUDDEN, ANTHONY , BUDDEN et al., 2011).
+Portanto é necessário que as organizações considerem cada vez mais esses aspectos não somente em suas estratégias de comunicação com seus clientes, mas também como fonte de pesquisa e divulgação das publicações científicas.
+No novo cenário advindo do domínio digital, as empresas precisam repensar suas estratégias, baseando-se nas mudanças no comportamento dos consumidores.
+As tecnologias modernas permitem que as empresas trabalhem e implementem formas inovadoras de comunicação e de cocriação de conteúdo com seus consumidores.
+Para maximizar o seu valor, as empresas vêm, cada vez mais, considerando seus consumidores como seu ativo mais valioso.
+Dessa forma, as empresas mais bemsucedidas alcançam tal êxito porque se destacam durante cada estágio do ciclo de vida do consumidor: desde a aquisição de novos compradores, aumentando seu valor ao longo do tempo, até convertê-los em defensores da marca.
+A implantação de programas de marketing , com objetivo de interações nas redes sociais, e a consolidação de vínculos entre indivíduos são relevantes estratégias para incrementar o aceleramento na difusão de tecnologias (RIBEIRO e CORREA, 2014).
+Cassiolato, Brito e Vargas (2005, p. 513) afirmam que: [.]
+a inovação é cada vez mais entendida como sendo um processo que resulta de complexas interações em nível local, nacional e mundial entre indivíduos, firmas e outras organizações voltadas à busca de novos conhecimentos.
+O Manual de Oslo, editado pela Organização para a Cooperação e Desenvolvimento Econômico (OCDE), com a Proposta de Diretrizes para Coleta e Interpretação de Dados sobre Inovação Tecnológica, tem por objetivo orientar e uniformizar conceitos, metodologias e construção de estatísticas e indicadores de pesquisa de P&D de países industrializados.
+Define quatro áreas de inovação que encerram um vasto conjunto de alterações nas atividades das empresas: inovações de produto, de processo, organizacionais e de marketing (OCDE, 2005).
+Na terceira edição do Manual, a estrutura de medição da inovação é amplificada em três significativas perspectivas, são elas: maior destaque para as interações com outras empresas e instituições no processo de inovação; relevância da inovação, sendo validada em indústrias menos intensivas em Pesquisa e Desenvolvimento (P&D), por exemplo, os serviços e a indústria de transformação de baixa tecnologia; alteração de alguns aspectos de estrutura (definições e atividades relevantes) para melhor acondicionar o setor de serviços e, consequentemente, proporcionar um melhor desenvolvimento da definição de inovação com o objetivo de incluir dois novos enunciados de inovações: a organizacional e de marketing , este último é objeto de estudo no próximo tópico (OCDE, 2005).
+Revisão teórica da mídia digital entre o período de 2000 e a atualidade Lamberton e Stephen (2016) revelam que há uma exploração temática da mídia digital por intermédio da evolução da pesquisa.
+Desse modo, uma revisão teórica entre o período de 2000 e a atualidade será apresentada.
+O período de 2000 a 2004 foi a era em que as mídias digitais formavam e auxiliar o comportamento do comprador, que utilizava a internet como plataforma para exteriorização individual, como ferramenta de busca e de apoio às decisões/escolhas e também como instrumento de inteligência de marketing – contexto em que se dá a entrada do e-commerce .
+O período de 2005 a 2010 foi a era em que os consumidores formaram o DSMM: online WOW (expressão individual com grau de importância para o marketing digital) e redes implicando a geração de conteúdo ( user generated content – UGC) pelo usuário, uma das tendências mais atraentes do marketing , uma chave para as marcas transmitirem a autenticidade que os millennials desejam e uma vantagem competitiva para os profissionais de marketing aumentarem as vendas.
+Nesse sentido, Coleman, Katz e Menzel (1957) e Van den Bulte e Lilien (2001) ratificam que a informação se espalha não necessariamente porque um transmissor inicial ("semente") tem um número desproporcionalmente grande de contatos sociais ( hub social ), mas devido às características de seu público (o quão suscetível é à influência social), definindo a entrada das redes digitais como ferramentas para informação e valor.
+A era 3, das mídias sociais, marcada entre 2011 a 2014, revela que o consumidor está cada vez mais conectado e também o consumidor como um agente que pode amplificar ou enfraquecer os efeitos das ações, principalmente as de marketing .
+DOSSIÊ – INOVAÇÃO Inovação tecnológica radical e mudança organizacional: a institucionalização de organizações resilientes e formas de trabalho mais substantivas 917-922 Cad.
+EBAPE.BR, v. 17, nº 4, Rio de Janeiro, Out./Dez.
+Isabella Francisca Freitas Gouveia de Vasconcelos Hélio Arthur Reis Irigaray | Fabiana Braga Leal Leonardo Araujo de CarvalhoA nova era (2015-2016) enraíza-se no mundo pós-digital, revisitando a expressão do consumidor e a internet como ferramenta e o impacto positivo nas vendas; neste cenário, por exemplo, os displays móveis são destaque por serem mais eficazes como forma de publicidade (BART, STEPHEN e SARVARY, 2014) .
+No período da era 4, até agora o foco é para o upgrade da capacidade de obter percepções em todas as esferas, observando as maneiras que os consumidores pesquisam e aprendendo em novos contextos.
+CONCLUSÃO O tipo de comunicação que descrevemos para promover a mudança – comunicação do tipo habermasiano, com cidadania deliberativa democrática, foco em fatos e partilhamento sincero de resultados – é utilizada nas tarefas de inovação por equipes de inovação que partilham conhecimento científico para inovar em pesquisa e desenvolvimento, e também nos departamentos das empresas que cuidam de ações sociais da empresa e em medidas de proteção ao meio ambiente, bem como na educação corporativa, treinamentos na empresa.
+Nessas interações é mais provável que este tipo de comunicação ocorra, sobretudo em equipes de inovação, uma vez que, se a comunicação não ocorrer desta forma, não haverá inovação.
+Como vimos no Editorial "Gestão Social e Cidadania Deliberativa: Convergência de Temas de Pesquisa", Vasconcelos e Irigaray (2019) apontam: Como nos mostra Fernando Tenório em Tem Razão a Administração?
+os expoentes da Escola de Frankfurt, Max Horkheimer, Theodor Adorno, Herbert Marcuse, críticos da racionalidade instrumental, e Jürgen Habermas, com a sua proposta centrada na racionalidade comunicativa, influenciam o autor na sua definição de gestão social.
+"O adjetivo social qualificando o substantivo gestão será entendido como o espaço privilegiado de relações sociais no qual todos têm direito à fala, sem nenhum tipo de coação" (TENÓRIO, 2008, p. 160 e 162).
+Tenório define também o termo cidadania deliberativa, que acompanha o conceito de gestão social: "[.]
+a legitimidade das decisões deve ter origem em processos de discussão orientados pelos princípios da inclusão, do pluralismo, da igualdade participativa, da autonomia e do bem comum.
+Tal comunicação pode ser adotada também na gestão da mudança, com facilitadores de comunicação, para que grupos que antes não trabalhavam juntos aprendam a fazê-lo, resolvendo paradoxos, se possível, e desenvolvendo uma visão conjunta, convergente sobre o futuro da empresa (cf.
+definição de agentes de mudança mencionado acima).
+Há exemplos desse tipo de comunicação habermasiana tendo como foco interesses da humanidade e do planeta via proteção do meio ambiente.
+Um deles aconteceu no Protocolo de Montreal, no qual, com base em fatos científicos colhidos pela NASA sobre a camada de ozônio, foi necessário raciocinar além do mero interesse econômico imediato e do interesse político imediato.
+Os principais governos, assim como as empresas, realizaram reuniões.
+Chegaram a acordos para que os CFCs fossem sumprimidos e as empresas investissem em pesquisa e desenvolvimento gerando inovação sustentável.
+O Pacto de Paris, outro exemplo, levou 196 países a um acordo.
+Assim como o Protocolo de Montreal, os dados científicos levaram estes países a dialogar e chegar a um entendimento sobre questões ligadas ao meio ambiente, aceitando medidas concretas para os levarem a agir na direção de preservação da humanidade e do planeta.
+Isso se deu de forma não ingênua, uma vez que houve previsão de fundos e subsídios para que essas medidas se concretizassem, bem como de realização de auditorias verdes, e criaç ão de uma legislação específica (TIROLE, 2017).
+Ações como as reuniões de cidadãos por temas para sugerir medidas concretas de ação após debate, com iniciativa da prefeitura da cidade de Bordeaux, França, concretizam a ideia de cidadania deliberativa, que tem como base os conceitos de Habermas.
+Nas empresas, esforços voltados para o meio ambiente e à justiça social, por meio de ações sociais e de preservação do meio ambiente, também são exemplos de cidadania deliberativa corporativa na definição de ações voltadas para sociedade.
+Ações como as do Instituto Natura, por exemplo, voltadas para educação de crianças no Brasil, é um exemplo desse tipo de iniciativa.
+Como mostram as análises, o Brasil possui 2,5 milhões de crianças e adolescentes entre 4 e 17 anos fora da escola, com base em pesquisa nacional por amostra de domicílio (PNAD).
+Trata-se de 6% do universo total de alunos, que é composto por mais de 50 milhões.DOSSIÊ – INOVAÇÃO Inovação tecnológica radical e mudança organizacional: a institucionalização de organizações resilientes e formas de trabalho mais substantivas 918-922 Cad.
+EBAPE.BR, v. 17, nº 4, Rio de Janeiro, Out./Dez.
+Isabella Francisca Freitas Gouveia de Vasconcelos Hélio Arthur Reis Irigaray | Fabiana Braga Leal Leonardo Araujo de CarvalhoO cenário é de muitas crianças sem estudo.
+O Instituto Natura desenvolve cursos online para formação e apoio de professores do ensino fundamental e apoia rede de 770 escolas no país para o ensino integral visando à inclusão destas crianças e à redução destes problemas.
+O pressuposto teórico é o de que a organização mais resiliente, que enfrenta melhor as mudanças radicais, redesenhando suas estratégias, está mais próxima do modelo das organizações pós-burocráticas e de uma comunicação mais substantiva, franca e democrática.
+Retomando o conceito de organizações pós-burocráticas (Heckscher, 1994), neste tipo de organização a regulação social é o consenso baseado na confiança que advém do reconhecimento da alta capacidade técnica dos coordenadores de equipe e dos colegas de trabalho.
+Quando há discordância, o coordenador da equipe arbitra a melhor solução, pois a responsabilidade final da decisão é dele, mas a equipe de alto nível debate soluções e todos são ouvidos.
+Podem ocorrem conflitos de ideias, o que não quer dizer conflito de pessoas.
+O conhecimento, à informação e o reconhecimento da capacidade técnica do colaborador são os fatores-chave para obtenção do consenso em torno de uma solução.
+Exemplo: forças-tarefa, times de desenvolvimento de produto, problems solving groups , times de inovação.
+O diálogo é definido mais pelo uso da influência em termos de conhecimento e de ideias e menos pelo uso do poder.
+As pessoas influenciam as decisões baseadas mais na sua capacidade de persuação, em seu conhecimento técnico de alto nível, e menos na capacidade de comando.
+Considera-se fundamental divulgar em todos os níveis da organização informações sobre a estratégia da empresa, pois trata-se de transparência organizacional e o conceito de organização em rede, pessoas com alto conhecimento técnico, interconectadas e rápido acesso entre si.
+A escolha do interlocutor é determinada pelo tipo de problema a ser resolvido e não pela posição hierárquica.
+Valores como autonomia e empreendedorismo interno são fundamentais.
+Trata-se de equipes voltadas para resultados e pessoas participando de várias equipes em diferentes períodos de tempo e diferentes situações (capacidade relacional e de comunicação dos colaboradores valorizada).
+O perfil do executivo global aponta indivíduos inteligentes, com alta capacidade de ação estratégica, de auto-organização (autonomia), de trabalhar com equipes multiculturais, de se comunicar na nova linguagem digital e estar bem informado, aprender novos conteúdos e inovar.
+Frequentemente este profissional tem alto poder aquisitivo.
+A forma organizacional mais propícia à inovação, como vimos, é a adhocracia, conforme proposta de Mintzberg (1994).
+As características da adhocracia são as seguintes: - estrutura fortemente orgânica; - pouca formalização do comportamento; - especialização do trabalho baseada em treinamento formal e fortemente horizontalizada; - instrumentos de interligação, estimulando o ajustamento mútuo – mecanismo-chave de coordenação interna e entre as equipes (sistemas de TI do tipo Enterprise Resource Planning – ERP –, plataformas de gesão de conhecimento, comitês estratégicos e memória organizacional); efeito holográfico (MORGAN, 1996); - junção de especialistas das unidades funcionais em pequenas equipes de projeto, com a intenção de se organizarem internamente; - descentalização seletiva das equipes situadas na organização em diversos pontos, abrangendo diversos grupos formados por gerentes de linha, assessores e especialistas operacionais.
+Novos sistemas de TI induzem a novas formas de interação humana e de comunicação.
+Na sociedade pós-industrial, como mostra Domenico de Masi (2003) em seu livro A Sociedade Pós-Industrial : - a organização do Estado é feita por meio de democracias representativas; entre o neoliberalismo e o estado de bemestar social europeu; - os recursos principais são a inteligência, o conhecimento, a criatividade, as informações, os laboratórios científicos e culturais;DOSSIÊ – INOVAÇÃO Inovação tecnológica radical e mudança organizacional: a institucionalização de organizações resilientes e formas de trabalho mais substantivas 919-922 Cad.
+EBAPE.BR, v. 17, nº 4, Rio de Janeiro, Out./Dez.
+Isabella Francisca Freitas Gouveia de Vasconcelos Hélio Arthur Reis Irigaray | Fabiana Braga Leal Leonardo Araujo de Carvalho- o setor econômico dominante é o terciário (serviços); - os recursos são a eletrônica, a informática, a biogenética, tecnologias intelectuais e adequadas; - o fator de coesão é a solidariedade programada, redes múltiplas de comunicação, participação no grupo, visão sistêmica do mundo; - a relação com o tempo e espaço é orientada para o futuro, o ritmo de trabalho é fruto de escolha individual; - a sociedade é interconectada por meio de redes formais e informais de comunicação ; - um tipo de organização em rede são as organizações virtuais.
+São fundamentais as novas tecnologias de informação e conhecimento, como o celular, a internet, o email , as redes sociais, chats, videoconferência, entre outros, que induzem novas formas de interação humana, exigindo respostas mais rápidas, a todo momento, e misturando as esferas da vida pública e da vida privada do indivíduo.
+A economia digital, como mostra Tirole (2018), tem características próprias que mudarão a sociedade como um todo.
+EBAPE.BR, v. 17, nº 4, Rio de Janeiro, Out./Dez.
+DOSSIÊ – INOVAÇÃO Inovação tecnológica radical e mudança organizacional: a institucionalização de organizações resilientes e formas de trabalho mais substantivasIsabella Francisca Freitas Gouveia de Vasconcelos Hélio Arthur Reis Irigaray | Fabiana Braga Leal Leonardo Araujo de CarvalhoREFERÊNCIAS ALLEN, T. W. Confronting Complexity and Creating Unity of Effort: The Leadership Challenge for Public Administrators.
+Public Administration Review , v. 72, n. 3, p. 320-321, mar.
+Ensino e pesquisa em propriedade intelectual no Brasil.
+Revista Brasileira de Inovação , v. 6, n. 2, p. 281-310, 2007.
+ARGYRIS, C. On organizational learning .
+Cambridge: WileyBlackwell, 1999.
+AVENA, B. O. Inovações radicais e organizações : um estudo sobre o sistema de incentivos a startups através de corporate venture capital.
+Monografia (Bacharel em Administração) - Escola Brasileira de Administração Pública e de Empresas, Fundação Getulio Vargas, Rio de Janeiro, 2018.
+BARLACH, L. O que é resiliência humana?
+uma contribuição para a construção do conceito .
+Dissertação (Mestrado em Psicologia Social) - Instituto de Psicologia, Universidade de São Paulo, São Paulo, 2005.
+BARLACH, L.; LIMONGI-FRANÇA, A. C.; MALVEZZI, S. O conceito de resiliência aplicado ao trabalho nas organizações.
+Interamerican Journal of Psychology , v. 42, n. 1, p. 101-112, 2008.
+BART, Y.; STEPHEN, A. T.; SARVARY, M. Which Products Are Best Suited to Mobile Advertising?
+A Field Study of Mobile Display Advertising Effects on Consumer Attitudes and Intentions.
+Journal of Marketing Research , v. 51, n. 3, p. 270-285, 2014.
+BEUNZA, D; STARK, D. La organización de Ia respuesta: innovación y recuperación en las salas de operaciones financieras del Bajo Manhattan: The Organization of the Response: Innovation and Recovery in the Rooms of Financial Operations of Low Manhattan.
+Revista Española de Investigaciones Sociologicas , v. 107, p. 89-122, jul.
+BION, W. R. Experiences in groups .
+BRABET, J. Repenser la gestion des ressources humaines?
+BRANDÃO, J. M.; MAHFOUD, M.; GIANORDOLI-NASCIMENTO, I. F. A construção do conceito de resiliência em psicologia: discutindo as origens.
+Paidéia , Ribeirão Preto, v. 21, n. 49, p. 263-271, maio/ ago.
+BROWN, A. D.; STARKEY, K. Organizational identity and learning: a psychodynamic perspective.
+Academy of Management Review , v. 25, n. 1, p. 102-120, 2000.
+Managing the evolution of a revolution: Marketing implications of Internet media usage among college students.
+College Teaching Methods and Styles Journal , v. 3, n. 3, p. 5-10, 2011.
+CALLE, G. A. D.; SILVA, E. L. Inovação no contexto da sociedade do conhecimento.
+Revista Textos de la Cibersociedad , n. 8, p. 1-20, 2008.
+CASSIOLATO, J. E.; BRITO, J. N. P.; VARGAS, M. A. Arranjos cooperativos e inovação na indústria brasileira.
+Inovações, padrões tecnológicos e desempenho das firmas industriais brasileiras .
+Brasília, DF: IPEA, 2005.COHEN, D.; BEREZOVSKY, S. 7 projetos que dão pistas sobre como será o futuro.
+Exame , São Paulo, 14 nov. 2017.
+Disponível em: <https:// exame.abril.com.br/revista-exame/visitas-ao-futuro/>.
+COLEMAN, J.; KATZ, E.; MENZEL, H. The Diffusion of an Innovation Among Physicians.
+Sociometry , v. 20, n. 4, p. 253-270, dez.
+Disponível em: <www.jstor.org/stable/2785979>.
+OJS/SEER : software livre para gestão e publicação de periódicos científicos na web.
+Disponível em: < contentmind.com.br/cursos/ojsseer-software-livre-para-gestao-epublicacao-de-periodicos-cientificos-na-web-duplicado-presencial/>.
+CROZIER, M.; FRIEDBERG, E. L'acteur et le système .
+B. Transformations stratégiques et reconfiguration des compétences organisationnelles : une analyse des banques privées de détail au Brésil pendant la période 1986-1997.
+France: École des Hautes Études Commerciales, 2004.
+DENHARDT, J.; DENHARDT, R. Building organizational resilience and adaptive management.
+In: REICH, J. W.; ZAUTRA, A. J.; HALL, J. S. Handbook of adult resilience .
+New York: Guilford Press, 2010. p. 333-349.
+EISENHARDT, K. M. Paradox, spirals, ambivalence: The new language of change and pluralism.
+Academy of Management Review , v. 25, n. 4, p. 703-705, 2000.
+FIKSEL, J. Sustainability and resilience: toward a systems approach.
+Sustainability: Science, Practice, & Policy , v. 2, n. 2, p. 14-21, 2006.
+Disponível em: < futuribles.com/en/qui-sommes-nous/about-us/team>.
+GALLOPÍN, G. C. Linkages between vulnerability, resilience, and adaptive capacity.
+Global Environmental Change , v. 16, n. 3, p. 293303, ago.
+GODET, M. Prospective et Technologies : Virages et Mirages.
+France: Académie des Technologies, 2011.
+GOLDSCHMIDT, C. C. Resiliência : um estudo exploratório da percepção de gestores sobre o constructo, nas dimensões humana e organizacional.
+Dissertação (Mestrado em Gestão Empresarial) - Escola Brasileira de Administração Pública e de Empresas, Fundação Getulio Vargas, Rio de Janeiro, 2015.
+GOMES, S. H. A. Inovação Tecnológica no Sistema Formal de Comunicação Científica : os periódicos eletrônicos nas atividades de pesquisa de acadêmicos de pós-graduação no Brasil.
+192 f. Tese (Doutorado em Ciência da Informação) - Universidade de Brasília, Brasília, 1999.
+The post-bureaucratic organization .
+HECKSCHER, C. The Collaborative Enterprise .
+New Haven: Yale University Press, 2007.
+EBAPE.BR, v. 17, nº 4, Rio de Janeiro, Out./Dez.
+DOSSIÊ – INOVAÇÃO Inovação tecnológica radical e mudança organizacional: a institucionalização de organizações resilientes e formas de trabalho mais substantivasIsabella Francisca Freitas Gouveia de Vasconcelos Hélio Arthur Reis Irigaray | Fabiana Braga Leal Leonardo Araujo de CarvalhoITER.
+Disponível em: < Acesso em: 11 nov. 2019.
+KLEIN, M. Contributions to psycho-analysis .
+Disponível em: <http:// www.laprospective.fr/>.
+LAMBERTON, C.; STEPHEN, A. T. A Thematic Exploration of Digital, Social Media, and Mobile Marketing: Research Evolution from 2000 to 2015 and an Agenda for Future Inquiry.
+Journal of Marketing , v. 80, n. 6, p. 146-172, nov. 2016.
+LENGNICK-HALL, C. A.; LENGNICK-HALL, M. L. Strategic Human Resources Management: A Review of the Literature and a Proposed Typology.
+Academy of Management Review , v. 13, n. 3, p. 454-470, jul.
+LENGNICK-HALL, C. A.; BECK, T. E.; LENGNICK-HALL, M. L. Developing a capacity for organizational resilience through strategic human resource management.
+Human Resource Management Review , v. 21, n. 3, p. 243-255, 2011.
+LEWIS, M. W. Exploring Paradox: Toward a more comprehensive guide.
+The Academy of Management Review , v. 25, n. 4, p. 760-776, 2000.
+LUSCHER L. S.; LEWIS, M.; INGRAM, A.
+The Social Construction of Organization Change Paradoxes.
+Journal of Organizational Change Management , v. 19, n. 2, p. 491-502, 2006.
+LUTHAR, S.; CICCHETTI, D.; BECKER, B.
+The Construct of resilience: A critical evaluation and guidelines for future work.
+Child Development , v. 71, n. 3, p. 543-562, 2000.
+MASI, D. A Sociedade Pós-Industrial .
+São Paulo: Editora Senac, 2003.
+Facilitated process for improving organizational resilience.
+Natural Hazards Review , v. 9, n. 2, p. 81-90, 2008.
+MERTON, R. K. Sociologia Teoria e Estrutura .
+São Paulo: Editora Mestre Jou, 1970.
+MINELLO, I. F. Resiliência e insucesso empresarial : um estudo exploratório sobre o comportamento resiliente e os estilos de enfrentamento do empreendedor em situações de insucesso empresarial, especificamente em casos de descontinuidade do negócio.
+Tese (Doutorado em Administração) - Faculdade de Economia, Administração e Contabilidade, Universidade de São Paulo, São Paulo, 2010.
+MINOLLI, C. B. Empresas Resilientes.
+Algunas Ideas para Construirlas.
+Temas de Management , v. 3, p. 20-24, mar.
+MINTZBERG, H. Criando organizações eficazes : estruturas em cinco configurações.
+São Paulo: Editora Atlas, 1994.
+MORGAN, G. Imagens da organização .
+MOTTA, F.; VASCONCELOS, I. F. F. G. Teoria Geral da Administração .
+São Paulo: Cengage Learning, 2003.
+ORGANIZAÇÃO PARA A COOPERAÇÃO E DESENVOLVIMENTO ECONÔMICO – OCDE.
+Habermas et Apel: Une Ethique fondée usr les impeatifs de la communication et de l´argumentation.
+Mercure et Minerve : Perspectives Philosophiques sur L´entreprise.
+Paris: Ellipses, 1999. p. 163-177.PESQUEUX, Y.; VASCONCELOS, I. F. F. G. L´Ethique de la discussion fondée sur les imperatifs de la communication et de l´argumentation et la responsabilité sociale d´entreprise.
+In: CONGRÈS DE L'ADERSE, 14., 2017, Bordeaux.
+QUICK, K. S.; FELDMAN, M. S. Boundaries as Junctures: Collaborative Boundary Work for Building Efficient Resilience.
+Journal of Public Administration Research & Theory , v. 24, n. 3, p. 673-695, jul 2014.
+QUINN, R. E.; CAMERON, K. S. Paradox and Transformation : Toward a Theory of Change in Organization and Management.
+Florida: Ballinger Publishing Co., 1988.
+(Ballinger Series on Innovation and Organizational Change).
+RIBEIRO, H. C. M.; CORRÊA, R. 10 anos de pesquisa da Revista Brasileira de Inovação sob a ótica da bibliometria e da rede social.
+Administração: ensino e pesquisa , Rio de Janeiro, v. 15, n. 4, p. 729767, out./dez.
+RUTTER, M. Psychosocial resilience and protective mechanisms.
+American journal of orthopsychiatry , v. 57, n. 3, p. 316-331, 1987.
+São Paulo: Companhia das Letras, 2009.
+SANCHIS, R; POLER, R. Definition of a framework to support strategic decisions to improve Enterprise Resilience.
+In: IFAC CONFERENCE ON MANUFACTURING MODELLING, MANAGEMENT, AND CONTROL, 7., 2013, Saint Petersburg.
+Proceedings… Saint Petersburg: IFAC, 2013. p. 700-705.
+Supply chain resilience analysis: a Brazilian automotive case.
+Revista de Administração de Empresas , São Paulo, v. 55, n. 3, p. 304-313, 2015.
+SMITH, W. K.; LEWIS, M. W. Toward a Theory of Paradox: A dynamic Equilibrium Model of Organizing Academy of Management Review , v. 36, n. 2, p. 381-403, 2011.
+STARR, R.; NEWFROCK, J.; DELUREY, M. Enterprise resilience: managing risk in the networked economy.
+Strategy+Business , n. 30, Spring 2003.
+TENÓRIO, F. G. Tem Razão a Administração ?
+Economics for the Common Good .
+New Jersey: Princeton University Press, 2017.
+TREPO, G. How to Understand Management and Change.
+Developing Knowledge and Value in Management Consulting .
+Greenwich: Information, Age Publishing, 2002. p. 247-261.
+VAN DEN BULTE, C.; LILIEN, G. L. Medical Innovation Revisited: Social Contagion versus Marketing Effort.
+American Journal of Sociology , v. 106, n. 5, p. 1409-1435, mar.
+VASCONCELOS, I. F. F. G. IBM: o desafio da mudança.
+Revista de Administração de Empresas , São Paulo, v. 33, n. 3, 1993.
+Disponível em: < os/revista-rae-vol-33-num-3-ano1993-nid-44738/>.
+VASCONCELOS, I. F. F. G. Assurance qualité et changement organisationnel : Une comparaison de la mise en place de l´ISO 9001 chez deux constructeurs informatiques français.
+Tese (Doutorado em Gerenciamento de Negócios) - HEC - Ecole des Hautes Etudes Commerciales, França, 2000.
+EBAPE.BR, v. 17, nº 4, Rio de Janeiro, Out./Dez.
+DOSSIÊ – INOVAÇÃO Inovação tecnológica radical e mudança organizacional: a institucionalização de organizações resilientes e formas de trabalho mais substantivasIsabella Francisca Freitas Gouveia de Vasconcelos Hélio Arthur Reis Irigaray | Fabiana Braga Leal Leonardo Araujo de CarvalhoProfa.
+Isabella Francisca Freitas Gouveia de Vasconcelos ORCID: Doctorat es Sciences de Gestion, HEC-Ecole des Hautes Etudes Commerciales, França (2000); Doutorado em Administração de Recursos Humanos, FGV EAESP (1997); Pós-Doutorado em Rutgers – The State University of New Jersey; Professora Adjunta da FGV EBAPE; Pesquisadora no CNAM – Conservatoire National D´Arts et Metiers, França.
+E-mail: isabella.vasconcelos@fgv.br Prof. Dr. Hélio Arthur Reis Irigaray ORCID: Doutor e Mestre em Administração de Empresas pela FGV EAESP e PUC-Rio respectivamente; Bacharel em Economia pela University of Northern Iowa, EUA; Professor adjunto da FGV EBAPE e do Programa CIM – Corporate International Masters, da Georgetown University, Washington, EUA; Líder do tema Diversidade e Relações de Trabalho, na linha de Gestão de Trabalho (ANPAD).
+E-mail: helio.irigaray@fgv.br Fabiana Braga Leal ORCID: Mestre em Administração pela FGV EBAPE; Pós-Graduação em Administração de Empresas pela FGV Management; Assistente Editorial dos periódicos da FGV EBAPE.
+E-mail: fabiana.leal@fgv.br; fabi.leal@hotmail.com Leonardo Araujo de Carvalho ORCID: Mestre em Administração pela FGV EBAPE, MBA em Gestão Empresarial pela FGV IDE, Pós-Graduação em Engenharia Econômica e Organização Industrial (Lato Sensu) pela UERJ e Graduação em Engenharia Civil pela UERJ; Professor convidado no MBA de Gestão Empresarial da Universidade Estácio de Sá e do Conselho Regional de Economia RJ; Professor tutor da graduação em Administração da FGV EBAPE; Diretor da empresa Novo Insight; Consultor pela FNQ - Fundação Nacional de Qualidade e Sebrae.
+E-mail: leonardo.carvalho@fgv.brVASCONCELOS, I. F. F. G. et al.
+Resiliência Organizacional e Inovação Sustentável: um estudo sobre o modelo de gestão de pessoas de uma empresa brasileira de energia.
+Cadernos EBAPE.BR , Rio de Janeiro, v. 13, n. 4, out./dez.
+VASCONCELOS, I. F. F. G. et al.
+Organizações pós-burocráticas e resiliência organizacional: a institucionalização de formas de comunicação mais substantivas nas relações de trabalho.
+Cadernos EBAPE.BR , Rio de Janeiro, v. 15, n.
+VASCONCELOS, I. F. F. G.; VASCONCELOS, F. C. Paradoxos Organizacionais, uma visão transformacional .
+São Paulo: Pioneira Thomson Learning, 2004.
+VASCONCELOS, I. F. F. G.; VASCONCELOS, F. C. The Limits of ISO 9000 Consulting Methods: Toward a Multidimensional Framework.
+Developing Knowledge and Value in Management Consulting .
+Greenwich: IAP Press, 2002. p. 33-61.
+VASCONCELOS, I. F. F. G.; IRIGARAY, H. A. R. Editorial.
+Gestão social e cidadania deliberativa: convergência de temas de pesquisa.
+Cadernos EBAPE.BR , Rio de Janeiro, v. 17, n. 1, 2019.
+Disponível em: <http:// bibliotecadigital.fgv.br/ojs/index.php/cadernosebape/article/ view/74637/71471>.
+Resilience in ecosystemic context: Evolution of the concept.
+American Journal of Orthopsychiatry , v. 71, n. 3, p. 290-297, 2001 WELCH, J.; WELCH, S. Paixão por vencer .
+WELCH, J.; WELCH, S. Paixão Por Vencer : As Respostas.
+WERNER E. E.; SMITH R. S. Overcoming the odds : high-risk children from birth to adulthood.
+Ithaca: Cornell University Press, 1992.
+YUNES, M. A. M. Psicologia positiva e resiliência: o foco no indivíduo e na família.
+Psicologia em estudo , v. 8, n. 1, p. 80-95, 2003.
+YUNES, M. A. M.; SZYMANSKI, H. Entrevista reflexiva & groundedtheory: estratégias metodológicas para compreensão da resiliência em famílias.
+Interamerican journal of psychology , v. 39, n. 3, p. 431-438, 2005.

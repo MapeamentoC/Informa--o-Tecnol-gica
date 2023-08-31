@@ -1,0 +1,328 @@
+ Revista de Economia e Agronegócio - REA ISSN impresso : 1679 -1614 ISSN online : 2526 -5539 Vol.
+18 | N. 3 | 2020 Gescilene dos Santos Barbosa1 ORCID: 000-0001 -5069 -1127 João Ricardo Ferreira de Lima2 ORCID: 0000 -0001-6045 -9794 Monaliza de Oliveria Ferreira3 ORCID: 0000 -0003-2748-8096 1 Ms. Universidade Federal de Pernambuco (UFPE), Centro Acadêmico do Agreste gescileneb@gmail.com 2 Dr. Universidade Federal de Viçosa (UFV) , Embrapa Semiárido joao.ricardo@embrapa.br 3 Dr. Universidade Federal de Pernambuco (UFPE), Centro Acadêmico do Agreste monaliza.ferreira@ufpe.br TIPIFICAÇÃO DE PRODUTORES POR NÍVEL DE INOVAÇÃO: ANÁLISE N A FRUTICULTURA DO VALE DO SÃO FRANCISCO RESUMO As áreas irrigadas conseguem, dentro do semiárido brasileiro, produzir com elevada produtividade, como é o caso do Submédio Vale do São Francisco, devid o ao uso intensivo de tecnologia.
+O objetivo deste estudo é tipificar os produtores no Arranjo Produtivo Local de Fruticultura Irrigada do Polo Petrolina/Juazeiro, com relação ao nível de inovação tecnológica.
+A base de dados é constituída de informações coletadas com 85 fruticultores e a metodologia utiliza -se de técnicas da estatística multivariada.
+Os resultados mostram que 16 variáveis representativas podem ser condensadas em quatro fatores, sendo a produtividade/faturamento e perfil/cooperação os dois fatores com maior poder de explicar o dinamismo do arranjo.
+A análise de cluster pelo método das k -médias identificou 3 grupos distintos sobre o qual foram definidos os produtores como mais inovadores, inovadores e inovadores moderados.
+Conclui -se que o di namismo atual, especialização agrícola na produção de frutas, completa -se com a existência de competitividade e inovação, que explicam em parte as razões da modernidade de produção na Região.
+A fruticultura irrigada continua ajudando a construir novas traj etórias para a atividade agrícola e seus impactos no meio rural, regional e urbano.
+Palavras -chave: Fruticultura irrigada; Inovação; Polo PetrolinaJuazeiro.
+ABSTRACT The irrigated areas, in the Brazilian semi -arid region, can produce with high productivity, such as the Sub medio São Francisco River Valley, due to the intensive use of technology.
+The main goal of this study is to typify the growers in the Local Productive Arrangement of irrigated fruit production of Petrolina/Juazeiro Pole, regarding the level of technological inn ovation.
+The data base consists of information collected from 85 fruit growers and the methodology uses multivariate statistical techniques.
+The results show that 16 representative variables can be condensed into four factors, being productivity/gross bill ing and profile/cooperation having the greater power to explain the dynamism of the arrangement.
+The cluster analysis using the k -means method identified 3 distinct groups on which the growers were considered as the most innovative, innovative and the mode rate innovative.
+It is concluded that the current dynamism, agricultural specialization in fruit production, is complemented by the existence of competitiveness and innovation, which explains in part the reasons for the modernity of production in the regio n. Irrigated fruit farming has helped and continues to help build new trajectories for agricultural activity and its impacts in rural, regional, and urban environments.
+Keywords: Irrigated fruit production, Innovation, Petrolina/Juazeiro Pole.
+Recebido em: 31/10/2019 Revisado em: 17/03/2020 Aceito em: 05/04/2021 TIPIFICAÇÃO DE PRODUTORES POR NÍVEL DE INOVAÇÃO : ANÁLISE NA FRUITICULTURA DO VALE DO SÃO FRANCISCO Revista de Econ omia e Agronegócio - REA | V. 18 | N. 3 | 2020 | pág.
+2 INTRODU ÇÃO O Polo Petrolina -Juazeiro está situa do na zona mais árida do Nordeste brasileiro, às margens do Rio São Francisco, no extremo Oeste de Pernambuco e Norte da Bahia.
+É formado por oito municípios, sendo eles, Petrolina, Lagoa Grande, Santa Maria da Boa Vista e Orocó em Pernambuco e Juazeiro, So bradinho, Casa Nova e Curaçá, na Bahia.
+Constitui -se o mais expressivo exemplo dos impactos modernizantes da agricultura irrigada nordestina.
+Trata -se de uma área pioneira na implantação dos grandes projetos públicos e privados de irrigação.
+Devido a agric ultura irrigada, o Polo sofreu uma profunda redefinição de seu espaço urbano e rural, com a constituição de uma poderosa infraestrutura de suporte ao processo modernizante .
+Historicamente, o Polo passou por diversos ciclos relacionados com a lógica das pol íticas macroeconômicas das distintas épocas.
+Assim, houve um período em que as agroindústrias processadoras se instalaram e adquiriram a produção hortícola dos pequenos produtores.
+Posteriormente, este modelo de desenvolvimento entrou em crise, as agroindú strias migraram para outros locais e a região passou a se dedicar mais fortemente à fruticultura, visando a exportação.
+Dentro da fruticultura, manga e uva de mesa são as culturas de maior destaque, devido a renda e número de empregos gerados.
+As condições de mercado e o desempenho econômico das duas frutas estão fortemente correlacionadas com a economia da região.
+Segundo os dados do Instituto Brasileiro de Geografia e Estatística (IBGE, 2021), em 2019, a área colhida no Vale do São Francisco de manga repr esenta 41% do total nacional, de goiaba é 28% da nacional, uva é 14% e melão é 10%.
+Vale ressaltar que a área de uva é apenas 10% pois o IBGE considera uva de mesa e para suco e vinhos como uma única fruta e o Vale do São Francisco basicamente trabalha ape nas com uvas finas de mesa.
+Tanto que com os dados do Comexstat (2021), que trata do comércio internacional, se observa que 99,9% das uvas exportadas pelo Brasil são provenientes do Vale do São Francisco.
+Em termos de mangas, este valor chega a 87%.
+Por es tes fatores, a região é considerada de grande importância para este setor.
+Para a fruticultura manter -se com elevada produtividade, atendendo o mercado interno e se consolidando como um setor capaz de colocar o Brasil em posição competitiva (capaz de pro duzir e vender mais barato do que os concorrentes) com os maiores produtores/exportadores do mundo, a inovação de produtos e processos se constitui em um dos principais aspectos (WILKINSON, 2008).
+A introdução de inovações significa gerar crescimento da ef iciência técnica, aumento da produtividade e da qualidade de produtos já existentes, com redução de custos.
+A Região do Polo Petrolina/Juazeiro é considerada um Arranjo Produtivo Local (APL)1.
+A abordagem dos APL estuda os aglomerados produtivos e Schmid t Filho e Cavalcanti Filho (2006), estes aglomerados são conjuntos de 1 O conceito sobre APL mais utilizado é o adotado pela REDESIST, que define como sendo aglomerações territoriais de agentes econômicos, políticos e sociais que apresentam algum vínculo, mesmo que incipiente, com foco em um conjunto específico de atividades econômicas, que envolve a participação e a interação de empresas e suas variadas forma s de representação e associação, além disso, incluem organizações públicas e privadas (LASTRES; CASSIOLATO, 2005).
+Barbosa , Lima e Ferreira (2020) Revista de Economia e Agronegócio - REA | V. 18 | N. 3 | 2020 | pág.
+3 empresas, instituições e outros agentes econômicos e não econômicos situados em um espaço geográfico que travam entre si um conjunto de relações e configuram as características da produç ão local.
+Os atores do APL da fruticultura irrigada do Vale Submédio de São Francisco, como é denominado, estão estabelecidos e concentrados localmente, compartilhando normas, convenções, valores, expectativas e rotinas que nasceram da experiência comum, e struturada pelas instituições.
+Nesse ambiente sistêmico, surgem processos de inovação e ações competitivas no mercado externo e interno, introduzidos pelos empreendimentos e pelos demais atores institucionais.
+A inovação é o aprendizado novo no contexto t emporal do APL e gera mudanças na produção e em outras características econômicas do arranjo (LEÃO; MOUTINHO, 2014).
+Tendo em vista a importância regional do APL da fruticultura irrigada no Polo Petrolina/Juazeiro, somado ao entendimento de que existe a necessidade de ser cada vez mais competitivo e a forte correlação disto com o processo de inovação e o comportamento dos fruticultores no que diz respeito à inovação, define -se o seguinte problema de pesquisa para este trabalho: quais os níveis de inovação d os produtores no Arranjo Produtivo Local de Fruticultura Irrigada do Submédio Vale do São Francisco?
+O objetivo deste estudo, então, consiste em tipificar os produtores em relação aos níveis de inovação.
+Os dados desta pesquisa foram obtidos em 2015 e são relativos a 2014.
+Apesar de existir um certo tempo desde que foram coletados, considera -se que ainda são importantes para se entender o processo de desenvolvimento da fruticultura no Vale do São Francisco, que tem se caracterizado não apenas pela consoli dação de modernas bases tecnológicas voltadas a atividade, mas também pelo expressivo grau de heterogeneidade existente entre os fruticultores, em termos de níveis de eficiência e competitividade (SOBEL, 2011).
+Além disso, pode ajudar os policy makers e as empresas de pesquisa a terem uma percepção melhor do tipo de produtor que mais acessa novas tecnologias e quem menos inova.
+O texto está dividido em mais 4 partes, além desta introdução: revisão de literatura, referencial metodológico, resultados e discus são e as conclusões.
+REFERENCIAL TEÓRICO As escolas tradicionalistas, ancoradas nos pressupostos que consideram a tecnologia como fator exógeno à dinâmica econômica, tratando -se de uma mercadoria que pode ser vendida, geralmente consideram como sinônimos informação e conhecimento.
+Não levam em consideração o fato de que o processo de inovação é diferente entre os diversos agentes e, portanto, dependente do tipo, setor, do estágio de capacitação tecnológica, do país ou local onde está localizado.
+Na escola neoschumpeteriana, os modelos e as análises desenvolvidas na área da "Economia da Inovação" vêm apresentando importantes contribuições para a compreensão do papel TIPIFICAÇÃO DE PRODUTORES POR NÍVEL DE INOVAÇÃO : ANÁLISE NA FRUITICULTURA DO VALE DO SÃO FRANCISCO Revista de Econ omia e Agronegócio - REA | V. 18 | N. 3 | 2020 | pág.
+4 exercido pelas inovações na crescente globalização dos mercados (COSTA, 2011).
+O enfoque neos chumpeteriano caracteriza -se por enfatizar que a dinâmica capitalista sofre influência do processo de inovação tecnológica.
+Assim, a inovação ocorre por meio de processos de aprendizado e de cooperação.
+Estes, por sua vez, surgem das relações estabelecidas entre as firmas, dentro da própria firma e das relações entre estas e as instituições existentes na economia, quer sejam universidades, governo, cooperativas e outros (SCHMIDT FILHO; CAVALCANTI FILHO, 2006).
+A abordagem neoschumpeteriana considera que o a prendizado e a inovação são geograficamente específicos, porque há conhecimentos e relacionamentos de difícil transferência, logo, o sucesso das empresas, em especial as pequenas e médias empresas – PME, depende da forma em que a localidade se estrutura pa ra desempenhar suas tarefas (COSTA, 2011).
+Uma outra abordagem surgiu nos anos de 1980 e se difundiu com os trabalhos de Freeman (1987) e Nelson (1987), sendo denominada de sistemas de inovação.
+A inovação passou a ser tratada como aprendizado não linear, cumulativo, específico da localidade e conformado institucionalmente.
+Antes disso, a inovação era vista sob a ótica linear, como ato isolado, que ocorre em estágios sucessivos e independentes da pesquisa básica, investigação aplicada, desenvolvimento, prod ução e difusão (LASTRES; CASSIOLATO, 2005; COSTA, 2011; VARGAS; SANTOS FILHO; ALIEVI, 1998).
+A abordagem de sistema de inovação, segundo Costa (2011), estaria relacionada à compreensão das mudanças técnicas e as trajetórias históricas e nacionais rumo ao d esenvolvimento, contrapondo -se à ideia de que a geração de tecnologias ocorreria de maneira "global" com o local não apresentando importância particular.
+Isso reforçou o foco no caráter localizado e nacional da geração, assimilação e difusão inovativas, vi sto que a capacidade de inovação deriva da confluência de fatores sociais, políticos, institucionais e culturais específicos aos ambientes em que se inserem os agentes econômicos.
+Deste modo, diferentes trajetórias de desenvolvimento possibilitam conceitua r diversos tipos de sistemas, sejam eles setoriais nacionais, regionais e locais de inovação.
+Outro aspecto relevante para o uso do conceito de sistema de inovação prende -se ao fato de ressaltar que a inovação e o aprendizado passam a ser caracterizados co mo processos interativos de múltiplas origens.
+Com isto, traz à tona a importância das inovações incrementais e radicais e a complementaridade entre elas, bem como ainda diferentes tipos de inovações, como organizacionais e técnicas e suas distintas fontes internas e externas à empresa.
+Passa assim a ser vista como uma organização inserida em ambientes socioeconômicos e políticos que refletem trajetórias específicas (COSTA, 2011).
+No sentido amplo, qualquer inovação é entendida como resultado da busca de lu cros, mediante a obtenção de vantagens competitivas entre empresas, que procuram diferenciarem -se umas das outras nas mais variadas dimensões do processo competitivo (KUPFER; HASENCLEVER, 2002).
+Barbosa , Lima e Ferreira (2020) Revista de Economia e Agronegócio - REA | V. 18 | N. 3 | 2020 | pág.
+5 Na abordagem sistêmica, a inovação não é encarada como fenôme no isolado no tempo e no espaço, mas resulta de trajetórias cumulativas e constituídas historicamente, de acordo com as especificidades institucionais e padrões de especializações econômicas inerentes a determinado contexto espacial ou setorial (CAMPOS, 20 08).
+Segundo Vargas, Santos Filho e Alievi (1998), na abordagem sistêmica do processo de inovação, as formas de interação estabelecidas entre os diferentes atores e instituições consistem em um dos principais fatores que explicam o processo de inovação na economia.
+As alianças tecnológicas entre empresas, a interação entre o setor produtivo e centros de pesquisa ou a pesquisa cooperativa, que é feita no âmbito das relações universidade -empresa, são alguns exemplos dos fluxos de conhecimento que emergem a pa rtir dos processos de aprendizagem e que têm lugar entre os atores do sistema de inovação.
+Os sistemas de inovação constituem -se de elementos e relações que interagem na produção, difusão e uso do conhecimento.
+A inovação consiste em um fenômeno sistêmico e interativo.
+Neste sentido, a firma passa a ser redefinida como uma organização voltada para o aprendizado e inserida em um contexto socioeconômico e político (LASTRES; CASSIOLATO, 2005).
+Desta maneira, a abordagem sobre sistema de inovação, por adotar u ma perspectiva mais abrangente sobre o aprendizado e a inovação, já é discutida nos planos regional e local, principalmente em países menos desenvolvidos, ao se evitar diversas distorções, criando -se uma perspectiva mais ampla sobre as oportunidades de apr endizado e inovação em PME (Pequenas e Microempresas) e nas chamadas indústrias tradicionais.
+Na economia da inovação, baseada no conhecimento e no aprendizado, a articulação e interação das diversas empresas e agentes envolvidos e consolidados em novos fo rmatos organizacionais, como os arranjos produtivos locais, as tornam mais dinâmicas e competitivas (COSTA, 2011).
+É isto o que os empresários da fruticultura irrigada no Submédio do Vale do São Francisco buscam incessantemente: inovações que os tornem mai s competitivos e que aumentem a rentabilidade dos investimentos, proporcionando um maior tempo de sobrevivência no mercado.
+REFERENCIAL METODOLÓGICO Análise Fatorial Com o objetivo de identificar os fatores relacionados às caraterísticas dos produtores em relação ao caráter de inovador, dentro do APL de fruticultura irrigada no Polo Petrolina/Juazeiro, a metodologia utilizada será a análise de estatística multivariada, considerando a técnica da análise fatorial (AF) combinada com a de agrupamento.
+A análise estatística multivariada consiste em um conjunto de métodos usados para simplificar a interpretação de grandes conjuntos de dados.
+A abordagem da análise fatorial ob jetiva estudar a estrutura das inter -relações (correlações) entre muitas variáveis, definindo um conjunto de dimensões latentes comuns (os fatores) (HAIR JR et al, 2005).
+TIPIFICAÇÃO DE PRODUTORES POR NÍVEL DE INOVAÇÃO : ANÁLISE NA FRUITICULTURA DO VALE DO SÃO FRANCISCO Revista de Econ omia e Agronegócio - REA | V. 18 | N. 3 | 2020 | pág.
+6 O primeiro procedimento consiste na estimação da matriz de correlação (𝑃𝑝𝑥𝑝), por meio da matriz de correlação amostral (𝑅𝑝𝑥𝑝), com o objetivo de estimar o número de fatores (denotado por "m") desde a extração de autovalores da matriz de correlação amostral e sua ordenação em sentido decrescente.
+Segundo Mingoti (2005), a análise fatorial relaciona linearmente as variáveis padronizadas e os fatores comuns desconhecidos.
+A equação é dada por: 𝑍𝑝=𝑙𝑝1𝐹1+𝑙𝑝2𝐹2+⋯+𝑙𝑝𝑚𝐹𝑚+𝜀𝑝 (1) Nesta eq uação, assume -se que as variáveis originais padronizadas, 𝑍𝑖 onde i = 1, 2,., p, são relacionadas linearmente com as novas variáveis aleatórias 𝐹𝑗 onde j = 1, 2,., m, que constituem fatores comuns não identificados e explicam as correlações entre a s variáveis.
+O componente 𝜀𝑖, onde i = 1, 2,., p, são os erros aleatórios e correspondem aos erros de medida e à variação de 𝑍𝑖 que não é explicada pelos fatores comuns 𝐹𝑗 incluídos no modelo.
+Já os coeficientes 𝑙𝑖𝑗 são as chamadas "cargas fatoriais" e representam o grau de relacionamento linear entre 𝑍𝑖 e 𝐹𝑗 (associação entre a variável e o fator).
+O segundo procedimento consiste em resumir a maior parte da informa ção original (variância) a um número mínimo de fatores para poder realizar previsões.
+A estimação da matriz de cargas fatoriais 𝐿𝑝𝑥𝑚 e de variâncias específicas 𝛹𝑝𝑥𝑝 foi realizada pelo método dos componentes principais, técnica mais utilizada para esse tipo de estimação, e tem como base o uso das raízes e vetores característicos.
+No método de componentes principais, cada autovalor ( 𝜆̂𝑖) retido na estimação do valor m, ou seja, do número de fatores, encontra -se o autovetor normalizado correspondente 𝑒̂𝑖.
+Quando os fatores não fazem muito sentido, uma solução é fazer a rotação de fatores para tentar se encontrar maior correlação entre as variáveis e os fatores.
+Existem diversos métodos de rotação de fatores, mas o mais comum é a rotação Varimax.
+Ess encialmente, é uma rotação ortogonal (eixos são mantidos em 90o) dos fatores originais que maximiza Variância =∑𝐿𝑖,𝑓2−𝑚é𝑑𝑖𝑎(𝐿2)) (2) onde 𝐿𝑖,𝑓2 é o quadrado das cargas da i -ésima variável do f -ésimo fator e méd ia (L2)) é a média das cargas ao quadrado.
+Como resultado, cada variável tende a se alocar mais fortemente com um único fator, tornando a interpretação mais facilmente identificável.
+Para verificar a aplicabilidade da AF, é aplicado o critério de Kaiser -MeyerOlkin (KMO), índice que compara os coeficientes de correlações observados com os coeficientes de correlação parcial.
+O valor da estatística não pode ser menor do 0,5 para ser considerado como de aceitável adequação amostral, conforme Campos (2008).
+Ou tra possibilidade é calcular o Teste de Esfericidade de Bartlett (MINGOTI, 2005) definido como 𝑋2=−[(𝑛−1)− 2𝑘+5 6]log⁡(|𝑅|) em que n é o número de observações, k é o número de variáveis e R é a matriz de correlações dos dados, sendo |R| o determinante desta matriz.
+O teste segue uma distribuição de qui -quadrado com graus de liberdade igual a 𝑘(𝑘−1)/2.
+A hipótese nula do test e é que a matriz de Barbosa , Lima e Ferreira (2020) Revista de Economia e Agronegócio - REA | V. 18 | N. 3 | 2020 | pág.
+7 correlação dos dados é igual a uma matriz identidade, ou seja, não servem para análise fatorial.
+Análise de Agrupamentos A análise de agrupamentos ou cluster tem o objetivo de dividir os elementos de uma amostra ou da população em gru pos, de maneira que os mais similares pertençam ao mesmo grupo e os diferentes grupos formados sejam o mais heterogêneo possível.
+A análise depende da escolha entre medida de similaridade ou dissimilaridade, ou seja, se o agrupamento será feito pela semelh ança entre os elementos ou pela diferença entre eles.
+Para isto é necessário definir uma medida de distância (MINGOTI, 2005; CAMPOS, 2008).
+Para este estudo, será aplicado o critério de dissimilaridade com o uso da distância euclidiana, como se segue: 𝑑(𝑋𝑙,𝑋𝑘)=[∑(𝑋𝑖𝑙−𝑝 𝑖=1𝑋𝑖𝑘)²]1/2 (3) Esta representa a soma das diferenças dos valores de todas as variáveis consideradas.
+Os dois elementos amostrais 𝑋𝑙 e 𝑋𝑘 (l ≠ k) são comparados em cada variável pertencente ao vetor de observações.
+São medidas de dissimilaridade e quanto menores os se us valores, mais similares serão os elementos que estão sendo comparados.
+Essas distâncias entre os elementos da amostra são inseridas numa matriz de distâncias (dimensão nxn), em que 𝑑𝑖𝑗 constitui a distância do elemento "i" ao elemento "j".
+Neste estu do é aplicada a técnica não -hierárquica que busca encontrar diretamente uma partição de n elementos em k grupos ( clusters ) que satisfaça a coesão interna e isolamento dos clusters formados.
+É utilizado o método das k -médias para escolher os k centroides pa ra iniciar o processo de partição.
+Em seguida, compara -se cada elemento da amostra com cada centroide inicial por uma medida de distância.
+Posteriormente, recalcula -se os valores dos centroides para cada novo grupo formado e compara -se novamente cada eleme nto com cada novo centroide formado destes novos grupos.
+Finalmente, repetem -se os dois passos anteriores até todos os elementos amostrais estejam bem alocados em seus grupos.
+Fonte de dados A análise fatorial foi realizada com 16 indicadores de perfil do produtor, produção e inovação, a serem observados nos produtores de frutas dos perímetros irrigados.
+Todas as variáveis se referem apenas à atividade de fruticultura irrigada.
+Seguindo a estratégia adotada por Campos (2008)2, o 2 Em relação ao trabalho de Campos (2008), não foi utilizada a variável venda de produtos realizadas para o Brasil e exterior por não ser tod os os produtores da amostra que exportam sua produção.
+TIPIFICAÇÃO DE PRODUTORES POR NÍVEL DE INOVAÇÃO : ANÁLISE NA FRUITICULTURA DO VALE DO SÃO FRANCISCO Revista de Econ omia e Agronegócio - REA | V. 18 | N. 3 | 2020 | pág.
+8 vetor de variávei s de características/atributos dos produtores incluirá as seguintes variáveis: X1 – Idade do produtor proprietário (anos).
+X2 – Grau de escolaridade do produtor proprietário (anos de escolaridade).
+X3 – Renda bruta anual em 2014 (R$).
+X4 – Produtividade a nual em 2014 (kg/ha).
+X5 – Custos anuais com mão de obra em 2014 (R$).
+X6 – Custos anuais com insumos agrícolas em 2014 (R$).
+X7 – Custos anuais com energia elétrica e água em 2014 (R$).
+X8 – Capital total empregado (R$).
+X9 – Quantidade de empregados em 2 014.
+X10 – Introduções de inovações entre 2010 e 2014 (índice).
+X11 – Inovações realizadas em 2014 e sua constância (índice).
+X12 – Gastos com inovações (R$).
+X13 – Quantidade de tecnologias agrícola utilizada.
+X14 – Treinamento para o produtor e/ou empregados ( dummy ).
+X15 – Fontes de informação (índice).
+X16 – Existência de cooperação desenvolvida entre produtores e agentes locais ( dummy ).
+Os dados utilizados no presente estudo são de natureza primária, coletados a partir de pesquisa de campo direta , realizado no ano de 2015, com apoio da Embrapa Semiárido no Polo Petrolina/Juazeiro.
+As informações foram coletadas por meio de questionário que abordam um conjunto de variáveis quantitativas e qualitativas, aplicados em entrevistas com os fruticultores, produtores do arranjo sobre as características do arranjo e aspectos relacionados à produção e inovação.
+O questionário aplicado foi baseado no modelo utilizado por Campos (2008), Sobel (2011) e IBGE/PINTEC (2015).
+Foram entrevistados 85 produtores, extra ídos do público que compõe o universo da pesquisa, formado por 2.058 produtores que trabalham com fruticultura no perímetro irrigado Senador Nilo Coelho.
+Foi considerado um erro amostral máximo de 9% e um nível de confiança de 90%, dado pela fórmula de Coc hran (1977) apud Campos (2008).
+O período base de análise considerado foi o ano de 2014, ou seja, uma seção cruzada, mas os índices foram montados considerando um horizonte de 5 anos, ou seja, entre 2010 e 2014.
+Dentre as variáveis utilizadas, três são ín dices calculados a partir de outras variáveis coletadas na pesquisa de campo.
+O índice de introdução de inovações (III) entre 2010 e 2014 (variável X10) foi calculado com base no número de respostas afirmativas e negativas dadas pelos produtores Barbosa , Lima e Ferreira (2020) Revista de Economia e Agronegócio - REA | V. 18 | N. 3 | 2020 | pág.
+9 quanto a i ntrodução de inovações de produtos, processos e mudanças organizacionais na propriedade agrícola.
+Assim, as inovações realizadas ganham peso um e as não desenvolvidas pelos produtores recebem peso zero.
+O número de eventos é representado pelo total de resp ostas dos entrevistados.
+Os eventos neste eixo a serem considerados: 1) inovação de produtos novos para a empresa; 2) inovação de produtos novos para o mercado nacional; 3) processos tecnológicos novos para a empresa; 4) criação ou melhoria substancial do modo de acondicionamento dos produtos; 5) inovações no desenho de produtos; 6) implementação de técnicas avançadas da gestão; 7) implementação de significativas mudanças na estrutura organizacional; 8) mudanças significativas nos conceitos e/ou práticas d e comercialização; e 9) implementação de novos métodos de gerenciamento, visando a atender normas de certificação.
+A fórmula algébrica utilizada para o cálculo desse índice é: 𝐼𝐼𝐼2010,2014=∑𝑆∗1+⁡∑𝑁∗0 𝐸 (4) em que S é o número de Sim, N é o número de Nã o e E é o número de Eventos.
+O índice de inovações (II) realizadas em 2014 (variável X11) foi representado e ponderado pelo grau de constância dedicado ao desenvolvimento de inovações, ou seja, produtores que desenvolveram inovações de forma rotineira tin ham peso 1; produtores que realizam inovações de forma ocasional recebiam peso 0,5; e entrevistados que não desenvolveram inovações recebiam peso zero.
+O número de eventos correspondia também a todas as respostas dadas pelos produtores.
+Os eventos neste ei xo a serem considerados: 1) pesquisa e desenvolvimento (P&D) na sua empresa; 2) aquisição de máquinas e equipamentos que implicaram melhorias tecnológicas; 3) aquisição de outras tecnologias; 4) projeto ou desenho industrial de produtos ou processos novos; 5) programa de treinamento orientado a introdução de produtos ou processos; 6) programas da gestão da qualidade ou de modernização organizacional; 7) novas formas de comercialização e distribuição de produtos.
+A fórmula algébrica utilizada para o cálculo desse índice é: 𝐼𝐼2014=∑𝐷𝑅∗1+⁡∑𝐷𝑂∗0,5+⁡∑𝑁𝐷∗0 𝐸 (5) em que DR é desenvolvimento de inovações de forma rotineira, DO é desenvolvimento de inovações de forma ocasional, ND é que não desenvolveu inovação e E é o número de eventos.
+O índice que representa as fontes de informação em relação ao aprendizado (IFI) em 2014 (variável X15) foi calculado e ponderado pelo grau de importância, ou seja, respostas de alta importância para o entrevistado tinham peso 1; média importância, peso 0,6; baixa importância, peso 0,3; e sem importância, peso zero.
+O número de evento s foi representado pelo TIPIFICAÇÃO DE PRODUTORES POR NÍVEL DE INOVAÇÃO : ANÁLISE NA FRUITICULTURA DO VALE DO SÃO FRANCISCO Revista de Econ omia e Agronegócio - REA | V. 18 | N. 3 | 2020 | pág.
+10 número de respostas dadas pelos produtores.
+Os eventos neste eixo a serem considerados: 1) área de produção; fornecedores de insumos; clientes; concorrentes; empresas de consultoria; institutos de pesquisa, centro de capacitação pro fissional, conferências, seminários, cursos e publicações; feiras, exibições e lojas; e informações de internet.
+A fórmula algébrica utilizada para o cálculo desse índice é: 𝐼𝐹𝐼=∑𝐴𝐼∗1+⁡∑𝑀𝐼∗0,6+⁡∑𝐵𝐼∗0,3+∑𝑆𝐼∗0 𝐸 (6) em que AI é alta importância, MI, é média importância, BI, baixa importância, SI, sem importância e E é o número de eventos.
+Os fruticultores entrevistados serão classificados em pequeno produtor, pequena, média e grande empresa, de acordo com a classific ação adotada pelo Distrito de Irrigação Nilo Coelho (DINC, 2015), com base no tamanho da área do produtor/empresa.
+A amostra é dividida por porte de empresa e composta de 39 pequenos produtores, 38 pequenas e médias empresas e 08 grandes empresas.
+RESULTADOS E DISCUSSÕES Ao se trabalhar com uma grande quantidade de informação e tentar simplificar a análise, utilizando alguma técnica de análise multivariada, uma questão importante a ser considerada é o grau de correlação entre as variáveis.
+A Figura 1 mostra, para as 16 variáveis, uma matriz de correlações que é simétrica e cujos círculos variam de azul mais escuro (correlação positiva) até vermelho mais escuro (correlação negativa).
+Quanto mais claro for o círculo, menor a correlação positiva (azul) ou negativa (vermelho).
+Assim, é possível identificar a existência de variáveis altamente correlacionadas com predominância de correlações positivas entre as variáveis.
+Os três maiores coeficientes de correlação parciais estão acima de 0,91, indicando um a correlação extremamente forte.
+Nestes três casos, a variável X8 (capital total aplicado na atividade) se correlaciona com outra variável (X6, X3 e X5).
+As variáveis X3 (produtividade total) e X6 (custo total com insumos agrícolas) aparecem duas vezes ent re os cinco maiores coeficientes de correlação.
+Barbosa , Lima e Ferreira (2020) Revista de Economia e Agronegócio - REA | V. 18 | N. 3 | 2020 | pág.
+11 Figura 1: Gráfico da matriz de correlações entre as 16 variáveis utilizadas na análise multivariada.
+O Teste de Esfericidade de Bartlett , com 120 graus de liberdade, apresentou valor de qui -quadrado de 1678 e valor de probabilidade muito pequeno, rejeitando a hipótese nula de que a matriz de correlações é uma identidade.
+O valor da estatística KMO de adequação amostral global encontrado fo i 0,7372.
+A Tabela 1 mostra os valores das estatísticas MAA (Medida Amostral de Adequabilidade) de adequação amostral para cada variável.
+Como pode ser observado, é possível se trabalhar estes dados com técnicas de análise estatística multivariada, mesmo q ue individualmente sejam encontradas suas variáveis com MAA inferior a 0,6.
+Tabela 1: Medida Amostral de Adequabilidade (MAA) das variáveis utilizadas na análise.
+Variável MAA Variável MAA X1 0,7833 X9 0,6050 X2 0,8606 X10 0,9043 X3 0,8691 X11 0,8370 X4 0,8321 X12 0,8209 X5 0,6157 X13 0,8137 X6 0,5888 X15 0,8982 X7 0,5985 X15 0,8465 X8 0,6229 X16 0,6534 Fonte: Dados da Pesquisa.
+Uma dificuldade em se utilizar o método não hierárquico é que a definição do número de clusters deve ser feita a priori.
+Uma forma de se obter isto é usar um gráfico relacionando o percentual de variância explicada como uma função do número de clusters.
+O número de clusters pode ser definido usando o denominado " elbow criterion " (o ângulo que forma o "cotovel o"), TIPIFICAÇÃO DE PRODUTORES POR NÍVEL DE INOVAÇÃO : ANÁLISE NA FRUITICULTURA DO VALE DO SÃO FRANCISCO Revista de Econ omia e Agronegócio - REA | V. 18 | N. 3 | 2020 | pág.
+12 ou seja, quando um cluster a mais não adicionar muito mais informação (variância explicada).
+Pela Figura 2, então, foi definido um total de 3 clusters.
+Figura 2: Gráfico do número de clusters em função da variância explicada para definição do valor " k" usado pelo método das k -médias.
+Os 3 grupos de clusters estão representados na Figura 3.
+A figura é útil para indicar as proximidades que as observações estão dentro de cada grupo definido.
+O Grupo 3, por exemplo, é formado d e 5 produtores (70, 72, 75, 78 e 79) com um nível maior de distância entre si quando comparado, por exemplo, com os produtores do Grupo 1 e do Grupo 2, que apresentam uma circunferência com raio menor.
+Claramente a maior parte dos produtores está no Grupo 2.
+Figura 3: Gráfico dos três grupos definidos pelo método das k -médias para os fruticultores do Polo Petrolina/Juazeiro.
+Barbosa , Lima e Ferreira (2020) Revista de Economia e Agronegócio - REA | V. 18 | N. 3 | 2020 | pág.
+13 A Tabela 2 demonstra, para cada produtor da amostra, qual grupo ele foi alocado.
+É possível observar que os Grupos 1, 2 e 3 são formados por 25, 55 e 5 produtores, respectivamente.
+Tabela 2: Divisão de todo os produtores nos três agrupamentos definidos pela análise de cluster.
+AGRUPAMENTOS IDENTIFICAÇÃO DOS PRODUTORES GRUPO 1 52-53-54-56-57-58-59-60-61-63-64-65-66-67-68-69-7173-74-76-77-80-82-84-85 GRUPO 2 1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-2021-22-23-24-25-26-27-28-29-30-31-32-33-34-35-36-3738-39-40-41-42-43-44-45-46-47-48-49-50-51-55-62-8183 GRUPO 3 70-72-75-78-79 Fonte: Dados da pesquisa.
+Com os produtores agrupados, foi realizada a análise fatorial pelo método dos componentes principais.
+Alguns autores, inicialmente, fazem uma análise fatorial e usam os escores fatoriais para fazer a análise de agrupamentos.
+Contudo, para este trabalho foi escolhido usar as variáveis ao invés dos fatores para dividir os produtores nos grupos e, posteriormente, usar as variáveis definidas para cada fator para entender as diferenças de perfis de produtores em relação à nível de inovação.
+A análise fatorial a presentou resultados de interpretação difícil, pois algumas variáveis relacionavam -se com mais de um fator.
+Assim, foi feita a rotação de fatores pelo método Varimax.
+Os resultados da análise fatorial pelo método dos componentes principais, depois da rotaç ão, estão apresentados na Tabela 3, podendo -se verificar que quatro fatores foram capazes de explicar 77,9% da variância total das variáveis originais.
+O Fator 1 revelou -se o mais importante do conjunto e explica 31,4% da variância, ou seja, é a combinação linear das variáveis originais que pode explicar, individualmente, a maior parcela da variância.
+O Fator 2 captou 29,3%, em ordem de contribuição para a variância total.
+O Fator 3 explicou 10,3% da variância e o Fator 4, 6,9% da variância total dos dados.
+Isto é, os fatores representam ou captam uma proporção significativa da informação de variância das variáveis originais.
+Tabela 3: Raiz característica da matriz de correlações simples, percentual de variância por fator e variância acumulada.
+Fator Raiz Característica Variância explicada pelo fator (%) Variância acumulada (%) Renda, emprego e capital 5,029 31,4 31,4 Inovação, capacitação e informação 4,681 29,3 60,7 Produtividade e faturamento 1,654 10,3 71,0 Perfil e cooperação 1,106 6,9 77,9 Fonte: Dados da pesquisa.
+TIPIFICAÇÃO DE PRODUTORES POR NÍVEL DE INOVAÇÃO : ANÁLISE NA FRUITICULTURA DO VALE DO SÃO FRANCISCO Revista de Econ omia e Agronegócio - REA | V. 18 | N. 3 | 2020 | pág.
+14 A Tabela 4 mostra os valores das cargas fatoriais após a rotação ortogonal e as comunalidades.
+Para a interpretação de cada um dos fatores, foram considerados valores absolutos superiores a 0,6 para as cargas fatoriais como de forte associação entre o fator e o indicador, ou seja, buscando evidenciar as variáveis mais fortemente associadas a determinado fator.
+Os valores encontrados para as comunalidades avaliam a capacidade explicativa conjunta dos quatro fato res em relação às variáveis.
+Pode -se observar que o Fator 1 tem correlação positiva com as variáveis renda bruta anual dos produtores (X3), custos de mão de obra (X5), custos de insumos agrícolas (X6), custos de energia elétrica e água (X7), capital empreg ado na atividade (X8), número de empregados (X9).
+Portanto, o Fator 1 está mais estreitamente relacionado com todas as variáveis que representam um indicador de renda, emprego e capital dos produtores do APL.
+Tabela 4: Cargas fatoriais após rotação ortogon al pelo método Varimax e comunalidades.
+Indicadores Fator 1 Fator 2 Fator 3 Fator 4 Comunalidade Renda, emprego e capital Inovação, capacitação e informação Produtividade e faturamento Perfil e cooperação X1 -0,3617 -0,2134 -0,2954 0,6470 0,6822 X2 0,3905 0,6117 0,2635 -0,3379 0,7102 X3 0,8667 0,3873 0,1230 0,0410 0,9180 X4 0,1077 0,3136 0,6369 0,0129 0,5158 X5 0,8092 0,4212 0,1234 -0,0478 0,8497 X6 0,8176 0,3860 -0,0186 0,0285 0,8186 X7 0,8123 -0,0212 0,2104 -0,0187 0,7049 X8 0,8470 0,4380 0,0165 0,0047 0,9095 X9 0,8353 0,2761 0,2262 -0,0206 0,8255 X10 0,4457 0,8251 0,0400 0,0298 0,8819 X11 0,4353 0,8130 0,0261 0,0185 0,8515 X12 -0,1123 -0,0626 -0,7921 -0,0204 0,6444 X13 0,2401 0,9030 0,0857 0,0556 0,8835 X14 0,1947 0,7496 0,3994 0,0000 0,7593 X15 0,1744 0,8299 0,3510 -0,1727 0,8722 X16 0,2380 0,0868 0,2141 0,7301 0,6431 Fonte: Dados da pesquisa.
+No segundo fator, predominaram as variáveis que captam o nível de inovação, capacitação e informação que interagem na fruticultura irrigada, sendo constituído pelas variáveis de introdução de inovações entre 2010 e 2014 (X10), inovações realizadas em 2014 (X11), número de tecnologia agrícola (X13), grau de escolaridade (X2), realizações de treinamento (X14) e fonte de informação (X15), as quais apresentaram correlação positiva.
+A natureza dos indicadores relacionados ao Fator 2 indicam que este Barbosa , Lima e Ferreira (2020) Revista de Economia e Agronegócio - REA | V. 18 | N. 3 | 2020 | pág.
+15 representa o indicador inovação, capacitação e informação.
+Este é o fator mais importante para o objetivo desta pesquisa.
+O Fator 3 está positivamente relacionado com a variável produtividade (X4) e negativamente relacionado com gastos com inovação sobre o faturamento (X12).
+Estas variáveis relacionadas ao Fator 3 representam o indicador produtividade e faturamento.
+O último fator considerado, o Fator 4, está positivamente relacionado com as variáveis idade (X1) e atividades cooperativas (X16).
+Estas variáveis relacion adas ao fator 4 representam o indicador perfil e cooperação.
+Assim, as 16 variáveis representativas na análise fatorial foram condensadas em quatro fatores: indicador de renda, emprego e capital (F1), indicador inovação, capacitação e informação (F2), indi cador produtividade e faturamento (F3) e indicador perfil e cooperação (F4) dos produtores do APL.
+Estes quatro fatores explicam, em média, 77,9% da variância das variáveis consideradas na análise.
+É com base nas variáveis destes fatores, para cada grupo d o cluster que será realizada a tipificação dos produtores quanto ao ser perfil inovador.
+A Tabela 5 mostra os valores médios das variáveis que formam o Fator 1, por grupo definido pelo método das k -médias.
+Assim, o Grupo 3 possui a maior renda bruta total (X3) e o Grupo 2 a menor.
+Este é o mesmo comportamento para todas as outras variáveis do fator: custo com mão de obra (X5), com insumos (X6), com energia elétrica e água (X7), capital total empregado na atividade (X8) e total de empregados (X9).
+O Grupo 3 definese, então, como as maiores empresas, as de maior poder econômico, que possuem uma maior quantidade de recursos investidos, que possuem maior custo total e auferem maiores rendimentos.
+O Grupo 1 são as médias empresas e o Grupo 2 são as pequenas emp resas e pequenos produtores.
+Tabela 5: Médias das variáveis que formam o Fator 1 – Renda, Emprego e Capital, divididas pelos agrupamentos dos produtores.
+Variáveis Grupo 1 Grupo 2 Grupo 3 X3 - Renda bruta anual em 2014 (R$) 744.043 125.71 5.616.500 X5 - Custos anuais com mão de obra em 2014 (R$) 156.146 16.112 809.705 X6 - Custos anuais com insumos agrícolas em 2014 (R$) 185.476 5.886 1.730.600 X7 - Custos anuais com energia elétrica e água em 2014 (R$) 27.781 20.002 105.600 X8 - Capital total empregado (R$) 409.088 44.128 2.991.657 X9 - Quantidade de empregados em 2014 12,92 1,75 50,8 Fonte: Dados da pesquisa.
+Os pequenos produtores que formam o Grupo 2 percebem renda bruta total bem inferior em comparação aos demais grupos.
+Contudo, também investem menos, possuem menores valores de custo total e possuem uma menor quantidade de mão de obra trabalhando.
+O Grupo 1 é formado pelas médias empresas, que não tem a força econômica das grandes empresas do Grupo 3, mas em termos de importância econômica são bem superiores aos TIPIFICAÇÃO DE PRODUTORES POR NÍVEL DE INOVAÇÃO : ANÁLISE NA FRUITICULTURA DO VALE DO SÃO FRANCISCO Revista de Econ omia e Agronegócio - REA | V. 18 | N. 3 | 2020 | pág.
+Assim, este primeiro fator é muito importante para se entender o porte do em preendimento, dividindo -os entre grandes, médios e pequenos produtores.
+A Tabela 6 mostra os valores médios das variáveis que formam o Fator 2, por grupo definido pelo método das k -médias.
+Os dados da Tabela 6 mostram que a média de escolaridade (X2) dos gestores das empresas maiores (Grupo 3) é superior aos dos demais grupos.
+Na comparação com os pequenos produtores, chega a ser três vezes maior.
+Chama a atenção que as pequenas empresas do Grupo 2 praticamente não realizaram atividades de treinamento ou c apacitação (X14) enquanto todas as empresas maiores e uma grande parte das empresas médias (grupo 2) tiveram acesso a este tipo de atividade.
+Tabela 6: Médias das variáveis que formam o Fator 2 – Inovação, Capacitação e Informação, divididas pelos agrupam entos dos produtores.
+Grupo 1 Grupo 2 Grupo 3 X2 - Grau de escolaridade do produtor proprietário (anos de escolaridade) 5,32 2,69 7,40 X10 - Introduções de inovações entre 2 010 e 2014 (índice) 0,41 0,12 0,76 X11 - Inovações realizadas em 2014 e sua constância (índice) 0,29 0,03 0,61 X13 - Quantidade de tecnologias agrícola utilizada 4,80 1,35 7,40 X14 - Treinamento para o produtor e/ou empregados 0,88 0,05 1,00 X15 - Fontes de informação (índice) 0,69 0,14 0,76 Fonte: Dados da pesquisa.
+Em relação a variável X10 (índice de introdução de inovações), o maior valor do índice foi obtido pelo Grupo 3, ou seja, é neste grupo que foi encontrado o maior número de situações de inovação, seja de produtos novos p ara a empresa, processos tecnológicos novos, gestão mais avançada, desenho de produtos, mudanças nas práticas de comercialização, dentre os outros mostrados no item 3.3.
+O menor índice foi encontrado para o Grupo 2, que são os produtores com menor porte ec onômico.
+O mesmo padrão segue nos índices encontrados em X11 e em X15, ou seja, no índice de inovações realizadas e no índice de fontes de informação.
+Sempre o Grupo 3 aparece como aquele com maior valor, seguido do Grupo 1 e, com valor bem menor de índice na comparação com os outros, aparece o Grupo 2 dos pequenos produtores.
+A variável X11 é um índice que visa avaliar o grau de constância de dedicado ao desenvolvimento de inovações.
+Valores mais altos do índice, assim, indicam que os produtores do Grupo 3 (as maiores empresas) tem tido uma maior dedicação para desenvolvimento inovações, ou seja, fazem isto de forma mais rotineira que os demais.
+Os pequenos produtores, por outro lado, não têm por rotina se dedicar mais intensamente ao desenvolvimento de in ovações.
+Para a variável X15, as grandes e médias empresas tem visão semelhantes, dado que os valores encontrados dos índices são bem próximos (0,76 e 0,69), Barbosa , Lima e Ferreira (2020) Revista de Economia e Agronegócio - REA | V. 18 | N. 3 | 2020 | pág.
+17 mostrando que ambos consideram muito importante o recebimento de informação para aumentar o grau de aprendizado, seja da área da produção, dos clientes, dos institutos de pesquisa ou através de participação de seminários e publicações, por exemplo.
+Assim, as informações obtidas por este segundo fator corroboram que a inovação ocorre para se obter vantagens competitivas entre as empresas (KUPFER; HASENCLEVER, 2002), que buscam se diferenciar das demais.
+As maiores empresas, representadas pelo Grupo 3, precisam estar sempre em busca de inovação, pois concorrem com outras dentro do mercado interno e com diversas outras empresas dos países concorrentes no mercado internacional, todos buscando aumentar a sua parcela de mercado.
+A Tabela 7 mostra os valore s médios das variáveis produtividade (X4) e gastos com inovação sobre o faturamento (X12), que formam o Fator 3, por grupo definido pelo método das k -médias.
+Todas as empresas grandes (Grupo 3) estão ligadas a algum tipo de forma de cooperação.
+As empresas do Grupo 3 conseguem obter produtividades mais elevadas do que os demais grupos, sendo que a segunda maior produtividade é das médias empresas do Grupo 1.
+Interessante observar que as diferenças de produtividade entre os dois grupos são pequenas.
+Os dois grupos estão constantemente interagindo, dado que muitas vezes a produção das empresas do Grupo 2 é comprada pelas empresas do Grupo 3 para complementar as cargas de exportação.
+Nesta interação, as inovações acabam sendo repassadas, confirmando a afirmação de Costa (2011) de que na economia da inovação, a articulação e interação das diversas empresas e agentes envolvidos as tornam mais dinâmicas e competitivas.
+Tabela 7: Médias das variáveis que formam o Fator 3 – Produtividade e Faturamento, divididas pelo s agrupamentos dos produtores.
+Variáveis Grupo1 Grupo2 Grupo3 X4 - Produtividade anual em 2014 (kg/ha) 28.961 17.321 29.814 X12 - Gastos com inovações (%).
+7,32 16,29 8,00 Fonte: Dados da pesquisa.
+As empresas do Grupo 2, que possuem menores faturamentos, acabam gastando proporcionalmente mais do que os demais com inovação, cerca de 16%, o dobro em termos percentuais do Grupo 3, que possui um valor de faturamento muito mais elevado.
+Esta é uma questã o que merece um pouco mais de cuidado na análise.
+Fazer fruticultura em uma região tropical, com uso de irrigação, aumenta os custos de produção.
+A maior vantagem da região do Vale do São Francisco, frente as demais praças concorrentes no mercado interno e os outros países, é que a região pode produzir o ano inteiro.
+Entretanto, para que isso ocorra, é necessário um forte investimento em tecnologia, objetivando aumentar a produtividade e reduzir os custos médios de produção.
+Ainda mais, o desenvolvimento te cnológico é constante, ou seja, anualmente surgem novos produtos para serem aplicados, ou novas formas de manejo, ou novas variedades para serem plantadas.
+TIPIFICAÇÃO DE PRODUTORES POR NÍVEL DE INOVAÇÃO : ANÁLISE NA FRUITICULTURA DO VALE DO SÃO FRANCISCO Revista de Econ omia e Agronegócio - REA | V. 18 | N. 3 | 2020 | pág.
+18 Se o produtor, independentemente do tamanho, não manter seus pomares atualizados com as inovações q ue vão sendo introduzidas pelos demais, ele pode se tornar inviável economicamente e sair do mercado.
+Vale ressaltar também que tecnologia é cara, mas necessária.
+Assim, ela acaba pesando muito mais "no bolso" dos pequenos produtores do que no dos médios e grandes quando se fala de gasto em inovação como um percentual do faturamento.
+Os produtores menores acabam tendo que dispender muito mais recursos, em termos percentuais de faturamento, do que os grandes para não serem "engolidos", pelos maiores, no merc ado.
+Assim, não significa que os menores teriam maior propensão a inovar do que os grandes, mas que eles necessitam acompanhar o que está ocorrendo na região e fazem isto gastando proporcionalmente mais.
+A Tabela 8 mostra os valores médios das variáveis ( idade do gestor (X1) e se a empresa participa de algum tipo de cooperativa (X16)) que formam o Fator 4, por grupo definido pelo método das k -médias.
+Com relação à idade, o Grupo 3 possui gestores bem mais jovens (35 anos) do que o grupo 2 (57 anos).
+Como o bservado no referencial teórico, a capacidade de inovação deriva de diversos fatores, e o cultural é um deles.
+Os produtores do Grupo 2, com mais idade e menos escolaridade, acabam sendo menos propensos às inovações e tendo dificuldades em lidar com tecnol ogia, contribuindo para inovarem menos que os demais.
+O Grupo 2 possui a menor proporção de produtores que participam de cooperativas, algo ruim, pois precisam de mais união para se fortalecerem e terem acesso às inovações.
+Tabela 8: Médias das variáveis que formam o Fator 4 - Perfil e Cooperação, divididas pelos agrupamentos dos produtores.
+Variáveis Grupo1 Grupo2 Grupo3 X1- Idade do produtor proprietário (anos) 46 57 35 X16 - Existência de cooperação desenvolvida entre produtores e agentes locais 0,68 0,6 1 Fonte: Dados da pesquisa.
+Com base, então, nos resultados encontrados, visando tipificar os produtores do APL de fruticultura irrigada do Submédio do São Francisco, é possível definir que o Grupo 3 se constitui dos produtores mais inovadores, o Grupo 1 como inovadores e o Grupo 2 c omo inovadores moderados.
+Todos precisam inovar, mas os graus são diferentes: o Grupo 3 é o que mais inova, faz com maior dinamismo, seguindo do Grupo 1 que através das articulações e interações incorpora as inovações e, por fim, o Grupo 2, que tem menor c apacidade econômica, onde as inovações acabam representando um maior peso em relação ao faturamento e os produtores, por suas características de mais idade e menor escolaridade, acabam tendo mais dificuldades em alterar sua cultura.
+Barbosa , Lima e Ferreira (2020) Revista de Economia e Agronegócio - REA | V. 18 | N. 3 | 2020 | pág.
+19 CONCLUSÕES Neste est udo, procurou -se tipificar os produtores do APL de fruticultura irrigada do Submédio Vale do São Francisco em Pernambuco com base em seus níveis de inovação.
+A fruticultura no APL do Polo Petrolina/Juazeiro se expressa em um conjunto de atividades inter -relacionadas, constituído por diversas culturas e formas de organização.
+Nessa região, os produtores de frutas são representados tanto como pequenos produtores, médios e grandes empresários.
+A maioria dos fruticultores atua com culturas permanentes e temporá rias.
+A produção é destinada tanto ao mercado interno como ao mercado externo.
+Para a identificação dos principais fatores relacionados com inovação, utilizou -se técnicas de análise estatística multivariada.
+Com o uso de análise de agrupamentos, foram iden tificados três grupos distintos, com destaque para o Grupo 3, que possui melhor desempenho na maior parte das variáveis.
+As unidades produtivas desse grupo são aquelas que apresentam nível de inovação mais elevado e constata -se que, em sua maioria, são constituídos dos grandes empresários, mais jovens e com maior escolaridade.
+Logo, esses grupos constituem o núcleo responsável pelo desenvolvimento do APL e estimulam as atividades de produção, inovação e aprendizado.
+A inovação na região do Submédio do Vale do São Francisco é relativamente elevada, entendendo o que existe na região em relação às técnicas de produção, tecnologia usadas no processo, aprendizado e cooperação, o que os tornam mais competitivos no mercado.
+No entanto, os pequenos produtores são a queles que apresentam menores níveis de inovação.
+As possíveis medidas capazes de melhorar a inovação nas unidades produtivas, principalmente dos pequenos produtores, são reformulações na forma como as organizações são gerenciadas, redução de custos de ope racionalização e a busca pela adequação aos níveis de qualidade exigidos nacional e internacionalmente.
+Além disso, são necessárias políticas públicas voltadas especificamente para a fruticultura, bem como facilitar o acesso ao crédito.
+O modelo de fruticu ltura irrigada adotado até aqui tem aspectos positivos, apesar de ser necessárias melhorias e adaptações.
+O ambiente produtivo é favorável à difusão de inovação, no qual a cooperação se sobressai e, em sintonia com a inovação, abre espaço para o desenvolvi mento local e a conquista de vantagens competitivas.
+O dinamismo atual, especialização agrícola na produção de frutas, completa -se com a existência de competitividade e inovação, que explicam em parte as razões da modernidade da região.
+A fruticultura irri gada ajudou e continua ajudando a construir novas trajetórias para a atividade agrícola e seus impactos no meio rural, regional e urbano.
+TIPIFICAÇÃO DE PRODUTORES POR NÍVEL DE INOVAÇÃO : ANÁLISE NA FRUITICULTURA DO VALE DO SÃO FRANCISCO Revista de Econ omia e Agronegócio - REA | V. 18 | N. 3 | 2020 | pág.
+20 REFERÊNCIAS BIBLIOGRÁFICAS CAMPOS, Kilmer Coelho.
+Produção localizada e inovação: o arranjo produtivo local de fruticultura irrigada na microrregião do baixo Jaguaribe no Estado do Ceará.
+181 f. Tese (Doutorado em Economia Aplicada ), Universidade Federal de Viçosa, Minas Gerais.
+Sistema de Estatísticas do Comércio Exterior.
+COSTA, Odorico de Moraes Eloy da.
+APL's como estratégia de desenvolvimento: uma abordagem teórica.
+Fortaleza: Instituto de Pesquisa e Estratégia Econômica do Ceará -IPECE , 2011.
+Disponível em: <https:// www.ipece.ce.gov.br/wpcontent/uploads/sites/45/2015/02/APL_livro.pdf .> Acesso em : 01 jun.
+Distrito de Irrigação Nilo Coelho.
+Technology and Economic Performance : Lessons from Japan.
+Instituto Brasileiro de Geografia e Estatística.
+Disponível em: < .> Acesso em: 01 jun.
+Instituto Brasileiro de Geografia e Estatística.
+Sistema IBGE de Recuperação Automática – SIDRA.
+Disponível em: < uisa/pam/tabelas >.
+KUPFER, David; HASENCLEVER, Lia.
+Economia industrial: fundamentos teóricos e práticos no Brasil.
+Rio de Janeiro: Elsevier, 2002.
+LEÃO, Éder L. de S.; MOUTINHO, Lúcia M. G. O arranjo produtivo local de fruticu ltura irrigada do Vale do Submédio do São Francisco como objeto de política.
+RACE , Joaçaba/SC, v. 13, n. 3, p. 829 -858, set./dez.
+LASTRES, Helena M. M.; CASSIOLATO, José E. Glossário de arranjos e sistemas produtivos e inovativos locais .
+Disponível em: < > Acesso em: 24 abr.
+Análise de dados através de métodos de estatística multivariada: uma abordagem aplicada .
+Belo Hor izonte: Editora UFMG, 2005.
+R. Understanding technical change as an evolutionary process.
+Amsterdam: North -Holland, 1987.
+Fruticultura e economia dos custos de transação: determinantes das estruturas de governança dos pequenos produtores do Polo Barbosa , Lima e Ferreira (2020) Revista de Economia e Agronegócio - REA | V. 18 | N. 3 | 2020 | pág.
+203 f. Tese (Doutorado em Economia], Universidade Federal de Pernambuco, Recife.
+SCHMIDT FILHO, Ricardo; C AVALCANTI FILHO, Paulo F. M. B. Arranjos produtivos locais no nordeste brasileiro: atual distribuição setorial das iniciativas.
+Revista da ABET, João Pessoa, v. 6, n 1, p. 99 -124, jan./jun.
+VARGAS, Marco; SANTOS FILHO, Nery; ALIEVI, Rejane.
+M. Sistem a gaúcho de inovação: considerações preliminares e avaliação de arranjos locais selecionados.
+Disponível em: < -notas -tecnicas >.
+Estudo da competitividade da indústria brasileira: o complexo agroindustrial [online].
+Rio de Janeiro: Centro Edelstein de Pesquisa Social, 2008.
+Disponível em: < https:// doi.org/10.7476/9788599662649 >.

@@ -1,0 +1,325 @@
+: 596Cadernos de Prospecção – Salvador, v. 11, n. 2, p. 596-614, junho, 2018Prospecção Tecnológica do "Coffee" e "Green Coffee": análise de patentes na área alimentícia e área da saúde Technological assessment of "Coffee" and "Green Coffee": analysis of food and health patent applications Lucas Moura Nutels1, Amanda Barbosa Wanderley2, Arthur Luy T avares Ferreira Borges3, José Rodrigo Arruda4, Mailde Jessica Liodoro Santos5, Sâmia Andrícia Souza da Silva6, Eliane Aparecida Campesatto7, Pierre Barnabé Escodro8, T atiane Luciano Baillano9, Silvia Beatriz Beger Uchoa10, Josealdo T onholo11, Ticiano Gomes do Nascimento12 Resumo Considerando que os estudos de prospecção tecnológica têm demonstrado sua importância para o desenvolvimento do conhecimento científico, a presente pesquisa buscou informações sobre a série histórica e avanços associados aos descritores "café verde" ou " green coffee ".
+Foram também utilizados outros descritores, tendo sido empregados na seção título ( title) e/ou resumo ( abstract) com refinamento nas reivindicações ( claims ), obtendo-se dessa forma a triagem final dos resultados.
+Dos bancos de dados consultados para patentes depositadas concedidas e artigos publicados destacaram-se o PatSeer com 2.211 e o Lens com 1.378 documentos.
+De acordo com a Classificação Internacional de Patentes (CIP) analisada, foram encontrados 108 e 101 depósitos de patentes para as classificações A61K* e A23K*, respectivamente.
+No âmbito empresarial, a General Foods Corp depositou 178 patentes e a Nestec SA 144 patentes.
+Voltando o olhar para as nações, os EUA se apresentam como o maior depositário possuindo 177 patentes nacionais seguido da Organização Mundial da Propriedade Intelectual (WIPO) com 66 patentes.
+O resultados apresentaram grande número de depósitos de patentes nas áreas: "alimentos funcionais" e cosmecêuticas, alavancando os depósitos de patentes nos períodos de 1985 a 1991 e 2015 a 2016, aqui chamados de primeiro e segunda período de explosões de patente com o café verde.
+Abstract Considering that technological prospecting studies have proven their importance in the search for patents and articles relevant to the development of scientific knowledge, this article sought information on chronic and neurodegenerative diseases associated with the descriptor "green coffee" or "green coffee".
+Other descriptors were also used in the 1 Universidade Federal de Alagoas, Maceió, AL, Brasil.
+2 Universidade Federal de Alagoas, Maceió, AL, Brasil.
+3 Universidade Federal de Alagoas, Maceió, AL, Brasil.
+4 Universidade Federal de Alagoas, Maceió, AL, Brasil.
+5 Universidade Federal de Alagoas, Maceió, AL, Brasil.
+6 Universidade Federal de Alagoas, Maceió, AL, Brasil.
+7 Universidade Federal de Alagoas, Maceió, AL, Brasil.
+8 Universidade Federal de Alagoas, Maceió, AL, Brasil.
+9 Universidade Federal de Alagoas, Maceió, AL, Brasil.
+10 Universidade Federal de Alagoas, Maceió, AL, Brasil.
+11 Universidade Federal de Alagoas, Maceió, AL, Brasil.
+12 Universidade Federal de Alagoas, Maceió, AL, Brasil.
+Artigo recebido em: 15/05/2017 Revisado em: 06/10/2017 Aceito em: 23/10/2017Direito autoral e licença de uso: Este artigo está licenciado sob uma Licença Creative Commons.Com essa licença você pode compartilhar, adaptar, para qualquer fim, desde que atribua a autoria da obra, forneça um link para a licença, e indicar se foram feitas alterações.Lucas Moura Nutels1 Amanda Barbosa Wanderley2 Arthur Luy T avares Ferreira Borges3 José Rodrigo Arruda4 Mailde Jessica Liodoro Santos5 Sâmia Andrícia Souza da Silva6Eliane Aparecida Campesatto7 Pierre Barnabé Escodro8 T atiane Luciano Baillano9 Silvia Beatriz Beger Uchoa10 Josealdo T onholo11 Ticiano Gomes do Nascimento12597Cadernos de Prospecção – Salvador, v. 11, n. 2, p. 596-614, junho, 2018Prospecção Tecnológica do " Coffee " e "Green Coffee ": análise de patentes na área alimentícia e área da saúde title section and/or abstract, obtaining in this way the final screening of the results.
+From the databases consulted for granted deposited patents and articles published respectively, PatSeer with 2,211 and Lens with 1,378 documents stood out.
+According to the International Patent Classification (ICP) analyzed, 108 and 101 patent deposits were found for A61K * and A23K *, respectively.
+In relation to the companies General Foods Corp. deposited 178 patents and Nestec SA 144 patents.
+According to the countries, the US presents itself as the largest depositary with 177 patents and WO with 66 patents.
+A large number of patent deposits were found in the areas of "functional foods" and cosmeceuticals, leveraging patent deposits from 1985 to 1991 and from 2015 to 2016, here called the first and second patent booms with coffee green.
+1 Introdução O café atualmente é considerado uma commodity de grande importância econômica, principalmente para o Brasil que é o maior exportador do produto.
+Segundo dados da FAOSTAT (2017), no ranking de exportações 2014 o País exportou 2,8 milhões de toneladas de café, o que representa o dobro do segundo colocado, o Vietnã, e o quadruplo do terceiro colocado, a Colômbia.
+Outra informação pertinente é que a nação brasileira figura entre ambas as listas de maiores produtores e maiores consumidores, chegando a um consumo anualizado de 4,8 kg por habitante, metade do consumo dos finlandeses que estão no topo da lista.
+Com mais de um século liderando a produção mundial de café, o Brasil desponta com um papel central em um mercado que movimentou no varejo, em 2015, mais de US$ 5 bilhões apenas nos EUA.
+Apesar de inúmeras variedades de espécies, o mercado é dominado pela comercializa-ção do tipo Arábica ( Coffea arabica ), representando mais de 50% do marketshare .
+Nesse ramo de comércio existe também a venda dos grãos na sua forma crua ou verde ( green coffe ), uma fase do produto anterior ao processo de torrefação que resulta no café torrado ( roasted coffe ).
+O ingrediente principal de uma das bebidas mais consumidas mundialmente, além de contar com atributos sensoriais e efeitos fisiológicos singulares, evidencia sua ação estimulante por meio da cafeína e outras propriedades farmacoquímicas.
+Seja para o consumo doméstico ou para o uso medicinal, existe uma enorme gama de fregueses aguardando por novidades relacionadas ao café.
+Sobretudo será utilizada nesta prospecção tecnológica o café verde em detrimento do café torrado, independente da moagem ou espécie, por este indicar mais propriedades farma-cológicas e ter maior propensão à proteção no âmbito da propriedade industrial.
+O café verde caracteriza-se por apresentar grãos leves, cor verde e sabor diferente dos grãos depois do processo de torrefação.
+O grão do café é uma fonte primária de antioxidantes, sendo sua composição responsável por essa propriedade, apresentando assim: cafeína, polifenóis, incluindo ácidos clorogênicos (ACGs), compostos voláteis e heterocíclicos (MOREIRA, 2013; VIEIRA, 2015).
+Os compostos fenólicos são essenciais em alimentos vegetais e são formados por esterificação de ácidos cinâmicos (FARAH, 2008).
+Outros compostos bioativos presentes no café são: ácido nicotínico, trigonelina, ácido tânico e cafeína, (FROST-MEYER; LOGOMARSINO, 2012; MOREIRA et al., 2013).
+O ácido clorogênico e o ácido caféico em associação, presentes nos grãos, apresentam propriedades antimutagênicas, anticancerígenas, antioxidantes e anti--inflamatórias (VIEIRA, 2015).
+Para fins da prospecção tecnológica será utilizada a definição de Mayerhoff (2008), que a define como "[.]
+um meio sistemático de mapear desenvolvimentos científicos e tecnológicos futuros capazes de influenciar de forma significativa uma indústria, a economia ou a sociedade 598Cadernos de Prospecção – Salvador, v. 11, n. 2, p. 596-614, junho, 2018Lucas Moura Nutels, Amanda Barbosa Wanderley, Arthur Luy Tavares Ferreira Borges, José Rodrigo Arruda, Mailde Jessica Liodoro Santos, Sâmia Andrícia Souza da Silva, Eliane Aparecida Campesatto, Pierre Barnabé Escodro, Tatiane Luciano Baillano, Silvia Beatriz Beger Uchoa, Josealdo Tonholo, Ticiano Gomes do Nascimento como um todo".
+De acordo com Amparo, Ribeiro e Guarieiro (2012) a prospecção tecnológica, utilizando informações provenientes de documentos de patentes, mostra-se uma ferramenta e um instrumento bastante eficaz, no apoio a tomada de decisão, tendo em vista o estado da arte no seu conteúdo, que permite identificar tecnologias relevantes, parceiros, concorrentes no mercado, rotas tecnológicas, inovações investimentos, processos, produtos, Pesquisa, Desen-volvimento e Inovação (PD&I), fusões e aquisições.
+Cada vez mais é evidente a exponencialidade das mudanças tecnológicas, originando uma atenção especial para o seguimento de caminhos alternativos, sendo os estudos de prospecção tecnológica um desses vias como orientação para qualquer projeto de desenvolvimento.
+O termo prospecção tecnológica indica atividades de prospecção centradas em mudanças, na capacidade funcional ou no tempo constituído de uma inovação (AMPARO et al., 2012).
+(2006 apud MAYERHOFF , 2008) esclarece que o estudo da prospecção tecnológica pode ser realizado em quatro fases distintas: 1) fase preparatória, na qual ocorre a definição de objetivos, escopo, abordagem e metodologia; 2) fase pré-prospectiva, na qual é realizado o detalhamento da metodologia e o levantamento da fonte de dados; 3) fase prospectiva, que se refere à coleta, ao tratamento e à análise dos dados; e 4) fase pós-prospectiva, que inclui a comunicação dos resultados, a implementação das ações e o monitoramento.
+Considerando a prospecção tecnológica como ferramenta indispensável para o alcance de uma cadeia de conhecimentos essenciais ao lançamento de um novo produto, o presente estudo tem como objetivo a realização da prospecção levando em conta os descritores "café verde" e " green coffee ", sendo essas expressões utilizadas nas bases de patentes e repositórios de artigos científicos.
+2 Metodologia A pesquisa foi realizada no mês de abril de 2017 (período de 03/04 a 21/04).
+Partindo-se do propósito da busca de patentes concernentes ao título proposto, realizou-se a prospecção em patentes depositadas nos seguintes bancos de dados: Instituto Nacional da Propriedade Industrial (INPI), Escritório de Patentes e Marcas dos Estados Unidos (United States Patent and Trademark Office, USPTO), Escritório de Patentes Europeu (European Patent Office, EPO) usando o site Espacenet, Organização Mundial de Propriede Intelectual (OMPI) e PatSeer.
+Os artigos foram pesquisados nas bases de dados a seguir: Science Direct, Lens, Scielo, Scopus, BioMed Central (BMC) e Nature.
+Os dados foram consultados por meio da pesquisa avançada de cada banco de dados de patentes e artigos científicos, nas quais foram utilizados os seguintes descritores: a) " green coffee "; b) "café verde"; c) " green coffee " and "antioxidant "; d) " green coffee " and "chlorogenic acid"; k) " green coffee " and "caffeine ".
+Os descritores buscados como critério de inclusão e para melhor match de dados poderiam estar contidos nas seções " title" e/ou " abstract ".
+Nos bancos de dados USPTO decidiu-se optar pela " Quick Search ", onde nos campos 1 e 2 ( in Field 1 and Field 2 ) a opção de escolha foi por "reivindicações" ( claims ).
+Na CIP também foi utilizada como delimitação de busca apenas as patentes classificadas como A61* e A23*, na qual "A" corresponde à seção de necessidades humanas, "A61*" corresponde às preparações para fina-lidades médicas, odontológicas, veterinárias ou higiênicas e "A23*" a alimentos ou produtos alimentícios e seu beneficiamento.599Cadernos de Prospecção – Salvador, v. 11, n. 2, p. 596-614, junho, 2018Prospecção Tecnológica do " Coffee " e "Green Coffee ": análise de patentes na área alimentícia e área da saúde 3 Resultados e Discussão A busca prospectiva apresentou resultados expressivos nos bancos de dados patentários e de artigos científicos quando utilizada a expressão " green coffee " de maneira isolada.
+Devido a isso, realizou-se a busca por meio da adição de descritores gerando uma espécie de filtro para a coleta de dados direcionados a este trabalho.
+Seguindo uma ordem crescente dos resultados totais para " green coffee " apresentados em cada banco de dado de patente citados anteriormente: a) INPI (22 resultados), b) OMPI (553 resultados), c) USPTO (592 resultados), d) EPO (622 documentos), e) PatSeer (2.211 resultados) como apresentado na Tabela 1.
+Tabela 1 – Resultados para patentes localizadas nas bases consultadas conforme descritores utilizados DESCRITOR EPO INPI* USPTO OMPI PATSEER "green coffee" 622 22 592 553 2.211 "green coffee" and "antioxidant" 7 0 24 6 53 "green coffee" and "chlorogenic acid" 26 0 12 49 96 "green coffee" and "caffeine" 109 0 43 9 190 Fonte: Elaborada pelos autores deste artigo Um detalhe a ser observado na Tabela 1 é a sigla INPI estar acompanhada de um asterisco (*), isso ocorre por ser esse o único banco de dados nacional utilizado para realizar parte das buscas patentárias, portanto, os termos em inglês que compõem a tabela foram pesquisados na língua portuguesa para o INPI.
+Ao realizar a busca de patentes apenas com o descritor " green coffee " foi observado uma grande quantidade de documentos depositados principalmente no Patseer totalizando 2.211 patentes.
+No INPI foi encontrada uma pequena quantidade comparada aos demais bancos de dados (22 patentes), visto que, corresponde aos depósitos nacionais e a maioria das patentes encontradas localizavam-se em outras bases pesquisadas.
+Em seguida, foi utilizado o mesmo termo para a busca de artigos científicos e pôde-se observar que o Science Direct consta o maior número de artigos científicos encontrados, totalizando 308 documentos, seguido do Scopus com 305 artigos e Scielo com 304 artigos científicos (Tabela 2).
+O propósito da filtragem ( filtering ) com o descritor " green coffee " nos bancos de dados de patentes e artigos científicos visou observar a frequência em que o café verde vem sendo estudado pelos pesqui-sadores independente da sua finalidade, seja ela para tratamento, prevenção ou promoção à saúde.
+Dessa forma, para a realização de uma pesquisa prospectiva tecnológica de busca de documentos, fica evidente que ao utilizar apenas banco de dados de artigos científicos para tal finalidade resulta em um baixo aproveitamento dos recursos disponíveis apresentando resultados limitados frente a metodologias relacionadas ao desenvolvimento de tecnologias de prospecção.
+Para um melhor resultado de pesquisa, foi realizada uma filtragem a partir dos descritores de interesse da pesquisa e assim foram melhor aproveitadas as informações dispostas nos do-cumentos depositados.
+A filtragem foi realizada por meio da pesquisa avançada de cada banco de dados e realizando um cruzamento entre os descritores, como " green coffee " and "chlorogenic acid ", sendo as aspas (") utilizada nos dois termos, quando trata-se de palavra composta.
+O resultado dessa filtragem pode ser observada nas Tabelas 1 e 2.600Cadernos de Prospecção – Salvador, v. 11, n. 2, p. 596-614, junho, 2018Lucas Moura Nutels, Amanda Barbosa Wanderley, Arthur Luy Tavares Ferreira Borges, José Rodrigo Arruda, Mailde Jessica Liodoro Santos, Sâmia Andrícia Souza da Silva, Eliane Aparecida Campesatto, Pierre Barnabé Escodro, Tatiane Luciano Baillano, Silvia Beatriz Beger Uchoa, Josealdo Tonholo, Ticiano Gomes do Nascimento Tabela 2 – Resultados para artigos localizados nas bases consultadas conforme descritores utilizados DESCRITORSCIENCE DIRECTLENS SCIELO SCOPUS BMC N ATURE "green coffee" 308 17 304 305 18 7 "green coffee" and "antioxidant" 561 10 5 104 6 0 "green coffee" and "chlorogenic acid" 591 17 5 189 11 2 "green coffee" and "caffeine" 607 17 7 144 5 0 Fonte: Elaborada pelos autores deste artigo O próximo gráfico foi gerado com os dados do Patseer por apresentar o maior número de depósito de patentes (2.211) encontrado durante a pesquisa em banco de dados de patentes sem nenhum filtro utilizado.
+Observa-se uma pequena quantidade de depósitos de patente entre 1922 a 1974, período em que o produto era explorado apenas com a finalidade de uma bebida comum para a população mundial.
+Nota-se que desde o ano de 1922 essa tecnologia já era explorada por pesquisadores/inventores e tende a crescer cada vez mais, assim, registrando os avanços consideráveis na construção de tecnologias futuras.
+A primeira patente encontrada foi datada de 31/10/1871 tendo como depositante Sarah Jane nos EUA com o número de patente US12040 (OMPI, 2017).
+No período de 1975 a 1999, observa-se uma primeira explosão de depósitos de patentes com picos máximos entre 1985 e 1991.
+Nessa época, os documentos de patentes mostram inte-resses na obtenção de café com qualidade superior quer seja pelo melhor aroma, quer seja pelos processos e tecnologias de descafeinização, desenvolvimento de novos processos de torra, bem como para processos de obtenção de café solúvel.
+Outros estudos centravam-se nos processos de extração e obtenção de cafeína ou ácido clorogênico a partir do café como matéria-prima, além do desenvolvimento de equipamentos para extração desses compostos naturais do café usando fluido supercrítico e outras técnicas.
+O período de 2015 a 2016 apresentou-se como a segunda e maior explosão de depósitos de patentes totalizando 108 e 101 documentos, respectivamente.
+É válido considerar que até o mês de abril de 2017, totalizavam-se 17 depósitos de patentes, podendo-se assim dizer que o depósito desses documentos vem apresentando um crescimento significativo com o passar do tempo.
+Este segundo momento de explosão de patentes usando o café e/ou grão de café (café verde) pode ser explicado por duas principais necessidades da população mundial.
+A primeira necessidade está relacionada ao consumo de "alimentos funcionais" com apelo para melhoria da qualidade de vida da população e prevenção de doenças.
+Dessa forma, observa-se um grande número de depósitos de patentes com café verde como alimento funcional para prevenção de doenças e redução de peso.
+A segunda necessidade está relacionada ao uso do café verde e seus principais componentes (cafeína, ácido clorogênico e óleos aromáticos e de cadeia leve) com aplicação na área cosmecêutica, estética e beleza, higiene e limpeza.
+Dessa forma, obser-va-se um grande número de depósitos de patentes nestas duas áreas: "alimentos funcionais" e cosmecêuticas, alavancando os depósitos de patentes nesse período, aqui chamado de segunda explosão de patentes do café.
+601Cadernos de Prospecção – Salvador, v. 11, n. 2, p. 596-614, junho, 2018Prospecção Tecnológica do " Coffee " e "Green Coffee ": análise de patentes na área alimentícia e área da saúde Figura 1 – Número de patentes depositadas por ano de acordo com a CIP A23* encontradas no banco de dados Patseer Fonte: Elaborada pelos autores deste artigo Com relação às empresas que obtiveram o maior número de patentes depositadas independente da classificação internacional a General Foods Corp e a Nestec SA totalizaram 178 e 144 respectivamente.
+Ao refinar a busca de dados para a classificação A61* (produtos para área da saúde, área médica, cosmética e veterinária) pode-se observar uma notória diferença com relação ao gráfico da Figura 1.
+As empresas que obtiveram maior número de depósito patentário para A61* foram Nestec SA e Loreal SA, resultando, respectivamente, em 43 e aproximadamente 17 patentes depositadas.
+As comparações entre esses dados podem ser observadas na Figura 2 e Figura 3.
+Fica evidenciado pela grande quantidade de patentes em "green coffee " nas áreas cosmecêutica, estética e beleza e pelo aparecimento de empresas do setor cosmético no segundo grande período de explosão de patentes entre 2009 a 2017 com pico de patente em 2015–2016.
+Figura 2 – Número de patentes depositadas por empresa de acordo com a CIP A23* no banco de dados Patseer Fonte: Elaborada pelos autores deste artigo602Cadernos de Prospecção – Salvador, v. 11, n. 2, p. 596-614, junho, 2018Lucas Moura Nutels, Amanda Barbosa Wanderley, Arthur Luy Tavares Ferreira Borges, José Rodrigo Arruda, Mailde Jessica Liodoro Santos, Sâmia Andrícia Souza da Silva, Eliane Aparecida Campesatto, Pierre Barnabé Escodro, Tatiane Luciano Baillano, Silvia Beatriz Beger Uchoa, Josealdo Tonholo, Ticiano Gomes do Nascimento Figura 3 – Número de patentes depositadas por empresa de acordo com a CIP A61* no banco de dados Patseer Fonte: Elaborada pelos autores deste artigo Durante a pesquisa de busca de patentes foi realizada uma organização dos dados, a qual pode ser observada na Figura 4.
+Realizou-se uma divisão da Classificação Internacional de Pa-tentes (CIP) para cada termo utilizado no processo para facilitar o encontro desses documentos ao acessar o banco de dados de patentes.
+A Figura 4 mostra as principais classificações CIP para o termo " green coffee " com filtro A23*.
+As CIPs A23F e A23F5 foram os códigos mais prevalentes e que dizem respeito ao café ou chá, processo de manufatura, suas preparações ou infusões (A23F), enquanto o código CIP (A23F5), mais específico, está relacionado ao café, processo de manufatura e suas preparações ou infusões propriamente ditas.
+Também foram detectados os códigos CIP A23L e A47J.
+O código A23L relaciona-se com as preparações alimentícias ou bebidas não alcoólicas, seus métodos de preparação, cozimento, modificação das proprieda-des nutritivas e conservação.
+O código A47J, por sua vez, corresponde aos equipamentos de cozinha, moedores de café, ou ainda, aparelhos para fazer café.
+Figura 4 – Principais Classificação Internacional de Patentes (CIP) para a pesquisa " green coffee " com filtro em A23* (A) e A61* (B) nas bases de dados OMPI (A) e Patseer (B) Fonte: Elaborada pelos autores deste artigo603Cadernos de Prospecção – Salvador, v. 11, n. 2, p. 596-614, junho, 2018Prospecção Tecnológica do " Coffee " e "Green Coffee ": análise de patentes na área alimentícia e área da saúde Na Figura 5 pode-se observar a situação ou status legal das patentes de acordo com a submissão para os bancos de dados.
+O status identifica se a patente já está em vigor conforme protocolo a ser seguido para sua ativação.
+O número de patentes ativas (concedidas/requeridas) prevalece com 670 documentos regulares e as patentes com status inativo apresenta um total de 551 documentos, as quais foram distribuídas em inativas expiradas (305 patentes), inativas por falta de pagamento (180 patentes), inativas por terem sido removidas (76 patentes), inativas por terem sido recusadas (60 patentes), inativas em branco (5 patentes) e inativas por oposição (1 patente).
+Figura 5 – Situação legal das patentes ativas e inativas pesquisadas em " green coffee " Fonte: Elaborada pelos autores deste artigo Dentre os países depositários, os Estados Unidos ganha destaque com 177 patentes depositadas durante os anos de 1922 e 2017, seguido da Organização Mundial de Propriedade Intelectual (OMPI), totalizando 66 patentes, Japão com 51 patentes, China com 31 patentes, Canadá com 26 patentes, Austrália com 20 patentes, e o Brasil seguindo na 14 a posição apresentando apenas 7 patentes depositadas considerando o descritor A61* utilizado na busca de patentes (Figura 6).
+Esperava-se uma maior quantidade de patentes brasileiras, já que o Brasil é um dos maiores produtores desse setor, tal como um maior número de países participativos para o depósito de documentos a respeito do assunto, considerando o consumo constante do café verde em todo o mundo e possuir compostos químicos de extrema importância que con-tribuem para uma melhoria da saúde.
+Figura 6 – Ordem crescente dos países que mais depositam patentes atualmente Fonte: Elaborada pelos autores deste artigo604Cadernos de Prospecção – Salvador, v. 11, n. 2, p. 596-614, junho, 2018Lucas Moura Nutels, Amanda Barbosa Wanderley, Arthur Luy Tavares Ferreira Borges, José Rodrigo Arruda, Mailde Jessica Liodoro Santos, Sâmia Andrícia Souza da Silva, Eliane Aparecida Campesatto, Pierre Barnabé Escodro, Tatiane Luciano Baillano, Silvia Beatriz Beger Uchoa, Josealdo Tonholo, Ticiano Gomes do Nascimento Para um melhor aproveitamento dos dados obtidos foi realizada uma busca por cruzamento de descritores por meio do filtro denominado "claims", que são as reivindicações de uma pa-tente.
+A reivindicação de patente é de extrema importância, pois objetiva estabelecer e delimitar os direitos do titular da patente visando uma ampla e eficaz proteção para que terceiros não reivindiquem outro pedido para alternativas da mesma invenção.
+Ao encontrar os descritores de interesse da pesquisa na seção " claims " significa que tal documento é de uma grande importância para compor os dados do estudo e, portanto, não devem ser ignorados.
+Devido o ácido clorogênico (ACG) ser um composto de grande importância na composição do café verde e no consumo humano, foi realizado o cruzamento do termo " green coffee " and "chlorogenic acid " para demonstrar a importância do café como alimento funcional na alimentação humana, assim, pesquisou-se documentos depositados nos bancos de dados de patentes e artigos científicos para saber a quantidade de documentos online que dispõem de ambos os termos para fins benéficos à população.
+Dentre os bancos de dados para busca de artigos científicos, ganha destaque o Science Direct ao apresentar o maior número de resultados totalizando 591, seguido do Lens e Scopus, com 222 e 189 documentos, respectivamente.
+Seguido de Scielo, BMC e Nature com 304, 18 e 7, nessa ordem.
+Dando continuidade à prospecção na efera dos efeitos farmacológicos, vale ressaltar que os compostos bioativos do café contribuem de maneira significativa para melhoria de vida.
+Resíduos e extratos naturais contendo esses compostos são incorporados em formulações de alimentos funcionais, produtos nutracêuticos, cosméticos e produtos de uso medicinal (LAUFENGERD et al., 2003 apud RIBEIRO, 2015).
+Os grãos de café compreendem um conjunto de complexos componentes como uma extensa variedade de minerais, aminoácidos, lipídios, açúcares, vitaminas e compostos químicos que influenciam em diversos processos metabólicos.
+A trigonelina e a cafeína são os alcaloides de maior importância presentes nos grãos, porém, a cafeína ganha destaque como principal alcaloide.
+A cafeína é uma metilxantina, e representa de 1% a 4% nos grãos de café, podendo variar de acordo com os cultivares.
+O robusta possui em média 2,2% de cafeína enquanto, o arábica, 1,2%.
+Esse alcaloide possui propriedades amar-gas e é conhecido por atuar no estímulo do sistema nervoso central, no aumento da circulação sanguínea dilatando os vasos periféricos, aumento da respiração e também age no metabolismo auxiliando na digestão dos alimentos no estômago (ESQUIVEL, 2012; SILVA, 2014).
+Além desses efeitos positivos à saúde humana devido ao consumo moderado da cafeína.
+Heckman, Weil e González de Mejía (2010 apud ESQUIVEL, 2012) alegam que a cafeína contribui no desempenho de exercícios físicos, melhora o humor e reduz os sintomas associados à doença de Parkinson e tremores.
+Os compostos químicos mais influentes são os alcaloides, diterpenos e em maior quantidade, destacam-se os compostos fenólicos, como os ácidos clorogênicos (ACGs) que são os principais compostos bioativos existentes no café.
+Dos compostos fenólicos presentes nos grãos em menor quantidade destacam-se os taninos, ligninas e antocianinas (ESQUIVEL, 2012; FROST-MEYER, LOGOMARSINO, 2012).
+Vários estudiosos afirmam que o consumo moderado de café contribui na redução de desenvolvimento de doenças degenerativas (Alzheimer e Parkinson), diabetes tipo II (T2DM), 605Cadernos de Prospecção – Salvador, v. 11, n. 2, p. 596-614, junho, 2018Prospecção Tecnológica do " Coffee " e "Green Coffee ": análise de patentes na área alimentícia e área da saúde câncer, na redução de peso, asma, no tratamento coadjuvante da hipertensão arterial, doenças cardiovasculares e cirrose (MATTILA; KUMPULAINEN, 2002 apud COSTA, 2015; VIEIRA, 2015).
+Os ACGs são formados pela esterificação de ácidos transcinâmicos juntamente com ácido quínico podendo existir em diferentes formas isoméricas a depender da posição da ligação de éster (PANUSA et al., 2013).
+Dentre tantos ACGs, o mais importante são os ácidos cafeoilquínicos (ACQ) representando cerca de 80% do teor total de clorogênicos seguindo dos ácidos dicafeoil-quínicos (A-diCQ), os ácidos feruloilquínicos (AFQ), os ácidos p-cumaroilquínicos (A-p- CoQ) e os ácidos cafeilo-feruloilquínicos (ACFQ) (Figura 7) (PERRONE et al., 2008 apud AGUIAR, SANTOS, 2016; FARAH, 2008; CANO-MARQUINA;TARIN; CANO, 2013).
+Figura 7 – Estruturas químicas dos principais ACGs presentes no café verde Fonte: LIANG e KITTS (2015) A pesquisa de Rustenbeck (2014), que realizou um estudo com camundongos, demonstra que doses de cafeína administrada nos animais com dieta gordurosa reduziu o ganho de peso e consequentemente melhorando a tolerância à glicose no sangue.
+(2016) em estudo realizado com camundongos foi observado que os animais que se tiveram uma dieta rica em gordura acrescida de ACG em diferentes concentrações (50, 100 e 200 mg/kg) resultou na diminuição do acúmulo de lipídeos e genes relacionados à composição de 606Cadernos de Prospecção – Salvador, v. 11, n. 2, p. 596-614, junho, 2018Lucas Moura Nutels, Amanda Barbosa Wanderley, Arthur Luy Tavares Ferreira Borges, José Rodrigo Arruda, Mailde Jessica Liodoro Santos, Sâmia Andrícia Souza da Silva, Eliane Aparecida Campesatto, Pierre Barnabé Escodro, Tatiane Luciano Baillano, Silvia Beatriz Beger Uchoa, Josealdo Tonholo, Ticiano Gomes do Nascimento gordura corporal evidenciando o apoio do uso de grãos de café verde como suplemento para prevenção da obesidade.
+Consequentemente, o consumo de café verde apresenta também um efeito positivo na diminuição do risco de doenças cardiovasculares (JIANG X.; ZHANG; JIANG, W., 2014; O'KEEFE et al., 2013).
+A associação dos ACG e do ácido caféico apresenta propriedades antimutagênicas, anticancerígenas, antioxidantes e anti-inflamatórias.
+Além do poder antioxidante, os ACG possuem outras propriedades importantes para a saúde como hepatoprotetor, hipoglicêmico e atividades antivirais (IWAI et al., 2004 apud ESQUIVEL, 2012).
+No estudo de Jeska-Skowron, Stanisz e Peña (2016) os ACGs 5-ACQ, 4-ACQ e 3-ACQ (Figura 8) foram estimados por meio de análises cromatográficas e observou-se uma concentração média de componentes entre o café arábica e robusta de 176 mg/ml e 153 mg/ml respectivamente.
+Figura 8 – Estruturas químicas dos principais ácidos cafeoilquínicos presentes no café arábia e robusta Fonte: LUDWIG et al.
+(2014) Destaca-se que a indústria de cosméticos considera a matéria prima oleosa obtida do café verde de grande importância por possuir propriedades emolientes, amaciantes, hidratante e capacidade de proteção contra a luz solar.
+Um efeito que ocorre devido o óleo do café ser ex-tremamente rico em componentes como os esteróis e compostos insaponificáveis (ARAÚJO, SANDI, 2006 apud SILVA, 2015).
+Quanto à capacidade antioxidante do café, os principais contribuintes são as propriedades redutoras presentes nos compostos fenólicos contidos nos grãos de café verde como os ACGs, caféico, ferúlico e p-cumarínico.
+O ácido ferúlico é contemplado de efeitos anti-inflamatório, anti-alérgico, antibacteriano, antiplaquetário e antiviral.
+(YASHIN, 2013; BABOVA; OCCHI-3,17,0$))(,.2&$'$ø/,*g.0(1 $OJXQVDXWRUHVR EVHUYDUDPDWLYLGDGH antioxidante em extratos de café verde apresentando um efeito hipotensivo em ratos (SUZUKI et al., 2002 apud JESKA-SKOWRON; STANISZ; DE PEÑA, 2016).
+O estudo de Yashin (2013) demonstra a atividade antioxidante do café verde por meio dos métodos Capacidade de Absorvência Radial de Oxigênio (ORAC), Potência Antioxidante Reduzida Férrica (FRAP), Antioxidante Reativo Total (TRAP), Capacidade Antioxidante Equi-valente (TEAC) por meio de comparação entre o café arábica e robusta em diferentes métodos de torrefação e temperaturas.
+Observou-se que a atividade antioxidante do café robusta foi altamente maior que do café arábica, porém, essa diferença se torna insignificante depois da torrefação leve, pois ao aumentar o grau de torrefação o café arábica excede o café robusta.
+Os polissacarídeos presentes nos grãos de café verde, além de possuírem um papel importante com relação às características organolépticas nas bebidas de café, pesquisadores descobriram que esses componentes possuem um potencial prebiótico e atividade antioxidante, e atividades são satisfatórias quando ocorre uma modificação molecular (GETACHEW; CHUN, 2017).
+607Cadernos de Prospecção – Salvador, v. 11, n. 2, p. 596-614, junho, 2018Prospecção Tecnológica do " Coffee " e "Green Coffee ": análise de patentes na área alimentícia e área da saúde O café arábica apresenta 6% a 9% de açúcares enquanto o robusta chega de 3% a 7%.
+No estudo de Getachew e Chun (2017) os polissacarídeos modificados apresentaram excelente atividade antioxidante.
+A avaliação da atividade antioxidante foi determinada por meio de métodos in vitro utilizando levedura Saccharomyces cerevisiae como modelo de células vivas.
+Os métodos in vitro são classificados em ensaios de transferência de hidrogênio (HAT) e transferência de elétron (ET).
+Em HAT é realizado o ensaio ORAC, esquema competitivo entre o antioxidante e o substrato e em ET inclui ensaios de DPPH e ABTS de capacidade de captura do radical e o ensaio FRAP .
+(2016) realizou um estudo analisando a relação da atividade antioxidante entre o café verde e o café torrado e também utilizou os ensaios ORAC e ATBS.
+Os valores de antioxidantes variaram a depender do ensaio químico empregado e o resultado entre os dois tipos de café foram semelhantes.
+Os ACGs são os únicos compostos que demonstraram um teor positivo em resposta à atividade antioxidante intracelular medida em células Caco-2 intestinais.
+Dessa forma, o pesquisador conclui que a atividade antioxidante intracelular responde positiva-mente aos ACGs, proporcionando benefícios para a saúde do café.
+(2017) avaliaram a atividade antioxidante por meio da infusão dos grãos do café verde por meio do método de espectrofotometria utilizando radicais sintéticos de DDPH e no aparelho espectrofotômetro Agilent 8453UV .
+Esses estudiosos observaram uma atividade antioxidante elevada (71,97%-83,21%) com variação a depender da espécie de café utilizada para infusão.
+Foi demonstrado que dependendo do método de fabricação do café que há uma interferência no potencial antioxidante das infusões.
+4 Considerações Finais A prospecção tecnológica em café verde demonstrou que a matéria-prima vem sendo aplicada em outras áreas com diferentes aplicações em saúde e alimentos funcionais.
+A prospecção tecnológica com o café verde pode delimitar novas decisões que podem ser tomadas em torno de um provável ambiente futuro, viabilizando, assim, novas investimentos em matéria de PD&I.
+Das pesquisas efetuadas com os descritores definidos, a que retornou o número de patentes depositadas traz uma informação essencial.
+Os Estados Unidos atualmente lideram o ranking com 177 patentes depositadas durante os anos de 1922 a 2017, muito embora nem exista pro-dução cafeeira no país 13.
+Por outro lado o Brasil, considerado o "rei do café" por mais de um século, assume a 14ª posição com 7 patentes depositadas.
+Desse modo fica claro e evidente a disparidade entre a produção comercial e a profundidade tecnológica de ambos os países.
+Uma vez mais é preciso ressaltar os compostos bioativos do café verde e que são de grande valia para a prospecção.
+O ácido clorogênico e o ácido caféico em associação constituem duas peças fundamentais, pois apresentam propriedades antimutagênicas, anticancerígenas, antio-xidantes e anti-inflamatórias (VIEIRA, 2015).
+Unindo os resultados encontrados nas bases com os efeitos, principalmente os do ácido clorogênico, é possível concluir que existe um potencial enorme no produto para melhorar a qualidade de vida das pessoas.
+Extratos naturais contendo esses compostos são incorporados em formulações de alimentos funcionais, produtos nutracêuticos, cosméticos e produtos para uso medicinal.
+Pesquisas rea13 A única exceção é o estado norte-americano do Havaí, o qual possui boas condições climáticas e geográficas para o plantio de c afé.
+São aproximadamente 800 fazendas e 3.200 hectares de plantação.608Cadernos de Prospecção – Salvador, v. 11, n. 2, p. 596-614, junho, 2018Lucas Moura Nutels, Amanda Barbosa Wanderley, Arthur Luy Tavares Ferreira Borges, José Rodrigo Arruda, Mailde Jessica Liodoro Santos, Sâmia Andrícia Souza da Silva, Eliane Aparecida Campesatto, Pierre Barnabé Escodro, Tatiane Luciano Baillano, Silvia Beatriz Beger Uchoa, Josealdo Tonholo, Ticiano Gomes do Nascimento lizadas apontam o ácido clorogênico como sendo o principal agente antioxidante com efeitos terapêuticos positivos no controle da pressão arterial, melhorando os níveis de glicose no sangue e consequentemente agindo no controle do diabetes tipo 2, assim também como no controle da síndrome metabólica.
+Registros em artigos científicos têm demonstrado a utilização do café verde na prevenção e tratamento de doenças, sendo esse o principal motivo da escolha do tema proposto.
+Considerando que os descritores citados foram utilizados na prospecção de patentes e artigos acadêmicos, tal como expressos por meio de gráficos e tabelas, nota-se o frequente uso do café verde em formulações apresentadas em publicações de patentes, de interesse comercial, e artigos acadêmicos, interesse científico.
+No entanto, para avançar no tema são necessários mais estudos clínicos que sejam conclusivos e que corroborem com a confirmação da eficácia em humanos dos produtos que contenham o café verde como principal substância para fins de prevenção ou tratamentos de doenças.
+Agradecimentos Os autores agradecem ao CNPq, à CAPES, ao FINEP e à FAPEAL as bolsas concedidas aos mestrandos e financiamento de bases de dados de artigos científicos e bases de dados de paten-tes, bem como aprovação de projeto de pesquisa pelo processo nº 446630/2014-4 aprovado no Edital nº 014/2014/Universal/MCT/CNPq e Edital Apoio a Pesquisas PPGs/FAPEL Nº 14/2016 Processo nº 600 30 000431/2017 – Projeto de Pesquisa nanopartículas híbridas de própolis vermelha.
+À base de dados Patseer por disponibilizar os dados da plataforma durante período da pesquisa.
+À empresa GOLD CAFÉ® e à COF FIT® do Estado de Alagoas o apoio em disponibilizar material bibliográfico para esta pesquisa.
+Referências AGUIAR, J.; ESTEVINHO, Berta Nogueiro; SANTOS, L. Microencapsulation of natural antioxidants for food application – The specific case of coffee antioxidants – A review.
+Trends in Food Science & Technology , [S.l.
+AMERICAN DIABETES ASSOCIATION et al.
+National diabetes statistics report, 2014.
+Estimates of diabetes and its burden in the epidemiologic estimation methods.
+AMPARO, Keize Katiane dos Santos; RIBEIRO, Maria do Carmo Oliveira; GUARIEIRO, Lilian Lefol Nani.
+Estudo de caso utilizando mapeamento de prospecção tecnológica como principal ferramenta de busca científica.
+Perspectivas em Ciência da Informação , Belo Horizonte, v. 17, n. 4, p. 195–209, 2012.
+BABOVA, Oxana; OCCHIPINTI, Andrea; MAFFEI, Massimo E. Chemical partitioning and antioxidant capacity of green coffee (Coffea arabica and Coffea canephora) of different geographical origin.
+BMC [Base de dados – Internet].
+Disponível em: < biomedcentral.com/> Acesso em 20 abr.
+2017.609Cadernos de Prospecção – Salvador, v. 11, n. 2, p. 596-614, junho, 2018Prospecção Tecnológica do " Coffee " e "Green Coffee ": análise de patentes na área alimentícia e área da saúde CANO-MARQUINA, A.; TARIN, J. J; CANO, A.
+The impact of coffee on health.
+Doi:10.1016/j.maturitas.2013.02.002.
+Green coffee bean extract improves obesity by decreasing body fat in highfat diet-induced obese mice.
+2016 Jul;9(7):635-43. doi: 10.1016/j.apjtm.2016.05.017.
+Compostos bioativos e atividade sequestrante de radicais livres de quatro cultivares do Coffea arabica L. em diferentes estádios de maturação dos frutos .
+Dissertação (Mestrado Ciência dos Alimentos) – Departamento de Alimentos e Nutrição.
+DÓREA, José G.; DA COSTA, Teresa Helena M. Is coffee a functional food?.
+British Journal of Nutrition , Cambridge, v. 93, n. 6, p. 773–782, 2005.
+ESPACENET [Base de dados – Internet].
+Disponível em: <https:// worldwide.espacenet.com/>.
+ESQUIVEL, Patricia; JIMÉNEZ, Víctor M. Functional properties of coffee and coffee byproducts.
+Food Research International , [S.l.
+], v. 46, n. 2, p. 488–495, 2012.
+FOOD AGRICULTURE ORGANIZATION OF THE UNITED NATIONS (FAO).
+Disponível em: < Acesso em: 5 jul.
+Chlorogenic acids from green coffee extract are highly bioavailable in humans.
+The Journal of nutrition , EUA, v. 138, n. 12, p. 2309–2315, 2008.
+FROST-MEYER, Nancy J.; LOGOMARSINO, John V .
+Impact of coffee components on inflammatory markers: A review.
+Journal of Functional Foods , [S.l.
+], v. 4, n. 4, p. 819–830, 2012.
+GETACHEW, Adane Tilahun; CHUN, Byung Soo.
+Molecular modification of native coffee polysaccharide using subcritical water treatment: Structural characterization, antioxidant, and DNA protecting activities.
+International Journal of Biological Macromolecules , [S.l.
+INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL (INPI) [Base de dados – Internet].
+Disponível em: < Acesso em: 6 abr.
+JESZKA-SKOWRON, Magdalena; STANISZ, Ewa; DE PEÑA, Maria Paz.
+Relationship between antioxidant capacity, chlorogenic acids and elemental composition of green coffee.
+LWT-Food Science and Technology , [S.l.
+JIANG, Xiubo; ZHANG, Dongfeng; JIANG, Wenjie.
+Coffee and caffeine intake and incidence of type 2 diabetes mellitus: a meta-analysis of prospective studies.
+European Journal of Nutrition , [S.l.
+], v. 53, n. 1, p. 25–38, 2014.2&$'$ø/,7ROJDKDQ*g.0(19XUDO(IIHFWRIURDVWLQJDQGEUHZ LQJRQWKHDQWLR[LGDQWFDSDFLW\ of espresso brews determined by the QUENCHER procedure.
+Food Research International , [S.l.
+Interactions between major chlorogenic acid isomers and chemical changes in coffee brew that affect antioxidant activities.
+LIANG, Ningjian; KITTS, David D. Role of chlorogenic acids in controlling oxidative and inflammatory stress conditions.
+], v. 8, n. 1, p. 16, 2015.610Cadernos de Prospecção – Salvador, v. 11, n. 2, p. 596-614, junho, 2018Lucas Moura Nutels, Amanda Barbosa Wanderley, Arthur Luy Tavares Ferreira Borges, José Rodrigo Arruda, Mailde Jessica Liodoro Santos, Sâmia Andrícia Souza da Silva, Eliane Aparecida Campesatto, Pierre Barnabé Escodro, Tatiane Luciano Baillano, Silvia Beatriz Beger Uchoa, Josealdo Tonholo, Ticiano Gomes do Nascimento LUDWIG, Iziar A. et al.
+Coffee: biochemistry and potential impact on health.
+], v. 5, n. 8, p. 1695–1717, 2014.
+MAYERHOFF , Zea Duque Vieira Luna.
+Uma análise sobre os estudos de prospecção tecnológica.
+Cadernos de Prospecção , Salvador, v. 1, n. 1, p. 7–9, 2009.
+MOREIRA, Maria Eliza de Castro.
+Avaliação do potencial farmacológico de café (Coffea arabica L.) verde e torrado .
+114 f. Tese (Doutorado em Ciência dos Alimentos) – PRPG, Universidade Federal de Lavras, Minas Gerais, 2013.
+NATURE [Base de dados – Internet].
+Disponível em: < index.html />.
+Effects of habitual coffee consumption on cardiometabolic disease, cardiovascular health, and all-cause mortality.
+Journal of the American College of Cardiology , [S.l.
+], v. 62, n. 12, p. 1043–1051, 2013.
+Recovery of natural antioxidants from spent coffee grounds.
+Journal of agricultural and food chemistry , [S.l.
+], v. 61, n. 17, p. 4162–4168, 2013.
+PATSEER [Base de dados – Internet].
+Global Patent Search and Analysis; 2017.
+Disponível em:< Acesso em: 12 abr.
+Composição química dos óleos essenciais das folhas e frutos de Caryocar brasiliensis camb .
+Disponível em: < ranteriores/23/resumos/1375-2/index.html>.
+Composição química e atividade antioxidante de subprodutos da indústria cafeeira.
+Disponível em: < Acesso em: 18 set.
+Effect of chronic coffee consumption on weight gain and glycaemia in a mouse model of obesity and type 2 diabetes.
+Nutrition & diabetes , [S. l.], v. 4, n. 6, p. e123, 2014.
+SCIELO [Base de dados – Internet].
+SCIENCE DIRECT [Base de dados – Internet].
+Disponível em: <www.sciencedirect.
+SCOPUS [Base de dados – Internet].
+Disponível em: < Acesso em: 18 abr.
+Mapeamento de tecnologias patenteáveis com o uso da hecogenina.
+Revista Geintec , Aracaju, n. 2, v. 5, p. 427–435, 2012.
+Parametrização das condições de obtenção do extrato do café verde e torrado com CO2 supercrítico.
+], v. 10, n. 1, p. 65–75, 2015.
+Quality assessment of coffee grownin Campos Gerais, Minas Gerais State, Brazil.
+], v. 36, n. 4, p. 739–744, 2014.
+O pequí – Contribuição ao conhecimento das plantas úteis do Brasil.
+In: CONGRESSO BRASILEIRO DE FARMÁCIA, 3., Anais .
+Belo Horizonte: [s.n], 1939. p. 661–668.611Cadernos de Prospecção – Salvador, v. 11, n. 2, p. 596-614, junho, 2018Prospecção Tecnológica do " Coffee " e "Green Coffee ": análise de patentes na área alimentícia e área da saúde STELMACH, Ewelina; POHL, Pawel; SZYMCZYCHA-MADEJA, Anna.
+The content of Ca, Cu, Fe, Mg and Mn and antioxidant activity of green coffee brews.
+THE LENS [Base de dados – Internet].
+Disponível em: < Acesso em: 6 abr.
+USPTO [Base de dados – Internet].
+Unites State Patent and Trademark Office; 2017.
+Disponível em: < Acesso em: 17 abr.
+Suplementos: os brasileiros adoram.
+Disponível em: <https:// veja.abril.com.br/saude/suplementos-os-brasileiros-adoram/>.
+Características fitoquímicas e propriedades antioxidantes do grão de café verde .
+53 f. Dissertação (Mestrado Integrado em Ciências Farmacêuticas) – Faculdade de Ciências da Saúde.
+Universidade Fernando Pessoa, Porto, 2015.
+Flora da Serra do Cipó, Minas Gerais: Caryocaraceae.
+Boletim da Botânica , São Paulo, n. 13, p. 165–168, 1992.
+WORLD INTELLECTUAL PROPERTY ORGANIZATION (WIPO) [Base de dados – Internet].
+Disponível em: < Acesso em: 14 abr.
+Levels of Antioxidant Activity and Fluoride Content in Coffee Infusions of Arabica, Robusta and Green Coffee Beans in According to their Brewing Methods.
+Biological trace element research , [S.l.
+Antioxidant and antiradical activity of coffee.
+], v. 2, n. 4, p. 230–245, 2013.
+Sobre os Autores Lucas Moura Nutels E-mail : nutels.me@gmail.com Mestrando do Programa de Pós-Graduação em Propriedade Intelectual e Transferência de Tecnologia para a Inovação (PROFNIT), pela Universidade Federal de Alagoas (UFAL); e graduado em Ciências Contábeis, pela UFAL.
+Possui experiência com atividades de propriedade intelectual, empreendedorismo e inovação.
+Amanda Barbosa Wanderley E-mail : amandabarbosaa@live.com Mestranda do Programa de Pós-Graduação em Ciências Farmacêuticas, pela Universidade Federal de Alagoas (UFAL); e graduada em Farmácia, pelo Centro Universitário CESMAC (2014).
+Estagiou na Farmácia Escola em 2013 passando pelos setores de manipulação, indústria e microbiológico, em seguida vivenciou o estágio no Hospital Geral do Estado (HGE), Centro de Patologia e Medicina Laboratorial (CPLM) e na empresa Farmácia Pague Menos, ambos no ano de 2014.
+Integra o grupo de pesquisa do Laboratório de Análises Farmacêuticas e de Alimentos (LAFA); desenvolve projeto de pesquisa que visa a padronização de extratos e microcápsulas Spray-Dryer de Justicia pectoralis (chambá), contendo extrato bruto de Justicia pectoralis , atuando com técnicas como, Cromatografia Líquida de Alta Eficiência (HPLC-DAD), análise térmica (TG, DTA), técnicas espectroscópicas (UV-vis e FTIR), atividade antioxidante de compostos fenólicos, dissolução e atividade anti-inflamatória e analgésica.612Cadernos de Prospecção – Salvador, v. 11, n. 2, p. 596-614, junho, 2018Lucas Moura Nutels, Amanda Barbosa Wanderley, Arthur Luy Tavares Ferreira Borges, José Rodrigo Arruda, Mailde Jessica Liodoro Santos, Sâmia Andrícia Souza da Silva, Eliane Aparecida Campesatto, Pierre Barnabé Escodro, Tatiane Luciano Baillano, Silvia Beatriz Beger Uchoa, Josealdo Tonholo, Ticiano Gomes do Nascimento Arthur Luy Tavares Ferreira Borges E-mail : arthurltfb@gmail.com Graduando em Farmácia, pela Universidade Federal de Alagoas (UFAL).
+Desenvolve pesquisa de inovação com o tema: café verde; é aluno Programa Institucional de Bolsas de Iniciação em Desenvolvimento.
+Tecnológico e Inovação (PIBITI), no qual desenvolve pesquisa para lançamento de produtos a base de café verde.
+José Rodrigo Arruda E-mail : arrudar@hotmail.com Aluno especial do Programa de Pós-Graduação em Ciências Farmacêuticas, da Universidade Federal de Alagoas (UFAL); especialista em Hematologia e Hemoterapia (2016), pela UNIT (2016); pós-graduando em Citologia Clínica, pela UNIT (2017); pós-graduando em Análises Microbiológicas e Parasitológicas, pelo CESMAC (2017), e graduado em Farmácia, pelo CESMAC (2008).
+Mailde Jessica Liodoro Santos E-mail : mayldeliodorio@hotmail.com Graduanda em Bacharelado em Farmácia na Escola de Enfermagem e Farmácia (ESENFAR), da Universidade Federal de Alagoas (UFAL), no campus A. C. Simões (Maceió-AL); estudante concluinte do Ensino Médio no Colégio Nunila Machado (São Miguel dos Campos/AL); e aluna bolsista MEC.
+Desenvolve pesquisa de inovação com cápsulas de café verde e capsulas de própolis vermelha.
+Sâmia Andrícia Souza da Silva E-mail : sass@esenfar.ufal.br Doutora em Produtos Naturais e Sintéticos Bioativos, pela Universidade Federal da Paraíba (UFPA) (2004); e graduada em Farmácia, pela UFPA (1999).
+Atualmente, é professora associada I da Universidade Federal de Alagoas (UFAL).
+Orientadora de Mestrado, pelo Programa de Pós-Graduação em Ciências Farmacêuticas da UFAL.
+Tem experiência na área de Química dos Produtos Naturais, atuando principalmente nos seguintes temas: isolamento e identificação estrutural de substâncias naturais, e em estudos no âmbito da fitoterapia, uso de plantas medicinais e controle de qualidade de drogas vegetais.
+Eliane Aparecida Campesatto E-mail : eliane.campesatto@icbs.ufal.br Doutora em Ciências Biológicas (Biologia Celular), pela Universidade Estadual de Maringá (UEM) (2007); mestre em Ciências Biológicas (Biologia Celular), pela UEM (2001); graduada em Farmácia pela Universidade Paranaense (UNIPAR) (1996).
+Professora titular do Centro Universitário de Maringá nas disciplinas de Farmacologia para os Cursos de Farmácia e Nutrição, Farmacoterapêutica para Odontologia e Toxicologia Geral e Clínica para Farmácia (1998–2008).
+Coordenadora dos Cursos de Especialização em Farmacologia e em Manipulação Farmacêutica do Cesumar (1998–2008).
+Atualmente, é professora adjunta do Setor de Farmacologia da Universidade Federal de Alagoas (UFAL).
+Pesquisadora do Laboratório de Farmacologia e Imunidade (ICBS-UFAL).
+Orientadora do Mestrado em Ciências Farmacêuticas (ESENFAR/UFAL).
+Orientadora de alunos em Trabalhos de Conclusão de Curso, PIBIC e projetos de extensão.
+Orienta nas áreas de: Dor, inflamação e cicatrização e Uso racional de medicamentos.
+Pierre Barnabé Escodro E-mail : pierre.escodro@viscosa.ufal.br Doutor em Ciências na área de Biotecnologia, pelo Programa de Pós -Graduação do Instituto de Química e Biotecnologia (IQB) da Universidade Federal de Alagoas (UFAL); mestre em Medicina Veterinária na Área de Clínica Cirúrgica Veterinária pela FMVZ-UNESP (2004); especialista em Cirurgia e Anestesiologia de Grandes Animais na Faculdade de Medicina Veterinária e Zootecnia da Universidade Estadual Paulista Júlio de Mesquita Filho (FMVZ-UNESP) (2001); e graduado em Medicina Veterinária, pela Universidade Federal do Paraná-Curitiba 613Cadernos de Prospecção – Salvador, v. 11, n. 2, p. 596-614, junho, 2018Prospecção Tecnológica do " Coffee " e "Green Coffee ": análise de patentes na área alimentícia e área da saúde (UFPR) (1997).
+De 2001 a 2008 atuou como Diretor Clínico da VETPOLO Consultoria Veterinária, Pesquisa e Saúde Ltda, em Indaiatuba-SP .
+Atualmente é professor adjunto III da UFAL.
+Lider do Grupo de Pesquisa e Extensão em Equídeos (GRUPEQUI-UFAL).
+Orientador no Curso de Mestrado em Inovação e Tecnologia Integradas à Medicina Veterinária para o Desenvolvimento Regional-UFAL e no Mestrado Profissional em Propriedade Intelectual e Transferência de tecnologia para inovação em rede nacional, ponto focal UFAL.
+Tatiane Luciano Baillano E-mail : tlb@qui.ufal.br Doutora em Física Aplicada (Biomolecular), pela Universidade de São Paulo (USP) (2010); mestre em Química e Biotecnologia, área de concentração Físico-química (cristalografia de raios X), pela Universidade Federal de Alagoas (UFAL) (2006); e graduada em Química, pela UFAL (2005).
+Atualmente, é professora adjunto IV na UFAL, no Instituto de Química e Biotecnologia.
+Desenvolve projetos de pesquisa na área de Química de proteínas e Cristalografia de Pequenas e macromoléculas.
+Orientadora do Programa de Pós-Graduação em Propriedade Intelectual e Transferência de Tecnologia para a Inovação (PROFNIT), polo UFAL.
+Tem experiência na área de Química com ênfase em Química do Estado Condensado, atuando nos temas: cristalografia de raios X com aplicação em Química Medicinal, Biologia Estrutural, Química do Estado Sólido e Inovação Tecnológica envolvendo principalmente compostos orgânicos e produtos tecnológicos.
+Silvia Beatriz Beger Uchoa E-mail : sbuchoa@gmail.com Doutora em Química e Biotecnologia, área de concentração Físico-Química, pelo Instituto de Química e Biotecnologia da Universidade Federal de Alagoas (UFAL) (2007); mestre em Arquitetura e Planejamento, pela Escola de Engenharia de São Carlos da Universidade de São Paulo (USP) (1989); e graduada em Engenharia Civil, pela Universidade Federal de Mato Grosso (UFMT) (1984).
+Atualmente, é professora titular da UFAL e vice-coordenadora do Mestrado Profissional PROFNIT, ponto focal UFAL.
+Foi coordenadora do Núcleo de Inovação Tecnológica e de Programas Especiais da PROPEP/UFAL, coordenando o Programa Institucional de Bolsas de Iniciação em Desenvolvimento Tecnológico e Inovação (PIBITI) de 2010 a janeiro de 2016.
+Tem experiência nas áreas de Construção Civil e em Eletroquímica, com ênfase em Materiais e Componentes de Construção e Ensaios de Corrosão e Durabilidade, atuando principalmente nos seguintes temas: construção civil, materiais de construção, propriedades do concreto, durabilidade de estruturas de concreto armado e patologias de fachadas de edifícios.
+Foi vice-coordenadora do Fórum Nacional de Gestores de Inovação e Transferência de Tecnologia (FORTEC Regional NE), de abril de 2010 a abril de 2012.
+Atualmente, integra o Conselho Fiscal do Fórum Nacional de Gestores de Inovação e Transferência de Tecnologia (FORTEC) e é suplente no Conselho Fiscal da ANPROTEC.
+Josealdo Tonholo E-mail : tonholo@qui.ufal.br Doutor e mestre em Físico-Química, pelo Instituto de Química de São Carlos (1991 e 1997) da Universidade de São Paulo (USP); bacharel e licenciado em Química, pela Faculdade de Filosofia Ciências e Letras de Ribeirão Preto (198 8).
+É professor titular da Universidade Federal de Alagoas (UFAL), vinculado ao Instituto de Química e Biotecnologia.
+Tem experiência na área de Química, com ênfase em Eletroquímica, atuando principalmente nos seguintes temas: remediação de águas residuárias, anodo dimensionalmente estável, desprendimento de hidrogênio e produção de cloro e soda, corrosão, polímeros conduto res, dispositivos e materiais inovadores em energia e saúde.
+Na área de Gestão em Ciência, Tecnologia e Inovação é ativo em Sistemas de Inovação, Empreendedorismo Inovador, Proteção do Conhecimento, Transferência de Tecnologia, Interação Universidade-Empresa e Incubadoras de Empresas/Parques Tecnológicos.
+É orientador do quadro permanente dos PPGs em Química e Biotecnologia do I QB/UFAL, da Rede PROFNIT e da Rede Renorbio.
+É membro integrante do INCT-INAMI-Instituto Nacional de Marcadores Integrados.
+É Bolsista de Produtividade DT/CNPq desde 2006.
+Foi bolsista de Pós-doutorado CNPq, no Departamento de Materiais da Universidade de Loughborough , Inglaterra, sob supervisão do Prof. G.D. Wilcox (20 13–2014).
+Foi Diretor da Associação Brasileira de Parques Tecnológicos e Incubadoras de Empresas (ANPROTEC) (2003–2009).
+Desde 2015 exerce a função de Pró-Reitor do Fórum Nacional de Gestores de Inovação e Transferência de Tecnologia (FORTEC).
+614Cadernos de Prospecção – Salvador, v. 11, n. 2, p. 596-614, junho, 2018Lucas Moura Nutels, Amanda Barbosa Wanderley, Arthur Luy Tavares Ferreira Borges, José Rodrigo Arruda, Mailde Jessica Liodoro Santos, Sâmia Andrícia Souza da Silva, Eliane Aparecida Campesatto, Pierre Barnabé Escodro, Tatiane Luciano Baillano, Silvia Beatriz Beger Uchoa, Josealdo Tonholo, Ticiano Gomes do Nascimento Ticiano Gomes do Nascimento E-mail : ticianogn@yahoo.com.br Pós-doutor em purificação e identificação de metabólitos secundários da própolis vermelha de Alagoas usando CLA E-preparativo e GC-MS e LC- Orbitrap-FTMS.
+Estudos de fingerprinting, autenticidade e sazonalidade da própolis vermelha usando software de metabolômica (open Format) pela University of Strathclyde/Glasgow-UK; e doutor em Produtos Naturais e Sintéticos Bioativos, pela Universidade Federal da Paraíba (UFAL) (2004); mestre em Produtos Naturais e Sintéticos Bioativos, pela Universidade Federal da Paraíba (UFPB) (2000); e graduado em Farmácia, pela Universidade Federal da Paraíba (UFPB) (1998).
+Bolsista do CNPq em Produtividade, Desenvolvimento Tecnológico e Extensão I inovadora nível 2 - CA 82.
+Professor associado III da Universidade Federal de Alagoas (UFAL).
+Leciona nas disciplinas Farmacotécnica, Análises Farmacêutica, Controle de Qualidade de Fármacos e Medicamento s e Estágio curricular em Medicamentos/Alimentos.
+Foi coordenador do curso de Farmácia no período junho de 2006 a março de 2009.
+Orientador de Mestrado pelo Programa de Pós-Graduação em Ciências Farmacêuticas da UFAL, Programa de Pós-Graduação em Nutrição da UFAL e pelo PROFNIT - polo UFAL.
+Atualmente, é revisor da Revista Brasileira de Farmacognsia, Brazilian Journal of Pharmaceutical Sciences, Journal of Thermal Analysis and alorimetry, Journal of Chromatography B, Journal of Pharmaceutical and Biomedical Analysis e Food Chemistry.
+Tem experiência na área de Farmácia Industrial, com ênfase em Desenvolvimento de Pré-Formulados e Formulados Sólidos, e Semi-Sólidos, Estudo de Estabilidade de Medicamentos e Bioequivalência (etapa analítica); atuando principalmente com as seguintes técnicas analíticas: análise térmica (DSC, DTA, Termogravimetria), Infravermelho (Médio e NIR), Dissolução Intrínseca, Cinética e Perfil de Dissolução e CLAE (CLAE-UV-DAD, CLAE-UV-MS-MS).
+Vem atuando no desenvolvimento e validação de metodologias analíticas e produtos para saúde a base de própolis vermelha de Alagoas e fitoterápicos (cúrcuma longa), Guaco (Mikaniag lomerata), frutas tropicais e medicamentos sintéticos.

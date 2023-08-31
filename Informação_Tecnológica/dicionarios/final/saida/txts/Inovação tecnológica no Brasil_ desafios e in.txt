@@ -1,0 +1,948 @@
+ Review of Policy Measures to Stimulate Private Demand for Innovation.
+Concepts and EffectsNesta Working Paper No.
+13/13 Jakob Elder Review of Policy Measures to Stimulate Private Demand for Innovation.
+Concepts and Effects Jakob Elder Manchester Institute of Innovation Research, University of Manchester Nesta Working Paper 13/13 November 2013 www.nesta.org.uk/wp 13-13 Abstract This paper is part of the Compendium of Evidence on the Effectiveness of Innovation Policy Intervention.
+It introduces the logic of demand -based innovation policy and it reviews in more detail instruments that are primarily geared towards supporting privat e demand.
+The report defines demand side innovation policy as all public action to induce innovation and/or speed up the diffusion of innovation through increasing the demand for innovation, defining new functional requirements for products and services and/or improving user involvement in innovation production (user -driven innovation).
+A typology of demand- side instruments is introduced.
+The paper demonstrates that there is strong theoretical reasoning and empirical evidence that demand is crucial for inno vation activities.
+The evidence for the impact of policies that support the demand side is ambivalent, and different types of interventions have different kinds of effect, one prominent example being that command and control regulations appear to be more important for radical innovations than demand subsidies.
+The report shows that it is possible to transform markets to absorb more innovative products by using a mix of demand based policy.
+Demand side policy need a lot of policy intelligence to work properl y, and they do not allow containing all economic effects on the supply side within a given country, as demand is often satisfied through international supply.
+The report finally finds a lack of evidence for a range of important interventions, such as those that make private demanders pro -actively ask for innovations.
+JEL Classification: O38 Keywords: Innovation policy, demand side policies, impact The Compendium of Evidence on the Effectiveness of Innovation Policy Intervention Project is led by the Manchester Institute of Innovation Research (MIoIR), University of Manchester, and funded by Nesta, an independent charity with the mission to make the UK more innovative.
+The compendium is organised around 20 innovation policy topics categorised primarily according to their policy objectives.
+Curr ently, some of these reports are available.
+All reports are available at -policy.org.uk.
+Also at this location is an online strategic intelligence tool with an extensive list of references that present evidence for the effectiveness of each particular innovation policy objective.
+Summaries and download links are provided for key references.
+These can also be reached by clicking in the references in this document .
+Corresponding Author: Jakob Edler, Jakob.edler@mbs.ac.uk .
+The Nesta Working Paper Series is intended to make available early results of research undertaken or supported by Nesta and its partners in order to elicit comments and suggestions for revisions and to encourage discussion and further debate prior to publi cation (ISSN 2050- 9820).
+Short sections of text, tables and figures may be reproduced without explicit permission provided that full credit is given to the source.
+The views expressed in this working paper are those of the aut hor(s) and do not necessarily represent those of Nesta.
+Manchester Institute of Innovation Research This report is part of the Compendium of Evidence on the Effectiveness of Innovation Policy Intervention Project led by the Manchester Institute of Innovation Research (MIoIR), University of Manchester.
+The project is funded by the National Endowment for Science, Technology and the Arts (NESTA) - an independent body with the mission to make the UK more innovative.
+The compendium is organised around 20 innovation policy topics categorised primarily accordi ng to their policy objectives.
+The study is now finished, with reports being available at -policy.org.uk .
+Also at this location is an online strategic intelligence tool with an extensive list of references that present evidence for the effectiveness of each particular innovation policy objective.
+Summaries and download links are provided for key references.
+These can also be reached by c licking in the references in this document.
+Manchester Institute of Innovation Research Table of Contents Table of Figures .
+5 2 Typology of demand based instruments .
+10 3.1 Importance of demand for innovation .
+10 3.2 Different modalities of demand influencing supply .
+11 3.3 Intervention logics on the demand side .
+16 4.1 Limitations and challenges of existing evaluations .
+19 5.2 Information provision and labels .
+24 5.3 Policy to support user -producer interaction - one early example .
+26 5.4 Market transformation: an example of mixed measures .
+32 Effects of Policy to Support Private Demand Edler 1 Manchester Institute of Innovation Research Table of Figures Figure 1: Demand as main barrier of Europea n firms .
+11 Figure 2: The effect of policy and the scope of existing evaluations .
+18 Figure 3: Market transformation - policy measures and market maturity level .
+27 List of Tables Table 1: General Typology of demand based measures .
+9 Table 2: Price based instruments .
+19 Effects of Policy to Support Private Demand Edler 2 Manchester Institute of Innovation Research Executive Summary This report introduces the logic of demand -based innovation policy and it reviews in more detail instruments that are primarily geared towards supporting private demand.
+The report defines demand side innovation policy as all public action to induce innovation and/or speed up the diffusion of innovation through increasing the demand for innovation , defining new functional requirements for products and services and/ or improving user involvement in innovation production (user -driven innovation ).
+A typology of demand -side instruments is introduced, distinguishing between public procurement Uyarra (2013) , tax incentives and subsidies to support private demand (so called price based measures), a range of information and training measures, regulations, combinations of demand side measures and measures at the interface of supply and demand approaches (such as pre -commercial procurement , Rigby (2013) , or Lead Market approaches).
+Numerous p olicies in many fields have influen ced demand , however, in the last decade the attention of policy makers in the OECD countries and beyond has turned towards supporting demand more systematically, and demand -side instruments have attained new prominence as explicit measures amongst other innovation policy tools.
+The policy rationale for demand -based policy is threefold: (1) to react to market and system failures on the demand side (such as information asymmetries, adoption externalities, high entry costs, path dependencies , etc.
+), (2) to respond to societal needs and (3) to support the economy on the supply side.
+In order t o design and analyse demand policies, it is important to distinguish the different ways in which demand contributes to innovation.
+Demand may trigger an innovation (ask ing for new products / services), and demand can be responsive by absorbing, adopting and using an innovation offered by suppliers .
+Further, users may coproduce an innovation with suppliers or develop an innovative solution themselves (userproduced innov ation).
+There is strong theoretical reasoning and empirical evidence that demand is crucial for innovation activities.
+A number of econometric analyses demonstrate that sophisticated and novel demand , along with rapid diffusion can stimulate R&D and innov ation investment .
+It has also been shown that demand is more important for innovation than R&D subsidies.
+Consequently, European -wide surveys indicate that firms see policies to improve demand for innovation as highly relevant, more important than R&D supp ort, while uncertain demand has been rated as one of the most important obstacles to innovation.
+The empirical evidence for this report draws largely on analyses from the area of energy and environmental policy .
+Here, in contrast to the innovation policy area, supporting the uptake and diffusion of innovations has been a core policy element for many years.
+However, many of th ese analyses focus on the effectiveness of measures in terms of diffusion of innovation and the subsequent societal impact , rather th an on the actual direct effect as a result of innovation.
+As regards price based support measures (tax incentives and subsidies), the empirical literature contains mixed messages : there is not a clear " best " approach.
+By and large, demand subsidies have b een shown to have a positive impact on the uptake of eco -innovation.
+However, this impact is rarely statistically significant, and other factors are often more important for the purchasing decision.
+For example, comparative studies found that between 8% an d 11% of purchases of a specific innovation (innovative insulation) were critically influenced by a subsidy Effects of Policy to Support Private Demand Edler 3 Manchester Institute of Innovation Research of 15%.
+A range of studies compare R&D subsidies to demand side instruments.
+Mostly, this is done with patents (R&D output) as innovation indicator – which clearly limits the scope of the evidence, as patents contain a time lag and mirror only a fraction of innovation activities.
+This shows that R&D subsidies are more important for patents than demand subsidies.
+However, one study found that diffusion supported by demand measures is more important for process innovation, while some older studies claim that (public) demand has been more important than R&D subsidies for the generation and diffusion of innovation.
+Importantly, econometric analysis has sh own that , in contrast to supply side measures, the innovation effect of demand measures spills over to foreign markets.
+This is especially true for innovations which do not necessitate close proximity between user and producer.
+Finally, the literature is n ot conclusive when comparing price -based measures to command and control regulations.
+There are weak signs that command /control regulations are more likely to trigger more radical innovation.
+The review defines a range of design principles for price -based measures : instruments which reduce purchasing price upfront appear to be more important than savings over time (or raising the costs of old technology over time).
+Further, timing and choice are of key importance .
+Demand measures risk creating technologica l lock -in by supporting state of the art rather than demanding continuous improvements or radical innovation.
+In addition, while the leverage effect on diffusion is higher in the early phase s, to support the demand for an innovation too early can slow down further improvements that would, with delay, be more competitive in the long run.
+Finally, price -based measures face the further challenge of setting the incentive right ; if it is too high, windfall profits will surge, if it is too low, it will not lead to self -sustained diffusion.
+No decisi ve rule on the right level of incentives has been found in the literature.
+The limited evidence for the innovation and diffusion effe cts of label ling and information campaigns is ambivalent.
+Increasing awareness for an innovation and security of its use accelerate diffusion , thus feeding back to innovation effects, while transparency through label ling increases competition and innovatio n. Label ling has a more positive effect on innovations for those firms that are highly innovation active, while for firms that are less active innovative regulation is more effective in triggering innovation.
+It appears that in order to trigger radical inn ovation or to make firms change their behaviour dramatically, price -based measures and labels are not enough; regulation and command and control are more effective.
+However, label ling and information campaigns can be counter -productive.
+They are in general status quo oriented, built on pre -existing standards and do not reward further innovation.
+Further, private schemes are less effective than public schemes, and label ling is more effective the clearer and simpler it is (especially when related to cost savi ngs).
+The diffusion and subsequent innovation effect of label ling can be increased when they are combined with financial means such as cheaper loans.
+The report finally shows that it has been possible to transfer markets in the energy sector by combining a range of different demand -side measures, tailored towards the specific failures and needs for certain innovations.
+These approaches clearly pick winners, need intensive preparation to understand specific needs and leverages and risk reducing variety and t he competition among solutions in the longer run.
+Overall, this study highlights two evidence and intelligence gaps.
+First, there is no meaningful analysis of innovation effects for any scheme that supports private demand in triggering Effects of Policy to Support Private Demand Edler 4 Manchester Institute of Innovation Research innovation or suppo rts the interaction of users and producers.
+Second, only a limited number of evaluations are available which actually look at the innovation effect of measures to support private demand .
+The report also demonstrates that innovation policy has st ill to lear n from other policy domains with regard to the design and effects of demand based measures, and, conversely, domain policies have to improve their appreciation of the potential of demand based measures to support innovation.
+Finally, t he difficulty in cont aining the innovation effects of demand measures within national borders requires international coordination or , in Europe, the expansion of demand measures to the EU level.
+Otherwise opportunities to support the introduction and diffusion of products and services that are societally desirable will be lost to national political considerations.
+Effects of Policy to Support Private Demand Edler 5 Manchester Institute of Innovation Research 1 Introduction1 Comeback of demand in innovation policy Innovation policy is about public support for the generation, market introduction and wider use of innovations.
+In the last 15 years or so innovation policy practice and the discourse about innovation policy largely focused on the supply side.
+In starkly s implified terms, supply side policies support firms, intermediaries, third sector organisations and public bodies in their capabilities and efforts to generate and exploit innovation in various ways.
+This is based on a range of system and market failures w hich lead to an under -investment in research and innovation activities and lack of innovation capabilities and linkages.
+While supply side measures may be defined in specific technology areas, they largely leave the decision about the concrete output of in novation to the recipients of support.
+Policy makers need to understand the market and system failures and – if supply side policies are more targeted – define broad technological and sectoral areas of support.
+The wealth of reports and evaluations in this NESTA/MIoIR compendium demonstrate the variety and breadth of supply side approaches.
+Demand side policies, on the other hand, start with the potential buyer, they define a need or support the ability and willingness of potential buyers to demand an innov ation or co -produce it with suppliers.
+This is – by and large – more interventionists, more specific in terms of giving direction to innovation activities upstream.
+It necessitates an additional, different kind of skill set for policy makers, who need to b e able to understand and define needs and make more specific choices.
+However, the demand side of innovations, i.e.
+the ability and willingness of potential buyers to ask for, to adopt and to use innovations, has always been part of public policy.
+There were times when "diffusion policies" were widely discussed and implement ed in the OECD world (OECD, 1997 ; Stoneman and Die deren, 1994 , p. 918) .
+There were discussions on dual use policies which were partially based on public procurement in the defence sector as an engine for market creation, and a range of analyses in the late 1970s acknowledged the critical importance of pub lic demand for the dynamics and direction of innovation (Dalpé, 1994 ; Dalpé , 1992 ; Geroski, 1990 ; Mowery and Rosenberg, 1979 ).
+There have been various waves of programmatic efforts to change behaviour of demanders, outside the realm of innovation policy.
+Many countries implemented "market transformation" and "energy management programmes" with a range o f different instruments aiming at diffusion of selected innovations in order to shift markets and induce further innovation.
+These random examples could go on.
+What is important, though, is that many of those efforts had not been built into the innovation policy portfolio systematically.
+They were introduced to serve specific policy objectives, rather than innovation dynamics per se, while the innovation policy practice and discourse had lost sight of the demand side for many years.
+Dedicated innovation pol icy approaches that are set up explicitly to harness the power of the public and private buyer have not been prominent until a few years ago.
+The comeback of the demand discourse and instruments in innovation policy started around 2003 -2005 with a range of national and European initiatives (Aho et al., 2006 ; Kok et al.
+In 2 011, the OECD launched a strategy paper on demand side innovation policies (OECD, 2011a ), providing some basic rationale and a typology, and a range of country examples.
+At European level, a survey on recent innovation policy activities showed a broad range of 1 I am very grateful to Fergus Harradance, HM Treasury, for very valuable comments to an early draft.
+All shortcomings remain my own.
+Effects of Policy to Support Private Demand Edler 6 Manchester Institute of Innovation Research strategic intentions an d a – more limited – range of policy instruments now being rolled out as part of innovation policy mixes in EU countries at national level (Izsak and Edl er, 2011 ), including small EU countries (Georghiou et al., 2010 ; Roolaht, 2010 , 2011 ) and, increasingly, regional authorities (Wintjes, 2012 ) in innovation policy.
+In a recent survey of policy makers, demand based innovation policy is regarded as the most important area to learn for policy makers by Trendchart Users (July 2011).
+More generally, d emand co nditions are increasingly recognised as important framework conditions for innovation systems more generally (Allman et al., 2011 ; Miles et al., 2009 ).
+Defin ition and delineation Demand side innovation policy can be defined2 as all public action to induce innovation and/or speed up th e diffusion of innovation through  increasing the demand for innovation (i.e.
+the willingness and ability to buy and use an innovation) ,  defin ing new functional requirement s for products and services and/or  improv ing user involvement in innovation producti on (user -driven) In this definition, we also distinguish demand from "needs" or "wants".
+Following Mowery and Rosenberg (1979) , demand expresses a willin gness to pay a certain price for the satisfaction of a need or want.
+As stated above, we have to keep in mind that many of the policy instruments that are targeting the demand side and do have an effect on innovation generation and diffusion are designed and implemented in policy domains such as health, energy, environment, transportation and the like.
+Those policies, however, have obvious innovation effects, they are "diffusion policies in disguise" (Stoneman and Diederen, 1994 , p. 927) , without being conceived or designed as innovation policies, and more often than not their effect on the generation and diffusion of innovation and innovative capabilities is not explicitly acknowledged or even evaluated.
+Nevertheless, by definition, those instruments influence demand and effect on innovation, and thus need to be taken into account when discussing the potential of demand based instruments to spur innovation dynamics.
+Purpose and structure of this report The aim of this report is twofold.
+First, it introduces the logic of demand based innovation policy within the Compendium of Innovation Policy and second, it reviews in more detail instruments that are primarily geared towards improving the ability and wil lingness of private demanders to ask for, acquire, use or co -produce innovations, and by doing so induce innovation activity on the supply side.
+To do so, the report will first present a typology of demand based instruments and clarify the scope of this r eport vis -à-vis other reports (section 2).
+It then summarises the conceptual background and rationale for demand based policies (section 3).
+This section is important because the discussion of interventions into market forces on the demand side is still poor.
+2 This definition is a modification of Edler et al., (2012) and Izsak and Edler (2011) .
+Effects of Policy to Support Private Demand Edler 7 Manchester Institute of Innovation Research Further, it lays the basis to understand effects, contradictions and shortcomings of the instruments discussed in the second part.
+For that reason, section 3 will shortly discuss the meaning of demand for innovation ( 3.1) and then develop a differentiation as to the different ways demand influences innovation ( 3.2).
+On that basis, the various intervention logics for policy on the demand side are outlined ( 3.3).
+The report will then shortly summarise the method ology and scope of the report ( 4).
+Section 5, the core of this report, t hen contains a summary of the existing evidence for instruments that focus on private demand.
+The main lessons and policy will be summarised in the concluding section 6.
+2 Typology of demand based instruments To navigate our way through the variety of demand based measures, Table 1 presents a typology.
+It starts with the most direct form of public demand side policy, i.e.
+Publi c bodies are buyers of innovation, either for their own use only or in combination with private actors to trigger a broader demand.
+It then contains measures that are specifically geared towards private demand, differentiating between financial support and non-financial support of various kinds.
+Simplified, the financial measures lower the entry cost (subsidies, tax waivers) or life cycle costs of an investment (various forms of tax instruments) in order to make an innovation more competitive in the market place.
+The non -financial measures seek to reduce information asymmetries and awareness deficits.3 Other approaches try to improve the capabilities of the users in various forms, some of which are targeted towards specific technologies and products, others to improve capabilities more generally.
+A further category of instruments attempts to improve the interaction between users and producers.
+The typology further entails regulations and standardisation, fully acknowledging that those impact upon the demand and the supply side.
+Finally, the deliberate mix of demand measures and the mix of demand and supp ly measures is part of the typology.
+Here, we include so called precommercial procurement schemes, whereby stage agencies define a specific need and award support for related R &D services to produce solutions, with the idea, but not prior binding commitme nt, to purchase the product subsequently should the R&D contract be successful.
+This is why PCP is not purely a demand side instrument, the support is for the generation of innovation directly, and there is no automatic purchase.
+This typology, as any typ ology, is simplifying and cannot capture the huge variety of instruments.
+Especially in the area of eco -efficient technologies a range of further, elaborate instruments have been introduced4 that cannot be fully captured here.
+Various reports in the MIoIR -NESTA Compendium capture the most important of those instruments.
+This report focuses on support measures for private demand, covering direct financial support and, to a much lesser extent due to poor existing evidence, awareness 3 It must be stressed that the NESTA Compendium reports on the demand side do not, and cannot, cover all existing policies that contributes to shaping awareness and future demand and that directly links expectations of society back to knowledge production and innovation generation in firms.
+For example, we do not systematically include the engagement tools that are used to shape a discourse between scientists, firms and societal stakeholders in early stages of knowledge and technolog ies (Rip, 2008 ; Te Kulve and Rip, 201 1) Our approach is limited to those measures that have a more or less direct link to innovation or have been used as part of innovation policy approaches.
+4 One of the most prominent examples are feed in tariffs as a quasi subsidy for investing in energy producing technologies (OECD, 2011b ; Walz et al., 2011 ).
+Effects of Policy to Support Private Demand Edler 8 Manchester Institute of Innovation Research measures and labels.
+Othe r reports cover public procurement policies (Uyarra, 2013 ), precommercial public procurement schemes (Rigby, 2013 ) such as the US SBIR and the UK SBRI.
+Five other Compendium reports have some demand side aspects, regulation and innovation (Blind, 2012 ), standardisation and innovation (Blind, 2013 ) and foresight and innovation policy (Hayden, 2013 ).
+Standards are important to create markets, both for the supply and the demand side, as they establish expectations about future markets to converge and thus are important for demanders and suppliers.
+Foresight has most often been on the supply side, nevertheless, various approaches in the past have started from or included future needs to shape innovation policy priorities.
+A further report (Shapira, 2013 ) focuses on training and awareness measures to improve the innovation capability of firms, which is partially geared to improve their capabilities to employ new process technologies more generally.
+Thus, the present report will not include those general awareness and training measures geared at firms, but will include measures that target specific technologies.
+A final Compendium report that overlaps with dema nd side policy is on innovation prices (Gok, 2013 ).
+Although public prices often start with a concrete agency need (like PCP), this instrument is cross -cutting, its various modalities are so different that it can hardly be categorised in the demand typology below.
+The breadth and depth of the coverage in each report differs according to the relative importance and weight of the instruments and the availabl e evidence as to the effects on innovation.
+Further, the delineation between those reports is somewhat artificial.
+Many policies combine different demand side instrument, and some of the instruments cannot be allocated to one or the other too easily, as bo undaries are blurred.
+The various demand oriented reports will cover those mixes in the reports they best fit.
+Moreover, a later report of this compendium will also come back to those demand side mixes.
+However, it is important to understand individual approaches in their own right.
+Effects of Policy to Support Private Demand Edler 9 Manchester Institute of Innovation Research Table 1: General Typology of demand based measures Instrument Method of Functioning 1.
+Public demand : state buys for own use and /or to catal yse private market (Uyarra, 2013 ) General procurement State actors consider innovation in general procurement as main criterion (e.g.
+definition of needs, not products, in tenders) Strategic procurement State actors specifically demand an already existing innovation in order to accelerate the market introduction and particularly the diffusion .
+State actors stimulate deliberately the development and market introduction of innovations by formulating new, demanding needs (including forward commitment procurement) .
+Co-operative and catalytic procurement State actors are part of a group of demanders and organises the co -ordination of the procurement and the specification of needs.
+Special form: catalytic procurement: the state does not utilise the innovation itself, but organises only the private procurement 2.
+Support for private demand (this report) Direct support for private demand Demand subsidies The purchase of innovative technologies by consumers or industrial demanders is directly subsidised , lowering the entry cost of an innovation.
+Tax incentives Amortisation possibilities for certain innovative technologies , in different forms (tax credit, rebate, waiver etc.)
+Indirect support for private demand: information and enabling (soft steering): State mobilises, informs, connects Awareness building measures State actors start info rmation campaigns, advertises new solutions, conducts demonstration projects (or supports them) and tries to create confidence in certain innovations (in the general public, opinion leaders, certain target groups) Labels or inform.
+campaigns The state supports a co -ordinated private marketing activity which signals performance and safety features.
+Training and further education Consumers are made aware of innovative possibilities and simultaneously placed in a position to use them.
+Articulation and foresight Societal groups, potential consumers are given voice in the market place, signals as to future preferences (and fears) are articulated and signalled to the marketplace.
+Various variations (including constructive technology asses sment bringing ) (Hayden, 2013 ) User – producer interaction State supports firms to include user needs in innovation activity or organises fora of targeted disc ourse (innovation platforms etc.)
+Regulation of demand or of the interface demander – producer (Blind 2012 ) Regulation of product performance and manufacturing The state sets requirements for the production and introduction of innovations (e.g.
+market approval, recycling requirements).
+Thus demanders know reliably how certain products perform and how they are m anufactured.
+Regulation of product information Smart regulation to leave freedom to choose technologies, but changing the incentive structures for those choices (e.g.
+quota systems) Process and " Usage " norms The state creates legal security by setting up clear rules on the use of innovations (e.g.
+electronic signatures) Support of innovation -friendly private regulation activities The state stimulates self -regulation (norms, standards) of firms and supports / moderates this process and plays a role as catalyst by using standards Regulations to create a market State action creates markets for the consequences of the use of technolo gies (most strongly through the institutional set up of emission trading) or sets market conditions which intensify the demand for innovations 3.
+Systemic Approaches Integrated demand measures Strategically co -ordinated measures which combine various demand -side instruments Integration of demand - and supply -side logic and measures Combination of supply -side instruments and demand -side impulses for selected technologies or services (including clusters integrating users and supply chains) .
+Conditional supporting of user -producer interaction (R&D grants if user involved) Specific Instrument: Pre -commercial Procurement (Rigby 2013 ) Source : Own compilation based on Edler (2010) , extended and modified Effects of Policy to Support Private Demand Edler 10 Manchester Institute of Innovation Research 3 Conceptual framework 3.1 Importance of demand for innovation The importance of demand for innovation has been recognised for a very long time, dating back to Adam Smith and Alfred Marshall.
+There is no space to present all the economic arguments for the importance of demand (for more details on this history see, (Knell, 2012 ; Miles, 2010 ; Nemet, 2009 ).
+Especially in the 1960s to early 1980s a range of leading innovation scholars have analysed the meaning of demand for innovation (Knell, 2012 , p. 12 -13).
+The discussion featured largely around the importance of the market pulling (incremental) innovations from suppliers (Schmookler, 1966 ) and "steering" firms to work on certain problems (Rosenberg, 1969 ).
+Work done by Rothwell (2007) found that a majority of successful innovations where in fact reactions to perceived chang es in demand preferences rather than due to radical developments on the technology side (cited in Miles 2010 , p. 11).
+Accordingly, innovation failures we re often due to a misperception of what the market is ready and willing to accept, and a lack in sound marketing before and after innovations were generated.
+The importance of demand for innovation can be empirically demonstrated through company studies and surveys.
+This empirical link is important as a basis for the intervention rationale for demand side policies as outlined below.
+A range of surveys among firms demon strate that demand pull factors are seen as being more important for the innovation proc ess and success than supply factors (see Allman et al.
+For firms demand conditions are crucial for innovation across a range of diverse sectors (BDL, 2003 ), including the service sector (Howells and Tether, 2004 ).
+(2012) report on a survey of more than 3700 German manufacturing firms, that in the area of eco -innovation much more com panies were driven by demand from customers (27.4%) than by direct financial support for innovation by the government (9 %).5 Similarly, Horbach et al.
+( 2012) and Newell (2010) claim that rapidly growing demand is the most important incentive for investment in innovation and a strong determinant of technology diffusion, both because of the direct profit out of innovation in growing markets, and because of the increased feedback and learning through diffusion that informs the innovation process.
+This argument is further underpinned by Jaffe et al.
+(2002) who compile empirical lit erature to show that investment in new abatement technologies is linked back to an increase in R&D activities, measured by patents (Lanjouw and Mody, 199 6) or by R&D expenditure (Jaffe and Palmer, 1997 ).
+(2011 ) show that the rate of diffusion links back to innovation activity.
+They use patent data of 12 OECD countries as the dependent innovation variable, and capacity (of installed wind turbines in this case) and exports as two of s everal independent variables, to find a clear and significant positive relationship between capacity and exports on the one hand and patenting activity on the other.
+Their interpretation is that early diffusion of a new technology is one important out of a number of explanatory factors (others being R&D input, price of energy and policy "styles") (ibid., p. 16).
+This finding is confirmed in a very similar analysis by Peters et al.
+(2012) who demonstrate the importance of domestic and foreign demand for innovation activity.
+The demand pull argument can also be put the other way round: Uncertainty of demand for innovation is seen by firms as the major impedi ment for innovation activity.
+A recent company survey on eco -innovation at EU level shows that uncertainty of demand is the most serious barrier to eco -innovation ( Figure 1).
+Consequently, asked about the most important policies to 5 In the area of eco -innovation, though, regulations and the anticipation of future regulation were the main driver for innovation, (Horbach et al., 2012 ).
+Effects of Policy to Support Private Demand Edler 11 Manchester Institute of Innovation Research support innovation, firms have rated policy measures that improve demand conditions as most conducive for innovation in firms (Commission, 2009 ).
+Figure 1: Demand as main barrier of European firms Source: (Gallup, 2011 ), Flash Eurobarometer 315. p. 27.
+Attitudes of European entrepreneurs towards eco -innovation.
+Answers are based on stated opinions of company managers.
+3.2 Different modalities of demand influencing supply Having established the link between demand and innovation, we now need to differentiate the different ways in which demand influences supply of innovation.
+Often, the effect of policies on deman d and subsequently on innovation is not differentiated according to the ways in which demand links to innovation.
+One way in which demand influences innovation is to signal new needs and demands to the market place (market pull) and by doing so to trigger the generation of an innovative solution.
+However, reacting to user needs and changes in user needs will generally neither lead to radical innovations, nor to changes in technological trajectories, as existing or emerging demand tends to send signal for i ncremental innovation mainly (Nemet, 2009 ).
+Focusing on what demand signals tends not to take into account the potential for radical innovation, and rely ing on demand pull may prevent firms from investing in radical innovations (Kleinknecht and Verspagen, 1990 ; Mowery and Rosenberg, 1979 ).
+Thus, a second way in which demand influences innovation is in the way demand responds to new solutions products and services that originate in and are and offered by the supply side.
+Those innovations then shape future demand, as customer preferences and behaviour may Effects of Policy to Support Private Demand Edler 12 Manchester Institute of Innovation Research change through the very offer the innovation makes in terms of added functionality, efficiency etc.
+For innovations to diffuse, demand has to be responsi ve to changes in functionality or design and demanders must be able and willing to buy and use.
+The entry points for supplier driven innovations differ from market to market, from technology to technology (Klepper and Malerba, 2010 ).
+The notions of lead market (Beise, 2004 ; Beise and Rennings, 2005 ; Cleff et al., 2009 ; Tiwari and Herstatt, 2011 ), lead users (Von Hippel, 1986 ) or experimental users (Malerba et al., 2007 ) highlight the importance of identifying the most responsive demand to allow producers to introduce and test innovations and by doing so, to set in motion learning and scale effects.
+A third mechanism through which demand influences innovation is the interaction and coproduction (or co -adaptation) of innovation between users and producers.
+This blurs the boundaries between demand pull a nd technology push.
+Users have been identified as sources of innovation most prominently by Von Hippel as early as 1976 (Von Hippel, 1976 ).
+Users play an important part in innovation as a distributed or open process, as innovation can be seen as result of interactive learning and user -producer interaction (Lundvall, 1988 ; Moors et al., 2008 ; Von Hippel, 1986 ).
+Over the past three decades research on user -producer interactions has demonstrated the variety of roles that users can play in the inventive process; as inventors, codevelopers, evaluators and adaptors (Herstatt and Von Hippel, 1992 ; Morrison et al., 2000 ; Utterback, 1971 ; Von Hippel, 1986 ), not only in manufacturing, but also in services (Sanden, 2007 ).6 A recent framework developed by NESTA (2010) captures the various ways in which user -producer interaction takes place.
+This contribution, however, concedes that government policy in this arena has been very limited indeed, along with a lack of data to actually understand the level of innovatio n interaction between users and producers and the bottleneck and market potential that would justify policy intervention.
+Finally, users are not only a source or a co -producer, but drive innovation themselves, modify products or "invent" products for thei r own use and for potential dissemination more broadly.
+A broad "omnibus" survey in the UK has shown that 8% of consumers "modified their products to better suit their needs.
+2% claim that their modification has been taken up by other users" (Flowers et al., 2010 , p. 3 -4).
+15% of firms in a tailored enterprise survey indicated that in the last 3 years they have modified or generated a process for their own use.
+Importantly, a quarter of those innovating users have shared their innovation with other firms, mainly in their supply chain, the vast majority without seeking any royalties for it.7 For the sake of a simplifying conceptualisation that allows to unde rstand the rationale and effects of policy intervention we can summarise four major ways in which demand influences innovation: (1) changes in demand may trigger innovation traditional (demand pull), (2) demand may be responsive to innovations offered b y the market place (supply push), (3) users and producers may co-produce innovations; (4) user s produce innovations themselves, for their own purposes, but with a potential to spread across markets.
+6 This paragraph draws on an unpublished manuscript by Edler/Gee 2012.
+7 This indicates how "hidden" those innovations are, both f or analysts, but more importantly, for other potential users and the economy at large.
+Effects of Policy to Support Private Demand Edler 13 Manchester Institute of Innovation Research The considerations and differentiations above make c lear that there is no need to re -open the demand pull vs. technology push debate.
+On the contrary, we stress the importance of demand exactly by acknowledging the interplay of demand and supply, whereby either signals from the demanders or new developments by the suppliers may lead the way of innovation.
+Demand can be a major source for innovation and a major determinant for the direction and speed of innovation generation and diffusion; and it can be a major obstacle for innovation activity in the first pl ace.
+For the supply side it is about the ability to develop innovations in reaction to new needs or in anticipation of demanders' ability and willingness to absorb and use them (Arnold and Guy, 1997 ; Mowery and Rosenberg, 1979 , p. 68; Nemet, 2009 , p. 68) , and users can be absorber only or source and absorbers.
+The importance of innovation for demand, as argued conceptually and shown empirically above, is crucial for the remainder of this report for two reasons.
+First, as we will see, many analyses of the effect of instruments look at the diffusion effects and the creation of markets and their changes over time, and not directly at the innovation effect.
+Second, the intervention logic and the effects of i nstruments differ according to the mechanism that they seek to mobilise when tackling the demand side.8 3.3 Intervention logics on the demand side If demand is of crucial importance, what then is the role of policy, what is the intervention logic of policies on the demand side?
+There are three inter -related rationales: (1) Market and system failures (externalities, information asymmetries, capabilities, poor connectivity ) (2) local demand to spur local growth and (3) societal and political preferences (normati ve policy decisions).9 To understand the effects and shortcomings of policy, we need to understand the underlying failures.
+Market and system failures For innovations that are offered to the market place, we often find obstacles and externalities that mak e it unlikely that producers offer the innovation or that demanders buy it in any great number, despite an overall social benefit of the innovation.
+One key issue here is the combination of entry costs and learning costs, resulting in adoption externalitie s. The price of an innovation decreases with the diffusion of the innovation.
+This has to do with scale and scope effects on the supply side.
+In general, the diffusion is the quicker, the less radical it is, the less learning there is involved on the deman d side to buy and apply it, and the less heterogeneous preferences and abilities are in the demanding market.
+Adoption externalities result from the fact that an early adopter, on top of paying the high entry cost, learns for the late adopter or allows the late adopters to learn.
+The externalities result from the combination of learning effort and the scale and scope effect on the supply side which are caused by the early adopters.
+Adoption externalities are especially high when a product is characterised b y increasing benefits along the diffusion curve, for example through network effects and compatibility effects 8 This understanding underpins the distinction Miles (2010, p.6) has made between two forms of demand side policies.
+The first is demand based innovation policy, which is policy that seeks to drive demand in a specific direction which is societally and economically desirable.
+This would correspond to responsive demand mainly.
+The second is demand -led innovation policy, which seeks to promote the practices of the supply side to recognise "user features, requirements and creative ideas" into the innovation process, which would respond to triggering and co -producing demand .
+9 The following reasoning is based on Edler (2010) , and further complemented by a range of sources.
+Effects of Policy to Support Private Demand Edler 14 Manchester Institute of Innovation Research (Jaffe et al., 2005 ; Katz and Shapiro, 1986 ).
+Importantly, high entry costs and learning costs play together.
+Not only do we need a set of users ready and willing to pay the high entry costs.
+The rate of diffusion also has to do with the allocation of preferences and user capabilities across the market, the more unique the lead users, and the higher learning costs for adoption, the slower the diffusion, even if there is an early uptake (Cantono and Silverberg, 2009 ).
+As lead users are characterised by a low price elasticity, and high willingness and capabilities to absorb (MeyerKrahmer, 2004 ), early purchase through lead users often does not suffice to trigger off the broader diffusion and thus produce the long term societal and economic benefit associated with the innovation.
+The rationale for public policy here can be to lower the entry costs to increase the number of demanders in the early stages of the diffusion cycle and to support the learning across the market and thus to create the virtuou s cycle of learning (demand and supply) and scale (supply).
+However, we will see later that the form and level of support is crucial.
+When the purchasing price is lowered through public intervention, the effect is often hard to predict, it may actually slo w down the speed with which the producing firm reduces its price, and thus the diffusion with the intervention may not be as quick as predicted, and the additional profit gains may – or may not – be invested in further innovation.
+The policy challenges her e lie in the need to make reasonable predictions about the level of externalities, about the preferences in the market and about the diffusion effects on the demand and supply side.
+Related issues, compounding the problem of innovation adoption, are technology lock in and path dependency .
+This path -dependency is driven by increasing returns to diffusion on the supply and the demand side (decreasing learning costs, increasing network benefits and the like (Sandén, 2005 ).
+Further, technologies are co -developed with and embedded in social, institutional and cultural settings (Foxon and Pearson, 2008 ; Foxon, 2007 ).
+Existing technologies are associated not only with increasing returns, but with a certain set of capabilities (on the user and producer side), attitudes, expectations and complementary technologies and infrastructure, so that "n ew technologies must compete not only with components of an existing technology, but also with the overall system in w hich it is embedded" (Foxon and Pearson, 2008 , p. S157) , in a way that that can become prohibitive for the switching to a new technology – even if it is more socially desirable (Castaldi et al., 2011 ).
+The policy imperative here is to provide for the system conditions that make switching more likely.
+This entails supporting conditions for learning (effecting on behaviours, attitudes, capabilities to use a new technology) and co -constructing expectations, providing infrastructures and complementary technologies and giving rise to a shared expectations for a desired technology or pathway (awareness, information) (Boon et al., 2011 ; Moors et al., 2008 ; Te Kulve and Rip, 2011 ).
+Often, these conditions are provided in technological niches which then gradually grow, or are "managed" to grow into the new dominant solution (Kemp et al., 1998 ; Schot and Geels, 2008 ).
+Further, markets for innovation are characterised by information asymmetries10 and poor communication and interaction between user and producers and – potentially – further investors .
+Firms often do not have sufficient capabilities to collect, assess and make sense of current or 10 We note that the theoretical and empirical lite rature does not seem to have a clear understanding as to how the actual market structure on the demand side (firms as users) , i.e.
+the level of concentration and competition between firms that adopt and use a technology, impinges upon the diffusion path and thus the readiness to adopt an innovation (Stoneman and Diederen, 1994 ).
+Effects of Policy to Support Private Demand Edler 15 Manchester Institute of Innovation Research future needs (Nemet, 2009 ), while potential users do no t fully know or understand the pipeline or the real value added of innovations and to actually use it (Stoneman and Diederen, 1994 ).
+Marketing informatio n about a generic technology cannot be confined to the buyers of a specific product, but will spread throughout the market, marketing information about products with a high proportion of generic technologies is likely to be under -deployed (Jaffe et al., 2005 , p. 168) .
+State activity thus may systematically improve demand competence of public and private custome rs as one key enabler for the diffu sion of inn ovation (Gatignon and Robertson, 1985 ).
+Further, especially in environmental technologies, the overall net future benefit of an investment often cannot b e made explicit.
+For example, a seller of a house may not be fully sure that the benefit of a prior investment in energy efficiency will be fully appreciated by a potential buyer, resulting in underinvestment (ibid., p. 168).
+Finally, on the demand side, w e often find an inability to articulate preferences, especially when potential demanders do not even know or clearly articulate their preferences (Boon e t al., 2011 ; Smits, 2002 ), especially when it comes to complex technologies underlying innovations.
+All of those information problems and capability conditions hamper or slow down the innovation and market introduction process.
+Policies here would reduce the information asymmetries through information campaigns, awareness measures, labelling, support of standardisation and the like.
+They would reduce and shift the risk and additional burden of the early users and they would support a process of demand articulation and user -producer discourse.
+Finally, a s regards the above -mentioned user produced innovatio n as analysed by Flowers et al.
+(2010) , there appears to be a case of untapped potential of innovations to be spread across the economy.
+The authors conc lude that the consequence for policy is that market regulation and innovation policy should avoid any undue limitation of the flexibility with which users experiment with products they buy .
+Policy makers and analysts would need to get a much better underst anding of that form of hidden innovation, to learn about the potential that could be realised through support mechanisms.
+As far as innovating user firms are concerned, there is a potential coordination problem.
+In cases in which a user innovation is of social value , but the innovating user company does not intend to market this innovation despite a potential social or economic value more generally, policy could play a productive role.
+Demand for innovation as a trigger of economic growth Creating favoura ble demand conditions and harnessing demand for innovation is increasingly seen as being part of a broader economic policy.
+Demand side innovation policy in this context is trying to exploit the idea that local market conditions are a key condition for the attractiveness of markets for investment and thus for growth.
+The policy rationale is thus not only to remedy the failures as discussed above, but to achieve direct economic effects on the supply base or attracting foreign investment through favourable de mand conditions (Porter, 1990 ).
+The notion of lead markets expresses this idea best.
+Lead markets have been defined as "regional markets with specific at tributes that increase the probability that a locally preferred innovation design becomes internationally successful as well" (Beise, 2004 , p. 455) .
+Thes e attributes are mainly around the quality of demand and regulatory conditions (Meyer -Krahmer, 2004 ), where markets are characterised by the experimental or lead users, where demand shows low price elasticity and where the underlying needs or wants for the demand are likely to be replicated elsewhere (Edler et al., 2009 ).
+In this logic, for the suppliers in the home market, early diffusion would provide lead advantages through learning and scale effects.
+A prominent Effects of Policy to Support Private Demand Edler 16 Manchester Institute of Innovation Research example of lead markets is the beginning of mobile telephony, whereby Nordic countries comb ined a range of lead market factors and subsequently companies in those countries were very strong players in the early mass market of mobile phones (Beise, 2004 ).
+Further examples have been analysed mainly in the area of environmental technologies (Jacob and Jänicke, 2003 ) As a policy idea, lead marke ts have become more prominent in the last years again, kicked off by the Aho et al.
+The European discourse explicitly combined the early d iffusion effect with supply capacity and thus economic effect within Europe (Aho et al., 2006 ).
+Meanwhile, a few countries are in their early stages to e stablish their own lead market policies (Izsak and Edler, 2011 ).
+Policy here would try to support demand conditions for an early uptake of innovations th at are likely to have a more global appeal and for which the supply capacities and capabilities are existing or can be created.
+Societal goals, Market transformation A third policy rationale is societal and normative.
+Policy seeks to help create a market f or products or services that contribute to meeting a specific societal challenge.
+This "new mission orientation" of science, technology and innovation policy (Gassler et al., 2008 ), can be coined a "Grand Challenge" approach or be interpreted as one core function of the "entrepreneurial state" (Mazzucato, 201 1), whereby STI policy both on the supply or the demand side is designed in order to contribute to specific societal missions.
+What is of crucial importance in our context here is that this policy rationale has been more important in domain based polici es such as defence, energy, health, environment, transport, and so forth.
+Here, mission oriented STI policies have always tried to support the generation of knowledge and innovation to support specific policy goals.
+It is in those domain policies where we have traditionally seen a vast variety of demand based measures, while in the domain of STI policies the meaning of societal missions, and the role of demand within in, has come and gone in waves (Arnold and Guy, 1997 ; Gassler et al., 2008 ).
+4 Scope and Methodology 4.1 Limitations and challenges of existing evaluations This report is focused on and limited to public action that targets private demand to positively affect innovation activity and success.
+It builds purely on existing evidence.
+In line with the considerable neglect of demand based measures as i nnovation policy instruments, the evidence on innovation policy in this area is limited.
+Back in 1994 , Stoneman and Diederen concluded that not only are there not many diffusion policies that are explicitly geared towards innovation, there is even less evaluation of those measures.
+The evaluations they found were about the efficiency of the management rather than the additionality and effectiveness of the measures themselves (Stoneman and Diederen, 1994 , p. 928) .
+Moreover, they assert that policies that indirectly push diffusion and are diffusion policy "i n disguise" – policies in specific policy sectors, R&D support policies to build capacity etc.
+– are not evaluated against the impact they have on the diffusion pathway and thus indirectly on the provision of innovation subsequently to greater demand.
+16 y ears later, Miles concludes that demand oriented policies are not well understood and evaluations are scarce (Miles, 2010 , p. 41) .
+Similarly, Edler et al (2012) do not find many meaningful evaluations of demand based policy instruments that actually analyse the innovation effects.
+Effects of Policy to Support Private Demand Edler 17 Manchester Institute of Innovation Research The current wave of mor e ambitious demand based approaches is in general still too recent to have produced evidence as yet.
+Further, there are currently only very limited approaches geared towards private demand for specific innovations, and in many countries the demand based ap proaches in innovation policy in many countries are limited to public procurement or pre-commercial public procurement measures (Izsak and Edler, 2011 ).
+In consequence, the main challenge of this report lies in the fact that the measures that are analysed are most often not geared towards fostering innovation in the first place, but towards a societal (or economic) goal, mainly in the area of environmental and energy policies .
+Consequently, existing analyses often do not look at the final effect on innovation on the supply side, but confine themselves to the effect on uptake and diffusion of innovations and their societal benefit.
+Furthermore, evaluations o f demand based measures face the challenge of capturing the externalities of the measure, i.e.
+understanding how a measure that triggered diffusion subsequently contributed to learning beyond the actual target group and the feedback to producers (Arnold and Guy, 1997 , p. 81) .
+(2012) , developi ng a concept for evaluation for the demand side, also conclude that measuring the effect of demand based measures on innovation faces the problem of defining a baseline, as by definition, the solutions that are subsequently generated by the market could or iginate outside the industrial sector that originally was targeted through the demand measure.
+Further, as Jaffe concludes when analysing existing evaluation practice in the area of eco -innovation, effects of demand measures are often intangible, evaluatio ns would have to capture a very long time period as the feedback to innovation activity takes time (Jaffe et al., 2005 ).
+This is why the conceptual and empirical discussion above as to the link of innovation and demand is so important.
+From these analyses we know about the principle link of innovation and demand.
+The majority of evaluations of policy interventions on the dem and side still focus mainly on the uptake and diffusion of innovations (such as the number of specific technologies bought and used, Neij (2001) ; (Reed et al., 2007 ) change of behaviour of consumers (Mah one and Haley, 2011 ) and, to varying degrees, on the resulting societal benefit (e.g.
+Geller et al., 2006 ; Skumatz, 2009 ).11 The combination of the general connection between diffusion and demand on the one hand, and the policy effects on the other hand, allow conclusions a s to the innovation effects of policy measures based on the diffusion effect.
+The search for evidence for this report focussed on evaluations that look at the innovation effects directly.
+However, the report includes a set of examples that analyse diffusio n effects mainly, without explicit effects back on the innovation behaviour of the firms supplying this innovation.
+One clear lesson of this report is that the current wave of demand side policies must be accompanied by thorough evaluations that capture t he chain of effects back to innovation generation activity of firms.
+Figure 2 demonstrates this situation.
+11 The methodological toolbox to analyse the societal benefits of demand side measures is, however, still to be developed to capture the effects sufficiently (National Energy Policy Development Group, 2002 ).
+Effects of Policy to Support Private Demand Edler 18 Manchester Institute of Innovation Research Figure 2: The effect of policy and the scope of existing evaluations Source: Own compilation A final word concerning caveats is needed.
+A few studies that are included here use econometric models to discern the impact of policies.
+These studies show a range of shortcomings: the innovation variable is most often patents, however, we know that paten ts are distorted through company strategies (Blind et al., 2006 ) and through the fact that many innovations in the area of environmental technologies are not patented in the first place (Mazzanti and Zoboli, 2006 ).
+Further shortcomings of econometric analyses are the lack of sufficient data on variables t hat clearly make a difference, such as business expectations, the entirety of institutions and instruments affecting change of behaviour, and finally, econometric analysis struggles with the operationalisation of the complexity of environmental policies, t heir enforcement, stringency and instrument mix.
+(Kemp and Pontoglio, 2011 , p. 31 -32).
+4.2 Scope Against the background of those caveats of the existing ev aluation literature, this report has a strong bias towards eco efficiency technologies, although it contains a range of examples from other areas.
+"Demand management", "market transformation" and environmental policy more general have targeted the demand b ehaviour of consumers and firms for decades, environmental policy in fact is a history of demand measures.
+Many of those measures are regulations and dealt with in Blind (2012) .
+Others are very specific to the energy field (e.g.
+Here we focus on financial measures – such as subsidies in various forms and tax measures and selected measures to raise awareness of potential buyers and create market transparency.
+The report does not claim to cover all environmental policies that impact on demand, rather it focuses on those main instruments from which we can draw lessons for innovation measures on the demand side more generally.
+The basis for t he search has been a key word search in web of science, google scholar, google (for broader reports) on a range of key words and key word combinations: demand, innovation, diffusion, demand management, innovation policy, market transformation, demand subsi dies, tax credits.
+Further, a systematic search through the EU -wide database of innovation policy instruments (Trendchart) and evaluation of innovation policy measures has been conducted (Inno -Appraisal12).
+Finally, recent country and strategy reports at OE CD level (OECD, 2011a , b) and EU level (Izsak and Edler, 2011 ) have been analysed and relevant examples for which evidence is available have been followed up.
+12 See -europe.eu/appraisals/ipar Effects of Policy to Support Private Demand Edler 19 Manchester Institute of Innovation Research 5 Summary of findings 5.1 Subsidies and taxes Ther e are a range of different instruments that give a financial incentive to purchase an innovation (see Table 1 above).
+Two broad general categories of those so -called price based instruments can be distinguished: tax incentives and subsidies ( Table 2).
+Demand subsidies and tax incentives on the demand side lower the purchasing price of the innovation and thus try to overcome a range of market failures as outlined above (adoption externalities, risk -reward considerations etc.
+), making an innovation – especially at the early sta ges of its diffusion cycle – more attractive.
+There are different ways of subsidising and different kinds of tax incentives, some of which have an effect at the point of purchase, others have their financial effect over the life cycle of the purchased tech nology or good ( Table 2).
+Table 2: Price based instruments Instrument Type Examples Direct Subsidies De facto reduced purchase price: Cash grants, cash back, cash equivalent credits, points and vouchers, fixed price Less financing burden over time (plus risk reduction): loan guarantees, preferential loans Guaranteed benefit from purchase (plus risk reduction): feed -in-tariffs Tax incentives Reduced purchasing price: Tax waivers of various sorts Reduced tax burden over time: Tax relief/rebate, tax credits, tax deduction, tax deferrals, acc elerated depreciation allowance Source: (Cantono and Silverberg, 2009 ; OECD, 2011b ), modified JE A first general finding is that there is no clear evidence as to what instruments work "best" to spur diffusion of innovation and subsequently innovation activity.
+In a broad literature review on various forms of policies to support eco -innovation, Kemp and Pontoglio (2011) point out that a simple clear answer as to which instrument "is better" cannot be given.
+Requate (2005) in his mainly theoretical and conceptual review presents a range of studies comparing different instruments, including demand subsidies (next to specific environmental regulations).
+He also cannot coherently rank those instruments in terms of their welfare and innovation effect (Requate, 2005 , p. 188) .
+This general finding on subsidies is co nfirmed by Vollebergh (2007) .
+Interestingly, the same ambivalence is found by Gillingham et al.
+(2004) , who review tax credits on energy, which decrease the profit risk of those who invest in energy efficient technologies (similar to feed in tariffs).
+They report about early studies carried out in the lat e 1980s (Dubin and Henson, 1988 ; Walsh, 1989 ), which find tax credits to be very ineffective policies, while others (Hassett and Metcalf, 1995 ) find some empirical evidence for positive effects on demand .
+Even when comparing command and control regulations on the one hand and market based mechanisms on the other hand – including subsidies and taxes for adoption of innovations – there is no consensus in the empirical literature.
+While Vollebergh (2007) and Jaffe et al.
+(2004) suggest that the latter is m ore conducive to spur innovation, there are other studies finding stronger effects of command and control regulations, especially on more radical innovation (Ashford et al., 1985 ; Kemp and Pontoglio, 2011 ; Taylor et al., 2005 ; Tuerpitz, 2003 ).
+Effects of Policy to Support Private Demand Edler 20 Manchester Institute of Innovation Research A secondary an alysis of studies looking at the effects of investment subsidies for ecoinnovations in the 1980s and 1990s in the Netherlands13 finds that , overall, those subsidies had limited impact (Evalutiecommissie WABM 1992, cited in Kemp, 2000 ).
+For programmes geared towards firms, Kemp (2000) summarises a study by Vermeulen (1992) which concludes that three different programmes, for three different technologies, all had "limited impact on decisions" .
+In all cases, factors connected to the basic functionality of the technology itself were more important than the lowering of the purchasing price, with other factors being considerably more important for the decision .
+Similarly, two further studies found that for a sub sidiary scheme offering 15% reduction of price for thermal insulation technology and a broader set of environmental technologies, 11% (Beumer et al., 199 1) and 8% (Tweede Kamer, 1987 )14 claimed that the subsidy made a decisive difference for their purchasing decision.15 Again, for the buyers of this innovative technology, the energy cost savings and improved comfort were more important (cited in Kemp, 2000 p. 38) .
+Similarly, Kemp applied an econometric analysis based on diffusion data of new thermal insulation technologies in the Netherlands over ti me.
+Kemp found some positive, but only in very few cases a statistically significant positive relationship between the subsidies and the diffusion (Kemp, 2000 p.38) .
+One of the significant examples was a subsidy for catalytic converters in cars paid for by the gains of a tax on older cars with higher emissions, which contributed to a very quick diffusion of car converters from 15% in 1986 to 90% in 1990.
+Ov erall, however, Kemp concludes that the subsidies had led to considerable windfall profits and due to a limited effect on the adoption decision had a limited effect on the innovator in the first place (Kemp, 2000 ).
+However, there is a further ambivalence when Kemp then goes on to analyse supply -side programmes, i.e.
+R&D promotion programmes for eco innovations.
+Here he concludes even harsher, saying that the evidence suggested that "there are few examples of successful technologies requiring technology development programmes".
+His overall conclusion based on a range of evaluations done in the Netherlands is that the creation of demand for green products is of great importance, but it should be done with care, not stimulating second rate technologies (through subsidising them on the demand side) and should focus on stimulating those technologies that due to market and system failures are less likely to be pu rsued despite their societal benefit.
+(2010) compare 25 countries and analyse the relative effects of different kinds of supply and dema nd side instruments for innovation for different energy efficient technologies.
+Their innovation indicator is patent counts.
+Overall, supply side effects seem to be higher, R&D subsidies have the strongest effect on patenting, while demand side policies ha ve very mixed effects.
+Investment subsidies are effective for most technologies (but wind turbines), however, significant only for geothermal and biomass.
+Feed in tariffs, a guaranteed price for the product (electricity) delivered with the technology, are only effective for solar technology.
+Tax 13 All those studies are in Dutch, we rely on the secondary data provided by (Kemp, 2000 ).
+14 As quoted in Kemp, 2000 p.38 15 There is no empirical basis to determine the "optimal" share of buyers for which the subsidy made the difference in purchasing decisions.
+One can argue that an excessive high level of buyers making their decision based on a subsidy would indicate that the actual prod uct subsidised is very far from competitive or does not align with the core preferences of buyers.
+A much lower rate would indicate that the subsidy made no difference.
+The higher this rate, the more important the justification through societal benefit bec omes; and the more important it is to bring future price and preferences more in alignment through further support measures on the supply side and the demand side (awareness, education) and to observe and adjust the subsidy closely over time.
+Effects of Policy to Support Private Demand Edler 21 Manchester Institute of Innovation Research incentive and voluntary programmes do not have any effect.
+For tax, the explanation is sought in the lack of stringency over time (an explanation that is not convincing as it does not explain the difference to subsi dies), while for voluntary programmes the finding confirms earlier studies.
+The authors conclude from these differences that individual measures can only be understood in their concrete regulatory and market context.
+A closer look at the exact design of su bsidies (or feed in tariffs) for example, reveals different quotas across different countries, and different timing of their introduction.
+Furthermore, in different countries the mix of diverse measures is slightly different (Johnstone et al., 2010 , p. 144) .
+Moreover, different instruments have different effects on different technologies.
+This is a clear challenge both for analysts and for policy makers bo th to understand instruments in isolation and to understand their interplay.
+(2005) compare R&D subsidies and demand measures (various f orms of subsidies) using panel data in three countries: Denmark, Germany and the UK.
+They find that R&D subsidies tend to drive product innovation, while capacity enhancing (demand based) measures drive cost reducing innovations (process innovation to enha nce efficiency).
+Furthermore, he concludes, in line with Buen (2006) , that the main criteria for the Danish success, i.e.
+clearly having the best innovat ion results, was a coherent mix of supply and demand side.
+In a recent analyse, Peters et al.
+(2012) combine data from 15 countries and look at the effec t of domestic and foreign supply and demand side policies on innovation.16 They measure innovation by patent activity, R&D support is operationalised through annual public R&D spending in photovoltaic (PV) and related energy efficient technologies, and dema nd pull policy is operationalised simply through the installed capacity of solar photovoltaic modules.
+The latter assumes a strong correlation between demand policies (that induce diffusion) and installed units.
+Thus, while most studies of demand policies look at the diffusion effects as such (and most often not at the innovation effect), this study looks at the importance of increased capacity as an assumed result of diffusion policies on innovation.
+The results are clear -cut: Domestic innovators benefit c learly from R&D support, there is a strong link between R&D support and domestic patent activity.
+Installed capacity in the domestic market, as a marker for domestic demand pull policy, has a statistically significant effect, albeit weaker than R&D subsidi es: the bigger the home market (which can be supported by demand measures), the higher the innovation activity, the more a market grows, the more innovation takes place.
+However, there is an important difference between R&D subsidies and installed capacity (demand) : R&D support in other countries ha s no effect on patenting output , regardless if it is close by or on other continents.
+In contrast , there is also a strongly significant effect of installed capacity abroad on innovation at home .
+This indi cates that demand enhancing policies in one country will also affect innovation behaviour in other countries.
+This confirms earlier analyses by Brunnerme ier and Cohen (2003) who point out that export intensity has a significant effect on eco -innovation.
+A detailed comparison of capacity effects even finds that foreign market effects are higher than domestic market effects .
+This is especially, but not exclu sively (!)
+true for smaller countries, the smaller the home market of a company.
+Further, t he distance of markets plays a role, though capacity effects in markets on other continents have much weaker effects than those on the same continent .
+All in all, domestic demand has a substantial innovation spill 16 They obvio usly control for price of oil and for time trends.
+Effects of Policy to Support Private Demand Edler 22 Manchester Institute of Innovation Research over to other markets (Peters et al., 2012 , p. 1304) , which means that the effects of policy support of domestic demand cannot be entirely internalised.
+These results are not in line with the expectations that geographical proximity and interaction of user and producer is important for innovation.
+(2012) explain this with specificities of the technology (PV) and the industry.
+There is a highly fragmented user structure and no technologically induced need to have R& D capacity close to the users.
+Rather, exporting of PV is relatively straightforward, as PV can be modularised and easily transferred to other market conditions.
+Thus, reacting to increase in foreign demand is relatively easy.
+This is again an important le sson: the less technologies or products need user – producer interaction for the development and deployment, the more demand based policies spill over to other markets .
+The authors imply that their results suggest a more cautious deployment of demand pull policies, the benefit of which in terms of innovation, not in terms of installed PV in the country (!
+), will spill over to firms from other countries.
+This, they conclude, opens up a real dilemma, as a national interest purely defined through innovation ef fect would lead to reduced efforts to increase diffusion and market creation for technologies that are socially desirable on a global scale.
+Demand policies will have to be internationally coordinated or supplemented by supranational or even global schemes .
+Diamond (2009) indicates the relatively small contribution of demand side subsidies compared to other factors.
+He analyses the US example of HEV vehicl es.
+Different schemes have been introduced in various US states.
+The subsidies were largely given as tax credits of $2500 to $7500, depending on the size of the battery, complemented by a 50% tax credit for home based charging stations.
+There have been var ious changes in the kinds of tax incentives given, and States differ in complementary measures.
+The bottom line is that while diffusion of HEV in the USA accelerated dramatically, the monetary incentives in various forms had much less impact than the rise of petrol price, the average income of buyers, or the average miles travelled.
+In terms of financial incentives, consumers reacted stronger to those incentives that have immediate effects (waivers) than to those whose benefits are realised over time (rebat es, tax credits).
+This is one reason why overall the monetary incentives had a weak effect, as a large portion of those incentives were given as rebates or tax credits rather than waivers.
+Monetary incentives need to realise a benefit at the point of purch ase, not over the lifetime.17 Diamond (2009) further assumes that the weak effect of tax subsidies is due to windfall profits of the intermediary, the dea lers.
+Moreover, there is a redistribution effect, as affluent people are more likely to buy HEV and thus to benefit.
+A further example for a diffusion programme is a subsidy programme for energy efficient technologies in Korea.
+This programme has led to a n acceleration of diffusion of those technologies and a reduction of unit costs of around 40% in five years.
+Subsidies of 50% for most of the selected technologies (exception: 90% for home fuel cell) are given to consumers, who employ registered companies to deliver the technology.
+The instalment is supervised by a 17 This is also confirmed by an analysis of investment decisions in the US.
+(Anderson and Newell, 2004 ) find that firms are much more responsive to investment costs (upfront) than to energy savings over time (also (Hassett and Metcalf, 1995 ).
+Even if payback is the same overall, it appears that the longer the payback time, the lower the rate of adoption (Anderson and Newell, 2004 ).
+The authors conclud e that initial subsidies are a much better way of incentivising firms to employ energy efficient technologies than a policy of taxing the resource use (and thus increasing costs over time (ibid, p. 42).
+The results are different for different technologies, indicating, again, that policy needs to target carefully for the highest leverage.
+Effects of Policy to Support Private Demand Edler 23 Manchester Institute of Innovation Research government official and only after accreditation the subsidy is granted.
+The programme has an inbuilt reduction of subsidy over time in order to keep up innovation incentives for suppliers.
+A full evaluation of the programme is not yet available, but first indications are that it has considerably increased awareness across industry and households and has sent a sustainable signal of stable market creation to Korean industry, which has increased in stalment plans from 1.9 Trillion KRW 2009 to 3 Trillion KRW in 2010 (OECD, 2011b ).
+In a detailed case study for the Californian wind turbine sector, Nemet (2008) demonstrates positive investment and efficiency (learning) effects of a combination of demand side policies, but only with a serious time lag an d very limited effects on innovation activity.
+He provides a narrative of interventions (investment tax credits (1978 to 1984), alternative energy tax credits (1979 -1987) and production tax credits (1994 -2002)) and their interplay and analyses their effect by looking at the relative costs and benefits of energy production and wind turbine installation over time.
+While the costs for producing electricity have been competitive to other sources of electricity as late as 2000, the major investments in wind turb ines had been done in the 1980s through to 1995.
+Further, the case shows the efficiency gains that were triggered by the diffusion of the turbines, attributable to a variety of learning by using effects both within the producing firms and the companies buy ing and running the wind turbines.
+However, the case does not show any positive effect on inventive activity as a result of the increased diffusion due to demand policies.
+No meaningful relationship to patenting activity is found, especially not when highl y cited patents are taken into account.
+The main explanation given is the remaining long term uncertainty of future demand which is to some extent relying on demand policies and thus on political decisions.
+The example of the German subsidy programme for PV (Nill and Kemp, 2009 ) shows the effect of a subsidy over time, its contingency upon budgetary and political changes.
+It has been justified as a niche programme that creates a broader window for a broader diffusion to set in.
+Nill and Kemp (2009) conclude that despite the positive effects of a nich e stabilisation , there was no incentive built in to invest in more radical solutions for the next generation, hinting at a lock in effect of a demand based programme.
+The effects of demand subsidies on diffusion of eco -innovation have been modelled Cantono and Silverberg (2009) .
+Their interest is in finding ways in which a minimal intervention can be designed, a subsidy to kick -start the diffusion rather than permanently subsidizing a socially desirable technology.
+They use an agent based modelling approach and develop a "perlocation model" that combines epidemic models (contagion between potential users, demand rather homogeneous) and heterogeneous threshold models (demand is heterogeneous and diffusion thus slower).
+They find that the socially optimal level of a subsidy depends on the nature of the learning economy.
+If learning economies are too low (that is learning costs are high), a subsidy woul d need to be permanent, it would not contribute to a self -dynamic process.
+If learning economies are very high (learning costs low), the subsidy would produce windfall profits as learning costs are relatively low and the technology would diffuse without it .
+Further, the level and the length of the subsidy make a difference.
+Cantono and Silverberg (2009) – only loosely – refer to empirical evidence that sugg ests this relationship.
+Outside the area of energy efficiency technologies, much less activity and much less evidence is to be found.
+One example, especially in the 1980s, is a range of diffusion programmes that tried to support the absorption of process technologies CIM and CAD in the 1980s.
+Prominent examples of those have been so -called indirect -specific programmes in the manufacturing Effects of Policy to Support Private Demand Edler 24 Manchester Institute of Innovation Research industry in Germany (Edler, 2007 , p.159 - 160; Lay, 1995 ; Wengel e t al., 1995 ).
+They were "indirect" as they subsidised the buyer of technologies, not the producer, and they were specific as they funded selected technologies: CIM and CAD/CAM.
+The rationale of the policy was that the risk and learning costs of a fundament al change in process technologies would lead to an underinvestment, especially in SMEs, with detrimental effects on their long term competitiveness, and with detrimental effects on the innovation activity in the automation and software producing industry u pstream.18 The supported firms could cover 40% of the overall costs of installation projects, comprised of personal costs internally, external advice and a share of the actual purchasing price (in one area, CAD/CAM).
+The programme was evaluated to be succes sful, having contributed to a 300% increase in the number of CAD user and 200% increase in number of CAM within four years.
+A control group approach found that the diffusion speed was significantly higher for firms that did participate in the programme.
+70% of the costs of funded projects were actually for purchasing hard - and software.
+The evaluation further found that the lev erage effect is higher, the earlier the subsidy sets in on the diffusion cycle, when absorption externalities and the information asymmetries are highest.
+The more advanced a technology is on the diffusion curve, the higher the windfall profits.
+Finally, t he programme that supported the actual purchase had a broader effect than the programme that was limited to overall project costs (personnel advice, Lay, 1995 , p.294) .
+However, the demand oriented measures largely seized in the 1990s, one reason being the perceived benefit of a large share of companies on the supply side that were located outside Germany, linking back to the econometrical evidence present ed above (Peters et al., 2012 ).
+The economic and innovation effects for the supplier have never been evaluated.
+5.2 Information provision and labels One key means with which information can be provided are labels which signal a specific performance criteria of the innovation, and thus reduce the information costs of customers, or they come in the form of broader, more pro -active information campaigns.
+Those me asures tackle information asymmetries, lack of awareness and sometimes lack of capabilities associated with the use of a new product, all of which can be major obstacles for the introduction of innovation and thus present disincentives for innovators.
+Agai nst this widely shared basic rationale of labels, Dosi and Moretto (2001) have theoretically argued that ecolabels that are awarded for specific products, could be counterproductive for innovation activities of the awarded companies at large, as the image effect of labels tends to spread across the range of products offered by the specific company and thus rewards conventional technologies and products in other areas of the awarded firm.
+Unfortunately, the little empirical work that has been done on information and labelling for innovation does not link back the diffusion effec t to the innovation effect, but focuses mainly on the diffusion and on that basis the efficiency effects.
+Empirical evidence on the labelling and information campaigns is mixed.
+Anderson and Newell (2004) analyse information programmes geared at the investment decision of manufacturers.
+These measures combine a number of awareness and education activities, including labels.
+The authors concede that "surpri singly little is known" about the effects of such programmes on 18 This approach is different from the approach discussed in Shapira (2013) which is about enhancing the capabilit ies of companies to use technologies mainly (such as the Manufacturing Extension Programme), the German example is about subsidies for the purchase and introduction of a specific technology.
+Effects of Policy to Support Private Demand Edler 25 Manchester Institute of Innovation Research diffusion (ibid, p. 28).
+Anderson and Newell (2004) evaluated the US Department of Energy 's awareness programme Industrial Assessment Center Programme, a partnership of firms and Universities to educate manufacturing firms (500 participants) and to make them acquainted with how to interpret the information available (including labels) in order to make them invest in latest technologies.
+Payment of the programme is targeted at the Universities providing the information.
+They found that half of the firms targeted with those campaigns did respond and invest in energy efficient technologies.
+Banerjee and Solomon (2003) conduct a broad meta -evaluation of five US American eco -label programmes, four of which certifying energy efficiency technology, o ne renewable energy.
+Two of the programmes (Energy Star, Energy Guide) are public, the rest are private.
+Publicly administered programmes had a significantly greater effect on awareness and purchasing decisions as well as on participation of the manufactur ers.
+This is said to be mainly due to the credibility and long term financial stability that was associated with the government run programme.
+In addition, the programmes were the more successful, the more they focused on specific product categories and sp ecific partnerships.
+Simplicity of the label was important and – crucially – a clear demonstration of the cost savings over time (ibid., p. 116).
+A further success factor was, in a few instances, that the purchase of a specifically certified product in a label scheme was rewarded with more favourable loan conditions by a partnering bank Banerjee and Solomon (2003, pp.119 -121) .
+On the basis of case studie s, Tuerpitz (2003) finds that manufacturers of innovations rate the information asymmetry as one of the key obstacles for market diffusion.
+However, in h er six case studies across a range of sectors, labelling to reduce information asymmetry was found to be of minor effectiveness, as existing labels are often too complex, not regarded as reliable and in some instances seen as potentially disguising negativ e effects of an innovation.
+Firms tend not to invest too much in labelling schemes themselves for the reasons of information externalities mentioned in section 3.3: the information can often not be limited to their individual products.
+Thus, public action is seen to be much more promising.
+Importantly, the firms saw labelling as potentially counter -productive for innovation.
+Especially in areas with short life cycle s and a high rate of innovation activity the criteria that are important for the innovation may not always fit the criteria of an established label, an innovation may be reduced to those label criteria (in the perception of the consumer) and less acknowled ged for its overall benefit.
+Other authors stress the time lag between the innovation introduced in the market and the label ling scheme (Teisl and Roe, 1 998 , pp.
+140 -150) , so that environmental labelling can "negatively influence the manufacturer's ability to innovate, since adoption of a radical innovation can result in extended debate and loss of time before the eco -label can be used" (Allison and Carter, 2000 , p. 46) .
+Similar, Boer argues that labels are designed on the basis of existing standards.
+Thus, there is a dis -incentive to invest in the next ge neration, that would not be covered by the label or for which the label offers no distinction and thus no reward (De Boer, 2003 , p. 257 -258) .
+However, in an empirical study in German manufacturing firms, Cleff and Rennings (1999) found that eco -labels do play a role as incentive for innovatio n, but mainly with those companies that are in general more innovation active, while those that are less innovative are much more affected by (hard) regulation.
+(1999) recognise a correlation between the increase in the use of labels and the price elasticity of demand, in other words, the sensitivity to react to prices when making a decision to buy an innovation increased after the introducti on of a label.
+In addition, labels by definition focus on a limited number of criteria.
+The more powerful labels are, the more the induce innovations that are focused on – Effects of Policy to Support Private Demand Edler 26 Manchester Institute of Innovation Research and limited to –those criteria (Hale, 1996 ; Karl and Orwat 1999 : 217 ; Morris, 1997 ), thereby stifling variation and mutation.
+Recently, (Dendler, 2013 ) has compiled studies about the e ffects of labelling on consumption and production.
+Several of those studies found effects on innovation, but confirm the somewhat sceptical assessment.
+(Rubik and Frankl, 2005 , p.146) find, in the washing machine sector, that specific energy efficiency targets connected with labels have driven innovation activity.
+Rather a claim than a clear empirical evidence is provided by (Sto and Strandbakken, 2009 : 4) who argue that the EU eco -labels have been the major platforms for the manifold innovations in the last decade by providing transparency, comparison acr oss the EU and thus intensified competition based on performance.
+This optimistic claim is put into perspective, though, by an evaluation of the EU Eco Labels which confirm the limitations above that may actually hinder innovation (Rubik and Frankl, 2005 , p. 413).
+5.3 Policy to support user -producer interaction - one early example There are very few policy schemes and no proper evaluations of instruments that seek to bring together users and (potential) producers of innovation to harness the creativity and needs of users for future innovations.
+One example is the Danish programme fo r User -Driven Innovation that started in 2007 (Damvad, 2009 ; Mollerup, 2011 ).
+The programme supports innovation projects that are based on user needs and inputs, composed of groups of users and producers in areas in which there is a likely broader benefit for society should innovations be successful.
+The programme covers costs of joint projects of more than one company or research organisation and often NGOs (unions, interest groups), and finances projects up to the prototype stage with up to 50% of expenses.
+The overall budget for the programme was 13.5 M io EURO per year; funding decisions are taken by a board of 12 individuals from public and private sector (Dahlerup ).
+The knowledge produced in the proje cts cannot be entirely appropriated by the participants, provisions for spread of knowledge and insights through interaction and dissemination are in place.
+The programme was evaluated in 2009, based on a participant survey, interviews, and an "audience" s urvey of 3000 public organisations and firms (Damvad, 2009 ).
+At that time, only one project had been completed, and "contribution to growth" could clearl y not be assessed.
+However, the evaluation found that the programme filled a gap, as it allowed public sector service providers and private service firms to engage in novel ways in innovation activities.
+This was assessed as extremely important as the broa der survey in Denmark across the economy and the public sector revealed that 90% of firms and public sector organisations did not understand the concept and value of user driven innovation.
+As the societal and application context of innovations is an integ ral part of the innovation ge neration, projects were much more likely to be truly interdisciplinary.
+In roughly 75% (private firms) and 64% (public sector organisations) of projects, social sciences or humanities participated, and in most of those project s they collaborated with engineering or natural scientists.
+In 75% of the projects, firms and public sector organisations cooperated.
+Further participants experienced enhanced skills of staff in cooperating and communicating with users and other organisati ons in the innovation chain and, subsequently, an increased awareness of needs and limitations of users.
+The most important recommendation, therefore, was that the programme not only served a specific need, but mobilised new combinations of actors, based o n a perceived user need and idea and, most generally, triggered Effects of Policy to Support Private Demand Edler 27 Manchester Institute of Innovation Research a much needed process to educate firms, public sector organisation and society at large (Damvad, 2009 ).
+5.4 Market transformation: an example of mixed measures In the 1980s and 1990s mainly there have been a range of attempts to "transform markets" in the energy domain.
+Those approaches tried to boost markets for energy efficient technology, to accelerate the diffusion of societally desirable technologies and by doing so also impact on technology generation.
+The distinctive feature of that approach has been the combination of a vast range of demand measures for different phases of an innovation an d diffusion cycle (see Figure 3), complemented in some instances by R&D support of various kinds (Geller and Nadel, 1994 ; Neij, 2001 ).
+The intervention intensity of those programmes is immense; they target specific pr oduct categories (not specific brands, though) that have been assessed to be desirable or promising in terms of societal benefit in the future.
+They are not only focused on end -users, but take the technological innovation system (without using this termino logy or concept) as a starting point and analyse markets, actor capabilities and linkages and state of the art of the technologies.
+This helps to detect bottlenecks and preferential leverages for an accelerated diffusion process and feedback to development of the next generation of technologies.
+The programmes are mostly designed with performance indicators and exit strategies, i.e.
+the phasing out of measures once the market has reached a specific threshold.
+Figure 3: Market transformation - policy measures and market maturity level Source: Neij (2001, p. 69) 19 In general, market transformation programmes have been evaluate d positively as regards efficiency savings and transformation effects in markets (Rosenberg and Hoefgen, 2009 ; York 19 Note that stand ards could be explicitly used here in all three phases if this policy were to be rolled out at national or EU level.
+For the use of standards in innovation policy see: Blind (2013) .
+Effects of Policy to Support Private Demand Edler 28 Manchester Institute of Innovation Research and Bentham, 1999 ), with considerable spill -over to consumer behaviours in neighbouring markets.
+The strategic intelligence requirements for those programmes is large, and often, the economi c benefits (and costs) are not properly evaluated (Rosenberg and Hoefgen, 2009 ).
+Rather than summarising a number of programmes (for examples see Rosenberg and Hoefgen, 2009 ; York and Bentham, 1999 ), we focus on one example, the Swedish approach, and extract the main lessons for demand based measures more generally.
+At the heart of the Swedish variants has been public procurement as catalyst for the diffusion, with the intention for private demand to ta ke off as a result.20 This was accompanied by a variety of awareness and education measures.
+The Swedish programmes are reported to have been highly successful in the diffusion of efficient technologies, despite some mixed results (Edler and Hafner, 2007 ; Neij, 1998 ; NUTEK, 1994 ; Suvilehto and Överholm, 1998 , p.102 -104 ).
+The evaluations demonstrate a range of new developments and successful market introductions.
+However, many programmes were less successful in market penetration, i.e.
+in reaching consumers that are far away from the initial adoption frontier.
+While in s ome cases, market penetration for new products (in lighting systems, for example) was up to 2/3 of the potential market, in other areas the penetration was extremely poor (air condition systems).
+In markets with considerable penetration, there was a strong increase in energy efficiency as well as reduction of life cycle costs of those innovative products.
+Further, in many areas the initial product was further improved, and standards beyond the original ones used were developed (Neij, 1998 ).
+Finally, the evaluations find change of behaviours and attitudes with consumers.
+There were a variety of success factors success factors of that programme, including  a thorough prior analysis of the market (underlying technologies, supply and demand (!)
+chains);  user groups involvement21;  bundling of demand (public -public and public -private);  accompanying monitoring of market developments;  sustained efforts, long term benchmarks.
+However, there was no evaluation that looked at the overall, wider cost -benefit of those programmes.
+Such an evaluation would have to look at the potential limitations for the decision making when targeting very specific tec hnologies, the reduction in variety and the potential limitation of competition and learning and the potential counter -productive lack of pressure to further improvement due to the induced market growth.
+6 Lessons and Conclusions This report has looked at ex isting evidence on selected innovation policy instruments that are geared towards supporting private demand for innovation.
+It covers only a part of the demand based innovation policy activities, other reports in this Compendium will cover other areas22.
+However, this report has produced a conceptualisation of demand side policies as a bias for a better understanding of evidence across the range of demand side measures.
+Demand side 20 For public procurement policies geared towards innovation more generally see Uyarra (2013) 21 User group involvement w as a characteristic of second generation of programmes in Sweden.
+22 Rigby (2013) : Pre -Commercial Procurement, Uyarra (2013) : Policies to Support Public Procurement of Innovation, Gok (2013) ; Innovation Pr ices, Hayden (2013) ; Foresight, Blind (2012) ; Regu lation and Blind (2013) : Standardisation.
+Effects of Policy to Support Private Demand Edler 29 Manchester Institute of Innovation Research policy has only come back on the innovation policy agenda, and is still poorl y understood in its principle rationale and as regards the differentiation of instruments.
+For this reason, the report first presented a typology of interventions, then conceptualised the different ways in which demand influences innovation and then develo ped the various intervention rationales – market and system failures, domestic growth and societal goals.
+In the following, the main conclusions and lessons are drawn.
+Emerging demand side innovation policy approaches appear to be very limited in their outreach, focusing largely on public procurement of innovation or pre -commercial procurement.
+Innovation policy has not yet systematically discovered the role of other instruments and the various ways in which private demand influences innovation.
+Beyond a limited, albeit growing, number of public procurement and pre -commercial procurement schemes (see Rigby, 2013 ; Uyarra, 2013 ), there are almost no explicit policies to improve the ways in which public and especially private demand can trigger innovation, ask for new solutions.
+There are also only very few ap proaches to improve the interaction between user and producer with a view to co-producing innovation and there are no policies, as far as we know, that try to harness the innovation activities of users themselves for a broader market.
+Needless to say that evidence as regards the effect of policies to support those modes of influence of private demand on innovation is scarce.
+More from inference than from explicit evidence, it appears that innovation policy in general has yet to develop a sound conceptual un derstanding of the many different ways in which policy could support private demand for innovation and of the limits and potential drawbacks of these policy measures.
+The idea to support private demand and improve the demand conditions more generally has e ntered the policy debate, but without sufficient conceptual underpinning and operational creativity based on evidence.
+There is a case to be made for innovation policy on the demand side more broadly, but it has yet to be made by policy makers in their spe cific contexts.
+Largely copying demand side innovation concepts , and limiting it to a small number of approaches, will not fulfil the potential of demand side policy.
+While innovation policy has been slow in picking up these concepts, environmental and ene rgy policy have used and implemented demand side policies – for public and private demand – much more rigorously.
+However, the review has shown that debates, policies and evidence in this area have traditionally been poorly linked to the innovation policy discourse and practice.
+A lesson for policy is to improve the linkages between domain based policies and innovation policy, not only for mutual learning, but for a mutual support of the respective agendas.
+Mission oriented innovation policy will have to be supported by innovation policy, not monopolised.
+There is some evidence that price based instruments are more effective than command and control instruments in the area of energy efficient technologies.
+Many analyses in this report have shown the positiv e effect of subsidies and taxes especially in early stages of the diffusion cycle.
+Importantly, however, to trigger more radical innovations or to make little innovative firms invest in innovation, regulation and command and control are shown to be more ef fective.
+It appears that the intelligent, contextualised interplay of demand based measures, with a change of mix over time, can deliver uptake and diffusion and link back to innovation.
+But the functioning of those instruments needs to fulfil a range of c onditions in order to minimise windfall profits and potential counter -productive effects on innovation.
+Effects of Policy to Support Private Demand Edler 30 Manchester Institute of Innovation Research First, there is no simple answer as to which instruments perform better under which circumstances.
+Policy is highly specific to the national context an d existing and complementary regulation and policy activity, to general market conditions on the supply and the demand side.
+Second, demand based policies need to keep up incentives over time.
+Many studies have highlighted the negative effect of supportin g demand for existing technological solutions rather than incentivising for the next generation of innovations.
+Demand side policies – financial or through awareness and labels – can produce the lock in into second rate technologies they are supposed to ov ercome by reducing the pressure of the supply side to invest into further innovation or redirect efforts to specific features of innovations as requested, e.g., in a subsidy or label.
+It is essential that demand side measures have an in -built incentive for producers.
+Some of the schemes discussed in this report have been successful in doing so by reducing the level of demand support over time.
+As adoption externalities decrease, so should the subsidy.
+This decreases the incentive for buyers to buy an existi ng innovation over time and increases the attractiveness of a novel solution.
+Many measures in the area of energy efficiency were geared at diffusion of specific technologies in order to reach energy efficiency targets.
+They did not check for the innovati on effects in the long run and thus, potentially damaged their own course.
+Such a policy of reduced subsidies over time also reduces the windfall profit on the demand and supply side, as demand side subsidies and tax measures have a free -rider and windfall effect due to an often large public share of public money per unit, and this effect is the more considerable, the further down the diffusion curve an innovation is.
+Third, demand measures need to take timing into consideration very carefully.
+Demand side measures can trigger broad demand for a radical innovation too early, creating a market for an immature and still inefficient technology without clear provisions for this further improvement (Bradke et al., 2009 ).
+This will lower the incentive for producer to further invest in efficiency gains, and capabilities and accompanying infrastructure investments are geared towards delivering the state of the art technology for which a subsidy exists.
+The tension is betwee n variety and openness for better solutions on the one hand, and a roll out of the latest technologies that would improve societal welfare altogether on the other hand, and by doing so giving an incentive to firms to cash in their latest innovation rather than re -invest in the next generation (Jaffe et al., 2005 ).
+This points to a need to keep in mind the technology or innovation cycle as such, i.e.
+to get the timing right for demand intervention and to complement demand measures with adequate support on the supply side (Cantono and Silverberg, 2009 , p. 488; Meyer -Krahmer and Dreher, 2004 ).
+In addition, some of the studies in this report have shown that innovation effects on the supply side depend on the e xpectation of long term demand.
+Thus, demand based measures must be credible in triggering a persistent demand that justifies innovation investments (Kem p, 2000 ; Nemet, 2008 ).
+Fourth, incentives need to be simple and to be communicated clearly, and the nearer to the time of purchase the benefit is realise d, the more likely the incentive works.
+The evidence is strong that if benefits are spread over long periods in the future, they are significantly reduced in their effects.
+Even if the net present value of the financial support is greater, demanders go for "less now" rather than "more over time".
+Fifth, a constant challenge is the right level of the incentive.
+Modelling approaches and empirical analysis have shown that for each technology and each context the learning economies are different.
+Policy needs to make reasonable predictions about the level of externalities, about the preferences in the market and about the subsequent diffusion effects on the demand and supply Effects of Policy to Support Private Demand Edler 31 Manchester Institute of Innovation Research side.
+Ideally, the subsidy nudges a reasonable share of demanders into buying to then t rigger of a more sustainable diffusion.
+If the gap between the intrinsic preferences and the real market price is and remains too high, a subsidy might never succeed in triggering a market.
+If the gap the subsidy fills is very narrow, the likelihood of win dfall profits and inefficiency is high.
+There are further tensions in demand side measures.
+While the benefits of supply side measures can more easily be contained to actors within a country or region, the evidence in this report has demonstrated that dema nd abroad has a significant effect on domestic innovation activity.
+This means that demand based measures take effect across borders.
+Especially in large countries a roll out of financial demand side measures will trigger innovation abroad.
+From a global s ocietal welfare perspe ctive, e.g.
+carbon reduction, this is not a problem, from a domestic economy policy perspective, it could be one.
+This calls for internationally coordinated action in areas of the grand societal ch allenges.
+This is where in Europe the EU and coordination through European actors could play a pivotal role, pooling risks and benefits and by doing so overcoming Member State fears of supply side effects outside their territories.
+It also points towards the necessity to consider, case by cas e, the need for interaction between user and producer and the spill overs to local economy more broadly when defining demand based innovation policy measures.
+All of the above points to the need for demand side policies to be supported by very sophisticat ed strategic intelligence.
+The Market Transformation examples have shown that a thorough analysis of bottlenecks and entry points for policy across the whole technological innovation system is required, as an isolated subsidy or awareness measure would not deliver, as often whole systems must change.
+Further, any ex ante analysis of demand conditions must establish not only the major market failures, but include the system failures and an analysis of the supply side conditions, as well.
+For specific technol ogies, different analyses have found slight differences in the relative importance of supply vs. demand side measures.
+What is clear, though, is that demand side policy cannot be designed in isolation.
+To support private demand in absorbing innovation, or even in asking the market for innovation (demand triggering innovation) necessitates a good understanding about the capacity of the supply side to deliver – and the potential support needed to enable the supply side to deliver.
+Evaluations need to trace the effects on both sides, over time and to monitor progress both in terms of market creation and in terms of effects on innovation upstream.
+The connection of increased demand back to innovation is poorly understood.
+The econometric analyses in this report almost exclusively look at changes in patenting as the dependent variable, while many innovations are not based on patentable technology at all.
+The innovation contribution of demand side policies thus appears to be under -valued.
+This would be the task of evaluations with a clearer view on the innovation effects.
+It is important to stress that we have almost no evaluations of demand side policy measures within the traditional realm of innovation policy (Edler et al., 2012 ).
+And in domain based policy instruments we lack a sophisticated methodology to acknowledge the total innovation effects over time.
+This is where domain based and innovation policy based t raditions should meet, in order to support the linked up policy making in the future that will be needed.
+Effects of Policy to Support Private Demand Edler 32 Manchester Institute of Innovation Research References Aho, E., Cornu, J., Georghiou, L., Subira, A., 2006.
+Report of the Independent Expert Group on R&D and Innovation appointed following the Hampton Court Summit: Brussels.
+Study on different types of Environmental Labelling (ISO Type II and III Labels): Proposal for an Environmental Labelling Strategy.
+Environmental Resources Management Ltd.: Oxford.
+Allman, K., Edler, J., Georghiou, L., Jones, B., Miles, I., Omidvar, O., Ramlogan, R., Rigby, F., 2011.
+Measuring wider framework conditions f or successful innovation.
+Anderson, S.T., Newell, R.G., 200 4.
+Information programs for technology adoption: the case of energy -efficiency audits.
+Resource and Energy Economics, 26 (1): 27 –50.
+TECHNOLOGY DIFFUSION PROGRAMMES AND THE CH ALLENGE FOR EVALUATION, in OECD (Ed.
+), Policy Evaluation in Innovation and Technology: Towards Best Practices, OECD: Paris, pp.65 -87.
+Ashford , N.A., Ayers, C., Stone, R.F., 1985.
+Using regulation to change the market for innovation.
+Harvard Environmental Law Review, 9 (2): 419 -466.
+Banerjee, A., Solomon, B.D., 2003.
+Eco -labeling for energy efficiency and sustainability: a metaevaluation of US programs.
+Energy Policy, 31(2): 109 –123.
+Lead markets: country -specific drivers of the global diffusion of innovations.
+Research Policy, 33 (6 -7): 997 –1018.
+Lead markets and regulation: a framework for analyzing the international diffusion of environmental innovations.
+Ecological Economics , 52 (1): 5 –17.
+Beumer, L., van der GIessen, E.C., Olieman, R., Otten, G.R., 1991.
+Evaluatie van de isolatieregeling (SES 1001) en de ketelregelin (SNEV).
+The Impact of Regulation on Innovation.
+The Impact of Standardization and Standards on Innovation.
+The Impact of Standardization and Standards on Innovation.
+Report within the MIoIR -NESTA Compendium of Evidence on Innovation Policy.
+NESTA -MIoIR: LondonManchester.
+Blind, K. , Edler, J., Frietsch, R., Schmoch, U., 2006.
+Motives to patent: Empirical evidence from Germany.
+Research Policy, 35 (5): 655 –672.
+Boon, W.P.C., Moors, E.H.M., Kuhlmann, S., Smits, R.E.H.M., 2011.
+Demand articulation in emerging technologies: Intermediary user organisations as co -producers?
+Research Policy , 40 (2): 242 –252.
+Bradke, H., Marscheider -Weidemann, F., Som, O., Mannsbar, W., Cremer, C., Dreher, C., Edler, J., Ebersberger, B., Radgen, P., Ruhland, S., 2009.
+Improving the efficiency of R&D and the market diffusion of energy technologies.
+Physica -Verlag HD: Heidelberg.
+Effects of Policy to Support Private Demand Edler 33 Manchester Institute of Innovation Research Brunnermeier, S.B., Cohen, M.A., 2003.
+Determinants of environmental innovation in US manufacturing industries.
+Research Policy, 45 (2): 278 –293.
+Danish and Norwegian wind industry: The relationship between polic y instruments, innovation and diffusion.
+Energy Policy, 34 (18): 3887 –3897.
+Business Decisions Limited , 2003.
+The Power of Customers to Driv e Innovation.
+Business Decisions Limited: A report to European Commision.
+Cantono, S., Silverberg, G., 2009.
+A percolation model of eco -innov ation diffusion: The relationship between diffusion, learning economies and subsidies.
+Technological Forecasting and Social Change, 76 (4): 487 –496.
+Castaldi, C., Dosi, G., Paraskevopoulou, E., 2011.
+Path dependence in technologies and organizations: a concise guide.
+Eindhoven Centre for Innovation Studies (ECIS): Eindhoven .
+Cleff, T., Grimpe, C., Rammer, C., 2009.
+Customer - Driven Innovation in the Electrical, Optical and ICT Industry.
+Interdisciplinary Management Research V, : 651 -682.
+Determinants of environmental product and process innovation.
+European Environment, 9 (5): 191 –201.
+Dahlerup, S., The Danish Programme for User Dr iven Innovation.
+Danish Enterprise and Construction Authority (DECA): Dalpé, R., 1994.
+Effects of Government Procurement on Industrial Innovation.
+Technology in Society, 16 (1): 65 –83.
+T he public sector as first user of innovations.
+Research Policy, 21 (3): 251 –263.
+Mid -term evaluation of the Danish Programme fo r User Driven Innovation.
+Sustainability labelling schemes: the logic of their claims and their functi ons for stakeholders.
+Business Strategy and the Environment, 12 (4): 254 –264.
+Sustainable meta -labeling: an effective measure to facilitate more sustainable consumption and production?.
+Manchester University, Manchester: -meta -labeling.pdf.
+The impact of government incentives for hybrid -electric vehicles: Evidence from US states.
+Energy Policy, 37 (3): 972 –983.
+Is Ecolabelling a Reliable Environmental Policy Measure?.
+Environmental and Resource Economics, 18 (1): 113 -127.
+Dubin, J.A., Henson, S.E., 1998.
+The distributional effects of the Federal Energy Tax Act.
+Resources and energy, 10 (3): 191 –212.
+Bedürfnisse als Innovationsmotor: Konzepte und Instrumente nachfragorientierter Innovationspolitik.
+Effects of Policy to Support Private Demand Edler 34 Manchester Institute of Innovation Research Edler, J., 2010.
+Demand Oriented Innovation Policy, in Smits, R., Kuhlmann, S., Shapira, P.
+), The Theory and Practice of Innovation Policy An International Research Handbook, Edward Elgar: Cheltenham, pp.177 -208 .
+Edler, J., Blind, K., Georghiou, L., Uyarra, E., Cox, D., Rigby, J., Nugroho, Y., 2009.
+Monitoring and Evaluation Methodology for the EU Lead Market Initi ative - A Concept Development.
+Edler, J., Blind, K., Georghiou, L., Uyarra, E., Cox, D., Rigby, J., Nugroho, Y. , 2009.
+Monitoring and Evaluation Methodology for the EU Lead Market Initiative - A Concept Development.
+Edler, J., G eorghiou, L., Blind, K., Uyarra, E., 2012.
+Evaluating the demand side: New challenges for evaluation.
+Research Evaluation, 21 (1): 33 -47.
+Nachfrageorientierte Innovationspolitik in Schweden, in Edler, J.
+), Bedürfnisse als Innovationsmotor.
+Konzepte und Instrumente nachfrageorientierter Innovationspolitik, edition sigma: Berlin, pp.97 -114.
+Innobarometer 2009 Analytical Report.
+Flowers, S., von Hippel, E., de Jong, J., Sinozic, T., 2010.
+Measuring User Innovation in the UK: The importnace of product creation by users.
+Overcoming barriers to innovation and diffusion of cleaner technologies: some features of a sustainable innovation policy regime.
+Journal of Cleaner Production, 16 (1): S148 –S161.
+Technological lock -in and the role of innovation, in Atkinson, G., Dietz,S.
+), Handbook of sustainable developm ent, Edward Elgar: Cheltenham, pp.140 -152.
+Attitudes of European entrepreneurs towards eco -innovation.
+Gassler, H., Polt, W., Rammer, C., 2008.
+Priority setting in technology policy: Historical development and recent trends, in (Ed.
+), Innovation Policy in Europe: Measurement and Strategy, Edward Elgar Publishing: Cheltenham, pp.203 -222.
+Gatignon, H., Robertson, T.S., 1985.
+A Propositional Inventory for New Diffusion Research.
+Journal of Consumer Research, 21: 849 -867.
+Geller, H., Harrington, P., Rosenfeld, A. H., Tanishima, S., Unander, F., 2006.
+Polices for increasing energy efficiency: Thirty years of experience in OECD countries.
+Energy Policy, 34 (5): 556 –573.
+Market Transformation Strategies to Promote End -Use Efficiency.
+Annual Review of Energy and the Environment, 19: 301 -346.
+Georghiou, L., Li, Y., Uyarra, E., Edler, J., 2010.
+Public Procurement for Innovation in Small European Countries.
+Report to the European Commission in the context of the ERAPRISM OPMC -Net project (Policies for Research and Innov ation in Small Member States to Advance the European Research Area): Manchester/Brussels.
+Procurement policy as a tool o f industrial policy.
+International Review of Applied Economics, 4 (2): 182 -198.
+Effects of Policy to Support Private Demand Edler 35 Manchester Institute of Innovation Research Gillingham, K., Newell, R.G., Palmer, K., 2004.
+Retrospective Examination of Demand -Side Energy Efficiency Policies.
+Resources for the Future: Washington.
+The Impact of Innovation Inducem ent Prizes.
+MIoIR -NESTA: Manchester/London.
+Ecolabelling and cleaner production: principles, problems, education and training in relation to the adoption of environmentally sound production processes.
+Journal of Cleaner Production, 4 (2): 85 -95.
+Hassett, K.A., Metca lf, G.E., 1995.
+Energy tax credits and residential conservation investment: Evidence from panel data.
+Journal of Public Economics, 57 (2): 201 –217.
+Technology foresight and assessment.
+Report within the MIoIR -NESTA Compendium of Evidence on Innovation Policy.
+NESTA -MIoIR: London -Manchester.
+Herstatt, C., Von Hippel, E., 1992.
+From experience: Developing new product concepts via the lead user method: A case study in a "low -Tech" fie ld.
+Journal of product innovation management , 9 (3): 213 –221.
+Horbach, J., Rammer, C., Rennings, K., 2012.
+Determinants of eco -innovations b y type of environmental impact —The role of regulatory push/pull, technology push and market pull.
+Centre for European Economic Research (ZEW): Mannheim.
+Innovation in Services: Issues at Stake and Trends.
+ESRC Centrefor Research on Innovation andCompetition (CRIC): Manchester.
+Trends and Challenges in Demand -Side Innovation Policies in Europe.
+Leadmärkte für Umweltinnovationen.
+Politische ökologie, 21: 19 -21.
+Jaffe, A.B., Newell, R.G., Stavins, R.N.
+Environmental policy and technological change.
+Environmental and Resource Economics, 22 (1 -2): 41 -70.
+Jaffe, A.B., Newell, R.G., Stavins, R.N., 2004.
+Technology policy for energy and the environment.
+Jaffe, A.B., Newell, R.G., Stavins, R.N., 20 05.
+A tale of two market failures: Technology and environmental policy.
+Ecological Economics, 54 (2 -3): 164 –174.
+Jaffe, A.B., Palmer, K., 199 7.
+Environmental regulation and innovation: A panel data study.
+Review of Economics and Statistics, 79 (4): 610 -619.
+Johnstone, N., Hascic, I ., Popp, D., 2010.
+Renewable Energy Policies and Technological Innovation: Evidence Based on Patent Counts.
+Environmental and Resource Economics, 45 (1): 133 -155.
+Environmental labelling in Europe: European and national tasks.
+European Environment, 9 (5): 212 -220.
+Technology adoption in the presence of network externalities.
+Journal of Political Economy, 94 (4): 822 -841.
+Effects of Policy to Support Private Demand Edler 36 Manchester Institute of Innovation Research Kemp, R., 2000.
+Technology and environmental policy innovation effects of past policies and suggestions for improvements, in OECD (Ed.
+), Innovation and the Environment, OECD: Paris, pp.35 -62.
+The innovation effects of environmental policy instruments — A typical case of the blind men and the elephant?.
+Ecological Economics, 72: 28 –36.
+Kemp, R., Schot, J., Hoogma, R., 1998.
+Regime shifts to sustainability through processes of niche formation: the approach of strategic niche management.
+Technol ogy Analysis & Strategic Management, 10 (2): 175 -198.
+Klaassen, G., Miketa, A., Larsen, K., Sundqvist, T., 2005.
+The impact of R&D on innovat ion for wind energy in Denmark, Germany and the United Kingdom.
+Ecological Economics , 54 (2 -3): 227 -240.
+Kleinknecht, A., Verspagen, B., 199 0.
+Demand and innovation: Schmookler re -examined.
+Research Policy, 19 (4): 387 –394.
+Klepper, S., Malerba, F., 2010.
+Demand, innovation and in dustrial dynamics: an introduction.
+Industrial and Corporate Change, 19 (5): 1515 -1520.
+Demand Driven Innovation in Economic Thought.
+Manchester Institute of Innovation Research, MBS, University of Manchester, Manchester: -%20Knell%20%20Demand%20Driven%20Innovation%20in%20Economic%20Thought.pdf.
+The Lisbon Strategy for Growth and Employment.
+European Communities: Brussels.
+Innovation and the international diffusion of environmentally responsive technology.
+Research Policy, 25 (4): 549 -571.
+Government support of computer integrated manufacturing in Germany: first results of an impact analysis.
+Technovation, 13 (5): 283 –297.
+Innovation as an interactive process: from user -producer interaction to the national system of innovation, in Dosi, G., Freeman, C., Nelson, R., Silverberg, G., Soete, L.
+), Technical change and economic theory, Pinter Publishers: London, pp.349 –369.
+Overview of Residential Energy Feedback and Behavior based Energy Efficiency.
+Energy and Environmental Economics, Inc.: San Francisco.
+Malerba, F., Nelson, R., Orsenigo, L., Winter, S., 2007.
+Demand, innovation, and the dynamics of market structure: The role of experimental users and diverse preferences.
+Journal of Evolutionary Economics, 17: 371 -399.
+Mazzanti, M., Zoboli, R., 2006.
+Economic instruments and induced innovation: The European policies on end -of-life vehicles.
+Ecological Economics, 58 (2): 318 –337.
+Vorreiter -Märkte und Innovation.
+Ein neuer Ansatz der Technologieund Innovationspolitik.
+Fraunhofer Institute: Hambu rg.
+Effects of Policy to Support Private Demand Edler 37 Manchester Institute of Innovation Research Meyer -Krahmer, F., Dreher, C., 2004.
+Neuere Betrachtungen zu Technikzyklen und Implikationen für die Fraunhofer -Gesellschaft, in Spath, D .
+), Forschungs - und Technologiemanagement : Potenziale nutzen - Zukunft gestalten.
+, Carl Hanser Verlag GmbH: Hamburg, pp.27 -35.
+Mini Study 11 Demand -led innovation.
+MIoIR - INNO -GRIPS Intelligence and Policy Studies: Manchester.
+Miles, N., Bleda, M., Clark, J. , Edler, J., Simmonds, P., 2009.
+The wider conditions for innovation in the UK.
+How the he UK compares to leading countries.
+Demand -side innovation policies in Denmark.
+Moors, E.H.M., Boon, W., Nahuis, R., Vandeberg, R., 2008.
+User -producer interactions in emerging pharmaceutical and food innovations.
+International Journal of Innovation Management, 12 (3): 459 -487.
+Consumers, product labels and the environment, IEA studies on the environment.
+Morrison , P.D., Roberts, J.H., Von Hippel, E., 2000.
+Determinants of user innovation and innovation sharing in a local market.
+Management science , 46 (12): 1513 -1527.
+Mowery, D., Rosenberg, N., 1979.
+The influence of market demand upon innovation: A critical review of some recent empirical studies.
+Research Policy, 8 (2): 102 –153.
+National Energy Policy Development Group, 2002.
+United States Department of Energy Energy Efficiency and Renewable Energy: Washington.
+Evaluation of Swedish Market Transformation Programmes.
+eceee 1999 Summer Study, Panel II, .
+Methods of evaluating market transformation programmes: experience in Sweden.
+Demand -pull energy technology policies, diffusion, and improvements in california wind power.
+Innovations for a Low Carbon Eco nomy: Economic, Institutional and Management Approaches.
+Demand -pull, technology -push, and gover nment -led incentives for nonincremental technical change.
+Research Policy, 38 (5): 700 -709.
+Demand and innovation: How customer preferences shape the innovation process.
+The role of markets and policies in delivering innovation for c limate change mitigation.
+Oxford Review of Economic Policy , 26 (2): 253 -269.
+Newell, R.G., Jaffe, A.B., Stavins, R.N., 1999.
+The induced inn ovation hypothesis and energysaving technological change.
+The Quarterly Journal of Economics, 114 (3): 941 -975.
+Ev olutionary approaches for sustainable innovation policies: From niche to paradigm?
+Research Policy, 38 (4): 668 –680.
+Effects of Policy to Support Private Demand Edler 38 Manchester Institute of Innovation Research NUTEK, 1994.
+Effective Market Influence - an effect chain analysis of NUTEK's high frequency lightning campaign.
+Diffusing technology to industy.
+Government policies and programmes.
+Driving Eco -Innovation: The Role of Demand -side Policies.
+Peters, M., Schneider, M., Griesshaber, T., Hoffmann, V.H., 2012.
+The impact of technology -push and demand -pull policies on technical change – Does the locus of policies matter?.
+Research Policy, 41 (8): 1296 –1308.
+Competitive Advantage: Creating and Sustaining Superior Performance.
+Reed, J.H., Jordan, G., Vine, E., 2007.
+Impact evaluation framework for technology deployment programs.
+Department of Energy: Washington DC.
+Dynamic incentives by environmental policy instruments —a survey.
+Ecological Economics, 54 (2 -3): 175 –195.
+Rigby, J., 2013. Review of Pre -commercial Procurement Approaches.
+MIoIR -NESTA: Manchester/London.
+Nanoscience and Nanotechnologies: Bridging gaps through constructive technology assessment, in Hadorn, H.G., Hoffmann -Riem, H., Biber -Klemm, S., GrossenbacherMansuy, W., Joye, D., Pohl, C., Urs, W.n (7) Elisabeth Zemp (Ed.
+), Handbook of Transdisciplinary Research, Springer: Netherlands, pp.145 -157.
+The demand -side innovation policies in the context of small EU member country.
+Demands ide innovation policies in the context of small EU country.
+Rosenberg, M., Hoefgen, L., 2009.
+MARKET EFFECTS AND MARKET TRANSFORMATION: THEIR ROLE IN ENERGY EFFICIENCY.
+California Institute for Energy and Environment : Oakland.
+The d irection of technological change: inducement mechanisms and focusing devices.
+Economic Development and Cultural Change , 18 (1): 1 -24.
+The characteristics of successful innovators and technically progressive firms.
+R&D Management , 7 (3): 191 –206.
+Case Study: Washing Machine, in Rubik, F., Frankl, P.
+), In The future of eco -labelling : making environmental product information systems effective, Greenleaf Pub.
+The Customer's role in service development.
+The economic and institutional rationale of PV subsidies.
+Harvard University Press: Boston.
+Effects of Policy to Support Private Demand Edler 39 Manchester Institute of Innovation Research Schot, J., Geels, F.W., 2008.
+Strategic niche management and sustainable innovation journe ys: theory, findings, research agenda, and policy.
+Technology Analysis & Strategic Management, 20 (5): 537 -554.
+Shapira, P., 2013. Review of Technology Advising and Upgrading Services.
+MIoIR -NESTA: Manchester/London.
+Lessons Learned and Next Steps in Energy Effi ciency Measurement and Attribution: Energy Savings, Net to Gross, Non -Energy Benefits, and Persistence of Energy Efficiency Behavior.
+California Institute for Energy and Environment (ciee) : Berkeley.
+Innovation studies in the 21st century;: Questions from a user's perspective.
+Technological Forecasting and Social Change, 69 (9): 861 –883.
+Stø, E., Strandbakken, P., 2009.
+The future of energy labels in Europe.
+A consumer and stakeholder approach to the revisions of the EU Energy Label.
+National Institute for Consumer Research: Oslo.
+Stoneman, P., Diederen, P., 1994.
+Technology diffusion and public policy.
+The Economic Journal, 104 (425): 918 -930.
+Suvilehto, H. -M., Överholm, E., 1998.
+Swedish Procurment and Marcet Activities - Different Design Solutions on Different Markets.
+ACEEE Summer Study on energy efficiency in buildings: .
+Taylor, M.R., Rubin, E.S., Hounshell, D.A., 2005.
+Regulation as the Mother of Innovation: The Case of SO2 Control.
+Law & Policy, 27 (2): 348 –378.
+Constructing productive engagement: pre -engagement tools for eme rging technologies.
+Science and Engineering Ethics, 17 (4): 699 -714.
+The economics of labeling: An overview of is sues for health and environmental disclosure.
+Agricultural and Resource Economics Review, 27: 140 -150.
+Tiwari, R., Herstatt, C., 2011.
+Lead M arket Factors for Global Innovation: Emerging Evidence from India.
+Hamburg University of Technology: Hamburg.
+The Determi nants and Effects of Environmental Product Innovations -An Analysis on the Basis of Case Studies.
+Centre for European Economic Research (ZEW): Mannheim.
+The Process of Technological Innovation Within the Firm.
+Academy of management Journal, 14 (1): 75 -88.
+Uyar ra, E., 2013. Review of measures in support of public procurement of innovation.
+A study of four subsidy schemes for environmental technologies.
+Differential Impact of Environmental Policy Instruments on Technological Change: A Review of the Empirical Literature.
+Erasmus University Rotterdam, and Tinbergen Institute, Rotterdam: Von Hippel, E., 1976.
+The dominant role of users in the scientific instrument innovation process.
+Research Policy, 5 (3): 212 –239.
+Effects of Policy to Support Private Demand Edler 40 Manchester Institute of Innovation Research Von Hippel, E., 1986.
+Lead users: a source of novel product concepts.
+Management science , 32 (7): 791 -805.
+Energy tax credits and housing improvement.
+Energy Economics, 11 (4): 275 – 284.
+Walz, R., Schleich, J., Ragwitz, M., 2011.
+Regulation, Innovation and Wind Power Technologies – An empirical analysis for OECD countries.
+DIME Final Conference, Maastricht, Apr 6 2011 12:00AM.
+Wengel, J., Lay, G., Dreher, C., 1995.
+Evaluation of the indirect -specific promotion of manufacturing technology.
+Economics of Science, Technology and Innovation, 4: 81 -99.
+Demand -side innovation policies at regional level.
+A Discussion and Critique of Market transformation.
+Prepared for ENERGY CENTER OF WIS CONSIN: Wisconsin.

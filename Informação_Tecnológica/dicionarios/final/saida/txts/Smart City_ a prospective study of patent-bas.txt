@@ -1,0 +1,167 @@
+DOI: 171Smart City : um estudo prospectivo da tecnologia com base nas patentes Smart City: a prospective study of patent-based technology Vanessa de Souza Silva1 Luiz Flávio Felizardo2 Ana Cláudia Dutra1 1Universidade Federal de São João Del-Rei, São João Del-Rei, MG, Brasil 2Universidade Federal de Lavras, Lavras, MG, Brasil Resumo Uma cidade inteligente é uma área geográfica bem definida, na qual tecnologias cooperam para criar benefícios para os cidadãos, dessa forma, a proteção dessas tecnologias por meio das patentes tem grande relevância.
+Nesse contexto, esta pesquisa tem como objetivo realizar o levantamento das patentes na área de Smart Cities no mundo, para isso, foi utilizada a base de dados Espacent.
+A prospecção apontou dados dos principais países solicitantes e os códigos de classificação internacional que mais definem as patentes solicitadas.
+Na busca, foram encontrados 412 resultados para patentes publicadas sobre o referido assunto, a maioria nas seções de física e eletricidade.
+Desde a patente precursora publicada em 2010, houve um aumento quase que exponencial de propriedades intelectuais, das quais a China é o país dominante no que diz respeito a patentes que envolvem essa temática, fato que possivelmente pode ser corroborado devido ao grande investimento do país em inovações tecnológicas.
+Abstract A smart city is a well-defined geographical area where technologies cooperate to create benefits for citizens, this way patent protection of these technologies is of great relevance.
+Within this context this research aims to carry out an analysis of patents in the area of Smart Cities around the world, to reach this goal the Espacent database was used.
+The prospection was around the data from the main applicant countries and the international classification codes that most define the patents applied.
+The research found 412 results for published patents on the subject, most in the sections of physics and electricity.
+Since the precursor patent published in 2010 there has been an exponential increase in intellectual property publications, with China being the most dominant country for patents involving this subject, a fact that can possibly be corroborated due to the great investment of the country in technological innovations.
+Área Tecnológica: Propriedade Tecnológica.
+Artigo recebido em: 1º/08/2019 Revisado em: 18/09/2019 Aprovado em: 04/11/2019Direito autoral e licença de uso: Este artigo está licenciado sob uma Licença Creative &RPPRQV&RPHVVDOLFHQoDYRFrSRGHFRPSDUWLOKDUDGDSWDUSDUD TXDOTXHU¿PGHVGHTXH atribua a autoria da obra, forneça um link para a licença, e indicar se foram feitas alterações.172Cadernos de Prospecção – Salvador, v. 13, n. 1, p. 171-183, março, 2020Vanessa de Souza Silva, Luiz Flávio Felizardo, Ana Cláudia Dutra 1 Introdução Segundo a ONU, mais da metade da população mundial vive nas cidades e a estimativa é que esse número crescerá para 70% em uma previsão para 2050 (UN-HABITAT, 2010).
+À medida que mais cidadãos se deslocam para áreas urbanas, os atores das Tecnologias de Informação e Comunicação (TIC) se tornam cada vez mais interessados em oferecer e utilizar serviços adap-tados à vida no ambiente urbano (WALRAVENS, 2015).
+Nesse contexto, o conceito de Smart Cities tornou-se fundamental para unir a pesquisa, os projetos e as iniciativas que exploram o papel da tecnologia na intenção de melhorar a qualidade vida urbana.
+Nos anos 1990, o tema Tecnologias de Informação e Comunicação (TIC) apontava o termo cidade digital fazendo referência à evolução do espaço urbano; nos dias atuais, o termo evoluiu e passou a ser denominado Cidades Inteligentes, do inglês Smart Cities (ALBINO; BERARDI; DANGELICO, 2015).
+(2019), cidade inteligente pode ser definida como o uso de tecnologias de informação e comunicação para detectar, analisar e integrar informa-ções-chave das principais cidades em funcionamento, sendo que o foco dessas cidades para os próximos séculos deve ser a promoção e a aplicação da inovação tecnológica, tornando-se um fator-chave para resolver os desafios emergentes.
+Uma cidade inteligente é uma área geográfica bem definida, na qual tecnologias de ponta cooperam para criar benefícios para os cidadãos em termos de bem-estar, inclusão e partici-pação, meio ambiente, qualidade, desenvolvimento inteligente; é governado por um conjunto bem definido de sujeitos, capazes de declarar as regras e política para o governo da cidade e desenvolvimento (DAMERI, 2013).
+Albino, Berardi e Dangelico (2015) ressaltam que o cenário atual exige que as cidades encontrem maneiras de gerenciar novos desafios.
+Cidades em todo o mundo começaram a pro-curar soluções que permitam ligações de transporte, usos mistos da terra e serviços urbanos de alta qualidade com efeitos positivos a longo prazo na economia.
+Muitas das novas abordagens relacionadas aos serviços urbanos têm se baseado no aproveitamento de tecnologias, inclusive as TICs, ajudando a criar e a desenvolver as cidades inteligentes.
+(2015), o modelo usual de cidade, como aglomerado de pessoas e coisas, evoluiu em termos humanos e de inteligência tecnológica.
+Atores como cidadãos, empre-sas, governo e outros stakeholders se relacionam digitalmente buscando convergir em interesses comuns dentro das cidades.
+A plataforma que viabiliza essas relações são as Tecnologias da Informação e da Comunicação (TICs) que habilita maiores níveis de inteligência por meio da interconexão.
+Essa é a realidade das Cidades Inteligentes ou Smart Cities .
+As inovações tecnológicas voltadas às Smart Cities abrangem a geração de novas tecnologias, nesse contexto, a proteção dessas tecnologias por meio das patentes tem grande relevância, visto que o sistema patentário apresenta grande importância no mundo globalizado (TUMELERO et al., 2015).
+Segundo Santos (2018), as patentes constituem títulos de propriedade temporária outorgado pelo Estado aos inventores/titulares em relação à sua invenção.
+Elas representam formas de proteção da propriedade intelectual e têm como objetivo incentivar o desenvolvimento eco-nômico e tecnológico, recompensando a criatividade do inventor e/ou investimento do titular.173Cadernos de Prospecção – Salvador, v. 13, n. 1, p. 171-183, março, 2020Smart City : um estudo prospectivo da tecnologia com base nas patentes A classificação de patentes é um sistema de classificação de invenções e seus documentos em campos técnicos que cobrem todas as áreas da tecnologia.
+Todo documento de patente, independentemente de se tratar de uma aplicação ou de uma patente concedida, recebe um símbolo de classificação indicando sua alocação a uma área específica da tecnologia.
+Esse sistema de classificação permite uma maior facilidade no arquivamento e em uma possível recuperação de documentos de patentes.
+Introduzida em 1968, a Classificação Internacional de Patentes, ou International Patent Classification (IPC), é usada por todos os escritórios de patentes no mundo, alguns dos quais também usam um sistema de classificação nacional (ESPACENET, 2019).
+(2016), a IPC classifica todos os pedidos de patente já publicados conforme a sua área tecnológica.
+Tais classificações são divididas entre seções de A a H. Den-tro de cada seção, há também subclasses, grupos principais e outros grupos, estruturados por meio de um sistema hierárquico.
+Esse sistema de hierarquia divide as tecnologias em cerca de 70.000 subáreas.
+Na IPC, as tecnologias são divididas em oito seções principais, cada uma é precedida por uma letra maiúscula, sendo elas: A. Necessidades humanas; B. Operações de processamento; Transportes; C. Química; Metalurgia; D. Têxteis; Papel; E. Construções fixas; F .
+Engenharia mecânica; Iluminação; Aquecimento; Armas, Explosão; G. Física; e H. Eletricidade.
+A busca de dados de uma patente pode ser usada para mapear a evolução de determinado produto tecnológico, sendo, portanto, uma importante ferramenta nas atividades de prospecção tecnológica.
+O número de concessões de patentes e de registros é um importante indicador para a medição da inovação e do desenvolvimento de um país e respectivo aumento de competiti-vidade no mercado global (FERREIRA; GUIMARÃES; CONTADOR, 2009).
+Os dados de registros de patentes podem ser acessados em várias bases de dados, uma delas é Espacenet – Escritório Europeu de Patentes (EPO), que permite a acesso gratuito à in-formações sobre invenções e desenvolvimentos técnicos.
+Ele contém dados sobre mais de 110 milhões de documentos de patentes de todo o mundo.
+A prospecção tecnológica a partir de informações contidas em documentos de patente pode envolver um elevado número de dados.
+No entanto, os dados na forma bruta, em geral, são pouco úteis, o que leva a necessidade de utilização de técnicas específicas para adquirir as informações que interessam em cada contexto.
+Para isso, existem diversas ferramentas que permitem a extração de informações patentárias que basicamente podem ser divididas em fer-ramentas que exigem a criação prévia de um banco de dados para realizar o tratamento e obter as informações desejadas, e as que extraem as informações diretamente das bases de dados e realizam as análises.
+A escolha da ferramenta depende do objetivo da prospecção tecnológica, da área e do tema pesquisado (RIBEIRO, 2019).
+Ribeiro (2019) complementa que existem ferramentas gratuitas e outras que exigem pagamento para utilização.
+A Figura 1 apresenta alguns exemplos de ferramentas, separadas por determinadas características e por funções.174Cadernos de Prospecção – Salvador, v. 13, n. 1, p. 171-183, março, 2020Vanessa de Souza Silva, Luiz Flávio Felizardo, Ana Cláudia Dutra Figura 1 – Exemplos de ferramentas para extração e tratamento de informações sobre patentes Fonte: Ribeiro (2019) O conceito e a tecnologia das Smart Cities é um tema emergente de estudo, trabalhos anteriores já abordaram o referido assunto em suas pesquisas, no entanto, foram utilizadas outras ferramentas e bases de dados para realizar a prospecção.
+(2015) identificaram e analisaram registros de patentes e a maturidade das rotas tecnológicas em Smart Cities , utilizando a ferramenta Patent Inspiration®.
+(2017) identificaram os conceitos relacionados ao tema e por meio do Patent2Net verificou a produção de patentes de cidades inteligentes entre os anos de 2010 a 2016.
+Nesse contexto, esta pesquisa tem como objetivo principal realizar o levantamento das patentes na área de Smart Cities no mundo.
+No que se refere aos objetivos específicos, o trabalho pretente analisar esses pedidos ao longo dos anos, além de verificar os principais países solicitantes e os códigos de classificação internacional de patentes que mais definem as carac-terísticas das patentes solicitadas.
+Além do tópico de resumo e desta introdução, o trabalho ainda se divide em três tópicos principais, são eles: 1) fundamentos da metodologia utilizada no trabalho; 2) Resultados e discussão, em que são apresentados e analisados os dados das buscas realizadas na base de dados selecionada; e 3) a conclusão do texto, que inclui, por exemplo, possibilidade de traba-lhos futuros na área.
+2 Metodologia O presente trabalho utilizou-se de pesquisa quantitativa e descritiva com objetivo de efetuar um levantamento dos pedidos de patentes realizados no mundo na área de Smart Cities .
+Para o levantamento bibliográfico, optou-se por buscas em manuais, livros e artigos disponíveis em periódicos nacionais e internacionais, que permitiram um melhor embasamento e fundamen-tação sobre o assunto.175Cadernos de Prospecção – Salvador, v. 13, n. 1, p. 171-183, março, 2020Smart City : um estudo prospectivo da tecnologia com base nas patentes Para a realização da prospecção tecnológica sobre o tema em questão, foi utilizada a base de dados Espacenet.
+O site da referida base contém dados sobre mais de 110 milhões de documentos de todo o mundo e permite o acesso gratuito a informações sobre invenções e desenvolvimentos técnicos.
+A estratégia de busca utilizada foi a inserção das palavras-chave "smart cit*" no campo título encontrado na opção de pesquisa avançada da referida base de dados.
+As aspas incluídas na busca especificam ao sistema que as palavras devem estar na sequência informada e sem nenhuma informação entre elas, isso explicita que se pretende encontrar informações sobre cidades inteligentes e não patentes que possam ter coincidentemente as palavras smart e city em contextos diferentes.
+Por exemplo, sem as aspas o sistema consideraria a patente nomeada: Método de abastecimento de água quente de fermentação de resíduos orgânicos de cidade costeira e sistema suportado por rede elétrica inteligente, que apesar de apresentar os termos cidade e inteligente não se referem exatamente ao contexto de cidades inteligentes aqui estudado.
+De outro modo, o asterisco utilizado no final da palavra city substituiu o y para que o sistema pudesse buscar pela palavra tanto no singular quanto no plural, além de outras variações iniciadas em cit que pudessem existir.
+Assim, tanto patentes que contivessem em seus títulos as palavras smart city e também smart cities foram consideradas.
+Utilizando desses meios, foi possível delimitar as buscas para que fossem encontrados resultados mais objetivos referentes ao tema pesquisado.
+Outro ponto significativo a ser mencionado é a data de realização da busca.
+A pesquisa foi realizada no mês de junho de 2019, assim sendo, os dados do ano de 2019 não serão apre-sentados de forma completa.
+Após a realização das buscas, foi feita a extração dos dados do site para o formato .CSV , também conhecido como formato de Valores Separados por Virgula, do inglês Comma-separated values , que são arquivos de texto de formato regulamentado pelo RFC 4180, que faz uma ordenação de valores separando as colunas com vírgulas.
+Já o RFC representa uma solicitação de comentários, do inglês Request for Comment (RFC) , que é um documento formal resultado da redação de um comitê e de subsequente revisão pelas partes interessadas, o comitê men-cionado é representado pela Internet Engineering Task Force (IETF).
+Os dados obtidos referentes às patentes solicitadas na área de Smart Cities foram então analisados por meio da ferramenta MS Excel que comumente utiliza arquivos no formato CSV .
+A partir dos dados importados foram construídos gráficos e tabelas que levaram em consideração o ano de publicação das patentes, os países envolvidos, bem como a classificação dessas paten-tes, segundo Classificação Internacional de Patentes, ou International Patent Classification (IPC) .
+A IPC já foi utilizada em trabalhos como os dos autores Barreto e Menha (2018), Quintella, Rocha e Da Mata Quintella (2017) e Pereira et al.
+A referida classificação apresenta sistema de símbolos independentes de idiomas, assim ela organiza as patentes e modelos de utilidade de acordo com as diferentes áreas de tecnologia a que pertencem (WIPO, 2019).176Cadernos de Prospecção – Salvador, v. 13, n. 1, p. 171-183, março, 2020Vanessa de Souza Silva, Luiz Flávio Felizardo, Ana Cláudia Dutra 3 Resultados e Discussão Na busca realizada na base de dados Espacenet, utilizando as palavras-chave "smart cit*", conforme explicado na metodologia deste trabalho, foram encontrados 412 resultados para patentes publicadas sobre o referido assunto.
+No que se refere à evolução temporal, de acordo com o Espacenet, verificou-se que a primeira publicação de patente realizada na área de Smart Cities foi em 2010 pelos Estados Unidos da América.
+Nos três anos iniciais, isto é, 2010, 2011 e 2012, o número de publicações foi bem discreto, totalizando apenas seis patentes.
+Entre 2013 e 2015, iniciou-se um processo de crescimento dessas patentes, e cada um dos anos teve, respectivamente, 13, 16 e 31 publi-cações.
+Esse número aumentou consideravelmente a partir de 2016, um desdobramento que forma praticamente uma curva exponencial nos dados.
+Em 2016, mais de 70 publicações fo-ram registradas, seguido de um número de 102 patentes em 2017 e de 144 em 2018, o maior número registrado por ano até o momento desta pesquisa.
+Apesar de a pesquisa ter sido reali-zada no decorrer de 2019, o ano corrente já apresentou 29 resultados de patentes publicadas e fica a ressalva de que esse quantitativo pode aumentar com o passar dos dias.
+As referidas informações podem ser mais facilmente visualizadas no Gráfico 1.
+Gráfico 1 – Número de patentes publicadas por ano Fonte: Elaborado pelos autores deste artigo com base nos dados do Espacenet (2019) Com relação à Classificação Internacional de Patentes (IPC), é importante ressaltar que essa relação apresenta as classificações divididas em oito seções que são representadas pelas letras maiúsculas A, B, C, D, E, F , G e H. Dentro de cada classe, existem também subclasses, grupos principais e outros grupos, que são representados por meio de um sistema hierárquico.
+A Tabela 1 apresenta o quantitativo dos pedidos de patentes, referentes a Smart Cities , quanto à Classificação Internacional de Patentes (IPC), a descrição do que cada letra representa em termos aplicáveis e a porcentagem com que cada seção aparece no resultado das buscas.
+Já o Gráfico 2 exibe no formato de um gráfico de setores a porcentagem de pedidos de patentes 177Cadernos de Prospecção – Salvador, v. 13, n. 1, p. 171-183, março, 2020Smart City : um estudo prospectivo da tecnologia com base nas patentes por classificação IPC.
+É importante observar que o número total de seções obtido foi 530, ou seja, maior do que as 412 patentes aqui analisadas.
+Isso acontece porque uma patente pode ser registrada em várias classes do IPC, o que foi o caso de diversas patentes publicadas.
+Tabela 1 – Quantitativo de patentes quanto à Classificação Internacional de Patentes (IPC) IPC Q TD.% D ESCRIÇÃO A 4 0,8% Necessidades Humanas B 26 4,9% Operações de Processamento; Transportes C 6 1,1% Química; Metalurgia D 0 0% Têxteis; Papel E 22 4,2% Construções Fixas F 27 5,1% Engenharia Mecânica; Iluminação; Aquecimento; Armas; Explosão G 282 53,2% Física H 163 30,8% Eletricidade Total 530 100%Fonte: Elaborada pelos autores deste artigo com base nos dados do Espacenet (2019) Gráfico 2 – Porcentagem de pedidos de patentes por classificação IPC Fonte: Elaborado pelos autores deste artigo com base nos dados do Espacenet (2019) Com essas informações, é possível constatar que mais da metade, 53,2%, foi classificada na seção "G" que se refere à área de Física.
+Outra classe que também apresentou um número expressivo de patentes foi a seção "H", ou seja, a seção de eletricidade com 30,8% das patentes envolvidas nesse domínio.
+Para melhor explicar e exemplificar quais as aplicações relacionadas ao conceito de smart city foram publicadas no decorrer dos anos, é necessário aprofundar em mais detalhes as seções que tiveram maior representatividade.
+178Cadernos de Prospecção – Salvador, v. 13, n. 1, p. 171-183, março, 2020Vanessa de Souza Silva, Luiz Flávio Felizardo, Ana Cláudia Dutra Para a seção G, descrita pelo campo da Física, o IPC faz uma divisão em 15 subclasses, conforme descrito pelo INPI (2019): a) G01 – Medição; Teste.
+c) G03 – Fotografia; Cinematografia; Técnicas semelhantes utilizando ondas outras que não ondas ópticas; Eletrografia; Holografia.
+f) G06 – Cômputo; Cálculo; Contagem.
+g) G07 – Dispositivos de Teste.
+i) G09 – Educação, Criptografia; Apresentação Visual; Anúncios; Logotipos.
+j) G10 – Instrumentos Musicais; Acústica.
+k) G11 – Armazenamento de Informações.
+l) G12 – Detalhes de Instrumentos.
+m) G16 – Tecnologia de Informação e Comunicação (TIC) especial adaptada para campos de aplicação Específicos n) G21 – Física Nuclear; Engenharia Nuclear.
+o) G99 – Matéria não incluída em outro local desta seção.
+Desta seção foi possível verificar que os resultados mais frequentes se encontram nas subclasses G06 – Cômputo; Cálculo; Contagem e G08 – Sinalização com 59,4% e 22,3% de representatividade respectivamente.
+A subclasse G06 abrange elementos como simuladores os quais se referem aos métodos de computar condições existentes ou previstas em um sistema ou dispositivo real, simuladores que demonstram, por meios que incluem o cômputo, o funcionamento de aparelhos ou de um sistema e processamento de dados de imagem ou geração.
+Para a subclasse G08, o IPC men-ciona que esta abrange sistema de sinalização ou chamada, ordenação telegráfica, sistemas de alarme e/ou imobilização de ladrões, sistemas de transmissão para valores medidos, sinais de controle ou similares e sistemas de controle de tráfego.
+As subclasses G01 – Medição; Teste, G05 – Controle; Regulagem, G07 – Dispositivos de Teste, e G09 – Educação, Criptografia; Apresentação Visual; Anúncios; e Logotipos, também apareceram nas buscas com considerável regularidade, sendo 5,7%, 4,1%, 4,4% e 3,3%, respec-tivamente.
+O Gráfico 3 apresenta esses dados de forma a facilitar o entendimento do leitor.
+Para melhor visualização das informações e por possuírem pouca ou nenhuma representatividade, foram suprimidos do gráfico as informações das subclasses G02 (0%), G03 (0,2%), G04 (0%), G10 (0,2%), G11 (0,2%), G12 (0%), G16 (0%), G21 (0%), G99 (0%).
+179Cadernos de Prospecção – Salvador, v. 13, n. 1, p. 171-183, março, 2020Smart City : um estudo prospectivo da tecnologia com base nas patentes Gráfico 3 – Porcentagem de pedidos de patentes por subclasse da seção de Física (G) Fonte: Elaborado pelos autores deste artigo com base nos dados do Espacenet (2019) Segundo INPI (2019), a seção de Eletricidade, seção H também abrange diversas subclasses, e são elas: a) H01 – os elementos elétricos básicos, os quais abrangem todas as aparelhagens elétricas unitárias de aplicação geral e a estrutura mecânica de aparelhos e circuitos, inclusive o conjunto de vários elementos básicos que formam os chamados circuitos impressos e abrangem, também, até certo ponto, a manufatura desses elementos, desde que não esteja incluída em outro local.
+b) H02 – a geração de eletricidade, a qual abrange a geração, a conversão e a distribuição de eletricidade juntamente com o controle da aparelhagem correspondente.
+c) H03 – circuitos eletrônicos básicos e seu controle.
+d) H04 – a técnica de comunicações elétrica ou por rádio.
+e) H05 – a eletricidade aplicada, a qual abrange: a) técnicas gerais de uso, a saber, as técnicas de aquecimento elétrico e de circuitos de iluminação elétrica; b) algumas técnicas especiais de uso, quer elétricas, quer eletrônicas, no sentido rigoroso dessas expressões, as quais não são abrangidas por outras seções da classificação.
+f) H99 – abrange matéria que não é incluída, mas é proximamente relacionada, as matérias abrangidas pelas subclasses desta seção, e não é explicitamente abrangida pelas subclasses de outra seção.
+De todas as subclasses mencionadas da seção de eletricidade, apenas as subclasses H03 – Circuitos Eletrônicos Básicos e H99 – 'Matéria não incluída em outro local desta seção' não aparecem nas buscas.
+Em contrapartida, o destaque desta seção fica com a subclasse H04 – Técnica de Comunicação Elétrica, que possui a maioria absoluta de patentes, 84,8%, conforme pode ser observado no Gráfico 4.
+180Cadernos de Prospecção – Salvador, v. 13, n. 1, p. 171-183, março, 2020Vanessa de Souza Silva, Luiz Flávio Felizardo, Ana Cláudia Dutra Gráfico 4 – Porcentagem de pedidos de patentes por subclasse da seção de Eletricidade (H) Fonte: Elaborado pelos autores deste artigo com base nos dados do Espacenet (2019) Na análise de geolocalização dos países com patentes publicadas sobre Smart City , destaca-se a China, o país publicou 370 patentes de um total de 412, quantidade que equivale a aproximadamente 90% do total de publicações .
+Os outros países que aparecem na lista dividindo os 10% restante de patentes são: a Grã-Bretanha com duas patentes, a Índia com uma, a Coreia do Sul com seis, Singapura com duas, Taiwan com uma e os Estados Unidos com 15.
+Empatadas com os norte-americanos está também as patentes do WIPO (The World Intellectual Property Organization) ou, em português, Organização Mundial da Propriedade Intelectual que é uma agência de autofinanciamento das Nações Unidas e serve como um fórum global para serviços, políticas, informações e cooperação em propriedade intelectual (WIPO, 2019).
+As informações quanto à quantidade de patentes publicadas por países podem ser visualizadas com mais clareza por meio do Gráfico 5.
+Continuamente, a Tabela 2, apresenta o número de patentes publicadas de forma separada por país e por ano, assim, o leitor pode visualizar os dados de forma a verificar a evolução de cada nação individualmente.
+Gráfico 5 – Número de patentes publicadas por país Fonte: Elaborado pelos autores deste artigo com base nos dados do Espacenet (2019)181Cadernos de Prospecção – Salvador, v. 13, n. 1, p. 171-183, março, 2020Smart City : um estudo prospectivo da tecnologia com base nas patentes Tabela 2 – Número de publicações de patentes por ano e por país A NO PAÍS2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 China - 1 2 13 16 31 71 87 130 19 Grã-Bretanha - - - - - - - - 2Índia - - - - - - - - - 1 Coreia do Sul - 1 - - - - - 1 2 2 Singapura - - - - - - - 1 1Taiwan - - - - - - - - 1E U A 1-1----3 4 6 W I P O ------- 1 0 4 1 Fonte: Elaborada pelos autores deste artigo com base nos dados do Espacenet (2019) Segundo o Índice Global de Inovação (OMPI, 2018), a China vem se classificando entre os países que mais inovam no mundo, sendo essas inovações em diversas áreas.
+Além disso, a China ocupa atualmente as primeiras posições no mundo em áreas como gastos em P&D, número de pesquisadores, patentes e publicações.
+Tudo isso corrobora para que o país asiático tenha números tão expressivos de patentes na área de smart cities e também em outras.
+4 Considerações Finais A quantidade de patentes é um importante indicador do nível de conhecimento de cada país, de investimentos em inovação, entre outros.
+Em se tratando de Smart Cities , foi fundamental realizar uma prospecção tecnológica sobre essa área, a fim de verificar quais as principais seções e subclasses estão sendo mais visadas, quais países estão avançando mais nas invenções sobre o tema e como tem evoluído a publicação de patentes sobre cidades inteligentes durante os últimos anos.
+As estratégias metodológicas utilizadas mostraram-se eficazes para a prospecção tecnológica em questão, uma vez que estas permitiram um amplo acesso aos documentos referentes às invenções pesquisadas e permitiram uma eficiente análise dos resultados.
+Desde a patente precursora publicada pelos Estados Unidos em 2010, houve um aumento quase que exponencial de propriedades intelectuais divulgado no sistema Espacenet, o que culminou em 144 publicações realizadas sobre o tema em 2018, maior número registrado de todos os tempos.
+Em se tratando de superlativos, é possível também concluir que a China é absolutamente dominante em relação a outros territórios no que diz respeito a patentes que envolvem Smart Cities , fato que possivelmente pode ser corroborado devido ao grande investimento do país em inovações tecnológicas.
+O crescimento do número de patentes na área de Smart Cities pode fornecer vantagens competitivas aos seus detentores, uma vez que tais tecnologias podem gerar retorno econômico.
+Ademais, os produtos provenientes das tecnologias patenteadas podem trazer benefícios à so-ciedade em termos de melhor qualidade de vida, segurança, melhoria nos transportes, serviços públicos mais eficientes, aprimoramento na infraestrutura, entre outros.
+182Cadernos de Prospecção – Salvador, v. 13, n. 1, p. 171-183, março, 2020Vanessa de Souza Silva, Luiz Flávio Felizardo, Ana Cláudia Dutra Sobre a conclusão quanto à Classificação Internacional de Patentes (IPC), a análise demonstra que as seções de Física e Eletricidade são as que apresentam resultados mais expressivos de patentes na área de Smart Cities .
+Com destaque para as subclasses de 'Cômputo, cálculo e contagem', 'Sinalização', que estão dentro da seção de Física e 'técnicas de comunicações elétricas ou por rádio', dentro da seção de Eletricidade.
+Como trabalhos futuros, é possível recomendar pesquisas similares que se utilizem de outras bases de dados, trabalhos bibliométricos sobre a temática de Smart Cities , comparações entre bibliometrias e a busca de patentes ou até mesmo o aprofundamento na averiguação das classificações das patentes para uma prospeção mais completa sobre essa área tecnológica.
+Referências ALBINO, Vito; BERARDI, Umberto; DANGELICO, Rosa Maria.
+Smart cities: Definitions, dimensions, performance, and initiatives.
+Journal of urban technology , [S.l.
+BARRETO, Leandro de Oliveira; MENHA, Rafael Câmara.
+Prospecção Tecnológica: um estudo exploratório sobre o depósito de patentes de drones para captação e transmissão de imagens aéreas.
+Searching for smart city definition: a comprehensive proposal.
+International Journal of computers & technology , [S.l.
+], v. 11, n. 5, p. 2.544-2.551, 2013.
+Disponível em Acesso em: 24 jul.
+FERREIRA, Ademir Antônio; GUIMARÃES, Edílson Rodrigues; CONTADOR, José Celso.
+Patente como instrumento competitivo e como fonte de informação tecnológica.
+], v. 16, n. 2, p. 209-221, 2009.
+Tutorial de Busca nos Principais Bancos de Patentes.
+Brasília: Centro de Apoio ao Desenvolvimento Tecnológico, UNB, 2016.
+INPI – INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL.
+Disponível em: http:// www.inpi.gov.br/menu-servicos/patente/classificacao-de-patentes.
+KOBAYASHI, Andrea Regina Kaneko et al.
+Smart sustainable cities: bibliometric study and patent information.
+International Journal of Innovation , [S.l.
+OMPI – ORGANIZAÇÃO MUNDIAL DA PROPRIEDADE INTELECTUAL.
+Índice Global de Inovação de 2018 : Energizando o Mundo com Inovação.
+Ithaca, Fontainebleau e Genebra, 2018.
+PEREIRA, Beneildo Rodrigues Oliveira et al.
+Smart Bakery: Estudo Prospectivo sobre Internet das Coisas (IoT) Aplicadas ao Setor de Panificação.
+Cadernos de Prospecção , Salvador, v. 12, n. 1, p. 92, 2019.
+QUINTELLA, Cristina M.; ROCHA, Paula Jamile; DA MATA QUINTELLA, Vitor.
+Veículos Híbridos: Avaliação de Maturidade Tecnológica TRL 4 a 7 Através de Mapeamento Patentário.
+Cadernos de Prospecção , Salvador, v. 10, n. 3, p. 600, 2017.
+Disponível em: Acesso em: 28 jun.
+2019.183Cadernos de Prospecção – Salvador, v. 13, n. 1, p. 171-183, março, 2020Smart City : um estudo prospectivo da tecnologia com base nas patentes SANTOS, Wagna Piler Carvalho dos (org.).
+Disponível em: Acesso em: 28 jun.
+O uso de tecnologias como estratégia na construção de cidades mais inteligentes e sustentáveis.
+Rotas Tecnológicas em Smart Cities: Uma Análise de Invenções Portadoras de Futuro.
+XVI Congresso Latino-Iberoamericano de Gestão e Tecnologia , [S.l.
+State of the world's cities 2010/2011 : bridging the urban divide.
+Mobile city applications for Brussels citizens: Smart City trends, challenges and a reality check.
+Telematics and Informatics , [S.l.
+], v. 32, n. 2, p. 282-299, 2015.
+WIPO – WORLD INTELLECTUAL PROPERTY ORGANIZATION.
+Disponível em: Acesso em: 29 jun.
+Sobre os Autores Vanessa de Souza Silva E-mail : vanessaecd@gmail.com Discente do Mestrado Profissional em Propriedade Intelectual e Transferência de Tecnologia para a Inovação – PROFNIT – Universidade Federal de São João Del-Rei.Endereço profissional: Praça Frei Orlando, n. 170, Centro, São João Del-Rei, MG. CEP: 36307-352.
+Luiz Flávio Felizardo E-mail : lfvarginha@gmail.com Doutorando em Administração pela Universidade Federal de Lavras.Endereço profissional: Praça Frei Orlando, n. 170, Centro, São João Del-Rei, MG. CEP: 36307-352.
+Ana Cláudia Dutra E-mail : anaclaudiadu@gmail.com Discente do Mestrado Profissional em Propriedade Intelectual e Transferência de Tecnologia para a Inovação – PROFNIT – Universidade Federal de São João Del-Rei.Endereço profissional: Praça Frei Orlando, n. 170, Centro, São João Del-Rei, MG. CEP: 36307-352.

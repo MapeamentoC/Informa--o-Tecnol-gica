@@ -1,0 +1,276 @@
+DOI: 1158Cadernos de Prospecção – Salvador, v. 15, n. 4, outubro a dezembro, 2022, p. 1158-1176.
+Mapeamento Patentário de Utilização de Resíduos do Café no Brasil, na América Latina e no Mundo Patent Mapping of Coffee Residues Utilization in Brazil, Latin America and the World Rosângela Aparecida da Silva Franchi1 Bárbara Manhães Resende da Silva2 T atielli Gonçalves Gregório Barbosa3 1Universidade Federal de Alfenas, Alfenas, MG, Brasil 2Universidade Estadual do Rio de Janeiro, Rio de Janeiro, RJ, Brasil 3Instituto Nacional da Propriedade Industrial, Rio de Janeiro, RJ, Brasil Resumo O Brasil é o maior produtor mundial de café e produz enorme quantidade de resíduos que impactam o meio ambiente, mas que podem ser utilizados de forma sustentável.
+Por outro lado, EUA e Alemanha são os maiores importadores da bebida e, também, geram resíduos significativos.
+O estudo consiste em pesquisar e em apontar, por meio de informações tecnológicas extraídas dos documentos de patentes da base de dados do Instituto Nacional da Propriedade Industrial (INPI) e das ferramentas de busca Latipat-Espacenet e Derwent Innovations Index, algumas possibilidades para utilização dos resíduos de café.
+É uma pesquisa exploratória, quanto aos objetivos, com uma abordagem qualitativa e quantitativa, utilizando os procedimentos de pesquisa bibliográfica e documental.
+O estudo conclui que é possível transferir os dados constantes nos documentos de patentes, especialmente para identificar inovações tecnológicas e apontar a subutilização no Brasil dos resíduos de café com a possibilidade de gerar novos produtos com alto valor agregado.
+Abstract Brazil is the largest coffee producer in the world and produces a huge amount of waste that impacts the environment but that can be used sustainably.
+On the other hand, the USA and Germany are the biggest importers of the drink and also generate significant residues.
+The study consists of researching and pointing out, through technological information extracted from patent documents in the database of Brazil's National Institute of Industrial Property (INPI) and the search tools Latipat-Espacenet and Derwent Innovations Index, some possibilities for using coffee residues.
+It is an exploratory research in terms of objectives, with a qualitative and quantitative approach, using bibliographic and documentary research procedures.
+The study concludes that it is possible to transfer the data contained in patent documents, especially to identify technological innovations and point out the underutilization that Brazil gives to coffee residues with the possibility of generating new products with high added value.
+Área Tecnológica: Prospecções Tecnológicas de Assuntos Específicos.
+Recebido: 21/07/2022 Aceito: 08/08/2022 Direito autoral e licença de uso: Este artigo está licenciado sob uma Licença Creative Commons.
+Com essa licença você pode compartilhar, adaptar, para qualquer im, desde que atribua a autoria da obra, forneça um link para a licença, e indicar se foram feitas alterações.1159Cadernos de Prospecção – Salvador, v. 15, n. 4, outubro a dezembro, 2022, p. 1158-1176.Mapeamento Patentário de Utilização de Resíduos do Café no Brasil, na América Latina e no Mundo 1 Introdução O café é uma das cinco bebidas mais consumidas no mundo, só perdendo para o chá, água engarrafada, carbonatados e cerveja, conforme relatório da empresa de pesquisa de mercado Euromonitor International (EUROMONITOR INTERNATIONAL LTD, 2018).
+Segundo a Organização Internacional do Café (OIC, 2021b), a produção total dos países exportadores no ano cafeeiro 2020-2021, em nível mundial, a produção total de café foi de 175.347 milhões de sacas de 60 kg.
+O crescimento da demanda por café no mundo fez com que o valor das exportações anuais de café (verde, torrado, solúvel) mais que quadruplicasse nos últimos 30 anos.
+O Relatório sobre o Desenvolvimento do Café no mundo, realizado pela OIC (2021c), declara que o consumo global de café foi de 166.346 milhões em sacas de 60kg, aumento de 1%.
+Os dois principais tipos de café negociados internacionalmente são o Arábica, totalizando 105.262 milhões em sacas de 60kg, e o Robusta, 70.086 milhões em sacas de 60kg, conforme Relatório sobre Produção-Ano-Safra da OIC (2021b).
+As formas de café incluem café em cereja seca, em pergaminho, verde, torrado, moído, descafeinado, líquido e solúvel (OIC, 2021a).
+O Brasil é o principal produtor mundial de café, seguido pelo Vietnã, Colômbia e Indonésia, conforme demonstra a Figura 1.
+Figura 1 – Dez maiores produtores de café na safra 2020/2021, em milhões de sacas de 60 kg Fonte: Conab (2020) Em 2020, segundo a série histórica do Instituto Brasileiro de Geografia e Estatística (IBGE, 2021), a produção de café arábica no Brasil foi recorde, sendo a maior produção colhida no país.
+A estimativa final para a safra de 2020 totalizou 254,1 milhões de toneladas, mais um recorde nacional, 5,2% superior à safra de 2019 (241,5 milhões de toneladas).
+A safra 2022 do Brasil para a commodities do café, segundo a Conab (2022), no segundo levantamento realizado em maio de 2022, estima a expectativa em obter um volume total de café beneficiado de 53.428,3 mil sacas, sinalizando variação de aumento de 12% em comparação ao resultado obtido na safra 2021, no total de 47.716,0 mil sacas.
+O café arábica continua sendo a maior produção 1160Cadernos de Prospecção – Salvador, v. 15, n. 4, outubro a dezembro, 2022, p. 1158-1176.
+Rosângela Aparecida da Silva Franchi, Bárbara Manhães Resende da Silva, Tatielli Gonçalves Gregório Barbosa no Brasil, com expectativa para a safra de 2022 no total de 35.711,9 mil sacas beneficiadas, uma variação de 13,6 em comparação a safra 2021, que obteve o total de 31.423,5 mil sacas beneficiadas, conforme relatório da Conab (2022).
+O café contribui efetivamente para o Produto Interno Bruto (PIB) nacional.
+Conforme dados divulgados pelo Ministério da Agricultura, Pecuária e Abastecimento (MAPA, 2022), por meio da Secretaria de Política Agrícola, o Valor Bruto da Produção Agropecuária (VBP) previsto para 2022 deverá alcançar R$ 1,227 trilhão, aumento de 2,4% em comparação com o ano de 2021, que chegou a R$ 1,199 trilhão.
+Um dos produtos com maior desempenho no VBP 2022 é o café (conilon e arábica), chegando à cifra de R$ 62.950,30, enquanto em 2021 o valor foi de R$ 45.652,40.
+Conforme relatório do Conselho dos Exportadores de Café do Brasil (CECAFÉ, 2022), no período de janeiro a abril de 2022, o Brasil exportou café para 115 países, as exportações de café do Brasil já acumularam em 2022 uma receita cambial de US$ 3.138.413.190,49.
+Segundo o Cecafé (2022), os cinco principais destinos do café exportado pelo Brasil, no período de janeiro a abril de 2022, foram a Alemanha com 2.542.305 de sacas de 60kg, seguido por EUA com 2.501.007 sacas, Bélgica com 1.418.816 sacas, Itália com 1.194.247 sacas e Japão com 641,751 sacas.
+O café gera inúmeros resíduos em todo o seu processo de produção: no cultivo, no processamento, no armazenamento, no transporte e na comercialização.
+Durante o processo de beneficiamento dos grãos de café, são produzidos grandes volumes de resíduos vegetais, principalmente a casca (palha melosa) e o pergaminho (palha voadeira) (VILELA et al., 2001 apud GRAÇA; CALDAS, 2017; OLIVEIRA et al., 2009 apud GRAÇA; CALDAS, 2017).
+Tais resíduos são fonte de contaminação ambiental caso não sejam tratados de forma adequada.
+Aproximadamente 45% do café beneficiado é descartado na forma de resíduo (casca e polpa) (FERRONI; TUJA, 1992 apud GRAÇA; CALDAS, 2017).
+Uma tonelada de café cru libera, em média, 480 kg de borra, assumindo-se as perdas na torrefação e eficiência na extração de 20% e 40%, respectivamente (DURÁN et al., 2017).
+(2017), são diversos os resíduos de café gerados durante o processamento pós-colheita demonstrado na Figura 2.
+Figura 2 – Resíduos de café gerados durante o processamento pós-colheita Fonte: Durán et al.
+(2017)1161Cadernos de Prospecção – Salvador, v. 15, n. 4, outubro a dezembro, 2022, p. 1158-1176.Mapeamento Patentário de Utilização de Resíduos do Café no Brasil, na América Latina e no Mundo A borra torna-se um resíduo equivalente a aproximadamente 50% do café torrado na indústria do café solúvel (DURÁN et al., 2017).
+Dessa forma, entre os resíduos produzidos na cultura cafeeira com maior quantidade, é possível citar a casca do café em seu beneficiamento e a borra, proveniente da indústria de café solúvel, estimando-se que 34 toneladas de borra de café são produzidas por dia (SILVA et al., 2020).
+Portanto, trata-se de um material relativamente abundante no Brasil, maior produtor de café mundial, e nos países importadores de café, EUA e Alemanha, o que aumenta a preocupação com os problemas ambientais tendo em vista ser uma das bebidas mais consumidas no mundo.
+Todos os resíduos gerados pela cafeicultura podem ser fonte de matéria-prima para a indústria de alimentos, farmacêutica e cosmética, além da utilização para geração de energia em caldeiras para secadores mecânicos e como fertilizantes, entre outras aplicações.
+A própria OIC (2021a) entende que é importante que a produção e o processamento do café levem em conta as necessidades do meio ambiente para garantir a sustentabilidade, além disso, existem alguns projetos pilotos implantados na África e na América Latina, mas atingindo pequenos grupos de cafeicultores.
+Sobre a questão da sustentabilidade, destaca-se que: Um dos objetivos do Acordo Internacional do Café de 2007 é incentivar os membros a desenvolver um setor cafeeiro sustentável em termos econômicos, sociais e ambientais.
+Esse objetivo é reforçado pelo Artigo 36, que faz referência aos princípios e objetivos do desenvolvimento sustentável da Agenda 21, adotada pela Conferência das Nações Unidas sobre Meio Ambiente e Desenvolvimento, e aos da Cúpula Mundial sobre Desenvolvimento Sustentável.
+(OIC, 2021a) Somado a isso, destaca-se que o Brasil, preocupado com as mudanças climáticas observadas em todo planeta e seus impactos, editou a Lei n. 12.187/2009, instituindo a Política Nacional sobre Mudança no Clima (PNMC).
+Atento a essa situação, o Instituto Nacional da Propriedade Industrial (INPI) criou em 2012 o Programa Piloto Patentes Verdes, com o intuito de estimular invenções que garantissem a promoção do uso adequado dos recursos naturais, a redução da poluição e o aproveitamento de resíduos, entre outras tecnologias que visem à proteção do meio ambiente.
+O programa piloto do INPI possibilitou a identificação de novas tecnologias sustentáveis que poderiam ser utilizadas pela sociedade em pouco tempo, tendo em vista que o programa estimula o licenciamento de tal tecnologia e incentiva a inovação ao acelerar o exame dos pedidos das chamadas "patentes verdes", ou seja, de patentes de tecnologias sustentáveis, entre elas, as tecnologias voltadas para o aproveitamento de resíduos da agricultura, como os resíduos da produção e do consumo do café, por exemplo (ME, 2015).
+Diante do sucesso do projeto piloto, o INPI, emitiu, em 6 de dezembro de 2016, a Resolução n. 175 que disciplina o exame prioritário de pedidos de Patentes Verdes.
+Com base nos dados que se tem até o momento, o programa tem alcançado bons resultados, tanto que a revista Exame (2021) apontou que apenas entre janeiro de 2020 e março de 2021 foram realizados 118 depósitos de patentes de exame prioritário com base no programa Patentes Verdes, desse total, 32 já possuem decisão, e 64% destas obtiveram a concessão em tempo médio de oito meses entre o requerimento e o final do processo, demonstrando grande rapidez e eficiência do programa.
+1162Cadernos de Prospecção – Salvador, v. 15, n. 4, outubro a dezembro, 2022, p. 1158-1176.
+Rosângela Aparecida da Silva Franchi, Bárbara Manhães Resende da Silva, Tatielli Gonçalves Gregório Barbosa É importante destacar que, no estudo realizado por Nunes Filho e Santos (2019) sobre tecnologias verdes e gerenciamento de resíduos, especificamente em relação ao programa Patentes Verdes do INPI, abarcando o período compreendido entre 1º/04/2012 e 11/04/2019, a partir da análise de 548 depósitos de patentes, foi identificado que a categoria de gerenciamento de resíduos foi a de maior destaque em número de solicitações, com 318 depósitos, ou seja, 58% do total dos depósitos.
+Ainda, o estudo relata que, dos 318 depósitos de patentes em gerenciamento de resíduos, foram deferidos 156 pedidos de patentes, total de 49,1%.
+Essa análise foi extraída da base de dados do INPI no mês de maio de 2019.
+Vale ressaltar que o estudo também identificou os tipos de tecnologias presentes nos 156 pedidos de patentes verdes deferidos no período da análise, sendo destaque os 77 pedidos de patentes deferidas na seção C – Química e Metalurgia, o equivalente a 49,3% dos pedidos deferidos em gerenciamento de resíduos, com maior incidência de resultados a classificação "C02 – Tratamento de água, de águas residuais, de esgotos ou de lamas e lodos".
+Com base nessa análise, percebe-se que, apesar de os pedidos de patentes em gerenciamento de resíduos apresentarem uma quantidade expressiva, pouco ou quase nada foi dedicado ao gerenciamento de resíduos provenientes do café.
+Dessa maneira, percebe-se a importância desta pesquisa em realizar um recorte nos estudos apresentados, especificamente para detectar os pedidos de patentes com foco no aproveitamento dos resíduos do café.
+Vários estudos sobre o uso dos resíduos provenientes do beneficiamento dos grãos de café foram realizados, conforme relata Neves (2016, p. 3): [.]
+a exemplo da aplicação como aditivos alimentares e suplementos de alto valor nutritivo (NAIDU; MURTHY , 2010); produção de aromas através da fermentação no estado sólido (BRAND et al., 2001); cultivo de cogumelos do gênero Pleurotus (SILVA et al., 2012); produção de exoglucanase por Rhizopus stolonifer ( NAVYA et al., 2012); bioetanol (SAHU, 2014); produção de carvão ativado (GONÇALVES et al., 2013); efeito alelopático na produção de vegetais (SILVA et al., 2013); na alimentação animal (SOUZA et al., 2006); como adubos orgânicos (SHEMEKITE et al., 2014).
+O mercado de commodities de café é impulsionado exclusivamente por fatores econômicos e, como todos os mercados de commodities , não reconhece, muito menos em seus preços, os custos ambientais muito reais da produção.
+Identifica-se que a produção do café no Brasil e no mundo tem um peso econômico importante.
+O que não se pode desprezar nesse momento são os impactos ambientais gerados pelo setor cafeeiro e o enorme rastro de resíduos gerados com essa produção e com o consumo, que necessitam de um destino adequado.
+O tema deve ser tratado levando-se em consideração a questão da sustentabilidade, ou seja, a redução dos impactos ambientais gerados pelos resíduos produzidos na produção e no consumo do café.
+Descrevem Urrego- Yepes e Pernalete (2021, p. 251, tradução nossa): Na agroindústria cafeeira são gerados resíduos ou subprodutos, que podem somar entre 30% e 50% da produção total.
+Nos países com maior produção de café, é gerada uma quantidade considerável de resíduos que contribuem em larga escala para a poluição e problemas ambientais devido ao alto teor de compostos nocivos como cafeína, alcaloides, taninos e polifenóis.
+1163Cadernos de Prospecção – Salvador, v. 15, n. 4, outubro a dezembro, 2022, p. 1158-1176.Mapeamento Patentário de Utilização de Resíduos do Café no Brasil, na América Latina e no Mundo Mais do que nunca, é necessário pensar no desenvolvimento sustentável.
+No Brasil, as iniciativas ainda são tímidas, pontuais e sem eficácia em relação à questão da sustentabilidade no setor cafeeiro.
+Por exemplo, a Associação Brasileira da Indústria do Café (ABIC, 2021) possui dois programas destinados à sustentabilidade.
+O Programa Cafés Sustentáveis do Brasil, criado em 2007, visa a promover a sustentabilidade e a qualidade na cadeia do café, desde o processo agrícola, passando pelo beneficiamento até o processo industrial.
+O programa, até o final de 2019, contava com mais de 15 empresas certificadas, totalizando mais de 20 cafés com o Selo Café Sustentável.
+O outro programa idealizado pela ABIC (2021), Logística Reversa de Embalagens em Geral apresentou, em março de 2021, um manual com boas práticas em atenção à legislação ambiental nacional que define as diretrizes para o gerenciamento de resíduos sólidos, Lei n. 12.305 de 2010.
+Os impactos ambientais do setor cafeeiro no meio ambiente são inúmeros, iniciando com a utilização de defensivos e fertilizantes e suas consequências, uso de recursos hídricos, uso do solo e da biodiversidade, conservação do solo, influência nos efeitos na qualidade do ar e no clima global, destruição da fauna e a enorme produção de resíduos gerados com a produção.
+Conforme relatam Vilela e Martins ( apud REZENDE et al., 2017, p. 5), "[.]
+as lavouras cafeeiras, que ocupam grandes áreas em diversos estados como Minas Gerais, São Paulo, Espírito Santo e Paraná, são muito provavelmente as maiores responsáveis pelos desmatamentos nas áreas que ocupam".
+(2014, p. 2) relatam que a cafeicultura no Brasil gerou inúmeros impactos ambientais: Entre os principais impactos estão o alto índice de desmatamento da Mata Atlântica e do Cerrado para implantação dos monocultivos de café, a perda da biodiversidade faunística e florística, a contaminação e degradação dos recursos hídricos pelo constante uso dos agroquímicos e destruição das matas ciliares, intoxicações e mortes de trabalhadores ocasionadas pelos agrotóxicos.
+Além de causar o empobrecimento do solo e desequilíbrio ambiental acompanhado do surgimento de pragas e doenças que ocasionam severos danos às lavouras.
+Atualmente, a grande preocupação mundial é com a degradação ambiental e as mudanças climáticas.
+O Painel Intergovernamental sobre Mudança do Clima (IPCC, 2021), da ONU Meio Ambiente, divulgou relatório em agosto de 2021 que é alarmante e faz aumentar a preocupação para se evitar uma catástrofe global em um curto espaço de tempo.
+O relatório traz a conclusão da primeira parte do Sexto Relatório de Avaliação, Mudanças Climáticas 2021: a base das Ciências Físicas.
+Por todo o exposto, tendo como ponto central a geração de resíduos do setor cafeeiro e a sustentabilidade, é possível identificar novas tecnologias que possam oferecer oportunidades para a cafeicultura brasileira e gerar ganhos ambientais?
+O objetivo desta pesquisa é identificar e caracterizar tecnologias inovadoras e ambientalmente amigáveis, com a prospecção de patentes que possam ser aplicadas no setor cafeeiro de forma sustentável e mais eficiente na utilização dos recursos naturais.
+2 Metodologia Foi realizado um levantamento bibliográfico e uma pesquisa exploratória, em documentos de patentes contemplando aspectos qualitativos e quantitativos, tendo como referencial teórico os trabalhos realizados por Lopes et al.
+Para o levantamento das 1164Cadernos de Prospecção – Salvador, v. 15, n. 4, outubro a dezembro, 2022, p. 1158-1176.
+Rosângela Aparecida da Silva Franchi, Bárbara Manhães Resende da Silva, Tatielli Gonçalves Gregório Barbosa tecnologias aplicadas em utilização de resíduos de café no Brasil, na América Latina e no mundo, foram selecionadas a base de dado gratuita do INPI (BuscaWeb) e as ferramentas de busca do Escritório Europeu de Patentes para a América Latina e Espanha (LATIPAT), base gratuita, e o Derwent Innovations Index (DII), base disponível via Portal de Periódicos da Capes.
+Levou-se em consideração que, entre os três maiores produtores de café no mundo, dois são sul-americanos, o Brasil e a Colômbia (OIC, 2021b).
+Patentes brasileiras foram pesquisadas inicialmente na base do INPI (BuscaWeb), sendo coletadas informações também do Latipat e DII.
+Patentes latino-americanas foram pesquisadas no Latipat, e os dados foram cruzados com os do DII.
+E, por fim, o Derwent Innovations Index foi selecionado para pesquisa de patentes a nível mundial.
+Cada base de dados foi escolhida pela sua respectiva cobertura, abrangência e confiabilidade dos dados.
+Entre os resultados obtidos em todas as bases, considera-se que não estão incluídos pedidos de patente em período de sigilo que são 18 meses a contar do depósito; pelo Latipat, os documentos com depósito na Espanha foram excluídos; os dados obtidos pela ferramenta DII foram apresentados como obtidos.
+Nas três bases de dados utilizadas, foram realizadas buscas avançadas por palavras-chave no resumo, considerando como faixa temporal desde o primeiro registro disponível na base de dados até a data da pesquisa em 14 de agosto de 2021.
+No Latipat, o campo disponível na pesquisa avançada permite que a busca seja realizada no Título ou Resumo, e esse foi o campo utilizado.
+Foram utilizadas como palavras-chave na busca os seguintes termos: café combinado de modo alternativo com resíduo, borra e casca, sendo utilizados os respectivos operadores booleanos: AND para combinação e OR para alternativa.
+As buscas foram realizadas em português no BuscaWeb, em espanhol no Latipat e em inglês no Derwent Innovations Index.
+No Quadro 1, explica-se a metodologia utilizada neste estudo.
+Quadro 1 – Palavras-chave utilizadas nas buscas patentárias Base de dados BuscaWeB Latipat derWent innovations index Escopo Brasil América Latina Mundo Palavras-chavecafé AND (resíduo* OR borra* OR casca*)café AND (resíduo* OR grano OR grão OR casca*)coffee AND (residue OR spent OR grounds) Registros selecionadosLeitura de títulos e resumos para seleção de documentos com resíduo de café como matéria-prima.Filtro de classificações obtidas no BuscaWeb e Latipat.
+Fonte: Elaborado pelas autoras deste artigo (2022) Para delimitar os resultados às tecnologias de utilização de resíduos de café como matéria-prima de produtos e processos para agregação de valor, para o BuscaWeb e Latipat, foi realizada a leitura de títulos e resumos para eliminar todos os resultados não pertinentes.
+Com base nos resultados obtidos no BuscaWeb e no Latipat, foi realizado levantamento de classificações pertinentes para filtros posteriores, aplicado no DII, para fins comparativos.
+Utilizou-se a ferramenta Microsoft Excel para consolidação dos resultados em uma tabela com as seguintes categorias: número do pedido, data de depósito, título, código da Classificação Internacional de Patentes (CIP) (todos os registros).
+Para os pedidos de patentes obtidos da 1165Cadernos de Prospecção – Salvador, v. 15, n. 4, outubro a dezembro, 2022, p. 1158-1176.Mapeamento Patentário de Utilização de Resíduos do Café no Brasil, na América Latina e no Mundo base de dados do INPI, também foram incluídas informações como resumo, situação de trâmite (publicado, em exame, concedido/vigente, domínio público) e tipo de resíduo (casca, borra ou outros).
+Para os resultados obtidos do Latipat e DII, também foram incluídas informações de tipo de resíduo; informações de situação legal não estão disponíveis por meio do Latipat nem DII.
+Após consolidação dos dados, pedidos repetidos e não pertinentes foram excluídos e foram realizadas análises quanto à evolução temporal dos depósitos, às classificações correspondentes à quantidade de documentos, aos depositantes por país e à situação do documento, se em domínio público ou não.
+Foi realizado filtro na planilha Excel em relação aos códigos da Classificação Internacional de Patentes (IPC) que se apresentam como códigos "IPC GREEN INVENTORY" junto a World Intellectual Property Organization (WIPO).
+Destaca-se que, entre os tipos de resíduos pesquisados inicialmente: "resíduos" ou "borra" ou "casca", também foram obtidos resultados para "palha", "polpa", sendo todos os resultados apresentados na seção a seguir.
+3 Resultados e Discussão Foram recuperados inicialmente no BuscaWeb 148 resultados, no Latipat 320 documentos e no Derwent Innovations Index mais de 8.000 registros individuais.
+Esses resultados, entretanto, abrangeram diferentes áreas tecnológicas ligadas ao café, desde técnicas de colheita e torrefação até equipamentos de cozinha e processos de preparo da bebida.
+Os dados obtidos pelo BuscaWeb e Latipat foram consolidados, resultados repetidos e não pertinentes, selecionados por leitura de título e/ou resumo, foram excluídos, sendo obtidos 47 documentos brasileiros e 63 resultados para a América Latina, ou seja, depósitos brasileiros referentes a tecnologias de utilização de resíduos de café correspondem a 74% dos registros na América Latina.
+Os resultados iniciais do Derwent Innovations Index foram filtrados por subclasses da IPC levantadas a partir de pedidos selecionados como pertinentes nas buscas do BuscaWeb e Latipat.
+Após a aplicação de filtro por classificações selecionadas, foram obtidos 4.404 depósitos, e todos esses resultados foram utilizados para fins exploratórios e comparativos, principalmente devido à inviabilidade de realização de filtros específicos como leitura de títulos e resumos, de forma análoga ao que foi realizado nas outras bases utilizadas para a busca e prospecção.
+Os dados obtidos no Derwent Innovations Index foram correlacionados com os códigos IPC GREEN INVENTORY da WIPO para verificar o percentual de tecnologias que utilizam resíduos de café que podem ser classificados como patentes verdes.
+Tal análise foi realizada apenas em relação à China, por ser o país com maior número de depósitos de patentes com utilização de resíduo de café, Estados Unidos da América e Alemanha, por estes serem os principais consumidores do café brasileiro.
+A partir da análise no tocante à distribuição temporal de depósitos de patentes na América Latina e no mundo, obteve-se resultado consolidado apontando que, na América Latina, o pedido mais antigo encontrado foi o BR7708301, depositado em 14 de dezembro de 1977, que reivindica a fabricação de carvão sintético a partir da mistura de resíduos provenientes da industrialização do café solúvel a outros elementos.
+No mundo, o pedido mais antigo foi o ES272142, depositado em 18 de novembro de 1961 na Espanha, referente a composição pesticida granulada que emprega borra de café como carreador.
+Na América Latina, de 1977 a 2006, foram identificados zero, um ou dois depósitos de pedidos de patentes relacionados à utilização de resíduos de café, seguindo-se um aumento de 10 1166Cadernos de Prospecção – Salvador, v. 15, n. 4, outubro a dezembro, 2022, p. 1158-1176.
+Rosângela Aparecida da Silva Franchi, Bárbara Manhães Resende da Silva, Tatielli Gonçalves Gregório Barbosa depósitos de pedidos em 2007.
+Desses 10 documentos, nove são brasileiros e um é colombiano (CO6120185), este referente a absorvente encapsulante para hidrocarbonetos, utilizando palha e polpa de café como componentes.
+Entre os depósitos brasileiros, sete deles são do mesmo depositante e da mesma área tecnológica, referentes à utilização e ao aproveitamento de palha de café, entre outros resíduos orgânicos, como matéria-prima para compostos fertilizantes.
+De 2008 a 2012, a distribuição volta a variar entre um ou dois depósitos por ano.
+Em 2014, 2016 e 2018, foram encontrados seis ou sete depósitos com destaques como depósitos em Costa Rica, Argentina, México, Colômbia e Brasil em 2014, República Dominicana e Brasil em 2016 e Brasil e Colômbia em 2018.
+Observa-se que o interesse por utilização de resíduos de café na América Latina é crescente e diverso, devido aos diferentes países envolvidos e à territorialidade de proteção, apesar de o Brasil ter a maioria de documentos depositados.
+Conforme apresentado na Figura 3, a partir dos dados extraídos do Derwent Innovations Index, com busca expandida para o mundo, estando inclusos Brasil e América Latina, a evolução temporal apresentou uma tendência crescente ao longo dos anos com 51 documentos em 2000, 101 documentos em 2005, 200 em 2010, 211 em 2015, 290 em 2019, chegando a 309 documentos em 2020.
+O resultado em 2021 foi de 185 registros, porém deve-se considerar que o ano não está completo e pedidos em sigilo não estão contabilizados.
+Figura 3 – Evolução temporal no mundo Fonte: Elaborada pelas autoras deste artigo com dados extraídos da Derwent Innovations Index (2022) De modo geral, no mundo, observa-se um aumento no quantitativo de documentos, entretanto, ressalta-se que nem todos os documentos obtidos como resultados pela busca no Derwent Innovations Index são pertinentes exclusivamente à utilização de resíduos de café, visto que a busca foi realizada apenas por palavra-chave, como apontado na metodologia.
+Mas, ainda que os resultados sejam mistos, para fins exploratórios qualitativos, pode-se destacar a evolução temporal crescente na ordem de centenas de documentos, de 2012 em diante, de publicações envolvendo resíduos de café, perfil similar ao observado na América Latina.
+Quanto à Classificação Internacional de Patentes (CIP), a busca primária por meio do BuscaWeb resultou em 148 documentos em 50 áreas tecnológicas diferentes, correspondentes a diferentes subclasses da CIP , sendo que em 27 delas foram obtidos documentos de patentes que 1167Cadernos de Prospecção – Salvador, v. 15, n. 4, outubro a dezembro, 2022, p. 1158-1176.Mapeamento Patentário de Utilização de Resíduos do Café no Brasil, na América Latina e no Mundo utilizam resíduos de café como matéria-prima para obtenção de produtos e processos diversos.
+No Latipat foram obtidas inicialmente 64 subclasses diferentes da CIP , que, após leitura de títulos e resumos para identificação de resíduos de café como matéria-prima objeto do documento de patente, foram reduzidas para 28 subclasses principais.
+As subclasses obtidas anteriormente foram selecionadas para aplicação do filtro para a busca no Derwent Innovations Index, obtendo-se 37 subclasses distintas, que resultaram em mais de 4.000 documentos.
+As subclasses selecionadas a partir do BuscaWeb e do Latipat para aplicação de filtro no Derwent Innovations Index foram: A01G, A01N, A23F , A23L, A23N, A47K, A61K, B01D, B01J, B09B, B09C, B29B, B29C, C01B, C01D, C02F , C04B, C05D, C05F , C05G, C07H, C08J, C08K, C08L, C08G, C10B, C10L, C11B, C12F , C12N, C12P , C23F , D21B, E04D, F01K, F23D, F24H.
+Entre códigos IPC, a partir dos mais de 8.000 resultados mundiais, foi realizada nova filtragem para correlacioná-los com os códigos CIP GREEN INVENTORY da WIPO, sendo certo que foram encontradas correlações para os seguintes códigos: A01H 5/00, A01N 25-65/00, B01D 53/00-53/96, B09B 3/00, C02F 1/00, C04B 18/04-18/10, C05F , C07C 67/00, C08J 11/00 – 11/28, C10B 53/00, C10B 53/02, C10L 1/00, C10L 1/19, C10L 5/40-5/48, C11B 13/00, C12N 9/24, C12P 7/06-7/14, D21B 1/08, H01M 50/20.
+Observa-se que estão presentes seções de A a F da IPC, sendo que 21% dos resultados no mundo estão classificados dentro da subclasse A23F , que inclui informação tecnológica referente a café, de forma abrangente.
+Como não existem atualmente classificações específicas para tipos específicos de resíduos, como palha ou borra de café, não foi possível refinar com mais precisão os resultados mundiais.
+Quanto aos depositantes por país, o Brasil apresenta 47 documentos ao longo do período de tempo da busca para patentes relacionadas à utilização de resíduos de café.
+Entre eles, apenas 19 depósitos apresentam código IPC GREEN INVENTORY da WIPO, sendo certo que, destes, 10 pedidos de patentes utilizam o código C05F referente à produção de fertilizantes a partir de resíduos do café, principalmente a palha.
+Desses 10 pedidos de depósito de patentes, nove dos pedidos de depósito de patentes com o código C05F utilizam a palha do café como componente para a produção do fertilizante sustentável e apenas um pedido (BR 9805471-6) utiliza a casca do café como componente da tecnologia para criação de adubo e ração natural.
+Além desses pedidos de depósitos de patentes, a pesquisa apontou dois pedidos com código A01N (BR 0705598-6 e BR 0504136-8) referente à biopesticida, com utilização da casca e da borra do café, respectivamente.
+Com código IPC B09B 3/00, apenas um pedido referente ao aproveitamento de resíduo produzido pelo homem, com utilização da borra do café para produção de couro sintético (BR 0302281-1); um pedido com código C08J referente à recuperação de materiais residuais, utilizando a palha do café para produção de agente espessante; dois pedidos com o código C10L, referente a biocombustíveis, utilizando palha (BR 112018011176-7) e a borra do café (BR 7708301-6); um depósito de patente com o código C11B, que utiliza a borra do café; um depósito de patente com o código D21B, referente ao tratamento de resíduos, que utiliza a palha e, por fim; um pedido de patente com o código F01K, que utiliza a borra de café para produzir gás inflamável para geração de combustível.
+1168Cadernos de Prospecção – Salvador, v. 15, n. 4, outubro a dezembro, 2022, p. 1158-1176.
+Rosângela Aparecida da Silva Franchi, Bárbara Manhães Resende da Silva, Tatielli Gonçalves Gregório Barbosa Figura 4 – Depósito de patentes brasileiras com código IPC GREEN INVENTORY da WIPO Fonte: Elaborada pelas autoras deste artigo com base nos dados coletados no INPI (2022) Dessa forma, conforme se observa na Figura 4, no Brasil, o resíduo do café com maior aplicação nas tecnologias verdes é a palha, utilizada em 12 dos 19 pedidos de patentes enquadrados nos códigos internacionais de tecnologia verdes, referente a 63,15% dos depósitos de patentes.
+Ressalte-se que o pedido de depósito de patente BR 202017011927-6, classificada com código A01G 9/00, não se enquadra como patente verde segundo a IPC GREEN INVENTORY da WIPO, portanto, não foi contabilizada na relação acima, em que pese o INPI ter classificado o pedido como tecnologia que se enquadra em tecnologia verde para fins de certificação na categoria gerenciamento de resíduo, por utilizar a casca do café para fabricação de tubetes biodegradáveis para germinação e plantio em substituição ao vaso plástico.
+Verificando a Figura 5, é possível identificar que, na América Latina, os países depositantes incluem Argentina (2), Brasil (47), Colômbia (7), Costa Rica (1), Guatemala (1), México (3), Peru (1) e República Dominicana (1), em ordem alfabética; os números entre parênteses correspondem à quantidade de depósitos por país.
+Os pedidos da Argentina foram depositados em 2010 e 2014 e se referem a tecnologias de valor agregado para utilização de borra e grão de café para obtenção de biocombustível e antioxidantes de aplicação farmacêutica.
+Observa-se um alto nível de complexidade processual, de operacionalização para utilização de resíduos de café, que evitam a destinação inadequada deles.
+Os pedidos da Costa Rica (CR20140105) depositado em 2014, da Guatemala (GT198408422) depositado em 1984 e do Peru de 1990 (PE1490) referem-se a processamento de palha, polpa e casca de café, respectivamente, para aplicação como combustíveis para queima.1169Cadernos de Prospecção – Salvador, v. 15, n. 4, outubro a dezembro, 2022, p. 1158-1176.Mapeamento Patentário de Utilização de Resíduos do Café no Brasil, na América Latina e no Mundo Figura 5 – Depósitos de patentes com foco em resíduos do café na América Latina Fonte: Elaborada pelas autoras deste artigo com base nos dados coletados no Latipat (2022) No mundo, os 25 maiores países depositantes de pedidos de patente referentes a resíduos de café estão apresentados na Figura 6.
+Destaca-se os Estados Unidos em primeiro lugar com 1081 depósitos, seguido da China com 877 documentos, Japão com 647 depósitos e Coreia do Sul com 264 depósitos de pedidos de patentes.
+O total de depósitos desses quatro países corresponde a 65% do total.
+A situação legal corresponde à categorização do documento de patente entre domínio público e vigente.
+No Brasil, 29 dos 47 documentos de patentes, isto é, mais de 60%, estão em domínio público; três foram concedidos, e os 15 restantes estão em processamento, por exemplo, pedidos de 2018 que foram publicados e não tiveram pedido de exame efetivado ou pedidos que já estão em exame sem decisão.
+Os motivos para pedidos em domínio público incluem, por exemplo, arquivamentos por ausência de solicitação de pedido de exame, arquivamento por não pagamento de anuidade.
+Destaca-se as três patentes concedidas e vigentes sendo de universidades públicas federais, duas delas depositadas em 2009 (BR0925423-4 e BR09043497) e uma em 2012 (BR102012024569-8), referentes à utilização de resíduos entre casca, palha ou borra de café, para obtenção de cerâmicas, fertilizantes, ou filme a base de óleo de borra de café, respectivamente.
+Nas bases de dados Latipat e Derwent Innovations Index, a informação em relação à situação do pedido não é disponibilizada.
+A Figura 6 apresenta os dados para países e não estão incluídos os 311 documentos EP depositados no Escritório Europeu de Patentes (EPO: European Patent Office) e os 45 registros realizados no Escritório Mundial, documentos WO, tendo em vista que os pedidos de patentes depositados nos referidos escritórios não se referem a países específicos, comportando pedidos de diversos países distintos.
+Ressalta-se que os pedidos de patentes dos Estados Unidos da América encontram-se em primeiro lugar, independentemente da área de pesquisa, já que o país é um dos maiores depositantes mundiais de patentes, marcas e desenhos industriais, conforme aponta o ranking do relatório de indicadores da Organização Mundial da Propriedade Intelectual (OMPI) – em inglês World Intellectual Property Organization (WIPO).
+Especificamente na área de patentes, em 2019, o escritório de propriedade intelectual da China, primeiro lugar do ranking , recebeu 1170Cadernos de Prospecção – Salvador, v. 15, n. 4, outubro a dezembro, 2022, p. 1158-1176.
+Rosângela Aparecida da Silva Franchi, Bárbara Manhães Resende da Silva, Tatielli Gonçalves Gregório Barbosa 1,4 milhões de depósitos, mais que o dobro do recebido pelo escritório de marcas e patentes dos Estados Unidos (WIPO, 2020).
+Figura 6 – Distribuição de pedidos de patentes por escritório de depósito (país ou região) Fonte: Elaborada pelas autoras deste artigo com dados extraídos da Derwent Innovations Index (2022) Em relação aos pedidos de depósito de patentes, conforme aponta o IPC GREEN INVENTORY da WIPO, os Estados Unidos também se encontram em posição de liderança, tendo em vista que apresentam 13 pedidos de depósito com código C05F , referente a fertilizantes; 14 pedidos com o código B09B, referente à utilização de resíduos; 178 pedidos com o código A01N, referente a biopesticidas; 27 pedidos com o código C02F , referente a tratamento de efluentes; 10 pedidos com o código C10B, referente à destilação destrutiva; 10 pedidos com o código B01D, referente ao controle de poluição; quatro pedidos com o código B09C, referente à recuperação de solo contaminado; três pedidos com o código C10L, referentes a biocombustíveis; seis pedidos com o código H01M, referentes a células combustíveis.
+A China, por sua vez, apresenta 20 pedidos de depósito sob o código B09B 3/00, referente ao aproveitamento de resíduos; nove pedidos com os códigos C10L e C10B, referente a biocombustíveis; 153 pedidos com o código A01N, referentes a biopesticidas; 53 pedidos com o código C05F , referente a fertilizantes; 16 pedidos com o código B01D, referente ao controle de poluição; 27 pedidos com o código C02F , referente a tratamento de efluentes; oito pedidos com o código H01M, referentes a células combustíveis.
+O Japão apresenta 141 pedidos de depósito sob os códigos A01N 25-65/00, 17 pedidos com os códigos C10L e C10B, 16 pedidos com o código B01D, 69 pedidos com o código B09B 3/00 e três pedidos com o código B09C, 31 pedidos com o código C05F , 17 pedidos com o código C02F , sete pedidos com o código H01M, referentes a células combustíveis.1171Cadernos de Prospecção – Salvador, v. 15, n. 4, outubro a dezembro, 2022, p. 1158-1176.Mapeamento Patentário de Utilização de Resíduos do Café no Brasil, na América Latina e no Mundo A Coreia do Sul apresenta 74 pedidos de depósito sob os códigos A01N 25-65/00, quatro pedidos com os códigos C10L e C10B, nove pedidos com o código B01D, 17 pedidos com o código B09B 3/00 e dois pedidos com o código B09C, 13 pedidos com o código C05F , 14 pedidos com o código C02F , cinco pedidos com o código H01M.
+A Alemanha apresenta três pedidos com código B09B; oito pedidos com o código C02F , e 32 pedidos com código A01N.
+Figura 7 – Disposição de códigos IPC GREEN INVENTORY da WIPO de acordo com países Fonte: Elaborada pelas autoras deste artigo com dados extraídos da Derwent Innovations Index (2022) Conforme disposto na Figura 7, pode-se inferir que, mesmo os países com o maior número de depósitos de patentes no mundo, quando se trata de analisar os depósitos específicos com a utilização do IPC GREEN INVENTORY , o número de depósitos é relativamente baixo.
+4 Considerações Finais Conforme já relatado na revisão de literatura, o café é uma das bebidas mais consumidas no mundo e tem o Brasil como principal produtor mundial.
+O setor agrícola cafeeiro brasileiro tem apresentado crescimento expressivo nos últimos anos, produzido milhares de toneladas de café e, consequentemente, também tem gerado uma enorme quantidade de resíduos, causando impactos relevantes no meio ambiente.
+No entanto, em que pese a exportação de café ter forte impacto no PIB nacional, o mesmo não pode ser dito em relação ao aproveitamento dos resíduos gerados pela produção agrícola cafeeira, tendo em vista que o país ainda se utiliza muito pouco do potencial econômico e do caráter sustentável que o beneficiamento dos resíduos do café pode gerar por meio de diversas inovações tecnológicas desenvolvidas por vários países do mundo.
+Sabe-se que as patentes constituem importante fonte de informação tecnológica e científica na qual se registra grande parte do conhecimento gerado pelo homem.
+Dessa forma, a prospec -1172Cadernos de Prospecção – Salvador, v. 15, n. 4, outubro a dezembro, 2022, p. 1158-1176.
+Rosângela Aparecida da Silva Franchi, Bárbara Manhães Resende da Silva, Tatielli Gonçalves Gregório Barbosa ção tecnológica é uma importante ferramenta para se detectar e apontar novos conhecimentos e, posteriormente, sua aplicação no cotidiano para melhoria da vida humana.
+A prospecção realizada neste trabalho demonstrou, na evolução temporal dos pedidos de patentes envolvendo resíduos de café no mundo, que houve uma crescente evolução nos pedidos patentários, demonstrando a preocupação mundial com as pesquisas envolvendo o resíduo do café e a sustentabilidade, embora a participação do Brasil ainda seja muito reduzida.
+Foi demonstrado que o Programa Patentes Verdes do INPI gerou significativo impacto nos depósitos de "patentes verdes" no Brasil, no entanto, durante o período analisado no presente trabalho, verificou-se que os depósitos com foco em aproveitamento de resíduos do café, notadamente os que apresentam códigos IPC GREEN INVENTORY da WIPO, têm número reduzido.
+A pesquisa identificou o número de 47 depósitos de pedidos de patentes, considerando os últimos 25 anos (de 1994 a 2019) no Brasil, sendo somente 19 depósitos com o IPC GREEN INVENTORY da WIPO, e o principal resíduo utilizado nos depósitos de patentes foi a palha.
+Sabe-se que Brasil, Vietnã e Colômbia são os maiores produtores, e os Estados Unidos e a Alemanha são os maiores importadores.
+Pelo mapeamento das informações tecnológicas nos documentos de patentes, observou-se que, sendo o Brasil o maior produtor de café mundial e a geração de altos volumes de resíduos em decorrência desta produção agrícola, ainda não se aproveita (ou quando se aproveita, o faz em escala muito pequena) do potencial econômico e ambiental que os resíduos apresentam, quer na parte de novas indústrias, processos e produtos, quer na parte de redução dos impactos ambientais causados pela atividade cafeeira e inovação tecnológica sustentável da cadeia agrícola produtiva.
+Importante destacar que dos 19 depósitos de patentes com o IPC GREEN INVENTORY no Brasil, 10 depósitos são específicos para a produção de fertilizantes utilizando resíduos do café.
+A partir da análise dos dados apresentados no presente estudo, observa-se que o Brasil, em se tratando de inovação tecnológica para aproveitamento dos resíduos do café, está muito aquém dos principais países consumidores do produto no mundo, apresentando apenas 47 depósitos de pedidos de patentes no período de 1994 a 2019.
+Em contrapartida, é notória a superioridade de registros realizados nos Estados Unidos e Alemanha relacionados com os filtros estabelecidos na pesquisa.
+Demonstrou-se que, de 1994 a 2019, utilizando a busca específica em resíduos do café, os Estados Unidos totalizam 775 depósitos de pedidos de patentes e a Alemanha 167.
+Não se considerou o total de pedidos de patentes da China (685), mas há que se destacar a situação do Japão e da Coreia do Sul, que, apesar de não serem os maiores produtores ou consumidores de café, realizaram expressivo número de depósitos de pedidos de patentes, respectivamente, 524 e 192.
+Identificou-se também, a partir da análise dos dados mundiais, que mais da metade dos documentos publicados em relação a resíduos do café, em suas mais variadas espécies, já se encontra em domínio público.
+Em especial no Brasil, 60% dos documentos de patentes com foco em resíduos de café estão em domínio público.
+Dessa forma, tais documentos podem ser explorados com mais precisão, buscando auxiliar na destinação sustentável para milhares de toneladas de resíduos de café produzidos todos os anos, reduzindo os significativos impactos ambientais gerados pela atividade produtora agrícola, bem como transformá-los em produtos com alto valor agregado que poderão ser comercializados e fomentar a indústria e a economia nacional.
+1173Cadernos de Prospecção – Salvador, v. 15, n. 4, outubro a dezembro, 2022, p. 1158-1176.Mapeamento Patentário de Utilização de Resíduos do Café no Brasil, na América Latina e no Mundo 5 Perspectivas Futuras A partir da pesquisa exploratória com abordagem quantitativa e qualitativa, os resultados obtidos apresentam as possibilidades para utilização dos diversos resíduos de café gerados no processamento do grão verde, torrado e solúvel, esse resíduo sendo casca, palha, polpa ou borra.
+Esses resíduos podem ser processados em conjunto ou isoladamente, conforme as tecnologias de interesse, que se diversificam em mais de 25 diferentes subclasses da IPC.
+Com esse resultado, pode-se inferir que ainda há muito o que se explorar quando o assunto é resíduo de café, principalmente por ser uma das bebidas mais consumidas no mundo e ter um alto valor agregado, desde a produção até o consumo final.
+Espera-se que a partir dos resultados preliminares apresentados neste trabalho seja possível delinear e realizar estudos futuros mais específicos e direcionados, selecionando áreas tecnológicas específicas para avaliações e estudos quantitativos das possibilidades de utilização de resíduos de café, de agregação de valor ao produto obtido a partir de uma matéria-prima comumente descartada sem tratamento.
+Isso porque o estudo demonstrou, a partir da análise dos depósitos de patentes com código IPC GREEN INVENTORY da WIPO, que a borra de café se mostrou extremamente versátil, sendo utilizada nacionalmente para produção de biopesticidas (A01N), aproveitamento de resíduo (B09B), biocombustíveis (C10L), elaboração de materiais residuais (C11B) e energia geotérmica (F01K).
+Salienta-se que o principal resíduo utilizado em nosso país é a palha (12 dos 19 depósitos de patentes) e, em sua maioria, utilizada para a produção de fertilizantes (C05F).
+Ademais, diferentes tipos de produtos que podem ser obtidos incluem, por exemplo, aditivos alimentares e suplementos de alto valor nutritivo, óleo extraído de borra de café, extrato base para cultivo de cogumelos, biocombustíveis, carvão ativado, fertilizante (NEVES, 2016) entre várias outras possibilidades, como exemplificado ao longo dos resultados e das discussões neste trabalho.
+Acredita-se que a utilização do exame prioritário de Patentes do INPI – Patentes Verdes, possa ser utilizado como parte da solução para a questão dos resíduos de café no Brasil, podendo trazer inúmeros benefícios ao longo do tempo para o país.
+Espera-se contribuir também como estímulo aos pesquisadores para o desenvolvimento de novas tecnologias e sua devida proteção, além de servir de ferramenta para a disseminação de informação ligada à tecnologia verde, atuar como fonte de dados e ser no futuro um indicador do grau de desenvolvimento tecnológico sustentável e econômico do país.
+Referências ABIC – ASSOCIAÇÃO BRASILEIRA DA INDÚSTRIA DE CAFÉ.
+Disponível em: Acesso em: 25 abr.
+Lei n. 12.187, de 29 de dezembro de 2009 .
+Institui a Política Nacional sobre Mudança do Clima – PNMC e dá outras providências.
+Disponível em: ato2007-2010/2009/lei/l12187.htm.
+Relatório mensal : Café/julho/julho/2020.
+Disponível em: br/info-agro/analises-do-mercado-agropecuario-e-extrativista/analises-do-mercado/historico-mensalde-cafe/item/download/32511_c5c201716c073cd1fb17c5196a517411.
+2022.1174Cadernos de Prospecção – Salvador, v. 15, n. 4, outubro a dezembro, 2022, p. 1158-1176.
+Rosângela Aparecida da Silva Franchi, Bárbara Manhães Resende da Silva, Tatielli Gonçalves Gregório Barbosa CECAFÉ – CONSELHO DOS EXPORTADORES DE CAFÉ DO BRASIL.
+Relatório mensal : exportação entre 1º/01/2022 e 30/04/2022.
+Disponível em: Acesso em: 11 jul.
+CONAB – COMPANHIA NACIONAL DE ABASTECIMENTO.
+Informações agropecuárias – Safras – Observatório agrícola – Acompanhamento da safra brasileira – café.
+Disponível em: Acesso em: 26 abr.
+CONAB – COMPANHIA NACIONAL DE ABASTECIMENTO.
+Disponível em: Acesso em: 11 jul.
+CONFEDERAÇÃO DA AGRICULTURA E PECUÁRIA DO BRASIL.
+Panorama do Agro : valor bruto da produção no brasil em 2019 e 2020 (em R$ bilhões).
+Disponível em: org.br/cna/panorama-do-agro.
+Coffee: general aspects and its use beyond drink.
+Revista Virtual de Química , [s.l.
+], v. 9, n. 1, p. 107-134, 2017.
+(Sociedade Brasileira de Química – SBQ).
+Disponível em: Acesso em: 15 jun.
+Tea in 2018 : annual market overview.
+Tea in 2018: Annual Market Overview.
+Disponível em: Acesso em: 15 jun.
+Com "Patentes Verdes", INPI acelera aprovação de "invenções sustentáveis".
+Disponível em: Acesso em: 17 mar.
+GRAÇA, Carlos Henrique da; CALDAS, Rafaela Maria Figueiredo.
+Estimativa da quantidade de resíduos (casca e polpa) produzidos durante o processo de beneficiamento do café no município de Varginha – MG. Revista Geonorte , [s.l.
+], v. 8, n. 30, p. 104-117, 22 dez.
+Disponível em: Acesso em: 6 abr.
+IBGE – INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA.
+IBGE prevê safra recorde de 260,5 milhões de toneladas para 2021 .
+Disponível em: https:// agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/29889ibge-preve-safra-recorde-de-260-5-milhoes-de-toneladas-para-2021.
+IPCC – PAINEL INTERGOVERNAMENTAL SOBRE MUDANÇA DO CLIMA.
+Nações Unidas Para o Meio Ambiente.
+Mudança climática 2021 : a base da ciência física.
+Disponível em: Acesso em: 20 abr.
+Inovações Tecnológicas para Torrefação de Café: descobertas realizadas por meio de análise patentária.
+Cadernos de Prospecção , Salvador, v. 14, n. 2, p. 489603, abr.
+Disponível em: Acesso em: 7 jun.
+Uma análise das consequências da agricultura convencional e das opções de modelos sustentáveis de produção: agricultura orgânica e agroflorestal.
+Revista Espaço de Diálogo e de Desconexão – Redd , Araraquara, v. 8, n. 1, p. 267-298, dez.
+Disponível em: Acesso em: 6 jun.
+MAPA – MINISTÉRIO DA AGRICULTURA, PECUÁRIA E ABASTECIMENTO.
+Valor bruto da produção agropecuária (VBP) .
+Disponível em: assuntos/politica-agricola/valor-bruto-da-producao-agropecuaria-vbp.
+2022.1175Cadernos de Prospecção – Salvador, v. 15, n. 4, outubro a dezembro, 2022, p. 1158-1176.Mapeamento Patentário de Utilização de Resíduos do Café no Brasil, na América Latina e no Mundo MDIC – MINISTÉRIO DA INDÚSTRIA, COMÉRCIO EXTERIOR E SERVIÇOS; INPI – INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL.
+Resolução n. 175, de 5 de novembro de 2016 .
+Disciplina o exame prioritário de pedidos de "Patente Verde".
+Disponível em: inpi/pt-br/assuntos/arquivos-dirpa/Resoluon1752016_Patentesverdes_21112016julio_docx.pdf.
+Disponível em: inpi/pt-br/servicos/patentes/tramite-prioritario/projetos-piloto/Patentes_verdes.
+NEVES, Jorge Vitório Gomes das.
+Cascas residuais de café orgânico : composição química, potencial antioxidante, fatores antinutricionais e aplicação tecnológica.
+Dissertação (Mestrado) – Curso de Engenharia e Ciência de Alimentos, Programa de Pós-Graduação, Universidade Estadual do Sudoeste da Bahia, Itapetinga, 2016.
+Disponível em: ppg/ppgecal/wp-content/uploads/2017/04/JORGE-VIT%C3%93RIO.pdf.
+NUNES FILHO, Luiz; SANTOS, Raimundo Nonato Macedo dos.
+Prospecção de Tecnologias Verdes com Foco em Gerenciamento de Resíduos.
+Cadernos de Prospecção , Salvador, v. 12, n. 4, p. 936, 28 dez.
+DOI: OIC – ORGANIZAÇÃO INTERNACIONAL DO CAFÉ.
+Desenvolvendo uma economia cafeeira sustentável .
+Disponível em: section=O_que_fazemos.
+OIC – ORGANIZAÇÃO INTERNACIONAL DO CAFÉ.
+Disponível em: Acesso em: 11. jul.
+OIC – ORGANIZAÇÃO INTERNACIONAL DO CAFÉ.
+Relatório sobre consumo mundial de café.
+Disponível em: Acesso em: 11 jul.
+Responsabilidade Civil-Ambiental pela exploração da propriedade privada decorrente da cafeicultura no Brasil.
+Revista da Faculdade de Direito da UFG, Goiânia, v. 40, n. 2, p. 198-216, 31 jan. 2017.
+SILVA, Michelle Cristina da et al.
+Mapeamento de Informações Tecnológicas em Documentos de Patente: uso da borra de café na produção de biocombustíveis.
+Cadernos de Prospecção , Salvador, v. 12, n. 5, p. 1.402-1.420, dez.
+Disponível em: ufba.br/index.php/nit/article/view/32839/20677.
+URREGO- YEPES, William; PERNALETE, Maria Jose Godoy.
+Aprovechamiento de los residuos de la agroindustria del café en la elaboración de materiales compuestos de matriz polimérica, Prospectiva , Colômbia, v. 19, n. 2, p. 250-265, 2021.
+Disponível em: php/prospectiva/issue/view/148.
+WIPO – WORLD INTELLECTUAL PROPERTY ORGANIZATION.
+Disponível em: Acesso em: 07 jun.
+WIPO – WORLD INTELLECTUAL PROPERTY ORGANIZATION.
+World Intellectual Property Indicators 2020 .
+Disponível em: en/wipo_pub_941_2020.pdf.
+2022.1176Cadernos de Prospecção – Salvador, v. 15, n. 4, outubro a dezembro, 2022, p. 1158-1176.
+Rosângela Aparecida da Silva Franchi, Bárbara Manhães Resende da Silva, Tatielli Gonçalves Gregório Barbosa Sobre as Autoras Rosângela Aparecida da Silva Franchi E-mail : rosangelaap.silva@unifal-mg.edu.br ORCID: Mestre em Direito pela UNESP , Campus Franca, SP , em 2001.
+Endereço profissional: Rua Gabriel Monteiro da Silva, n. 700, Centro, Alfenas, MG. CEP: 37130-001.
+Bárbara Manhães Resende da Silva E-mail : barbara_manhaes@yahoo.com.br ORCID: Pós-Graduada Lato Sensu em Direito pela Escola da Magistratura do Estado do Rio de Janeiro em 2015.
+Endereço profissional: Rua Miguel Lemos, n. 54, Copacabana, RJ.
+Tatielli Gonçalves Gregório Barbosa E-mail : tatielli.barbosa@inpi.gov.br ORCID: Mestre em Química pela Universidade Federal de Uberlândia em 2012.
+Endereço profissional: Rua Mayrink Veiga, n. 9, Centro, Rio de Janeiro, RJ.

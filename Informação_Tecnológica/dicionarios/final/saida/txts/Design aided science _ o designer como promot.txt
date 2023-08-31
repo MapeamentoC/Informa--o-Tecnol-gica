@@ -1,0 +1,382 @@
+SSN 2179 -7374 Educação Gráfica, Brasil, Bauru .
+DESIGN -AIDED SCIENCE: O DESIGNER COMO PROMOTOR DE TECNOLOGIAS 3D PARA INOVAÇÃO EM PESQUISA CIENTÍFICA DESIGN -AIDED SCIENCE: DESIGNER AS A PROMOTER OF 3D TECHNOLOGIES FOR INNOVATION IN SCIENTIFIC RESEARCH Felipe Luis Palombini1 Júlio Carlos de Souza van d er Linden2 Jorge Ernesto de Araujo Mariath3 Branca Freitas de Oliveira4 Resumo As tecnologias 3D têm revolucionado tanto na busca por soluções de projeto quanto na geração de conhecimento na pesquisa científica.
+Por intermédio delas, o designer e o cientis ta possuem potencial para colaborarem no desenvolvimento e geração de novos conhecimentos.
+Este trabalho aborda como a participação ativa do designer pode levar a resultados inovadores para a ciência, principalmente em campos clássicos.
+A forma de trabalho do designer e do cientista é discutida, com relação aos seus objetivos e meios de resolução de problemas.
+São descritos exemplos de tecnologias 3D para representação visual e física em seu estado da arte, como a microtomografia de raios X, análise por elementos finitos e manufatura aditiva, mostrando o seu potencial para aplicação científica, com exemplo na área da botânica.
+Por fim, é apresentado o conceito de Design -Aided Science, em que é destacado como a ciência auxiliada pelo design pode ser impulsion ada pela aplicação de tecnologias 3D na obtenção de resultados inovadores .
+Palavras -chave : tecnologia; microtomografia; elementos finitos; impressão 3D; botânica .
+Abstract 3D technologies have revolutionized both the search for design solutions and the ge neration of knowledge in scientific research.
+Through them, the designer and the scientist have the potential to collaborate in the development and generation of new knowledge.
+This work addresses how the designer's active involvement can lead to innovativ e results for science, especially in classical fields.
+Designer and scientist way of working is discussed, with respect to their goals and means for problem -solving.
+Examples of state -of-the-art 3D technologies for visual and physical representations are d escribed, such as X -ray microtomography, finite element analysis, and additive manufacturing, showing their potential for scientific application, for example in plant sciences.
+Finally, the concept of Design -Aided Science is presented, in which it is highl ighted how 3D technologies can be used for obtaining innovative results .
+Keywords : technology, microtomography, finite elements, 3D printing, botany .
+1 Doutorando, UFRGS – Programa de Pós -Graduação em Design – PGDesign , Porto Alegre, RS, Brasil , felipe.palombini@ufrgs.br ; ORCID: 0000 -0002 -2112 -6695 2 Professor Doutor, UFRGS – Departamento de Design e Expressão Gráfica, Porto Alegre, RS, Brasil, julio.linden@ufrgs.br 3 Professor Doutor, UFRGS – Departamento d e Botânica, Porto Alegre, RS, Brasil, jorge.mariath@ufrgs.br 4 Professora Doutora, UFRGS – Depart amento de Design e Expressão Gráfica, Porto Alegre, RS , branca@ufrgs.br Educação Gráfica, Brasil, Bauru.
+168 – 186 Design -Aided Science: o Designer como Promo tor de Tecnologias 3D para Inovação em Pesquisa Cientí fica 170 1.
+Introdução A prática profissional do design está intimamente conectada com avanços tecnológicos, tanto em termos objetivos de encontrar novos meios para solução de problemas quanto nas possibilidades de integração com diversas áreas (ASHBY; FERREIRA; SCHODEK, 2009; PALOMBINI et al.
+De modo semelhante, a pesquisa em design também possui parte fundamental em desenvolver novos modos de utilização de tecnologias com outras pessoas.
+A exemplo, Lunenfeld (2003) comenta sobre a mudança de uma "fa scinação momentânea" com novas tecnologias para um campo vasto da utilização das mesmas, em práticas criativas.
+O autor afirma que a pesquisa em design pode mostrar o caminho a novos modos de engajamento com tecnologias, principalmente por meios computacio nais.
+Nesse sentido, a tecnologia pode ser definida como a "aplicação da ciência ao fornecer à sociedade e a seus membros aquilo que lhe é necessário ou desejado" (GROOVER, 2012, p. 1) , reiterando sua cumplicidade com o usuário.
+Na observação geral do termo "design", encontra -se especificamente a relação com possibilidades de utilização universal de novas tecnologias (BÜRDEK, 2010) .
+Desse modo, ainda mais importante que a pesquisa em design aprimorar interfaces de interação do usuário com meios tecnológicos, é poder trabalhar para promover as relações entre estes usuários com utilização de tecnologia, tanto em termos socioculturais, quanto em colaborações científicas (ASHBY; FERREIRA; SCHODEK, 2009; LUNENFELD, 2003) .
+Considerando o design uma área qu e percorre caminhos multidisciplinares na busca e resolução de problemas, o designer pode ser visto como um profissional treinado para trabalhar com diferentes campos da ciência (COELHO, 2008) .
+O meio de atuação de profissionais treinados em design apres enta um novo paradigma em que a atuação não se baseia mais em ser líder de projeto, mas em se tornar um agente que contribui para facilitar ideias (MURATOVSKI, 2015) .
+Nesse ponto, surge o conceito do design como um campo transdisciplinar, em que não encontra mais limitações em quais tópicos puros e aplicados o designer pode apresentar contribuições, mas que transcende áreas em busca de melhores soluções para seus problemas de pesquisa (NICOLESCU, 2010) .
+Do ponto de vista industrial, a tecnologia está associada à rapidez e à facilidade de acesso a inovações, tornando -se determinante inclusive para o sucesso ou fracasso de empresas (BAXTER, 2000) .
+Diretamente observada com o lançamento de novos produtos, as inovações industriais são muitas vezes dependentes de alterações disruptivas em etapas não tão visíveis ao grande público, como em processos de fabricação e no uso de novos materiais, sendo que frequentemente tais modificações são originadas por novas tecnologias (ASHBY; JOHNSON, 2011) .
+A inova ção baseada em tecnologia ( technology -based innovation ) tornou -se um termo quase redundante, sendo considerada um elemento essencial em, ao menos, alguma etapa do processo produtivo.
+Novas tecnologias podem representar um novo mecanismo ou equipamento, con tudo ainda mais importante é o fato de estarem envolvidas na criação de novos conhecimentos (KUSIAK, 2007) .
+O espírito de inovação fomentada pela tecnologia percorre o designer desd e a academia, onde novos meios de projetar e fabricar soluções encontram -se vinculados a recursos informatizados (ASHBY; JOHNSON, 2011) .
+Devido às grandes possibilidades oriundas do avanço tecnológico, é notável um crescimento do estudo de aplicações de novas tecnologias em cursos de design (LESKO, 2012) .
+O papel do designer não se limita apenas a ser um agente central nas relações entre clientes e indústria, mas também um profissional vinculado à necessidade de se adaptar rapidamente a novos recursos tecnológicos (PISANO; PIRONTI; RIEPLE, 2016) .
+A atuação do designer envolve então, tanto a utilização de novas tecnologias quanto ao descobrimento de novos usos de tecnologias já existen tes (SILVA; BOTURA JÚNIOR; PASCHOARELLI, 2013) , abordando diferentes e inovadores meios para interligar pesquisa dores e objetos de estudo, em diversas áreas do conhecimento.
+Educação Gráfica, Brasil, Bauru.
+168 – 186 Design -Aided Science: o Designer como Promo tor de Tecnologias 3D para Inovação em Pesquisa Cientí fica 171 Alguns trabalhos têm avaliado os benefícios da participação de designers em pesquisas científicas, tanto puras quanto aplicadas.
+Rust (2004) , por exemplo, afirma que a capacidade de designers de incorporar ideias e conhecimento em artefatos permite -os contribuir com a pesquisa ao estimular o desenvolvimento e avaliação de novas ideias.
+Já com relação à utilização dos resultados oriundos de investigações científicas, os designers podem atuar como "catalisadores de pesquisas", ao superar barreiras práticas do processo de aplicação industrial e propriedade intelectual (DRIVER; PERALTA; MOULTRIE, 2011) : Evidências sugerem que o uso de design auxilia cientistas a desenvolverem aplicações comerciais para seu trabalho, encontrando -se tanto em estágio de pesquisa ou dura nte o início do processo de transferência tecnológica (Traduzido de SAINSBURY, 2007, p. 151) .
+Além disso, designers podem aind a estimular a criação de novos conhecimentos ao produzir diretamente artefatos para testar ideias e auxiliar nas suas compreensões (DRIVER; PERALTA; MOULTRIE, 2011) .
+Verhoeven et a l. (2015) realizaram um estudo teórico prático sobre a pos sibilidade de integração entre designers e cientistas, através de uma abordagem trans disciplinar a nível de projeto de pesquisa.
+Entre as principais contribuições do designer, definidas pelos autores, estão, por exemplo, a aceleração geral da pesquisa e o fornecimento de meios criativos para experimentação e reflexão (VERHOEVEN et al.
+Peralta e Moultrie (2010) apresentaram as relações entre designers e cientistas, em termos de métodos de pesquisa de design e pesquisa científica, com relação a trabalhos colaborativos.
+Ainda que designers foquem em criação e cientistas na descoberta, ambos os profissionais trabalham por meio de experimentação, segundo os autores.
+Designers, por exemplo, exploram essencialmente o inobservável e o inexistente, trabalhando com imagens e buscando a plausibilidade; enqua nto que cientistas lidam com o observável e existente, através de explicações experimentais e buscando a verdade (VERHOEVEN et al.
+Contudo, m esmo que os objetivos, e até os resultados dos dois tipos de pesquisas, sejam diferentes, seus papéis em atividades integradas de pesquisa possuem mais em comum que o esperado (PERALTA; MOULTRIE, 2010) .
+Principalmente, entre os principai s papeis do designer para a pesquisa científica, encontram -se: (1) o emprego de conhecimento tácito, para uma visão holística da pesquisa; (2) meios de prototipar teorias e ideias científicas, para auxiliar no crescimento e maturação da pesquisa; (3) a pos sibilidade de conectar cientistas com não cientistas; (4) auxiliar a disseminação de conhecimento científico ao grande público; e (5) desenvolvimento e aplicação de novas tecnologias (DRIVER; PERALTA; MOULTRIE, 2011; PERALTA; MOULTRIE, 2010; RUST, 2004; VERHOEVEN et al.
+Frente à grande possibilidade de colaboração, em diferentes etapas de uma pesquisa científica, este trabalho aborda o impacto da participação do designer, como pesquisador, frente à utilização de novas tecnologias e durante a inter -relação com diferentes ca mpos da ciência.
+Inicialmente, no tópico 2, é apresentada uma breve revisão da interação designercientista .
+São abordados alguns casos de como a intermediação de tecnologias 3D pode significar mudanças em novos meios de observar, analisar, descobrir ou re interpretar resultados.
+Em seguida são apresentados exemplos de tecnologias 3D que podem ser aplicadas em pesquisas científicas, como técnicas de digitalização 3D de alta resolução, análises virtuais e impressão 3D.
+É verificado, então, como as novas tecno logias 3D, quando aplicadas por intermédio de designers, podem levar a inovações não apenas em termos de resultados, mas na condução da investigação em si.
+Por fim, é debatido como o designer, como pesquisador, pode se tornar parte fundamental na união de áreas distintas, com a sugestão de um conceito de ciência auxiliada pelo design ( Design -Aided Science ) por meio de tecnologias 3D.
+Educação Gráfica, Brasil, Bauru.
+168 – 186 Design -Aided Science: o Designer como Promo tor de Tecnologias 3D para Inovação em Pesquisa Cientí fica 172 2.
+(Dis)similaridades em Ciência, Design e Tecnologia As relações entre design e ciência, em termos das descrições e atuações re montam a alguns momentos da história moderna do design, alternando períodos cíclicos de, aproximadamente, 40 anos (CROSS, 2001) .
+As primeiras relações entre as áreas ocorreram na década de 1920, com a busca por "produtos científicos" de design.
+Cross (2001) ressalta que o período propunha o processo de "cientificação" do design, de modo a impedir a citada livre "especulação subjetiva" e m projetos.
+Com a necessidade do método em design, comentava -se da separação de determinados aspectos, como a espontaneidade emocional.
+Assim, o princípio, na época, era de sistematizar o design, por meio da objetividade e racionalidade, conforme pregavam os valores da ciência.
+Nos anos 1960, com o " design methods movement ", o assunto retorna com nova força.
+Neste período, iniciam os questionamentos sobre "processos científicos" de design, através da aplicação de métodos computacionais e científicos para no vos problemas, baseando -se em tecnologias (CROSS, 2001) .
+Determinados autores abordaram as diferenças e semelhanças entre métodos de abordar pesquisa na ciência e no design.
+Farrell e Hooker (2012) , por exemplo, partem da premissa dos obje tivos finais de cada área, no que tange a produção de objetos metafísicos.
+Entretanto, os autores afirmam que os resultados de estudos intelectuais e a produção desses objetos não podem ser considerados como diferenças, uma vez que ambos o design e a ciênc ia produzem artefatos.
+Além disso, acrescentam que as duas áreas são consideradas "produtos da capacidade geral de ação inteligente que caracteriza a inteligência humana"; definindo ambas como utilizadoras de processos de design e estratégias da razão com o objetivo de produzir objetos artificiais (FARRELL; HOOKER, 2012) .
+Contudo, a colocação de Farrell e Hooker (2012) de que design e ciência não são diferentes em essência é bastante discutida.
+Galle e Kroes (2014) apontam quatro características principais sobre tanto as diferenças quanto as semelhanças entre os campos: (1) os objetivos de ciência e design são diferentes, de modo a "estudar ou descrever" o mundo em compar ação com "realizar mudanças", bem como as diferenças entre a produção de conhecimento e de artefatos, respectivamente; (2) apesar de ambos os campos possuírem o mundo como objeto de estudo, a ciência estuda "fenômenos naturais e artificiais", em ensaios, isto enquanto que o design propõe "objetos artificiais", mesmo que se baseando em estudos científicos; (3) ambos produzem, também, artefatos simbólicos (teorias e propostas de artefatos), entretanto para a ciência são considerados "cognitivo -descritivos" e, para o design, "prático -descritivos"; (4) em metodologia, diferem dos critérios de avaliação de soluções, de modo que mesmo que a "verdade" possa ser aplicada a teorias científicas, não faz sentido discutir esse conceito em uma proposta de artefato de um designer.
+Ainda, além de que os problemas de design e ciência não representem, puramente, uma diferença entre as áreas, tem-se que seus métodos podem apresentar semelhanças fundamentais.
+Farrell e Hooker (2013) afirmam que ambos os métodos científico e de design são o resultado de processos cognitivos e da gestão de condições pragmáticas e complicadas, le vando, portanto, a soluções igualmente objetivas.
+Por outro lado, ao expressar o design thinking como uma "arte liberal", pode ser apontada, inclusive, a "impossibilidade" intrínseca do design em se apoiar na ciência na busca por soluções adequadas para os wicked problems (problemas perversos), com toda a carga humanitária presente (BUCHANAN, 1992) .
+Isso se contrasta ao considerar os então chamados tame problems (problemas domesticados), das áreas de ciência e engenharia (CROSS, 2001) , para os quais soluções poderiam ser encontradas de modo mais mecanizado.
+À parte das comparações entre as duas formas de atuação, determinados autores comentam també m sobre a atuação mútua e a colaboração entre as áreas, principalmente com a adição da variável tecnologia.
+Levy (1985) destaca que o design, sendo considerado uma atividade fundamentalmente humana, precisa ser vista tanto como científ ica quanto Educação Gráfica, Brasil, Bauru.
+168 – 186 Design -Aided Science: o Designer como Promo tor de Tecnologias 3D para Inovação em Pesquisa Cientí fica 173 tecnológica, abrangendo tanto o processo prático do fazer quanto a realização de uma reflexão crítica de seu significado.
+Como o design precisa envolver não apenas o "quê" e o "como", mas o "porquê" e o conhecimento de seu propósito, tem -se que sua atividade permeia as "incertezas epistemológicas" (da ciência), tal como princípios de "arte e técnica" (LEVY, 1985) .
+O design passou de ser a atividade do simples projetar, para o ato de trabalhar na aplicação de conhecimento (CALVERA, 2006) .
+Desse modo, com a participação de design em pesquisas científicas alguns paradigmas podem ser modificados, como a sugestão de que designers simplesmente contribuíam no desenvolvimento e, mais especif icamente, da aplicação de uma tecnologia (DRIVER; PERALTA; MOULTRIE, 2011) .
+Os designers, ao promoverem tecnologias em estudos científicos, e considerarem seu uso desde em estágios iniciais, desafiam a ideia de serem vistos apenas como "fornecedores de serviços" e passam a ser considerados como "catalizadores de pesquisas" (DRIVER; PERALTA; MOULTRIE, 2011) .
+Tecnologias 3D para Pesquisa Científica A partir de comparativos traçados entre as semelhanças e diferenças do design e da ciência, no que tange os problemas, objetivos, metodologias e resultados, é possível definir o emprego de tecnologias 3D como ferrame ntas importantes por toda a colaboração de designers e cientistas.
+Da mesma forma, ao unir a importante participação que o designer pode ter na colaboração em pesquisas científicas bem como sua facilidade natural em trabalhar com tecnologias 3D, é possível levantar exemplos de técnicas atuais que podem ser exploradas por ambas as áreas, para um maior desenvolvimento do conhecimento teórico e prático.
+Desse modo, este tópico apresenta uma fundamentação sobre os princípios e etapas na utilização de tecnologia s 3D.
+Em seguida, são vistos alguns exemplos, considerados em seu estado da arte, das tecnologias de Microtomografia de Raios X (µCT), Análise por Elementos Finitos (FEA) e Manufatura Aditiva (AM), evidenciando as possibilidades de aplicação em ciências e, principalmente, ressaltando como sua utilização pode ser promovida por designers 3.1.
+Conceitos e Etapas As tecnologias podem ser divididas de acordo com as etapas relativas ao seu processo de utilização em uma pesquisa científica, como visto na Erro!
+Fonte de referência não encontrada.
+Essencialmente, as tecnologias 3D atuais tratam da manipulação de informações de modo digital (GIBSON; ROSEN; STUCKER, 2015; PEARS; LIU; BUNTING, 2012; SILVA et al.
+Desse modo, tem -se a necessidade de se obter um modelo 3D virtual do objeto/ cenário foco da pesquisa, em uma etapa conhecida como digitalização ou aquisição.
+Nesta etapa, diferentes meios de obtenção de imagens digitais são empregados, variando -se conforme o tipo de interação com a amostra, podendo ser consideradas: (1) passiva, q uando não há contato ou interação; ou (2) ativa, quando ocorre ao menos algum tipo de interação (DROUIN; BERALDIN, 2012; SE; PEARS, 2012) .
+Entre exemplos mais comuns de digitalização passiva encontra -se meios de aquisição por imagem, conhecidos por fotogrametria, em que informações do objeto (cores, texturas, sombras) são apenas captadas por sensores (SANSONI; TREBESCHI; DOCCHIO, 2009; SE; PEARS, 2012) .
+Com os detalhes dos dados de cada imagem capturada, um software combina as regiões semelhantes, montando um modelo 3D superficial do objeto.
+Já na ativa, necessariamente há a lgum tipo de contato físico ou eletromagnético, como ultrassom, rádio, infravermelho, raio X, entre outros (DROUIN; BERALDIN, 2012; HÜBSCHEN et al.
+De modo semelhante ao da digitalização passiva, cada projeção obtida é combinada, resultando em um modelo 3D que, por sua vez, pode ser superficial ou volumétrico, revelando detalhes de seu interior.
+Educação Gráfica, Brasil, Bauru.
+168 – 186 Design -Aided Science: o Designer como Promo tor de Tecnologias 3D para Inovação em Pesquisa Cientí fica 174 Figura 1: Etapas correspondentes às tecnologias 3D aplicadas à ciência Fonte: Elaborado pelos autores.
+Com a aquisição de um modelo virtual, passa -se para a etapa de processamento, em que os dados capturados precisam ser ajustados de modo a corrigir falhas e melhorar sua qualidade geral para serem estudados.
+Desse modo, dependendo do tipo de aquisição utilizado, diferentes ajustes são necessários, como a re dução da nuvem de pontos digitalizados, correção de defeitos em superfícies, ajustes de iluminação e redução de ruído em imagens, entre outros (RUSS; NEAL, 2016; SENSEN; HALLGRÍMSSON, 2009; TOCHERI, 2009) .
+Após corrigidas, as geometrias 3D podem ser exportadas e/ou transformadas em diferentes formatos de arquivos, para serem posteriormente analisadas (PALOMBINI et al.
+A etapa seguinte diz respeito às análises que podem ser realizadas de maneira virtual, utilizando -se os modelos 3D adquiridos e ajustados.
+Com uma reconstrução tridimensi onal, o objeto pesquisado pode ser analisado tanto visualmente, de modo qualitativo, como numericamente, de modo quantitativo (PEARS; LIU; BUNTING, 2012) .
+Além disso, a utilização de modelos digitalizados permite trabalhar -se com geometrias de gr ande precisão em comparação com o objeto original.
+Desse modo, as tecnologias 3D também possibilitam a exportação para execução de análises baseadas em elementos finitos, em que ensaios são simulados no modelo, de modo virtual (BOYD, 2009; ZIENKIEWICZ; TAYLOR; ZHU, 2013) .
+Após a execução das análises visuais e numéricas, os objetos adquiridos e, portanto, virtuais podem ser novamente transformados em físicos, em processos de modelagem.
+De modo geral, essa etapa diz respeito à fabricação, também chamada de prototipagem, de modelos físicos por meio de técnicas subtrativas ou aditivas (LEFTERI, 2013) .
+Na abordagem subtrativa, ocorre a remoção de material a partir de um sólido inicial, tendo os processos de usinagem como os mais conhecidos (ASHBY; JOHNSON, 2011; GROOVER, 2012) .
+Já nas tecnologias aditivas, ocorre a deposição de um material -insumo, camada por camada, até completá -lo, send o principalmente popularizado como impressão 3D (GIBSON; ROSEN; STUCKER, 2015) .
+Além dos meios de fabricação, as duas abordagem diferem em alguns f atores, como, por exemplo: (1) complexidade do objeto, sendo maior em processos aditivos; (2) Educação Gráfica, Brasil, Bauru.
+168 – 186 Design -Aided Science: o Designer como Promo tor de Tecnologias 3D para Inovação em Pesquisa Cientí fica 175 velocidade de manufatura, sendo maior em subtrativos; (3) produção de resíduos, sendo, obviamente, muito maior em processos subtrativos (GIBSON; ROSEN; STUCKER, 2015) .
+Por fim, uma das principais vantagens de tecnologias 3D é a capacidade de reiniciar o ciclo, ao fazer, por exemplo, uma digitalização de um m odelo prototipado, voltando à primeira etapa descrita.
+Desse modo, é possível também comparar diferentes tipos de abordagens utilizadas em cada uma das etapas (aquisição, processamento, análise e modelagem), para verificar possíveis resultados após modific ações em variáveis de cada etapa.
+Digitalização: Microtomografia Computadorizada de Raios X (µCT) Dentre as principais características necessárias do processo de digitalização de amostras para utilização em meios científicos, destaca -se a necessidade de se obter um modelo com grande fidelidade morfológica tanto em sua superfície quanto em seu interior para representações visuais adequadas (CIDADE; PALOMBINI; KINDLEIN JÚNIOR, 2015; GLEASON; PAULUS; OSBORNE, 2010) .
+Desse modo, tem -se a certeza que a versão virtual pode ser considerada uma correspondente correta da amostra física original, permitindo a validação de análises posteriores.
+A lém disso muitas vezes é requerido tanto uma preparação adequada da amostra, quanto a utilização de uma técnica de digitalização que não seja destrutiva, para que as formas do modelo virtual não sejam comprometidas durante o processo (HANKE et al.
+Já um atributo bastante desejado para as tecnologias de digitalização é a capacidade de obter um modelo em alta resolução.
+Em variadas área s de conhecimento, como exemplo da anatomia vegetal, em que os detalhes da microestrutura de plantas são essenciais, o estudo de amostras torna -se ainda mais importante quando realizado em escalas cada vez menores, de modo que mais detalhes microscópicos p odem ser revelados (EVERT; EICHHORN, 2006; STOCK, 2009) .
+A partir dessas três importantes qualidades de uma digitalização em meios científicos, uma técnica tem ganhado bastante destaque: a microtomografia computadorizada de r aios X (µCT).
+A tecnologia une a possibilidade de se obter um modelo 3D volumétrico de alta resolução em uma análise não -destrutiva, contendo uma grande fidelidade morfológica (PALOMBINI et al.
+Semelhante à tomografia hospitalar convencional, a µCT utiliza radiação no comprimento de onda de raios X para obter uma micrografia de alta resolução; após a aquisição, a amostra é rotacionada em uma fração de grau, e uma nova micrografia é obtida.
+Após meia ou uma volta completa, tem -se imagens de diversas angulações, as quais são combinadas por um algoritmo, gerando um modelo virtual (HANKE et al.
+Ao final, o modelo gera uma representação gráfica realista de alta resolução do modelo, permitindo seu estudo em diversos modos.
+Enquanto que as tomografias hospitalares operam com resol uções espaciais na casa de milímetros ou centenas de micrômetros, a microtomografia utiliza resoluções por volta de 1 micrômetro (CIDADE et al.
+Há ainda equipamentos conhecidos como nanotomógrafos que, confor me o nome, são capazes de operar em resoluções nominais de apenas algumas dezenas de nanômetros.
+Tais resoluções permitem observar, por exemplo, tecidos e células vegetais com grande definição e contraste (BOGART; SPIERS; CHOLEWA, 2010; HUANG; LI; LIU, 2016) .
+Por se tratarem de tecidos delicados e com estruturas cujas morfologias interferem diretamente na interpretação das análises, a técnica de µCT leva a diferentes possibilidades de investigação em amostras biológicas, especialmente em plantas.
+De um modo geral, Brodersen e Roddy (2016) destacam a inovação trazida pela aplicação de microtomografia na grande área da botânica para revelar novas estruturas.
+(2017) utilizaram µCT para visualização 3D e quantificação do tanque de água característico de determinadas espécies de bromélias (Figura 2A), bem como a descrição de gemas e estruturas reprodutivas na amost ra.
+(2017) aplicaram a técnica para Educação Gráfica, Brasil, Bauru.
+168 – 186 Design -Aided Science: o Designer como Promo tor de Tecnologias 3D para Inovação em Pesquisa Cientí fica 176 investigar a relação do tamanho e padrão de células com a quantidade de espaços vazios, que contribuem para a circulação de CO 2 e o consequente aumento do desempenho da fotossíntese, através da repressão de ciclos genéticos nas folhas.
+(2013) trabalharam com diversas amostras para apresentar detalhes qualitativos e quantitativos de folhas, como espaços intracelulares, localização de tricomas, e v isualização de sementes.
+(2016) utilizaram µCT para reconstruir os tecidos constituintes do bambu (Figura 2B).
+Figura 2: Exemplos de aplicação da técnica de µCT para representação gráfica 3D de espécies de plantas: (A) bromélia com estrutura interna e área volume de água interno; (B) bambu com separação dos tecidos constituintes.
+Fonte: Adaptado de Nogueira et al.
+Para esses exemplos, tornam -se necessários con hecimentos tanto para operação do equipamento quanto para manipulação e ajuste dos arquivos finais gerados (RUS S; NEAL, 2016) .
+Essencialmente, a µCT trabalha com arquivos sequenciais de imagens brutas, i.e., em formatos sem compactação.
+Os arquivos precisam ser ajustados, como por exemplo quanto ao contraste e ao ruído, com softwares específicos (STOCK, 2009 ).
+Para visualização da amostra digitalizada, é requerida a combinação da pilha de imagens de modo a gerar um modelo 3D virtual.
+Ainda, para a segmentação entre diferentes regiões e consequentemente para análises qualitativas, as imagens precisam ser conv ertidas em arquivos volumétricos, o que também demanda conhecimentos em softwares de manipulação tridimensional.
+Portanto, em todas as etapas, de um modo geral, é interessante a participação de um profissional que tenha domínio e trabalhe tanto com tratame nto de imagens bidimensionais quanto com arquivos tridimensionais, evidenciando como a participação do designer pode ser fundamental na Educação Gráfica, Brasil, Bauru.
+168 – 186 Design -Aided Science: o Designer como Promo tor de Tecnologias 3D para Inovação em Pesquisa Cientí fica 177 interpretação das amostras digitalizadas, quando habilitado em tais competências.
+Análise: Elementos Finitos (FEA) Estud os com caráter principalmente funcional e mecânico tendem a requerer análises físicas, em que amostras são ensaiadas para se avaliar seu comportamento mecânico (GIBSON; ASHBY; HA RLEY, 2010) .
+A exemplo, encontram -se os ensaios de tração, compressão, flexão, entre outros, considerados importantes técnicas de caracterização de amostras sintéticas e biológicas, como no exemplo de plantas.
+Contudo, obviamente, este tipo de abordagem é considerado destrutivo, uma vez que a amostra é danificada durante o processo.
+Isso impede tanto sua repetição quanto a alteração de variáveis como processamento do material e parâmetros dos ensaios, necessitando de uma maior quantidade de amostras (BOYD, 2009) .
+Outro ponto negativo é a dificuldade em realizar ensaios físicos em microrregiões específicas, com o emprego de amostras com dimensões pequenas, em razão da natural fragilidade e delicadeza das mesmas bem como da maior sensibilidade necessária das células de carga, para registrar corretamente o desempenho do material (BURGERT, 2006) .
+Esses pontos podem ser contornados com outra técnica de grande utilidade para pesquisa científica, a análise por elementos finitos (FEA).
+A FEA consiste principalmente na realização de ensaios físicos de maneira virtual, ou seja, uti lizando equações matemáticas para estudar a relação entre as propriedades do objeto ensaiado e o seu contorno, correspondendo, por exemplo, às tensões aplicadas e às restrições de movimentação (ZIENKIEWICZ; TAYLOR; ZHU, 2013) .
+Para isso, é necessári o um modelo 3D volumétrico representativo da amostra que se deseja analisar, o qual pode ser obtido através da exportação dos arquivos oriundos da µCT.
+Como os materiais biológicos possuem incontáveis características, em diversas escalas, que influenciam s eu comportamento – órgãos, tecidos, células, camadas da parede celular, microfibrilas, organelas – um modelo realista tenderia a possuir infinitos componentes e fatores, sendo então chamado de contínuo (BOYD, 2009) .
+Como este tipo de análise necessitaria de computadores com processamento igualmente infinito, um ensaio virtual tornar -se-ia inviável.
+Desse modo, na FEA, o modelo contínuo (infinito) é dividido em um número conh ecido (finito) de pequenos elementos constituintes, sendo conhecidos então por elementos finitos (ZIENKIEWICZ; TAYLOR; ZHU, 2013) .
+Originalmente, o método de elementos finitos foi desenvolvido para auxiliar na resolução de problemas complexos de eng enharia estrutural (ZIENKIEWICZ; TAYLOR; ZHU, 2013) .
+Desse modo, os modelos costumavam estar relacionados com formas geométricas e bem -definidas, frequentemente obtidas por softwares CAD ( Computer -Aided Design , ou projeto auxiliado por computador) d e modo paramétri co (KUROWSKI, 2004) .
+Contudo, para a análise ser mais representativa, a geometria utilizada precisa ser a mais próxima possível da real.
+Desse modo, ao serem combinadas, as técnicas de µCT e FEA tornam -se ainda mais importantes para a pesquisa científica de materiais complexos, especialmente nas plantas.
+Isso se deve à utilização do mesmo modelo 3D de alta resolução e fidelidade morfológica da µCT para a execução de uma análi se virtual.
+Poucos trabalhos têm explorado o potencial de utilização da combinação de técnicas de µCT e FEA para o estudo de materiais vegetais.
+, 2016, 2018) estudaram um modelo 3D do bambu oriundo de microtomografia para uma análise de compressão, por elementos finitos utilizando uma amostra digitalizada inteira co m vários tecidos constituintes (Figura 3A) e apenas o tecido parênquima, que se comporta como uma espuma (3B).
+(2015) combinaram FEA com µCT para analisar diferentes modificações morfológicas em uma amostra digitalizada de milho, com o objetivo de aumentar o desempenho da plan tação para bioenergia.
+(2009) utilizaram µCT e FEA Educação Gráfica, Brasil, Bauru.
+168 – 186 Design -Aided Science: o Designer como Promo tor de Tecnologias 3D para Inovação em Pesquisa Cientí fica 178 para uma análise estrutural de células de peras, para estudar a troca de gases entre células.
+Figura 3: Exemplos de utilização de FEA para ensaios virtuais no bambu: (A) ensaio com tecidos distintos; (B) ensaio com o tecido parênquima.
+Fonte: Ada ptado de Palombini et al.
+Mesmo que utilizadas em uma mesma pesq uisa científica, as tecnologias de µCT e FEA por vezes não são empregadas em combinação.
+Um dos motivos principais é a complexidade e a dificuldade em realizar a conversão de imagens sequenciais oriundas de microtomografia para um modelo discretizado para elementos finitos (BOYD, 2009; PALOMBINI, 2016) .
+O processo exige a utilização de softwares específicos e limitados, necessitando de ajustes nas regiões segmentadas e de refinamento na malha utilizada.
+Por outro lado, esse pode ser considerado mais um exemplo de situação em que o designer pode contribuir dur ante a condução da pesquisa (PALOMBINI et al., 2017) .
+Ainda que o método de elementos finitos seja mais característico para problemas de engenharia, o designer também tem incluído este tipo de análise em seus projetos, de modo a auxiliar tanto no desenvolvimento das formas de produtos quanto na s eleção de seus materiais constituintes (CHANG, 2014; KUROWSKI, 2004) .
+Desse modo, complementando a etapa de digitalização, a análise por elementos finitos também é considerada uma importante forma de representar graficamente o comportamento físico de um material, além de possibilitar a repetição e modificações de variáveis.
+Educação Gráfica, Brasil, Bauru.
+168 – 186 Design -Aided Science: o Designer como Promo tor de Tecnologias 3D para Inovação em Pesquisa Cientí fica 179 3.4.
+Modelagem: Manufatura Aditiva (AM) Outro tipo de tecnologia com grande relevância para a pesqu isa científica são as técnicas voltadas para a fabricação de objetos físicos a partir de modelos virtuais.
+A modelagem permite desde replicar determinados objetos em tamanho real quanto ampliar ou reduzir modelos com escalas inacessíveis (GROOVER, 2012) .
+Dentre as principais tecnologias disponíveis em termos de flexibilidade e complexidade da peça produzida encontra -se a manufatura aditiva (AM).
+A técnica compreende um conjunto de diferentes métodos em que a principal característica, e ponto em comum, é a fabricação em camadas de maneira automatizada (GEBHARDT; HÖTTER, 2016; GIBSON; ROSEN; STUCKER, 2015).
+Inicialmente chamada de "prototipagem rápida" e popularmente difundida como "impres são 3D", a manufatura aditiva corresponde a uma revolução nos métodos de fabricação modernos.
+Dentre suas principais vantagens é possível citar a capacidade de se produzir objetos com formas complexas e otimizadas a níveis sem precedentes, em comparação co m processos tradicionais (GIBSON; ROSEN; STUCKER, 2015) .
+Devido a seu sistema de funcionamento baseado na adição do insumo somente nas áreas pré -definidas por computador, a AM permite também uma considerável economia de material, tanto na pouca quantidade de resíduos gerados como na possibilidade de fabricar peças ocas e com detalhes finos.
+A denominação de manufatura aditiva surge como um delimitado r das demais técnicas consideradas subtrativas, ou seja, que funcionam com base na remoção de material, como por exemplo fresamento e torneamento (GEBHARDT; HÖTTER, 2016).
+Seu funcionamento inicia com um modelo 3D virtual, o qual é processado de modo a ser dividido em camadas as quais são fabricadas de modo s equencial.
+Para tal, cada camada é percorrida de modo automatizado por sistemas CNC ( Computer Numerical Control , ou controle numérico computadorizado).
+Uma das principais divisões de sistemas de AM é com relação ao tipo de insumo empregado, variando -se con forme o material – como polímeros, metais, cerâmicos, etc.
+– e também de acordo com a forma sobre a qual ele é utilizado – como filamento, pó, líquido, etc.
+(GIBSON; ROSEN; STUCKER, 2015) .
+Com a capacidade de reproduzir detalhes complexos com grande fidelidade, a AM tem crescido quanto ao potencial observado para uso na pesquisa científica em áreas clássicas.
+Novamente com relação a trabalhos relacio nados à botânica, os modelos têm sido empregados para avaliar diversos aspectos.
+(2017) fabricaram modelos em uma escala 50X maior de regiões de diversos tecidos constituintes do bambu, de modo a revelar fisicamente detalhes em 3D da planta (Figura 4 ).
+Policha et a l. (2016) fabricaram réplicas de flores de orquídeas em silicone cirúrgico para avaliar a influência de padrões coloridos e sinais olfatórios para polinizadores.
+Em outra abordagem, Dixon et al.
+(2018) reproduziram modelos em escala do tecido parenqui mático do bambu, originados de µCT, para avaliar seu comportamento elástico por meio de ensaios mecânicos.
+Dentre as tecnologias 3D apresentadas, a de manufatura aditiva apresenta uma relação intrínseca com designers, levando em consideração sua presença q uase essencial em processos de criação e desenvolvimento (BACK et al.
+Des se modo, tornam -se ainda mais claras as possibilidades não apenas de contribuição do designer, mas principalmente da busca por estratégias de fabricação por AM e na seleção das melhores técnicas e materiais para cada modelo fabricado.
+O designer, com seu r epertório de processos de manufatura aditiva e conhecimento de materiais e técnicas de modelagem, representa um grande auxílio prático no desenvolvimento de modelos com finalidades científicas.
+Com obtenção de imagens a partir de microtomografia, a reprodu ção física em uma escala aumentada com manufatura aditiva possibilita tanto novas interpretações científicas das estruturas estudadas, como novas abordagens de ensino (PALOMBINI et al.
+Educação Gráfica, Brasil, Bauru.
+168 – 186 Design -Aided Science: o Designer como Promo tor de Tecnologias 3D para Inovação em Pesquisa Cientí fica 180 Figura 4: Exemplos de utilização de manufatura adit iva para uma representação física, em escala, dos tecidos constituintes do bambu.
+Fonte: Adaptado de Palombini et al.
+Design -Aided Science: a Ciência Auxiliada pelo Design A proximidade do modo de pensar do designer com o do cientista, em termos de objetividade, esquemati zação e resolução de problemas, torna esse profissional um importante parceiro para o desenvolvimento de pesquisas mistas (FARRELL; HOOKER, 2013) .
+Como visto, ainda que o designer estude "objetos artificiais" para o desenvolvimento de "artefatos", ao passo que o cientista trabalhe com "fenômenos naturais e artificiais" para a produção de "conhecimentos" (GALLE; KROES, 2014) , a união dos profissionais tende a ser ainda mais intensa com a atual transdisciplinaridade das pesquisas (VERHOEVEN et al.
+Considerando ciências clássicas e tradicionais, co mo a botânica, em que é transcorrida a busca por artefatos simbólicos (novos conhecimento) por meio de processos "cognitivodescritivos" (protocolos estabelecidos) na busca da "verdade" (confirmação ou não de teorias) (GALLE; KROES, 2014) , é notável a crescente necessidade de se atualizar e mudar paradigmas quanto às ferramentas e técnicas utilizadas nas pesquisas (PALOMBINI et al.
+Com a evolução dos conhecimentos específicos disponíveis, e consequentemente da botânica como um todo, ressalta -se a imperatividade de buscar detalhes anatômicos progressivamente men ores (BRODERSEN; RODDY, 2016; PAJOR et al.
+, 2013 ), variáveis fenotípicas mais sutis e discretas (FORELL et al.
+, 2016) , bem como relações estruturais e funcionais ainda mais conexas com sua morfologia (LEHMEIER et al.
+Desse modo, destaca -se também a importância da união definitiva da área com as mais avançadas tecnologias 3D de pesquisa e análise disponíveis.
+A medida em que se pr ogride na utilização e combinação de diversas tecnologias 3D, o papel do designer se intensifica com a necessidade de se desenvolver meios adequados de empregá -las durante a pesquisa científica.
+Tecnologias como microtomografia aliada à análise por element os finitos e à manufatura aditiva, quando aplicadas em ciências clássicas, as quais não necessariamente estão relacionadas a estas, requerem mais do que um apoio de um profissional com formação transdisciplinar.
+A participação do designer pode ser tão bem explorada neste contexto que, unindo os seus conhecimentos práticos sobre esses métodos com sua capacidade de trabalhar com profissionais de diversas áreas, torna -o um agente fundamental para a escolha e execução de ensaios bem como para a análise de resul tados baseadas em tecnologias 3D.
+A figura 5 apresenta um esquema para esta relação, com o conceito de ciência auxiliada pelo design, ou Design -Aided Science .
+Educação Gráfica, Brasil, Bauru.
+168 – 186 Design -Aided Science: o Designer como Promo tor de Tecnologias 3D para Inovação em Pesquisa Cientí fica 181 Figura 5: Design -Aided Science: a união entre ciências e tecnologias 3D, intermediadas pelo design, leva à geração de pesquisa com resultados inovadores Fonte: Elaborado pelos autores.
+Como visto, as ciências clássicas procuram no design novas formas para a condução de processos cognitivo -descritivos; sendo que o design, por sua vez, busca nas tecnologias 3D métodos prático -descritivos para a resolução dos problemas de pesquisa.
+A transdisciplinaridade intrínseca do design torna -se, então, a responsável pela integração ent re a produção de conhecimentos da ciência com a geração de artefatos das tecnologias 3D, sejam eles físicos ou virtuais.
+Munido da necessidade e das ferramentas, é possível ao designer contribuir tanto na elaboração e na análise dos resultados obtidos, qua nto no desenvolvimento de novos meios de ensino.
+A representação gráfica de formas e ensaios, por meio de µCT e FEA, e física das estruturas, por meio de AM, surge como características de inovação em meios científicos e acadêmicos, os quais o designer poss ui um papel essencial.
+É importante destacar que, por si só, as tecnologias 3D, mesmo em seu estado da arte, não necessariamente são sinônimo de inovação, nem tampouco são capazes de levar a tais resultados.
+Desse modo, tem -se que sem objetivos bem definid os, métodos descritos e hipóteses levantadas, as tecnologias tornam -se meras ferramentas de exercício.
+Práticas e desenvolvidas, mas rasas.
+Assim, quando observadas isoladamente, tanto as ciências clássicas sem novas técnicas de abordagem quanto o exercíci o de tecnologias 3D aplicadas tendem a um menor potencial de inovação, do ponto de vista dos resultados obtidos; devido, por um lado, à limitação de ferramentas e, pelo outro, à ausência de objetividade de aplicação.
+Ainda, analisando por outro eixo, com a ciência tomando a pesquisa somente como o estudo de fenômenos e o design utilizando tecnologias 3D apenas com o estudo de objetos, torna -se mais difícil de se alcançar resultados relevantes, em termos de inovação em pesquisa.
+Educação Gráfica, Brasil, Bauru.
+168 – 186 Design -Aided Science: o Designer como Promo tor de Tecnologias 3D para Inovação em Pesquisa Cientí fica 182 5.
+Considerações Finais Além de participarem como meios de execução de novas análises, as tecnologias 3D podem surgir com uma forma disruptiva de se buscar novas soluções para problemas de pesquisa científica.
+Técnicas em seu estado da arte, como a união da microtomografia com a análise por elementos finitos e a manufatura aditiva são consideradas opções ideais para uso em conjunto com ciências clássicas.
+Para isto, contudo, é essencial uma participação ativa do designer desde o planejamento, a execução e a análise dos resultados de uma p esquisa.
+A contribuição do design na pesquisa científica está relacionada à capacidade de unir o abstrato (fenômenos) com o concreto (objetos), levando, de um modo cognitivo, novas aplicações às tecnologias disponíveis.
+Com o conceito de Design -Aided Scien ce, é necessário ao designer a modificação ou adaptação de seu clássico problema de pesquisa, com o conhecimento tomando o lugar do artefato.
+É notável que as pesquisas tendem a buscar formas alternativas de investigação para alcançar resultados inovadores .
+Desse modo, a inovação em pesquisas associadas com disciplinas tradicionais tende relacionar -se simultaneamente tanto a uma característica mais holística, com a inter -relação de diferentes campos, quanto mais aprofundada, com a especialização de uma área .
+Portanto, o designer – como membro atuante na relação entre as tecnologias 3D e a aplicação científica – precisa estar atento não apenas a parte prática das técnicas a serem empregadas e manter a habilidade de dialogar com profissionais de diversas forma ções, mas essencialmente permitirse aprofundar em áreas novas.
+Com essa aplicação, o novo 'cliente' e o novo 'problema de projeto' do designer passam a ser os pesquisadores e as hipóteses a serem esclarecidas na pesquisa científica.
+Em casos de ciências c lássicas como a botânica, em particular a anatomia vegetal, ao ser fundamentada na observação, caracterização e análise de micro - e macrorregiões de plantas, várias são as possibilidades de inovação oriundas pelas tecnologias 3D fomentadas pela presença de um designer.
+Essencialmente, com a possibilidade de visualizar, ensaiar e replicar em escalas maiores determinadas regiões microscópicas antes inacessíveis, as técnicas de µCT, FEA e AM representam tecnologias com grande potencial de inovação, as quais deveriam ser mais empregadas e incentivadas.
+E para o designer, neste contexto, surge a oportunidade tanto de conduzir novas finalidades a essas tecnologias quanto de auxiliar cientistas durante todas as etapas relacionadas às suas aplicações.
+Como um profis sional treinado para lidar com diferentes cenários e problemas, a inserção de designers em grupos de pesquisa tende a ser um importante agente para a inovação em ciências.
+Referências ASHBY, M. F.; FERREIRA, P. J. S. G.; SCHODEK, D. L. Nanomaterials, nanotechnologies and design : an introduction for engineers and architects .
+Burlington, EUA: ButterworthHeinemann, 2009.
+ASHBY, M. F.; JOHNSON, K. Materiais e design : arte e ciência na seleção de materiais em projeto de produto .
+Projeto integrado de produtos : planejamento, concepção e modelagem .
+BAXTER, M. Projeto de produto : guia prático para o design de novos produtos .
+São Paulo: Edgard Blücher, 2000.
+Educação Gráfica, Brasil, Bauru.
+168 – 186 Design -Aided Science: o Designer como Promo tor de Tecnologias 3D para Inovação em Pesquisa Cientí fica 183 BOGART, S. J.; SPIERS, G.; CHOLEWA, E. X -ray μCT imaging technique reveals corm microstructures of an arctic -boreal cotton -sedge, Eriophorum vaginatum.
+Journal of Structural Biology , v. 171, n. 3, p. 361 –371, 2010.
+DOI: 06.009 BOYD, S. K. Image -Based Finite Element Analysis.
+In: Advanced Imaging in Biology and Medicine .
+Berlin, Heidelberg: Springer Berlin Heidelberg, 2009. p. 301 –318.
+DOI: -3-540-68993 -5_14 BRODERSEN, C. R.; RODDY, A.
+New fro ntiers in the three -dimensional visualization of plant structure and function.
+American Journal of Botany , v. 103, n. 2, p. 184 –188, 1 fev.
+DOI: BUCHANAN, R. Wicked Problems in Design Thinking.
+Design Issues , v. 8, n. 2, p. 5, 1992.
+DOI: BÜRDEK, B. E. Design : história, teoria e prática do design de produtos .
+São Paulo: Edgard Blücher, 2010.
+Exploring the micromechanical design of plant cell walls.
+American Journal of Botany , v. 93, n. 10, p. 1391 –1401, 2006.
+DOI: CALVERA, A. Treinando pesquisadores para o design: algumas considerações e muitas preocupações acadêmicas.
+Revista Design em Foco , v. 3, n. 1, p. 97 –120, 2006.
+Product Design Modeling Using CAD/CAE .
+Investigation of the thermal microstructural effects of CO 2 laser engraving on agate via X -ray microtomography.
+Optics & Laser Technology , v. 104, p. 56 –64, ago .
+DOI: CIDADE, M. K.; PALOMBINI, F. L.; KINDLEIN JÚNIOR, W. Biônica como processo criativo : microestrutura do bambu como metáfora gráfica no design de joias contemporâneas.
+Educação Gráfica (Online) , v. 19, n. 1, p. 91 –103, 2015.
+CROSS, N. Designerly Ways of Knowing: Design Discipline Versus Design Science.
+Design Issues , v. 17, n. 3, p. 49 –55, jul.
+3D printed structures for modeling the Young's modulus of bamboo parenchyma.
+Acta Biomaterialia , v. 68, p. 90 –98, mar.
+DOI: DRIVER, A. J.; PERALTA, C.; MOULTRIE, J.
+Exploring How Industrial Designers Can Contribute to Scientific Research.
+International Journal of Design , v. 5, n. 1, p. 17 –28, 2011.
+In: 3D Imaging, Analysis and Applications .
+London: Springer London, 2012. p. 95 –138.
+DOI: -14471 -4063 -4_3 EVERT, R. F.; EICHHORN, S. E. Esau's plant anatomy : meristems, cells, and tissues of the plant body: their structure, function, and development .
+New Jersey: John Wiley & Sons, Inc., 2006.
+FARRELL, R.; HOOKER, C. The Simon –Kroes model of technical artifacts and the distinction between science and design.
+Design Studies , v. 33, n. 5, p. 480 –495, set.
+DOI: FARRELL, R.; HOOKER, C. Design, science and wicked problems.
+Design Studies , v. 34, n. 6, p. 681–705, nov. 2013.
+DOI: /10.1016/j.destud.2013.05.001 Educação Gráfica, Brasil, Bauru.
+168 – 186 Design -Aided Science: o Designer como Promo tor de Tecnologias 3D para Inovação em Pesquisa Cientí fica 184 FORELL, G. VON et al.
+Preventing lodging in bioenergy crops: a biomechanical analysis of maize stalks suggests a new approach.
+Journal of Experimental Botany , v. 66, n. 14, p. 4367 –4371, jul.
+DOI: /jxb/erv108 GALLE, P.; KROES, P. Science and design: Identical twins?
+Design Studies , v. 35, n. 3, p. 201 – 231, maio 2014.
+DOI: GEBHARDT, A.; HÖTTER, J.-S.
+Additive manufacturing : 3D printing for prototyping an d manufacturing .
+Cincinnati, OH: Hanser Publishers, 2016.
+GIBSON, I.; ROSEN, D.; STUCKER, B.
+Additive manufacturing technologies : 3D printing, rapid prototyping, and direct digital manufacturing .
+New York, NY: Springer New York, 2015.
+GIBSON, L. J.; ASH BY, M. F.; HARLEY, B.
+Cellular materials in nature and medicine .
+Cambridge, UK: Cambridge University Press, 2010.
+GLEASON, S. S.; PAULUS, M. J.; OSBORNE, D. Principles of Micro X -ray Computed Tomography.
+In: WEISSLEDER, R.; ROSS, B. D.; REHEMTULLA, A.
+Molecular Imaging  : Principles and Practice .
+Shelton, CT: People's Medical Publishing House – USA, 2010. p. 54 –75.
+GROOVER, M. P. Fundamentals of modern manufacturing : materials, processes, and systems .
+Hoboken, N.J.: John Wiley & Sons, Inc., 2012.
+X-ray microtomography for materials characterization.
+Materials characterization using Nondestructive Evaluation (NDE) methods .
+Duxford, UK: Woodhead, 2016. p. 45 –79.
+DOI: -0-08-100040 -3.00003 -1 HUANG, R.; LI, P.; LIU, T. X -ray microtomography and finite element modelling of compressive failure mechanism in cenosphere epoxy syntactic foams.
+Composite Structures , v. 140, p. 157 – 165, 2016.
+Materials characterization using Nondestructive Evaluation (NDE) methods .
+KUROWSKI, P. M. Finite Element Analysis for design engineers .
+Warrendale, PA: SAE International, 2004.
+Innovation: The Living Laboratory Perspective.
+Computer -Aided Design and Applications , v. 4, n. 6, p. 863 –876, jan. 2007.
+DOI: LEFTERI, C. Como se faz : 92 técnicas de fabricação para design de produtos .
+São Paulo: Edgard Blücher, 2013.
+Cell density and airspace patterning in the leaf can be manipulated to increase leaf photosynthetic capacity.
+The Plant Journal , v. 92, n. 6, p. 981 –994, 1 dez.
+Design industrial : guia de materiais e fabricação .
+LEVY, R. Science, technology and design.
+Design Studies , v. 6, n. 2, p. 66 –72, abr.
+DOI: -694X(85)90016 -X LUNENFELD, P. The design cluster.
+Design research : methods and perspectives .
+Cambridge, US: The MIT Press, 2003. p. 10 –15.
+A novel method for 3 -D micros tructure modeling of pome fruit tissue using synchrotron radiation tomography images.
+Journal of Food Engineering , v. 93, n. 2, p. 141–148, jul.
+DOI: Educação Gráfica, Brasil, Bauru.
+168 – 186 Design -Aided Science: o Designer como Promo tor de Tecnologias 3D para Inovação em Pesquisa Cientí fica 185 MURATOVSKI, G. Paradigm Shift: Report on the New Role of Design in Business and Society.
+She Ji: The Journal of Design, Economics, and Innovation , v. 1, n. 2, p. 118 –139, 2015.
+Methodology of Transdisciplinarity - Levels of Reality, Logic of the Included Middle and Complexity.
+Transdisciplinary Journal of Engineering & Science , v. 1, n. 1, p. 19 – 38, 2010.
+Tank -inflorescence in Nidularium innocentii (Bromeliaceae): threedimensional model and development.
+Botanical Journal o f the Linnean Society , v. 185, n. 3, p. 413–424, 31 out.
+Seeing space: visualization and quantification of plant leaf structure using X -ray micro -computed tomography.
+Journal of Experime ntal Botany , v. 64, n. 2, p. 385 –390, jan. 2013.
+DOI: PALOMBINI, F. L. Design de estrutura biônica através de prototipagem e análise por elementos finitos baseada em microtomografia do bambu .
+106 f. Dissertação (Mes trado) - Universidade Federal do Rio Grande do Sul, Porto Alegre, 2016.
+Bionics and design: 3D microstructural characterization and numerical analysis of bamboo based on X -ray microtomography.
+Materials Characterization , v. 120, p. 357–368, out.
+Design, biônica e novos paradigmas: uso de tecnologias 3D para análise e caracterização aplicadas em anatomia vegetal.
+Design e Tecnologia , v. 7, n. 13, p. 46 –56, 30 jun.
+DOI: -56 PALOMBINI, F. L. et al.
+Materiais e Biônica: sob a Ótica da Análise de Elementos Finitos Baseada em Imagens de Microtomografia de Raios X.
+Métodos e Processos em Biônica e Biomimética: a Revolução Tecnológica pela Natureza .
+São Paulo: Editora Blucher, 2018. p. 245 –260.
+DOI: -15 PEARS, N.; LIU, Y.; BUNTING, P.
+3D imaging, analysis and applications .
+Collaboration between designer s and scientists in the context of scientific research : a literature review .
+Proceedings of DESIGN 2010, the 11th International Design Conference.
+Dubrovnik, Croatia: 2010 PISANO, P.; PIRONTI, M.; RIEPLE, A.
+The changing role of the designer in n ew business models based around 3D printing technologies.
+In: DEFILLIPPI, R.; RIEPLE, A.; WIKSTRÖM, P.
+International Perspectives on Business Innovation and Disruption in Design .
+Cheltenham, UK: Edward Elgar Publishing, 2016. p. 60 –74.
+DOI: https:/ /doi.org/10.4337/9781784716646.00009 POLICHA, T. et al.
+Disentangling visual and olfactory signals in mushroom -mimicking Dracula orchids using realistic three -dimensional printed flowers.
+New Phytologist , v. 210, n. 3, p. 1058 –1071, maio 2016.
+DOI: https:/ /doi.org/10.1111/nph.13855 RUSS, J. C.; NEAL, F. B.
+The Image processing handbook .
+Boca Raton, Florida, USA: CRC Press, 2016.
+RUST, C. Design Enquiry: Tacit Knowledge and Invention in Science.
+Design Issues , v. 20, n. 4, p. 76–85, set.
+DOI: h ttps://doi.org/10.1162/0747936042311959 SAINSBURY, D. The race to the top : a review of government's science and innovation policies .
+Educação Gráfica, Brasil, Bauru.
+168 – 186 Design -Aided Science: o Designer como Promo tor de Tecnologias 3D para Inovação em Pesquisa Cientí fica 186 SANSONI, G.; TREBESCHI, M.; DOCCHIO, F. State -of-The-Art and Applications of 3D Imaging Sensors in Industry, Cultural Heritage, Medicine, and Crimin al Investigation.
+Sensors , v. 9, n. 1, p. 568 –601, 20 jan. 2009.
+DOI: SE, S.; PEARS, N. Passive 3D Imaging.
+In: 3D Imaging, Analysis and Applications .
+London: Springer London, 2012. p. 35 –94.
+DOI: 78-1-4471 -4063 -4_2 SENSEN, C. W.; HALLGRÍMSSON, B.
+Advanced imaging in biology and medicine : technology, software environments, applications .
+New York: Springer Science & Business Media, 2009.
+SHAW, C. C. Cone beam computed tomography .
+Boca Raton, Florida, USA: CRC Press, 2014.
+SILVA, D. C.; BOTURA JÚNI OR, G.; PASCHOARELLI, L. C. Inovação e pesquisa em design nas universidades brasileiras.
+Design e Tecnologia , v. 3, n. 06, p. 1 –12, 31 dez.
+DOI: -12 SILVA, F. P. DA et al.
+A digitalização tridimensional móvel e sua aplicação no design de produto.
+Design & Tecnologia , n. 01, p. 60 –65, 2011.
+STOCK, S. R. MicroComputed tomography : methodology and applications .
+Boca Raton, Florida, USA: CRC Press, 2009.
+TOCHERI, M. W. Laser Scanning: 3D Analysis of Biological Surfaces.
+In: Advanced Imaging in Biology and Medicine .
+Berlin, Heidelberg: Springer Berlin Heidel berg, 2009. p. 85 –101.
+DOI: -3-540-68993 -5_4 VERHOEVEN, F. et al.
+Transdisciplinary designer -scientist collaboration in child oncology .
+Proceedings of the 4th Participatory Innovation Conference 2015.
+University for appl ied sciences The Hague, 2015 ZIENKIEWICZ, O. C.; TAYLOR, R. L.; ZHU, J.
+The finite element method : its basis and fundamentals .
+Oxford: Butterworth -Heinemann, 2013.

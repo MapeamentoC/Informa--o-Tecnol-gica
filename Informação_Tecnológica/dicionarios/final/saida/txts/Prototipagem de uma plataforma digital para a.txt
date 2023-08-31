@@ -1,0 +1,338 @@
+Journal of Digital Media & Interaction Vol.
+53-71 ISSN: 2184-3120 CC 2020 DIGIMEDIA Prototipagem de uma Plataforma Digital para a Promoção da Inovação Territorial de Base Comunitária (Prototyping of a Digital Platform for the Promotion of Community-based Territorial Innovation) Daniel Carvalho1, Eliza Oliveira2, Oksana Tymoshchuk3, Maria João Antunes4, Luís Pedro5, Margarida Almeida6, Fernando Ramos7 University of Aveiro / DigiMedia daniel.carvalh@ua.pt1; elizaoliveira@ua.pt2; oksana@ua.pt3; lpedro@ua.pt4; mariajoao@ua.pt5; marga@ua.pt6, fernando.ramos@ua.pt7 Resumo Este estudo apresenta o processo de prototipagem de uma aplicação mobile que visa promover a inovação territorial.
+Inicialmente será abordada a contribuição deste tipo de plataformas para a hipermediação e os aspectos de design associados ao desenvolvimento da interface, para uma melhor experiência de utilização.
+Posteriormente, é apresentada a metodologia adotada, que sustentou a elaboração de um protótipo de média-fidelidade, composto por um ciclo iterativo de criação, desenvolvimento e testes.
+São, por fim, discutidos aspectos fundamentais relacionados com o potencial inovador da plataforma, subjacentes ao seu papel na promoção da inovação territorial; são também descritos aspectos económicos e implicações sociais, ressaltando os possíveis benefícios como opção hipermediadora entre os diversos agentes locais para a promoção de iniciativas de base comunitária na Região Centro de Portugal.
+Keywords: Inovação territorial, desenvolvimento de comunidades, design, prototipagem, hipermediação Abstract This study presents the prototyping process of a mobile application that aims to promote territorial innovation.
+Initially, the contribution of this type of platform to hypermediation and the design aspects linked to the development of the interface will be addressed, for a better user experience.
+Later, the adopted methodology is presented, supporting the elaboration of a prototype of medium-fidelity, composed by an iterative cycle of creation, development and tests.
+Finally, fundamental aspects related to the platform's innovative potential are discussed, underlying their role in the promotion of territorial innovation; economic aspects and social implications are also described, highlighting the possible benefits as a hypermediary option among the various local agents for the promotion of initiatives of community base in the Central Region of Portugal.
+Keywords: Territorial innovation, communities' development, design, prototyping, hypermediation 1.
+Introdução O uso das tecnologias digitais proporcionou o aparecimento de novas formas de comunicação, potenciando diferentes experiências ao utilizador.
+As tecnologias digitais, neste contexto, facilitam a criação e o estabelecimento de redes de comunicação (Castells, 2005) e oferecem um conjunto de ferramentas que permitem que os seus utilizadores construam os seus próprios produtos, serviços e mercados (Srnicek, 2017).
+Simultaneamente, ao recorrer às tecnologias/plataformas digitais, os utilizadores tornam-se ativos à medida que criam e partilham conteúdo com a comunidade, contribuindo para alimentar uma cultura participativa (Jenkins, 2009) que auxilia na promoção da Journal of Digital Media and Interaction Vol.
+6, (2020) 54 inovação regional.
+As culturas participativas são caracterizadas pela diminuição das barreiras à participação e envolvimento, apoio mútuo, contribuições individuais, esforços colaborativos e conexões sociais que promovem a criação e a partilha de artefatos (Jenkins et al., 2009).
+As práticas e os interesses partilhados ocorrem muitas vezes em espaços sociais, nos quais o conhecimento é socialmente construído e distribuído em comunidades mantidas por meio de produção mútua e troca recíproca de conhecimento, alavancando a expertise combinada dos seus membros (Jenkins, 2009; Levy, 1997).
+Esta mediação comunitária proporcionada pelos meios digitais gera oportunidades ao viabilizar o uso de serviços/cursos/projetos gerados pela comunidade (Dabinett, 2000, Birch & Cumbers, 2010; Salemink et al., 2017), e contribui para aproximar as comunidades locais, fortalecendo laços sociais (Lamy & Neto, 2018; Rebelo et al., 2017; Recuero 2014).
+Todavia, para que uma plataforma digital seja eficaz neste papel de mediação, é preciso compreender, primeiro, as práticas adotadas pela própria comunidade, de modo a ligar as pessoas e contribuir para o desenvolvimento das atividades no território (Getto et al., 2011).
+Neste sentido, é preciso também compreender os elementos da comunidade, bem como as suas competências digitais, de modo a que a plataforma possa ser uma ferramenta útil para atingir objetivos locais (Lucas & Moreira 2016; Parasuraman & Colby 2015).
+Esse entendimento é especialmente necessário no desenvolvimento de plataformas digitais que serão usadas por todas as camadas sociais, incluindo residentes das zonas urbanas e rurais (Hage et al., 2013).
+Por exemplo, relatórios recentes comprovam um envelhecimento das populações nas zonas rurais da Região Centro de Portugal, com baixa escolaridade e baixa literacia digital, enquanto que a comunidade mais jovem se desloca para áreas urbanas à procura de oportunidades (ANACOM, 2019; CCDRC, 2019).
+Neste caso, convém determinar o que a plataforma irá suportar, as funcionalidades que estarão presentes, e quais os paradigmas de interação mais adequados às características do público-alvo, de modo a facilitar a exploração do seu potencial de hipermediação.
+A hipermediação é assumida como um conceito que exprime de forma útil o grau de complexidade inerente à conceção de uma ferramenta digital de mediação comunitária.
+Quando se fala de hipermediação não se está simplesmente a fazer referência a uma maior quantidade de meios e atores (Scolari, 2008); a hipermediação consiste numa rede complexa de produção, troca e consumo de processos que acontecem num ambiente que é caracterizado por um número variável de atores sociais, média digitais e linguagens tecnológicas (Scolari, 2015).
+A hipermediação é relevante pois demonstra as capacidades de mediação existentes nas plataformas digitais, tornando possível promover ações de partilha e criação de conteúdo.
+Assim, para que a plataforma tenha impacto, é fundamental que seja adotada e efetivamente usada pelas comunidades (Hage et al., 2013), cuja perceção de utilidade minimizará o risco de ser abandonada ou substituída.
+À medida que se conhece as características da comunidade, torna-se necessário escolher o dispositivo a partir do qual se terá acesso à plataforma digital.
+É importante que esse dispositivo possa ser usado facilmente no quotidiano, de modo a oferecer flexibilidade de tempo e de localização para os vários agentes regionais representados, por exemplo, pelos cidadãos, entidades públicas e membros das comunidades/entidades locais.
+Neste sentido, uma aplicação mobile é viável e oportuna: Journal of Digital Media and Interaction Vol.
+6, (2020) 55 os smartphones tornaram-se essenciais para o quotidiano das pessoas devido à diversidade de funcionalidades e serviços que oferecem, como o serviço de voz digital, mensagens de texto, e-mail, navegação na Web, reprodutores de media, câmaras digitais compactas e navegação GPS (Dickinson et al., 2014).
+Importa destacar alguns benefícios das aplicações mobile: as caraterísticas "always on", "always on you" e flexibilidade ajudam a promover a eficiência nas tarefas diárias dos consumidores (Kim et al., 2013); as aplicações são convenientes ao ultrapassarem a barreira da navegação em sites não otimizados para dispositivos móveis, sendo usadas para diversos fins (Wang & Wang, 2010).
+Adicionalmente, numa abordagem orientada aos negócios, as aplicações mobile promovem a lealdade do cliente, aumentando a eficiência de venda à medida que ampliam a audiência, servindo como uma oportunidade de interagir, de forma próxima, com os consumidores, a qualquer hora e em qualquer lugar (Cameron et al., 2012).
+Adicionalmente, essas aplicações têm sido usadas em áreas de conhecimento como a cultura, turismo e saúde, provando ser uma alternativa viável para os utilizadores de dispositivos móveis, pois permitem obter informações em tempo real sobre locais próximos, preços, distâncias e opiniões acerca de um serviço/entidade/evento (Tan et al., 2017).
+Todavia, desenvolver uma aplicação para smartphone gera desafios recorrentes, relacionados, por exemplo, com o design de interação, o design de interface e a experiência do utilizador.
+Para que a interação seja eficaz, os elementos principais precisam estar visíveis na interface, de modo a que se possa recorrer a estruturas familiares, simples e acessíveis para o utilizador (Sousa e Almeida, 2015; Gong, 2009; Bonomi, et al., 2017).
+Caso contrário, potencializará o uso incorreto ou abandono da plataforma.
+Como refere Nielsen (2012) "o abandono é a primeira linha de defesa quando os utilizadores encontram uma dificuldade" (p.133).
+Adicionalmente, a interface deve ser desenhada de acordo com os comportamentos reais dos utilizadores, de modo a clarificar o caminho para desempenhar determinada tarefa e tornar visível quando determinada ação se concretiza.
+Uma interface bem desenhada pode contribuir para a adoção da plataforma digital, potenciando o uso das suas funcionalidades e auxiliando na realização das tarefas (Garrett, 2011).
+Ao considerar o design de interação e de interface, é possível conceber uma aplicação móvel que originará um impacto positivo na experiência do utilizador.
+É igualmente relevante recorrer a uma abordagem de design centrada no utilizador, sendo importante compreender e ajudar as pessoas a alcançarem os seus objetivos e sentirem-se bem quando usam o produto (Knight, 2019).
+Bernhaupt e Pirker (2013) afirmam que o conceito de User Experience (UX) encontra-se associado à componente emocional da pessoa, pelo que a experiência provém de emoções positivas, como alegria, diversão e orgulho.
+Porém, importa considerar as componentes de usabilidade, que englobam aspectos como a eficiência, eficácia, facilidade de aprendizagem, memória e utilidade (Hassenzahl & Tractinsky, 2006).
+No âmbito do Projeto CeNTER, uma abordagem centrada no utilizador permitiu compreender os elementos que constituem as comunidades, de modo a mitigar necessidades e constrangimentos provenientes na concretização das suas iniciativas comunitárias.
+Não só a experiência de utilizador, mas também a compreensão do Journal of Digital Media and Interaction Vol.
+6, (2020) 56 desenho de interação e de interface mais adequados permitem colmatar eventuais desafios impostos no desenvolvimento de uma aplicação mobile para a promoção da inovação territorial.
+Nas próximas secções é apresentado o processo de prototipagem de uma plataforma digital para a promoção da inovação territorial.
+Serão discutidos aspectos funcionais da plataforma, bem como a contribuição dos mesmos para a promoção da inovação territorial de base comunitária, com vista a poder ser utilizada não somente em Portugal, mas também a nível internacional.
+Metodologia de prototipagem O protótipo foi desenvolvido com base em metodologias distintas, porém complementares.
+O estudo recorreu inicialmente a uma metodologia de Developmental Based Research (DBR), que consiste na procura de uma solução inovadora que se relacione com um determinado dilema ou questão, defendendo a interação entre investigador e profissionais do terreno para definição do problema-chave, conceção de um protótipo, sua avaliação e eventual reestruturação (Akker, 1999).
+A Developmental Based Research é constituída por três fases principais (Plomp, 2010): i) investigação preliminar - prevê a análise das necessidades do contexto, a revisão de literatura e desenvolvimento de um quadro conceptual para o estudo; ii) desenvolvimento do protótipo – focado no processo iterativo composto de repetições, onde cada repetição é um microciclo da pesquisa e da avaliação formativa, visando melhorar e aperfeiçoar a intervenção; iii) avaliação - avalia se o protótipo corresponde às especificações pré-determinadas.
+A metodologia DBR é utilizada neste estudo em conjunto com o Design Based Approach, o qual apresenta as seguintes características (Akker et.
+al., 2006): 1- Intervencionismo: a pesquisa visa projetar uma intervenção no mundo real; 2- Iteratividade: a pesquisa incorpora uma abordagem cíclica de design, avaliação e revisão; 3- Orientação a processos: um modelo de caixa preta de medição de entrada e saída é evitado; o foco é entender e melhorar gradualmente as intervenções; 4- Orientação à utilidade: o mérito de um design é medido, em parte, pelo seu carácter prático para os utilizadores em contextos reais; e 5- Orientação à teoria: o design é (pelo menos em parte) baseado em proposições teóricas e o teste de campo do projeto contribui para a construção da teoria.
+Em conjunto com estas abordagens metodológicas, considerou-se o Desenvolvimento Centrado no Utilizador (DCU) para a elaboração do protótipo CeNTER, como uma das metodologias de desenvolvimento que complementou a construção do protótipo-piloto.
+À medida que este modelo metodológico encaminha o desenvolvimento para as necessidades específicas do público-alvo, é possível obter produtos mais fáceis de usar (Fonseca et al., 2012).
+Assim, recorreu-se aos elementos fundamentais do DCU para desenvolver o protótipo (Figura 1), sendo estes: i) observação do utilizador para tentar compreender os seus interesses, motivos e verdadeiras necessidades, de modo a identificar que funcionalidades melhor darão suporte às suas tarefa; ii) idealizar diferentes soluções, como modelos conceptuais que permitem identificar problemas no design; iii) criar protótipos interativos; iv) testar e avaliar os protótipos (Norman, 2013).
+É importante destacar que estes elementos fundamentais para o DCU não são instruções "passo-a-passo" para prototipar, pelo que Journal of Digital Media and Interaction Vol.
+6, (2020) 57 ocorre a repetição de funções, como definir e implementar mais funcionalidades, testes e avaliações a um ou mais protótipos (Norman, 2013).
+A primeira fase do projeto CeNTER incluiu os seguintes procedimentos: i) revisão sistemática e narrativa de literatura (Silva et al.
+2020a, no prelo); ii) mapeamento de iniciativas inovadoras da Região Centro de Portugal; iii) benchmarking de redes sociais, aplicações e sítios web (Martínez-Rolán et al., 2019; Renó et al., 2020 (no prelo); Tymoshchuk et al., 2019a), sendo o benchmarking assumido como um processo de identificação, compreensão e comparação de boas práticas e processos encontrados dentro e fora de uma entidade (Komninos, 2008); iv) entrevistas aos líderes de comunidades/entidades locais (Renó et al., 2018; Silva et al, 2018; Tymoshchuk et al., 2019b); v) organização de dois grupos focais com representantes de pequenas e grandes iniciativas comunitárias (Silva et al.
+Processo Iterativo do Design Centrado no Utilizador (adaptado de Norman, 2013) A realização destes procedimentos permitiu a recolha aprofundada de dados acerca do desenvolvimento e estrutura das iniciativas de base territorial, nomeadamente no que respeita aos seus valores e objetivos, dinâmicas que promovem e tecnologias digitais e estratégias de mediação utilizadas.
+A compreensão e consideração destes fatores permitiram desenvolver os fundamentos para a proposta de um Quadro de Referência para a conceção de estratégias de mediação digital, em inovação de base territorial, assumindo uma estrutura modular, organizada com base em agentes (cidadãos, comunidades, redes e entidades normativas) e em dinâmicas (registo e partilha de dados, interação e hipermediação) (Tymoshchuk et al.
+Este quadro de referência assume um papel fundamental na concetualização desta plataforma, definindo como foco principal a hipermediação entre os agentes envolvidos nos processos de inovação de base territorial.
+A prototipagem da plataforma mobile CeNTER envolveu várias etapas complementares: i) definição dos objetivos da plataforma; ii) especificação das funcionalidades; iii) desenho de esboços; iv) Journal of Digital Media and Interaction Vol.
+6, (2020) 58 desenvolvimento de wireframes para organização da estrutura da interface; v) desenho de ecrãs e do look & feel global da aplicação; vi) desenvolvimento do protótipo de média fidelidade; vii) validação do protótipo.
+O procedimento metodológico detalhado destas etapas e os resultados obtidos encontram-se nas secções seguintes.
+O protótipo CeNTER O desenvolvimento do protótipo CeNTER foi realizado a partir de um ciclo iterativo que inclui diferentes fases complementares.
+A análise dos elementos que compõem as comunidades e a identificação das suas necessidades e especificidades auxiliou, inicialmente, na construção do conceito de plataforma e, posteriormente, na identificação dos principais requisitos e funcionalidades essenciais para a hipermediação entre os agentes do território.
+As próximas secções apresentam os objetivos e o processo de prototipagem no âmbito da plataforma CeNTER.
+Objetivos da plataforma digital CeNTER O principal foco da plataforma CeNTER será fornecer condições de hipermediação aos agentes comunitários.
+Porém, importa referir que esta plataforma digital servirá para facilitar a comunicação entre os respetivos agentes e facilitar o acesso do público às iniciativas, possibilitando o seu envolvimento.
+Este envolvimento gera, potencialmente, comportamentos proativos, contribuindo para a promoção de atividades e para o desenvolvimento do território.
+Tornam-se, assim, atores-agentes que consolidam redes de cooperação.
+Partindo desta abordagem, os principais objetivos da plataforma são os seguintes: i) Promover conhecimento mútuo entre agentes comunitários (cidadãos, iniciativas, entidades, etc.
+); ii) Permitir interação, hipermediação, colaboração e cooperação entre iniciativas, voluntários, instituições, indivíduos e/ou populações locais; iii) Fornecer meios de suporte online para iniciativas e comunidades; iv) Permitir partilha de informação e articulação de atividades entre iniciativas; v) Permitir articulação entre outras plataformas (TripAdvisor, Facebook, Google Maps, etc.
+); vi) Hipermediar experiências e boas práticas; vii) Promover ações de capacitação no contexto de iniciativas de base comunitária (Renó et al., 2019).
+Assim, pretende-se que a plataforma seja uma ferramenta essencial para os diferentes agentes das comunidades.
+O diagrama relacional seguinte representa os utilizadores e as categorias de funcionalidades existentes (Figura 2).
+Journal of Digital Media and Interaction Vol.
+Diagrama Relacional entre Utilizadores e Categorias de Funcionalidades da Plataforma CeNTER Para que os objetivos sejam concretizados, foram propostas como principais requisitos a implementar na plataforma CeNTER: i) Os participantes, parceiros e público em geral serão capazes de partilhar informação entre si, dando visibilidade às iniciativas e atividades; ii) A comunicação será fácil e fluida, de modo a que as interações possam impulsionar os processos de cooperação e colaboração que permitem concretizar objetivos; iii) A inovação e as redes que beneficiam o envolvimento cívico das populações serão hipermediadas, expondo ações de desenvolvimento territorial e estimulando a interação (Tymoshchuk et al., 2019a).
+De forma a colmatar as necessidades e problemas das comunidades, tais como as limitações a nível de comunicação e interação, a plataforma será desenvolvida recorrendo a uma abordagem bottom-up, acompanhando os diferentes utilizadores na criação, partilha e organização de atividades/eventos, ideias e iniciativas de base comunitária (Figura 3).
+Áreas Funcionais e Utilizadores da Plataforma CeNTER A partir dos dados obtidos junto de utilizadores, foi possível criar uma lista que descreve brevemente as funcionalidades da plataforma, recorrendo a uma ferramenta de backlog.
+Journal of Digital Media and Interaction Vol.
+6, (2020) 60 Depois foram elaborados diagramas de casos de uso em UML recorrendo ao software online Creately, permitindo descrever a estrutura, as funcionalidades e os perfis existentes para os utilizadores.
+A realização dessas tarefas possibilitou identificar as funcionalidades da plataforma que contribuem para os diferentes atores regionais: - Para comunidades/entidades locais - criação, desenvolvimento e/ou divulgação das suas atividades/projetos, assim como o trabalho em conjunto com outras iniciativas; podem também recorrer a agendas; têm acesso a recursos materiais/humanos, como voluntários, parceiros e outros recursos que sejam essenciais para o desenvolvimento das iniciativas.
+- Para as entidades públicas - uso de mecanismos que expõem à comunidade os seus projetos e apoios; para as comunidades é facilitado o acesso às ações promovidas pelos municípios; permite fácil acesso às opiniões e necessidades da população local; conseguem partilhar para as comunidades recursos humanos e materiais.
+- Para os cidadãos - acompanhamento dos acontecimentos da região; facilidade em envolver-se em atividades como participantes ou voluntários; facilidade de partilhar recursos, conhecimentos ou ideias com as comunidades locais.
+Estas funcionalidades permitirão que os diferentes atores regionais recorram à plataforma para estabelecer redes entre comunidades, desde a promoção de atividades locais até à troca de recursos materiais ou humanos.
+Tal garantirá os meios para a concretização da hipermediação, tendo em consideração que os conteúdos/recursos existentes na plataforma correspondem aos interesses dos diferentes autores para inovação territorial.
+Processo de prototipagem da plataforma digital CeNTER Com base nos objetivos identificados, procedeu-se à prototipagem da plataforma digital CeNTER.
+O motivo de se recorrer inicialmente a este processo justifica-se através dos estudos de alguns autores (Verner e Cerpa, 1997; Stigberg, 2017), que indicam vantagens como: melhor comunicação e proximidade com utilizadores, permitindo compreender e corresponder às suas necessidades; flexibilidade e facilidade no design do produto, induzindo a uma fácil rejeição dessa versão no caso de haver erros; deteção prévia de problemas; melhor comunicação com agentes responsáveis pelo sistema de informação.
+O processo de prototipagem não apresenta diretrizes delineadas de forma rígida, existindo diferenças entre diversos autores (Brewer et al., 2019; Hamm et al., 2019; Islind et al., 2019; Fonseca et al., 2012; IDEO, n.d.; Gibbons, 2016).
+Porém, com base na observação feita à literatura desses autores, dividiu-se o processo de prototipagem em três fases, sendo estas a fase conceptual, de requisitos de especificação e de interação e estilos.
+Estas fases serão apresentadas detalhadamente nos pontos seguintes.
+Fase conceptual A fase conceptual serviu para discutir ideias e problemas de modo a desenvolver o conceito da plataforma CeNTER, recorrendo a atividades de brainstorming entre os investigadores do projeto.
+Journal of Digital Media and Interaction Vol.
+6, (2020) 61 Foram identificadas as funcionalidades e escolhido o dispositivo para desenvolver o protótipo que, como foi previamente justificado, será o smartphone.
+Das inúmeras funcionalidades e serviços existentes neste tipo de dispositivo (Dickinson et al, 2014), é destacada a navegação GPS, sendo este essencial para componentes de georreferenciação existentes na plataforma, como a localização de atividades/eventos, iniciativas e recursos humanos/materiais criados pelos utilizadores.
+Porém, para compreender como esta e outras funcionalidades serão integradas no protótipo, recorreu-se à análise do user flow, usando esboços dos primeiros ecrãs da futura aplicação para compreender como esses ecrãs se interligam quando o utilizador realiza determinada interação.
+Porém, este processo de análise ao flow é denominado e caraterizado de forma diferente entre autores.
+Como exemplo, Snyder (2003) recorre a storyboards, sendo estes um conjunto de imagens ou desenhos que permitem compreender como a interface funciona para realizar determinada tarefa, assemelhando-se a um flowchart; enquanto que Li et al.
+(2010) definem como interaction flow graph, existindo ecrãs num gráfico, em que cada toque numa componente da interface representa um evento que leva à transição entre estados, gerando sequências válidas de interação.
+O resultado da análise feita ao user flow foi a criação de sketches/esboços em papel, sendo possível ver na Figura 4 as primeiras ideias do ecrã principal, do ecrã mapa e do ecrã de detalhes de determinado evento da plataforma.
+Exemplos de Esboços da Plataforma CeNTER: A - Ecrã Principal; B - Ecrã do Mapa; C - Ecrã com Detalhes de uma Atividade/Evento A escolha destes ecrãs deve-se à sua diferença relativamente aos ecrãs existentes noutras aplicações para smartphone, como o de perfil, favoritos ou de pesquisa.
+A partir do desenho destes ecrãs foi possível compreender como a plataforma poderia desencadear processos de hipermediação entre os agentes da região Centro de Portugal.
+No ecrã principal (Figura 4A) os conteúdos encontram-se organizados por tabs, que se expandem para mostrar conteúdos, sendo estes cartões criados pelos utilizadores.
+Podem ser iniciativas, recursos, eventos, etc.
+; quando o utilizador toca nesses cartões, é direcionado para um ecrã com informação detalhada relativamente a esse conteúdo (Figura 4C); Tanto Journal of Digital Media and Interaction Vol.
+6, (2020) 62 no ecrã detalhado, como no ecrã principal, existem um ou vários botões que redirecionam para o ecrã mapa (Figura 4B), que mostra a localização, no mundo real, dos conteúdos criados pelos utilizadores.
+A criação destes esboços e a análise feita ao user flow permitiu a criação de mockups recorrendo à aplicação web Marvel, o que permitiu simular pequenas transições entre ecrãs e fazer interações simples, como tocar no botão "explorar" do ecrã principal e redirecionar para o ecrã do mapa.
+Fase de requisitos e especificação Após a fase conceptual da prototipagem, procedeu-se com a identificação dos requisitos e especificações da plataforma, permitindo compreender como estas estão estruturadas na interface.
+Nesse contexto, foram criados wireframes, recorrendo ao Sketch (Figura 5).
+Os wireframes permitiram dar um esqueleto aos diferentes ecrãs, organizando-os em caixas, textos, linhas e outros elementos gráficos existentes na interface de cada ecrã.
+A validação dos primeiros wireframes ocorreu através de reuniões internas com a equipa CeNTER, que tinham como objetivo avaliar as estruturas desenvolvidas, mas também discutir aspectos relevantes das funcionalidades, do conceito e do design para as próximas etapas do desenvolvimento.
+Exemplos de Wireframes da Plataforma CeNTER: A - Ecrã Principal; B - Ecrã do Mapa; C - Ecrã com Detalhes de uma Atividade/Evento Tais discussões e análises geraram condições para o desenvolvimento da componente estética, estilos e de interação do protótipo, sendo essa a fase de prototipagem apresentada na secção seguinte.
+Fase de desenvolvimento da interação e estilos Para esta fase foram usados os wireframes para desenhar ecrãs mais detalhados no Sketch (Figura 6), sendo aplicadas cores, tamanhos, contrastes, entre outras componentes gráficas.
+Relativamente à componente interativa, os ecrãs desenhados no Sketch foram importados para o programa Principle, permitindo desenvolver animações e interações mais complexas comparativamente ao Marvel.
+Journal of Digital Media and Interaction Vol.
+6, (2020) 63 Recorrendo ao Principle, é possível fornecer ao utilizador uma experiência de utilização no protótipo semelhante à que se pretende no produto final, i.e., a aplicação mobile da plataforma CeNTER.
+Este uso "em contexto de protótipo" da plataforma é definido por Skågeby (2018) como "imagined human-machine interaction", pelo que afirma: "(.)
+potenciais utilizadores imaginam como a interação futura com uma tecnologia de mídia especulativa pode se formar, alimentada por várias representações dela, suas funcionalidades e seu contexto sociotécnico" (Skågeby, 2018, p. 2).
+O autor acrescenta que a partir do desenvolvimento destas tecnologias "quase disponíveis", não só em protótipos, mas também em vídeos de produtos ou em eventos de pré-lançamento do produto, proporciona-se a compreensão de como as futuras tecnologias podem aumentar e melhorar as capacidades humanas.
+Neste contexto, o Principle permitiu inserir gestos como arrastar num mapa, o swipe num menu em carrossel ou tocar num menu para colapsar o conteúdo visível.
+Para o ecrã principal (Figura 6B), o Principle permitiu a interação com o carrossel de conteúdos, como pode ser visto na tab aberta de "Atividades".
+Neste carrossel, o utilizador pode fazer swipe horizontal para ver vários cartões de atividades (interação com semelhanças à aplicação Tinder), e fazer drag and drop para enviar determinado cartão para uma lista de favoritos.
+No ecrã mapa (Figura 6C) existe um carrossel, semelhante ao do ecrã principal, que apresenta um mapa com interações semelhantes à aplicação móvel Google Maps, permitindo arrastar o dedo para explorar o mapa, fazer pinch para ampliar/reduzir e tocar nos pin-points para ver detalhes (Figura 6D).
+Estes dois ecrãs são os principais da plataforma CeNTER, pelo que apresentam um menu semelhante no cabeçalho e no rodapé dos layouts, sendo botões ou ícones com funções semelhantes às já existentes em outras aplicações para smartphone tais como, aceder ao perfil, verificar itens guardados e visualizar notificações.
+Adicionalmente, a plataforma apresenta opções de funcionalidades menos convencionais, como a agenda partilhada, que visa facilitar a colaboração e trocas de informação entre os atores locais, e um campo de ideias, onde os utilizadores registados partilham e comentam propostas de iniciativas/atividades.
+Exemplos de ecrãs da plataforma CeNTER: A - ecrã tutorial; B - ecrã principal; C - ecrã do mapa; D - Ecrã com detalhes de uma atividade/evento Journal of Digital Media and Interaction Vol.
+6, (2020) 64 Nesta fase foi também observada a complexidade da plataforma, justificando-se a criação de um tutorial ao qual o utilizador tem acesso na primeira vez que utiliza a aplicação.
+Este tutorial é constituído por 5 páginas com animações e texto, que explicam funcionalidades, interações e objetivos da plataforma.
+A realização desta etapa permitiu que o protótipo desenvolvido no Principle fosse importado para um smartphone, permitindo simular uma aplicação já em versão final, que será testada e avaliada por utilizadores "peritos".
+A partir dos dados obtidos, serão realizadas melhorias no protótipo, de modo a alimentar a natureza iterativa utilizado no desenvolvimento da plataforma CeNTER.
+Discussão e conclusão Com este artigo pretendeu-se apresentar o desenvolvimento de uma proposta de um protótipo-piloto de uma aplicação em formato mobile, com uma interface que permite, tanto oferecer uma experiência agradável, como uma navegação intuitiva e rápida.
+A plataforma possibilitará a criação de conteúdos e disseminação da informação, bem como facilitará a comunicação entre os respetivos agentes do território e o acesso dos cidadãos às iniciativas, incentivando o seu envolvimento.
+Tal envolvimento poderá gerar comportamentos proativos, contribuindo para a promoção de atividades e para o desenvolvimento do território, de modo a que se tornem atores-agentes que consolidam redes de cooperação no território.
+A escolha do formato mobile levou em consideração o êxito dos smartphones em termos de uso alargado em todas as camadas sociais, demonstrando a significativa democratização no uso destes aparelhos digitais a nível mundial.
+Outra vantagem do uso do smartphone é a capacidade de utilizar aplicações móveis que estão adaptadas aos formatos dos ecrãs, estendendo os recursos e contribuindo para a utilização em diversos setores, como turismo, saúde e bem-estar (Dickinson et al., 2014).
+Os smartphones ganham, assim, popularidade à medida que contribuem para grandes mudanças nas práticas sociais e comunicacionais da humanidade (Dickinson et al., 2014).
+Por exemplo, tais dispositivos digitais criam oportunidade para a emergência dos prossumidores, uma vez que viabilizam a criação de conteúdo através da gravação e publicação, em tempo real, de vídeos em contextos sociais.
+Este tipo de tecnologia poderá, portanto, generalizar e alargar a lógica em rede, oferecendo múltiplas fontes de informação e formas de comunicação em escala global (Castells et al., 2009).
+Desse modo, a utilização de uma aplicação mobile parece ser uma escolha oportuna e viável para a promoção da inovação territorial e impulsionadora de iniciativas de base comunitária.
+Os métodos e técnicas de produção da aplicação tiveram suporte em metodologias orientadas para necessidades e requisitos dos utilizadores, sendo simultaneamente ancoradas numa espiral contínua de avaliação-correção do protótipo, originando versões melhoradas da plataforma piloto.
+Tais características de desenvolvimento tornam possível construir produtos de alta usabilidade.
+Simultaneamente, o modelo espiral de avaliação-correção possibilitará ouvir as opiniões dos utilizadores e, consequentemente, elaborar um produto com look & feel mais atraente.
+Para facilitar a navegação, delineou-se um layout consistente, com elementos gráficos coerentes e facilmente identificáveis, permitindo uma interação eficaz em qualquer ecrã.
+Journal of Digital Media and Interaction Vol.
+6, (2020) 65 Adicionalmente, tendo em conta o conceito da plataforma, optou-se por desenvolver um design gráfico que possibilitasse o estabelecimento de hierarquias visuais e de destaque para as componentes mais relevantes, permitindo uma melhor compreensão da informação que se pretende transmitir.
+As decisões foram norteadas por uma lógica de equilíbrio entre estética, funcionalidade e usabilidade, permitindo que a aplicação piloto se adapte às circunstâncias específicas das iniciativas comunitárias.
+A hipermediação foi considerada como um mecanismo fulcral desta plataforma, que pode colmatar lacunas de comunicação e interação entre os principais agentes nos processos de inovação territorial.
+A aplicação apresenta, inicialmente, um tutorial que pretende auxiliar o utilizador a compreender facilmente como interagir com a plataforma.
+Posteriormente, o ecrã principal da aplicação apresenta seis tabs: iniciativas, atividades, entidades, voluntários, recursos e destaques que, ao serem abertas, apresentam os conteúdos em cartões e se movimentam em formato carrossel.
+Assim, de modo a desenvolver uma interface de utilizador simples e inovadora, foi escolhido um design baseado em cartões, que oferece informações num formato legível e fácil de navegar, e que permite ter uma visão geral do conteúdo da aplicação (Seifi, 2015).
+Um cartão consiste num bloco retangular e contém uma pequena quantidade de informação, que apresenta, por exemplo, uma iniciativa, atividade ou entidade.
+A navegação no conteúdo é feita com o mínimo de movimento através da manipulação por gestos de deslizar para o lado, e que permite a realização de ações como descartar ou guardar em favoritos.
+O modelo de arquitetura de cartões, mais do que apresentar blocos de conteúdo, utiliza o mecanismo de hipermediação para exibir informações relevantes e personalizadas.
+A aplicação sugere, portanto, conteúdos de acordo com o perfil e localização do utilizador, os quais podem consultar, partilhar, guardar, criar e editar os cartões.
+É importante destacar, na interface, a funcionalidade de geolocalização, que permite a procura de pontos de interesse e atividades num determinado local.
+A proposta da presença de um algoritmo de recomendação apoiado no princípio "machine learning" possibilitará à futura plataforma apresentar e notificar possíveis locais e atividades de interesse no mapa, com base nas escolhas e comportamento do utilizador.
+Tal funcionalidade do sistema também proverá a prioridade dos cartões que serão apresentados na Homepage de cada utilizador.
+As tabs "Voluntários" e "Recursos" visam promover e facilitar a entreajuda entre diferentes atores no território.
+Estas tabs possuem dois tipos de cartões (oferta e procura) diferenciados por cor.
+A aplicação também integra e utiliza componentes de gamificação, tais como a escala de classificação para incentivar o envolvimento dos utilizadores e promover o rating das iniciativas/atividades/entidades.
+Simultaneamente, a tab "Destaque" apresenta as iniciativas e atividades que já aconteceram e foram mais bem classificadas pelos participantes.
+Os organizadores destas iniciativas/atividades serão incentivados a partilhar os "passos-chave" que foram fundamentais para o sucesso das mesmas.
+Neste contexto, importa realçar a agregação da componente participativa na aplicação mobile CeNTER.
+A plataforma pretende promover a construção de novas ideias, que têm por objetivo alavancar as potencialidades regionais, construídas através dos discursos decorrentes de interesses pessoais em espaços sociais.
+Tal característica consolida a cultura participativa, que suscita a Journal of Digital Media and Interaction Vol.
+6, (2020) 66 articulação entre os membros das comunidades, ao passo que eleva o utilizador ao papel de criador e produtor de textos e artefatos, que são partilhados ou distribuídos em ambientes sociais (Hall, 1993; Ritzer & Jurgenson, 2010; Tapscott, 1995; Toffler, 1980).
+No que se refere à significância e originalidade do protótipo, importa aqui apresentar alguns resultados obtidos com recurso ao Benchmarking, que no âmbito do programa CeNTER investigou o papel das plataformas digitais na dinamização da inovação territorial, no desenvolvimento das iniciativas regionais e na promoção de projetos emergentes.
+Ressalta-se que não foram encontradas plataformas digitais que promovessem a articulação e colaboração entre diferentes stakeholders com foco na inovação territorial.
+Simultaneamente, a falta de plataformas mediadoras de interação entre os agentes regionais foi referida por representantes de iniciativas da Região Centro em Focus Group (Silva et al., 2019).
+Assim, a plataforma CeNTER pretende colmatar essa lacuna oferecendo uma solução hipermediadora que promove a interação e colaboração entre os agentes locais (iniciativas comunitárias, entidades públicas e privadas e cidadãos) tendo por foco o desenvolvimento social e económico do território.
+O potencial das plataformas digitais de alavancar a economia das comunidades é discutido no livro "Platform Capitalism" de Nick Srnicek (2017), que refere que as plataformas se posicionam como intermediários que reúnem diferentes utilizadores: clientes, anunciantes, prestadores de serviços, produtores, fornecedores e até objetos físicos (Srnicek, 2017).
+De acordo com o autor, à medida que a Internet se expande e as empresas se tornam dependentes das comunicações digitais para todos, os dados tornam-se cada vez mais relevantes para a economia.
+No segundo capítulo do livro referido , o autor afirma: "Rather than having to build a marketplace from the ground up, a platform provides the basic infrastructure to mediate between different groups.
+This is the key to its advantage over traditional business models when it comes to data, since a platform positions itself (1) between users, and (2) as the ground upon which their activities occur, which thus gives it privileged access to record them."
+(Srnicek, 2017, p 58) No tocante à sustentabilidade, prevê-se que a aplicação móvel CeNTER seja auto-alimentada pelas próprias iniciativas locais, que partilham com a comunidade eventos, ideias, recursos e voluntários.
+Adicionalmente, será uma ferramenta que poderá ser adaptada e apoiada pelas entidades públicas da região Centro de Portugal, uma vez que poderá oferecer dados relevantes acerca dos projetos inovadores que surgem na comunidade.
+Conforme afirma Srnicek (2017), quanto mais pessoas interagirem, mais informações podem ser recolhidas e usadas, o que corrobora o facto de as plataformas digitais produzirem e dependerem dos "efeitos de rede", ou seja, quanto maior o número de utilizadores, mais valiosa essa plataforma se torna.
+A implementação e a sustentabilidade da plataforma CeNTER passará, portanto, pela elaboração de estratégias para atrair o maior número de utilizadores.
+Todavia, a utilização efetiva das tecnologias digitais por uma comunidade depende de vários fatores, tais como: a existência de equipamentos e de infraestruturas de telecomunicações digitais (Brown & Journal of Digital Media and Interaction Vol.
+6, (2020) 67 Nylander 2009; Marré & Weber 2010); um bom nível de competências digitais dos utilizadores e a prontidão tecnológica dos seus membros para abraçar e usar tecnologias para atingirem os seus objetivos (Lucas & Moreira 2016; Parasuraman & Colby 2015).
+Diversos estudos (Brown & Nylander 2009; Marré & Weber 2010) constatam que as infraestruturas e aplicações de telecomunicações digitais ainda não estão disponíveis em muitas áreas rurais, que continuam por isso a não estar servidas ou atendidas, sendo, portanto, desfavorecidas.
+Neste sentido, importa destacar o contributo de um Policy Paper no âmbito do Projeto CeNTER (Carvalho et al., 2020), que apresenta recomendações para identificar barreiras e incentivos ao uso das ferramentas digitais e à interação entre agentes na promoção de iniciativas de base comunitária para a inovação territorial.
+Dessa forma, não somente o conceito por trás da construção da plataforma aqui apresentada, bem como o Programa CeNTER em geral, adquirem especial relevância, pois procuram colmatar as dificuldades do uso das ferramentas digitais na Região Centro de Portugal, ao propor uma aplicação mobile com alta usabilidade para viabilizar o uso pelas comunidades rurais.
+No que respeita a trabalho futuro, está prevista a realização de uma avaliação heurística e de uma avaliação da acessibilidade do protótipo da aplicação com dois grupos de avaliadores: peritos na área das tecnologias e especialistas nas áreas do turismo, saúde e bem-estar.
+A análise dos resultados dessas avaliações permitirá a realização dos ajustamentos necessários para garantir um bom funcionamento da aplicação no futuro.
+Pretende-se, ainda, alargar e aprofundar a validação do protótipo por representantes de iniciativas/entidades locais, com o objetivo de consolidar as opções relativas às funcionalidades e às dinâmicas de funcionamento da aplicação.
+Agradecimentos Este artigo foi elaborado no âmbito do Programa Integrado de IC&DT "CeNTER - CeNTER - Redes e Comunidades para a Inovação Territorial, financiado pelo Programa Operacional Regional do Centro (CENTRO 2020), PT2020.
+Principles and Methods of Development Research.
+In: van den Akker J., Branch R.M., Gustafson K., Nieveen N., Plomp T. (eds) Design Approaches and Tools in Education and Training.
+DOI: 10.1007/978-94-011-4255-7_1 Akker.
+Retirado de Birch, K., Cumbers, A., 2010.
+Knowledge, space, and economic governance: the implications of knowledge-based commodity chains for less-favoured regions.
+DOI: Bonomi, S., Ricciardi, F., & Rossignoli, C. (2017).
+Network organisations for externality challenges: how social entrepreneurship co-evolves with ICT-enabled solutions.
+International Journal of Knowledge-Based Development, 8(4), 346-366.
+DOI: 10.1504/IJKBD.2017.088183 Journal of Digital Media and Interaction Vol.
+6, (2020) 68 Brewer, L. P. C., Hayes, S. N., Caron, A. R., Derby, D. A., Breutzman, N. S., Wicks, A., Raman, J., Smith, C. M., Schaepe, K. S., Sheets, R. E., Jenkins, S. M., Lackore, K. A., Johnson, J., Jones, C., Breitkopf, C. R., Cooper, L. A., & Patten, C. A.
+Promoting cardiovascular health and wellness among African-Americans: Community participatory approach to design an innovative mobile-health intervention.
+DOI: 10.1371/journal.pone.0218724 Bernhaupt, R., & Pirker, M. (2013).
+Evaluating user experience for interactive television: Towards the development of a domain-specific user experience questionnaire.
+Lecture Notes in Computer Science (Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics).
+DOI: 10.1007/978-3-642-40480-1_45 Cameron, D., Gregory, C. and Battaglia, D. (2012), Nielsen personalizes the mobile shopping app if you build the technology, they will come.
+Journal of Advertising Research.
+DOI: 10.2501/JAR-52-3-333-338 Castells, M. (2005).
+Castells, M., Fernández-Ardèvol, M., Qiu, J. L., & Sey, A.
+Lisboa: Fundação Calouste Gulbenkian.
+Carvalho, D., Oliveira, E., Ramos, F., Pedro, L., Almeida, M., Antunes, M. J., Tymoshchuk.
+O, Uso das ferramentas digitais na promoção de iniciativas de base comunitária na Região Centro.
+Retirado de CCDRC, Comissão de Coordenação e Desenvolvimento Regional do Centro.
+Barómetro do Centro de Portugal.
+Retirado de Dabinett, G., 2000.
+Regenerating communities in the UK: getting plugged into the information society?
+DOI: Dickinson, J. E., Ghali, K., Cherrett, T., Speed, C., Davies, N., & Norgate, S. (2014).
+Tourism and the smartphone app: Capabilities, emerging practice and scope in the travel domain.
+Current issues in tourism, 17(1), 84-101.
+DOI: 10.1080/13683500.2012.718323 Fonseca, M. J., Campos, P., & Gonçalves, D. (2012).
+Introdução ao Design de Interfaces (2a Edição).
+The elements of user experience.
+Berkley, California: New Riders.
+Getto, G., Cushman, E. & Ghosh, S. (2011).
+Community mediation: Writing in communities and enabling connections through new media.
+Computers and Composition, 28(2), 160-174.
+DOI: 10.1016/j.compcom.2011.04.006 Gibbons, S. (2016).
+Human-Machine Interface: Design Principles of Visual Information in Human-Machine Interface Design.
+2009 International Conference on Intelligent Human-Machine Systems and Cybernetics, 262-265.
+DOI: Hage, E., Roo, J. P., van Offenbeek, M. A., & Boonstra, A.
+Implementation factors and their effect on e-Health service adoption in rural communities: a systematic literature review.
+BMC health services research, 13(1), 19.
+DOI: 10.1186/1472-6963-13-19 Hall, S. (1993).
+), The cultural studies reader (pp.
+Hamm, J., Money, A. G., Atwal, A., & Ghinea, G. (2019).
+Mobile three-dimensional visualisation technologies for clinician-led fall prevention assessments.
+DOI: 10.1177/1460458217723170 Hassenzahl, M., & Tractinsky, N. (2006).
+User experience - A research agenda.
+Behaviour and Information Technology.
+DOI: 10.1080/01449290500330331 Journal of Digital Media and Interaction Vol.
+IDEO Design Thinking | IDEO | Design Thinking.
+Retirado em Janeiro 31, 2020 em: Islind, A. S., Lindroth, T., Lundin, J., & Steineck, G. (2019).
+Co-designing a digital platform with boundary objects: bringing together heterogeneous users in healthcare.
+Health and Technology, 9, 425-438.
+DOI: 10.1007/s12553-019-00332-5 Jenkins, H. (2009).
+Jenkins, H., Purushotma, R., Weigel, M., Clinton, K., & Robison, A. J.
+Confronting the challenges of participatory culture: Media education for the 21st century.
+To app or not to app: engaging consumers via branded mobile apps.
+Journal of Interactive Advertising, 131(1), 53-65.
+Intelligent Cities and Globalisation of Innovation Networks.
+Lamy, C., & Neto, P. P. (2018).
+Movimentos Sociais e Redes Sociais Virtuais em perspetiva comparada.
+Observatorio (OBS*), 12(3), 272-294.
+Li, Y., Cao, X., Everitt, K., Dixon, M., & Landay, J.
+FrameWire: A tool for automatically extracting interaction logic from paper prototyping tests.
+Conference on Human Factors in Computing Systems - Proceedings.
+DOI: 10.1145/1753326.1753401 Lucas, M. & Moreira, A.
+DIGCOMP – Proposta de um quadro de referência europeu para o desenvolvimento e compreensão da competência digital.
+Usability 101: Introduction to usability.
+com/articles/usability-101-introduction-to-usability/ Parasuraman, A.
+An updated and streamlined technology readiness index: TRI 2.0.
+Journal of service research,18(1), 59-74.
+DOI: 10.1177/1094670514539730 Plomp, T. (2010).
+Educational design research: An Introduction.
+), An introduction to educational design research (pp.9 -35).
+Netherlands: SLO – Netherlands Institute for Curriculum Development.
+Retirado de 20education_20design_20res earch.pdf Rebelo, C., Pereira, I., Rosa, H., Batista, F., & Carvalho, J. P. (2017).
+Twitter: de espaço de mobilização a espaço de comentário: O caso do meet do Vasco da Gama.
+Retirado de Recuero, R. (2014).
+Contribuições da Análise de Redes Sociais para o Estudo das Redes Sociais na Internet: O caso da hashtag #Tamojuntodilma e #CalaabocaDilma.
+DOI: 10.4013/fem.2014.162.01 Renó, D., Silva, P. A., Almeida, A. M., Ramos, F., Pedro, L., Antunes, M.J., Tymoshchuk, O.
+Conceção de uma plataforma de mediação digital para a Região Centro.
+Atas da Conferência APDR 2019, 1194- 1199.
+Retirado de Renó, D., Tymoshchuk, O., Almeida, A. M., Silva, P. A., Almeida, A. M., Pedro, L., Ramos, F. (2020, no prelo).
+Las humanidades digitales y la conexión con las raíces culturares: la iniciativa Aldeias do Xisto, en Portugal.
+Prisma Social - Revista de Ciencias Sociales.
+Journal of Digital Media and Interaction Vol.
+6, (2020) 70 Renó, D.; Tymoshchuk, O.; Silva, P. A.
+Redes, comunidades e cultura digital: a inovação pela desconexão.
+CHASQUI - Revista Latinoamericana de Comunicación.137(1), 191-207.
+Retirado de Ritzer, G., & Jurgenson, N. (2010).
+Production, Consumption, Prosumption: The nature of capitalism in the age of the digital 'prosumer.'
+Journal of Consumer Culture, 10(1), 13-36.
+DOI: 10.1177/1469540509354673 Salemink, K., Strijker, D., & Bosworth, G. (2017).
+Rural development in the digital age: A systematic literature review on unequal ICT availability, adoption, and use in rural areas.
+Journal of Rural Studies, 54, 360-371.
+Hipermediaciones – Elementos para una teoria de la comunicación digital interactiva.
+Scolari, C. (2015) From (new)media to (hyper)mediations.
+Recovering Jesús Martín-Barbero's mediation theory in the age of digital communication and cultural convergence.
+Information, Communication & Society, 18(9), 1092-1107.
+DOI: 10.1080/1369118X.2015.1018299 Seifi, S. (2015).
+Developing an Engaging Local Community Application as a Tool for Promoting Social Integration.
+Dissertação de Mestrado, Universidade Malmö, Malmö, Suécia.
+Retirado de Silva, P. A., Antunes, M. J., Tymoshchuk, O., Pedro, L., Almeida, M., Renó, D. & Ramos, F. (2019).
+Involving communities in shaping digital solutions for innovation in societies and territories.
+ICGI'2019 – International Conference on Graphics and Interaction (pp.
+DOI: 10.1109 / ICGI47575.2019.8955087 Silva, P. A., Tymoshchuk, O., Renó, D., Almeida, A. M., Pedro, L., & Ramos, F. (2018).
+Unravelling the Role of ICT in Regional Innovation Networks: A Case Study of the Music Festival 'Bons Sons.'
+), The Interplay of Data, Technology, Place and People for Smart Learning.
+Smart Innovation, Systems and Technologies (pp.
+DOI: 10.1007/978-3-319-92022-1_5 Silva, P. A., Antunes, M. J., Tymoshchuk, O., Pedro, L., Almeida, M. & Ramos, F. (2020a, no prelo).
+Understanding the role of communication and mediation strategies in community-led territorial innovation: a systematic review.
+Interaction Design and Architecture(s) Journal (IxD&A).
+Imagined Interaction: Visualizing Human-machine Communication.
+Journal of Digital Media & Interaction, 1(1), 7-21.
+DOI: 10.34624/jdmi.v1i1.913 Snyder, C. (2003).
+Paper Prototyping: The Fast and Easy Way to Design and Refine User Interfaces.
+São Francisco: Morgan Kaufmann.
+Sousa, A. P., & Almeida, A. M. (2015).
+A Interface e as suas dimensões na perceção de credibilidade e confiança na e-Health.
+Proposta de uma estrutura para análise da Interface.
+Info Design-Revista Brasileira de Design da Informação, 12(1), 16-32.
+Retirado de Stigberg, S. K. (2017).
+Simplifying the making of probes, prototypes and toolkits in mobile interaction research using Tasker.
+Proceedings of the 19th International Conference on Human-Computer Interaction with Mobile Devices and Services, MobileHCI 2017.
+1-8) DOI: 10.1145/3098279.3122133.
+Platform Capitalism by Nick Srnicek.
+Tan, G. W., Lee, V. H., Lin, B., Ooi, K. (2016).
+Mobile applications in tourism: the future of the tourism industry?.
+Industrial Management & Data Systems, 117(3), 560-581.
+DOI: 10.1108/IMDS-12-2015-0490.
+The digital economy: Promise and peril in the age of networked intelligence.
+Tymoshchuk, O., Renó, D., Silva, P. A., Almeida, A. M., Pedro, L., & Ramos, F. (2019a).
+Mediação digital para a inovação territorial: um estudo de caso múltiplo em redes sociais digitais.
+OBS* Observatório, 13(4), 70-88.
+DOI: 10.15847/obsOBS13420191435 Journal of Digital Media and Interaction Vol.
+6, (2020) 71 Tymoshchuk, O., Reno, D., Silva, P.A., Almeida, A. M., Pedro L. & Ramos, F (2019b).
+O papel das tecnologias digitais no desenvolvimento das comunidades rurais: o estudo de caso múltiplo de "BioLiving" e "Bons Sons".
+Revista Portuguesa de Estudos Regionais (RPER) 3(52), 131- 144.
+Retirado de Tymoshchuk, O., Renó, D., Silva, P. A., Almeida, A.M., Antunes, M. J., Pedro, L. & Ramos, F. (2019c).
+Construção de um quadro de referência para a conceção de estratégias de mediação digital em Inovação de base territorial.
+Proceeding da Conferência APDR 2019, 1007-1016.
+Verner, J. M., & Cerpa, N. (1997).
+Prototyping: Does your view of its advantages depend on your job?
+Journal of Systems and Software, 36(1), 3–16.
+DOI: 10.1016/0164-1212(95)00193-X.
+(2010), Predicting mobile hotel reservation adoption: insight from a perceived value standpoint.
+International Journal of Hospitality Management, 29(4), 598-608.
+DOI: Submitted: 30th April 2020.

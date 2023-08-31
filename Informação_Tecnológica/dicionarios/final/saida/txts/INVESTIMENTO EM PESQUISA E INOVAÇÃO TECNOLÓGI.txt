@@ -1,0 +1,265 @@
+Estudo & Debate, Lajeado, v. 27, n. 1, p. 7-28, 2020.
+ISSN 1983-036X7INVESTIMENTO EM PESQUISA E INOVAÇÃO TECNOLÓGICA: UM ESTUDO DE CASO PARA O BRASIL Neuler André Soares de Almeida1, Saulo Erick Rocha Rodas2, Wiston Muniz Ramos Marques3 Resumo: Inovação tecnológica é uma melhoria em termos de novidade aplicada a processos e produtos pelo setor produtivo, por meio de pesquisa e/ou investimento.
+De modo geral, as empresas buscam tornarse mais eficientes e competitivas quando aumentam seus investimentos em pesquisa e inovação tecnológica.
+O problema de pesquisa levantado pelo presente estudo diz respeito a quais variáveis influenciam mais o desempenho da indústria de transformação brasileira.
+Sendo assim, o objetivo geral deste estudo é verificar a relação entre o dispêndio em inovação tecnológica realizado pela indústria de transformação brasileira e o crescimento econômico.
+A metodologia se assentou de duas formas: estimação de um modelo econométrico de corte transversal agrupado e tabulação de dados da Pesquisa de Inovação Tecnológica (PINTEC) com foco nos anos base de 2008, 2011 e 2014.
+Os resultados obtidos mostram que no período de análise ocorre uma mudança do padrão tecnológico das indústrias de transformação no Brasil, evidenciando um impacto positivo do investimento em pesquisa e inovação tecnológica e o crescimento econômico do país.
+Palavras-chave: Investimento; Inovação; Indústria de transformação; Brasil Classificação JEL: O; D21; D24 INVESTMENT IN TECHNOLOGICAL RESEARCH AND INNOVATION: A CASE STUDY FOR BRAZIL Abstract: Technological innovation is an improvement in terms of novelty applied by the productive sector to processes and products, through research and / or investment.
+In general, companies seek to become more efficient and competitive as they increase their investments in research and technological innovation.
+The research problem raised by the present study concerns which variables influence the performance of the Brazilian manufacturing industry.
+Thus, the general objective of this study is to verify the relationship between the expenditure on technological innovation carried out by the Brazilian manufacturing industry and economic growth.
+The methodology was based in two ways: the estimation of a pooled cross-sectional econometric model and a tabulation of data from the Technological Innovation Survey (PINTEC) focusing on the base years 1 Professor do Departamento de Economia da Universidade do Estado do Amazonas - UEA.
+2 Economista formado pela Universidade do Estado do Amazonas - UEA.
+3 Graduando em Economia pela Universidade do Estado do Amazonas - UEA.
+EstudoDebateDebateEstudoEstudo em Gestãoem Gestão PlanejamentoPlanejamentoRevista Estudo & Debate, Lajeado, v. 27, n. 1, 2020.
+ISSN 1983-036X DOI: -- Artigo recebido em 12/04/2019.
+--Estudo & Debate, Lajeado, v. 27, n. 1, p. 7-28, 2020.
+ISSN 1983-036X8of 2008, 2011 and 2014.
+The results show that in the analysis period there is a change in the technological standard of the transformation industries in Brazil, evidencing a positive impact of the investment in research and technological innovation and the economic growth of the country.
+Keywords: Investment; Innovation; T ransformation industry; Brazil JEL classification: O; D21; D24 1.
+INTRODUÇÃO Inovação tecnológica é um termo aplicável à inovação de processos e produtos e vem sendo considerada um fator essencial de competitividade, pois traz para companhias eficiência e vantagem frente ao mercado, além de promover o desenvolvimento de novos modelos de negócios.
+Quando uma empresa tem a cultura inovadora como pauta, tem mais chances de crescer rapidamente e obter uma fatia maior nas vendas de produtos e serviços.
+Com a chegada da globalização, termos como startup, spin off, tecnologia, inovação, pesquisa e desenvolvimento tornaram-se cada vez mais presentes no ambiente mercadológico.
+Passaram a ser considerados fatores de sobrevivência para as empresas e até mesmo para o país, sendo que seus resultados afetam o desempenho econômico de nações desenvolvidas e em desenvolvimento.
+A pesquisa em desenvolvimento tecnológico tornou-se o maior indicador existente de mercado e de desempenho industrial e é considerada fator-chave para qualquer país, empresa e economia, pois, quem a detém possui as melhores chances de competir e de negociar.
+Neste sentido, em meio a intensidade das mudanças, governos concentram esforços e reconhecem a necessidade de informações estatísticas que sejam capazes de contribuir na tomada de decisão e na formulação de políticas voltadas para a indústria, de modo que estas garantam certa competitividade (MUNIZ, 2018).
+Neste contexto, os países começaram a buscar propostas e diretrizes que norteassem a coleta e interpretação de dados sobre atividades inovadoras da indústria.
+O Brasil verificou a urgência de um sistema de informações sobre as atividades de inovação tecnológica das empresas (FELIPE, 2018).
+O Instituto Brasileiro de Geografia e Estatística (IBGE), desde 2000, com o apoio da Financiadora de Estudos e Projetos (FINEP) e do Ministério da Ciência e Tecnologia e Inovação (MCTI), tem realizado a Pesquisa de Inovação (PINTEC), cujo objetivo é pesquisar as atividades inovativas e seus resultados nas empresas industriais.
+(2016), a falta de políticas voltadas para o mercado de capitais associadas ao risco do país tornou o Estado incapaz de apoiar a grande maioria das empresas brasileiras em busca de eficiência produtiva.
+A respeito do sistema de crédito, foram desenvolvidas poucas alternativas consistentes de financiamento público ao esforço de inovação.
+Não obstante a tudo isso, trabalhos como o de Pacheco (2010), Diniz (2008) e Suzigan (2001) encontraram evidências de que inovação tecnológica e eficiência de escala são determinantes para o desempenho exportador das firmas industriais brasileiras.
+Segundo Neri e Freitas (2004), as firmas que realizam inovação tecnológica têm 16% mais chances de serem exportadoras do que as firmas que não fazem inovações.
+Neri e Freitas Estudo & Debate, Lajeado, v. 27, n. 1, p. 7-28, 2020.
+ISSN 1983-036X9(2004) também afirmam que o aumento de 20% na eficiência de escala média das firmas na indústria brasileira aumentaria em 4,2% a probabilidade da firma ser uma exportadora.
+Segundo Suzigan (2001), apesar do avanço, as empresas brasileiras não chegaram a desenvolver capacidades de PD&I comparáveis às de seus concorrentes internacionais, o que as deixou em condições de relativa fragilidade na competição internacional.
+Para tanto, esta pesquisa busca identificar qual o padrão tecnológico da indústria de transformação brasileira, a fim de mensurar o grau de desenvolvimento tecnológico do país, uma vez que investimentos em inovação e tecnologia são a base do crescimento e desenvolvimento econômico.
+Este estudo, de forma específica, tem por objetivo, também, realizar uma análise do real impacto que o investimento em tecnologia vem tendo no desenvolvimento tecnológico das indústrias de transformação do Brasil nos anos de 2008, 2011 e 2014.
+Para isso, será utilizada a base de dados da PINTEC com as empresas de diversos setores da economia que implantaram produto e/ou processo novo ou substancialmente aprimorado.
+Crescimento e desenvolvimento tecnológico O crescimento econômico, segundo Souza (1997) diz respeito à elevação da produção de um país, havendo, assim, uma maior capacidade produtiva da economia, aumentando a fabricação de bens e serviços em um dado período de tempo.
+É, basicamente, determinado através de índice de crescimento anual do PNB (Produto Nacional Bruto), o qual se define pelo valor agregado de todos os bens e serviços que provêm da concentração dos recursos exclusivamente nacionais, podendo ser incluídos os rendimentos adquiridos por meio de investimentos efetuados no exterior.
+O PNB se difere do PIB (Produto Interno Bruto) por este se tratar da medida da atividade econômica e do nível de riqueza de uma certa região, analisando que quanto maior a produção, maior o aumento do investimento, do consumo e da venda dentro do território nacional, podendo os recursos não serem de origem nacional.
+Segundo Vasconcellos (2006), pode-se dizer, de modo simples, que crescimento econômico é a elevação da produção de bens e serviços de uma economia, e o crescimento da produção e da renda decorrem de variações na quantidade e na qualidade de dois insumos básicos: capital e mão-de-obra.
+O desenvolvimento tecnológico segundo Lemos et al.
+(2017), por sua vez, tem como objetivo o produto, tratando-se da inovação propriamente dita, do avanço essencial no que tange a inovar, fazer algo diferente, novo, podendo ser feito um novo produto ou até mesmo um diferente meio de fabricação ou aquisição de determinado material.
+Diante do exposto, podemos analisar que os dois fatores mencionados se relacionam, direta ou indiretamente, podendo se concluir que há uma relação de causa e efeito entre o crescimento econômico e o desenvolvimento tecnológico.
+Não importando a ordem em que se apresentam, se um acaba por ocorrer, é esperado que o outro ocorra logo em seguida.
+Estudo & Debate, Lajeado, v. 27, n. 1, p. 7-28, 2020.
+ISSN 1983-036X10De acordo com Sennes e Filho (2011), em um país de renda intermediária (como é o caso do Brasil), a participação dos segmentos menos inovadores dos serviços é maior, estes se caracterizam por baixa utilização de novas tecnologias e emprego de força de trabalho pouco qualificada.
+Uma situação assim apenas implica a existência de oportunidades de aumento da produtividade substancial por meio da difusão tecnológica.
+Neste contexto, podemos observar a aplicação da Pesquisa de Inovação Tecnológica nas empresas (PINTEC), um meio de promoção da inovação visando melhor posicionamento competitivo do Brasil.
+Inovação como fator de competitividade A palavra inovação diz respeito ao ato de inovar, ao ato de fazer algo novo.
+Em um mundo em que o processo de mudança é constante, a inovação se encontra no centro de análises de diversos tipos, sendo discutida em diversos meios, muitas vezes sem o devido cuidado conceitual.
+De acordo com Vicente & Lopes (2015, p.6), a palavra inovação deriva dos termos latinos innovo e are, e significa fazer algo novo ou renovar.
+A inovação é tida como a habilidade de transformar algo já existente em um recurso que gere riqueza.
+Segundo Cassiolato e Lastres (2003), inovação tecnológica é entendido como um termo aplicável à inovações de processos e de produtos.
+De modo geral, é toda novidade implantada pelo setor produtivo, por meio de pesquisa ou investimentos, o que aumenta a eficiência do processo produtivo ou que implica um novo ou aprimorado produto, de acordo com o Manual de Oslo, elaborado pela Organização para Cooperação e Desenvolvimento Econômico (OCDE).
+De acordo com o Ministério da Ciência, Tecnologia, Inovações e Comunicações (MCTIC, 2019) a inovação, apesar de seus benefícios, representa um investimento de longo prazo e de alto risco que demanda incentivos estatais, sendo que o Estado tem papel fundamental para induzir o setor privado a investir em inovação, provendo recursos e reduzindo o risco destes investimentos.
+Sendo assim, existe consenso de que o investimento brasileiro em P&D é superior ao dos demais países da América Latina, mas inferior ao dos países em desenvolvimento da Ásia, notadamente a Coreia do Sul e China (DAHLMAN; FRISCHTAK, 2005; CRUZ; MELLO, 2006; RODRIGUEZ; DAHLMAN; SALMI, 2008).
+Fuck e Vilha (2011) caracterizam o desenvolvimento de inovação tecnológica como um processo plurifacetado que implica a integração de várias atividades da empresa e de atores externos, conforme ilustra a Figura 1 a seguir:Estudo & Debate, Lajeado, v. 27, n. 1, p. 7-28, 2020.
+Integração de várias atividades em PD&I.
+Fonte: Fuck e Vilha (2011, p. 13).
+De acordo com Fuck e Vilha (2011), no processo acima, a inovação tecnológica é essencialmente respaldada por procedimentos executadas na empresa, pública ou privada, e que se constituem na aplicação de medidas de P&D, produção e marketing da empresa, como por exemplo, contratação de mão-de-obra qualificada, aquisição/licenciamento de tecnologias, investimento produtivo e ações de marketing.
+Esses esforços, segundo Rathmann (2018), são fundamentalmente empenhados nas áreas funcionais da empresa e, simultaneamente, a empresa compartilha e mescla seus conhecimentos internos com agentes externos de informação e de cooperação tecnológica como clientes, fornecedores, universidades, concorrentes e institutos públicos e privados de pesquisa.
+Ademais, este processo é também permeado por leis e políticas científicas e tecnológicas regidas pelo Governo e conta também com a participação de instituições para financiar o processo inovativo.
+Ao analisar o contexto mundial, nota-se que a inovação é um fator de sobrevivência para muitos países desenvolvidos, como é o caso do Japão, que investe em educação, tecnologia moderna, buscando competitividade e bem-estar social.
+Em decorrência disso, possuem cenários econômicos mais inovados, dinâmicos e favoráveis a uma política econômica ao crescimento (VICENTE & LOPES, 2015).
+No interesse de gerar e se desenvolver tecnologicamente, vários países começaram a buscar propostas e diretrizes que norteassem a coleta e interpretação de dados sobre atividades inovadoras da indústria.
+E assim surgiu o Manual de Oslo, publicado pela OCDE (Organização para a Cooperação e o Desenvolvimento Econômico), em 1992.
+No Brasil, a primeira tradução para o português foi produzida e divulgada pela FINEP em meio eletrônico, em 2004.Estudo & Debate, Lajeado, v. 27, n. 1, p. 7-28, 2020.
+ISSN 1983-036X12A partir do manual FINEP (2004), os dados necessários para mensurar a inovação adotada nas empresas passaram a ser eficazes, já que estes eram limitados e não tinham credibilidade, foi assim criado, um padrão internacional a ser seguido.
+No começo, o manual era voltado para os países da Europa ocidental que o utilizavam para desenvolver indicadores comparativos de inovação nos países pertencentes a OCDE e procuravam auxiliar os governos a desempenhar ume melhor promoção da atividade inovativa em toda a economia.
+Com isso, o Brasil, segundo Martins (2018), se encontrou perante um cenário de alta valorização da economia do conhecimento e da informação, e como não faz parte do grupo de países que compõem a OCDE, percebeu a necessidade de desenvolver métodos para mensurar a inovação tecnológica nas empresas, com intuito de se manter competitivo no mercado, garantindo expansão e crescimento sustentável.
+E assim, em abril de 2005 teve início o projeto IBI (Índice Brasil de Inovação).
+O IBI se fundamenta na capacidade de inovação das empresas, partindo de dois pressupostos: os esforços empregados para inovar e os resultados provenientes dos mesmos.
+Para tanto, constitui um ranking com as empresas mais inovadoras do mercado, baseandose nas informações coletadas pelo IBGE (Instituto Brasileiro de Geografia e Estatística), que realiza desde os anos 2000 a Pesquisa de Inovação Tecnológica nas empresas (PINTEC).
+Os investimentos privados são fundamentais para o desenvolvimento científico e tecnológico, tal como se observa em estatísticas mundiais acerca dos aportes em PD&I (BISPO, 2018).
+Evidenciam-se, nesse cenário, que as trajetórias de evolução do Sistema Nacional de Ciência, Tecnologia e Inovação (SNCTI) prima pela integração contínua das políticas governamentais com as estratégias empresariais (MAZZOLA, 2018).
+Além da integração, deve-se destacar a expansão e consolidação dos sistemas como processos fundamentais que demandam crescentes esforços de gestores que lidam com a temática.
+Em um contexto de globalização, as políticas públicas e iniciativas privadas de países em desenvolvimento têm sido orientadas para a conformação de trajetórias de emparelhamento baseadas tanto na cooperação como na competição internacional (GONÇALVES, 2018).
+Ferramental analítico Para o desenvolvimento da presente pesquisa, foi utilizado um modelo econométrico com corte transversal agrupado.
+Esse modelo tem características tanto de corte transversal quanto de séries de tempo.
+Agrupar cortes transversais de diferentes anos é, frequentemente, um modo eficaz de analisar os efeitos de uma nova política de governo.
+A ideia é coletar dados de anos anteriores e posteriores a fim de aumentar nosso tamanho da amostra, podendo formar um corte transversal agrupado ao combinar mais de um ano para modelos de dados em painel.
+Para o referido estudo, foram coletados dados da pesquisa realizada pelo Instituto Brasileiro de Geografia e Estatística (IBGE) com apoio do Ministério da Ciência, Tecnologia, Estudo & Debate, Lajeado, v. 27, n. 1, p. 7-28, 2020.
+ISSN 1983-036X13Inovações e Comunicações (MCTIC), que foi materializada na publicação intitulada Pesquisa de Inovação (PINTEC), com foco nos anos base de 2008, 2011 e 2014.
+A PINTEC busca identificar os impactos associados ao produto (melhorar a qualidade ou ampliar a gama de produtos ofertados), ao mercado (manter ou ampliar a participação da empresa no mercado, abrir novos mercados), ao processo (aumentar a flexibilidade ou a capacidade produtiva, reduzir custos), aos aspectos relacionados ao meio ambiente, à saúde e à segurança, e ao enquadramento em regulamentações e normas.
+(PINTEC, 2011, p. 23) É necessário destacar a importância dos resultados da pesquisa, uma vez que proporcionam diagnósticos sistematizados sobre os esforços e resultados associados às atividades inovativas das empresas brasileiras.
+O método para adquirir as informações acontece por meio da investigação das unidades, ou seja, das empresas registradas no Cadastro Nacional de Pessoa Jurídica (CNPJ) do Ministério da Fazenda e aquelas no cadastro do IBGE.
+O que, possibilita a criação de políticas de monitoramento, além de, direcionar esforços para apoio ao setor privado, visando o alcance dos objetivos do país (GALINA, 2018).
+Modelo econométrico proposto No que diz respeito à econometria, segundo Gujarati (2006), trata-se de uma ferramenta fundamental para demonstrar matematicamente a realidade das disciplinas econômicas.
+Com isso, é possível desenvolver métodos estatísticos para estimar relações econômicas, testar teorias, avaliar e implementar políticas de governo e de negócios, seja analisando o passado para tentar prever o futuro (tendências), seja para prever a influência (empírica) de uma variável sobre outra, ambas formando um grande fenômeno (desempenho de uma empresa, graças às inovações utilizadas, por exemplo).
+O modelo de regressão linear também tem a preocupação de medir a associação entre variáveis, mas é uma técnica de análise mais poderosa que o coeficiente de correlação de pearson, já que, além de medir a inter-relação entre elas, também estima os parâmetros de causalidade entre as mesmas (BOISIER, 1989).
+O modelo de regressão linear exige que seja especificada a forma funcional que relaciona uma variável à outra.
+Este é um problema comum na análise econômica, porque nem sempre os modelos teóricos avançam no sentido de sugerir esta forma, ficando apenas na sugestão do sentido de causalidade, ou seja, se o comportamento de Y é determinado pelo comportamento de X, cabe ao economista identificar qual a forma funcional que melhor se adequa às variáveis observadas.
+O modelo tradicionalmente testado é: Onde: = Valor da i-ésima observação da variável Y; = Valor da i-ésima observação da variável X; = Parâmetros a serem testados e/ou estimados pelo método.Estudo & Debate, Lajeado, v. 27, n. 1, p. 7-28, 2020.
+ISSN 1983-036X14Na econometria segundo Wooldridge (2005) quando se busca estudar o comportamento das variáveis e seu impacto sobre outras ao longo do tempo utilizamos da regressão linear, essa estima valores médios de uma variável (dependente) com base nos valores fixos de outra variável (independente) e pode ser expressa pela equação abaixo: Onde: Y = Variável dependente ou regressando; = Variáveis independentes ou regressor; = Constante; = Parâmetros de interesse; = Distúrbio ou termo de erro; No caso deste estudo, utilizou-se a regressão linear múltipla com dados em corte transversal agrupado para os anos de 2008, 2011 e 2014, que foram, respectivamente, as últimas publicações da Pesquisa de Inovação (PINTEC).
+Partimos do princípio de que, na atual realidade das empresas, se faz fundamental a aplicação de modelos estatísticos que ofereçam dados a respeito do quadro competitivo dessas empresas.
+O modelo conta com 72 observações, sendo 24 setores da indústria de transformação brasileira para cada ano considerado no modelo, e adota um total de 5 variáveis à análise cuja forma funcional consiste, neste caso, na log-linear.
+Sendo assim, o modelo de regressão proposto é descrito pela equação: Onde: lnTot = Ln (Total de desenvolvimento das empresas); lnPO = Ln (Total de pessoas ocupadas em atividades inovativas); lnNE = Ln (Número total de empresas que realizam dispêndios em atividades inovativas); lnVal = Ln (Valor dos dispêndios realizados pelas empresas que realizam dispêndios em atividades inovativas); lnRLV = Ln (Receita líquida de vendas do total de empresas).
+O modelo de regressão será estimado por meio do Software Stata 13.
+Posteriormente, serão realizados testes para verificar a normalidade do modelo proposto, ou seja, se este possui ou não problemas econométricos, como heterocedasticidade e multicolinearidade.
+Nos anexos são apresentados os dados retirados da PINTEC adotados no modelo de regressão proposto.
+T estes adotados Para identificar possíveis problemas no modelo, foram realizados os seguintes testes:Estudo & Debate, Lajeado, v. 27, n. 1, p. 7-28, 2020.
+ISSN 1983-036X151) Breusch- Pagan – Godfray, para heterocedasticidade; 2) Teste de White, para heterocedasticidade; 3) Vif (Variance inflation factors), para multicolinearidade.
+A seguir, os principais resultados obtidos a partir da estimação do modelo de regressão múltipla proposto.
+Resultado do modelo de regressão Os resultados obtidos pelo modelo de regressão proposto com dados em corte transversal agrupado para os anos 2008, 2011 e 2014, tomando como base de dados a PINTEC, são apresentados a seguir: Tabela 5.
+Resultados da Regressão Linear Múltipla com Dados em Corte T ransversal Agrupado Número de observações72R297,48% F(4,67) 647,50 R2 [ajustado] 97,33% Prob.
+> F 0,0000 Coeficiente Estatística ( t ) P > ( t ) 1,380188 1% 0,000 -0,3716202 9,2% 0,092 -0,2971218 1% 0,000 0,1728757 1,6% 0,016 1,947584 1% 0,000 Fonte: Confeccionada pelo autor com base nos dados da Regressão.
+Segundo os dados apresentados na Tabela 5, podemos evidenciar que as estatísticas R² e R² ajustadas foram de 97%, mostrando que o modelo é forte o suficiente para explicar a correlação entre as variáveis independentes e a variável dependente do modelo de regressão linear múltipla proposto.
+A estatística F apresentou como resultado um P-valor igual a 0,000%, rejeitando-se a hipótese nula de que as variáveis PO (Total de pessoas ocupadas em atividades inovativas), NE (Número total de empresas que realizam dispêndios em atividades inovativas), VD (Valor dos dispêndios realizados pelas empresas que realizam dispêndios em atividades inovativas) e RLV (Receita líquida de vendas do total de empresas) não têm efeito sobre a variável dependente Tot (Total de desenvolvimento das empresas).
+A estatística T de Student com n-2 graus de liberdade obteve significância de 1% para as variáveis PO e VD, e as variáveis RLV e NE foram significantes a 5% e 10% respectivamente.
+O grau de significância das referidas variáveis (P-valor) foi de 1% para Estudo & Debate, Lajeado, v. 27, n. 1, p. 7-28, 2020.
+ISSN 1983-036X16PO e VD, 1,6% para RLV e 9,2% para NE, logo rejeitamos a Hipótese nula de não haver correlação entre os gastos com inovação e tamanho da empresa com o seu desempenho e aceitamos a hipótese contrária.
+A seguir, a função econométrica encontrada: Antes da análise dos coeficientes, é importante dizer que dada a ocorrência de multicolinearidade no modelo, os coeficientes serão interpretados em módulo.
+A equação acima evidencia que: • Uma variação de 1% no total de pessoas ocupadas em atividades inovativas tem um impacto de 1,38% no desenvolvimento das empresas; • Uma variação de 1% no número total de empresas que realizam dispêndios em atividades inovativas tem um impacto de 0,37% no desenvolvimento das empresas; • Uma variação de 1% na receita líquida de vendas das empresas tem um impacto de 0,17% no desenvolvimento das empresas; • Uma variação de 1% no valor dos dispêndios realizados pelas empresas que realizam dispêndios em atividades inovativas tem um impacto de 0,30% no desenvolvimento das empresas.
+Dessa forma, a hipótese testada é verdadeira, sendo, por isso, importante para uma empresa que almeja melhorar sua performance investir em inovações, bem como na estrutura produtiva e no capital da sua firma, a fim de torná-la mais robusta competitivamente.
+Ademais, os resultados corroboram com os obtidos na pesquisa de Longhini et al.
+(2017), que também trabalhou com os dados da PINTEC nos anos de 2000, 2003, 2005, 2008 e 2011.
+Os resultados encontrados sugeriram que, em média, para os setores de grande porte a aquisição de máquinas e equipamentos e os projetos industriais, bem como outras preparações técnicas, são variáveis determinantes estatisticamente para o aumento das receitas líquidas de vendas.
+RESULTADO DOS TESTES DE NORMALIDADE DO MODELO 4.2.1.
+Para detectar heterocedasticidade 1) T este Breusch- Pagan – Godfray É baseado no multiplicador de Lagrange, e é indicado para amostras grandes.
+Foi atualizado para testar a presença de Heterocedasticidade dos resíduos, sob a hipótese nula de Homocedasticidade e uma distribuição qui-quadrada com (1) grau de liberdade.
+Sendo assim, o valor Chi2(1) = 1,01 e a Prob>Chi2 = 0,3141 mostram a aceitação da hipótese nula de homocedasticidade, evidenciando que não existe Heteroscedasticidade no modelo.Estudo & Debate, Lajeado, v. 27, n. 1, p. 7-28, 2020.
+ISSN 1983-036X172) T este de White O Teste de White se faz necessário pois o Teste Breusch-Pagan Godfrey detectar apenas heterocedasticidades lineares, enquanto o White detectar também as não-lineares.
+Sob a hipótese nula de Homocedasticidade, o valor de P-value deve ser significativo a, pelo menos, 10% para aceitarmos a hipótese nula.
+Sendo assim, com o valor P-value = 0,2028 não rejeitamos H0 e dizemos que o modelo é homocedástico.
+Por fim, após o teste de Breusch-Pagan Godfrey e o teste de White, o modelo proposto possui homocedasticidade.
+Logo, os erros padrões dos coeficientes não estão viesados e podemos, então, interpretar as estatísticas t e F .
+Para detectar multicolinearidade 3) T este VIF (Fator de Inflação de Variância) Segundo Gujarati (2006), a Multicolinearidade em regressão é uma condição que ocorre quando algumas variáveis preditoras no modelo estão correlacionadas a outras variáveis preditoras.
+A multicolinearidade forte é problemática porque pode aumentar a variância dos coeficientes de regressão, tornando-os instáveis.
+É a técnica mais usada para detectar Multicolinearidade.
+Diz-se que quanto maior o valor do VIF , mais severa é a Multicolinearidade.
+Existe uma regra prática de que se o VIF for maior 10% a variável tem Multicolinearidade.
+Resultado do Teste VIF (Fator de Inflação de Variância) Variáveis VIF 1/VIF 119,87 0,008343 120,40 0,008305 7,49 0,133455 7,56 0,132200 Média VIF 63,83 Fonte: Confeccionada pelo autor com base nos dados da Regressão.
+De acordo com a Tabela 6 acima, podemos ver que as variáveis NE e PO apresentam um VIF maior que 10, dessa maneira, pode-se dizer que elas possuem multicolinearidade.
+Há duas formas de tentar corrigir esse problema, a primeira é combinando variáveis e a outra é excluindo as variáveis multicolineares.
+Entretanto, nenhuma dessas medidas será adotada, embora a multicolinearidade viole um pressuposto do modelo de regressor, onde não parece haver nenhum problema para prever os valores da variável dependente em questão.
+Estudo & Debate, Lajeado, v. 27, n. 1, p. 7-28, 2020.
+ISSN 1983-036X184.2.3 Algumas considerações sobre as variáveis significativas a) Recursos Humanos A maior parte dos profissionais que atuam na área da inovação possui elevado grau de instrução, sendo esta uma necessidade para o funcionamento adequado dos programas e processos.
+Formação em níveis de pós-graduação, mestrado e doutorado, é uma condição necessária para a realização das atividades de pesquisa científica, desenvolvimento tecnológico e gestão das políticas e programas do setor.
+Esses profissionais desenvolvem as atividades em todas as entidades e empresas privadas que compõem o Sistema Nacional de Ciência e Tecnologia (SNCTI).
+É nas universidades que se realiza a maior parte da pesquisa do País, especialmente nas públicas, o que significa que os docentes são responsáveis por uma parcela significativa da produção científica nacional.
+Em 2014, o país contava com quase 84 mil docentes lecionando em universidades públicas e privadas.
+Cerca de 60% destes estão vinculados a instituições federais, 27% a estaduais e 13% a particulares.
+Ciências da Saúde é a área com o maior contingente de docentes, e São Paulo, o estado que detém a maior participação na Federação: mais de um quarto dos professores do país.
+Sistema Nacional de Ciência e Tecnologia (SNCTI) Fonte: Ministério da Ciência, Tecnologia, Inovações e Comunicações (MCTIC,2016).
+O Diretório de Grupos de Pesquisa no Brasil (DGP/CNPq) é a principal referência para a identificação do contingente de pesquisadores atuando no país.
+Em 2014 foi realizado o último censo desse Diretório que, desde 1993, acompanha o avanço dos Grupos de Pesquisa brasileiros.
+Conforme o quadro abaixo, houve avanço significativo no número de pesquisadores no Brasil entre 2010 e 2014.
+Destaque deve ser dado ao crescimento da quantidade de pesquisadores com Doutorado, que foi superior ao crescimento do total de pesquisadores, Estudo & Debate, Lajeado, v. 27, n. 1, p. 7-28, 2020.
+ISSN 1983-036X19fato que indica a expansão qualificada dos recursos humanos do Sistema.
+Outro ponto a ser destacado é a gradual redução das disparidades regionais sinalizada pelo crescimento mais acelerado de pesquisadores, doutores ou não, nas Regiões Norte, Nordeste e Centro-Oeste.
+Evolução do número de pesquisadores, grupos de pesquisa e Instituições voltadas para PD&I de 2010 a 2014.
+DimensãoPesquisadores 2010 2014Taxa de crescimento em (%) Instituições 452 492 8,8 Grupos 27.523 35.424 28,7 Pesquisadores 128.892 180.262 39,9 Pesquisadores Doutores 81.726 116.427 42,5 Pesquisadores por região Sudeste 62.630 84.045 34,2 Sul 29.895 41.773 39,7 Nordeste 26.716 40.336 51,0 Centro-oeste 11.656 16.777 43,9 Norte 8.304 13.466 62,2 Pesquisadores Doutores por Região Sudeste 45.992 62.441 35,8 Sul 18.516 27.212 47,0 Nordeste 15.446 24.076 55,9 Centro-oeste 7.400 11.114 50,12 Norte 3.877 6.606 70,4 Fonte: Ministério da Ciência, Tecnologia, Inovações e Comunicações (MCTIC,2016).
+b) Dispêndio em atividades inovativas Segundo dados da OCDE (2015), o Brasil ainda está distante dos países mais avançados, tanto no dispêndio em P&D assim como nos recursos humanos envolvidos (Figura 3), sendo necessários investimentos crescentes para que esse quadro seja alterado nos próximos anos.Estudo & Debate, Lajeado, v. 27, n. 1, p. 7-28, 2020.
+Relação entre o dispêndio em P&D em relação ao PIB, países selecionados.
+Fonte: OECD, Main Science and Technology Indicators, 2015.
+Segundo Souza (1997), o indicador formado pela relação entre investimentos nacionais em P&D e o Produto Interno Bruto (PIB) é um dos mais utilizados para comparar os esforços dos países no setor.
+Se por um lado há reconhecidas limitações desse indicador, que representa mais a oferta de recursos do que os resultados dos investimentos, por outro, ele sintetiza de maneira razoável o posicionamento relativo das nações no tema CT&I.
+Outro indicador que mostra o esforço nacional em CT&I é o de recursos humanos envolvidos em atividades de P&D, mais especificamente os cientistas e engenheiros.
+CONCLUSÃO Com base no referencial teórico levantado, buscou-se explicar o fenômeno da inovação focando no caso brasileiro.
+Além disso, com auxílio dos dados fornecidos pela PINTEC, foi desenvolvido um modelo econométrico que retrata a realidade inovativa da Indústria de T ransformação conforme suas variáveis explicativas.
+Os resultados obtidos pelas análises dos dados e do modelo econométrico desenvolvido mostram a grande influência da dimensão da empresa e da força que ela emprega nas atividades inovativas para incremento de seu desempenho ante as demais, além dos grandes desafios na aplicação da inovação dos principais setores da economia nacional.
+Desse modo, os objetivos desta pesquisa foram alcançados e a hipótese confirmada.
+Só há desenvolvimento econômico com progresso tecnológico, isto é, elevando-se o dispêndio em atividades inovativas.
+Pôde-se constatar uma relação positiva entre as variáveis estudadas, afirmando a hipótese da pesquisa.
+A inovação, os investimentos em desenvolvimento tecnológico e o tamanho da empresa são elementos importantes para o bom desempenho das empresas que fazem parte da indústria de transformação brasileira.
+Com as equações Estudo & Debate, Lajeado, v. 27, n. 1, p. 7-28, 2020.
+ISSN 1983-036X21elaboradas, foi possível ver o grau de importância de cada uma das variáveis escolhidas para delinear o modelo.
+Por fim, de acordo com a literatura estudada a respeito do papel da inovação no desempenho das empresas inovativas, constatou-se conforme os estudos de Pacheco (2010); Muniz (2018) e Cassiolato e Lastres (2003) que a inovação, principalmente a tecnológica, é um fator crítico de sucesso nas empresas.
+Assim, num mercado onde os negócios são cada vez mais globais, as empresas que não inovam arriscam-se a ficar para trás e a perder competitividade no mercado nacional e global.
+Para isso, é importante aprender a identificar as principais necessidades da empresa, delinear e implementar soluções e, claro, garantir que todos os colaboradores estejam alinhados não só com as novas metodologias de trabalho, como também com a cultura organizacional.
+Nesse sentido, os resultados encontrados nesta pesquisa, assim como de outros pesquisadores como Lemos et al.
+(2017); Felipe (2018) e Sousa et al.
+(2016), sugeriram que os setores de grande porte apresentam particularidades.
+Em geral, tem-se que os investimentos em inovação que influenciam positivamente a receita líquida de vendas desses setores foram as aquisições de máquinas e equipamentos, assim como as preparações técnicas e desenvolvimento de projetos industriais.
+Desta forma, tais características demonstram que os setores de grande porte tendem a investir em ativos tangíveis, a exemplo de máquinas e equipamentos, e também apresentam investimento com a criação de preparações técnicas e com o desenvolvimento de projetos industriais.
+Essas duas características apresentam em comum a necessidade de maior aporte financeiro para investimento.
+Embora, desde já possamos notar os reflexos do não investimento em atividades inovativas, com o aumento da inflação, dos juros, a demanda é afetada, levando ao baixo investimento por parte do setor de serviço, que é um dos que tem maior peso no crescimento do país.
+O setor de transformação, com o aumento da capacidade ociosa, reduz gastos, aumentando o número de desempregos.
+Assim, a população com baixa renda, diante de preços altos, não compra, as indústrias não produzem em larga escala e um círculo vicioso se perpetua na economia.
+Portanto, com a queda de investimentos, a economia encontra-se caminhando para uma fase de recessão econômica.
+REFERÊNCIAS BISPO, Cláudio dos Santos et al.
+Disponível em: http:// www.ibes.edu.br/aluno/arquivos/artigo_empreendorismo_inovacao.pdf Acessado em: 13 maio.
+BOISIER, S. Política econômica, organização social e desenvolvimento regional.
+Economia regional: teoria e métodos de análise.
+Fortaleza: BNB, 1989. p. 111-145.
+BRASIL, Banco Nacional de Desenvolvimento – BNDES.
+Chamada pública de seleção de pesquisa científica BNDES/FEP nº 03 fundo de estruturação de projetos - FEP inovação.
+Estudo & Debate, Lajeado, v. 27, n. 1, p. 7-28, 2020.
+ISSN 1983-036X22Disponível em: Galerias/Arquivos/produtos/download/cha mada_publica_inovacao.pdf.
+BRASIL, Financiadora de Estudos E Projetos – FINEP .
+Manual de Oslo: Proposta de Diretrizes para Coleta e Interpretação de Dados sobre Inovação Tecnológica.
+Disponível em: Acessado em: 17 maio.
+BRASIL, Instituto Brasileiro de Geografia e Estatística - IBGE.
+Disponível em: ciencia-tecnologia-e-inovacao/9141-pesquisa-de-inovacao.html?=&t=downloads .
+BRASIL, Instituto de Pesquisa em Economia Aplicada (IPEA).
+IPEADATA: Banco de Dados do Instituto de Pesquisa em Economia Aplicada.
+BRASIL, Ministério da Ciência, Tecnologia, Inovações e Comunicações – MCTIC.
+Estratégia Nacional de Ciência Tecnologia e Inovação 2016-2022.
+CASSIOLATO, J.; LASTRES, H. O foco em arranjos produtivos locais de micro e pequenas empresas.
+In: LASTRES, H.; CASSIOLATO, J.; MACIEL, M.
+Pequena Empresa: cooperação e desenvolvimento local.
+Rio de Janeiro: Relume Dumará, 2003.
+CAMPOS, Bruno; RUIZ, Ana Urraca.
+Padrões Industriais de Inovação na Indústria Brasileira.
+Revista Brasileira de Inovação, Rio de Janeiro (RJ), 8 (1), p.167-210, janeiro/ junho 2009.
+CRUZ, C.; MELLO, L. Boosting innovation performance in Brazil.
+OCDE: 2006 (Economics Department Working Paper n. 532).
+Os desafios do Brasil da Economia do Conhecimento: educação e inovação num mundo crescentemente competitivo.
+Reforma política e economia do conhecimento: dois projetos nacionais.
+Rio de Janeiro: José Olympio Editora, 2005.
+A dinâmica das inovações nas empresas do Pólo Industrial de Manaus: um novo momento Relacionado aos constrangimentos ambientais a partir do ano 2000.
+Desenvolvimento tecnológico e inovação no Brasil.
+2018.Estudo & Debate, Lajeado, v. 27, n. 1, p. 7-28, 2020.
+; VILHA, A. M. Inovação tecnológica: da definição à ação.
+Revista de Artes e Humanidades Contemporâneos, n. 9, nov. 2011 – abr.
+GALINA, Simone Vasconcelos Ribeiro.
+Análise do Desenvolvimento Tecnológico Realizado no Brasil por Empresas Fabricantes de Equipamentos de Telecomunicações.
+Disponível em: Simposio%20Inovacao.pdf .
+GONÇALVES, José Ernesto Lima Gonçalves.
+Os impactos das novas tecnologias nas empresas prestadoras de serviços.
+Rio de Janeiro: Campus, 2006 LEMOS, L. Gonçalves de; ALMEIDA, Neuler A. de Almeida; FIORI, Diogo Del.
+Análise do desempenho da indústria de transformação do Brasil a partir dos investimentos em inovação tecnológica.
+Revista de Economia Mackenzie, v. 14, n. 2, São Paulo, SP , 2017.
+LONGHINI, Tatielle Menolli; CAVALCANTI, Joyce Mariella Medeiros; BORGES, Sergio Louro; FERREIRA, Bruno Pérez.
+Investimentos em Inovação e sua Influência na Receita Líquida de Vendas: Uma Análise com Base nos Dados do PINTEC.
+Brazilian Business Review, p.1-16.
+Estudo da relevância de práticas de inovação: um comparativo universidade-empresa.
+Disponível em: files/2014/07/2011_3_Paula.pdf .
+MAZZOLA, Renato Ribeiro de Mello Mazzola; ARMELLINI, Fabiano.
+Desenvolvimento tecnológico do brasil no cenário mundial: um estudo exploratório por meio de indicadores de patentes.
+Disponível em: enegep2011_TN_STO_142_896_19395.pdf .
+Investimento recente, capacitação tecnológica e competitividade.
+Disponível em: arttext&pid=S0102-88392000000300015 .
+NEGRI, João Alberto de; FREITAS, Fernando.
+Inovação tecnológica, eficiência de escala e as exportações brasileiras.
+Anais do 32° Encontro Nacional de Economia (ANPEC 2005).
+Disponível em: acessado em 18/12/2019.
+Desafios da Inovação Incentivos para Inovação: O que falta ao Brasil.
+2010.Estudo & Debate, Lajeado, v. 27, n. 1, p. 7-28, 2020.
+ISSN 1983-036X24RATHMANN, Régis; HOFF , Debora Nayar; SANTOS, Omar Inácio Benedetti; PADULA, Antônio Domingos.
+Evolução dos Investimentos em Pesquisa e Desenvolvimento e o Registro de Patentes: Brasil Rumo a uma Nova Condição Competitiva no Cenário Internacional?
+RODRIGUEZ, A.; DAHLMAN, C.; SALMI, J. Conhecimento e inovação para a competitividade.
+Brasília: Banco Mundial; Confederação Nacional da Indústria (CNI), 2008.
+SENNES, R.; BRITTO FILHO, A. Inovações tecnológicas no Brasil – Desempenho, políticas e potencial.
+São Paulo: Cultura Acadêmica, 2011.
+SOUSA, David Silva Pereira; SANTOS, Ricardo Bruno Nascimento dos; SOUSA, Luciana Cristina Romeu.
+Análise da eficiência técnica dos setores industriais investidores em inovação no Brasil entre 2007 à 2010.
+UFPA, v. 5, n°01, janeiro de 2016.
+Aglomerações industriais: avaliação e sugestões de políticas.
+Capítulo da coletânea Futuro de Indústria: 2001.
+VASCONCELLOS, Marco Antonio Sandoval de.
+VICENTE, Rayres Helena Fonseca; LOPES, Paloma de Lavor.
+A importância de investimentos em inovação tecnológica como fator chave para o desenvolvimento econômico.
+Simpósio de Excelência em Gestão e Tecnologia (XII-SEGeT), Resende -RJ, p.16.
+WOOLDRIDGE, J. M. Introdução à econometria: Uma abordagem moderna.
+São Paulo: Thomson, 2005.Estudo & Debate, Lajeado, v. 27, n. 1, p. 7-28, 2020.
+ISSN 1983-036X25ANEXOS Tabela 1.
+Os 24 setores da indústria de transformação brasileira selecionados para aplicação do modelo, e suas quantidades nos anos de 2008, 2011 e 2014.
+Nº INDUSTRIA DE TRANSFORMAÇÃO DO BRASILANO 2008 2011 2014 1 Fabricação de produtos alimentícios 11.723 1.403 13.846 2 Fabricação de bebidas 889 926 967 3 Fabricação de produtos do fumo 62 63 68 4 Fabricação de produtos têxteis 3.532 3.968 3.856 5 Confecção de artigos do vestuário e acessórios 14.746 18.506 17.582 6Preparação de couros e fabricação de artefatos de couro, artigos de viagem e calçados5.111 5.686 4.921 7 Fabricação de produtos de madeira 5.249 5.473 5.235 8 Fabricação de celulose, papel e produtos de papel 2.138 2.234 2.133 9 Impressão e reprodução de gravações 2.862 3.204 3.037 10Fabricação de coque, de produtos derivados do petróleo e de biocombustíveis286 296 295 11 Fabricação de produtos químicos 3.064 3.517 3.632 12 Fabricação de produtos farmoquímicos e farmacêuticos 495 458 406 13 Fabricação de artigos de borracha e plásticos 6.461 6.992 7.148 14 Fabricação de produtos de minerais não-metálicos 7.861 9.905 10.982 15 Metalurgia 1.675 1.907 1.776 16 Fabricação de produtos de metal 10.106 11.479 11.935 17Fabricação de equipamentos de informática, produtos eletrônicos e ópticos 1.466 1.618 1.542 18 Fabricação de máquinas, aparelhos e materiais elétricos 1.938 2.201 2.170 19 Fabricação de máquinas e equipamentos 5.551 6.228 6.588 20 Fabricação de veículos automotores, reboques e carrocerias 2.638 2.872 2.765 21 Fabricação de outros equipamentos de transporte 500 530 598 22 Fabricação de móveis 5.116 5.799 6.168 23 Fabricação de produtos diversos 2.607 3.130 3.531 24 Manutenção, reparação e instalação de máquinas e equipamentos 2.343 3.209 4.088 Fonte: Elaborado a partir dos dados do IBGE, Pesquisa de Inovação.Estudo & Debate, Lajeado, v. 27, n. 1, p. 7-28, 2020.
+Número de Pessoas Ocupadas, Dispêndios Realizados nas Atividades Inovativas e Receita Líquida de Vendas (Ano de 2008) EMPRESAS (ANO 2008) PESSOAL OCUPADO EM INOVAÇÃO DE PRODUTOS E/OU PROCESSOSDISPÊNDIOS REALIZADOS PELAS EMPRESAS INOVADORAS EM ATIVIDADES INOVATIVASRECEITA LÍQUIDA DE VENDAS EM (R$ 1.000,00) NÚMERO DE EMPRESASVALOR EM (R$ 1.000,00) 4.484 3.640 5.823.511 279.282.136 308 261 894.340 39.672.481 16 15 164.984 10.884.538 1.265 992 730.823 28.901.861 5.419 3.880 426.592 23.510.698 1.881 1.252 562.641 23.960.568 1.237 824 485.540 16.388.177 753 478 1.078.392 48.654.239 1.352 1.215 464.534 10.514.511 131 100 2.766.440 195.959.076 1.782 1.424 4.279.440 170.839.326 315 301 1.467.316 29.992.116 2.342 1.851 1.692.755 58.189.535 2.628 1.986 1.135.807 48.281.422 661 486 3.708.519 141.112.163 4.007 3.509 1.718.863 60.133.587 827 731 1.984.210 60.006.988 900 818 1.371.658 51.802.108 2.831 2.424 2.574.721 85.531.494 1.190 1.116 7.135.313 205.356.230 181 100 1.638.868 32.219.201 1.768 1.525 451.168 17.213.981 921 843 504.336 12.422.779 608 520 169.743 11.193.996 Fonte: IBGE, Diretoria de Pesquisas, Coordenação de Indústria, Pesquisa de Inovação 2008.Estudo & Debate, Lajeado, v. 27, n. 1, p. 7-28, 2020.
+Número de Pessoas Ocupadas, Dispêndios Realizados nas Atividades Inovativas e Receita Líquida de Vendas (Ano de 2011) EMPRESAS (ANO 2011) PESSOAL OCUPADO EM INOVAÇÃO DE PRODUTOS E/OU PROCESSOSDISPÊNDIOS REALIZADOS PELAS EMPRESAS INOVADORAS EM ATIVIDADES INOVATIVASRECEITA LÍQUIDA DE VENDAS EM (R$ 1.000,00) NÚMERO DE EMPRESASVALOR EM (R$ 1.000,00) 5.729 4.030 7.814.361 386.232.882 256 235 1.273.885 58.116.995 18 16 219.731 10.864.261 1.054 847 719.877 36.511.584 5.935 4.953 600.960 37.141.417 1.676 1.331 642.667 28.613.184 1.310 1.140 584.609 17.383.919 936 739 1.088.849 54.390.783 1.252 825 921.066 15.539.690 113 96 4.542.699 215.113.143 2.078 1.879 4.583.634 202.113.143 247 211 1.849.037 38.564.871 2.536 1.957 2.193.115 76.778.249 2.893 2.334 1.278.087 68.727.339 786 587 4.161.641 131.820.833 3.782 3.031 1.838.788 70.972.750 958 838 2.213.488 68.661.192 974 785 1.813.139 65.140.170 2.573 2.212 2.173.764 103.464.330 837 604 6.717.745 263.566.389 346 316 1.488.328 34.544.042 2.586 1.405 668.211 23.804.140 1.043 944 350.728 16.975.656 1.094 936 386.523 14.877.805 Fonte: IBGE, Diretoria de Pesquisas, Coordenação de Indústria, Pesquisa de Inovação 2011.Estudo & Debate, Lajeado, v. 27, n. 1, p. 7-28, 2020.
+Número de Pessoas Ocupadas, Dispêndios Realizados nas Atividades Inovativas e Receita Líquida de Vendas (Ano de 2014) EMPRESAS (ANO 2014) PESSOAL OCUPADO EM INOVAÇÃO DE PRODUTOS E/OU PROCESSOSDISPÊNDIOS REALIZADOS PELAS EMPRESAS INOVADORAS EM ATIVIDADES INOVATIVASRECEITA LÍQUIDA DE VENDAS EM (R$ 1.000,00) NÚMERO DE EMPRESASVALOR EM (R$ 1.000,00) 6.168 4.814 7.106.516 525.606.581 423 340 2.152.772 74.363.563 24 16 170.408 '12.477.260 1.234 1.108 761.050 40.989.854 5.107 3.867 805.552 46.625.157 1.415 1.086 673.702 36.841.050 1.325 1.138 630.051 22.938.561 647 599 1.219.031 68.698.999 839 629 444.443 15.797.697 125 110 4.823.909 307.457.163 1.802 1.493 4.748.945 262.678.217 212 191 2.281.624 54.845.625 2.925 2.337 2.086.346 97.780.978 4.229 3.434 2.369.375 88.556.403 669 540 2.513.146 165.492.604 3.513 2.751 2.092.468 78.789.450 1.053 847 2.795.774 91.299.804 1.022 845 2.179.327 74.802.581 2.657 2.258 2.835.718 130.413.204 1.080 959 6.260.313 265.476.937 227 180 5.077.692 48.462.171 2.714 2.094 797.647 30.939.850 1.504 1.312 544.305 22.744.033 937 597 521.642 22.682.679 Fonte: IBGE, Diretoria de Pesquisas, Coordenação de Indústria, Pesquisa de Inovação 2014.

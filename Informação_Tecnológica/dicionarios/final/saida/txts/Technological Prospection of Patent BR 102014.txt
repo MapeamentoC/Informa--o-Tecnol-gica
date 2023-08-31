@@ -1,0 +1,196 @@
+DOI: 197Prospecção Tecnológica da Patente BR 102014029616-6 A2: veículos para tintas de impressão Technological Prospection of Patent BR 102014029616-6 A2: vehicles for printing inks Carla Frade de Paula Castro1 Regina Coeli Andrade Marques1 Stenio Diniz1 1Universidade de Brasília, Brasília, DF , Brasil Resumo Este artigo realiza uma prospecção tecnológica e científica do pedido de patente intitulado "Processo de obtenção de biopolímero iônico a partir de biopolímeros provenientes do tratamento térmico de materiais graxos", de titularidade da Fundação Universidade de Brasília, com o intuito de fornecer subsídios para uma gestão estratégica do pedido junto ao INPI.
+As buscas foram realizadas nas bases Orbit (patentes) e Web of Science (publicações), a partir das palavras-chave ink e printing , dado que a tecnologia foi considerada adequada como veículo para tintas de impressão.
+Encontrou-se uma predominância da produção tecnológica sobre a científica, com relativa estabilidade da atividade inventiva e uma crescente produção científica.
+Trata-se de segmento estabelecido, dominado por grandes empresas de países com altos investimento em P&D (Japão, China e EUA).
+O trabalho avaliou ainda a tecnologia com grau de maturidade tecnológica emergente e nível TRL4 de prontidão tecnológica.
+Palavras-chave: Prospecção Tecnológica.
+Abstract This study performs a technological and scientific prospection regarding University of Brasilia Foundation's patent application, entitled "process for obtaining ionic biopolymers from biopolymers deriving from the thermal treatment of fat materials", with the aim of providing data that allows a more strategic management of this application before the Brazilian Patent Office.
+The patent search was performed at the Orbit database, while the publications search, at the Web of Scope database, using keywords ink and printing, given that the technology was found suitable as a printing ink vehicle.
+We found that scientific activity predominated over academic production, the first being relatively stable and the latter, at a growing pace.
+This is a well-established segment, dominated by big companies established in countries with high levels of investment in R&D (Japan, China and USA).
+Furthermore, we classified the invention's technological maturity as emergent, and its trade readiness level as TRL4.
+Keywords: Technological Prospection.
+Printing Ink.Área Tecnológica: Prospecção Tecnológica.
+Artigo recebido em: 26/07/2019 Revisado em: 18/09/2019 Aprovado em: 04/11/2019Direito autoral e licença de uso: Este artigo está licenciado sob uma Licença Creative &RPPRQV&RPHVVDOLFHQoDYRFrSRGHFRPSDUWLOKDUDGDSWDUSDUD TXDOTXHU¿PGHVGHTXH atribua a autoria da obra, forneça um link para a licença, e indicar se foram feitas alterações.198Cadernos de Prospecção – Salvador, v. 13, n. 1, p. 197-212, março, 2020Carla Frade de Paula Castro, Regina Coeli Andrade Marques, Stenio Diniz 1 Introdução O Novo Regime Fiscal trazido pela Emenda Constitucional n. 95/2016 impôs severas limitações aos gastos da União a serem observadas pelos próximos 20 anos.
+Entre elas, o con-gelamento dos chamados gastos discricionários trouxe reflexos diretos e severos às verbas do governo federal com a área de Educação 1.
+Assim como outras instituições federais de ensino superior, a Universidade de Brasília se encontra em situação de asfixia orçamentária que a leva a adequar seus gastos à realidade fiscal do país (SAMPAIO, 2018).
+Nesse contexto, o Centro de Apoio ao Desenvolvimento Tecnológico (CDT) da instituição, que desde 2007 atua como Núcleo de Inovação Tecnológica nos termos da Lei de Inovação (Lei n. 10.973/2004), tem apresentado gastos crescentes com a requisição e manutenção de direitos de propriedade industrial para inovações da Universidade junto ao Instituto Nacional da Propriedade Industrial (INPI).
+Segundo Nascimento (2018), os gastos com taxas pagas ao INPI atingiram a marca de R$ 77.987,00 em 2017, um aumento de aproximadamente 133% em relação ao ano anterior.
+Muito embora um aumento nos pedidos ao INPI esteja ligado à alta da atividade intelectual da Universidade, a obtenção de um título de propriedade industrial não garante o retorno dos investimentos em Pesquisa e Desenvolvimento (P&D) e, tampouco, dos pagamentos feitos ano a ano ao INPI.
+Sendo assim, é imperativo que o gerenciamento dos ativos de propriedade industrial do CDT seja feito de forma estratégica, sobretudo em função do atual contexto de planejamento e eficiência de gastos.
+Este trabalho tem o objetivo de subsidiar a decisão de manutenção, ou não, do pedido de patente n. BR 102014029616-6 A2, de titularidade da Fundação Universidade de Brasília.
+A invenção refere-se ao processo de obtenção de um novo composto a partir de biopolímeros provenientes do tratamento térmico ou termo-catalítico de materiais graxos (óleos e gorduras).
+Tais biopolímeros são tratados com agentes alcalinos, gerando um novo produto com proprie-dades físico-químicas diferentes das de seu precursor: o biopolímero iônico.
+Entre elas, desta-cam-se o clareamento do polímero, o aumento de seu volume e o aumento de sua viscosidade (FUNDAÇÃO…, 2014).
+Tais características os tornam especialmente adequados como veículos em formulações de tintas de impressão/gravuras: sua cor clara reduziria a quantidade de pigmentos a serem adicionados na formulação da tinta e preserva a cor original do pigmento, enquanto a textura espessa tornaria dispensável a adição de aditivos espessantes.
+Por fim, o uso de substâncias simples e menos agressivas ao meio ambiente chama a atenção em vista da alta dependência do mercado de tintas de derivados de petróleo 2.
+Outro uso dos biopolímeros iônicos diz respeito à preparação de aditivos utilizados em composições de diferentes tipos de produtos, selecionados entre lubrificantes, adesivos, plastificantes ou estabilizantes em PVC (FUNDAÇÃO…, 2014).
+O pedido foi depositado no Instituto Nacional da Propriedade Industrial (INPI) em 27 de novembro de 2014 e publicado em 21 de junho de 2016.
+Dado o acúmulo de pedidos na fila 1 Para entender em detalhes o impacto da EC n. 95/2016 nas universidades, indica-se a leitura do Estudo Preditivo do Impacto Orç amentário da Emenda Constitucional n. 95/2016 nas Universidades Federais Brasileiras, disponível em: 2 Os inventores explicam que o foco da invenção no uso de óleos vegetais, matérias-primas renováveis e que não prejudicam o meio ambiente de forma definitiva, deveu-se à crescente demanda destes em substituição aos derivados de petróleo, bem como pelo incentivo para o desenvolvimen to de uma fonte alternativa para as tintas de impressão realizado, desde a década de 1970, pela Newspaper Association of America, quando a produção de tint a à base de soja foi estimulada pela indústria gráfica americana (FUNDAÇÃO…, 2014).199Cadernos de Prospecção – Salvador, v. 13, n. 1, p. 197-212, março, 2020Prospecção Tecnológica da Patente BR 102014029616-6 A2: veículos para tintas de impressão para análise ( backlog ), estima-se que seja analisado apenas em 2026 e, se concedido, que dure até 2036, totalizando 22 anos de pagamento de taxas.
+Nesse contexto, é razoável que o CDT continue a patrocinar esse pedido?
+Para responder a essa pergunta, apresenta-se um estudo de prospecção tecnológica, de abrangência nacional e internacional, por meio de mapeamento patentário e de levantamento da bibliografia existente, a fim de identificar tendências que indiquem caminhos para a co-mercialização da tecnologia.
+Espera-se, com isso, proporcionar um diagnóstico da viabilidade econômica da tecnologia que subsidie a decisão do CDT.
+2 Metodologia Primeiramente, é importante ressaltar que o biopolímero iônico objeto do pedido de patente foi identificado, inclusive com realização de testes bem-sucedidos, como veículo satisfatório em formulações de tintas para impressão.
+Nesse contexto, optou-se por focar este trabalho de prospecção nesse uso específico, com exclusão de tintas para gravuras e outras aplicações.
+Assim, apresenta-se uma exploração quantitativa de tendências tecnológicas mundiais que permitam identificar caminhos para um maior sucesso em sua (eventual) exploração comercial.
+Nesse sentido, foram consultadas as bases de dados Orbit para depósitos de patentes e, para publicações científicas, a base Web of Science.
+A escolha por essas bases se justifica pela sua ampla abrangência, ferramentas oferecidas para análise dos dados e disponibilidade de acesso.
+As buscas foram executadas em abril de 2019 e se referem ao intervalo entre o primeiro dia do ano de 2007 e o último de 2017 – no caso das patentes foi considerada a data de prioridade.
+O período de dez anos se justifica como forma de identificar tendências recentes no segmento de veículos para tintas de impressão, enquanto os anos de 2018 e 2019 foram excluídos por não considerarem as patentes em fase de sigilo, retornando baixo número de resultados.
+Para a investigação foram elencadas palavras-chave representativas tanto do mercado alvo da tecnologia – tintas para impressão – quanto de seus elementos característicos – base em óleo e uso como veículo em formulações de tintas.
+Assim, foram definidas as palavras em inglês correspondentes: ink, printing , oil e vehicle .
+O operador booleano utilizado foi o AND, com o objetivo de encontrar a melhor cobertura para a pesquisa.
+A busca por palavras-chave foi feita nos campos título, resumo e palavras-chave do autor; para a busca de patentes, consideraram-se ainda os campos objeto da invenção, vantagens sobre inconvenientes do estado da arte, reivindicações independentes e texto integral.
+Em função dos resultados encontrados, os termos de busca foram progressivamente ajustados até se alcançarem resultados satisfatórios.
+O Quadro 1 resume as tentativas feitas, bem como o número de documentos encontrados em cada base.200Cadernos de Prospecção – Salvador, v. 13, n. 1, p. 197-212, março, 2020Carla Frade de Paula Castro, Regina Coeli Andrade Marques, Stenio Diniz Quadro 1 – Termos de busca para patentes e artigos cient ificos nas bases Orbit e Web of Science TERMOS DE BUSCARESULTADOS ORBIT (PATENTES )RESULTADOS WEB OF SCIENCE (ARTIGOS ) Ink 699.974 17.079 ink AND printing 355.599 7.490 oil AND vehicle 5.275 5.580 ink* AND printing AND vehicle * 54.805 66 (ink AND printing) AND (oil AND vehicle) 16.573 14 Fonte: Elaborada pelos autores deste artigo com dados de Orbit (2019) e Web of Science (2019) Definida a utilização da linha em negrito no Qua dro 1, por representar abordagens da exploração no aspecto de mercado, os conteúdos retornados das bases foram tabulados e tra-tados em um editor de planilhas (Excel) para a criação dos gráficos constantes deste trabalho.
+Os dados foram analisados em vista dos seguintes indicadores: evolução anual dos artigos e patentes, os países em que mais se inventa e se pesquisa, os principais depositantes e instituições de pesquisa (por nome e por tipo), código CIP , entre outros.
+Do ponto de vista da tecnologia, foram avaliados ainda seu grau de maturidade, nos termos estabelecidos por Roussel (1984) e Nascimento (2017), e com o apoio de informações sobre o mercado de fabricação de tintas para impressão.
+O nível de prontidão tecnológica da invenção, por sua vez, foi definido nos termos da escala TRL.
+3 Resultados e Discussão Realizada a consulta nas bases Orbit e Web of Science da forma como explicitado na seção anterior, serão discutidos a seguir os principais resultados encontrados em cada uma das bases.
+Na sequência, serão analisados o grau de maturidade tecnológica e o nível de prontidão tecnológica da invenção em comento.
+3.1 Mapeamento de Inventos e Publicações Conforme visto anteriormente, a pesquisa por palavras-chave retornou 355.599 resultados na plataforma Orbit, os quais foram analisados como se mostra a seguir.
+Com relação à distribuição temporal, a Figura 1 demonstra um volume constante de pedidos de registro de patente nos últimos 10 anos, considerando a data de prioridade assegurada pelos escritórios de patentes.
+No período em análise, o ano de 2015 desponta como o de maior atividade inventiva, totalizando 1.508 pedidos.201Cadernos de Prospecção – Salvador, v. 13, n. 1, p. 197-212, março, 2020Prospecção Tecnológica da Patente BR 102014029616-6 A2: veículos para tintas de impressão Figura 1 – Evolução anual dos pedidos de patente para tecnologias de tintas para impressão (20072017) Fonte: Elaborada pelos autores deste artigo com dados de Orbit (2019) No período em análise, o ano de 2016 desponta como o de maior atividade inventiva, totalizando 34.831 pedidos.
+Com um desvio padrão de 2.224, mostra-se, portanto, pequeno em relação à quantidade por ano, o universo amostral apresenta comportamento de baixa variação.
+Em outras palavras, o investimento em P&D não demonstra, sob a ótica do volume de patentes, maiores investimentos de novas frentes de mercado.
+Passando-se para a distribuição geográfica dos pedidos de patentes (Figura 2), nota-se que o país em que mais se patenteia tecnologias para veículos de tintas de impressão é o Japão, com 187.511 pedidos de patentes, 30% a mais do que o segundo colocado, China (143.841 pedidos).
+Na sequência da lista, encontra-se ainda os Estados Unidos (114.949 pedidos), Coreia do Sul (55.490 pedidos), Taiwan (33.269 pedidos) e Alemanha (15.574 pedidos), sinalizando o amplo predomínio de países com políticas maduras de P&D.
+3 Figura 2 – Distribuição geográfica dos pedidos de patente para tecnologias de tintas para impressão (2007-2017) Fonte: Elaborada pelos autores deste artigo com dados de Orbit (2019) 3 O relatório The Global Innovation Index 2018, editado pela Organização Mundial da Propriedade Intelectual (Ompi), traz métrica s detalhadas sobre a performance em inovação de 126 países (equivalentes a 90,8% da população mundial e 96,3% do PIB mundial).
+Nela, Estados Unidos, Coreia do Sul, Japão, China e Canadá ocupam a 6ª, 12ª, 13ª, 17ª e 18ª colocações, respectivamente.202Cadernos de Prospecção – Salvador, v. 13, n. 1, p. 197-212, março, 2020Carla Frade de Paula Castro, Regina Coeli Andrade Marques, Stenio Diniz É possível ainda identificar uma forte tendência a exportação de tais tecnologias, dado o grande número de pedidos multipaíses, como na categoria WO (76.627 pedidos), processa-dos pela Organização Mundial da Propriedade Intelectual (OMPI), e na categoria EP (54.424 pedidos), processados pela Organização Europeia de Patentes.
+Segundo dados de Hidalgo et al.
+(2017), as tintas já acumulam mais de US$ 11,8 bilhões em exportações, considerando o período de 1995 a 2017.
+A Alemanha é o principal exportador (18%), seguida do Japão (12%), Estados Unidos (7,9%) e China (6%).
+Com relação aos principais depositantes (Figura 3), a liderança é exercida majoritariamente por empresas – sobretudo as japonesas, que ocupam 16 das 20 primeiras colocações.
+Além dos japoneses, também aparecem depositantes estadunidenses (três empresas) e coreanos (uma empresa).
+Curiosamente, e apesar de sua vice-liderança em número total de patentes, a China não emplacou nenhum depositante entre os 20 primeiros, o que sugere que a atividade de P&D para essa tecnologia é conduzida de maneira pulverizada no país – suposição esta a ser confirmada por outros estudos.
+Figura 3 – Principais depositantes de patente para tecnologias de tintas para impressão (2007-2017) Fonte: Elaborada pelos autores deste artigo com dados de Orbit (2019) Trata-se, portanto, de um segmento estabelecido, dominado por grandes empresas localizadas em países com forte tradição de investimento em P&D.
+A concentração das tecnologias nas mãos de seis empresas de porte mundial, porém, resulta em barreiras para a entrada de novos competidores que desejem comercializar veículos para tintas de impressão, na medida em que exige que o produto entrante esteja em estágio avançado, tanto em termos técnicos como de desempenho comercial (KOTLER, 2012), para que possua um diferencial competitivo, seja para atender o cliente final, seja para atender a cadeia de produção.
+Por fim, observa-se que os investimentos estão concentrados em áreas tecnológicas compatíveis com as indicadas na patente da Universidade de Brasília, o que demonstra alinhamento quanto à proteção da patente.
+Tendo como base a Classificação Internacional de Patentes da OMPI, a Figura 4 identifica as classes C09 e C08, referentes a Produtos Básicos de Química, em destaque na parte superior do mapa.203Cadernos de Prospecção – Salvador, v. 13, n. 1, p. 197-212, março, 2020Prospecção Tecnológica da Patente BR 102014029616-6 A2: veículos para tintas de impressão Figura 4 – Principais áreas de aplicação de tecnologias de veículos para tintas para impressão (20072017) Fonte: Elaborada pelos autores deste artigo com dados de Orbit (2019) A distribuição entre empresas detentoras de patentes e áreas de conhecimento aponta para uma concentração no setor têxtil e máquinas para papel, além de concentração de poucas empresas nesse domínio.
+A concentração tanto em domínio tecnológico quanto no mercado ao longo de 10 anos permite avaliar o mercado como de baixa inclusão tecnológica, uma vez que se mantém a aplicação concentrada em uma área.
+A concentração em poucas empresas aponta para um mercado com altas barreiras para a entrada desse produto.
+O investimento no desenvolvimento de novos produtos é pauta no setor de tintas, que procura alcançar novos mercados e melhorias tanto em processo produtivo quanto em desen-volvimento de componentes de menor impacto no meio ambiente.
+Além de investimentos em diversos outros setores, o mercado de tintas procura também diminuir ação de componentes poluentes no produto e, dessa forma, promove novas frentes de pesquisa (DI GIULIO, 2007).
+Como exemplo da evolução de produtos do setor há a evolução da técnica flexographic.
+Trata-se uma técnica do século XIV que foi pouco utilizada em razão dos elevados custos de produção, mas que foi progressivamente alcançando melhores resultados em razão de avanços tecnológicos.
+O avanço na aplicação de novas tecnologias nessa técnica é encontrado nas famílias de produtos em que são registradas patentes.
+Entre as famílias listadas, destaca-se que os maiores quadros referem-se a pedidos tintas (C09D) e outras como circuitos impressos (H01L-051/50).
+Figura 5 – Tecnologias protegidas para pesquisa do termo Flexographic Fonte: Elaborada pelos autores deste artigo com dados de Orbit (2019)204Cadernos de Prospecção – Salvador, v. 13, n. 1, p. 197-212, março, 2020Carla Frade de Paula Castro, Regina Coeli Andrade Marques, Stenio Diniz Com relação à prospecção científica, a pesquisa por palavras-chave retornou 7.490 resultados na plataforma Web of Science , indicando uma produção bibliográfica significativamente inferior à produção tecnológica.
+Ou seja, há maior interesse econômico por esse tipo de tecno-logia, na medida em que as patentes são buscadas quando se pretende introduzir determinada tecnologia no mercado, como um dos primeiros passos para garantir a viabilidade econômica de sua exploração.
+A produção acadêmica, por sua vez, não fornece ao inventor meios de recuperar seu investimento, posto que o conteúdo é disponibilizado automaticamente em domínio público.
+Analisando-se a distribuição dos artigos por ano de publicação (Figura 6), vê-se que o padrão, diferentemente do que ocorre com as patentes, é de crescimento.
+Por outro lado, nota-se que o número de publicações também teve queda no período entre 2008 e 2009, possivelmente ligado à crise do subprime .
+Figura 6 – Evolução anual de publicações científicas sobre tintas para impressão (2007-2017) Fonte: Elaborada pelos autores deste artigo com dados de Web of Science (2019) Os países que mais pesquisam tintas de impressão são, nesta ordem, Estados Unidos (1.617 publicações), China (1.225 publicações), Coreia do Sul (789 publicações), Inglaterra (528 pu-blicações), Alemanha (523 publicações) e Japão (496 publicações).
+A China continua na vice--liderança, enquanto o Japão mostra sua preferência pela inovação em detrimento da pesquisa.
+Figura 7 – Distribuição geográfica de artigos sobre tintas para impressão (2007-2017) Fonte: Elaborada pelos autores deste artigo com dados de Web of Science (2019)205Cadernos de Prospecção – Salvador, v. 13, n. 1, p. 197-212, março, 2020Prospecção Tecnológica da Patente BR 102014029616-6 A2: veículos para tintas de impressão A Figura 8, por sua vez, dá uma dimensão da posição relativa dos países em relação a patentes e publicações.
+Nela, nota-se em destaque o Japão, a China e os Estados Unidos, cada um dos quais apresentando características próprias.
+Enquanto Japão e Estados Unidos estão à frente em termos de patentes e de publicações, respectivamente, a China tem uma posição mais equilibrada em relação aos dois eixos analisados.
+Figura 8 – Relação entre patentes e publicações por país (2007-2017) Fonte: Elaborada pelos autores deste artigo com dados de Web of Science (2019) Com relação aos principais depositantes (Figura 9), a liderança é exercida principalmente por ICTs que ocupam 19 das 20 primeiras colocações.
+A HP , que ocupa a 14ª colocação, é a única empresa entre os 20 primeiros colocados.
+Ao contrário do que aconteceu na pesquisa por patentes, a representação aqui é mais variada, incluindo países asiáticos, europeus e americanos.
+A preferência é para a publicação de artigos (67%) e, em segundo lugar, anais de congresso (33%) – os mais comuns são a Internat ional Conference on Digital Printing Technologies (EUA) e a China Academic Conference on Printing and Packaging (China).206Cadernos de Prospecção – Salvador, v. 13, n. 1, p. 197-212, março, 2020Carla Frade de Paula Castro, Regina Coeli Andrade Marques, Stenio Diniz Figura 9 – Principais pesquisadores de tecnologias de tintas para impressão (2007-2017) Fonte: Elaborada pelos autores deste artigo com dados de Orbit (2019) 3.2 Análise do Grau de Maturidade Tecnológica Na definição da revista Chemistry World (2003), mantida pela Royal Society of Chemistry do Reino Unido, tintas ( inks) são compostos químicos, de forma líquida ou semilíquida, utilizados para escrita, impressão ou desenho, entre outros.
+Em termos técnicos, são caracterizados como uma formulação coloidal de partículas finas de pigmentos dispersas em um solvente.
+Atualmente, 90% das tintas se destinam à impressão.
+Disponíveis em várias formulações que variam conforme o processo de impressão (litografia, offset , flexografia, serigrafia, letterpress , rotogravura, impressão digital etc.
+), as tintas têm como componentes básicos o pigmento, o veículo, o solvente e os aditivos.
+Em particular, os veículos são responsáveis por "carregar" os demais componentes da tinta e, após a cura, formar um filme que irá fixar a tinta ao substrato utilizado.
+Segundo relatam Mulholland e Ugalde (1999, p. 2-3), as primeiras tintas para impressão, à base de água, foram inventadas pelos chineses do século III; com a Rota da Seda, a tecnologia passou também para as mãos dos árabes e, com eles, para a Europa.
+Já no século XV , Guten-berg migrou para um modelo à base de óleo que pouco mudou desde então.
+Com relação à fabricação, porém, foram muitas as mudanças.
+Abandonou-se o modelo artesanal de produção em favor da escala industrial, com tecnologias altamente desenvolvidas e que constantemente são adaptadas a novos usos e demandas.
+Desenvolvimentos recentes in-cluem o uso de nanotecnologia para melhorar a qualidade das tintas, o crescimento da demanda por impressão em embalagens e a busca por tecnologias menos dependentes de combustíveis fósseis (MILMO, 2009; OCDE, 2016; CERESANA, 2018; NIAOUNAKIS, 2015).
+Pode-se ver, portanto, que embora se trate de um produto antigo, a tinta é ainda hoje largamente utilizada em processos de impressão, com número grande de fornecedores e boas perspectivas de inovação e de demanda.
+É também um mercado altamente lucrativo: estima-se que o mercado mundial para tintas de impressão atinja US$ 25,7 bilhões até 2023 (CERESANA, 2018).207Cadernos de Prospecção – Salvador, v. 13, n. 1, p. 197-212, março, 2020Prospecção Tecnológica da Patente BR 102014029616-6 A2: veículos para tintas de impressão Além das informações mercadológicas, a prospecção também é útil para identificar a maturidade tecnológica de um produto, em função da razão entre o número de patentes e de artigos (NASCIMENTO, 2017).
+A Figura 10 demonstra a evolução do número de patentes e de publicações ao longo dos anos.
+Figura 10 – Relação de patentes e publicações para veículos de tintas para impressão (2007-2017) Fonte: Elaborada pelos autores deste artigo com dados de Orbit (2019) e Web of Science (2019) A Figura 10 indica ainda uma relação direta entre a quantidade de publicações científicas e os registros de prioridade de patentes, uma vez que a sequência de evolução dos anos desenha uma linha crescente em ambos os eixos.
+O comportamento da quantidade de publicações e patentes ao longo do período de estudo demonstra um crescimento maior das publicações frente aos pedidos de Patente (Figura 11).
+O comportamento em 2008 de queda para ambos tem na crise mundial, conhecida como Crise do subprime , uma explicação para a redução dos investimentos, seja em P&DI, seja em manutenção de ativos.
+A partir de 2009, o gráfico já apresenta uma recuperação dos investimento com uma retomada mais acentuada para as publicações, o que, ao longo do tempo reflete no comportamento das patentes.
+Diante desse demonstrativo, a maturidade tecnológica se apresenta como Emergente, devido à variação superior das publicações contra a variação das patentes.208Cadernos de Prospecção – Salvador, v. 13, n. 1, p. 197-212, março, 2020Carla Frade de Paula Castro, Regina Coeli Andrade Marques, Stenio Diniz Figura 11 – Variação percentual na linha de tempo das Publicações e dos Pedidos de Patente Fonte: Elaborada pelos autores deste artigo com dados de Orbit (2019) e Web of Science (2019) 3.3 Análise do Nível de Prontidão Tecnológica Idealizada em 1974, formalizada em 1989 e atualizada em 1995 (BANKE, 2010), a escala de prontidão tecnológica (em inglês, T echnology Readiness Level – TRL) é um sistema métrico que identifica o estado de uma nova tecnologia em relação ao seu uso para futuros sistemas.
+Criada na NASA em um contexto específico de desenvolvimento aeroespacial, a métrica é hoje utilizada para avaliar tecnologias das mais diversas áreas do conhecimento.
+A existência de um vocabulário comum favorece uma compreensão mais clara pelos stakeholders e colaboradores envolvidos no desenvolvimento de projetos (MORESI; BARBOSA; BRAGA FILHO, 2017), permite a comparação consistente de diferentes tipos de tecnologia (MANKINS, 1995), além de atuar como ferramenta de gestão dos riscos inerentes ao processo de desenvolvimento tecnológico ao fornecer bases para a tomada de decisão e orientações de P&D e Inovação.
+Em sua forma atual, a escala TRL conta com nove níveis, que abrangem desde a concepção da ideia (TRL1) até o estágio em que o produto está pronto para ser comercializado (TRL9).
+A definição do nível TRL leva em conta aspectos conceituais, necessidades da tecnologia e a demonstração de seu potencial tecnológico (QUINTELLA et al., 2019).
+Com relação ao pedido de patente em análise, em 2011, os pesquisadores da Universidade de Brasília conquistaram o primeiro lugar na 13ª edição do Prêmio Abrafati-Petrobras de Ciên-cias em Tintas pelo desenvolvimento de uma técnica que transforma óleo de cozinha em tinta de impressão renovável, com baixo nível de agressão ambiental.
+Na ocasião, os pesquisadores da FUB já haviam patenteado um modo de uso para fazer a tinta em escala semi-industrial.
+Em 2014, o relatório do pedido de patente menciona a realização de testes de bancada com o biopolímero iônico.
+Em particular, ele foi utilizado na confecção de tintas para impressão, com resultados considerados satisfatórios.
+Não havendo notícias de novos indícios de que a invenção tenha sido posteriormente desenvolvida, entende-se que sua prontidão tecnológica pode ser classificada como de grau TRL4 (validação dos componentes da tecnologia em am-biente de laboratório).209Cadernos de Prospecção – Salvador, v. 13, n. 1, p. 197-212, março, 2020Prospecção Tecnológica da Patente BR 102014029616-6 A2: veículos para tintas de impressão 4 Considerações Finais O presente estudo prospectivo teve como objetivo refletir sobre a viabilidade comercial da tecnologia patenteada pela Universidade de Brasília, por meio de uma análise do mercado de tintas para impressão, uma vez que a tecnologia foi identificada como especialmente satisfatória em sua aplicação como veículo para tais tintas.
+Nesse sentido, foi apresentada uma prospecção, em nível nacional e internacional, de patentes e de publicações a respeito desse produto, para um intervalo recente de 11 anos.
+Os dados encontrados indicam uma clara predominância da produção tecnológica sobre a científica, numa razão de 47:1.
+Enquanto a atividade inventiva se mantém relativamente estável, a análise de publicações aponta que a área ainda está em crescimento.
+Sob o aspecto geográfico, verificou-se uma expressiva concentração de patentes e de publicações entre os países Japão, China e Estados Unidos.
+A análise apontou ainda algumas dificuldades para a comercialização da tecnologia que ora se pretende patentear.
+Em primeiro lugar, a sua classificação no nível TRL4 indica que ainda há uma longo caminho a se percorrer antes que se possa comercializá-la, sobretudo com relação à escala de produção.
+Em segundo lugar, o mercado se apresenta bastante concentrado, fazendo com que a tecnologia da Universidade de Brasília encontre maiores barreiras para a entrada do seu produto; por outro lado, o trabalho aponta possíveis empresas que poderiam se interessar por licenciar tal tecnologia.
+Pelo lado positivo, as tintas se apresentam como tecnologias emergentes, com procura crescente e com forte aspecto inovador.
+Em particular, o aspecto "verde" da tecnologia em questão pode ser visto como uma vantagem comercial, além dos aspectos mais óbvios de redução de custos com pigmentos espessantes.
+Por fim, a associação com nanotecnologias pode contribuir para melhorar o produto.
+Assim, entende-se que, sob o aspecto mercadológico, o investimento anualmente feito pela Universidade de Brasilia, a título de taxas do INPI, justifica-se em função de um cenário crescente e capaz de absorver a invenção sob análise.
+Questiona-se, porém, se não teria sido melhor proteger a tecnologia com patente de modelo de utilidade, haja vista se tratar de inovação incremental.
+Assim, espera-se que este estudo possa fornecer subsídios para a tomada de decisão de manutenção, ou não, do pedido de patente.
+No entanto, é sabido que os resultados das pros-pecções devem ser analisados com cautela, uma vez que envolvem variáveis socioeconômicas, políticas, culturais e tecnológicas num período de tempo longo (BORSCHIVER et al., 2018); sendo assim, cabe ao CDT pesar as demais variáveis que afetam sua decisão.
+Technology readiness levels demystified .
+Disponível em: topics/aeronautics/features/trl_demystified.html.
+Emenda Constitucional n. 95, de 16 de dezembro de 2016.
+Altera o Ato das Disposições Constitucionais Transitórias, para instituir o Novo Regime Fiscal, e dá outras providências.
+Diário Oficial da União , Brasília, 15 dez.
+Disponível em Constituicao/Emendas/Emc/emc95.htm.
+2019.210Cadernos de Prospecção – Salvador, v. 13, n. 1, p. 197-212, março, 2020Carla Frade de Paula Castro, Regina Coeli Andrade Marques, Stenio Diniz CERESANA.
+Market Study : Printing Inks – World Study (2nd edition).
+Disponível em: Acesso em: 14 abr.
+Royal Society of Chemistry , Reino Unido, 28 fev.
+Disponível em: Acesso em: 14 abr.
+MILMO, S. Nanotechnology is Impacting Inks, Pigments, Printing.
+Ink World Magazine , EUA, 14 out.
+Disponível em: Acesso em: 14 abr.
+DI GIULIO, G. Setor de tintas cresce, inova e foca na questão ambiental.
+Inovação Uniemp , Campinas, v. 3, n. 6, dez.
+Disponível em: Acesso em: 14 abr.
+FUNDAÇÃO UNIVERSIDADE DE BRASÍLIA.
+Paulo Anselmo Ziani Suarez, Guilherme Bandeira Candido Martins, Mateus de Aguiar Montenegro, Marina Guedes Valerio, Maria Luiza Basílio Graça Couto.
+Processo de obtenção de biopolímero iônico a partir de biopolímeros provenientes do tratamento térmico de materiais graxos, biopolímero iônico e suas aplicações .
+BR 102014029616-6 A2, 27 nov. 2014.
+Disponível em: patentes/PatenteSearchBasico.jsp.
+Tutorial de Busca nos principais bancos de patentes .
+92 p. Disponível em: www.cdt.unb.br/pdf/programaseprojetos/nupitec/LIVRO-BANCO%20DE%20PATENTES.compressed.pdf.
+HIDALGO, C. A.; SIMOES, A. J. G. The Economic Complexity Observatory: An Analytical Tool for Understanding the Dynamics of Economic Development.
+Disponível em: media.mit.edu/en/profile/hs92/3215/.
+Administração de marketing: Philip Kotler, Kevin Lane Keller.
+Tradução Sônia Midori Yamamoto; revisão técnica Edson Crescitelli.
+São Paulo: Pearson Education do Brasil, 2012.
+MANKINS, J. C. Technology readiness levels : a white paper.
+Disponível em: artemisinnovation.com/images/TRL_White_Paper_2004-Edited.pdf.
+MARTINS, G. B. C. Desenvolvimento e Caracterização de Produtos e Processos Catalíticos a Partir de Biomassa .
+183 p. Tese (Doutorado em Química) – Instituto de Química, Universidade de Brasília, Brasília, 2016.
+Disponível em: Acesso em: 28 mar.
+MILMO, S. Nanotechnology is Impacting Inks, Pigments, Printing.
+Disponível em: Acesso em 27 abr.
+A.; BRAGA FILHO, M. O. Modelos para analisar níveis de prontidão de inovação.
+Memorias de la Séptima Conferencia Iberoamericana de Complejidad, Informática y Cibernética (CICIC 2017).
+Brasília, DF : Universidade Católica de Brasília, 2017.
+2019.211Cadernos de Prospecção – Salvador, v. 13, n. 1, p. 197-212, março, 2020Prospecção Tecnológica da Patente BR 102014029616-6 A2: veículos para tintas de impressão MULHOLLAND, R.; UGALDE, E. F .
+G. B. D. Aula 2: maturidade tecnológica.
+[Slides da disciplina de Prospecção Tecnológica do Mestrado Profissional de Propriedade Intelectual e Transferência de Tecnologia para Inovação].
+Disponível em: Acesso em: 12 abr.
+G. B. D. Gastos diretos do Centro De Apoio Ao Desenvolvimento Tecnológico-Cdt/UnB, efetuados ao INPI como Outros Serviços de Terceiros – Pessoa Jurídica.
+NIAOUNAKIS, M. Biopolymers: Processing and Products, 2015.
+Disponível em sciencedirect.com/topics/materials-science/ink.
+OCDE – ORGANIZAÇÃO PARA COOPERAÇÃO E DESENVOLVIMENTO ECONÔMICO.
+OECD Science, Technology and Innovation Outlook 2016 .
+Disponível em: Acesso em: 14 abr.
+ORBIT [Base de Dados – Internet].
+Disponível em: Acesso em: 2 abr.
+Maturidade Tecnológica: Níveis de Prontidão TRL.
+Brasília: UnB, 2019. v. 2. p. 18-59.
+Disponível em: http:// www.profnit.org.br/wp-content/uploads/2019/02/PROFNIT-Serie-Prospeccao-Tecnologica-Volume-2.pdf.
+Technological maturity proves a valid and important concept.
+Disponível em: #page_ scan_tab_contents.
+SAMPAIO, C. Comunidade acadêmica da UnB protesta contra ameaça de demissões.
+Disponível em: comunidade-academica-da-unb-protesta-contra-ameaca-de-demissoes/.
+Disponível em: https:// www.periodicos.capes.gov.br.
+Sobre os Autores Carla Frade de Paula Castro E-mail : carlafpc@gmail.com Bacharelado em Direito pela Universidade de Brasília.Endereço profissional: Campus Universitário Darcy Ribeiro, Edifício CDT, Asa Norte, Brasília, DF , Brasil.
+CEP: 70904-970.212Cadernos de Prospecção – Salvador, v. 13, n. 1, p. 197-212, março, 2020Carla Frade de Paula Castro, Regina Coeli Andrade Marques, Stenio Diniz Regina Coeli Andrade Marques E-mail : reginamarqueseditora@gmail.com Bacharelado e licenciatura em Física pela Universidade de Brasília.
+Editora de Publicações na UnB e especializada em Gestão de Pessoas.
+Atua na Assessoria de Assuntos Internacionais da UnB (INT/UnB).Endereço profissional: Campus Universitário Darcy Ribeiro, Prédio da Reitoria, Térreo, Sala BT 01/7, Asa Norte, Brasília, DF .
+Stenio Diniz E-mail : steniodiniz@gmail.com Bacharelado em Administração de empresas – Associação de Ensino Unificado do Distrito Federal.Endereço profissional: Campus Universitário Darcy Ribeiro, Edifício CDT, Asa Norte, Brasília, DF .

@@ -1,0 +1,488 @@
+ REUNIR: Revista de Administração, Contabilidade e Sustentabilidade ISBN: 2237 -3667 , 10(1), 2020.
+REUNIR: Revista de Administração, Ciências Contábeis e Sustentabilidade ARTIGO ORIGINAL Influência da folga orçamentária e qualidade da informação na performance da inovação1 Influence of budgetary slack and quality information on innovation performance Influencia de la holgura presupuestaria y la calidad de la información en el desempeño de la innovación Ilse Maria Beuren2, Hugo Dias Amaro3, Eduardo Vinícius Bassi Murro4 Resumo: Este estudo objetiva verificar a influência da folga orçamentária e da qualidade da informação na performance da inovação de produtos e processos em empresas da indústria de medicamentos e produtos farmacêuticos.
+Pesquisa de levantamento foi realizada com aplicação de um questionário pautado na pesquisa de Yang, Wang e Cheng (2009).
+A população da pesquisa compreendeu as 175 empresas da indústria de medicamentos e produtos farmacêuticos listadas no Portal Guia Pharma, e a amostra as 56 respondentes do questionário.
+Nos dados coletados foi aplicada a técnica de Modelagem de Equações Estruturais.
+Os resultados apontam que, das hipóteses testadas, somente a qualidade da informação do Sistema de Informações influencia na performance do processo de inovação.
+Já a variável latente folga orçamentária não apresentou influência estatisticamente significativa.
+Conclui -se que os resultados assemelham -se com os de Yang et al.
+(2009), mas a folga orçamentária não se revelou influenciadora do processo de inovação.
+Abstract: This study aims to investigate the influence of the budgetary slack and the quality of information on the performance of innovative products and processes in the drugs and pharmaceuticals industry companies.
+A survey was carried out with the appl ication of a questionnaire based on the research Yang, Wang and Cheng (2009).
+The research population comprised 175 companies from the pharmaceutical industry and pharmaceuticals listed in the Portal Guide Pharma, and the sample 56 respondents of the quest ionnaire.
+In the collected data was applied the technique of Structural Equation Modeling.
+The results show that, the hypotheses tested, only the quality of 1 Submetido em: 05.05.2018 .
+Responsável: Universidade Federal de Ca mpina Grande/UACC/PROFIAP/CCJS/UFCG.
+2 ORCID: -0003-4007-6408, Doutora em Controladoria e Contabilidade pela FEA/USP, Professora do Programa de PósGraduação em Contabilidade da Universidade Federal de Santa Catarina – UFSC, E -mail: ilse.beuren@gmail.com , 3 ORCID: 0000-0001-8430-0286, Doutor em Administração pela Pontifícia Universidade Católica do Paraná - PUCPR, Professor da Pontifícia Universidade Católica do Paraná – PUC/PR, E-mail: hugo.amaro@pucpr.br, 4 ORCID : -0003-0997-9537, Mestre em Contabilidade na Universidade Federal do Paraná – UFPR, Servidor Público da Agência de Fomento do Paraná S.A., E-mail: eduardo.murro@gmail.com.
+PALAVRAS -CHAVE Folga orçamentária.
+REUNIR: Revista de Administração, Ciências Contábeis e Sustentabilidade www.reunir.revistas.ufcg.edu.br REUNIR: Revista de Administração, Contabilidade e Sustentabilidade ISBN: 2237 -3667 , 10(1), 2020. information of the System Information influences the performance of the innovation process.
+Already latent variable budgetary slack no statistically significant influence.
+We conclude that the results are similar to the Yang et al.
+(2009), but the budgetary slack did not reveal itself influencer the innovation process .
+Resumen: Este estudio tiene com o objetivo verificar la influencia de la holgura presupuestaria y de la calidad de la información en el desempeño de la innovación de productos y procesos en empresas de la industria de medicamentos y productos farmacéuticos.
+Se realizó una encuesta con la aplicación de un cuestionario basado en la investigación de Yang, Wang y Cheng (2009).
+La población de la investigación comprendió las 175 empresas de la industria de medicamentos y productos farmacéuticos listadas en el Portal Guia Pharma, y la muestra a las 56 encuestadas del cuestionario.
+En los datos recogidos se aplicó la técnica de Modelación de Ecuaciones Estructurales.
+Los resultados apuntan que, de las hipótesis probadas, sólo la calidad de la información del Sistema de Informaciones influye en el desempeño del proceso de innovación.
+Ya la variable latente holgura presupuestaria no presentó influencia estadísticamente significativa.
+Se concluye que los resultados se asemejan con los de Yang et al.
+(2009), pero la holgura presupuestaria no se mostró influir en del proceso de innovación .
+Introd ução As organizações, para obterem vantagens competitivas, buscam se tornar atraentes por meio de inovação, baixos custos e preços acessíveis.
+Isso torna a competição acirrada no mercado, especialmente em indústrias de cunho inovador, focadas no desenvolvimento de novos produtos e processos.
+De acordo com Balkin, Markman e Gomez -Mejia (2000), para que as organizações possam atingir lucros expressivos, continuamente, devem investir em inovação, como forma de s e sustentarem nesta era de intensas mudanças tecnológicas.
+A inovação possui papel fundamental no desenvolvimento econômico de um país, visto que padrões de produção são alterados, proporcionando diferenciações entre as empresas (Schumpeter, 1988).
+Para No naka e Takeuchi (1995) e Kafouros, Buckley, Sharp e Wang (2008), a inovação está implicada num processo intenso de desenvolvimento de conhecimento e de informação.
+Rieg e Alves Filho (2003) descrevem a performance inovadora a partir de inovações de produto s e processos comercialmente viáveis e gerados com avanços tecnológicos.
+Dentre os possíveis tipos de inovação que uma organização pode realizar, este estudo aborda especificamente a inovação de produtos e processos.
+A inovação de produtos é caracterizada como o processo de trazer ao mercado novos produtos e tecnologias (Lukas & Ferrel, 2000).
+Já a inovação de processos, conforme a Organização para Cooperação Econômica e Desenvolvimento (OCDE, 2004), é descrita como a adoção de formas de produção ou comerci alização novas ou, inclusive, relativamente aprimoradas.
+A inovação provoca mudanças na organização, mobilizando diversos elementos em prol de sua operacionalização, entre eles a folga organizacional.
+De acordo com Beck e Beuren (2014), a folga organizacio nal é uma prerrogativa e possível fonte de inspiração para promover a inovação.
+Dentre as diferentes modalidades de folga, neste estudo considera -se a folga orçamentária, que compreende a diferença entre o montante orçado e o montante realmente necessário para o cumprimento das necessidades previstas (Merchant, 1985).
+Para Onsi (1973), a folga orçamentária provém de imperfeições no processo de alocação de recursos, utilizada muitas vezes para satisfazer anseios pessoais dos próprios gestores.
+(2009) advertem que pouca folga orçamentária é tão ruim quanto o excesso, já que pode apresentar impactos na performance da inovação.
+A folga orçamentária pode prover recursos para Pesquisa & Desenvolvimento (P&D) e procura por novos projetos, ou pode resultar em desperdícios de recursos e investimentos em ações incertas, muitas vezes relacionadas aos interesses dos detentores de poder.
+Uma das formas de mitigar esse conflito é o uso de informação eficaz (Cavalluzzo & Ittner, 2004).
+Assim, outra v ariável considerada nesta pesquisa é a qualidade da informação gerada pelo Sistema de Informações (SI), que pode se refletir na inovação de produtos e processos, via conhecimento.
+Para Davenport e Prusak (1998), o conhecimento se caracteriza como uma infor mação em determinado contexto em que se atribui um significado e uma interpretação.
+Pires e Marcondes (2004) destacam que esse conhecimento se relaciona com a inovação, o surgimento de uma nova ideia ou invenção e a sua transformação em um negócio.
+Simons (2000) afirma que gestores utilizam -se da altaqualidade da informação de um SI para estimular experimentação e buscar oportunidades, a fim de incentivar o surgimento de iniciativas e auxiliar no processo de inovação.
+Desta forma, uma informação oportuna e com qualidade, inserida especialmente em realidades empresariais com folga orçamentária, pode estimular as unidades organizacionais a buscarem novas iniciativas, com a contribuição dos empregados no desenvolvimento da inovação (Van De Ven, 1986).
+A integr ação destas duas variáveis (folga orçamentária e qualidade da informação) foi testada no estudo de Yang et al.
+(2009) em uma amostra de empresas de alta tecnologia, listadas na Taiwan Stock Exchange (TSE) e no Over-the-Counter (OTC) Markets .
+Na pesquisa ex ploraram os seguintes aspectos: pouca folga orçamentária é tão ruim quanto o excesso de folga; a qualidade do SI é mais importante em um ambiente com menor folga orçamentária do que com maior folga; o efeito de uma informação de qualidade sobre a performan ce pode ser significativamente diferente em vários níveis de folga no orçamento.
+Em vista dos resultados não conclusivos observados na literatura sobre os efeitos da folga orçamentária em variáveis organizacionais e comportamentais, especula -se que essa variável pode ter um efeito sobre a relação da qualidade da informação com a performance da inovação.
+Este cenário PALABRAS CLAVE Holgura presupuestaria.
+Influência da folga orçamentária e qualidade da informação na performance da inovação 3 REUNIR: Revista de Administração, Contabilidade e Sustentabilidade ISBN: 2237 -3667 , 10(1), 2020. revela uma lacuna que estimula a realização de novas pesquisas, com a aplicação de uma técnica estatística que permita estimar a magnitude dos efeitos entre as variáveis.
+Nesta perspectiva tem -se a seguinte questão de pesquisa: Qual a influência da folga orçamentária e da qualidade da informação na performance da inovação de produtos e processos em empresas inovadoras?
+Assim, o estudo objetiva ve rificar a influência da folga orçamentária e da qualidade da informação na performance da inovação de produtos e processos em empresas da indústria de medicamentos e produtos farmacêuticos.
+A opção pelas empresas da indústria de medicamentos e produtos far macêuticos decorre do caráter inovador ser inerente a esse setor econômico, que constantemente desenvolve novos produtos e possivelmente novos processos.
+De acordo com Vieira e Ohayon (2006), o processo de inovação nessa indústria está intimamente relacion ado à sua dinâmica competitiva.
+Observa -se no anuário Valor Inovação Brasil de 2019 da Strategy & Brasil, dentre as 150 empresas mais inovadoras constam 13 empresas da indústria farmacêutica.
+Para estabelecer o ranking das empresas foram considerados: inte nção de inovar, esforço para realizar a inovação, resultados obtidos, avaliação do mercado e geração de conhecimento.
+Santos, Beuren, Nardi e Vicente (2016) investigaram artigos publicados sobre folga orçamentária em periódicos internacionais.
+Observaram que o tema está em ascensão nos últimos anos, o que indica a relevância da sua abordagem.
+Constataram predomínio de estudos que associaram folga orçamentária com participação orçamentária, assimetria da informação e ênfase orçamentária, no entanto, estudos mais recentes vêm priorizando diferentes aspectos da racionalidade humana.
+Neste sentido, argumentam que a diversidade de variáveis testadas nos estudos sugere a existência de um campo com lacunas de pesquisa a serem investigadas.
+Este estudo justifica -se pelo fato da literatura revelar resultados não congruentes em pesquisas que associaram a folga orçamentária com diversas variáveis organizacionais ou psicológicas dos indivíduos (Daumoser, Hirsch & Sohn, 2018).
+Também por investigar a relação de ambas as v ariáveis em um contexto diverso do estudo de Yang et al.
+Destaca -se a relevância do tema para o campo organizacional e a sociedade, uma vez que busca verificar o impacto da folga orçamentária e da qualidade da informação no processo de inovação de produtos e processos a serem consumidos pela população.
+Esta pesquisa busca contribuir a partir do estudo de Yang et al.
+(2009) ao aplicar a modelagem de equações estruturais para analisar a causalidade das variáveis no teste das hipóteses da pesquisa.
+Seg undo Klem (1995), essa técnica permite testar uma teoria de ordem causal entre um conjunto de variáveis, oferecendo a possibilidade de investigar o nível de explicação das variáveis preditoras perante às variáveis dependentes, além de indicar qual variável preditora é mais importante.
+Pretende ainda contribuir ao considerar empresas de outro contexto, que podem se diferir das empresas de alta tecnologia tailandesas do estudo de Yang et al.
+(2009), em função da concorrência e dinamismo tecnológico, centraliz ação do processo de inovação e formalização do processo de inovação.
+Referencial Teórico Nesta seção apresenta -se o referencial teórico do estudo.
+Inicialmente faz -se uma incursão teórica na performance da inovação de produtos e processos.
+Na sequência a borda -se sobre a folga orçamentária e a qualidade da informação.
+Por fim, apresenta -se uma síntese da pesquisa de Yang et al.
+(2009), que subsidiou o presente estudo.
+Performance da inovação de produtos e processos Hurley e Hult (1998) já alertavam sobre a relevância da inovação para assegurar a competitividade e continuidade das organizações.
+A combinação de tecnologia, ciência e inovação é fator primordial para o desenvolvimento e crescimento das empresas, indústrias, cidades e países, afeta inclusive a qualidade de vida da população em geral (Viotti, 2003).
+A procura por inovações, incrementos e vantagens competitivas surge em um contexto de intensa pressão do mercado, realizada pelos concorrentes e também pelos próprios consumidores (Floriani & Beuren; Hein, 2010; Camisón & VillarLópez, 2014).
+Apesar da importância do processo de inovação no âmbito empresarial, defini -lo ainda é um processo desafiador, visto que abrange inúmeras vertentes.
+Segundo Schumpeter (1988), o processo de inovação pode ser divi dido em três fases básicas: invenção (surgimento de novas ideias), inovação (exploração comercial) e difusão (disseminação de novos produtos e processos ao mercado).
+A invenção se converte em inovação quando se pressupõe aceitação do mercado após a sua implementação (Barbieri & Álvares, 2003), cujo ciclo se completa com a sua difusão no mercado.
+Segundo Dosi, Pavitt e Soete (1990), a inovação pode ser considerada complexa, pois relaciona -se com a descoberta, desenvolvimento, experimentação e adoção de novo s produtos e processos produtivos.
+Nadler e Tushman (1997) caracterizam a inovação como a criação de algo novo para as organizações, e definem dois tipos básicos de inovação, os quais são objeto e foco neste estudo: inovação de produto e inovação de proces so.
+Camisón e Villar -Lopez (2014) denominam esses dois tipos básicos de inovação tecnológica.
+A inovação tecnológica em produtos representa a criação inteiramente nova, ou aprimoramentos em produtos já existentes, enquanto que a inovação tecnológica em pro cessos refere -se à adoção de processos novos ou relativamente melhorados (OCDE, 2004).
+As inovações tecnológicas de produtos e processos são classificadas por Rieg e Alves Filho (2003) em significativas e incrementais.
+As inovações significativas estão ass ociadas a produtos ou processos inteiramente novos, diferentes dos existentes até determinado momento.
+Já as inovações incrementais de produtos ou processos são melhorias em produtos e aperfeiçoamentos em produtos já existentes no mercado.
+Para Herold, Jay araman e Narayanaswamy (2006), uma das maneiras mais eficientes para obter inovação de produtos e processos é por meio de fundos financeiros, imprescindíveis para atrair talentos e adquirir recursos, como máquinas, equipamentos, tecnologias e infraestrutur a para o processo de inovação.
+A folga de recursos pode favorecer a inovação, permitindo que as empresas implementem inovações, arquem com gastos de desenvolvimento e de pesquisa e explorem ideias frente às necessidades do mercado (Rosner, 1968).
+Porém, se gundo Nohria e Gulati (1996), o processo de inovação pode ser impactado negativamente por falhas no processo de 4 Beuren, Amaro & Murro REUNIR: Revista de Administração, Contabilidade e Sustentabilidade ISBN: 2237 -3667 , 10(1), 2020. gerenciamento de novos projetos.
+Neste contexto, a folga orçamentária pode ser percebida como um potencial competitivo na organização ou um meio de refletir ineficiências e desfavorecer a performance organizacional (YasaiArdekani, 1986; Antle & Fellingham, 1990).
+Diante deste conflito, a qualidade da informação surge como um importante elemento para promover inovação, especialmente quando se tem recursos financeiros limitados.
+Segundo Anderson e Sedatole (1998), o processo de inovação pode ser incrementado por meio de informação de alta qualidade, ao proporcionar aumento na capacidade organizacional com vistas à inovação.
+Folga orçamentária RA f olga organizacional, segundo Bourgeois III (1981, p. 30), "é um colchão de recursos reais ou potenciais que permite uma organização se adaptar com sucesso à pressão interna para a mudança política".
+É o excesso de recursos alocados além do necessário para a realização e manutenção das atividades (Antle & Eppen, 1985).
+De acordo com Quintas e Beuren (2011), constantemente encontra -se na literatura a relação de folga com os recursos da empresa, podendo assim denominá -la de folga de recursos.
+Diversas são as m odalidades de folga de recursos em uma organização, mas a que importa neste estudo é a folga orçamentária, uma representação de folga organizacional no meio corporativo.
+A folga orçamentária é definida por Merchant (1985) como o excesso que foi orçado em u ma determinada área, mais do que necessário, podendo ser empregado em situações eventuais ou como medida corretiva.
+Dunk (1993) caracteriza a folga orçamentária como uma incorporação adicional ao orçamento para facilitar o seu cumprimento.
+A folga orçamen tária é concebida por Onsi (1973, p. 535) como uma reserva de recursos, que "é a diferença entre o total de recursos disponíveis para uma empresa e o total necessário para manter a coalizão da organização".
+Lukka (1988) define -a como a diferença deliberada mente criada entre a previsão orçamentária e o valor do orçamento.
+Para Kilfoyle e Richardson (2011), é a variação entre os recursos orçados e o que realmente é necessário para o cumprimento dos objetivos traçados na organização de forma eficiente.
+De acor do com Frezatti, Beck e Silva (2013), quatro dimensões devem ser consideradas quando se trata de folga orçamentária.
+Primeiro, é importante entender a necessidade e o motivo para a existência da reserva.
+É certo que o fator histórico já ocorreu, portanto, entendido como uma realidade conhecida da organização.
+Na segunda dimensão, Frezatti et al.
+(2013) destacam a necessidade de verificar a intencionalidade da realização da folga orçamentária.
+Partindo -se do pressuposto que haja benefício com a ação e determ inadas condições, como conhecimento das metas, disponibilidade de informações e sistemas de informações, infere -se o teor de intencionalidade.
+Caso contrário, pode -se dizer que ocorreu por desconhecimento, falhas no processo de geração de informação, entre outros.
+A terceira dimensão proposta por Frezatti et al.
+(2013) compreende as razões para a criação de reservas de recursos.
+Estrutura organizacional, controle orçamentário e assimetria de informação são alguns dos fatores que estão relacionados à folga orçamentária.
+A quarta dimensão apontada pelos autores está relacionada aos benefícios decorrentes da ação.
+Embora não seja o único benefício, quando há relação entre o processo orçamentário e o sistema de recompensa e benefícios da empresa, os agentes rea lizam reserva orçamentária no intuito de contribuir ao incremento dos próprios benefícios financeiros (Dunk, 1993).
+Em uma pesquisa estruturada sobre folga orçamentária, Daumoser et al.
+(2018) observaram que estudos prévios se fundamentaram em perspectivas psicológicas para analisar o comportamento dos indivíduos em relação ao orçamento.
+E que o orçamento participativo pode criar ou reduzir a folga orçamentária, assim como as atitudes de risco dos usuários do orçamento e a assimetria de informações, enquant o que sistemas de recompensas indutores de verdade diminuem a folga, ao contrário de sistemas de recompensas indutores de folga.
+Dunk e Nouri (1998) advertem que gestores com necessidade de poder e de autonomia são mais propensos à criação da folga orçamen tária quando da participação do orçamento.
+A folga orçamentária tem sido objeto de diversos estudos em âmbito internacional, como os que a relacionaram com participação e ênfase no orçamento (Onsi, 1973; Merchant, 1985; Young, 1985; Dunk, 1993; Lal, Dunk & Smith, 1996; Nouri & Parker, 1996; Groen, Wouters & Wilderom, 2017).
+Em âmbito nacional foram identificados estudos sobre folga orçamentária, que a relacionaram com participação e ênfase no orçamento (Aguiar & Souza, 2010; Frezatti et al., 2013; Buzzi, Sa ntos, Beuren & Faveri, 2014; Beuren & Verhagem, 2015), participação no orçamento e assimetria informacional (Lavarda & Almeida, 2013; Buzzi et al., 2014; Lavarda & Fank, 2014), e interesses compartilhados na folga orçamentária (Beuren, Beck & Popik, 2015).
+(2009) salientam haver posicionamentos favoráveis e desfavoráveis a respeito dos impactos da folga orçamentária no processo de inovação.
+De um lado, há aqueles que concordam que a folga orçamentária impacta proporcionalmente nas despesas com P &D e, consequentemente, na procura por novos produtos e processos.
+Por outro lado, conforme Nohria e Gulati (1996), a reserva orçamentária pode ocasionar investimentos em projetos incertos e duvidosos, e assim induzir à aplicabilidade inconsistente de recu rsos, prejudicando o desempenho da organização.
+De acordo com Tan (2003), a folga orçamentária permite aos gestores utilizá -la no processo de inovação.
+Por outro lado, a formação de folga orçamentária pode decorrer de comportamentos disfuncionais e implic ar em gastos desnecessários à organização (Tan & Peng, 2003).
+Para Nohria e Gulati (1996), a falta de folga inibe a experimentação e a sustentação de novas ideias, enquanto o excesso de folga prejudica a disciplina e a seleção de projetos a serem apoiados.
+Com base nestas evidências formulou -se a primeira hipótese: H1: Há influência estatisticamente significativa da folga orçamentária na performance de inovação de produtos (H1a) e de processos (H1b).
+Entretanto, as pesquisas que investigaram associação entre folga e inovação não apresentaram conclusões efetivas sobre as relações e os possíveis impactos (Yang et al., 2009).
+Os estudos que abordaram aspectos da inovação também não forneceram explicações contundentes sobre a influência da qualidade da informaçã o na performance da inovação, cujo tema é abordado na sequência.
+Influência da folga orçamentária e qualidade da informação na performance da inovação 5 REUNIR: Revista de Administração, Contabilidade e Sustentabilidade ISBN: 2237 -3667 , 10(1), 2020.
+Qualidade da informação Estudar o termo informação tem implicado na necessidade de uma visão dinâmica, dado as suas características subjetivas e que se alteram ao longo do tempo (Lopes & Mar tins, 2005).
+Para Cavalluzzo e Ittner (2004), a informação é considerada um ponto central na tomada de decisões, especialmente quando as organizações enfrentam situações de incerteza e, por conseguinte, é um fator cada vez mais importante para a competitiv idade.
+A inovação de produtos e processos envolve incertezas e cabe ao SI fornecer as informações necessárias para reduzi -las (Yang et al., 2009).
+Davila (2000) aduz que o processo de desenvolvimento de cada produto apresenta um conjunto de diferentes problemas, e as organizações precisam de informações para lidar com essas incertezas quando elas surgem, e isso somente é possível se a informação fornecida for de alta qualidade.
+De forma ampla, uma informação de alta qualidade é uma informação integrada e re levante, que ajuda a coordenar as ações internas e externas da empresa e aumentar a comunicação com investidores, reduzindo o grau de assimetria de informação, com vistas em atrair mais recursos financeiros para investir em atividades de inovação (Yang et al., 2009).
+De modo restrito, conforme esses autores, uma informação de qualidade desempenha papel importante no processo de inovação, especialmente em ambientes em que os recursos financeiros são limitados.
+No atual cenário competitivo, o foco na qualida de da informação é voltado a promover a performance da inovação (Yang et al., 2009).
+A inovação em si é um processo de informação e conhecimento intensivo (Kafouros et al., 2008).
+Simons (2000) aponta que a qualidade do SI é um elemento que pode promover a inovação.
+O autor argumenta que gestores de níveis hierárquicos superiores usam a informação de qualidade para incentivar iniciativas e ajudar a satisfazer os desejos de inovar.
+A qualidade da informação, especificamente para este estudo, conforme Teng, Cheon e Grover (1995) e Wang e Strong (1996), refere -se aos atributos de: confiabilidade, relevância, precisão e integridade.
+Para esses autores, confiabilidade significa que a informação é credível e respeitável; relevância significa que é oportuna, impor tante e fundamental para a tomada de decisão; precisão indica que é livre de erros, objetiva, oriunda de fontes respeitáveis; e integridade significa que a informação abrange todas as dimensões relevantes.
+Esses atributos ganham maior importância em empres as com folga orçamentária restrita (Yang et al., 2009).
+Em existindo assimetria informacional entre agente e principal (Sponem & Lambert, 2016), aquele pode estabelecer metas mais fáceis de serem alcançadas em detrimento da eficiência organizacional (Young , 1985).
+Sponem e Lambert (2016) explicam que o conflito de interesses no processo orçamentário se deve ao fato do principal desejar um orçamento o mais justo possível.
+Portanto, a qualidade da informação pode estar implicada com a ausência de informação e/ou a diferença nos níveis informacionais entre as partes (Buzzi et al., 2014).
+De acordo com Dunk (1993), a qualidade da informação é mais relevante em ambientes de alta pressão e restrição orçamentária.
+Diante desse cenário os gestores podem se sentir in clinados a constituírem folga orçamentária, seja por meio de alterações ou de ocultações de informações ao longo do processo orçamentário, sob o argumento de proteger -se frente às incertezas (Beuren & Verhagem, 2015).
+Nesta perspectiva a qualidade da infor mação do SI pode melhorar o compartilhamento de informações e a comunicação e, por conseguinte, agir como facilitadora do processo de inovação e proporcionar melhor desempenho (Davila, 2000).
+Assim, formulou -se a segunda hipótese: H2: Há influência estatis ticamente significativa da qualidade da informação do SI na performance de inovação de produtos (H2a) e de processos (H2b).
+Com esta hipótese, busca -se verificar qual a influência da qualidade da informação na performance de inovação de produtos e processo s. Como este estudo foi inspirado na pesquisa de Yang et al.
+(2009), alguns aspectos do mesmo são destacados na sequência.
+O estudo de Yang, Wang e Cheng (2009) Yang et al.
+(2009) realizaram um estudo teórico -empírico com o objetivo de verificar a relaçã o entre folga orçamentária, qualidade da informação e performance da inovação.
+Como os estudos anteriores não trouxeram conclusões definitivas a respeito do impacto da qualidade da informação no processo de inovação, eles propuseram investigar se a qualida de da informação pode tornar as empresas mais eficientes no que diz respeito à utilização de recursos do orçamento no processo de inovação.
+Entre as empresas de alta tecnologia listadas na Taiwan Stock Exchange (TSE) e no Over the Counter (OTC) Markets , os autores selecionaram aleatoriamente gestores dos departamentos de P&D de cada empresa para os quais enviaram o instrumento de pesquisa.
+Dos 168 gestores contatados, 108 responderam o questionário.
+Desses, seis foram excluídos por estarem incompletos, assi m, a amostra total válida na pesquisa foi de 102 respondentes.
+As variáveis contempladas no estudo foram: processo de inovação de produtos e de processos, nível de folga orçamentária e qualidade da informação, essa mensurada pelas subvariáveis confiabilida de, relevância, precisão e integridade.
+Os autores também inseriram na análise as seguintes variáveis de controle: concorrência e dinamismo tecnológico, centralização do processo de inovação e formalização do processo de inovação.
+(2009) consta taram na pesquisa realizada com a amostra de empresas de Taiwan, que a folga orçamentária é influenciadora do processo de inovação de produtos e processos.
+Além disso, que a qualidade da informação do SI influencia na performance do processo de inovação.
+N o entanto, os resultados não congruentes observados na literatura quanto a estas relações, a amostra investigada e o tratamento estatístico aplicado, instigaram a realização desta pesquisa em empresas de ambiente distinto do estudo original e a associação das variáveis por meio da técnica de Modelagem de Equações Estruturais, que permite estimar a magnitude dos efeitos entre as variáveis.
+Metodologia da Pesquisa Esta pesquisa descritiva foi realizada a partir de um levantamento, tendo como população as em presas da indústria de fabricantes de medicamentos e produtos farmacêuticos listadas no Portal Guia Pharma, onde estavam listadas 269 6 Beuren, Amaro & Murro REUNIR: Revista de Administração, Contabilidade e Sustentabilidade ISBN: 2237 -3667 , 10(1), 2020. empresas, porém identificaram -se 175 ativas, das quais obteve -se contato de 130 empresas.
+Os sujeitos da pesquisa compõem -se dos gestores do departamento de P&D.
+O primeiro contato ocorreu via telefone, em que se solicitou o endereço eletrônico para encaminhar o questionário ao responsável pelo setor de P&D ou pela atividade nos casos em que não havia esse setor formalmente e struturado.
+O link do questionário foi enviado para o e -mail dos gestores contatados e obteve -se resposta de 56 gestores, representando 40,8% do total enviado.
+O tamanho da amostra apresenta -se adequado para o teste das hipóteses por meio dos Mínimos Quadr ados Parciais ( Partial Least Squares – PLS), via bootstrapping .
+Segundo Hair Jr, Anderson, Tatham e Black (2005), o bootstrapping é definido com uma forma de subamostras, em que os dados originais da pesquisa são repetidamente amostrados para substituição no modelo de estimativa.
+Nesta técnica, o intervalo de confiança não é estimado por erro amostral e sim observado pelo exame da distribuição das estimativas paramétricas em torno da média.
+Para a estimação do modelo estrutural, por meio da técnica do boots trapping , quatro procedimentos foram adotados: i) a amostra original foi delineada para atuar como população para fins de amostragem; ii) a amostra original foi refeita um número de vezes (N=2000) gerando novas amostras, cada uma formando um subconjunto da amostra original; iii) o modelo estrutural foi estimado para cada nova amostra e os parâmetros estimados foram armazenados; e iv) as estimativas finais dos parâmetros foram calculados com a média das estimativas ao longo de todas as amostras (Hair Jr et a l., 2005).
+O instrumento da pesquisa foi traduzido do estudo de Yang et al.
+(2009), seguido de uma tradução reversa do idioma português para o inglês, a fim de certificar -se da tradução realizada.
+O questionário, em escala tipo Likert de sete pontos compõe -se de quatro construtos (processo de inovação de produtos e de processos, folga orçamentária e qualidade do SI), que contemplam 14 variáveis para aferir a relação entre os construtos endógenos e exógenos, e três construtos (concorrência e dinamismo, centr alização do processo, formalização do processo) com 12 variáveis de controle.
+Concorrência e dinamismo tecnológico são fatores importantes para estimular a inovação, a centralização do processo de inovação refere -se à extensão do controle sobre as decisões e a formalização do processo de inovação contribui para a performance de inovações (Yang et al., 2009).
+As variáveis e as assertivas são do estudo de Yang et al.
+(2009) e que, a partir do questionário excerto do apêndice do artigo base, foi elaborado o in strumento desta pesquisa.
+Para tal utilizou -se o Google Docs , cujo link de acesso foi enviado por diversas vezes aos gestores de cada empresa, no período de agosto de 2014 a dezembro de 2015, com o intuito de obter uma amostra que permitisse utilizar a téc nica estatística (modelagem de equações estruturais) considerada um diferencial em relação aos dois modelos de regressão múltipla aplicados no estudo de Yang et al.
+(2009) para testar as hipóteses, que tem como principal limitação a abordagem de não causal idade das variáveis.
+Os dados obtidos no levantamento desta pesquisa foram organizados e tabulados no software Microsoft Excel®, que posteriormente serviram de entrada aos softwares SPSS® e SmartPLS .
+Para o tratamento dos dados, no que concerne aos testes multivariados, utilizou -se a análise fatorial confirmatória (AFC) e a análise discriminante para validar o modelo proposto.
+Para testar as hipóteses do estudo utilizou -se a modelagem de equações estruturais (SEM) estimada a partir dos Mínimos Quadrados Pa rciais (PLS).
+O PLS -SEM permite que se trate modelos formativos com amostras menores e variáveis não aderentes a uma distribuição normal multivariada (Chin & Newsted, 1999).
+O PLS -SEM analisa os construtos de forma separada e, em seguida, calcula as relaçõ es de causalidade.
+O pacote estatístico utilizado foi o SmartPLS versão 2.0.
+Essa técnica de análise multivariada, segundo Gefen, Straub e Boudreau (2000), permite extrair conclusões de forma abrangente e sistemática por meio de uma modelagem simultânea da s relações entre múltiplos construtos dependentes e independentes.
+Análise e Discussão dos Resultados Nesta seção procede -se à análise e discussão dos resultados da pesquisa.
+Inicia -se com a análise descritiva dos dados coletados.
+Segue -se com a descriçã o dos testes de validade e confiabilidade dos construtos, análise do modelo proposto e das hipóteses e, por fim, faz -se a discussão dos resultados.
+Análise descritiva Na Tabela 1, apresentam -se os resultados dos indicadores de cada construto em relação a o número de casos válidos, média, desvio padrão, assimetria e curtose Tabela 1 Análise descritiva Assertivas Média D.Padrão Assimetria Curtose Processo de inovação (Produtos) - Nível de inovação da empresa PROD1.
+Inovação em relação aos produtos.
+4,321 1,454 -0,110 -0,062 PROD2.
+Uso recente de inovação tecnológica em novos produtos.
+4,250 1,528 -0,345 -0,523 PROD.
+Velocidade de desenvolvimento de novos produtos.
+3,857 1,600 0,242 -0,541 PROD4.
+Número de novos produtos que a empresa introduz no merc ado.
+3,982 1,601 0,030 -0,513 PROD5.
+Número de novos produtos que estão em primeiro lugar no mercado.
+2,929 1,693 0,605 -0,641 Processo de inovação (Processos) - Nível de inovação da empresa PROC1.
+Velocidade com que adotam as mais recentes inovações te cnológicas no processo de inovação.
+3,589 1,462 -0,110 -0,506 PROC2.
+Atualização tecnológica utilizada no processo de inovação.
+3,732 1,543 -0,209 -0,730 Influência da folga orçamentária e qualidade da informação na performance da inovação 7 REUNIR: Revista de Administração, Contabilidade e Sustentabilidade ISBN: 2237 -3667 , 10(1), 2020.
+Taxa de variação tecnológica no processo de inovação.
+3,714 1,358 -0,450 -0,526 Folga orçame ntária - 1=reduziria em 20% ou mais, 4=reduziria em 10%, 7=não afetaria F1.
+Suponha que, devido a algum desenvolvimento súbito, 10% do tempo de todas as pessoas que trabalham em seu departamento precisaria ser gasto em atividades totalmente desconectadas das tarefas e responsabilidades do seu setor.
+Quanto seria afetada a sua produção no próximo ano?
+Suponha que, devido a um desenvolvimento similar, o orçamento anual do seu departamento seria reduzido em 10%.
+Quanto seria afet ado o seu trabalho no próximo ano?
+3,339 1,687 0,500 -0,555 Qualidade do SI - Atributos da qualidade da informação do SI da empresa Q1.
+Integridade 4,964 1,279 -0,310 -0,703 Q4.
+5,125 1,308 -0,340 -0,440 Concorrência e dinamismo (VC1) - Nível de concorrência e dinamismo tecnológico da empresa VC1.
+Nível de concorrência enfrentada pela sua empresa no setor de atuação.
+Nível de din amismo (mudança) tecnológico da sua empresa em relação às demais do setor.
+4,536 1,584 -0,324 -0,816 Centralização do processo (VC2) - Influência na decisão da empresa VC3.
+Na modificação de um produto existente.
+Na modific ação de um produto em processo.
+Na reestruturação da empresa envolvendo a criação ou extinção de departamentos.
+No recrutamento ou promoção de gestores de nível hierárquico inferior.
+No plano de desenvolvimento de carreira para os gestores do departamento.
+4,536 1,819 -0,548 -0,607 Formalização do processo (VC3) - Grau de formalização da empresa VC8.
+Para a maioria das tarefas da empresa existem regras e políti cas bem desenvolvidas.
+Minhas decisões são monitoradas de perto para garantir que as regras e políticas da empresa sejam seguidas.
+Na maioria das situações, há regras que definem o curso da aç ão a ser tomada na empresa.
+4,893 1,603 -0,561 -0,384 VC11.
+Na maioria dos postos de trabalho, estão explícitas as definições de cargos da empresa.
+4,929 1,704 -0,731 -0,188 VC12.
+Todos têm um trabalho bem definido e específico a fazer na empresa.
+4,714 1,604 -0,501 -0,818 Nota: N = 56.
+Conforme Tabela 1, no construto processo de inovação (produtos), a maior média observada foi da variável PROD1 (inovação em relação aos produtos), com x̄=4,321, seguida da variável PROD2 (uso recente de inovação tecnológica em novos produtos), com x̄ =4,250.
+As demais variáveis ficaram com médias próximas a 4, na escala de 1 a 7, exceto PROD5 (número de novos produtos que estão em primeiro lugar no mercad o), que apresentou x̄=2,929.
+Isso indica que, de modo geral, as empresas pesquisadas apresentam um nível moderado de inovação tecnológica de produtos.
+No construto processo de inovação (processos), todos os indicadores ficaram com médias em torno da escala de 3 pontos (PROC1= x̄ 3,589, PROC2= x̄ 3,732 e PROC3= x̄ 3,714), o que indica um processo de inovação tecnológica de processos baixo, com tendência a moderado.
+Quanto à folga orçamentária, os indicadores apontam que o nível de folga no orçamento é de x̄=3,429 para a variável F1 e de x̄=3,339 para a variável F2, o que sugere um baixo nível, na escala de 1 a 7 pontos, de folga orçamentária nas empresas pesquisadas.
+Sobre a qualidade da informação do SI, os indicadores estão com médias acima da escala de 4 pontos (razoável), com o maior valor na variável Q4 (relevância), x̄=5,125, portanto, uma qualidade da informação do SI moderada, tendendo para alta.
+Para as variáveis de controle, nota -se que concorrência e dinamismo enfrentados pelas empresas é de nível mode rado a alto (VC1 – concorrência com x̄=5,786 e VC2 – dinamismo com x̄=4,536).
+No que tange à centralização do processo, a maior média apresentada foi da variável VC4 (na modificação de um produto em processo), com x̄=5,107.
+Na formalização do processo, tod as as variáveis registraram valores entre as escalas de 4 a 5 pontos, indicando que os gestores observam um nível moderado de formalização do processo.
+O desvio padrão, de modo geral, confirma que não houve dispersão em relação à média, pois o maior valor entre os indicadores analisados foi 2,013 (VC5 - reestruturação da empresa envolvendo a criação ou extinção de departamentos).
+Os valores de assimetria e curtose não demonstram grande variabilidade entre as variáveis, estando dentro do padrão admissível de +/- 1,00 conforme preconiza Hair Jr et al.
+Validade e confiabilidade dos construtos Nas variáveis do estudo foi aplicada a Análise Fatorial Confirmatória (AFC).
+É um dos métodos mais indicados para teste e desenvolvimento de teorias (Anderson & Gerbering, 1988).
+(2005) recomendam a AFC para a validação do modelo de mensuração de modo individual por construto e, em geral, considera -se todas as relações determinadas a partir da fundamentação teórica com a finalidade de determinar se as relações são suportadas pelos dados conforme os objetivos da pesquisa.
+8 Beuren, Amaro & Murro REUNIR: Revista de Administração, Contabilidade e Sustentabilidade ISBN: 2237 -3667 , 10(1), 2020.
+Na Tabela 2 evidencia -se a variância média extraída (AVE) e a confiabilidade composta de cada construto.
+O valor recomendável para a confiabilidade composta é de 0,70 e de 0,50 para a AVE, sendo que estas estimativas servem para avaliar se os indicadores especificados são suficientes para representar as variáveis latentes (Hair Jr et al., 2005).
+Como critério de confiabilidade da escala foi utilizado o valor do alfa de Cronbach.
+(2005) consideram um alfa de 0,70 como mínimo aceitável, embora coeficientes de até 0,60 possam ser aceitos, dependendo dos objetivos da pesquisa.
+Tabela 2 Índices de adequação do modelo PLS -SEM Construtos AVE Confiabilidade Composta R Square Alfa Cronbach Comunalidade Redundância Produtos 0,579 0,872 0,000 0,822 0,579 0,005 Processos 0,881 0,957 0,131 0,933 0,881 0,003 Folga 0,790 0,883 0,144 0,737 0,790 0,000 Qualidade 0,795 0,939 0,247 0,913 0,795 0,016 VC2 0,545 0,802 0,000 0,725 0,545 0,000 VC3 0,658 0,905 0,000 0,869 0,658 0,000 Fonte: Dados da pesquisa.
+Nota-se na Tabela 2, em relação aos índices de adequação do modelo para a AFC, que para a AVE não há indicadores com valores inferiores a 0,50, o que permite que o modelo seja ace ito.
+Em relação aos coeficientes de confiabilidade composta, todos os indicadores encontram -se acima de 0,70, o que representa 50% da variância, considerando o tamanho da amostra com 56 casos.
+Esses valores são significativos ao nível de 0,05, conforme pre scrito por Hair Jr et al.
+No que tange aos indicadores de confiabilidade da escala, todos os alfas de Cronbach foram superiores a 0,70, o que confere credibilidade aos construtos da pesquisa.
+Cabe salientar que para o modelo de mensuração foi retir ado o construto VC1 (concorrência e dinamismo), pois possui variáveis divergentes e que comprometem os pressupostos estatísticos.
+Outra variável retirada do modelo foi a VC4 (na modificação de um produto em processo), pois apresentou uma correlação baixa e não significativa com as demais variáveis.
+Para testar a validade discriminante, verificou -se a correlação entre as variáveis latentes, conforme Tabela 3.
+(2005), as correlações entre as variáveis devem ser inferiores a 0,95 para ev itar colinearidade.
+Conforme Fornell e Larcker (1981), espera -se que o quadrado das correlações seja inferior aos valores da AVE. Verifica -se na Tabela 3, que não há correlação acima de 0,95 entre os construtos de primeira ordem que excedem em magnitude a raiz quadrada da AVE, o que indica validade discriminante do modelo.
+Tabela 3 Valores de correlação dos construtos de primeira ordem Descrição Produtos Processos Folga Qualidade VC2 VC3 Produtos 1,000 0,700 0,106 0,000 0,000 0,000 Processos 0,000 1,000 0,054 0,000 0,000 0,000 Folga 0,000 0,000 1,000 0,000 0,000 0,000 Qualidade 0,363 0,319 0,124 1,000 0,000 0,000 VC2 0,152 -0,021 0,137 0,195 1,000 0,000 VC3 0,160 0,025 0,247 0,494 0,2832 1,000 AVE 0,579 0,881 0,790 0,795 0,545 0,658 Fonte: Dados d a pesquisa.
+Modelo proposto e análise das hipóteses do estudo O modelo proposto com os coeficientes obtidos é apresentado na Figura 1, definido pela técnica de estimação de covariância de PLS -SEM.
+Influência da folga orçamentária e qualidade da informação na performance da inovação 9 REUNIR: Revista de Administração, Contabilidade e Sustentabilidade ISBN: 2237 -3667 , 10(1), 2020.
+Teste dos coeficientes de caminhos do modelo estrutural Fonte: Dados da pesquisa.
+O teste do modelo estrutural é avaliado segundo os índices de ajustamento e coeficientes obtidos, conforme Figura 1.
+Estes demonstram significância com base nos valores do teste t para o caminho ( path) utiliza do no modelo, sendo aceitáveis aqueles acima de 1,96 (Hair Jr et al., 2005).
+Efetuou -se a análise de bootstrapping , gerando 2.000 subamostras diferentes, cada uma com n=56 observações, como recomendado por Hair Jr et al.
+A análise de relação ou cam inhos é demonstrada na Tabela 4.
+Tabela 4 Valores do modelo estrutural Relação estrutural Valor t-valor Hipótese p-valor Folga  Produto 0,065 0,370 H1a 0,711 Folga  Processo 0,055 0,340 H1b 0,733 Qualidade  Produto 0,369 2,038 H2a 0,042* Qualidad e  Processo 0,410 2,939 H2b 0,003** VC2  Produto -0,090 0,438 - 0,661 VC2  Processo -0,059 0,322 - 0,747 VC2  Qualidade 0,060 0,407 - 0,684 VC3  Produto -0,064 0,201 - 0,841 VC3  Processo -0,064 0,931 - 0,352 VC3  Qualidade 0,474 4,475 - 0,000 ** Nota: Significante ao nível de *p<0,05; **p<0,01.
+Conforme Tabela 4, os valores acima de 1,96 para os coeficientes de caminho são: qualidade/produto, com tvalor=2,038; qualidade/processo, com t -valor=2,939; e VC3/qualidade, com t -valor=4,475.
+As relações estruturais folga/produto (t -valor=0,370) e folga/processo (tvalor=0,340) não apresentaram significância estatística, sendo que o mesmo ocorreu com a demais variáveis de controle.
+A partir dos resultados encontrados, pode -se analisar as hipóteses desta pesquisa.
+Discussão dos resultados Na análise da primeira hipótese, não se observa influência estatisticamente significativa da folga orçamentária na performance de inovação de produtos (p=0,711) e processos (p=0,733), assim rejeita -se H1a e H1b.
+Esses resultados não coadunam com os de Yang et al.
+(2009), que encontraram relação positiva e significativa da 10 Beuren, Amaro & Murro REUNIR: Revista de Administração, Contabilidade e Sustentabilidade ISBN: 2237 -3667 , 10(1), 2020. folga orçamentária (t -valor=2,44 e p=0,02) no modelo de regressão múltipla, com R²=0,161, tendo como variável dependente a performance de inovação de produto.
+No que concerne à inovação de processos como variável dependente, a folga orçamentária no modelo mostrou -se positiva e significativa (t -valor=2,04 e p=0,04), com um R²=0,144.
+Apesar de um poder de explicação baixo do m odelo de regressão múltipla, Yang et al.
+(2009) apontaram a folga orçamentária como influenciadora da performance de inovação, o que não foi confirmado na presente pesquisa.
+Um possível argumento para os resultados não congruentes é o fato deles terem dico tomizada a folga orçamentária em baixa e alta folga no orçamento, sendo que a baixa folga apresentou efeito positivo e significativo sobre o processo de inovação, o que não foi confirmado com alta folga no orçamento.
+Vale destacar que a folga orçamentária pode potencializar a inovação (Tan, 2003) ou implicar em gastos desnecessários à organização (Tan & Peng, 2003), mas a sua falta inibe a inovação (Nohria & Gulati, 1996).
+Nesta perspectiva, a formação da folga precisa ser analisada dentro de um escopo mais amplo, que considera conforme Frezatti et al.
+(2013) a necessidade e intencionalidade de sua formação, as razões para a criação de reservas e os benefícios decorrentes.
+Também é preciso considerar o espectro de variáveis associadas à folga orçamentária e diferenças nos procedimentos metodológicos em estudos prévios, como observado na pesquisa de Daumoser et al.
+(2018), com reflexos nos seus resultados.
+Na análise da segunda hipótese da pesquisa, constatou -se influência estatística significativa da qualidad e da informação do SI na performance de inovação de produtos (p=0,042) e processos (p=0,003), assim não se rejeita H2a e H2b.
+Apesar de uma relação baixa, com poder de explicação de R²=0,144 e R²=0,131, respectivamente, os resultados reforçam os achados (R ²=0,169 e R²=0,128) da pesquisa de Yang et al.
+(2009), pois a qualidade da informação possui influência positiva e significativa na performance da inovação.
+A qualidade da informação é especialmente relevante quando a organização apresenta um cenário de pr essão e restrição orçamentária (DUNK, 1993), o que pode levar o gestor a constituir folga orçamentária, seja por meio de alterações ou de ocultações de informações no processo orçamentário (Beuren & Verhagem, 2015).
+A qualidade da informação do SI pode mit igar a assimetria informacional (Sponem & Lambert, 2016) e monitorar o estabelecimento de metas mais fáceis de serem alcançadas em oposição a eficiência organizacional (Young, 1985).
+A qualidade da informação pode contribuir na performance da inovação e proporcionar melhor desempenho organizacional (Davila, 2000).
+Por fim, o construto VC3 (formalização do processo de inovação) apresenta o maior poder de explicação do modelo, com influência positiva e significativa (R²=0,247 e p=0,000) na qualidade da infor mação do SI.
+Isso indica que quanto mais formalizado o processo de inovação, maior a qualidade da informação do SI.
+A constatação dessa relação pode ser apontada como uma contribuição adicional da presente pesquisa, em comparação ao estudo de base de Yang et al.
+Conclusões Este estudo buscou averiguar a influência da folga orçamentária e da qualidade da informação na performance da inovação de produtos e processos em empresas da indústria de medicamentos e produtos farmacêuticos.
+De modo geral, as análises dos resultados desta pesquisa mostram que somente a qualidade da informação do SI influencia na performance do processo de inovação.
+Divergente do estudo de Yang et al.
+(2009), que identificaram a folga orçamentária como influenciadora do process o de inovação.
+Em consonância com o objetivo estabelecido neste estudo, duas hipóteses foram testadas.
+Inicialmente testouse a H1, para aferir se há influência estatisticamente significativa da folga orçamentária na performance de inovação de produtos (H 1a) e processos (H1b).
+Ambas foram rejeitadas, o que não converge com o estudo de Yang et al.
+(2009), que encontraram relação positiva e significativa entre folga orçamentária e performance do processo de inovação.
+Esta não convergência de resultados das p esquisas pode advir do uso da modelagem de equações estruturais nesta pesquisa, que permitiu testar a teoria de ordem causal entre as variáveis (Klem, 1995).
+Ressaltam -se ainda diferenças no período de realização das pesquisas e eventuais diferenças entre empresas tailandesas e brasileiras.
+Na H2 testou -se se há influência estatisticamente significativa da qualidade da informação do SI na performance de inovação de produtos (H2a) e processos (H2b).
+Não se encontrou suporte para rejeitar essas hipóteses, cuj os resultados coadunam com o estudo de Yang et al.
+(2009), pois os autores encontraram relação positiva e significativa entre qualidade da informação do SI e performance do processo de inovação.
+No entanto, é imprescindível mencionar que tais autores aplic aram outro método (modelo de regressão linear múltipla) e utilizaram como amostra empresas de outro país.
+Conclui -se que das variáveis latentes pesquisadas, somente a qualidade da informação do SI influencia na performance do processo tecnológico de inovaç ão, sendo que a folga orçamentária neste estudo não indicou relação com as variáveis do processo de inovação.
+A não congruência entre os resultados desta pesquisa e do estudo Yang et al.
+(2009) alerta para a necessidade de alinhamento entre o objetivo pret endido no estudo e o método de análise utilizado, sendo que neste estudo optou -se por estimar a magnitude dos efeitos entre as variáveis, com foco na causalidade das variáveis.
+Este estudo contribui para a literatura e a prática organizacional ao analisar a influência da folga orçamentária e da qualidade da informação na performance da inovação de produtos e processos em empresas inovadoras.
+Para o arcabouço teórico a pesquisa contribui quanto aos efeitos da folga orçamentária sobre variáveis organizacionai s, especialmente diante dos resultados dissonantes observados na revisão estruturada de Daumoser et al.
+Sob o ponto de vista gerencial, destaca -se a identificação de antecedentes da performance da inovação de produtos e processos, no caso, a qualid ade da informação, em linha com os atributos apontados por Teng et al.
+Destaca -se que os resultados desta pesquisa limitamse a opinião emitida pelos respondentes e a amostra investigada.
+Ainda, o formato das questões pode o casionar um viés por parte de quem respondeu, interferindo nos resultados da pesquisa.
+Em vista das limitações deste estudo recomenda -se que futuras pesquisas investiguem a relação destes construtos em uma amostra maior de Influência da folga orçamentária e qualidade da informação na performance da inovação 11 REUNIR: Revista de Administração, Contabilidade e Sustentabilidade ISBN: 2237 -3667 , 10(1), 2020. gestores e com ajustes julgados r elevantes nas métricas do instrumento de pesquisa.
+Com uma amostra maior pode -se, por exemplo, trabalhar a SEM utilizando -se dos recursos do pacote estatístico SPSS AMOS®, que oferece mais ferramentas de análise.
+Diferente do modelo teórico delineado para este estudo, recomenda -se para pesquisas futuras utilizar a folga orçamentária como variável moderadora do modelo, no intuito de verificar se isso resulta em conclusões distintas.
+Processo orçamentário e criação de reservas em uma instituição hospitalar.
+Revista Contemporânea de Contabilidade, 7 (13), 107 -126.
+Anderson, J. C., & Gerbing, D. W. (1988).
+Structural equation modeling in practice: a review and recommended two-step approach.
+Psychological Bullet in, 103 (3), 411423.
+Anderson, S. A., & Sedatole, K. (1998).
+Designing quality into products: the use of accounting data in new product development.
+Accounting Horizons, 12 (3), 213 -233.
+Antle, R., & Eppen, G. D. (1985).
+Capital rationing and organization al slack in capital budgeting.
+Management Science, 31 (2), 163 -174.
+Resource rationing and organizational slack in a two -period model.
+Journal of Accounting Research, 28 (1), 1 -24.
+Balkin, D. B., Markman, G. D., & Gomez -Mejia, L. R. (2000).
+Is CEO pay in high - technology firms related to innovation?
+Academy of Management Journal, 43 (6), 1118 – 1129.
+Barbieri, J. C., & Álvares, A. C. T. (2003).
+Inovações nas organizações empresariais.
+Organizaçõe s inovadoras: estudos e casos brasileiros (pp.
+Beck, F., & Beuren, I. M. (2014).
+Interfaces da folga organizacional com inovação: um estudo em empresa têxtil.
+In: Congresso ANPCONT , Rio de Janeiro, RJ, Brasil, 8.
+Beuren, I. M ., Beck, F., & Popik, F. (2015).
+Do shared interests affect the accuracy of budgets?
+Revista Contabilidade & Finanças, 26 (67), 11 -26.
+Remuneração variável incentiva a criação de folga orçamentária?
+Revista Pensame nto Contemporâneo em Administração, 9 (4), 128143.
+On the measurement of organizational slack.
+Academy of Management Review, 6(1), 29 -39.
+Buzzi, D. M., Santos, V., Beuren, I. M., & Faveri, D. B.
+Relação da folga orçam entária com participação e ênfase no orçamento e assimetria da informação.
+Revista Universo Contábil, 10(1), 06 -27.
+Camisón, C., & Villar -López, A.
+Organizational innovation as an enabler of technological innovation capabilities and firm performan ce.
+Journal of Business Research, 67 (1), 2891 -2902.
+Cavalluzzo, K. S., & Ittner, C. D. (2004).
+Implementing performance measurement innovations: evidence from government.
+Accounting, Organizations and Society, 29 (3), 243-267.
+Structural equation modeling analysis with small samples using partial least squares.
+Statistical Strategies for Small Sample Research, 1(1), 307 -341.
+Daumoser, C., Hirsch, B., & Sohn, M. (2018).
+Honesty in budgeting: a review of morality and co ntrol aspects in the budgetary slack literature.
+Journal of Management Control, 29 (2), 115 -159.
+Davenport, T. H., & Prusak, L. (1998).
+Working knowledge: managing what your organization knows .
+Boston, MA: Harvard Business School Press.
+An empirical study on the drivers of management control systems' design in new product development.
+Accounting, Organizations and Society, 25(4/5), 383 -409.
+Dosi, G., Pavitt, K., & Soete, L. (1990).
+The economics of technical change and international tra de.
+London: Harvester, Wheastsheaf.
+Innovation budget pressure, quality of IS information, and departmental performance .
+The British Accounting Review, 39 (2), 115 -124.
+Floriani, R., Beuren, I. M., & Hein, N. (2010).
+Análise comparativ a da evidenciação de aspectos de inovações em empresas construtoras e multisetoriais.
+Journal of Information Systems and Technology Management, 7 (3), 693-712.
+Fornell, C., & Larcker, D. F. (1981).
+Evaluating structural equations models with unobserved var iables and measurement error.
+Journal of Marketing Research, 18 (1), 6-21.
+Frezatti, F., Beck, F., & Silva, J. O.
+Percepções sobre a criação de reservas orçamentárias em processo orçamentário participativo.
+Revista de Educação e Pesquisa em Contabi lidade, 7 (4), 335 -354.
+Gefen, D., Straub, D.W., & Boudreau, M. C. (2000).
+Structural equation modeling and regression: guidelines for research practice.
+Commun AIS, 4 (article 7), 1 -77.
+A. C., Wouters, M. J. F., & Wilderom, C. P. M. (2017).
+Empl oyee participation, performance metrics, and job performance : a survey study based on selfdetermination theory.
+Management Accounting Research, 36(1), 51 -66.
+Recuperado em outubro 05, 2014, de ?c=3078 Hair Jr, J. F., Anderson, R. E., Tatham, R. L., & Black, W. C. (2005).
+Análise multivariada de dados (5 ed.).
+12 Beuren, Amaro & Murro REUNIR: Revista de Administração, Contabilidade e Sustentabilidade ISBN: 2237 -3667 , 10(1), 2020.
+Herold, D. M., J ayaraman, N., & Narayanaswamy, C. R. (2006).
+What is the relationship between organizational slack and innovation?
+Journal of Managerial Issues, 18 (3), 372-392.
+Hurley, R. F., & Hult, T. M. (1998).
+Innovation, Market Orientation, and Organizational Learni ng: An integration and empirical examination.
+Journal of Marketing, 62 (3), 42-54.
+Kafouros, M. I., Buckley, P. J., Sharp, J.
+The role of internationalization in explaining innovation performance .
+Technovation, 28 (1/2), 63 -74.
+In: Grimm, L. G., & Yarnold, P. R. (1995).
+Reading and understanding multivariate statistics .
+Washington, DC: American Psychological Association.
+Kilfoyle, E., & Richardson, A. J.
+Agency and structure in budgeting: thesi s, antithesis and synthesis.
+Critical Perspectives on Accounting, 22 (2), 183199.
+Lal, M., Dunk, A. S., & Smith, G. D. (1996).
+The propensity of managers to create budgetary slack: A cross -national reexamination using random sampling.
+The International Journal of Accounting, 31 (4), 483 -496.
+Lavarda, C. E. F., & Almeida, D. M. (2013).
+Participação orçamentária e assimetria informacional: um estudo em uma empresa multinacional.
+Brazilian Business Review, 10(2), 74 -96.
+Lavarda, C. E. F., & Fank, O. L. (2014).
+Relação da assimetria da informação, da participação orçamentária e do risco na criação da folga orçamentária.
+ContextusRevista Contemporânea de Economia e Gestão, 12 (1), 81110.
+Teoria da Contabilidade: uma nova abordagem .
+The effect of market orientation on product innovation.
+Journal of the Academy of Marketing Science, 28 (2), 239 -247.
+Budgetary biasing in organizations: theoretic al framework and empirical evidence.
+Accounting, Organizations and Society, 13 (3), 281 -301.
+Budgeting and the propensity to create budgetary slack.
+Accounting Organizations and Society, 10 (2), 201 -210.
+Nadler, D., & Tushman, M. (1 997).
+Competing by design: The power of organizational architecture .
+Oxford: Oxford University Press.
+Nonaka, I., & Takeushi, H. (1995).
+The knowledge -creating company .
+Oxford: Oxford University Press.
+Nohria, N., & Gulati, R. (1996).
+Is slack good or bad for innovation?
+Academy of Management Journal, 39 (5), 12451264.
+The effect of organizational commitment on the relation between budgetary participation and budgetary slack.
+Behavioral Research in Accounting, 8 (1), 74 -90.
+Organização para Cooperação e Desenvolvimento Econômico (OCDE).
+(2004) Manual de Oslo: diretrizes para coleta e interpretação de dados sobre inovação .
+Recuperado em abril 16, 2015, de Onsi, M. (1973).
+Factor analysis of behavioral variables affecting budgetary slack.
+The Accounting Review, 48 (3), 535-548.
+Pires, M. G., & Marcondes, R. C. (2004).
+Conhecimento, inovação e competência em organizações financeiras: uma análise sob o ponto de vista de gestores de bancos.
+Revista de Administração Contemporânea, 8 (espec.
+Quintas, T. T., & Beuren, I. M. (2011).
+Abordagens sobre folga organizacional nas pesquisas publicadas em periódicos internacionais: um ensaio teórico.
+Revista de Administração da UFSM, 4 (1), 53 -72.
+Rieg, D. L., & Alves Filho, A. G. (2003).
+Esforço tecnológico e desempenho inovador das empresas do setor médicohospitalar localizadas em São Carlo s, SP.
+Gestão & Produção, 10 (3), 293 -310.
+Economic determinants of organizational innovation.
+Administrative Science Quarterly, 12 (4), 614 -625.
+Santos, V., Beuren, I. M., Nardi, L. V., & Vicente, T. (2016).
+Folga orçamentária: carac terísticas das publicações em periódicos internacionais.
+Contabilidade Vista & Revista, 27 (1), 88 -110.
+Capitalismo, sociedade e democracia .
+Performance measurement and control system s for implementing strategies .
+Upper Saddle River: Prentice -Hall.
+Sponem, S., & Lambert, C. (2016).
+Exploring differences in budget characteristics, roles and satisfaction: A configurational approach.
+Management Accounting Research, 30 (1), 47 -61.
+As indústrias farmacêuticas mais inovadoras no Brasil .
+Recuperado em janeiro 12, 2020, de -industriasfarmaceuticas -mais-inovadoras -no-brasil/ Tan, J.
+Curvilinear relationship between organizational slack and firm performance : Evidence from Chinese state enterprises.
+European Management Journal, 26(6), 740 -749.
+Orga nizational slack and firm performance during economic transitions: Two studies from an emerging economy.
+Strategic Management Journal , 24(13), 1249 -1263.
+Teng, J. T. C., Cheon, M. J., & Grover, V. (1995).
+Decisions to outsource information systems functio ns: testing a strategy‐theoretic discrepancy model.
+Decision Sciences, 26(1), 75 -103.
+Central problems in the management of innovation.
+Management Science, 32 (5), 590-607.
+Influência da folga orçamentária e qualidade da informação na performance da inovação 13 REUNIR: Revista de Administração, Contabilidade e Sustentabilidade ISBN: 2237 -3667 , 10(1), 2020.
+Vieira, V. M. M., & Ohayon, P. (2006).
+Inovação em fárma cos e medicamentos: estado -da-arte no Brasil e políticas de P&D.
+Revista Economia & Gestão, 6 (13), 60 -82.
+Fundamentos e evolução dos indicadores de CT&I .
+In: Viotti, E. B., & Macedo, M. M.
+Indicadores de ciência, tecnologia e inovação no Brasil (pp.
+Wang, R. Y., & Strong, D. M. (1996).
+Negotiating innovation: product renewal as the outcome of a complex bargaining process.
+R&D Management, 35 (1), 73 -87.
+Yang, M. -L., Wang, A. M., & Cheng, K. -C. (2009).
+The impact of quality of IS information and budget slack on innovation performance .
+Technovation, 29 (8), 527 -536.
+Structural adaptations to environments.
+Academy of Management Review, 11 (1), 921.
+Participative budgeting: the effects of risk aversion and asymmetric information on budgetary slack.
+Journal of Accounting Review, 23 (2), 829 -842.

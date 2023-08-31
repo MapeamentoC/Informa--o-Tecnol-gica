@@ -1,0 +1,318 @@
+39INOVAÇÃO E ECONOMIA – DESEMPENHO INOVATIVO NO ÂMBITO REGIONAL1 1 Os autores agradecem o apoio da Fapemig (Fundação de Amparo à Pesquisa no Estado de Minas Gerais) no desenvolvimento de pesquisa sobre o DATAVIVA, cujo um dos frutos é esse artigo.
+2 Professor da Universidade Federal de Viçosa (UFV) 3 Professor da Universidade Estadual de Montes Claros (Unimontes) e da Universidade Federal de Minas Gerais (UFMG).
+4 Professora da Universidade Estadual de Montes Claros (Unimontes)Resumo: A inovação afeta a economia e pode auxiliar no desenvolvimento de regiões e nações.
+Contudo, o desempenho inovativo não é o mesmo nessas localidades, da mesma forma que em várias partes, encontram-se diferentes níveis de desenvolvimento econômico e social.
+O estudo focou no desempenho inovativo das mesorregiões brasileiras através de um diferente conjunto de dados e fontes (como DATAVIVA, IBGE, entre outros.
+), entre os anos 2002 a 2012, para ajudar a entender como a inovação pode afetar o âmbito regional.
+Conclui-se que o desempenho inovativo em nível mesorregional depende de quatro variáveis (P&D universitário, a diversificação da configuração industrial, a porcentagem de baixa tecnologia na produção e o PIB por habitante) e foram capazes de explicar, em conjunto, cerca de 50% das variações no nível tecnológico das regiões.
+Infere-se que existam outras variáveis importantes, na dimensão empresarial ou mesmo pessoal, as quais não sofrem influência das condições locais ou geográficas, ou seja, são variáveis fora da dimensão regional.
+Por isso, não foram contempladas na pesquisa.
+O artigo conta com três seções mais a introdução, sendo elas: suporte teórico do estudo; metodologia com construção de planilhas e definição das variáveis; e a análise das variáveis.
+Por fim, são apresentadas as conclusões e algumas discussões sobre o tema proposto, seguida da bibliografia utilizada.Evaldo Henrique da Silva 2 Luiz Paulo Fontes de Rezende 3 Sara Gonçalves Antunes de Souza 4DOSSIÊ TECNOLOGIAEconomia e P olíticas Púb licas, v. 6, n. 1/2018 40Palavras-chave: Inovação, Mesorregião, desempenho inovativo Abstract: The Innovation affects the economy and can assist in the development of regions and nations.
+However, the innovative performance is not the same in these localities, as in several parts, different levels of economic and social development are found.
+The study focused on the innovative performance of mesoregions through a different set of data and sources (such as DATAVIVA, IBGE, among others.)
+between 2002 and 2012 to help understand how innovation can affect the regional scope.
+It is concluded that the innovative performance at the mesoregion level depends on four variables (university R & D, the diversification of the industrial configuration, the percentage of low technology in the production and the per capita GDP) and were able to explain, together, about 50% variations in the technological level of the regions.
+It is inferred that there are other important variables, in the corporate or even personal dimension, which are not influenced by local or geographical conditions, that is, they are variables outside the regional dimension.
+Therefore, they were not contemplated in the research.
+The article has three sections besides the introduction, being: theoretical support of the study; methodology with construction of worksheets and definition of variables; and the analysis of the variables.
+Finally, the conclusions and some discussions about the proposed theme are presented, followed by the bibliography used.
+Keywords: Innovation, Mesoregion, Innovative performance Resumen: La innovación afecta la economía y puede ayudar en el desarrollo de regiones y naciones.
+Sin embargo, el rendimiento innovador no es el mismo en estos lugares, ya que en muchas partes, hay diferentes niveles de desarrollo económico y social.
+El estudio se centró en el desempeño innovador de las mesorregiones brasileñas a través de un conjunto diferente de datos y fuentes (como DATAVIVA, IBGE, entre otros).
+De 2002 a 2012, para ayudar a comprender cómo la innovación puede afectar el nivel regional.
+Se concluye que el desempeño innovador a nivel mesorregional depende de cuatro variables (investigación y desarrollo universitarios, diversificación de la configuración industrial, porcentaje de baja tecnología en producción y PIB por habitante) y pudieron explicar juntos alrededor del 50%.
+variaciones en el nivel tecnológico de las regiones.
+Se infiere que hay otras variables importantes, en la dimensión empresarial o incluso personal, que no están influenciadas por las condiciones locales o geográficas, es decir, son variables fuera de la dimensión regional.
+Por lo tanto, no fueron contemplados en la investigación.
+El artículo tiene tres secciones más la introducción, a saber: apoyo teórico del estudio; metodología con construcción de hojas de cálculo y definición de variables; y el análisis de variables.
+Finalmente, se presentan las conclusiones y algunas discusiones sobre el tema propuesto, seguidas de la bibliografía utilizada.
+Palabras clave: innovación, mesorregión, rendimiento innovador41Introdução O entendimento de que a inovação impulsiona a economia de um país, região ou local, pode ser encontrado em muitos estudos que apresentam essas conexões seja a partir da concorrência entre empresas ou pelo estímulo do Estado com seus gastos e investimentos.
+Portanto, a inovação é vista como um elemento fundamental e que impacta no desenvolvimento econômico.
+Dessa forma, deve-se buscar conhecer todas as suas dimensões e entender os motivos pelos quais a inovação ocorre de maneira desigual em partes do mundo e, consequentemente, porque essas várias partes se encontram em diferentes níveis de desenvolvimento econômico e social.
+Esse artigo visou estudar o desempenho inovativo no âmbito regional através de um conjunto de dados que associasse informações vinculadas a média/alta tecnologia, taxa de P&D, grau de instrução, dados do DATAVIVA, entre outros, ou seja, dados que possam ajudar a entender como a inovação pode afetar o âmbito regional, considerado nesse estudo com base em 'mesorregiões'.
+Para tanto, foram elaborados indicadores de desempenho inovativo por Mesoregião (usando três indicadores de desempenho inovativo: a participação de produtos de média/alta tecnologia na pauta de exportação de cada mesorregião, a produtividade da mão-de-obra no setor industrial e índice per capita de patentes) e utilizadas variáveis explicativas (renda per capita, taxa de P&D dos setores público, taxa de P&D do setor privado, grau de instrução da população, índices de especialização, tamanho médio das firmas do setor industrial e taxa de investimento do setor industrial), além do acesso às plataformas do DATAVIVA e do Deepask e aos sítios do IBGE, do INPI, e do Ministério da Educação.
+Importante destacar que o período estudado possível de ser compatibilizado foi de 2002 a 2012, nas séries históricas obtidas.
+Concluímos que o desempenho inovativo em nível mesorregional depende apenas de quatro variáveis (P&D universitário, a diversificação da configuração industrial, a porcentagem de baixa tecnologia na produção e o PIB por habitante) Essas quatro variáveis foram capazes de explicar, em conjunto, cerca de 50% das variações no nível tecnológico das regiões oSILVA , E. H.; REZENDE , L. P. F.; SOUZA , S. G. A. Inovação e economia .Economia e P olíticas Púb licas, v. 6, n. 1/2018 42que, consequentemente, deixa quase metade das variações no desempenho inovativo sem uma explicação.
+Pode-se inferir que existam variáveis importantes, na dimensão empresarial ou mesmo pessoal, que não sofrem influência das condições locais ou geográficas, ou seja, são variáveis fora da dimensão regional e, por isso, não foram contempladas na pesquisa.
+Esse artigo está dividido em três seções, mais essa introdução.
+A seção seguinte expõe o suporte teórico do estudo; a segunda seção refere-se às métodos e dados a serem utilizados, a partir da construção de planilhas construídas com dados de diferentes fontes, definição de variáveis e modelo de análise; a terceira seção apresenta as análises dessas variáveis; por fim, são apresentadas as conclusões e algumas discussões sobre o tema proposto e a bibliografia utilizada.
+1 Revisão de literatura: Sistema de inovação em várias dimensões A importância da inovação é reconhecida no processo de desenvolvimento econômico, podendo ser compreendida em várias dimensões.
+Os economistas sempre quiseram compreender como uma nação se diferencia economicamente da outra, basta citar que o primeiro livro do chamado 'pai' da Economia, Adam Smith, lançado em 1776 versava sobre, como diz o próprio título: "Uma investigação sobre a natureza e a causa da Riqueza das Nações"5.
+Considera-se nesse estudo, que uma das causas que diferencia as nações seja a inovação.
+Dessa forma, o conjunto de ações e instituições de uma nação que estejam engajadas e voltadas para a promoção e divulgação da inovação são fundamentais para tal entendimento.
+Com base em estudos do autor Schumpeter [1911 (1982)], que enfatizou o papel da inovação e sua capacidade de 'destruir' e 'gerar novas combinações', contribuindo para o desenvolvimento do sistema capitalista, outros autores passaram a utilizar dessa análise.
+Chamados de 'Neo-Schumpeterianos', passaram a desenvolver, especialmente, a partir do fim da década de 1980, muito trabalhos sob esse prisma.
+Colocando a inovação no centro dos estudos econômicos, eles passaram a estudar suas dimensões e entender os motivos pelos quais a inovação 5 Posteriormente, ficou mais conhecido como "Riqueza das Nações".43ocorre de maneira desigual em partes do mundo.
+Nesse sentido, surgem os trabalhos sobre 'Sistemas de Inovação', tendo Freeman (1995) esse considerado o responsável por cunhar o termo6, Lundvall (1992) e Nelson (1993) como alguns dos percursores.
+Para o âmbito 'nacional7', o conceito neoschumpeteriano, como citou Nelson (1993), pode ser entendido como um arranjo institucional que impulsiona a endogenização do progresso técnico pelos países, ou seja, um conjunto de agentes, mecanismos e instituições de um pais que cria, desenvolve e difunde as inovações tecnológicas.
+Tais arranjos abrangem firmas e seus laboratórios de P&D, universidades e institutos de pesquisa, instituições de ensino, financeiras, jurídicas e de relações internacionais.
+Conforme Bittencourt e Cario (2017), o sistema de inovação inclui uma multiplicidade de atores que interagem nos processos de aprendizagem e inovação, afetando, dessa forma, a dinâmica e o desempenho do sistema.
+Esses autores citam as várias dimensões de análise dos sistemas de inovação destacando que podem ser estudados os Sistemas Setorais de Inovação (SSI); Sistemas Regionais/Locais de Inovação (SRI ou SLI); e Sistemas Tecnológicos de Inovação (STI).
+Os estudos com enfoque 'Setorial', como pode ser visto em Malerba (2002), apontam que há diferentes oportunidades tecnológicas para inovar, que levam a formação setorial de padrões de aprendizagem, que possibilitam a estruturação de competências.
+Já em relação ao enfoque 'Regional', como observados em estudos como em Cooke et al.
+(1998), e enfoque 'Local', como em Cassiolato e Lastres (1999), destacam a relevância da cultura, economia, política entre outros fatores que podem aproximar regiões/locais, fazendo com que elas possam ter vantagens para desenvolver políticas, gerenciar recursos, etc.
+Por fim, os chamados 'Tecnológicos', segundo Bittencourt e Cario (2017, p.351) focam em "tecnológicas genéricas com aplicações em muitas indústrias, não havendo limite setorial" e nem "fronteiras espaciais".
+6 A partir da obra "Sistema Nacional de Economia Polótica" do autor alemão List [1841(1983)] 7 Formulado a partir de trabalhos de Lundvall (1992), Freeman (1987), utilizados por vários outros autores.SILVA , E. H.; REZENDE , L. P. F.; SOUZA , S. G. A. Inovação e economia .Economia e P olíticas Púb licas, v. 6, n. 1/2018 44Em síntese, como lembram Sbicca e Pelaez (2006), um sistema de inovação é composto por organizações (agentes) cujas instituições promovem o desenvolvimento inovativo do conjunto.
+Para estes autores, a forma sistêmica de entender a inovação traz a possibilidade de analisar tal processo tanto em relação à difusão do conhecimento, quanto à transformação deste em novos produtos, processos, serviços.
+1.1 Inovação e a dimensão regional Vários estudiosos avaliaram os efeitos econômicos da inovação.
+Eles apontam a inovação como fator impulsionador da economia através da condução da concorrência entre as empresas, sendo um elemento fundamental, melhorando a produtividade, qualidade e aumentando a concorrência.
+Ou seja, por vários motivos, a importância da inovação é reconhecida no processo de desenvolvimento econômico.
+Dessa forma, se torna essencial conhecer todas as suas dimensões e entender os motivos pelos quais a inovação ocorre de maneira desigual em partes do mundo e consequentemente porque essas várias partes se encontram em diferentes níveis de desenvolvimento econômico e social.
+Esse é exatamente o ponto inicial da pesquisa: a inovação não ocorre de maneira igual geograficamente.
+Essa realidade contradiz a previsão de que o aumento no uso de tecnologias de informação e comunicação iria levar a uma dispersão da atividade inovativa.
+No Brasil, por exemplo, o maior percentual de empresas inovadoras, exportadoras e de maior produtividade está localizado no estado de São Paulo, ou seja, a questão geográfica é essencial e não acidental no processo do desenvolvimento inovativo.
+Dentro da capacidade geográfica, a maioria dos estudos se concentra na dimensão nacional.
+A dimensão regional, pouco estudada, é apontada por alguns autores como essencial.
+Isso porque com o aumento da facilidade de acesso ao conhecimento explícito ou codificado, a criação de capacidades e produtos únicos depende da produção de conhecimento tácito, ou seja, um modelo subjetivo e individual de conhecimento adquirido ao longo das experiências de um grupo de pessoas.
+Grande parte das vantagens da transmissão de conhecimento complexos e tácitos se dá pela ocorrência de contatos face a face, possíveis apenas em um contexto local.
+Segundo45diversos autores, as habilidades requeridas para a transferência efetiva do conhecimento são altamente específicas no tempo e espaço.
+Aprendizado coletivo e interativo é baseado na compatibilidade Intra ou Inter organizacional de rotinas, normas e convenções em um quadro institucional compartilhado.
+Dessa forma, o contexto regional deve servir como facilitador de trocas de conhecimento as quais são possíveis apenas localmente, facilitadas pela proximidade e compartilhamento de certo quadro institucional.
+Por isso, é importante que se conheça os elementos ou especificidades de cada região que podem influir positivamente ou negativamente nessa troca e consequentemente na inovação.
+Várias dessas especificidades regionais são mencionadas nos estudos existentes.
+Segundo autores desses estudos os esforços em pesquisa e desenvolvimento reforçam os efeitos da inovação local.
+A importância do P&D, tanto industrial quanto universitário, tem dois princípios.
+Primeiro, a necessidade de codificação em conhecimentos analíticos dos conhecimentos gerados tacitamente.
+Outro fator é que algumas formas de conhecimento valiosas, tanto tácitas como analíticas, quase sempre são transmitidos localmente, ou seja, a proximidade e localidade não é importante apenas para o conhecimento tácito, mas também analítico.
+A importância central de trabalhadores altamente qualificados na produção de inovação em indústrias baseadas em conhecimento analítico leva a crer que os lugares os quais oferecem oportunidades de empregos mais atrativas serão favorecidos em relação a outros.
+Isso significa que esses trabalhadores não são atraídos apenas pelo emprego em si, mas também pela presença de já existente mão de obra qualificada atuante e pela qualidade de vida oferecida localmente, principalmente, pela renda local.
+Em relação à estrutura de produção, alguns estudos buscaram avaliar os efeitos da diversificação ou especialização na inovação e os resultados apontaram que apenas a diversificação apresenta efeitos positivos sobre a inovação.
+Alguns autores afirmam que a diversificação só é vantajosa quando existe em uma condição de variedade relacionada, ou seja, variedade entre setores que compartilham determinadas competências.
+Já em alguns trabalhos, foram encontradas evidências de que a especialização favorece a inovação, de acordo com as ideias de Marshall.
+Logo, não existe umSILVA , E. H.; REZENDE , L. P. F.; SOUZA , S. G. A. Inovação e economia .Economia e P olíticas Púb licas, v. 6, n. 1/2018 46consenso e o que se objetiva neste artigo é encontrar um resultado próprio, mesmo que não seja definitivo acerca desse tema.
+Tanto o P&D, quanto a composição industrial, dentre outros fatores, são apontados por vários autores como forças que regem a formação e dinâmica do sistema regional de inovação.
+Em relação ao Brasil, essa investigação é ainda pouco explorada e é que se pretende fazer nesse trabalho.
+A partir de estudos já existentes, que apontam as especificidades mais comuns de regiões com sucesso inovativo, a resposta a ser encontrada foi se essas mesmas especificidades se encaixam no contexto econômico local brasileiro mais especificamente das mesorregiões.
+2 Material e métodos: construção das planilhas Após a realização da revisão bibliográfica ficou definido um conjunto de variáveis que supostamente poderiam resolver a questão sobre as variáveis indicadoras de desempenho tecnológico na dimensão regional e demais variáveis subjacentes às causalidades sobre este desempenho.
+Foram utilizados três indicadores de desempenho inovativo: a participação de produtos de média/alta tecnologia (máquinas, farmoquímicos, informática, material de transporte, instrumentos e biotecnologia) na pauta de exportação de cada mesorregião, a produtividade da mão-de-obra no setor industrial e índice per capita de patentes.
+No rol das variáveis explicativas foram usados os seguintes indicadores: renda per capita, taxa de P&D dos setores público, taxa de P&D do setor privado, grau de instrução da população, índices de especialização, tamanho médio das firmas do setor industrial e taxa de investimento do setor industrial.
+A produtividade foi calculada dividindo o PIB industrial pelo número de empresas do setor industrial.
+O tamanho da indústria foi calculado de duas formas, a fim de verificar qual geraria resultados melhores ao rodar os modelos: n° de trabalhadores do setor industrial dividido pelo número de empresas do mesmo setor e PIB industrial deflacionado dividido pelo número de empresas do mesmo setor.
+O índice de baixa tecnologia foi calculado através das somas dos percentuais na produção dos setores considerados de baixa tecnologia das mesorregiões.47As planilhas foram feitas organizando os dados já disponíveis em outras plataformas.
+São elas: PIB per capita , PIB industrial, o percentual de participação do setor mais importante em exportação nas mesorregiões, número de patentes por habitante, o valor das exportações das mesorregiões (em dólar) e a planilha que retrata a variável ensino superior utilizada neste estudo, sendo representada pelo n° de concluintes pelo total de habitantes.
+As plataformas acessadas foram o DATAVIVA e o Deepask.
+Foram acessados também os sites do IBGE e do INPI, assim com os microdados da educação brasileira disponibilizados no Ministério da Educação.
+2.1 Material e métodos: definição de variáveis O desafio inicial da pesquisa consistiu em encontrar o melhor indicador de inovação e competitividade para se adaptar ao modelo testado.
+Tradicionalmente, o desempenho inovativo dos setores industriais é medido a partir do número de publicação de depósitos de patentes.
+Pela inexistência de dados em nível regional de depósitos de patentes, foram usados os dados de patentes concedidas por mesorregião, coletados do INPI (Instituto Nacional de Propriedade Industrial).
+Na tentativa de se encontrar outro indicador, além do indicador de patentes, levou-se em consideração a inadequação dos dados da PINTEC, na qual são contemplados alguns indicadores para medir a atividade inovativa das empresas, pois tais indicadores não contemplam amostragem em nível regional.
+Para fugir de tal inadequação, o segundo indicador utilizado teve como base a exportação de produtos de alta tecnologia de cada mesorregião.
+Testes iniciais indicaram que a produtividade industrial não é um bom indicador de inovatividade no plano regional, o que não surpreende visto que as mudanças produtividade são sensíveis a diversas outras variáveis fora da dimensão tecnológica.
+Assim sendo, optou-se pela aplicação dos indicadores de patentes e de exportações de alta tecnologia.
+Os dois indicadores foram construídos da seguinte forma:SILVA , E. H.; REZENDE , L. P. F.; SOUZA , S. G. A. Inovação e economia .Economia e P olíticas Púb licas, v. 6, n. 1/2018 48Tabela 1 - Indicadores de inovaçã e competitividade Na construção do índice de exportação tecnológica, os dados foram retirados da plataforma DATAVIVA e os produtos de alta tecnologia considerados no cálculo foram baseados na classificação de produtos da própria plataforma que os separou por seção.
+As seções consideradas no cálculo do índice foram: Tabela 2 - Seções de produtos de alta tecnologia segunda a classificação do DataViva Os cálculos de todos os indicadores, tanto de inovação, como das variáveis independentes, foram realizados com base anual, levando em conta o período de 2002 a 2012, para 134 mesorregiões brasileiras, que possuem dados disponíveis.
+Ao final, para todos os índices, foi calculada a média dos anos considerados, ou seja, o quociente da soma dos resultados dos indicadores de cada ano por onze (número de anos do período considerado).
+Em relação às variáveis independentes, sete foram consideradas para representar as especificidades regionais as quais se queria avaliar: a) Indicador de P&D universitário: foram considerados os números de bolsas da CAPES (Coordenação de aperfeiçoamento de Pessoal de Nível Superior) concedidas por mesorregião, a partir de dados coletados da base GEOCAPES, bolsas as quais são incentivo a pesquisa em nível universitário.
+Em específico, o indicador teve o seguinte cálculo: 49b) Indicador de P&D industrial: o cálculo do índice envolveu a escolha de ocupações relacionadas a pesquisa industrial e a coleta do número de trabalhadores nessas respectivas ocupações em cada mesorregião.
+A seguinte fórmula foi usada: As ocupações consideradas foram coletadas da plataforma DataViva, partindo da classificação e família de cada ocupação: Tabela 3 - Famílias de ocupações relacionadas ao P&D industrial segundo classificação do DataViva c) Indicador de formação superior: calculado a partir do número de concluintes do ensino superior per capital por mesorregião, sendo os dados coletados do DataViva: d) Indicador de especialização industrial 1: calculado pela porcentagem a qual representa o setor de maior expressão em relação à indústria de cada mesorregião.
+Por exemplo, se a indústria química for a que tenha maior participação na configuração industrial de certa mesorregião e essa represente 20% do total da indústria de transformação, o indicador é 0,2.
+Quanto mais próximo de 0 for o indicador, mais diversificada é a indústria e quanto mais próximo de 1, mais especializada é a indústria.
+SILVA , E. H.; REZENDE , L. P. F.; SOUZA , S. G. A. Inovação e economia .Economia e P olíticas Púb licas, v. 6, n. 1/2018 50e) Indicador de especialização industrial 2: outro índice foi testado para representar a configuração industrial, com anseio de obter a melhor proxy possível.
+O cálculo foi a realizado da seguinte forma: Sendo que i varia de acordo com todos os setores que compõe o total da indústria de transformação.
+Quanto mais próximo de 0, mais diversificada é a mesorregião e quanto mais próxima de 2, mais especializada é a configuração industrial da mesorregião.
+f) Indicador de baixa tecnologia: representa a soma da porcentagem da participação dos setores com menor uso de tecnologia de cada mesorregião, com dados retirados do DataViva e manipulados da mesma forma que os demais.
+g) PIB per capita: dado retirado diretamente da plataforma DeepAsk.
+2.2 Material e métodos: o modelo de análise Nesta pesquisa foram utilizadas como fontes de dados as plataformas DATAVIVA e Deepask, assim como tabelas disponibilizadas no IBGE e no INPI e também os microdados da educação disponibilizados no site do Ministério da Educação.
+Todas essas fontes dispõe seus dados em séries históricas.
+Uma limitação para integrar essas fontes foram as diferenças de períodos dessas séries.
+A compatibilização entre elas só foi possivel para o período de 2002 a 2012.
+Uma dificuldade adicional surgiu devido ao fato de que algumas fontes disponibilizam os dados por municípios.
+Foi necessário, portanto, calcular os valores agregados em mesorregioes.
+No final, todas as planilhas ficaram padronizadas em séries históricas de 2002 a 2012, com valores disponíveis para todas as mesorregiões (134) brasileiras.
+Com esta estrutura de dados, foi possível a aplicação de modelos econométricos de painel.
+Foram rodados dois grupos de modelos, tendo em vista a existência de dois indicares potenciais do índice de inovatividade 51regional: patentes per capita e exportação de produtos de média/alta tecnologia.
+De posse desses modelos, foram realizadas diversas rodadas para cada uma dessas variáveis dependentes.
+Parte desses resultados estao nos anexos.
+Após exames exaustivos desses resultados, com realização de diversos ajustes, assim como a realização de uma gama de testes, chegouse à conclusão de que os modelos de painel não eram indicados para os estudos pretendidos nesta pesquisa.
+De certa forma, é fácil perceber a inadequação desses modelos para o fenômeno em estudo.
+Para que o painel seja eficiente é necessário que as mudanças de valores de um período para outro sejam refletidos na variável dependente.
+Mas, para o caso em que a variável dependente é o um indicador desempenho inovativo, as relações de causa e efeito se desenrolam em períodos de tempos que podem ser relativamente longos (vários anos, por exemplo), o que evidentemente distorce os resultados do modelo.
+Por conta deste problema, os resultados dos modelos de painel foram considerados inconclusivos, ficando decidido que os mesmos não seriam apresentados como resultados desta pesquisa.
+Em substituição aos modelos de painel, optou-se pelo uso de um modelo econométrico mais simples, porém com resultados mais relevantes.
+Para aplicação deste modelo, foram calculados as médias temporais das variáveis para cada mesorregião, abrangendo o período de 2002 a 2012.
+Propôs-se, assim, analisar a existência de uma relação linear entre a variável dependente e suas correspondentes variáveis explicativas.
+O primeiro passo constituiu em construir uma amostra a qual se delimitou por 134 mesorregiões brasileiras.
+Recolheu-se dados das variáveis anteriormente citadas e testouse o modelo.
+Foram implementados dois modelos usando como variáveis dependentes o índice de patentes e o índice de exportação tecnológica.
+As variáveis independentes utilizadas em cada uma das situações foram as mesmas, sendo estas, as citadas e explicadas.
+O papel principal da análise estatística é estabelecer se os resultados obtidos têm significância estatística, de acordo com limites pré-estabelecidos.
+Nesse sentido, a primeira observação a ser feita no modelo foi o valor de p. De um ponto de vista mais prático, podemos afirmar que o valor de p representa a chance ou a probabilidade do efeito observado nos fenômenos ser devido ao acaso , e não aos fatores que estão sendo estudados.
+Se for observado, porSILVA , E. H.; REZENDE , L. P. F.; SOUZA , S. G. A. Inovação e economia .Economia e P olíticas Púb licas, v. 6, n. 1/2018 52exemplo, uma variável independente com valor de p igual à 0,3.
+Isso significa que a chance dessa diferença entre as médias ser devido ao acaso (e não devido a variação da variável independente) é de 30%.
+Ou seja, se afirmarmos que as diferenças entre as médias de inovação ocorrem por causa de tal variável, temos 30% de chance de estarmos enganados.
+Na grande maioria das áreas, admite-se um valor crítico de p menor ou igual a 0,05, ou seja, assume-se como margem de segurança 5% de chance de erro.
+Como no nosso estudo, o objetivo principal é encontrar as variáveis mais relevantes para explicar o fenômeno da inovação, eliminamos as variáveis as quais, em primeiro momento, apresentaram valor de p maior que 0,05.
+Das variáveis independentes restantes, as quais não eliminamos pelo teste do valor de p, é importante verificar a existência de regressão relevante entre elas.
+Caso isso ocorra, esse resultado pode influenciar a regressão entre elas e a variável dependente.
+Caso uma variável independente seja explicada pela outra, é importante montar modelos diferentes, contendo cada uma delas.
+As variáveis as quais não foram eliminadas após a consideração do valor de p, serão utilizadas como independentes em uma nova configuração do modelo.
+Para verificar o grau de utilidade de uma equação de regressão linear, os testes podem ser realizados matematicamente analisando o valor do quadrado do coeficiente de correlação (r).
+Este nos diz que percentagem de variabilidade na variável y pode ser explicada pelas variáveis xi.
+Portanto, o principal resultado analisado foi o coeficiente de determinação, r².
+Um coeficiente de determinação igual a 0,9 mostraria que 81% da variabilidade em Y é capturada pelas variáveis x1 a xi usadas na equação.
+A parte que fica por explicar representa a parte ou termo residual (e).
+Dessa forma, na última etapa deseja-se encontrar as variáveis independentes explicativas do fenômeno e a parte a qual essas variáveis são capazes de explicar na sua variação.
+A escolha desse método de análise dos dados leva em conta os pontos fortes da regressão que incluem a possibilidade de produzir uma estimativa quantitativa de efeitos líquidos no fenômeno em estudo.
+Portanto, podemos quantificar a importância de cada especificidade regional para o avanço inovativo e, dessa forma, detectar as razões para o sucesso ou insucesso do progresso tecnológico em determinadas regiões.
+Por exemplo, a mesorregião da zona da mata, na qual se encontra o município de Viçosa, apresenta53números expressivos de formação superior e P&D universitário, no entanto, o progresso da inovação é limitado.
+A partir do modelo calculado, procurase encontrar a resposta de como o ensino universitário afeta a inovação e quais fatores essenciais não estão presentes nessa mesorregião, limitando seu avanço.
+3 Análise dos resultados Na primeira parte, todos os cálculos foram realizados com relação ao primeiro indicador, o índice de patentes.
+O ranking das mesorregiões com relação a inovatividade de acordo com esse indicador é apresentado a seguir.
+1 Nordeste Rio-Grandense (RS) 2 Araraquara (SP) 3 Marília (SP) 4 Metropolitana de Curitiba (PR) 5 Campinas (SP) 6 Grande Florianópolis (SC) 7 Norte Catarinense (SC) 8 Metropolitana de São Paulo (SP) 9 Metropolitana de Belo Horizonte (MG) 10 Vale do Itajaí (SC) 11 Piracicaba (SP) 12 Mata Paraibana (PB) 13 Metropolitana de Porto Alegre (RS) 14 Macro Metropolitana Paulista (SP) 15 Centro Oriental Paranaense (PR) 16 Vale do Paraíba Paulista (SP) 17 Oeste Catarinense (SC) 18 Norte Central Paranaense (PR) 19 Ribeirão Preto (SP) 20 Metropolitana do Rio de Janeiro (RJ) 21 Distrito Federal (DF) 22 Sul Catarinense (SC) 23 Central Espírito-santense (ES) 24 Noroeste Rio-Grandense (RS) 25 São José do Rio Preto (SP) 26 Presidente Prudente (SP) 27 Centro Fluminense (RJ) 28 Sudoeste Paranaense (PR) 29 Bauru (SP) 30 Araçatuba (SP) 31 Norte Fluminense (RJ) 32 Itapetininga (SP) 33 Oeste Paranaense (PR)34 Centro Goiano (GO) 35 Metropolitana de Fortaleza (CE) 36 Triângulo Mineiro/Alto Paranaíba (MG) 37 Centro Ocidental Rio-Grandense (RS) 38 Zona da Mata (MG) 39 Oeste de Minas (MG) 40 Centro-Sul Paranaense (PR) 41 Leste Potiguar (RN) 42 Assis (SP) 43 Metropolitana de Recife (PE) 44 Serrana (SC) 45 Sul/Sudoeste de Minas (MG) 46 Centro Amazonense (AM) 47 Centro Oriental Rio-Grandense (RS) 48 Metropolitana de Salvador (BA) 49 Centro Norte de Mato Grosso do Sul (MS) 50 Sudeste Rio-Grandense (RS) 51 Central Mineira (MG) 52 Centro-Sul Mato-Grossense (MT) 53 Baixadas (RJ) 54 Centro Ocidental Paranaense (PR) 55 Leste Sergipano (SE) 56 Sudeste Paranaense (PR) 57 Campo das Vertentes (MG) 58 Sul Fluminense (RJ) 59 Vale do Rio Doce (MG) 60 Litoral Norte Espírito-santense (ES) 61 Noroeste Paranaense (PR) 62 Sudeste Mato-Grossense (MT) 63 Sul Espírito-santense (ES) 64 Sudoeste Mato-Grossense (MT) 65 Litoral Sul Paulista (SP)SILVA , E. H.; REZENDE , L. P. F.; SOUZA , S. G. A. Inovação e economia .Economia e P olíticas Púb licas, v. 6, n. 1/2018 5466 Sul Goiano (GO) 67 Noroeste Goiano (GO) 68 Metropolitana de Belém (PA) 69 Sudoeste Rio-Grandense (RS) 70 Noroeste Espírito-santense (ES) 71 Madeira-Guaporé (RO) 72 Oriental do Tocantins (TO) 73 Centro-Norte Piauiense (PI) 74 Norte de Roraima (RR) 75 Norte Mato-Grossense (MT) 76 Agreste Paraibano (PB) 77 Norte de Minas (MG) 78 Leste Rondoniense (RO) 79 Leste Alagoano (AL) 80 Leste de Mato Grosso do Sul (MS) 81 Sudoeste de Mato Grosso do Sul (MS) 82 Nordeste Mato-Grossense (MT) 83 Agreste Sergipano (SE) 84 Sul do Amapá (AP) 85 Vale do Mucuri (MG) 86 Sul Baiano (BA) 87 Norte Maranhense (MA) 88 Leste Goiano (GO) 89 Norte Goiano (GO) 90 Norte Pioneiro Paranaense (PR) 91 Extremo Oeste Baiano (BA) 92 Noroeste Fluminense (RJ) 93 Vale do Acre (AC) 94 Noroeste de Minas (MG) 95 Centro Norte Baiano (BA) 96 Sul Cearense (CE) 97 Noroeste Cearense (CE) 98 Vale São-Franciscano da Bahia (BA) 99 Central Potiguar (RN)100 Mata Pernambucana (PE) 101 Oeste Potiguar (RN) 102 São Francisco Pernambucano (PE) 103 Jaguaribe (CE) 104 Oeste Maranhense (MA) 105 Sul de Roraima (RR) 106 Jequitinhonha (MG) 107 Nordeste Baiano (BA) 108 Agreste Alagoano (AL) 109 Centro Sul Baiano (BA) 110 Agreste Pernambucano (PE) 111 Sudeste Paraense (PA) 112 Sertão Pernambucano (PE) 113 Baixo Amazonas (PA) 114 Norte Piauiense (PI) 115 Norte Cearense (CE) 116 Ocidental do Tocantins (TO) 117 Sul Maranhense (MA) 118 Agreste Potiguar (RN) 119 Centro Maranhense (MA) 120 Leste Maranhense (MA) 121 Sertão Paraibano (PB) 122 Borborema (PB) 123 Centro-Sul Cearense (CE) 124 Marajó (PA) 125 Nordeste Paraense (PA) 126 Pantanais Sul Mato-Grossenses (MS) 127 Sertão Alagoano (AL) 128 Sertão Sergipano (SE) 129 Sertões Cearenses (CE) 130 Sudeste Piauiense (PI) 131 Sudoeste Amazonense (AM) 132 Sudoeste Paraense (PA) 133 Sudoeste Piauiense (PI) 134 Sul Amazonense (AM) 55A partir dos resultados da primeira regressão linear múltipla, temos a resposta de quais variáveis não serão relevantes no estudo, para o indicador de patentes.
+Os valores de p encontrados são apresentados na tabela a seguir: Tabela 4 - Valores de p das variáveis independentes analisadas Portanto, as variáveis consideradas relevantes (valor de p menor que 5%) para explicar a variação da dependente são o indicador de baixa tecnologia, indicador de especialização 2, P&D universitário e PIB per capita.
+Foram realizados testes de regressão entre essas, e os resultados obtidos não foram relevantes (r² maior que 50%), o que demonstra a possibilidade de termos todas elas em uma nova configuração do modelo.
+Tabela 5 - Coeficiente de determinação entre as variáveis explicativas relevantes Portanto, nenhuma das variáveis relevantes tem sua variação explicada por outra.
+Outro resultado importante, é o da regressão linear simples entre y, e cada xi.
+Tal resultado não pode ser relevante para as variáveis as quais SILVA , E. H.; REZENDE , L. P. F.; SOUZA , S. G. A. Inovação e economia .Economia e P olíticas Púb licas, v. 6, n. 1/2018 56foram eliminadas no primeiro teste do valor de p, o que configuraria um erro no modelo.
+A tabela a seguir possui o coeficiente de determinação de cada uma: Tabela 6 - Coeficiente de determinação das regressões lineares simples entre y e xi O último resultado relevante foi o resultado da regressão entre o indicador de inovação representado por patentes e as variáveis as quais foram consideradas relevantes na primeira etapa do estudo e, dessa forma, almeja-se encontrar o quanto o modelo montado foi capaz de explicar a variação dos dados.
+Regressão Linear Múltipla Final: Tabela 7 - Estatística de regressão Tabela 8 - Resultados da regressão múltipla para o indicador de patentes 57Podemos observar que o indicador de baixa tecnologia e o índice de especialização possuem coeficientes negativos.
+Isso já era esperado para o indicador de baixa tecnologia, que tem influência negativa sobre a inovação.
+Já em relação ao indicador de especialização, como foi citado na metodologia, foi calculado de forma que quanto maior for seu valor, mais especializada é a configuração industrial.
+Seu coeficiente negativo indica uma correlação negativa entre a especialização e a inovação, mas uma correlação positiva entre a diversificação do setor industrial e a inovação, respondendo assim a questão inicial do melhor quadro para avanço tecnológico.
+Na segunda parte, foi usado o segundo indicador de inovação e competitividade escolhido, a exportação tecnológica por mesorregião.
+Um novo ranking foi construído e é apresentado abaixo.
+1 Vale do Paraíba Paulista (SP) 2 Centro Amazonense (AM) 3 Norte de Minas (MG) 4 Agreste Pernambucano (PE) 5 Campinas (SP) 6 Marília (SP) 7 Macro Metropolitana Paulista (SP) 8 Piracicaba (SP) 9 Litoral Sul Paulista (SP) 10 Norte Catarinense (SC) 11 Campo das Vertentes (MG) 12 Sul Cearense (CE) 13 Zona da Mata (MG) 14 Nordeste Rio-Grandense (RS) 15 Metropolitana de Curitiba (PR) 16 Metropolitana de São Paulo (SP) 17 Itapetininga (SP) 18 Metropolitana de Salvador (BA) 19 Sul Amazonense (AM) 20 Noroeste Rio-Grandense (RS) 21 Metropolitana de Belém (PA) 22 Noroeste Fluminense (RJ) 23 Metropolitana de Porto Alegre (RS) 24 Araraquara (SP) 25 Norte Maranhense (MA) 26 Metropolitana do Rio de Janeiro (RJ) 27 Norte Fluminense (RJ) 28 Bauru (SP) 29 Araçatuba (SP) 30 Sul Fluminense (RJ) 31 Metropolitana de Belo Horizonte (MG) 32 Norte Piauiense (PI) 33 Metropolitana de Recife (PE) 34 Leste Sergipano (SE) 35 Oeste Paranaense (PR)36 Grande Florianópolis (SC) 37 Ribeirão Preto (SP) 38 Sudeste Rio-Grandense (RS) 39 Norte de Roraima (RR) 40 Distrito Federal (DF) 41 Sul/Sudoeste de Minas (MG) 42 Leste Maranhense (MA) 43 Norte Pioneiro Paranaense (PR) 44 Assis (SP) 45 Sul Catarinense (SC) 46 Vale do Acre (AC) 47 Vale do Itajaí (SC) 48 Leste Alagoano (AL) 49 Centro Ocidental Rio-Grandense (RS) 50 Oeste de Minas (MG) 51 Centro Fluminense (RJ) 52 Oeste Catarinense (SC) 53 Sudeste Paranaense (PR) 54 Agreste Sergipano (SE) 55 Centro Maranhense (MA) 56 Metropolitana de Fortaleza (CE) 57 Triângulo Mineiro/ Alto Paranaíba (MG) 58 Serrana (SC) 59 Norte Central Paranaense (PR) 60 Sudoeste de Mato Grosso do Sul (MS) 61 Baixadas (RJ) 62 Centro Goiano (GO) 63 Centro Oriental Paranaense (PR) 64 Jequitinhonha (MG) 65 Sul Goiano (GO) 66 Madeira-Guaporé (RO) 67 Pantanais Sul Mato-Grossenses (MS) 68 São José do Rio Preto (SP) 69 Presidente Prudente (SP)SILVA , E. H.; REZENDE , L. P. F.; SOUZA , S. G. A. Inovação e economia .Economia e P olíticas Púb licas, v. 6, n. 1/2018 5870 Borborema (PB) 71 Centro Oriental Rio-Grandense (RS) 72 Centro Norte Baiano (BA) 73 Central Mineira (MG) 74 Sertão Paraibano (PB) 75 Centro-Sul Paranaense (PR) 76 Sudoeste Rio-Grandense (RS) 77 Centro Norte de Mato Grosso do Sul (MS) 78 Sudeste Paraense (PA) 79 Noroeste Paranaense (PR) 80 Centro Ocidental Paranaense (PR) 81 Central Potiguar (RN) 82 Leste Potiguar (RN) 83 Central Espírito-santense (ES) 84 Mata Paraibana (PB) 85 Nordeste Mato-Grossense (MT) 86 Leste Goiano (GO) 87 Sudoeste Paranaense (PR) 88 Noroeste de Minas (MG) 89 Centro-Norte Piauiense (PI) 90 Sudeste Piauiense (PI) 91 Centro-Sul Mato-Grossense (MT) 92 Leste de Mato Grosso do Sul (MS) 93 Litoral Norte Espírito-santense (ES) 94 Extremo Oeste Baiano (BA) 95 Sul do Amapá (AP) 96 Sudeste Mato-Grossense (MT) 97 Sul Baiano (BA) 98 Agreste Paraibano (PB) 99 Vale São-Franciscano da Bahia (BA) 100 Vale do Rio Doce (MG) 101 Sudoeste Paraense (PA) 102 Sul Espírito-santense (ES)103 Centro Sul Baiano (BA) 104 Mata Pernambucana (PE) 105 Oeste Potiguar (RN) 106 Vale do Mucuri (MG) 107 Norte Cearense (CE) 108 Noroeste Cearense (CE) 109 Leste Rondoniense (RO) 110 São Francisco Pernambucano (PE) 111 Oeste Maranhense (MA) 112 Baixo Amazonas (PA) 113 Jaguaribe (CE) 114 Nordeste Baiano (BA) 115 Agreste Alagoano (AL) 116 Noroeste Espírito-santense (ES) 117 Norte Mato-Grossense (MT) 118 Oriental do Tocantins (TO) 119 Nordeste Paraense (PA) 120 Norte Goiano (GO) 121 Sudoeste Mato-Grossense (MT) 122 Noroeste Goiano (GO) 123 Sertão Sergipano (SE) 124 Sul Maranhense (MA) 125 Ocidental do Tocantins (TO) 126 Agreste Potiguar (RN) 127 Centro-Sul Cearense (CE) 128 Marajó (PA) 129 Sertão Alagoano (AL) 130 Sertão Pernambucano (PE) 131 Sertões Cearenses (CE) 132 Sudoeste Amazonense (AM) 133 Sudoeste Piauiense (PI) 134 Sul de Roraima (RR) 59Os cálculos subsequentes foram realizados da mesma forma que anteriormente explicados.
+Os resultados: Tabela 9 - Valores de p das variáveis independentes analisadas Portanto, nesse caso, apenas o indicador de baixa tecnologia e o P&D industrial serão relevantes.
+Tabela 10 - Coeficiente de determinação entre as variáveis explicativas relevantes Tabela 11 - Tabela 6 - Coeficiente de determinação das regressões lineares simples entre y e xi Portanto, sendo as duas varáveis explicativas não relacionadas, a nova configuração do modelo conterá ambas.
+Os resultados da regressão final SILVA , E. H.; REZENDE , L. P. F.; SOUZA , S. G. A. Inovação e economia .Economia e P olíticas Púb licas, v. 6, n. 1/2018 60para o indicador calculado com base na exportação de produtos de alta tecnologia: Tabela 12 - Estatística de regressão Tabela 13 - Resultados da regressão múltipla para o indicador de exportação Conclusões e Discussão A inovação depende de um conjunto grande de fatores para que ocorra.
+Analisando o processo no qual ela ocorre, percebe-se que, regionalmente, existem diversos elementos que podem ser influências positivas ou negativas nos resultados do progresso tecnológico.
+Em busca desses elementos, no presente trabalho, algumas conclusões importantes foram alcançadas.
+Escolhidas as variáveis proxies da inovação e ranqueadas as mesorregiões através desses indicadores foi possível observar que o desempenho inovativo das mesorregiões é um fenômeno que muda de forma gradativa de uma unidade para outra, indicando que as variáveis explicativas para esse fenômeno podem mudar de forma gradativa.
+Isso sugere que as variáveis independentes, nesse caso, não formam o cluster de causalidade, podendo elas atuarem de forma individual.
+Ou seja, as causalidades são sistêmicas.
+Dentre essas variáveis causais, as quais foram consideradas relevantes, podemos observar que elas não estão correlacionadas entre si, o que reforça a tese de que não há um cluster de causalidades, ou seja, elas atuam de forma separada para criação do ambiente institucional local propenso a inovação.
+61Considerando os dois modelos testados, outra conclusão importante é que, de fato, o indicador de patentes foi aquele que melhor se adaptou ao modelo e logo, é a proxy que representa melhor a inovação das mesorregiões, apresentando maior correlação com todas as variáveis separadas e em conjunto.
+Logo, a análise final será realizada a partir desse indicador e as conclusões mais importantes em relação as especificidades serão tiradas da análise feita a partir dele.
+A análise feita a partir do indicador de exportação não foi relevante, sendo seu resultado final capaz de explicar apenas 23% das variações do próprio indicador.
+Podemos dizer que o desempenho inovativo em nível mesorregional depende apenas de quatro variáveis, sendo elas a pesquisa e desenvolvimento universitário, a diversificação da configuração industrial, a porcentagem de baixa tecnologia na produção e o PIB por habitante, sendo observada uma correlação positiva entre P&D universitário, PIB per capita e diversificação industrial e a inovação e uma correlação negativa entre o nível de baixa tecnologia da economia e a inovação.
+Ou seja, a pesquisa, a renda e a diversificação industrial funcionam de modo a impulsionar o progresso tecnológico enquanto a existência de maior predominância de setores de menor tecnologia em certa região funciona como empecilho a mudança inovativa.
+Essas quatro variáveis foram capazes de explicar, em conjunto, cerca de 50% das variações no nível tecnológico das regiões o que, consequentemente, deixa quase metade das variações no desempenho inovativo sem uma explicação.
+Utilizando as variáveis comuns apontadas nos textos de referência e testando todas elas, essa margem sem explicação se mantem.
+O motivo mais provável para isso é que existam variáveis importantes na dimensão empresarial ou mesmo pessoal as quais não sofrem influencias das condições locais ou geográficas.
+São variáveis fora da dimensão regional e por isso não foram contempladas na pesquisa.
+Entre as variáveis explicativas do fenômeno inovativo, surpreendentemente, não se encontram os indicadores de formação superior e o P&D industrial, apontados na maioria dos estudos como relevantes.
+No método de análise, essas duas especificidades não apresentaram resultados significantes de interferência no indicador de inovatividade.
+Essa é uma novidade em relação a trabalhos de pesquisas existentes, e pode ser uma particularidade do Brasil ou decorrente doSILVA , E. H.; REZENDE , L. P. F.; SOUZA , S. G. A. Inovação e economia .Economia e P olíticas Púb licas, v. 6, n. 1/2018 62recorte regional utilizado, das mesorregiões.
+Os quatro elementos importantes para a inovação em âmbito regional encontrados na pesquisa podem ser de grande utilidade.
+Várias regiões brasileiras que buscam o desenvolvimento econômico podem encontrar no progresso técnico o melhor caminho.
+Logo, saber quais fatores faltam a elas para que esse progresso ocorra é fundamental.
+A mesorregião da Zona da Mata, por exemplo, é a décima sétima região com mais pesquisa universitária no Brasil, de acordo com o indicador utilizado no trabalho.
+Possui várias universidades referências em pesquisa, como a UFV, em Viçosa e a UFJF, em Juiz de Fora.
+Em termos de inovação, no entanto, não se encontra entre as primeiras, como se observa no ranking, sendo a trigésima oitava mesorregião mais bem colocada.
+Uma explicação possível seria a ineficiência regional em relação as outras duas variáveis explicativas: em termos de diversificação industrial, ela se encontra apenas na posição 71 do ranking e em relação ao PIB per capita, a região se localiza na posição 89 do ranking.
+Portanto, outros dois elementos da capacidade regional que possibilitariam as trocas de conhecimentos geradas nas universidades existentes não possuem grande significância localmente, o que, provavelmente, dificulta o processo.
+Ao mesmo tempo, a inovação existente na região pode ser explicada pela presença de maior volume de P&D universitário, o que comprova mais uma vez a inexistência de cluster de causalidades, ou seja, a possibilidade de que as variáveis atuem individualmente na explicação da variação.
+Nesse caso, é importante lembrar da parte das variações de inovação das regiões não explicadas pelas variáveis abordadas e que, provavelmente, encontram explicação em dimensões intra regionais, como no âmbito empresarial.
+& COCKBURN, L. The Anchor Tenant Hypothesis: Exploring the Role of Large, Local, R&D-Intensive Firms in Regional Innovation Systems .
+Queen's University, Goodes Hall, Kingston, ON, Canada.
+; SIMOES, R. BAESSA, A. R. CAMPOLINA, B., SILVA, L.63A.
+A distribuição espacial da produção científica e tecnológica brasileira: uma descrição de estatísticas de produção local de patentes e artigos científicos.
+Revista Brasileira de Inovação , Rio de Janeiro, v. 1, n.2, p. 225-251, 2002.
+ARAÚJO, V. C. Dimensão local de inovação no Brasil: determinantes e efeitos de proximidade.
+188 f. Dissertação (Mestrado) - Curso de Engenharia de Produção, Usp, São Paulo, 2013.
+Disponível <http:// www.teses.usp.br/teses/disponiveis/3/3136/tde-21102014-112745/ publico/Tese_Vezeziano.pdf>.
+Systems in a Globalizing Economy: Comparing Knowledge Bases and Institutional Frameworks in Nordic Clusters.
+Centre for Innovation, Research and Competence in the Learning Economy (CIRCLE).
+ASHEIM, B. COENEN, L. Contextualizing Regional InnovationSystems in a Globalizing Learning Economy: On Knowledge Bases and Institutional Frameworks.
+Centre for Innovation, Research and Competence in the Learning Economy (CIRCLE).
+ASHEM, Bjorn T.; GERTLER, Meric S. Regional Innovation Systems .
+In: ASHEM, Bjorn T.; GERTLER, Meric S.
+Oxford: Oxford University Press, 2005. p. 291-317.
+ASHEIM, B., GRILLITSCH, M., TRIPPL, M. Regional Innovation Systems: Past - Presence – Future.
+Centre for Innovation, Research and Competence in the Learning Economy(CIRCLE)Lund University Working Paper n. 2015/ 36.
+BARROS, F. A. F. Os Desequilíbrios Regionais da Produção Científica.
+São Paulo em Perspectiva , v. 14, n. 3, jul./set., p. 12-19, 2000.
+Sistemas de Inovação: das raízes no século XX à análise global contemporânea.
+In: RAPINI, M. S.; ALBUQUERQUE, E.M.; SILVA, L.A.(Org.)
+Economia da Ciência, Tecnologia e Inovação .
+Curitiba, Editora Prismas, 2017.SILVA , E. H.; REZENDE , L. P. F.; SOUZA , S. G. A. Inovação e economia .Economia e P olíticas Púb licas, v. 6, n. 1/2018 64CASALI, G. F., SILVA, O. M., CARVALHO, F. Sistema regional de inovação: estudo das regiões brasileiras.
+Revista Econonomia Contemporânea .
+Rio de Janeiro, v. 14, n. 3, p. 515-550.
+(1999) Globalização e inovação localizada: experiências de sistemas locais do Mercosul.
+CHARLES, D. Universities as key knowledge infrastructures in regional innovation systems.
+openurl?genre=article&issn=1351 1610&volume=19&issue=1&spage=117.
+CHEN, K. & KENNEY, M. Universities/Research Institutes and Regional Innovation Systems: The Cases of Beijing and Shenzhen.
+Presented at Universities as Drivers of the Urban Economies in Asia sponsored by the World Bank and Social Research Council.
+COOKE, P. The role of research in regional innovation systems: new models meeting knowledge economy demands.
+Internation Journal of Technology Management , vol.
+; ETXEBARRIA, G.(1998) Regional System of Innovation: an evolutionary perspective.
+Environment and Planning A vol.
+The Evaluation of Regional Innovation and Cluster Policies: Towards a Participatory Approach.
+European Planning Studies , vol.
+2001 DOLOREUXY, D. & DIONNEZ, S. Is regional innovation system development possible inperipheral regions?
+Some evidence from the case of La Pocatie' re, Canada.
+Entrepreneurship & Regional Development , 20, may, p. 259– 283.
+DOLOREUXA, D. & PARTO, S. Regional innovation systems: Current discourse and unresolved issues.
+Technological Forecasting & Social Change 92 (2015) 99–11465DUENHAS, R. A.
+& GONÇALVES, F. O. Os Principais Atores na Conformação de um Sistema Local de Inovação: um Estudo Ilustrativo do APL de Software de Curitiba como um Potencial Sistema Local de Inovação.
+Revista Brasileira de Economia de Empresa .
+ETXEBARRIA, G. & COOKE, P. Regional systems of innovation: na evolutionary perspective.
+Article in Environment and Planning , v. 30, p. 1563 – 1584.
+FREEMAN, C. The National System of Innovation: in historical perspective.
+Cambridge Journal of Economics , v.9 , n.1, p 5-24, 1995.
+FRITSCH, M. Co-operation in Regional Innovation Systems.
+2001 FRITSCH, M. & SLAVTCHEV.V.
+Determinants of the e_ciency of regional innovation systems.
+Regional Studies , Taylor & Francis (Routledge), p. 1.
+HASSINK, R. Regional Innovation Support Systems: Recent Trends in Germany and East Asia.
+European Planning Studies , Vol.
+Building R egional Innovation Systems: Is Endogenous Industrial Development Possible in the Global Economy?
+Canadian Journal of Regional Science/Revue canadienne des sciences régionales , v. XXIV, v. 1.
+SBICCA, A., PELAEZ, V. Sistemas de inovação.
+In: PELAEZ, V.; SZMRECSÁNYI, Tamás.
+Economia da Inovação Tecnológica .
+São Paulo: Hucitec, 2006 SZMRECSÁNYI, Tamás J. M. K. (2006) "A Herança Schumpeteriana".
+In: Pelaez, Victor; SZMRECSÁNYI, Tamás J. M. K.
+Economia da Inovação Tecnológica .
+São Paulo: Hucitec e Ordem dos Economistas do Brasil, pp.
+112-134.SILVA , E. H.; REZENDE , L. P. F.; SOUZA , S. G. A. Inovação e economia .Economia e P olíticas Púb licas, v. 6, n. 1/2018 66MORGAN, Kevin; NAUWELAERS, Laire (Ed.).
+Regional innovation strategies: the challenge for less favoured regions.
+276 p. Haddad, P. R.; Boisier, S.; Ferreira, C. M. C.; Andrade, T. A., Economia Regional: Teorias e Métodos de Análise.
+LAU, A. K. W. & LOB, W. Regional innovation system, absorptive capacity and innovation performance: An empirical study.
+Technological Forecasting & Social Change , v 92, p. 99–114.
+LUBECZKO, K. & RAMETSTEINER, E. The role of sectoral and regional innovation systems in supporting innovations in forestry.
+Forest Policy and Economics , v. 8, p. 704– 715.
+(1992) National systems of innovation : towards a theory of innovation and interactive learning.
+A. Análise da evolução dos sistemas regionais de inovação no brasil no período 2000 a 2011.
+Programa de Doutorado Multiinstitucional e Multidisciplinar em Difusão de Conhecimento.
+2016. http:// repositorio.ufba.br/ri/handle/ri/22476 MALERBA, F. (2002) Sectoral Systems of Innovation and Production.
+Research Policy , vol 31, n.2 February 2002.
+I. S. Políticas Regionais de Inovação em um cenário institucional fragmentado: o complexo produtivo de petróleo e gás natural no contexto do Sistema Regional de Inovação do Rio de Janeiro.
+Revista Pymes Innovación y Desarrollo , v. 4, n.1, p. 37–56.
+MONTENEGRO, R. L. G. & BERARELLI JUNIOR, a. a. Análise e investigação dos fatores determinantes da inovação nos municípios de São Paulo.
+Associação Brasileira de Estudos Regionais e Urbanos.
+MORGAN, Kevin; NAUWELAERS, Laire (Ed.).
+Regional innovation strategies: the challenge for less favoured regions.
+276 p.67MOUTINHO, R. & YONG-OLIVEIRA.
+M.The Role of Regional Innovation Systems (RIS) in Translating R&D Investments into Economic and Employment Growth.
+Journal of Technology Management and Innovation , v. 10, n. 2 2015.
+From regional innovation systems to local innovation systems: evidence from Italian industrial districts.
+European Planning Studies , v. 14, n. 6.
+National innovation systems: a comparative analysis.
+New York, Oxford University., 1993.
+Regional innovation strategies in the knowledge-based economy.
+PAVÃO, P. N. R. Os determinantes da capacidade regional de inovação nas regiões periféricas da união europeia.
+Dissertação para obtenção do grau de Mestre em Gestão de Empresas (MBA) da UNIVERSIDADE DOS AÇORES.
+2014 SANTOS, U. P. Aspectos regionais da atividade tecnológica de empresas multinacionais no brasil.
+Revista de Desenvolvimento Econômico , v. 3, n. 35.
+SBICCA, A.; PELAEZ, V.(2006) Sistemas de Inovação.
+In: PELAEZ, V.; SZMRECSÁNYI, T.
+Economia da inovação tecnológica.
+(1911) Teoria do Desenvolvimento Econômico.
+São Paulo: Abril Cultural, Col. Os Economistas, 1982.
+SOEIRO, F. C. Essays in Regional Innovation Systems, Knowledge Economy and Policy-Making: An applied perspective to European contexto.
+Tese para obtenção do Grau de Doutor em Economia.
+UNIVERSIDADE DA BEIRA INTERIOR UNIVERSIDADE DE ÉVORA.
+SOUZA, N. J. TEORIA DOS PÓLOS, REGIÕES INTELIGENTES E SISTEMASSILVA , E. H.; REZENDE , L. P. F.; SOUZA , S. G. A. Inovação e economia .Economia e P olíticas Púb licas, v. 6, n. 1/2018 68REGIONAIS DE INOVAÇÃO.
+Análise , Porto Alegre, v. 16, n. 1, p. 87-112 , jan/jul.
+2005 SUZIGAN, W., GARCIA, R. FURTADO, J. Clusters ou sistemas locais de produção e inovação: identificação, caracterização e medidas de apoio.
+SZMRECSÁNYI, Tamás J. M. K. (2006) "A Herança Schumpeteriana".
+In: Pelaez, Victor; SZMRECSÁNYI, Tamás J. M. K.
+Economia da Inovação Tecnológica .
+São Paulo: Hucitec e Ordem dos Economistas do Brasil, pp.
+VELOSO FILHO, F. A., NOGUEIRA, J. M. Sistemas de inovação e promoção tecnológica regional e local no Brasil.
+Revista Internacional de Desenvolvimento Local , vol.
+VIELBA, I. R., ESQUINAS, M., F., MONTEIROS, E. E. F. Measuring university– industry collaboration in a regional innovation system.
+Scientometrics , n. 84, p. 649–667.
+APÊNDICE A – Tabelas Tabela - media - evolução das variáveis no período 2002-2012 69 SILVA , E. H.; REZENDE , L. P. F.; SOUZA , S. G. A. Inovação e economia .Economia e P olíticas Púb licas, v. 6, n. 1/2018 70APÊNDICE B – Extratos dos modelos de painel 71APÊNDICE C - Mapas SILVA , E. H.; REZENDE , L. P. F.; SOUZA , S. G. A. Inovação e economia .Economia e P olíticas Púb licas, v. 6, n. 1/2018 72 73 SILVA , E. H.; REZENDE , L. P. F.; SOUZA , S. G. A. Inovação e economia .Economia e P olíticas Púb licas, v. 6, n. 1/2018 74

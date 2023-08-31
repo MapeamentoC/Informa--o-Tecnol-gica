@@ -1,0 +1,314 @@
+ _ _ Copyright: Esta obra está licenciada com uma Licença Creative Commons Atribuição 4.0 Internacional.
+Etapas do ciclo de vida das patentes deposi tadas no INPI com base na s revistas de propriedade industria l Stages of the patents 'life cycle deposited at INPI based on industrial property journals Rene Faustino Gabriel Junior1 Ana Maria Mielniczuk de Moura2 Thiago Monteiro Alves3 Fernanda Bochi4 Felipe Grando Brandão 5 Fabiano Couto Correa 6 Resumo: Os documentos de patentes são importantes fontes de informação para análise da produção tecnológica de uma nação.
+Compreender o Ciclo de Vida das Patentes (CVP) é de suma importância para compreender a produção tecnológica.
+Este trabalho tem como objetivo geral compreender as etapas (despachos) de tramitação de pedidos de patentes depositados no escritório brasileiro de patentes (INPI).
+Para melhor atender este objetivo, desmembrou -se nos seguintes objetivos específicos: a) quantificar os pedidos de patente s pelas seções mais representativas da RPI; b) identificar o ciclo de tramitação no INPI; c) identificar o tempo de tramitação dos pedidos de registro.
+Como metodologia, o estudo utilizou os documentos disponibilizados em arquivos abertos da Revista da Pro priedade Industrial (RPI) do INPI.
+Utilizando recursos computacionais foi possível processar os arquivos e gerar indicadores para esta pesquisa, utilizando o software estatístico R. Dos resultados obtidos, destaca -se a produção 1 Doutor em Ciência da Informação .
+Universidade Federal do Rio Grande do Sul (PPGCIN -UFRGS ).
+2 Doutora em Comunicação e Informação .
+Universidade Federal do Rio Grande do Sul (PPGCIN -UFRGS ).
+Faculdad e de Biblioteconomia e Comunicação da Universidade Federal do Rio Grande do Sul (FABICO -UFRGS ).
+4 Doutoranda em Ciência da Informação .
+Universidade Estadual Paulista Júlio de Mesquita Filho (PPGCIUNESP ).
+-0001 -9723 -656X 6 Doutor em Información y documentación Sociedad Conocimiento .
+Universidade Federal do Rio Grande do Sul (PPGCIN -UFRGS ).
+ETAPAS DO CICLO DE VIDA DAS PATENTES DEPOSITADAS NO INPI COM BASE NA REVISTAS DE PROPRIEDADE INDUSTRIAL Rene Faustino Gabriel Junior, Ana Maria Mielniczuk de Moura, Thiago Monteiro Alves, Fernanda Bochi, Felipe Grando Brandão, Fabiano Couto Correa Tendências da Pesquisa Brasileira e Ciência da Informação, ANCIB , v. 13, n. 1 .
+2020. do CVP com base nas principa is tramitações registradas nos fascículos da revista, possibilitando uma visão global deste fluxo.
+Também foi possível identificar a redução do tempo de tramitação para a concessão das patentes e aumento do número de concessões a partir de 2010.
+Este estud o confirmou a possibilidade do uso dos arquivos abertos da RPI para pesquisa, e i nstigou algumas questões sobre o fluxo das patentes no Brasil .
+Abstract: Patent documents are important sources of information for analyzing a nation's technological output.
+Understanding the Life Cycle of Patents (CVP) is of paramount importance for understanding technological production.
+This work has as general objective to understand the steps (orders) of patent application filled in the Brazilian patent office (INPI).
+To best meet this objective, breaking down the following specific objectives: a) quantify patent applications by the main representatives of RPI; b) identify the processing cycle at the INPI; c) identify the processing time for registration requests.
+With methodology, the study uses the documents made available in open files of the INPI Magazine of Industrial Property (RPI).
+Using computational resources, it was possible to process the files and generate indicators for this research, using the statistical software R. From the results collected, CVP production stands out based on the main procedures mentioned in the magazine's issues, allowing a global view of this flow.
+It was also possible to identify a reduction in the processing time for granting patents and an increase in the number of concessions as of 2010.
+This study confirmed the possibility of using RPI's open files for research and instigated some questions about the flow o f applications patents in Brazil .
+1 INTRODUÇÃO Os documentos de patentes são importantes fontes de informação da produção tecnológica de um país, região, instituição, depositante ou inventor.
+A compreensão do Ciclo de Vida das Patentes (CVP) é de suma importância para que os pesquisadores possam estuda r a produção tecnológica, principalmente nas patentes Brasileiras.
+É fato afirmar que existem diversos modelos de fluxos e de documentos técnicos disponíveis na internet e na rede mundial de computadores (World Wide Web, do inglês), explicitando como ocorr e a tramitação dos pedidos de patentes depositadas no Brasil, entretanto esses são modelos conceituais, e não baseados em dados reais da tramitação no cenário brasileiro.
+A proposta deste trabalho é identificar o ciclo de vida das patentes (CVP) de acordo com os despachos publicados na Revista da Propriedade Industrial do Instituto Nacional de Propriedade Industrial (INPI) no período de 1992 a 2020.
+O INPI, autarquia do governo federal brasileiro, é o órgão responsável por operar as normas que regulam a pro priedade industrial no país, conforme previsto no Art.
+2º da ETAPAS DO CICLO DE VIDA DAS PATENTES DEPOSITADAS NO INPI COM BASE NA REVISTAS DE PROPRIEDADE INDUSTRIAL Rene Faustino Gabriel Junior, Ana Maria Mielniczuk de Moura, Thiago Monteiro Alves, Fernanda Bochi, Felipe Grando Brandão, Fabiano Couto Correa Tendências da Pesquisa Brasileira e Ciência da Informação, ANCIB , v. 13, n. 1 .
+Lei nº 5.648, de 11 de dezembro de 1970.
+De forma a divulgar informações referentes aos pedidos de propriedade industrial que estão em tramitação, em meados de 1972 o INPI passou a publicar a Rev ista da Propriedade Industrial (RPI), veículo de comunicação seriada oficial (BRASIL, 2017).
+Entre 1972 e 2005 a revista era publicada no formato impresso, a qual passou por diversas reestruturações neste período.
+Foi então a partir de 2005, que os fascícu los da RPI deixaram de ser publicados em papel e passaram a ser disponibilizados em formato eletrônico e de acesso aberto no portal eletrônico do INPI.
+Entretanto, mesmo em formato digital, a publicação refletia muito o modelo impresso, impossibilitando o processamento das informações disponibilizadas na revista, sendo necessário recorrer ao portal para consultas específicas de uma patente.
+A partir de agosto de 2019, o INPI começou a disponibilizar todo o conteúdo da revista em acesso aberto, em arquivos e m formato .txt passíveis de serem processados por máquina.
+A estrutura da RPI é organizada a partir dos códigos de despacho, sendo um código para tramitação dentro do INPI, podendo ser considerado o último despacho a situação da tramitação.
+Como, por exemp lo, o código de despacho 2.10, o qual identifica a notificação do requerimento de pedido de patente ou de certificado de a dição de invenção (BRASIL, 2017, [2020]).
+Neste contexto da informação em acesso aberto, parte -se da seguinte problemática: de que for ma se pode identificar o fluxo de tramitação das patentes requeridas no Brasil, a partir dos despachos da RPI?
+Para responder a este problema, a pesquisa tem como objetivo geral compreender as etapas (despachos) de tramitação dos pedidos de patentes deposi tados no escritório brasileiro de patentes (INPI).
+Para melhor atender este objetivo, estabeleceu -se os seguintes objetivos específicos: a) quantificar os pedidos de patentes pelas seções mais representativas da RPI; b) identificar o ciclo de tramitação no INPI; c) identificar o tempo de tramitação dos pedidos de registro.
+Justifica -se esta pesquisa pela necessidade do Grupo de Pesquisa Núcleo de Estudos em Ciência, Inovação e Tecnologia (NECIT - UFRGS) na compreensão real da tramitação das requisições de patentes no território brasileiro, de forma a compreender a completude do ciclo de vida dessas patentes.
+Os resultados poderão subsidiar novas ETAPAS DO CICLO DE VIDA DAS PATENTES DEPOSITADAS NO INPI COM BASE NA REVISTAS DE PROPRIEDADE INDUSTRIAL Rene Faustino Gabriel Junior, Ana Maria Mielniczuk de Moura, Thiago Monteiro Alves, Fernanda Bochi, Felipe Grando Brandão, Fabiano Couto Correa Tendências da Pesquisa Brasileira e Ciência da Informação, ANCIB , v. 13, n. 1 .
+2020. pesquisas sobre o tema, e contribuir como fonte de informação relevante e confiável , bem como contribuir para a formação de novos pesquisadores na área dentro da PósGraduação brasileira em Ciência da Informação (CI), assim como estabelecer reflexões sobre os estudos patentométricos .
+2 REFERENCIAL TEÓRICO A Propriedade Intelectual (PI) é um amplo sistema de proteção que confere direitos legais resultantes de atividades nos campos industrial, científico, literário e artístico aos titulares destas produções.
+De um modo geral, as leis de propriedade intelectua l salvaguardam os criadores do uso e da comercialização de seus bens por determinado período de tempo, estipulado de acordo com a legislação de cada localidade e com a natureza do invento (WIPO, 2008).
+O direito especializado brasileiro divide a propriedad e intelectual em quatro tipos de criações: direitos autorais; criações industriais (que abrange patentes e desenhos industriais); softwares ; e cultivares (FRANÇA, 1 997; SILVEIRA, 2014).
+Ainda, pode -se considerar que a propriedade intelectual, fruto da açã o e da inteligência humana, divide -se em dois grandes grupos: o domínio das artes e o domínio das ciências.
+O primeiro contempla as produções do campo da literatura, da ciência e das artes.
+Por outro lado, o segundo grupo compreende as produções, os invent os do campo da indústria.
+Outra divisão aceita é a seguinte: direitos autorais, propriedade industrial e proteção sui generis.
+Abaixo a figura 1 ilustra esse terceiro panorama.
+Figura 1 - Propriedade Intelectual e as suas subdivisões ETAPAS DO CICLO DE VIDA DAS PATENTES DEPOSITADAS NO INPI COM BASE NA REVISTAS DE PROPRIEDADE INDUSTRIAL Rene Faustino Gabriel Junior, Ana Maria Mielniczuk de Moura, Thiago Monteiro Alves, Fernanda Bochi, Felipe Grando Brandão, Fabiano Couto Correa Tendências da Pesquisa Brasileira e Ciência da Informação, ANCIB , v. 13, n. 1 .
+Percebe -se que essas propostas possuem em comum o fato de tratarem da categorização de resultados da intervenção e da inteligência humana.
+Esse ponto é o que difere os inventos das descobertas , as quais são cons tatações de algo preexistente na natureza.
+Ou seja, considera -se invento ou criação humana algo gerado a partir da ação, da intervenção do intelecto humano acompanhado da sua respectiva expressão, seja a criação de uma partitura musical ou a criação de uma nova máquina de fiar, por exemplo.
+A patente ao ser concedida torna -se um título de propriedade temporário conferido pelo Estado, que outorga aos inventores de determinada tecnologia o direito de exclusividade para sua exploração.
+Uma tecnologia patentead a só poderá ser explorada por terceiros mediante a permissão do titular e geralmente são firmados contratos, nos quais este é recompensado pelos esforços e custos despendidos na sua criação (BRASIL, 2015 a).
+A década de 1960 foi marcada por grandes transfo rmações no cenário político brasileiro.
+Nessa época a capital do Brasil foi transferida para Brasília e o país passou por um período de desequilíbrio econômico.
+Em 1968 o Departamento Nacional de Propriedade Industrial (DNPI), órgão responsável pelos regis tros de direito de ETAPAS DO CICLO DE VIDA DAS PATENTES DEPOSITADAS NO INPI COM BASE NA REVISTAS DE PROPRIEDADE INDUSTRIAL Rene Faustino Gabriel Junior, Ana Maria Mielniczuk de Moura, Thiago Monteiro Alves, Fernanda Bochi, Felipe Grando Brandão, Fabiano Couto Correa Tendências da Pesquisa Brasileira e Ciência da Informação, ANCIB , v. 13, n. 1 .
+2020. propriedade industrial no país, não conseguia atender as demandas de solicitação de marcas e patentes, provocando uma crise no setor.
+Dois anos depois, em função da instabilidade do DNPI, criou -se o Instituto Nacional de Propriedade Indu strial (INPI) pela Lei nº 5.648, de 11 de dezembro de 1970, regulamentada pelo decreto nº 68.104, de 22 de janeiro de 1971 (BRASIL, 1971) .
+O INPI, conforme descrito na Lei nº 5.648/1970 (BRASIL, 1970), tem como função executar as normas que regulam a propriedade industrial, tendo em vista a sua função social, econômica, jurídica e técnica.
+Ele é responsável pela gestão e divulgação de direitos da propriedade industrial no âmb ito nacional (ABAPI, 1998).
+Com o avanço e amadurecimento da propriedade industrial no Brasil, o INPI começou, nos anos 80, a se informatizar e a partir de então deu -se início a produção da Revista Panorama da Tecnologia, a qual apresentava artigos sobre propriedade industrial.
+Na década de 90 o Instituto ganha a sua primeira página eletrônica na internet, tornando o Brasil pioneiro em disponibilizar uma base de dados de patentes gratuita na rede mundial de computadores.
+A base de dados de patentes do INPI compreende patentes e pedidos de patentes depositados e publicados no Brasil a partir de 1982.
+Ela permite recuperar, a partir da busca adequada, as tecnologias que se encontram patenteadas no país e permite visualizar o andamento do processo do pedido de patente depositado.
+Além disso, com a promulgação da Lei nº 9.279, de 14 de maio de 1996, algumas mudanças ocorreram no INPI que passa a oferecer concessão de patentes farmacêuticas e também registros de desenhos industriais e indicações geográficas (INPI , 2019).
+Outro grande avanço do INPI diz respeito à Revista da Propriedade Industrial (RPI).
+Embora ela tenha sido criada em janeiro de 1907, sob o título de Boletim da Propriedade Industrial, passou por várias reformulações e em 4 de abril de 1972, sob a responsabilidade do Instituto, tornou -se um veículo independente e de publicação contínua, contribuindo para a divulgação do fluxo de tramitação dos pedidos de patentes.
+A RPI, com publicação semanal, compreende a publicação: dos atos, despachos e decisõe s do INPI relacionados aos registros de Marcas, Patentes, Desenhos Industriais, Indicações Geográficas, Programas de Computador e Topografia de Circuito ETAPAS DO CICLO DE VIDA DAS PATENTES DEPOSITADAS NO INPI COM BASE NA REVISTAS DE PROPRIEDADE INDUSTRIAL Rene Faustino Gabriel Junior, Ana Maria Mielniczuk de Moura, Thiago Monteiro Alves, Fernanda Bochi, Felipe Grando Brandão, Fabiano Couto Correa Tendências da Pesquisa Brasileira e Ciência da Informação, ANCIB , v. 13, n. 1 .
+Impresso, bem como dos contratos de Transferência de Tecnologia (INPI, 2020b).
+Após a publicação da Res olução nº 117/05, de 10 de junho de 2005, a revista deixou de ser veiculada em papel, tornando -se eletrônica, o que facilitou o acesso às informações, pelos usuários, em qualquer parte do mundo.
+Mesmo com esta mudança, a forma de organização e sistematizaç ão das informações a partir de códigos de despacho para as decisões do INPI persistem desde a instituição da revista.
+Do momento da idealização de um invento até o seu depósito na forma de um pedido de patente, são identificados diversos procedimentos si stemáticos divididos em etapas que, quando colocados em um determinado contexto, geram significados amplos sobre a propriedade intelectual e os meios com os quais foram obtidos.
+Esta sistemática de etapas, quando devidamente organizada de forma diacrônica, demonstra o ciclo de vida de uma determinada invenção ou tecnologia.
+Assim como destacado por Haupt, Kloyer e Lange (2007) estes fenômenos são corriqueiramente observados a partir da evolução dos pedidos de patentes pois, além do caráter informacional des tes documentos sobre o estado da técnica, eles permitem mensurar o potencial comercial das invenções e podem ser facilmente recuperados em bases de dados especializadas em patentes.
+Na área da CI, a representação por fluxos ou ciclos de vida da ciência sã o recorrentes, esses modelos facilitam a compreensão do encaminhamento de processos ou atividades, alguns exemplos desses modelos podem ser vistos em Garvey e Griffith (1979) para representar a Comunicação Científica; o DCC Curation Lifecyle Model proposto pela Digital Curation Centre (HIGGINS, 2008) modelando o ciclo de preservação digital; ou o Research Data Lyfe cycle desenvolvido pela UK Data Service para representar o ciclo de dados de pesquisa.
+O conceito do ciclo de vida de patentes ou a abordagem metodológica para sua análise, divide as opiniões dos pesquisadores da área.
+Alguns autores comparam o ciclo de vida das tecnologias ao ciclo de vida dos produtos ( Product Life Cycle - PLC), onde podem ser observados quatro estágios do ciclo (introdução, crescimento, maturidade e declínio), mesmo que o ciclo de vida de uma patente apresente etapas anteriores ao ciclo de vida de produtos (HAUPT; KLOYER; LANGE, 2007 ; FAN; LIU; ZHU, 2017; ).
+Em ETAPAS DO CICLO DE VIDA DAS PATENTES DEPOSITADAS NO INPI COM BASE NA REVISTAS DE PROPRIEDADE INDUSTRIAL Rene Faustino Gabriel Junior, Ana Maria Mielniczuk de Moura, Thiago Monteiro Alves, Fernanda Bochi, Felipe Grando Brandão, Fabiano Couto Correa Tendências da Pesquisa Brasileira e Ciência da Informação, ANCIB , v. 13, n. 1 .
+2020. contrapartida, encontram -se autores que amp aram suas pesquisas em patentes na análise do ciclo de vida da tecnologia (GAO et al.
+, 2018), que tem como objetivo medir as mudanças tecnológicas em duas dimensões: o impacto competitivo e a integração em produtos ou processos .
+Assim como o PLC, o Ciclo de Vida da Tecnologia (TLC) também é dividida em quatro estágios: emergente, crescimento, maturidade e saturação (GAO et al.
+Taylor e Taylor (2012), afirmam que a literatura sobre TLC é confusa e incompleta e é comum os termos PLC, TLC e ciclo de vida da indústria serem empregados de forma intercambiável, ambígua e muitas vezes inadequada.
+Corroborando com estas premissas, Sha hmarichatghieh, Tolonen e Haapasalo (2015) afirmam que há uma grande proximidade entre ambas as teorias e os estágios do desenvolvimento de uma invenção, mas os critérios das investigações são completamente diferentes.
+Para os autores, eles veem os produto s de pontos de vistas diferentes: a PLC foca em analisar a receita de vendas de determinado produto ao longo do tempo, tendo como marco inicial a incorporação deste produto pelo mercado; enquanto que a TLC olha para a maturidade de uma tecnologia ao longo do tempo, desde o momento que uma nova ideia surge na equipe de desenvolvimento.
+Na literatura científica da área encontram -se ainda diversos estudos que abordam novas perspectivas metodológicas para análise de patentes.
+Em seu estudo sobre a identificaçã o de tecnologias emergentes a partir de análises cientométricas, Abercrombie, Udoeyop e Schlicher (2012) propõem um modelo de evolução de tecnologia ( Technology Evolution Model - TEM ) a partir de padrões observados nos dados da pesquisa, o que resultou em um modelo de linha do tempo dividido em nove marcos históricos ( milestones ), que retratam desde a descoberta inicial de uma tecnologia até sua publicação e análise de tendências futuras.
+Empregando os pressupostos dos marcos históricos do TEM, Pol e Ramesh koumar (201 6) utilizam -se da metodologia para identificar como o ciclo de vida de uma tecnologia impacta na estrutura das redes de colaboração.
+Embora novos métodos analíticos refinados com base nos indicadores de patentes tradicionais estejam surgindo em diferentes estudos, a metodologia de análise ETAPAS DO CICLO DE VIDA DAS PATENTES DEPOSITADAS NO INPI COM BASE NA REVISTAS DE PROPRIEDADE INDUSTRIAL Rene Faustino Gabriel Junior, Ana Maria Mielniczuk de Moura, Thiago Monteiro Alves, Fernanda Bochi, Felipe Grando Brandão, Fabiano Couto Correa Tendências da Pesquisa Brasileira e Ciência da Informação, ANCIB , v. 13, n. 1 .
+2020. de patentes a partir de indicadores de produção, citação e ligação, ainda são os métodos convencionais de descrever e estimar o estágio de evolução de uma tecnologia.
+Cabe ressaltar que neste estudo, focaremos a s análises nas etapas de tramitação dos pedidos de patentes depositadas no INPI, desde o seu requerimento a sua extinção.
+Sendo assim, não iremos identificar todo o escopo do ciclo de vida das patentes, mas sim, os processos que percorrem os pedidos de pat entes em um escritório nacional, nesse caso o escritório brasileiro (INPI).
+3 METODOLOGIA Esta pesquisa se caracteriza por ser de natureza aplicada, e utiliza indicadores quantitativos com o complemento de análise documental de forma a contextualizar a análise.
+O estudo é descritivo e emprega a patentometria como procedimento metodológico.
+Como fonte de informação para coleta de dados, utilizou -se os fascículos da RPI (REVI STA, 2021), com periodicidade semanal, acessados na página eletrônica do INPI em formato de dados abertos.
+Para automatizar o processo de coleta de dados, utilizou -se recursos de WebCrawler7 que coletou todos os arquivos .ZIP da SEÇÃO VI – PATENTES.
+Os ar quivos coletados foram importados em formato de texto (.txt) e XML (Extensible Markup Language ) gerando uma base de dados em MySQL para organização e análises dos dados.
+Todos os arquivos foram processados em linguagem PHP de forma a extrair os dados e emp regado o programa estatístico R para análise.
+Ao total foram recuperados 1.490 arquivos, contemplando as edições n. 1.132 de 11/ago./1992 até 07/ago./2020, ou seja, 29 anos.
+Dos arquivos foram extraídos os dados sobre a seção, o número do protocolo, inform ações e data de movimentação de cada pedido de patente tramitado no INPI na semana correspondente ao número publicado.
+A extração destas informações é possível porque cada arquivo contém os metadados, e esta extração gerou 1.490 arquivos em formato .CSV, p ara facilitar o processamento, com o número do protocolo, seção e número da revista.
+7 Programa de computador que navega pela rede mundial de uma forma metódica e automatizada.
+ETAPAS DO CICLO DE VIDA DAS PATENTES DEPOSITADAS NO INPI COM BASE NA REVISTAS DE PROPRIEDADE INDUSTRIAL Rene Faustino Gabriel Junior, Ana Maria Mielniczuk de Moura, Thiago Monteiro Alves, Fernanda Bochi, Felipe Grando Brandão, Fabiano Couto Correa Tendências da Pesquisa Brasileira e Ciência da Informação, ANCIB , v. 13, n. 1 .
+Para quantificar as seções mais representativas da RPI foram utilizados campos INID com a identificação da seção (CD), o número da requisição (11) e o número da revista (c om a data de publicação.
+Ao final foram identificados um total de 4.150.518 tramitações.
+Para processar esta quantidade de registros foi utilizado o programa estatístico R. O primeiro indicador gerado consistiu na data e frequência total de cada seção de f orma geral , e em um segundo indicador com a data e frequência total de cada fascículo, de forma a possibilitar uma análise diacrônica de cada seção.
+Os gráficos também foram gerados pelo R. 4 RESULTADOS E DISCUSSÕES Após o processamento dos metadados da revista RPI do INPI foram identificados 237.444 pedidos de patentes, e na tabela 1 pode -se observar os valores absolutos das principais seções de publicação.
+Observa -se nesta tabela que, os códigos de despachos que apr esentaram maior ocorrência foram 1.1, 2.1 e 3.1 que tiveram respectivamente 447.559 , 237.444 e 107.647 solicitações.
+O despacho 1.1 refere -se a comunicação da publicação internacional dos pedidos de depósito internacional realizados conforme as condições estabelecidas pelo Tratado de Cooperação de Patentes (PCT).
+O PCT facilita com que os titulares estendam a proteção dos seus inventos a todos os países signatários desse tratado.
+Um dos benefícios do PCT é estender o prazo de 12 meses previsto na Convenção da União de Paris (CUP) destinado à entrada em fases nacionais nos países membros da CUP.
+Desse modo, ao realizar um depósito via PCT conquista -se o prazo de 30 meses para entrar em fases nacionais.
+Ou seja, ao invés de apenas 12 meses os titulares passam a contar com 30 meses para realizarem os depósitos nos territórios participantes do PCT.
+Isso favorece que um mesmo invento seja protegido em mais de um território ao redor do mundo.
+É importante ressaltar que para pleitear a proteção nos demais territóri os é necessário realizar os respectivos depósitos nesses territórios, um dos benefícios do PCT é estender o prazo hábil para se realizar esses depósitos em territórios nacionais.
+Entretanto, ele (PCT) não substitui os mesmos.
+ETAPAS DO CICLO DE VIDA DAS PATENTES DEPOSITADAS NO INPI COM BASE NA REVISTAS DE PROPRIEDADE INDUSTRIAL Rene Faustino Gabriel Junior, Ana Maria Mielniczuk de Moura, Thiago Monteiro Alves, Fernanda Bochi, Felipe Grando Brandão, Fabiano Couto Correa Tendências da Pesquisa Brasileira e Ciência da Informação, ANCIB , v. 13, n. 1 .
+Ao se comparar a origem dos re querentes de patentes de invenção no território brasileiro percebe -se a predominância dos depositantes não residentes, ou seja não nacionais.
+Conforme dados do INPI, em 2019 foram realizados 19.932 depósitos de pedidos de patente de invenção por não reside ntes.
+Isso corresponde aproximadamente 78% do total de depósitos.
+Por outro lado, os residentes foram responsáveis por 5.464 pedidos do total de 25.396 depósitos de pedidos de patente de invenção (INPI, 2020a).
+Esse comportamento já foi observado em anos a nteriores (MOURA et al.
+Isso em parte justifica ser a seção, despacho 1.1, com maior número de ocorrências, e um forte interesse internacional no uso de suas invenções no Brasil.
+Convém lembrar que os depósitos via PCT podem ser realizados por resi dentes e não residentes.
+O despacho 2.1 refere -se ao início da análise prévia de requisições de patentes oriundas do Brasil.
+Destaca -se que nesta seção podem estar invenções de pessoas e empresas brasileiras, bem como pessoas e empresas internacionais que optaram em requerer as patentes diretamente no Brasil, sem utilizar o canal PCT.
+Desse modo, os pedidos realizados pela via PCT são contabilizados no despacho 1.1.
+Na tabela 1 destacase também a seção 2.10, sendo como uma seção complementar a seção 2.1, e la foi implementada a partir de 2011, com a necessidade de análises prévias a fim de atender as exigências das condições estabelecidas no artigo 19 da Lei 9.279/96 correspondente ao exame formal do pedido (INPI , 201 5a).
+Tabela 1 – Frequência das seções com maior incidência registradas na Revista d a Propriedade Industrial do INPI no período de 18 de agosto de 1992 e 07 de julho de 2020 Seção Descrição Frequência 1.1 Publicação Internacional – PCT.
+Apresentação de petição de requerimento de entrada na fase nacional 447.559 2.1 Pedido de patente ou certificado de adição de invenção depositado/ protocolizado 237.444 2.10 Requerimento de Pedido de Patente ou Certificado de Adição de Invenção 107.647 3.1 Publicação do Pedido de Patente ou de Certificado de Adição de Invenção 235.345 3.2 Publicação antecipada 18.817 6.1 Exigência técnica 93.592 6.6 Exigência Formal 131.808 7.1 Conhecimento de Parecer Técnico 92.942 ETAPAS DO CICLO DE VIDA DAS PATENTES DEPOSITADAS NO INPI COM BASE NA REVISTAS DE PROPRIEDADE INDUSTRIAL Rene Faustino Gabriel Junior, Ana Maria Mielniczuk de Moura, Thiago Monteiro Alves, Fernanda Bochi, Felipe Grando Brandão, Fabiano Couto Correa Tendências da Pesquisa Brasileira e Ciência da Informação, ANCIB , v. 13, n. 1 .
+8.x Arquivamento (diversos motivos) 182.913 9.1 Deferimento do parecer técnico 7.865 11.1 Arquivado o pedido uma vez que não foi requerido o pedido de exame 71.334 16.1 Concessão de Patente ou Certificado de Adição de Invenção 113.669 21.x Extinção da Patente 74.812 Fonte: dados da Pesquisa (2020).
+O gráfico 1 apresenta o número dos fascículos da revista RPI e a frequência dos despachos das seções 2.1 - Pedido de Patente ou Certificado de Adição de Invenção depositado; 3.1 - Publicação do Pedido de Patente ou de Certificado de Adição de Invenção; e 1 6.1 - Concessão de Patente ou Certificado de Adição de Invenção.
+O primeiro fascículo analisado corresponde ao nº 1.132 de 11/08/1992 até nº 2.584 de 14/07/2020.
+No gráfico 1 destaca -se o período de 95 semanas (1 anos e 10 meses) compreendidas entre os fa scículos de nº 1.463 até nº 1.558 sem registro de solicitações de patentes (2.1, em vermelho no gráfico).
+Este dado chamou a atenção dos pesquisadores, o qual recorreram aos fascículos publicados (eletrônicos) para verificar se era um erro de importação do s registros, ou se realmente não houve publicação desta seção.
+Confirmou -se que não houve nenhuma publicação da seção 2.1 neste período.
+Entretanto nos fascículos nº 1.559 de 21/11/2000 e nº 1.560, de 28/11/2000 houve o total de 4.999 e 7.057 registros da seção 2.1, respectivamente, com um grande pico de registros.
+Em contato informal com o INPI, não souberam informar o motivo deste pico, sendo uma das hipóteses sugerida por um funcionário mais antigo, o fato que nesta época o INPI estava passando por um p rocesso de informatização, e que os processos estavam tramitando normalmente, porém só foram importados para o sistema eletrônico nestas datas.
+Outro destaque identificado do gráfico 1 refere -se à seção 16.1, sobre a Concessão de Patente ou Certificado de Adição de Invenção, que até o fascículo nº 1.479 (11 maio de 1999) ocorria a cada quatro ou cinco semanas, e entre os fascículos nº 1.480 passaram a ser quinzenais (a cada duas semanas), e somente a partir do fascículo nº 2.204 (2 de março de 2013) passou a ser semanal, periodicidade mantida até os tempos atuais.
+Pode -se observar ainda nesta seção da revista, que está havendo um ETAPAS DO CICLO DE VIDA DAS PATENTES DEPOSITADAS NO INPI COM BASE NA REVISTAS DE PROPRIEDADE INDUSTRIAL Rene Faustino Gabriel Junior, Ana Maria Mielniczuk de Moura, Thiago Monteiro Alves, Fernanda Bochi, Felipe Grando Brandão, Fabiano Couto Correa Tendências da Pesquisa Brasileira e Ciência da Informação, ANCIB , v. 13, n. 1 .
+2020. crescimento gradual do número de concessões de patentes ao longo dos últimos anos, provocado principalmente pela celeridade na an álise dos processos, como será demonstrado nos gráficos 3,4,5 e 6.
+Gráfico 1 - Frequências das seções dos despachos da Revista do INPI por seu fascículo de publicação (1992 a 2020) Fonte: dados da Pesquisa (2020).
+De forma a identificar o ciclo de tramitação no INPI, foi gerada uma sequencia cronológica de cada registro de patente, com a data do fascículo e a seção.
+E por meio de um algoritmo computacional foram gerados registros da seção anterior e seção atual, e o tempo percorrido (em semanas) desta tramitação.
+Esses registros possibilitaram gerar um gráfico Sankey com os fluxos percorridos de cada registro de patente, tendo como critério, identificar apenas os registros que apresentavam uma frequência maior que mi l ocorrências.
+O resultado desta análise é apresentado no gráfico 2.
+Observa -se que o gráfico apresenta um grande volume de solicitações na seção 1.1, que como mencionado anteriormente, corresponde aos processos na via PCT, ou seja, as solicitações priorit ariamente internacionais.
+Atendidos todos os requisitos, é notificada a entrada do requerimento na fase nacional (1.3), sendo ampliado o prazo para requerimento do pedido de exame estabelecido por lei em 36 (trinta e seis meses), contado a partir do depósi to internacional.
+Dentro do fluxo nacional, destaca -se a seção 2.10, que também já foi mencionada anteriormente, implementada a partir de 2011, como uma análise prévia da documentação antes da análise técnica de mérito do pedido de patente.
+Neste fluxo inicial, pode -se observar que boa parte dos requerimentos de pedidos de patente ou ETAPAS DO CICLO DE VIDA DAS PATENTES DEPOSITADAS NO INPI COM BASE NA REVISTAS DE PROPRIEDADE INDUSTRIAL Rene Faustino Gabriel Junior, Ana Maria Mielniczuk de Moura, Thiago Monteiro Alves, Fernanda Bochi, Felipe Grando Brandão, Fabiano Couto Correa Tendências da Pesquisa Brasileira e Ciência da Informação, ANCIB , v. 13, n. 1 .
+2020. certificado de adição de invenção acabam parando na seção 2.5 (exigência formal), por não atenderem às disposições do Art.
+Ou seja, considera -se que não estão de acordo com a documentação solicitada e com os aspectos formais exigidos pelo INPI para o requerimento; relatório descritivo; reivindicações; desenhos (se for o caso); resumo; e comprovante do pagamento da retribuição relativa ao depósito.
+Gráfico 2 - Diagrama Sankey do ciclo das patentes registradas na RPI do INPI (freq.
+>= 1000) Fonte: dados da Pesquisa (2020).
+Destas pendências (seção 2.5) algumas solicitações são corrigidas, as exigências são cumpridas, e seguem para o reconhecimento do pro tocolo de depósito do pedido de patente ou certificado de adição de invenção (2.1) ou, no caso do não cumprimeto das exigências apontadas, sofrem a anulação da sua numeração (15.21).
+Entretanto, os requerentes podem conseguir reverter a anulação da numeraç ão do pedido e seguir na tramitação com sua republicação (2.7), ou ser desmembradas para continuar a tramitação (2.4).
+Destaca -se aqui, que podem existir outros fluxos a partir da seção 15.21, entretanto como a frequência delas foi inferior a 1.000, não a parecem no gráfico.
+Outro destaque refere -se ao pedido dividido, que mantem a mesma data do processo original, e o benefício da prioridade reivindicada.
+Após o desenvolvimento de um produto ou processo inovador, os interessados, inventores, depositantes, t itulares (geralmente são pessoas jurídicas que estiveram ETAPAS DO CICLO DE VIDA DAS PATENTES DEPOSITADAS NO INPI COM BASE NA REVISTAS DE PROPRIEDADE INDUSTRIAL Rene Faustino Gabriel Junior, Ana Maria Mielniczuk de Moura, Thiago Monteiro Alves, Fernanda Bochi, Felipe Grando Brandão, Fabiano Couto Correa Tendências da Pesquisa Brasileira e Ciência da Informação, ANCIB , v. 13, n. 1 .
+2020. presentes prestando suporte ou financiamento e subsidiaram o invento) ou os seus respectivos procuradores devem realizar o depósito junto ao INPI.
+Assim, após a concessão da patente, possam conforme o Art.
+42 da Lei 9.279/1996 exercerem o seu direito de impedir terceiros, sem o seu consentimento, de usarem ou comercializar o seu invento.
+Essa primeira ação junto ao INPI é representada pelo requerimento de pedido de patente ou depósito do pedido de pat ente (código de despacho 2.10).
+Esta é a etapa inicial de tramitação de um invento no sistema de patentes do escritório nacional de propriedade industrial , permanecendo o pedido em sigilo durante 18 (dezoito) meses a contar da data da prioridade mais antiga caso não seja solicitada a publicação antecipada através do despacho 3.2 (I NPI, 2015 a).
+Decorrido o período de sigilo, é publicado o pedido de patente ou de certificado de adição de invenção (3.1).
+São disponibilizadas, por exemplo, informações como a folha de rosto, o relatório descritivo, reivindicações, desenhos e resumo do pedido de forma pública na página eletrônica do INPI para consulta pública.
+A partir desta etapa, começa a ser verificado as exigências técnicas da patente.
+Con forme mencionado podese também solicitar a publicação antecipada do pedido (despacho 3.2), não precisando aguardar os 18 meses do período de sigilo previsto pela Lei de Propriedade Industrial brasileira (BRASIL, 1996) para tornar o pedido público.
+Tal prá tica permite que terceiros tomem ciência do pedido de patente que está sendo requerido, desmotivando um novo pedido de terceiros ou auxiliando no combate de uma possível violação do pedido de patente em questão, por exemplo.
+A publicação antecipada também pode estar relacionada ao encaminhamento do pedido dentro dos trâmites prioritários do INPI.
+No processo de análise, um dos principais motivos da extinção da patente, refere -se ao despacho 6.6.1 e 6.6.2, etapa do processo onde é analisado se a patente pode rá lesar o patrimônio genético ou o conhecimento tradicional asso ciado, de acordo com as sanções previstas no Decreto nº 5.459 de 7 de junho de 2005 (BRASIL, 2005).
+A Lei de Propriedade Industrial (Lei N.º 9.279 de 14/05/1996), vigente no Brasil, exclui d e patenteabilidade todas as plantas e animais, ou partes deles, exceto microrganismos transgênicos que satisfaçam os requisitos de patenteabilidade (novidade, atividade inventiva e aplicação industrial), e aquelas que não se constituam em meras descobertas ETAPAS DO CICLO DE VIDA DAS PATENTES DEPOSITADAS NO INPI COM BASE NA REVISTAS DE PROPRIEDADE INDUSTRIAL Rene Faustino Gabriel Junior, Ana Maria Mielniczuk de Moura, Thiago Monteiro Alves, Fernanda Bochi, Felipe Grando Brandão, Fabiano Couto Correa Tendências da Pesquisa Brasileira e Ciência da Informação, ANCIB , v. 13, n. 1 .
+O Artigo 10 assegura que todos os se res vivos, ou partes deles, e materiais biológicos en contrados na natureza não são consi derados inven ção, e por isso não são patenteá veis no território brasileiro (MULLER; MACEDO, 2005).
+Patrimônio gen ético é o conjunto de informações de origem genética dos seres vivos.
+Essa informação está dentro de todas as partes das plantas, dos animais e dos micro -organismos.
+Esse patrimônio genético é, muitas vezes, a base para confecção de novos produtos: remédio s, cosméticos, produtos de limpeza e vários outros.
+São também usados na agricultura, principalmente na produção das sementes (BRASIL, 2016; 2017).
+A Lei n.13.123/2015 (BRASIL, 2015 b) traz uma definição para patrimônio genético: "I - patrimônio genético - informação de origem genética de espécies vegetais, animais, microbianas ou espécies de outra natureza, incluindo substâncias oriundas do metabolismo destes seres vivos" .
+Conforme Muller e Macedo (2005), a maior parte dos recursos genéticos está nos países em desenvolvimento, sendo que o Brasil possui 22% dos recursos genéticos do planeta.
+Porém, apenas os países considerados desenvolvidos possuem conhecimento técnico e recursos econômicos para explorar os produtos da Natureza, incluindo as técnicas de screening e isolamento , gerando um descompasso entre os países em desenvolvimento e os desenvolvidos .
+Cabe destacar, que dentre os processos do exame formal encontra -se a "busca de anterioridade", que consiste em verificar o estado da técnica de determinado processo ou produto em diversas fontes informacionais para identificar o ineditismo (novidade e ativ idade inventiva) da patente requerida.
+Sendo assim, a necessidade de conhecimento sobre a recuperação de informações em bases de dados de patentes é imprescindível para que seja feita uma busca de anterioridade adequada.
+Caso o pedido de exame (despacho 1 1.1) não seja requerido ou as exigências não sejam cumpridas, o pedido de patente será arquivado (despachos 11.2 e 11.5, por exemplo).
+Diversos outros fatores podem acarretar no arquivamento de pedidos de patentes após sua publicação, dentre eles, estão aq ueles pedidos que deixaram de pagar as taxas de anuidade do pedido (despacho 8.6) e também pela não comprovação do pagamento para a expedição da carta patente (despacho 11.4) (BRASIL, [2020]).
+ETAPAS DO CICLO DE VIDA DAS PATENTES DEPOSITADAS NO INPI COM BASE NA REVISTAS DE PROPRIEDADE INDUSTRIAL Rene Faustino Gabriel Junior, Ana Maria Mielniczuk de Moura, Thiago Monteiro Alves, Fernanda Bochi, Felipe Grando Brandão, Fabiano Couto Correa Tendências da Pesquisa Brasileira e Ciência da Informação, ANCIB , v. 13, n. 1 .
+Concluindo -se o exame, será declarada a decisão de deferimento (despacho 9.1) ou indeferimento do pedido de patente.
+Sendo deferido o pedido, a concessão da patente será realizada após a comprovação do pagamento das taxas correspondentes, expedindo -se assim a respectiva carta -patente (despacho 16.1).
+Algumas ocorrênc ias podem ser observadas no gráfico 2, como a grande quantidade de solicitações que são arquivadas (8.x, que se refere a 8.2, 8.6., 8.7 e 11.x, que se refere a 11.2, 11.6.
+11.7), seja por falta de pagamentos das taxas de manutenção, seja pelo não atendimen to das exigências realizadas, que podem ser motivadas ou simplesmente por desistência e desinteresse dos depositantes na manutenção do pedido.
+Observa -se também que do total de solicitações de registros (2.1 e 1.3 para PCT), uma boa parte não chegam a sere m concedidas (16.1) e um número considerável (74.812 pedidos, conforme dados da Tabela 1) já foram extintas (21.1) devido ao fim do prazo de vigência previsto na Lei.
+Algumas solicitações de registros seguiram fluxos diferentes das demais, justificado pel a análise dos dados, podendo ter ocorrido pela renumeração do protocolo da solicitação , ou por acúmulo de atividades dentro do INPI em épocas específicas.
+Para atender o último objetivo específico, com a identificação do tempo de tramitação dos pedidos de registro, utilizou -se os arquivos processados de cada fascículo, identificando as seções (2.1 ou 2.10, 3.1) e a data do fascículo, e também a data de concessão (16.1).
+Os resultados são apresentados nos gráficos 3, 5 para a tramitação nacional e nos gráfic os 4 e 6 na via PCT.
+A concessão de patentes no Brasil, gráfico 3, pode -se observar uma parábola com um grande volume de concessões em 1992 e 1993, e com uma diminuição gradativa até o início da década de 2010, com uma pequena reação a partir de 2008, mas que pouco se sustentou, voltando a cair em 2010, destaca ndo que neste período, as concess ões demoravam em média sete anos.
+Somente a partir da década de 2010 que houve um crescimento ano a ano das concessões de patentes requeridas no Brasil.
+Este mesmo ef eito foi similar na via PCT, porém com uma amplitude um pouco maior.
+Demonstrando o interesse, especialmente de não residentes de protegerem seus ETAPAS DO CICLO DE VIDA DAS PATENTES DEPOSITADAS NO INPI COM BASE NA REVISTAS DE PROPRIEDADE INDUSTRIAL Rene Faustino Gabriel Junior, Ana Maria Mielniczuk de Moura, Thiago Monteiro Alves, Fernanda Bochi, Felipe Grando Brandão, Fabiano Couto Correa Tendências da Pesquisa Brasileira e Ciência da Informação, ANCIB , v. 13, n. 1 .
+2020. produtos/processos no território brasileiro.
+Caso seja considerado que os não residentes sejam os principais r equerentes dos depósitos via PCT.
+A queda visualizada em 2020 ainda não pode ser considerada, pois os dados analisados referem -se até agosto de 2020.
+Gráfico 3 - Número total de patentes concedidas pelo número do fascículo (ano), no Brasil Gráfico 4 - Número total de patentes na via PCT concedidas pelo número do fascículo (ano) Gráfico 5 - Tempo médio de concessão de patentes prioritárias em semanas / anos Gráfico 6 - Tempo médio de concessão de patentes na via PCT em semanas / anos Ao analisar o tempo percorrido entre a solicitação e a concessão da patente, pode -se observar, que no final da década de 1990 o tempo médio de avaliação era de 300 semanas, ou aproximadamente 5 anos e meio.
+Porém com o passar dos anos, este tempo médio foi aumentando, chegando ao pico próximo de 12 anos de espera pela carta patente em 2012.
+Esse tempo médio de concessão das patentes se confirma no estudo de Jannuzzi e Vasconcellos (2013) e Oliveira (2019).
+Ressalta -se que os valores apresentados são uma méd ia geral das concessões em cada fascículo.
+A partir deste ETAPAS DO CICLO DE VIDA DAS PATENTES DEPOSITADAS NO INPI COM BASE NA REVISTAS DE PROPRIEDADE INDUSTRIAL Rene Faustino Gabriel Junior, Ana Maria Mielniczuk de Moura, Thiago Monteiro Alves, Fernanda Bochi, Felipe Grando Brandão, Fabiano Couto Correa Tendências da Pesquisa Brasileira e Ciência da Informação, ANCIB , v. 13, n. 1 .
+2020. pico, o tempo médio das concessões começa a diminuir, e de forma mais acentuada a partir de 2017 até os dias atuais.
+Chegando em 2020 a cinco anos e meio.
+Efeito similar aconteceu na via PCT, com o aumento incremental da média de tempo até meados de 2012, e a partir deste ano, vem diminuindo chegando também a cinco anos e meio em 2020.
+3 CONSIDERAÇÕES FINAIS A pesquisa teve como objetivo geral compreender as etapas (despachos) de tramitação de pate ntes no escritório brasileiro (INPI).
+Para melhor atender este objetivo, desmembrando -se nos seguintes objetivos específicos: a) quantificar os pedidos de patentes pelas seções mais representativas da RPI; b) identificar o ciclo de tramitação no INPI; c) i dentificar o tempo de tramitação dos pedidos de registro.
+Da problemática deste estudo de compreender a partir dos despachos da RPI identificar o fluxo de tramitação das patentes requeridas no Brasil foi possível trabalhar com um método de pesquisa que possibilitasse este fim.
+Além dos conhecimentos de extração dos dados das revistas, uso do R para as análises estatísticas, também foi necessário um computador e programa que pudesse processar a quantidade de registros.
+Quanto ao objetivo compreender as et apas (despachos) de tramitação de patentes no escritório brasileiro de patentes (INPI) pode -se considerar que o mesmo foi atingido, e que os resultados da pesquisa enriqueceram o entendimento dos pesquisadores sobre o Ciclo de Vida das Patentes (CVP) no Br asil, com uma produção e visão de um fluxo completo da tramitação das requisições de patentes brasileiras, ainda não discutido na área da Ciência da Informação .
+Entre os destaques da pesquisa, encont ra-se a constatação que quase ⅔ das solicitações de patentes não chegam a receber a carta patente.
+Em parte, pode -se creditar à desistência dos seus depositantes, que expressa -se no não atendimento das exigências formais ou técnicas e/ou a falta de pagamen to de taxas para a manutenção do pedido.
+Observou -se também, que o CVP no INPI está em uma morfologia constante, com a inserção e extinção de seções, atendendo fluxos internos ou legislações.
+ETAPAS DO CICLO DE VIDA DAS PATENTES DEPOSITADAS NO INPI COM BASE NA REVISTAS DE PROPRIEDADE INDUSTRIAL Rene Faustino Gabriel Junior, Ana Maria Mielniczuk de Moura, Thiago Monteiro Alves, Fernanda Bochi, Felipe Grando Brandão, Fabiano Couto Correa Tendências da Pesquisa Brasileira e Ciência da Informação, ANCIB , v. 13, n. 1 .
+Um destaque positivo, resultado da pesquisa, está na observação da diminuição do tempo de análise das cartas patentes, chegando em 2020 em cinco anos e meio, tanto para solicitações nacionais como na via PCT, e também no número crescente de concessões que está ocorrendo a partir de 2010, demonstrando o interesse em pro teger novos produtos no Brasil.
+Uma limit ação encontrada no decorrer do estudo, foi a falta dos arquivos antes de 1992, ou seja, existe um gap entre 1972 (criação da RPI) até 1992, sem informações dentro dos arquivos importados, entretanto, pode -se observa r que no site do INPI existem os registros destes dados das patentes, mas que não podem ser extraídos de forma automática pelo Captcha existente no site.
+Este estudo macro sobre o fluxo de patentes, incitou uma série de dúvidas e inquietações que serão obj eto de novos estudos, principalmente nas questões relacionadas ao patrimônio genético, patentes em trâmite prioritário e patentes verdes, que seguem alguns fluxos diferentes das requisições tradicionais .
+Propriedade Industrial no Brasi l: 50 Anos de História.
+Disponível em: Acesso em: 17 ago.
+G. A Study of Scientometric Methods to Identify Emerging Technologies via Modeling of Milestones.
+Scientometrics, v. 91, n. 2, p. 327-342, maio 2012.
+BRANDÃO, F. G. Democratização da informação a partir do uso de repositórios digitais institucionais: da comunicação científica às informações tecnológicas de patentes.
+120 f. Dissertação (Mestrado Profissional em Gestão Estratégica de Organizações ) – Universidade Regional Integrada do Alto Uruguai e das Missões, Santo Angelo, 2016.
+Decreto n º 68.104, de 22 de janeiro de 1971.
+Regulamenta a Lei nº 5.648, de 11 de dezembro de 1970, que criou o Instituto Nacional da Propriedade IndustrialINPI e dá outras providências.
+Brasília, DF: Presidência da República, 1971.
+Disponível em: -1979/decreto -68104 -22janeiro -1971 -410118 -publicacaooriginal -1-pe.html.
+ETAPAS DO CICLO DE VIDA DAS PATENTES DEPOSITADAS NO INPI COM BASE NA REVISTAS DE PROPRIEDADE INDUSTRIAL Rene Faustino Gabriel Junior, Ana Maria Mielniczuk de Moura, Thiago Monteiro Alves, Fernanda Bochi, Felipe Grando Brandão, Fabiano Couto Correa Tendências da Pesquisa Brasileira e Ciência da Informação, ANCIB , v. 13, n. 1 .
+Lei n º 5.648, de 11 de dezembro de 1970.
+Institui o Código da Propriedade Industrial, e dá outras providências.
+Brasília, DF: Presidência da República, 1970.
+Disponível em: -1979/lei -5648 -11dezembro -1970 -358727 -publicacaooriginal -1-pl.html.
+Instituto Nacional da Propriedade Industrial.
+Disponível em: -dapropriedade -industrial -faz-84-anos -e-ganha -novo -formato .
+Instituto Nacional da Propriedade Industrial.
+Instituto Nacional da Propriedade Industrial.
+Tabela de Códigos de Despachos : patentes.
+[Rio de Janeiro]: [INPI], [2020].
+Disponível em: r/pdf/Patentes2588.pdf .
+Lei nº 9.279, de 14 de maio de 1996 .
+Regula direitos e obrigações relativos à propriedade industrial.
+Ministério do Desenvolvimento, da Indústria e Comé rcio Exterior.
+Instituto Nacional da Propriedade Industrial.
+Manual para o depositante de patentes .
+Rio de Janeiro: INPI, 2015 a. Disponível em: -para -o-depositante -de-patentes.pdf .
+Patrimônio Genético, Conhecimento Tradicional Associado e Repartição de Benefícios.
+Decreto nº 5.459, de 7 de junho de 2005 .
+30 da Medida Provisória nº 2.186 -16, de 23 de agosto de 2001, disciplinando as sanções aplicáveis às condutas e atividades lesivas ao patrimônio genético ou ao conhecimento tradicional associado e dá outras providências.
+Disponível em: /ccivil_03/_ato20042006/2005/decreto/d5459.htm.
+Decreto nº 8.772, de 11 de maio de 2016.
+13.123, de 20 de maio de 2015, que dispões sobre o acesso ao patrimônio genético, sobre a proteção e o acesso ao conhecimento tradicional associado e sobre a repartição de benefícios para conservação e uso sustentável da biodiversidade.
+Brasilia, DF, Pre sidência, 2016.
+Lei nº 13.123, de 20 de maio de 2015 .
+Dispõe sobre o acesso ao patrimônio genético, sobre a proteção e o acesso ao conhecimento ETAPAS DO CICLO DE VIDA DAS PATENTES DEPOSITADAS NO INPI COM BASE NA REVISTAS DE PROPRIEDADE INDUSTRIAL Rene Faustino Gabriel Junior, Ana Maria Mielniczuk de Moura, Thiago Monteiro Alves, Fernanda Bochi, Felipe Grando Brandão, Fabiano Couto Correa Tendências da Pesquisa Brasileira e Ciência da Informação, ANCIB , v. 13, n. 1 .
+2020. tradicional associado e sobre a repartição de benefícios para conservação e uso da biodiversidade.
+Brasília, DF, Presidência, 2015 b.
+; ZHU, G. Scientific linkage and technological innovation capabilities: international comparisons of patentingin the solar energy industry.
+Scientometrics , Cham , v. 111, p. 117-138, 2017.
+FRANÇA, R. O. Patente como fonte de informação tecnológica.
+Perspectivas em Ciência da Informação , Belo Horizonte, v. 2, n. 2, p. 235 -264, jul./dez.
+GAO, L. ; PORTER, A. L.; WANG, J.; FANG, S.; ZHANG, X.; MA, T.; WANG, W.; HUANG, L .
+Technology life cycle analysis method based on patent documents.
+Technological Forecasting and Social Change , Amsterdam , v. 80, n. 3, p. 398 -407, mar.
+GARVEY, W. D.; GRIFFITH, B. C. Scientific Communication as a social system.
+In: GARVEY, W. D. Communication : the essence of science.
+; LANGE, M. Patent indicators for the technology life cycle development.
+Research Policy , Amsterdam, v. 36, n. 3, p. 387-398, 2007.
+HIGGINS, S. The DCC Curation Lifecycle Model.
+International Journal of Digital Curation , Edinburgh , v. 3 n. 1, 2008.
+Estatísticas Preliminares : Ranking Depositantes Não Residentes ano de 2019.
+Disponível em: -br/acesso -ainformacao/pasta -x/estatisticas -preliminares/estatisticas -preliminares.
+INPI chega aos 45 anos : conheça a história do Instituto.
+Disponível em: -chega -aos-45-anosconheca -a-historia -do-instituto.
+Disponível em: -br/servicos/patentes/guia -basico.
+JANNUZZI, A. H. L.; VASCONCELLOS, A. G. Um estudo sobre a concessão de patentes de medicamentos no Brasil e suas implicações para a continuidade do êxito na política de medicamentos genéricos.
+In: CONGRESSO LATINO IBEROAMERICANA DE GESTÃO DE TECNOLOGIA (ALTEC), 15., 2013, Porto.
+Novas condições e espaços para o desenvolvimento científico, tecnológico e industrial e a cooperação internacion al.
+Disponível em : Acesso em: 10 abr.
+ETAPAS DO CICLO DE VIDA DAS PATENTES DEPOSITADAS NO INPI COM BASE NA REVISTAS DE PROPRIEDADE INDUSTRIAL Rene Faustino Gabriel Junior, Ana Maria Mielniczuk de Moura, Thiago Monteiro Alves, Fernanda Bochi, Felipe Grando Brandão, Fabiano Couto Correa Tendências da Pesquisa Brasileira e Ciência da Informação, ANCIB , v. 13, n. 1 .
+LEZAMA -NICOLAS, R. ; RODRÍGUEZ -SALVADOR, M.; RÍO -BELVER, R.; BILDOSOLA, I.
+A bibliometric method for assessing technological maturity: the case of additive manufacturing.
+Scientometrics , Cham , v. 117, p. 1425 –1452, 2018.
+B. Panorama das patentes depositadas no Brasil: uma análise a partir dos maiores depositantes de patentes na base Derwent Innovations Index.
+Brazilian Journal of Information Science: research trends , v. 13, n. 2, p. 59 -68, 2019.
+MULLER, A.C.; MACEDO, M. F. Patentes de Fitomedicamentos: como garantir o compartilhamento dos benefícios de P&D e do uso sustentável de recursos genéticos.
+Revista Fitos, Rio de Janeiro , v. 1, n. 2, nov. 2005.
+Análise do portfólio de patentes de uma universidade pública brasileira: o caso da Universidade de Brasília.
+Dissertação (Mestrado Profissional em Economia ) – Universidade de Brasília, Programa de Pós -Graduação em Economia, Brasília, 2019 .
+PIMENTEL, L. O. Direito industrial : as funções do direito de patentes.
+POL, J.; RAMESHKOUMAR, Jean -Paul.
+The co -evolution of knowledge and collaboration networks: the role of the technology life -cycle.
+Scientometrics, Cham , v. 114, n. 2, jul.
+Disponí vel em: tion_of_knowledge_and_collaboration_networks_the_role_of_the_technology_l ife-cycle.
+REVISTA da Propriedade Industrial do Instituto Nacional de Propriedade Industrial.
+Disponível em : Acesso em: 10 abr.
+SHAHMARICHATGHIEH, M.; TOLONEN, A.; HAAPASALO, H. Product life cycle, technology life cycle and market life cycle; similarities, differences and applications.
+Joint Internatinal Conference , Bari , 2015.
+SILVEIRA, N. Propriedade intelectual : propriedade industrial, direito de autor, softwar e, cultivares, nome empresarial, abuso de patentes.
+The technology life cycle: Conceptualization and managerial implications.
+International Journal of Production Economics , v. 140, n. 1, p. 541 -553, nov. 2012.
+Disponível em: Acesso em: 16 abr.
+ETAPAS DO CICLO DE VIDA DAS PATENTES DEPOSITADAS NO INPI COM BASE NA REVISTAS DE PROPRIEDADE INDUSTRIAL Rene Faustino Gabriel Junior, Ana Maria Mielniczuk de Moura, Thiago Monteiro Alves, Fernanda Bochi, Felipe Grando Brandão, Fabiano Couto Correa Tendências da Pesquisa Brasileira e Ciência da Informação, ANCIB , v. 13, n. 1 .
+Disponível em: -data/lifecycle.aspx .
+WIPO intellectual property handbook .

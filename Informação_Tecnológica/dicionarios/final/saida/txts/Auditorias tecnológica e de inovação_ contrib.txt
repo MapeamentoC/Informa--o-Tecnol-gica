@@ -1,0 +1,313 @@
+ ISSN 2318-9231 CGE * v .6 * n.2 * Mai-Ago 2018 * 38-55 38 AUDITORIAS TECNOLÓGICA E DE INOVAÇÃO: CONTRIBUIÇÕES PARA PEQUENAS E MÉDIAS EMPRESAS TECHNOLOGY AND INNOVATION AUDITS: CONTRIBUTIONS TO SMALL AND MEDIUM-SIZED ENTERPRISES Recebido em 09.05.2018.
+Aprovado em 17.08.2018 Avaliado pelo sistema double blind review Erasmo Gomes Faculdade de Economia, Administração e Contabilidade de Ribeirão Preto (FEA-RP/USP) - Ribeirão Preto - SP erasmo@fearp.usp.br Alyni Nomoto Nirazawa Faculdade de Economia, Administração e Contabilidade de Ribeirão Preto (FEA-RP/USP) - Ribeirão Preto - SP annirazawa@fearp.usp.com Resumo É crescente nos ambientes empresarial e governamental o reconhecimento acerca da importância da inovação para a competitividade dos negócios e, por conseguinte, do país.
+Contudo, existe um déficit de conhecimento de ferramentas de gestão da inovação adequadas, sobretudo, para a realidade das pequenas e médias empresas.
+Desta forma, o presente trabalho identifica, por meio de pesquisa bibliográfica, propostas metodológicas dirigidas à realização de auditorias tecnológica e de inovação.
+Busca-se compreender suas especificidades, com foco nos instrumentos de coleta de dados e informação no ambiente organizacional, evidenciando semelhanças e diferenças, potencialidade e limitações entre as mesmas.
+Foram analisadas oito propostas metodológicas, cujos procedimentos de aplicação e resultados proporcionados foram sistematizados de forma comparativa.
+Com isto, o presente o estudo pretende contribuir para um melhor entendimento sobre as auditorias tecnológicas e de inovação como instrumentos de apoio ao esforço inovador e de melhoria de desempenho competitivo de pequenas e médias empresas.
+Palavras-chaves: Inovação; Auditoria; Gestão da inovação; Pequenas e médias empresas Abstract There is a growing recognition in government environment about the importance of innovation for companies' competitiveness and therefore the country's competitiveness.
+However, there is a lack of knowledge of innovation management tools suitable mainly for the reality of small and medium enterprises.
+In this way, this paper seeks to identify technology and innovation audit methodologies, and understand their specificities, focusing on tools for collecting data and information in the organizational environment.
+We seek to highlight similarities and differences, potentiality and limitations between the methodologies.
+In this way, eight methodologies were analyzed in a comparative framework.
+With this, the present study aims to contribute to a better understanding of technology and innovation audits as tools to support the innovative effort and performance improvement for small and medium businesses.
+Keywords: Innovation; Innovation audit; Innovation management; Small and medium businesses.
+Erasmo Gomes e Alyni Nomoto Nirazawa ISSN 2318-9231 CGE * v .6 * n.2 * Mai-Ago 2018 * 38-54 39 Introdução É crescente o reconhecimento nos ambientes empresarial e governamental acerca da importância da inovação para a competitividade das empresas e, por conseguinte, do país.
+Como exemplo pode-se destacar algumas iniciativas federais de envergadura implementadas nos últimos anos, tais como o Plano Brasil Maior, o Plano de Ação em Ciência, Tecnologia e Inovação (PACTI), a Política de Desenvolvimento Produtivo (PDP), a Política Industrial, Tecnológica e de Comércio Exterior (PITCE) e a Lei Geral da Micro e Pequena Empresa.
+Também no setor empresarial, há um reconhecimento crescente da importância da inovação para manutenção e expansão dos negócios.
+Tal reconhecimento é evidenciado, por exemplo, por meio da recente iniciativa da Confederação Nacional da Indústria (CNI) denominada Mobilização Empresarial pela Inovação – MEI, segundo a qual "a inovação é parte obrigatória das estratégias empresarias de sucesso.
+Ela é reconhecida, pelos principais executivos do mundo, como essencial para a competitividade" (CNI, 2009).
+Observa-se, portanto, que há, por um lado, uma oferta significativa de recursos financeiros públicos para estimular a inovação nas empresas e, por outro, um relativo consenso no meio empresarial acerca da sua importância.
+Neste aspecto, cabe ainda introduzir mais um elemento na análise.
+No caso do Brasil, o Instituto Brasileiro de Geografia e Estatística (IBGE) tem colocado à disposição da sociedade indicadores de atividades de inovação tecnológica nas empresas, por meio da Pesquisa de Inovação Tecnológica (PINTEC).
+Uma análise dos resultados das sucessivas edições da pesquisa nos mostra que ainda há um significativo espaço para se avançar nessa área.
+Do total de empresas pesquisadas, cerca de um terço apenas "inova", ainda que se considere a amplitude conceitual do termo "inovação tecnológica" adotado pela PINTEC.
+Assim, dentre as empresas consideradas "inovadoras" pela PINTEC, a grande maioria declara inovar sob a ótica interna, da própria empresa, e não externa, ou seja, para o mercado nacional ou mundial.
+Neste sentido, observa-se que o tipo de inovação prevalecente é aquisição, e respectiva introdução no seu ambiente produtivo, de nova máquina ou equipamento.
+A própria Confederação Nacional da Indústria (CNI, 2009) reconhece que o esforço das empresas brasileiras embora expressivo é, todavia, insuficiente.
+em 2005, das quase 90 mil empresas industriais que compuseram o universo da pesquisa, cerca de um terço declarou inovar.
+É um esforço não desprezível [.]
+mas na grande maioria o esforço inovador representa fazer algo novo para a empresa.
+Em 2005, a inovação para o mercado nacional ainda atingiu poucas empresas e foi ínfimo o número de empresas que inovaram para o mercado mundial (CNI, 2009).
+Com efeito, dados extraídos da última edição da PINTEC (IBGE, 2013), mostram que, para o conjunto de empresas industriais na faixa de 10 a 99 pessoas ocupadas (ou seja, micro e pequenas empresas), apenas 3,6%, em média, lançou produto novo para o mercado nacional.
+Para o total das empresas pesquisadas, esse índice é de 3,7%.
+Já, para inovação em processo novo para o setor no Brasil, para o mesmo conjunto de empresas industriais na faixa de 10 a 99 pessoas ocupadas, o índice médio foi de 2,6%, sendo esse índice ainda menor, de 2,1%, para o total de empresas pesquisadas.
+Diante dessa constatação, a pergunta que surge é: por que poucas empresas brasileiras inovam?
+E ainda, dentre essas poucas empresas consideradas inovadoras, por que parcela significativa inova apenas "para dentro", sem esforço inovativo substancial próprio?
+Muitas e complexas podem ser as respostas.
+No entanto, consideramos importante destacar dentre as possíveis explicações, como sendo a existência de um déficit de conhecimento/ de utilização de metodologias/ferramentas de gestão da inovação adequadas e acessíveis, sobretudo, para a realidade das pequenas e médias empresas, associada à ausência de um apoio metodológico sistemático por parte dos organismos públicos afetos à temática.
+Ou seja, muito embora atualmente existam políticas e recursos públicos disponíveis para a inovação, as empresas não estão, na sua maioria, adequadamente preparadas para inovar para o mercado.
+Auditorias tecnológica e de inovação: contribuições para pequenas e médias empresas ISSN 2318-9231 CGE * v .6 * n.2 * Mai-Ago 2018 * 38-54 40 40 Desde o trabalho pioneiro de Vasconcelos, Waack e Pereira, realizado no início da década de 1990 (VASCONCELOS; WAACK; PEREIRA, 1990), tem sido relativamente escassa a produção acadêmica e a experiência prática na realização de auditorias tecnológicas e de inovação no Brasil.
+Mais recentemente, cabe destaque a iniciativa da Associação Nacional de P,D&E das Empresas Inovadoras de instituir o Selo Anpei de Empresa inovadora, cujo processo de concessão prevê a realização de uma auditoria de inovação.
+Ao contrário, na União Europeia, por exemplo, existem diversas iniciativas em curso como, por exemplo, Innovation Scoring, desenvolvido pela Associação Empresarial para a Inovação (COTEC - Portugal); Inovação por meio da Unidade de Gestão da Inovação - Gestinn, desenvolvido pela Universidad de La Coruña, Espanha; IMP³rove Assessment, desenvolvido no contexto do projeto Europe INNOVA, iniciativa apoiada pela Comissão Europeia, dentre outras, que merecem uma análise mais aprofundada acerca dos limites e potencialidades de aplicação à realidade brasileira.
+Considerando o quadro acima descrito, o presente trabalho tem por objetivo identificar e sistematizar métodos de auditorias tecnológica e de inovação, desenvolvidos no ambiente nacional e internacional, de modo a compreender suas especificidades, com foco nos instrumentos de coleta de dados e informação no ambiente organizacional e formas de aplicação.
+Antes de prosseguirmos, convém tecer alguns esclarecimentos acerca da expressão composta "auditoria tecnológica e de inovação", empregada neste trabalho.
+A opção de utilização da referida expressão deve-se a constatação de que alguns dos autores selecionados, embora empreguem nos seus trabalhos o termo "auditoria tecnológica", a análise atenta dos mesmos relevou se tratar de uma abordagem mais ampla, não adstrita exclusivamente à dimensão "tecnológica" das organizações.
+Ou seja, não se restringiam a apresentar nas suas propostas metodológicas enfoques direcionados exclusivamente ao diagnóstico e análise do parque de equipamentos existente nas organizações, com seu respectivo nível de atualização tecnológica (versões, gerações.)
+e grau de utilização (ou de domínio de uso) pelas organizações.
+Ainda que não excluída essa abordagem, a maioria dos trabalhos apresenta conceitos, métodos e ferramentas ou métricas para avaliação da capacidade organizacional e das suas atividades inovativas, em sentido amplo, tais como estímulos oferecidos aos seus recursos humanos, promoção de ambiente favorável à criatividade, tipo de estrutura organizacional (horizontalizada, verticalizada), estilos de liderança, perfil da mão-de-obra, mecanismos de prospecção de mercados, existência de planejamento estratégico para inovação, estrutura de pesquisa e desenvolvimento dentre outros aspectos que remetem à noção ampla de inovação e não apenas a questão da tecnologia utilizada no seu processo produtivo.
+Por isso justifica-se, a nosso ver, a opção de utilizarmos a expressão composta "auditoria tecnológica e de inovação".
+Com isso ficam contemplados adequadamente os trabalhos mais estritamente relacionados à dimensão tecnológica, estrito senso, e também aqueles com uma abordagem mais ampla, relacionada às capacidades organizacionais e de inovação presente nas organizações, coerentemente com as definições mais amplamente aceitas e utilizadas, como, por exemplo, aquela propugnada pelo Manual de Oslo (OCDE, 1997).
+Procedimentos Metodológicos Utilizando-se a classificação proposta por Gil (2002, p.41), a presente pesquisa pode ser caracterizada quanto à abordagem do problema, como qualitativa e, quanto aos seus objetivos, como exploratória e descritiva.
+Por sua vez, quanto aos procedimentos técnicos utilizados para obtenção dos dados, segundo a classificação de Lakatos e Marconi (1992, p.43), trata-se de pesquisa bibliográfica e documental.
+Primeiramente foi realizada uma pesquisa bibliográfica em bases de dados nacionais internacionais multidisciplinares como Scielo, Redalyc, EBSCO, Proquest, Scopus, Science Direct, utilizando-se palavras-chave relacionadas ao tema.
+Também foi realizada pesquisa na internet, por meio de sites de busca, visando identificar material sobre auditoria tecnológica e de inovação.
+Como resultado das buscas, foram identificados cerca de 30 trabalhos ou documentos relacionados ao tema.
+Desses, oito foram selecionados para análise de conteúdo e sistematização das respectivas propostas metodológicas, a fim de caracterizá-las em relação a semelhanças, diferenças, potencialidades, limitações.
+Erasmo Gomes e Alyni Nomoto Nirazawa ISSN 2318-9231 CGE * v .6 * n.2 * Mai-Ago 2018 * 38-54 41 Auditorias Tecnológica e de Inovação Segundo Amaral (1997, p. 116), "[.]
+o conceito de auditoria não é um conceito recente.
+Há muitos anos que o mundo empresarial está habituado a ouvir falar em auditorias, nomeadamente em auditorias financeiras ou auditorias às contas".
+Em termos genéricos, uma auditoria pode ser definida como sendo [.]
+um estudo ou inventário de recursos, ativos, requisitos, sistemas e procedimentos.
+Pode-se auditar os recursos físicos ou intelectuais (humanos), sistemas de gestão da qualidade ou características organizacionais.
+A auditoria coleta dados e informações sobre a empresa a partir de listas e questionários que podem ser desenhados para cada finalidade específica da auditoria (COTEC, 1999, p 42, tradução nossa).
+Ainda em termos gerais, de acordo com Mentz (1999, p. 67), auditoria trata-se de "[.]
+uma metodologia para medir e validar dados de vários processos de negócios.
+A maioria dos processos de negócios pode ser auditada se houver dados disponíveis para comparação com padrões certificados ou conhecidos.
+Um dos mais bem estabelecidos campos da auditoria é auditoria financeira [.]".
+Focando-se mais propriamente em auditorias tecnológica e de inovação, objeto do presente trabalho, observa-se que o termo encerra várias definições.
+Autores como Vasconcellos, Waack & Pereira (1990, p. 33), em um dos estudos pioneiros realizados no Brasil sobre o tema, definem auditoria tecnológica como "[.]
+um processo que tem por finalidade registrar e avaliar, sistemática e periodicamente, o potencial tecnológico da empresa, contribuindo para assegurar que a tecnologia seja utilizada de forma eficaz para o atingimento dos objetivos organizacionais".
+Por seu turno, Ribeiro (2000, p. 85), de forma sucinta, define auditoria tecnológica como "um processo que permite à empresa determinar até que ponto é competitiva em termos tecnológicos".
+Para Inteli (2000 apud DENIELSSON, 2007, p. 80) "a auditoria tecnológica e de inovação constitui-se como um processo de análise do negócio global da empresa, centrado na identificação e avaliação das suas necessidades e capacidades tecnológicas e de inovação".
+De acordo com Kelessidis (2000, p. 2), auditoria tecnológica é "[.]
+um método para identificar os pontos fortes e fracos por meio da avaliação e caracterização e avaliação geral do know how básico da empresa (marketing, gestão, finanças, recursos humanos etc.)".
+Em contrapartida, Amaral (1997, p. 118) observa que algumas definições de auditoria "são demasiadamente centradas na tecnologia, não abordando a questão mais abrangente da inovação".
+Desta forma, o autor entende auditoria tecnológica e de inovação como sendo uma análise "[.]
+sobre a situação atual da empresa em termos de inovação e da sua estratégia tecnológica e de inovação" (AMARAL, 1997, p.119, grifo nosso).
+Embora Ribeiro (2000) utilize o termo "auditoria tecnológica", sua compreensão é mais ampla, contemplando também "inovação".
+Segundo o autor, a auditoria tecnológica possibilita à empresa determinar o seu nível de competitividade em termos tecnológicos, dado que "[.]
+uma auditoria tecnológica tem como principal objetivo o levantamento de informação sobre as necessidades tecnológicas e de inovação de empresas, especialmente micro e pequenas empresas" (RIBEIRO, 2000, p. 85, grifo nosso).
+A Fundación para la Innovación T ecnológica (COTEC), em trabalho intitulado Pautas Metodológicas en Gestión de la T ecnología y la Innovación en las Empresas (TEMAGUIDE), considera que uma auditoria de inovação avalia o potencial de inovação de uma empresa e que "[.]
+normalmente se refere à necessidade de inovação, à capacidade que tem a organização de gerenciar a mudança [.].
+Pode incorporar as dimensões tecnológica, de mercado e organizacional" (COTEC, 1999 p. 41).
+Alguns autores não fazem distinção entre auditoria tecnológica e de inovação.
+Videira (2001), por exemplo, no estudo que elaborou sobre dinâmicas de aprendizagem em empresas do setor de autopeças em Portugal, considera que A auditoria tecnológica e de inovação constitui-se como um instrumento de análise do negócio global da empresa, centrado na identificação e avaliação das suas necessidades e capacidades Auditorias tecnológica e de inovação: contribuições para pequenas e médias empresas ISSN 2318-9231 CGE * v .6 * n.2 * Mai-Ago 2018 * 38-54 42 42 tecnológicas e de inovação.
+Como tal, é um instrumento abrangente, visto que não se restringe à análise da área tecnológica em sentido estrito, mas articula-a com a análise da envolvente e das vertentes organizacional, comercial e humana das empresas, permitindo a identificação dos vários processos chave de aprendizagem apresentados (VIDEIRA, 2001, p. 35, grifo nosso).
+Para o Manual do Diagnóstico de Inovação, por sua vez, produzido pelo Projeto FIVE (INTELI, 2004, p. 6), diagnóstico ou auditoria de inovação pode ser entendido "como um instrumento de análise do negócio global da empresa, centrado na identificação e avaliação das suas necessidades e capacidades tecnológicas e de inovação".
+Inspirado pela abordagem de Amaral (1997, p. 89) no tocante a relação entre gestão tecnológica e gestão da inovação, o presente trabalho atribui a mesma relação entre auditoria de inovação e auditoria tecnológica, ou seja, sendo esta última um subconjunto da primeira, porém complementares entre si.
+Condução ou modus operandi da auditoria Para COTEC (1999, p. 42), [.]
+uma auditoria pode ser iniciada pela indicação de uma equipe ou pessoa responsável pela revisão da organização, de modo a identificar os pontos fortes e fracos, os problemas ou pontos de melhoria.
+Pode-se optar entre criar um marco de trabalho e questionário próprios, ou adaptar um método de auditoria que já foi utilizado em outra organização.
+Na perspectiva de Vasconcellos, Waack & Pereira (1990, p. 33), "o uso de especialistas externos, comitês e grupos de trabalho formados por elementos das várias áreas da empresa é altamente desejável.
+A auditoria tecnológica é realizada para a empresa como um todo, em todas das áreas, direta ou indiretamente envolvidas com tecnologia".
+Kelessidis (2000) reitera as recomendações de Vasconcellos, Waack & Pereira (1990) ao afirmar que a "auditoria de tecnologia é realizada por consultores externos, em estreita colaboração com a administração e o pessoal da empresa.
+Baseia-se na estrutura: coleta de dados - análise - síntese - relatório" (KELESSIDIS, 2000, p. 2, tradução nossa).
+De acordo com COTEC (1999 p. 42), a auditoria pode ser conduzida por pessoal interno ou externo à organização.
+Por sua vez, Perini, Carvalho & Cavalcante (2003, p.5-6) defendem que A condução da metodologia de auditoria se dá pela interação efetiva entre a equipe de auditores e o grupo de especialistas da unidade de negócios, especialistas externos e fontes de informação externa, sendo, portanto, importante a experiência dos pesquisadores nas técnicas e métodos utilizados na pesquisa [sobre dados da organização], assim como a avaliação da informação fornecida pelos participantes.
+Segundo Amaral (1997, p. 106), para realização de auditorias tecnológicas "[.]
+é fundamental reunir uma boa equipe de auditores, incluindo auditores externos.
+As principais características dos membros dessa equipe deverão ser a capacidade de realizar diagnósticos, a experiência anterior no setor industrial em análise, e uma sólida base de conhecimentos sobre a problemática da inovação em PMEs".
+Já, Vasconcellos (1989 apud VASCONCELLOS, WAACK & PEREIRA, 1990, p. 33) propõe um modelo conceitual, para realizar a auditora tecnológica, composto pelos seguintes fatores ou níveis de análise: i) Nível de sensibilização para a tecnologia; ii) nível de sintonia entre a estratégia tecnológica e a da empresa; iii) nível de capacitação tecnológica em relação aos concorrentes; iv) nível de integração entre P&D e as demais áreas de empresa; v) nível de antecipação de ameaças e oportunidades tecnológicas; nível de adequação da estrutura de P&D; vi) nível de adequação do sistema de informações tecnológicas; vii) nível de adequação dos recursos para P&D; viii) nível de adequação dos sistemas de avaliação de P&D; xi) nível de adequação das técnicas de gestão de tecnologia.
+Erasmo Gomes e Alyni Nomoto Nirazawa ISSN 2318-9231 CGE * v .6 * n.2 * Mai-Ago 2018 * 38-54 43 Segundo Perini, Carvalho & Cavalcante (2003 p. 3) "construir modelos para a auditoria, capazes de lidar com o grande número de variáveis e ressaltar os critérios realmente relevantes à organização é um fator decisivo para a aplicabilidade de uma auditoria tecnológica".
+(1995 apud INTELI, 2004 p. 8), propõem [.]
+uma metodologia de intervenção que procura avaliar todo o processo de gestão de tecnologia, incluindo cinco dimensões distintas mas interligadas: identificação, seleção, aquisição, exploração e proteção de tecnologias.
+Estas dimensões têm associados indicadores e critérios de avaliação específicos.
+Etapas de condução da auditoria De acordo com Kelessidis (2000, p. 2-3), "não há um padrão universal para executar uma auditoria tecnológica".
+Entretanto, o autor sugere uma estrutura geral constituída por seis etapas, a saber: i) preparação, ii) diagnóstico geral, iii) coleta de informação adicional, por meio de entrevistas, iv) relatório síntese com proposta de plano de ação para a resolução de problemas tecnológicos específicos revelados a partir da auditoria; v) apresentação do relatório para a alta administração da empresa, validação das conclusões e finalização do plano de ação; vi) visitas de acompanhamento (dos consultores) e discussão com os gestores na implementação do plano de ação pela PME (KELESSIDIS, 2000, p. 3).
+Para Perini, Carvalho & Cavalcante (2003, p. 6-7), a execução de uma auditoria tecnológica contempla cinco etapas, a saber, i) planejamento, ii) coleta de informações, iii) análise das tecnologias, iv) análise do produto no mercado e v) difusão dos resultados.
+Resultados e benefícios decorrentes da auditoria Diversos autores relacionam os resultados de auditoras como insumos para um planejamento estratégico da organização, seja no aspecto tecnológico, seja numa perspectiva mais ampla.
+Assim, "auditoria tecnológica é um insumo indispensável para o delineamento do plano estratégico tecnológico da empresa" (VASCONCELLOS, 1889 apud VASCONCELLOS, WAACK & PEREIRA, 1990, p. 33).
+Amaral (1997, p. 118) também aponta que o resultado da auditoria deve possibilitar o estabelecimento de metas e de planos de ação a serem atingidos em determinados prazos.
+Para Ribeiro (2000, p. 85), a auditoria tecnológica permitirá à empresa "[.]
+identificar os pontos fortes e fracos da sua gestão estratégica e tecnológica e ajudar a identificar as tecnologias que necessitam de ser adquiridas, de colaboração externa ou de desenvolvimento em parceria com outras empresas".
+Segundo Perini, Carvalho & Cavalcante (2003, p. 3), "a auditoria tecnológica torna-se fundamental para o planejamento tecnológico da organização, pois analisa e avalia a situação atual da empresa e de seus produtos".
+Também convergente com essa perspectiva, Kelessidis (2000) aponta que "[.]
+após a conclusão bem-sucedida [da auditoria tecnológica], resultará em um plano de ação conducente à melhoria tecnológica, aquisição de tecnologias necessárias e / ou expertise.
+É ainda um bom ponto de partida para o desenvolvimento da empresa, desde que seja realizada por consultores experientes e levado a sério pela administração da empresa" (KELESSIDIS, 2000, p. 2, tradução nossa).
+No entendimento de Ribeiro (2000, p. 86), uma auditoria tecnológica ou de inovação pode auxiliar as empresas em diversas dimensões do seu negócio, com destaque para: i) Identificar oportunidades de negocio que podem gerar mais valias para a empresa; ii) Gerir a volatilidade financeira e os riscos do negócio; iii) Ser uma fonte de informação estratégica; iv) Orientar as mudanças no mercado global, tecnologias e processos de negócio; v) Construir uma base de conhecimento sobre os desenvolvimentos tecnológicos de outras empresas, universidades, etc.
+; vi) Contribuir para desenvolvimento de uma cultura tecnológica dentro da empresa; vii) Promover a transferência de tecnologia através da rede formada pelas pessoas e Auditorias tecnológica e de inovação: contribuições para pequenas e médias empresas ISSN 2318-9231 CGE * v .6 * n.2 * Mai-Ago 2018 * 38-54 44 44 de uma comunicação melhorada; viii) Obter uma perspectiva independente dos problemas e oportunidades do domínio tecnológico; ix) Identificar problemas e oportunidades em relação aos quais é necessário concentrar esforços.
+Limites da auditoria e recomendações para sua a aplicação No tocante às limitações das auditorias, Kelessidis (2000) ressalta que "[.]
+a auditoria de tecnologia em si não pode resolver os problemas fundamentais, fornecer o benefício imediato, corrigir falhas e ser um substituto para dificuldades de organização" (KELESSIDIS, 2000, p.2, tradução nossa).
+Por sua vez, a Fundación para la Innovación Tecnológica (COTEC), alerta para alguns cuidados que se devem ter quando da aplicação da auditoria.
+Assim, aconselha a evitar que (i) sua aplicação torne-se um trabalho meramente administrativo, distanciado dos benefícios e da informação para todos os indivíduos e equipes da organização, ou (ii) que seja utilizada apenas para produzir documentos e relatórios para serem arquivados ou, ainda, (iii) que se constitua em um mecanismos para responsabilizar outras partes e não atuar de forma construtiva, em um esforço de equipe para se obter melhores resultados para a organização (COTEC, 1999, p. 48).
+Por seu turno, Vasconcellos, Waack & Pereira (1990, p.39), baseados no estudo de caso realizado em uma empresa brasileira fabricante de produtos veterinários, apontam que, embora, a experiência de aplicação de uma auditora tecnológica tenha demonstrado ser "efetivamente um instrumento importante para assegurar maior competitividade à empresa", seu êxito depende de alguns pré-requisitos, tais como [.]
+i) apoio e engajamento da alta administração no processo; ii) instituição de um grupo de trabalho formado por elementos de várias áreas da empresa para coordenar o processo; iii) indicação de responsável pela aplicação da metodologia; iv) cobrar a implantação das recomendações que resultaram da auditoria tecnológica; v) repetir o procedimento periodicamente; vi) evitar o uso de ferramentas muito complexas que podem inviabilizar o processo.
+Os autores finalizam as recomendações, mencionado ser "preferível um resultado com imperfeições a um processo interminável, que não produz resultado" (VASCONCELLOS, WAACK & PEREIRA,1990, p.39).
+Instrumentos de coleta de dados e DE informações organizacionais para realização da auditoria de inovação Auditorias de inovação e tecnológicas constituem-se em uma modalidade direta de obtenção de informação no ambiente empresarial ou organizacional.
+Via de regra, para a aplicação de uma auditoria de inovação/tecnológica, são utilizados questionários para a coleta de dados e informações.
+Também são utilizados outros instrumentos, como entrevistas com pessoas chave da organização.
+Na metodologia de diagnóstico de inovação proposta por INTELI (2004), por exemplo, "os instrumentos de auditoria consubstanciam-se num questionário e num guia de entrevista [.]
+que deverão ser utilizados para coleta de informação na empresa" (INTELI, 2004, p. 53).
+Para a COTEC (1999, p. 41), a "auditoria coleta dados e informações sobre a empresa com base em listas e questionários que podem ser desenhados para cada finalidade específica da auditoria" (COTEC, 1999, p. 41).
+Para Scorsa (1993 apud AMARAL, 1997, p. 118) "qualquer auditoria tem dois componentes fundamentais: 1) questionários (estruturados, semiestruturados ou não estruturados) 2) visita – entrevista à empresa".
+O processo de coleta de informação utilizado por Videira (2001) no estudo que realizou com empresas do setor de autopeças em Portugal valeu-se de dois questionários, um deles denominado questionário central de auditoria e o outro dirigido para clientes e fornecedores.
+Assim, o questionário central de auditoria '[.]
+abrange um conjunto de questões, fundamentalmente fechadas, dirigidas a todas as áreas da empresa e que correspondem com maior ou menor profundidade à análise das dimensões críticas definidas em termos conceptuais" (VIDEIRA 2001, AII.1).
+Por sua vez, o questionário para clientes e fornecedores, "[.]
+abarcam um conjunto de questões a colocar a dois ou três dos principais clientes e fornecedores da empresa, com vista a Erasmo Gomes e Alyni Nomoto Nirazawa ISSN 2318-9231 CGE * v .6 * n.2 * Mai-Ago 2018 * 38-54 45 validar a informação recolhida no interior da mesma e a captar a percepção que tais organizações possuem do comportamento da mesma" (VIDEIRA 2001, AII.1).
+Métodos de auditorias tecnológica e de inovação selecionadas A presente seção apresenta uma breve descrição dos métodos de auditorias tecnológicas e de inovação selecionadas.
+ANPEI A ANPEI (Associação Nacional de Pesquisa, Desenvolvimento e Engenharia das Empresas Inovadoras) é uma entidade representativa do segmento das empresas e instituições inovadoras dos mais variados setores da economia.
+O Selo Anpei de Empresa Inovadora visa reconhecer e identificar empresas que investem na área de Pesquisa, Desenvolvimento e Inovação no Brasil.
+Para tanto, a Anpei disponibiliza um formulário online para auto declaração para as empresas associadas que desejam se submeter à avaliação para obter o Selo Anpei.
+As empresas que alcançarem mais de 500 pontos no sistema de avaliação recebem o Selo Anpei de Empresa Inovadora como reconhecimento.
+Segundo a entidade (ANPEI, 2011), o "Selo Anpei tem um período de validade de três anos.
+Após este período um novo ciclo de análise e concessão é requerido.
+Outro fator necessário para manter o Selo Anpei de Empresa Inovadora é atualizar os dados fornecidos sobre o tema anualmente".
+O questionário está estruturado em duas partes, a primeira com quatro questões sobre a organização e a segunda dividida de acordo com os cinco pilares de suporte à inovação considerados pela entidade: i) comprometimento com a inovação; ii) resultado da inovação, iii) sucesso de mercado; iv) cultura de mudança; v) colaboração.
+São questões quantitativas com variáveis contínuas (60%) e questões qualitativas com variáveis nominais (40%), sendo de múltipla escolha com campo para justificativa dependendo da alternativa escolhida, totalizando trinta questões.
+O número de questões qualitativas e quantitativas é diferente para cada um dos pilares, no entanto para cada pilar há os dois tipos de abordagens.
+), "para cada critério, seja ele qualitativo ou quantitativo, existem práticas associadas que são verificadas para comprovação da eficácia do critério.
+Em função da importância de cada prática, essa tem um peso que irá impactar na pontuação final do critério".
+COTEC – Portugal A COTEC Portugal (Associação Empresarial para a Inovação), foi fundada em 2003, com a missão de "de promover o aumento da competitividade das empresas localizadas em Portugal, através do desenvolvimento e difusão de uma cultura e de uma prática de inovação, bem como do conhecimento residente no país" (COTEC, 2007).
+Considerando um dos eixos estratégicos da Associação o desenvolvimento sustentado da inovação empresarial, foi estruturado um projeto para o desenvolvimento do Sistema Innovation Scoring.
+De acordo com a Associação, a aplicação do Innovation Scoring [.]
+deve contribuir para a reflexão estratégica das empresas [.]
+sobre os seus processos de inovação, permitindo conhecer de forma mais aprofundada as diferentes dimensões que sustentam tais processos e identificar áreas de potencial melhoria.
+Com base neste sistema, as organizações poderão diagnosticar, medir e questionar de uma forma mais adequada o seu desempenho e o seu potencial de inovação (COTEC, 2007, p. 75).
+O questionário de avaliação desenvolvido pelo Innovation Scoring possui uma estrutura com quatro dimensões básicas e treze subgrupos, sendo ao todo quarenta e três questões, com distinção entre abordagem e aplicação.
+`Abordagem´ é o modo como a organização encara cada tema e a sua perspectiva perante os diversos tópicos que lhe correspondem e `aplicação´ é a forma como a organização atua de fato relativamente aos tópicos considerados (COTEC, 2007).
+A dimensão ´condições´ é composta pelos subgrupos cultura, liderança e estratégia.
+Já a dimensão `recursos´ é composta por capital humano, competências, relacionamentos externos Auditorias tecnológica e de inovação: contribuições para pequenas e médias empresas ISSN 2318-9231 CGE * v .6 * n.2 * Mai-Ago 2018 * 38-54 46 46 e estrutura.
+A dimensão `processos´ é composta por gestão de atividades de pesquisa desenvolvimento e inovação (PD&I), aprendizagem e melhoria sistemática e proteção e valorização de resultados.
+Por fim, a dimensão `resultados` compõe-se pelo subgrupo relacionado à aspectos financeiros e operacionais, mercado e sociedade.
+As questões possuem diferentes ponderações que variam de dez a sessenta para cada questão, somando-se mil ao final.
+Por serem questões de múltipla escolha, cada opção tem uma pontuação que varia de zero a quatro e que deverá ser ponderada conforme o indicado na questão.
+Como resultado do questionário de avaliação haverá uma pontuação, de zero a mil pontos.
+Esta pontuação permite diagnosticar a situação atual da empresa, quais são as áreas potenciais para melhorar seu desempenho e também permite compará-la com empresas do mesmo setor.
+GESTINN O projeto GESTINN foi financiado pela União Europeia no âmbito do Programa INTERREG III B SUDOE, uma iniciativa do Fundo Europeu de Desenvolvimento Regional (FEDER) para a cooperação entre as regiões europeias.
+A FUAC – Fundación Universidade da Coruña é responsável pela coordenação do projeto.
+O objetivo geral do GESTINN é estimular a inovação por meio da gestão da inovação.
+Trata-se de identificar a situação das pequenas e médias empresas das regiões do sudoeste europeu (SUDOE) para que se possa auxilia-las nas atividades de inovação por meio de instrumentos da gestão da inovação.
+Desta forma, o Projeto GESTINN disponibiliza um questionário online para que as empresas possam respondê-lo e, assim, realizar o diagnóstico da Gestão da Inovação.
+O questionário possui uma parte com dados da empresa e do respondente e outra parte com questões.
+São ao todo cinco dimensões que se desdobram em 41 questões fechadas ou dicotômicas (sim ou não).
+Caso a resposta seja afirmativa, remete-se para perguntas de estimação ou avaliação, numa escala Likert, de 0 a 10.
+As cinco dimensões de análise abordadas pelo diagnóstico são i) Atividade de Inovação, ii) Atividade de Apoio e Organização da Inovação, iii) Atividade de Valorização da Inovação, iv) Atividade de Vigilância da Inovação e v) Interesse na Gestão da Inovação.
+IMP³rove O IMP³rove teve início em 2006 como um projeto no âmbito da iniciativa Europe INNOVA, com suporte da Comissão Europeia.
+A Europe INNOVA visava o desenvolvimento de ferramentas e instrumentos de suporte à inovação a fim de apoiar as pequenas e médias empresas a se tornarem inovadoras.
+Desta forma, a iniciativa buscou identificar os elementos facilitadores e as barreiras à inovação em setores específicos.
+Esta abordagem setorial possibilitou a cooperação europeia por meio do estabelecimento de redes de cooperação, como, por exemplo, as plataformas de aprendizagem para a troca de experiências, boas práticas e conhecimentos para melhor servir as PMEs.
+O IMP³rove Assessment é uma ferramenta de autoavaliação da gestão da inovação online e pode ser utilizada de forma independente (ou seja, de forma não assistida) ou com o auxílio de um consultor.
+Ao todo o questionário possui 47 questões, distribuídas entre as cinco dimensões.
+Além disso, o questionário apresenta uma variedade no formato das questões, sendo estas de múltiplas respostas, de múltipla escolha e descritiva.
+As dimensões de análise são: i) estratégia de inovação, ii) inovação organizacional e cultura, iii) processo do ciclo de vida da inovação, iv) fatores facilitadores e v) resultados da inovação.
+Em 2014 o, então, projeto IMP³rove, passou a se chamar European Innovation Management Academy, tornando-se uma organização sem fins lucrativos, instituída por organizações como A.T. Kearney (Alemanha) e Agenzia per la Promozione della Ricerca Europea - APRE (Itália).
+Scherer e Carlomagno (2009) A partir do estudo de casos de empresas e também da prática de consultorias em gestão da inovação, Scherer e Carlomagno (2009, p. 23) desenvolveram uma ferramenta de diagnóstico da inovação denominado "Assessment da Inovação".
+Segundo os autores para que a empresa maximize o seu potencial inovador é Erasmo Gomes e Alyni Nomoto Nirazawa ISSN 2318-9231 CGE * v .6 * n.2 * Mai-Ago 2018 * 38-54 47 necessário que ela se organize em torno a oito dimensões do negócio, a saber: liderança, estratégia, relacionamento, cultura, pessoas, estrutura, processo e funding.
+Essas oito dimensões, a serem configuradas de acordo com a estratégia e cultura da empresa, são reunidas no denominado "Octógono da inovação".
+Com base nessas dimensões, os autores propõem a realização de um diagnóstico da empresa, por meio de uma ferramenta, ou esquema de análise, denominada "Assessment da Inovação".
+De acordo com os autores, o Octógono da Inovação "é uma ferramenta desenhada tanto para o diagnóstico do potencial inovador como para a gestão de empresas inovadoras" (SCHERER; CARLOMAGNO, 2009, p. 23).
+O "Assessment da Inovação" de Scherer e Carlomagno (2009) é composto de 24 questões, distribuídas entre as oito dimensões de análise, utilizando a escala Likert de 1 a 7, sendo que 1 corresponde a "discordo totalmente" e 7 corresponde a "concordo totalmente".
+Tidd, Bessant e Pavitt (2008) Joe Tidd, John Bessant e Keith Pavitt (TIDD et al., 2008) são os autores do livro "Gestão da Inovação", o qual propõe um modelo de auditoria da gestão da inovação.
+(2008, p. 583), o modelo de auditoria da gestão da inovação é indicado para "verificar o que você fez certo e errado, em caso de inovações específicas, ou como forma de compreender por que as coisas acontecem de determinada maneira".
+O questionário de avaliação proposto pelo autores possui 40 questões, utilizando escala Likert, de 1 a 7, sendo que 1 significa "definitivamente falso" e 7 significa "muito verdadeiro".
+Estas questões referem-se as cinco dimensões da inovação, quais sejam, i) estratégia, ii) aprendizagem, iii) relacionamentos, iv) processos e v) organização inovadora.
+Amaral (1997) O método proposto por Amaral (1997) é o resultado da dissertação de mestrado do autor, realizado junto a Faculdade de Engenharia da Universidade do Porto.
+O trabalho realiza uma revisão da literatura sobre as auditorias de inovação existentes e propõe uma metodologia para colaborar no processo de inovação regional através da iniciativa Estratégia de Inovação para a Região do Norte (EIR-Norte), financiada por Portugal e pela União Europeia.
+O método proposto por Amaral (1997) apresenta dois questionários.
+O primeiro é preenchido pela empresa antes da primeira visita de apresentação e que tem como objetivo obter informações básicas da empresa, como por exemplo: os dados gerais da empresa, dados sobre as atividades da empresa, dados econômicos dos últimos exercícios dentre outros.
+O segundo é o questionário da auditoria, propriamente dito, composto ao todo 164 questões distribuídas em torno à seis dimensões de análise, a saber: i) análise do grau de abertura, ii) concepção, iii) design e projeto industrial; iv) potencial de P&DT; v) qualidade; vi) meio ambiente; segurança e saúde no trabalho.
+As questões são, em sua maioria, questões abertas e algumas são de múltipla escolha.
+O questionário é mais um guia que auxilia a contemplar todos os aspectos para se realizar um bom diagnóstico da empresa.
+Embora o número de questões seja elevado, não há necessidade de aplicação na sua totalidade.
+o questionário não deve ser seguido à risca.
+A sua utilização depende muito da experiência dos auditores e do conhecimento que estes têm sobre o sector e a empresa em causa.
+No limite, os auditores apenas precisam conhecer o índice do questionário.
+Com base neste índice podem conduzir a entrevista como bem entenderem.
+A utilização rígida de um questionário estruturado pode tornar a entrevista aborrecida e pouca proveitosa.
+Mentz (1999) Mentz (1999) propõe uma metodologia de auditoria de competência para inovação tecnológica em sua dissertação de mestrado, realizado na Universidade de Pretoria, intitulada "Developing a competence audit for Auditorias tecnológica e de inovação: contribuições para pequenas e médias empresas ISSN 2318-9231 CGE * v .6 * n.2 * Mai-Ago 2018 * 38-54 48 48 technological innovation".
+O questionário de avaliação possui 51 perguntas de múltipla escolha, distribuídas em três dimensões de análise, a saber: i) interação com o ambiente externo, ii) organizacional e iii) pessoas.
+Apesar de Mentz (1999) referir-se a seu trabalho como sendo uma auditoria de competências para alcance da inovação tecnológica, nota-se grande semelhança com as auditorias de inovação devido ao conteúdo do questionário de avaliação abordar os aspectos gerais da organização que são importantes para gestão da inovação.
+No Quadro 1 são apresentados aspectos dos métodos de auditorias tecnológicas e de inovação analisados.
+ISSN 2318-9231 CGE * v .6 * n.2 * Mai-Ago 2018 * 38-55 49 ANPEI COTEC - Portugal GESTINN IMP³rove Scherer e Carlomagno (2009) Mentz (1999) Tidd et al.
+(2008) Amaral (1997) Característica do instrumento de coleta de dados Questões quantitativas (60%) e qualitativas (40%) de múltipla escolha com campo para justificativa dependendo da alternativa escolhida, totalizando 30 questões.
+Formulário com 43 questões, com perguntas de estimação ou avaliação, com escala de 0 a 4, com ponderação, em dois níveis: abordagem e aplicação.
+Questionário com 41 questões dicotômicas (sim ou não).
+Em caso afirmativo, remete-se à escala Likert, de 1 a 10, sendo 1 "pouco provável" e 10 "muito provável".
+Questionário com 47 questões de múltipla escolha.
+Questionário com 24 questões de múltipla escolha, utilizando escala Likert de 1 a 7, sendo que 1 significa "discordo totalmente" e 7 significa "concordo totalmente".
+Questionário com 51 questões de múltipla escolha.
+Questionário com 40 questões para atribuir pontuação em uma escala Likert de 1 a 7 (sendo 1, definitivamente falso e 7 muito verdadeiro) Questionário com 164 questões abertas e de múltipla escolha.
+Dimensões / Aspectos analisados Comprometimento com a inovação Resultado da Inovação Sucesso de Mercado Cultura da Mudança Colaboração.
+Condições Recursos Processos Resultados Atividade de Inovação Atividade de Apoio e Organização da Inovação Atividade de Valorização da Inovação Atividade de Vigilância da Inovação Interesse na Gestão da Inovação Estratégia de Inovação Inovação Organizacional e Cultura Processo do Ciclo de Vida da Inovação Fatores Facilitadores Resultados da Inovação Estratégia Liderança Relacionamentos Cultura Pessoas Estrutura Processo Funding Interação com o ambiente externo Organizacional Pessoas Estratégia Aprendizagem Relacionamentos Processos Organização Inovadora Análise do grau de abertura Concepção, design e projeto industrial Potencial de P&DT Qualidade Meio Ambiente Segurança e Saúde no Trabalho Auditorias tecnológica e de inovação: contribuições para pequenas e médias empresas ISSN 2318-9231 CGE * v .6 * n.2 * Mai-Ago 2018 * 38-54 50 50 Quadro 1 - Características dos métodos de auditoria tecnológica e de inovação analisados.
+Fonte: Elaborado pelos autores.Condução da Auditoria Autoavaliação online Autoavaliação Autoavaliação online Autoavaliação online Autoavaliação online Avaliação assistida por consultor Autoavaliação Avaliação assistida por consultor Recomendações / Resultados Relatório com os pontos obtidos e potenciais pontos de melhoria para alcançar a excelência em gestão de inovação.
+Pontuação geral, dada pela soma ponderada das pontuações relativas a todas as questões colocadas.
+Como resultado da avaliação é enviado um relatório com o diagnóstico da gestão da inovação na empresa.
+Diagnóstico da Gestão da Inovação com benchmarking internacional Gráfico radar com as pontuações distribuídas de acordo com as dimensões.
+Subsídios para formulação da estratégia de negócios Gráfico radar com as pontuações em cada dimensão analisada.
+Subsídios para formulação da estratégia de inovação Análise comparada dos métodos de auditoria tecnológica e de inovação ISSN 2318-9231 CGE * v .6 * n.2 * Mai-Ago 2018 * 22-37 51 Ao se comparar as dimensões e conteúdos dos questionários que são o instrumento para o diagnóstico da gestão da inovação torna-se evidente as semelhanças e diferenças entre eles.
+De modo geral, é possível concluir que os questionários de avaliação buscam abordar os aspectos da organização como um todo, ou seja, analisam os recursos humanos, os recursos financeiros, a estratégia e o planejamento, a estrutura organizacional, a cultura organizacional, as políticas e os processos, os relacionamentos com stakeholders e os sistemas de desenvolvimento e inovação.
+Nota-se que existem diversos métodos de avaliação bem como diversas resultantes.
+Existem métodos mais subjetivos que exigem a habilidade de um consultor para diagnosticar a empresa e, outros mais objetivos que fornecem uma pontuação total como resultado da avaliação.
+O resultado destas avaliações pode ser simplificado (notas e pontuações) obtido de forma rápida, como uma autoavaliação, ou ainda podem ser gerados relatórios específicos detalhando cada ponto forte e ponto fraco da empresa, com sugestões de melhorias.
+Algumas propostas, como de Amaral (1997), por exemplo, acrescentam à auditoria as dimensões de análise relacionadas à segurança e saúde no trabalho e meio ambiente que são dimensões de análise menos comuns, dentre os métodos analisados.
+A auditoria tecnológica e de inovação fornece informações do ponto de vista interno da empresa, ou seja, o olhar para dentro da mesma, mas também possibilita a comparação com outras empresas por meio de benchmarking.
+Algumas das metodologias analisadas fazem uso do banco de dados gerado pelas respostas destes questionários e as utiliza para fornecer um parâmetro para a empresa avaliada de como ela se encontra diante de seus concorrentes no setor.
+Ao analisar os questionários observa-se também que alguns deles destinam-se a um projeto específico, e por isso, abordam questões mais específicas relacionadas ao setor e à localidade.
+Por outro lado, alguns questionários são mais universais, ou seja, podem ser aplicados em vários tipos de empresas sejam elas de diferentes setores, ou portes diferentes.
+A forma de aplicação das auditorias também é diversificada, compreendendo desde a autoavaliação até a avaliação assistida por consultores externos, que fornecem gráficos radiais com o produto da avaliação das dimensões ou relatórios detalhados sobre cada questão respondida.
+No total foram relacionados pelos oito métodos analisados 41 dimensões de análise.
+Agrupando-se as dimensões de análise de todos os métodos por similaridade, utilizando-se como critério seu significado/conteúdo e não apenas sua denominação, observa-se oito dimensões recorrentes, isto é, que constam em mais de um método.
+As dimensões de análise que apresentam maior recorrência, presentes em quatro métodos distintos, são: organizacional, processo e resultado.
+Em três métodos, constam as dimensões cultura, estratégia e relacionamentos.
+Em dois métodos constam as dimensões pessoas e recursos/funding.
+Por sua vez, sete dos oito métodos possuem dimensões recorrentes entre si.
+Neste aspecto, apenas o método proposto por Amaral (1997) não apresenta dimensões de análise comuns com os demais.
+O método com maior número de dimensões recorrentes, em números absolutos, é o de Scherer e Carlomagno (2009), com seis dimensões coincidentes das oito propostas originalmente pelos autores.
+São elas: processo, cultura, estratégia, relacionamentos, pessoas e recursos/funding.
+Realizando, desta vez, a comparação em termos percentuais, ou seja, considerando a razão entre o número de dimensões originalmente proposto pelo método e o número de dimensões de análise recorrentes, tem-se que o método de auditoria proposto por Mentz (1999), apresenta 100% de recorrência.
+Isto é, todas as dimensões propostas pelo autor constam também em todas as demais propostas analisadas.
+Na Tabela 1 são apresentadas as recorrências absoluta e relativa das dimensões de análise entre os métodos de auditoria analisados.
+Auditorias tecnológica e de inovação: contribuições para pequenas e médias empresas ISSN 2318-9231 CGE * v .6 * n.2 * Mai-Ago 2018 * 38-54 52 Método Dimensões Originais Recorrência Absoluta Recorrência Relativa Scherer e Carlomagno (2009) 8 6 75% IMP³rove 5 4 80% Tidd et al.
+(2008) 5 4 80% Anpei 5 3 60% COTEC (2007) 4 3 75% Mentz (1999) 3 3 100% Gestinn (2008) 5 2 40% Amaral (1997) 6 0 0% Tabela 1 Recorrência absoluta e relativa das dimensões de análise.
+Fonte: Elaborado pelos autores.
+Considerações finais A revisão da literatura mostra que os conceitos de alguns autores sobre a auditoria de inovação e auditoria tecnológica apontam para um objeto de estudo a ser ainda consolidado, não existindo uma definição clara e objetiva da diferença entre auditoria tecnológica e auditoria de inovação.
+Com efeito, constata-se que embora alguns autores utilizem nos seus trabalhos o termo "auditoria tecnológica", a análise atenta dos mesmos relevou se tratar de uma abordagem mais ampla, não adstrita exclusivamente à dimensão "tecnológica" das organizações.
+Ou seja, não se restringiam a apresentar nas suas propostas metodológicas enfoques direcionados exclusivamente ao diagnóstico e análise do parque de equipamentos existente nas organizações, com seu respectivo nível de atualização tecnológica (versões, gerações.)
+e grau de utilização (ou de domínio de uso) pelas organizações.
+Ainda que não excluída essa abordagem, a maioria dos trabalhos apresenta conceitos, métodos e ferramentas ou métricas para avaliação da capacidade organizacional e das suas atividades inovativas, em sentido amplo, tais como estímulos oferecidos aos seus recursos humanos, promoção de ambiente favorável à criatividade, tipo de estrutura organizacional (horizontalizada, verticalizada), estilos de liderança, perfil da mão-de-obra, mecanismos de prospecção de mercados, existência de planejamento estratégico para inovação, estrutura de pesquisa e desenvolvimento dentre outros aspectos que remetem à noção ampla de inovação e não apenas a questão da tecnologia utilizada no seu processo produtivo.
+Isto posto, observa-se, de maneira geral, a utilização de termos diversos referindo-se a um mesmo fenômeno - que é, de fato, o que indica o resultado da comparação entre os métodos de auditoria analisados.
+Além disso, nota-se uma variedade de métodos de avaliação da capacidade de inovação, bem como o resultado desta avaliação.
+Existem métodos mais voltados a autoavaliação e outros mais dispendiosos que exigem a contratação de consultores, o que pode dificultar o acesso às micro e pequenas empresas.
+Os resultados, seguindo a mesma lógica, podem fornecer informações genéricas como também podem fornecer informações detalhadas e orientadas para melhorias.
+Apesar destas diferenças, as auditorias tecnológicas e de inovação têm em comum o objetivo de buscar avaliar a capacidade inovativa das organizações, sendo um instrumento que possibilita a reflexão e que pode orientar a tomada de decisão, por meio do diagnóstico gerado.
+Erasmo Gomes e Alyni Nomoto Nirazawa ISSN 2318-9231 CGE * v .6 * n.2 * Mai-Ago 2018 * 38-54 53 Conforme exposto anteriormente, dados das sucessivas edições da PINTEC apontam para o desafio relacionado à inovação que se apresenta para as empresas brasileiras em geral, incluindo micro, pequenas e médias.
+Os métodos de auditoria tecnológica e de inovação apresentados podem contribuir para a superação desse desafio, constituindo-se em um passo inicial, oferecendo um diagnóstico acerca dos pontos fortes e fracos de micro, pequenas e médias empresas no que diz respeito a sua capacidade inovativa.
+Ainda que seja um passo inicial, constitui-se procedimento importante para engendrar futuras ações para assegurar ou ampliar a competitividade dessas empresas em um ambiente concorrencial cada mais global e acirrado.
+Quanto à escolha do método a ser empregado pelas empresas, não há uma indicação específica.
+Cada empresa deve selecionar aquele que melhor se adeque à sua realidade.
+Para tanto, órgãos como o Sebrae, instituições de ensino superior, por meio de seus programas de extensão universitária e/ou entidades estudantis como, por exemplo, empresas juniores de cursos de administração e/ou engenharia, teriam plenas condições de auxiliar nesse processo.
+Outrossim, há ainda programas bem estabelecidos, como o programa Agentes Locais de Inovação (ALI), do Sebrae, e o Projeto Extensão Industrial Exportadora (PEIEX), da Agência Brasileira de Promoção de Exportações e Investimentos (APEX Brasil), executado em parceria com diversas instituições brasileiras, que também podem contribuir sobremaneira para uma maior difusão de métodos de auditoria tecnológica e de inovação nas empresas brasileiras, sobretudo no contexto das micro, pequenas e médias.
+Quanto à facilidade de aplicação e interpretação dos resultados, os métodos com questões de múltipla escolha fornecem um resultado direto por meio de pontuações e gráficos, que permitem acompanhar a evolução da empresa de forma clara e objetiva.
+Enquanto que, questões qualitativas exigem a análise de outra parte para validar o que foi descrito.
+Em relação à dificuldade na aplicação, ela pode ocorrer em razão de dúvidas sobre conceitos e interpretação das questões de autoavaliação, o que é facilitado quando a avaliação é assistida por consultor.
+Outra dificuldade seria a questão da coleta de dados que, por abordar assuntos da empresa como um todo, pode demandar o envolvimento de mais de uma pessoa para responder as questões - sendo, inclusive, desejável que assim o seja, em função da diversidade de opiniões, em um primeiro momento.
+Posteriormente, por meio de um processo organizado de discussões, essa diversidade deverá ser consolidada de modo a expressar uma única visão da empresa.
+Uma limitação de alguns métodos analisados é a comparação do resultado ao longo do tempo que necessita que as questões sejam respondidas pelas mesmas pessoas, principalmente em questões com escalas que dependem da percepção pessoal, já que não fica clara a diferença entre responder 2 ou 3 para uma escala que vai de 1 a 10.
+Já as questões de múltipla escolha que descrevem situações as chances de sofrer mudanças de percepção são menores por serem mais objetivas.
+Como oportunidade para pesquisas futuras, observa-se que há espaço para uma compreensão mais profunda sobre o conteúdo das questões abordadas em cada método de auditoria tecnológica e de inovação.
+Referências AMARAL, J. N. G. Auditorias de inovação.
+248 f. Dissertação (Mestrado em Engenharia Eletroctécnica e Computadores) - Faculdade de Engenharia da Universidade do Porto.
+ANPEI (Associação Nacional de Pesquisa, Desenvolvimento e Engenharia das Empresas Inovadoras).
+Sobre o selo ANPEI de empresa inovadora.
+Disponível em: < Acesso em: 01 de novembro 2016.
+COTEC (Fundación COTEC para Inovación).
+Pautas metodológicas em gestión de la tecnologia y de la innovación para empresas (Tomo 2.
+"Herramientas de Gestión de la Tecnologia" -TEMAGUIDE).
+COTEC Portugal (Associação Empresarial para a Inovação).
+Manual de Apoio ao Auditorias tecnológica e de inovação: contribuições para pequenas e médias empresas ISSN 2318-9231 CGE * v .6 * n.2 * Mai-Ago 2018 * 38-54 54 Preenchimento do Sistema de Innovation Scoring da COTEC.
+111 p. GESTINN (Gestión de la Innovación).
+Diagnóstico en Gestión de la Innovación.
+Disponível em: < Acesso em: 01 de novembro de 2016.
+GIL, A.C. Como elaborar projetos de pesquisa.
+Disponível em < Acesso em: 01 de novembro 2016.
+KELESSIDIS, V. Tecnhology audit.
+34 p. (Relatório do Projeto Innoregio: dissemination of innovation and knowledge management techniques).
+Disponível em: < Acesso em: 01 de novembro de 2016.
+Metodologia do trabalho científico.
+Developing a competence audit for technological innovation.
+Dissertation (Master in Engineering, Management of Technology) – University of Pretoria.
+OCDE (Organização para Cooperação e Desenvolvimento Econômico).
+Diretrizes para coleta e interpretação de dados sobre inovação.
+184 p. (Traduzido sob a responsabilidade da FINEP).
+Disponível em: Acesso em: 10 de novembro de 2014.
+B.; CARVALHO, H. G.; CAVALCANTE, M. B. Auditoria tecnológica: metodologia e ferramentas.
+RECITEC (Revista de Ciência e Tecnologia Política e Ge stão para a Periferia), Recife, v.7 , n.1 , p .1-16, 2003.
+RIBEIRO, F. R. S. Estratégias tecnológicas em PMEs: auditorias tecnológicas.
+150 f. Dissertação (Mestrado em Engenharia Electrotécnica e Computadores) - Faculdade de Engenharia, Universidade do Porto, Porto, 2000.
+SCHERER, F. O.; CARLOMAGNO, M. S. Gestão da inovação na prática: como ampliar conceitos e ferramentas para alavancar a inovação.
+224 p. TIDD, J.; BESSANT, J.; PAVITT, K. Gestão da Inovação.
+600 p. VASCONCELOS, E.; WAACK, R.S.
+Auditoria tecnológica da empresa: um estudo de caso.
+Revista de Administração, São Paulo, v. 25, n.1, p. 32-40, 1990.

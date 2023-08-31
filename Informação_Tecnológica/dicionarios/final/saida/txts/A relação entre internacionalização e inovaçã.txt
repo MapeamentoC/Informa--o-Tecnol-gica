@@ -1,0 +1,359 @@
+ São Paulo, v.16, n. 1, p. 110-126, jan./abr.
+2021 | e -ISSN: 1980 -4865 | Revista Eletrônica de Negócios Internacionais A RELAÇÃO ENTRE INTERNACIONALIZAÇÃO E INOVAÇÃO NAS MULTINACIONAIS DE PAÍSES EMERGENTES ΩAna Claudia Bansi, ¥Alisson Maxwell Ferreira de Andrade, €1Simone Vasconcelos Galina ΩInstituto Federal de São Paulo – IFSP, São Carlos, S ão Pulo, (Brasil) ¥Universidade Fed eral de Mato Grosso do Sul – UFMS , Mato Grosso do Sul, (Brasil) €Universidade de São Paulo – USP, São Paulo, (Brasil) DETALHES DO ARTIGO RESUMO Histórico do Artigo: Recebido em: 03 de março de 20 20 Aceito: 16 de novembro de 2020 Disponível online: 01 de janeiro de 2021 Sistema de revisão "Double blind review" Editor Científico Ilan Avrichir Objetivo: Avaliar a relação entre o grau de internacionalização, a in tensidade de pesquisa e desenvolvimento (IP&D) e a geração de patentes nas empresas multinacionais (EMNs) dos BRICS (Brasil, Rússia, Índia, China, África do Sul).
+Método: A amostra do estudo corresponde a 219 EMNs dos BRICS, cujos dados foram obtidos de 2 002 a 2010 a partir de duas bases de dados: Thomson One Datastream e Compustat Data.
+Análises foram feitas por regressão múltipla.
+Principais resultados: Os resultados encontrados foram (i) EMNs mais internacionalizadas são as que mais investem em P&D; (ii ) IP&D impacta positivamente na solicitação de patentes; (iii) a internacionalização aumenta o IP&D, que por sua vez aumenta patentes.
+Os resultados diferem pelo tamanho das empresas, sendo os impactos da internacionalização na inovação maiores nas empresa s menores, e o impacto do IP&D na geração de patentes maior nas empresas maiores.
+Relevância/originalidade: Das várias formas de relação entre inovação e internacionalização a evidência de obtenção de conhecimento a partir da internacionalização é relativa mente recente e, portanto, o impacto da internacionalização sobre a inovação tem sido foco de pesquisas mais atuais.
+Contudo, grande parte dos trabalhos foca em um só país, principalmente os países desenvolvidos.
+Portanto, é de grande relevância estudar es te tema em países em desenvolvimento.
+Contribuições teóricas: Este estudo contribui para avançar a literatura na área de internacionalização mostrando empiricamente, que, assim como nos países desenvolvidos, nos BRICS a internacionalização tem efeito posit ivo na inovação .
+Contribuições para gestão: Mostra a necessidade de utilizar estratégia de expansão internacional como ferramenta para ampliar sua capacidade de investimento em inovação.
+Palavras -Chave Internacionalização Intensidade de Pesquisa e Desenvolvimento Geração de Patentes 1 INTRODUÇÃO A internacionalização das empresas tem sido uma realid ade e é vista, juntamente com a inovação, como meio para aumentar a competitividade e a expansão dos negócios .
+Os mercados internacionais permitem que empresas multinacionais (EMNs) ganhem vantagens de escala e fontes de ativos intangíveis, incluindo acess o a conhecimento.
+Como implicação, as empresas podem aumentar seu tamanho e utilizar 1 Contato do autor - Email: svgalina@usp.br DOI: 10.18568/internext.v16i1.
+597 recursos de conhecimentos dispersos internacionalmente para gerar vantagem competitiva.
+Assim, a internacionalização, com base na combinação de tecnologia e conhecimento obtidos em mercados domésticos e estrangeiros, permite a expansão de inovações mais ambiciosas e eficientes (Schmiele, 2011).
+Essa é a ideia encontrada na literatura sobre a visão baseada em recursos (RBV) em que a inovação 111 A. C. Bansi , A. M. F. Andrade & S. V. Galina Internext | São Paulo, v.16, n. 1, p. 110-126, jan./abr.
+2021 é entendida como um recurso estr atégico capaz de conduzir à vantagem competitiva.
+No contexto das EMNs, o conhecimento e a inovação criados em determinada subsidiária, bem como sua rápida disseminação através de toda organização, são, em parte, responsáveis pelo desempenho e pela competi tividade das empresas internacionalizadas (Ciabuschi & Martín, 2012) .
+Nesse sentido, a empresa que mantém suas atividades de P&D em vários mercados potencializa as inovações.
+Como consequência, algumas vantagens podem ser observadas: facilitação do acesso a conhecimentos estrangeiros; entrada em novos mercados com o intuito de aumentar a escala de produção e venda de suas inovações; e redução dos custos da atividade de inovação, uma vez que a empresa pode se instalar em países que possuem uma relação preço/ produtividade vantajosa (Schmiele, 2011).
+Essas vantagens são possíveis porque a diversificação internacional contribui para a geração de recursos necessários à alta intensidade de P&D das organizações (Kobrin, 1991) , resultando, muitas vezes, em patentes, as quais cria m proteção e direito provisório sobre um determinado invento com a capacidade de minar a ação dos concorrentes por um período, gerando vantagem competitiva para a empresa (Belenzon & Patacconi, 2013; Teh, Kayo, & Kimura, 2008).
+Por fim, no co ntexto da inovação, e com o objetivo de mensurá -la, o investimento em P&D é entendido como um input da atividade de inovação, no entanto, tal investimento não fornece qualquer informação sobre o sucesso desta atividade.
+Por isso, o número de patentes conce dido a uma empresa é uma medida alternativa para capturar os resultados da inovação, ou seja, a geração de patentes é considerada um dos output s da inovação (Tsao & Lien, 2011).
+Ao mesmo tempo em que as inovações são importantes para o desempenho das empre sas (Ciabuschi & Martín, 2012), e que aquela s com maior diversificação internacional possuem melhor capacidade de investimento em atividades de inovação (Kobrin, 1991 ), nota -se que no caso de EMNs de economias em desenvolvimento , a expansão internacional é utilizada como uma espécie de "trampolim" para adquirir ativos estratégicos, necessários para competir mais eficazmente contra os seus concorrentes globais.
+A literatura tem mostrado que EMNs de países em desenvolvimento buscam conhecimento no exterior (P apanastassiou , Pearce, & Zanfei, 2020) principalmente porque confiam que a P&D em economias avançadas pode compensar a falta dela nas matrizes, o que levaria a inovação (Awate, Larsen , & Mudambi, 2015).
+Nesse sentido, uma questão que emerge é se a expansão internacional exerce de fato influência sobre a capacidade de investimento em P&D e, por conseguinte, sobre a geração de patentes nas EMNs de economias em desenvolvimento , particularmente aquelas que dependem da inovação para competitividade por estarem i nseridas em cadeias globais de produção, como os BRICS (Brasil, Rússia, Índia, China e África do Sul).
+Esses países, especialmente puxados pela China e com destaque também para Índia , aumentaram gradualmente seu papel na inovação global (Wang & Li-Ying, 20 14) e são amplamente considerados como as áreas do mundo que provavelmente desafiarão a liderança econômica e tecnológica dos países desenvolvidos (Crescenzi & Rodrıguez -Pose, 2017).
+Assim, este artigo tem como objetivo avaliar a relação entre o grau de internacionalização, a Intensidade de Pesquisa e Desenvolvimento (IP&D) e a geração de patentes nas empresas dos BRICS.
+A relação entre inovação e internacionaliz ação é foco de estudos acadêmicos.
+A literatura tem analisado a inovação impactando na internacionalização há algum tempo, e, portanto, há maior entendimento sobre esse tema (Barrios, Görg, & Strobl, 2003; Kyläheiko, Jantunen, Puumalainen, Saarenketo, & Tu ppura, 2011).
+No entanto, a evidência de obtenção de conhecimento a partir da internacionalização é relativamente recente, e essa literatura é então mais escassa (Bratti & Felice, 2012).
+Sendo assim, o impacto da internacionalização na inovação têm sido fo co de pesquisas mais atuais (Bratti & Felice, 2012; Filippetti, Frenz, & Ietto -Gillies, 2012 ; Siedschlag & Zhang, 2015; Xu, Xia , & Li 2017), assim como a relação de causalidade recíproca entre os temas (Filipescu, Prashantham, Rialp, & Rialp, 2013).
+Grande parte dos trabalhos foca em empresas de um só país, principalmente, de países desenvolvidos, o que também serviu de estímulo para a realização deste estudo com o intuito de entender um tema em atual desenvolvimento, numa perspectiva de países emergentes.
+Essa escassez de estudos sobre EMNs de países emergentes já era observada por Meyer (2004), que enxerga tais empresas como 112 A Relação entre Internacionalização e Inovação nas Multinacionais de Países Emergentes Internext | São Paulo, v.16, n. 1, p. 110-126, jan./abr.
+2021 organizações que desempenham um papel fundamental no desenvolvimento de muitas economias emergentes e por Cuervo -Cazurra (2012) , que vê especificidades dessas firmas como potenciais contribuições à teoria na área de internacionalização.
+Portanto, ambos acreditam que essas EMNs deveriam ser estudadas por mais pesquisadores.
+Daí a contribuição deste artigo, numa perspectiva de países emer gentes, trazendo luz para uma melhor compreensão acerca do fenômeno no âmbito das EMNs dos BRICS, devido ao crescente poder econômico e influência geopolítica desse agrupamento de países.
+Portanto , este artigo contribui para avançar a literatura em interna cionalização da inovação , mostrando, semelhante ao que ocorre no s países desenvolvidos, que a internacionalização aumenta a intensidade de investimento em P&D, que por sua vez aumenta a solicitação de patentes .
+No entanto , há particularidades que podem ser específicas de países em desenvolvimento.
+Como complemento , este trabalho também apresenta contribuição prática para a gestão empresarial relacionando a expansão internacional com a possibilidade de inovação.
+O artigo está organizado da seguinte forma: o próximo tópico trata do referencial teórico e a formulação das hipóteses.
+A seguir os procedimentos metodológicos são apresentados, incluindo o modelo de pesquisa, definição da amostra, variáveis e técnicas estatísticas.
+Os resultados e a discussão são os tópicos seguintes.
+O artigo é finalizado com as conclusões , incluindo as limitações do estudo e caminhos para futuras pesquisas.
+2 REFERENCIAL TEÓRICO E FORMULAÇÃO DAS HIPÓTESES Considerando o contexto de fortalecimento da economia baseada em c onhecimento e do aumento da competição global, a ocorrência de dois fenômenos pode ser observada: a diminuição do ciclo de vida dos produtos e o aumento do investimento requerido para desenvolver vantagens tecnológicas e competitivas significativas que lev em à inovação .
+É válido considerar que a inovação é uma mudança significativa em produto ou processo, ou seja, considera -se inovador tudo de diferente que foi disponibilizado para usuários em potencial (produto) ou usado pela organização/empresa (processo) (Organization for Economic Cooperation and Development [ OECD ], 2018).
+Um ponto a ser observado é o da obsolescência tecnológica, que está relacionada ao aumento do custo da depreciação e consequentemente de investimentos em P&D (Chinloy , Jiang, & Joh n, 2020).
+Em indústrias de alta tecnologia em que es sa obsolescência é rápida, como demonstrado por Kotabe (1990), os investimentos, em alguns casos, não são recuperáveis antes da inovação se tornar ultrapassada.
+O mesmo pode acontecer em empresas que oper am somente em mercados domésticos, ou seja, encontram dificuldade em recuperar investimentos iniciais em inovação devido a insuficiência de sua escala de produção e venda.
+No entanto, essa relação pode ser invertida ao passo em que a diversificação interna cional demonstre ter um efeito positivo nas atividades de inovação da empresa (Hitt , Hoskisson, & Kim , 1997).
+Nessa linha de raciocínio, um crescente corpo de literatura fundamentado na visão baseada em recursos da empresa (RBV) traz novas perspectivas para a gestão da inovação.
+A presença de diferentes recursos e capacidades organizacionais afeta positivamente o resultado do processo de inovação e, portanto, pode ser usado para estender os resultados obtidos sobre a capacidade da empresa de inovar.
+A inova ção, portanto , é uma competência crítica no longo prazo tanto para a competitividade quanto para o desempenho da empresa.
+Ela tem início com a alocação de recursos, frequentemente refletidos pelos investimentos em P&D, que por sua vez, permite a acumulação de estoques de conhecimento, os quais geram atividades inovadoras (Sugheir, Phan, & Hasan, 2012).
+A capacidade de internacionalizar também passa a ser considerada uma vantagem competitiva, pois a diversidade de contextos organizacionais é fonte de criati vidade que proporciona acesso a conhecimento e tecnologia em todo o mundo para desenvolver soluções inovadoras (Chatenier, Verstegen, Biemans, Mulder, & Omta, 2010).
+Portanto, por meio da diversificação internacional, as empresas conseguem acessar grandes mercados e um número maior de recursos, o que consequentemente, gera a capacidade de investir com mais frequência e intensidade em inovação.
+Indiscutivelmente, a habilidade em apropriar retornos provenientes da inovação estimula empresas diversificadas 113 A. C. Bansi , A. M. F. Andrade & S. V. Galina Internext | São Paulo, v.16, n. 1, p. 110-126, jan./abr.
+2021 internacionalmente a investirem mais intensamente em P&D (Hitt et al., 1997).
+Esse raciocínio é ainda mais relevante para EMNs de países em desenvolvimento, que parecem usar a internacionalização para compensar escassez de conhecimento no país de origem (Papa nastassiou et al., 2020) .
+(2017), que, ao estudarem empresas chinesas (país pertencente aos BRICS ), encontraram que a renda no exterior, usada para medir o grau de internacionalização de uma empresa, contribui mais para os in vestimentos em P&D do que a renda doméstica.
+Os resultados demonstram que a internacionalização tem um efeito de incentivo significativo na IP&D.
+Trabalhos empíricos com empresas de países desenvolvidos mostram a relação positiva entre internacionalização e inovação.
+Firmas irlandesas com atividades internacionais são mais propensas a investir em inovação e a obter sucesso com ela do que as locais (Siedschlag & Zhang, 2015).
+Em empresas italianas , a exportação aumenta a probabilidade de introdução de inov ações em produtos (Bratti & Felice, 2012).
+Num estudo mais abrangente com 42 países , resultados similares foram encontrados: o investimento direto no exterior e a exportação aumentam o aprendizado e a necessidade para inovar (Filippetti et al., 2012) .
+Em suma, sob a luz da RBV, a habilidade para inovar representa um meio para desenvolver e manter vantagem competitiva.
+Por considerar que EMNs presentes em mercados competitivos globalmente precisam lidar com a necessidade de investir no desenvolvimento de v antagens, entre elas a inovação por meio das atividades de P&D, e por observar que a própria internacionalização incentiva o investimento em recursos para construir e manter habilidades em inovação, levanta -se a seguinte hipótese: Hipótese 1 (H1 ): O grau d e internacionalização das EMNs terá um efeito positivo sobre a capacidade da empresa em investir em P&D com o intuito de gerar inovação.
+A internacionalização pode interferir não apenas nos investimentos em P&D, mas consequentemente na inovação de produtos e na solicitação de patentes (Salomon & Shaver, 2005), já que investimentos em atividades de P&D são relacionados com a geração de patentes (Altuzarra, 2019).
+(2008) afirmam que a inovação pode ser avaliada mediante dois pontos: o primeiro repr esenta os valores de input no processo, como investimentos em P&D, e o segundo representa os valores de output , por exemplo a produção de patentes.
+Tanto as atividades em P&D quanto as relacionadas à propriedade intelectual (incluindo patentes) são relevan tes para mensuração da inovação (OECD, 2018).
+Em uma pesquisa realizada sobre a relação entre P&D e patentes em empresas alemãs, foi concluído que o ponto de partida para o desenvolvimento de patentes foi motivado economicamente pelo objetivo de fort alecer os incentivos para despesas com P&D e para acelerar a difusão de novos conhecimentos (Blind, Edler, Frietsch , & Schmoch, 2006).
+Segundo os autores, a intensidade de P&D explica de forma positiva a possibilidade de patentear, não só para aumentar o potencial de mudança da própria empresa, mas também a fim de usar as patentes como incentivos para os funcionários ou como indicadores de desempenhos comparativos internos e externos.
+O patenteamento ainda foi considerado, na mesma pesquisa, como importante para melhorar a reputação das empresas, ou seja, tal atividade está ligada a motivos estratégicos.
+Também há estudos que mostram a existência de uma relação positiva entre P&D e patentes sobre o desempenho e valor das empresas (Megna & Klock , 1993) .
+De forma geral, grandes carteiras de patentes podem sugerir que as empresas são bem administradas e possuem valiosas capacidades de P&D, além de sinalizar força tecnológica (Belenzon & Patacconi, 2013).
+O conhecimento gerado nas empresas é, portanto, muitas ve zes codificado e medido na forma de patentes, e as empresas que atuam no patenteamento são caracterizadas como de conhecimento intensivo (Sugheir et al., 2012).
+Altuzarra (2019) realizou um estudo com empresas espanholas e constatou que existe um relaciona mento bidirecional entre P&D e patentes, apoiando tanto a visão tradicional quanto a abordagem de causalidade reversa (patentes causam P&D).
+Em empresas chinesas, resultado semelhante foi encontrado, ou seja, investimentos em P&D têm apresentado relação po sitiva com o número de patentes (Xu et al., 2017).
+Isso mostra que investimentos em P&D e patentes, bem como a relação entre eles, são indicadores relevantes de inovação também em empresas de países em desenvolvimento.
+114 A Relação entre Internacionalização e Inovação nas Multinacionais de Países Emergentes Internext | São Paulo, v.16, n. 1, p. 110-126, jan./abr.
+2021 Yang (2012) discute o papel das paten tes no contexto da internacionalização.
+O autor acredita que o grau de controle sobre transações relacionadas a uma patente define as orientações estratégicas para o gerenciamento de atividades internacionais.
+Por investir nos produtos e/ou serviços relaci onados com as patentes, as empresas podem se beneficiar com a alta de receitas e rentabilidade.
+Outro aspecto relevante refere -se ao fato de que o controle de patentes aumenta a oportunidade de entrada em diversos mercados estrangeiros.
+Além disso, nota -se um aumento na solicitação de patentes por empresas localizadas nos países BRICS.
+No período de 1990 -2009, as patentes concedidas pelo escritório de marcas e patentes dos Estados Unidos (The U.S. Department of Commerce's United States Patent and Trademark Office - USPTO) aos BRICS cresceu rapidamente a partir de 1,5% em 1990 para 3,5% em 2009.
+Assim , a partir de 2000, tem havido uma contribuição crescente dos BRICS para o estoque de inovação mundial (Wang & Li -Ying, 2014).
+Em resumo, por entender não apena s que as empresas com alto grau de internacionalização possuem maior capacidade de investimento em P&D e maior chance de apropria ção das inovações realizadas, mas também que as patentes são consideradas output do investimento em P&D para a inovação, afirma -se: Hipótese 2 (H2 ): Uma maior intensidade em P&D das EMNs terá um efeito positivo sobre a capacidade de geração de patentes.
+3 PROCEDIMENTOS METODOLÓGICOS 3.1 Amostra e construção das variáveis A amostra foi obtida a partir de duas bases de dados: Thoms on One Datastream e Compustat Data , que dispõem de demonstrativos financeiros de todas as empresas listadas em bolsas de valores ao redor do mundo.
+Os dados foram obtidos de acordo com os seguintes critérios e etapas: 1) seleção de todas as EMNs de BRICS l istadas em ambas as bases de dados; 2) Filtragem das EMNs que apresentaram as seguintes informações dentro de algum ano do período 2002 -2010: a) vendas externas em relação às vendas totais; b) gastos com pesquisa e desenvolvimento (P&D) em relação as venda s; e c) retorno sobre os ativos (ROA).
+Após isso, obteve -se um total de 219 EMNs que atenderam a esses critérios, sendo obtidas 834 pares de observações.
+Assim, a amostra final incluiu 219 empresas durante o período 2002 -2010 e o número de anos em que uma empresa aparece na amostra varia.
+Por exemplo, dentre essas 219 multinacionais, apenas 61 apareceram em todos os anos do período pesquisado (2002 -2010), o que formaria um painel balanceado.
+Porém, optou -se pela seleção de um painel desbalanceado, de modo a ampliar o número de EMNs e, por conseguinte, observações ao longo do período pesquisado, sendo utilizado o método dos Mínimos Quadrados Ordinários (OLS) para analisar os dados.
+A Figura 1 delineia as variáveis utilizadas no modelo estatístico.
+115 A. C. Bansi , A. M. F. Andrade & S. V. Galina Internext | São Paulo, v.16, n. 1, p. 110-126, jan./abr.
+2021 Variáveis Métri ca Autores Grau de Internacionalização (GI) Razão entre as vendas externas em relação às vendas totais ou foreign Sales to total Sales (FSTS) Capar e Kotabe (2003), Michel e Shaked (1986) e Ruigrok e Wagner (2003) Intensidade de Pesquisa e Desenvolvimento (IP&D) Razão entre os gastos anuais de P&D em relação às vendas das EMNs Lu e Beamish (2004), Thomas e Eden (2004) e Soto, Manzaneque, Go nzáles -García e Galache -Laza (2019) Geração de Patentes (GP) Quantidade anual de patentes publicadas pelos escritórios nacionais ou regionais de propriedade industrial compreendidos pela base Thomson Innovation Altomonte, Aquilante, Békés e Ottaviano (201 3) e Cázares e Filipescu (2014) Tamanho (TAM) Logaritmo natural do total de vendas Gaur e Kumar (2009) e Lu e Beamish (2004) Efeitos da indústria Conjunto de 11 variáveis dummy (I1= Aeronáutico; I2= Alimentício, I3= Automobilístico, I4= Conglomerado, I 5= Farmacêutico, I6= Indústria, I7= Indústria de base, I8= Químico, I9= Serviços; I10= Tecnologia da Informação; e I11= Telecomunicações) Contractor, Kundu e Hsu (2003), Gaur e Kumar (2009), Grant, Jammine e Thomas (1988) e Hoskisson (1987) Desempenho ( DES) Retorno sobre os ativos da empresa (ROA) Lu e Beamish (2004), Ruigrok e Wagner (2003) Figura 1 - Quadro de variáveis Fonte: Elaborada pelos autores.
+3.2 Modelos da pesquisa A partir da literatura considerada, esta pesquisa pode ser sumarizada nos seguintes modelos conceituais, conforme figura 2.
+HIPÓTESE RELAÇÃO EQUAÇÃO DE REGRESSÃO TESTE DE HIPÓTESE H1 GI -> IP&D IP&D = β0 + β1GI + β2DES + β3TAM + β4I1 + β5I2 + β6I3 + β7I4 + β8I5 + β9I6 + β10I7 + β11I8 + β12I9 + β13I10 + β14I11 + ε + H2 IP&D -> GP GP = β0 + β1IP&D + β2DES + β3TAM + β4I1 + β5I2 + β6I3 + β7I4 + β8I5 + β9I6 + β10I7 + β11I8 + β12I9 + β13I10 + β14I11 + ε + Figura 2 - Hipóteses e respectivas equações de regressão Fonte: Elaborada pelos autores.
+3.3 Técnicas estatístic as O presente estudo utilizou a técnica de Regressão Múltipla, método dos Mínimos Quadrados Ordinários (MQO), similarmente a vários estudos anteriores (Andrade & Galina, 2013; Capar & Kotabe, 2003; Lu & Beamish, 2004).
+Os resultados estatísticos foram obtidos por meio do SPSS ( Statistical Package for the Social Sciences ).
+No que diz respeito ao atendimento aos pressupostos da Regressão Múltipla, os resultados não revelam qualquer problema de forte multicolinearidade, tendo em vista que as variáveis independ entes não são altamente correlacionadas entre si (Hair, Anderson, Tatham, & Black, 1998).
+Além disso, foram feitas estatísticas Tolerance (valores entre 1,0 e 0,10) e Variance Inflation Factor – VIF (valores entre 1,0 e 10,0), sendo que não foram 116 A Relação entre Internacionalização e Inovação nas Multinacionais de Países Emergentes Internext | São Paulo, v.16, n. 1, p. 110-126, jan./abr.
+2021 detectados , portanto, problemas de multicolinearidade.
+Foi feito o teste de homoscedasticidade de Pesarán -Pesarán para verificar se os resíduos são homoscedásticos, sendo que o pressuposto da homoscedasticidade foi atendido (Teste F = 1658; Sig.
+Os dados atenderam ainda ao pressuposto da ausência de autocorrelação serial (Teste Durbin -Watson = 1,651).
+Por fim, para validar os resultados da regressão múltipla, a amostra coletada foi repartida aleatoriamente em duas subamostras (uma com 50,5% dos casos; a out ra com 49,5% dos casos), de modo que cada uma delas foi processada de forma independente e os seus resultados comparados entre si.
+Verificou -se, então, que os dados se comportaram de forma razoavelmente homogênea em relação à amostra geral, não se verifica ndo parâmetros (R², R² ajustado, Teste F, Durbin -Watson) que destoassem de forma acentuada.
+4 RESULTADOS A Tabela 1 apresenta as correlações bivariadas para as principais variáveis do modelo.
+Quando observada a correlação entre o Grau de Internacionaliza ção (GI) e a Intensidade de P&D (IP&D) das EMNs, os resultados mostram uma correlação positiva estatisticamente significante (P<0,001).
+Ambas variáveis de controle, Desempenho (DES) e Tamanho (TAM) são significantemente correlacionadas com IP&D, sendo que DES possui correlação positiva ( P<0,05 ) e o TAM possui correlação negativa ( P<0,001 ).
+A Tabela 2 apresenta os resultados dos 4 modelos que foram testados para a relação entre o GI e a IP&D das EMNs de economias dos BRICS.
+Muito embora o Modelo 4 tenha sido o mais consistente dentre os quatro modelos e, portanto, será utilizado para as inferências estatísticas do estudo, observa -se que a Hipótese 1 do estudo foi aceita considerando os quatro modelos analisados.
+Contudo, é no Modelo 4 que os indicadores gerai s apresentam melhor consistência, sendo o Grau de Internacionalização ( β = 0,201; P < 0,001 ) e dados gerais do modelo (R²: 0,126; R² ajustado: 0,112; Teste F = 9,062 ao nível de significância de P < 0.001 ).
+Portanto, há apoio para a Hipótese 1, de que o im pacto do grau de internacionalização na intensidade de pesquisa e desenvolvimento em EMNs da região dos BRICS é positiva.
+Tabela 1 Matriz de correlação entre as principais variáveis do estudo Variáveis 1 2 3 4 5 1.
+Grau de Internacionalização (GI) 1.00 2.
+Desempenho (DES) 0,136** 1.00 3.
+Intensidade de Pesquisa e Desenvolvimento (IP&D) 0,292*** 0,076* 1.00 4.
+Tamanho (TAM) – 0,213*** – 0,005 – 0,146*** 1.00 5.
+Patentes – 0,087* 0,033 – 0,007 0,289** * 1.00 * < 0.05; ** < 0.01; *** < 0.001.
+Fonte: Elaborada pelos aut ores.
+No que diz respeito às duas variáveis de controle presentes no modelo, Desempenho e Tamanho, verifica -se que, apesar de indicado na literatura, o presente estudo não encontrou significância para a variável Desempenho, de modo que o desempenho das EMNs dos BRICS não demonstrou ser fator preponderante para a empresa se engajar nas atividades de P&D.
+Em outras palavras, o Desempenho das EMNs não é fator significativo para o maior ou menor engajamento da empresa em P&D.
+Por outro lado, o Tamanho da empresa está inversamente relacionado ao engajamento da EMN nas atividades de inovação, de modo q ue quanto menor for a empresa, maior tende a ser o seu compromisso com P&D, conforme verificado no coeficiente da variável Tamanho ( β = - 0,079; P < 0,05 ) 117 A. C. Bansi , A. M. F. Andrade & S. V. Galina Internext | São Paulo, v.16, n. 1, p. 110-126, jan./abr.
+Esse resultado reflete a métrica utilizada para o constructo de intensidade em P&D utilizado neste trabalho, que é uma relação entre gastos em P&D e o faturamento da empresa, de modo que qualquer valor invest ido por pequenas empresas em atividades de P&D assume uma proporção relevante em termos relativos, quando comparado aos investimentos em P&D realizados por grandes empresas.
+Além disso, o setor de Tecnologia da Informação é destaque como o setor em que a relação entre grau de internacionalização e intensidade em P&D apresenta maior significância.
+Tabela 2 Resultados da Regressão Múltipla pelo Método dos Mínimos Quadrados Ordinários -OLS Variáveis Modelos 1 2 3 4 Intercepto - 0,010** - 0,013** 0,026 0,023 Grau de Internacionalização (GI) 0,292*** 0,287*** 0,270*** 0,201*** Desempenh o (DES) 0,038 0,039 0,025 Tamanho da EMN (TAM) - 0,082* - 0,079* I1 0,003 I2 - 0,023 I3 0,027 I4 0,008 I5 0,054 I7 0,043 I8 - 0,021 I9 0,018 I10 0,197*** I11 0,041 R² 0,085 0,086 0,093 0,126 R² ajustado 0,084 0,084 0,090 0,112 Teste F 77,301*** 39,309*** 28,321*** 9,062*** Notas explicativas.
+219 empresas e 834 observações.
+Variável dependente: Intensidade de Pesquisa e Desenvolvimento .
+A significância dos coeficientes de regressão e t este F é descrita por meio dos símbolos *, ** e ***, conforme segue:*< 0.05; **<0.01; ***< 0.001.
+Efeitos dos setores: variáveis dummies 1-11.
+O setor I6 foi omitido da análise devido a colinearidade exata.
+Setores considerados no modelo: 1.
+Tecnologia da Informação; e 11.
+O coeficiente do intercepto é não padronizado e os coeficientes das demais variáveis são padronizados.
+Fonte: Elaborada pelos autores.
+A Tabela 3 apresenta os resultados dos 4 modelos que foram testados para a relação entre a IP&D e a geração de p atentes (Hipótese 2) das EMNs dos BRICS, sendo que o modelo mais robusto e consistente foi o modelo 4.
+Nele, os indicadores gerais apresentam melhor consistência (R²: 0,299; R² ajustado: 0,281; Teste F = 16,912 ao nível de significância de P < 0.001 ), assi m como IP&D ( β = 0,201; P < 0,001 ).
+Muito embora o Modelo 4 tenha sido o mais consistente dentre os quatro modelos e, portanto, será utilizado para as inferências estatísticas do estudo, observa -se que também a 118 A Relação entre Internacionalização e Inovação nas Multinacionais de Países Emergentes Internext | São Paulo, v.16, n. 1, p. 110-126, jan./abr.
+2021 Hipótese 2 do estudo foi aceita entre os quatro modelos an alisados.
+Portanto, há apoio para a hipótese de que a relação entre a Intensidade de P&D e a geração de patentes para EMNs dos BRICS é positiva.
+Esse resultado é alinhado com o que apresenta a literatura nessa área, muito embora os trabalhos geralmente sej am focados em países desenvolvidos (Blind et al., 2006; Megna & Klock, 1993).
+Assim, este artigo mostra que também para países em desenvolvimento, investimentos em P&D impactam positivamente na quantidade de patentes.
+Tabela 3 Resultados da Regressão Múltipla pelo Método dos Mínimos Quadrados Ordinários -OLS Variáveis Modelos 1 2 3 4 Intercepto 26,084*** 29,303*** -207,970*** - 232,190*** Intensida de de P&D (IP&D) 0,239*** 0,242*** 0,302*** 0,201*** Desempenho (DES) - 0,037 - 0,037 - 0,096* Tamanho da EMN (TAM) 0,439*** 0,494*** I1 - 0,052 I3 - 0,058 I4 0,001 I5 0,220*** I7 - 0,28 I8 0,026 I9 - 0,068 I10 - 0,032 R² 0,057 0,059 0,247 0,299 R² ajustado 0,055 0,054 0,242 0,281 Teste F 27,054*** 13,832*** 48,656*** 16,912*** Notas explicativas.
+121 Empresas e 464 observações.Variável dependente: Patentes .
+A significância dos coeficientes de regressão e teste F é d escrita por meio dos símbolos *, ** e ***, conforme segue:*< 0.05; **<0.01; ***< 0.001.
+Efeitos dos setores: variáveis dummies 1-11.
+O setor I2,6 e 11 foram omitidos da análise devido a colinearidade exata.
+Setores considerados no modelo: 1.
+Tecnologia da Informação; e 11.
+O coeficiente do intercepto é não padronizado e os coeficientes da s demais variáveis são padronizados.
+Fonte: Elaborada pelos autores.
+Ainda é possível destacar que o setor tem influência como variável de controle.
+É no setor farmacêutico em que a relação entre IP&D e geração de patentes apresenta maior significância.
+Isso é esperado, uma vez que, historicamente, este é um setor que se destaca não somente dentre os que mais investem em P&D , mas também dentre os que mais solicitam patentes de suas invenções ( Hernández et al., 2020 ).
+5 DISCUSSÃO DE RESULTADOS Focando na aceitação das duas hipóteses deste trabalho, esta seção ad ensa a discussão dos resultados à luz da literatura que foca o impacto da internacionalização na inovação, tema principal deste artigo.
+Há basicamente duas possibilidades para analisar tal impacto, uma é consider ar a necessidade da empresa em reagir às exi gências do mercado externo e adaptar seus produtos para atendê -las (Bratti & Felice, 2012 ), e a outra é considerar o 119 A. C. Bansi , A. M. F. Andrade & S. V. Galina Internext | São Paulo, v.16, n. 1, p. 110-126, jan./abr.
+2021 aumento do aprendizado da organização possibilitado pelo acesso ao conhecimento disperso fora do país de origem (Capaldo, Lavie, & Petruzze lli, 2014 ).
+A confirmação da hipótese 1 nos mostra que o impacto do grau de internacionalização no investimento em P&D é positivo nos países BRICS.
+Ou seja, quanto maior o grau de internacionalização da EMN, maior também será o aumento de investimentos em P&D.
+Isso mostra uma possível reação inicial das empresas em direção à inovação tecnológica para atender a demanda gerada com a internacionalização, e essa reação começa por meio do aumento no investimento em P&D.
+Isso é semelhante ao observado na literatu ra com países desenvolvidos (Bratti & Felice, 2012; Filippetti et al., 2012 ; Siedschlag & Zhang, 2015 ).
+Salomon e Shaver (2005), analisando empresas espanholas, descobriram que a exportação aumenta tanto o número de produtos inovadores, quanto a solicitaçã o de patentes.
+Os autores também mostram que o impacto é mais rápido para inovação de produto do que para aplicação de patentes, ou seja, a adequação de produtos para atender aos mercados externos é realizada mais rapidamente do que a incorpora ção de conhe cimento tecnológico que resultarão em patentes.
+Este resultado sugere duas possibilidades para entendimento da influência da internacionalização na ampliação da capacidade de investir em P&D: (i) que essas EMNs utilizam a expansão internacional para acess ar novos mercados e um número maior de recursos; e (ii) que as EMNs precisam adequar seus produtos e serviços porque as necessidades dos mercados estrangeiros são diferentes das do mercado local.
+Considerando que investimento em P&D é premissa para geração de patentes no processo de inovação, avaliamos se esse impacto ocorre nas empresas dos BRICS.
+Os resultados deste estudo mostram que esse investimento impacta positivamente na solicitação de patentes, conforme aceitação da hipótese 2, e é particularmente intensificado para a indústria farmacêutica, um dos setores que mais valoriza patentes como mecanismo de proteção intelectual (Hernández et al ., 2020).
+Isso evidencia que a busca internacional pelo conhecimento possibilita aumento de capacidades (Teece, 20 14) para inovação, especialmente em países em estágios inferiores de desenvolvimento tecnológico (Doz, Santos, & Williamson, 2001).
+Ou seja, EMNs de países em desenvolvimento acessam conhecimento provenientes das atividades de P&D das suas subsidiárias em países avançados (Awate et al., 2015) ou podem realizar alianças para inovação (Santos, Doz, & Williamson, 2004) com organizações localizadas em países desenvolvidos .
+Neste artigo, avaliando a indústria à qual pertencem as EMNs, nossos resultados mostram que o setor de Tecnologia da Informação apresenta maior significância para a relação entre internacionalização e investimento em P&D.
+Esse resultado é esperado porque esse setor é um dos mais internacionalizados e mais inovadores tecnologicamente (Hernánde z et al., 2020).
+No entanto, considerando a eficiência desse processo a partir da avaliação das patentes geradas, as empresas desse setor não apresentam impacto significativo.
+Isso pode ser em decorrência do nível de desenvolvimento tecnológico das empresa s ou dos sistemas locais para apoio à inovação dos BRICS.
+Ou seja, as empresas do setor nesses países podem estar investindo em P&D para reagirem às necessidades dos mercados no exterior, no entanto tais investimentos não se transformam em diferenciações s uficientes para gerarem patentes.
+Isso indica que as EMNs dos países emergentes possivelmente inovam de duas principais maneiras.
+Quando não possuem tecnologia de ponta, modificam as tecnologias existentes para reduzir os custos, em conformidade com as ex igências do mercado.
+E também inovam o modelo de negócios de modo não visto em países desenvolvidos, ou seja, a forma como um produto ou serviço existente é produzido, vendido, distribuído e financiado, modificando custos, riscos e lucros gerados (Williams on, 2015) .
+Outra explicação possível é que os BRICS são países cujos sistemas de proteção à propriedade intelectual (incluindo patente) são recentes se comparados aos dos países desenvolvidos.
+Isso acaba por influenciar a baixa valorização de patentes na cultura inovadora local, no entanto esse comportamento vem mudando com aumento de pedidos depositados pelos BRICS nas bases mundiais de patentes (Fernandes, Garcia, & Cruz, 2015).
+Outro possível motivo se deve ao fato de que as inovações dos países BRICS tê m sido amplamente dominadas por EMNs de países desenvolvidos.
+Isto implica que a maioria das inovações tecnológicas criadas nos BRIC S é de propriedade de empresas estrangeiras, o que, consequentemente, limita o acesso dos BRIC S ao 120 A Relação entre Internacionalização e Inovação nas Multinacionais de Países Emergentes Internext | São Paulo, v.16, n. 1, p. 110-126, jan./abr.
+2021 estoque global do conheci mento (Wang & Li -Ying, 2014).
+Também em relação à hipótese 1, o resultado mostra ainda que quanto menor a empresa, maior é o impacto da internacionalização no investimento em P&D.
+Isso mostra que as empresas pequenas reagem mais rapidamente do que as gran des para se diferenciarem com intuito de atender melhor o mercado internacional.
+Resultado semelhante é observado por Cázares e Filipescu (2014), que mostram que o tamanho da empresa tem um efeito negativo na relação de impacto da internacionalização na ef iciência da inovação tecnológica.
+Eles acreditam que a flexibilidade, que caracteriza esse tipo de empresa possibilita melhor e mais rápida adaptação de processos direcionados a inovação.
+Da mesma forma, essa pode ser considerada uma justificativa possível para o resultado encontrado neste estudo.
+No entanto, os resultados do impacto do investimento de P&D em patentes (hipótese 2) mostram que o tamanho da empresa influencia positivamente a geração de patentes, mesmo resultado encontrado por Altuzar ra (2019 ).
+Ao estudar empresas espanholas, o autor concluiu que as grandes empresas têm, em média, um número maior de patentes, quando comparadas com as pequenas.
+Em geral, as empresas maiores possuem mais estrutura e recursos para fazer patenteamento e, quando co mparadas com as pequenas empresas, valorizam mais essa forma de propriedade intelectual do que o segredo industrial (Arundel, 2001).
+Assim, considerando ambas as variáveis de controle usadas neste trabalho (tamanho e setor de atuação), não há consenso sob re elas na literatura que relaciona internacionalização e inovação, o que aponta, portanto, para novas vias de pesquisa.
+(2013), analisando 696 empresas espanholas com dados em painel, mostram que inovação e exportação possuem relação caus al recíproca e que apresentam efeito positivo na internacionalização, tanto o tamanho da firma, (oposto ao resultado encontrado neste estudo ) quanto o nível tecnológico do setor de atuação (semelhante ao resultado deste estudo).
+Já Cázares e Filipescu (201 4), como exposto acima, mostram que tamanho tem efeito negativo (semelhante ao apresentado neste artigo), assim como setores com nível tecnológico menor (oposto ao encontrado neste trabalho).
+Por fim, os resultados também mostram que o desempenho das empr esas apresentou relação insignificante na hipótese 1, ou seja, não se pode dizer que as empresas EMNs mais eficientes, aquelas que possuem melhor desempenho, também investem mais de P&D.
+Em relação a hipótese 2, o resultado foi negativo indicando que as em presas com menor desempenho são as que possuem mais patentes.
+Diferente dos resultados encontrados na literatura em que se apresentam relações positivas sobre esses temas (Altomonte et al., 2013; Megna & Klock, 1993), este resultado pode ser explicado pelo fato de que as empresas localizadas em economias em desenvolvimento investem em P&D e/ou solicitam patentes com o intuito de sobreviver no longo prazo.
+Além disso, pode ser que exista um gap maior entre o surgimento da inovação e a sua venda em grande esc ala para, de fato, a empresa se apropriar de retornos significativos .
+Alternativamente, é possível que as invenções patenteadas pelas empresas localizadas nestas economias não se convertem em inovações capazes de impactar no desempenho.
+6 CONCLUSÕES Com o intuito de avaliar se a expansão internacional influencia P&D e, por conseguinte, gera resultados de inovação nas EMNs de economias em desenvolvimento, este estudo contribui para a teoria de Internacionalização -Inovação à medida que examina a relação entr e a internacionalização, investimento em P&D e a geração de patentes no contexto das EMNs de economias em desenvolvimento: Brasil, Rússia, Índia, China e África do Sul (BRICS).
+Os resultados obtidos permitem verificar que as EMNs dos BRICS mais internacion alizadas são as empresas que mais investem em P&D, sendo o setor de TI o mais significativo, e que a intensidade de P&D das EMNs dos BRICS impacta positivamente na solicitação de patentes, sendo particularmente intensificado para a indústria farmacêutica.
+Dessa forma, concluímos que n os BRICS, a internacionalização aumenta P&D, que por sua vez aumenta a solicitação de patentes, corroborando grande parte dos estudos empíricos, majoritariamente realizados com empresas de países desenvolvidos.
+No entanto, este estudo com BRICS mostra que o impacto da internacionalização não ocorre de forma homogênea, sendo que ele é maior 121 A. C. Bansi , A. M. F. Andrade & S. V. Galina Internext | São Paulo, v.16, n. 1, p. 110-126, jan./abr.
+2021 nas empresas menores, o que pode ser explicado pela flexibilidade dessas empresas para reagirem com maior rapidez às necessidades do mercado externo por meio da inovação.
+Por outro lado, nas empresas maiores ocorre maior impacto positivo do investimento em P&D na geração de patentes.
+Assim, este estudo contribui para avançar a literatura na área mostrando empiricamente, que, assim como nos país es desenvolvidos, nos BRICS a internacionalização tem efeito positivo na inovação.
+Uma importante implicação deste estudo para os gestores de inovação de EMNs na região dos BRICS é a possibili dade de utilizar a expansão internacional para ampliar sua capac idade de investimento em inovação e, por conseguinte, gerar e manter vantagens competitivas.
+Ou seja, como os resultados mostram que as empresas nos BRICS também se beneficiam da internacionalização para inovar, qualquer empresa que se internacionaliza pre cisa criar mecanismos para aproveitar esse processo e gerar diferencial competitivo por meio da inovação.
+Alguns questionamentos surgem em relação às estratégias de internacionalização e de inovação das empresas localizadas nos países dos BRICS.
+A questão principal seria como avançar nas questões estratégicas para alavancar a competitividade tanto pela inovação quan to pela internacionalização, pois as empresas des ses países aumentaram sua participação na geração de conhecimento e tecnologia global.
+Contudo , a representatividade mundial ainda é baixa, conforme demonstrado por Wang e Li -Ying (2014).
+Para avançarmos nessas questões, trabalhos futuros poderiam analisar se há alguma falha nos sistemas nacionais de inovação desses países em desenvolvimento, ou se há falta de recursos tanto tangíveis quanto intangíveis para o avanço significativo da inovação para as EMNS dos BRIC S. Isso nos leva a outra contribuição prática para pensadores em políticas públicas nacionais, já que os incentivos para inovação podem se r atrelados aos incentivos para internacionalização, e vice -versa.
+Dentre as limitações deste estudo, pode -se citar o número de empresas da amostra.
+Poucas EMNs nos países dos BRIC S possuíam os dados necessários disponíveis para esta pesquisa.
+E a utilizaç ão somente de patentes como medida de output da inovação também representa uma limitação, já que existem outras formas de proteger o conhecimento e a tecnologia resultantes dos investimentos em P&D .
+Referências Altomonte, C., Aquilante, T., Békés, G., & Ottaviano, G. I. P. (2013).
+Internationalization and innovation of firms: Evidence and policy.
+Economic Policy, 28 (76), 663-700. doi:10.1111/14680327.12020 Altuzarra, A.
+R&D and patents: Is it a two way street?
+Economics of Innovation and New Technology, 28 (2), 180 -196. doi:10.1080/10438599.2018.1449726 Andrade, A. M. F., & Galina, S. V. R. (2013).
+Efeitos da internacionalização sobre o desempenho de multinacionais de economias em desenvolvimento.
+Revista de Administração Contemporânea , 17(2), 239-262. doi:10.1590/S1415 -65552013000200007 Arundel, A.
+The relative effectiveness of patents and secrecy for appropriation.
+Research Policy, 30 (4), 611 -624. doi:10.1016/S00487333(0 0)00100 -1 Awate, S., Larsen, M. M., & Mudambi, R. (2015).
+Accessing vs sourcing knowledge: A comparative study of R&D internationalization between emerging and advanced economy firms.
+Journal of International Business Studies, 46 (1), 63 -86. doi:10.1057/ji bs.2014.46 Barrios, S., Görg, H., & Strobl, E. (2003).
+Explaining firms' export behavior: R&D, spillovers and the destination market.
+Oxford Bulletin of Economics and Statistics, 65 (4), 475 -496. doi: 10.1111/14680084.t01 -1-00058 Belenzon, S., & Patacco ni, P. (2013).
+Innovation and firm value: An investigation of the changing role of patents, 1985 –2007.
+Research Policy, 42 (8), 14961510. doi:10.1016/j.respol.2013.05.001 Blind, K., Edler, J., Frietsch, R., & Schmoch, U.
+Motives to patent: Empiri cal evidence from Germany.
+Research Policy, 35 (5), 655 -672. doi:10.1016/j.respol.2006.03.002 Bratti, M., & Felice, G. (2012).
+Are exporters more likely to intro duce product innovations?
+The World Economy, 35 (11), 1559 -1598. doi:10.1111/j.14679701.2012.01453.x 122 A Relação entre Internacionalização e Inovação nas Multinacionais de Países Emergentes Internext | São Paulo, v.16, n. 1, p. 110-126, jan./abr.
+2021 Capaldo, A., Lavie, D., & Petruzzelli, A.
+Knowledge maturity and the scientific value of innovations: The roles of knowledge distance and adopti on.
+Journal of Management , 43(2), 503 -533. doi:10.1177/0149206314535442 Capar, N., & Kotabe, M. (2003).
+The relationship between international diversification and performance in service firms.
+Journal of International Business Studies, 34 (4), 345 -355. doi:10.1057/palgrave.jibs.8400036 Cázares, C. C., & Filipescu, D. A.
+Measuring the effects of internationalization on technological innovation efficiency .
+Paper presented at the DRUID Society Conference, Copenhagen.
+Retrieved from vfo7oc2i4d563bhjs.pdf Chatenier, D., Verstegen, J., Biemans, H., Mulder, M., & Omta, O.
+Identification of competencies for professional in open innovation teams.
+R&D Management, 40 (3), 271 -280. doi:10.1111/j.14679310.2010.00590.x Chinloy, P., Jiang, C., & John, K. (2020).
+Investment, depreciation and obsolescence of R&D.
+Journal of Financial Stability , 49, 1 -11. doi:10.
+1016/j.jfs.2020.100757 Ciabuschi, F., & Martín, O. M. (2012).
+Knowledge ambiguity, innovation and subsidiary performance.
+Baltic Journal of Management, 7 (2), 143 -166. doi:10.1108/17465261211219787 Contractor, F. J., Kundu, S. K., & Hsu, C. C. (2003).
+A three -stage theory of expansion of international expansion: The link between multinationality and performance in the service sector.
+Journal of International Business Studies, 34 (1), 5 -18. doi:10.1057/palgrave.jibs.8400003 Crescenzi, R ., & Rodrıguez -Pose, A.
+The geography of innovation in China and India.
+International Journal of Urban and Regional Research , 41(6), 1010 -1027. doi:10.1111/14682427.12554 Cuervo‐Cazurra, A.
+Extending theory by analyzing developing country multinational compa nies: Solving the Goldilocks debate.
+Global Strategy Journal , 2(3), 153 -167. doi: 10.1111/j.20425805.2012.01039.x Doz, Y. L., Santos, J., & Williamson, P. (2001).
+From global to metanational: How companies win in the knowledge economy .
+Boston, MA: Harvar d Business School Press.
+Fernandes, L., Garcia, A., & Cruz, P. (2015).
+Desenvolvimento desigual na era do conhecimento: A participação dos BRICS na produção científica e tecnológica mundial.
+Contexto Internacional, 37 (1), 215-253. doi:10.1590/S0102 -85292 015000100007 Filipescu, D. A., Prashantham, S., Rialp, A., & Rialp, J.
+Technological innovation and exports: Unpacking their reciprocal causality.
+Journal of International Marketing, 21 (1), 23 -38. doi:10.1509/jim.12.0099 Filippetti, A., Frenz, M. , & Ietto-Gillies, G. (2012).
+The role of internationalization as a determinant of innovation performance: An analysis of 42 countries .
+Retrieved from Gaur, S. A., & Kumar, V. (2009).
+International diversification, business group affiliation and firm performance: Empirical evidence from India.
+British Journal of Management, 20 (2), 172 -186. doi:10.1111/j.1467 -8551.2007.00558.x Grant, R. M., Jammine, A. P., & Thomas, H. (198 8).
+Diversity, diversification and profitability among british manufacturing companies.
+Academy Management Journal, 31 (4), 771 -801. doi: 10.5465/256338 Hair, J. F., Jr., Anderson, R. E., Tatham, R. L ., & Black, W. C. (1998).
+Upper Saddle River, NJ: Prentice Hall.
+Hernández, H., Grassano, N., Tübke, A., Amoroso, S., Csefalvay, Z., & Gkotsis, P. (2020).
+EU R&D scoreboard : The 2019 EU industrial R&D investment scoreboard .
+City of Luxembourg , Luxembourg : Publications Office of the European Union.
+doi:10.2760/04570 Hitt, M. A., Hoskisson, R. E., & Kim, H. (1997).
+International diversification: Effects on innovation and firm performance in product -diversified firms.
+123 A. C. Bansi , A. M. F. Andrade & S. V. Galina Internext | São Paulo, v.16, n. 1, p. 110-126, jan./abr.
+2021 Academy o f Management Journal, 40 (4), 767 -798. doi: 10.5465/256948 Hoskisson, R. E. (1987).
+Multidivisional structure and performance: The contingency of diversification strategy.
+Academy of Management Journal, 30 (4), 625-644. doi:10.5465/AMBPP.1987.17533710 Kobrin, S. J.
+An empirical analysis of the determinants of global integration.
+Strategic Management Journal, 12 (S1), 17 -31. doi:10.1002/smj.4250120904 Kotabe, M. (1990).
+The relationship between offsho re sourcing and innovativeness of US multinational firms: An empirical investigation.
+Journal of International Business Studies, 21 (4), 623638. doi:10.1057/palgrave.jibs.8490344 Kyläheiko, K., Jantunen, A., Puumalainen, K., Saarenketo, S., & Tuppura, A.
+Innovation and internationalization as growth strategies: The role of technological capabilities and apropriability.
+International Business Review, 20 (5), 508 -520. doi:10.1016/j.ibusrev.2010.09.004 Lu, J. W., & Beamish, P. W. (2004).
+Internation al diversification and firm performance: The S -curve hypothesis.
+Academy of Management Journal, 47 (4), 598-609. doi: 10.5465/20159604 Megna, P., & Klock, M. (1993).
+The impact of intangible capital on Tobin´s q in the semiconductor industry.
+The American Economic Review, 82 (2), 265269.
+Retrieved from Michel, A., & Shaked, I.
+Multinationa l corporations vs. domestic corporations: Financial performance and characteristics.
+Journal of International Business Studies, 17 (3), 89 -100. doi: 10.1057/palgrave.jibs.8490435 Meyer, E. K. (2004).
+Perspectives on multinational enterprises in emerging economies.
+Journal of International Business Studies, 35 , 259 -276.
+Organization for Economic Cooperation and Development .
+Oslo Manual 2018: Guidelines for collecting, reporting a nd using data on innovation (4th ed .).
+Papanastassiou, M., Pearce, R., & Zanfei, A.
+Changing perspectives on the internationalization of R&D and innovation by multinational enterprises: A review of the literature.
+Journal o f International Business Studies, 51 (4), 623-664. doi:10.1057/s41267 -019-00258 -0 Ruigrok, W., & Wagner, H. (2003).
+Internationalization and performance: An organizational learning perspective.
+Management International Review, 43 (1), 63 -83.
+Retrieved from Salomon, R. M., & Shaver, J. M. (2005).
+Learning by exporting: New insights from examining firm innovation.
+Journal of Economics & Management Strategy, 14 (2), 431 -460. doi:10.1111/j.15309134.2005.00047.x Santos, J., Doz, Y., & Williamson, P. (2004).
+Is your innovation process global?
+MIT Sloan Management Review, 45 (4), 31 -37.
+Drivers for international innovation activities in developed and emerging countries.
+Journal of Technology Transfer, 37 (1), 98123. doi:10.1007/s10961 -011-9221 -z Soto, J. D., Manzaneque, M., Gonzáles -García, V., & Galache -Laza, T. (2019).
+A study of the moderating influence of R&D intensity on the fam ily management -firm performance relationship: Evidence from Spanish private manufacturing firms.
+Business Research Quartely , 22 (2), 105 -118. doi:10.1016/j.brq.2018.08.007 Sugheir, J., Phan, P. H ., & Hasan, I.
+Diversification and innovation revisited: An absorptive capacity view of technological knowledge creation.
+IEEE Transactions on Engineering Management, 59 (4), 530-539. doi:10.1109/TEM.2011.2165726 Siedschlag, I., & Zhang, X.
+Internationalis ation of firms and their innovation and productivity.
+Economics of Innovation and New Technology , 24 (3), 183 -203. doi:10.1080/10438599.2014.918439 Teece, D. J.
+A dynamic capabilities -based entrepreneurial theory of the multinationa l 124 A Relação entre Internacionalização e Inovação nas Multinacionais de Países Emergentes Internext | São Paulo, v.16, n. 1, p. 110-126, jan./abr.
+Journal of International Business Studies, 45(1), 8 -37. doi:10.1057/jibs.2013.54 Teh, C. C., Kayo, E. K., & Kimura, H. (2008).
+Marcas, patentes e criação de valor.
+RAM – Revista de Administração Mackenzie, 9 (1), 86 -106. doi:10.1590/S1678 -69712008000100005 Thomas, D. E., & Eden, L. (2004).
+What is the shape of the multionationality performance relationship?
+The Multinational Business Review, 12 (1), 89 -110. doi:10.1108/15 25383X200400005 Tsao, S. M., & Lien, W. H. (2011).
+Family management and internationalization: The impact on firm performance and innovation.
+Management International Review , 53 (2) 189 -213. doi:10.1007/s11575 -011-0125 -9 Xu, X., Xia, Y., & Li, C. (2017).
+Influence of chinese entrepreneurial companies' internationalization on independent innovation: Input incentive effect and efficiency improvement effect.
+China Journal of Accounting Research , 10 , 247 –280.
+doi:10.1016/j.cjar.2017.05.001 Wang, Y., & Li -Ying, J.
+How do the BRIC countries play their roles in the global innovation arena?
+A study based on USPTO patents during 1990 – 2009.
+Scientometrics, 98 (2), 1065 -1083. doi:10.1007/s11192 -013-1141 -2 Williamson, P. J.
+The competitive advantages of emerging market multinationals: A reassessment.
+Critical Perspectives on International Business, 11 (3/4), 216 -235. doi:10.1108/cpoib -022014 -0008 Yang, D. (2012).
+Arm's length and captive transactions: Patent -based view of control in internationaliza tion.
+International Business Review, 21(4), 575 -587. doi:10.1016/j.ibusrev.2011.07.004 SOBRE OS AUTORES Ana Claudia Bansi - Instituto Federal de São Paulo – IFSP, São Carlos, S ão Paulo, (Brasil) .
+Email: ana_bansi@ifsp.edu.br Orcid id: https:// orcid.org/ 0000 -0002 -8120 -1423 Aliss on Maxwell Ferreira de Andrade - Universidade Federal de Mato Grosso do Sul – UFMS, Mato Grosso do Sul, (Brasil) .
+Email: alisson.andrade@ufms.br Orcid id: -0001 -9460 -2018 Simone Vasconcelos Galina - Universidade de São Paulo – USP, São Pau lo, (Brasil) .
+Email: svgalina@usp.br Orcid id: -0001 -7150 -2217 125 A. C. Bansi , A. M. F. Andrade & S. V. Galina Internext | São Paulo, v.16, n. 1, p. 110-126, jan./abr.
+2021 THE RELATIONSHIP BETWEEN INTERNATIONALIZATION AND INNOVATION IN MULTINATIONAL COMPANIES FROM EMERGING COUNTRIES ΩAna Claudia Bansi, ¥Alisson Maxwell Ferreira de Andrade, €Simone Vasconcelos Galina ΩInstituto Federal de São Paulo – IFSP, São Carlos, S ão Pulo, (Brasil) ¥Universidade Fed eral de Mato Grosso do Sul – UFMS , Mato Grosso do Sul, (Brasil) €Universidade de São Paulo – USP, São Paulo, (Brasil) ARTICLE DETAILS ABSTRACT Article history : Received: 03 March 2020 Accepted: 16 November 2020 Available online January: 01 th 2021 Double Blind Review System Scientific Editor Ilan Avrichir Objective: Evaluate the relationship between the degree of internationalization, the intensity of R esearch & Development (IP&D) and the generation of patents in multinational companies (MNCs) of the BRICS (Bra zil, Russia, India, China, South Africa).
+Method: The study sample corresponds to 219 EMNs from BRICS, whose data were obtained from 2002 to 2010 from two databases: Thomson One Datastream and Compustat Data.
+Analyzes were performed by multiple regression .
+Results: The results found were (i) the more internationalized the MNCs, the more they invest in R&D; (ii) IP&D has a positive impact on patent applications; (iii) internationalization increases IP&D, which in turn increases patents.
+The results differ by the size of the companies, with the impacts of internationalization on innovation being greater for smaller companies, and the impact of IP&D on the generation of patents being greater for larger companies.
+Originality/relevance : Of the various forms of r elationship between innovation and internationalization, the evidence for obtaining knowledge from internationalization is relatively recent and, therefore, the impact of internationalization on innovation has been the focus of more current research.
+Howev er, a large part of the studies focuses on a single country, mainly developed countries.
+Therefore, it is of great relevance to study this theme in developing countries.
+Contributions: This study contributes to the advance in the literature on internationa lization, proving empirically that, as in developed countries, internationalization in BRICS has a positive effect on innovation .
+Contributions for practice: Study shows the need to use international expansion strategy as a tool to increase investment capacity in innovation.
+Keywords Internationalization Rese arch and dev elopment intensity Patents generation 126 A Relação entre Internacionalização e Inovação nas Multinacionais de Países Emergentes Internext | São Paulo, v.16, n. 1, p. 110-126, jan./abr.
+2021 LA RELACIÓN ENTRE INTERNACIONALIZACIÓN E INNOVACIÓN EN EMPRESAS MULTINACIONALES DE PAÍSES EMERGENTES ΩAna Claudia Bansi, ¥Alisson Maxwe ll Ferreira de Andrade, €Simone Vasconcelos Galina ΩInstituto Federal de São Paulo – IFSP, São Carlos, SP (Brasil) ¥Universidade Federal de Mato Grosso do Sul – UFMS , Campo Grande, MS (Brasil) €Universidade de São Paulo – USP, São Paulo, SP (Brasil) HISTORIA DEL ARTÍCULO RESUMEN Historia del Artículo: Recibido: 03 de marzo de 20 20 Aceptado: 16 de noviembre de 2020 Disponible en línea: 01 de Enero 2021 Double Blind Review System Editor Científico Ilan Avrichir Objetivo: Evaluar la relación entre el grado de internacionalización, la intensidad de Investigación & Desarroll o (IP&D) y la generación de patentes en empresas multinacionales (MNC) de los BRICS (Bra sil, Rusia, India, China, Sudáfrica).
+Método: La muestra del estudio corresponde a 219 EMN de BRICS, cuyos datos se obtuvieron de 2002 a 2010 de dos bases de datos: Thomson One Datastream y Compustat Data.
+Los análisis se realizaron por regresión múltiple.
+Resultados: Los resultados encontrados fueron (i) cuanto más internacionalizadas están las MNC, más invierten en I&D; (ii) IP&D tiene un impacto positivo en las solicitudes de patentes; (iii) la internacionalización aumenta la IP&D, lo que a su vez, aumen ta las patentes.
+Los resultados difieren según el tamaño de las empresas: los impactos de la internacionalización en la innovación son mayores para las empresas más pequeñas, y el impacto de IP&D en la generación de patentes es mayor para las empresas más grandes.
+Originalidad / relevancia: De las diversas formas de relación entre innovación e internacionalización, la evidencia para obtener conocimiento de la internacionalización es relativamente reciente y, por lo tanto, el impacto de la internacionalizaci ón en la innovación ha sido el foco de una investigación más actual.
+Sin embargo, una gran parte de los estudios se centra en un solo país, principalmente países desarrollados.
+Por lo tanto, es de gran relevancia estudiar este tema en los países en desarro llo.
+Contribuciones: Este estudio contribuye a avanzar en la literatura en el área de internacionalización, mostrando empíricamente que, como en los países desarrollados, la internacionalización en BRICS tiene un efecto positivo en la innovación.
+Contribuc iones para la práctica : el estudio muestra la necesidad de utilizar la estrategia de expansión internacional como herramienta para aumentar la capacidad de inversión en innovación.
+Palabras -clave: Internacionalización Intensidad de inv estigación y desarrollo Generación de patentes Como citar este artigo: Bansi, A., de Andrade, A., & Galina, S. (2021).
+A Relação entre Internacionalização e Inovação nas Multinacionais de Países Emergentes.
+Internext, 1 6(1), 110 -126. doi :

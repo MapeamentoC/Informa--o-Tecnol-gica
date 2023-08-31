@@ -1,0 +1,293 @@
+ REUNIR: Revista de Administração, Contabilidade e Sustentabilidade ISBN: 2237 -3667 , 10(1), 2020.
+REUNIR: Revista de Administração, Ciências Contábeis e Sustentabilidade ARTIGO ORIGINAL Inovação e sustentabilidade em pequenas empresas: um estudo com participantes do Programa Agentes Locais de Inovação em Rondônia (Brasil)1 Innovation and sustainability in small companies: an study with participants of the Local Agents of Innovation Program in state of Rondônia (Brazil) Innovación y sostenibilidad en pequeñas empresas: un estu dio con participantes del Programa Agentes Locales de Innovación en Rondonia (Brasil) Váldeson Amaro Lima2; Esdras da Silva Costa3; Raquel da Silva Pereira4 Resumo: O presente trabalho se propôs a verificar a relação entre inovação e sustentabilidade, analisando o grau de inovação de pequenas empresas e o desenvolvimento de ações ligadas a sustentabilidade, a partir de uma amostra de 205 empresas participantes do programa Agentes Locais de Inovação, no Estado de Rondônia (Amazônia, Brasil).
+O método de pesquisa utilizou da abordagem quantitativa e dos procedimentos da pesquisa de levantamento (survey), com coleta de dados por revisão de registros estruturados e tratamento pela aplicação da técnica de regressão linear múltipla utilizando SPSS®.
+Os result ados indicam que existe uma correlação positiva entre o desenvolvimento das atividades de inovação e a adoção de ações sustentáveis pelas pequenas empresas pesquisadas, sendo as dimensões soluções, oferta, marca e processos, do Radar Inovação, mais influen tes sobre a atitude sustentável das empresas .
+A pesquisa contribui para a discussão sobre a importância dos aspectos locacionais do público alvo na formulação de políticas públicas de inovação, principalmente aqueles relacionados ao meio ambiente.
+Abstr act: The present study aimed to verify the relationship between innovation and sustainability, analysing the degree of innovation of small companies and the development of actions linked to sustainability, from a sample of 205 companies participating in t he Local Innovation Agents program in the State of Rondônia (Amazonia, Brazil).
+The research method used the quantitative approach and procedures of survey research, with data collection by review of 1 Submetido em: 22.12.2017.
+Responsável: Universidade Federal de Campina Grande/UACC/PROFIAP/CCJS/UFCG.
+Professor do ProfNIT no Instituto Federal de Educação, Ciência e Tecnologia de Rondônia (IFRO).
+valdeson.lima@ifro.edu.br 3 ORCID: -0002 -9120 -8741 .
+Professor na Faculdade de Mauá – FAMA.
+esdras -dasilva@bol.com.br 4 ORCID: -0001 -6656 -080X .
+Professora no PPGA da Universidade Municipal de São Caetano do Sul – USCS.
+raquelspereira@uscs.edu.br KEYWORDS Innovation in small companies; innovation and sustainability.
+PALAVRAS -CHAVE Inovação em pequenas empresas; inovação e sustentabilidade .
+REUNIR: Revista de Administração, Ciências Contábeis e Sustentabilidade www.reunir.revistas.ufcg.edu.br REUNIR: Revista de Administração , Contabilidade e Sustentabilidade ISBN: 2237 -3667 , 10(1), 2020. structured records and treatment by applying the multipl e linear regression technique using SPSS®.
+The results indicate that there is a positive correlation between the development of innovation activities and the adoption of sustainable actions by the small companies surveyed, with the dimensions of solutions, offer, brand and processes of radar innovation being more influential on the sustainable attitude of companies .
+The research contributes to the discussion about the importance of locational aspects of the target public in the formulation of public innovat ion policies, especially those related to the environment.
+Resumen: El presente trabajo se propuso verificar la relación entre innovación y sostenibilidad, analizando el grado de innovación de pequeñas empresas y el desarrollo de acciones vinculadas a la sostenibilidad, a partir de una muestra de 205 empresas participantes del programa Agentes Locales de Innovación, en el Estado de Rondônia (Amazonia, Brasil).
+El método de investigación utilizó el enfoque cuantitativo y los procedimientos de la encuest a de recolección de datos mediante la revisión de registros estructurados y el tratamiento mediante la aplicación de la técnica de regresión lineal múltiple utilizando SPSS®.
+Los resultados indican que existe una correlación positiva entre el desarrollo de las actividades de innovación y la adopción de acciones sostenibles por las pequeñas empresas investigadas, siendo las dimensiones soluciones, oferta, marca y procesos, del Radar Innovación, más influyentes sobre la actitud sostenible de las empresas .
+La investigación contribuye a la discusión sobre la importancia de los aspectos de ubicación del público objetivo en la formulación de políticas públicas de innovación, especialmente las relacionadas con el medio ambiente.
+PALABRAS CLAVE Innovación en pequeñas empresas; innovación y sostenibilidad.
+Inovação e sustentabilidade em pequenas empresas 45 REUNIR: Revista de Administração, Contabilidade e Sustentabilidade ISBN: 2237 -3667 , 10(1), 2020.
+Introd ução A inovação em pequenas empresas representa potencial capacidade de desenvolvimento econômico para países em desenvolvimento como o Brasil, onde, segundo dados da Confederação Nacional do Comércio de Bens, Serviços e Turismo [CNC] (CNC, 2017), esse segmento empresarial represent a 93,6% do total de empresas ativas no país, considerando a classificação nesse porte pelo faturamento bruto anual de R$ 360.000,00 a R$ 3,6 mil por ano.
+Há que se considerar, no entanto, que as atividades inovativas desenvolvidas pelas empresas, independe ntemente do seu porte, não devem estar alheias às demandas cada vez mais emergentes da sociedade quanto às questões relativas a sustentabilidade ( Côrtes & Moretti , 2013; MaderoGómez & Solís, 2016), especialmente no contexto da Região Amazônica, dada a apa rente dualidade entre os interesses que abarcam os vetores tecnoindustrial e tecnoecológico para a região, com origem nas dificuldades de integração econômica, historicamente enfrentadas no seu processo de ocupação ( Becker , 2010).
+O estudo da relação entre sustentabilidade e inovação é uma temática recente que tem despertado grande interesse da academia, sobretudo a partir do ano 2010 ( Silveira , Dalmarco, Petrini & Neutzling , 2016), em que se verifica a recomendação por novos estudos com aprofundamento da t emática no contexto das pequenas empresas ( Bos-Brouwers, 2010; Gerstlberger , Knudsen & Stampe , 2014; Silveira et al., 2016).
+Contudo, os estudos anteriores trataram de análises individualizadas da relação entre o desenvolvimento de inovações surgidas suste ntáveis (Bos-Brouwers, 2010; Gerstlberger et al., 2014), além de análise bibliométrica sobre o tema ( Silveira et al., 2016) , havendo a necessidade de novas pesquisas que estabeleçam correlações significantes entre atividades de inovação e ações sustentávei s. Nesse sentido, o presente estudo se propôs a verificar a relação entre inovação e sustentabilidade, analisando o grau de inovação de pequenas empresas e o desenvolvimento de ações ligadas a sustentabilidade .
+Para tanto, utilizou -se um recorte das empres as participantes do programa governamental denominado Agentes Locais de Inovação (ALI) no biênio 2012 -2014, no Estado de Rondônia, localizado na parte oeste da Região Norte do Brasil, na área abrangida pela Amazônia Ocidental.
+O programa Agentes Locais de Inovação (ALI) é uma política pública de inovação criada no ano de 2009 pelo Serviço Brasileiro de Apoio às Micro e Pequenas Empresas (Sebrae), com o objetivo de promover e consolidar uma cultura de inovação no setor empresarial, por meio da prática contín ua de atividades de inovação em pequenas empresas, sob o monitoramento de agentes selecionados e treinados para esse fim.
+A partir do ano 2010, o programa passou a ser financiado pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq), ag ência vinculada ao Ministério da Ciência, Tecnologia, Inovações e Comunicações do Brasil (MCTI).
+De acordo com o CNPq (2017), mais de 90 mil empresas no Brasil foram atendidas até o final do ano 2014, com previsão de investimentos de R$ 320 milhões para o período 2015 -2020.
+Em Rondônia, o Sebrae estima o atendimento de cerca de duas mil empresas até o final do ano de 2017.
+Para os fins deste estudo, é adotado o paradigma de inovação preconizado no Manual de Oslo (OECD, 2005, p.55), base conceitual para as a ções do programa ALI, segundo o qual a inovação pode ser conceituada como "a implementação de um produto (bem ou serviço) novo ou significativamente melhorado, um processo, um novo método de marketing, ou um novo método organizacional nas práticas de negóc ios, na organização do local de trabalho ou nas relações externas".
+Essa definição equivale aos esforços das empresas pela busca por eficiência econômica, devendo atender, além desse, simultaneamente aos critérios de equidade social e prudência ecológica, para conformação do paradigma de organização sustentável ( Barbieri & Cajazeira , 2009) adotado na presente pesquisa.
+Assim , o estudo com recorte no Programa ALI do Estado de Rondônia congrega grande interlocução com a temática da inovação e o paradigma da s ustentabilidade, visto que o Estado , por seu bioma majoritariamente amazônico, possui uma latente dicotomia entre desenvolvimento e conservação , numa dualidade entre uma cultura de preservação com fortes características de economia extrativista e uma econo mia baseada na agropecuária de base tecnológica (Silva & Cavalvante, 2011).
+Elementos teóricos da pesquisa A inovação tem sido considerada elemento estratégico para a competitividade das organizações e representa um meio para que as empresas de pequeno p orte sejam competitivas e sustentáveis, o que exige competência gerencial e estratégia eficiente, capazes de condicionar crescimento e credibilidade suficientes para fazer interferência real no contexto de consumo e produção ( Fleury & Fleury, 2004; Lima & Müller , 2017).
+O conceito schumpeteriano de inovação caracteriza o ato empresarial em cinco tipos de inovação: i) lançamento de um novo produto ou de uma nova espécie de produto já conhecido, ii) aplicação de novos métodos de produção ou vendas de um produ to, iii) abertura de um novo mercado, iv) aquisição de novas fontes de abastecimento de matérias -primas ou produtos semiacabados, e v) nova organização de um setor industrial, como a criação ou destruição de uma posição de monopólio (Santos , Fazion & Meroe , 2011; Śledzik , 2013).
+No processo de evolução conceitual do termo, o Manual de Oslo (OECD, 2005, p.55) reconhece a inovação em quatro tipos: de produto, de processo, organizacional e de marketing, conceituando -a como a implementação de um ou mais desses tipos nas práticas de negócios, na organização do local de trabalho ou nas relações externas da empresa.
+Nesse sentido, a implementação da inovação é enfatizada na abordagem de Tidd e Bessant (2015, p.19), para quem "a inovação é o processo de transformar as oportunidades em novas ideias que tenham amplo uso prático".
+46 Lima, Costa & Pereira REUNIR: Revista de Administração , Contabilidade e Sustentabilidade ISBN: 2237 -3667 , 10(1), 2020.
+Não existe uma perfeita integração entre inovação e sustentabilidade, requerendo maiores esforços em conjunto entre a gestão da inovação e as políticas ambientais.
+Com isso, a sustentabilidade surge como uma importante iniciativa de inovação, capaz de trazer soluções para as necessidades empresariais, potencializando o processo de desenvolvimento econômico das pequenas empresas sob uma perspectiva de desenvolvimento sustentável ( Freitas, Maçane iro, Kuhl, Doliveira & Lima, 2011; Buso & Trica, 2019 ).
+Klewitz e Hansen (2014), em sua análise sobre inovação orientada para a sustentabilidade em pequenas e médias empresas (PMEs), evidenciam que as pesquisas de inovação relacionadas a esse segmento têm enfatizado a ecoinovação em detrimento de uma perspectiva tripla de inovação a partir das dimensões econômica, social e ambiental da sustentabilidade.
+Os autores fornecem uma taxonomia para comportamentos estratégicos de sustentabilidade em pequenas e médi as empresas, apresentada no quadro 1.
+Pela taxonomia apresentada, o comportamento estratégico de sustentabilidade em PMEs pode variar em função do seu benefício percebido, em que os distintos comportamentos estratégicos podem explicar contingências em tipos de práticas de inovação.
+Desse modo, inovação e empreendedorismo, caracterizados pelas PMEs estão positivamente relacionados (Banacu et al., 2019) sendo necessário maior compreens ão acerca da gestão do termo sustentabilidade, levando em consideração a f ormula ção de políticas que tentam identificar quais seriam as soluç ões mais proativas e eficaz es quando direcionadas aos stakeholders .
+Assim, os comportamentos mais proativos possuem maiores capacidades para inovações mais radicais orientadas pela sustenta bilidade, onde a interação com atores externos, como clientes, fornecedores, governo, institutos de pesquisa, ou mesmo projetos como o programa ALI, pode, em última instância, aumentar a capacidade de inovação nessa orientação (Klewitz & Hansen, 2014; Lima & Müller, 2017 ).
+Comportamento estratégico Benefício percebido Objetivos Tipos de inovação Interação com atores externos Resistente Ignora os fatores ambientais/sociais Conformidade -Reativo Considera os custos e legislação referentes aos fatores ambientais/sociais Conformidade e ação limitada a exigência Melhorias nos processos Muito baixo Antecipado Considera que fatores ambientais/sociais podem reduzir custos À frente da conformidade e redução tangível de custos Inovações incrementais em processo s e organizacional Baixo Baseado na inovação Considera que fatores ambientais/sociais contribuem para o sucesso do mercado Diferenciação Inovações incrementais em produtos, processos e organizacional Médio Sustentabilidade internalizada Considera a integ ração dos aspectos econômicos, ambientais e sociais na definição dos principais negócios Transformação do mercado Inovações radicais em produtos, processos e organizacional com inovação no modelo de negócios Alto Quadro 1.
+Taxonomia para comportamentos e stratégicos sustentáveis em PMEs Fonte: Adaptado de Klewitz e Hansen (2014, p.71).
+De acordo com o Sebrae (2013), os termos inovação e sustentabilidade tornam -se dois pilares para a construção de uma visão empresarial futura.
+Para isso, a atual conjunt ura econômica respaldada em um modelo de concorrência dinâmica deve assumir condições de inovação no ambiente empresarial, com processos inovadores e tecnologias que permitam um aprendizado acumulado e interativo ( Rita, Araújo, Paula, Lima & Viana Filho , 2010).
+Desse modo, o atual ambiente empresarial norteado por pequenas empresas permite descartar a ideia de que somente as grandes corporações possuem capacidade para inovar, e daí o argumento de que as pequenas empresas necessitam adotar uma posição de mudança e de inovação constante (T aborda , Estevão & Nunes, 2013), buscando o desenvolvimento e a geração de um modelo de negócio sustentável (R odrigues , Bertoco & Ramos , 2016).
+Schaltegger e Wagner (2011) descrevem que a decisão para uma empresa buscar inov ação e sustentabilidade poderá ser desencadeada por uma série de fatores, dentre eles, mudanças na gestão, regulamentações, incentivos governamentais etc.
+Para tanto, alcançar a competitividade por meio da inovação e da sustentabilidade exigirá um ambiente legal regido por leis, diretrizes e regulamentações que garantam o desenvolvimento empresarial e a condição de bem-estar das pessoas ( Sebrae , 2013).
+Para o Manual de Oslo (OECD, 2005), a inovação relaciona -se com sustentabilidade de modo a reduzir o consumo de energia, melhorar as condições de trabalho, reduzindo materiais de consumo e os danos gerados ao meio ambiente.
+Desse modo, a capacidade de inovar junto com Inovação e sustentabilidade em pequenas empresas 47 REUNIR: Revista de Administração, Contabilidade e Sustentabilidade ISBN: 2237 -3667 , 10(1), 2020. ações sustentáveis pode contribuir para as práticas inovadoras, favorecendo o processo de de senvolvimento sem comprometer os recursos naturais ( Rodrigues et al.
+Porém, o Manual de Oslo (OECD, 2005) falha quando não caracteriza de forma específica qu ais os elementos necessários para definir como a inovação poderá interagir com a sustentab ilidade, descrevendo apenas ações básicas e relacionad as as condições de trabalho.
+O desenvolvimento de pesquisas e de tecnologias orientadas para o uso racional dos recursos ambientais possibilita a criação ou absorção de tecnologias, voltadas para a melh oria da qualidade ambiental.
+Dessa forma, Halme e Korpela (2014) argumentam que as inovações sustentáveis poderão surgir também sob a responsabilidade das pequenas empresas, pois tais inovações poderão ser implementadas mediante poucos recursos.
+De acordo com o Hart (2013), as pequenas empresas possuem um papel fundamental no processo de desenvolvimento econômico sustentável.
+Com isso, a sustentabilidade e a inovação poderão surgir por meio da criatividade humana inserida no ambiente das pequenas empresas ( Ferreira , 2000).
+Desse modo, compensando a ausência de recursos com criatividade, sendo estas empresas responsáveis por soluções inovadoras que atendam às suas deficiências de recursos financeiros.
+O desafio está em incluir o meio ambiente como parte integ rante das estratégias das empresas ( Hart, 2013).
+No entanto, Barbieri e Cajazeira (2009) discutem organizações sustentáveis como sendo aquelas que efetivamente contribuem para as três dimensões básicas da sustentabilidade: econômica, social e ambiental, promovendo mudanças positivas em todos os segmentos da empresa ( Pereira , 2010).
+Logo, não basta a preocupação somente com os aspectos ambientais da ação empresarial se não forem consideradas as questões sociais relacionadas as suas atividades e os impactos d essas ações para a sociedade.
+Sendo assim, a competitividade dessas empresas é mensurada a partir de seus aspectos sociais e ambientais, e não unicamente em termos de seu desempenho econômico (Silveira et al., 2016 ; Buso & Trica, 2019 ).
+Nessa direção, uma das ferramentas que têm sido mais utilizadas para avaliar a maturidade do processo de inovação em pequenas empresas é o Radar Inovação ( Sahwney , Wolcott & Arroniz 2006; Bachmann & Destefani , 2008), que considera não apenas os resultados de inovações implem entadas, mas também os processos e a importância dada à gestão do conhecimento como ferramenta que visa à competitividade, por meio da construção de um ambiente favorável a atividade inovadora.
+O quadro 2 apresenta um resumo do significado atribuído a cada constructo do Radar Inovação.
+A mensuração pelo Radar Inovação está embasada em quatro dimensões principais: i) as ofertas criadas, ii) os clientes atendidos, iii) os processos empregados e iv) os locais de presença usados, seguindo a caracterização do Ma nual de Oslo (OECD, 2005) para cada uma das dimensões.
+Estas se desdobram em 13 dimensões de avaliação totalizando 42 assertivas e apresenta um score de pontuação para cada dimensão e uma média consolidada da relação, denominada Grau de Inovação Global, qu e pode ser representado por scores de 1 a 5, sendo classificada como: pouco inovadora, a empresa que apresentar score entre 1 e 2,3; inovadora ocasional, os scores entre 2,4 e 3,7; e inovadora sistêmica, a empresa que apresentar score entre 3,8 e 5 ( Pardo , 2014).
+Dimensão Significado D1 – Oferta Uma empresa inovadora tem uma parte relevante de sua receita associada ao lançamento de novos produtos.
+D2 – Plataforma A habilidade em usar uma mesma plataforma para oferecer um maior número de produtos reflete maior capacidade inovadora.
+D3 – Marca Utilização da marca para alavancar outras oportunidades de negócio ou, inversamente, usar outros negócios para valorizar a marca.
+D4 – Clientes Inovações focalizadas no cliente, encontrando um novo nicho de mercado ou novas formas de atender o mercado atual.
+D5 – Soluções Mecanismos para simplificar as dificuldades com o cliente, gerando receita adicional a partir da combinação customizada e integrada de bens, serviços e informações.
+D6 – Relacionamento Relacionam ento do cliente com a empresa, considerando as experiências positivas que a empresa oferece na interação com seus clientes.
+D7 – Agregação de valor Relacionado a captação de valor dos produtos percebido pelos clientes, avalia a descoberta de fluxos de rec eita não explorados e formas de captar valor a partir de interações com clientes e parceiros.
+D8 – Processos Inovações em atividades de operações internas e externas da empresa, buscando maior eficiência e qualidade pela adoção de novas práticas de gestão , incluindo a gestão ambiental.
+D9 – Organização Relacionada à avaliação da estrutura das atividades da empresa, redefinindo papéis, responsabilidades e as contribuições de cada unidade de negócio e dos profissionais.
+D10 – Cadeia de fornecimento Avalia a melhoria da estrutura da empresa em toda cadeia, bem como o relacionamento logístico com fornecedores e clientes.
+D11 – Presença A inovação nesta dimensão consiste na criação de novos pontos de venda ou canais de distribuição que a empresa usa para co locar seus produtos no mercado, ampliando sua base de clientes.
+D12 – Rede Relacionada a comunicação que a empresa tem com os elos da cadeia e com os clientes, 48 Lima, Costa & Pereira REUNIR: Revista de Administração , Contabilidade e Sustentabilidade ISBN: 2237 -3667 , 10(1), 2020. avalia a realização de melhorias na rede capazes de ampliar o valor das ofertas da empresa e, f requentemente, de trazer benefícios logísticos.
+D13 – Ambiência inovadora Verifica o ambiente propício a inovação, observando se há disposição para inovar através de mecanismos que incentivem este processo, tais como programas de apoio e recursos dos órgã os de fomentos à inovação.
+Dimensões avaliadas pelo Radar Inovação Fonte: Bachmann e Destefani (2008).
+O Radar Inovação se popularizou em estudos que abordam a mensuração das atividades de inovação em pequenas empresas (por exemplo: Pardo, 2014; Paredes , Santana & Fell , 2014; Carvalho , Silva, Póvoa & Carvalho , 2015; Lima & Müller, 2017 ) devido a considerar não somente resultados de patentes, investimentos em pesquisa e desenvolvimento (P&D) e número de pesquisadores no quadro das empresas , o que não condiz com a realidade da maioria das pequenas empresas brasileiras, mas considerar principalmente os esforços empreendidos na busca de conhecimento e no sentido da implementação de inovações incrementais que gerem valor para esse grupo de empr esas e contribua com sua competitividade ( Lima & Müller , 2017).
+Hipóteses d a pesquisa A associação entre os termos inovação e sustentabilidade surge como uma oportunidade para o contexto das pequenas empresas.
+Neste sentido, a sustentabilidade poderá pro porcionar a geração de novos negócios, com novas oportunidades e práticas inovadoras que favoreçam o desenvolvimento sustentável ( Rodrigues et al.
+, 2016; Cantafio & Ieromonachou , 2019) .
+A partir desse entendimento, o estudo apresenta como hipóteses de pesq uisa a serem testadas: H1 Existe correlação positiva entre o desenvolvimento de atividades de inovação e a adoção de ações sustentáveis pelas pequenas empresas.
+H1a Esta correlação é maior entre pequenas empresas com maior Grau de Inovação Global.
+H2 As dimensões oferta, processos e organização, do Radar Inovação, exercem maior influência sobre a avaliação geral de sustentabilidade das pequenas empresas.
+H2a Esta influência é maior entre pequenas empresas com maior Grau de Inovação Global.
+H3 As dimens ões rede e ambiência inovadora exercem maior influência sobre o Grau de Inovação Global das pequenas empresas.
+H3a Esta influência é maior entre pequenas empresas com maior Grau de Inovação Global.
+Hipoteses Fonte: dados da pesquisa.
+Consi derando a argumentação de Klewitz e Hansen (2014), Claro e Claro l (2014) concordam de que o comportamento estratégico baseado na inovação considera que os aspectos ambientais e sociais contribuem para o sucesso do mercado influenciando a implementação de i novações incrementais de produto, processo e organizacional .
+Na mesma linha de argumentação, Klewitz e Hansen (2014) , Cantafio e Ieromonachou (2019) e Buso e Trica (2019) afirmam haver maior interação com atores externos nas empresas com comportamento estr atégico baseado em inovação .
+Elementos metodológicos da pesquisa Visando ampliar a discussão sobre inovação e sustentabilidade, o presente estudo teve como objetivo verificar a relação entre o grau de inovação de pequenas empresas e o desenvolvimento de ações ligadas a sustentabilidade.
+Para tanto, foi realizado levantamento de campo (survey) com recorte transversal junto a uma amostra das empresas participantes do programa Agentes Locais de Inovação (ALI) no biênio 2012 -2014, no Estado de Rondônia.
+A opç ão pela realização do levantamento de campo se deve a sua grande utilidade para o estudo de opiniões e atitudes, possibilitando o conhecimento direto da realidade pesquisada, qual seja a influência das atividades de inovação em pequenas empresas sobre sua atuação sustentável, haja vista que os próprios sujeitos de pesquisa informam acerca de seu comportamento, livrando a investigação do subjetivismo dos pesquisadores ( Freitas, Oliveira, Saccol & Moscarola , 2000; Gil, 2008; Creswell, 2010; Cooper & Schindler , 2016 ).
+Dessa forma, a pesquisa pode ser classificada quanto a sua natureza aplicada e utilização de abordagem quantitativa com fins descritivos, possibilitando a codificação das variáveis estudadas e o uso de correlações e outros procedimentos estatístic os para o conhecimento da população pesquisada (Creswell , 2010).
+População e definição da amostra O presente trabalho está inserido no contexto do projeto governamental denominado programa ALI, idealizado e executado pelo Sebrae, com apoio financeiro do CNPq.
+Assim, a população da pesquisa é composta por cerca de 1000 empresas de pequeno porte atendidas pelo programa no Estado de Rondônia no biênio 2012 -2014.
+A metodologia do ALI prevê o acompanhamento da empresa participante do programa durante o período de dois anos por um Agente Local de Inovação capacitado para esse fim, visando a implementação de uma cultura de inovação nessas empresas.
+As etapas desse acompanhamento compreendem a sensibilização do empresário/gestor da empresa, o diagnóstico do grau d e inovação inicial da empresa mensurando ações já desenvolvidas e a elaboração de sucessivos planos de ação em conjunto com o empresário/gestor para melhoria do Grau de Inovação Global identificado, com aplicação do diagnóstico novamente após um ano de aco mpanhamento para verificação da evolução Inovação e sustentabilidade em pequenas empresas 49 REUNIR: Revista de Administração, Contabilidade e Sustentabilidade ISBN: 2237 -3667 , 10(1), 2020. apresentada e ao final dos dois anos de participação no programa, possibilitando a classificação das empresas em três grupos distintos de acordo com a evolução apresentada: pouco inovadora, inovadora ocasional ou inovadora sistêmica.
+Dessa forma, a definição da amostra teve como critério que as empresas tivessem participado de todas as fases de acompanhamento do programa ALI no período especificado, independentemente da evolução apresentada no seu grau de inovação.
+A inserção da empresa no programa, ainda que não tenha evoluído nos critérios estabelecidos em sua metodologia, comprova o exercício de alguma atividade de inovação, necessária para a caracterização da relação aqui estudada.
+Com isso, a definição do número de participantes foi realizada pelos critérios da amostragem não probabilística por quotas ( Freitas et al., 2000; Gil, 2008), sendo os participantes definidos proporcionalmente pelo Grau de Inovação Global identificado ao final de sua participação no progr ama ALI e pelo setor de atuação da empresa, conforme representado na tabela 1.
+Composição da amostra selecionada por quotas Grau de inovação global Setor de atuação Número de participantes Pouco inovadora Indústria 20 Comércio 56 Serviç os 41 Subtotal 117 Inovadora ocasional Indústria 28 Comércio 48 Serviços 12 Subtotal 88 Total da amostra 205 Fonte: dados da pesquisa .
+A seleção dos participantes da pesquisa se deu mediante a conveniência dos pesquisadores pela facilidade de a cesso aos dados.
+Registre -se que não foram identificados casos de empresas classificadas como inovadoras sistêmicas que cumprissem o critério estabelecido de terem participado de todas as fases de acompanhamento do programa ALI no período especificado.
+Instrumentos de coleta e tratamento dos dados A coleta de dados se deu por revisão de registros estruturados ( Creswell , 2010), a partir dos dados disponíveis da execução do programa ALI no Estado de Rondônia, no período de 2012 a 2014, com um recorte transv ersal das informações das empresas quando da finalização do ciclo do programa.
+O método de coleta foi assim definido pela facilidade de acesso e disponibilidade dos dados e pela confiança dos pesquisadores na credibilidade das informações.
+Para o atendimen to do objetivo proposto ao estudo, foram observados os dados do Radar Inovação e da avaliação geral de sustentabilidade das empresas.
+O Radar Inovação ( Sahwney et al.
+, 2006; Bachmann & Destefani , 2008), já apresentado neste estudo, é o instrumento utilizad o pelo ALI para avaliar a maturidade do processo de inovação em pequenas empresas.
+A avaliação geral de sustentabilidade das empresas é mensurada pela média aritmética das respostas a dez assertivas que buscam captar a atuação sustentável do empreendimento sobre as dimensões social e ambiental da sustentabilidade, assumindo que a dimensão econômica é suficientemente atendida pelo Radar Inovação.
+Os respondentes deveriam atribuir notas de 0 a 10 para cada assertiva, sendo 0 "discordo totalmente" e 10 "concor do totalmente", como utilizado também no estudo de Pedro Filho et al.
+O tratamento dos dados para verificação das hipóteses levantadas neste estudo se deu pela aplicação da técnica de regressão linear múltipla, utilizando o suporte tecnológico do software Statistical Package for the Social Sciences (SPSS®), versão 18.0, assumindo a avaliação geral de sustentabilidade como variável dependente, e o Grau de Inovação Global das empresas, a partir das 13 dimensões do Radar Inovação, como variáveis indepe ndentes ( Pestana & Gageiro, 2003; Hair Jr, William, Babin & Anderson, 2009; Marôco, 2011; Gouvêa , Prearo & Romeiro , 2012; Hoffmann, 2016 ).
+As principais premissas relacionadas a aplicação da técnica de análise de regressão linear múltipla consideradas no presente estudo versam sobre a baixa multicolinearidade (VIF<5,0); ausência de autocorrelação dos resíduos (DurbinWatson próximo de 2,0); homoscedasticidade; normalidade dos resíduos; normalidade multivariada; ausência de dados atípicos; e tamanho da amost ra com ao menos cinco casos para cada variável independente (n=70) ( Pestana & Gageiro, 2003; Hair Jr et al.
+, 2009; Marôco, 2011; Gouvêa et al.
+Apresentação e discussão dos resultados Com a adoção do procedimento de coleta de dados por meio de revisão de registros estruturados ( Creswell , 2010), não foram verificadas perdas amostrais (n=205).
+A média para a avaliação geral de sustentabilidade da amostra pesquisada foi de 5,49 e a média para o Grau de Inovação Global foi de 2,3 varian do entre 1,51 na dimensão presença e 3,96 na dimensão plataforma.
+Ao verificar esses mesmos resultados comparando os grupos "pouco inovadora" (n=117) e "inovadora ocasional" (n=88), tem -se uma média de 5,18 para a avaliação geral de sustentabilidade e de 1 ,9 para o Grau de Inovação Global do primeiro grupo, variando entre 1,3 na dimensão presença e 3,8 na dimensão plataforma; ante uma média de 5,91 para a avaliação geral de sustentabilidade e de 2,7 para o Grau de Inovação Global do segundo grupo, variando entre 1,7 na dimensão presença e 4,1 na dimensão plataforma, evidenciando que o grupo mais inovador possui os melhores resultados também de sustentabilidade.
+O teste de correlação utilizando o método de estimação Enter, considerando todas as variáveis e se nsível a multicolinearidade, indicou a existência de correlação positiva entre a avaliação geral de sustentabilidade e o Grau de Inovação Global das empresas que compõem a amostra (0,795 p=0,000), assim como a existência de correlação positiva, 50 Lima, Costa & Pereira REUNIR: Revista de Administração , Contabilidade e Sustentabilidade ISBN: 2237 -3667 , 10(1), 2020. estatistica mente significante, entre todas as dimensões do Radar Inovação e a avaliação geral de sustentabilidade, sendo que os resultados indicam um bom ajustamento geral do modelo com R²=0,803 e R²Ajustado=0,788, bem como o valor do teste DurbinWatson=1,847, indic ando ausência de autocorrelação dos resíduos, o que permite aceitar totalmente a hipótese H1.
+Quando separados os grupos, nota -se a diferença dos resultados da correlação entre a avaliação geral de sustentabilidade e o Grau de Inovação Global evidenciados para o grupo "pouco inovadora" (0,566 p=0,000) e "inovadora ocasional" (0,407 p=0,000), rejeitando totalmente a hipótese H1a.
+Os resultados de ajustamento apresentados na separação dos grupos foram: R²=0,785 e R²Ajustado=0,755 com teste DurbinWatson=2,089 para o grupo "pouco inovadora"; e R²=0,710 e R²Ajustado=0,654 com teste DurbinWatson=1,787 para o grupo "inovadora ocasional", todos com teste F diferentes de zero e estatisticamente significante, bem como se confirmou a distribuição normal dos resíduos e a homoscedasticidade.
+Os valores de VIF em ambos os modelos confirmam a ausência de multicolinearidade dos dados.
+Os resultados para o grupo "pouco inovadora" evidenciam que a correlação não foi estatisticamente significante para algumas dimensões do Rad ar Inovação, a saber: oferta (0,139 p=0,067), clientes (0,128 p=0,085), relacionamento (0,029 p=0,380), agregação de valor ( -0,041 p=0,332) e rede ( -0,026 p=0,388).
+Já para o grupo "inovadora ocasional" a correlação também não se apresentou estatisticament e significante para as dimensões clientes (0,048 p=0,327), agregação de valor (0,083 p=0,220), organização ( -0,012 p=0,454), cadeia de fornecimento ( -0,039 p=0,358), presença (0,117 p=0,138), rede (0,123 p=0,126) e ambiência inovadora (0,017 p=0,436).
+Os r esultados referentes ao coeficiente de regressão geral das dimensões do Radar Inovação frente a avaliação geral de sustentabilidade mostram pelo valor de Beta a influência de cada dimensão do Radar Inovação sobre o resultado da correlação, evidenciando que as maiores influencias são exercidas pelas dimensões soluções (0,374 p=0,000), oferta (0,314 p=0,000), marca (0,313 p=0,000) e processos (0,263 p=0,000), aceitando parcialmente a hipótese H2, que previa a dimensão organização, e não previa as dimensões so luções e marca.
+Na separação dos grupos amostrais, os resultados da regressão evidenciam diferenças entre os valores de Beta dos grupos para as dimensões estudadas, sendo mais influentes para o grupo "pouco inovadora" as dimensões marca (0,836 p=0,000), so luções (0,629 p=0,000), plataforma (0,578 p=0,000) e cadeia de fornecimento (0,530 p=0,000), e para o grupo "inovadora ocasional" as dimensões plataforma (0,785 p=0,000), soluções (0,586 p=0,000), processos (0,311 p=0,000) e relacionamento (0,258 p=0,000), rejeitando parcialmente a hipótese H2a, uma vez que só previa a dimensão processos entre as mais influentes deste grupo.
+Como levantado na discussão teórica, foi verificada também a influência das dimensões do Radar Inovação (variáveis independentes) sobr e o Grau de Inovação Global das pequenas empresas (variável dependente) e por grupos, ainda utilizando da regressão múltipla.
+Os resultados mostram um excelente ajustamento do modelo, com R²=0,971 e R²Ajustado=0,969, bem como o valor do teste DurbinWatson =2,048, indicando ausência de autocorrelação dos resíduos.
+Na tabela 2 são apresentados os coeficientes dessa regressão, que permitem aceitar parcialmente a hipótese H3, visto que, da proposição, apenas a ambiência inovadora está entre as dimensões mais i nfluentes.
+Coeficientes da regressão Radar Inovação Modelo Coeficientes nãopadronizados Coeficientes padronizados t Sig.
+Diagnóstico de colinearidade B Std.
+Error Beta Tolerancia VIF 1(Constant) -0,133 0,044 -3,013 0,003 Oferta 0,087 0,006 0,228 14,878 0,000 0,638 1,568 Plataforma 0,067 0,006 0,164 11,510 0,000 0,741 1,350 Marca 0,114 0,008 0,199 14,077 0,000 0,754 1,327 Clientes 0,098 0,009 0,183 11,075 0,000 0,552 1,810 Soluções 0,074 0,009 0,119 7,915 0,000 0,659 1,518 Relacionamento 0,053 0,005 0,158 10,052 0,000 0,611 1,637 Agregação de Valor 0,085 0,007 0,160 11,774 0,000 0,818 1,223 Processos 0,044 0,019 0,044 2,258 0,025 0,401 2,492 Organização 0,084 0,011 0,121 7,656 0,000 0,599 1,669 Cadeia de Fornecimento 0,061 0,007 0,144 8,986 0,000 0,582 1,720 Presença 0,045 0,010 0,075 4,556 0,000 0,555 1,803 Rede 0,059 0,006 0,146 9,515 0,000 0,642 1,558 Ambiência Inovadora 0,206 0,020 0,221 10,532 0,000 0,342 2,924 Fonte: dados da pesquisa .
+Na separação por grupos pa ra esta análise, os coeficientes da regressão apresentaram valores de Beta Inovação e sustentabilidade em pequenas empresas 51 REUNIR: Revista de Administração, Contabilidade e Sustentabilidade ISBN: 2237 -3667 , 10(1), 2020. superiores para o grupo "pouco inovadora" ante o grupo "inovadora ocasional" nas dimensões rede (0,322 p=0,000; 0,270 p=0,000) e ambiência inovadora (0,274 p=0,000; 0,212 p=0,000), rejeitando totalmente a hipótese H3a.
+A partir dos resultados identificados pela análise de regressão múltipla, é possível a verificação das hipóteses levantadas no presente estudo, conforme apresentadas no quadro 3.
+Os resultados da pesquisa, resumidos n a análise das hipóteses, confirmam que, para o grupo amostral selecionado, existe correlação positiva entre inovação e sustentabilidade no contexto das pequenas empresas, em que quanto maior o Grau de Inovação Global dessas empresas, maior será sua disposi ção para a realização de ações ligadas à sustentabilidade.
+No entanto, essa análise deve ser cautelosa, haja vista que, quando separados os grupos, a correlação foi mais elevada para o grupo "pouco inovadora" do que para o grupo "inovadora ocasional".
+Esse resultado pode ser explicado, talvez pela proximidade entre as médias da avaliação geral de sustentabilidade (5,18 e 5,91, respectivamente) que não permitiram uma distinção significativa entre um grupo e outro na variável dependente, em última análise pel as especificidades do contexto amazônico (Becker, 2010) comum a amostra.
+Apesar disso, a validade da escala de avaliação geral de sustentabilidade, que engloba assertivas como 'S8 - Desenvolvo programa de tratamento de resíduos ou reaproveitamento como pro cesso de inovação' e 'S9Transformo parte dos resíduos gerados na minha atividade em uma oportunidade de gerar receita', juntamente com os resultados descritos, permitem supor que existe alguma sensibilidade no comportamento empresarial da amostra quanto a relação entre inovação e sustentabilidade, na linha do que foi defendido por Côrtes e Moretti (2013) e MaderoGómez e Solís (2016), ainda que essa sensibilidade não resulte necessariamente em iniciativas de inovação capazes de gerar negócios e potencial izar o processo de desenvolvimento econômico das pequenas empresas, como defendido por alguns autores aqui referenciados (Freitas et al., 2011; Rodrigues et al., 2016).
+Hipóteses Resultado da análise H1: Existe correlação positiva entre o desenvolvimento de atividades de inovação e a adoção de ações sustentáveis pelas pequenas empresas.
+Aceita totalmente H1a: Esta correlação é maior entre pequenas empresas com maior Grau de Inovação Global.
+Rejeitada totalmente H2: As dimensões oferta, processos e organ ização, do Radar Inovação, exercem maior influência sobre a avaliação geral de sustentabilidade das pequenas empresas.
+Aceita parcialmente H2a: Esta influência é maior entre pequenas empresas com Rejeitada parcialmente maior Grau de Inovação Global.
+H3: As dimensões rede e ambiência inovadora exercem maior influência sobre o Grau de Inovação Global das pequenas empresas.
+Aceita parcialmente H3a: Esta influência é maior entre pequenas empresas com maior Grau de Inovação Global.
+Rejeitada totalmente Quadr o 3.
+Análise das hipóteses da pesquisa Fonte: dados da pesquisa .
+Apesar disso, a validade da escala de avaliação geral de sustentabilidade, que engloba assertivas como 'S8 - Desenvolvo programa de tratamento de resíduos ou reaproveitamento como process o de inovação' e 'S9 - Transformo parte dos resíduos gerados na minha atividade em uma oportunidade de gerar receita', juntamente com os resultados descritos, permitem supor que existe alguma sensibilidade no comportamento empresarial da amostra quanto a r elação entre inovação e sustentabilidade, na linha do que foi defendido por Côrtes e Moretti (2013) e Madero -Gómez e Solís (2016), ainda que essa sensibilidade não resulte necessariamente em iniciativas de inovação capazes de gerar negócios e potencializar o processo de desenvolvimento econômico das pequenas empresas, como defendido por alguns autores aqui referenciados ( Freitas et al., 2011; Rodrigues et al.
+Nesse sentido, é também parcialmente aceita a argumentação de Klewitz e Hansen (2014) quant o a influência dos aspectos ambientais e sociais sobre a implementação de inovações incrementais de produto, processo e organizacional, visto que as dimensões relacionadas a esses tipos de inovações não se confirmaram totalmente na análise de regressão.
+Em vez disso, sobressaiu -se a dimensão soluções, enfatizando o ganho adicional de receita pela customização de bens e serviços já oferecidos pela empresa, o que, não necessariamente, significa a implementação de inovações incrementais na oferta de produtos, nos processos ou na estrutura organizacional, pois podem ser desenvolvidas apenas ações de conformidade na gestão de resíduos, por exemplo, que proporcionem esse resultado adicional, ainda que esteja de acordo com o prescrito no Manual de Oslo (OECD, 2005) sobre a relação entre sustentabilidade e inovação.
+Além disso, a presença da dimensão marca entre as demais dimensões com maior influência nos coeficientes da regressão geral (oferta, marca e processos), pode indicar o direcionamento das ações unicamente para valorização da marca da empresa, fugindo ao conceito de organizações sustentáveis ( Barbieri & Cajazeira , 2009) da argumentação de Hart (2013) e Claro e Claro l (2014) quanto a inclusão do meio ambiente como parte integrante das estratégias das empresas , contribuindo para as três dimensões básicas da sustentabilidade: econômica, social e ambiental atuando de forma integrada .
+Do mesmo modo, as contribuições de Bunea (2019) corroboram a presente análise identific ando influência s significativa s, mas negativ as, entre inovação e sustentabilidade por meio do modelo de regressão linear múltipla .
+A análise do autor evidenciou uma influência positivamente e significativamente da inovação quando relacionada as vendas, gerando possível sustentabilidade econômica como fonte de vantagem competitiva.
+Contudo, é importante ressaltar, que na análise dos 52 Lima, Costa & Pereira REUNIR: Revista de Administração , Contabilidade e Sustentabilidade ISBN: 2237 -3667 , 10(1), 2020. grupos separadamente, a dimensão marca é potencialmente influente apenas no grupo com menor Grau de Inovação Global, indicando que o amadurecimento das atividades de inova ção pode atuar como minimizador desse efeito direcionador para a valorização da marca, inserindo a sustentabilidade, de fato, na estratégia de negócio, e não como acessório de marca.
+Sobre a interação com atores externos em empresas com comportamento estra tégico baseado em inovação, o resultado da regressão para a dimensão ambiência inovadora sugere haver alguma disposição do grupo amostral para inovar por meio de mecanismos que incentivem este processo, tais como programas de apoio e recursos dos órgãos de fomentos à inovação ( Klewitz & Hansen , 2014), no entanto, esse esforço é muito mais individual do que cooperativo, visto que a dimensão rede não apresentou grande influência sobre essas atividades.
+Tal resultado pode sugerir alguma deficiência do ambiente institucional quanto a regulamentações que privilegiem o desenvolvimento empresarial e a condição de bem -estar das pessoas por meio da cooperação com atores externos ( Sebrae , 2013).
+Nesse caso, sendo importante ressaltar as contribuições academicas de Cantafio e Ieromonachou (2019) quantifica ndo o desenvolvimento econômico local, inovação e sustentabilidade ambiental também por meio da técnica de regressão múltipla sendo realizada para examinar a relação entre os três indicadores.
+A pesquisa contribuiu par a o desenvolvimento de um modelo SustaIn -LED ajudando com uma melhor compreensão das questões ambientais, e no desenho de novas políticas de planejamento urbano, estando relacionadas com as implicações econômicas geradas pela implementação das políticas de inovação interligadas com a temática sustentabilidade ambiental .
+Desse modo, a pesquisa converge com as contribuições empiricas de Bunea (2019), apresentando a dimensão marca como um direcionamento de ações de sustentabilidade voltadas apenas para a valo rização da própria empresa .
+Já as contribuições de Cantafio e Ieromonachou (2019) divergem dos resultados apresentados pela presente pesquisa, havendo uma possível deficiência no aparato institucional quando relacionado à cooperação externa.
+Diante do expo sto é preciso enfatizar que o processo de crescimento econômico das empresas e o desempenho ambiental deverão atuar em sinergia, contribundo com o dinamismo da inovação e as ações sustent áveis necessárias para um ambiente de crescimento, produtividade e su stentabilidade .
+Considerações Finais Com o objetivo de verificar a relação entre inovação e sustentabilidade, analisando o grau de inovação de pequenas empresas e o desenvolvimento de ações sustentáveis, é possível concluir deste estudo que existe uma co rrelação positiva entre o desenvolvimento das atividades de inovação e a adoção de ações sustentáveis pelas pequenas empresas pesquisadas, sendo as dimensões soluções, oferta, marca e processos, do Radar Inovação, mais influentes sobre a atitude sustentáve l das empresas.
+Contudo, essa correlação não é maior entre as pequenas empresas com maior Grau de Inovação Global, o que exige que sejam analisados com cautela os resultados expostos.
+Apesar dos resultados que rejeitaram hipóteses propostas ao estudo, não era um objetivo deste se contrapor os aspectos teóricos levantados.
+Dessa forma, as hipóteses que se pretenderam confrontar com os fatos estão relacionadas sobre a disposição das pequenas empresas para inovar, considerando a necessidade de engajamento soci al e ambiental inerente ao ambiente onde se localizam.
+Com isso, pode -se sugerir do estudo que a inovação pode ter um papel positivo no reforço da sustentabilidade , trazendo vantagens competitivas para as organizações, ao passo que minimizam os impactos a mbientais .
+Contudo, também é possível caracterizar que a inovação e a sustentabilidade poderão gerar conflitos quando observadas apenas pelo fator empresa.
+Nesse caso, enquanto contribuição acadêmica , a pesquisa apresenta as possibilidades em fazer uso de métodos quantitativos aliados a uma temática com caracter ísticas de ciências sociais, mensurando inovação e sustentabilidade por meio da construção de hip óteses e testes estatísticos respeitando seus parâmetros.
+Sob o ponto de vista gerencia l, a pesquisa c aracteriza a necessidade das empresas em promover suas marcas não apenas por meio do desenvolvimento de ações sustent áveis norteadas por fins econ ômicos, mas também relacionadas ao conceito de organizações sustent áveis com uma melhor compreens ão das questõ es ambientais, além da criação de valor para seus clientes .
+Já as contribuições sociais, caracterizam que as temáticas inovação e sustentabilidade podem proporcionar melhorias para a sociedade, incluindo a manutenção do ecossistema por meio de ações inovad oras e a qualidade do meio ambiente , projetando uma futura melhora na qualidade de vida.
+Em vista disso, é possível sugerir que o desenvolvimento do programa ALI, enquanto política pública de inovação, deveria ter considerado os aspectos locacionais das em presas atendidas, principalmente aqueles relacionados ao meio ambiente, visando melhores resultados de inovação aliados a sustentabilidade.
+As limitações inerentes à pesquisa impossibilitam generalizações acerca dos achados para o universo das pequenas emp resas, considerando principalmente o fato da amostra pesquisada não obedecer ao critério de aleatoriedade, o que pode ser considerada como uma oportunidade de estudos futuros a expansão do estudo sobre esse critério de seleção amostral.
+No mesmo sentido, o utras oportunidades de pesquisa relacionadas as limitações aqui presentes versam sobre a limitação geográfica restrita a um único estado da federação brasileira e a restrição da amostra à inserção no programa ALI.
+Referências Banacu, C. S.; Busu, M.; Ign at, R.; & Trica, C. L. (2019).
+Entrepreneurial Innovation Impact on Recycling MunicipalWaste.
+A Panel Data Analysis at the EU Level .
+Inovação e sustentabilidade em pequenas empresas 53 REUNIR: Revista de Administração, Contabilidade e Sustentabilidade ISBN: 2237 -3667 , 10(1), 2020.
+Bachmann, D. L.; & Destefani, J. H .
+Metodologia para Estimar o Grau de Inovação nas MPEs: Cultura do Empreendedorismo e Inovação.
+In: XVIII Seminário Nacional de Parques Tecnológicos e Incubadoras de Empresas , Aracaju, SE, Brasil.
+Aracaju/SE: 22 a 26 de setembro.
+Barbieri, J. C.; & Cajazeira , J. E. R. (2009).
+Responsabilidade social e mpresarial e empresa sustentável: da teoria à prática.
+Novas territorialidades na Amazônia: desafio às políticas públicas.
+Corporate Sustainability and Innovation in SMEs: Evidence of Themes and Activities in Practice.
+Business Strategy and the Environment, 19 (7), 417-435.
+Buso, M.; & Trica, C. L. (2019).
+Sustainability of Circular Economy Indicators and Their Impact on Economic Growth of the European Union .
+Repositioning sales as an influence on innovation and a source of sustainable competitive advantage .
+SCIENDO 13th International Conference on Business Excellenc e, 492-504.
+Cantafio, G. U; & Ieromonachou, P. (2019).
+In Search of a Tool to Support Planning Inside Large Cities: the SustaIn -LED Model .
+International Journal on: Environmental Science and Sustainable Development .
+Carvalho, G. D.; Silva, W. V.; Póvoa, A. C.; & Carva lho, H. G. (2015).
+Radar da Inovação como Ferramenta para o Alcance de Vantagem Competitiva para Micro e Pequenas Empresas.
+Revista de Administração e Inovação, 12 (4), 162 -186.Claro, P. B. de O.; & ClaroI , D. P. (2014).
+Sustentabilidade estratégica: exist e retorno no longo prazo?
+Revista de Administração, 49(2), 291 -306.
+CNC - Confederação Nacional do Comércio de Bens, Serviços e Turismo .
+Recuperado em 25 março, 2017, de CNPq - Conselho Nacional de Desenvolvimento Científico e Tecnológico .
+ALI - Agentes Locais de Inovação.
+Recuperado em 10 março, 2017, de -ali>.
+Côrtes, P. L.; & Moretti , S. L. (2013).
+Consumo Verde: um estudo transcultural sobre crenças, preocup ações e atitudes ambientais.
+REMark - Revista Brasileira de Marketing, 12 (3), 45-76. Cooper, D. R.; & Schindler , P. S. (2016).
+Métodos de Pesquisa em Administração (12ª ed.)
+Porto Alegre: McGraw Hill Brasil.
+Projeto de Pesquisa: mét odos qualitativo, quantitativo e misto.
+Pedro Filho, F. S.; Lima, V. A.; Da Silva Neto, J. M.; Da Silva Müller, C. A.; & Da Costa, G. B.
+Building the capacity for sustainable innovation in the Amazon region.
+International Jour nal of Innovation and Learning, 22(1), 23-43.
+São Paulo em Perspectiva, 14 (4), 139-144.
+Fleury, M. T.; & Fleury , A. C. (2004).
+Alinhando Estratégia e Competências.
+RAE - Revista de Ad ministração de Empresas, 44(1), 44-57.
+Freitas, C. C. G.; Maçaneiro, M. B.; Kuhl, M. R.; Segatto, A. P.; Doliveira, S. L. D.; & Lima, L. F. (2011).
+Transferência tecnológica e inovação por meio da sustentabilidade.
+Revista de Administração Pública, 46 (2), 363-384.
+Freitas, H.; Oliveira, M.; Saccol, A.
+Revista de Administração, 35(3), 105-112.
+Gerstlberger, W.; Knudsen, M.; & Stampe, I.
+Sustainable Development Strategies for Product Innovation and Energy Efficiency.
+Business Strategy and the Environment, 23(2), 131-144.
+Métodos e técnicas de pesquisa social (6ª ed.).
+Gouvêa, M. A.; Prearo, L. C.; & Romeiro, M. C. (2012).
+Avaliação da adequação de aplicação d e técnicas multivariadas em estudos do comportamento do consumidor em teses e dissertações de duas instituições de ensino superior.
+Revista de Administração, 47 (2), 338-355.
+Hair Jr., J. F.; William, B.; Babin, B.; & Anderson, R. E. (2009).
+Análise multiva riada de dados (6ª ed.).
+Halme, M.; & Korpela, M. (2014).
+Responsible innovation toward sustainable development in small and medium -sized enterprises: a resource perspective.
+Business Strategy and the Environment, 23 (8), 547-566.
+Inovação e sustentabilidade, bases para o futuro dos pequenos negócios.
+Análise de regressão: uma introdução à econometria.
+Klewitz, J.; & Hansen, E. G. (2014).
+Sustainability -oriented innovation of SMEs: a systematic review.
+Journal of Cleaner Production, 65, 57 -75.
+Lima, V. A.; & Müller, C. A. S. (2017).
+Why do small businesses innovate?
+Relevant factors of innovation in businesses participating in the Local Innovation Agents program in Rondônia (Amazon, Brazil).
+RAI - Revista de Administração e Inovação, 14 , 290–300.
+Madero -Gómez, S. M.; & Solís, I.
+La sostenibilidad desde una perspectiva de las áreas de negocios.
+Cuade rnos de Administración, 32 (56), 7-19.
+Análise estatística com o SPSS Statistics.
+Manual de Oslo: diretrizes para coleta e interpretação de dados sobre inovação (3ª ed.).
+Recuperado em 26 março, 2017, em <http: //www.finep.gov.br/images/apoio -efinanciamento/manualoslo.pdf>.
+54 Lima, Costa & Pereira REUNIR: Revista de Administração , Contabilidade e Sustentabilidade ISBN: 2237 -3667 , 10(1), 2020.
+Estilo cognitivo de gestores e grau de inovação em restaurantes de Porto Velho – RO.
+Dissertação de Mestrado , Universidade Federal de Rondônia , Porto Velho , RO, Brasil .
+B.; Santana, G. A.; & Fell, A. F. A.
+Um estudo de aplicação do Radar da inovação: o grau de inovação organizacional em uma empresa de pequeno porte do setor Metal -mecânico.
+NavusRevista de Gestão e Tecnologia, 4 (1), 76-88.
+Resenha bibliográfica: Responsabilidade social empresarial e empresa sustentável - da teoria à prática.
+Revista de Administração Contemporânea, 14 (6), 1174 -1176.
+Pestana, M. H.; & Gageiro, J. N .
+Análise de Dados para Ciências Sociais – A Complementariedade do SPSS (6ª ed.).
+; Araújo, A. C.; Paula, M. A.; Lima, M. O.; & Viana Filho, J. C. (2010).
+Consumo de produtos e serviços inovadores: aplicação do índice de prontidão para tecnologia.
+Revista Brasileira d e Inovação, 9 (1), 167-196.
+Rodrigues, A. P. A.; Bertoco, A.
+Inovação e sustentabilidade na micro e pequena empresa: um estudo sobre a percepção e conhecimento sobre a aplicação de práticas sustentáveis em empresas de Ponta Grossa e Wenceslau Braz – PR.
+In: VI Congresso Brasileiro de Engenharia e Produção , Ponta Grossa, PR, Brasil.
+Ponta Grossa/PR: 30 de novembro a 2 de dezembro.
+A.; Fazion, C. B.; & Meroe, G. P. S. (2011).
+Inovação: um estudo sobre a evol ução do conceito de Schumpeter.
+Caderno de Administração, 5(1), 1-16.
+Sawhney, M.; Wolcott, R.; & Arroniz, I .
+The 12 Different Ways for Companies to Innovate.
+MITSloan Management Review, 47 (3), 74-81.
+Schaltegger, S.; & Wagner, M. (2011).
+Sustaina ble entrepreneurship and sustainability innovation: categories and interactions.
+Business Strategy and the Environment, 20 (4), 222-237.
+Inovação e sustentabilidade, bases para o futuro dos pequenos negócios.
+São Paulo: Serviço Brasileiro de Apoio às Micro e Pequenas Empresas.
+Silva, F. C.; & Cavalcante, F. R. C. (2011).
+Desenvolvimento e Conservação no Estado de Rondônia: uma análise a partir do institucionalismo de Douglas North.
+Núcleo de Altos Estudos Amazônicos , paper 285.
+; Dalmarco, G.; Petrini, M.; & Neutzling, D. M. (2016).
+Inovação e Desenvolvimento Sustentável: uma análise sistemática da produção científica internacional.
+DESENVOLVE: Revista de Gestão do Unilasalle, 5 (1), 174-199.
+Schumpeter's View on Innovation and Entrepreneurship.
+Management Trends in Theory and Practice.
+Faculty of Management Science and Informatics, University of Zilina & Institute of Management by University of Zilina.
+Taborda, C. S. B.; Estevão, C. M. S.; & Nunes, S. M .
+Innovation management in the Beira Interior SME's: the manager perspectives.
+Tourism & Management Studies, 9 (2), 124-129.

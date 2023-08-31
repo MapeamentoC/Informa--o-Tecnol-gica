@@ -1,0 +1,239 @@
+1 Cadernos de Ciência & Tecnologia, Brasília, v. 36, n. 1, e26356, jan./abr.
+2019Transferência de tecnologia e inovação (TT&I) pela Embrapa: uma proposta disruptiva José Luiz Bellini Leite1 RESUMO As atividades de comunicação que suportaram, em passado recente, o processo de transferência de tecnologia (TT) na Embrapa não parecem manter nível adequado de eficiência e efetividade.
+As mudanças em elevada velocidade que v êm acontecendo nas cadeias produtivas, o acirramento em nível mundial da concorrência e a disponibilização de tecnologias mais complexas e sofisticadas est ão requerendo mudanças no modus operandi da transferência de tecnologia das instituições de pesquisa e desenvolvimento.
+Neste ensaio são apresentados conceitos e ferramentas capazes de auxiliar as instituições a rearranjar a estrutura e proceder a uma reengenharia dos processos de TT que facilite, aumente o alcance e agilize o processo de inovação tecnológica nas diferentes cadeias produtivas.
+Baseada na tecnologia de cloud computing e na assistência técnica continuada, sugere-se a criação de redes de inovação de caráter nacional, com clusters por cadeias produtivas.
+Termos para indexação: assistência técnica continuada, cadeias produtivas, computação nas nuvens, instituições de P&D.
+Technology transfer and innovation (TT&I) by Embrapa: a disruptive proposal ABSTRACT The communication activities that supported, in the recent past, the process of technology transfer (TT) at Embrapa, do not seem to maintain an adequate level of efficiency and effectiveness.
+The fast changes that have been taking place in the production chains, the increasing competition in a global level and the availability of more complex and sophisticated technologies are demanding changes in the modus operandi of technology transfer of research and development institutions.
+The essay presents concepts and tools capable of helping institutions to rearrange the structure and proceed with a reengineering of TT processes that facilitate, increase the reach and speed up the process of technological innovation in the different production chains.
+Based on cloud computing technology and ongoing technical assistance, it is suggested to create national innovation networks with clusters per production chains.
+Index terms: ongoing technical assistance, production chains, cloud computing, R&D institutions.
+1 Engenheiro civil, Ph.D. em Economia Agrícola, analista da Embrapa Gado de Leite, Juiz de Fora, MG. jose.bellini@embrapa.brCC&T Cadernos de Ciência & TecnologiaISSNe 1678-3964 www.embrapa.br/cct Recebido em 25/05/2018 Aprovado em 5/02/2019 Publicado em 22/04/2019 This article is published in Open Access under the Creative Commons Attribution licence, which allows use, distribution, and reprodution in any medium, without restrictions, as long as the original work is correctly cited.Ideias centrais • Contextualiza e caracteriza a Transferência de Tecnologia (TT) na Embrapa, dos seus primórdios aos dias de hoje • Evidencia o papel da tecnologia e da assistência técnica na geração e concentração de renda no campo • Propõe diretrizes para transferência de tecnologia e conhecimento eficiente e efetiva.
+• Propõe a rede de inovação da cadeia agroalimentar (Rica), a ser estabelecida em parceria pela Embrapa e Anater2 J. L. B. Leite Cadernos de Ciência & Tecnologia, Brasília, v. 36, n. 1, e26356, jan./abr.
+2019INTRODUÇÃO Este ensaio versa sobre gestão da Transferência de Tecnologia e Inovação (TT&I) no âmbito da Embrapa e está fortemente alicerçado em Leite (2017)2.
+Tem por objeto apresentar, contextualizar, caracterizar e discutir elementos-chave que auxiliem na melhoria e no aperfeiçoamento das estruturas e dos processos de gestão de Transferência de Tecnologia e Inovação, trazendo uma robusta proposta que, com adaptações, pode ser explorada por outras instituições de pesquisa, desenvolvimento e inovação (PD&I).
+O problema que se percebe é que os processos de comunicação como ferramenta da transferência da tecnologia não conseguem, como em passado recente, criar condições adequadas para que o processo de inovação tecnológica ocorra.
+Isso se deve, em larga escala, à sofisticação e complexidade das novas tecnologias que t êm trazido mudanças substantivas para os processos produtivos das diferentes cadeias.
+Há de se considerar que o Brasil possui mais de 4 milhões de produtores rurais e que um número muito pequeno deste contingente recebe assistência técnica.
+O problema se torna ainda mais complexo se considerarmos a perda de capacidade de atender ao produtor rural de forma adequada que a assistência técnica vem enfrentando nos últimos anos.
+Acrescente-se ainda o aumento radical da sofisticação e complexidade das tecnologias que t êm requerido dos produtores e dos técnicos de assistência técnica conhecimentos e experiência que demandam formação aprofundada sobre as modernas técnicas de produção.
+Ressalta-se ainda que a tecnologia, como veremos adiante, é o fator de produção capaz de lograr êxito na busca por produtividade e por rentabilidade das produções e das cadeias produtivas.
+Diante desses fatores que impactam a capacidade das cadeias produtivas de inovar, sem perder de vista que há fatores exógenos ao processo intrínseco de inovação, deve-se ter em conta a alta relevância de discutir e propor solução para a organização da transferência de tecnologia.
+Havendo disponibilidade de soluções tecnológicas que possam contribuir para o avanço da produtividade, da rentabilidade e da sustentabilidade das diferentes cadeias produtivas, faz-se mister a obtenção de estruturas e processos eficientes que promovam as condições técnicas para que as pesquisas, realizadas nas instituições de P&D, possam ser transformadas em inovação, gerando riquezas para o produtor e para o País.
+Com base na experiência acumulada de mais de 30 anos em instituição de pesquisa e desenvolvimento e em estudos sobre o processo de inovação, apresentam-se conceitos chave e discute-se a atual situação da TT na Embrapa.
+Com base nos paradigmas delineados ao longo do texto, propõe-se a criação de mecanismo na forma de uma rede e de processos que perpassam e distribuem responsabilidade aos diferentes agentes com interesse em inovação nas cadeias produtivas.
+A TRANSFERÊNCIA DE TECNOLOGIA NA EMBRAPA Desde sua criação em 1973, juntamente com a pesquisa tecnológica, a Embrapa tem desenvolvido atividades de transferência de tecnologia.
+No início, as atividades eram organizadas sob o título de "difusão de tecnologia", as quais tinham como paradigma que o processo de adoção da tecnologia estava afeito, essencialmente, à tomada de conhecimento da existência da tecnologia, demandando, dessa forma, um amplo processo de comunicação.
+Naqueles tempos, com uma agropecuária em início de expansão e distante das modernas técnicas de produção, as comunicações tinham como ênfase apresentar os resultados da pesquisa analítica, deixando a síntese em sistemas de produção para os produtores.
+Proposta de Gestão da Transferência de Tecnologia e Inovação (TT&I) na Embrapa .
+Documento de acesso em site restrito da Embrapa, publicado em 15 de outubro de 2017.
+Transferência de Tecnologia e Inovação (TT&I) pela Embrapa: uma proposta disruptiva3 Cadernos de Ciência & Tecnologia, Brasília, v. 36, n. 1, e26356, jan./abr.
+2019Com o passar dos anos e com as profundas transformações ocorridas no agronegócio brasileiro, foram realizados alguns ajustes, e o termo "difusão" de tecnologia deu lugar à ideia de "difusão e marketing" de tecnologia.
+O que se vislumbrava àquela época era a necessidade de atender às necessidades dos clientes.
+A ideia de cliente ficou fortalecida, mas as práticas eram exatamente as mesmas que as vigentes na era da "difusão".
+Destaca-se também que a atividade de Transferência de Tecnologia (TT) sempre foi vista, no âmbito da Embrapa, como uma atividade de responsabilidade secundária e de menor importância em relação às atividades de pesquisa.
+Até meados da década de 1990, as equipes de TT eram formadas por pesquisadores em final de carreira e/ou aqueles que não estavam à frente de pesquisas consideradas relevantes.
+Poucos possuíam formação específica em transferência de tecnologia.
+Somente depois do ano 2000, a atividade começou a despertar maior interesse, e a Empresa contratou, de forma mais intensa, especialistas para a área de TT e similares.
+É desta época a criação do Departamento de Transferência de Tecnologia (DTT), na Sede da Empresa – por decisão unilateral da então Diretoria – e teve grande oposição por parte de um número expressivo de chefes de Unidades Descentralizadas (UDs).
+De forma geral, as atividades de TT que a Embrapa vem exercendo ao longo de sua existência, com raras exceções, podem ser classificadas em: i) cursos; ii) palestras; iii) unidades de demonstração (UD); iv) unidades de referência tecnológica (URT); v) eventos técnicos; vi) feiras e exposições; vii) contratos de cooperação técnica e acordos; viii) publicações técnicas; ix) produtos e serviços especializados.
+Mesmo utilizando-se ferramentas mais modernas, como a internet, vídeos e mídias sociais, o que tem sido feito na Embrapa, basicamente, são as mesmas atividades de quando ela foi criada.
+As aç ões de TT, amplamente executadas pela Embrapa e anteriormente relatadas, tiveram méritos, pois foi com elas que se trabalhou com grande sucesso ao longo destes 45 anos da Empresa.
+Diferentes estudos demonstram os avanços obtidos na agropecuária brasileira, que é considerada a mais avançada e competitiva das regiões de clima tropical e subtropical do planeta.
+Há também diversos estudos que demonstram a relevância dos trabalhos da Embrapa para a revolução da agropecuária brasileira, o que, de certa forma, respalda as atividades de TT que a Embrapa desenvolveu até então.
+Contudo, surge naturalmente um questionamento sobre a validade do modelo de TT realizado pela Embrapa em face das transformações da agricultura brasileira, dos meios de comunicação e das necessidades e exigências dos clientes.
+Será que as ações de TT continuam eficazes e eficientes diante das profundas mudanças ocorridas na produção agropecuária, nas cadeias agroalimentares e na estrutura de extensão pública e privada brasileira?
+Ao se avaliarem as diferentes ações de TT que a Embrapa vem fazendo, talvez seja possível afirmar que, por exemplo, cursos, notadamente para produtores e técnicos, são importantes, mas não se pode afirmar que são efetivos.
+Isso porque não há nenhum feedback sobre o que foi aprendido, muito menos sobre o que foi aplicado por quem realizou o curso, e se o aprendizado foi objeto de aplicação prática de sucesso ou não.
+Também não se sabe se foi feita alguma adaptação ao conhecimento adquirido que porventura tenha sido adotado, e se esta poderia ser adequada para outros produtores.
+Esta análise parece que pode ser extrapolada, com algum cuidado, para várias atividades de TT praticadas na Embrapa.
+Os impactos dos produtos tecnológicos no setor de produção são mais fáceis de serem avaliados.
+Por exemplo, é possível levantar quantos hectares estão sendo cultivados com variedades de soja, de milho ou de uma forrageira qualquer, geradas na Empresa.
+Isso poderia ser útil para verificar a aceitação da tecnologia e para dar boas pistas sobre os processos de decisão que levaram à sua adoção e, por conseguinte, qual método de TT foi eficaz.
+Mas, quando se trata de tecnologias de processo, e muitos trabalhos da Embrapa dizem respeito a este tipo de tecnologia, a análise das técnicas de TT fica prejudicada.
+Isso porque não são aplicados 4 J. L. B. Leite Cadernos de Ciência & Tecnologia, Brasília, v. 36, n. 1, e26356, jan./abr.
+2019mecanismos de feedback sobre a aceitação ou não de determinada tecnologia.
+Se, por acaso, a tecnologia transferida por meio de um dos métodos tradicionais foi utilizada, em sua íntegra, n ão se sabe.
+Se ela foi modificada no todo ou em parte, para adaptação às condições do sistema do produtor, também não se sabe.
+Mesmo se as mudanças puderam ser úteis e utilizadas por outros não se sabe.
+E não se sabe por que não é aplicado nenhum mecanismo institucional de acompanhamento do que seria, em marketing, um estudo pós-venda.
+Mas a prática de TT na Embrapa é terminada com a estatística de número de participantes na atividade.
+Assim, pelas diretrizes da Embrapa, após o registro estatístico das atividades de TT, a missão está completa.
+Se há limitações nos mecanismos de transferência de tecnologia, o que se pode aludir acerca dos profissionais de assistência técnica e extensão rural pública e privada, diante das enormes mudanças do agro brasileiro?
+Estariam eles preparados a receber da pesquisa as tecnologias, as informações, os conhecimentos e process á-los para ajudar o produtor a tomar decisão e inovar?
+O DESAFIO DA INOV AÇ ÃO TECNOLÓGICA No passado, as tecnologias geradas e disponibilizadas pelas instituições de P&D encontravam solo fértil em ambientes carentes de soluções tecnológicas.
+Qualquer melhoria resultava em grandes impactos, pois as bases de referência eram bastante acanhadas.
+Este fato assegurou sucesso, até bem pouco tempo atrás, aos mecanismos de TT utilizados pela Embrapa e suas parceiras.
+Com a evolução da agricultura brasileira, os impactos individualizados oriundos das melhorias decorrentes de novas tecnologias foram paulatinamente reduzindo e requerendo maior precisão e complexidade, não apenas da tecnologia em si, mas fundamentalmente do processo de incorporação da tecnologia ao sistema produtivo.
+Em decorrência, maior qualificação passou a ser requerida, não apenas do gerador de tecnologia, mas também do "profissional de assistência técnica", da mão de obra que trabalha no campo e do produtor.
+A título de ilustração, dados da Conab (2019) comprovam que a produtividade da soja nos principais estados produtores e, em decorrência, no País se encontra estabilizada, desde o ano 2008, ao redor de 40 sacas por hectare.
+Na Figura 1, pode-se observar um enorme gap entre a produtividade média da soja no Brasil, segundo a Conab (2019), e a média obtida pelo Comitê Estratégico Soja Brasil (Cesb)3 (acima de 100 sacas/ha).
+Se considerarmos os chamados "campeões Cesb" (mais de 140 sacas/ha), segundo Popov (2017), o gap é de 250%.
+Comparativos entre as produtividades da soja.
+3 Disponível em: < ência de Tecnologia e Inovação (TT&I) pela Embrapa: uma proposta disruptiva5 Cadernos de Ciência & Tecnologia, Brasília, v. 36, n. 1, e26356, jan./abr.
+2019Se considerarmos a cultura do milho, a diferença entre os produtores líderes em produtividade (12.000 a 15.000 kg/ha) e a média nacional corresponde a um gap da ordem de quase 300%.
+Essa diferença entre médias nacionais de produtividade e "campeões de produtividade" existe em outras culturas e inclusive na produção animal, e é prova inconteste da existência e disponibilidade de tecnologia que proporcione produtividades muito mais elevadas do que as obtidas pela esmagadora maioria dos produtores.
+Diante dessa realidade, pergunta-se: o que falta para a grande maioria dos produtores elevarem sua produtividade ao nível dos campeões?
+Será que o processo de TT é falho ou inexistente?
+Ou será que as tecnologias geradas e disponibilizadas não foram adotadas corretamente?
+Se formos investigar a fundo, veremos que dois fatores primordiais são responsáveis pela discrepância em adoção da tecnologia espelhada na produtividade aqui apresentada.
+O primeiro diz respeito à falta de assistência técnica para a escolha e manejo sistemático da tecnologia adequada.
+O segundo diz respeito às imperfeições do mercado, conforme Alves (2013, 2014) e Alves & Silva (2013).
+As imperfeições do mercado devem ser motivo de estudos e apoio à formulação de políticas públicas que minimizem ou impeçam que elas distorçam o mercado de tecnologias, tornando-as acessíveis à grande maioria dos produtores.
+Segundo Alves (2014), a tecnologia explica mais de 68% da geração e concentração da renda no campo.
+Dessa forma, a questão da adoção da tecnologia, além de gerar oportunidade de aumentos substantivos da produtividade média do País, é a porta para pequenos e médios produtores deixarem a pobreza.
+No que se refere à falta de assistência técnica no Brasil, segundo Castro (2015), somente 24,17% dos mais de 5 milhões de produtores t êm acesso a este serviço, e, na região Nordeste, onde se concentra a grande pobreza no campo, este percentual é de apenas 8,60% dos mais de 2 milhões de estabelecimentos.
+A assistência para os que a recebem pode ser de cunho privado ou público, e este último não é na forma de assistência continuada.
+H á indícios também que a forma da transferência de tecnologia das instituições de P&D para a extensão tem implicações sobre o processo de adoção e uso correto das tecnologias.
+Considerando a velocidade de mudança e a complexidade crescente das tecnologias, além do amplo número de possibilidades de arranjos delas em sistemas de produção, acredita-se que um dos principais fatores da não adoção ou uso inapropriado de tecnologia seja a forma inadequada que ela chega aos "profissionais de assistência técnica".
+Eles são informados, por meio de atividades de TT, sobre o que deveriam orientar para ado ção, sem a devida formação para discernir o correto manejo e aplicação das tecnologias disponibilizadas aos diferentes usuários.
+Ainda segundo Alves & Souza (2014)4, há no Brasil somente 500.008 estabelecimentos rurais na classe de renda bruta maior que 10 salários mínimos mensais, ou seja, 11,36% do total dos 4.400.527.
+Todavia, em 2006, geraram 86,65% de toda a renda bruta da agricultura, tendo cada estabelecimento gerado, em salário mínimo mensal, 91,98 salários.
+Este grupo de estabelecimentos será aqui identificado como Grupo 1 – geradores de renda elevada, com alta capacidade de investimento, alta administração profissional, assistência técnica permanente, e importância econômica para o abastecimento do mercado nacional e geração de divisas para o País via exportação de commodities.
+Ainda segundo Alves (2014), no outro extremo há 3.900.519 estabelecimentos na classe de renda bruta entre zero e 10 salários mínimos mensais – ou seja, 88,64% dos estabelecimentos.
+Este agrupamento gerou tão somente 13,35% da renda bruta, e cada estabelecimento, em salário mínimo mensal, somente produziu 1,58 salário.
+Por isso, milhões de estabelecimentos que produziram muito pouco provavelmente já teriam desaparecido se não fossem políticas públicas de assistência, como o programa Bolsa Família e outras de transferência de renda.
+Estes são aqui identificados como Grupo 2 – geradores de renda muito baixa, baixa ou nula capacidade de investimento, administração amadora e sem assistência técnica continuada e, pelo número de estabelecimentos e pessoas envolvidas, têm 4 Os autores utilizam 4 classes de salários mínimos mensais para estratificar, por renda bruta, os estabelecimentos rurais: 0–2; 2–10; 10–200; e >200.
+Neste artigo utilizamos somente duas classes, 0–10 e >10, para exemplificar.
+Recomenda-se o uso dos quatro extratos para aprofundar estudos que orientem políticas públicas para estes segmentos diferentes de produtores.
+6 J. L. B. Leite Cadernos de Ciência & Tecnologia, Brasília, v. 36, n. 1, e26356, jan./abr.
+2019predominante importância social, de subsistência e de complementariedade de abastecimento em mercados locais e regionais.
+Alves (2014) também explica que os fatores de produção, tecnologia e trabalho explicam mais de 90% do crescimento da produção e, por conseguinte, da renda bruta; além disso, a tecnologia, como já dito, explica mais de 68%, segundo dados de 2006.
+Dessa forma, é por meio da capacitação da mão de obra e do acesso e da adoção de tecnologias que se pode continuar abastecendo o mercado e gerar divisas de forma competitiva com o Grupo 1 de estabelecimentos, bem como promover e efetivar a inclusão social do Grupo 2, com repercussão econômica e social de elevada relevância para o País.
+As cadeias produtivas e agroalimentares se tornaram muito complexas, extensas e altamente organizadas.
+No início do século XX, o Brasil era um país rural, e sua produção extremamente deficitária, impondo ao País a condição de importador de alimentos para uma crescente população que se urbanizava.
+R ápidas transformações mudaram o País de rural para urbano, com uma população ainda jovem e altamente conectada pelas novas tecnologias de comunicação e informação, além de elevados níveis de exigências de qualidade, preço e comodidades dos alimentos.
+Os mercados passaram da esfera regional para nacional, tendo sido abastecidos por complexas redes e por empresas que competem mundialmente.
+O País se tornou grande exportador de alimentos, fez decrescer o valor da cesta básica de alimentos para os grandes centros urbanos nacionais, e criou estruturas de poder decisório que perpassam as cadeias agroalimentares e estabelecem a soberania dos consumidores e, por proximidade com estes, o poder das grandes redes varejistas.
+Essas mudanças no mercado, aliadas ao fator de produção, tecnologia e sua implicação econômica e social, dão a real dimensão da relevância da Transferência de Tecnologias e Conhecimentos para o País e estabelecem, de forma imperiosa, a necessidade de uma estrutura sólida de TT.
+Exigem ainda diretrizes de médio e longo prazo, baseadas nas cadeias agroalimentares e processos dinâmicos e orientados para a assistência técnica continuada.
+Dessa forma, é importante aprimorar os processos de TT que há tanto tempo v êm sendo feitos pela Empresa, requerendo sintonia fina com a nova realidade das forças que governam as cadeias agroalimentares, a complexidade das novas tecnologias e a contextualização dos produtores e dos "especialistas em assistência técnica".
+O DESAFIO DE EMPREENDER A INOV AÇÃO TECNOLÓGICA O verbo empreender é transitivo direto e é o modo de pensar e agir de forma inovadora, identificando e criando oportunidades, inspirando, renovando e liderando processos.
+Segundo o dicionário Português Online (Empreender, 2018), empreender significa "Conseguir ou tentar fazer (algo muito difícil)" e é exatamente isso que representa a inovação tecnológica, um desafio que envolve desde os pesquisadores na elaboração de soluções adequadas, profissionais de assistência técnica que assistem na tomada de decisão e na condução da implantação do novo, até os produtores rurais que efetivamente materializam a inovação ao tornar uma tecnologia, produto ou serviço em riqueza para o País.
+Certamente inovação envolve uma enorme gama de agentes e instituições, mas, intrinsicamente, estes três agentes – pesquisadores, profissionais de assistência técnica e produtores – são o cerne do processo de inovação e possuem responsabilidades encadeadas que exigem coordenação e fortes vínculos.
+Cabe destaque que o atual nível organizacional e de desenvolvimento da agricultura no País não admite mais linearização de processos a serem adotados em diferentes estabelecimentos rurais e nem mesmo em diferentes glebas de terra dentro de um mesmo estabelecimento rural.
+A transferência de tecnologia requer inovações estratégicas em seus mecanismos, não bastando abordagens restritas à tecnologia em si, mas fundamentalmente atualizando "profissionais de assistência técnica" em temas que subsidiem a tecnologia inovadora, por meio de vínculos permanentes e institucionais.
+Os mecanismos de TT requerem abordagens referentes a conceitos, fundamentos, princípios, preceitos que determinaram e que regem as novas tecnologias, para que elas possam ser adotadas conforme Transferência de Tecnologia e Inovação (TT&I) pela Embrapa: uma proposta disruptiva7 Cadernos de Ciência & Tecnologia, Brasília, v. 36, n. 1, e26356, jan./abr.
+2019as nuances do meio onde será aplicada.
+É papel da instituição de pesquisa indicar a tecnologia para adoção, porém, repleta de subsídios para que o "profissional de assistência técnica" e o adotante, dadas as particularidades do local de aplicação, possam gerar suas próprias inovações.
+Os mecanismos de TT5 requerem conotações de "formação" e não apenas de "informação".
+Mas os estabelecimentos rurais não se diferenciam, em casos de sucesso ou de insucesso, pelas tecnologias que adotam, e sim pelo modo como utilizam ou adaptam as tecnologias às suas próprias realidades.
+O certo é que nenhum sistema é melhor do que quem o opera.
+Portanto, muito além da disponibilização da tecnologia em si está a questão operacional ou de manejo da tecnologia, que é altamente dependente do nível de conhecimento do "profissional de assistência técnica" e do adotante, e esta situação perpassa, de forma diferenciada, o Grupo 2 e também o Grupo 1 de produtores.
+Exemplificando: se dois confeiteiros partem de uma mesma receita e dos mesmos ingredientes para confeccionar um bolo, ao final do processo de confecção, resultarão dois bolos diferentes.
+Há necessidade de "formação" para operacionalizar a receita.
+Em decorrência dessas percepções, enfatiza-se que Tecnologia Disponibilizada é expressa sob a forma de indicação técnica, de receita, de bula, e é regida por especificidade, sazonalidade, unidades de medida como dosagem, distância, densidade, temporalidade, etc., tudo isso encontrado, com extrema facilidade, nas mais diversas formas de comunicação, que são, na atualidade, predominantemente acessadas por meio dos celulares, tabletes e computadores.
+Porém, Manejo da Tecnologia é expresso sob a forma de manuseio, manipulação, aplicação do conhecimento imbricado na tecnologia, sendo, portanto, regido pela inteligência, pelo domínio do conhecimento, pelo discernimento, pela argúcia, pela competência, pela habilidade, pela consciência, pela experiência, pela sabedoria, pelo empreendedorismo, etc., tudo isso indo além dos meios de comunicação, pois depende de "formação" e não apenas de "informação".
+Assim, assume-se tecnologia disponibilizada apenas como uma informação , e manejo da tecnologia como formação .
+Resumindo, tecnologia disponibilizada indica o que fazer , e manejo de tecnologia indica o como e o quando fazer , e ambas são fundamentais para o processo de inovação tecnológica.
+Bem, está-se falando de tecnologia e de inovação.
+Mas o que é realmente inovação?
+Que tipos de pesquisa, desenvolvimento e inovação são feitos?
+Neste trabalho são utilizados os consagrados conceitos da Financiadora de Estudos e Projetos (Finep), disponíveis em seu glossário (Finep, 2018).
+Nele, inovação é uma ação do agente privado, no caso, o produtor rural, e a Embrapa promove a inovação por meio da informação da tecnologia disponibilizada e formação para o seu manejo acurado.
+Têm-se ouvido, frequentemente, discursos que enfatizam grandes preocupações com a aceleração das mudanças e que as mudanças "disruptivas" vão alterar completamente toda a dinâmica da sociedade.
+Com maior ou menor velocidade, dependendo da época, mudanças e competidores disruptivos sempre existiram, afirma Martins (2017), um dos maiores experts em estratégias.
+Segundo ele, para blindar uma empresa, a primeira atitude é pensar em restabelecer ou implantar uma estratégia vencedora.
+E ele prossegue, afirmando que é preciso fazer perguntas e que as perguntas devem sempre ter a ver com os clientes.
+Diz ele: "Se as coisas estão mudando, o melhor a fazer é estar próximo aos consumidores, porque eles vão dizer como você pode se diferenciar ou se sua diferenciação está diminuindo".
+Considerando a soberania do consumidor, o papel das cadeias agroalimentares na dinâmica do processo produtivo, o papel dos "profissionais de assistência técnica" para a inovação tecnológica e a premissa de estabelecer a dinâmica do manejo da tecnologia, não se pode concentrar somente no produtor rural para estabelecer as diretrizes de TT.
+5 Os conceitos de "requerimentos dos mecanismos de TT", "formação e informação", bem como os de "tecnologia disponibilizada" e "manejo de tecnologia" utilizados foram passados pessoalmente pelo colega e amigo dr. José Eloir Denardin, da Embrapa Trigo.
+Caso haja alguma inconformidade nos conceitos citados, são de inteira responsabilidade do autor.8 J. L. B. Leite Cadernos de Ciência & Tecnologia, Brasília, v. 36, n. 1, e26356, jan./abr.
+2019PROPOSTA DE TRANSFERÊNCIA DE TECNOLOGIA E CONHECIMENTO PARA A EMBRAPA E INSTITUIÇÕES DE P&D Apresenta-se uma proposta de fortalecimento das estruturas, processos e atividades de Transferência de Tecnologia e Conhecimento no âmbito de instituições de P&D a exemplo da Embrapa.
+Esta proposta busca utilizar as modernas ferramentas de comunicação, reforçar as atividades exitosas de TT e promover ambiente adequado para a formação continuada de profissionais de Assistência Técnica (AT), mão de obra e produtores capazes de conduzir e promover a inovação tecnológica nas diferentes cadeias agroalimentares.
+Propõem-se diretrizes, estratégias de curto e longo prazo, estrutura e processos que reúnam os diferentes atores com responsabilidade e interesse no processo de inovação tecnológica.
+Diretrizes para transferência de tecnologia e conhecimento Para uma TT eficiente e efetiva, sete diretrizes devem ser observadas: i) Incentivar e apoiar a organização da demanda por tecnologias e informações de forma lógica e dinâmica, que espelhe continuamente as mudanças em curso.
+Para tanto, é preciso estimular o produtor, notadamente do Grupo 2, a contratar ou buscar AT continuada e inseri-la em uma estrutura de inovação dinâmica.
+ii) Atender às demandas dos clientes por inovação.
+Assim, deve-se conhecer o cliente, suas necessidades, o processo de decisão, a capacidade de investimento e a capacidade de adoção de novas tecnologias.
+iii) Executar as diversas atividades de TT, preferencialmente em atendimento à demanda organizada, entendida esta como os produtores assistidos pela AT e ligados a uma estrutura de inovação.
+iv) Considerando que, majoritariamente, a pesquisa da Embrapa é analítica, implementar atividade de Desenvolvimento Experimental para otimização de sistemas de produção6 como atividade de TT.
+v) Organizar estrutura necessária e suficiente para pôr em marcha a estratégia de inovação para a demanda organizada.
+A engenharia institucional ou estrutural deve considerar os diferentes agentes públicos e privados que possam contribuir para o processo de inovação tecnológica, a transferência de conhecimento, a formação e a informação, e possuir flexibilidade de acesso nacional.
+vi) Organizar os processos de TT segundo os princípios da Tecnologia Disponibilizada e, principalmente, do Manejo da Tecnologia, buscando eficiência e efetividade na inovação tecnológica.
+Para tanto, é basilar que haja capacitação continuada e um canal institucional aberto e permanente entre os especialistas da extensão pública e privada e os especialistas das instituições de pesquisa para o aprimoramento do manejo da tecnologia.
+vii) Estabelecer uma engenharia financeira autossuficiente para TT e que não compita com os parcos recursos da pesquisa.
+Para tanto, propõe-se criar uma estrutura de inovação no formato de uma Rede que institucionalize as relações dos principais agentes de inovação.
+6 Desenvolvimento experimental: segundo o Manual de Frascati (2007), consiste em trabalhos sistemáticos baseados nos conhecimentos existentes obtidos pela pesquisa e/ou pela experiência prática, e dirige-se à produção de novos materiais, produtos ou dispositivos, à instalação de novos processos, sistemas e serviços ou à melhoria substancial dos já existentes.Transferência de Tecnologia e Inovação (TT&I) pela Embrapa: uma proposta disruptiva9 Cadernos de Ciência & Tecnologia, Brasília, v. 36, n. 1, e26356, jan./abr.
+2019Rede de inovação da cadeia agroalimentar (Rica) Não se pode perder de vista que o produtor rural atende às demandas da cadeia agroalimentar e por ela se orienta para sua tomada de decisão de maximizar seu lucro.
+Também não se pode perder de vista que alguns produtores do Grupo 1 possuem discernimento e capacidade de tomada de decisão, assistência continuada privada e capacidade de investimento em novas tecnologias, e que muitos dos produtores do Grupo 2 não têm nenhum desses requisitos e, sem a tecnologia, estão fadados a fracassarem na sua atividade e deixarem o campo.
+Estabelece-se como mandatório, notadamente para o Grupo 2 e também para o Grupo 1, terem assistência técnica continuada.
+Fixa-se também que produtores do Grupo 1 e produtores do Grupo 2 que tenham assistência técnica continuada constituem o público alvo das atividades da Rica.
+A Rede de Inovação da Cadeia Agroalimentar (Rica) é formada por um espaço em nuvem, organizado no formato de cloud computing , por conjunto de clusters referentes às cadeias agroalimentares.
+Assim, cada cadeia agroalimentar estratégica para o país terá um cluster específico (espaço na nuvem) como parte do todo que é a Rede.
+O conjunto de propriedades partícipes, com atividades em uma cadeia agroalimentar, formar á um cluster , e o conjunto dos clusters formará a Rica.
+A Rede será estabelecida pelas instituições de P&D, como a Embrapa em parceria com a Agência Nacional de Assistência Técnica e Extensão Rural (Anater).
+Ela será arquitetada por meio de um conjunto de computadores, de softwares, de equipe técnica por cadeia agroalimentar, equipe de coordenação, propriedades/produtores e especialistas de AT cadastrados.
+A Rede, de nível nacional, disponibilizará espaço virtual para cada propriedade cadastrada.
+Desta forma, produtor ou técnico que presta assistência técnica continuada a produtor(es) , sejam de cooperativa, sindicato, indústria processadora, indústria de insumos e equipamentos, ONG, Emater, ou mesmo profissional autônomo ou contratado por grupo de produtores, acessa a RICA e faz o credenciamento da propriedade e do técnico.
+O cadastro da propriedade terá além de um inventário, um conjunto de informações que auxiliará na confecção de diversas informações sobre o sistema de produção, as tecnologias em uso e os custos de produção das atividades desenvolvidas, guardadas as particularidades de cada cadeia produtiva.
+Os produtores e seus técnicos que aderirem à RICA terão, como contrapartida, acesso aos seus dados próprios, por computador, tablet ou smartphone, além de um pacote de serviços, que terá, entre outros: i) informações geradas automaticamente pelo sistema sobre as condições da propriedade, podendo conter custos de produção e comparações por benchmarking; ii) acesso a dados consolidados de propriedades de sua região e ou grupo agroalimentar; iii) receber, por meio eletrônico e smartphone, informações sobre preço de insumos e produtos de interesse; iv) acesso ao acervo de tecnologias, produtos, processos e informações da Embrapa e suas parceiras; v) cursos e treinamentos online e capacitação continuada em novas tecnologias; vi) alerta para períodos e pontos críticos de controle em relação a pragas, doenças, qualidade de produtos, insumos e processos; vii) resposta a consultas técnicas; viii) participa ção em clusters de análise de dados por região, cooperativa ou característica de interesse; 10 J. L. B. Leite Cadernos de Ciência & Tecnologia, Brasília, v. 36, n. 1, e26356, jan./abr.
+2019ix) rede interativa com seus pares; x) alerta de temas de interesse no País e no exterior e outros benefícios disponibilizados.
+O acesso às informações da Rica seguirá uma lógica hierárquica, sendo, em princípio: i) produtor participante – acesso às informações de sua propriedade e ao pacote de serviços; ii) técnico credenciado – acesso às informações das propriedades que assiste e a pacote de serviço específico; iii) técnico s da Anater/Rica – acesso ao conjunto de dados das propriedades cadastradas na cadeia agroalimentar de sua responsabilidade e capacitação continuada em novas tecnologias; iv) Especialistas da Unidade Descentralizada da Embrapa/parceiras/Rica – acesso ao conjunto de dados das propriedades cadastradas na cadeia agroalimentar de sua responsabilidade; v) Embrapa Gerente Adjunto de Gestão da Inovação (GAGI)/Diretoria de Transferência de Tecnologia da Anater – acesso ao conjunto de dados, big data, das diferentes cadeias agroalimentares.
+A Figura 2 descreve a arquitetura da rede de inovação da cadeia agroalimentar.
+Arquitetura da rede de inovação da cadeia agroalimentar.
+Financiamento e sustentabilidade da Rica Em princípio a Rica deverá ser mantida pelos recursos financeiros, materiais e intelectuais alocados pela Anater, a Embrapa e parceiras.
+Estratégia de autossuficiência financeira será desenvolvida considerando as oportunidades para gerar e veicular, via Rede, informações pagas por clientes e/ou mensalidades pelos participantes, entre outros arranjos possíveis.
+Responsabilidade das partes interessadas Cabe aos produtores e técnicos credenciados – os produtores e os técnicos credenciados submeter ão e manter ão atualizado o registro da propriedade e de suas atividades junto à RICA, Transferência de Tecnologia e Inovação (TT&I) pela Embrapa: uma proposta disruptiva11 Cadernos de Ciência & Tecnologia, Brasília, v. 36, n. 1, e26356, jan./abr.
+2019referente à cadeia agroalimentar a que pertencerem.
+A propriedade deve se registrar no cluster da cadeia agroalimentar referente à sua produção principal.
+Participar ativamente das atividades da Rede, apropriando-se dos seus resultados, oferecendo experiências exitosas e gerando demandas para a Rede.
+Os técnicos credenciados são responsáveis por manter os cadastros das propriedades atualizados e prestar assistência técnica continuada às propriedades, apoiados pelas informações, tecnologias e agentes da Rica.
+Cabe aos especialistas da Anater – os especialistas da Anater, do quadro próprio, das Ematers estaduais e credenciados – manter a Rede funcionando adequadamente, conforme plano de trabalho previamente estabelecido.
+Este plano deve envolver as atividades por cadeia agroalimentar na forma de pacotes de serviços para os produtores e técnicos nos diferentes clusters .
+Os técnicos das Ematers podem organizar grupos de produtores e cadastrar suas propriedades e agir como especialistas de assistência técnica continuada.
+Cabe-lhes ainda encaminhar aos especialistas da pesquisa as demandas da Rede.
+Cabe aos especialistas da Unidade da Embrapa/instituição de P&D – os especialistas da Unidade Descentralizada da Embrapa (UD)/instituição de P&D que estão trabalhando com TT e pertencem a uma cadeia agroalimentar específica ( cluster ) – apoiar a manuten ção do funcionamento adequado da Rede, elaborando, em conjunto com os especialistas da Anater, o plano de trabalho a ser desenvolvido no âmbito da Rede.
+Esse plano deve envolver as atividades por cadeia agroalimentar na forma de pacotes de serviços para os produtores e técnicos.
+Cabe a eles, ainda, treinar e atualizar os especialistas da Anater nas novas tecnologias (manejo da tecnologia), produtos, serviços e processos, disponibilizar informações atualizadas, prover suporte técnico em assuntos que não possam ser resolvidos pelos especialistas da Anater, além de prover análise agregada da cadeia correspondente utilizando a big data formada.
+Também devem auditar os clusters com vista a elencar as tecnologias disponibilizadas e, principalmente, verificar como se dá o manejo das tecnologias.
+Cabe ainda a estes especialistas a implementação de projetos de desenvolvimento experimental para a otimização de sistemas de produção.
+Devem realizar forte trabalho juntamente com as escolas técnicas e de formação acadêmica para reorientação dos currículos técnicos e universitários, para gerar capacidade dos técnicos em pensar, planejar, deduzir, discernir e decidir.
+Devem encaminhar aos especialistas da pesquisa analítica as demandas da Rede.
+Quanto à Secretaria de Inovação e Negócios (SIN)/Diretoria Executiva de Inovação e Tecnologia – que são da Embrapa – e à Diretoria de Transferência de Tecnologia da Anater/instituição de P&D/órgãos técnicos do escalão superior da instituição de P&D, os mandatários destas instituições serão os responsáveis pelas diretrizes norteadoras da Rica e promotores/incentivadores de projetos de desenvolvimento experimental para otimização de sistemas de produção.
+Os especialistas destas são responsáveis pela análise agregada das cadeias agroalimentares, propositores de estudos e políticas para minimizar as distorções do mercado, e responsáveis pela coordenação geral da Rica e acompanhamento, fiscalização e segurança da Rede.
+12 J. L. B. Leite Cadernos de Ciência & Tecnologia, Brasília, v. 36, n. 1, e26356, jan./abr.
+2019CONSIDERAÇÕES FINAIS Pouco mais de 500 mil produtores lograram êxito na incorporação de tecnologia com ganhos de produtividade e elevada capacidade de gerar riqueza e renda.
+Contudo, mais de 4 milhões de produtores ainda não materializaram o potencial produtivo e lograram êxito.
+Se as forças de mercado continuarem agindo livremente sobre o processo produtivo, haverá crescentes incentivos para que esta enorme gama de produtores, que ainda não lograram êxito, deixe a atividade e migre do campo para a cidade, com sérias consequências econômicas, sociais e políticas.
+Dessa forma, a proposta aqui apresentada tem forte aceno econômico e também uma forte atenção social, haja vista o enorme contingente de pessoas envolvidas no campo e que ainda precisam de suporte para inovar e obter sucesso em seus empreendimentos.
+A Rede, aqui proposta, traz em sua filosofia de trabalho parcerias público-privadas e formas de assistência técnica continuada que podem ser obtidas por qualquer produtor, seja individualmente, seja em grupos de produtores, dividindo as despesas da assistência técnica.
+Traz ainda, como assertiva, a questão do manejo da tecnologia, pela certeza de que muitos dos problemas de insucesso est ão no manejo da tecnologia, em relação aos detalhes desse manejo e à experiência de quem estabelece e gere o sistema de produção.
+Sugere-se que a Rede seja iniciada considerando as diferentes cadeias produtivas, que reúnam os programas de assistência técnica e extensão rural já existentes e que aceitem a filosofia de trabalho da Rede.
+Com um número expressivo de propriedades e com o amadurecimento da equipe técnica e o aprimoramento dos processos internos da Rede, notadamente os serviços oferecidos para seus partícipes, deve-se expandir a ação da Rede para os diferentes elos da cadeia agroalimentar, considerando as questões de logística, política setorial e segurança dos alimentos, legislação, etc.
+Sem perder de vista que a missão da Embrapa é gerar tecnologias para a sustentabilidade do agro brasileiro, pode-se afirmar que a Embrapa hoje é a única instituição pública federal com capacidade técnica, experiência e liderança para organizar e conduzir, juntamente com parceiras, uma rede de inovação tecnológica para as diferentes cadeias produtivas.
+Destaca-se ainda que há uma enorme gama de projetos de assistência técnica e extensão rural públicos, e também privados, que podem e devem participar desta Rede, facilitando seu início.
+Dessa forma, fica o chamado e o desafio para que a Embrapa encabece um processo de incorporação de tecnologia que reduza o gap tecnológico existente entre os produtores, criando as condições que suportem e promovam a inovação tecnológica, gerando riqueza para produtores e para a sociedade brasileira em condições dinâmicas e sustentáveis.
+AGRADECIMENTOS Agradeço à Embrapa pela oportunidade de pertencer ao seu seleto grupo de colaboradores e, pessoalmente, ao colega e amigo Dr. José Eloir Denardin, da Embrapa Trigo, por muitas das ideias aqui discutidas.
+Agradeço também aos colegas da Embrapa Gado de Leite, que leram e comentaram Transferência de Tecnologia e Inovação (TT&I) pela Embrapa: uma proposta disruptiva13 Cadernos de Ciência & Tecnologia, Brasília, v. 36, n. 1, e26356, jan./abr.
+Caso haja alguma inconformidade nos conceitos citados, esta será de inteira responsabilidade do autor.
+REFERÊNCIAS ALVES, E. Excluídos da modernização da agricultura: responsabilidade da extensão rural?
+Revista de Política Agrícola , ano22, p.3-5, 2013.
+ALVES, E. Reforma agrária e produtividade da terra?
+Revista de Política Agrícola , ano23, p.3-4, 2014.
+Qual é o problema de transferência de tecnologia do Brasil e da Embrapa?
+de A.; SOUZA, G. da S. e; GOMES, E.G.
+Contribuição da Embrapa para o desenvolvimento da agricultura no Brasil .
+Brasília: Embrapa, 2013. p.279-291.
+de A.; SOUZA, G. da S. e. Desafios da Agência de Extensão Rural.
+In: BUAINAIN, A.M.; ALVES, E.; SILVEIRA, J.M.
+O mundo rural no Brasil do século 21 : a formação de um novo padrão agrário e agrícola.
+Brasília: Embrapa, 2014. p.927-941.
+Desafios da agricultura familiar: o caso da Assistência Técnica e Extensão Rural.
+Boletim Regional, Urbano e Ambiental , v.12, p.49-59, 2015.
+Disponível em: < Acesso em: 22 maio 2018.
+Companhia Nacional de Abastecimento.
+Portal de Informações Agropecuárias : Grãos – Série Histórica.
+Produtividade da soja (2008/2009 a 2015/2016).
+Disponível em: < https ://portaldeinformacoes .conab .gov.br/index .php/safraserie-historica-dashboard >.
+In: DICIO: Dicionário Online de Português.
+Disponível em: < .dicio.com.br/empreender/>.
+Disponível em: < Acesso em: 3 maio 2018.
+MANUAL de Frascati: proposta de práticas exemplares para inquéritos sobre investigação e desenvolvimento experimental.
+Tradução de: More than just words (Portugal).
+Disponível em: < manualfrascati.pdf>.
+Se você for atirar, vai preferir um alvo móvel ou um parado?
+Disponível em: < Acesso em: 14 maio 2018.
+POPOV , D. Produtividade média dos sojicultores do CESB supera 100 sacas por hectare.
+Disponível em: < Acesso em: 3 maio 2018.

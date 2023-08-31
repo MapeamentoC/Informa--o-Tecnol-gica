@@ -1,0 +1,186 @@
+ UNIVERSIDADE FEDERAL DE SANTA CATARINA CENTRO DE CIÊNCIAS, TECNOLOGIA E SAÚDE DEPARTAMENTO DE CIÊNCIAS DA SAÚDE CAMPUS ARARANGUÁ KAROLINE BONETTI INOVAÇÃO TECNOLÓGICA DE DISPOSITIVO PARA BOLSA AUTO INFLÁVEL EM NEONATOLOGIA Araranguá 2022.
+Karoline Bonetti INOVAÇÃO TECNOLÓGICA DE DISPOSITIVO PARA BOLSA AUTO INFLÁVEL EM NEONATOLOGIA Trabalho apresentado ao Curso de Graduação em Fisioterapia da Universidade Federal de Santa Catarina, como requisito parcial da disciplina de Trabalho de Conclusão de Curso I I. Orientadora: Profa.
+RESUMO Introdução: A bolsa auto inflável (BAI) é um r ecurso utilizado para ventilar o paciente por meio da insuflação do dispositivo, porém não é capaz de mensurar os parâmetros de volume corrente, pressão inspiratória, tempo inspiratório e fluxo inspiratório.
+O excesso de ventilação e o manuseio incorreto d a bolsa pode causar lesões pulmonares em neonatos; dessa forma, a mensuração desses parâmetros p ode evitar lesões pulmonares decorrentes da ventilação inadequada .
+Assim, o objetivo do estudo foi c riar um dispositivo com o desenvolvimento tecnológico de um equipamento de BAI com mensuração das variáveis volume corrente, pressão inspiratória e fluxo inspiratório , para minimizar os riscos de lesões pulmonares em pacientes internados nas U nidades de Terapia Intensiva Neonatai s. Métodos: Estudo de caráter experimental com desenvolvimento de um protótipo que permite avaliar as variáveis da mecânica respiratória neonatal com a utilização da BAI em um pulmão teste conectado a o dispositivo.
+A pesquisa iniciou em julho de 2021 e foi realizada e m duas etapas .
+Resultados: A partir das pesquisas real izadas para a padronização das variáveis, foram criadas curvas com tolerância de 10% para baixo e para cima com intuito de gerar uma faixa de segurança para operação do aparelho .
+Todos os componentes eletrônicos foram acoplados ao equipamento, juntamente c om um display que transmite os valores momentâneos dos parâmetros .
+Foi desenvolvido um manual que contém todas as informações necessárias para manipular o dispositivo de forma correta, através do celular, tablet, computador ou SmartTv com conexão Wi-Fi.
+Conclusão: O protótipo foi capaz de realizar a mensuração das variáveis da mecânica respiratória neonatal, podendo ser aplicado na capacitação acadêmica e profissional.
+Palavras -chave: Insuflação, Reanimação Cardiopulmonar, Recém -Nascido, Unidades de Terapia Intensiva Neonatal .
+ABSTRACT Introduction: The auto inflatable bag (BAI) is a resource used to ventilate the patient by inflating the device, however it is not able to measure the parameters of tidal volume, inspiratory pressure, inspiratory time and inspiratory flow.
+Excessive ventil ation and incorrect handling of the bag may cause lung injury in neonates; hence , the measurement of these parameters may prevent lung injury resulting from inadequate ventilation.
+Thus, the objective of this study was to create a device with the technologi cal development of a BAI equipment with measurement of the variables tidal volume, inspiratory pressure and inspiratory flow to minimize the risk of lung injury in patients admitted to Neonatal Intensive Care Units.
+Methods: Experimental study with develop ment of a prototype that allows evaluation of variables of neonatal respiratory mechanics using BAI in a test lung connected to the device.
+The research began in July 2021 and was carried out in two stages.
+Results: From the research carried out to standar dize the variables, curves were created with a tolerance of 10% downward and upward in order to generate a safety range for operation of the device.
+All the electronic components were coupled to the equipment, along with a display that transmits the moment ary values of the parameters.
+A manual was developed containing all the necessary information to manipulate the device correctly, via cell phone, tablet, computer, or SmartTv with Wi -Fi connection.
+Conclusion: The prototype was able to measure the variable s of neonatal respiratory mechanics, and can be applied in academic and professional training.
+Translated with www.DeepL.com/Translator (free version) Keywords: Insufflation , Cardiopulmonary Resuscitation , Infan t Newborn , Intensive Care Units Neonatal .
+LISTA DE ABREVIATURAS E SIGLAS RN - Recém -Nascido BAI - Bolsa Auto Inflável UTIN - Unidades de Terapia Intensiva Neonatal PIP - Pressão Inspiratória FC - Frequência Cardíaca VC - Volume Corrente PEEP - Pressão Expiratória Final Positiva TINS - Tempo Inspiratório UFSC - Universidade Federal de Santa Catarina IMT - Instituto Mauá de T ecnologia IdC - Internet das Coisas VM – Ventila ção Mecânic a I:E - Relação inspiração/expiração Texp - Tempo expiratório VPP - Ventilação com Pressão Positiva DBP - Displasia Broncopulmonar 6 AGRADECIMENTOS Primeiramente, um agradecimento especial à equipe do Laboratório de Eletrônica e Telecomunicações do Instituto Mauá de Tecnologia (IMT) que abraçaram o projeto e dedicaram -se em elaborar um equipamento eficaz.
+Ao Conselho Nacional de Desenvolvimento Cient ífico e Tecnológico (CNPq) e ao Programa Institucional de Bolsas de Iniciação Científica (PIBIC) que garantiu que este projeto recebesse suporte de bolsa estudantil.
+À empresa Respiratory Care Hospitalar que realizou a doação da bolsa auto inflável (BAI) da marca Deluxe®.
+À empresa FANEm ® que realizou a doação do pulmão teste.
+À doutoranda Giovana Pascoali Rodovanski e à graduanda do curso de Fisioterapia da Universidade Federal de Santa Catarina (UFSC) Ana Carolina Marcelino que também colaboraram na co nstrução do presente estudo.
+Este estudo foi idealizado e orientado pela Profa Dra Cristiane A. Moran, coordenadora do Grupo de Pesquisa Prematuridade da UFSC, e tem como objetivo, desde o princípio, minimizar as lesões pulmonares em recém -nascidos pela u tilização excessiva de pressões e volumes no manejo da BAI.
+Este trabalho é dedicado aos recém -nascidos e suas famílias que passam por momentos tortuosos nas Unidades de Terapia Intensiva Neonatal (UTIN).
+9 Componentes e equipamentos utilizados .
+9 Desenvolvimento tecnológico .
+20 8 INTRODUÇÃO No mundo, nascem cerca de 136 milhões de crianças ao ano, e cerca de 3% a 6% possui dificuldade de realizar e manter uma respiração eficaz, necessitando do suporte ventilatório ainda na sala de parto ( O'REILLY et al.
+Atualmente, são utilizados alguns recursos ventilatórios para manter uma respiração eficaz , dente eles , o ressuscitador pulmonar em peça T, a bolsa de fluxo inflado e a bolsa auto inflável (BAI) ( O'DONNELL et al.
+A BAI, também conhecida como ressuscitador pulmonar manual, é um recurso utilizado nas salas de parto e Unidades de Terapia Intensiva Neonatal (UTIN) com o objetivo de ventilar o paciente por meio da manobra de reanimação cardiopulmonar (TRACY et al.
+Mesmo conhecendo os vieses de aplicação, a BAI é extremamente utilizada na reanimação cardiopulmonar do Recém -nascido (RN) na sala de parto, pois é recomendada em eventos de apneia , frequência respiratória irregular e/ou frequência cardíaca < 100 bpm (LOPES, 2001).
+No entanto, os dispositivos da BAI não quantificam as variáveis de Volume Corrente (VC), Pre ssão Expiratória Final Positiva (PEEP), Pressão Inspiratória ( PIP), Tempo Inspiratório (TINS ) e Fluxo Inspiratório .
+Sendo assim, o manejo incorreto e excessivo pode gerar o início de uma cascata inflamatória e causar lesões pulmonares (BASSANI et al.
+Atualmente, no uso clínico da BAI, a PIP máxima é variável, mas pode ser mensurada nos modelos que contenham um manômetro, send o limitada pela válvula de escape, pois dependendo da velocidade das insuflações e força de compressão, pode provocar lesão pulmonar devido a valores de PIP e VC muito altos (BASSANI et al.
+Apesar da BAI ser um recurso indispensável na sala de parto , existem algumas desvantagens relacionadas ao seu uso, pois é difícil realizar uma boa vedação da máscara, sendo possível ocorrer obstruções durante a utilização ( VAN VONDEREN et al.
+Ressalta -se ainda não ser possível fornecer um valor de PEEP conf iável, tornando essa variável dependente do operador ( O'DONNELL et al.
+(2013) afirmam que fatores como, complacência pulmonar, feedback visual, manômetro de pressão, número de mãos usadas na compressão da bolsa e o tamanh o da mão do operador podem afetar os parâmetros ventilatórios nas manobras realizadas.
+Considerando que há o risco de efeitos deletérios aos RN submetidos a BAI, acreditase que a criação de uma nova ferramenta que possibilite o controle das variáveis em pregadas , poderá minimizar os efeitos adversos decorrentes do manuseio inadequado.
+9 Assim, o objetivo do estudo foi criar um dispositivo com o desenvolvimento tecnológico de um equipamento BAI com mensuração das variáveis (VC, PIP e fluxo inspiratório) relacionadas a mecânica respiratória dos neonatos .
+MÉTODO Desenho do procedimento Estudo de caráter experimental (HARTUNG et al.
+2009) em formato de artigo com o desenvolvimento de um dispositivo acoplado a BAI da marca Deluxe® que permite avaliar as variáveis da mecânica respiratória neonatal que foram testadas em pulmão artificial da marca Fanem®.
+O estudo foi aprovado pelo Comitê de Ética e Pesquisa da Un iversidade Federal de Santa Catarina (UFSC), parecer número 4.671.760 .
+Após as considerações, o estudo será submetido na revista IEEE Transactions on Biomedical Engineering .
+Etapas do estudo A pesquisa teve início em julho de 2021 e foi desenvolvida em dua s etapas: a primeira representa a busca de artigos científicos para a padronização das variáveis ventilatórias neonatais para a construção dos parâmetros da BAI; a segunda etapa retrata o desenvolvimento tecnológico de um dispositivo capaz de monitorar tai s variáveis através da BAI.
+A criação do equipamento ocorreu no Laboratório de Eletrônica e Telecomunicações do Instituto Mauá de Tecnologia (IMT) em parceria com o Grupo de Pesquisa Prematuridade da UFSC e foi finalizada em março de 2022.
+Variáveis anali sadas Como forma de apoiar o desenvolvimento do dispositivo, na primeira etapa foram realizadas algumas pesquisas com intuito de mensurar as taxas de variação para VC, PEEP, PIP, TINS e fluxo inspiratório em neonatologia.
+Dessa forma, a equipe do IMT recebeu o embasamento teórico, com valores de referência para realizar a construção e a calibração do dispositivo, respeitando a fisiologia respiratória neonatal.
+Além disso, foi realizada a construção de algun s gráficos que facilitaram a compreensão dos parâmetros e suas respectivas variáveis para a equipe do IMT.
+Componentes e equipamentos utilizados O desenvolvimento tecnológico do dispositivo compôs a segunda etapa, que consistiu na montagem física do equip amento, incluindo sensores de pressão e fluxo, circuito eletrônico, bateria recarregável e demais componentes .
+Ainda na segunda etapa, f oi desenvolvido um dispositivo tecnológico de Internet das Coisas (I dC) que tem como objetivo monitorar as 10 variáveis dos parâmetros respiratórios neonatais .
+O protótipo foi desenvolvido para ser monitorado em tempo real por um a página web, tendo em vista a praticidade no manuseio da equipe multidisciplinar , com um valor total estimado para a elaboração do dispositivo de R$ 488,00.
+Foram alojados no protótipo alguns componentes eletrônicos, como um display para observação d os valores momentâneos dos parâmetro s ventilatórios gerados pelos sensores do aparelho, uma chave com função de ligar e desligar, um botã o para manipular a configuração Wi-Fi, os sensores de pressão e fluxo, e por fim uma entrada USB para carregar o aparelho, demonstrado na Figura 1.
+Legenda: Chave L/D: Liga e Desliga.
+Entrada micro USB: Universal Serial Bus (ou "Porta Serial Universal" em português).
+Ainda, para facilitar o manuseio do dispositivo dentro das UTIN, foi utilizada uma bateria recarregável para que não seja necessário estar conec tado a uma tomada.
+Desenvolvimento tecnológico Para prosseguir o desenvolvimento do protótipo foi realizado a montagem e a calibração dos sensores por microcontroladores, e a definição das curvas das variáveis ventilatórias.
+Foi desenvolvido um software , que fará a leitura dos sensores e enviará os dados para o profissional que utilizará o dispositivo.
+Assim, para gerar uma faixa de operação do aparelho e 11 facilitar a manipulação pelo usuário, foi ajustada uma tolerânci a no gráfico seguindo todos os parâm etros neonatais .
+Para acoplar os componentes do protótipo, foi desenvolvida uma estrutura em formato de caixa a partir de uma impressora 3D.
+Este componente foi necessário para organizar as estruturas, manter a segurança no processo de manuseio e facilitar a higienização do equipamento pela equipe multidisciplinar.
+A visualização dos parâmetros será demonstrada por meio de gráficos com curvas de máximo e mínimo, que indicam uma faixa de valores de forma rápida para garantir que a ventilação esteja sendo re alizada de forma correta.
+RESULTADOS Neste trabalho, foi desenvolvido um dispositivo que analisa os valores dos principais parâmetros ventilatórios em neonatologia, tendo em vista a necessidade de desenvolver um dispositivo que demonstrasse graficamente os parâmetros em variações gerando uma faixa de operação do recurso no ambiente hospitalar (Tabela 1).
+Após a padronização das variáveis analisadas, foram elaborados três gráficos para melhor visualização e comparação dos dados gerados pelo equipamento e assim aumentar o desempenho do profissional na manipulação do dispositivo.
+Nestes gráficos é possível analisar as curvas de tempo -pressão (Gráfico 1), tempo -volume (Gráfico 2) e tempo -fluxo (Gráfico 3).
+Taxas de variação para cada parâmetro ventilatório em neonatologia.
+VC PIP PEEP TINS Fluxo Variações 4 - 6 ml/kg 15 - 30 cmH 2O 3 - 5 cmH 2O 0,36 - 0,50 s 6 - 8 L/min Fonte: ROTTA et al 2007; SUGUIHARA et al 2005; PRA DO et al 2016 ; FERRAGUT, Rainha 2003.
+Parâmetros Utilizados: PEEP: 5 cmH 2O; PIP: até 30 cmH 2O; I:E: 1:2; Tinsp: 0,36 segundos; Texp: 0,72 segundos.
+Fonte: ROTTA et al 2007; SUGUIHARA et al 2005; PRADO et al 2016 ; FERRAGUT, Rainha 2003 Gráfico 2.
+Parâmetros Utilizados: V olume Corrente : 6 ml/kg; I:E: 1:2; Tinsp: 0,36 segundos; Texp: 0,72 segundos.
+Fonte: ROTTA et al 2007; SUGUIHARA et al 2005; PRADO et al 2016 ; FERRAGUT, Rainha 2003.
+Parâmetros Utilizados: Fluxo : 6 L/min (100 ml/ seg) até 10 L/min (166 ml/seg) I:E: 1:2; Tinsp: 0,36 segundos; Texp: 0,72 segundos.
+Fonte: ROTTA et al 2007; SUGUIHARA et al 2005; PRADO et al 2016 ; FERRAGUT, Rainha 2003.
+Legenda: *A linha pontilhada representa o valor máximo de manipulação, de acordo com a Tabela 1.
+Após realizada a análise dos gráficos e das diferentes amostragens, foi necessário construir novas curvas com tolerância de 10% , para cima e para baixo, para cada variável, gerando uma faixa para operação do aparelho .
+A Figura 1 traz o gráfico para pressão do ar, a Figura 2 representa o gráfico para volume e a Figura 3 demonstra um gráfico para fluxo inspiratório.
+Fonte: Elaborado pelos autores (2021).
+Fonte: Elaborado pelos autores (2021).
+Curvas para fluxo inspiratório.
+Fonte: Elaborado pelos autores (2021).
+Através da insuflação manual do dispositivo , foi possível analisar todas as curvas geradas pela BAI na tela da página web, assim como os valores decorrente dos parâmetros da mecânica ventilatória no display , utilizando as variáveis como referência.
+O gráfico de VC manifestou ciclos respiratórios em todo processo de ventilação pulmonar e acompanhou corre tamente o movimento da BAI.
+Considerando que o equipamento será manipulado pela equipe de saúde, foi necessário realizar a construção de um manual didático com explicação dos comandos do dispositivo.
+Isso inclui a forma de carregamento, montagem, modo de utilização e configuração de Wi-Fi.
+Este manual inicia com imagens de todos os detalhes do dispositivo e conta com uma legenda para facilitar a localização dos comandos e com explicações sobre o funcionamento do equipamento.
+Para o funcionamento adequado do dispositivo, a sua montagem deve ser realizada de forma correta, sendo assim, a equipe demonstrou com imagens a ordem de instalação de cada componente (Figura 4).
+Montagem do Equipamento Fonte: Elaborado pelos autores (2021).
+Após ligar o equipamento, o usuário deve esperar alguns minutos.
+Em seguida, será mostrado um logotipo no display .
+Caso o Wi-Fi esteja configurado, ao pressionar o botão multifuncional no canto direito, a tela será trocada e passa a exibir os valores dos parâmetros ventilatórios .
+A página web pode ser utilizad a no celular, tablet, computador ou SmartTv, desde que esteja conectado na rede "RespiradorIoT_AP".
+Então, o usuário será direcionado à uma tela para visualização dos gráficos.
+Estes gráficos contêm três linhas de cores diferentes, a vermelha sinaliza o valor mínimo, preta sinaliza o valor máximo e azul sinaliza o valor medido pelo equipamento , seguindo os parâmetros da Tabela 1.
+Para finalizar, o manual conta com uma explicação detalhada de como re alizar a configuração da rede Wi-Fi através de um aparelho com internet, permitindo reiniciar o dispositivo, configurar uma nova rede ou apagar a rede salva.
+DISCUSSÃO Este trabalho desenvolveu uma ferramenta que avalia os parâmetros respiratórios envolvendo a mecânica ventilatória neonatal.
+Os gráficos do dispositivo acompanharam corretamente todo o ciclo respiratório e demonstraram a tolerância para cada variável através de curvas que podem ser visualizadas em u ma página web, utiliza ndo a internet do local para o seu funcionamento.
+Também foi desenvolvido um manual didático com as instruções necessárias para manipular o equipamento que será utilizado pel os usuários do dispositivo .
+Alguns estudos compararam a eficácia da utilização da BAI com o ressuscitador pulmonar em peça T durante a insuflação pulmonar.
+(2016) afirmam que a 17 ventilação com o ressuscitador pulmonar em peça T resultou em menor VC e maiores valores de TINS independente da experiência do manipulador e qu e o valor de 7,6 ml/kg para VC registrados pela BAI sugerem risco de lesão pulmonar.
+(2014) demonstram que apesar da peça T diminuir significativamente a taxa de intubação e a pressão máxima aplicada, os achados não apresen taram diferença entre a BAI e o ressuscitador em peça T para atingir uma Frequência Cardíaca ( FC) de 100 bpm em 2 minutos em recém -nascidos com idade gestacional de 26 semanas, ressuscitados ao nascimento .
+No entanto, a média de dias em oxigenoterapia e Ventilação Mecânica ( VM) foi maior no grupo que utilizou a BAI como recurso ventilatório.
+O manejo do RN na primeira hora após o nascimento, também conhecida como "hora de ouro" é fundamental para garantir os resultados a curto e longo prazo dos neonatos .
+Sendo assim, qualquer intervenção equivocada neste momento, pode gerar danos no parênquima pulmonar e or iginar uma doença denominada displasia broncopulmonar (DBP) (SHARMA, Deepak 2017 ).
+A utilização de ferramentas que permitem uma ventilação com pressão positiva (VPP) fornecem maior concentração de VC e PIP, estabelecendo melhora na capacidade residual funcional ( SCHMÖLZER et al.
+Entretanto, estudos afirmam que a administração excessiva de VC, resulta em hiperinsuflação pulmonar, causando uma lesão denominada volutrauma (ROTTA et al.
+Além disso, ventilações pulmonares com exposições elevadas de PIP podem gerar danos epiteliais e endoteliais, progredindo para barotrauma (ROTTA et al.
+2007) que pode ocasionar a DBP (RAFFERTY et al.
+Visto que o prematuro é suscetível a lesões pulmonares por barotrauma ou volutrauma no emprego da BAI (PR ADO et al.
+2016), nos primeiros minutos após o nascimento, este estudo desenvolveu um dispositivo capaz de mensurar as variáveis ventilatórias neonatais no momento da aplicaçã o do dispositivo.
+Nas últimas décadas, a tecnologia se mostra presente em todos os lugares.
+Dessa forma, a expansão do conhecimento tecnológico , a incorporação de equipamentos modernos e novas técnicas assistenciais são necessários para garantir maior eficácia nas intervenções terapêuticas e crescimento científico no setor de sa úde, visando o bem -estar geral e manutenção da vida.
+(2008) afirma que a inclusão de novas tecnologias hospitalares, tende a diminuir a carga de trabalho dos profissionais de saúde, melhorar a qualidade dos atendimentos, reduzir os episódios de erros e o tempo de internação do paciente.
+18 A utilização de tecnologias inovadoras que possibilitam acessos online para estudantes da saúde é de fundamental importância para garantir melhor desempenho prático, aquisição de conhecimento, facilidade de ac esso e incentivo a aprendizagem (M ĄCZNIK et al.
+Além disso, a expansão ao acesso à tecnologia juntamente com o fluxo crescente do número de doenças, cria oportunidades para a pesquisa acadêmica, agregando ao conhecimento dos profissionais ou alteran do o seu comportamento (B ATTISTA 2006 ).
+Para os pacientes, a utilização da tecnologia melhora os resultados obtidos, reduz a mortalidade hospitalar e previne complicações.
+Atualmente, não é conhecido na literatura científica dispositivos que s ejam capazes de analisar as variáveis ventilatórias fornecidas pela BAI.
+(2016) realizaram um estudo no qual avaliou a precisão da entrega de PIP alvo utilizando manômetros de pressão, seus achados comprovaram que acoplar o recurso na BAI contribui para uma entrega real da PIP.
+Tendo em vista que o equipamento foi desenvolvido inicialmente considerando um protótipo para avaliação da viabilidade científica, educacional e futuramente clínica, o IMT utilizou ferr amentas de baixo custo.
+Além disso, o protótipo possui maior liberdade de design, variedade de materiais, retorno rápido, possibilidade de personalização de peças e de higienização pela equipe de saúde, reduzindo o risco de infecções nos ambientes hospital ares e garantindo eficiência para o dispositivo.
+O dispositivo elaborado por este projeto diferencia -se de outros estudos por ser um protótipo moderno, que permite avaliar mais de um parâmetro ventilatório, demonstra seus resultados em gráficos, garante q ue os usuários alterem as condutas diante dos seus erros e ainda facilita a utilização do recurso por ser conectado à internet.
+Assim, o instrumento poderá ser utilizado como uma ferramenta útil e de baixo investimento que apresenta grande chance de ser empregado na prática clínica das UTI N, proporcio nando aos profissionais de saúde resultados mais precisos dos parâmetros respiratórios neonatais durante a ventilação pulmonar através da BAI, contribuirá para o melhor aprendizado dos estudantes sobre a mani pulação correta do dispositivo e reduzirá os eventos lesivo s dos pacientes.
+Como sugestão para futuros estudos podemos citar a validação do equipamento a partir de testes em um modelo de pulmão artificial que simulam situações reais de fisiologia pediátrica e neonatal, aplicados por estudantes e profissionais da área da saúde com conhecimento prévio 19 da mecânica respiratória infantil .
+Em seguida , realizar a validação do equipamento em pacientes que necessitarem da utilização do re curso .
+Outro ponto importante será permitir a robustez na montagem do protótipo, tanto na mecânica, quanto na eletrônica dos componentes, visando facilitar a manipulação e controle das variáveis pela equipe de saúde.
+CONCLUSÃO O protótipo foi capaz de realizar a mensuração das variáveis da mecânica respiratória neonatal, podendo ser aplicado na capacitação acadêmica e profissional.
+20 REFERÊNCIAS BASSANI, Mariana A. et al.
+Peak pressure and tidal volume are affected by how the neonatal self-inflating bag is handled.
+Jornal de pediatria , v. 85, p. 217 -222, 2009. doi: 10.1590/S002175572009000300006.
+BATTISTA, Renaldo N. Expanding the scientific basi s of health technology assessment: A research agenda for the next decade.
+International Journal of Technology Assessment in Health Care , v. 22, n. 3, p. 275 -280, 2006. doi: 10.1017/s0266462306051130.
+The safety and efficacy of sust ained inflations as a lung recruitment maneuver in pediatric intensive care unit patients.
+Intensive care medicine , v. 33, n. 10, p. 1778 -1786, 2007. doi: 10.1007/s00134 -007-0764 -2.
+Modos de controle e controle assistido da ventilação mecânica.
+Anales de Pediatria , 2003. pág.
+82 -85. doi: 10.1016/S1695 -4033(03)78154 -5.
+Overview of clinical research design.
+American Journal of Health -System Pharmacy , v. 66, n. 4, p. 398 -408, 2009. doi: 10.2146/ajhp080300 .
+LOPES, José M D. Apnéia neonatal.
+Jornal de pediatria , v. 77, n. Supl 1, p. S97, 2001. doi: 10.2223/JPED.223.
+Online technology use in physiothera py teaching and learning: a systematic review of effectiveness and users' perceptions.
+BMC medical education , v. 15, n. 1, p. 1 -12, 2015. doi: 0.1186/s12909 -015-0429 -8.
+Resuscitation of preterm infants: delivery room interventions and their effect on outcomes.
+Clinics in perinatology , v. 39, n. 4, p. 857 -869, 2012. doi: 10.1016/j.clp.2012.09.010.
+Neonatal and pediatri c manual hyperinflation: influence of oxygen flow on ventilation parameters.
+Respiratory Care , v. 58, n. 12, p. 2127 -2133, 2013. doi: 10.4187/respcare.02336.
+Manual ventilation and sustained lung inflation in an experimental model: influence of equipment type and operator's training.
+PLoS One , v. 11, n. 2, p. e0148475, 2016. doi: 10.1371/journal.pone.0148475.
+I Recomendação brasileira de fisioterapia respiratória em unidade de terapia intensiva pediátrica e neonatal.
+Revista Brasileira de Terapia Intensiva , v. 24, p. 119129, 2012. doi: 10.1590/S0103 -507X2012000200005.
+Short -and intermed iate-term outcomes of preterm infants receiving positive pressure ventilation in the delivery room.
+Critical care research and practice , v. 2013, 2013. doi: 10.1155/2013/715915.
+The accuracy of delivery of target pressures usin g self‐inflating bag manometers in a benchtop study.
+Acta Paediatrica , v. 105, n. 6, p. e247 -e251, 2016. doi: 10.1111/apa.13397.
+Conventional mechanical ventilation in pediatrics.
+Jornal de pediatria , v. 83, n. 2, p. S100 -S108, 2 007. doi: 0021 -7557/07/83 -02-Suppl/S100.
+Assessment of tidal volume and gas leak during mask ventilation of preterm infants in the delivery room.
+Archives of Disease in Childhood -Fetal and Neonatal Edition , v. 95, n. 6, p. F393 -F397, 2010. doi: 10.1136/adc.2009.174003 .
+Golden hour of neonatal life: Need of the hour.
+Maternal health, neonatology and perinatology , v. 3, n. 1, p. 1 -21, 2017.
+Strategies to minimize lung injury in extremel y low birth weight infants.
+Jornal de Pediatria , v. 81, n. 1, p. S69 -S78, 2005. doi: 0021 -7557/05/81 -01-Supl/S69.
+Comparison of devices for newborn ventilation in the delivery room.
+The Journal of pediatrics , v. 165, n. 2, p. 234 -239. e3, 2014. doi: 10.1016/j.jpeds.2014.02.035.
+Newborn self -inflating manual resuscitators: precision robotic testing of safety and reliability.
+Archives of Disease in Childhood -Fetal and Neonatal Edition , v. 104, n. 4, p. F403 -F408, 2019. doi : 10.1136/archdischild -2018 -315391 .
+Compressive force applied to a manikin's head during mask ventilation.
+Archives of Disease in Childhood -Fetal and Neonatal Edition , v. 97, n. 4, p. F254-F258, 2012. doi: 10.1136/archdischild -2011 -300336 .
+Describing the influence of technologies on registered nurses' work.
+Clinical Nurse Specialist , v. 22, n. 3, p. 132 -140, 2008. doi: 10.1097/01.NUR.0000311693.92662.14 .
+1 MANUAL RESPIRADOR IO T Carregamento: Colocar o interruptor (1) na posição O N (indicado como I) e conectar um cabo MicroUSB na Porta (2) do dispositivo.
+Alimentação 5V ( valor máx imo) 0,5 A (valor mínimo ).
+O disp ositivo pode ser utilizado enquanto é carregado.
+Montagem: ↑ Valores Atuais • Conectar seu Wi -Fi ao RespiradorIoT_AP • Acessar no navegador 10.168.4.1 • Manter a linha azul entre a s linhas preta e vermelha na Web ↑ Menu • 5s Modo de Config.
+• 20s Reset On/Off Porta MicroUSB Botão Multi funcional Display Etiqueta Esta é a configuração na qual o dispositivo deve ser montado.
+Na parte traseira ele possui uma seta (6) que indica o sent ido da medição do fluxo de ar.
+2 Modo de utilização: Para ligar o dispositivo colocar o interruptor (1) na posição ON e esperar alguns segundos.
+Durante o processo de inici alização o logo tipo será mostrado no display (4) : Caso o Wi -Fi do local já esteja configurado , ao pressionar o botão multifuncional (3) a tela mostrada será trocada.
+Podendo exibir o logo tipo, o flu xo de ar atual o u a p ressão de ar medida : Utilizando um C elular/ Tablet /Computador/S martTv conectá -lo a rede Respirador IoT_AP: E acessar no navegador o endereço 192.168.4.1 (endereço IP) para visualizar os gráficos.
+A linha em preto indica o valor m áximo, a linha em vermelho o valor mínimo e a linha azul o valor medido pelo dispositivo: Caso o dispositivo ainda não tenha sido configurado para a rede Wi -Fi local ele ficará preso na tela de carregamento com o logo tipo e será necessário seguir o passo a passo de configuração de Wi -Fi.
+3 Configuração de Wi -Fi: O dispositivo pode entrar no modo de c onfiguração de Wi -Fi de três formas:  Ao ser ligado não encontra uma rede Wi -Fi configurada  Ao mante r o botão multifuncional (3) pressionado por 5 segundos e soltá -lo (não perde rede salva)  Ao mante r o botão multifuncional (3) pressionado por mais de 20 segundos e soltá -lo (apaga a rede s alva, faz um reset ) Se for colocado no modo de c onfiguração de Wi -Fi via botão ele travará na última tela até que a configuração seja concluída .
+Utilizando um C elular/ Tablet /Computador/S martTv conectá -lo a rede RespiradorIoT_CFG: Ele abrirá a página de configura ção automaticamente, onde é possível reiniciar o dispositivo, configurar uma nova rede ou apagar a rede salva:  Para reiniciar o dispositivo: selecione "Restart " e aguarde o dipo sitivo ser reinic iado.
+Está conectado a uma rede Não e stá conectado a uma rede 4  Para apagar a rede configurada : selecione "Info" e nesta página seleciona e opção "Erase WiFi Config ":  Para c onfigurar uma nova rede: selecione "Configure WiFi ", as redes Wi -Fi disponíveis serão escan eadas e mostradas em uma lista , onde deverá escolher a rede desejada e inserir a senha da mesma : Após selecionar "Save " a rede será salva e ess a tela se fechará auto maticamente.
+Depois é necessário esperar alguns segundos p ara que o dispositivo se conecte adequadamente a rede, então é preciso reiniciá -lo utilizando o interruptor (1 ), o colocando na posição OFF ( indicada como O) por 2 segundos e colocá -lo novamente na posição ON.
+Com isso concluindo a configuração da rede, que poderá ser verificada visualizando sua rede própria como RespiradorIoT_AP e não mais como Respirado rIoT_CFG.

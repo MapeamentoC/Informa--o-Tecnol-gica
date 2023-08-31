@@ -1,0 +1,154 @@
+DOI: 494Cadernos de Prospecção – Salvador, v. 15, n. 2, abril a junho, 2022, p. 494-506.
+Estudo da Tecnologia de Irrigação Automatizada pela Revisão de Patentes Study of Automated Irrigation Technology by Patent Review Flávio André Alves de Oliveira1 Marciel Castro de Oliveira1 Matheus Rocha de Macedo1 Danielle Nascimento Queiroz de Souza1 Marcio Inomata Campos1 Gabriela Silva Cerqueira1 1Universidade Federal do Oeste da Bahia, Barreiras, BA, Brasil Resumo Devido à grande quantidade de áreas irrigadas no Brasil e ao desperdício que essa prática causa, a procura por soluções que amenizem o mau uso e o barateamento dos métodos de irrigação é indispensável.
+Este artigo tem como objetivo prospectar documentos de patentes referentes a sistemas de irrigação automatizados.
+Para essa prospecção tecnológica foram usadas combinações de códigos da CIP e de palavras-chave, essas informações foram obtidas por meio da base europeia Espacenet, os documentos de patentes foram classificados e agrupados.
+Foram realizadas análises estatísticas do tempo decorrido do depósito até a publicação.
+Com as análises, foi possível verificar que a China, os Estados Unidos e o Japão tiveram um destaque na quantidade de patentes depositadas, representando 83,65% do total, e a maioria foi depositada por inventores individuais.
+Palavras-chave: Sistemas de Irrigação.
+Abstract Due to the large amount of irrigated areas in Brazil and the waste that this practice causes, the search for solutions that mitigate the misuse and cheapening of irrigation methods is essential.
+This article aims to prospect patent documents referring to automated irrigation systems.
+For this technological prospect, combinations of IPC codes and keywords were used, this information was obtained through the European database Espacenet, patent documents were classified and grouped.
+Statistical analyzes of the time elapsed from deposit to publication were performed.
+With the analyses, it was possible to verify that China, the United States and Japan had a highlight in the amount of patents deposited, representing 83.65% of the total, and most were deposited by individual inventors.
+Artigo recebido em:06/05/2020 Revisado em: 14/08/2021 Aprovado em: 19/11/2021Direito autoral e licença de uso: Este artigo está licenciado sob uma Licença Creative Commons.
+Com essa licença você pode compartilhar, adaptar, para qualquer im, desde que atribua a autoria da obra, forneça um link para a licença, e indicar se foram feitas alterações.495Cadernos de Prospecção – Salvador, v. 15, n. 2, abril a junho, 2022, p. 494-506.Estudo da Tecnologia de Irrigação Automatizada pela Revisão de Patentes 1 Introdução O avanço da irrigação e da automação vem trazendo para a sociedade muitos benefícios devido à sua eficiência.
+Desde 3500 a 3200 a.C., esse termo passou a ser aplicado, quando o homem começou a utilizar a roda.
+Contudo, o conceito só se tornou familiar a partir da Revolução Industrial no século XVIII.
+Nesse período, o mundo sofreu grandes mudanças, e a tecnologia teve um papel muito importante para as grandes transformações acontecerem.
+A automação industrial se desenvolveu em ritmo acelerado para se manter competitiva num mundo globalizado.
+A irrigação na agricultura brasileira é ainda mais recente, foi a partir do século XX que os processos passaram a ser automatizados, ocupando papel fundamental no desenvolvimento do país (EMBRAPA, 2019).
+A agricultura faz parte do setor primário e é de suma importância para a economia brasileira, grande parte do Brasil, principalmente nas regiões semiáridas do país, utiliza a irrigação para suprir uma necessidade hídrica, utilizando a irrigação como uma ferramenta para a melhoria da agricultura e da qualidade de vida.
+O Brasil possui grandes áreas de plantações irrigadas, e, segundo a Agência Nacional das Águas (ANA, 2017), De acordo com os resultados do levantamento atual da irrigação, a atividade é responsável pela retirada de 969 mil litros por segundo (969 m³/s) e pelo consumo de 745 mil litros por segundo (l/s) (745 m³/s).
+Considerando os demais usos consuntivos levantados pela ANA, esses valores correspondem à 46% da retirada (2.105 m³/s) e 67% da vazão de consumo (1.110 m³/s).
+Sabe-se que o manejo de uma grande quantidade de água necessita da utilização de equipamentos para que seja possível obter uma distribuição uniforme da água irrigada.
+De fato, como qualquer outra área da ciência que vem evoluindo juntamente com a tecnologia, com a agricultara não é diferente, uma vez que os avanços nessa área possibilitam melhorias nas técnicas de produção e de qualidade do produto, com isso, é possível reduzir custos, matéria-prima e mão de obra e, consequentemente, gera-se movimentação na economia e melhoria na qualidade de vida.
+Os sistemas de irrigação são de suma importância, pois eles possibilitam maior confiabilidade no que tange aos recursos investidos.
+Segundo Bortoline (2006), o avanço nas tecnologias vem sendo de grande importância na produção e na melhoria das flores no Brasil, já que o sistema de irrigação por gotejamento automático é um exemplo de tecnologia que auxilia na economia dos recursos para as empresas.
+Com esses embasamentos, foi possível definir uma rota para o presente estudo, que se refere a uma prospecção tecnológica de sistemas de irrigação automatizados, buscando verificar a maturidade da tecnologia e os países em que essas tecnologias estão sendo desenvolvidas.
+2 Metodologia A metodologia utilizada neste trabalho consiste em duas etapas.
+Na primeira parte, iniciou- se com a busca das patentes na base de dados europeia (Espacenet ), assim, foram pesquisadas 496Cadernos de Prospecção – Salvador, v. 15, n. 2, abril a junho, 2022, p. 494-506.
+Flávio André Alves de Oliveira, Marciel Castro de Oliveira, Matheus Rocha de Macedo, Danielle Nascimento Queiroz de Souza, Marcio Inomata Campos, Gabriela Silva Cerqueira patentes relacionadas aos sistemas de irrigação automatizados.
+Na segunda etapa, foi elaborado o desenvolvimento dos gráficos com base nas análises das patentes selecionadas.
+Em busca de um acervo de patentes referente ao tema, foi realizado um levantamento na base de dados europeia (Espacenet ), pois essa base contempla mais 100 países, sendo utilizados as palavras-chave e os códigos da Classificação Internacional de Patentes (CIP) – em inglês IPC – International Patent Classification .
+Dessa forma, foram utilizadas as palavras-chave: irrigation*, automat*, sensor, moisture*, e, com base nessas palavras, foi possível buscar os códigos correspondentes ao interesse desta pesquisa, que são: A01G25/00, A01G27/00, B05B12/00, G05D22/00 e G05B19/00.
+Com base nos códigos e nas palavras-chave, foi possível construir uma tabela de escopo que tem a finalidade de mostrar as estratégias de busca, conforme pode ser visto na Tabela 1.
+Tabela 1 – Prospecção de palavras-chave e códigosIrrIgatIon automat * SenSor moISture a01g25/00 a01g27/00 B05B12/00 g05D22/00 g05B19/00QuantIDaDe X X 10 X X 3 X X X 221 X X X 221 X X X X X 42 X X X X X 19 Fonte: Elaborada pelos autores deste artigo (2019) Cada linha da tabela, corresponde à combinação que descreve a estratégia utilizada, sendo assim, foram consideradas as estratégias que melhor descreviam os sistemas de irrigação automatizados.
+Tabela 2 – Descrição dos códigos da CIP CóDIgo CIP DeSCrIção B05B12/00Disposições para controlar a descarga; Disposições para controlar a área de pulverização [2018.01] G05B19/00Sistemas de controle por programas (aplicações específicas ver os locais apropriados, p. ex.
+A47L 15/46; relógios, com dispositivos apensos ou integrados que acionam qualquer dispositivo num intervalo de tempo predeterminado G04C 23/00; portadores de registros marcadores ou sensores, com informações digitais G06K; armazenamento de informações G11; interruptores de tempo de programa de tempo que terminam automaticamente as operações depois de terminação do programa H01H 43/00) [2006.01] A01G25/00Irrigação de jardins, campinas, praças de esporte ou similares (aparelhos ou adaptação especial para líquidos fertilizantes A01C 23/00; bicos ou bocais, aparelhos para pulverização B05B; fluxo por gravidade, sistemas de valas para irrigação a céu aberto E02B 13/00) [2006.01] A01G27/00 Dispositivos automáticos de irrigação, p. ex.
+para vasos de flores [2006.01] G05D22/00 Controle da umidade [2006.01] Fonte: Elaborada pelos autores deste artigo (2019) 497Cadernos de Prospecção – Salvador, v. 15, n. 2, abril a junho, 2022, p. 494-506.Estudo da Tecnologia de Irrigação Automatizada pela Revisão de Patentes A pesquisa foi realizada no período de 2 de dezembro de 2018 a 11 de dezembro de 2018.
+Com base na tabela de escopo, foram escolhidas cinco estratégias, das quais foram obtidas 516 patentes, e dessas 516 foram selecionadas 410.
+Por meio das informações contidas nos documentos, foi possível desenvolver gráficos com as informações mais relevantes para a prospecção realizada.
+Os campos selecionados nos documentos de patentes, para o desenvolvimento do presente estudo foram: Publication date, Inventor(s), Applicant(s), International classification, Cooperative Patent Classification, Application number, Date of application, Priority number(s), abstract.
+3 Resultados e Discussão A partir dos resultados obtidos na prospecção feita na base de dados, foi utilizado a junção de códigos com palavras-chave como estratégia.
+Dessa forma, foi possível localizar 516 patentes pertencentes a mais de 20 países, dessas 516 foram removidas as duplicatas para que não houvesse um enviesamento dos dados nas análises realizadas, e, com isso, observar as características específicas dos métodos de irrigação, as suas variações de depósitos em relação ao tempo e os principais países detentores dos direitos dessas tecnologias.
+Com base na Figura 1, foi possível observar os 15 maiores países que são destaque em irrigação automatizada, entre eles, os que ocupam papel de liderança em patentes são: China, Estados Unidos e Japão.
+A China vem sendo a primeira colocada no ranking de depósitos de patentes por possuir uma área geográfica limitada, os recursos hídricos insuficientes e a maior população mundial, havendo, assim, a necessidade em investir em irrigação automatizada, segundo Santos (2015), o governo chinês investiu 80 bilhões de dólares em irrigação, e essa tendência deve continuar nas próximas décadas.
+Na região Norte da China, o governo subsidiou todo investimento na área de irrigação para os agricultores, e apenas 10% dos hectares irrigados eram equipados com alta tecnologia, dessa forma, foi criada uma grande oportunidade para que fabricantes possam desenvolver novos equipamentos.
+Esse grande investimento entre os anos de 2012 a 2018 pode ser uma justificativa para o crescimento dos depósitos de patentes na China, o que provocou um grande interesse de proteção nessas tecnologias.
+De acordo com os dados encontrados na prospecção, os Estados Unidos possuem 42 documentos de patentes registrados, sendo em sua maioria sistemas de irrigação de grande porte acoplados de sensores.
+A maior parte desses documentos de patentes é destinada a jardins, campos e áreas agrícolas.
+Os dispositivos desenvolvidos pelo Japão, em sua grande maioria, consistem basicamente em medir a iluminação, usando sensores que captam um fluxo de luz emitido sobre uma determinada área, e, com base na diferença entre o valor máximo e o mínimo da iluminação durante um intervalo de tempo (um dia), junto com os dados de umidade do solo registrado também pelo sensor, é possível fazer o cálculo para determinar se há a necessidade de acionar ou não o sistema de irrigação.
+De acordo com os dados extraídos da base europeia Espacenet, foi possível verificar que o primeiro registro de patente referente a sistemas de irrigação automatizados está com data de 1972, e é a patente de número de prioridade GB 1443517 (A) e título PLANT IRRIGATION 498Cadernos de Prospecção – Salvador, v. 15, n. 2, abril a junho, 2022, p. 494-506.
+Flávio André Alves de Oliveira, Marciel Castro de Oliveira, Matheus Rocha de Macedo, Danielle Nascimento Queiroz de Souza, Marcio Inomata Campos, Gabriela Silva Cerqueira DEVICES, que se refere a um sistema de irrigação do reaproveitamento de água, por condensação da água evaporada dentro do compartimento, com isso, percebe-se que as tecnologias referentes à irrigação automatizada já são produzidas há algum tempo.
+Figura 1 – Quantidades de patentes por país Fonte: Elaborada pelos autores deste artigo (2019) O gráfico da Figura 2 refere-se a patentes publicadas no banco de dados do Espacenet no período de 1972 a 2018, desse modo, pode-se observar que de 1972 a 1990 não houve um aumento significativo de publicações, já entre 1990 a 2008 houve um aumento de depósitos ínfimos, e entre 2009 a 2018 ocorreu um aumento significativo no número de publicações de patentes referentes ao tema, tendo seu pico no ano de 2016.
+Porém não foi possível apurar nada entre o período de 2017 a 2018 devido ao período de sigilo que são de 18 meses.
+Figura 2 – Depósito de patente em relação ao tempo Fonte: Elaborada pelos autores deste artigo (2019) 499Cadernos de Prospecção – Salvador, v. 15, n. 2, abril a junho, 2022, p. 494-506.Estudo da Tecnologia de Irrigação Automatizada pela Revisão de Patentes A Figura 3 representa três comparativos de sistema de irrigação, o de pequeno porte correspondendo a 48% das patentes depositadas no Espacenet, grande porte corresponde a 46% e outros apresentam 6%.
+A partir dos dados plotados, correspondentes à junção de palavras que mais se repetem em cada categoria e com base nessas palavras, foi feita a classificação de cada grupo.
+Pequeno porte corresponde à categoria de sistemas de irrigação voltados para: jardinagem, plantas ornamentais ou com tecnologia mais simples aplicadas.
+De acordo com Tremper (2015), a irrigação de jardins e gramados diferencia-se da irrigação agrícola, pois em um jardim existem necessidades hídricas bem diferentes em função da grande variedade de plantas por metro quadrado.
+De acordo com Tremper (2015) ainda, as principais áreas de utilização da irrigação para esse tipo de tecnologia são: Uso Comercial, Telhados e Paredes Verdes, Jardins e Hortas Comunitárias.
+Dessa forma, foram analisados os sistemas simples de uso doméstico que estivessem direcionados à jardinagem, e as palavras que mais se repetiam foram: vasos, jardins, flores, entre outras.
+Grande porte corresponde às tecnologias que estão correlacionadas com a agricultura de precisão ou com alta tecnologia empregada.
+Barbosa e Martins (2019) destacam que, para cada tipo de sistema de irrigação, deve-se considerar a capacidade produtiva e a área a ser irrigada.
+Em pequenas áreas, é necessário escolher sistemas de aspersão convencionais e, para grandes áreas, o sistema que melhor se adapta é o de pivô central.
+Sua classificação foi realizada com o mesmo parâmetro, e as palavras mais precisas foram: agricultura de precisão, pivô central, fruticultura, entre outras.
+Figura 3 – Distribuição de depósito em relação ao porte do Sistema de Irrigação Fonte: Elaborada pelos autores deste artigo (2019) Outros corresponde aos resumos das patentes que não se encaixaram em nenhuma das categorias citadas anteriormente, ou quando não foi possível identificar a intenção do sistema desenvolvido.500Cadernos de Prospecção – Salvador, v. 15, n. 2, abril a junho, 2022, p. 494-506.
+Flávio André Alves de Oliveira, Marciel Castro de Oliveira, Matheus Rocha de Macedo, Danielle Nascimento Queiroz de Souza, Marcio Inomata Campos, Gabriela Silva Cerqueira De acordo com o Serviço Brasileiro de Apoio às Micro e Pequenas Empresas (SEBRAE, 2017), o tempo de sigilo de uma patente no Brasil é de 18 meses, porém, o período de sigilo pode ser reduzido por meio de requerimento do depositante.
+Durante esse período, é de responsabilidade do depositante acompanhar todo o processo de depósito, pois poderá haver irregularidades nos documentos, dessa forma, existe a necessidade de corrigir os devidos erros nos documentos.
+Ao verificar os documentos de patentes, foi possível observar pelo tratamento estatístico a média do tempo de sigilo de patentes sobre o tema abordado.
+Esses dados foram obtidos por meio de um algoritmo de computador que processou os dados utilizando informações do Date of application e Publication date, desse modo, o algoritmo calculou a diferença absoluta entre essas datas.
+Tabela 3 – Medidas estatísticas do tempo decorrido do depósito até a publicação PatenteS analISaDaS PatenteS ChIneSaS PatenteS JaPoneSaS PatenteS amerICanaS Média 186,1156 dias 320,4064039 dias 327,8358 dias 317,6153846 dias Desvio-padrão Amostral246,4064 dias 247,2054773 dias 258,3552 Dias 246,9647052 dias Coeficiente de Variação136,6049% 77,15% 78,80% 77,75% Amplitude 2293 dias/6,3anos Fonte: Elaborada pelos autores deste artigo (2019) Como visto na Tabela 3, as patentes analisadas apresentam uma média de 186 dias decorridos da data de depósito até a data de publicação, tendo um desvio padrão de 246 dias, sendo maior que a média.
+Devido à grande variação dos dados, foi obtido um coeficiente de variação de mais de 136% em relação ao tempo de sigilo das patentes, que apresentam uma amplitude de 2,293 dias.
+A "A PLANT IRRIGATION SYSTEM AND A METHOD" foi a patente com menor tempo na diferença absoluta da data do depósito até a data da publicação (MARIA, 2016) apresentando uma diferença de 20 dias.
+Em contrapartida, "A AUTOMATIC WATERING SYSTEM IN THREE-DIMENSIONAL GARDEN" foi o documento de patente que apresentou o maior tempo decorrido do depósito até a publicação, sendo de 2.313 dias (YOSHITAKA, 2015).
+Ao analisar a média, o desvio-padrão e o coeficiente de variação das patentes dos maiores países detentores das patentes, observou-se que houve uma menor variação entre os dados e uma maior correlação entre cada país, em relação ao todo observado.
+O método utilizado para classificar as patentes em categorias foi a junção de conjuntos de palavras que melhor classificam esse determinado grupo.
+Utilizando palavras como vaso, jardim, entre outras, foi possível classificar o primeiro grupo (pequeno porte).
+Partindo dessa mesma metodologia, foram classificadas as patentes relacionadas à irrigação de grande porte, e agricultura de precisão, pivô central, fruticultura foram algumas das palavras utilizadas para classificar esse grupo.501Cadernos de Prospecção – Salvador, v. 15, n. 2, abril a junho, 2022, p. 494-506.Estudo da Tecnologia de Irrigação Automatizada pela Revisão de Patentes Figura 4 – Palavras frequentes no resumo Fonte: Elaborada pelos autores deste artigo (2019) A Figura 4 refere-se às palavras que são mais frequentes e relacionadas às patentes pesquisadas.
+Sendo cada conjunto de palavras um subconjunto das categorias de pequeno e grande porte, e esses subconjuntos podem estar contidos nas duas categorias, em que esses grupos se caracterizam por determinados aspectos, dos quais 72 palavras estão ligadas à automação de irrigação de pomares, plantios e cultivos.
+São 46 dessas patentes que apresentam palavras que se interligam a um sistema automatizado de irrigação por meio de computadores, microprocessadores, arduinos e raspberries.
+Dois documentos referentes a um sistema de irrigação interligado a uma estufa; 144 ligados a sensores de umidade e temperatura, 257 ligados a recipientes, 106 ligados à rede sem fio e 70 acoplados a telhados e paredes.
+A Figura 5 mostra os maiores depositantes de documentos de patentes, que são: Gadassi Haim, Mayer Yaron, Suzhou Hongqirui Automation Co Ltd, Tianjin Youaichuang Tech Co Ltd. Como exemplo, as tecnologias depositadas por Gadassi Haim e por Mayer Yaron estão relacionadas ao desenvolvimento de sensores e de torneiras automáticas mais baratas, já a empresa Tianjin Youaichuang Tech Co Ltd investiu no desenvolvimento de tecnologias que gerenciam a irrigação de uma forma inteligente, utilizando sensores, microcontroladores e módulos de conexão sem fio.
+Suzhou Hongqirui Automation Co Ltd depositou tecnologias referentes a um sistema que reaproveita a água e a reutiliza para auto irrigação.
+Foi possível observar que a Embrapa aparece na lista dos 10 maiores depositantes com duas patentes, possuindo dois documentos de patentes.
+502Cadernos de Prospecção – Salvador, v. 15, n. 2, abril a junho, 2022, p. 494-506.
+Flávio André Alves de Oliveira, Marciel Castro de Oliveira, Matheus Rocha de Macedo, Danielle Nascimento Queiroz de Souza, Marcio Inomata Campos, Gabriela Silva Cerqueira Figura 5 – Gráfico com os 10 maiores depositantes Fonte: Elaborada pelos autores deste artigo (2019) Na Figura 6 e na Tabela 4 constam os códigos da Classificação Internacional de Patentes (CIP) – em inglês IPC – International Classification Patentes .
+Com base no gráfico, constatou-se que os códigos com mais citações nos documentos de patentes foram: A01G27/00, A01G9/02, A01G25/16, A01G27/02, A01C23/04, A01G25/00, A01G7/04, A01G27/06, B05B12/08, A01G1/00, A01G25/02, G05D22/00, A01G25/06, A01G29/00, A01G13/02.
+A subclasse mais frequente entre as patentes prospectadas foi A01G, essa subclasse se refere à Horticultura; cultivo de vegetais, flores, arroz, frutas, vinhas, lúpulos ou algas; Silvicultura; irrigação (WIPO, 2019).
+O subgrupo mais citado foi A01G27/00, que aparece em 405 documentos de patentes, esse subgrupo se refere à Dispositivos automáticos de irrigação, por exemplo, para vasos de flores.
+Tabela 4 – Significados dos códigos da CIP DeSCrIção DoS CóDIgoS Da CIP A01G1/00 Cultivo sem uso de solo.
+A01G9/02 Sensíveis ao estado do líquido ou de outro material fluente descarregado.
+A01G25/16Tendo um reservatório de água, a parte principal deste sendo localizada totalmente ao redor ou diretamente ao lado do substrato de crescimento.
+A01G27/02 Tratamento elétrico ou magnético de plantas para fomentar seu crescimento.
+A01C23/04 Irrigação de jardins, campinas, praças de esporte ou similares.
+A01G25/00 Distribuição sob pressão.
+A01G7/04 Irrigação automática tendo um reservatório de água.
+A01G27/06 Controle da irrigação.
+A01G1/00 Dispositivos automáticos de irrigação.
+Fonte: Elaborada pelos autores deste artigo (2019) 503Cadernos de Prospecção – Salvador, v. 15, n. 2, abril a junho, 2022, p. 494-506.Estudo da Tecnologia de Irrigação Automatizada pela Revisão de Patentes Figura 6 – Gráfico dos códigos mais frequentes da CIP Fonte: Elaborada pelos autores deste artigo (2019) A Figura 7 representa os inventores com maior quantidade de patentes depositadas, assim, pode-se verificar que três desses inventores possuem quatro patentes publicadas, dois inventores possuem três patentes publicadas e os demais inventores possuem uma ou duas patentes publicadas.
+Figura 7 – Maiores inventores Fonte: Elaborada pelos autores deste artigo (2019) A maioria dos inventores é chinês, porém, o canadense Gadassi Haim é o maior inventor e, também, maior depositante das tecnologias relacionadas ao assunto.
+504Cadernos de Prospecção – Salvador, v. 15, n. 2, abril a junho, 2022, p. 494-506.
+Flávio André Alves de Oliveira, Marciel Castro de Oliveira, Matheus Rocha de Macedo, Danielle Nascimento Queiroz de Souza, Marcio Inomata Campos, Gabriela Silva Cerqueira 4 Considerações Finais O presente artigo teve como intuito prospectar documentos de patentes sobre sistemas de irrigação automatizados.
+Com essa análise, foi possível identificar os países detentores da maior quantidade de patentes, que são China, Estados Unidos e Japão.
+E a prospecção indicou que essa tecnologia, apesar de se encontrar em fase de desenvolvimento, teve uma primeira patente em 1972.
+Foi possível notar que, a partir do ano de 2012, houve um crescimento significativo no depósito de patentes relacionados a sistemas de irrigação, e, por meio das análises dos resumos, foi possível classificá-los em três grandes grupos: sistemas de pequeno porte, sistemas de grande porte e outros.
+Entre esses grupos, foi possível criar sete subgrupos de sistemas, sendo assim, identificou-se o que já existe sobre o tema prospectado.
+Conclui-se que as principais tecnologias voltadas para a irrigação automatizada são munidas de sensores e de microcontroladores responsáveis pela distribuição adequada da água utilizada.
+5 Perspectivas Futuras A busca de informação por patentes é uma ferramenta de grande importância para se ter inferências nas tomadas de decisão e no delineamento do desenvolvimento de novas tecnologias no Brasil e no mundo.
+Para trabalhos futuros, sugere-se que sejam realizadas novas buscas sobre o tema, utilizando-se novas palavras-chave e códigos da CIP , a fim de se obter um amplo entendimento das aplicações dos sistemas de irrigação automatizados.
+Sugere-se ainda que sejam realizadas buscas em diferentes bases de dados patentários e em outras bases de documentos não patentários, possibilitando uma visão mais detalhada do estado da arte acerca dos processos dos sistemas de irrigação automatizados.
+Referências AEP – AGÊNCIA EUROPEIA DE PATENTES.
+Classificação Internacional de Patentes (CIP) .
+Disponível em: LP&method=handleHelpTopic.
+AGUIAR, L.; ARAÚJO, T. Brasileiro inventor da bina cobra direitos na Justiça .
+Disponível em: Acesso em: 10 jan. 2019.
+ANA – AGÊNCIA NACIONAL DE ÁGUAS.
+B.; MARTINS, E. A. Irrigação Automatizada para Pequenas Propriedades.
+BORTOLINE, B. Flores: alta tecnologia na produção e diversificação.
+BRAGA, T. Especialistas em irrigação falam sobre o futuro da agricultura irrigada .
+Disponível em: Acesso em: 10 fev.
+2019.505Cadernos de Prospecção – Salvador, v. 15, n. 2, abril a junho, 2022, p. 494-506.Estudo da Tecnologia de Irrigação Automatizada pela Revisão de Patentes EMBRAPA – EMPRESA BRASILEIRA DE PESQUISA AGROPECUÁRIA.
+Automação e agricultura de precisão .
+Disponível em: Acesso em: 12 jan. 2019.
+Irrigation Control System for Cultivating High Sugar Content Fruit, Irrigation Control Device Used Therefor, and Irrigation Control Method .
+Depositante: IHI CORP; IHI STAR MACHINERY CORP; HOKKAIDO KONOSYA CO LTD. JP2017205028 (A) Depósito: 21 nov. 2017.
+Disponível em: family/060414491/publication/JP2017205028A?q=pn%3DJP2017205028A.
+Irrigation Control System for Cultivating High Sugar Content Fruit, Irrigation Control Device Used Therefor, and Irrigation Control Method.
+Depositante: HOLDING P M M HOFF B V .
+Disponível em: https:// worldwide.espacenet.com/patent/search/family/060414491/publication/JP2017205028A?q=pn%3DJ P2017205028A.
+C. M.; T ORRES , C. M. A. Física ciência e tecnologia .
+São Paulo: Moderna, 2005. p. 3-9.
+Disponível em: Acesso em: 31 jan. 2019.
+SEBRAE – SERVIÇO BRASILEIRO DE APOIO ÀS MICRO E PEQUENAS EMPRESAS Sebrae Nacional .
+Disponível em: Acesso em: 31 jan. 2019 TREMPER, D. P .
+Porto Alegre: Universidade Federal do Rio Grande do Sul, Faculdade de Agronomia, 2015.
+WINES, M. Seca nos Estados Unidos transforma rio Grande em fio d'água .
+Disponível em: Acesso em: 31 jan. 2019.
+WIPO – WORLD INTELLECTUAL PROPERTY ORGANIZATION.
+Disponível em: menulang=pt&lang=pt&viewmode=f&fipcpc=no&showdeleted=yes&indexes=no&headings=yes &notes=yes&direction=o2n&initial=A&cwid=none&tree=no&searchmode=smart.
+Automatic Watering System in Three-Dimensional Garden .
+Depositante: Hattori Yoshitaka.
+Disponível em: family/052630971/publication/JP2015037380A?q=pn%3DJP2015037380A.
+Acesso em: 10 jan. 2022.506Cadernos de Prospecção – Salvador, v. 15, n. 2, abril a junho, 2022, p. 494-506.
+Flávio André Alves de Oliveira, Marciel Castro de Oliveira, Matheus Rocha de Macedo, Danielle Nascimento Queiroz de Souza, Marcio Inomata Campos, Gabriela Silva Cerqueira Sobre os Autores Flávio André Alves de Oliveira E-mail : andflavio99@gmail.com ORCID: Bacharel Interdisciplinar em Ciência e Tecnologia em 2020 pela Universidade Federal do Oeste da Bahia (UFOB) em 2020.
+Endereço profissional: Rua da Prainha, n. 1.326, Morada Nobre, Barreiras, BA.
+Marciel Castro de Oliveira E-mail : ciohcastro@gmail.com ORCID: Bacharel Interdisciplinar em Ciência e Tecnologia pela Universidade Federal do Oeste da Bahia (UFOB) em 2020.
+Endereço profissional: Rua da Prainha, n. 1.326, Morada Nobre, Barreiras, BA.
+Matheus Rocha de Macedo E-mail : matheusmacedo390@gmail.com ORCID: Graduando em Interdisciplinar em Ciência e Tecnologia pela Universidade Federal do Oeste da Bahia (UFOB) em 2022.
+Endereço profissional: Rua da Prainha, n. 1.326, Morada Nobre, Barreiras, BA.
+Danielle Nascimento Queiroz de Souza E-mail : dan03queiroz27@gmail.com ORCID: Graduando em Interdisciplinar em Ciência e Tecnologia pela Universidade Federal do Oeste da Bahia (UFOB) em 2022.
+Endereço profissional: Rua da Prainha, n. 1.326, Morada Nobre, Barreiras, BA.
+Marcio Inomata Campos E-mail : marcio.campos@ufob.edu.br ORCID: Doutor em Engenharia Química pela Universidade Federal da Bahia (UFBA) em 2016.
+Endereço profissional: Rua da Prainha, n. 1.326, Morada Nobre, Barreiras, BA.
+Gabriela Silva Cerqueira E-mail : gabriela.cerqueira@ufob.edu.br ORCID: Doutora em Química pela Universidade Federal da Bahia (UFBA) em 2017.
+Endereço profissional: Rua da Prainha, n. 1.326, Morada Nobre, Barreiras, BA.

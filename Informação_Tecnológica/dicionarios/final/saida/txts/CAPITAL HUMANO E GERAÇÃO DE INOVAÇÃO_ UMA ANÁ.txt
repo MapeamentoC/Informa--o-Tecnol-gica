@@ -1,0 +1,228 @@
+Estudo & Debate, Lajeado, v. 26, n. 4, p. 30-46, 2019.
+ISSN 1983-036X30CAPITAL HUMANO E GERAÇÃO DE INOVAÇÃO: UMA ANÁLISE PARA PAÍSES EM DIFERENTES NÍVEIS DE DESENVOLVIMENTO TECNOLÓGICO Fabio Gama1, Suzana Bastos2, Guilherme Cardoso3 Resumo: A partir da ideia da Teoria do Crescimento Endógeno (Lucas) e do Desenvolvimento Econômico de Schumpeter o presente artigo objetivou verificar a relação entre capital humano (nível de educação) e empresário schumpeteriano (geração de inovação) para 43 países no período de 2000 a 2012.
+Para tanto, estima-se um modelo de dados em painel, tendo os depósitos de patentes como variável dependente, capital humano como variável explicativa de interesse e Gasto Bruto em P&D, Investimento Estrangeiro Direto, Força de T rabalho e Poupança Bruta como variáveis de controle.
+Os resultados indicam que o capital humano (nível de educação) impacta positivamente na produção de inovações (patentes) dos países tecnologicamente desenvolvidos.
+Por outro lado, para os países tecnologicamente subdesenvolvidos, o coeficiente de educação mostra-se não significativo e próximo de zero na regressão.
+Além disso, as evidências indicam que em média, os países tecnologicamente desenvolvidos têm maior nível de PIB per capita, e o crescimento do produto é positivamente correlacionado com o crescimento de patentes.
+Palavras-chave: Capital humano.
+HUMAN CAPITAL AND INNOVATION: AN ANALYSIS FOR COUNTRIES AT DIFFERENT LEVELS OF TECHNOLOGICAL DEVELOPMENT Abstract: From the idea of Endogenous Growth theory (Lucas) and the Schumpeter's economic development, the present article aimed to verify the relationship between human capital (level of education) and schumpeterian entrepreneur (innovation generation) for 43 countries in the period from 2000 to 2012.
+For this, a panel data model is estimated, having as dependent variable the patent deposits, human capital as explanatory variable of interest and Gross Spending in R & D, Foreign Direct Investment, Labor Force and Gross Savings as control variables.
+The results indicate that the level of education has a positive impact on the production of innovations (patents) in technologically developed countries.
+On the other hand, for the technologically underdeveloped countries, the coefficient of education is not significant and close to zero in the regression.
+In addition, evidence 1 Doutorando em economia Pela Universidade Federal de Juiz de Fora.
+2 Professora Dra do PPGE/UFJF e Bolsista de Produtividade Cnpq.
+3 Doutorando em economia Pela Universidade Federal de Minas Gerais.
+EstudoDebateDebateEstudoEstudo em Gestãoem Gestão PlanejamentoPlanejamentoRevista Estudo & Debate, Lajeado, v. 26, n. 4, 2019.
+ISSN 1983-036X DOI: -- Artigo recebido em 26/03/2019.
+--Estudo & Debate, Lajeado, v. 26, n. 4, p. 30-46, 2019.
+ISSN 1983-036X31indicates that, on average, technologically developed countries have a higher level of GDP per capita, and product growth is positively correlated with patent growth.
+1 INTRODUÇÃO De tempos em tempos a vida econômica apresenta mudanças no sentido de romper com os limites tradicionais até estão estabelecidos de produção e comercialização de bens, impondo uma nova forma que futuramente se consubstanciará em uma nova tradição.
+No livro O Fenômeno Fundamental do Desenvolvimento Econômico Schumpeter faz uso da categoria empresário, para criticar a teoria econômica neoclássica a qual não é capaz de incorporar a análise da dinâmica e do desenvolvimento econômico.
+A teoria do equilíbrio não incorpora a descontinuidade: "O desenvolvimento, no sentido em que o tomamos, é um fenômeno distinto, inteiramente estranho ao que pode ser observado no fluxo circular ou na tendência para o equilibro4".
+Para o autor, a vida econômica sob a ótica de um fluxo circular, entendida pela concepção neoclássica como o conjunto de interações dos agentes dentro de uma perspectiva de equilíbrio atribuída ao mercado, passa por mudanças descontínuas e não necessariamente mantém seus padrões delimitadores de curso tradicional.
+Essas seriam para Schumpeter (1982), a caracterização do processo do desenvolvimento econômico que, em outras palavras, poderia ser descrito pela introdução de fatores que ainda há pouco não faziam parte das relações econômicas.
+O desenvolvimento aconteceria por meio de novas combinações, o sentido pioneiro de empregar diferentes recursos de uma maneira distinta com o objetivo de criar coisas novas.
+A introdução de um novo bem, ou uma nova qualidade de um bem, ainda não familiares aos consumidores, é uma demonstração de tal desenvolvimento.
+Defenderia Schumpeter (1982), que tais mudanças acontecem no âmbito industrial e comercial e não na esfera das necessidades dos consumidores finais.
+Caracterizado por movimentos espontâneos que emergem de dentro do sistema econômico – não incumbindo aos efeitos sociais como, por exemplo, mudanças estruturais resultantes de guerras, mudanças políticas, dentre outros – o desenvolvimento é marcado por mudanças que haveriam de ter, portanto, um responsável maior; aquele que sustenta a base destas transformações econômicas.
+Há de se pressupor que tal responsável haveria de ter afinidade com a criação e alta capacidade perceptiva do funcionamento daquilo que o cerca, tendo, assim, o tato para inovar.
+Este seria o "empresário schumpeteriano" que descobre, executa e conclui novas combinações – empreendimentos.
+Ao empresário não é atribuída a necessidade de vínculo permanente à empresa, o diferenciando de dirigentes e administradores de negócios.
+4 Seu alvo é o economista Walras, o mais ilustre representante da Escola Austríaca de sua época (MARTES, 2010).Estudo & Debate, Lajeado, v. 26, n. 4, p. 30-46, 2019.
+ISSN 1983-036X32É de seu talento e conduta proativa que faz despertar a atenção dos capitalistas – os financiadores da inovação por meio de seu poder sobre os fatores de produção e do "capitaldinheiro".
+Schumpeter (1982) considera estes papéis fundamentais para o desenvolvimento econômico – quanto sua relação no processo, o agente financiador assumiria também os riscos e os possíveis retornos dos investimentos.
+Para o autor, sobre o empresário inovador não se atribuiriam lucros ou prejuízos, pois os mesmos não se estabelecem no fluxo circular da economia, mas sim, encontram-se representados pelos dirigentes e administradores de negócios.
+Para Schumpeter (1982), até o início do século XIX, a maior parte dos economistas não conseguia distinguir o empresário do capitalista porque não havia distinção das duas coisas para o industrial da época.
+O empresário é aquele que cria novas combinações, e apesar de haver casos em que o próprio exerça funções paralelas como a de capitalista, este perderia seu papel de empresário assim que se estabelecesse e dirigisse seu próprio negócio de maneira exclusiva.
+Na visão do autor, o empresário inovador não possui classe social e nem uma profissão, mas seu sucesso o levaria, juntamente com sua família, a certas posições de classe; como a do capitalista ou a de dono do próprio negócio, de forma a permitir que o fator herança facilite o empreendimento adicional dos descendentes; contudo a função de empresário nunca poderia ser herdada.
+Assim, o desenvolvimento em Schumpeter (1982) estaria atrelado a mudanças qualitativas substanciais, admitindo espaço para a aleatoriedade e, por conta disto, o autor não aborda a questão da formação endógena do empresário inovador.
+Haveria, portanto, pré-requisitos para que se formasse este tipo de sujeito, uma vez que seu papel é fundamental para o desenvolvimento econômico, mas, todavia, não possui especificações quanto sua classe social e nem profissão5?
+Ou seja, o empresário Schumpeteriano é um profissional com estoque de conhecimento formal, como indicam as evidências dos modelos de crescimento endógeno?
+Mais especificamente, o empresário schumpeteriano que modifica a estrutura de uma economia por meio da inovação pode ser comparado ao capital humano da teoria do crescimento endógeno, que com seu estoque de conhecimento, amplia a produtividade de trabalho e atua no desenvolvimento de novos produtos e processos de produção?
+Assim, propõe-se uma análise dos modelos de crescimento em que a acumulação de conhecimento está centrada no capital humano.
+Dentro deste contexto o objetivo do trabalho é verificar a relação entre "empresário schumpeteriano" (geração de inovação) e capital humano (nível de educação) tanto em países tecnologicamente desenvolvidos quanto em países tecnologicamente subdesenvolvidos.
+Para este fim, utiliza-se da metodologia de análise de Dados em Painel para 43 países tendo como base o período de 2000 a 2012.
+Os resultados indicam que o nível de educação impacta positivamente na produção de inovações dos países tecnologicamente desenvolvidos (Grupo 1).
+Por outro lado, para os 5 Para Martes (2010), o empresário inovador é um tipo específico de agente que decide racionalmente com base em valores (inovação), mas que também é guiado pela paixão (desejos e conquistas) e é, necessariamente, um líder.Estudo & Debate, Lajeado, v. 26, n. 4, p. 30-46, 2019.
+ISSN 1983-036X33países tecnologicamente subdesenvolvidos (Grupo 2) o coeficiente de educação mostra-se não significativo e próximo de zero na regressão.
+Além disso, em média, o Grupo 1 tem maior PIB per capita, e o crescimento do produto é positivamente correlacionado com o crescimento de patentes.
+Pressupõe-se, portanto, que o maior nível de educação (capital humano) implica em uma maior "geração" de empresários inovadores, fato que acarreta em maior produção de bens e serviços e, consequentemente maior crescimento econômico.
+O trabalho divide-se da seguinte forma: além desta introdução, o tópico segundo desenvolve o referencial teórico.
+Os tópicos seguintes apresentam a base de dados, a metodologia, a aplicação e as considerações finais, respectivamente.
+2 CRESCIMENTO ENDÓGENO EM LUCAS (1988) A teoria do crescimento teve como base o modelo de Harrod (1939) e Domar (1946).
+Este, procura explicar o crescimento através do investimento (capital físico) e da força de trabalho.
+O equilíbrio macroeconômico ocorre quando a taxa de crescimento do produto e do estoque de capital crescem à taxa garantida (Gw).
+Apesar dos avanços teóricos, o modelo de Harrod e Domar apresentava pressupostos inconsistentes com os fatos empíricos.
+Caso a taxa de crescimento da demanda por investimento diferisse em um dado período de tempo da taxa de crescimento da oferta de bens de capital, forças expectacionais garantiam que estas não tomassem a mesma trajetória no longo prazo.
+Assim, surgiram críticas ao modelo, pois dado o aporte teórico neoclássico da época, tornara-se impossível aceitar que as taxas de crescimento das economias pudessem divergir por longos períodos.
+Solow (1956) adiciona a taxa de crescimento da tecnologia ao modelo, de forma que tanto trabalho quanto tecnologia cresceriam a taxas constantes e exógenas ao longo do tempo.
+O autor também avança ao incluir a produtividade marginal decrescente dos fatores de produção, a qual, garantia que os choques de demanda na economia fossem mitigados pela variação dos juros do capital e salários.
+Assim, haveria uma tendência para que as economias crescessem a uma taxa constante no tempo.
+Ao longo das décadas de 1960 e 1970 o modelo de Solow serviu de base para novos modelos, a se destacar os modelos de Ramsey-Cass-Koopmans (apud Romer, 2011) e o modelo de gerações sobrepostas de Diamond (1965)6, entretanto ambos não conseguiram explicar a elevada e persistente disparidade de crescimento das economias no período.
+Assim, ao longo da década de 1980 surgiram os modelos endógenos, os quais procuravam explicar as disparidades de crescimentos via tratamento do progresso técnico como um fator endógeno às relações econômicas.
+Em sua maioria, os modelos endógenos tinham como base a acumulação do conhecimento para explicar as disparidades de taxas de 6 Ramsey-Cass-Koopmans avançam em relação à Solow por considerar um processo de maximização da utilidade para a tomada de decisão dos agentes entre poupança e consumo em um horizonte infinito de vida.
+Diamond (1965) tem as bases conceituais de maximização similares à de Ramsey-Cass-Koopmans, contudo, avança ao admitir que os agentes tomam decisões levando em conta dois períodos de tempo, um no qual trabalham, consomem e poupam, e outro onde apenas consomem, recebem juros e morrem (ROMER, 2011).Estudo & Debate, Lajeado, v. 26, n. 4, p. 30-46, 2019.
+ISSN 1983-036X34crescimento entre os países.
+Por exemplo, para Arrow (1969) o aprendizado é um produto da experiência e é adquirido na repetição no modo de produzir determinado bem, o learningby-doing.
+Já Romer (1986) afirma que a acumulação de conhecimento parte da acumulação de capital físico, o que permite produzir bens de forma mais eficiente.
+Apesar do avanço, faltava a estes modelos um tratamento mais formal a respeito do capital humano, isto é, uma análise formal de como se forma e se espraia o capital humano na economia.
+O modelo de Lucas (1988) possui uma estrutura similar ao de Romer (1986) ao considerar o investimento em capital humano como o ato propulsor das externalidades positivas, mediante aumentos no nível de tecnologia.
+O capital humano, caracterizado como um fator acumulável, define-se como a soma de habilidades dos indivíduos que pode se dar por meio da escolaridade e também do capital humano especializado por meio do learning-by-doing, o conhecimento adquirido com a prática.
+Supõe-se, no modelo de Lucas (1988), a acumulação de capital humano da forma: (1) Sendo o capital humano individual, mensurado pelo nível geral de suas habilidades e , a taxa que proporcionará o crescimento do estoque de .
+O termo refere-se à fração de tempo gasta por um indivíduo para a produção do bem final no período sendo a fração de tempo gasta na aquisição de habilidades.
+De acordo com a equação (1), se nenhum esforço é dedicado à acumulação de capital humano, , então nada se acumula.
+Se todo o esforço é dedicado a esta finalidade, , cresce a sua taxa máxima .
+Entre estes dois extremos, não há diminuição nos retornos do estoque de : uma determinada percentagem de aumento em requer o mesmo esforço, sem depender do nível de alcançado.
+Lucas (1988) argumenta, que, se nada deste capital for passado para as gerações mais jovens, o estoque "do agregado doméstico" iria (com uma demografia fixa) permanecer constante.
+Desta forma, de acordo com a equação (1), um possível choque positivo em , influenciado por uma ocorrência política ou social que impacte na maior acumulação de capital humano - neste caso representado pelo aumento do nível de escolaridade de determinada população - pode, supondo-se constante a alocação individual do tempo destinado à produção do bem final 7 , elevar a acumulação sequente do capital humano em determinada sociedade.
+O impacto deste aumento na variação dependerá, do tamanho da taxa , isto é a taxa máxima de crescimento do estoque : a eficiência do processo de interação social, uma espécie de mecanismo de transmissão que permitirá a proporcionalidade do capital humano dentre as gerações de cada país.
+7 Um aumento em pode, também, influenciar uma possível queda de ; uma vez que os indivíduos possam optar pela maior qualificação, seja por meio dos anos de estudo ou de treinamento profissional.
+Estudo & Debate, Lajeado, v. 26, n. 4, p. 30-46, 2019.
+ISSN 1983-036X35Lucas (1988) cita que se toda acumulação de capital humano fosse do tipo "learningby-doing", o crescimento do capital humano se daria em proporção ao esforço da parcela de mão de obra destinada a produção do bem, de modo que bens de alta tecnologia contribuiriam mais para o crescimento do capital humano quando do tipo "learning-bydoing".
+Hecker (2005) ressalta o papel da escolaridade ao afirmar que os trabalhadores precisam de conhecimento das teorias e princípios da ciência, engenharia, matemática e tecnologia subjacentes, usando-o para desenvolver produtos e processos de produção.
+Observa-se nesta definição a coerência com o capital de pesquisa descrito em Romer (1986).
+3 MODELO EMPÍRICO E BASE DE DADOS Baseado em Griliches (1979 e 1990), Jaffe (1986, 1989) e Borschein (2009) o modelo empírico (2) empregue para testar a interação entre capital humano e inovação compartilha das seguintes características: (2) Em que, é a variável dependente; um vetor de variáveis de controle – gastos com pesquisa e desenvolvimento (PD), Investimento estrangeiro direto (IED), poupança (POUP) e força de trabalho (FTRAB) é a variável de interesse – capital humano - e representa um termo de erro aleatório.
+Griliches (1990) argumenta sobre a razoabilidade de avaliar a capacidade tecnológica a nível regional por meio do uso de dados de patentes.
+Como proxy de inovação, utiliza a variável Pedidos de Patentes de responsabilidade do World Intellectual Property Organization (WIPO), a qual classifica os países quanto ao seu grau inovador (BORSCHEIN, 2009)8.
+De forma geral, países com maiores pedidos de patentes, refletem a concorrência entre os empresários inovadores, no intuito de obterem maiores ganhos por meio da vantagem tecnológica9.
+Tendo como referência Griliches (1979) e Jaffe (1986, 1989), a variável P&D representa o gasto bruto doméstico anual dos países em P&D medido em milhares, retirado do UnescoData Centre (2015).
+Espera-se relação positiva desta variável com a variável inovação, pois, gasto em pesquisa e desenvolvimento se mostra como investimento para a criação futura de produtos inovadores.
+Utiliza-se a variável defasada em dois períodos, pois, segundo Acs et al (1999) existe evidências quanto a relação desagregada e defasada do P&D universitário como determinante do emprego de alta tecnologia.
+8 As informações empregadas no teste empírico correspondem ao período de 2000 a 2012 e abrangem 44 países.
+9 Para os neoschumpeterianos, os mecanismos de apropriabilidade do conhecimento são diversos e incluem patentes, marcas, segredos industriais bem como o tempo de desenvolvimento e lançamento de um novo produto no mercado.Estudo & Debate, Lajeado, v. 26, n. 4, p. 30-46, 2019.
+ISSN 1983-036X36A variável IED, medida em milhões de dólares a preços correntes e a taxa de câmbio corrente, representam o Investimento Estrangeiro Direto dos países, ambas retiradas de UNCTADSTAT - Nações Unidas (2015).
+Espera-se relação positiva com a variável dependente, pois, o IED além de significar entrada de capital é um eficaz meio para transferir ao empreendedor local as inovações que o aproximam da fronteira tecnológica de produção.
+Segundo Borschein (2009), o IED para encorajamento, desenvolvimento e eficiência dos sistemas de patentes local é necessário para os países que ofertam patentes, tecnologia e inovação.
+A variável POUP representa a medida de poupança bruta dos países como porcentagem do PIB, retirada do Banco Mundial (2015), possui relação esperada positiva com a variável dependente, pois o nível de poupança bruta das nações influencia positivamente o crédito bancário que, na concepção de Schumpeter (1982), financia a inovação.
+A variável FTRAB que representa a força de trabalho medida em milhares, com ambos os sexos e todos os setores de atividades agrupados, também se retira de UNCTADSTATNações Unidas (2015).
+Segundo Glaeser et al, (1992), atividades econômicas que empregam elevado grau da população ocupada proporcionam um efeito na urbanização, com taxas de crescimento em diferentes setores da indústria.
+Por conta das externalidades, seus efeitos influenciam as firmas positivamente, estimulando ainda mais a competição.
+Para representar a variável de interesse, capital humano, utiliza-se a variável "Escolaridade média da população com mais de 25 anos" – Escola - de Barro e Lee (2014).
+Espera-se relação positiva com a variável dependente, pois o maior nível de educação permite maiores taxas de crescimento do capital humano.
+4 METODOLOGIA Segundo Wooldridge (2013), para que haja consistência dos estimadores em um painel de dados, deve-se atentar para as hipóteses de identificação do modelo a ser utilizado na análise.
+Dado que a estimação deve fornecer coeficientes consistentes, o modelo de pooled ordinary least squares (POLS) deve atender a condição de exogeneidade condicional, isto é, o termo de erro do modelo não pode estar correlacionado com nenhuma das variáveis explicativas da cross-section.
+(3) (4) Entretanto, o modelo POLS não possibilita segregar do erro aleatório o efeito específico dos países, podendo causar o problema de endogeneidade.
+Este efeito pode ser fruto da omissão de variáveis explicativas relevantes, que produz estimativas inconsistentes e resultados sem confiabilidade.
+O uso do método de dados em painel possibilita solucionar o problema de variável omitida, por permitir o controle dos efeitos não observado constante no tempo.
+Nesse método é possível segregar a parte do resíduo que é composta pelo erro aleatório e a parte que é composta pelo efeito específico com características de cada um dos países.
+Dessa maneira o Estudo & Debate, Lajeado, v. 26, n. 4, p. 30-46, 2019.
+ISSN 1983-036X37modelo gera estimadores com menores variâncias e mais eficientes, mantendo a consistência ao garantir que as hipóteses de identificação sejam atendidas (WOOLDRIDGE, 2013).
+A existência de efeitos não observados que enviesam as estimativas por Mínimos Quadrados Ordinários (MQO) no POLS pode ser constatada por meio do teste de Breusch-Pagan (1980, apud WOOLDRIDGE, 2013).
+Os autores derivam uma estatística usando o princípio do multiplicador de Lagrange em conjunto com a verossimilhança, cuja hipótese nula é a não existência de efeitos não observados.
+Comprovada a existência de efeitos não observados, é possível utilizar efeitos fixos (EF) ou efeitos aleatórios (EA), que são denominados de Métodos de Efeitos Específicos por considerarem e tratarem os efeitos não observados nos objetos da estimação.
+O modelo linear de dados em painel para cada observação pode ser representado por: (5) Sendo o subscrito i referente aos diferentes países e o subscrito t demarcando o período de tempo.
+Y é a variável de interesse, X é o vetor 1 x k de variáveis explicativas, é o vetor k x 1 de coeficientes a serem estimados.
+O termo denota os efeitos não observados específicos a cada unidade de cross-section.
+Segundo Wooldridge (2013), a chave da escolha entre adotar EF ou EA está na existência ou não de autocorrelação entre o efeito específico e as variáveis explicativas, 10.
+O modelo de Efeito Aleatório envolve que esta autocorrelação seja nula, ou zero, e que o termo de erro seja tratado com uma variável aleatória.
+Essa hipótese assume ortogonalidade e não relação entre os efeitos específicos de cada país, , e as variáveis explicativas, tornando o modelo bastante restritivo.
+Assim, o modelo de efeitos aleatórios é especificado em (6) e (7).
+EA1: (6) (7) No modelo de Efeitos Fixos (EF), a hipótese de identificação permite que haja autocorrelação arbitrária entre o efeito específico não observado e as variáveis explicativas, tornando o modelo bem menos restritivo que o de Efeitos Aleatórios.
+O modelo de Efeitos Fixos é explicitado como: (8) EF1: (9) 10 De acordo com Wooldridge (2013), para checar a existência de correlação de e as variáveis explicativas aplica-se o teste de Hausman sob a hipótese nula de que o método de efeitos aleatório produz estimadores consistentes e eficientes.Estudo & Debate, Lajeado, v. 26, n. 4, p. 30-46, 2019.
+ISSN 1983-036X38Vale ressaltar, ambos os métodos apresentam a hipótese de exogeneidade estrita na identificação, demonstrando que choques ocorridos em anos diversos, não podem afetar o resultado do ano corrente da cross-section.
+Essa hipótese é muito mais forte que apenas assumir exogeneidade contemporânea, conforme exigida pelo modelo POLS.
+5 APLICAÇÃO Através da Figura 1 verifica-se que o logaritmo dos pedidos de patentes –lnpat - e a variável de interesse, o logaritmo da escolaridade média – lnescola - se relacionam de forma positiva, entretanto, com uma inclinação suave, a qual sugere um modesto grau de interatividade entre as variáveis11.
+Figura 1– lnpat x lnescola 0 2 4 6 8 10lnpat 1.5 2 2.5 lnescola Fonte: Elaboração própria.
+Para corroborar as evidências da Figura 1, estimam-se os coeficientes do modelo empírico, equação 2, via dados em painel considerando toda a amostra.
+Os testes de Breusch-Pagan (Anexo 2) e Hausman (Anexo 3) indicam que o modelo de efeitos fixos é o que melhor se adequa aos dados.
+No que tange às sensibilidades (Tabela 1), nota-se que o logaritmo dos gastos em P&D - lnpd2 -, do investimento estrangeiro direto defasado em dois períodos – lnied2 – e da força de trabalho – lnftrab -, apresentam coeficientes com sinal esperado e significativos pelo menos a 95% de confiança.
+Isto indica que, uma variação positiva de 1% no Gasto Bruto em P&D defasado, no Investimento Estrangeiro Direto e na Força de T rabalho, leva a um aumento de 0.57%, 0.30% e 2.87% nos pedidos de patentes, respectivamente.
+Por outro lado, os coeficientes do logaritmo da poupança bruta como porcentagem do PIB (lnpoup) e da Escolaridade Média da População acima de 25 anos (lnescola) apresentam-se não significativos.
+A falta de significância dessas variáveis pode 11 A fim de suavizar a discrepância de escala numérica, todas as variáveis foram logaritmizadas.Estudo & Debate, Lajeado, v. 26, n. 4, p. 30-46, 2019.
+ISSN 1983-036X39estar relacionada à elevada heterogeneidade dos valores assumidos em cada país (Anexo 1), que infla os desvios padrão e torna não significativos os parâmetros.
+Tabela 1 – Resultados da regressão: variável dependente lnpat T odos os países Efeitos fixos)Grupo 1 POLSGrupo 2 Efeitos fixos Lnescola -0.193 Lnescola 1.82*** lnescola -0.819 (0.872) (0.005) (0.610) lnpd2 0.57*** lnpd2 0.1681** lnpd2 0.621*** (0.000) (0.027) (0.000) Lnpoup -0.010 Lnpoup 1.525*** lnpoup 0.469 (0.945) (0.000) (0.757) Lnied2 0.30** Lnied2 0.774*** Lnied2 0.258* (0.046) (0.000) (0.087) Lnftrab 2.874** Lnftrab 0.202 lnftrab 3.237*** (0.012) (0.224) (0.007) _cons -35.402*** _cons -17.701** _cons -37.163*** (0.000) (0.000) (0.000) 0.55 0.86 0.065 N 388 N 69 N 319 *** p<0.01, ** p<0.05, * p<0.1 † p-valor entre parênteses ♦ representa o Within Fonte: Elaboração própria.
+A fim de garantir uma análise mais consistente das relações estimadas, os países são divididos em dois grupos de acordo com o ranking global de depósitos de patentes (PCT)12.
+O Grupo 1, formado por Estados Unidos, Alemanha, França, Japão, Suíça, Holanda e Reino Unido, é o grupo dos países tecnologicamente desenvolvidos devido a média dos depósitos internacionais representarem, no período de 2000 a 2012, aproximadamente 78% de todo patenteamento global.
+No Grupo 2, a soma das médias dos trinta e seis países compõe em torno de 21% do patenteamento global, considerado, assim, o grupo subdesenvolvido em inovação13.
+12 No grupo 1, nota-se que os desvios padrão reduziram significativamente em comparação à análise com todos os países (Anexo1).
+13 Suécia, Itália, Canadá, Coreia do Sul, Finlândia, Bélgica, Austrália, China, Espanha, Dinamarca, Noruega, Israel, Áustria, Índia, Brasil, Irlanda, África do Sul, Luxemburgo, Nova Zelândia, México, Singapura, Rússia, Portugal, Hungria, Grécia, República Tcheca, T urquia, Argentina, Eslovênia, Chile, Polônia, Colômbia, Arábia Saudita, Malásia, Islândia e Malta.Estudo & Debate, Lajeado, v. 26, n. 4, p. 30-46, 2019.
+ISSN 1983-036X40As Figuras 2 e 3, indicam a dispersão entre logaritmo dos pedidos de patentes – lnpat - e logaritmo da Escolaridade média - lnescola.
+Nota-se que lnpat e lnescola se relacionam positivamente para o Grupo 1, ou seja, quanto maior a escolaridade média, maiores são os pedidos de patentes.
+Por outro lado, no Grupo 2, a relação entre lnpat e lnescola (Figura 3) não se apresenta clara, sugerindo que para esse grupo de países, o nível de educação e os pedidos de patentes tem baixa interatividade.
+Figura 2: lnpat x lnescola (Grupo 1) 6 7 8 9lnpat 2.2 2.3 2.4 2.5 2.6 lnescola Fonte: Elaboração própria.
+Figura 3: lnpat x lnescola (Grupo 2) 0 2 4 6lnpat 1.5 2 2.5 lnescola Fonte: Elaboração própria.
+A Tabela 1 apresenta também os coeficientes estimados para os Grupos 1 e 2.
+De acordo com o Teste Breusch-Pagan (Anexo 2), POLS é o modelo mais adequado para a estimação dos dados do Grupo 1.
+As estimações informam que, exceto para lnftrab, todas as demais variáveis apresentam coeficientes estatisticamente significativos a pelo menos 95% Estudo & Debate, Lajeado, v. 26, n. 4, p. 30-46, 2019.
+ISSN 1983-036X41de confiança e com sinal de acordo com os trabalhos empíricos referenciais.
+O coeficiente da variável de interesse, Escolaridade Média da População Adulta (lnescola) é 1.82, indicando que o aumento de 1% na proxy de capital humano tem o impacto positivo de 1.82% no nível de inovação.
+Para o Grupo 2, os testes Breusch-Pagan e Hausman (Anexos 2 e 3), indicam o uso do método de Painel de dados com Efeitos Fixos.
+Os resultados indicam a não significância do coeficiente lnescola a qualquer nível como um dos determinantes da inovação para os países tecnologicamente subdesenvolvidos.
+Para as variáveis de controle, apesar de todas apresentarem relação esperada, apenas os coeficientes de Investimento Estrangeiro Direto (lnied2), Tamanho da Força de T rabalho dos países (lnftrab) e os gastos com P&D (lnpd2) são significativos a pelo menos 90% confiança.
+Ademais, fazendo um paralelo entre desempenho tecnológico, educação e nível de atividade econômica, verifica-se que o Grupo 1 sobressai em todas as variáveis.
+Assim, países com maior escolaridade média da população adulta (capital humano), têm maior capacidade de geração de inovação (pedidos de patentes) e, consequentemente maior crescimento econômico (PIB per capita).
+Além disso, o Anexo 4 mostra que a correlação estatística positiva entre a taxa de crescimento do nível de Pedidos Internacionais de Patentes (cresPAT) e a taxa crescimento do PIB (cresPIB) é mais significativa para o Grupo 1 do que para o Grupo 2, reforçando as evidências da Figura 4 de que educação está para inovação e inovação está para desempenho econômico.
+Figura 4 – Médias de Escolaridade Média da População Adulta, Log Pedidos Internacionais de Patentes e Log PIB per capita - 2012 02468101214 ESCOLA lnPAT lnPIBP Grupo 1 Grupo 2 Fonte: Elaboração própria.Estudo & Debate, Lajeado, v. 26, n. 4, p. 30-46, 2019.
+ISSN 1983-036X426 CONCLUSÃO O objetivo do estudo foi verificar a relação entre o "empresário shumpeteriano" (geração de inovação) e capital humano (nível de educação) em 43 países, mediante a elaboração de um modelo econométrico para o período de 2000 a 2012.
+Os resultados sugerem que para países tecnologicamente desenvolvidos (Grupo 1), a variável Escolaridade Média da População Adulta, variável proxy de capital humano, juntamente com Gastos em Pesquisa e Desenvolvimento defasados em dois períodos, Poupança Bruta dos países e Investimento Estrangeiro Direto são influentes nos Pedidos Internacionais de Patentes.
+Para o grupo de países tecnologicamente subdesenvolvidos (Grupo 2), apenas os Gastos em Pesquisa e Desenvolvimento defasados em dois períodos, Investimentos Estrangeiro Direto e o tamanho da Força de trabalho são influentes nos pedidos estrangeiros de patentes.
+Em relação às evidências apresentadas nas estimações deve-se destacar alguns pontos.
+Primeiro, nota-se que a poupança bruta afeta apenas o grupo de países com maior desempenho na produção de inovação.
+Este resultado pode ser fruto da heterogeneidade dos países ligada à fatores institucionais, de modo que, em determinados países, a acumulação de poupança não necessariamente está relacionada à produção de inovação.
+Esse é o caso do Brasil, que apesar de em 2018 ser o nono país que mais investiu em inovação (Fórum Econômico Mundial, 201814), segundo a Organização Mundial de Propriedade Intelectual (OMPI), o país ocupa o 64o lugar no ranking dos países que mais inovam15.
+Outro ponto de destaque é a sensibilidade de aproximadamente cinco vezes maior dos pedidos internacionais de patentes, ao tamanho da força de trabalho (lnftrab) do que ao investimento em P&D (lnpd2), considerando as estimações para todos os países e para os países do Grupo 2.
+Sendo o tamanho da força de trabalho uma proxy de urbanização (aglomeração), segundo Marshall (1890) a concentração geográfica de empresas e trabalhadores gera, além de externalidades pecuniárias, externalidade tecnológica, pois o estar próximo induz a troca de conhecimento e informação entre os trabalhadores (learning by doing).
+Nos países tecnologicamente subdesenvolvidos, a inovação via troca de informação, learning by doing, é mais eficiente que investimentos em P&D.
+Entretanto a primeira significa aquisição de conhecimento e habilidade baseado na experiência, caracterizandose como um processo passivo, automático e relativamente barato e, a segunda trata-se de um processo ativo, não automático e relativamente caro e pouco explorado nos países tecnologicamente subdesenvolvidos, tornando ineficiente o processo de cumulatividade da inovação.
+Nesse caso, há uma clara distinção entre aquisição/utilização de tecnologia e desenvolvimento de capacitação tecnológica.
+Por fim, verifica-se, que o capital humano influi positiva e significativamente na geração de inovação apenas para o grupo dos países tecnologicamente desenvolvidos, mostrando-se estatisticamente irrelevante no grupo formado por países tecnologicamente 14 Ver Época (2018).
+15 Ver Globo (2018).Estudo & Debate, Lajeado, v. 26, n. 4, p. 30-46, 2019.
+ISSN 1983-036X43subdesenvolvidos.
+Está diferença de significância da educação sobre a capacidade de inovação dos países pode ser reflexo da baixa capacidade inovativa das firmas nas economias em desenvolvimento por conta de fatores macroeconômicos, por exemplo, a instabilidade econômica16; além de fatores microeconômicos associados às assimetrias nas capacidades tecnológicas dos países, pois o ambiente no qual as empresas desenvolvem suas atividades inovativas pode influenciar / determinar a forma como a atividade inovativa é conduzida.
+Nas economias desenvolvidas, o crescimento econômico aparece através da criação de novos setores (destruição criativa).
+Contudo, os países em desenvolvimento apresentam certa rigidez em suas estruturas produtivas, significando baixa capacidade inovativa das firmas.
+Os regimes tecnológicos dominantes geram padrões setoriais de inovação com baixa capacidade de dinamizar o restante da economia.
+Neste sentido, a relação positiva e significativa do nível educacional com a geração de inovação dos países tecnologicamente desenvolvidos contribui para identificar características individuais do empresário inovador schumpeteriano; mostrando que, a criação de novos produtos não apresenta – ou, ao menos, não se sustenta – somente pelo caráter espontâneo individual, como descrito em Schumpeter (1982), tendo papel fundamental o ambiente no qual ele se insere.
+REFERÊNCIAS ACS, Z; FITZROY, F; SMITH, I.
+High Technology employment, wages and university R & D spillovers: Evidences from US Cities.
+Economics of innovation and new technology, vol.8, p. 57 -78, 1999.
+ARROW, K. Economic Welfare and the Allocation of Resources for Invention.
+National Bureau of Economic Research, Inc, p. 609-626, 1969.
+World Bank national accounts data, 2015 update.
+Disponível em: < Acesso em: 16 set.
+BELL, M.; PAVITT, K. Technological Accumulation and Industrial Growth: contrasts between developed and developing countries.
+Industrial and Corporate Change, v.2, p.157-210, 1993.
+Determinantes dos Pedidos Estrangeiros de Patentes dos Países do G7 nos BRICS.
+Universidade Federal de Santa Catarina, Florianópolis, 65 p, 2009.
+Sistemas de Inovação e Países em Desenvolvimento, 2015 (Monografia).
+Faculdade de Ciências e Letras Departamento de Economia, UNESP/ Araraquara, 2015.
+16 Ver Bell e Pavitt (1993) Figueiredo (2004) e Campos (2015).Estudo & Debate, Lajeado, v. 26, n. 4, p. 30-46, 2019.
+National Debit in a Neoclassical Growth Model.
+The American Economic Review, vol.55, 5, p. 1126-1150, 1965.
+DOMAR, E. D. Capital expansion, Rate of Growth, and Employment.
+The Economic Journal, vol.14, nº 2, p. 137-147, 1946.
+ÉPOCA, R. O Brasil está em 9o na lista de países que mais investem em inovação.
+N. Aprendizagem tecnológica e inovação industrial em economias emergentes: uma breve contribuição para o desenho e implementação de estudos empíricos e estratégias no Brasil.
+Revista Brasileira de Inovação, v. 3, n. 2, p. 323-361, 2004.
+GLAESER, E; KALLAL, H. D; SCHEINKMAN, J.A; SHLEIFER, A.
+Brasil sobe 5 posições em ranking mundial de inovação, após 2 anos estagnado.
+Issues in assessing the contribution of research and development to productivity growth.
+The Bell Journal of Economics, p. 92-116, 1979.
+Patent statistics as economic indicators: a survey.
+National Bureau of Economic Research, 1990.
+HECKER, D. E. High-technology employment: a NAICS-based update.
+Bureau of Labor Statistics, Monthly Labor Review, p. 57-72, 2005.
+Technological opportunity and spillovers of R&D: evidence from firms' patents, profits and market value.
+National bureau of economic research, 42 p, 1986.
+Real effects of academic research.
+The American Economic Review, p. 957-970., 1989.
+MARTES, A. C. B. Weber e Schumpeter A ação econômica do empreendedor.
+Revista de Economia Política 30 (2), 2010.
+Estudo & Debate, Lajeado, v. 26, n. 4, p. 30-46, 2019.
+ISSN 1983-036X45LUCAS, R. E. On the mechanics of economic development.
+Journal of monetary economics, 22.1, p. 3-42, 1988.
+ROMER, D. Advanced Macroeconomics.
+M. Increasing returns and long-run growth.
+The journal of political economy, 1986, p. 1002-1037, 1986.
+A. T eoria do Desenvolvimento Econômico: Uma Investigação Sobre Lucros, Capital, Crédito, Juro e o Ciclo Econômico.
+São Paulo: Abril Cultural, 174 p, 1982.
+SOLOW, R. M. A Contribution to the Theory of Economic Growth.
+The Quarterly Journal of Economics, vol.
+Foreign Direct Investment Statistics.
+Disponível em:< org/Templates/Page.asp?intItemID=3198&lang=1> Acesso em: 11 set.
+WOOLDRIDGE, J. M. Introdução à Econometria - Uma Abordagem Moderna.
+ANEXOS ANEXO 1 – Estatísticas descritivas das variáveis SiglaT odos os paísesGrupo 1 Grupo 2 Média Mínimo MáximoDesviopadrãoMédia Mínimo MáximoDesviopadrãoMédia Mínimo MáximoDesviopadrão lnpat3.952 0 8.9322.097 7.007 5.863 8.931 0.829 3.334 0 6.489 1.696 lnescola2.290 1.484 2.5970.224 2.439 2.254 2.596 0.093 2.260 1.483 2.577 0.231 Lnpd216.862 9.332 24.5042.60018.47515.906 23.6 2.466 16.547 9.332 24.504 2.510 lnpoup3.125 1.152 3.9770.364 3.137 2.505 3.663 0.268 3.122 1.152 3.976 0.380 lnied11.60 6.21 15.0831.561 13.266 10.738 15.082 1.059 11.248 6.209 13.782 1.420 lnftrab9.194 5.066 13.6081.79 10.244 8.291 11.994 1.127 8.984 5.066 13.607 1.828 Fonte: Elaboração própria.
+ANEXO 2 – Teste Breusch-Pagan Grupo/Estatísticas chibar2 P-valor T odos os países 1393.13 0.000 Grupo1 1.21 0.1353 Grupo2 1098.49 0.000 Fonte: Elaboração própria.Estudo & Debate, Lajeado, v. 26, n. 4, p. 30-46, 2019.
+ISSN 1983-036X46ANEXO 3 – Teste Hausman Estatísticas/Grupo T odos os países Grupo 2 chi2(5) 28.94 26.61 P-valor 0.000 0.000 Fonte: Elaboração própria.
+ANEXO 4 – Correlação entre o crescimento do número de Pedidos Internacionais de Patentes via PCT (cresPAT) e o crescimento do PIB (cresPIB) entre 2000 e 2012.
+Grupo 1 Grupo 2 CresPAT CresPIB CresPAT CresPIB CresPAT 1 0.2170 1 0.0494 CresPIB 0.2170 1 0.0494 1 Fonte: Elaboração própria.

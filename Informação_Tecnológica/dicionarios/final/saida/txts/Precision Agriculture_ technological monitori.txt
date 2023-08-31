@@ -1,0 +1,324 @@
+Research, Society and Developmen t, v. 11, n. 3, e42611326852 , 202 2 (CC BY 4.0) | ISSN 2525 -3409 | DOI: -v11i3.26852 1 Agricultura de Precisão: monitoramento tecnológico a partir da análise de patentes Precision Agriculture: technological monitoring based on patent analysis Agricultura de Precisión: seguimiento tecnológico basado en análisis de patentes Recebido: 17/02/2022 | Revisado: 18/02/2022 | Aceito: 20/02/2022 | Publicado: 02/03/2022 Wanderson de Vasconcelos Rodrigues da Silva ORCID: -0002 -7631 -9830 Instituto Federal de Educação, Ciência e Tecnologia do Piauí , Brasil E-mail: wanderson.
+vasconc elos@ifpi.edu.br Renata Silva -Mann ORCID: -0001 -5993 -3161 Universidade Federal de Sergipe , Brasil E-mail: renatamann@academico.ufs.br Resumo Os sistemas de Agricultura de Precisão adotam diversos equipamentos d e alta tecnologia em hardware, software e comunicação para coletar dados de diferentes fontes a fim de medir e avaliar todos os aspectos da produção agrícola.
+Essa estratégia de gestão permite a racionalização no uso dos recursos agrícolas, aumentando a ef iciência da produ ção ao tempo que reduz os impactos negativos da atividade no campo.
+Este estudo teve por objetivo realizar o monitoramento das tecnologias associadas à Agricultura de Precisão, a partir da análise de informações dos documentos de patentes, de modo a invest igar o estado e as tendências, bem como identificar os principais provedores e suas redes de colaboração.
+Questões de pesquisa foram formuladas para guiar o estudo, sendo este de caráter tanto quantitativo e descritivo, quanto qualitativo e exploratório.
+O estudo também fornece um fluxo metodológico apoiado por ferramentas de softwares gratuitos para coleta, tratamento e visualização de dados.
+Entre os principais resultados, destacam -se: 312 famílias de patentes depositadas por 303 requeren tes e 968 invento res foram identificadas; 86% das publicações de patentes ocorreram na última década com tendência ao crescimento; as tecnologias foram depositadas em 23 países, com destaque para China e Estados Unidos; cerca de 86% dos titulares e invento res possuem apena s uma patente; plantio, processamento de dados e análise de propriedades do solo são os setores tecnológicos mais desenvolvidos; patentes altamente citadas; principais inventores participam de forma mais cooperativa que os titulares, sendo pontes entre dif erentes grupos de inventores .
+Palavras -chave: Agricultura inteligente ; Mapeamento tecnológico ; Análise patentométrica ; Indicadores .
+Abstract Precision Farming systems adopt various high -tech equipment in hardware, software and communicat ion to collect data from different sources in order to measure and evaluate all aspects of agricultural production.
+This management strategy allows the rationalization in the use of agricultural resources, increasing production efficiency while reducing the negative impact s of the activity in the field.
+This study aimed to monitor the technologies associated with Precision Farming, from the analysis of information from patent documents, in order to investigate the status and trends, as well as to identify t he main providers and their collaboration networks.
+Research questions were formulated to guide the study, and this study is both quantitative and descriptive, and qualitative and exploratory in nature.
+The study also provides a methodological flow support ed by free softwa re tools for data collection, processing and visualization.
+Among the main results, the following stand out: 312 patent families filed by 303 applicants and 968 inventors were identified; 86% of the patent publications occurred in the last decade with an i ncreasing trend; technologies were filed in 23 countries, with China and the United States standing out; about 86% of the holders and inventors own only one patent; planting, data processing and soil property analysis are the most develope d technological s ectors; highly cited patents; main inventors participate in a more cooperative way than the holders, being bridges between different groups of inventors.
+Keywords: Smart agriculture ; Technological mapping ; Patentometric analysis ; Indicator s. Resumen Los sistemas de agricultura de precisión adoptan varios equipos de alta tecnología en hardware, software y comunicación para recopilar datos de diferentes fuentes con el fin de medir y evaluar todos los aspectos de la producción agrícola.
+Esta estrategia de ma nejo permite la racionalización en el uso de los recursos agrícolas, aumentando la eficiencia productiva y reduciendo los impactos negativos de la actividad en el campo.
+Este estudio tuvo como objetivo monitorear las tecnologías asociadas a la Agricultura de Precisión, a partir del análisis de la información de los documentos de patentes, con el fin de investigar el estado y las tendencias, así como identificar los principales proveedores y sus redes de colaboración.
+Se formularon preguntas de investigación para guiar el estudio, y Research, Society and Developmen t, v. 11, n. 3, e42611326852 , 202 2 (CC BY 4.0) | ISSN 2525 -3409 | DOI: -v11i3.26852 2 este estudio es de naturaleza tanto cuantitativa y descriptiva como cualitativa y exploratoria.
+El estudio también proporciona un flujo metodológico apoyado en herramientas de software libre para la recolección, p rocesamiento y visualización de datos.
+Entre los principales resultados destacan: se identificaron 312 familias de patentes presentadas por 303 solicitantes y 968 inventores; El 86% de las publicaciones de patentes se dieron en la última década con una tendencia creciente; se presentaron tecnologías en 23 países, destacándose China y Estados Unidos; alrededor del 86% de los titulares e inventores poseen una sola patente; la siembra, el procesamiento de datos y el análisis de las propiedades del suelo son lo s sectores tecnol ógicos más desarrollados; patentes muy citadas; los inventores principales participan de manera más cooperativa que los titulares, siendo puentes entre diferentes grupos de inventores .
+Palabras clave: Agricultura inteligente ; Mapeo tecnológico ; Análisis patentométrico ; Indicadores .
+Introdução A sustentabilidade agrícola e a segurança alimentar têm sido temas preocupantes em diversas partes do mundo, uma vez que o solo e a água não são mais recursos inesgotáveis, o que exige maior eficiê ncia na produção.
+Para garantir a manutenção desses sistemas agrícolas e a produtividade no longo prazo, diversas técnicas de mecanização, irrigação, fertilização, entre outras, foram introduzidas na agricultura ao longo do tempo.
+Com o uso das Tecnologias da Informação (T I) e, mais recentemente, da Internet das Coisas (IoT) e da Inteligência Artificial (IA), os sistemas de Agricultura de Precisão (AP) têm promovido a otimização do uso de insumos, como sementes, água, fertilizantes, corretivos, defensivo s, etc., considerand o o mapeamento da variabilidade espacial e temporal dos campos agrícolas (Cisternas et al., 2020; Silva & Silva -Mann, 2021) .
+A Agricultura de Precisão é uma estratégia de gestão que utiliza equipamentos de alta tecnologia (hardwares e softwares especializados), criando um sistema compl exo que coleta dados de f ontes distintas para monitoramento e avaliação de todos os aspectos da produção agrícola.
+Esses dados fornecem o suporte necessário para a aplicação diferenciada e precisa dos recursos, de modo a aumentar a eficiência, melhorar o r endimento econômico e red uzir o impacto ambiental (Kent Shannon et al., 2018; Silva & Silva -Mann, 2020) .
+Relatos sobre o uso de técnicas de precisão na agricultura surgiram desde 1929, mas foi a partir da década de 80 que a filosofia da Agricultura de Precisão (AP) passou a se consol idar, especialmente com o desenvolvimento de sensores e microcomputadores.
+Na década de 90, a operacionalização dos sistemas de navegação global trouxe mais avanços significativos na agricultura que passou a fazer uso de Sistemas de Informação Geográfica ( SIG) e tecnologias de aplicações diferenciadas, denominadas Variable Rate Technology (VRT).
+Com isso, a AP permitiu o mapeamento da variabilidade da lavoura, bem como o monitoramento instantâneo da produção (Adamchuk et al., 2004; Precision Agriculture in the 21st Century, 1997) O objetivo desta pesquisa foi realizar o monitoramento das tecnologias associadas à Agricultura de Pre cisão, a partir da análise de i nformações dos documentos de patentes publicados, de modo a investigar o atual estado, evolução e tendências no desenvolvimento tecnológico deste setor, bem como identificar os principais provedores e suas redes de colaboraçã o. Dessa forma, este artigo apr esenta um estudo analítico dos dados de depósitos de patentes associados à Agricultura de Precisão, permitindo a elaboração de indicadores quantitativos e qualitativos de patentometria para responder às seguintes questões da pesquisa: (1) As tecnologias de senvolvidas para a Agricultura de Precisão têm crescido em termos de depósitos de patentes?
+(2) Quais os principais titulares e inventores das tecnologias, bem como os países em que os pedidos de patente são depositados?
+(3) Como os depósitos relativos à A gricultura de Precisão se organizam na base de patentes e quais os setores tecnológicos mais empregados no desenvolvimento de produtos e processos ao longo do tempo?
+(4) Quais as patentes mais relevantes, considerando as cita ções por outras tecnologias?
+(5 ) Quais as estruturas conceituais e sociais existentes na produção das tecnologias?
+Este artigo está estruturado da seguinte forma: a seção 2 fornece uma revisão da literatura sobre a importância do monitoramento tecnológico a partir da análise de patentes ; na seção 3 são discutidos os detalhes metodológicos; a seção 4 Research, Society and Developmen t, v. 11, n. 3, e42611326852 , 202 2 (CC BY 4.0) | ISSN 2525 -3409 | DOI: -v11i3.26852 3 apresenta os principais resultados obtidos a partir da análise de dados, abordando as cinco questões de pesquisa mencionadas anteriormente; finalmente, na seção 5, são apresentadas as conclus ões e limitações do estudo, bem como sugestões para pesquisas futuras.
+Patentes e Monitoramento Tecnológico Os documentos de patentes dispõem de muitas informações tecnológicas e têm importante influência na inovação e no desenvolvimento tecnológico.
+A análise adequada transforma esses dados em informações sistemáticas e valiosas.
+Dessa forma, os dados patentários podem ser analisados de diversas formas para atender diferentes propósitos.
+No geral, os propósitos da análise de patentes envolvem: determin ar a novidade em patentes, analisar tendências, prever desenvolvimentos tecnológicos, planejamento estratégico de tecnologia, identificar concorrentes tecnológicos, mapeamento das tecnologias, entr e outros (Abbas et al., 2014; Chang et al., 2010) .
+O processo de análise de patentes é co nstituído por uma série de etap as, desde a extração de informações dos bancos de dados de patentes, até a análise e interpretação dos resultados.
+Comumente, a análise bibliométrica de patentes (patentometria) é mais usada nesse processo, a qual é possível identificar a atividade tecnoló gica, os provedores das tecnologias, os setores tecnológicos envolvidos e as tecnologias mais citadas.
+No entanto, os avanços no campo da análise de redes sociais propiciaram diversos estudos que empregaram técnicas de anális e de redes para investigar e vi sualizar mais detalhadamente os dados disponíveis nas patentes, explicando a relação entre campos de tecnologia, titulares de patentes, inventores, etc.
+Existem milhões de patentes espalhadas por diferentes bases de dados.
+Os repositórios de documentos de patentes mais populares são o Espacenet, do European Patent Office (EPO), o PatentScope, da World Intellectual Property Organization (WIPO), o United States Patent and Trademark Office (USPTO) e o Japan Patent Office (JPO) (Silva et al., 2020) .
+No entanto, vale destacar que os dados relativos às patentes em determinados domínios tecno lógicos são difíceis de analisa r devido ao volume cada vez maior de informações.
+Sendo assim, nem sempre é possível confiar totalmente no conhecimento e nas habilidades dos especialistas para analisar as patentes.
+Por outro lado, a utilização de ferramenta s auxiliadas por computador no processo de análise de patentes pode automatizar diversas tarefas, reduzindo a carga de trabalho manual dos especialistas e acelerando o processo de análise para monitoramento das tecnologias (Abbas et a l., 2014) .
+O monitoramento das tecnologias associadas à Agricultura de Precisão, a partir da análise de informações dos documentos de patentes, foi realizado neste estudo, no qual são apresentadas diversas ferramentas de software livre que apoiam o proces so de análise bibliométrica de patentes, as técnicas de análise em mineração de texto e de visualização em redes sociais de cooperação.
+Dados e Métodos Considerando os objetivos, esta pesquisa adotou procedimentos metodol ógicos que envolveram aspectos descritivos e exploratórios, a partir de uma abordagem quantitativa e qualitativa.
+A abordagem quantitativa se deu por meio da análise patentométrica dos dados para mensurar a produção tecnológica no setor de Agricultura de P recisão.
+A abordagem qualitativ a se deu por meio da análise de conteúdo das principais patentes recuperadas, atribuindo aos dados quantitativos significados mais amplos (Pereira, 2016) .
+Para responder às questões da pesquisa, o fluxo de trabalho do mapeamento tecnológico da Agricultura de Precisão foi dividido em seis estágios: (1) Estudo preliminar do tema e definição do escopo; (2) Pesquisa na base de dados Lens.org; ( 3) Research, Society and Developmen t, v. 11, n. 3, e42611326852 , 202 2 (CC BY 4.0) | ISSN 2525 -3409 | DOI: -v11i3.26852 4 Exportação dos registros no formato CSV; (4) Agrupamento dos registros por família de pa tentes; (5) Indexação, limpeza e normalização dos dados; (6) Análise descritiva, mineração de dados e texto, visualização e discussão (Figura 1).
+Figura 1 – Diagrama de fluxo da pesquisa.
+Fonte: Elaborada pelo s autores.
+No primeiro estágio, realizou -se um a revisão de literatura narr ativa a partir de livros e artigos publicados em periódicos para fundamentação teórica do tema, evidenciando sua relevância e justificativa para o desenvolvimento deste estudo (seções 1 e 2).
+Os estágios 2 ao 5 serão detalhados na seção 3.1 (Coleta e trata mento de dados), enquanto que o estágio 6 será apresentado e discutido na seção 4 (Análise, visualização e discussão).
+3.1 Coleta e tratamento de dados Para uma análise de patentes, é fundamental obter acesso aos dados sobre as mesmas.
+Sendo assim, o segu ndo estágio do fluxo desta pesquisa refere -se à consulta e recuperação de informações da base de dados de patentes.
+A maioria dos escritórios de patentes oferece acesso gratuito aos registros, mas na prática é mais conveniente u tilizar ferramentas que inde xam documentos de vários escritórios, permitindo diversas consultas específicas (Masiakowski & Wang, 2013) .
+Existem diversas bases de dados de patentes gratuitas e comerciais disponíveis, cada uma possui pontos fortes e fracos específicos.
+Este estudo priorizou a utiliz ação de ferramentas de acess o livre, servindo como uma fonte de referência para demais monitoramentos tecnológicos em diferentes campos do conhecimento.
+Desta forma, o banco de dados The Lens (lens.org) foi definido para a busca.
+The Lens é um projeto da C ambia, uma empresa social gl obal sem fins lucrativos que se dedica a democratizar a solução de problemas usando ciência e tecnologia.
+Anteriormente conhecida como Patent Lens, essa ferramenta agrega mais de 225 milhões de trabalhos acadêmicos, mais de 127 milhões de registros de pate ntes globais e mais de 370 milhões de patentes de sequências de DNA, com metadados ricos, incluindo as pessoas e instituições que geram esse conhecimento e as ligações entre elas, extraídas de diversas fontes de dados (The Lens, 2021) .
+Uma vez que a recuperação de dados deve ser auxiliada por definições e diretrizes de extração de dados registrada s sob a forma de um protocolo (Brereton et al., 2007) , foi elaborada uma estratégia de pesquisa avançada, combinando, por meio de operadores lógicos bool eanos, a busca dos termos si nônimos da Agricultura de Precisão, em inglês, no título e resumo dos documentos de patentes (Quadro 1).
+Research, Society and Developmen t, v. 11, n. 3, e42611326852 , 202 2 (CC BY 4.0) | ISSN 2525 -3409 | DOI: -v11i3.26852 5 Quadro 1 – Protocolo de busca de patentes.
+Termos Precision Agriculture, Precision Farming, Satellite Farming, Satellite A griculture, Site Specific C rop Management Campos Título ou Resumo Período Até 2020 Query title:("precision agriculture") OR title:("precision farming") OR title:("satellite farming") OR title:("satellite agriculture") OR title:("site specific crop manag ement") OR abstract:("preci sion agriculture") OR abstract:("precision farming") OR abstract:("satellite farming") OR abstract:("satellite agriculture") OR abstract:("site specific crop management") Stemming Off Restrição 01 Devem ter título e resumo Restrição 02 Simple Families P atent Fonte: Elaborada pelo s autores.
+A recuperação dos dados foi realizada em outubro de 2021 e se limitou aos registros de patentes que possuem título e resumo, publicados até o ano de 2020.
+O ano de 2021 foi excluído, uma vez q ue na época desta pesqui sa os dados estariam incompletos para a análise.
+O processo de stemming foi desativado para evitar resultados fora do escopo da busca.
+Foram identificados 463 registros de depósitos de patentes, os quais seguiram ao terceiro estágio para exportação dos dados (estruturados e não estruturados) no formato .csv (valores separados por vírgulas) para uso em outras ferramentas.
+Para melhorar a precisão do estudo, no quarto estágio os registros foram agrupados por família de patentes, ou sej a, conjuntos de patentes depositadas em diferentes países que estão relacionados entre si por um ou vários depósitos de prioridade comum.
+Essa abordagem permite construir indicadores de patentes mais refinados, evitando a contagem dupla de invenções únicas (Martínez, 2011) .
+Assim, este estudo resultou em 326 famílias de patentes associadas à Agricultura de Precisão.
+No quinto estágio, foi realizada a indexação dos dados para limpeza e normalização.
+Limpar d ados de patentes é uma das tarefas mais desafiadoras e demoradas envolvidas na análise de patentes.
+O Manual da WIPO sobre Análise de Patentes de Código Aberto recomenda aos analistas a ferramenta gratuita Open Refine, uma vez que e sta é mais fácil e efici ente ao realizar tarefas de limpeza se comparada ao uso de planilhas eletrônicas.
+O Open Refine é um aplicativo instalado no computador, mas é executado em um navegador web sem a necessidade de conexão com a internet (WIPO, 2016) .
+Os dados indexados no Open Refine passaram por diversas transformaç ões, incluindo: remoção de espaços em branco em torno do texto e caracteres duplicados, regularização de caracteres, definição do país de depósito para pedidos feitos via Tratado de Cooperação de Patentes (PCT), renomeação de colunas, remoção de dados desn ecessários ao estudo e e xclusão de redundâncias.
+Após o processo de limpeza, foram identificadas 312 famílias de patentes que foram estudadas sob diferentes níveis de análise.
+Definido o conjunto de dados para análise, as informações sobre as Classificaçõe s Internacionais de Pate ntes (IPC) de cada registro foram fragmentadas em seção, classe, subclasse, grupo e subgrupo.
+Da mesma forma, foi feita a fragmentação dos dados dos requerentes e inventores para investigar as produções individuais e as colaborações .
+Também foi realizado u m processo de normalização desses nomes para encontrar grupos de valores diferentes que podem ser representações alternativas do mesmo nome.
+Para isso, o Open Refine dispõe de seis algoritmos de clusterização que podem ser configura dos em termos de critéri os de correspondência entre os nomes dos inventores ou requerentes (Ham, 2013; Sternitzke et al., 2008) .
+Por fim, o estágio de indexação, limpeza e normalização gerou diversas tabelas de dados estruturados e não estruturados sob diferentes aspectos qu e foram preparados para análise na seção seguinte.
+Research, Society and Developmen t, v. 11, n. 3, e42611326852 , 202 2 (CC BY 4.0) | ISSN 2525 -3409 | DOI: -v11i3.26852 6 4.
+Análise, Visualização e Discussão Os gráficos apresentados neste estudo foram desenvolvidos a partir da ferramenta Tableau Public, uma versão gratuita do Tableau Desktop que fornece uma introdução prá tica muito poderosa para análise e visualização de dados de patentes e também indicada como opção de ferramenta de análise visual pelo Manual da WIPO sobre Análise de Patentes de Código Aberto (Tableau, 2021; WIPO, 2016) .
+Foram analisadas neste estudo um total de 312 famílias de patent es relacionadas à Agricu ltura de Precisão (AP), as quais foram publicadas no período de 1995 a 2020 (26 anos).
+Este estudo considera para efeitos de análise a data de publicaçã o dos pedidos pelos escritórios de patentes.
+A análise da família de patente con sidera o depósito priori tário.
+Sendo assim, ao se referir à família da patente, poderá ser utilizado apenas o termo patente ou equivalente.
+Na Figura 2 é apresentado o gráfico de evolução das publicações ao longo do tempo, considerando a quantidade por ano e acumulada.
+Foram real izadas em média 12 publicações por ano, com uma taxa anual de crescimento em torno de 16,5%.
+No entanto, a produção tecnológica referente à Agricultura de Precisão foi bastante tímida na maioria do tempo.
+Foi a partir de 2013 que ho uve um aumento significa tivo no número de depósitos, não é à toa que os pedidos de patentes publicados na última década somam 86% do total.
+Figura 2 – Evolução das publicações de patentes relacionadas à Agricultura de Precisão.
+O primeiro registro fo i publicado em novembro de 1995 nos Estados Unidos pela TRW Inc., uma corporação americana fundada em 1901 e posteriormente incorporada.
+Foi pioneira em diversos campos tecnológicos e na patente mencionada desenvolveu um sistema de mapeamento e análise que inclui um dispositivo para gerar dados de imagem espectral relacionados a pelo menos uma das características de estresse da vegetação e do solo.
+A patente foi concedida na época, mas j á atingiu a data de validade e não está mais em vigor.
+A ferramenta Tab leau Public permitiu estimar as tendências futuras de publicações, tanto por ano como acumulado.
+O gráfico confirma a tendência de crescimento, podendo acumular nos próximos quatro anos um total de 400 a 500 pedidos de patentes publ icados.
+Research, Society and Developmen t, v. 11, n. 3, e42611326852 , 202 2 (CC BY 4.0) | ISSN 2525 -3409 | DOI: -v11i3.26852 7 Neste último est ágio de análise, visualização e discussão, foi articulada inicialmente uma análise descritiva dos dados do estudo (seção 4.1), levando em consideração as principais unidades de análise do monitoramento tecnológico: países (onde é publicado o pedido), inven tores e requerentes (atores que desenvolvem as tecnologias), setores tecnológicos (do que trata as invenções) e bases tecnológicas (patentes mais citadas).
+Em seguida, ferramentas e técnicas de mineração de texto foram utilizadas pa ra descobrir padrões e t endências a partir de informações não estruturadas das patentes (título e resumo).
+A análise de cluster ou agrupamentos permitiu identificar as patentes mais semelhantes entre si, assim como identificou os tópicos mais relevantes da s tecnologias desenvolvi das no campo da Agricultura de Precisão (seção 4.2).
+Por fim, realizou -se a análise de rede de patentes, enfatizando as estruturas conceituais e as relações que conectam as posições sociais de inventores e requerentes do campo tecno lógico da AP (seção 4.3) .
+4.1 Análise descritiva dos dados A análise descritiva teve o objetivo de resumir, sumarizar e investigar o comportamento dos registros bibliográficos das patentes identificadas no estudo e apresentá -los por meio de tabelas de fre quência, gráficos e medi das de resumo numérico.
+Na Tabela 1 é apresentado um resumo dos principais resultados da análise descritiva.
+Conforme mostrado na Tabela 1, as 312 patentes foram depositadas em 23 diferentes países por 303 requerentes distintos e um total de 968 inventores atuaram no desenvolvimento das tecnologias associadas à Agricultura de Precisão (AP).
+O número de aparições de requerentes (394) maior sugere depositantes com mais de uma patente neste campo.
+Da mesma forma, as aparições dos invent ores (1175) demonstram a participação de inventores em várias tecnologias ligadas à AP.
+Os dados demonstram que o Índice de Colaboração dos requerentes e dos inventores são 1,26 e 3,77, respectivamente.
+Ou seja, essa é uma média da quantidade de requerente s e inventores encontrad os por documento de patente.
+Tabela 1 – Principais informações sobre os dados do estudo.
+Tópico Período Anos 1995 -2020 26 Famílias de Patentes 312 Média de patentes por ano 12 Países de jurisdição 23 Média de citações por pat ente 7,15 Requerentes d istintos 303 Aparições de requerentes (Co -requerentes) 394 Patentes por requerente 1,03 Índice de Colaboração dos requerentes 1,26 Inventores distintos 968 Aparições de inventores (Co -inventores) 1175 Patentes por inventor 0,32 Índice de Colaboração dos inventores 3,77 Fonte: Dados da pesquisa.
+Uma das áreas importantes no monitoramento das tecnologias é o estudo da produção tecnológica dos países.
+Na Figura 3, são apresentados os 23 países identificados na pesquisa e suas r espectivas quantidades d e depósitos de patentes, dos quais se destacam a China com alta concentração de pedidos de patentes depositados (185), representando 59,3% do total de Research, Society and Developmen t, v. 11, n. 3, e42611326852 , 202 2 (CC BY 4.0) | ISSN 2525 -3409 | DOI: -v11i3.26852 8 patentes publicadas, os Estados Unidos com 71 patentes (22,8%) e Rússia com 12 pa tentes (3,8%).
+Os demais países possuem cinco ou menos pedidos depositados e juntos somam 14% do total.
+Figura 3 – Países nos quais os depósitos de patente referentes à AP foram realizados.
+Para se comparar os depósitos realiz ados nos principais país es ao longo do tempo, na Figura 4 é apresentada a produção tecnológica nos países que tiveram três ou mais depósitos realizados, resultando em nove regiões.
+Observa -se que a China, apesar de ser a maior detentora dos depósitos de pa tentes no campo da Agric ultura de Precisão, realizou a primeira publicação em 2002, retornando a publicar em 2006.
+Porém, foi a partir de 2009 que houve publicações constantes e crescentes que garantiram o destaque neste estudo.
+Por outro lado, os Estados Unidos apresentaram maio r uniformidade no número de publicações anuais, sendo este o primeiro país a registrar uma patente no setor.
+Já a Rússia, terceiro maior país depositante , realizou a primeira publicação em 2007, mas foi a partir de 2014 que se mante ve consistente.
+Ao anali sar a quantidade de requerentes das patentes, constatou -se a existência de 303 entidades distintas (Tabela 1).
+Vale ressaltar que o requerente é o titular ou proprietário da patente, que pode ser o próprio inventor, uma empresa, um centro de pesquisa ou um a universidade, aos quais é concedido o direito de impedir o uso e exploração de sua criação por terceiros, bem como sua comercialização.
+A média de patentes por requerente de 1,03 reforça que a maior parte dos titulares (84,5%) detêm apenas um depósito re lacionado à AP.
+Research, Society and Developmen t, v. 11, n. 3, e42611326852 , 202 2 (CC BY 4.0) | ISSN 2525 -3409 | DOI: -v11i3.26852 9 Figura 4 – Depósitos nos principais países ao longo do tempo.
+Os principais titulares das tecnologias identificadas neste estudo de monitoramento, considerando no mínimo cinco depósitos, são apresentados na Fi gura 5, os quais se destaca a Iteris Inc., uma empresa americana que fornece software, serviços e sensores para diversas atividades, entre elas análise de clima e agricultura.
+Além de empresas, também se destacam entre os maiores dep ositantes, universidade s chinesas e titulares -inventores, como é o caso de Harris Lee Cohen que possui 6 invenções no setor.
+Figura 5 – Principais requerentes e inventores das tecnologias da Agricultura de Precisão.
+Quanto aos criadores das tecnolog ias da Agricultura de Precisão, este estudo revelou a participação de 968 inventores (Tabela 1), entre os quais se destacam John J. Mewes com 14 invenções.
+Boa parte dessas invenções foram desenvolvidas com o segundo inventor mais pr odutivo, Dustin M. Sale ntiny (11 patentes), e são de titularidade das empresas Iteris Inc. e/ou ClearAg Inc., que estão entre os maiores detentores das tecnologias encontradas neste estudo (Figura 5).
+Uma das leis clássicas da bibliometria é a Lei de Lotka a qual afirma que a qu antidade Y de autores que fazem X publicações sobre um determinado tema é aproximadamente 1/X2 daqueles que publicam apenas uma vez ou, de forma geral, Y = C/Xα , onde C e α são definidos de acordo com os dados observados (Lotka, 1926) .
+Estudos demonstram que a Lei de Research, Society and Developmen t, v. 11, n. 3, e42611326852 , 202 2 (CC BY 4.0) | ISSN 2525 -3409 | DOI: -v11i3.26852 10 Lotka apresenta aplicabilidade favorável na literatura de patentes (Yang et al., 2014) .
+Dessa forma, foi realizada a distribuição de frequências da produtividade tecnológica dos inventores e assim verificou -se a aplicabilidade da lei.
+O percentual de inventores com mais de 10 patentes está em torno de 0,2%, enquanto mais de 86% participaram de apenas uma invenção, conforme apresentado na Figura 6.
+Figura 6 – Lei de Lotka aplicada à produtividade tecnológica dos inventores.
+Os produtos e processos desenvolvi dos no âmbito da Agricultura de Precisão (AP) podem abordar vários setores tecnológicos, uma vez que a adoção da AP envolve a criação de um sistema complexo de softwares e máquinas para monitorar e avaliar os dados coletados de todo processo de produção ag rícola.
+Uma forma de identificar esses setores é por meio da Classificação Internacional de Patentes (IPC) que codifica a aplicação e a função de determinada patente.
+A IPC é publicada pela Organização Mundial de Propriedade Intelectual e possui uma estrut ura hierárquica de cinco níveis.
+Seguindo essa classificação, entre as 312 famílias de patentes analisadas foram identificadas 7 seções, 29 classes, 75 subclasses, 184 grup os e 348 subgrupos.
+Com o propósito de apresentar uma visão geral das áreas tecnológ icas das patentes da Agricultura de Precisão, no Quadro 2 são apresentadas as principais classes e subclasses encontradas por seção, tendo como destaque as relacionadas com agricultura (41,4% das patentes), cálculo (33,7%), medição (28,5%) e comunicação (1 2,8%).
+Essas classes estão diretamente ligadas à filosofia da Agricultura de Precisão e constituem sua base tecnológica.
+Outras classificações com menor participaçã o representam produtos ou processos especializados, a exemplo das classes de aeronaves, pulv erização, engenharia hidráulica, sistemas de engrenagens, fertilizantes, atuadores por pressão de fluidos, perfuração do solo, entre outras.
+Research, Society and Developmen t, v. 11, n. 3, e42611326852 , 202 2 (CC BY 4.0) | ISSN 2525 -3409 | DOI: -v11i3.26852 11 Quadro 2 – Principais classes e subclasses das patentes relacionadas à Agricultura de Precisão.
+SEÇÃO G – FÍSICA (66.99%) G06 (33.65%) Cômputo; Cálculo ou contagem G06F Processamento elétrico de dados digitais.
+G01 (28.53%) Medição; Teste G01N Investigação ou análise dos materiais pela determinação de suas propriedades químicas ou físicas.
+SEÇÃO A – NECESSIDA DES HUMANAS (41.35%) A01 (41.35%) Agricultura; Silvicultura A01C Plantio; semeadura; fertilização.
+SEÇÃO H – ELETRICIDADE (15.06%) H04 (12.82%) Técnica de comunicação elétrica H04W Redes de comunicação sem fio.
+H02 (1,60%) Produção, conversão ou di stribuição de energia elétrica H02S Geração de energia elétrica pela conversão da radiação infravermelha, luz visível ou luz ultravioleta.
+SEÇÃO B – OPERAÇÕES DE PROCESSAMENTO; TRANSPORTE (8.97%) B64 (4.81%) Aeronaves; Aviação; Cosmonáutica B64D Equi pamento apropriado em ou para aeronaves.
+B05 (1,60%) Pulverização ou atomização em geral; aplicação de materiais fluentes a superfícies, em geral B05B Aparelhos de pulverização; aparelhos de atomização; bocais.
+SEÇÃO E – CONSTRUÇÕES FIXAS (2.24%) E02 (1.28%) Engenharia hidráulica; Fundações; Terraplenagem E02B Engenharia hidráulica.
+E21 (0.32%) Perfuração do solo; mineração E21B Perfuração do solo ou rocha; obtenção de óleo, gás, água, materiais solúveis ou fundíveis; etc.
+SEÇÃO C – QUÍMICA; META LURGIA (1.92%) C05 (0.96%) Fertilizantes; sua fabricação C05C Fertilizantes nitrogenados.
+C12 (0.64%) Bioquímica; cerveja; álcool; vinho; vinagre; microbiologia; enzimologia; engenharia genética ou de mutação C12N Propagação, conservação, ou manutenç ão de microrganismos; engenharia genética ou de mutações.
+SEÇÃO F – ENGENHARIA MECÂNICA; ILUMINAÇÃO; AQUECIMENTO (1.60%) F16 (1.28%) Elementos ou unidades de engenharia; Medidas gerais para assegurar O funcionamento efetivo de máquinas F16H Sistemas de engrenagens.
+F15 (0.32%) Atuadores por pressão de fluidos; Hidráulica ou Pneumática em geral F15B Sistemas que funcionam por meio de fluidos em geral; atuadores por pressão de fluidos.
+Para uma análise mais específica, foram investigados os principais subgrupos da classificação de patentes associadas à Agricultura de Precisão (AP) ao longo do tempo (Figura 7).
+Umas das áreas tecnológicas mais populares identificadas (A01B 79/00 – Métodos para preparar o solo com uso de máquin as) esteve presente no primeiro pedido de patente publicado em 1995 e nem todos os principais subgrupos IPC foram abordados de forma consistente desde o início.
+Isso demonstra que as patentes se concentraram inicialmente em poucos setores tecnológicos, mas na última década a AP adotou novas tecnologias e expandiu seus campos de atuação.
+Research, Society and Developmen t, v. 11, n. 3, e42611326852 , 202 2 (CC BY 4.0) | ISSN 2525 -3409 | DOI: -v11i3.26852 12 Figura 7 – Evolução dos principais subgrupos das patentes associadas à Agricultura de Precisão.
+Ao analisar os subgrupos da Classificação Int ernacional de Patentes (IPC) em paralelo com os depositantes das patentes associadas à Agricultura de Precisão, é possível traçar o perfil de atuação tecnológica dos principais provedores da tecnologia.
+Na Figura 8 são apresentados os principais requerente s, considerando no mínimo três ocorrências do subgrupo IPC.
+Figura 8 – Campos tecnológicos das patentes associadas a AP para os principais depositantes.
+Nota -se que o maior depositante do setor de AP, a empresa americana Iter is Inc. (apresentada na Figura 5) focou seus produtos nas áreas de Machine Learning (G06F 15/18) e Sistemas de Gerenciamento (G06Q 10/06).
+O segundo maior depositante Harris Lee Cohen, que também é o próprio inventor, focou seus esforços nos Métodos ou dis positivos de inferência (G06N 5/04) e em Métodos para leitura e identificação de padrões (G06K 9/00).
+Com relação às universidades, a Nanjing University of Science and Technology (NJUST) concentra suas tecnologias para a Agricultura de Precisão nos Métodos eletrônicos de reconhecimento de padrões (G06K 9/62).
+A análise descritiva também envolve a identificação das patentes mais citadas de determinado campo de estudo, uma vez que as patentes altamente citadas revelam produtos e serviços importantes, estabele cendo uma base tecnológica das patentes (Chang et al., 2010) .
+Em média, uma patente associada à Agricultura de Precisão é citada por 7,15 patentes (Tabela 1), sendo que a maioria possui uma ou nenhuma citação.
+Na Tabela 2, são apresentadas as dez patentes mais citadas por outros depósitos, as quais possuem mais de 40 citações.
+Research, Society and Developmen t, v. 11, n. 3, e42611326852 , 202 2 (CC BY 4.0) | ISSN 2525 -3409 | DOI: -v11i3.26852 13 Tabela 2 – Patentes de Agricultur a de Precisão mais citadas por outras tecnologias.
+Número Título Citações US 5467271 A Mapping And Analysis System For Precision Farming Applications 375 US 20030187560 A1 Methods And Apparatus For Precision Agriculture Operations Utilizing Real Time Kin emati c Global Positioning System Systems 170 US 6016713 A Soil Sampling "on The Fly" 135 US 6327569 B1 System And Methods For Real Time Linkage Between Harvest Environment And Marketplace 89 US 6501422 B1 Precise Parallel Swathing Guidance Via Satellite Navi gation And Tilt Measurement 86 US 20020038307 A1 Systems And Methods For Knowledge Discovery In Spatial Data 81 US 6510367 B1 Delay Coordinating System For A System Of Operatively Coupled Agricultural Machines 81 US 20160378086 A1 Control System Us ed Fo r Precision Agriculture And Method Of Use 69 US 20140263822 A1 Vertical Take Off And Landing Autonomous/semiautonomous/remote Controlled Aerial Agricultural Sensor Platform 51 US 20030130767 A1 Method Of And Apparatus For Acquiring Aerial Imagery Fo r Pre cision Farming 49 Fonte: Dados da pesquisa.
+Observa -se que as três patentes mais citadas possuem grande relevância para o campo da Agricultura de Precisão, visto que foram citadas mais de 100 vezes, com destaque para a publicação " Mapping And Analys is Sy stem For Precision Farming Applications ", com 375 citações na data em que a pesquisa foi realizada, que por sua vez foi também o primeiro registro patente publicado na área.
+Essa patente foi concedida nos Estados Unidos em 1995 e atualmente possui status expirado.
+A segunda patente mais citada foi publicada em 2003 e apresenta a reivindicação de um veículo com aparelho de posicionamento preciso em tempo real para Agricultura de Precisão.
+Além de ser bastante citada, esta patente cita outras 39 patentes anteriores em seu estado da técnica.
+Já a terceira patente, publicada em 2000, consiste em um sistema de coleta de amostras georreferenciadas do solo.
+Além de ser citada por 135 patentes, a mesma cita patentes anteriores e trabalhos acadêmicos em sua publ icaçã o.
+4.2 Mineração de texto e clusterização Os documentos de patentes dispõem de vários tipos de conteúdos, como dados estruturados e não estruturados.
+Os dados não estruturados dos depósitos de patentes compreendem os textos narrativos do título, resu mo, r eivindicações e descrição.
+A natureza textual desses dados torna a extração de informações mais difícil em comparação aos dados estruturados.
+Para isso, é necessário o uso de ferramentas de mineração de texto ( text mining ) que possuem recursos de segm entaç ão de dados textuais em estruturas significativas.
+O aproveitamento adequado dos textos dos documentos de patentes pode complementar as interpretações derivadas da análise descritiva.
+A saída visual dos dados não estruturados de patentes geralmente é repre sentada na forma de mapas e clusters de patentes.
+Neste estudo, ferramentas e técnicas de mineração de texto que utilizam abordagens baseadas em Processamento de Linguagem Natural (PLN) foram utilizadas para descobrir padrões e tendências a partir de infor mações não estruturadas das patentes.
+Research, Society and Developmen t, v. 11, n. 3, e42611326852 , 202 2 (CC BY 4.0) | ISSN 2525 -3409 | DOI: -v11i3.26852 14 Inicialmente, a ferramenta Orange foi utilizada para geração de nuvens de palavras do título e do resumo das patentes.
+Orange é um pacote de aprendizado de máquina e mineração de dados para análise por meio de scr ipts Python e programação visual (Demsar et al., 2013 ).
+Durante o pré -processamento dos textos, foram elencadas as palavras a serem removidas da análise por serem sinônimas às palavras -chaves da pesquisa, além das stopwords previamente definidas na ferramenta para a língua inglesa.
+Na Figura 9, são apresent adas as 50 palavras mais frequentes nos títulos e nos resumos das patentes, respectivamente.
+No título, há predominância dos termos: dispositivo, monitoramento, colheita, solo, campo, controle e dados.
+Em menor número, encontram -se: hiperespectral, crescim ento, clima, irrigação, etc.
+Nos resumos foram encontrados termos semelhantes e outros menos comuns como sensores, fertilizantes, veículos, wireless , entre outros.
+Figura 9 – Nuvem de palavras encontradas no Título (à esquerda) e Resumo (à direita) das pa tente s. Fonte: Dados da pesquisa.
+Com o objetivo de gerar agrupamentos de patentes com temas afins a partir dos dados não estruturados dos títulos e resumos das patentes na área de Agricultura de Precisão, este estudo utilizou a ferramenta Carrot2 Clust ering Workbench.
+O projeto Carrot2 é um mecanismo de clusterização Open Source capaz de descobrir automaticamente grupos de documentos relacionados e rotulá -los com palavras -chave ou frases curtas, por meio de algoritmos de clustering (Carrot2, 2021) .
+Foram criados dois agrupamentos a partir dos algoritmos Lingo e K -means, respectivamente (Fi gura 10).
+O algoritmo Lingo extrai frases frequentes de documentos de entrada para determinar o seu conteúdo, enfatizando a qualidade da descrição do cluster.
+O algoritmo K -means é baseado em distância, onde calcula -se as distâncias para atribuir um ponto a um cluster.
+Produz descrições no estilo bag-of-words (Osiński et al., 2004) .
+O agrupamento utilizando Lingo encontrou 51 cluste rs, entre eles, "fertilização precisa", "válvula de controle", "veículo aéreo não trip ulado", "sensoriamento remoto", "processamento de imagem", "rede de sensores sem fio", "calibração automática", entre outros.
+Por outro lado, o algoritmo K -means enc ontro u 25 agrupamentos, entre eles: "colheita, condições, clima"; "solo, sem fio, rede"; "i magem, hiperespectral, obtida"; "aéreo, não tripulado, arroz"; "pulverização, válvula, pesticida", entre outros.
+O Carrot2 utiliza a ferramenta de visualização Foam Tree Visualization (Figura 10).
+Os agrupamentos corroboram com os dados sobre as principais classes e subclasses das patentes relacionadas à Agricultura de Precisão, apresentadas no Quadro 2.
+Research, Society and Developmen t, v. 11, n. 3, e42611326852 , 202 2 (CC BY 4.0) | ISSN 2525 -3409 | DOI: -v11i3.26852 15 Figura 10 – Agrupamentos de patentes: Lingo (à esquerda) e K -means (à direita).
+4.3 Análise das redes de patentes A análise d e redes sociais explora, a princípio, a relação entre seres humanos, mas também é bastante aplicada à modelagem de relacionamentos técnicos e a dados bibliométrico s, co mo os dados de documentos de patentes.
+As diversas ferramentas de softwares facilitam a visualização, análise e interpretação de dados de cooperação entre setores tecnológicos (IPC), requerentes (titulares das tecnologias), inventores e outros aspecto s. A análise de redes de patentes enfatiza as relações existentes em determinado domínio tecn ológico, descrevendo as estruturas sociais e seus componentes (Sternitzke et al., 2008) .
+Neste estudo, foram adotados dois softwares Open Source para criação das redes de patentes.
+O Pajek, programa para análise e visualização de grandes redes que possuam milhares ou até milhões de nós (Batagelj & Mrvar, 1998) e o Gephi, software para visualização e manipulação de rede e outros tipos de sistemas complexos (Bastian et al., 2009) .
+O Pajek foi utilizado para criação dos dados de rede no formato .NET que posteriormente foram importados pelo Gephi para visualização dinâmica da rede, permitindo identificar padrões e tendências de forma mais intuit iva q ue o software anterior.
+Na Figura 11, é apresentada a rede de coocorrência das classific ações (IPC) nas patentes analisadas sobre a Agricultura de Precisão.
+Cada nó da rede representa um campo tecnológico, ou seja, um subgrupo da IPC, e as arestas correspo ndem as coocorrências com outros campos tecnológicos na mesma patente.
+O tamanho do nó de fine o grau de ocorrência, isto é, quanto maior o tamanho, mais vezes o campo da tecnologia está associado a outros.
+Assim também, a espessura da aresta define o grau de relacionamento entre dois subgrupos.
+Para melhorar a visibilidade da rede, foram consi derados apenas os campos tecnológicos com mais de dez relacionamentos.
+Research, Society and Developmen t, v. 11, n. 3, e42611326852 , 202 2 (CC BY 4.0) | ISSN 2525 -3409 | DOI: -v11i3.26852 16 Figura 11 – Rede de cooperação entre campos tecnológicos (IPC).
+Fonte: Dados da pesquis a. Observa-se que as tecnologias que tiveram maior relação com outros setores foram: sistemas voltados especificamente para o setor da agricultura (G06Q 50/02), métodos para preparação do solo com máquinas especiais (A01B 79/00), métodos de fertilização ( A01C 21/00), métodos para leitura e identificação de padrões (G06K 9/00) e métodos ou dispositi vos de inferência (G06N 5/04).
+Os pares das tecnologias mais encontradas em uma mesma patente foram os procedimentos de controle de transmissão de dados (H04L 29 /08) e os sistemas voltados para a agricultura (G06Q50/02).
+A análise de rede também permitiu i dentificar três grandes clusters de colaboração entre campos tecnológicos: técnica de comunicação elétrica (cluster 1), agricultura ( cluster 2) e processamento d e dad os (cluster 3).
+Este estudo também realizou a análise das relações colaborativas entre os depositantes identificados na pesquisa.
+A cooperação entre os requerentes é medida a partir da cotitularidade dos pedidos de patentes associadas à Agricultura de Precisão (Figura 12).
+A análise de rede permite a identificação direta da conexão desses atore s em seu ambiente tecnológico, ou seja, podem ser reconhecidos como hubs em uma rede de cooperação ou como pontes entre diferentes sub -redes (Sterni tzke et al., 2008) .
+Para melhorar a visibilidade da rede, foram considerados apenas os requerentes com pelo menos um pedido de patente com cotitularidade.
+Nota -se qu e foram identificados apenas dois requerentes como pontes entre sub -redes: o Instituto Mal aio de Sistemas Microeletrônicos (Mimos Berhad) com duas patentes no campo de dispositivos elétricos publicadas em 2010 e 2011 (uma em cada sub -rede), nas quais os de mais cotitulares são os próprios inventores; e o requerente e inventor russo Voronkov Niko laevich, com duas patentes divididas em duas sub -redes.
+As patentes abordam sistemas de informações para engenharia agrícola de precisão.
+Vale destacar que os pr incip ais requerentes, apresentados na Figura 5, não realizaram depósitos em cooperação e aquele s que o fazem pertencem a grupos isolados, conforme apresentado na Figura 12.
+Research, Society and Developmen t, v. 11, n. 3, e42611326852 , 202 2 (CC BY 4.0) | ISSN 2525 -3409 | DOI: -v11i3.26852 17 Figura 12 – Rede de cooperação de requerentes das patentes da Agricultura de Pr ecisã o. Fonte: Dados da pesquisa.
+O comportamento de cooperação dos inventores de patentes asso ciadas à Agricultura de Precisão também foi investigado.
+Para medir a cooperação entre inventores considera -se a co -invenção de famílias de patentes.
+Para mel horar a visibilidade da rede, foram considerados apenas os inventores com pelo menos sete invençõe s em comum (Figura 13) .
+O tamanho do nó define o nível de centralidade de intermediação do inventor dentro da rede, ou seja, inventores que atuam como interfa ces o u links entre diferentes grupos de inventores ou departamentos.
+Isso implica dizer os indivíd uos que estão posicionados como corretores de informações entre grupos com diferentes origens de informações se beneficiam de fluxos de dados, o que influenci a pos itivame nte sua produção quantitativa e qualitativa (Sternitzke et al., 2008) .
+Os inventores com maior centralidade de intermediação nas invenç ões d a Agric ultura de Precisão foram: Zhu Dehai, Wang Maohua, Feng Wei, Zhu Yan e Ni Jun.
+Esses do is últimos estão entre os quatro maiores inventores do setor.
+Eles também apresentam o maior nível de cooperação entre si, totalizando sete patentes.
+Por outr o lad o, os i nventores com maior número de invenções não possuem patentes com muitos co -inventores, uma vez que procuram se manter em grupos menores.
+Research, Society and Developmen t, v. 11, n. 3, e42611326852 , 202 2 (CC BY 4.0) | ISSN 2525 -3409 | DOI: -v11i3.26852 18 No geral, as sub -redes analisadas se dedicaram à invenção de apenas uma patente.
+Algumas sub -redes possuem mais de 10 c oinventores, sendo a maior delas com 14 membros.
+Figura 13 – Rede de cooperação entr e os inventores das patentes da Agricultura de Precisão.
+Conclusões e Considerações Finais O Este estudo adotou diversas técni cas d e análi se bibliométrica, de mineração de texto e de redes sociais para identificar o estágio atual do desenvolvimento tecnológico no campo da Agricultura de Precisão (AP), mapeando os principais depositantes e inventores, suas tecnologias e estruturas sociais e o s países nos quais elas estão sendo desenvolvidas e protegidas, a partir da análise de informações das patentes.
+Também forneceu um fluxo metodológico apoiado por ferramentas de software de código aberto e gratuito para coleta, tratamento e vis ualiz ação de dados a serem utilizados em diferentes tipos de análise.
+O monitoramento das tecnolog ias associadas à Agricultura de Precisão permitiu a elaboração de indicadores quantitativos e qualitativos de patentometria em resposta às questões da pesquis a apr esentad as na introdução deste estudo.
+Research, Society and Developmen t, v. 11, n. 3, e42611326852 , 202 2 (CC BY 4.0) | ISSN 2525 -3409 | DOI: -v11i3.26852 19 (Questão 1) A publicação dos depósitos das tecnologias que abordam a AP iniciou em 1995, com uma taxa anual de crescimento de 16,5% até 2020.
+No entanto, seu crescimento regular se deu a partir de 2013, tendo acum ulado 312 fa mílias de patentes, das quais cerca de 90% foram publicadas na última década.
+Observa -se uma tendência de crescimento para os próximos anos, podendo chegar ao montante de 500 depósitos em 2024.
+(Questão 2) Os 312 produtos tecnológicos analisado s foram depo sitados por 303 titulares distintos, desenvolvidos por 968 inventores e protegidos em 23 países.
+Cada tecnologia possui em média 1,3 titulares e 3,8 inventores, porém cerca de 85% dos titulares possuem apenas um depósito.
+Entre os principais de posit antes e ncontram -se empresas, universidades e pessoas físicas, sendo o maior deles a empresa a mericana Iteris Inc. Alguns dos principais titulares compartilham dos principais inventores, como John J. Mewes e Dustin M. Salentiny, os quais fazem parte do grupo de 0, 2% dos inventores que desenvolveram mais de 10 patentes, enquanto 86% participaram de apenas uma invenção.
+Quanto à jurisdição dos depósitos, o primeiro foi realizado nos Estados Unidos, que atualmente ocupa a segunda posição no ranking das pat entes deposi tadas, perdendo apenas para a China e à frente da Rússia.
+Juntos esses países somam 86 % dos depósitos realizados e publicados.
+(Questão 3) Os 312 depósitos relativos à Agricultura de Precisão se dividem em 7 seções, 29 classes e 75 subclasses da Cla ssifica ção Internacional de Patentes (IPC).
+Os setores tecnológicos estão relacionados princi palmente ao plantio, processamento de dados e análise de propriedades do solo, mas também foram identificadas tecnologias associadas a redes wireless, equipam entos para a eronaves, sistemas de engrenagens e aparelhos de pulverização.
+De forma complementar, a mineração de dados não estruturados e o uso de algoritmos de clusterização permitiram extrair padrões e tendências temáticas das patentes, os quais observa -se o uso de sensoriamento remoto hiperespectral, processamento de imagens, fertilização precisa, v eículo aéreo não tripulado, entre outros.
+(Questão 4) As patentes mais relevantes da Agricultura de Precisão constituem a sua base tecnológica e podem ser identificadas c omo as patentes altamente citadas por outros depósitos.
+Até a data deste estudo, os tr ês principais documentos de patentes foram citados mais de 130 vezes, sendo o primeiro depósito publicado, o mais citado (375 citações).
+Os setores tecnológic os da s paten tes altamente citadas abordam sistemas para processamento de imagens espectrais da veg etação, sistemas para posicionamento espacial preciso e sistemas de coleta de amostras georreferenciadas do solo.
+(Questão 5) A estrutura conceitual da Agricu ltura de Pre cisão foi demonstrada por meio da rede de coocorrência das classificações de patentes, sobretudo dos subgrupos IPC.
+A análise da rede apontou três grandes clusters de cooperação entre os campos tecnológicos, formando uma tríade: Agricultura, Pr ocess amento de dados e Comunicação.
+Destacam -se como tecnologias que mais se relacionam na Agricul tura de Precisão: sistemas agrícolas, preparação do solo, fertilização, identificação de padrões e métodos de inferência.
+Em relação às estruturas sociais, ve rificou-se que praticamente não há intermediação de titulares entre os grupos de desenvolvimento d as tecnologias e os principais requerentes das patentes não realizam depósitos em cooperação com os demais.
+Por outro lado, os principais inventores participa m de forma m ais cooperativa, inclusive sendo pontes entre diferentes grupos de inventores.
+Por fim , conclui -se que o monitoramento tecnológico da Agricultura de Precisão a partir da análise de patentes permite a compreensão do estado de desenvolvimento da tecno logia e m questão, considerando diferentes aspectos das atividades de patenteamento.
+As conexõ es identificadas entre os provedores das tecnologias podem ser usadas para análise de concorrentes ou para identificar parceiros para projetos de desenvolvime nto c onjunto s. Portanto, o resultado deste trabalho pode ajudar tanto pesquisadores quanto profiss ionais e empresas do setor.
+Este estudo não está isento de limitações.
+Ainda que a maioria dos dados disponibilizados na base de dados sejam confiáveis, algun s reg istros possuem campos vazios, incompletos ou inconsistentes que impossibilitam a análise de d ados das reivindicações e das descrições das patentes.
+As ferramentas de softwares livres e gratuitas utilizadas agilizam o processo d e coleta, tratamento e a nális e dos d ados patentários, porém demandam certa curva de aprendizado para melhor aproveitamento Research, Society and Developmen t, v. 11, n. 3, e42611326852 , 202 2 (CC BY 4.0) | ISSN 2525 -3409 | DOI: -v11i3.26852 20 dos recursos e profundidade da análise, como por exemplo o desenvolvimento de redes de cooperação entre titulares e inventores das patentes, ou ainda, a cria ção d e redes de cocitação.
+Em contrapartida, as limitações listadas aqui oferecem oportunidades pa ra novos estudos, visando expandir os resultados desta pesquisa ao agregar novas bases de dados e combinar o uso de ferramentas complementares para contornar as limitaçõe s das ferramentas, otimizando ainda mais o processo de monitoramento das tecnologias d a Agricultura de Precisão e de outras áreas .
+Referências Abbas, A., Zhang, L., & Khan, S. U.
+A literat ure r eview on the state -of-the-art in patent analysis.
+World Patent Information , 37, 3–13.
+https: //doi.org/10.1016/j.wpi.2013.12.006 Adamchuk, V., Hummel, J., Morgan, M., & Upadhyaya, S. (2004).
+On -the-go soil sensors for precision agriculture.
+Compute rs and Electronics in Agriculture , 44(1), 71 –91.
+2 Bastian, M., Heymann, S., & Jacomy, M. (2009).
+Gephi: an open source software for exploring and manipulating networks.
+Proceedings of the International AAAI Conf erence on Web and Social Media , 3(1), 361 –362.
+view/13937 Batagelj, V., & Mrvar, A.
+Pajek -program for large network analysis.
+-lj.si/pub /Networks/doc/pa jek.p df Brereton, P., Kitchenham, B.
+A., Budgen, D., Turner, M., & Khalil, M. (2007).
+Lessons fr om applying the systematic literature review process within the software engineering domain.
+Journal of Systems and Software , 80(4), 571 –583.
+0.101 6/j.js s.2006.07.009 Carrot2.
+Chang , P.-L., Wu, C. -C., & Leu, H. -J.
+Using patent analyses to monitor the technological trends in an emerging field of technology: a case of carbon nanotub e field emi ssion display.
+-009-0033 -y Cisternas, I., Velásquez, I., Caro, A., & Rodríguez, A.
+Systematic literature review of implementations of precision agriculture.
+Computers and Electr onics in Ag riculture , 176(July), 105626.
+Demsar, J. , Curk, T., Erjavec, A., Gorup, C., Hocevar, T., Milutinovic, M., Mozina, M., Polajnar, M., Toplak, M., Staric, A., Stajdohar , M., Umek, L., Zagar, L., Zbontar , J., Zitni k, M., & Zupan, B.
+Orange: Data Mining Toolbox in Python.
+Journal of Machine L earning Research , 14(Aug), 2349−2353.
+Free, open -source tool f or cleaning and transforming data.
+Journal of the Medical Library Association : JMLA , 101(3), 233 –234.
+-5050.101.3.020 Kent Shannon, D., Clay, D. E., & Sudduth, K. A.
+An Introduction to Precision Agriculture (p. 1 –12).
+The freq dis trib of scientific productivity.
+Journal of the Washington Academy of Sciences , 16(12), 317 –323.
+Patent families: When do different defin itions real ly matter?
+Scientometrics , 86(1), 39 –63.
+-010-0251 -3 Masiakowski, P., & Wang, S. (2013).
+Integration of software tools in patent analysis.
+World Patent Information , 35(2), 97 –104.12.010 Osiński, S., Stefanowski, J., & Weiss, D. (2004).
+Lingo: Search Results Clustering Algorithm Based on Singular Value Decomposit ion.
+In Intelligent Information Processing and Web Mining (Vol.
+h ttps://do i.org/10.1007/978 -3-540-39985 -8_37 Pereira, J. M. (2016).
+Manual de Metodologia da Pesquisa Científica (4o ed).
+Precision Agriculture in the 21st Century.
+Precision Agriculture in the 21st Century .
+https: //doi.org /10.17226/5491 Silva, W. de V. R. da, Adelino, M. A., Silva, M. V. da, Silva, F. C. da, & Silva -Mann, R. (2020).
+Análise da produção científica e tecnológica acerca da Ciência Forense Digital.
+Resear ch, Society and Development , 9(11), e4539111022 4. https: //doi.org/10.33448/rsd -v9i11.10224 Silva, W. de V. R. da, & Silva -Mann, R. (2020).
+Agricultura de Precisão no Brasil: conjuntura atual, desafios e perspectivas.
+Research, Society and Development , 9(11), e1979119603.
+-v9i11.9603 Silva, W. de V. R. da, & Silva -Mann, R. (2021).
+Precision Agriculture under a bibliometric view.
+International Journal for Innovation Education and Research , 9(11), 422 –442.
+/ijier.vol9.iss11.3533 Sternitzke, C., Bartkow ski, A., & Schramm, R. (2008).
+Visualizing patent statistics by means of social network analysis tools.
+World Patent Information , 30(2), 115 –131.
+SAGE Publications, Ltd. i.org/10.
+Research, Society and Developmen t, v. 11, n. 3, e42611326852 , 202 2 (CC BY 4.0) | ISSN 2525 -3409 | DOI: -v11i3.26852 21 WIPO.
+The WIPO Manual on Open Source Patent Analytics .
+-analytics.github.io/ Yang, Z. K., Lin, D. M. , & Xu, M. Z.
+The Re -applicability Expl ore of Lo tka's Law in Patent Documents.
+Collnet Journal of Scientometrics and Information Management , 8(1), 183 –191.

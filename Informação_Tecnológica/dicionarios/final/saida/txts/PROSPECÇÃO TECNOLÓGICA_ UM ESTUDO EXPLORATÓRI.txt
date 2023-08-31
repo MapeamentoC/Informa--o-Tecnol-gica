@@ -1,0 +1,130 @@
+Prospec., Salvador, v. 11, Edição Especial , p.453-462, abr./jun.
+: nesp .23310 *Autor para correspondência: leandrobarreto.cti@gmail.com 453 PROSPECÇÃO TECNOLÓGICA: UM ESTUDO EXPLORATÓRIO DO DEPÓSITO DE PATENTES SOBRE DRONES PARA CAPTAÇÃO E TRANSMISSÃO DE IMAGENS AÉREAS Leandro de Oliveira Barreto1*, Rafael Câmara Menha2 1,2 Universidade Federal da Bahia, BA, Brasil.
+:28/11/2017 RESUMO O uso de veículos aéreos não tripulados, ou drones , tem se tornado uma grande aposta de empresas de diversos setores.
+Tais tecnologias comportam um vasto uso como na indúst ria bélica, transporte de cargas, vigilância, mapeamento de terrenos, agricultura dentre diversas outras.
+Neste sentido o presente trabalho tem como objetivo realizar uma pesquisa quantitativa de patentes relacionadas à utilização de drones com recurso de apoio tecnológico embarcado capaz de gerar e transmitir vídeos, em especial na indústria militar, de mapeamentos georreferenciados, televisiva e agrícola.
+Para realização do trabalho foi utilizado o sistema Questel -Orbit que abrange base de patentes de mais de 96 países.
+Os dados levantados foram submetidos a análise s estáticas descritiva s e foram interpretados através da elaboração de tabelas levantadas do Questel -Orbit.
+Desta forma, após a análise das patentes encontradas, percebeu -se a relevância das tecnologias que envolvem drones como de vanguarda tecnológica e com aplicações e potencialidades em diversas áreas de atuação.
+Palavras -chave: Drone ,Transmissão de Imagens, Inovação Tecnológica.
+TECHNOLOGICAL PROSPECTION: AN EXPLORATORY STUDY ON THE DEPOSIT OF PATENTS ON DRONES FOR AIR IMAGING AND TRANSMISSION ABSTRACT The use of unmanned aerial vehicles, or drones, has become a great bet of companies of diverse sectors.
+Such technologies carry a wide use as in the war industry, cargo transportation, surveillance, mapping of lands, agriculture among several others.
+In th is sense, the present work aims to carry out a quantitative research of patents related to the use of drones with embedded technological support capable of generating and transmitting videos, especially in the military industry, of georeferenced, televisio n and agricultural mapping.
+In order to carry out the work, the Questel -Orbit system was used, covering the patent base of more than 96 countries.
+The collected data were submitted to descriptive static analysis and were interpreted through the elaboration of Questel -Orbit tables.
+In this way, after the analysis of the patents found, the relevance of the technologies that involve drones as of technological vanguard and with applications and potentialities in several areas of performance was realized.
+Keywords: Drone, Image Transmission, Technological Innovation.
+Área Tecnológica: engenharia aeronáutica, engenharia elétrica, engenharia mecânica.
+Prospec., Salvador, v. 11, Edição Especial , p.453-462, abr./jun.
+: nesp .23310 BARRETO, L.de O.; MENHA, R.C.
+P rospecção tecnológica: um estudo exploratório do depósito de patentes sobre drones para captação e transmissão de imagens aéreas .
+454 INTRODUÇÃO Veículos Aéreos Não Tripulados (VANTs), também conhecidos como Drones , Unmaned Aircraft Systems (UAS), UnmanedAerialVehicles (UAVs) ou RemotlyPilotedAircraft (RPA) , sendo estes pilotados remotamente com ou sem contato visual, tem se demonstrado como uma área de atuação tecnológica com notório crescimento nos últimos anos .
+Tais conceitos foram bem de finidos no artigo Remotly Piloted Aircraft (RPA) por Watts, Ambrosia e Hinkley (2012) .
+Tecnicamente é um veículo capaz de voar sem a necessidade da presença de um piloto embarcado, podendo ser operado por controle remoto ou autônomo.
+606, do Ministério da Defesa, publicada em 11 de junho de 2004, em seu artigo 4º, descreve o conceito de VANTS como: Art.
+4° Para os efeitos desta Portaria Normativa são utilizados os seguintes conceitos: IVeículo Aéreo Não Tripulado: é uma plataform a aérea de baixo custo operacional que pode ser operada por controle remoto ou executar perfis de voo de forma autônoma podendo ser utilizada para: a) transportar cargas úteis convencionais, como sensores diversos e equipamentos de comunicação; b) servir c omo alvo aéreo; e c) levar designador de alvo e cargas letais, sendo nesse caso empregado com fins bélicos.
+Atualmente os DRONES são aplicados em diversas finalidades, a exemplo da agricultura, segurança, lazer, mapeamentos de áreas urbanas e rurais, dent re outras aplicações.
+Uma boa abordagem sobre o tema pode ser verificada no E studo Sobre a Indústria Brasileira e Europeia de Veículos Aéreos Não Tripulados (DIÁLOGO SETORIAL, 2016).
+Os avanços tecnológicos promovidos nos últimos anos reduziu drasticamente o custo dos drones e ampliou tal plataforma de utilização.
+Ponto importante a ser debatido é a regularização do setor desde a produção à operação.
+Em geral , a maioria dos países est á atualizando suas legislações para reformular para essa novidade tecnológica.
+Mais sobre o assunto pode ser visto em Análise cronológica do mercado dos drones no Brasil e as tendências futuras (DELAMURA, 2015).
+Neste sentido o presente trabalho tem como objetivo realizar uma pesquisa quantitativa de patentes relacionadas à utilização de drones com recurso de apoio tecnológico embarcado capaz de gerar e transmitir vídeos, em especial na indústria militar, de mapeamentos, televisiva e agrícola.
+METODOLOGIA Esta pesquisa tem caráter exploratório através da prosp ecção tecnológica em bases de dados de patente nacionais e internacionais ligadas à aplicação de drones e diferentes áreas de conhecimento.
+Foi realizada uma busca de aplicações práticas destes veículos a fim de elucidar sua crescente utilização nas mais v ariadas áreas.
+Para o estudo em questão foi escolhida a utilização do software do Orbit, pois este possui uma base de dados com mais de 50 milhões de documentos, um número superior à grande maioria das bases de dados sobre patentes disponíveis.
+Para a met odologia de estudo em questão, o primeiro passo foi buscar patentes que utilizam a palavra 'drone' no seu título ou resumo.
+Desta busca no Orbit os dois códigos com mais resultados e que expressavam o objeto principal de estudo foram os B64C -039 e G0D5 -001, que representam os tópicos: Cad.
+Prospec., Salvador, v. 11, Edição Especial , p.453-462, abr./jun.
+: nesp .23310 BARRETO, L.de O.; MENHA, R.C.
+P rospecção tecnológica: um estudo exploratório do depósito de patentes sobre drones para captação e transmissão de imagens aéreas .
+455 B64C -039, Outras aeronaves ; G05D-001, Controle de posição, curso, altitude ou posição de veículos terrestres, aquáticos, aéreos ou espaciais, p. ex.
+pilotos automáticos (sistemas de radionavegação ou sistemas análogos usando outras ondas G01S) Assim, entende -se que um somatório com o operador 'OR' define um interessante universo de estudo quando se trata de drones .
+Como o objetivo do estudo é conhecer as tecnologias de drones que trabalham com captação e transmissão de imagens aéreas em foto ou vídeo, buscou -se também um código que tem resultados ligados a uso e tratamento de imagens e este foi o: H04N -005, Detalhes de sistemas de televisão (detalhes da varredura ou combinação destes com a geração de tensões de alimentação Para o código supracitado a proposta é que seja agregado à busca com um operador 'AND' visto que procuramos tecnologias que utilizam drones e captação/transmissão de imagens.
+Todos os códigos foram buscados nas bases da Classificação Internacional de Patentes (IPC, na sigla em inglês) na Classificação Cooperativa de Patentes (CPC, na sigla em inglês), sendo uma base que abrange a maior parte das patentes mundiais e considerada totalmente satisfatória para os requisitos do estudo em questão.
+RESULTADOS E DISCUS SÃO A prospecção tecnológica de patentes do presente trabalho que trata sobre Transmissão de Imagens por Drones tem o objetivo de entender como o mercado mundial está se comportando perante tais tecnologias.
+Foi escolhida a seguinte configuração de busca d e patentes para o trabalho em questão , expressa na linha 4 da tabela a seguir que foi interpretada pelo software Orbit.
+Tabela 1 – Resultado das buscas nas bases - Orbit Termo/Código buscado Quantidade de Patentes encontradas Principais códigos relaciona dos ao tema de interesse Quantidade de Patentes relacionadas ao tema de interesse 1 (DRONE)/TI/AB/IW 2117 B64C -039 G05D -001 705 282 2 (IMAGE TRANSMISSION)/TI/AB/IW 6707 H04N -005 1173 3 B64C -039 or G05D -001 66758 -4 ( 3 AND H04N -005)/IPC/CPC 769 -Fonte: Autoria própria (2017) A pesquisa acima pode também ser expressa no software Orbit como : ( (G05D -001 or B64C -039)/IPC/CPC AND (H04N -005)/IPC/CPC ) Da busca em questão foram encontradas 769 patentes e todo o estudo foi realizado com base neste cenário.
+Prospec., Salvador, v. 11, Edição Especial , p.453-462, abr./jun.
+: nesp .23310 BARRETO, L.de O.; MENHA, R.C.
+P rospecção tecnológica: um estudo exploratório do depósito de patentes sobre drones para captação e transmissão de imagens aéreas .
+456 A seguir será realizada a análise do cenário de quantidade de patentes, separadas entre as principais empresas que investem no setor.
+O primeiro passo dado foi analisar o volume de patentes de positadas mundialmente nos últimos anos.
+Apesar de haver patentes desde 1911 com essa combinação de pesquisa, esse total não passou de 6 patentes entre 1911 e 1970.
+Nestas décadas citadas o avanço tecnológico ainda era muito raso para proporcionar que tais tecnologias fossem desenvolvidas e estudadas em larga escala ou com aplicações comerciais.
+Da análise do gráfico supracitado, nota -se que essa combinação de tecnologias possuiu uma tímida tendência de crescimento no final do século XX, mas a evolução em n úmeros significativos iniciouse no século XXI, o que implica que a maioria das patentes registradas ainda estão em vigor.
+É notado também uma explosão na quantidade de patentes no ano de 2014, afirmando que esta tecnologia está em plena fase de cresciment o. Tal análise pode ser comprovada com a popularização do conceito que passou a permear o dia a dia dos noticiários neste período.
+Debates sobre a regulamentação de drones , serviços de delivery , transporte de passageiros e militares são alguns tipos de not ícias rotineiras na mídia.
+Gráfico 1 – Quantidade de Patentes em cada ano Fonte: Autoria própria (2017).
+Então como análise subsequente (ver Gráfico 2), foram analisadas as patentes que estão em vigor com os principais jogadores no ecossistema.
+Prospec., Salvador, v. 11, Edição Especial , p.453-462, abr./jun.
+: nesp .23310 BARRETO, L.de O.; MENHA, R.C.
+P rospecção tecnológica: um estudo exploratório do depósito de patentes sobre drones para captação e transmissão de imagens aéreas .
+457 Nota -se a forte presença de marcas reconhecidas na área de tecnologia como a Mitsubishi, Panasonic, LG, Sony, Samsung, Hitachi, Honda, Boeing, Nissan, Canon, Cassio e Airbus, onde somente a Mistubishi é uma jogadora antiga com a maioria das patentes já exp iradas.
+De tal análise é possível inferir que o mercado de drones possui também players com bastante força econômicacomercial e por consequência deve se tornar muito competitivo nos próximos anos.
+Logo, empresas amadoras não terão um caminho fácil neste s egmento.
+Ao analisar o Gráfico 3, entretanto evidenciando somente as empresas com patentes com 'mais de um' depósito, vemos que em geral são as empresas com marcas mais conhecidas as quais estão investindo mais no setor.
+Após realizada uma análise inicia l, voltamos nossas pesquisas para analisar o uso das tecnologias de drones com captação de imagem em segmentos específicos.
+São eles: Segurança, Mapeamento e Televisivo, áreas de interesse dos autores do artigo.
+Para fazer a segmentação entre as áreas esco lhidas foram escolhidas as seguintes palavras chave: Militar (acrescida por palavras que comunguem do mesmo prefixo MILITAR+), Mapping (abreviada para MAP+) e Television (TELEVISION or TV).
+Para cada análise foi aplicado um operador 'AND', um por vez e for am extraídos os resultados a seguir.
+Gráfico 2 –Número de patentes Gráfico 3 – Número de patentes com mais em vigor e de patentes expiradas de um depósito em diferentes localidades Fonte: Autoria própria (2017) Fonte: Autoria própria (2017) Cad.
+Prospec., Salvador, v. 11, Edição Especial , p.453-462, abr./jun.
+: nesp .23310 BARRETO, L.de O.; MENHA, R.C.
+P rospecção tecnológica: um estudo exploratório do depósito de patentes sobre drones para captação e transmissão de imagens aéreas .
+458 Militar Há muitos usos para os drones nas forças armadas.
+Sempre que um drone pode ser usado para proteger a vida dos homens e mulheres militares, eles serão armados com comunicações remotas de vídeo ao vivo para tropas terrestres, equipamentos essenciais ou armas.
+O principal uso do drone no exterior em zonas de guerra é o reconh ecimento de áreas e edifícios desconhecidos, rastreamento do inimigo e proteção de força.
+Desta forma, os drones se tornam uma ótima ferramenta para ajudar nas buscas de soldados perdidos ou feridos, bem como uma visão em tempo real de várias missões e sit uações que permitem que os comandantes tomem melhores decisões em alocações de recursos.
+Um sólido estudo sobre o assunto pode ser visto em Hovering Over the Drone Patent Landscape (IFI CLAIMS, 2014).
+Neste contexto, buscamos acrescentar a área militar e m nossas pesquisas.
+Após aplicado o operador 'AND' para 'Militar' na busca, foram encontradas 94 patentes no universo abordado, trazendo -nos à conclusão de que cerca de 12% das patentes sobre drones com transmissão de imagens já preveem a área militar como uma área de atuação.
+Analisando o comportamento das linhas de pesquisa por empresas e o seu amadurecimentos nos últimos anos, foi detectada uma empresa dominante, a Chinesa SZ DJI Technology, conforme pode ser visto no gráfico a seguir: Gráfico 4 –Núme ro de patentes depositadas sobre Drones e Transmissão de Imagens na área militar Fonte: Autoria própria (2017) Foi visto também um salto tecnológico a partir de 2015 ao se estudar a produção de patentes por ano.
+Já ao analisar os países dominantes das tecnologias temos os Estados Unidos superando a China (mesmo o país possuindo a empresa com mais patentes) e a Coreia do Sul , o que se solidifica ao realizar a busca considerando somente patentes com mais de um depósito, o que deixa os EUA com 31 patentes contra 2 da China (apesar de ser conhecida a política de patentes americana onde as vezes uma patente pode ser depositada em mais de um estado, mascarando positivamente a solidez americana quanto a tal indicador).
+Prospec., Salvador, v. 11, Edição Especial , p.453-462, abr./jun.
+: nesp .23310 BARRETO, L.de O.; MENHA, R.C.
+P rospecção tecnológica: um estudo exploratório do depósito de patentes sobre drones para captação e transmissão de imagens aéreas .
+459 Mapeamento Os veículos aéreos não tripul ados estão substituindo rapidamente os métodos tradicionais de mapeamento de terrenos.
+Eles reduzem grandemente o trabalho e o tempo envolvidos no mapeamento de terrenos.
+Os drones eliminam grande parte do erro humano envolvido no processo e têm a capacida de de capturar dados necessários em muito menos tempo do que os métodos tradicionais levariam.
+Após aplicado o operador 'AND' para 'Map +' na busca, foram encontradas 284 patentes no universo abordado, trazendo -nos à conclusão de que cerca de 37% das patentes sobre drones com transmissão de imagens já utilizam tecnologia de mapeamento ou propõem soluções para o setor pesquisado.
+Gráfico 5 –Número de patentes depositadas sobre Drones e Transm.
+de Imagens na área de Mapeamento Fonte: Autoria própria (2017) No filtro de pesquisa supracitado, onde são mostradas a quantidade de patentes por empresa, nota -se que não há nenhuma que se destaque com folga e que o mercado está mais equilibrado ao se comparar com o mercado de tecnologias militares.
+Nota -se também a presença de boa quantidade de players com ma rcas fortes e que possuem maior facilidade para gerar tecnologias de forte apelo comercial.
+Neste segmento o salto tecnológico inicia -se um pouco antes perante o comparativo da área militar, tendo um aumento de patentes desde 2012.
+Também é notada uma supr emacia ainda mais forte dos EUA nas tecnologias para mapeamento, sendo 37% de todas as patentes nos segmento depositadas originalmente nos EUA (este número aumenta para 42% quando são consideradas apenas as patentes com mais de um depósito).
+Televisivo Após aplicado o operador 'AND' para 'TV or Television ' para a soma das palavras em questão, foram encontradas 146 patentes no universo abordado, trazendo -nos à conclusão de que cerca de 19% das patentes sobre drones com transmissão de imagens já estão utiliz ando ou buscam fornecer soluções para o setor televisivo.
+Gráfico 6 –Número de patentes depositadas sobre Drones e Transmissão de Imagens na área televisiva Cad.
+Prospec., Salvador, v. 11, Edição Especial , p.453-462, abr./jun.
+: nesp .23310 BARRETO, L.de O.; MENHA, R.C.
+P rospecção tecnológica: um estudo exploratório do depósito de patentes sobre drones para captação e transmissão de imagens aéreas .
+460 Fonte: Autoria própria (2017) Num filtro de pesquisa organizado por empresas donas das patentes , nota -se o destaque da LG e da Samsung como líderes no setor do mercado televisivo.
+Neste segmento o salto tecnológico volta a iniciar no ano de 2015, similar à curva do setor militar.
+No setor há forte presença das empresas japonesas que aparecem com 40 patentes contra 47 patentes americanas, entretanto ao realizar o busca com patentes com mais de um depósito, a supremacia americana volta a aparecer.
+Ao estudar as notícias envolvendo as principais empresas do Gráfico 6, foi confirmado que a Samsung está apostando no mercado de transmissões de imagens com drones , aproveitando principa lmente o potencial de suas câmeras 360º para captura de imagens em todas as direções.
+Também ressalta -se o fato das notícias sobre a Samsung destacarem o aspecto desenho indus trial inovador dos drones da empresa o qual entram em sintonia com os requisitos do mercado de entretenimento televisivo.
+Agricultura Após aplicado o operador 'AND' para 'Agric+ orFarm +' para as a soma de palavras em questão, foram encontradas 31 patentes no universo abordado, trazendo -nos à conclusão de que cerca de 6,4% das patentes sobre drones com transmissão de imagens já estão utilizando ou buscam fornecer soluções para o setor ag rícola.
+Gráfico 7 –Número de patentes depositadas sobre Drones e Transmissão de Imagens na área agrícola Cad.
+Prospec., Salvador, v. 11, Edição Especial , p.453-462, abr./jun.
+: nesp .23310 BARRETO, L.de O.; MENHA, R.C.
+P rospecção tecnológica: um estudo exploratório do depósito de patentes sobre drones para captação e transmissão de imagens aéreas .
+461 Fonte: Autoria própria (2017) Num filtro de pesquisa organizado por empresas proprietárias das patentes, não foi encontrada corporação com destaque para o setor agrícola.
+Neste segmento o salto tecnológico inicia no ano de 2014, um pouco anterior até à curva média do setor incluindo todas as áreas ligadas a drone .
+No setor o domínio volta a se r americano com 22 patentes, inclusive a supremacia se reforça ao buscar as patentes com mais de 1 depósito que se mantém próximo ao número total, com 19 patentes.
+CONCLUSÃO Com base nos dados trabalhados foi possível conhecer e explicitar conteúdos relev antes sobre o cenário mundial de patentes relacionadas a drones .
+Foi comprovado que esta é uma tecnologia de vanguarda e que está em forte crescimento desde 2015.
+A sua vasta área de aplicação contribui para que haja pesquisas em diversas linhas fazendo com que a propriedade intelectual no setor possa vir a ter significativo valor.
+É importante destacar a presença de empresas com marcas sólidas criando tecnologias com drones o que tende a fazer com que o setor se torne altamente competitivo e indicando o seu alto potencial lucrativo.
+Análise cronológica do mercado dos drones no Brasil e as tendências futuras.
+Disponível em: < -cronologica -do-mercado -dos-drones -no-brasil -e-astendencias -futuras/>.
+Estudo Sobre a Indústria Brasileira e Europeia de Veículos Aéreos Não Tripulados.
+< -20161130 -20012017 -web.pdf>.
+Prospec., Salvador, v. 11, Edição Especial , p.453-462, abr./jun.
+: nesp .23310 BARRETO, L.de O.; MENHA, R.C.
+P rospecção tecnológica: um estudo exploratório do depósito de patentes sobre drones para captação e transmissão de imagens aéreas .
+A flexibleunmannedaerialvehicle for precisionagriculture.
+PrecisionAgriculture, v. 13, n. 4, p. 517 -523, jan, 2012.
+Disponível em: < -012-9257 -6>.
+WATTS, A. C.; AMBROSIA, V. G.; HINKLEY, E. A. Unmanned aircraft systems in remote sensing and scientific research: classification and considerations of use.
+Remote Sensing, Suíça, v. 4, n. 6, p. 1671 -1692, jun.
+Disponível em: < .mdpi.com/2072 -4292/4/6/1671/htm>.

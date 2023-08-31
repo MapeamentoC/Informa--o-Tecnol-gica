@@ -1,0 +1,249 @@
+AtoZ novaspráticaseminformaçãoeconhecimentoISSN:2237-826X ARTIGO|PAPER PatentesprioritáriasdepositadasnoBrasilecomproteção naviaPatentCooperationTreaty(PCT) Prioritarypatents filedinBrazilandprotectedbythePatentCooperationTreaty(PCT)route VerônicaBarbozaScartassini1,ThiagoMonteiroAlves2,FernandaBochi3,ReneFaustinoGabrielJunior4eAna MariaMielniczukdeMoura5 1UniversidadeFederaldoRioGrandedoSul(UFRGS),PortoAlegre,RioGrandedoSul,Brasil.ORCID: 2UniversidadeFederaldoRioGrandedoSul(UFRGS),PortoAlegre,RioGrandedoSul,Brasil.ORCID: 3UniversidadeFederaldoRioGrandedoSul(UFRGS),PortoAlegre,RioGrandedoSul,Brasil.ORCID: 4UniversidadeFederaldoRioGrandedoSul(UFRGS),PortoAlegre,RioGrandedoSul,Brasil.ORCID: 5UniversidadeFederaldoRioGrandedoSul(UFRGS),PortoAlegre,RioGrandedoSul,Brasil.ORCID: Autorparacorrespondência/ Mailto:VerônicaBarbozaScartassini,veronicascartassini@gmail.com Recebido/Submitted:19denovembrode2019; Aceito/Approved:08dejulhode2020 Copyrightc 2020 Scartassini, Alves, Bochi, Gabriel Junior & Moura .
+Todo o conteúdo da Revista (incluindo-se instruções, política editorial e modelos) está sob uma licença Creative Commons Atribuição-NãoComercial-CompartilhaIgual 3.0 Não Adaptada.
+Ao serem publicados por esta Revista, os artigos são de livre uso em ambientes educacionais, de pesquisa e não comerciais, com atribuição de autoria obrigatória.
+Mais informações em #copyrightNotice.
+Resumo Introdução:apatenteapresentaimportânciatantonaesferainformacionalcomoeconômica.OTratadodeCooperaçãodePatentes(PCT)é umaformadeestenderaproteçãododepósitodepatenteseéapartirdelequeoestudoseconsolida.
+Objetivos::trata-sedeumaanálisepatentométricacomoobjetivocaracterizarospedidosdepatentesprioritáriasbrasileirasdepositadasna viaPCTe,paraeste fim,utilizaaabordagemquantitativa-descritivaapartirdabaseDerwentInnovationIndex(DII).
+Metodologia: osdadosforamcoletadosemtrêsetapas.Primeiro,buscaram-setodasaspatentesdepositadasnoBrasilnoperíodode2004a 2019,resultandoem381.598registros,queformaramocorpusprincipal.Destecorpus,foramextraídasaspatentescomregistroprioritáriono Brasil,resultandoem263.104registros.Porúltimo,foirealizadaaextraçãodaspatentescomoprimeirodepósitoprioritárionoBrasilcom extensãoviaPCT,resultandoem12.073registros.
+Resultados:desteresultado final,identi ficou-seque:4,5%daspatentesviaPCTeramprioritáriasnoBrasil,osprincipaisdepositantesporessa via,atemporalidadedosregistroseaclassi ficaçãodaspatentes.Osprincipaisdepositantessão,emsuamaioria,empresasmultinacionais provenientesdosEstadosUnidos,China,Suécia,França,Japão,AlemanhaeItália,euniversidades,nocasodoBrasil.Aspublicaçõesapresentam oscilaçãonoperíodoestipulado,mantendoumamédiade794patentesaoano.Osdepósitosconcentram-seprincipalmenteemtrêsgrandes áreas:necessidadeshumanas,processos,operaçõesetransporteseeletricidade.
+Conclusão:conclui-sequeaextensãodaproteçãopelaviaPCTnãoéumapráticarecorrentepelosrequerentesquedepositamprioritariamente emterritóriobrasileiro.
+Palavras-chave: Patentometria;PatentesBrasileiras;TratadodeCooperaçãodePatentes(PCT);DerwentInnovationIndex.
+Abstract Introduction: theimportanceofapatentisrecognizedbothatinformationalaswellasineconomicterms.ThePatentCooperationTreaty(PCT)isaway ofextendingpatent filingprotectionanditisbasedonitthatthisstudyisconsolidated.
+Objectives:thisisapatentometricanalysisdoneviaaquantitative-descriptiveapproachtounderstandingthedepositofBrazilianpatentswithextensions ofdepositsinthePCTbasedontheDerwentInnovationIndex(DII).
+Method:itcollectsdatainthreestages.First,wesearchedforallpatentsdepositedinBrazilfrom2004to2019,resultingin381.598records,which formedourmaincorpus.Fromthiscorpus,thepatentswithpriorityregistrationinBrazilwereextracted,resultingin263.104records.Finally,the extractionofthepatentswithprioritydepositinBrazilwithextensiontothePCTroutewascarriedout,resultingin12.073record.
+Results:fromthisresult,weveri fiedthemaindepositorsviaPCT,thetemporalityoftheregistries,andtheclassi ficationofthepatents.
+Themain depositorsaremostlymultinationalcompaniesfromtheUnitedStates,China,Sweden,France,Japan,GermanyandItaly,anduniversities,inthecaseof Brazil.Thepublicationsshowoscillationinthestipulatedperiod,keepinganaverageof794patentsperyear.Thedepositsaremainlyconcentratedin threemajorsubareas:humannecessities,performingoperationsandtransporting,andelectricity.
+Conclusions:itconcludesthattheextensionofPCTprotectionisnotarecurringpracticebyclaimantswhoprimarilydepositintheBrazilianterritory.
+Keywords:Patentometric;BrazilianPatents;PatentCooperationTreaty(PCT);DerwentInnovationIndex.
+INTRODUÇÃO O avanço tecnológico desempenha um papel importante no cenário socioeconômico de um país, e uma das formas de medir esse desempenho é pela análise das patentes (Reitzig, 2003).
+As técnicas bibliométricas são ferramentas metodológicas que contribuem para a compreensão deste avanço.
+Usam-se indicadores bibliométricos em nível micro, meso e macro para mensurar e avaliar a produtividade científica e tecnológica, aferir as redes de colaboração e identificar os possíveis diálogos entre as comunidades discursivas (Vasconcelos, 2014).
+11Scartassini,Alves,Bochi,GabrielJunior&Moura PatentesprioritáriasdepositadasnoBrasil 12 Os Estudos Métricos da Informação (EMI) são um dos campos de investigação da Ciência da Informação (CI) que utilizam análises estatísticas para levantar e inferir estes indicadores, visando acompanhar e analisar o conhecimento científico e tecnológico, assim como auxiliar e incentivar as políticas públicas de avaliação e financiamento para o desenvolvimento da ciência e tecnologia (Moed, 2017).
+Os EMI são divididos em subáreas por apresentarem objetos de estudo e práticas diferentes para a mensuração das informações, como é o caso da bibliometria, que visa analisar a produção científica a partir de livros e artigos; a cientometria, que analisa a ciência e os fluxos de comunicação científica em diferentes áreas do conhecimento; e a patentometria, que gera indicadores a partir da análise do depósito de patentes, dos registros de invenções e inovações e dos documentos de patentes (Guzmán Sánchez, 1999; Macias-Chapula, 1998; Oliveira, 2018).
+A patente é um documento único que possui dupla função, sendo considerada uma fonte de informação altamente especializada, além de servir como documentação para a transferência tecnológica, ou seja, a comercialização de um objeto inventivo proveniente da atividade científica ou tecnológica (Ferreira, Guimarães, & Contador, 2009; Garcia, 2006; Noruzi & Abdekhoda, 2012).
+Macias-Chapula (1998) aponta que, a partir dos indicadores de patentes, é possível visualizar o investimento em Ciência e Tecnologia dentro do contexto internacional e nacional.
+Corroborando com as ideias do autor, Narin (1995) aponta que os estudos que utilizam o documento de patente contribuem para verificar as aplicações de acordo com as políticas nacionais, empresariais, estratégicas e também para realizar panoramas da atividade tecnológica.
+Apesar disso, Mueller e Perucchi (2014) apresentam que artigo e patente são documentos que contribuem para o processo de divulgação científica, no entanto, desde sua existência, os artigos científicos são os principais objetos de estudo na CI, deixando as patentes como um objeto secundário dentro da área.
+Para explorar a invenção no mercado, a patente necessita passar pelo exame criterioso dos escritórios de patentes.
+Para isso precisa apresentar a carta-patente, expedida por um dos órgãos reguladores da propriedade intelectual do território no qual se deseja realizar a proteção do seu invento, seja a nível nacional, regional ou internacional.
+Como exemplos de escritórios de patentes temos o Instituto Nacional de Propriedade Intelectual (INPI), brasileiro, e o Escritório Americano de Patentes (USPTO), para nível nacional; o Escritório Europeu de Patentes (EPO), em nível regional; e de caráter internacional, o World Intellectual Property Organization (WIPO).
+A WIPO gerencia o Tratado de Cooperação de Patentes (PCT), um acordo entre nações que visa a cooperação na apresentação, pesquisa e exame dos pedidos de proteção das invenções (World Intellectual Property Organization (WIPO), 2001).
+Esta modalidade funciona da seguinte forma: o requerente solicita a patente via PCT e escolhe quais países deseja proteger seu invento, cada escritório selecionado irá realizar o exame e decidir se sua patente será concedida ou não.
+Apesar do país ser membro do PCT desde 1978, poucos estudos são encontrados na literatura científica sobre as patentes brasileiras e a sua relação com a via PCT após buscas nas bases Brapci, Scopus e Web of Science.
+Dentro da literatura científica da Ciência da Informação (CI), destacam-se os trabalhos publicados por Silva, Godinho, e Tonholo (2014) e Silva, Vasconcellos, Tonholo, e Godinho (2017), que estudam as patentes universitárias brasileiras na via PCT.
+Como mencionado anteriormente, o aprofundamento no estudo de patentes na CI é secundário, havendo, portanto, uma lacuna nesta área.
+Diante disso, o problema de pesquisa deste estudo está assim definido: como se configuram as patentes prioritárias brasileiras depositadas na via PCT?
+Desta forma, o objetivo geral deste trabalho consiste em caracterizar os pedidos de patentes prioritárias brasileiras depositadas na via PCT.
+Para este fim, utiliza a patentes indexadas na base Derwent Innovation Index (DII), tendo como critério limitador as patentes requisitadas no Brasil no período de 2004 a 2019.
+Para melhor atender o objetivo geral, este se divide em outros três específicos, a saber: identificar os pedidos de patentes prioritárias brasileiras e com depósito internacional via PCT; identificar os principais depositantes de patentes que optaram pela via PCT; e investigar as classificações atribuídas as patentes depositadas prioritariamente no Brasil na via PCT.
+REVISÃODELITERATURA A patente é um documento pelo qual se confere e se reconhece o direito de propriedade e de uso exclusivo de uma invenção do requerente, que pode ser pessoa física ou jurídica (Instituto Nacional de Propriedade Industrial (INPI), 2020).
+O documento de patente possui uma padronização internacional que facilita o seu acesso, devido à descrição criteriosa das informações.
+Além disso, possui um sistema de classificação específico baseado nas áreas tecnológicas em que estão compreendidos os inventos: a Classificação Internacional de Patentes (CIP) (Guzmán Sánchez, 1999).
+É importante frisar que nem toda a invenção se transforma em inovação, pois esta só se efetiva se o mercado a aceitar (Barbieri & Álvares, 2005).
+Uma vez que a invenção foi documentada, o inventor decide por qual via deseja patentear seu invento.
+A decisão pode ser por encaminhar o pedido em escritórios estrangeiros submetendo-se à legislação da nação escolhida; pode optar por requerer a carta-patente no INPI, estando sob proteção e obrigação dos termos de requisição conforme a Lei no10.196, de 14 de fevereiro de 2001, relativa à propriedade industrial; ou pode estender o DOI:10.5380/atoz.v9i1.70281 AtoZ:novaspráticaseminformaçãoeconhecimento,9(1),11-21,jan./jun.2020Scartassini,Alves,Bochi,GabrielJunior&Moura PatentesprioritáriasdepositadasnoBrasil 13 pedido da carta-patente via PCT, o qual obtém proteção do invento em todos os países que aderiram ao PCT (Sternitzke, 2009).
+Dentre as formas de requisição para a obtenção da carta-patente, destaca-se a via PCT, por possuir 152 países participantes e apresentar diretrizes para auxiliar os inventores no momento de solicitarem o sigilo da invenção a WIPO (World Intellectual Property Organization (WIPO), 2017).
+O pedido da patente via PCT pode ser realizado de duas maneiras: uma delas é requerendo o pedido de patente diretamente a WIPO, ou pela via do escritório regional ou nacional.
+A extensão da concessão do pedido de patente realizada pelo escritório regional atribui mais 12 meses no período de sigilo, passando do tempo usual de 18 para 30 meses.
+Solicitar a patente pela via PCT implica em custos como a transcrição dos documentos da invenção para a língua inglesa, assim como a pesquisa em todas as bases de dados de patentes para verificar se a nova invenção é inédita.
+O total dos gastos pode variar de 1500 a 3500 francos suíços (World Intellectual Property Organization (WIPO), 2017).
+Sternitzke (2009) e Koda (2012) afirmam que solicitar a extensão do pedido de patente é o mais usual e que a amplitude temporal é uma vantagem para o monopólio da inovação.
+Apesar de ser considerada como uma vantagem, Koda (2012) salienta que o documento concedido via PCT apresenta informações padrão, tornando seu acesso facilitado e universalizado apenas entre os países participantes do tratado.
+Outro ponto a ser destacado é que a patente que está concedida por esta via não é taxada como uma patente internacional e não tem proteção fora dos países que não aderem ao tratado.
+No Brasil, a solicitação de pedido de patente na via PCT pode ser vantajosa, pois, de acordo com Garcez Junior e Moreira (2017), com a aceleração do tempo para concessão da carta-patente, pois os autores descaram que, ao contrário dos outros países, o tempo de concessão de patentes no Brasil tem aumentado, saltando de 6,81 anos, em 2003, para 10,8 anos, em 2013.
+Os autores ressaltam que a demora na análise dos pedidos de patentes potencializa a insegurança jurídica e desestimula os investimentos, criando obstáculos à inovação tecnológica e ao desenvolvimento econômico.
+Visando estimular a produção tecnológica e inovadora, tanto em ambientes empresariais como em universidades, o Governo Federal promulga duas leis.
+10.973 de 2004, que contribui para o estabelecimento de parcerias entre Universidades e Empresas; e a Lei do Bem, Lei no.
+11.196, de 2005, que concede incentivos para todas as empresas que desenvolvem a inovação.
+Com relação aos depósitos de patentes na via PCT, Silva et al.
+(2014) apontam que 20,34% das patentes universitárias brasileiras foram depositadas nesta via no período de 2002-2012.
+O incentivo governamental para universidades desenvolverem patentes traz discussões dentro do meio acadêmico, principalmente sobre o papel das universidades dentro do contexto social e de contribuição científica, já que as patentes visam a aplicação de um produto e sua comercialização.
+Outro ponto recai sobre o aspecto ético da atividade de pesquisa, principalmente quando há ganho privado em pesquisas realizadas com verba pública, muitas vezes realizado dentro de instituições públicas.
+Além do mais, estas iniciativas têm por objetivo estreitar a relação universidade-empresa-governo, formando a Hélice Tripla (Mueller & Perucchi, 2014).
+Sobre essa perspectiva, os autores Santos, Winter, e Souza Junior (2014) apontam que, no setor tecnológico de gaseificação, o Brasil tem perdido espaço no patenteamento de suas invenções, principalmente pelo fato de outras nações estarem utilizando a via PCT para a consolidação de seus estudos em tecnologia.
+Isto porque, para os autores, não há uma cultura de depositar a invenção na via PCT, além de haver predomínio de empresas estrangeiras no setor de gaseificação e no território nacional.
+(2014) discorrem o mesmo, salientando que a via PCT é a principal escolha de empresas internacionais, principalmente dos EUA e Japão no patenteamento de espécimes vegetais.
+Kiškis e Limba (2016) apontam que, no caso das patentes da área biotecnológica, a via PCT não é utilizada como estratégia de patenteamento por instituições em países pequenos, principalmente se tratando destartups , universidades e centros de pesquisa, que contam com orçamento limitado e que são facilmente derrubados pelo mercado.
+Corroborando com as ideias dos autores, Barragán-Ocaña, Gómez-Viquez, Merritt, e Oliver-Espinoza (2019) argumentam que, na América Latina, essa situação se consolida devido à falta de recursos e incentivos governamentais no setor de Ciência e Tecnologia, diferentemente de países desenvolvidos, que possuem uma dinâmica maior no setor, o que impulsiona a um predomínio nos depósitos de patentes na via PCT.
+Kiškis e Limba (2016) mencionam que as universidades possuem pouca representatividade no depósito de patentes na via PCT.
+No Brasil, este processo foi constatado pelos resultados de Silva e Vasconcellos (2016) ao demonstraremqueapenas11,8%daspatentespertencentesauniversidades, ouquepossuamasuniversidadescomo co-depositantes, são depositadas na via PCT, mesmo que se tenha no país legislação e medidas governamentais que possibilitem o patenteamento por parte das universidades em parcerias com empresas e demais instituições públicas.
+DOI:10.5380/atoz.v9i1.70281 AtoZ:novaspráticaseminformaçãoeconhecimento,9(1),11-21,jan./jun.2020Scartassini,Alves,Bochi,GabrielJunior&Moura PatentesprioritáriasdepositadasnoBrasil 14 PROCEDIMENTOSMETODOLÓGICOS O estudo caracteriza-se por ser de natureza aplicada com abordagem quantitativa e objetivos descritivos.
+Segundo Creswell (2007), este tipo de estudo objetiva informar pode meio da observação de dados quantitativos.
+Apresenta como procedimento metodológico a patentometria, técnica que analisa e mede estatisticamente a produção tecnológica a partir dos metadados dos documentos de patentes (Glänzel, 2003).
+A coleta dos dados para este estudo foi realizada na base Derwent Innovation Index (DII), acessível no Portal de Periódicos da Capes pelo acesso institucional.
+Optou-se por realizar o estudo nesta base por ela indexar patentes de escritórios internacionais, inclusive do Brasil, além de ser considerada a fonte com maior abrangência sobre patentes no mundo e da possibilidade de identificar as patentes que foram depositadas na via PCT que tenham relação com o Brasil.
+A seguir, será descrito o processo de coleta dos dados, que se deu a partir de três etapas distintas e teve início no mês de maio de 2020.
+Foi realizada a delimitação temporal para a coleta dos dados para o período de 2004 a 2019, justificando-se esta escolha pois a elaboração da Lei de Inovação brasileira de 2004 foi instituída com o objetivo de estimular a inovação tecnológica e as colaborações interinstitucionais entre o setor acadêmico e produtivo brasileiro.
+Os dados foram coletados na base por ano de publicação, variável passível de ser indicada na estratégia de busca da DII.
+A pesquisa foi realizada em etapas, sendo a primeira a recuperação do total de registros no Brasil, na qual utilizou-se o parâmetro (PN=BR*).
+Na segunda etapa, identificaram-se as patentes que foram depositadas no Brasil com registro na WIPO, com a estratégia (PN=BR* AND PN=WO).
+Todos os resultados foram exportados para um arquivo de texto para ser processado, pois a DII não permite a identificação das prioritárias em seu mecanismo de busca.
+Pela limitação da base, os registros foram exportados de 500 em 500, compondo vários arquivos classificados do ano de publicação da requisição de patente.
+Para verificar as informações e data da inscrição prioritária, foi necessário identificar em todos os arquivos a indicação do Brasil (PI BR*) como primeiro escritório de registro.
+A data de inscrição ou de registro é aquela em que a inscrição foi registrada no escritório de patentes (Clarivate Analytics, 2020).
+Para isso utilizou-se técnica de mineração de texto para recuperar a variável "PI" com indicação "BR" em seu primeiro registro nos registros exportados da DII.
+Para identificar os depositantes, utilizou-se novamente a mineração de textos com a extração do número da patente e os dados dos depositantes (campo AE da DII).
+Com o resultado da extração, filtraram-se apenas os códigos de depositantes de empresas e instituições, pois compreende-se que, na maioria dos pedidos de patentes, as pessoas físicas são vinculadas às instituições constantes no campo de depositante e, para isso, excluíram-se todos os registros que constavam a indicação "-Individual".
+Outro ponto significativo para análise apenas de pessoas jurídicas foi a padronização dos nomes das instituições, para a qual foi utilizada o Thesa (Gabriel Junior & Laipelt, 2019) com a padronização das universidades e empresas na DII.
+Realizada a coleta, organização e seleção do corpus para este estudo, iniciaram-se as análises nas quais se identificaram os maiores depositantes que utilizam esta via de depósito, a temporalidade das publicações e os assuntos (classificações) das patentes.
+Os objetivos específicos do estudo e as variáveis do Número da Patente (PN); Depositantes (AE); Classificação (IP) e a Prioridade (PI), o detalhamento das variáveis da DII são apresentados (Quadro 1).
+Objetivosespecí ficos Variáveisparaanálise CampodaDII Identi ficarquaisospedidosde patentesprioritáriasbrasileirase comdepósitointernacionalvia PCTNúmerodapatenteeIndicação doescritóriodaPrioridadeda PatenteedatadedepósitoPNePI Identi ficarosprincipais depositantesdepatentesque optarampelaviaPCTCódigoenomedosdepositantes AE Investigarasclassi ficações atribuídasaspatentes depositadasprioritariamenteno BrasilnaviaPCTCódigodaClassi ficação InternacionaldePatentesIP Quadro1.Objetivos,variáveiseorótulodecampodaDII.
+Fonte:Elaboradopelosautores(2020).
+Na próxima seção, serão discutidos os resultados oriundos do processo metodológico aqui descrito.
+Para a apresentação e visualização adequada das análises, foram utilizados os recursos dos softwares Microsoft Excel e Microsoft Word para a elaboração de gráficos e tabelas.
+DOI:10.5380/atoz.v9i1.70281 AtoZ:novaspráticaseminformaçãoeconhecimento,9(1),11-21,jan./jun.2020Scartassini,Alves,Bochi,GabrielJunior&Moura PatentesprioritáriasdepositadasnoBrasil 15 RESULTADOSEDISCUSSÕES A partir do corpus inicial da pesquisa, que totalizou 381.598 registros de patentes requeridas no Brasil, foram selecionados 263.104 (68,9%) que tinham também registro na WIPO, ou seja, tiveram a solicitação via PCT, de forma a identificar as requisições que foram prioritárias no Brasil, tendo como critérios a variável (PI) da DII, e também a indicação do escritório brasileiro como primeiro no ordenamento por data de depósito (ex: PI BR2019123123 13 maio 2020).
+Foi realizada a mineração de texto nos dados importados da base, buscando a incidência do descritor "[nPI BR%]", resultando na identificação de 12.073 (3,16%) registros com essa ocorrência, criando um corpus secundário.
+?demonstra os resultados dos registros de patentes no Brasil, com requisição via PCT e requisições prioritárias brasileiras com extensão via PCT.
+Figura1.FrequênciadosregistrosdePatentesnoBrasileextensãoPCT(2004-2019)(n=381.598).
+Dos resultados obtidos, na média do período analisado, a taxa de publicação ficou em 794 patentes por ano via PCT, porém, observa-se uma discrepância dos dados nos anos de 2018 e 2019.
+Essa redução justifica-se porque a base DII só indexa as requisições após sua publicação, o que ocorre após dezoito meses de sua requisição, o que ocasiona a redução nos últimos anos.
+Pode-se observar que o período entre os anos de 2010 e 2015 tiveram maior número de registros.
+As patentes publicadas neste período compreendem tecnologias depositadas entre os anos 2008 e 2013, correspondendo ao segundo mandato do governo Lula e o primeiro mandato do governo Dilma, quando o país passava por uma fase de crescimento econômico (Biancarelli, 2014).
+Outro destaque apresentado na Figura 1 está na relação entre o registro prioritário no Brasil e a proteção vinda de outros países.
+Pode-se observar que somente 4,6% das patentes têm sua prioridade no Brasil, sendo que 95,4% das requisições foram originárias de outros países.
+A partir desta identificação, o corpus do estudo passa a ser as 12.073 patentes publicadas que tiveram suas datas de inscrição prioritária no escritório brasileiro.
+Optou-se por este recorte, a fim de identificar os inventos que tinham como objetivo primário estarem protegidos de livre comercialização no Brasil ou as tecnologias que são originárias de pesquisas brasileiras, já que comumente os depositantes brasileiros fazem o registro de suas invenções no INPI e posteriormente realizam o pedido de proteção em órgãos internacionais.
+Desses 12.073 pedidos de patentes, identificou-se a ocorrência de 14.594 depositantes atribuídos aos registros, sendo destes aproximadamente 12.000 são pessoas físicas, e outros 3.000 pessoas jurídicas, lembrando que uma requisição de patente pode envolver uma ou mais empresas e depositantes.
+A partir deste quantitativo, pôde-se identificar e analisar os maiores depositantes no Brasil, ou seja, aquelas instituições e empresas que representam a elite detentora dos direitos de patentes pela via PCT.
+Para a análise dos maiores depositantes, optou-se em apresentar na Tabela 1 as empresas com mais de 100 patentes registradas e, para análise de todos os registros, empregou-se a Lei do Elitismo proposta por Price (1986), que compreende que a raiz quadrada do número total de atores de um domínio é o quantitativo que representa os maiores produtores dentro do mesmo.
+Sendo assim, foram identificados e analisados os 109 maiores depositantes de patentes pela via PCT no Brasil.
+DOI:10.5380/atoz.v9i1.70281 AtoZ:novaspráticaseminformaçãoeconhecimento,9(1),11-21,jan./jun.2020Scartassini,Alves,Bochi,GabrielJunior&Moura PatentesprioritáriasdepositadasnoBrasil 16 # Depositante NoPat.
+Setor País 1 Halliburton:Oil fieldServices 424 Petrolífero EUA 2 WhirlpoolCorporationnoBrasil 368 Eletrodoméstico EUA 3 HuaweiTechnologies 332 Telecomunicações China 4 Ericsson 304 Telecomunicações Suécia 5 Volvo 271 Automotivo Suécia 6 Hewlett-Packard 233 Eletrônico EUA 7 ThomsonLicensing/Technicolor 210 Comunicação França 8 ToyotaMotor 199 Automotivo Japão 9 Siemens 191 Telecomunicações Alemanha 10 UniversidadeEstadualde Campinas168 Universidade Brasil 11 Mitsubishi 167 Automotivo Japão 12 Pirelli 148 Automotivo Itália 13 DowGlobalTechnologies 137 Química EUA 14 Intel 136 Eletrônico EUA 15 Nissan 120 Automotivo Japão 16 UniversidadeFederaldeMinas Gerais114 Universidade Brasil 17 TelecomItália 105 Telecomunicações Itália Tabela1.MaioresdepositantesdepatentesprioritáriasdepositadasnoBrasilpelaviaPCT.
+Fonte:Elaboradapelosautores(2019).
+A partir da Tabela 1, observa-se que as 17 maiores depositantes identificadas são responsáveis por 30,0% de toda a produção das 12.073 patentes depositadas, e as 109 empresas ( 3,63% do total) são responsáveis por 53,3% de todas as patentes, o que demonstra que a elite identificada pelo estudo é considerada produtiva de acordo com os critérios propostos por Price (1986).
+Para o autor, para ser considerada produtiva, a elite deve ser responsável pela metade de toda a produção dos atores do domínio analisado.
+Neste caso, as demais depositantes que compõem o corpus do estudo possuem menos da metade do total de patentes que as 109 maiores depositantes possuem, demonstrando que a elite é uma amostra representativa do domínio.
+A seguir estão descritas as principais características destas 17 depositantes.
+Dos 17 maiores depositantes de patentes que utilizam a via PCT para a proteção de sua inovação, 15 são multinacionais, com exceção de duas universidades brasileiras.
+Com 424 patentes requeridas prioritariamente no Brasil, a Halliburton é uma empresa multinacional americana do ramo petrolífero, criada a partir do legado das 4 empresas.
+A empresa é hoje uma das maiores empresas de serviços para campos petrolíferos do mundo e um dos principais prestadores de serviços de engenharia e construção.
+Outra empresa com sede nos Estados Unidos, a Whirlpool Corporation, é produtora de eletroeletrônicos e eletrodomésticos e foram identificadas 368 patentes depositadas via PCT.
+A empresa tem grande representatividade no Brasil porque em 2006 adquiriu a Embraco, organização brasileira de compressores para geladeiras e refrigerados, herdando todas as patentes da empresa.
+Com332 patentes, a HuaweiTechnologies, umaempresachinesa, tem forteatuação noBrasilcom aimplementação das redes de telefonia 3G, sendo uma das maiores fornecedoras de equipamentos para redes de telecomunicações do mundo.
+A Ericson, quarta empresa com maior número de patentes PCT, concorrente direto da Huawei, também atua na área de telecomunicações para redes móveis e fixas de telefonia.
+A empresa tem sede na Suécia e foi fundada em 1876.
+Outras empresas ranqueadas entre as maiores depositantes no ramo das telecomunicações são a Siemens, grupo alemão, com 191; e Telecom Itália, detentora no Brasil da TIM, com 105 requisições.
+No Ramo automotivo, as empresas que mais requisitaram patentes no Brasil foram a Volvo, com 271 solicitações, estando na quinta posição; e a Volvo Trucks, do grupo Volvo, que produz caminhões em sua sede no Paraná desde o final da década de 1970.
+Também do grupo automotivo, a Toyota1se estabeleceu no Brasil em 1962 com a produção de peças para motores e, a partir de 1998, começou a produção de carros, estando na oitava posição com 199 registros de patentes no Brasil.
+Das maiores depositantes deste ramo, também se encontram a Mitsubishi e a Nissan, respectivamente com 167 e 120 registros.
+Na área de eletrônicos, a Hewlett-Packard2, ou HP, registra um total de 233 requisições.
+No Brasil a empresa atua com a produção de computadores, servidores, impressoras e acessórios para infraestrutura de rede de computadores e atua também em serviços de armazenamento e processamento de dados.
+Também nesta área a Intel se destaca com 136 requisições e sua principal atuação no Brasil concentra-se na produção de componentes 1 2 DOI:10.5380/atoz.v9i1.70281 AtoZ:novaspráticaseminformaçãoeconhecimento,9(1),11-21,jan./jun.2020Scartassini,Alves,Bochi,GabrielJunior&Moura PatentesprioritáriasdepositadasnoBrasil 17 eletrônicos, como processadores, mas também tem serviços nas áreas de armazenamento e internet das coisas (IoT).
+Com 210 requisições de patentes, a Thomson Licensing, atualmente Technicolor, uma empresa francesa que fornece serviços e produtos para as indústrias de comunicação, mídia e entretenimento, é a única na área da comunicação, ligada principalmente à produção de filmes e ao entretenimento.
+A única empresa no ramo químico entre as 17 organizações, a Dow Global Techonologies, também com sede nos Estados Unidos, atua no Brasil com a produção de plástico, produtos químicos e produtos agrícolas.
+Foram localizadas 137 requisições de proteção de patentes, estando na 13oposição.
+Observa-se ainda na Tabela 1 que o maior número de empresas que protegem suas invenções ou inovações no Brasil são do ramo automotivo, com cinco empresas, seguido das telecomunicações, com quatro empresas.
+Em uma análise global das depositantes, destaca-se o grupo das universidades que buscam proteger suas inovações, estando entre as maiores requerentes a Unicamp e a UFMG, respectivamente com 168 e 114 patentes, porém, este grupo é reforçado com a UFRJ (62 requisições); USP (55 requisições); UERJ (40 requisições); UNESP (32 requisições) UFScar (31 requisições); e UFRGS e UFSC (ambas com 26 requisições); e outras 46 universidades identificadas na pesquisa, totalizando 718 requisições.
+Das empresas brasileiras de pesquisa, destacam-se a Embrapa, com 56 requisições; e Fundação Oswaldo Cruz, com 48 requisições.
+Do ramo de petrolífero, a Petrobras (82 requisições); e Braskem (25 requisições); do ramo de cosméticos, a Natura (40 requisições); do ramo de mineração a Vale, com 30 requisições; e do ramo de aviação a Embraer, com 15 requisições.
+Ou seja, das 109 instituições que mais protegem suas invenções e inovações via PCT, 26% são brasileiras.
+Para analisar as áreas de registros do PCT, foi utilizada novamente a mineração de texto, extraindo-se os campos PN (número da patente), AE (depositante) e o IP (classificação CIP).
+A análise dos campos tecnológicos das patentes foi realizada com base no campo IP, que apresenta a Classificação Internacional de Patentes (CIP), codificação que é atribuída tanto pelo inventor da patente como pelo avaliador do documento e, devido a isso, um mesmo documento de patente pode apresentar mais de uma codificação da CIP.
+Figura2.CIPdaspatentesanalisadas(2004-2019).
+A partir da Figura 2, observa-se que 19.6% dos depósitos analisados estão concentrados na área de Necessidades Básicas (A), porém, ao se observar as principais classes dentro dela, é possível identificar que as patentes estão classificadas em Ciências médicas, veterinária e higiene (A61), sendo a classificação A61K, preparações para fins médicos, dentários, com 718 patentes, a classe com o maior número de classificações.
+Esta classe ainda permite um detalhamento como uma subclasse, sendo encontrados 300 registros na classe A61K-31, referente a preparações medicinais contendo ingredientes ativos orgânicos.
+Evidencia-se que há interesse dos depositantes na produção e proteção de tecnologias voltadas para o setor farmacêutico.
+Entretanto, nenhuma das 17 maiores depositantes se enquadram nesta classificação.
+Ndlovu (2015) destaca que esta é a área que mais demanda sigilo, por consequência, mais recursos aos depositantes, entretanto, seria necessário um estudo individual de cada patente para compreender os tipos de propriedade industrial protegidas por elas.
+Ainda, segundo o autor, outro fator é a importância da saúde enquanto bem social.
+A classe B, com 18,9%, referente a processos de operações e transporte tem o número de classificações próximas da A, entretanto, destaca-se nas classificações B65D, de contentores para armazenamento e B29C, de produtos DOI:10.5380/atoz.v9i1.70281 AtoZ:novaspráticaseminformaçãoeconhecimento,9(1),11-21,jan./jun.2020Scartassini,Alves,Bochi,GabrielJunior&Moura PatentesprioritáriasdepositadasnoBrasil 18 plásticos, bem como as outras deste grupo, uma forte relação com empresas químicas, de embalagens e logística como as empresas automotivas.
+Com 18,8%, o grupo H refere-se à área de elétrica e eletrônica, com 369 patentes relacionadas à comunicação pectoral (TV).
+Este elevado número de patentes justifica-se pela adoção da TV Digital no Brasil, por meio da qual foram desenvolvidos padrões específicos para o Brasil.
+Ainda neste grupo encontram-se os padrões de comunicação sem fio, como a telefonia celular, o que remete a empresas como a Ericson, Huawei, Siemens, Telecom Itália, Nokia, entre outras com as classificações H04L e H04W.
+Observou-se que existe uma distribuição entre as áreas A, B, C e H, sendo essas as mais fortes, enquanto as áreas D, E, F e G são as mais fracas.
+Um destaque negativo está na área de Têxtil e Papel, que representa apenas 1% das classificações, sendo que muitas cidades no Brasil são polos de produção de roupas, calçados e processamento de celulose, o que demonstra que existem poucas inovações nesta área.
+O Quadro2 apresenta as classificações que apresentaram uma frequência de mais de 100 registros, organizadas pela grande área e sua subclasse.
+Ao lado da grande área está o número total de registros dentro de sua categoria.
+A-NECESSIDADESHUMANAS 14.156 A61K-PREPARAÇÕESPARAFINSMÉDICOS,DENTÁRIOS 718 A23L-ALIMENTOS,ALIMENTOSOUBEBIDASNÃOALCÓOLICAS 181 A01N-PRESERVAÇÃODEORGANISMOSDEHUMANOSOUANIMAISOUPLANTAS(PARTES) 170 A61B-DIAGNÓSTICO;CIRURGIA;IDENTIFICAÇÃO 167 B–PROCESSOS,OPERAÇÕESETRANSPORTE 13.626 B65D-CONTENTORESPARAARMAZENAMENTOOUTRANSPORTEDEARTIGOSOUMATERIAIS404 B29C-PRODUTOSDEPLÁSTICOS 337 B01J-PROCESSOSQUÍMICOSOUFÍSICOS 288 B01D-SEPARAÇÃODESÓLIDOSELÍQUIDOS 224 B65G-DISPOSITIVOSDETRANSPORTEOUARMAZENAGEM 173 C-QUÍMICAEMETALURGIA 11.459 C07C-COMPOSTOSACÍCLICOSOUCARBOCÍCLICOS 514 C07D-QUÍMICAORGÂNICA-COMPOSTOSHETEROCÍCLICOS 330 C08F-COMPOSTOSMACROMOLECULARESOBTIDOSPORREAÇÕES 183 C09D-COMPOSIÇÕESDEREVESTIMENTO,TINTAS,VERNIZESOULACAS 179 C04B-LIMA;MAGNÉSIA;ESCÓRIA;CIMENTO 177 C08L-COMPOSIÇÕESDECOMPOSTOSMACROMOLECULARES 169 C08G-COMPOSTOSMACROMOLECULARESOBTIDOSDEOUTRAFORMA 176 C12N-MICROORGANISMOSOUENZIMAS 156 D-TÊXTEISEPAPEL 750 E-CONSTRUÇÕESFIXAS 2.578 E21B-TERRAOUPERFURAÇÃODEROCHA F-ENGENHARIAMECÂNICA;ILUMINAÇÃO;AQUECIMENTO;ARMA 7.821 F16L-TUBOS;JUNTASOUCONEXÕESPARATUBOS 198 F16H-ENGRENAGEM 189 G-FÍSICA 8.268 G01N-PROPRIEDADEDEMATERIAISEMSUASPROPRIEDADESQUÍMICASOUFÍSICAS 267 G06F-PROCESSAMENTODEDADOSDIGITAISELÉTRICOS 258 H-ELETRICIDADE 13.608 H04N-COMUNICAÇÃOPICTORIAL-TELEVISÃO 369 H04W-REDESDECOMUNICAÇÃOSEMFIO 247 H01L-DISPOSITIVOSSEMICONDUTORES 188 H02K-MÁQUINASDINÂMICO-ELÉTRICAS 181 H01H-INTERRUPTORESELÉTRICOS;RELÉS;SELECTORES 171 H04L-TRANSMISSÃODEINFORMAÇÃODIGITAL 160 H04B-TRANSMISSÃO 155 Quadro2.Principaisclassi ficaçõesCIPnosregistrosdepatentesdoestudo.
+Na média, cada registro de patente apresenta seis classificações, sendo elas atribuídas pelo próprio depositante, ou pelos avaliadores quando na análise da patente.
+DOI:10.5380/atoz.v9i1.70281 AtoZ:novaspráticaseminformaçãoeconhecimento,9(1),11-21,jan./jun.2020Scartassini,Alves,Bochi,GabrielJunior&Moura PatentesprioritáriasdepositadasnoBrasil 19 CONSIDERAÇÕESFINAIS O reflexo dos depósitos das patentes brasileiras na via PCT apresenta um comportamento destoante do que aponta a literatura, pois dos registros coletados apenas 3,16% dos depósitos estenderam o pedido de proteção na via PCT, sinalizando, em um primeiro momento, que as patentes geradas no Brasil não optam por essa modalidade.
+Acredita-se que o alto custo para a proteção internacional seja um dos fatores que desmotivam os inventores a estender o pedido de proteção pela via PCT.
+Observou-se também que a grande maioria dos depósitos são de empresas multinacionais, oriundas dos EUA, China, Suécia, França, Japão, Alemanha e Itália.
+No Brasil, o destaque ficou para as universidades UNICAMP e Universidade Federal de Minas Gerais.
+Ressalta-se que, mesmo com este baixo quantitativo de depósitos pela via PCT demonstrada nas análises, estas 109 empresas, sendo destacadas 17 delas, são consideradas produtivas dentro do domínio analisado a partir dos pressupostos da Lei do Elitismo de Price (1986).
+A partir disso, pode-se atestar a utilização das leis propostas originalmente para estudos bibliométricos e cientométricos, para análises patentométricas e de produções tecnológicas com as devidas adaptações referentes a autores, depositantes e inventores.
+Observando o corpus da pesquisa, constatou-se um declínio do número de requisições nos últimos anos, sendo necessário uma comprovação futura se este efeito ocorreu por questões econômicas brasileiras ou é reflexo da velocidade de indexação das patentes na base DII.
+Entretanto, esse fato não impactou nas análises dos depositantes mais produtivos e das classificações, pois o período de abrangência da análise foi de 16 anos, suficiente para uma análise diacrônica.
+Conclui-se que apenas 3,16% das patentes depositadas prioritariamente no Brasil estão também protegidas pela via PCT e, destas, 70% são de multinacionais.
+Faz-se necessária a realização de estudos qualitativos para aprofundamento e compreensão desta questão, de forma a investigar se este percentual é uma característica brasileira ou se essa ocorrência é uma prática destoante dos demais países produtores de conhecimentos tecnológicos.
+Como estudos futuros, pretende-se realizar análises tendo por foco apenas as patentes depositadas pelos países da América Latina na via PCT, de forma a verificar se demais países similares ao Brasil em termos sociais e econômicos, apresentam o mesmo tipo de comportamento referente a sua produção tecnológica.
+O objeto de estudo poderá ser as universidades brasileiras e latino-americanas, já que se compreende que são nessas instituições que grande parte das pesquisas são realizadas no Brasil, resta investigar se o mesmo ocorre em países latino-americanos.
+DOI:10.5380/atoz.v9i1.70281 AtoZ:novaspráticaseminformaçãoeconhecimento,9(1),11-21,jan./jun.2020Scartassini,Alves,Bochi,GabrielJunior&Moura PatentesprioritáriasdepositadasnoBrasil 20 REFERÊNCIAS Almeida, J. R. G. S., Oliveira-Junior, R. G., Rabêlo, S. V., Araújo, C. S., Silva, J. C., & Diniz, T. C. (2014).
+Prospecção tecnológica do gênero annona (annonaceae).
+Revista GEINTEC ,4(2), 850–888.
+Recuperado de .revistageintec.net/index.php/revista/article/view/319.
+Barbieri, J. C., & Álvares, A. C. T. (2005).
+Estratégia de patenteamento e licenciamento de tecnologia: conceitos e estudo de caso.
+Revista Brasileira de Gestão de Negócios , 7(17), 58–68.
+Barragán-Ocaña, A., Gómez-Viquez, H., Merritt, H., & Oliver-Espinoza, R. (2019).
+Promotion of technological development and determination of biotechnology trends in five selected latin american countries: An analysis based on pct patent applications.
+Electronic Journal of Biotechnology , 37, 41–46.
+doi: 10.1016/j.ejbt.2018.10.004.
+A era lula e sua questção econômica principal crescimento, mercado interno e distribuição de renda.
+Revista do Instituto de Estudos Brasileiro ,58, 263–288.
+Derwent innovations index ajuda.Recuperado de WOKRS521R5/help/pt_BR/DII/hp_full_record.html.
+Projeto de pesquisa: métodos qualitativos, quantitativos, e misto.
+A., Guimarães, E. R., & Contador, J. C. (2009).
+Patente como instrumento competitivo e como fonte de informação tecnológica.
+Gestão & Produção ,16(2), 209– 221. doi: 10.1590/S0104-530X2009000200005.
+Gabriel Junior, R. F., & Laipelt, R. C. (2019).
+Descrição das relações semânticas para aplicação em kos: uso do tesauro semântico aplicado (thesa).
+Revista P2P e Inovação ,6(1), 117–135.
+Garcez Junior, S. S., & Moreira, J. J. S. (2017).
+O backlog de patentes no brasil: o direito à razoável duração do procedimento administrativo.
+Revista de Direito FGV ,13(1), 171–203.
+Recuperado de index.php/revdireitogv/article/view/68912/66505.
+Recuperado de index.php/res/v/5973.
+Bibliometrics as a research field: a course on theory and application of bibliometric indicators.
+Patentometría: herramienta para el análisis de oportunidades tecnológicas.
+Universidad de La Habana, Havana, Cuba.
+Instituto Nacional de Propriedade Industrial (INPI).
+Recuperado de inpi/pt-br/servicos/marcas/guia-basico.
+Kiškis, M., & Limba, T. (2016).
+Biotechnology patenting in small countries: strategies for the international marketplace.Biotechnology Law Report ,35(6), 291–299.
+doi: 10.1089/blr.2016.29035.mk.
+Intellectual Property & Technology Law Journal ,24(1), 21–24.
+O papel da informetria e da cienciometria e sua perspectiva nacional e internacional.
+Ciência da Informação ,27(2), 134–140.
+doi: 10.1590/S010019651998000200005.
+Applied evaluative informetrics.
+Mueller, S. P. M., & Perucchi, V. (2014).
+Universidades e a produção de patentes: tópicos de interesse para o estudioso da informação tecnológica.
+Perspectivas em Ciência da Informação ,19(2), 15–36.
+Patents as indicators for the evaluation of industrial research output.
+Scientometrics ,34(3), 489–496.
+doi: 10.1007/s11192-012-0743-4.
+Lessons for the sadc from the indian case of novartis ag v union of india.
+African Journals Online , 18(4), 783–815.
+Recuperado de scielo.php?frbrVersion=3&script=sci _arttext&pid=S1727 -37812015000400003&lng=en&tlng=en.
+Noruzi, A., & Abdekhoda, M. (2012).
+Mapping iranian patents based on international patent classification (ipc), from 1976 to 2011.
+Estudos métricos da informação no brasil: indicadores de produção, colaboração, impacto e visibilidade .
+and beyond.New York: Columbia University Press.
+insights from a semiconductor industry.
+Santos, D. A., Winter, E., & Souza Junior, M. B.
+Panorâmica atual da tecnologia verde de gaseificação no brasil: uma abordagem via documentação patentária.
+Revista Verde de Agroecologia e Desenvolvimento Sustentável ,9(1), 98–110.
+Recuperado de index.php/RVADS/article/view/2661.
+Silva, K., Godinho, M. M., & Tonholo, J.
+Patentes acadêmicas no brasil: nova perspectiva de contribuição das universidades na via pct.
+In 4 encontro brasileiro de bibliometria e cientometria.
+Recuperado de https:// www.brapci.inf.br/index.php/article/download/27174.
+Silva, K., & Vasconcellos, A. G. (2016).
+Academic inventors and patent rights: structure of collaboration in academic patents and university patents in brazil.
+Marketing and Management of Innovations ,3, 21–33.
+Silva, K., Vasconcellos, A.G., Tonholo, J.,&Godinho, M.M.
+Academic patenting in brazil: the role of academic inventors in pct patent applications – 2002-2012.
+Academia Revista Latinoamericana de Administración ,30(4), 529– 546.
+The international preliminary examination of patent applications filed under the patent cooperation treaty: a proxy for patent value?
+doi: 10.1007/s11192-007-1837-x.
+Estudos bibliométricos: procedimentos metodológicos e contribuições.
+Revista de Ciências Jurídicas e Empresariais ,15(2), 211–220.
+World Intellectual Property Organization (WIPO).
+World Intellectual Property Organization (WIPO).
+(2017).Perguntas e respostas sobre pct.
+Recuperado de _facts/ faqs_about_the_pct.pdf.
+DOI:10.5380/atoz.v9i1.70281 AtoZ:novaspráticaseminformaçãoeconhecimento,9(1),11-21,jan./jun.2020Scartassini,Alves,Bochi,GabrielJunior&Moura PatentesprioritáriasdepositadasnoBrasil 21 Como citar este artigo (APA): Scartassini, V. B., Alves, T. M., Bochi, F. B., Gabriel Junior, R. F. & Moura, A. M. M. de (2020).
+Patentes prioritárias depositadas no Brasil e com proteção na via Patent Cooperation Treaty (PCT).
+AtoZ: novas práticas em informação e conhecimento, 9 (1), 11 – 21.
+Recuperado de: .70281 DOI:10.5380/atoz.v9i1.70281 AtoZ:novaspráticaseminformaçãoeconhecimento,9(1),11-21,jan./jun.2020

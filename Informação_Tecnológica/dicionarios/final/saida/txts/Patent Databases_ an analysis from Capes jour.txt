@@ -1,0 +1,288 @@
+DOI: 1500Cadernos de Prospecção – Salvador, v. 12, n. 5, p. 1500-1515, dezembro, 2019Bases de Dados de Patentes: uma análise a partir do portal de periódicos da CAPES Patent Databases: an analysis from CAPES journal portal Maria Elizabeth Santos Soares1 Geovane Gomes de Araújo2 Etelvina Maria Marques Moreira2 Josimary Horta de Araujo2 Joelia Marques de Carvalho2 1Universidade de Fortaleza, Fortaleza, CE, Brasil 2Instituto Federal de Educação Ciência e Tecnologia do Ceará, Fortaleza, CE, Brasil Resumo Esta pesquisa analisa as bases de dados de patentes disponibilizadas no Portal de Periódicos da Capes com o objetivo de apresentar informações sobre as características de cada base, considerando-se os critérios utilizados no processo de busca e recuperação da informação na análise dos documentos de patentes.
+Trata-se de bases acessíveis por meio eletrônico, com abrangência nacional e internacional e cobertura de todos os campos tecnológicos.
+Desse modo, este trabalho possibilita a análise de informações tecnológicas contidas nas bases de patentes como um recurso informacional estratégico para a atividade de prospecção de novas tecnologias.
+A análise das bases de patentes do Portal da Capes possibilita um conhecimento mais profundo do potencial e da limitação de cada base para a obtenção de informações consistentes que possam colaborar na realização de estudos futuros.
+A pesquisa mostra que as informações patentárias podem ser disponibilizadas e grandemente utilizadas dentro de universidades e centros de pesquisa.
+Palavras-chave: Avaliação de Bases de Dados.
+Abstract This research analyzes the patent databases available on the Capes Journal Portal in order to present information on the characteristics of each database, considering the criteria used in the process of searching and retrieving information in the analysis of patent documents.
+These are bases accessible by electronic means, with national and international coverage and coverage of all technological fields.
+Thus, this work enables the analysis of technological information contained in patent bases as a strategic information resource for the prospecting activity of new technologies.
+The analysis of the Portal da Capes patent bases allows a deeper knowledge of the potential and limitation of each base to obtain consistent information that may collaborate in future studies.
+Research shows that patent information can be made available and widely used within universities and research centers.
+Área Tecnológica: Propriedade Intelectual.
+Artigo recebido em: 30/07/2019 Revisado em: 16/08/2019 Aprovado em: 13/09/2019Direito autoral e licença de uso: Este artigo está licenciado sob uma Licença Creative Commons.Com essa licença você pode compartilhar, adaptar, para qualquer im, desde que atribua a autoria da obra, forneça um link para a licença, e indicar se foram feitas alterações.1501Cadernos de Prospecção – Salvador, v. 12, n. 5, p. 1500-1515, dezembro, 2019Bases de Dados de Patentes: uma análise a partir do portal de periódicos da CAPES 1 Introdução O documento de patente é uma importante fonte de informação para pesquisadores, inventores, empreendedores, assim como para todos os interessados em conhecer o desenvolvimento de uma dada tecnologia em nível nacional e mundial.
+De acordo com o Instituto Nacional da Propriedade Industrial (INPI), a patente pode ser definida como: Um título de propriedade temporário, oficial, concedido pelo ESTADO, por força de lei, ao seu titular ou seus sucessores (pessoa física ou pessoa jurídica), que passam a possuir os direitos exclusivos sobre o bem, seja de um produto, de um processo de fabricação ou aperfeiçoamento de produtos e processos já existentes, objetos de sua patente.
+(INPI, 2019) No Brasil, a Lei de Propriedade Industrial (LPI) – Lei n. 9.279, de 14 de maio de 1996, que regula direitos e obrigações relativas à propriedade industrial, prevê dois tipos de proteção de patentes: as patentes de invenção (PI) e as patentes de modelo de utilidade (MU) (BRASIL, 1996).
+A documentação de patente contém informações tecnológicas importantes para pesquisadores, inventores, empresas e instituições de ensino e pesquisa.
+A utilização dos documentos de patentes, como fonte de informação tecnológica, traz diversas vantagens, tais como: a quantidade de documentos disponibilizados em todos os segmentos tecnológicos, o que assegura um vasto leque de informações oferecidas por meio de seus documentos.
+Além disso, ressalta-se o acesso aos conteúdos por meio de bases de dados em meio eletrônico, o que facilita enormemente a busca e o uso das informações dos documentos de patentes.
+O presente artigo está dividido em cinco partes.
+Inicialmente é apresentado o conceito de patente e a importância da utilização dos documentos de patentes em todos os segmentos tecnológicos.
+Em seguida, discorre-se sobre banco de dados de patentes.
+Logo após, é mostrado o Portal de Periódicos da Capes e seu acervo.
+Posteriormente, são abordadas as bases de dados de patentes disponíveis no Portal da Capes, compreendidas na categoria de bases de fonte (INPI, Derwent Innovations Index (DII), Espacenet, Google Patents, Latipat, Patentscope e USPTO), bases referenciais (Reaxys e SciFinder Web) e de ferramenta de busca (The Lens).
+A última etapa consiste na análise das informações coletadas, considerando-se os critérios de funcionabilidade e usabilidade, previamente definidos.
+Nesse sentido, o presente artigo tem por objetivo identificar e apresentar as bases de dados de patentes disponíveis no Portal de Periódicos da Capes, suas principais características e usos potenciais, para possibilitar aos pesquisadores e estudiosos uma visão mais detalhada das funcionalidades das referidas bases e, consequentemente, a utilização mais eficiente das informações nelas contidas.
+2 Bases de Dados de Patentes As bases de dados de patentes configuram-se em ferramentas imprescindíveis de apoio à pesquisa e podem ser utilizadas em inúmeras atividades no meio acadêmico, além da função de auxiliar na elaboração de documentos de patente.
+Elas apresentam informações de conteú -1502Cadernos de Prospecção – Salvador, v. 12, n. 5, p. 1500-1515, dezembro, 2019Maria Elizabeth Santos Soares, Geovane Gomes de Araújo, Etelvina Maria Marques Moreira, Josimary Horta de Araujo, Joelia Marques de Carvalho do valioso e significativo, principalmente no que diz respeito às tecnologias aplicadas aos mais diferentes ramos da indústria.
+As bases de dados de patente podem ser utilizadas para as mais variadas finalidades, dentre elas a prospecção tecnológica com a finalidade de identificar oportunidades de exploração ou aprimoramento de tecnologias patenteadas ou em domínio público.
+Apesar de a proteção concedida à patente ser de caráter territorial, a informação contida nos documentos circula de modo global.
+Assim sendo, o documento de patente pode ser considerado uma fonte de informação única, tanto pelo padrão de apresentação quanto pela atualidade das informações ali contidas.
+Dessa forma, assegura-se a efetiva circulação da informação técnica qualificada que embasa novos estudos, novas pesquisas e novos conhecimentos, como forma de estimular e recompensar a capacidade criadora do ser humano.
+A ampliação do acesso à tecnologia da informação e o desenvolvimento dos meios eletrônicos de distribuição e recuperação possibilitou um aumento expressivo do número de documentos de patentes acessíveis em formato digital para consulta e utilização das informações compreendidas neles.
+Nesta perspectiva, surgiu a necessidade de se conhecer em maior profundidade as informações contidas nos documentos de patentes, onde encontrá-las e como recuperá-las.
+3 Portal de Periódicos da Capes O Portal de Periódicos da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes) é uma biblioteca virtual que reúne e disponibiliza, a instituições de ensino e pesquisa no Brasil, o melhor da produção científica mundial.
+Ele conta com um acervo de mais de 45 mil títulos com texto completo, 130 bases referenciais, 12 bases dedicadas exclusivamente a patentes, além de livros, enciclopédias e obras de referência, normas técnicas, estatísticas e conteúdo audiovisual.
+De acordo com Almeida, Guimarães e Alves (2010, p. 220): O Portal de Periódicos é um instrumento de política pública para subsidiar o acesso ao conhecimento científico, gerido pela Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes).
+o Portal se constitui hoje em um dos maiores acervos mundiais nesse setor e é atualmente o principal mecanismo para o apoio bibliográfico às atividades de C,T&I no Brasil, o que garantiu uma base para os excepcionais avanços recentes da ciência brasileira.
+Nesse sentido, o Portal de Periódicos é considerado um modelo de consórcio de bibliotecas singular no mundo, por ser integralmente financiado pelo governo brasileiro e ter a maior abrangência no planeta, cobrindo todo o território nacional.
+A plataforma atende às demandas dos setores acadêmicos, produtivo e governamental caracterizando-se como uma ferramenta primordial de incentivo, avaliação e sistematização dos cursos de Pós-Graduação e do desenvolvimento da pesquisa científica nacional, buscando socializar o acesso online à informação científica mundial de alto nível.
+O Portal oferece inúmeras vantagens aos pesquisadores, estudantes e à sociedade em geral, tais como: facilidade de acesso às melhores publicações mundiais; acesso ao conhecimento cien -1503Cadernos de Prospecção – Salvador, v. 12, n. 5, p. 1500-1515, dezembro, 2019Bases de Dados de Patentes: uma análise a partir do portal de periódicos da CAPES tífico e tecnológico, em permanente atualização; e democratização do conhecimento científico gerado no país.
+O acervo existente no Portal de Periódicos da Capes oferece: [.]
+o acesso a textos completos disponíveis em mais de 45 mil publicações periódicas, internacionais e nacionais, e a diversas bases de dados que reúnem desde referências e resumos de trabalhos acadêmicos e científicos até normas técnicas, patentes, teses e dissertações dentre outros tipos de materiais, cobrindo todas as áreas do conhecimento.
+Inclui também uma seleção de importantes fontes de informação científica e tecnológica de acesso gratuito na web.
+(CAPES, 2019) Em relação ao escopo do presente trabalho, o Portal oferece 458 bases das quais 10 são bases de patentes, sendo 7 de texto completo, 2 referenciais e 1 base de ferramenta de busca.
+4 Metodologia O estudo baseou-se em uma pesquisa bibliográfica, onde foram consultadas diversas fontes, tais como, periódicos, dissertações e sites.
+Caracterizou-se como pesquisa exploratória e descritiva, uma vez que buscou informações específicas.
+De acordo com Gil (2009, p. 42), [.]
+as pesquisas descritivas têm como objetivo primordial a descrição das características de determinada população ou fenômeno, ou, então, o estabelecimento de relações entre variáveis e uma de suas características mais significativas está na utilização de técnicas padronizadas de coleta de dados, tais como o questionário e a observação sistemática.
+Foram analisadas, 8 bases de fontes (INPI, Derwent Innovations Index (DII), Espacenet, Google Patents, Latipat, Patentscope e USPTO); 2 bases referenciais (Reaxys (nova versão) e SciFinder Web) e 1 ferramenta de busca (The Lens).
+Embora o Portal de Periódicos da Capes disponha de duas versões da base Reaxys, para efeito do presente estudo, levou-se em consideração apenas a versão mais recente.
+As informações foram coletadas das bases de dados disponibilizadas pelo Portal de Periódicos da Capes e pelos sites oficiais das empresas proprietárias das referidas bases.
+As buscas foram realizadas entre os meses de maio e junho de 2019.
+O acervo do Portal é constituído de três coleções: periódicos, livros e bases de dados, tendo sido a pesquisa realizada na coleção "bases de dados", a partir da opção "buscar base".
+Em seguida, foi utilizada a opção de busca avançada para selecionar apenas as bases de dados de patentes.
+Esta busca foi feita no campo denominado "Tipo", no qual selecionou-se a opção "Patentes", sem considerar as bases nacionais ou de acesso gratuito.
+O resultado da busca mostrou 11 bases de dados, sendo 1 base (Reaxys) indicada duas vezes - na versão original e na atualizada.
+Realizou-se o estudo das bases de dados de patentes contidas no Portal, enquadradas na categoria de bases de fonte, a saber: INPI, Derwent Innovations Index (DII), Espacenet, Google Patents, Latipat, Patentscope e USPTO.
+Em seguida, foram apresentadas, sucintamente, as duas bases de dados referenciais: Reaxys (nova versão) e SciFinder Web.
+Por fim, foi apresentada a ferramenta de busca The Lens.1504Cadernos de Prospecção – Salvador, v. 12, n. 5, p. 1500-1515, dezembro, 2019Maria Elizabeth Santos Soares, Geovane Gomes de Araújo, Etelvina Maria Marques Moreira, Josimary Horta de Araujo, Joelia Marques de Carvalho Para o estudo das bases de dados de fontes foram adotados os critérios de usabilidade e funcionalidade, de acordo com a literatura especializada e, para isso, foram consultados Mesquita et al.
+(2006 apud SILVA, 2012) que elaboraram um checklist para avaliar recursos disponíveis nas bases de dados Derwent Innovations Index e Espacenet, assim como Rowley (2002, cap.
+50), que definiu critérios semelhantes para análise de bases de dados.
+Os critérios considerados foram agrupados em três categorias, a fim de permitir maior objetividade ao estudo.
+São elas: 1) Identificação da base e características gerais: englobam informações sobre a base, hospedagem na Web, editor responsável e os demais critérios quais sejam, acessibilidade; cobertura geográfica e de conteúdo; período de abrangência; atualização da informação; suporte ao usuário; 2) Recursos de busca: abrangem os critérios de meios de pesquisa; linguagem de busca; campos de pesquisa; combinação de termos de pesquisa; caracteres de proximidade e truncamentos utilizados nas expressões de busca; operadores booleanos; e 3) Resultados da busca: compreendem os critérios sobre informações apresentadas; disponibilização do documento original; registro da patente; famílias de patente; situação legal da patente; citações de patentes; limite de resultados para acesso; salvamento e exportação dos resultados; refinamento, combinação, análise dos resultados e apresentação por meio de gráficos.
+Além dos recursos oferecidos pelas bases foi realizada a coleta de informações adicionais, por meio de consulta à opção "Ajuda" ou "Help", quando disponível na base analisada e/ou no portal institucional do editor.
+No tocante às bases Reaxys, SciFinder Web e The Lens, por se tratarem de plataformas que remetem a fontes primárias, optou-se por fazer uma apresentação sucinta destas, sem levar em consideração os critérios adotados para a análise das demais bases.
+A última etapa consistiu em apresentar os resultados de cada base analisada, segundo os critérios de usabilidade e funcionalidade, previamente definidos.
+5 Análise das Bases de Dados de Fontes 5.1 Base de Patentes do INPI A base tem por objetivo disponibilizar aos usuários da Internet os pedidos registrados no INPI, informando o andamento de cada um deles.
+De uso gratuito, permite o acesso aos dados bibliográficos, ao estado jurídico do direito, ao histórico dos processos e à informação técnica das invenções registradas.
+A cobertura geográfica da base é de patentes registradas no Brasil (INPI, 2019).
+Foi criada em 1992, sendo os pedidos depositados publicados na Revista da Propriedade Industrial (RPI).
+A partir de 2009, a RPI passou a publicar, também, os contratos de tecnologia.
+A base disponibiliza, também, a busca de patentes (de invenção e de modelo de utilidade) concedidas, cuja vigência expirou ou deverá expirar, de acordo com os prazos estabelecidos na legislação de propriedade industrial, sendo atualizada semanalmente, de acordo com as informações publicadas na Revista da Propriedade Industrial (RPI).
+As buscas só podem ser feitas em português.1505Cadernos de Prospecção – Salvador, v. 12, n. 5, p. 1500-1515, dezembro, 2019Bases de Dados de Patentes: uma análise a partir do portal de periódicos da CAPES Para orientar a realização das buscas há dois guias: o básico e o avançado.
+O guia básico é direcionado para iniciantes e está dividido em quatro módulos: busca na base do INPI, do Latipat, do Espacenet e do Patentscope.
+O guia de introdução à Classificação Internacional de Patentes (CIP) e o guia de operadores lógicos em busca de patentes complementam o guia básico.
+O guia avançado tem enfoque em buscas mais específicas e está dividido em três módulos: busca por depositante no Brasil e no exterior; busca por nome do inventor; busca por palavras-chave e por Classificação Internacional de Patentes.
+O guia de introdução à Classificação Cooperativa de Patentes (CPC) complementa o guia avançado.
+Por fim, suplementando os guias, há o tutorial específico 1 "Compostos Químicos" que orienta a busca de patentes relacionadas a compostos químicos em bases gratuitas.
+Todos os guias são atualizados, periodicamente, e estão disponíveis para download .
+Os recursos de busca oferecem as opções de pesquisa básica e avançada.
+Na interface da pesquisa básica estão disponíveis os seguintes campos de busca: n. do pedido; n. da Guia de Recolhimento da União (GRU); n. do protocolo, atribuído à petição solicitada; palavras-chave ou expressões contidas no título, no resumo, no nome do depositante, no nome do inventor, no CPF ou CNPJ do depositante.
+Ao lado de cada campo de busca, básica ou avançada, há um ícone onde é possível visualizar uma janela de ajuda rápida para a construção da busca.
+Em ambas as buscas, é possível escolher o número de processos a serem visualizados por página, no resultado da busca.
+A busca avançada pode ser feita anonimamente ou por meio de cadastro de login e senha, opção que permite ao usuário o acesso a mais serviços, como a disponibilização de documentos.
+Os campos da busca avançada estão agrupados em cinco categorias: números, datas, classificação, palavra-chave e depositante/titular/inventor.
+Na categoria "Números" a base permite acesso ao calendário de patentes expiradas ou a expirar e patentes concedidas.
+Na categoria "Palavra-chave" é permitida a busca por termo simples ou a combinação de termos, utilizando-se os operadores booleanos AND, OR e AND NOT, estes últimos apenas na busca avançada.
+O resultado da busca mostra a data e hora em que a busca foi realizada, os termos e os campos de busca indicados, a quantidade de registros mostrados que satisfazem aos critérios de pesquisa e o número de páginas que comportam a listagem dos resultados.
+O resultado mostra, também, um quadro onde constam o número do pedido, a data do depósito, o título da patente e a classificação CIP .
+É possível visualizar informações mais detalhadas do pedido a partir do link "Número do pedido".
+É permitido download para a leitura do documento na íntegra ou para impressão.
+Além disso, a base fornece a data da última atualização dos dados.
+5.2 Derwent Innovations Index (DII) A DII é uma base de dados comercial, representada pela empresa americana Thomson Reuters, com acesso através da plataforma eletrônica Web of Science.
+No entanto, o Portal de Periódicos da Capes a disponibiliza, de forma gratuita, à comunidade acadêmica brasileira da rede federal de ensino superior.
+A base é indexada nas áreas de química, engenharia, eletricidade e eletrônica, e fornece acesso a mais de 30 milhões de invenções descritas em cerca de 65 milhões de documentos de patentes obtidos de mais de 50 órgãos emissores.
+Inclui, ainda, o Derwent Chemistry Resource, um banco de dados de estruturas químicas, cuja assinatura pode ser feita separadamente.
+1506Cadernos de Prospecção – Salvador, v. 12, n. 5, p. 1500-1515, dezembro, 2019Maria Elizabeth Santos Soares, Geovane Gomes de Araújo, Etelvina Maria Marques Moreira, Josimary Horta de Araujo, Joelia Marques de Carvalho A ferramenta inclui patentes citadas desde 1963 e patentes de citação desde 1973, assim como artigos citados e fontes de dados de patentes de texto completo.
+A atualização dos dados é realizada semanalmente.
+A base oferece a opção de "Ajuda" através de um sumário, organizado em tópicos de ajuda, como também por meio de conteúdo organizado em um índice alfabético, além de permitir o download do arquivo de ajuda.
+A interface da base pode ser visualizada em inglês, chinês, japonês, coreano, português, russo e espanhol, no entanto as pesquisas podem ser realizadas apenas em inglês.
+No tocante aos recursos de busca, a DII oferece as opções de pesquisa básica, avançada e de patente citada.
+A pesquisa básica permite a busca nos seguintes campos: tópico (assunto), título, inventor, depositante, número da patente, código manual no Derwent, número de acesso primário no Derwent ou PAN (número de identificação exclusivo atribuído pelo Derwent a cada documento) e Classificação Internacional de Patentes (CIP).
+Para cada pesquisa pode-se selecionar até três campos de busca.
+A pesquisa avançada apresenta apenas um campo de busca que permite inserir rótulos de campo como, por exemplo, TI para título ou AU para inventor.
+Permite, ainda, inserir os operadores booleanos AND, OR, NOT e SAME.
+Fornece, inclusive, índice para busca de inventores e listas para as classificações de patentes.
+Uma terceira opção é a pesquisa de patente citada, onde é possível encontrar as patentes que citam uma ou mais patentes.
+Todas as buscas podem ser delimitadas, cronologicamente.
+Para cada patente indicada no resultado da busca são informados: o número de registro do pedido, o título, o nome do depositante e do (s) inventor (es) e o número de acesso primário no Derwent, além de informações mais detalhadas.
+É facultado o acesso ao documento original.
+A base permite a análise dos resultados da pesquisa considerando o número de patentes encontradas por área de conhecimento, possibilitando ainda o seu refinamento.
+É possível visualizar os dados analisados através do mapa de árvore ou por gráfico de barras.
+A DII possibilita exportar os registros selecionados, imprimir, enviar por e-mail ou salvar os históricos das pesquisas.
+5.3 Espacenet A Espacenet é uma base de dados de acesso gratuito desenvolvida pelo European Patent Office (EPO), órgão oficial responsável pela gestão da propriedade intelectual, incluindo recebimento de pedidos, análise e concessão de patentes em nível europeu.
+Foi desenvolvida em conjunto com os estados membros da EPO.
+A base contém registos de patentes originários de mais de 90 países.
+Seu acervo abrange, também, as bases de dados Worldwide Database e Wipo Database.
+A base disponibiliza informações sobre invenções e desenvolvimentos técnicos desde o ano de 1836 até o presente e dispõe de cerca de 110 milhões de documentos de patentes com atualização semanal.
+A base tem interface em vários idiomas, inclusive o português, sendo permitida a busca por qualquer um deles.
+A página inicial oferece link para os manuais de ajuda nas seguintes modalidades: tutorial em video, fórum de discussão Espacenet e índices para ajuda rápida, FAQs (perguntas frequentes) e glossário de palavras e termos usados na base.
+Os tutoriais estão disponíveis em inglês, francês e alemão.1507Cadernos de Prospecção – Salvador, v. 12, n. 5, p. 1500-1515, dezembro, 2019Bases de Dados de Patentes: uma análise a partir do portal de periódicos da CAPES Quanto aos recursos de busca, a Espacenet oferece opções de pesquisa inteligente, avançada e por classificação.
+Por meio da pesquisa inteligente é possível inserir, em um só campo, até 20 termos de busca.
+Na pesquisa avançada é possível escolher, antecipadamente, a base a ser pesquisada.
+A busca pode ser realizada por meio de palavras-chave inseridas nos campos de título e de resumo.
+Também é possível pesquisar pelo número de publicação, número de pedido e número de prioridade, data de publicação do pedido da patente, nome do requerente, nome do inventor, classificação CIP e CPC.
+As buscas podem ser feitas por meio de termos ou combinação de palavras.
+A base permite o uso de símbolos genéricos para truncamento, assim como dos operadores booleanos AND ou OR.
+Possibilita, ainda, salvar o histórico de pesquisa.
+Além dos tutoriais, a base oferece uma breve explicação sobre a inclusão dos termos de busca, ao lado de cada campo disponibilizado.
+Referente ao resultado da busca, a base apresenta uma lista dos resultados, com opções de seleção dos registros, visualização pelo modo compacto ou estendido, exportação dos dados, download e impressão.
+Cada patente mostrada apresenta os dados do título, do inventor, do requerente, das classificações CPC e CIP , além da data de prioridade.
+Uma singularidade apresentada nesta base é a opção de realizar, previamente, a configuração do resultado da busca.
+Os resultados da busca são ordenados por data de introdução na base de dados, sendo exibidos, no máximo, 500 resultados por pesquisa.
+5.4 Google Patents O Google Patents indexa mais de 87 milhões de patentes e pedidos de patentes com texto integral de 17 escritórios.
+A base foi lançada em 2006 e possui integração com o Google Acadêmico.
+Todas as patentes estrangeiras são traduzidas para o inglês.
+Em 2018, foram disponibilizadas na plataforma as informações sob litígio de patentes.
+A base oferece ajuda pelo link "About Google Patents".
+No que concerne aos recursos de busca, a pesquisa inicial é realizada na interface do Google, por meio de palavras-chave.
+Para realizar a pesquisa avançada é necessário acessar o menu "configurações".
+Essa funcionalidade permite a busca de patentes por: palavras-chave, número da patente, título, inventor, titular, número de classificação, tipo ou status da patente e data.
+A busca permite a utilização de sintaxe booleana no mesmo formato das bases USPTO e Espacenet.
+É possível ainda selecionar a quantidade de resultados por página.
+No resultado da pesquisa, o Google Patents mostra a quantidade de registros recuperados e possibilita o refino da busca por meio de cinco ferramentas: delimitador de tempo, escritório responsável, tipo de patente, status e relevância da patente.
+Cada registro de patente recuperado mostra o idioma do documento original, o título, as classificações, o inventor, o titular, o resumo, as datas da prioridade, do pedido e da publicação, a descrição e reivindicações, as patentes citadas, os links para as bases de dados proprietárias, as famílias de patentes e patentes similares.
+Além disso, possibilita o acesso ao documento original da patente, se estiver disponível na base proprietária, e o download em formato PDF .
+A base também dispõe de informações legais sobre o andamento do processo de pedido da patente.1508Cadernos de Prospecção – Salvador, v. 12, n. 5, p. 1500-1515, dezembro, 2019Maria Elizabeth Santos Soares, Geovane Gomes de Araújo, Etelvina Maria Marques Moreira, Josimary Horta de Araujo, Joelia Marques de Carvalho 5.5 Latipat A base Latipat é um ponto de acesso público com tecnologia Espacenet para a pesquisa de informações técnicas em espanhol e português nos documentos de patentes da América Latina e Espanha.
+Esta interface é resultado de um projeto de cooperação, iniciado em 2003, patrocinado pela Organização Mundial da Propriedade Intelectual (OMPI), pelo EPO e pela Oficina Española de Patentes y marcas, com a participação dos serviços nacionais de propriedade intelectual de países da América Latina, incluindo o Brasil.
+Uma vez que a coleção de registro de patentes da Latipat integra o portfólio de bases da Espacenet, o acesso é feito, a partir da interface inicial, por meio da busca avançada e da seleção prévia da coleção.
+As buscas podem ser realizadas em espanhol e português.
+5.6 Patentscope A plataforma, cuja editora é a OMPI, é um serviço de busca que permite realizar pesquisas em texto completo a cerca de 75 milhões de pedidos de registros de patentes internacionais e nacionais publicados desde 1978, incluindo cerca de 3.6 milhões de pedidos de patentes internacionais publicados via PCT (Tratado de Cooperação em Matéria de Patentes).
+A ferramenta abriga mais de 50 coleções nacionais e de escritórios regionais, inclusive a coleção brasileira, com 759.377 registros desde 1972.
+O acervo é composto de dados bibliográficos, resumos, documentos em imagens e documentos em texto integral indexado.
+A base disponibiliza ajuda por meio de tutoriais, lista de códigos, cobertura das bases de dados, perguntas frequentes e fale conosco.
+No que diz respeito aos recursos de busca, a interface de pesquisa está disponível em nove línguas, inclusive em português.
+Dispõe também de uma interface móvel, a Patentscope Mobile.
+A base oferece a possibilidade de realizar a configuração prévia da pesquisa e do resultado da busca, além de permitir a pesquisa simples, avançada, pela combinação de campos, pela expansão multilíngue e pelo nome de compostos químicos, este último somente em inglês.
+A Patentscope oferece uma grande variedade de operadores que auxiliam na combinação dos termos de pesquisa, assim como na personalização dos resultados de busca.
+São utilizados os operadores booleanos, de proximidade e de intervalos.
+Além destes, permite usar curingas na busca de termos variantes de uma raiz morfológica comum.
+O resultado da busca é mostrado conforme a definição feita na pré-configuração relativa à língua, aos campos exibidos, à apresentação e aos grupos incluídos na análise dos resultados.
+Além disso, a base possibilita, a partir do menu "Notícias", o acesso a notícias publicadas na página inicial do Patentscope relacionadas ao sistema de pesquisa.
+Um recurso adicional da plataforma é o menu "Navegação" com várias opções de navegabilidade.
+5.7 USPTO ( US Patent Full-text and Image Database ) A USPTO é um banco de dados de patentes multidisciplinar, administrado pelo United States Patent and Trademark Office e que armazena mais de 7 milhões de patentes.
+A ferramenta é composta pelas bases Issued Patents (PatFT), coleção de patentes concedidas, e Published Applications (AppFT), coleção de pedidos/depósitos de patentes que são atualizadas 1509Cadernos de Prospecção – Salvador, v. 12, n. 5, p. 1500-1515, dezembro, 2019Bases de Dados de Patentes: uma análise a partir do portal de periódicos da CAPES semanalmente.
+A interface comum oferece link para arquivos de ajuda com informações sobre como usar as páginas de pesquisa das duas bases.
+Para realizar pesquisas, deve-se selecionar previamente a base desejada.
+Os recursos de busca permitem a pesquisa rápida, avançada e por número da patente.
+A pesquisa rápida pode ser realizada utilizando até dois termos de busca nos campos disponíveis, com o emprego de operadores booleanos e da seleção de intervalo de datas.
+O sistema está configurado para a pesquisa em até 55 campos.
+Para consultas mais detalhadas, utiliza-se a pesquisa avançada, onde é possível inserir uma estratégia de pesquisa, por meio de uma sintaxe composta de vários termos de busca, separados por operadores booleanos.
+A ferramenta permite refinar a pesquisa utilizando-se a mesma sintaxe e o mesmo intervalo de datas da pesquisa original.
+No tocante ao resultado da busca, a base mostra 50 registros por página, contendo os títulos das patentes e os seus respectivos números.
+O documento pode ser visualizado na íntegra, com a permissão para impressão e download das imagens.
+Outras formas de auxílio à navegabilidade são disponibilizadas pela ferramenta.
+6 Bases de Dados Referenciais e de Ferramenta de Busca 6.1 Reaxys Reaxys é uma ferramenta licenciada pela Elsevier, que permite a recuperação de informações e dados relacionados à química orgânica, inorgânica e organometálica.
+A base é composta pelas coleções: Reaxys Medical Chemistry, PubChem, eMolecules, LabNetwork e Sigma Aldrich.
+A ajuda para utilização da base Reaxys é oferecida por meio de: perguntas frequentes, manuais e guias, tutoriais em vídeo e treinamentos via webinars .
+6.2 SciFinder Web A SciFinder Web é uma ferramenta de pesquisa, criada e administrada pela Chemical Abstracts Service (CAS) que permite recuperar e analisar, a partir de um único local, as informações de diferentes bases de dados na área de química e afins.
+A base de dados oferece informações de mais de 61 autoridades de patentes, incluindo patentes anteriores ao ano de 1907.
+Dispõe de oito bases de dados: CAPlus (referências de patentes, periódicos e conferências); CASRegistrer (registro de substâncias orgânicas e inorgânicas); CASREACT (informações sobre reações químicas e condições de reações); CHEMLIST (lista de substâncias químicas inventariadas ou controladas); CHEMCATS (informações sobre produtos químicos e fornecedores); MEDLINE (referências de artigos científicos, na área de ciências da vida); MARKUSH Structures (estruturas Markush que representam substâncias orgânicas e organometais de patentes).
+As bases têm atualização diária ou semanal e o acesso necessita de cadastro prévio.
+1510Cadernos de Prospecção – Salvador, v. 12, n. 5, p. 1500-1515, dezembro, 2019Maria Elizabeth Santos Soares, Geovane Gomes de Araújo, Etelvina Maria Marques Moreira, Josimary Horta de Araujo, Joelia Marques de Carvalho 6.3 The Lens The Lens ou Lente de Patentes é um recurso de pesquisa de patentes online fornecido pela Cambia, uma organização internacional independente e sem fins lucrativos, dedicada à democratização da inovação.
+A ferramenta foi lançada em 2000 e permite a busca de mais de 10 milhões de documentos de patentes de texto completo, incluindo pedidos e documentos de patentes dos Estados Unidos, Austrália, Europa e pedidos via PCT.
+A Lens oferece importantes recursos, tais como o vínculo com os dados regulatórios na forma do Livro Laranja da Food and Drug Administration (FDA), que abrange medicamentos aprovados com avaliação de equivalência terapêutica.
+Outro recurso interessante é a integração da plataforma Lens com o Gen Bank do Centro Nacional de Informações sobre Biotecnologia (NCBI), que armazena os dados da sequência biológica, realizada mediante o Projeto de Sequência de Lentes de Patente, iniciado em 2006, e que possibilita ao pesquisador explorar mais de 80 milhões de sequências de DNA e proteínas divulgadas em patentes.
+Além do mecanismo de busca de patentes a ferramenta The Lens também hospeda uma série de "paisagens tecnológicas", mapas de interpretação que analisam volumes de dados especializados de patentes, dados científicos, técnicos, comerciais em torno de tópicos específicos, tais como: o patenteamento do genoma humano e o gene da gripe.
+Por fim, resta mencionar que as atividades de paisagismo da Lente de Patentes tiveram considerável apoio da direção geral da OMPI diante do objetivo comum de tornar os sistemas de informação de patentes mais abrangentes e acessíveis.
+7 Resultados e Discussão A proteção dos resultados da pesquisa tecnológica estimula o investimento em inovação e difusão do conhecimento (OCDE, 2004).
+Nesse sentido, as patentes, como o tipo mais importante de proteção de propriedade industrial, têm sido utilizadas como fonte de informação sobre as tendências no desenvolvimento da pesquisa aplicada (MATTES; STACEY; MARINOVA, 2006 apud MANGLANO; ZULUETA, 2008, p. 146).
+A organização que deseja identificar tecnologias para obter vantagem competitiva, necessita de informações que subsidiem as tomadas de decisões.
+Nesse sentido, as patentes oferecem informação de grande valor, notadamente informação tecnológica que favoreça a empresa no mercado competitivo de sua atuação.
+Desse modo, as bases patentárias oferecem acesso às informações dos documentos de patentes que podem agregar valor aos produtos e serviços oferecidos pelas empresas.
+As bases de dados aqui analisadas, a despeito de apresentarem similaridades e particularidades, configuram-se importantes fontes de pesquisas nas atividades de prospecção tecnológica, assim como contribuem para a construção da inteligência competitiva organizacional.
+O acesso aos dados de patentes em bases ampliou significativamente as possibilidades de análise destes documentos em vários campos de pesquisa.
+Considerando-se o escopo de cada base e seus recursos é possível alcançar melhores resultados quando se utilizam as informações patentárias de mais de uma base, recorrendo, assim, à complementaridade na construção da 1511Cadernos de Prospecção – Salvador, v. 12, n. 5, p. 1500-1515, dezembro, 2019Bases de Dados de Patentes: uma análise a partir do portal de periódicos da CAPES informação tecnológica necessária à atividade de pesquisa e ao desenvolvimento de produtos e processos.
+A partir das informações do Quadro 1, é possível extrair algumas informações relevantes sobre as bases estudadas.
+Quadro 1 – Características das bases de patentes Fonte: Elaborado pelos autores deste artigo (2019) Conforme mostra o Quadro 1, todas as bases atendem aos critérios de usabilidade e funcionalidade, em maior ou menor grau.
+Quanto ao critério de abrangência geográfica, verifica-se que 4 bases contêm documentos de patentes do mundo todo (DII, Google Patents, Patentscope e USPTO), 1 abrange documentos da América Latina e Espanha (Latipat), 1 engloba mais de 90 países (Espacenet) e 2 possuem coleções de patentes do Brasil (INPI e Patentscope).
+As bases com maior quantidade de registros armazenados são: Espacenet (110 milhões), seguida da Google Patents (87 milhões) e da Patentscope (75 milhões).
+Não foi possível identificar o número de documentos armazenados na base do INPI.
+Concernente aos tipos de buscas permitidos, 100 % das bases oferecem, no mínimo, a opção de busca básica e avançada, sendo a Patentscope a base que propicia uma maior quantidade de opções, conforme demonstrado no Quadro 1.
+Todas as bases analisadas permitem realizar 1512Cadernos de Prospecção – Salvador, v. 12, n. 5, p. 1500-1515, dezembro, 2019Maria Elizabeth Santos Soares, Geovane Gomes de Araújo, Etelvina Maria Marques Moreira, Josimary Horta de Araujo, Joelia Marques de Carvalho combinação de termos ou elaboração de sintaxes de busca, com a utilização de operadores booleanos, elementos de truncamento e de proximidade.
+A base que oferece mais opções de busca é a Patentscope.
+Igualmente, 100 % das bases possibilitam o acesso ao texto completo do documento de patente, com ressalvas ao Google Patents, que condiciona esse acesso à política das bases proprietárias que integram sua plataforma.
+Do mesmo modo, em relação ao critério de formato de saída, todas as bases permitem o download dos dados ou a exportação dos registros para impressão.
+Apenas 2 bases se diferenciam das demais, pois além disso possibilitam salvar histórico de buscas (DII) ou fazer download de imagens (USPTO).
+Por fim, é importante destacar as singularidades de cada base, quais sejam: a base do INPI oferece consulta à Revista de Propriedade Industrial ; a DII permite a visualização dos resultados da busca por meio de gráficos e o envio do resultado da pesquisa por e-mail , além de disponibilizar o download do tutorial de ajuda; a Espacenet realiza a tradução da patente do idioma original para o inglês, além de dispor de tutoriais de ajuda em vídeo e de fórum de discussão; a Google Patents dispõe de informações sobre litígio de patentes e permite a busca integrada ao Google Acadêmico; a Latipat realiza buscas, também, em português, além de ofertar ajuda ao usuário por meio de vídeo e de fórum de discussão; a Patentscope hospeda em sua plataforma a base de dados de patentes do INPI e oferece, ainda, acesso à sua base pelo aplicativo Patentscope Mobile; a USPTO possibilita a impressão e o download de imagens.
+8 Considerações Finais De acordo com o estudo realizado é possível assinalar alguns aspectos das bases de dados de patentes, considerados importantes quando se pretende utilizar um sistema eficiente de recuperação de patentes.
+A primeira questão refere-se ao idioma.
+A diversidade de idiomas, existentes nas bases, permite acesso a documentos de diferentes fontes com distintos idiomas e se constitui em vantagem para o usuário.
+A cobertura cronológica dos registros das bases é outro recurso considerado importante, pois as bases permitem a inclusão de dados de patentes que abarcam um período cronológico considerável.
+Os registros de patentes incluem uma significativa quantidade de dados bibliográficos que proporcionam ao usuário a obtenção de informações que facilitam a realização das pesquisas.
+Outros recursos a serem mencionados referem-se à interface e às possibilidades de busca.
+Nos sistemas analisados, as interfaces são amigáveis em maior ou menor grau, além de disporem de opções de buscas direcionadas a distintos tipos de usuários ou de consultas.
+Nesse ponto, considera-se imprescindível a possibilidade de utilização dos operadores booleanos, tanto nos termos quanto nos campos de busca.
+Igualmente importante mencionar é a variedade de tipos de buscas viáveis que proporcionam um valor adicional aos sistemas de busca disponibilizados pelas bases analisadas.
+A apresentação dos resultados de busca é outro artifício bem utilizado pelas bases avaliadas, uma vez que apresentam uma gama de dados, onde o usuário pode eleger as informações relevantes ao objetivo de sua pesquisa.
+Os conteúdos de ajuda e as instruções de utilização das bases de dados configuram-se em mecanismo fundamental para qualquer sistema de recuperação da informação por facilitar ao 1513Cadernos de Prospecção – Salvador, v. 12, n. 5, p. 1500-1515, dezembro, 2019Bases de Dados de Patentes: uma análise a partir do portal de periódicos da CAPES usuário uma ampla visão de quais dados pode encontrar e como recuperá-los em determinada base.
+Os recursos extras incluídos em algumas bases podem ser caracterizados como artifícios de diversificação de recursos, como forma de facilitar e enriquecer as pesquisas.
+Contudo, não se pode afirmar que exista um sistema ideal que preencha todos os requisitos almejados.
+Assim, considerando-se os resultados obtidos no estudo, faz-se necessário o exame dos prós e dos contras de cada uma das bases de dados, para que, dessa forma, se possa indicar qual a melhor escolha para o estudo concreto que se deseja realizar.
+Recomenda-se, por fim, a realização de pesquisas futuras, tais como a realização de análise mais aprofundada das bases de dados patentárias, como também a elaboração de estudo comparativo entre bases de dados de patentes e outras fontes de informação tecnológica, quais sejam as bases de dados bibliográficas.
+Referências ALBRECHT, Rogéria F .
+Bases de dados: metodologia para seleção e coleta de documentos.
+ACB : biblioteconomia em Santa Catarina , Florianópolis, v. 5, n. 5, p. 131-144, 2000.
+ALMEIDA, E. C.; DE; GUIMARÃES, J.
+A.; ALVES , I. T. G. Dez anos do Portal de Periódicos da Capes: histórico, evolução e utilização.
+de Pós-Graduação , Brasília, v. 7, n. 13, p. 2018246, nov. 2010.
+Informação, tecnologia e conhecimento .
+Disponível em: https:// www.biblioteconomiadigital.com.br/2017/12/bases-de-dados-conceito-classificacoes.html .
+BOCCHINO, L. O.; OLIVEIRA, M. C.; MAIA, M. S.; PARMA, N.; VON JELITA, R. R. R.; MACHADO, R. F .
+; PENA, R. M. Propriedade intelectual : conceito e procedimentos.
+320 p. Publicações da Escola da Advocacia Geral da União (AGU).
+Lei 9.279, de 14 de maio de 1996.
+Lei de Propriedade Industrial .
+Disponível em: http:// www.planalto.gov.br/ccivil_03/leis/l9279.htm .
+[Informações sobre a plataforma SciFinder] .
+Disponível em: n=70&smn=79&cid=64 .
+Bases de dados no Brasil: um potencial inexplorado.
+Ciência da Informação , Brasília, DF , v. 18, n. 1, p. 45-57, 1989.
+FIGUEIREDO, Nébia M. A. de (org.)
+Método e metodologia na pesquisa científica .
+São Caetano do Sul: Yendis, 2008. p. 94.
+FRANÇA, R. O. Patente como fonte de informação tecnológica.
+, Belo Horizonte, v. 2, n. 2, p. 235 - 264, jul./dez.
+Disponível em: br/index.php/pci/article/view/636/425 .
+1514Cadernos de Prospecção – Salvador, v. 12, n. 5, p. 1500-1515, dezembro, 2019Maria Elizabeth Santos Soares, Geovane Gomes de Araújo, Etelvina Maria Marques Moreira, Josimary Horta de Araujo, Joelia Marques de Carvalho GIL, A. C. Como elaborar projetos de pesquisa .
+Organização Wagna Piler Carvalho dos Santos.
+262 p. (Série Profnit: conceitos e aplicações de propriedade intelectual, 1) p.100.
+Disponível em: Acesso em: 20 maio 2019.
+Guia simplificado para buscas em bases de patentes gratuitas Módulo 1 - INPI : busca em patentes da América Latina e Espanha ( online ).
+Disponível em: file:///C:/Users/Etelvina/Downloads/ TUTORIALDEBUSCASMdulo1_BaseINPI_verso27072018.pdf.
+Guia simplificado para buscas em bases de patentes gratuitas Módulo 2 - Latipat : busca em patentes depositadas no Brasil ( online ).
+Disponível em: file:///C:/Users/Etelvina/Downloads/ TUTORIALDEBUSCASMdulo2_BaseLatipat_verso27072018.pdf.
+Guia simplificado para buscas em bases de patentes gratuitas Módulo 3 - Espacenet : busca internacional no Escritório Europeu de Patentes (online ).
+Disponível em: file:///C:/Users/Etelvina/Downloads/ TUTORIALDEBUSCASMdulo3_BaseEspacenet_verso27072018.pdf.
+Guia simplificado para buscas em bases de patentes gratuitas Módulo 4 - busca no Patentscope (online ).
+Disponível em: file:///C:/Users/Etelvina/Downloads/TUTORIALDEBUSCASMdulo4_BasePatentscope_ verso27072018.pdf.
+MANGLANO, B. G. A.; ZULUETA, M. A. Estudio comparativo de bases de dados de patentes em Inernet.
+Anales de Documentacion , n. 10, p. 145-162, 2008.
+Disponível em: analesdoc/article/view/1121/1171 .
+The measurement of scientific and technological activities using patent data as science and technology indicators .
+Disponível em: https:// www.oecd.org/sti/inno/2095942.pdf .
+A biblioteca eletrônica : informática para bibliotecas.
+Brasília: Briquet de Lemos, 2002. cap.
+Bases de dados: a metáfora científica.
+Ciência da Informação , Brasília, v. 25, n. 23, p. 314-318, set./dez.
+Análise das bases de dados de patentes Derwent Innovations Index e Espacenet com foco em processos de inteligência competitiva na indústria de cosméticos e produtos para higiene pessoal .
+165 f. Trabalho apresentado como parte dos requisitos para a obtenção do título de Mestre em Ciência, Tecnologia e Sociedade, Programa de Pósgraduação em Ciência, Tecnologia e Sociedade, do Centro de Educação e Ciências Humanas, da Universidade Federal de São Carlos, São Carlos, 2012.
+SILVA, L. C. S.; KOVALESKI, S.; GAIA, A. C.; FRANCISCO, A. C. Informação tecnológica: identificando tecnologias, vantagens e aplicações através do banco nacional e internacional de patentes.
+Holos , Natal: IFRN, v. 29, n. 1, p. 139-150, 2013.
+Disponível em: ojs/index.php/HOLOS/article/view/1090/647 .
+1515Cadernos de Prospecção – Salvador, v. 12, n. 5, p. 1500-1515, dezembro, 2019Bases de Dados de Patentes: uma análise a partir do portal de periódicos da CAPES UNB.
+Bases de patentes: tutorial de busca 2.0.
+Disponível em: unb.br/pdf/programaseprojetos/nupitec/tutorial_2.0_busca_em_banco_de_patentes.pdf .
+WIPO – WORLD INTELECTUAL PROPERTY INDICATORS 2018 .
+Disponível em: wipo.int/edocs/pubdocs/en/wipo_pub_941_2018.pdf .
+Sobre os Autores Geovane Gomes de Araújo E-mail : gaifce@gmail.com Especialista.
+Endereço profissional: Rua Jorge Dumar, n. 1703, Jardim América, Fortaleza, CE.
+Etelvina Maria Marques Moreira E-mail : etelvina@ifce.edu.br Especialista.
+Endereço profissional: Rua Jorge Dumar, n. 1703, Jardim América, Fortaleza, CE.
+Josimary Horta de Araujo E-mail : josimayhorta@ifce.edu.br Especialista.
+Endereço profissional: Rua Jorge Dumar, n. 1703, Jardim América, Fortaleza, CE.
+Maria Elizabeth Santos Soares E-mail : adv.bethss@gmail.com Especialista.
+Endereço profissional: Rua Jorge Dumar, n. 1703, Jardim América, Fortaleza, CE.
+Joelia Marques de Carvalho E-mail : joeliamarquesc@gmail.com Doutora.
+Endereço profissional: Rua Francisco da Rocha Martins, Pabussu, Caucaia, CE.

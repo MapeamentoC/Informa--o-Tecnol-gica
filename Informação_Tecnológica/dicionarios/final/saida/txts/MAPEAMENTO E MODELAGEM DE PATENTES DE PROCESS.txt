@@ -1,0 +1,192 @@
+Prospec., Salvador, v. 11, Edição Especial , p.304-315, abr./jun.
+: *Autor para correspondência: jessicamagalhaes-10@hotmail.com 304MAPEAMENTO E MODELAGEM DE PATENTES DE PROCESSOS BIOTECNOLÓGICOS CATALISADOS POR CULTURAS PURAS BACTERIANAS Jéssica Magalhães Neves Nunes1*, Plínio Ribeiro Rodrigues2, Paloma Pereira Cacique3, Janice Izabel Druzian4, Ana Katerine de Carvalho Lima Lobato5 1,2,3,4,5 Universidade Federal da Bahia, BA, Brasil.
+:06/03/2018 RESUMO O estudo de processos biotecnológicos viabilizados por bactérias vem ganhando destaque ao longo dos últimos anos, colaborando com estrátégias de produção mais sustentáveis, reduzindo impactos associados à cadeia de produção tradicional.
+Neste cenário, o presente trabalho apresenta uma investigação de patentes de 1950 a 2016 para a detecção de tendências tecnológicas relativas a bioprocessos e produção de bioprodutos por meio de culturas bacterianas.
+Foram encontrados 149 diferentes documentos patentários, publicados majoritarimente nos Estados Unidos.
+O setor de maior destaque em responsabilidade pelo desenvolvimento das patentes foi o empresarial, com um total de 54 % dos depósitos, revelando grande interesse corporativo na tecnologia prospectada.
+A função sigmoidal BiDoseResp exibiu o melhor ajuste na modelagem preditiva dos resultados da prospecção, revelando que a atual fase da técnica investigada se encontra em estágio de maturidade, com previsão para início de declínio em 2028, indicando ainda, perspectivas de importantes avanços técnicos para os próximos anos.
+MAPPING AND MODELING OF PATENTS OF BIOPROCESSES AND PRODUCTION OF BIOPRODUCTS BY PURE BACTERIAL CULTURES ABSTRACT The study of biotechnological processes using bacteria has been gaining prominence in the recent years, collaborating with more sustainable strategies of production, reducing the impacts associated with the traditional production chain.
+In this scenario, the present work presents a research of patents from 1950 to 2016 for the detection of technological trends related to bioprocesses and production of bioproducts by bacterial cultures.
+There were found 149 different patent documents, published mostly in the United States.
+The most prominent sector responsible for the development of the patents was the business sector, with a total of 54% of the patents, demonstrating great corporate interest in the technology prospected.
+BiDoseResp's sigmoidal function showed the best fit in the predictive modeling of the prospected results, revealing that the current phase of the investigated technique is in the maturity stage, predicted to decline by 2028, indicating further technical advances in the coming years.
+Área tecnológica: Biotecnologia Cad.
+Prospec., Salvador, v. 11, Edição Especial , p.304-315, abr./jun.
+Mapeamento e modelagem de patentes de processos biotecnológicos catalisados por culturas puras b acterianas .
+305 INTRODUÇÃO O aumento da concientização global a cerca dos impactos antrópicos no meio ambiente e de suas consequências d esastrosas para os ecossistemas, e portanto, para a própria vida humana, tem gerado grande busca por meios alternativos e mais sustentáveis para a manutenção da atual configuração econômica mundial.
+Desta forma, a utilização de rota s biotecnológicas (bioprocessos) , em substituição às rotas sintéticas tradicionais , tem sido vista como poderosa ferramenta para o suprimento de diversas necessidades do crescente mercado consumidor de uma maneira menos agressiva à natureza.
+Bioprocessos s ão rotas bioquímicas que se valem de matérias primas e microorganismos como meio s para produção de bens de consumo , com destaque para os processos de fermentação .
+Atualmente existe grande empenho para a aplicação comercial desta s técnica s, principalmente p ara a produção de biocombustíveis; como biodeisel, bioetanol e biohidrogênio, biomateriais; como biopolímeros, biocompósitos e nanomateriais, substâncias biosurfactantes, aditivos alimentares , fármacos , dentre muitos outros ( LI e YAN , 2010 ; FIGUEIREDO et al.
+Processo s biotecnológicos também são usados na biotransformação de compostos adicionados ao meio de cultivo microbiano, com destaque para as técnicas de biorremediação , nas quais microorganismos são utilizados para a assimilação e degradação de compostos orgânicos tóxicos ao ser humano, como o benzeno, tolueno, etilbenzeno e xilenos , de forma a reabilitar áreas contaminadas (ANDRADE et al., 2010).
+Dentre as diversa s classes de microorganismos utilizad as em bioprocess os destacam -se as bactérias , por sua grande diversidade genética, capacidade de adaptação a diversas condições de cultivo e vasta gama de aplicações tecnológicas.
+Adicionalmente, o uso destes microorganismos é fortemente impulsionado por técnicas de engenh aria genética que permitem a modificaç ão bacteriana afim de atender d eterminado fim tecnológico, como por exemplo o aumento da resistência à condições ambientais ad versas e o aumento (ou até mesmo a inserção ) da capacidade de produção de metabólito s de int eresse comercial ( LARROCHE et al., 2017 ).
+Como reflexo do rápido desenvolvido da biotecnologia nos últimos anos obser va-se um aumento do número de patentes depositadas na área em todo o mundo.
+Uma patente é um título de propriedade , com determinada validad e temporal, sobre uma invenção ou modelo de utilidade, concedido pelo estado aos detentor es de direitos sobre a criação .
+Esta concessão visa garanti r e preserva r direitos de posse frente a um mercado cada vez mais competitivo e agressivo , sendo desta manei ra, de fundamental importância e serventia (INPI, 2017).
+Portanto bases de dados patentários representa m uma fonte única de informaç ões tecnológica s a nível mundia l a cerca da produção e evolução do conhecimento inventivo humano , provendo ampla biblioteca para diversos setor es corporativos e de pesquisa s, facilitando a difusão do conhecimento , inspirando ações e tomada s de decis ão (LEMOS, 2005) .
+Neste contexto, diante do escasso número de dados e informações na área, o presente trabalho apresenta uma prosp ecção tecnologica e modelagem preditiva a cerca de técnicas de bioprocessos e produção bacteriana de produtos químicos .
+A referida prospecção foi realizada por meio do monitoramento de patentes por meio das quais foi possível estabelecer um mapa do atual e stágio de maturidade e desenvolvimento da técnica alvo, suas tendências gerais e perspectivas futuras.
+Prospec., Salvador, v. 11, Edição Especial , p.304-315, abr./jun.
+Mapeamento e modelagem de patentes de processos biotecnológicos catalisados por culturas puras b acterianas .
+306 METODOLOGIA A prospecção foi realizada em março de 2017 no Banco Europeu de Patentes, Espacenet® , que abrange patentes depositadas em mais de 90 país es.
+A busca foi feita por classificação através dos códigos C12R1/00 e C12P1/04 que se referem a processos fermentativos empregand o microrganismos do gênero bacte riano (Tabela 1) para a produção de bioprodutos.
+Tabela 1 : Especificações dos Códigos de Pat entes Utilizados.
+CÓDIGOS CLASSIFICAÇÃO C Química e metalurgia C12 Bioquímica, cerveja, vinho, vinagre, microbiologia, enzimologia, mutação ou engenharia genética C12P Fermentação ou processos que utiliz em enzimas para sintetizar um composto químico desejado ou composição ou para separar isômeros ópticos d e uma mistura racémica.
+Fabric ação de cervejas C12C, produção de vinagre C12J, produção de peptídeos ou proteínas específicas C07K, produção de enzimas C12N9/00 , dna ou rna, relativa a engenharia g enética, vetores, por exemplo, plasmídeos, ou o seu isolamento, preparação ou purificação de C12N15/00, processos de medição ou ensaio que envolvam enzimas ou microrganismos C12Q, medindo ou testando processos envolvendo reações de amplificação de ácido nu cleico C12Q1/6844, processos de fermentação para formar uma composição alimentar, A21 ou A23 ; compostos em geral, ver a classe de compostos relevante , por exemplo C01 , C07.
+C12P/00 Preparação de compostos não previstos nos grupos C12P3/ 00-C12P39/00 , utilizando microrganismos ou enzimas C12P1/04 Usando bactérias C12R1/00 Processos que utilizam microrganismos Fonte: Adaptado do banco de dados ESPACENET (2017).
+Foram encontrados 596 registros de documentos referente s à associação dos códigos C12P1 /04 e C12R1/00 , incluindo documentos replicados devido à publicação da mesma patente em diferentes domínios /países .
+As patentes obtidas foram compactadas, baixadas na extensão csv e convertida s para a extensão xls .
+O tratamento dos dados foi realizado no software Microsoft Excel 2010.
+Todos os documentos replicados foram excluídos do banco de dados par a remoção de erros de tendência, obtendo -se 1 49 diferentes documentos de patente.
+As informações extraídas da prospecção tecnológica foram explicitad as sistem aticamente para a garantia de um melhor entendimento.
+Os dados cumulativos do número de patentes por ano foram ajustados em vários modelos de crescimento sigmoidal (Boltziv, Boltzmann, DoseResp, BiDoseResp, Logistic, Weibull, Gompertz e Richards), no soft ware OriginPro 8.1 - OriginLab, para obtenção do melhor ajuste de função, detecção de tendências e previsões.
+Prospec., Salvador, v. 11, Edição Especial , p.304-315, abr./jun.
+Mapeamento e modelagem de patentes de processos biotecnológicos catalisados por culturas puras b acterianas .
+307 O estágio de desenvolvimento da tecnologia prospectada foi aferido conforme método publicado por Cantú e Zapata (2006) utilizando -se os dados da mo delagem dos dados cumulativos do número de patentes depositadas na área englobada pelo escopo do presente trabalho.
+RESULTADOS E DISCUSSÃO Foram encontrados 596 documentos de pat ente para processos envolvendo bioprocessos e produção bacteriana de diferent es produtos de interesse industrial , depositados ao longo dos anos de 1950 a 2016 , sob a associação dos códigos C12P1/04 e C12R1/00 (Tabela 1) na plataforma de pesquisa Espacenet, i ncluindo documentos replicados devido a múltipla publicação da mesma patent e em diferentes domímios .
+Após a filtragem dos dados re petidos idenificou -se um total de 149 diferentes documentos patentários, dos quais 48% foram publicados nos últim os 15 anos.
+A Figura 1 mostra o perfil d o número de documentos de patentes depositado s ao longo do período de 1950 a 2025 .
+As patentes publicadas após 2015 não foram consideradas para evitar erros de tendência, uma vez que o período de sigilo patentário extende -se por 18 meses, impossibilitando a af erição de informações completas após o ano citado.
+Por meio da an álise dos dados ex postos (Figura 1), p ode-se verificar um comportamento oscilatório bem acentuado para o número de depósitos ao longo dos anos avaliados , com uma tendência geral de crescimento do número de invenções .
+Estes fenômenos i ndicam que a produção de tecnologias de bioprocessos utilizando bactérias como agentes catalisadores está at iva e em pleno desenvolvimento.
+É possivel notar que entre os anos de 1950 e 1988 , o desenvolvimento da tecnologia mostrou uma tendência quase estáv el com um número médio de patentes bastante baixo, refletindo um tímido processo de inovação .
+Contudo, a partir da década de 90, houve um grande aumento médio no número de depósitos, com um maior aceleramento do desenvolvimento da área.
+Figura 1: Número de depósitos anuais de patentes relacionadas ao desenvolvimento de técnicas de bioprocessos e produção bacteriana de produtos químicos no período de 1950 a 2015.
+Prospec., Salvador, v. 11, Edição Especial , p.304-315, abr./jun.
+Mapeamento e modelagem de patentes de processos biotecnológicos catalisados por culturas puras b acterianas .
+308 É importante salientar que neste período ocorreram grandes transf ormações e avanços na indústria biotecnológica que podem ter impulsionado o crescimento do número de patentes na área avaliada neste trabalho, como o desenvolvimento de tecnologias disruptivas nas áreas de biologia molecular, genômica, embri ologia e comput ação, que começaram a avançar de forma substancial na década de 80 e se desdobraram em grandes progressos técnicos nos anos 90 ( BOWERS e ALLRED , 1995; SLIGHTOM e CHEE , 1987; COLTON , 1995).
+A intensificação do financiamento para pesquisa e desenvolvimento, experimentado em todo o mundo, também é um fator que pode ter contribuído para o aumento das publicações de patentes observado nos últimos anos (OCDE, 2015).
+De maneira complementar, a Figura 2 traz dados da distribuição cumulativa do depósito de patetente s na área do escopo do presente trabalho, juntamente com a modelagem dos dados por meio do m étodo de ajuste sigmó ide para a identificação do estágio de maturidade tecnológica.
+De acordo com Can tú e Zapata (2006), diferentes etapas do desenvolvimento tecnol ógico podem ser identificadas por meio de modelos sigmóides , delimitadas por pontos específicos no crescimento da curva .
+Portanto, em termos de maturidade, uma tecnologia pode ser classificada como emergente, crescente, de ponta, madura ou em declínio , Figura 2: Ajuste sigmoidal de dois estágios usando o modelo BiDoseResp para dados cumulativos do número patentes de bioprocessos e bioprodutos envolvendo culturas de bactérias publicados entre 1950 e 2015.
+Para a distribuição cumu lativa de invenções em bioprocessos e bioprodutos envolvendo culturas de bactérias , o modelo que obteve o melhor ajuste foi o BiDoseResp (R2 = 0,996 ), que exibe duplo comportamento sigmóide, revelan do a presença de duas fases n o desenvolvimento da tecnolog ia prospectada .
+A segunda fase, no entanto, ainda está em andamento, próxima à região característica para a maturidade tecnológica (CAN TÚ e ZAPATA , 2006).
+Prospec., Salvador, v. 11, Edição Especial , p.304-315, abr./jun.
+Mapeamento e modelagem de patentes de processos biotecnológicos catalisados por culturas puras b acterianas .
+309 Os valores de LOGx01 e LOGx02 destacados no gráfico (Figura 2 ) mostram os ápices do desenvolvimento d a tecnologia analisada, alcançados no ano de 1983 para a primeira fase e em 1997 para a segunda fase , de acordo com o modelo gerado no presente trabalho .
+De acordo com Carrillo e González (2002) , estes anos marcam o ponto de maior desenvolvimento de determ inada técnica para a evolução inventiva (regiões características de tecnologias de ponta em curvas sigmoidais) .
+Cabe salientar que o período de separação entre estes dois ápices tecnológicos coincide com um estágio de grandes mudanças e avanços técnicos n o cenário biotecnológico mundial , o q ue pode justificar a presença de duas fases técnicas distintas (POWELL , 1996).
+A partir do modelo gerado também foi possível estimar que a segunda fase técnica alcançará seu declínio aproximadamente no ano de 2028, p ortanto, espera -se que os próximos anos sejam marcados por importantes avanços de inovação na área, dado o atual estágio de deselvolvimento da tecnologia.
+Por meio da análise do banco de dados dos documentos de patentes prospectados foi possível inferir a origem (país) das invenções depositada s ao longo do período avaliado no presente estudo (1950 a 2016) , Figura 3.
+Os Estados Unidos da América (USA) dominam o ranking de depósitos com 62 documentos publicados .
+Figura 3: Relação entre número de patentes de bio processos e bioprodutos envolvendo bactérias e seus países de origem para o peíodo de 1950 a 2016.
+Embora as estatísticas oficiais impliquem que a tax a de crescimento do PIB real d os Estados Unidos diminu iu nos últimos anos, este indicador ainda tem sido substancialmente maior do que as taxas reais de crescimento na Europa e de outros países industrializados.
+Somente em 2014, o setor de pesquisa e desenvolvimento do país realizou um investimento de US $ 38,565 bilhões em biotecnolo gia, o que provavelmente justifica a sua liderança inventiva no âmbito do escopo do Cad.
+Prospec., Salvador, v. 11, Edição Especial , p.304-315, abr./jun.
+Mapeamento e modelagem de patentes de processos biotecnológicos catalisados por culturas puras b acterianas .
+310 presente estudo (OCDE, 2015 ; FELDSTEIN , 2017 ).
+Este setor vem crescendo a uma taxa de 6,4% ao ano , mesmo no cenário político mais desafiador enfrentado pelo país (BUSINESS SWEDEN , 2015).
+O segundo país em desenvolvimento de tecnologias de bioprocessos e bioprodutos envolvendo bactérias é o Japão (Figura 3 ), com um total de 20 inventos depositados entre 1950 e 2016 .
+O país preza pela liberdade econômica que é reforçada por s ua estabilidade política e por seu estado de direito bem conservado.
+Contudo, para manter -se na vanguarda inventiva junto aos Estados Unidos, especialistas advertem que aquele país deve supera r a estagnação econômica experimentada por todo o mundo nos últi mos anos (JORGENSON e MOTOHASHI , 2005; LI, 2017 ).
+A Figura 4 apresenta os setor es de maior destaque em relação aos depósitos de documentos de patente, divididos entre as áreas empresarial, acadêmica ( universidades, centros , órgãos e institutos de pesquisa ) e civil (pesquisadores independentes ou não).
+Neste sentido, é possível observar que o principal setor respons ável pelo desenvolvimento inventivo de patentes de bioprocessos envolvendo bactérias foi o empresarial, com 54 % dos depósitos, seguido p elos cent ros de p esquisa , que marcaram 30 % dos depósitos , e por pesquisad ores apresentados como pessoas físicas , que depositarm 16 % das patentes prospectadas .
+Figura 4: Setores da sociedade responsáveis pelo desenvolvimento dos documentos de patentes depositadas na área de bioprocessos e bioprodutos envolvendo bactérias.
+Desta forma é possível perceber o grande interesse das empresas em processo s biotecnológicos utilizando bactérias como agentes produtivos (biocatalisadores) em comparaçã o com os outros setores da sociedade.
+Muito provavelmente, este interesse surge como resposta às novas necessidades de produção industrial geradas pela crescente pressão social e científica a cerca de questões ambientais e de s ustentabilidade produtiva.
+Neste sentido, a aplicação de rotas biotecnológicas, alternativas aos processos sintéticos tradicionais, desponta como estratégia de grande potencial para desacelerar o problema ( GARCÍA -SERNA et al., 2007).
+De forma a se ter uma visão mais clara a cerca dos líderes em depósitos patentários dentro do escopo da presente pr ospecção tecnológica, a Figura 5 apresenta os detentores de patentes com 3 ou mais tecnologias inovadoras protegiadas.
+Prospec., Salvador, v. 11, Edição Especial , p.304-315, abr./jun.
+Mapeamento e modelagem de patentes de processos biotecnológicos catalisados por culturas puras b acterianas .
+311 É notada a presença de todos os setores sociais identificados na Figua 4, dentro do nicho de empresarial (Figura 5), Canon Kabushiki Kaisha se destaca com 6 documentos de patentes.
+As patentes da empresa envolvem um método de decomposição biológica de um composto fenólico e um composto de furano, métodos para a biodegradação do tricloroetileno e de compostos orgânicos clorados, bactérias geneticamente modificadas capazes de degradar compostos orgânicos e u m processo para remediar um ambiente contaminado com um composto organoclorado alifático (CKK, 1993; CKK (a), 1999 ; CKK (b), 1999; CKK , 1996 ; CKK (a), 2000 ; CKK (b), 2000 ).
+Figura 5 - Depositantes com 3 ou mais patentes de bioprocessos envolvendo bactérias publicadas entre 1950 e 2016.
+O centro de pesquisa com o maior número de patentes depositadas f oi o Conselho de Pesquisa Científica e Industrial Indiano, com 5 documentos publicados.
+As patentes da organização abrangem uma tecnologia para a ne utralização de águas residuais alcalinas , um processo para isolamento e aclimatação de bactérias para degrad ação de lignina, métodos para a preparação de extratos de carotenóide s com propriedades de absorção u ltra violeta , antibacterianas e ph indicativas usando bactérias extraídas do mar e u m novo microorganismo marinho ( Pseudomonas CH07) capaz de degradar dife rentes congêneres presentes em bifenilos policlorados (CSIR , 2000; CSIR , 2004; CSIR et al.
+(b), 2003 ) Estes dados , específicos quanto à natureza das patendes publicadas pelos maiores depositantes dos setores empresa rial e de pesquisa , trazem um claro indicativo dos principais interesses técnicos de líderes inentivos no que tange a utilização de bioprocessos envolvendo bactérias.
+Deste modo, foi possível verificar que tanto a Canon Kabushiki Kaisha quanto o Conselho d e Pesquisa Científica e Industrial Indiano dedicaram esforços à biorremediação de compostos contaminantes.
+A biorremediação é um método bastante estudados que envolve a utilização de microorganismos para a degradação ou imobilização de contaminantes em águ as ou em solos.
+Neste tipo de processo as bactérias são as mais empregadas e, portanto, consideradas como o elemento principal em Cad.
+Prospec., Salvador, v. 11, Edição Especial , p.304-315, abr./jun.
+Mapeamento e modelagem de patentes de processos biotecnológicos catalisados por culturas puras b acterianas .
+312 processos que envolvem biodegradação de contaminantes (ANDRADE et al., 2010; DZIONEK et al., 2016 ).
+Quanto ao grupo dos pesqui sadores, não houve liderança quanto ao número de patentes depositadas.
+Os três pesquisadores de maior destaque (Nii E. Go, Oleg V. Pogorelov e Sergei A. Tyurin ) depositaram o mesmo número (3) de documentos de propriedade inventiva.
+CONCLUSÃO Com base na análise dos resultados encontrados nesta prospecçã o tecnológica verificou -se que a atual fase técnica do uso de processos para a produção de bioprodutos usando bactérias alcançou suas maturidade, com início de declínio previsto para 2028, portanto , esperasse que para os próximos anos hajam ainda importantes avanços de inovação na área , dentro da atual fase técnica .
+A maioria dos documentos de patente relativos à exploração bacteriana em bioprocessos foi publicada nos Estados Unidos.
+A empresa Canon Kabus hiki Kaisha é a maior detentor a individual de documentos de proteção inventiva.
+Também inferiu -se que a maior parte do investimento na área vem de empresas privadas, que detêm 54 % dos pedidos de patentes.
+Por fim, nota -se por meio do presente estudo, esfor ço legítimo de vários setores da sociedade em desenvolver técnicas e processos produtivos mais alinhados com a atual demanda mundial por sustentabilidade.
+A.; AUGUSTO, F.; JARDIM, I. C. S. F.; Biorremediação de solos contaminados por petróleo e seus derivados.
+Eclética Química, v. 35, n. 3, p. 17 -43, 2010. BUSINESS SWEDEN, U.S. Biotechnology Market.
+Chicago: The Swedish trade and investment council, 2015.
+CANTÚ, S. O.; ZAPATA, A. R. P.; ¿Qué es la Gestión de la Innovación y la Te cnología (GInnT)?
+Journal of Technology Management & Innovation, v.1, n. 2, p. 64 -82, 2006.
+CARRILLO, M.; GONZALEZ, J. M. A.
+New Approach to Modelling Sigmoidal Curves.
+Technological Forecasting and Social Change, v. 69, n. 3, p. 233 -241, 2002.
+Kato Kinya, Sakuranaga Masanori, Kozaki Shinya.
+Method of biologically decomposing phenol or furan compounds by microorganisms.
+Disponível em: < &II=0&ND=3&adjacent =true&locale=en_EP&FT=D&date=19931027&CC=EP&NR=0567102A2&KC=A2>.
+Imamura Takeshi, Yano Tetsuya, Kawaguchi Masahiro, Kozaki Shinya, Kawabata Yuji.
+Mutant microorganism expressing oxyg enase, processes of degrading organic compounds and remediation of the environment, therewith.
+Prospec., Salvador, v. 11, Edição Especial , p.304-315, abr./jun.
+Mapeamento e modelagem de patentes de processos biotecnológicos catalisados por culturas puras b acterianas .
+Disponível em: < t=true&locale=en_EP&FT=D&date=199609 04&CC=EP&NR=0730027A2&KC=A2>.
+CKK (a) - CANON KABUSHIKI KAISHA.
+Kato Kinya, Kozaki Shinya, Imamura Takeshi, Komatsu Toshiyuki.
+Method for biodegrading trichloroethylene and method for biodegrading chlorinated organic compound by mi croorganisms.
+Disponível em: < t=true&locale=en_EP&FT=D&date=19991130&CC=US&NR=5993658A&KC=A>.
+CKK (b) - CANON KABUSHIKI KA ISHA.
+Imamura Takeshi, Yano Tetsuya, Kawaguchi Masahiro, Kozaki Shinya, Kawabata Yuji.
+Oxygenase expressing microorganism strain JM1 (FERM BP -5352) for degrading organic compounds without an inducer.
+Disponível em: < de.espacenet.com/publicationDetails/biblio?DB=EPODOC&II=0&ND=3&adjacen t=true&locale=en_EP&FT=D&date=19991221&CC=US&NR=6004772A&KC=A>.
+CKK (a) - CANON KABUSHIKI KAISHA.
+Remedying a contaminated environ ment using Pseudomonas cepacia or Corynebacterium species and Renobacter species FERM BP -5353 having dehalogenase activity.
+Disponível em: < t=true &locale=en_EP&FT=D&date=20000125&CC=US&NR=6017746A&KC=A>.
+CKK (b) - CANON KABUSHIKI KAISHA.
+Kato Kinya, Kozaki Shinya, Imamura Takeshi, Sakuranaga Masanori .
+Pseudomonas cepacia strain isolated from termite intestines that degrades trichlorethylene and furan compounds.
+Disponível em: < t=true&locale=en_EP&FT=D&date=20000801&CC=US&NR=6096530A&KC=A#>.
+CSIR - COUNCIL OF SCIENTIFIC AND INDUSTRIAL RESEARCH.
+Kumar Rita, Kumar Anil, Sharma Alka, Gangal Vishwanath Sharad, Makhijani Santosh Dayaram.
+Microbial composition and its use in the neutralisation of alkaline waste waters.
+Disponív el em: < t=true&locale=en_EP&FT=D&date=20000426&CC=GB&NR=2342924A&KC=A>.
+CSIR (a) - COUNCIL OF SCIENTIFIC & INDUSTRIAL RESEARCH, BHARATHI PONNAPAKK AM ADIKESAVAN LOKA, NAIR SHANTA, CHANDRAMOHAN DORAIRAJASINGHAM.
+Bharathi Ponnapakkam Adikesavan Loka, Nair Shanta, Chandramohan Dorairajasingham.
+Process for the preparation of an extract with carotenoids, UV absorption, antibacterial and pH indicating pro perties from a deep -sea bacterium.
+Disponível em: < Prospec., Salvador, v. 11, Edição Especial , p.304-315, abr./jun.
+Mapeamento e modelagem de patentes de processos biotecnológicos catalisados por culturas puras b acterianas .
+314 t=true&locale=en_EP&FT=D&date=20030206&CC=US&NR=2003026863A1&KC=A1#>.
+CSIR (b) - COUNCIL OF SCIENTIFIC & INDUSTRIAL RESEARCH , SARKAR ANUPAM, DE JAYSANKAR, NAGAPPA RAMAIAH.
+Sarkar Anupam, De Jaysankar, Nagappa Ramaiah.
+Microbial process for degradation of PCBs in clophen A -50 using a novel marine microorganism, pseudomonas CH07.
+Disponível em: < t=true&locale=en_EP&FT=D&date=20030320&CC=US&NR=2003054538A1&KC=A1>.
+CSIR - COUNCIL OF SCIENTIFI C AND INDUSTRIAL RESEARCH, PONNAPAKKAM ADIKESAVAN LOKA BHARATHI, NAIR SHANTA, DORAIRAJASINGHAM CHANDRAMOHAN.
+Ponnapakkam Adikesavan Loka Bharathi, Nair Shanta, Dorairajasingham Chandramohan.
+A process for the preparation of an extract with carotenoids, uv absorption, antibacterial and ph indicating properties from a deep -sea bacterium.
+Disponível em: < t=true&locale=en_EP&FT=D&date=20040812&CC=WO& NR=2004067780A1&KC=A1>.
+CSIR - COUNCIL OF SCIENTIFIC AND INDUSTRIAL RESEARCH.
+Process for the isolation and acclimatization of bacteria for lignin degradation.
+Disponível em: < t=true&locale=en_EP&FT=D&date=20040311&CC=US&NR=2004048355A1&KC=A1>.
+DZIONEK, A.; WOJCIESZYŃSKA, D.; GUZIK, U.
+Natural carriers in bioremediation: A review.
+Electronic Journal of Biotechnology, v. 23, p. 28 -36, set.
+ESPACENET [Base de dados – Internet].
+Disponível em: < ide.espacenet.com/>.
+FELDSTEIN, M. Why is Growth Better in the United States than in other Industrial Countries?
+Journal of Policy Modeling, In Press.
+FIGUEIREDO, T. V. B.; CAMPOS, M. I.; SOUSA, L. S.; SILVA, J. R.; DRUZIAN, J. I. Produção e Caracterização de Polihidroxialcanoatos obtidos por Fermentação da Glicerina Bruta Residual do Biodiesel.
+Química Nova, v. 37, n. 7, p. 1111 -1117, 2014.
+GARCÍA -SERNA, J.; PEREZ -BARRIGÓN, L.; COCERO, M.J. New trends for design towards sustainability in chemical engineering: Green engineering.
+Chemical Engineering Journal, v. 133, p. 7-30, 2007.
+INPI – Instituto Nacional da Propriedade Industrial.
+Perguntas frequentes – Patente.
+Dilponível em : < -frequentes -paginas -internas/perguntasfrequentes -patente>.
+Prospec., Salvador, v. 11, Edição Especial , p.304-315, abr./jun.
+Mapeamento e modelagem de patentes de processos biotecnológicos catalisados por culturas puras b acterianas .
+315 JORGENSON, D. W.; MOTOHAS HI, K. Information technology and the Japanese economy.
+Journal of the Japanese and International Economies, v. 19, n. 4, p. 460 -481, dec. 2005.
+LARROCHE, C.; SANROMA´N, M. A.; DU, G.; PANDEY, A.
+Current Developments in Biotechnology and Bioengineering Bio processes, Bioreactors and Controls .
+LEMOS, R. Propriedade Intelectual .
+Production of biodiesel catalyzed by immobilized Pseudomonas cepacia lipase from Sapium sebiferum oil in micro -aqueous phase.
+Applied Energy, v. 87, n. 10, p. 3148 -3154, out.
+LIU, S. Bioprocess Engineering: Kinetics, Sustainability, and Reactor Design .
+OECD - Organisation for Economic Co -Operation and Development.
+Disponível em: < Acesso em: 24 ju l. 2017.
+POWELL, W.W. Inter -Organizational Collaboration in the Biotechnology Industry .
+Journal of Institutional and Theoretical Ec onomics, v. 152, p. 197 -215, 1996.
+RIENZO, M. A. D.; BANAT, I. M.; DOLMAN, B.; WINTERBURN, J.; MARTIN, P. J .
+Sophorolipid biosurfactants: Possible uses as antibacterial and antibiofilm agent.
+New Biotechnology, v. 32, n. 6, p. 720 -726, d ec.

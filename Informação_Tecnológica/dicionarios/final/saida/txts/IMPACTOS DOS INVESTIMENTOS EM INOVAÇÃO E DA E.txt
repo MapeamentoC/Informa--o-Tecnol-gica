@@ -1,0 +1,559 @@
+ Revista Universo Contábil, ISSN 1809 -3337 Blumenau, v. 15, n. 2, p. 59-77, abr./jun., 2019 doi:10.4270/ruc.2019 212 Disponível em www.furb.br/universocontabil Revista Universo Contábil, ISSN 1809 -3337, FURB, Blumenau, v. 15, n. 2, p. 59 -77, abr./jun., 2019 IMPACTOS DO S INVESTIMENTO S EM INOVAÇÃO E DA ESTRUTURA DE CAPITAL NO DESEMPENHO ORGANIZACIONAL: UMA ANÁLISE SOB A PERSPECTIVA DA EQUIPE DE ALTO ESCALÃO IMPACTS OF INVESTMENT IN INNOVATION AND THE CAPITAL STRUCTURE IN ORGANIZATIONAL PERFORMANCE: AN ANALYSIS UNDER TOP MANAGEMENT TEAM PERSPECTIVE IMPACTOS DE LA INVERSIÓN EN INNOVACIÓN Y LA ESTRUCTURA DE CAPITAL EN EL DESEMPEÑO ORGANIZACIONAL: UN ANÁLISIS BAJO LA PERSPECTIVA DEL EQUIPO DE ESCALONES SUPERIORES Recebido em: 16/12/2018 Avaliado em: 23/05/2019 Refo rmulado em:25/05/2019 Aceito para publicação em: 14/06/2019 Publicado em: 30/11/2019 Editor Responsável: Tarcísio Pedro da Silva Rogério João Lunkes 1 Alcindo Cipriano Mendes 2 Gabriel Donadio Costa 3 Fabricia Silva Rosa 4 RESUMO Os investimentos em inovação e a composição da estrutura de capital podem ser fundamentais para o desempenho organizacional.
+Neste sentido, o objetivo do estudo é analisar o impacto do s investimento s em inovação e da estrutura de capital no desempenho organizacional, levando em consideração a influência das características e da participação acionária da equipe de alto escalão .
+Usando dados coletado s de 293 empresas europeias da base Amadeus, do ano de 2016 .
+Estes dados foram analisados por meio de equações estruturais, utilizando o software SmartPLS .
+Os resultados mostram que a composição da estrutura de capital , formada por capital de terceiros e de financiamentos de curto prazo, apresenta relação negativa com o desempenho organizacional.
+Enquanto , os investimentos em inovação, constituídos por ativo intangível, gastos de Pesquisa e Desenvolvimento -P&D e gastos com pesquisa, apresentam relação positiva com o desempenho organizacional.
+Além disto, tempo no cargo e participação acionária da equipe de alto escalão têm impacto na relação entre a composição da estrutura de capital e o desempenho organizacio nal.
+Entre as possíveis contribuições do estudo pode -se destacar o conhecimento gerado acerca da influência das características e da participação acionária da equipe de alto escalão nas decisões de estrutura de 1 Doutor em Engenharia de Produç ão pela Universidade Federal de Santa Catarina (UFSC) ; Professor do Programa de Pós-graduação em Contabilidade da Universidade Federal de Santa Catarina (UFSC) ; E -mail: rogeriolunkes@hotmail.com 2 Doutor Doutorado em Contabilidade pela Universidade Federal de Santa Catarina (UFSC) ; Professor do Departamento de Ciências Contábeis da Universidade Federal de Santa Catarina (UFSC ); E-mail: alcindo.ufsc@gmail.com 3 Mestrado em Mestrado em Contab ilidade, Fiscalidade e Finanças pela Universidade de Lisboa (UL) ; E-mail: donadiogabriel@gmail.com 4 Doutor a em Engenharia de Produção pela Universidade Federa l de Santa Catarina (UFSC); Professor a do Programa de Pós-graduação em Contabilidade d a Universidade Federal de Santa Catarina (UFSC) ; E-mail: fabriciasrosa@hotmail.com 60 IMPACTOS DOS INVESTIMENTOS EM INOVAÇÃO E DA ESTRUTURA DE CAPITAL NO DESEMPENHO ORGANIZACIONAL: UMA ANÁLISE SOB A PERSPECTIVA DA EQUIPE DE ALTO ESCALÃO Revista Universo Contábil, ISSN 1809 -3337, FURB, Blumenau, v. 15, n. 2, p. 59 -77, abr./jun., 2019 capital .
+Este estudo também contribuí para entender melhor os fatores que impulsionam as decisões de investimento s em inovação.
+Palavras -chave : Equipe de alto escalão; c aracterísticas ; participação acionária; investimentos em inovação; estrutura de capital e desempenho.
+ABSTRACT Investments i n innovation and the composition of the capital structure can be central to organizational performance.
+The objective of the study is to analyze the impact of investment in innovation and the capital structure on organizational performance, taking into account the influence of the characteristics and shareholding of Top Management Team -TMT.
+Using data collec ted from 293 European companies from the Amadeus database, from the year 2016.
+These data were analyzed by means of structural equations using the software SmartPLS.
+The results show that the composition of the capital structure, formed by third -party capi tal and short -term financing, is negatively related to organizational performance.
+While investments in innovation, consisting of intangible assets, R & D expenditures and research expenditures, are positively related to organizational performance.
+In addition, time in the position and shareholding of the high -level team has an impact on the relationship between the composition of the capital structure and the organizational performance.
+Among the possible contributions of the study can be highlighted the k nowledge generated about the influence of the characteristics and shareholding of the high -level team in the capital structure decisions.
+This study also contributed to a better understanding of the factors that drive investment decisions in innovation.
+Keywords : TMT ; characteristics; equity interest; investments in innovation; capital structure and performance.
+RESUMEN Las inversiones en innovación y la composición de la estructura de capital pueden ser fundamentales para el desempeño organizacional.
+El objetivo del estudio es analizar el impacto de la inversión en innovación y de la estructura de capital en el desempeño organizacional, teniendo en cuenta la influencia de las características y de la participación accionaria del equipo de escalones supe riores .
+Utilizando datos recolectados de 293 empresas europeas de la base Amadeus del año 2016.
+Estos datos se analizaron a través de ecuaciones estructurales utilizando el software SmartPLS.
+Los resultados muestran que la composición de la estructura de c apital, formada por capital de terceros y de financiamientos a corto plazo, presenta una relación negativa con el desempeño organizacional.
+Mientras, las inversiones en innovación, constituidas por activos intangibles, gastos de Investigación y Desarrollo - I&D y gastos de investigación, presentan una relación positiva con el desempeño organizacional.
+Además, el tiempo en el cargo y la participación accionaria del equipo de alto rango tienen impacto en la relación entre la composición de la estructura de ca pital y el desempeño organizacional.
+Entre las posibles contribuciones del estudio se puede destacar el conocimiento generado acerca de la influencia de las características y de la participación accionaria del equipo de alto escalón en las decisiones de es tructura de capital.
+Este estudio también contribuyó a entender mejor los factores que impulsan las decisiones de inversión en innovación.
+Palabras clave: Equipo de escalones superiores ; Características ; participación accionaria; inversiones en innovación; estructura de capital y rendimiento.
+61 Rogério João Lunkes, Alcindo Cipriano Mendes, Gabriel Donadio Costa, Fabricia Silva Rosa Revista Universo Contábil, ISSN 1809 -3337, FUR B, Blumenau, v. 15, n. 2, p. 59 -77, abr./jun., 2019 1 INTRODUÇÃO Investimentos em inovação e estrutura de capital são decisões estratégicas que podem ter reflexos significativos no desempenho organizacional ( Yunlu, & Murphy, 2012; Abdel -Khalik, 2014 ; Alves et al., 2015 ).
+Os níveis de investimentos em inovação e a composição do capital (de terceiros ou próprio) podem ser essenciais na maximização dos retornos ( Chen et al.
+, 2010), principalmente na continuidade da organização em longo prazo.
+Por exemplo , investimentos em inovação como gastos em Pesquisa e Desenvolvimento -P&D podem consu mir montantes substa nciais de recursos, envolver riscos elevados, com retorno em longo prazo, ou seja, implicações para o desempenho atual e futuro da organização ( Abdel -Khalik, 2014) .
+Em geral , os gestores podem tomar decisões sobre investimentos em inovação e estrutura de capital , considerando o risco e o curto prazo .
+Ou seja, os gestores podem ignorar ou adiar investimentos em inovação, visando obter retorno de curto prazo.
+Ao exercer influência sobre os investimentos em inovação e na composição da estrutura de capital , a equipe de alto escalão precisa racionalizar suas decisões, caso contrário, podem comprometer a competitividade da organização (Achcaoucaou et al.
+A literatura sugere que as estratégias tomadas e ações realizada s (por exemplo, investimentos em inovação e estrutura de capital ), em nome da empresa pode refletir a tomada de decisão, estilos e valores dos principais executivos (Hambrick , & Mason , 1984; Hambrick, 2007 ; Abdel -Khalik, 2014 ).
+Em conjunto com as características da equipe de alto escalão , é fundamental pensar em um sistema de incentiv os que alinha os interesses dos gestores e os objetivo s da organização (Chen , & Huang , 2006).
+Uma das formas de pactuar os interesses entre os gestores e os acionistas, é desenvolver planos de participação acionária para seus principais executivos.
+Esta participação visa direcionar as decisões ( Chen , & Huang, 2006) e motivar os gestores a realizar investimentos de risco , com retorno de longo prazo , relacionados à inovação e composição da estrutura de capital (Wright et al., 2007).
+Assim, na au sência de sistemas de incentivos adequadamente projetados, as decisões podem refletir preferências de risco , o que pode levar os gestores a sacrificar alguns projetos rentáveis (Abdel -Khalik , 2014) .
+Nas últimas décadas, diferentes estudos foram realizados sobre características da equipe de alto escalão relacionadas a gastos de Pesquisa e Desenvolvimento -P&D (Barker, & Mueller , 2002), investimentos em P&D e alavancagem financeira ( Chen et al.
+, 2010) e, gastos de P&D durante período de recessão ( Yunlu, & Murphy , 2012) .
+Bem como, pesquisas sobre as características da equipe de alto escalão e risco co rporativo (Croson , & Gneezy , 2009 ; Costa , Rosa , & Lunkes , 2018; Lunkes et al., 2019 ), níveis de investimento em despesas de capital e alavancagem financeira (Bertrand , & Schoar , 2003).
+Além disto, e studos sobre a relação entre a participação acionária e investimentos em inovação e desempenho organizacional ( Core , & Larcker , 2002; Chen , & Huang , 2006; Wright et al., 2007).
+Além das pesquisas mostrarem resultados conflitantes, os estudos verificaram as características e a participação acionária de forma isolada.
+Neste estudo , propõem -se verificar como estes do is aspectos de forma conjunta moderam a relação entre investimentos em inovação e composição da estrutura de capital e dese mpenho .
+O entendimento é que com o alinhamento dos interesses, por meio da participação acionária, os gestores naturalmente mudariam sua tendência de risco.
+Entretanto, outros fatores podem contribuir nesta relação e afetar as decisões relacionadas a inves timentos em inovação e estrutura de capital como, por exemplo, as características dos gestores (ex.
+idade, tempo no cargo, gênero , formação etc.).
+Neste sentido, são necessárias novas pesquisas visando entender melhor a relação conjunta entre características dos gestores de topo , participação acionária, investimentos em inovação e estrutura de capital e sua influência no desempenho organizacional.
+Visando compreender melhor esta problemática, segue a pergunta de pesquisa: qual o impacto do s investimento s em inovação e a estrutura de capital no desempenho organizacional, levando em consideração a influência das 62 IMPACTOS DOS INVESTIMENTOS EM INOVAÇÃO E DA ESTRUTURA DE CAPITAL NO DESEMPENHO ORGANIZACIONAL: UMA ANÁLISE SOB A PERSPECTIVA DA EQUIPE DE ALTO ESCALÃO Revista Universo Contábil, ISSN 1809 -3337, FURB, Blumenau, v. 15, n. 2, p. 59 -77, abr./jun., 2019 características e participação acionária da equipe de alto escalão.
+Assim, o objetivo do trabalho é analisar o impacto do s investimen tos em inovação e da estrutura de capital no desempenho organizacional, levando em consideração a influência das características e participação acionária da equipe de alto escalão .
+Pode -se destacar algumas possíveis contribuições do artigo para a teoria e prática.
+O estudo pode trazer a vanço s à literatura ao utilizar a participação acionária e as características da equipe de alto escalão para explicar as decisões sobre investimentos em inovação e estrutura de capital, bem como, f ornece novos insights acerca da composição do capital (próprio e de terceiros) , o que contribui para a discussão sobre a sua otimização.
+Contribui também para a prática ao melhorar a compreensão do efeito das características e da participação acionária da equipe de alto escalão no nível de investimento em inovação e na composição da estrutura de capital e, seus reflexos no desempenho organizacio nal.
+Como fator adicional, pode -se destacar o conhecimento sobre a melhor composição das equipes de gestão , visando um maior equilíbrio nas decisões .
+2 LITERATURA E HIPÓT ESES Neste tópico de revisão são abordados os principais temas, investimentos em inovação, estrutura de capital e desempenho organizacional e, elaboradas as hipóteses da pesquisa.
+2.1 Investimento s em Inovação e Desempenho Os investimento s em i novação são os gasto s realizado s para a geração de uma ideia ou comportamento, relativo a um produto, serviço, dispositivo, sistema, política ou programa, que é novo para a organização ( Damanpour & Gopalakrishnan , 2001 ).
+Esses investimentos, também conhecidos como de Pesquisa e Desenvolvimento ( P&D ), caracterizam -se como uma das principais formas que as empresas encontram para incentivar o processo de inovação.
+Assim , representam uma importante proxy para mensurar o processo de inovação nas organizações ( Franco , 2016).
+Segundo Zhang (2015), o impacto dos investimentos em inovação no valor das empresas tem sido objeto de pesquisa s teórica s e empírica s. Embora, essas atividades possam ser consideradas estratégicas e fundamentais para a competitividade, também tem elevada incerteza, assimetria de informação e elevados custos.
+Em geral, i sto se deve em parte porque a inovação é um investimento de risco e a longo prazo ( Wang et al.
+Estudos vêm mostrando que taxas contí nuas de investimentos em inovação são um d icionador para empresas fortalecer a sua vantagem competitiva ( O'brien , 2003; Kor, 2006).
+Bem como, mostram que investimento s em inovação cria valor para as empresas ( Jaffe , 1986; Cockburn, & Griliches , 1988; Hall, 1993; Szewczyck et al.
+Partindo do exposto te m-se a seguinte hipótese de pesquisa: H1: Maior es investimento s em inovação (investimentos em desenvolvimento e gastos em pesquisa ) geram maior desempenho organizacional .
+2.2 Estrutura de Capital e Desempenho A estrutura de capital é a forma como a empresa se financia, com recursos de terceiros ou recursos próprios.
+A forma como a empresa estrutura essa composição (de terceiros ou própria, de curto ou longo prazo) pode gerar diferentes impactos no resultado final.
+Isto ocorre porque o capital (de terceiros ou próprio) tem diferentes custos.
+A forma de composição também pode gerar diferentes riscos para a organização.
+Inicialmente acreditava -se que o valor de mercado de uma empresa não estava relacionado com a sua estrutura de capital ( Modi gliani, & Miller , 1958).
+Em seguida, percebeu -se que fatores como custos de transações e assimetria de informações poderiam modificar a estrutura de capital (Modiglia ni, & Miller , 1963).
+Titman e Wessels (1988) indicaram que fatores como características 63 Rogério João Lunkes, Alcindo Cipriano Mendes, Gabriel Donadio Costa, Fabricia Silva Rosa Revista Universo Contábil, ISSN 1809 -3337, FUR B, Blumenau, v. 15, n. 2, p. 59 -77, abr./jun., 2019 dos ativos, deduções fiscais, crescimento da empresa, tipo de setor, tamanho, volatilidade dos ganhos e política de retenção e distribuição dos lucros eram os determinantes da estrutura de capital.
+Mais recentemente, duas teorias têm sido predominantes nesse campo de pesquisa: Packing Order e Trade -Off.
+A primeira sustenta que existe uma hierarquia no endividamento.
+Significa dizer que as empresas seguem uma ordem lógica na busca por recursos .
+A segunda indica que existe uma estrutura de capital ideal e que, portanto, deve -se buscar determinantes que indiquem a estrutura ideal, em certas situações ( Myers, 1984; Myers , & Majluf, 1984, Brealey, & Myers, 1984; Titman, & Wessels, 1988 ; Rajan, & Zingales, 1995 ).
+Embora as empresas valorizem a capacidade dos gestores de tomar decisões, sua inclinação para assumir ou evitar riscos, dependendo das circunstâncias, pode ser um ativo ou um passivo para a organização ( Johnson, & Powell , 1994).
+A exposição excessiva ao risco pode ser prejudicial e levar a organização à insolvência, mas a aversão ao risco pode reduzir o crescimento e prejudicar o valor do acionista ( Shemesh , 2017).
+A seleção e desenvolvimento de executivos, que são respon sáveis pela escolha de uma estrutura de capital ideal, podem manter os custos financeiros baixos, proporcionando recursos financeiros suficientes para os investimentos em inovação ( Chen et al., 2010) .
+De acordo com Titman e Wessels (1988), as características dos ativos podem influencia r na escolha da estrutura de capital.
+Nesse sentido, investimentos em inovação estariam diretamente relacionados com essa escolha.
+Ademais, empresas em processo de crescimento, estão mais sucetíveis a investimento s em inovação e , segundo Jensen e Me ckling (1976) , isso gera aumento de conflito de agência, o que aumentaria o cust o da dívida e afetaria a estrut ura de capital.
+(2017) sugerem que, com base em vários comportamentos / decisões gerenciais, é possível inferir a tolerância ao risco do gestor.
+Por exemplo, a tolerância ao risco pode ser definida com base em decisões que refletem escolhas estratégicas com resultados incertos, como um alto nível de endividamento ( Finkelstein, & Hambrick , 1990); gastos com pesquisa e desenvolvimento ( Bargeron et al.
+, 2010); fusões, aquisições e desinvestimentos, dívidas financeiras de longo prazo ( Lee, & Moon , 2016); sobrevivência empresarial ( Faccio et al.
+, 2011); inovação, política de recursos humanos, desvios e stratégicos ou mudanças, expansão agressiva em novos mercados e investimentos de longo prazo ( Hiebl, 2014; Plöckinger et al., 2016).
+Partindo do exposto tem-se a seguinte hipótese de pesquisa: H2: Maior estrutura de capital (capital de terceiros e de curto prazo) tem influência negativa no desempenho organizacional.
+2.3 Características e Participação Acionária da E quipe de Alto Escalão A influência das características e da participação acionária da equipe de alto escalão foi estudada sob diferentes t eorias como, por exemplo, a Teoria dos Escalões Superiores (TES) e Teoria da Agência , entre outras.
+Grande parte destes estudos da TES consideram as características, principalmente as observáveis (como gênero, a idade, experiência e formação , origem, tempo no cargo e características do grupo ), como proxy s para avaliar as escolhas e decisões dos gestores de alto escalão (Wang et al., 2016).
+Entre as decisões tomadas pelos gestores de alto escalão estão aquelas relacionadas a investimentos em i novação (Kor, 2006 ; Chen et al., 2010 ) e estrutura de capital (Alves et al., 2015 ).
+Neste estudo são abordadas a idade, gênero, tempo no cargo e tamanho da equipe como características dos gestores de alto escalã o, além da participação acionária.
+Estudos mostram que a idade pode influenciar a relação entre investimentos em inovação e estrutura de capital e desempenho organizacional.
+Por exemplo, Bertrand e Schoar (2003) verificaram que gestores mais velhos tendem a apresenta r menores níveis de investimento em despesas de capital, maiores níveis de tesouraria e menores níveis de alavancagem financeira.
+A alavancagem financeira está intimamente ligada a estrutura de capital, uma vez que empresas com menores níveis preferem finan ciamento por capital próprio do que capital de terceiros.
+Estes fatores sugerem que uma equipe 64 IMPACTOS DOS INVESTIMENTOS EM INOVAÇÃO E DA ESTRUTURA DE CAPITAL NO DESEMPENHO ORGANIZACIONAL: UMA ANÁLISE SOB A PERSPECTIVA DA EQUIPE DE ALTO ESCALÃO Revista Universo Contábil, ISSN 1809 -3337, FURB, Blumenau, v. 15, n. 2, p. 59 -77, abr./jun., 2019 de gestão com idade mais avançada, possui um comportamento mais cauteloso, avesso ao risco e, consequentemente priorizam a uti lização do capital próprio ( Chen et al., 2010; Orens , & Reheul , 2013) , com re dução d os investimentos ( Orens, & Reheul , 2013; Bortoluzzi et al., 2016).
+Enquanto as equipes com mais idade tendem a ser conservadoras , as jovens apresentam maior tolerância ao risco ( Beber, & Fabbri , 2012; Serfling , 2014) e, com isto investem montantes maiores (Ouimet, & Zarutskie , 2014; Von Den Driesch et al., 2015 ) e, consequentemente tendem a utilizar maior proporção de capital de terceiros.
+Já este conservadorismo das equipes pode afeta r os resultados (Walter, & Scheibe , 2013), com efeito negativo sobre o desempenho da organização ( Cline, & Yore , 2016).
+Outra característica da equipe de alto escalão é o tempo no cargo dos gestores de alto escalão .
+Em geral, e sta característica possui uma relação de U invertido com o desempenho da organizaçã o, isto é, nos primeiros anos no cargo , o desempenho da empresa tende a crescer até um momento de estagnação, o qual é seguido por um declínio ( Henderson et al., 2006 ; Menegazzo et al., 2017 ).
+Isto indica que no iníc io do cargo, os gestores tendem a investir em inovação.
+Com o aumento da participação das mulheres n a equipe de alto escalão , estudos foram realizados para analisar o impacto das executivas nas decisões das organizações ( Francis et al., 2015).
+Croson e Gneezy (2009) descrevem que as mulheres são mais avessas ao risco.
+Os motivos apresentados são de cunho emocional , haja vista que o s homens e mulheres diferem na forma como reagem emocionalmente a tomada de decisão que envolve risco.
+Elas relatam sentir -se mais ansiosas e cautelosas do que os homens, o que resulta em uma pior avaliação dos possíveis resultados e probabilidades.
+Ademais, o s homens tendem a ser mais confiantes e verem as situações de risco como desafios (e não como ameaças), o que resulta em um aumento da tolerância a investimentos em inovação e no uso de capital de terceiros .
+Isto mostra que uma maior participação de mulheres na equipe de gestão tende a reduzir o risco (Croson , & Gneezy , 2009; Ting et al., 2015; Perryman et al., 2016), com menor utilização de fontes de financiamento de terceiros.
+Os estudos também mostram uma relação positiva entre a proporção de mulheres na equipe e desempenho organizacional (Krishnan ; Park, 2005; Huan, & Kisgen , 2013; Perryman et al., 20 16).
+Huang e Kisgen (2013) mostram que empresas com mulheres na equipe de gestão tendem a crescer de forma mais segura.
+(2015) apresentam evidências que a equipe de gestores mais diversificada, em termos de gênero, pode levar a um a estrutura formada mais por fontes de financiamento de longo prazo.
+Como investimentos em inovação apresentam um grau elevado de risco, maior participação de mulheres na equipe de gestão tende a g erar menores gastos em inovação .
+Estudos sobre a influência do tamanho da equipe de alto escalão nas decisões ainda são ambíguas (Alves et al., 2015).
+Há estudos que encontra ram relação positiva entre o tamanho da equipe de alto escalão e o aumento do volu me de atividades internacionais (Sherman , Kashlak , & Joshi , 1998), com gerenciamento de resultados ( Peasnell , Pope , & Young , 2005 ), com eficácia do conselho (Coles , Daniel , & Naveen , 2008 ), com internacionalização (LI, 2018) .
+Por outro lado, Ranti (2013) demonstrou que empresas com equipes menores tendem a utilizar mais capital de terceiros.
+Já há estudos que não encontraram relação entre tamanho da equipe de alto escalão e desempenho.
+Por exemplo, Dimitropoulos e Asteriou (2010) mostra ram que o ta manho do conselho é irrelevante para a relevância do valor do lucro contábil anual.
+(2015) não encontraram relação entre o tamanho da equipe e estrutura de capital e o desempenho da organização.
+(2019) não e ncontra ram relação significativa entre tamanho da equipe de gestão e risco corporativo.
+Visando alinhar o interesse dos gestores e dos a cionista s, as organizações podem implementar planos de participação acionária.
+A participação acionária envolve a propriedade de ações da empresa por parte dos gestores de topo.
+Isto porque se acredita que a posse de ações desempenha um papel fundamental no alinhamento dos interesses entre os gest ores da empresa e os acionistas (Chen , & 65 Rogério João Lunkes, Alcindo Cipriano Mendes, Gabriel Donadio Costa, Fabricia Silva Rosa Revista Universo Contábil, ISSN 1809 -3337, FUR B, Blumenau, v. 15, n. 2, p. 59 -77, abr./jun., 2019 Huang , 2006) , além d e motivar os gestores de topo a realizar investimento s de risco ( Wright et al., 2007).
+Para Chen e Huang (2006), quando se analisa a relação entre participação acionária e investimentos em inovação, os gestores podem enfrenta r dois dilemas.
+Estes investimentos podem reduzir os retornos atuais ( Baysinger , & Hoskisson , 1989) .
+Além d esses retornos não serem imediatos e incertos , eles podem aumentar o risco ( Alchian , & Ratcheva , 1972; Wiseman , & Gomez -Mejia , 1998).
+O segundo dilema refere -se ao fato dos investimentos em inovação estarem relacionados às características, informações e ações ocultas ( Zenger , 1994).
+Os gestores geralme nte têm conhecimento sobre projetos inovadores e condições limitadoras; no entanto, eles podem agir passivamente ao relatar ou resolver problemas.
+Além disso, os esforços dispendidos em inovação podem ser difíceis de avaliar pelos acionistas e podem ser onerosos para monitorar.
+O estudo de Abdel -Khalik (2014) mostra que o uso de participação acionária, especificamente do pay-at-risk, tem relação com a tolerância ao risco, além da associação positiva estatisticamente significativa entre essa medida e os gastos com inovação .
+Neste entendimento, maior participaçã o acionária significa aumentar os níveis de investimento s em inovação , essenciais para a maximização de riqueza e melhoria do desempenho ( Chen et al.
+Assim , espera -se que baixa participação acionária esteja associad a à redução da intensidade de investimentos em inovação, principalmente em P&D , devido à capacidade da gestão de fortalecer ainda mais em suas p osições e, subsequentemente criar e implementar estratégias de baixo risco ( Gamble , 2000).
+Barker e Mueller (200 2) sugere m que os gestores em grandes empresas têm menos incentivos para fazer investimentos de inovação.
+Portanto, os gestores frequentemen te enfrentam um dilema se deve m ou não investir pesadamente em inovação (Chen, & Huang , 2006) .
+Estes estudos mostram que a participação acionária mais conservadora afeta gastos corporativos de inovação .
+Embora, estudos como de Core e Larcker (2002) mostrem que a implementação, e principalmente a elevação do nível de participação no plano, resultar am em melhoria no desempenho das empresas.
+Apesar da falta de consenso, estudos vêm mostrando que a participação acionária dos gestores pode afeta r positivamente os investimentos em inovação (Chen et al.
+Partindo do exposto , têm-se as seguintes hipóteses de pesquisa: H3a: Características (idade, tempo no cargo, gênero e tamanho) e pa rticipação acionária da equipe de alto escalão modera m a relação entre investimentos em inovação e desempenho organizacional .
+H3b: Características (idade, tempo no cargo, gênero e tamanho) e participação acionária da equipe de alto escalão modera m a relação entre estrutura de capital e desempenho organizacional .
+A Figura 1 apresenta o modelo da pesquisa do artigo.
+Investimentos em Inovação Estrutura de Capital Características e Participação Acionária da Equipe de Alto Escalão H1 H3b H3a Desempenho Organizacional H2 66 IMPACTOS DOS INVESTIMENTOS EM INOVAÇÃO E DA ESTRUTURA DE CAPITAL NO DESEMPENHO ORGANIZACIONAL: UMA ANÁLISE SOB A PERSPECTIVA DA EQUIPE DE ALTO ESCALÃO Revista Universo Contábil, ISSN 1809 -3337, FURB, Blumenau, v. 15, n. 2, p. 59 -77, abr./jun., 2019 Na Figura 1, é apresentado de forma esquematizada o modelo teórico e hipóteses da pesquisa a serem analisadas.
+Na hipótese 1, espera -se, portanto, que quanto maiores os investimentos em inovação maior será o desempenho organizacional.
+Já na hipótese 2, espera-se que quanto maior o capital de terceiros e de curto prazo menor será o desempenho organizacional.
+E por fim, espera -se que as características e a participação acionário da equipe de alto escalão possa moderar as relações primárias (H3a e H3b).
+3 METO DOLOGIA E DADOS 3.1 Dados e Amostra O presente estudo utiliza a base de dados Amadeus, mantida pela Bureau van Dijk, que contém dados de cerca de 21 milhões de empresas, de aprox imadamente 40 países europeus.
+A população alvo deste estudo foi composta por 5.420 empresas.
+Posteriormente, foram excluídas as empresas com dados financeiros e dados da equipe de alto escalão incompletos, desta forma a amostra final foi composta por 293 empresas com dados completos so bre investimentos em inovação, estrutura de capital e características e participação acionária da equipe de alto escalão .
+A utilização da base de dados Europeia consiste em uma grande oportunidade de pesquisa , porque reúne uma grande quantidade de informaç ões de empresas de diferentes países .
+A escolha da Europa deve -se também ao destaque que estes países tê m no s investimentos em inovação, segundo dados da Índice Global de Inovação (2018), 11 das 20 economias mais inovadoras do planeta são europeias, incluindo as três primeiras (University of Cornell , 2018) .
+A coleta dos dados foi feita entre os meses de agosto e setembro de 2018 , e os dados analisados são do ano de 2016, que representa va os últimos dados completos disponíveis.
+A Tabela 1 apresenta as principais características das empresas e da equipe de alto escalão.
+Tabela 1 - Descrição dos dados das empresas e da equipe de alto escalão Pais No.
+Reino Unido 243 Manufatura 97 Alemanha 32 Ciência 53 Áustria 8 Financeiro 51 Outros 10 Comunicação 23 Funcionários No.
+Serviços administrativos 20 Até 50 68 Transporte 18 51 a 99 64 Outros 31 100 a 199 69 200 a 499 68 Acima 500 72 Tamanho da equipe de gestão No.
+Gestores Qt Empresa 2 81 8 11 3 81 9 5 4 44 10 1 5 32 11 3 6 27 14 1 7 16 17 1 Fonte: Dados da pesquisa.
+3.2 Variáveis e Medidas Variável dependente : Como variável dependente foi utilizada o desempenho organizacional.
+Esta variável é formada pelo EBITDA ( Earnings before interest, taxes, depreciation and amortization ).
+Esta variável é importante, pois é capaz de captar o desempenho excluindo os efeitos entre os países e as diferentes taxas de depreciação e amortização.
+Também foi utilizado como medida para a variável dependente o lucro/prejuízo antes do s imposto s (P/L profit/loss before tax ), que corresponde ao lucro ou prejuízo antes do s imposto s. 67 Rogério João Lunkes, Alcindo Cipriano Mendes, Gabriel Donadio Costa, Fabricia Silva Rosa Revista Universo Contábil, ISSN 1809 -3337, FUR B, Blumenau, v. 15, n. 2, p. 59 -77, abr./jun., 2019 Variáveis independentes : Como variáveis independentes foram utilizadas os investimentos em inovação e a estrutura de capital.
+A variável investimentos em inovação foi medida pelo valor dos gastos em pesquisa (despesas em pesquisa , divididas pela receita operacional) ; ativo intangível (formada pelo valor do ativo intangível contabilizado no ativo) e ; gastos em pesquisa por empregado (medido pelas despesas em pesquisa divididas pelo número de empregados ).
+Estas variáveis foram utilizadas em vários e studos (por exemplo, Baysinger, & Hosk isson, 1989; Gamble, 2000, Yunlu, & Murphy, 2012; Adbel -Khalik, 2014; Zhang, 2015 ).
+A estrutura de capital foi medida pela proporcionalidade entre capital de terceiros dividida pelo capital próprio, e pelo financiamento de curto prazo sobre longo prazo.
+Estas são medidas utilizadas em diversos estudos, por exemplo, Ranti (2013), Madan (2015) , Alves et al.
+Variáveis Moderadoras : Como variáveis moderadas foram utilizadas as características dos gestores de alto escalão (idade, tempo no cargo, gênero e tamanho da equipe ) e participação acionária .
+A variável idade e tempo no cargo foram medida s pelo coeficiente de variação (calculado pelo desvio padrão dividido pela média; a variável gênero foi mensurada pela porcentagem de mulheres na equipe ; e o tamanho da equipe representa o número de gestores da equipe de alto escalão .
+Estas medidas são ampl amente utilizadas em estudos sobre a Teoria dos Escalões Superiores (Ex.
+: Hambrick, & Mason, 1984; Chen et al., 2010; Orens, & Reheul, 2013; Bortoluzzi et al., 2016; Wang et al., 2016).
+A participação acionária da equipe de alto escalão será medida pelo número de gestores de topo com participação acionária pelo número total de gestores (Ex.
+: Kor, 2006 ; Chen et al., 2010) .
+Variáveis de controle : Como variáveis de controle foram utilizados: país sede, setor de atuação e número de funcionários.
+O país sede da empresa foi utilizado para verificar se países com cultura de investimento em inovação.
+O setor de atuação da empresa também foi utilizado como variável de controle (John et al., 2008 ; Acharya et al., 2011; Faccio , & Mura , 2011 ; Lunkes et al., 2019 ).
+Por exemplo, segundo a National Science Foundation (NSF, 2010), os setores de p rodutos químicos (incluindo produtos farmacêuticos), hardware de computador e incluindo software e serviços correlatos, aeroespacial e defesa de fabricação de produtos eletrônicos e automotivo são responsáveis por cerca de 80% dos investimentos em inovação nos EUA (Adbel -Khalik , 2014 ).
+Ainda foi utilizado o número de funcionários , isto porque estudos apontam que empresas maiores podem apresenta r níveis mais elevados de investimento em inovação e composição da estrutura de capital diferenciada ( Barker , & Mueller , 2002; Chen et al., 2010 ; Yunlu, & Murphy , 2012; Adbel -Khalik , 2014 ).
+3.3 Análise Estatística Para tratamento dos dados, foi utilizado a análise multivariada conhecida como Partial Least Squares Structural Equation Modeling (PLS -SEM).
+(2016), essa técnica é adequada em pesquisas que desejam testar ou expandir proposições teó ricas.
+Nesse trabalho buscouse a expansão de conhecimento estabelecido por linhas de pesquisas anteriores, onde os investimentos em inovação e estrutura de capital são componentes importantes para o desempenho organizacional.
+No entanto, busca -se o entend imento dessa relação considerando a influência das características e da participação acionária da equipe de alto escalão .
+A modelagem por PLS dá suporte para análises de dados multivariados em escala ordinal.
+Outra característica importante de PLS -SEM, é q ue, diferentemente de outras técnicas estatísticas, ela não faz suposição de normalidade para as distribuições dos dados ( Sarstedt, & Mooi , 2014).
+As análises foram feitas no software Smart -PLS 3 (Ringle, Wende, & Becker , 2015), por meio da modelagem de ca minho ( Path Modeling ).
+Esse procedimento visa uma análise de confirmação da força e significância das relações propostas nas hipóteses de pesquisa.
+Também foi utilizado as características e participação acionária da equipe de alto escalão como variável moderadora na relação primária entre investimentos em inovação, estrutura de capital e desempenho organizacional.
+(2016), uma moderação deve ser utilizada 68 IMPACTOS DOS INVESTIMENTOS EM INOVAÇÃO E DA ESTRUTURA DE CAPITAL NO DESEMPENHO ORGANIZACIONAL: UMA ANÁLISE SOB A PERSPECTIVA DA EQUIPE DE ALTO ESCALÃO Revista Universo Contábil, ISSN 1809 -3337, FURB, Blumenau, v. 15, n. 2, p. 59 -77, abr./jun., 2019 quando uma variável afeta a relação direta (p1) entre dois con strutos, e ainda estabelece uma relação direta com a variável endógena (p2).
+Na sequência, apresenta -se as fórmulas para o cálculo das variáveis.
+Fórmula 1 : 𝑌=𝛽0 + 𝑋1𝛽1 + (𝑋1 𝛽2∗ 𝑋2 𝛽2) + 𝜀 Onde: 𝑌 = Desempenho Organizacional; 𝑋1 = Investimentos em Inovação; e 𝑋2 = Características e Participação Acionária da Equipe de Alto Escalão Fórmula 2: 𝑌=𝛽0 + 𝑋1𝛽1 + (𝑋1 𝛽2∗ 𝑋2 𝛽2) + 𝜀 Onde: 𝑌 = Desempenho Organizacional; 𝑋1 = Estrutura de Capital; e 𝑋2 = Características e Participação Acionária da Equipe de Alto Escalão 4 RESULTADOS O objetivo do trabalho foi analisar o impacto do s investimento s em inovação e da estrutura de capital no desempenho organizacional, levando em consideração a influência das características e participação acionária da equipe de alto escalão .
+As análises foram feitas no software Smart -PLS 3 (RINGLE et al.
+, 2015), por meio da modelagem de caminho ( Path Modeling ).
+A partir do desenho teórico da pesquisa ( Figura 1), utilizou -se o modelo de medição, como determina Hulland (1999), para verificar as medidas .
+Neste procedimento, primeiro se verifica a confiabilidade e validade e em seguida analisa -se a natureza das relações dos construtos e o modelo estrutural.
+Para a formação das medidas das variáveis latentes, foi utilizado o modelo reflexivo, que segundo H air Jr. et al.
+representam os efeitos ou manifestações d e um construto subjacente [.]
+e, portanto, suas medidas podem ser vistas como uma amostra representativa de todos os itens possíveis para um determinado domínio conceitual" .
+Tabela 2 - Resultados do factor loading , reliability and validity of variables .
+Variáveis Item Factor loading CR AVE Investimentos em Inovação – IIV AIT GAP GPE 0.744 0.668 0.790 0.779 0,542 Estrutura de Capital – ECA EC1 EC2 0.707 0.666 0.641 0,471 Caracter ísticas e Part.
+Acionária – CPA TEC PAC 0.737 0.850 0.774 0.633 Desempenho Organizacional – DOR L/P EBITDA 0.931 0.898 0.911 0.837 AIT: Ativo intangível; GAP: Gastos em pesquisa; GPE: Gastos em pesquisa por empregado; EC1: Proporcionalidade entre capital de terceiros e capital próprio; EC2: Proporcionalidade entre financiamento de curto prazo e longo prazo : TEC : Tempo no cargo ; PAC : Participação acionária; L/P: Lucro/prejuízo antes dos impostos ; EBITDA : Earnings before interest, taxes, depreciation and amortization Fonte: dados de pesquisa (2018).
+A Tabela 2 indica as medidas ( fator loading ) para cada constructo.
+De forma geral, as medidas ficaram próximas ou superior a 0,7, conforme recomendado na literatura (Nunnal ly, & Bernstein, 1994; Hair Jr. et al., 2016).
+A fim de verificar a confiabilidade do modelo, também foram calculados o CR e AVE, que indicam, respectivamente, valores próximos ou superiores a 0.6 e 0.5.
+Embora, o valor do AVE da variável estrutura de capital seja 0.47, as medidas tempo no cargo e participação 69 Rogério João Lunkes, Alcindo Cipriano Mendes, Gabriel Donadio Costa, Fabricia Silva Rosa Revista Universo Contábil, ISSN 1809 -3337, FUR B, Blumenau, v. 15, n. 2, p. 59 -77, abr./jun., 2019 acionária mostraram -se aderentes.
+Neste aspecto, sugere -se que futuros estudos busquem novas medidas para fortalecimento deste constructo.
+Após verificada a confiabilidade do modelo de medição, foi feito a análise do modelo estrutural, que indica a força e significância das relações entre os constructos.
+Conforme apresentado na Tabela 3, a relação direta entre investimentos em inovação e desempenho organizacional é significativa e, portanto, pode ser confirmada a primeira hipótese da pesquisa (H1) .
+Esta relação é positi va (0.714 ), o que corrobora com as pesquisa s que mostram que investimentos em inovação geram melhoria no desempenho organizacional (Chen et al., 2010).
+Há inclusive estudos que apontam que aquelas empresas de mantê m uma taxa contínua de investimento s em inovação , fortalecem sua vantagem competitiva (O'B rien, 2003; Kor, 2006).
+Quanto a segunda hipótese (H2) , a relação entre a estrutura de capital e o desempenho organizacional foi significativo e negativo .
+Significa dizer que quanto maior o endividamento com capital de terceiros e de financiamento de curto prazo , menor será o desempenho.
+Portanto, a hipótese 2 (H2) da pesquisa foi confirmada.
+Esses resultados estão em consonância com estudos anteriores (ex.
+Finkelstein, & Hambrick , 1990; Hoskisson et al., 2017) , que indicam uma relação entre decisões gerenciais e a composição do endividamento.
+Tabela 3: Coeficientes e significância estatística Variáveis Dependentes e Moderadoras Variáveis Independentes Estrutura de Capital -ECA Investimentos em Inovação -IIN Caract.
+e Part.Acionária -CPA Desempenho Organizacional -DOR -0.089 *** 0.714 * -0.033 Moderação : ECA→DOR 0.088 ** Moderação : IIN→DOR -0.139 * p < 0.10; ** p < 0.05; *** p < 0.01.
+Fonte: dados de pesquisa (2018).
+Seguindo o modelo de pesquisa, foi utilizado, com base na Teoria dos Escalões Superiores, características observáveis da equipe de gestão como variável moderadora nas relações primárias H1 e H2.
+Pela hipótese H3a, esperava -se que essas características pude ssem modificar a relação entre investimentos em inovação e desempenho organizacional .
+No entanto , a relação não foi significativa (-0.139) , o que não permite inferências sobre o seu efeito.
+Já para a moderação entre a estrutura de capital e o desempenho organizacional o path coeficiente foi positivo (0,088) e significativ o (p-valor<0.05) .
+Esse resultado não só confirma a hipótese H3b da pesquisa, como mostra que características da equipe de alto escalão podem reduzir o impacto negativo d o endividamento co m terceiros e o desempenho organizacional .
+Significa dizer, que gestores com maior tempo no cargo, podem buscar um equilíbrio entre a composição do endividamento e o desempenho.
+: Henderson et al., 2006; Menegazzo et al., 2017) , mostram que os gestores em início de carreira são mais arrojados para esse tipo de investimento, e com o passar do tempo buscam uma estabilidade , o que pode equilibra r a composição da estrutura de capital e o desempenho organizacional.
+A evidência empír ica é consistente com o argumento de que os gestores de alto escalão com idade mais avançada estão associados com rigidez, pouca aprendiza gem e capacidade analítica.
+Esta propensão de aversão ao risco tende a levá -los a escolher uma forma de composição da estrutura de capital e investimentos em inovação mais conservadora (Chen et al., 2010) .
+Em relação à participação acionária, os resultados indicam que gestores que têm ações da empresa também busca m minimizar o efeito negativo do endividamento com capital de terceiros no resultado.
+Os achados estão em consonância com estudos que indicam que gestores que possuem ações tendem a tomar decisões de baixo risco , de maneira a não comprometer o desempenho ( Gamble, 2000, & Chen et al.
+Também corrobora com estudos, que concluíram que CEOs com um horizonte de carreira m ais curto diminuem os investimentos em inovação mais dramaticamente do que CEOs com um horizonte maior de carreira ( Yunlu , & Murphy , 2012) .
+70 IMPACTOS DOS INVESTIMENTOS EM INOVAÇÃO E DA ESTRUTURA DE CAPITAL NO DESEMPENHO ORGANIZACIONAL: UMA ANÁLISE SOB A PERSPECTIVA DA EQUIPE DE ALTO ESCALÃO Revista Universo Contábil, ISSN 1809 -3337, FURB, Blumenau, v. 15, n. 2, p. 59 -77, abr./jun., 2019 Era esperado ainda que outras características como gênero, idade e tamanho da equipe pudessem moderar as relações entre investimentos em inovação, estrutur a de capital e desempenho organizacional .
+No entanto, essas medidas ap resentaram carga fatorial baixa e, tiveram que ser excluídas do constructo características da equipe de alto escalão .
+Pesquisas futuras devem investir esforços nessa direção, pois a literatura antecedente nes ta área mostra que há direta ou indiretamente influência desses fatores do dese mpenho organizacional ( Croson , & Gneezy , 2009; Ranti , 2013; Serfling , 2014; Cline , & Yore , 2016 ).
+Adicionalmente foram feitas análises considerando três variáveis de controle: país, setor de atuação e tamanho medido pelo número de empregados de cada empresa.
+Essas análises são importantes porque fatores específicos podem modificar as relações teorizada s no modelo da pesquisa (Barker, & Mueller, 2002; Chen et al., 2010; Yunlu, & Murphy , 2012; Adbel -Khalik, 2014) .
+Para a variável país, foram considerados o Reino Unido e Alemanha, os dois países com maior representatividade na amostra.
+Os resultados da Tabela 4 (Painel A) indicam que, para o Reino Unido, a relação entre estrutura de capital é significativa (p -valor<0,05) e negativa ( path coeficiente =0,102), indicando que quanto maio r o endividamento com terceiros, menor será o desempenho organizacional .
+As características e participação acionária da equipe de alto escalão moderam a relação entre estrutura de capital e desempenho (path coeficiente = 0,114) .
+Este resultado comprova que tempo no cargo e participação acionária podem fazer com que gestores busquem reduzir os efeitos negativ os do endividamento com terceiros, seja reduzindo o nível de endividamento, seja buscando alternativas para melhorar o desempenho , com utiliza ção de capital d e terceiros.
+Já para a Alemanha nenhuma das relações foram significativas.
+O tamanho da amostra de cada paí s pode ter influenciado no resultado e , isto é uma limitação que deve ser considerada.
+Estas diferen ças entre países podem ser explicadas, por exemplo, pela posição que cada país ocupa no índice global de inovação ( University of Cornell , 2018) .
+Tabela 4 - Resultado da análise das variáveis de controle Painel A – Resultado por país ( path coefficients ) Reino Unido (n: 243) Alemanha (n: 3 2) Invest.
+Inovação IIN→Desempenho -DOR -0.027 0.276 Estrutura Capital -ECA →Desempenho -DOR -0.102** -0.235 Moderação: CPA /ECA→DOR 0.114** 0.089 Moderação: CAP /IIN→DOR -0.622 -0.125 CPA →DOR -0.184 -0.109 Painel B – Resultado por setor Manufatura (n: 97) Financeiro (n: 51) Ciência (n: 53) Invest.
+Inovação -IIN→DOR 0.679*** 0.113 1.119** Estrutura Capital -ECA →DOR -0.044 -0.059 -0.079 Moderação: CPA /ECA→DOR 0.014 0.113 0.065 Moderação: CPA /IIN→DOR -0.341* -0.964** 0.331 CPA →DOR -0.063 -0.342* 0.000 Painel C – Resultado por número de funcionários Até 500 (n: 232) + 501 (n: 61 ) Invest.
+Inovação -IIN→DOR -1.212 0.710*** Estrutura Capital -ECA →DOR 0.018 -0.113 Moderação: CPA /ECA→DOR 0.053 0.076 Moderação: CPA/IIN→DOR -1.883 ** -0.134 CPA →DOR -0.361** -0.070 * p < 0.10; ** p < 0.05; *** p < 0.01.
+Fonte: Dados da pesquisa (2018).
+Em relação ao setor de atuação, foram analisados a manufatura, financeiro e ciência como indicado na Tabela 4 (Painel B ).
+A análise por setor permite verificar que há diferenças nas relações.
+Para o setor de manufatura e ciências verifica -se que a relação entre investimento s em inovação e desempenho organizacional a relação é positiva e significativa (p-valor<0,01 e 0,05, 71 Rogério João Lunkes, Alcindo Cipriano Mendes, Gabriel Donadio Costa, Fabricia Silva Rosa Revista Universo Contábil, ISSN 1809 -3337, FUR B, Blumenau, v. 15, n. 2, p. 59 -77, abr./jun., 2019 respectivamente ).
+Isto s ignifica dizer que par a o setor de manufatura e ciências os investimento s em inovação são importante s para aument ar o desempenho organizacional.
+Estudos anteriores como , O'Brien (2003) e Kor (2006) mostram que esse tipo de investime nto gera vantagem competitiva.
+É provável que isso seja acentuado nesse setor.
+Outra questão interessante que se observa é o fato das características e a participação acionária da equipe de alto escalão apresentarem coeficiente positivo (0,341) e significa tivo a 90% (pvalor<0,10) .
+É dizer que características como estabilidade no cargo e participação acionári a dos gestores podem reduzir o efeito do s investimento s em inovação no desempenho da organização .
+O mesmo efeito moderador é observado para o setor financeiro, com o coeficiente de 0,946 e significativo (p-valor<0,05), o que não ocorre para o setor de ciência.
+Esse resultado é importante e mostra que para o setor como de ciência onde inovação é sempr e esperado, as características da equipe de alto escalão têm menos impacto.
+Isso pode ocorrer em função dos próprios objetivos do setor, onde o impacto econômico , não necessariamente seja prioridade.
+Por fim, foi verificado se as relações entre investiment os em inovação, estrutura de capital e desempenho são diferentes de acordo com o tamanho das empresas, representado pelo número de funcionários.
+Os resultados mostram que a relação é positiva e significativa a 99% (p-valor<0,01) para empresas grandes, com mais de 500 funcionários.
+No entanto , o efeito moderador das características e participação acionári a da equipe de alto escalão não foram significativos.
+Também não foi significativa as relações entre estrutura de capital e desempenho organizacional.
+Logo, para o tamanho da empresa é preciso buscar novas proxies para melhor entendimento.
+É possível que a aversão ao risco, por exemp lo, possa ter efeitos diferentes , de acordo com o tamanho da empresa (Shemesh , 2017).
+Portanto, a pesquisa revela que os investimentos em inovação geram melhor ia no desempenho organizacional.
+O que representa , na prática , que empresas que mantêm uma taxa contínua de investimentos em inovação, fortalecem sua vantagem competitiva.
+Verificou -se, também, que quanto maior o endividamento com capital de terceiros e de financiamentos de curto prazo, menor será o desempenho organizacional .
+Na prática , isso quer dizer que o nível de endividamento pode ser decisivo no momento de investir em inovação.
+No entanto, os resultados também revelam que este comportamento não é igual para todas as empresas, ou seja, fatores como país, setor de atuação e tamanho (número de empr egados) pode interferir nesta relação entre endividamento, estrutura de capital e investimento em inovação.
+Por fim, o este estudo voltou seu olhar para a equipe de alto escalão , que auxilia o processo de decisão, e pode -se concluir que gestores com maior tempo no cargo, podem buscar um equilíbrio entre a composição do endividamento e o desempenho da empresa.
+E apontou indícios de que gestores com mais tempo de empresa tendem a escolher uma forma de composição de estrutura de capital mais conservadora, bem como, tendem a diminuir investimentos em inovação.
+5 CONCLUSÕES A presente pesquisa teve como objetivo analisar o impacto dos investimentos em inovação e da estrutura de capital no desempenho organizacional, levando em consideração a influênc ia das características e da participação acionária da equipe de alto escalão .
+Para atender este objetivo analisou -se os dados de 293 empresas europeias da base Amadeus, do ano de 2016, por meio de equações estruturais, utilizando o software Smart/PLS.
+Os resultados revelam que investimentos em inovação influenciam positivamente o desempenho organizacional.
+Especificamente, os investimentos em ativo intangível, gastos de Pesquisa e Desenvolvimento -P&D e gastos com pesquisa, podem gerar incrementos no desempe nho organiz acional.
+O estudo revela também que a form a de composição da estrutura de capital pode gerar diferentes riscos para a organização.
+Especificamente nas empresas do estudo, observou -se que 72 IMPACTOS DOS INVESTIMENTOS EM INOVAÇÃO E DA ESTRUTURA DE CAPITAL NO DESEMPENHO ORGANIZACIONAL: UMA ANÁLISE SOB A PERSPECTIVA DA EQUIPE DE ALTO ESCALÃO Revista Universo Contábil, ISSN 1809 -3337, FURB, Blumenau, v. 15, n. 2, p. 59 -77, abr./jun., 2019 quanto maior o endividamento com capital de terceiros e financiamento de curto prazo, menor era o desempenho.
+O estudo analisa também que a influência das características e da participação acionária da equipe de alto escalão na relação entre decisões sobre investimentos em inovação e estrutura de capital e desempenho organizacional .
+Os resultados mostram que gestores com maior tempo no cargo e participação acionária , podem buscar um equilíbrio entre a composição do endividamento e o desempenho da empresa.
+Além disso, os gestores que estão mais tempo e ações da empresa também buscam minimizar o efeito negativo do endividamento no resultado.
+Entret anto, não foi possível observar nas empresas estudadas a influência das características de gênero, idade e tamanho da equipe nas relações entre investimentos em inovação e desempenho organizacional.
+Adicionalmente, buscou -se verificar se variáveis relacionadas a país, setor de atuação e tamanho das empresas podem influenciar nas decisões sobre investimentos em inovação e estrutura de capital.
+O estudo revelou que há difere nças entre países, e as próprias questões culturais podem fazer com que as características dos gestores exerçam uma moderação diferente, no Reino Unido, por exemplo, as características da equipe de alto escalão, como tempo no cargo e participação acionária , podem fazer com que gestores busquem reduzir os efeitos negativos do endividamento com capital de terceiros.
+Quanto ao setor, verificou -se que no manufatureiro , o investimento em inovação gera impacto diferenciado, com aumento do desempenho organizaciona l. Já em relação ao tamanho da empresa, os resultados não são conclusivos.
+Estes resultados têm inúmeras implicações para o gerenciamento das empresas.
+Dentre os principais pode -se destacar que investimentos em inovação podem implicar em ganho superior, mas é necessário considerar as características e o sistema de incentivos como, por exemplo a participação acionária .
+Outra implicação revelada é que a seleção dos gestores de alto escalão influenciará diretamente na composição da estrutura de capital e nos investimentos em inovação.
+Por exemplo, a escolha de gestores jovens e do gênero masculino poderá tornar mais arrojadas as decisões sobre a formas de financiamentos e os investimentos.
+Os resultados ajudam a entender e aplicar os efeitos da idade, gênero , participação de mulheres e tempo no cargo da equipe de alto escalão na relação entre estrutura de capital e investimentos em inovação com desempenho da empresa.
+Esses resultados também explicam como as propriedades da equipe afetam o desempenho da empres a em diversos tipos de empresas e diferentes estratégias.
+A escolha da forma de incentivos vai ser determinante no nível de investimentos em inovação.
+Assim, empresas que tem como estratégia a inovação, precisa m encontrar a melhor forma de equilibrar os interesses dos gestores e da organização.
+Este estudo faz parte de um conjunto de pesquisas realizadas sobre as características dos gestores e suas relações com o uso de informações, estrutura de capital e investimentos em inovação , além de seu impacto do desempenho organizacional.
+No entanto, traz algumas limitações, por exemplo, para o cálculo da variável estrutura de capital considerou -se a composição de curto e longo prazo, mas não se observou a diferença entre passivos onerosos e não onerosos.
+Além disso , para medir o desempenho observou -se a variável EBITDA e P/L e, não foram incluídas variáve is de mercado .
+A utilização de variáveis de lucro (ex.
+EBITDA e P/L) pode implicar em uma visão de desempenho passado.
+Para futuras pesquisas sugere -se a análise de aspectos culturais dos diferentes países nos investimentos em inovação e, suas consequências para o risco e desempenho organizacional.
+Também verificar a influência dos passivos onerosos no desempenho e na relação entre investimento de inovação e estrutur a de capital.
+Também analisar o desempenho com variáveis de mercado de ações.
+Além disso, medidas de tempo no cargo e participação acionária, idade, gênero e tamanho da equipe podem ser investigadas com mais profundidade em pesquisas futuras, já que os resultados nesta pesquisa sobre essas variáveis revelam que pode m variar de setor , país e tamanho .
+73 Rogério João Lunkes, Alcindo Cipriano Mendes, Gabriel Donadio Costa, Fabricia Silva Rosa Revista Universo Contábil, ISSN 1809 -3337, FUR B, Blumenau, v. 15, n. 2, p. 59 -77, abr./jun., 2019 REFER ÊNCIAS Abdel‐Khalik, A. R. (2014).
+CEO risk preference and investing in R & D. Abacus, 50 (3), 245 -278.
+Acharya, V. V., Amihud, Y., & Litov, L. (2011).
+Creditor rights and corporate risk -taking.
+Journal of Financial Economics, 102 (1), 150 -166.
+Achcaoucaou, F., Miravitlles, P., & León -Darder, F. (2014).
+Knowledge sharing and subsidiary R&D mandate development: A matter of dual embeddedness.
+International B usiness Review, 23 (1), 76 -90.
+Production, information costs, and economic organization.
+The American Economic Review, 62 (5), 777 -795.
+Alves, P., Couto, E. B., & Francisco, P. M. (2015).
+Board of directors' composition and capital structure.
+Research in International Business and Finance, 35 , 1-32.
+Bamber, L. S., Jiang, J., & Wang, I. Y.
+The influence of top managers on voluntary corporate financial disclosure.
+The Accounting Review, 85 (4), 1131 -1162.
+Barberis, N., & Thaler, R. (2003).
+A Survey of Behavioral Finance.
+In Constantinides, G. M., Harris, M., & Stulz, R.
+), Handbook of the Economics of Finance , 1052 –1121.
+Bargeron, L. L., Lehn, K. M., & Zutter, C. J.
+Sarbanes -Oxley an d corporate risk -taking.
+Journal of Accounting and Economics, 49 (1-2), 34 -52.
+Barker, V. L., & Mueller, G. C. (2002).
+CEO characteristics and firm R&D spending.
+Management Science, 48(6), 782 -801.
+Baysinger, B., & Hoskisson, R. E. (1989).
+Diversification s trategy and R&D intensity in multiproduct firms.
+Academy of Management journal, 32 (2), 310 -332.
+Beber, A., & Fabbri, D. (2012).
+Who times the foreign exchange market?
+Corporate speculation and CEO characteristics.
+Journal of Corporate Finance, 18 (5), 1065 -1087.
+Managing with style: The effect of managers on firm policies.
+The Quarterly Journal of Economics, 118 (4), 1169 -1208.
+Bido, D. S., Silva, D., Souza, C. A., & Godoy, A. S. (2010).
+Mensuração com indicadores forma tivos nas pesquisas em administração de empresas: Como lidar com a multicolinearidade entre eles?
+Administração: Ensino e Pesquisa, 11 (2), 245 -269.
+Bortoluzzi, D. A., Zakaria, J., Santos, E. A., & Lunkes, R. J.
+A influência das características dos executivos de alto escalão sobre a estrutura de capital: Um estudo em empresas listadas na BM&FBOVESPA.
+Boubakri, N., Cosset, J. C., & Saffar, W. (2013).
+The role of state and foreign owners in corporate risktaking: Evidence from privatization.
+Journal of Financial Economics, 108 (3), 641 -658.
+Brealey, R., & Myers, S. (1984).
+Principles of Corporate Finance .
+Carpe nter, M. A., Geletkanycz, M. A., & Sanders, W. G. (2004).
+Upper echelons research revisited: Antecedents, elements, and consequences of top management team composition.
+Journal Of Management, 30 (6), 749 -778.
+Chen, H. L., & Huang, Y. S. (2006).
+Employee stock ownership and corporate R&D expenditures: evidence from Taiwan's information -technology industry.
+Asia Pacific Journal of Management, 23 (3), 369384.
+Chen, H. L., Hsu, W. T., & Huang, Y. S. (2010).
+Top management team c haracteristics, R&D investment and capital structure in the IT industry.
+Small Business Economics, 35 (3), 319 -333.
+Choi, J. J., Jin, L., & Yan, H. (2012).
+What does stock ownership breadth measure?
+Review of Finance, 17(4), 1239 -1278.
+Cline, B. N., & Yore, A. S. (2016).
+Silverback CEOs: Age, experience, and firm value.
+Journal of Empirical Finance, 35 , 169 -188.
+Industry effects and apropriability measures in the stock market's valuation of R&D and patents.
+American Econ omic Review, 78 (2), 419 -423.
+Coles, J., Daniel, N., & Naveen, L. (2008).
+Journal of Financial Economics , 87(2), 329 -356.
+Core, J. E., & Larcker , D. F. (2002).
+Performance consequences of mandatory increases in executive stock ownership.
+Journal of Financial Economics, 64 (3), 317 -340.
+Determinantes do desempenho económico das empresas familiares portuguesas: será a inovaçã o relevante?
+Universidade do Porto, Faculdade de Economia, Porto - PT.
+74 IMPACTOS DOS INVESTIMENTOS EM INOVAÇÃO E DA ESTRUTURA DE CAPITAL NO DESEMPENHO ORGANIZACIONAL: UMA ANÁLISE SOB A PERSPECTIVA DA EQUIPE DE ALTO ESCALÃO Revista Universo Contábil, ISSN 1809 -3337, FURB, Blumenau, v. 15, n. 2, p. 59 -77, abr./jun., 2019 Costa, G. D., Rosa, F. S., & Lunkes, R. J.
+Demographics/Job Characteristics of Top Managers, Corporate Risk and Organizational Outcomes.
+Revista de Co ntabilidad y Negocios, 13 (25), 94 -108.
+Gender differences in preferences.
+Journal of Economic literature, 47(2), 448 –474.
+Damanpour, F., & Gopalakrishnan , S. (2001).
+The dynamics of the adoption of product and process innovations in organizations.
+Dimitropoulos, P., & Asteriou, D. (2010).
+The effect of board composition on the informativeness and quality of annu al earnings: empirical evidence from Greece.
+Research in International Business and Finance, 24 (2), 190 -205.
+Ensslin, L, & Ensslin, S. R. (2010).
+Revisão Sistêmica da Literatura.
+Material didático apresentado na Disciplina de Avaliação de Desempenho do Programa de Pós -Graduação em Engenharia de Produção da Universidade Federal de Santa Catarina, Florianópolis.
+Faccio, M., & Marchica, M. T., Mura, R. (2011).
+Large shareholder diver sification and corporate risk -taking.
+The Review of Financial Studies, 24 (1), 3601 -3641.
+Faccio, M., & Marchica, M. T., Mura, R. (2016).
+CEO gender , corporate risk -taking , and the efficiency of capital allocation.
+Journal of Corporate Finance, 39 , 193 -209.
+Fama, E. F., & Jensen, M. C. (2009).
+Agency Problems and Residual Claims.
+The Journal of Law and Economics, 26 (2), 327 –349.
+Fávero, L. P., Belfiore, P., Takamatsu, R. T., & Suzart, J.
+Métodos quantitativos com Stata .
+Finkelstein, S., & Hambrick, D.C. (1990).
+Top-management -team tenure and organizational outcomes: The moderating role of managerial discretion.
+Administrative Science Quarterly , 35(3), 484 -503.
+Fisher, P.J., & Yao, R. (2017).
+Gender Differences in Financia l Risk Tolerance.
+Journal of Economic Psychology, 61 , 191 -202.
+Francis, B., Hasan, I., Park, J. C., & Wu, Q.
+Gender differences in financial reporting decision making: Evidence from accounting conservatism.
+Contemporary Accounting Research, 32 (3), 1285 -1318.
+Quinze anos do Programa de P&D da ANEEL: Um estudo bibliométrico.
+Revista Pensamento Contemporâneo de Administração, 10(4), 148 -162.
+Management Commitment to Innovation and ESOP Stock Concentration.
+Journ al of Business Venturing, 15(5-6), 433 -447.
+Geletkanycz, M. A., & Black, S. S. (2001).
+Experience -based effects on commitment to the strategic status quo.
+Journal of Management , 27(1), 3 –21.
+Hair Jr, J. F., Hult, G. T. M., Ringle, C., & Sarstedt, M. (2016).
+A primer on partial least squares structural equation modeling (PLS -SEM) .
+The stock market's valuation of R&D investment during the 1980s.
+Upper echelons theory: An update.
+Academy of Management Review , 32(2), 334343.
+Hambrick, D. C., & Mason, P. A.
+Upper echelons: The organization as a reflection of its top managers.
+Academy of Management Review, 9 (2), 193 –206.
+Henderson, A. D., Miller, D., & Hambrick, D. C. (2006).
+How quickly do CEOs become obsolete?
+Industry dynamism, CEO tenure, and company performance.
+Strategic Management Journal, 27 (5), 447 – 460.
+Upper echelons theory in management a ccounting and control research.
+Journal of Management Control , 24(3), 223 -240.
+Hoskisson, R. E., Chirico, F., Zyung, J., & Gambeta, E. (2017).
+Managerial Risk Taking: A MultiTheoretical Review and Future Research Agenda.
+Journal of Management , 43(1), 1 –3.
+Gender and corporate finance: Are male executives overconfident relative to female executives?
+Journal of Financial Economics, 108 (3), 822 –839.
+Use of partial least squares (PLS) in strategic manageme nt research: A review of four recent studies.
+Strategic Management Journal, 20 (2), 195 -204.
+Instituto Nacional da Propriedade Industrial .
+Disponível em: < 75 Rogério João Lunkes, Alcindo Cipriano Mendes, Gabriel Donadio Costa, Fabricia Silva Rosa Revista Universo Contábil, ISSN 1809 -3337, FUR B, Blumenau, v. 15, n. 2, p. 59 -77, abr./jun., 2019 Jaffe, A.
+Technological opportunity and spillovers of R&D: Evidence from firms' patents, profits, and market value.
+American Economic Review, 76 (5), 984 -999.
+Jensen, M. C., & Meckling, W. J.
+Theory of the firm: managerial behavior, agenc y costs and capital structure .
+Journal of Financial Economics , 3(4), 305 -360.
+John, K., Litov, L., & Yeung, B.
+Corporate governance and risk‐taking.
+The Journal of Finance, 63(4), 1679 -1728.
+Johnson, J. E. V., & Powell, P. L. (1994).
+Decision making, risk and gender: Are managers different?
+British Journal of Management , 5(2), 123 –138.
+Judge Jr, W. Q., & Dobbins, G. H. (1995).
+Antecedents and effects of outside director's awareness of CEO decision style.
+Journal of Management, 21 (1), 43 -64.
+Rápido e devagar: duas formas de pensar .
+Khaw, K. L. H., Liao, J., Tripe, D., & Wongchoti, U.
+Pacific -Basin Finance Journal Gender diversity, state control, and corporate risk -taking : Evidence from China.
+Pacific -Basin Finance Journal , 39, 141 –158.
+Path analysis: Reading and Understanding Multivariate Statistics.
+Lawrence G. Grimm and Paul R. Yarnold, ed.
+American Psychological Association, Washington, DC.
+Direct and interaction effects of top management team and board compositions on R&D investment strategy.
+Strategic Management Journal, 27 (11), 1081 -1099.
+Managerial social networks and innovation: A meta -analysis of bonding and bridging effects across institutional environments.
+Jour nal of Product Innovation Management, 25(6), 865 -889.
+Krishnan, H. A., & Park, D. (2005).
+A few good women -on top management teams.
+Journal of business research, 58 (12), 1712 -1720.
+Determinants of CEO strategic risk -taking in the airline industry.
+Tourism Management Perspectives , 18(7), 111 –117.
+Lewis, B. W., Walls, J. L., & Dowell, G. W. S. (2014).
+Difference in degrees: CEO characteristics and firm environmental d isclosure.
+Strategic Management Journal , 35(5), 712 –722.
+Top management team characteristics and firm internationalization: the moderating role of the size of middle managers.
+International Business Review , 27(1), 125 -138.
+Lunkes, R. L., Costa, G. D., Bortoluzzi, D. A., & Rosa, F. S. (2019).
+Influência das características da equipe de gestão sobre a tomada de decisão de risco: evidências do ramo de restaurantes.
+Revista Turismo Visão e Ação, 21 (2), In Press.
+An analysis of the debt -equity structure of leading hotel chains in India.
+International Journal of Contemporary Hospitality Management, 19 (5), 397 -414.
+Menegazzo, G. D., Lunkes, R. J., Mendes, A., & Schnorrenberger, D. (2017).
+Relação entre características demográficas dos gestores e uso de informações para tomada de decisões: um estudo em micro e pequenas empresas.
+Journal of Globalization, Competitiveness & Governability, 11 (3), 90 -110.
+Modigliani, F., & Miller, M. H. (1958).
+The cost of capital, corporation finance and the theory of investment.
+American Economic Review, 48 (3), 261 -297.
+Modigliani, F., & Miller, M. H. (1963).
+Corporate income taxes and the cost of capital: a correction.
+American Econ omic Review, 53 (3), 433 -443.
+Mueller, G. C., & Barker, V. L. (1997).
+Upper echelons and board characteristics of turnaround and nonturnaround declining firms.
+Journal of Business Research, 39 (2), 119 –134.
+Myers, S. C., & Majluf, N. S. (1984).
+Corporate fin ancing and investment decisions when firms have information investors do not have.
+Journal of Financial Economics, 13 (2), 187 -222.
+Journal of Finance, 39 , 575 -592.
+Nunnally, J. C., & Bernstein, I. H. (1994) .
+New York, NY: McGraw -Hill, Inc. O'Brien, J. P. (2003).
+The capital structure implications of pursuing a strategy of innovation.
+Strategic Management Journal, 24 (5), 415 -431.
+Orens, R., & Reheul , A. M. D. (2013).
+CEO demographics explain cash holdings in SMEs?
+European Management Journal, 31 (6), 549 -563.
+Ouimet, P., & Zarutskie, R. (2014).
+The relation between firm age, employee age, and growth.
+Journal of Financial Econom ics, 112 (3), 386 -407.
+76 IMPACTOS DOS INVESTIMENTOS EM INOVAÇÃO E DA ESTRUTURA DE CAPITAL NO DESEMPENHO ORGANIZACIONAL: UMA ANÁLISE SOB A PERSPECTIVA DA EQUIPE DE ALTO ESCALÃO Revista Universo Contábil, ISSN 1809 -3337, FURB, Blumenau, v. 15, n. 2, p. 59 -77, abr./jun., 2019 Peasnell, K. V., Pope, P. F., & Young, S. (2005).
+Board monitoring and earnings management: do outside directors influence abnormal accruals?
+Journal of Business Finance & Accounting, 32 (7-8), 1311 – 1346.
+A., Fernando , G. D., & Tripathy , A.
+An examination of gender diversity on firm performance, risk, and executive compensation.
+Journal of Business Research , 69(2), 579-586.
+Plöckinger, M., Aschauer, E., Hiebl, M. R., & Rohatschek, R. (2016).
+The influence of individual executives on corporate financial reporting: A review and outlook from the perspective of upper echelons theory.
+Journal of Accounting Literature , 37(9), 55 –75.
+Rajan, R. G., & Zingales, L. (1995).
+What do we know about capital structure?
+Some evidence from international data.
+Journal of Finance, 50 (5), 1421 -1460.
+Ran, G., Fang, Q., Luo, S., & Chan, K. C. (2015).
+Supervisory board characteristics and accounting information quality: Evidence from China.
+International Review of Economics & Finance , 37(13), 18–32.
+The Effects of Board Size and CEO Duality on Firms' Capital Str ucture: A Study of Selected Listed Firms in Nigeria.
+Asian Economic and Financial Review , 3(8), 1033 -1043.
+Ringle, C. M., Wende, S., & Becker, J. M. (2015).
+Boenningstedt: SmartPLS GmbH, smartpls.
+Sarstedt, M., & Mooi , E. (2014) Cluster analysis.
+In: A concise guide to market research .
+Capitalism, Socialism and Democracy .
+CEO age and riskiness of corporate policies.
+Journal of Corporate Finance , 25, 251–273.
+CEO social status and risk -taking.
+Quarterly Journal of Finance, 7 (2), 1 -33.
+Sherman, H. D., Kashlak, R. J., & Joshi, M. P. (1998).
+The effect of the board and executive committee characteristi cs on the degree of internationalization.
+Journal of International Management , 4(4), 311-335.
+Szewczyck, S., Tsetsekos, G., & Zantout, Z.
+The valuation of corporate R&D expenditures: evidence from investment opportunities and free cash flow.
+Finance Management, 25 (1), 105 -110.
+Upper Echelon Theory Revisited: The Relationship between CEO Personal Characteristics and Financial Leverage Decision.
+Procedia -Social and Behavioral Sciences , 195(3), 686 -694.
+Titman, S., & Wessels, R. (1988).
+The determinants of capital structure choice.
+Journal of Finance, 43 (1), 1-19.
+Índice Global de Inovação de 2018 .
+Disponível em: -abridged1.pdf Von Den Driesch , T., Costa, M. E. S., Flatten, T. C., & Brettel, M. (2015).
+CEO experience, personality, and network affect firms' dynamic capabilities.
+European Management Journal, 33 (4), 245 -256.
+Literature review and emotion -based model of age and leadership: New directions for the trait approach.
+Wang, G., Holmes Jr., R. M., Oh, I. S., & Zhua, W. (2016).
+Do CEOs matter to firm strategic actions and firm performance?
+A meta -analytic investigation based on upper echelons theory.
+Personnel Psychology, 69 (4), 775 -862.
+Wang, Y., Wei, Y., & Song, F. M. (2017).
+Uncertainty and corporate R & D investment: Evidence from Chinese listed firms.
+International Review of Economics and Finance, 47 , 176 –200.
+Wiers ema, M. F., & Bantel, K. A.
+Top management team demography and corporate strategic change.
+Academy of Management Journal, 35 (1), 91 -121.
+Wiseman, R., Gomez -Mejia, L. R. A behavioral agency model of managerial risk taking.
+Academy of Management Jour nal, 23 (1), 133 -153.
+Wright, P., Kroll, M., Krug, J.
+Influences of top management team incentives on firm risk taking.
+Strategic Management Journal, 28 (1), 81 -89.
+Handbook of consumer finance research .
+Yunlu, D. G., & Murphy, D. D. (2012).
+R&D Intensity and Economic Recession: Investigating the Moderating Role of CEO Characteristics.
+Journal of Leadership & Organizational Studies, 19 (3), 284-293.
+77 Rogério João Lunkes, Alcindo Cipriano Mendes, Gabriel Donadio Costa, Fabricia Silva Rosa Revista Universo Contábil, ISSN 1809 -3337, FUR B, Blumenau, v. 15, n. 2, p. 59 -77, abr./jun., 2019 Zenger, T. (1994).
+Explaining organizational di seconomies of scale in R&D: Agency problems and the allocation of engineering talent, ideas, and effort by firm size.
+Management Science, 40 (6), 708 –729.
+R&D investment and distress risk .

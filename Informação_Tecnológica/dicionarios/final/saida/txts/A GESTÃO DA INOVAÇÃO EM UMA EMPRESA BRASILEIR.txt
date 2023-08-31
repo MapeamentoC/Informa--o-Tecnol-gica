@@ -1,0 +1,270 @@
+ A GESTÃO DA INOVAÇÃO EM UMA EMPRESA BRASILEIRA DO SETOR LOGÍSTICO: UM ESTUDO DE CASO FUNDAMENTADO NO OCTÓGONO DE INOVAÇÃO INNOVATION MANAGEMENT IN A BRAZILIAN COMPANY IN THE LOGISTICS SECTOR: A CASE STUDY GROUNDED ON THE INNOVATION OCTAGON Alex Fabiano de Souza *, UFSJ, Brasil alexsouzalafa@gmail.com Dárlinton Barbosa Feres Carvalho , UFSJ, Brasil Fabrício Molica de Mendonça , UFSJ, Brasil Submetido: Janeiro 2022 Aceito: Agosto 2022 *Contato para Correspondência Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.10, n.1, Setembro/Dezembro – 2022 ISSN: 2319 -0639 DOI: 10.18226/23190639.v10n1.04 Página | 72 RESUMO Inovação como a aplicação bem -sucedida de novas ideias se tornou uma das palavras de ordem atualmente.
+Empresas vêm intensificando cada vez mais a busca incessante por inovação.
+No setor logístico o aprimoramento contínuo na prestação de serviços po r meio de inovações é fundamental para empresas se manterem rentáveis no mercado.
+Além da atualização em relação às normas, regulamentações, bem como outras questões conjunturais principalmente, é necessário inovar para atender melhor os clientes e se mant er competitivo e, muita dessa competitividade recai sobre a gestão que deve ser voltada para inovação.
+O estímulo a geração de ideias dentro das empresas para solução de problemas e o desenvolvimento de novos produtos assim como melhoria de processos são e xemplos que retratam como uma gestão voltada para inovação pode gerar satisfação nos clientes e consequente ganho de mercado.
+Neste contexto, este estudo tem por objetivo identificar o perfil de gestão de inovação de uma empresa que atua no setor logístico brasileiro, apresentando este perfil considerando fundamentos teóricos pertinentes para análise assim como uma reflexão sobre as práticas empresariais.
+Fundamentada no Octógono da Inovação, a análise apresenta o perfil de gestão da inovação contando com u m processo maduro, focado na melhoria contínua de processos mas ainda, com diversos pontos de melhoria.
+Por fim, conclui -se com uma reflexão acerca de práticas organizacionais voltadas para promoção de inovação como um processo contínuo de aprimoramento na s empresas.
+ABSTRACT Innovation as the successful application of new ideas has become one of today's mainstream buzzwords.
+Companies are increasingly intensifying the endless pursuit of innovation.
+In the logistics sector, continuous improvement in services through innovation is essential for companies to remain profitable in the market.
+In addition to updating standards, regulations, and other required issues, it is mainly necessary to innovate to serve customers better and remain competitive.
+Much of this competitiveness fall s on the management that must be focused on innovation.
+Encouraging the inception of ideas within companies for problemsolving and the development of new products and process improvement are examples that portray how management focused on innovation can g enerate customer satisfaction and consequent market gain.
+In this context, this study aims to identify the innovation management profile of a company that operates in the Brazilian logistics sector, presenting this profile considering relevant theoretical foundations for analysis as well as a reflection on business practices.
+Based on the Innovation Octagon, the analysis presents the innovation management profile with a mature process focused on continuous process improvement but with several improvement po ints.
+Finally, it concludes with a reflection on organizational practices that promote innovation as a continuous process of improvement in companies.
+Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.10, n.1, Setembro/Dezembro – 2022 ISSN: 2319 -0639 DOI: 10.18226/23190639.v10n1.04 Página | 73 1 INTRODUÇÃO Na carta anual de 2021 em celebração do Dia Mundial dos Correios – 9 de outubro, o diretor -geral da União Postal Universal (UPU), Bishar Hussein, enaltece a adaptabilidade e capacidade de inovação dos correios de todo mundo diante das adversidades causadas pela pandemia.
+A UPU foi criada em 1874 sendo, atualmente, um órgão da ONU e congrega operadores de 192 países.
+Na carta de 2021, o diretor -geral da UPU afirma que a "Inovação é o propulsor da retomada do setor postal"1.
+Inovação é a palavra de ordem do momento sendo entendida como uma ação ou um processo que envolve decisões, novos desenvolvimentos e a introdução de práticas, possibilitando assim o aprimoramento de produtos, serviços ou processos organizacionais .
+Apesar da inovação em serviços postais e logísticos já ser um tema relevante na área há décadas e que vem sendo pesquisada ao longo do tempo no mundo todo (HILL, 1991), tem ganhado maior relevância especialmente devido ao impacto causado pelo pujante desenvolvimento tecnológico que inclusive col oca em risco a existência de instituições centenárias (ABBOTT, 2018).
+Tecnologias desenvolvidas recentemente, especialmente considerando como marco as tecnologias digitais e o advento da Internet, vêm promovendo mudanças intensas nos hábitos de consumo e de comunicação da sociedade.
+No caso do setor logístico, as transformações se intensificaram consideravelmente durante a pandemia de COVID -19 (CHOŁODECKI, 2021).
+A pandemia foi um catalisador de inovação, exigindo ações rápidas nas empresas para garantir sua sobrevivência diante as ações impostas para lidar com a situação no mundo todo (SILVERMAN et al.
+; 2020), e seus efeitos já são visíveis na logística.
+Com o avanço expressivo do e-commerce, exigiu -se adaptação imediata dos operadores logísticos.
+As empre sas tiveram que antecipar investimentos em TI, ampliação de área útil para operação, pessoal e frota, bem como em mecanização/automação de hubs, para uma melhor adequação à nova volumetria/quantidade de encomendas.
+Por exemplo, a Jadlog, empresa relevante no mercado brasileiro, investiu em um ano mais de R$ 30 milhões, sendo que este montante estava previsto anteriormente para ser investido ao longo de três anos ( LOGWEB, 2021 ).
+No Brasil, a Empresa Brasileira de Correios e Telégrafos (ECT), única empresa pú blica do setor postal e logístico no país, presente em 100% das cidades brasileiras, tem sofrido 1 -e-o-propulsor -da-retomada -dosetor -postal -afirma-diretor -geral -da-upu/ Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.10, n.1, Setembro/Dezembro – 2022 ISSN: 2319 -0639 DOI: 10.18226/23190639.v10n1.04 Página | 74 impacto trazido pelo aumento da concorrência.
+Apesar de o segmento de correspondências se destacar pelo caráter de exclusividade da ECT no país, a evolução tecnológica promovida pela comunicação digital desafia este ramo de negócio no mundo todo (ABBOT, 2018).
+Já nos segmentos de encomendas e logística, a ECT concorre com diversas outras empresas nacionais e internacionais.
+Para atuação nos segmentos de correspondências e encomendas, a ECT possui atuação vertical neste negócio, com unidades operacionais e redes de transporte que lhe permitem atuar tanto nas etapas de captação e postagem de objetos via agências e demais unidades de atendimento, quanto em atividades de tratamento via unidades próprias de triagem, transportes aéreo e terrestre com suas linhas próprias e terceirizadas, e atividades de distribuição por meio de seus centros de entrega e distribuição e uma rede própria.
+Na área de encomendas e logísticas, os clientes são disputados por diversas empresas e a inovação é promovida como um processo contínuo nas empresas de modo a se manterem competitivas.
+Além de outras questões conjunturais, como o acentuado declínio do volume de correspondências ( CONSÓRCIO POSTAR, 2021), este mercado altamente competitivo intensificou a necessidade de modernização e ganho de eficiência da ECT, bem como de todas as empresas do setor.
+De acordo com o Consórcio Postar (2021), no período de 2015 a 2019, houve queda de 41% no volume de correspondências no Brasil e um aumento no mercado de encomendas em que predomina a livre concorrência e apresenta um crescimento médio de 12% ao ano, alava ncado recentemente pelo e-commerce.
+Neste contexto, a queda dos serviços postais em que a ECT detém o monopólio e o aumento da concorrência no mercado de encomendas são fatores que motivaram a realização de estudos para avaliar a possibilidade ou não da desestatização da ECT.
+Na medida em que os estudos e discussões sobre a desestatização da ECT avançam, empresas concorrentes buscam maneiras de aproveitar a oportunidade para inovar seus produtos e processos no sentido de ocupar o possível espaço bem como ap roveitar os recursos disponibilizados no processo.
+O e -commerce, por exemplo, apresenta perspectiva de continuidade de crescimento principalmente na modalidade de entrega expressa, conforme informações contidas na F igura 1.
+Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.10, n.1, Setembro/Dezembro – 2022 ISSN: 2319 -0639 DOI: 10.18226/23190639.v10n1.04 Página | 75 Figura 1 – Tendências em Encomendas Fonte: Elaborado pelo autor - Adaptado de (Consórcio Postar, 2021) Todavia, o potencial de aproveitamento da ocasião está relacionado ao perfil de gestão adotado nestas empresas, sendo que perfis mais voltados para a inovação conseguem se adapt ar e aproveitar melhor da situação.
+Identificar o perfil de gestão da inovação dentro de uma organização se torna relevante à medida em que se consegue indicar critérios para avaliação e definição de ações para alavancar resultados, estimular a geração de ideias para solução de problemas, desenvolvimento de novos produtos e melhoria de processos, assim como conquistar a satisfação e o reconhecimento de clientes, consumidores e investidores (CAVALCANTE, 2012).
+Neste contexto, a questão de pesquisa que norteia este trabalho é: como é o perfil de gestão de inovação de uma empresa brasileira que atua no setor logístico brasileiro?
+Sendo assim, este trabalho tem por objetivo identificar o perfil de gestão de inovação de uma empresa que atua no setor l ogístico brasileiro, apresentando este perfil considerando fundamentos teóricos pertinentes para análise assim como uma reflexão sobre as práticas empresariais.
+Espera -se assim, contribuir apresentando um estudo de caso que permita refletir como a gestão d a inovação tem sido praticada, destacando pontos de melhorias e ações para promoção de inovação como um processo contínuo voltado para aprimoramento de empresas.
+Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.10, n.1, Setembro/Dezembro – 2022 ISSN: 2319 -0639 DOI: 10.18226/23190639.v10n1.04 Página | 76 2 FUNDAMENTAÇÃO TEÓRICA De acordo com entendimento promovido durante as reuniões do Fórum de Inovação da FGV -EAESP2, o conceito de inovação em empresas é permeado por um processo contínuo e permanente de produção de inovações, seja em produtos, processos, gestão ou negócios, passando também por sua gestão.
+A gestão da inovação é o processo estratégico em organizações que buscam promover o gerenciamento contínuo da produção de inovações de qualquer natureza , seja de produto, processo, gestão ou de negócios.
+Na prática da gestão empresarial relacionada à inovação, este processo começo u a ser implementado mais intensamente nas últimas décadas.
+Em busca de maior entendimento sobre este processo, no início da década de 2000, Sawhney, Wolcott e Arroniz (2006) examinaram um grupo de empresas com o objetivo de definir quais aspectos relacionados à inovação existem e quais as relações entre eles.
+Após três anos de estudos, eles propuseram um modelo de análise da inovação nas organizações sob doze perspectivas compondo o que convencionalmente ficou definido como radar de inovação, confo rme demonstrado na Figura 2.
+Visto que as diferentes perspectivas para inovação em um negócio possuem intensidades variáveis, o radar é constituído por raios que representam a amplitude relativa a cada perspectiva em que as empresas podem inovar.
+Figura 2 – Radar de Inovação Fonte: Sawhney, Wolcott e Arroniz (2006).
+2 Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.10, n.1, Setembro/Dezembro – 2022 ISSN: 2319 -0639 DOI: 10.18226/23190639.v10n1.04 Página | 77 As doze dimensões do Radar de Inovação (Figura 2) são dispostas orientadas em quatro eixos principais: oferta, clientes, localização da empresa e processos.
+Já as outras oito dimensões aparecem como suporte às anteriores, conforme descrito no Quadro 1 (SAWHNEY, WOLCOTT e ARRONIZ, 2006).
+Dimensão Definição Ofertas Desenvolvimento de novos produtos e/ou serviços inovadores Plataforma Uso de componentes comuns ou construção de blocos para criação de ofertas Soluções Criação de ofertas integradas e personalizadas que resolvam problemas dos clientes Clientes Identificação de segmentos não explorados e/ou necessidades não atendidas Experiência do cliente Redesenho das interações com o cliente Agregação de valor Redefinição de como a empresa é paga ou cria novos fluxos de receita Processos Recriação de processos operacionais essenciais Organização Mudança da forma, função ou escopo de atividade da empresa Cadeia de Suprimentos Renovação de conceitos de fornecimento e satisfação Presença Criação de novos canais de distribuição inovadores Rede Criação de ofertas integradas em rede Marca Otimização da marca em novos domínios Quadro 1 – As doze dimensões do Radar de Inovação Fonte: Sawhney, Wolcott e Arroniz (2006).
+Neste arcabouço teórico, ser criativo é definido como a capacidade de "pensar em algo novo" e a inovação está relacionada com a criação de um valor, seja para a empresa, para o clien te ou para ambos, por meio da alteração criativa de uma ou mais dimensões do sistema.
+Neste sentido, três aspectos relevantes se destacam: 1.
+A inovação corporativa envolve novos valores e não apenas novos produtos (por exemplo, inovação em processos), sendo que o foco é a satisfação do cliente; 2.
+A inovação pode acontecer em qualquer ponto de um sistema; 3.
+A inovação comercial é sistêmica e a inovação corporativa avalia todos os aspectos de uma empresa.
+O estudo seminal promovido por Sawhn ey, Wolcott e Arroniz (2006) foi fundamental para o desenvolvimento de estudos na área.
+O modelo do Radar de Inovação oferece uma abordagem holística baseada nos resultados para o cliente e oferece aos executivos, uma Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.10, n.1, Setembro/Dezembro – 2022 ISSN: 2319 -0639 DOI: 10.18226/23190639.v10n1.04 Página | 78 ferramenta que relaciona as dimensões, facilitando a identificação do tipo de inovação que a empresa investe e pretende investir para inovar (TRIPOLONE, 2011).
+Contudo, a pesquisa na área evoluiu e novos modelos foram propostos a partir de outras perspectivas como, por exemplo, focan do mais na estruturação organizacional ao invés do resultado para o cliente.
+Tomando por base o trabalho de Sawhney, Wolcott e Arroniz (2006), Scherer e Carlomagno (2009) criaram um modelo conceitual para organizar a inovação nas empresas, chamado de Octógono da Inovação.
+Segundo os próprios criadores, o Octógono da Inovação "é um framework conceitual que traz os elementos necessários para organizar a gestão da inov ação dentro das organizações.
+Ele traz um conjunto de dimensões que permite estabelecer práticas e deliberações com impacto nos resultados alcançados pelas empresas".
+Para Scherer e Carlomagno (2009), as inovações decorrem de ações deliberadas, devendo as empresas fomentar um ambiente favorável à inovação.
+Trata -se de uma ferramenta para diagnóstico do potencial inovador da empresa, bem como para orientar na gestão de empresas inovadoras.
+Para isso, o modelo do Octógono da Inovação agrupa oito dimensões comuns na maioria das empresas que inovam de modo a auxiliar no diagnóstico das práticas de inovação e no desenho das políticas de inovação.
+Com essa visão, os autores proporam trabalhar a inovação com método, ferramentas, métricas idealmente concebidos para esse fim.
+Este modelo foi validado em diferentes projetos de consultoria com grandes empresas nacionais e multinacionais, além de ter sido utilizado como framework para mais de 100 trabalhos acadêmicos de graduação e pós -graduação desde sua criação.
+Figura 3 – Octógono da Inovação.
+Fonte: SCHERER e CARLOMAGNO (2009) Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.10, n.1, Setembro/Dezembro – 2022 ISSN: 2319 -0639 DOI: 10.18226/23190639.v10n1.04 Página | 79 No Octógono da Inovação (Figura 3), cada dimensão caracteriza -se da seguinte forma: - Estratégia da inovação: processo contínuo de decisões e ações com uma definição clara dos objetivos e direção a seguir.
+Viabiliza a empresa alinhar a inovação com a estratégia no processo de geração de ideias.
+- Cultura da inovação: normas, crenças e valore s comuns que dão forma ao comportamento das pessoas na organização.
+Também traz a forma como a empresa comunica e estimula as pessoas a correrem riscos e questionarem os paradigmas existentes; - Estrutura da inovação: é a estrutura que possibilita a criatividade, a interação e a aprendizagem; - Pessoas para a inovação: indivíduos competentes, motivados, compromissados e que aceitam desafios para inovar; - Processo da inovação: forma como a empresa gera novas ideias, como as avalia, experimenta e seleciona em quais investir; - Funding para a inovação: investimentos destinados à inovação de acordo com a relevância dada pela alta gestão com relação ao desenvolvimento de novos produtos, processos, serviços e negócios; - Liderança para a inovação: envolve aqueles que possuem o poder de influenciar outras pessoas dentro da empresa, sejam líderes formais quanto os informais.
+Trata -se de pessoas desafiadoras, capazes de assumir riscos e, principalmente, com respaldo da alta gestão; - Relacionamentos para a inovação: são as redes formadas pelas parcerias e/ou alianças com instituições de ensino, fornecedores, canais de distribuição ou mesmo concorrentes que possibilitam a empresa acompanhar o ritmo e a velocidade da evolução do conhecimento.
+De maneira re sumida, as oito dimensões de inovação apresentadas acima são apresentadas no Quadro 2.
+Dimensão Definição Estratégia Como a empresa articula o direcionamento das iniciativas de inovação Cultura O que a alta gestão diz e faz para criar um ambiente que estimule a inovação Estrutura Onde está localizada a atividade de inovação e como ela é organizada Pessoas Como é o apoio à inovação, seus incentivos e reconhecimentos Processo Como as oportunidades de inovação são geradas, desenvolvidas e avaliadas Funding Como as iniciativas de inovação são financiadas Liderança O quão claro é o entendimento das lideranças quanto à necessidade e relevância da inovação e de que forma apoiam o ambiente de inovação Relacionamento De que forma a organização utiliza parceiros, clientes e concorrentes na geração e refinamento de ideias Quadro 2 – As oito dimensões do Octógono de Inovação.
+Fonte: Scherer e Carlomagno (2009) Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.10, n.1, Setembro/Dezembro – 2022 ISSN: 2319 -0639 DOI: 10.18226/23190639.v10n1.04 Página | 80 As oito dimensões apresentadas são interdependentes, não podendo ser analisadas separadamente.
+Elas funcionam como auxiliares para a gestão da inovação, uma vez que englobam um conjunto de ações fundamentais para o estabelecimento de uma vantagem competitiva e duradoura (SCHERER e CARLOMAGNO, 2009).
+Enquanto o Radar da Inovação busca explicar a inovação a partir de um processo criativo para geração de valor a um cliente em um contexto, o Octógono da Inovação apresenta um modelo em que as inovações decorrem de ações deliberadas, cabendo às empresas fomentar um ambiente favorável à inovação.
+Sendo assim, o Octógono da Inovação foi considerado como um modelo mais adequado para fundamentar uma reflexão acerca do ambiente organizacional de empresas em re lação à prática da inovação.
+Com relação à empresa em estudo na presente pesquisa, o Octógono da Inovação se mostra ainda mais assertivo por permitir a avaliação de um programa de inovação com projetos inovativos pré -inscritos, avaliados e validados para implementação.
+Ou seja, projetos já deliberados para execução cabendo à empresa subsidiar o ambiente favorável para sua aplicação.
+3 METODOLOGIA Esta pesquisa é classificada como qualitativa que, segundo Marconi e Lakatos (2017), busca analisar e interpretar as questões mais profundas e fornece análise mais detalhada sobre as investigações, hábitos, atitudes, tendências de comportamento.
+Essa abordagem foi utilizada por se trabalhar com a percepção de gestores de uma empresa sobre um programa de in ovação.
+Foi utilizada uma escala de valor para mensuração e a estatística descritiva para mostrar os dados em forma de gráficos, fato que permitiu compreender a complexidade e os detalhes das informações obtidas (pesquisa qualitativa).
+A estratégia de pesquisa adotada foi o estudo de caso que é um estudo intensivo no qual se leva em consideração, principalmente, a compree nsão, como um todo, do assunto investigado (FANCHIN, 2006).
+Segundo Yin (2005), este é um método bastante eficiente para a obtenção de respostas a questões do tipo "como e porque, quando o pesquisador tem pouco controle sobre os acontecimentos e quando o f oco se encontra em fenômenos contemporâneos inseridos em algum contexto da vida real".
+Sendo assim, para o estudo foram considerados para análise projetos inovativos desenvolvidos no contexto de um programa de inovação de uma empresa do setor logístico brasileiro.
+A coleta de dados se deu por meio da pesquisa bibliográfica e levantamento de dados Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.10, n.1, Setembro/Dezembro – 2022 ISSN: 2319 -0639 DOI: 10.18226/23190639.v10n1.04 Página | 81 primários por meio da aplicação de um questionário.
+Pesquisa bibliográfica é o estudo sistematizado, desenvolvido com base em material publicado em livros, revi stas, jornais, redes eletrônicas, ou seja, material disponível ao público em geral, que fornece instrumental analítico para qualquer outro tipo de pesquisa (VERGARA, 2003).
+Foi utilizado um questionário para o levantamento de dados a partir de respostas fornecidas pelos informantes, sem assistência direta ou orientação do pesquisador.
+Utilizou -se questões fechadas, em que o pesquisador escolheu suas respostas em um conjunto de categorias elaboradas, sendo direcionado para alternativas já estruturadas e uma questão aberta, não obrigatória, para considerações, a qual deu condição aos participantes de relatar espontaneamente sobre algumas questões mais incisivas (FANCHIN, 2006).
+O questionário utilizado no presente estudo foi elaborado com base nas oito dimens ões constantes no Octógono da Inovação.
+Este foi considerado ideal para o objetivo do estudo visto que aborda aspectos ligados à gestão da inovação considerando a promoção de um ambiente favorável a inovação por meio de um programa específico criado com es ta finalidade.
+O questionário foi composto por 30 perguntas fechadas divididas em oito dimensões que avaliavam as seguintes questões: - Liderança: 1.
+As lideranças da empresa demonstram compreensão clara do conceito e da importância da inovação, dedicando te mpo e atenção para acompanhar os projetos?
+As lideranças imediatas dos empregados participantes dos projetos/ideias dão total apoio quanto à participação destes nos programas de inovação?
+As lideranças estimulam a melhoria e a inovação inclusive busc ando incorporar as melhores práticas de outras organizações ou áreas?
+As lideranças encorajam seus membros a operar com autonomia, recompensando as pessoas por suas ideias e valorizando os talentos individuais?
+As iniciativas de inovação estão alinhadas com a estratégia da empresa, sendo guiadas por temas, metas e objetivos estratégicos?
+A inovação é vista claramente como meio de crescimento para a empresa e todos os envolvidos, dos diversos níveis, são comunicados?
+Os recursos nece ssários para a inovação são definidos e devidamente alocados?
+Os projetos/ideias acompanham as mudanças nos ambientes interno e externo da empresa?
+As iniciativas altamente inovadoras são tratadas em projetos específicos livres da estrutura organizacional principal?
+A estrutura organizacional permite a descentralização das decisões sendo flexível, com poucos níveis hierárquicos?
+Existe uma coordenação definida quanto às iniciativas e atividades dos programas de inovação?
+A estrutura organizacional possibilita a criatividade, a interação e a aprendizagem em todos os níveis?
+A empresa disponibiliza tempo, benefícios e incentivos (financeiros e não financeiros) para os programas de inovação?
+A empresa estimula a inovação criando um ambiente favorável à proposição de ideias, baixa aversão a risco e incentivos na busca de novas soluções?
+Os mecanismos de comunicação são utilizados para fomentar a inovação Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.10, n.1, Setembro/Dezembro – 2022 ISSN: 2319 -0639 DOI: 10.18226/23190639.v10n1.04 Página | 82 na empresa?
+A empresa promove, com ajuda de programas d e inovação, um ambiente que favorece mudanças nas relações entre as pessoas e nos comportamentos?
+As pessoas compreendem que a inovação é uma necessidade dentro da organização e são preparadas para compreendê -la durante o exercício de sua funçã o?
+Os conhecimentos e ferramentas necessários para inovar são conhecidos de todos dentro da organização e há programas de capacitação para isso?
+As pessoas/equipes valorizam os integrantes de projetos participantes de programas de inovação na empresa ?
+As pessoas são avaliadas e reconhecidas quando fazem um trabalho diferenciado, alcançam metas de alto desempenho ou promovem melhorias que são adotadas pela empresa?
+Os projetos de inovação dentro dos programas têm um orçamento específico?
+Existem medidas de desempenho para avaliar as novas ideias considerando os riscos e incertezas existentes?
+Os projetos/ideias inovadores são mantidos em portfólio, divididos em categorias e escalonados de acordo com o impacto a ser gerado no negócio?
+São utilizadas ferramentas de gestão de projetos para conduzir as iniciativas de inovação?
+Avalia -se sistematicamente os resultados das iniciativas de inovação com ajuda de ferramentas disponíveis?
+Existe um processo estrutura do para geração, seleção, desenvolvimento, avaliação e experimentação das melhores ideias?
+Existem procedimentos documentados e padronizados que permitam o desenvolvimento e manutenção dos projetos dos programas de inovação na empresa?
+Utiliza -se redes de clientes, fornecedores, parceiros, universidades e até concorrentes para a geração e refinamento de novas ideias com potencial inovador?
+Conhecemos profundamente as necessidades reveladas e não reveladas de nossos clientes e não c lientes para criações e implementações de projetos inovadores?
+Existe um processo sistemático para acompanhamento de novas tendências de mercado e tecnologias?
+Além das 30 questões fechadas, ao final do questionário, foi colocada uma questão aberta não obrigatória para os participantes, solicitando que estes descrevessem principais dificuldades e facilidades encontradas na participação do programa e que apontassem críticas, sugestões e oportunidades de melhoria ao programa de inovação.
+Desta f orma, espera -se poder aprofundar o conhecimento acerca do programa entendendo melhor o motivo dos percentuais atingidos nas questões fechadas.
+4 PERFIL DE GESTÃO DA INOVAÇÃO DE UMA EMPRESA BRASILEIRA DO SETOR LOGÍSTICO A coleta de dados para o estudo foi realizada entre os dias 23 e 27 de agosto de 2021.
+O questionário foi respondido por oito gestores de um programa de inovação de processos da empresa e os resultados são apontados a seguir.
+A empresa pesquisada atua no setor logístico brasileiro sendo reconhecida mundialmente por seus serviços prestados.
+Com relação à inovação, a empresa possui alguns programas de inovação além do Departamento de Inovação e Gestão Estratégica.
+Este Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.10, n.1, Setembro/Dezembro – 2022 ISSN: 2319 -0639 DOI: 10.18226/23190639.v10n1.04 Página | 83 departamento tem como responsabilidade coordenar a formulação e implemen tação da estratégia corporativa, monitorar a execução das iniciativas, projetos e processos estratégicos além, é claro, de gerir o processo de inovação empresarial.
+Neste departamento, a Gerência de Inovação atua na coordenação da inovação, cultura de inovação, métodos e ambientes para experimentações e testes.
+Para ficar mais claro, cada área dentro da empresa tem a liberdade para inovar em seus respectivos processos ficando a cargo da gerência de inovação a análise dos projetos inovativos.
+A resposta para cada questão do questionário foi quantificada com pesos conforme descrito na Tabela 1.
+A pontuação de cada dimensão é obtida a partir do cálculo da média aritmética simples para cada dimensão do modelo.
+RESPOSTA COLUNA PESO INTEGRAL Não existem práticas implementadas ou que atendam aos requisitos.
+A 0 As práticas atendem à maioria dos requisitos, mas necessitam ser melhor estruturadas B 25 As práticas atendem à maioria dos requisitos e são estruturadas, contudo, encontram -se em início de utilização C 50 As práticas atendem a todos os requisitos, são estruturadas, proativas, possuem disseminação e seu uso é contínuo.
+Contudo, ainda existem propostas de melhorias a serem implantadas.
+D 75 As práticas atendem a todos os requisitos, são estruturadas, proativas, possuem disseminação e seu uso é contínuo.
+E 100 Tabela 1 – Pesos do Questionário Gestão da Inovação Fonte: Elaborado pelo autor (adaptado de CAVALCANTE, 2011) Conforme o modelo do Octógono da Inovação, cada dimensão da inovação foi considerada como sendo um aspecto inter -relacionado considerado na análise.
+Para detalhar o atendimento aos critérios avaliados na gestão da inovação da empresa, as respostas foram demonstradas em um gráfico do tipo radar com escal a de valor de 0% a 100%, conforme apresentado no Gráfico 1.
+Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.10, n.1, Setembro/Dezembro – 2022 ISSN: 2319 -0639 DOI: 10.18226/23190639.v10n1.04 Página | 84 Gráfico 1 – Avaliação da Gestão de Inovação na Empresa Analisada Fonte: Elaborado pelo autor Analisando o resultado obtido, percebe -se que de forma geral as práticas voltadas para a gestão da inovação na empresa já atendem à maioria dos requisitos e são estruturadas, contudo, os índices atingidos apontam necessidade de maior estruturação em certos quesitos.
+Ressalta -se que a percepção dos gestores em relação à dimensã o sobre Processos é de que atende a todos os requisitos, são estruturadas, proativas, possuem disseminação e seu uso é contínuo.
+Contudo, ainda existem propostas de melhorias a serem implantadas.
+Isso se justifica visto que o programa de inovação em anális e já está em operação, e cujo objetivo é fazer com que todos os empregados das diversas áreas passem a praticar uma cultura de melhoria contínua em seus processos com foco na geração de valor para os clientes.
+Outros fatores que merecem destaque foram os critérios financiamento, estratégia e liderança, respectivamente com 71,4%, 71,1% e 71,1%.
+Apesar de não possuir um orçamento específico, conforme apontado na questão aberta do questionário (críticas, sugestões e oportunidades de melhoria) por parte de trê s gestores (conforme tabela 2), estes possuem total apoio da alta gestão, além de serem mantidos no portfólio da empresa, consideram riscos, incertezas e impacto gerado no negócio.
+As iniciativas são plenamente alinhadas às estratégias da empresa, acompanham, em sua maior parte, mudanças internas e externas.
+A inovação, claramente, é colocada como meio de crescimento da empresa e todos os envolvidos.
+Merece destaque uma melhor alocação dos recursos de pessoal e financeiro necessários para inovação.
+Com relação às lideranças dentro da empresa, estas possuem compreensão clara da importância da inovação, dão apoio à participação dos empregados no programa, estimulam e buscam incorporar as melhores práticas, mas necessitam encorajar mais seus subordinado s a atuarem 71,1% 71,1% 51,7% 64,6% 60,4%48,2%75,8%71,4%Liderança Estratégia Relacionamentos Cultura PessoasEstruturaProcessosFinanciamentosRevista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.10, n.1, Setembro/Dezembro – 2022 ISSN: 2319 -0639 DOI: 10.18226/23190639.v10n1.04 Página | 85 com autonomia valorizando os talentos individuais.
+RESPOSTA DIVERGÊNCIA CONVERGÊNCIA 1 A principal dificuldade é de execução do que foi projetado, principalmente pela falta de orçamento específico.
+A facilidade é conhecimento que empresa possui em ferramentas e técnicas de planejamento que viabilizam a concepção dos projetos.
+2 Maior dificuldade foi conseguir sincronizar o tempo para execução do projeto com a disponibilidade da equipe.
+A falta de orçamento específico também contribui significativamente.
+O programa tem recebido prestígio da coordenação e envolvimento dos gestores do alto escalão.
+3 Conciliar a participação de todos e falta de planejamento orçamentário.
+Facilidade: patrocínio da gestão Tabela 2 – Respostas Questão Aberta – Convergências e Divergências na visão da Inovação Fonte: Elaborado pelo autor A pontuação de 64,6% no critério "cultura" demonstra que o processo de gestão da inovação da empresa, apesar de ainda possuir lacunas a serem sanadas, promove práticas voltadas para um ambiente favorável à disseminação de ideias e mudanças, por meio de uma ampla comunicação e trabalho em equipe.
+Isso se relaciona intimamente com a dimensão "pessoas" (60,4%), as quais, apesar de valorizarem os integrantes de projetos e saberem da avaliação e reconhecimento pelo alcance de metas, necessitam compreender melhor a importância da inovação no exercício de suas funções e conhecerem ferramentas necessárias para inovar.
+Com respeito ao critério "relacion amento", o resultado (51,7%) evidencia que ainda há necessidade de uma melhor estruturação das práticas voltadas à utilização de redes de parcerias, fornecedores, clientes, universidades ou concorrentes para a geração de novas ideias e trocas de informaçõe s. O programa de inovação busca a melhoria contínua de processos sem, contudo, viabilizar de forma estruturada as inovações dentro da empresa com suporte no ambiente externo.
+Existe na empresa estudos e parcerias na busca de inovação e tendências de mercado, contudo, no programa em estudo não foi verificada esta questão.
+Por fim, a dimensão "Estrutura" (48,2%), com a menor nota dentre todas as dimensões em estudo, apontou a necessidade de maior flexibilidade nas decisões com uma descentralização mais enxuta dentro da estrutura organizacional.
+Com isso, há grandes possibilidades de aumentar a criatividade, interação e aprendizagem em todos os níveis.
+Segundo o Consórcio Postar (2021), "em uma sociedade de mudanças significativas e constantes, aparatos rígidos de operação dificultam o ajuste da estratégia de forma tempestiva Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.10, n.1, Setembro/Dezembro – 2022 ISSN: 2319 -0639 DOI: 10.18226/23190639.v10n1.04 Página | 86 para acompanhar tais mudanças.
+Inovar e avançar é preciso, de modo que as empresas se mantenham competitivas, sobretudo no atendimento aos consumidores".
+O rápido crescimento da dema nda de encomendas exige mais investimentos por parte das empresas para ampliação de sua capacidade de atendimento às demandas.
+Ainda segundo o Consórcio Postar, de 2013 a 2019 os investimentos do setor postal e logístico "cresceram 13% ao ano, demandando m ais recursos dos acionistas ou via capital de terceiros".
+Para o futuro, investimentos em inovação tecnológica se fazem necessários.
+Dois exemplos que demonstram isto vêm da Áustria Post e da Fedex Corp, ambos de 2018: - O programa de investimento em expan são de capacidade no negócio de encomendas é de considerável importância para o futuro desenvolvimento da empresa.
+O objetivo é dobrar a capacidade de triagem de 2018 nos próximos anos com possibilidade de expandir as propriedades comerciais existentes.
+A capacidade já aumentou em 25% quando o centro de pacotes em Hagenbrunn foi colocado em operação em 2019.
+- A FedEx passou por uma transformação abrindo novas instalações e investindo em tecnologias avançadas que resultaram na rede mais automatizada, ágil e confiável do setor postal e logístico.
+A necessidade de ofertar melhores produtos e serviços torna o am biente competitivo repleto de mudanças, e a única alternativa é inovar para não sair do mercado (Consórcio Postar, 2021).
+Contudo, não basta inovar uma única vez, devendo as empresas atuar de forma sistemática, contínua e, principalmente, gerenciando bem a inovação.
+Carvalho (2011) diz que "após compreender os aspectos relacionados à inovação, os modelos de inovação, o processo de gestão da inovação e às práticas de apoio e estímulo, chega o momento de praticar.
+Assim, a empresa precisa saber como está, sab er planejar sua evolução e, principalmente, iniciar essa trajetória".
+Existem premissas para inovar que devem ser levadas em consideração, além de diversas ferramentas de auto diagnóstico que sugerem os passos básicos para implantação da gestão da inovação .
+De início, o grupo gestor deve assumir a liderança para a inovação, comprometendo -se explicitamente com o processo de inovação tanto no discurso quanto nas ações e tendo em vista que a inovação precisa estar inserida na visão e missão da empresa, pois te m um importante papel para a competitividade, lucro e sucesso da organização (CARVALHO, 2011).
+No estudo de Carvalho (2011), foi aplicado um questionário elaborado de acordo com o diagnóstico octógono da inovação.
+Vale mencionar que o questionário é difere nte do utilizado neste estudo, embora considerando os mesmos fundamentos.
+A escolha deste mesmo método no presente estudo se deu por este permitir à empresa visualizar graficamente como está seu Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.10, n.1, Setembro/Dezembro – 2022 ISSN: 2319 -0639 DOI: 10.18226/23190639.v10n1.04 Página | 87 desempenho em relação a oito dimensões da inovação e estar al inhado ao objetivo do estudo.
+Apesar de não haver definição clara sobre qual é a empresa e o setor de atuação, a análise promovida por Carvalho (2011) revelou que a empresa está muito bem nas dimensões "estratégia" e "estrutura".
+Por outro lado, precisa se reorientar nas dimensões "processo" e "cultura".
+Para tanto, deverá desenvolver atividades que conduzam a um ambiente mais estimulador à inovação.
+Além disso, terá de organizar, sistematizar ou implantar novas atividades para consolidar seu processo de ge stão da inovação (Gráfico 2).
+Em comparação ao presente estudo, pode -se perceber que a empresa precisa melhorar na dimensão estrutura, principalmente com relação à descentralização de suas decisões, problema este que a empresa investigada por Carvalho (201 1) não possui.
+Gráfico 2 – Radar – Estudo Carvalho (2011).
+Fonte: CARVALHO (2011) Já Cavalcante (2012) realizou uma pesquisa em uma empresa de prestação de serviços no ramo de energia elétrica utilizando também o mesmo método do presente estudo.
+De forma geral, o estudo mostrou que existem práticas voltadas para a gestão da inovação na empresa em estudo porém, estas ainda se encontram em fase de implementação, estruturação e início de uso, com propostas de melhoria.
+O nível percentual de pontuação atingido na pesquisa mostrou grande preocupação com inovações incrementais, observado, prin cipalmente, pelo critério "processos" que obteve a maior pontuação, 56,3%, mas ainda relativamente abaixo da encontrada no estudo da empresa (75.8%).
+A dimensão "relacionamentos" (31,4%) demonstrou que ainda não existem estruturação das práticas voltadas à utilização de redes de parcerias, fornecedores, clientes, universidades ou concorrentes para a geração de novas ideias e trocas Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.10, n.1, Setembro/Dezembro – 2022 ISSN: 2319 -0639 DOI: 10.18226/23190639.v10n1.04 Página | 88 de informações sobre necessidades dos clientes.
+A pesquisa mostrou que a empresa se encontra em estágio bem avançado se compara do com a empresa pesquisada por Cavalcante (2012).
+Semler e Schenatto (2017) realizaram um diagnóstico da inovação em empresas de tecnologia da informação de um município do sudoeste do Paraná.
+A observação dos estágios de inovação indicou que empresas com maior número de colaboradores e faturamento apresentam -se em estágios de inovação mais elevados, o que indica um maior nível de inovação em empresas maiores.
+Os resultados apresentados no presente estudo corroboram com este fato, visto que a empresa é de grande porte no setor logístico.
+A dimensão com destaque como fraqueza nos resultados apontados por Semler e Schenatto (2017) se relaciona com "a forma de investimento em inovação que, por ser diferenciada, tem duas modalidades: o funding e o finance.
+Dur ante a fase inicial de um projeto de inovação, o nível de incerteza é alto e o investimento é, por vezes, realizado com fontes internas de recursos.
+No entanto, para empresas de pequeno porte, onde se enquadram todas as empresas desse estudo, é fundamental que exista crédito oferecido por fontes públicas com custo acessível.
+Além disso, a inovação vem dos processos da organização que estão diretamente ligados à estrutura organizacional de forma a buscar competitividade, evolução e sustentabilidade".
+Com rel ação a dimensão estrutura, que foi identificada como fraqueza em algumas empresas desse estudo (SEMLER E SCHENATTO; 2017), aponta -se que para que a plena inovação aconteça há necessidade de mudança na estrutura organizacional, igual ao apontado para a empr esa analisada.
+Inovação são processos, atitudes, comportamentos e práticas que levam uma empresa a desenvolverem uma capacidade dinâmica de mudança.
+A inovação deve ser introduzida no dia a dia da empresa em todos os setores e não apenas ao setor de tecno logia.
+Em várias empresas não existe um setor específico de P&D, com uma equipe de pesquisadores exclusivamente para gerar inovação.
+Os colaboradores podem contribuir com ideias, pois boa parte das inovações não necessita de tecnologia de ponta (CARVALHO, 2011).
+As empresas podem e devem internalizar em suas atividades a inovação como um ato diário, sendo que a aprendizagem e consolidação da gestão da inovação ocorram de forma sistêmica e contínua em um processo de experimentação.
+Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.10, n.1, Setembro/Dezembro – 2022 ISSN: 2319 -0639 DOI: 10.18226/23190639.v10n1.04 Página | 89 5 CONSIDERAÇÕES FINAIS Inovação é a exploração com sucesso de novas ideias e tornou -se uma das palavras de ordem atualmente.
+Este fato pode ser comprovado em buscas na internet no meio empresarial que demonstram cada vez mais a busca incessante por parte da s empresas no quesito inovação.
+E para destacarem -se no mercado, as organizações devem identificar e aprimorar o perfil da gestão voltada para inovação na busca de alavancar seus resultados.
+Este estudo analisou uma empresa do setor logístico brasileiro bu scando uma maior compreensão acerca de suas práticas empresariais em relação a gestão da inovação.
+O estímulo a geração de ideias dentro das empresas para solução de problemas e o desenvolvimento de novos produtos e melhoria de processos são exemplos que retratam como uma gestão voltada para inovação pode gerar satisfação nos clientes e consequente ganho de mercado.
+Ou seja, o desafio dos gestores é promover um ambiente propício à geração de inovações.
+Entender como é a gestã o voltada para inovação foi o objetivo deste trabalho.
+Aos realizarmos o estudo de caso em uma empresa do setor logístico, observamos na gestão algumas competências e características da cultura organizacional que criam um ambiente favorável à inovação.
+São elas: a) a gestão inovadora e transformadora que ajuda a criar uma cultura de inovação e proporcionar um ambiente adequado à criatividade; b) o meio inovador interno estimula e dá suporte às pessoas para inovarem; c) as pessoas, dentro de suas respectivas áreas, possuem certa autonomia para conduzirem os processos de inovação validados; d) os processos de inovação, em sua maioria, proporcionam os resultados esperados pela organização; e) os resultados alcançados permitem a melhoria contínua de processos.
+O ambiente interno e o modelo de gestão adotado exercem forte influência no andamento das inovações da empresa.
+Órgãos reguladores e empresas concorrentes são levados em consideração nas tomadas de decisão internas.
+Observou -se na empresa estuda da nesta pesquisa que essa ainda possui muitas amarras nas decisões que necessitam ser mais enxutas e flexíveis.
+Fica evidente que, quanto mais rígida e hierarquizada a estrutura empresarial mais difícil se torna estimular trocas de informações, conhecimen tos, experiências e resultados tanto dentro da empresa como com parceiros.
+O método de análise da gestão da inovação utilizado (Octógono da Inovação) sugere aspectos relevantes para a tomada de decisões pelas empresas.
+Embora apresente limitações quanto à possibilidade dos resultados não abrangerem 100% dos empregados da empresa, o Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.10, n.1, Setembro/Dezembro – 2022 ISSN: 2319 -0639 DOI: 10.18226/23190639.v10n1.04 Página | 90 método identificou o perfil de gestão da inovação de uma empresa do setor logís tico, avaliando oito aspectos/dimensões.
+Embora o tema inovação esteja em processo avançado na empresa, observaram -se pontos de melhoria no desenvolvimento tanto da gestão quanto da execução de projetos inovativos como: a) práticas voltadas para um ambiente f avorável à disseminação de ideias e mudanças; b) melhoria na comunicação e trabalho em equipe; c) disseminação para equipe da importância da inovação no exercício de suas funções e de conhecerem ferramentas necessárias para inovar; d) necessidade de uma melhor estr uturação das práticas voltadas à utilização de redes de parcerias, fornecedores, clientes, universidades ou concorrentes para a geração de novas ideias e trocas de informações; e) melhor estruturação das inovações dentro da empresa com suporte no ambiente ex terno; f) melhora nos estudos e parcerias na busca de inovação e tendências de mercado; g) necessidade de maior flexibilidade nas decisões para aumento da criatividade, interação e aprendizagem em todos os níveis.
+Para o setor logístico e, em especial para empre sa objeto deste estudo, a pesquisa colaborou por levantar o que vários envolvidos estão discutindo no âmbito da inovação voltada a esse setor e verificar como o perfil de sua gestão voltada para inovação tem contribuído para atender as exigências do mercad o cada vez mais competitivo com intuito de alavancar resultados e ações de melhoria.
+O presente estudo possibilitou entender que a inovação, passando por uma gestão inovadora, se compreendida e praticada em todas as suas vertentes, gera valor tanto para empresa que aumenta seu poder de competitividade, quanto para o cliente com mais atrativos para estes.
+A inovação deve fazer parte do dia a dia das empresas, devendo fazer parte de sua estratégia.
+Pode -se verificar com a pesquisa que uma maior compre ensão acerca das práticas empresariais em relação a gestão da inovação promove maior conhecimento para indicar critérios para avaliação e definição de ações que irão alavancar resultados.
+Citando CARVALHO (2011), "ter qualidade em produtos, serviços e proc essos não é mais fator diferencial das empresas, mas, sim, fator de sobrevivência, pois esse é o preço para a entrada nos mercados.
+da mesma forma que a comunicação é processo -chave para toda a organização social, a inovação é processo -chave para a compe titividade".
+Para trabalhos futuros, sugere -se aplicação do questionário em mais empresas, mesmo que de outros setores, a fim de buscar dados comparativos no intuito de traçar outros critérios para mensuração da gestão da inovação e seu processo como um to do.
+Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.10, n.1, Setembro/Dezembro – 2022 ISSN: 2319 -0639 DOI: 10.18226/23190639.v10n1.04 Página | 91 6 REFERÊNCIAS ABBOTT, Malcolm.
+The long -term performance of a utility: The case of the Australian Post Office .
+Competition and Regulation in Network Industries, v. 19, n. 3 -4, p. 137 -158, 2018.
+Análise e Proposições Críticas Para a Formulação da Estratégia e Política de Inovação na Empresa Brasileira de Correios e Telégrafos .
+BARBIERI, J. C. Organizações inovadoras: estudos e casos brasileiros .
+Desestatização do setor postal .
+Disponível em: < -emandamento/desestatizacao -do-setor -postal>.
+Gestão da inovação / Hélio Gomes de Carvalho, Dálcio Roberto dos Reis, Márcia Beatriz Cavalcante.
+CAVALCANTE, C. T. Análise do perfil de gestão da inovação: Um estudo de caso em uma empresa prestadora de serviços .
+The impact of the COVID -19 pandemic on the postal market.
+Challenges and opportunities for the postal regulatory framework.
+29th Conference on Postal and Delivery Economics, 2021 CONSÓR CIO POSTAR.
+Desestatização do setor postal: resumo dos resultados da fase 1 dos estudos .
+Disponível em: Acesso em 14/07/2021.
+Inovação é propulsor da retomada do setor postal.
+Disponível em: < Acesso em: 30 de out.
+Fundação Nacional da Qualidade.
+Edições Temáticas: Capital Intelectual e Inovação - A gestão dos Intangíveis / Fundação Nacional da Qualidade .
+São Paulo: Fundação Nacional da Qualidade, 2007.
+Competition and innovation in postal services.
+Springer Science & Business Media, 1991.
+Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.10, n.1, Setembro/Dezembro – 2022 ISSN: 2319 -0639 DOI: 10.18226/23190639.v10n1.04 Página | 92 MARCONI, M. A.; LAK ATOS, E. M. Metodologia científica .
+Disponível em: < -book -28-gestao -da-inovacao/>.
+Tratado de Metodologia Científica: projetos de pesquisa, TGI, TCC, monografias, dissertações e teses .
+São Paulo: Pioneira Thomson Learni ng, 2002.
+Diagnóstico e tendências do setor postal global: Fase 1.
+Disponível em: < -Release -Diagnostico -e-Tendencias -do-SetorPostal -Global_ -Fase1.pdf>.
+REVISTA LOGWEB, Edição nº 215, Março 2021.
+Disponível em: -content/uploads/2021/04/logweb215.pdf SAWHNEY, Mohanbir; WOLCORR, Robert; ARRONIZ, Inigo.
+The 12 Different Ways for Companies to Innovate.
+Disponível em: < -different -ways -for- companies -toinnovate/>.
+SCHERER, F. O.; CARLOMAGNO, M. S. Gestão da inovação na prática: como aplicar conceitos e ferramentas para alavancar a inovação .
+SEMLER, R. F.; SCHENATTO, F. J. Diagnóstico da inovação em empresas de tecnologia da informação de um município do sudoeste do Paraná.
+Postpartum mood among universally screened high and low socioeconomic status patients during COVID -19 social restrictions in New York City.
+Scientific reports, v. 10, n. 1, p. 1 -7, 2020.
+TRIPOLONE, Ilka C. Investigação do perfil de inovação em e mpresas do setor da construção civil - estudo de caso em indústrias de pré-fabricados de Curitiba .
+Curitiba: Universidade Federal do Paraná, 2011.
+Projetos e relatórios de pesquisa em administração .
+YIN, Robert K. Estudo de caso: Planejamento e Métodos .

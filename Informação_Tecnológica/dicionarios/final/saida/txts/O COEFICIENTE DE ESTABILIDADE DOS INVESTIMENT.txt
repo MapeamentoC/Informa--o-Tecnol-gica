@@ -1,0 +1,274 @@
+ Revista Brasileira de Gestão e Desenvolvimento Regional G&DR.
+V. 15, N. 7, Edição Especial, P. 58-71, dez/2019.
+ISSN: 1809 -239X www.rbgdr.net Recebimento: 26/04/2019 Aceite: 18/08/2019 O COEFICIENTE DE ESTABILIDADE DOS INVESTIMENTOS PÚBLICOS EM CIÊNCIA, TECNOLOGIA E INOVAÇÃO PARA OS ESTADOS BRASILEIROS THE COEFFICIENT OF STABILITY OF PUBLIC INVESTMENTS IN SCIENCE, TECHNOLOGY AND INNOVATION FOR THE BRAZILIAN STATES Bruno Setton Gonçalves1 José Ricardo de Santana2 Márcia Siqueira Rapini3 Resumo O presente artigo tem o objetivo de analisar o posicionamento dos estados quanto à execução da despesa pública em Ciência, Tecnologia e Inovação (CT&I) entre 2000 e 2016.
+Para tal, foi proposto um coeficiente de estabilidade dos investimentos em CT&I, utilizando a estatística descritiva como ferramenta analítica.
+Foi possível classificar os estados em quatro grupos distintos.
+Os estados pertencentes ao grupo (A) têm níveis de gastos e coeficiente de estabilidade superior à média nacional, o grupo (B) é composto pelos estados com alto coeficie nte de estabilidade e baixo volume de investimentos.
+O grupo (C) representa a pior situação, em que os estados, além de terem um volume de gastos em P&D muito abaixo da média nacional, ainda assim demostram instabilidade desses gastos durante o período ana lisado e o grupo (D) com níveis de investimento superior à média nacional, porém com coeficientes de estabilidade abaixo da média nacional.
+Tais resultados confirmam a hipótese de que a produção científica e tecnológica e os transbordamentos de conheciment o não se distribuem de forma equânime entre as regiões e estados, havendo uma aglomeração em que a produção é também geograficamente concentrada.
+Abstract The present article has the objective of analyzing the position of the states in the execution of public expenditure on Science, Technology and Innovation (CT&I) between 2000 and 2016.
+For this purpose, a stability coefficient of investments in ST & I was proposed, using descriptive statistics as 1 Doutor em Ciência da Propriedade Intelectual (PPGPI/UFS).
+Professor da Universidade Federal de Alagoas, Arapicara – AL, Brasil.
+E -mail: bruno.setton@arapiraca.ufal.br 2 Doutor em Economia de Empresas (FGV).
+Professor da Universidade Federal de Sergipe, Sã o Cristóvão – SE, Brasil.
+E-mail: santana_josericardo@yahoo.com.br 3 Doutorado em Economia da Industria e da Tecnologia (UFRJ).
+Professora do CEDEPLAR de Universidade Federal de Minas Gerais, Belo Horizonte – MG, Brasil.
+E -mail: msrapini@cedeplar.ufmg.br Revista Brasileira de Gestão e Desenvolvimento Regional www.rbgdr.net 59 analytical tool.
+It was possible to classify the states into four distinct groups.
+The states belonging to group (A) have spending levels and stability coefficient higher than the national average, group (B) is com posed of states with high stability coefficient and below investment volume.
+The group (C) represents the worst situation, where the states, in addition to having a R & D spending volume well below the national average, still show instability of these expe nditures during the analyzed period and the group (D) with higher investment levels to the national average, but with stability coefficients below the national average.
+These results confirm the hypothesis that scientific and technological production and k nowledge overflows are not equitably distributed between regions and states, with an agglomeration where production is also geographically concentrated.
+Keywords : S,T&I, Regional Development, Stability, Public Investment.
+Intellectual property Introduç ão O investimento em Ciência, Tecnologia e Inovação (CT&I) é considerado fator determinante para a consolidação de um modelo de desenvolvimento sustentável, capaz de atender demandas sociais e de contribuir para o fortalecimento da soberania nacional.
+Dian te disso, o Estado moderno busca promover e articular as atividades científicas e tecnológicas bem como aquelas relacionadas à promoção da inovação.
+No Brasil, as questões referentes à distribuição territorial das ações de CT&I são pouco exploradas e, segu ndo Cavalcante (2011), grande parte dos autores que tratam do tema parece ter negligenciado a discussão.
+A insuficiência de dados estatísticos sobre as atividades de CT&I em escala subnacional e o fato de que as assimetrias regionais não constituem priorid ade na agenda das regiões mais desenvolvidas contribuem também para a reduzida produção bibliográfica sobre o tema (FAGUNDES, CAVALCANTE e RAMACCIOTTI, 2005).
+Não obstante, segundo Montenegro, Diniz e Simões (2016), é o debate das desigualdades que possibi lita o desenvolvimento de políticas regionais que venham a priorizar as regiões e estados com menor dinamismo econômico e frágeis infraestruturas científica e tecnológica.
+A relação entre a dinâmica de infraestrutura de CT&I e as economias de aglomeração e stá evidenciada no estado da arte da economia regional e urbana e também da corrente neoschumpeteriana.
+O papel do espaço geográfico é um fator importante, ao facilitar e auxiliar a difusão da CT&I e, por consequência, o aumento da capacidade de inovação e de competição de firmas em uma região específica.
+A base científica dos estados, constituída pelas universidades e instituições de pesquisa (públicas e privadas), é determinante na geração do conhecimento tecnológico da economia; os spillovers locais de c onhecimento para as empresas se somam às maiores possibilidades de interação, associadas à proximidade geográfica entre os atores da base científica e tecnológica, facilitando a interação entre os pesquisadores e os departamentos de P&D das firmas.
+Esse no vo conhecimento impacta positivamente o processo inovativo, representando uma importante variável na distribuição geográfica das atividades de pesquisa (MONTENEGRO, DINIZ e SIMÕES, 2016; GARCIA, 2017).
+Nessa perspectiva, o presente estudo tem como objetivo analisar de que forma os estados vêm se posicionando quanto à alocação e à execução de recursos para o fomento e a indução das políticas de CT&I durante o período de 2000 a 2016.
+Para tal, será utilizado um índice do coeficiente de estabilidade dos investimentos públicos estaduais, que permitirá identificar quais estados apresentam uma maior uniformidade e um maior volume de investimentos para a política de CT&I.
+Além desta introdução, o artigo tem mais 4 seções: um referencial teórico abordando o pa pel das atividades de CT&I no processo de desenvolvimento regional, uma apresentação dos procedimentos metodológicos bem como a base de dados, a análise da discussão dos resultados e as considerações finais à guisa de conclusão.
+O Desenvolvimento Regional e as Atividades de CT&I no Brasil As políticas de CT&I desempenham um papel fundamental na garantia do desenvolvimento econômico e social de um país.
+O Estado busca promover e articular as atividades de CT&I por meio do seu financiamento e da construção d e um marco legal capaz de responder as demandas existentes.
+Revista Brasileira de Gestão e Desenvolvimento Regional www.rbgdr.net 60 As políticas públicas em CT&I nos países desenvolvidos são focadas no fortalecimento do que a abordagem neoschumpeteriana denomina de Sistema Nacional de Inovação (SNI).
+Esses sistemas são definid os por Freeman (1995) como uma rede de relacionamento entre instituições do setor público e privado para o desenvolvimento de ações que fomentam a geração de novas tecnologias e a inovação.
+A literatura mostra como os sistemas de inovação dos países desenv olvidos estimulam as empresas com capacidade de inovação no desenvolvimento de novos produtos ( BEZERRA, BORINI e MACLENNAN, 2015; GHOSH e SOETE, 2006).
+Entretanto, a compreensão acerca do desenvolvimento tecnológico e da inovação passa pela discussão da economia do conhecimento a partir da distinção que ela faz do conhecimento tácito e do conhecimento codificado, em que o primeiro se caracteriza por ser p essoal e específico ao contexto, difícil de ser formulado e replicado, estando vinculado aos agentes ou às instituições e somente por intermédio desses é que pode ser acessado e utilizado.
+Já o conhecimento codificado é despersonalizado, refere -se ao conhe cimento transmissível na linguagem formal e sistemática, sendo transformado em informação.
+Sua utilização tem um caráter mais amplo e não está inteiramente associada a determinado agente ou a determinada instituição.
+A codificação do conhecimento permite e xpandir as modalidades de acesso a esse conhecimento, estabelecendo a condição necessária para a sua mercantilização, conforme prevê a aplicação dos direitos de propriedade intelectual e industrial (HERSCOVICI, 2007).
+Essas características do conhecimento, em especial o de natureza tácita, justificam sua natureza localizada e, eventualmente, o uso do instrumental analítico de Sistema Regional de Inovação (SRI) ou de Arranjos Produtivos Locais (APLs).
+Esses níveis de análise motivam um conjunto de políticas regionais e/ou locais que fomentem a inovação e a competitividade industrial com possibilidade de impacto econômico e social, principalmente para os países em desenvolvimento.
+Esses países apresentam grandes disparidades regionais e locais em termos de estruturas produtivas e sociais.
+As políticas devem ser capazes de promover processos de aprendizado e de inovação, induzindo a um processo de desenvolvimento local dinâmico e sustentável (SZAPIRO et al .
+O Brasil, com suas dimensões continentais e com uma grande assimetria regional, apresenta características e necessidades muito peculiares no desafio de distribuir os recursos para a política de CT&I.
+As desigualdades regionais prejudicam a eficácia de políticas públicas uniformes, uma vez que nem todas as regiões são capazes de aproveitar as condições favoráveis das políticas nacionais.
+Diante disso, o SRI torna -se importante e necessário nesse cenário, uma vez que este é derivado do SNI e ambos operam segundo as características específicas de cada regiã o do país.
+Entretanto, é preciso ter a percepção de que os resultados dos investimentos em CT&I ocorrem no médio e no longo prazo, o que exige dos atores públicos e privados o entendimento de que políticas econômicas de austerida de não prejudiquem o crescimento de longo prazo.
+Investimentos públicos em pesquisa e desenvolvimento e inovação (PD&I) são indutores do crescimento da produtividade , gerando empregos bem remunerados e com mais efeitos multiplicadores do que outras despesa s governamentais, por isso a importância de se garantir a estabilidade desses investimentos no longo prazo.
+É indispensável pôr a inovação no cerne da política de crescimento econômico, articulando com mais consistência a política fiscal e as políticas de inovação tecnológica (MAZZUCATO e PENNA, 2016).
+A percepção dessas conexões é essencial para a eficiência de políticas de apoio à inovação tecnológica, a maior aplicação combinada ao menor nível possível de variação dos recursos disponíveis é fundamental p ara o êxito das estratégias de catching -up de países e regiões (LOPES, 2014).
+Os países desenvolvidos têm fomentado essas interações com investimentos para o surgimento de médias e pequenas empresas de base tecnológica, estimulando a interação e facilitand o a parceria entre universidade -empresas.
+No caso do Brasil, as políticas de CT&I têm adotado um caráter menos linear de apoio à inovação, porém ainda muito centralizado nas ações do Estado.
+O Brasil deu passos firmes na área de i novação a partir de 1999, seguindo muitas práticas de incentivo à Pesquisa e Desenvolvimento (P&D) utilizadas nos países membros da Organization Economics for Co -operation and Development (OCDE), podendo -se destacar a criação da Lei de Inovação e da Lei do Bem.
+No entanto, registra -se que o Brasil tem um ritmo diferente e, obviamente, recursos inferiores aos aplicados por países da OCDE (NEGRI, NEGRI e LEMOS, 2008) e com Revista Brasileira de Gestão e Desenvolvimento Regional www.rbgdr.net 61 desempenho ainda modesto em algumas variáveis, como é o caso de patentes e de gastos em P&D sobre o PIB (NEGRI, 2017).
+Mesmo assim, o país apresentou crescimento de capital humano especializado (graduados, mestres e doutores) com o aumento de universidades, cursos de graduação e pós -graduação.
+Ainda no final dos anos 90 um novo modelo de fin anciamento e de gestão de CT&I começou a ser construído no Brasil.
+O então Ministério da Ciência e Tecnologia tomou o protagonismo de um extenso debate acerca dos rumos que o país iria adotar na política de CT&I.
+Em 2001, surgiu o documento "Ciência, Tecno logia e Inovação: Desafios para a Sociedade Brasileira – Livro Verde".
+O documento trazia, em sua essência, a importância de se fortalecer a tríplice hélice, apontando para o estímulo do setor privado tanto na definição das prioridades como no financiament o da CT&I nacional e reforçando a importância das Fundações de Amparo à Pesquisa (FAP's) na gestão de fomento das pesquisas científicas e tecnológicas no país (FONSECA, 2012).
+As FAP's estão ligadas aos seus respectivos governos estaduais, sendo um dos pri ncipais agentes da execução das políticas públicas de CT&I no âmbito estadual.
+Elas se enquadram em uma categoria específica de Fundação, responsável por investir no desenvolvimento de pesquisas (artigos científicos), recursos humanos (bolsas), tecnologia (patentes) e inovação (transferência de tecnologia e crescimento econômico da região), exercendo um papel fundamental e necessário de apoio à pesquisa tecnológica e científica dos estados, por meio das parcerias, como com o Conselho Nacional de Desenvolvim ento Cientifico e Tecnológico (CNPq), com a Financiadora de Estudos e Projetos (FINEP), com a Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES)4, com o Ministério da Ciência, Tecnologia, Inovação e Comunicação (MCTIC) e com as demais instituições regionais.
+Porém, esta implantação é um desafio num país com as dimensões do Brasil, para manter a uniformidade das políticas públicas (ARAÚJO e OLIVEIRA, 2015; SILVA et al., 2009).
+No mesmo período, ainda são criados no âmbito federal os Fundos S etoriais de apoio ao desenvolvimento científico e tecnológico com a missão de financiar projetos de pesquisa, desenvolvimento e inovação, ampliando assim o sistema nacional de CT&I.
+Os recursos dos fundos advêm das contribuições que incidem diretamente sob re o faturamento de empresas e sobre o resultado da exploração de recursos naturais que pertencem à União, tais como royalties , Contribuições de Intervenção no Domínio Econômico (CIDE), compensações financeiras, autorizações, licenças e empréstimos.
+Uma ve z recolhidas, essas contribuições são transferidas para o Fundo Nacional de Desenvolvimento Científico e Tecnológico (FNDCT), responsável por gerir os fundos setoriais (FONSECA, 2012).
+Essa evolução resultou numa maior produção de artigos científicos e de patentes, além do estímulo à distribuição entre as federações destes investimentos.
+Porém, proporcionalmente, o capital humano ainda não é suficiente para atender a todas as regiões do país, o que representa um gargalo a ser superado, uma vez que são os ní veis dos investimentos em CT&I que determinam a escolha do processo de desenvolvimento que as regiões irão adotar e, sobretudo, a maneira pela qual essa escolha não só impactará como também modificará a qualidade de vida da sociedade (ASHEIM e ISAKSEN, 200 2).
+O governo federal é o responsável por distribuir os recursos e os pacotes de incentivos para as suas federações de maneira proporcional (tamanho da região e capacidade econômica).
+No entanto, cada estado tem o seu sistema local de inovação para fomenta r, financeiramente, a CT&I na sua região.
+Para estimular isso numa perspectiva regional, os governos têm de combinar os instrumentos das políticas públicas cuidadosamente para atender os problemas complexos do processo de inovação (BORRÁS e EDQUIST, 2013).
+A intensificação dos investimentos públicos em CT&I poderá garantir a infraestrutura científica e tecnológica necessária aos estados de menor dinamismo econômico.
+No entanto, as ações dos estados não devem se limitar somente a garantir maiores volumes de investimento.
+É preciso aprimorar continuamente sua intervenção, de forma a garantir o nível de recursos alocados na política pública, no intuito de induzir o setor privado a um investimento mais significativo em 4 O Programa de Apoio e Parceria da CAPES com as Fundações Estaduais de Amparo à Pesquisa – CAPES/FAPs, regulamentado pela Portaria Capes nº 106, de 13 de agosto de 2014 – tem o objetivo de conceder bolsas de estudo e financiar projetos de pesquisa, buscand o atender as necessidades de cada Unidade da Federação parceira, sendo atualmente mantidas parcerias com os governos estaduais por meio de 25 acordos de cooperação firmados com as FAPs dos seguintes estados: AC, AL, AM, AP, BA, CE, ES, GO, MA, MG, MS, MT, PA, PB, PE, PI, PR, RJ, RN, RO, RS, SC, SE, SP e TO Revista Brasileira de Gestão e Desenvolvimento Regional www.rbgdr.net 62 inovação tecnológica nas diferentes regiões .
+Para tal, é preciso que o papel da intervenção estatal na economia seja repensado para além das falhas de mercado e, nesse sentido, a política pública de CT&I, desempenha o papel de indutora de novos padrões de produção, de distribuição e de consumo (MAZ ZUCATO, 2015).
+Materiais e Métodos Nesta seção, serão expostos o método e a base de dados utilizados para a construção do índice que permite avaliar o coeficiente de estabilidade dos investimentos públicos estaduais em CT&I, no período de 2000 a 2016.
+Modelo Serão adotadas técnicas de estatística descritiva como ferramenta analítica para a construção de um mapa locacional do grau de estabilidade dos investimentos públicos em CT&I entre os estados brasileiros.
+O coeficiente de estabilidade busca identifica r qual estado, dentro do grupo de cada região, apresenta uma maior uniformidade na distribuição dos investimentos públicos em CT&I.
+O coeficiente é calculado da seguinte forma: CE=[𝑆 𝑋] em que CE é o coeficiente de estabilidade, 𝑆 representa o desvio -padrão da amostra e o 𝑋 a média da amostra.
+Nesse caso, quanto maior for o coeficiente de estabilidade do estado menor será a dispersão dos valores gastos em CT&I, em torno da média (MARTINS e DOMINGUES, 2011).
+Base de dados e descrição da variável Como dispêndio público estadual em C&T, serão considerados os gastos com pesquisa e desenvolvimento (P&D), mais as atividades científicas e técnicas correlatas (ACTC).
+O levantamento dos recursos aplicados em C&T pelos estados é feito diretamente nos Balanços Gerais dos Estados, atualizado em 28/11/2017.
+Para efeitos metodológicos, a série dos dispêndios e do Produto Interno Bruto (PIB) foram deflacionadas pelo IGP -M com 2016 como ano base.
+Para a construção das figuras 2, 3 e 4, as va riáveis dispêndio/população e PIB foram transformadas em logaritmos na base10, com o intuito de minimizar os efeitos dos outliers .
+Os dados foram obtidos por intermédio do Ministério da Ciência, Tecnologia, Inovações e Comunicações (MCTIC), em cooperação com a Coordenação -Geral das Relações e a Análise Financeira dos Estados e Municípios – COREM – e da Secretaria do Tesouro Nacional ( STN).
+Essas informações são recebidas pela COREM, anualmente, até 31 de maio, por força da Lei de Responsabilidade Fiscal.
+A metodologia utilizada se baseia em dois cortes.
+O primeiro diz respeito ao corte institucional, no qual se enquadram as entidades típicas de CT&I, isto é, as instituições que têm a CT&I como atividade -fim.
+Conforme demostra o quadro 1: Quadro 1: Entidades selecionadas Instituições/Órgãos/Entidades Atividade -fim Secretarias Estaduais de C&T e Institutos de Pesquisa CT&I Fundações de Amparo à Pesquisa ou assemelhadas CT&I Empresas Estaduais de Pesquisa Agropecuária CT&I Demais institutos de pesquisa das áreas CT&I Fonte: Elaborado pelos autores Nessas unidades, são excluídos os gastos referentes ao pagamento de juros e amortizações das dívidas, bem como as despesas previdenciárias com inativos e pensionistas.
+O segundo corte é o chamado corte funcional, baseado na Classificação Funcional, conforme Manual Técnico de Orçamento – MTO, da Secretaria de Orçamento Federal ( SOF).
+Por meio desse -1 Revista Brasileira de Gestão e Desenvolvimento Regional www.rbgdr.net 63 corte, são selecionados todos os projetos e atividades classificados na Função Ciência e Tecnologia (19), ou em uma de suas subfunções: Desenvolvimento Científico ( 571), Desenvolvimento Tecnológico e Engenharia ( 572) e Difusão do Con hecimento Científico e Tecnológico ( 573), qualquer que seja a função com a qual estejam combinadas.
+Vale ressaltar que, por não estarem disponibilizados os acordos de cooperação técnica entre o MCTIC e as Secretarias de Ciência e Tecnologia e/ou Fundações de Amparo à Pesquisa, estes não estão contabilizados.
+A incorporação desses valores permitiria uma melhor aproximação das informações sobre dispêndios em C&T nos estados.
+Com a escolha dos dados apresentados, assume ‐se que a realidade é um todo complexo e o modelo, ao incluir apenas as variáveis de dispêndio público para representá -la (buscando descrever, explicar ou prever algo), é limitado, ao deixar de fora muitas variáveis potencialmente importantes para estabelecer os padrões de comportamento.
+No entan to, essa limitação foi minorada por meio da escolha das variáveis entendidas como as mais relevantes para o alcance do objetivo geral desta pesquisa.
+Resultados e Discussões Esta seção apresenta os resultados da análise do coeficiente de estabilidade dos investimentos em ciência e tecnologia (C&T).
+Inicialmente, são discutidos os resultados para as grandes regiões brasileiras.
+Em seguida, são avaliados os resultados para os estados.
+Coeficiente de variação dos dispêndios de C&T das regiões Os dados de dispêndio em C&T mostram uma tendência de crescimento, entre 2000 e 2015, sendo mais acentuado na região Sudeste, como apresentado na Figura 1.
+É possível afirmar que a Região Nordeste se aproxima da Região Sul, enquanto a Região Norte se aproxima da regiã o CentroOeste nesse quesito.
+Gráfico 1: Brasil - Dispêndios Públicos em Ciência e Tecnologia, por região, 2000 -2015 (em R$ milhões) Fonte: Ministério da Ciência, Tecnologia, Inovações e Comunicações (MCTIC) (2018).
+Entretanto, cabe ressaltar que os dispêndios em P&D no Brasil ainda são bastante acanhados, conforme demostra a Tabela 1.
+No final dos anos 90, países da OCDE já investiam mais de 2,5% de seus PIB's em P&D (JENSEN, MENEZES FILHO, SBRAGIA, 2004).
+0,02.000,04.000,06.000,08.000,010.000,012.000,014.000,0 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015Dispêndio (em milhões de R$ correntes) AnoNordeste Norte SudesteRevista Brasileira de Gestão e Desenvolvimento Regional www.rbgdr.net 64 Tabela 1 - Comparação dos dispêndios em P&D no Brasil entre os setores (em valores de 2015) com o produto interno bruto (PIB) %PIB %PIB gasto pelas empresas % do PIB gasto público % do PIB Governo Federal % do PIB Governos Estaduais 1,28 0,64 0,45 0,19 Fonte: Coordenação de Indicadores e Informação (COIND) - CGGI/DGE/SEXEC - Ministério da Ciência, Tecnologia, Inovações e Comunicações (MCTIC).
+Até 2015, a relação de investimentos em P&D e a relação PIB no Brasil era de apenas 1,28%, cabendo 0,64% ao seto r privado e os outros 0,64%, ao setor público, e os estados participam com apenas 0,19%.
+Essa relação já foi pior no início da série, em 2000, com os dispêndios em P&D no Brasil representando apenas 1,05% do PIB, em que o setor privado representava 0,5% de sse investimento e o setor público 0,54%, em que os investimentos dos estados correspondiam a 0,21%.
+Quando se observam os dados acerca da estabilidade de tais investimentos, percebe -se que a Região Sul está mais próxima da Região Sudeste.
+Estas apresentam maior coeficiente e, portanto, demostram maior estabilidade dos dispêndios de C&T ao longo do tempo.
+São regiões que têm um maior dinamismo econômico, sendo este considerado a partir da participação das regiões no PIB nacional.
+As regiões Norte, Nordeste e Centro -Oeste, que participam com parcelas menores no PIB nacional, são aquelas que apresentam menor coeficiente de estabilidade nos dispêndios de C&T, conforme demostra a Tabela 2.
+Tabela 2 : Brasil - Ranking de Estabilidade dos Investimentos Públicos em CT&I por Região Regiões CE %PIB Posição econômica Norte 1,1 5 4º Nordeste 1,3 14 3º Sudeste 1,7 55 1º Sul 1,6 16 2º Centro -Oeste 0,9 10 5º Fonte: Elaborado pelos autores Desse modo, há dois componentes importantes, representados pela quantidade de recursos dispendidos em C&T (Figura 1) e pela estabilidade dos gastos ao longo do tempo (Tabela 2).
+A região Sudeste notabiliza -se com o maior volume de recursos e maior coeficiente de estabilidade na aplicação dos recursos públicos no fomento e indução da política de C&T.
+Trata -se da região mais dinâmica, respondendo por 55% do PIB nacional.
+A constatação do maior dinamismo econômico da região Sudeste está amparada no estado da arte nos trabalhos de Albuquerque et al (2002), Lemos et al.
+(2001) e Ferreira e Diniz (1995).
+Entretanto, as especificidades intrarregionais não estão expressas no indicador, sendo necessária a análise dos dados em nível estadual.
+Coeficiente de estabilidade dos dispêndios de C&T dos estados Quando o coeficiente de estabilidade é c alculado para cada unidade federativa, é possível perceber comportamentos bem distintos entre estados localizados em uma mesma região.
+É possível observar que estados localizados em regiões com baixo coeficiente de estabilidade apresentam graus de estabili dade elevados.
+São os casos da Bahia e de Pernambuco, no Nordeste, e do Acre e do Amapá, na região Norte, por exemplo.
+Para que se pudesse então fazer uma análise mais precisa da identificação do coeficiente de estabilidade dos investimentos públicos reali zados pelos governos estaduais, foi preciso utilizar mais uma variável a partir da qual fosse possível parametrizar o posicionamento dos estados quanto ao coeficiente de estabilidade dos dispêndios públicos aplicados a C&T.
+Essa medida foi a participação de cada estado no PIB.
+Desse modo, por meio das medias do coeficiente de estabilidade e do PIB dos estados, foi possível montar o mapa representado na Figura 2, em que os estados estão classificados em quatro grupos distintos quanto ao coeficiente de estabi lidade e a renda.
+Revista Brasileira de Gestão e Desenvolvimento Regional www.rbgdr.net 65 Gráfico 2: Brasil - Coeficiente de Estabilidade dos Investimentos Públicos Estaduais em C&T e a participação no PIB entre 2000 -2016 (em R$ bilhões) Fonte: Elaboração dos autores.
+Os grupos estão representados na Figura 2 por cada um de seus quadrantes.
+No quadrante III, com menor estabilidade dos investimentos em C&T e menor participação na renda, estaria a posição menos favorável.
+Já o quadrante I, com maior estabilidade dos investimentos e maior participação na renda, representaria a posição mais favorável.
+No quadrante III, é possível identificar os estados que apresentam coeficientes de variação abaixo da média (1,5), portanto com um maior nível de heterogeneidade e baixa estabilidade dos dispêndios em C&T e com uma participação n o PIB abaixo da média nacional (7,85).
+Nesse quadrante, encontram -se uma boa parte dos estados do Nordeste e do Norte.
+No quadrante IV, encontram -se os estados com baixo coeficiente de estabilidade, abaixo da média (1,5), porém com alta participação no PIB acima da média (7,8).
+É o caso do Distrito Federal, de Goiás, do Mato Grosso, do Espírito Santo, do Pará e do Rio Grande do Sul.
+O quadrante II representa o grupo de estados que têm alto coeficiente de estabilidade (acima de 1,5), porém estão abaixo da mé dia da renda nacional.
+Nesse grupo, encontram -se 3 estados, sendo um do Nordeste (Alagoas) e dois da região Norte (Acre e Amapá).
+Por fim, no quadrante I, está o grupo de estados com alto coeficiente de estabilidade (acima de 1,5) e alta participação no PI B. Nesse quadrante, estão os estados do Sul e Sudeste com exceção do Espírito Santo e do Rio Grande do Sul, mais a participação de três estados nordestinos (Pernambuco, Bahia e Ceará) e o estado do Amazonas, que merece uma observação: apesar de seu coefici ente de estabilidade ser alto, sua participação na renda encontra -se exatamente na média (7,8).
+Vale ressaltar ainda a ausência do estado do Paraná por se tratar de um outlier de estabilidade, com um coeficiente de 3,7 e uma participação média no PIB super ior à média.
+Os resultados apresentados até o momento foram obtidos, utilizando -se os dispêndios com P&D, mais as ACTC no cálculo do coeficiente de estabilidade.
+Desse modo, a estabilidade dos investimentos é maior para os estados que têm institutos estaduais de pesquisa.
+Ao considerar somente os gastos com P&D (Figura 3) , nota -se que há um aumento da média do grau de estabilidade de 1,5 para 1,7, e a estabilidade dos investimentos passa a ser maior para os estados que aportam um maior volume de recur sos nas FAP's.
+5 Valor em logaritmo na base10.
+Essa média em valores reais representa um montante de R$ 443.600.645 bilhões.
+AC APAM PA e MT RORRTOALBA CE MA MSPE PIRN SEESMGRJSP RSSC DF GO PB 0,01,53,0 - 7,8 15,6Coeficiente de Estabilidade Média dos PIB's Estaduais Revista Brasileira de Gestão e Desenvolvimento Regional www.rbgdr.net 66 Os institutos de pesquisa são os principais agentes de conexão com o setor privado, responsáveis pela geração e pela transferência de tecnologia.
+Os institutos orientam -se na direção da pesquisa básica, com a missão de desenvolver tecnologia s aplicáveis ao setor produtivo.
+Esse modelo, denominado big science , ou pesquisa de oferta, é marcado por uma forte intervenção estatal e investimento público.
+Entretanto, esse modelo vem sofrendo um esgotamento desde a década de 80.
+Com o aprofundamento da crise fiscal do Estado brasileiro, os investimentos para o setor de C&T tem diminuído de forma significativa, os orçamentos públicos têm sido substancialmente reduzidos, pondo em risco a sobrevivência institucional dos institutos e da pesquisa (CHAGAS e ICHIKAWA, 2009).
+A preponderância do estado no papel das FAP's é ressaltada por Krieger (2011), apud Octaviano (2011), que ressalta a importância da estabilidade dos investimentos estaduais para que suas fundações tenham atuações regulares.
+Ele destaca o repasse de fundos do estado de Minas Gerais e do Rio de Janeiro e a relevância dos investimentos estaduais para a ação das FAP's, relacionando ao papel desenvolvido pela Fapesp, sendo que o repasse dos estados para essas fundações fomentadoras faz com que elas possam atuar de forma estável.
+As FAPs , embora apresentem papéis e capacidades distintas de atuação, conforme cada estado e a política governamental do mesmo, têm destaque no desenvolvimento equilibrado das pesquisas científicas e tecnológicas brasileiras, como um todo, e não apenas regionalmente, sendo parte essencial do sistema nacional de CT&I, uma vez que participam da discussão, da elaboração e da implement ação de políticas de ciência e de tecnologia regionais e estaduais.
+"O Brasil é um país muito grande, tem uma grande diversidade e é muito heterogêneo.
+Por isso, é muito difícil ter uma política que seja eficaz, sendo executada de Brasília ou do Rio de Jan eiro, onde estão localizados a Finepe e o BNDES.
+Um problema é que as FAPs, com exceção da Fapesp, estão sujeitas às flutuações nas políticas dos estados (ARAÚJO e OLIVEIRA, 2015; OCTAVIANO, 2011).
+Gráfico 3: Brasil - Coeficiente de Estabilidade dos Inves timentos Públicos Estaduais em P&D e a participação no PIB entre 2000-2016 (em R$ bilhões) Fonte: Elaboração dos autores.
+É possível constatar, sobretudo a partir da Figura 3, que a região Nordeste está muito mais próxima do Norte, com a exceção da Bahia, Pernambuco e Ceará, que figuram próximos a estados do Centro -Sul, no que se refere à estabilidade dos investimentos no decorrer da série 2000 a 2016.
+Esse resultado se contrapõe ao resultado inicial, quando analisado somente o montante de dispêndios por regiões, expresso na figura 1, o que reforça a importância analítica do coeficiente de estabilidade dos investimentos.
+Embora ilustrativa, a relação entre o grau de investimentos e o produto dos estados não é suficiente para a formulação de uma anális e crítica acerca da execução das políticas estaduais de AC APAM PARO RRTOAL SC MT MAP BPE PIRN SEESMGRJPR RS BA DFGOCE MS 0,01,73,4 - 7,8 15,6Coeficiente de Estabilidade Média dos PIB's EstaduaisRevista Brasileira de Gestão e Desenvolvimento Regional www.rbgdr.net 67 CT&I.
+Porque não basta saber se o estado tem, dentro da série histórica, um comportamento estável ou não do nível de investimento.
+É importante, sobretudo, saber se esse comportamento estável apresent a volume suficiente para alavancar as ações propostas pela política pública de CT&I.
+E, para isso, é preciso parametrizar o grau de estabilidade dos investimentos com o volume da despesa orçamentária que foi executada durante o período.
+Essa relação está e xpressa na Figura 4.
+É possível identificar que somente 06 (seis) estados com alto grau de estabilidade dos investimentos têm um nível de gasto superior à média dos dispêndios para o período analisado, são eles: São Paulo, Paraná, Rio de Janeiro, Amazonas, Minas Gerais e Pernambuco.
+Cabe destacar que a relação apresentada na figura 4 está adotando os gastos em P&D per capita sem as despesas relativas às ACTC, o que pode explicar a presença do Estado do Amazonas neste grupo, uma vez que o estado apresenta u ma população relativamente pequena (pouco mais de 4 milhões de habitantes em 2016) para um volume de investimentos relativamente alto (uma média, durante o período, acima de R$ 70 milhões).
+Esses valores, como já informado na metodologia, foram transformad os em logaritmos na base 10, na tentativa de mitigar os outliers, no entanto, ainda assim, não foi possível impedir o outlier de variação, como o estado de São Paulo, que apresentou um coeficiente 4,0, superior ao valor máximo do eixo do coeficiente de est abilidade, no entanto o estado está localizado no quadrante I, em que os estados apresentam alta estabilidade e alto nível de investimentos em P&D.
+Outros dois resultados chamam a atenção na figura 4.
+São os casos de estados como Alagoas e Acre, localizado s no quadrante II, com um nível de dispêndio per capita inferior à média dos estados, porém com elevados coeficientes de estabilidade de seus dispêndios, e os estados da Bahia e de Santa Catarina, no quadrante IV, que, apesar de elevados níveis de dispêndi o per capita , têm coeficientes de estabilidade abaixo da média dos estados.
+Nesse cenário descrito, os estados de Alagoas e do Acre estariam em uma melhor classificação que os da Bahia e de Santa Catarina, uma vez que seria preferível um menor nível de inv estimento com um maior grau de estabilidade a um elevado nível de investimento com alta instabilidade durante a série histórica.
+Figura 4 : Brasil - Coeficiente de Estabilidade dos Investimentos Públicos Estaduais em P&D em relação ao Nível de Dispêndio e m P&D per capita entre 2000 -2016 (em R$ mil) Fonte: Elaboração dos autores.
+Diante do exposto, é possível classificar os estados em quatro grupos distintos quanto ao coeficiente de estabilidade e o volume dos investimentos.
+O Quadro 2 mostra essa estratificação.
+AC APAM SE RRTOAL BACE MAPBPE PIRN PAESMGRJPR RS SC DFGOMT MS 01,73,4 0 1 2Coeficiente de Estabilidade Média dos dispêndios em P&D per capitaRevista Brasileira de Gestão e Desenvolvimento Regional www.rbgdr.net 68 Quadro 2: Classificação dos estados por grau de estabilidade e volume dos investimentos Grupo (Quadrante) Investimentos CE Estados A (Q.I) Alto Alto SP, RJ, MG, PR, PE, AM B (Q.II) Baixo Alto AC, AL, RS, TO C (Q.III) Baixo Baixo RN, GO, MT, ES, PI, SE, RO, RR,MA, PA, CE D (Q.IV) Alto Baixo PB, AP, DF, MS, BA, SC Fonte: Elaborado pelos autores Os estados pertencentes ao grupo A têm a melhor relação entre a estabilidade dos investimentos e o volume de gastos.
+Ou seja, esses estados têm níveis de gastos superiores à média nacional, mantendo um grau de estabilidade durante toda a série estudada.
+O grupo B é composto pelos estados que, apesar de apresentarem alta estabilidade dos investimentos entre 2000 -2016, apresentam volume de gastos abaixo da média nacional.
+Já o grupo C representa a pior situação, que é aquela em que os estados, além de terem um volume de gastos em P&D per capita abaixo da média nacional, ainda assim demostram instabilidade desses gastos durante o período a nalisado.
+No entanto, um estado merece destaque no grupo C, o Ceará, com níveis de gastos igual à média nacional, R$ 9,2 mil per capita , e coeficientes estabilidade um pouco abaixo da média (1,5).
+O grupo D, apesar dos estados se enquadram no perfil de nív eis de investimento superior à média nacional, apresentam coeficientes de estabilidade abaixo da média nacional (1,5).
+Conclusões Na perspectiva de que os investimentos em CT&I contribuem para o aumento da competitividade de países e regiões e logo para o crescimento econômico, conforme apontado pela literatura abordada, é de se esperar que os governos estaduais desempenhem o papel de fomentar e induzir o comportamento, as estratégias e as decisões empresariais relativas à inovação.
+Diante dessa perspectiv a, seguem nesta seção algumas considerações finais à guisa de conclusão.
+A primeira consideração a ser apontada é que as regiões com níveis de investimentos em CT&I mais estáveis são as que têm uma maior participação na renda nacional.
+Não obstante, a regi ão sudeste notabiliza -se com 55% do PIB nacional, enquanto, na outra ponta, tem -se a região norte com um elevado grau de instabilidade dos gastos e, logo, uma baixa participação no produto nacional, apenas 5%.
+Uma segunda constatação importante foi a de qu e, ao relacionar o coeficiente de estabilidade dos investimentos públicos estaduais, utilizando a metodologia do MCTIC, com a inclusão das ACTC's, os estados que têm institutos próprios de pesquisa apresentaram um maior nível de estabilidade dos investimen tos durante a série.
+E, ao considerar somente os gastos com P&D (metodologia adotada pelo CNPq) para o cálculo do coeficiente, a estabilidade dos investimentos passa a ser maior para os estados que realmente aportam um maior volume de recursos nas FAP's.
+Outra importante conclusão é que, diferentemente dos resultados encontrados quando analisados somente os valores absolutos investidos pelas regiões em CT&I, em que o Nordeste se aproxima do Sul e a região Norte se aproxima do Centro -Oeste.
+Quando aplicado o coeficiente de estabilidade desses investimentos, a região Nordeste passa a estar muito mais próxima do Norte e o Centro -Oeste da região Sul, no decorrer da série 2000 a 2016.
+Identificou -se ainda que, ao relacionar o grau de estabilidade dos investimento s públicos estaduais ao volume de dispêndio em P&D per capita por estado, foi possível classificar os estados em quatro grupos distintos quanto o grau de estabilidade dos investimentos e o volume desses investimentos.
+O grupo (A) representa a melhor situaç ão encontrada, em que os estados têm níveis de gastos superiores à média nacional e mantêm um grau de estabilidade durante toda a série.
+O grupo (C) que representa a pior situação possível, em que os estados, além de terem um volume de gastos em P&D muito abaixo da média nacional, ainda assim demostram a instabilidade desses gastos durante o período analisado.
+O grupo (B) é composto pelos estados em que, apesar de apresentarem estabilidade dos investimentos entre 2000 -2016, o volume de gastos apresenta -se abaixo da média nacional e, por fim, o grupo (D), que apresenta elevado nível de dispêndio, porém baixo grau de estabilidade dos investimentos.
+É o caso dos estados da Bahia e de Santa Catarina.
+Tais constatações corroboram com a hipótese de que a produção científica e tecnológica e os spillovers de conhecimento não se distribuem de forma equânime entre as regiões e estados, havendo Revista Brasileira de Gestão e Desenvolvimento Regional www.rbgdr.net 69 uma aglomeração em que a produção é também geograficamente concentrada (BAHIA e SAMPAIO, 2015).
+Diante do exposto, fica clara a necessidade de proposições de políticas públicas que garantam a manutenção da estabilidade dos investimentos em CT&I, sobretudo nos estados de menor dinamismo econômico das regiões Norte e Nordeste.
+Uma alternativa para escapar da restrição orçamentária q ue envolve esses estados e garantir um maior aporte de recursos para a execução das ações de CT&I é a captação de recursos via transferências voluntárias do Governo Federal, por meio da celebração de convênios e de contratos de repasse junto ao Ministério da Ciência, Tecnologia, Inovações e Comunicações (MCTIC).
+Os estados podem ter acesso a diversos programas do MCTIC, como os de: Fomento à Pesquisa e ao Desenvolvimento em Áreas Estratégicas, que apoia projetos de pesquisa científica, tecnológica e de inov ação; Fomento aos Ambientes Inovadores e ao Empreendedorismo, com apoio à implantação, operação, gestão e melhoria da infraestrutura de ambientes inovadores e ao empreendedorismo inovador; o Programa de Fomento à Pesquisa com o objetivo de impulsionar o pr ocesso de geração e de aplicação de novos conhecimentos, dando especial atenção ao equilíbrio entre as regiões do país.
+Essa iniciativa de gestão, combinada a políticas industriais que priorizem atividades intensivas de CT&I, mais a intensificação das Parc erias Público Privadas (PPP's) para desenvolvimento de projetos tecnológicos, podem gerar o dinamismo necessário que as pequenas economias das regiões Norte e Nordeste precisam para se desenvolverem.
+Por fim, vale ressaltar as limitações deste trabalho, qu e, apesar de ter identificado regional e interregionalmente a disposição dos investimentos públicos em CT&I, não nos permite inferir o quanto desse esforço dos estados (dispêndio em P&D) tem impactado nos resultados de produção científica e tecnológica.
+Pa ra tal, será necessário ampliar a agenda de pesquisa para o desenvolvimento de um modelo que correlacione essas variáveis de forma a se obter essa relação de causalidade.
+Referências ALBUQUERQUE, Eduardo da Motta, SIMÕES, Rodrigo, BAESSA, Adriano, CAMPOL INA, Bernardo e SILVA Leandro.
+A Distribuição Espacial da Produção Científica e Tecnológica Brasileira: uma Descrição de Estatísticas de Produção Local de Patentes e Artigos Científicos.
+Revista Brasileira de Inovação Vol.
+1 Número 2 Julho / Dezembro 2002 ARAÚJO, Misael Sousa de.
+As Características das FAPS e Atuação da FAPESC como Agente de Fomento no Sistema Regional de Inovação.
+XI Congresso Nacional de Excelência em Gestão , 13 e 14 de agosto de 2015.
+ASHEIM, Bjorn T., ISAKSEN , Arne.
+Regional Innovation Systems: The Integration of Local 'Sticky' and Global 'Ubiquitous' Knowledge.
+Journal of Technology Transfer.
+BAHIA, Domitila Santos e SAMPAIO, Armando Vaz.
+Revista de Administração e Inovação , São Paulo, v. 12, n.3 p. 109 -134, jul./set.
+2015 BEZERRA, Maitê Alves, BORINI, Felipe Mendes e MACLENNAN, Maria Laura Ferranty.
+Reverse Transfers of Innovation and National Development: Evidence from Brazilian Subsidiaries.
+BORRÁS, Susana, EDQUIST, Charles.
+The choice of innovation policy instruments.
+Technological forecasting and Social Change , Volume 80, Number 8, 1513 -22, 2013.
+BRASIL, Ministério da Ciência, Tecnologia e Inovação (MCTI).
+Disponível em: < br/index.php/content/view/740.html?execview >.
+Desigualdades Regionais em Ciência, Tecnologia e Inovação (CT&I) no Brasil: Uma Análise de sua Evolução Recente.
+Texto para Discussão 1574 ; IPEA, Rio de Janeiro, fevereiro de 2011.
+Revista Brasileira de Gestão e Desenvolvimento Regional www.rbgdr.net 70 CHAGAS, Priscilla Borgonhoni e ICHIKAWA, Elisa Yoshie .
+Redes de C&T em institutos públicos de pesquisa brasileiros: o caso do Instituto Agronômico do Paraná (Iapar).
+RAP — RIO DE JANEIRO 43(1):93 -121, JAN./FEV.
+2009 FAGUNDES, M.E.M, CAVALCANTE, L.R.M.T, RAMACCIOTTI, R.E.L.
+Distribuição regional dos fluxos d e recursos federais para ciência e tecnologia.
+Parcerias Estratégicas ; v.21, 2005.
+FERREIRA, Afonso Henriques Borges e DINIZ, Clélio Campolina.
+Convergência entre as rendas per capita Estaduais no Brasil.
+Revista de Economia Política , vol.15, nº.4 (60), o utubro -dezembro de 1995.
+The 'National System of Innovation' in historical perspective.
+Cambridge Journal of Economics 1995, 19, 5 -2.
+FONSECA, Marcelo Luiz Mendes da.
+Formulação de Políticas Públicas de Ciência, Tecnologia e Inovação (CT&I ): Cooperação Intergovernametal em busca do Desenvolvimento Científico Regional.
+V Congresso CONSAD de Gestão Pública .
+Centro de Convenções Ulysses Guimarães Brasília/DF – 4, 5 e 6 de junho de 2012.
+GARCIA, R. Geografia da Inovação.
+Em: RAPINI, Márcia Siq ueira, SILVA, Leandro Alves e ALBUQURQUE, Eduardo da Mota e. Economia da Ciência, Tecnologia e Inovação: Fundamentos teóricos e a economia global .
+1.ed – Curitiba: Editora Prismas, 2017, p. 241 -277.
+Information and intellectual property: the global challenges.
+Industrial and Corporate Change , Volume 15, Number 6, pp.
+Capital intangível e direitos de propriedade intelectual: uma análise institucionalista.
+Revista de Economia Política , vol.
+27, n º 3 (107), pp.394 -412, julho -setembro/2007.
+JENSEN, Juan, MENEZES FILHO, Naércio, SBRAGIA, Roberto.
+Os Determinantes dos Gastos em P&D no Brasil: Uma Análise com Dados em Painel.
+São Paulo, v.34, n.4, p.661 -669, outubro -dezembro, 2004.
+LEMOS, Mauro Borges, MORO, Sueli, BIAZI, Elenice e CROCCO, Marco.
+A Dinâmica Urbana das Regiões Metropolitanas Brasileiras.
+Parte da pesquisa Dinâmica Demográfica, Desenvolvimento Regional e Políticas Públicas , financiada pelo PRONEX (2001), Programa de Apoio a Núcleos de Excelência, consórcio CNPQ/Capes/Finep, na área de economia regional do CEDEPLAR.
+Disponível em: < net/publication/4729669_A_Dinamica_Urbana_das_Regioes_Metropolit anas_Brasileiras >.
+Os determinantes do desenvolvimento ( catching up ) na abordagem neoschumpeteriana: integrando a teoria microeconômica evo lucionária com conceito de revoluções tecnológicas.
+MARTINS, Gilberto de Andrade e DOMINGUES, Osmar.
+4ª Ediçao, Revisada e Ampliada, 2011.
+O Estado Empreendedor: desmascarando o mito do setor público vs. setor privado .
+– São Paulo: Portifolio -Penguim, 2015.
+MAZZUCATO, Mariana e PENNA, Caetano C. R. The Brazilian Innovation System: A Miss ionOriented Policy Proposal.
+Avaliação de Programas em CT&I.
+Apoio ao Programa Nacional de Ciência (Plataformas de conhecimento).
+Brasília, DF: Centro de Gestão e Estudos Estratégicos , 2016.
+MONTENEGRO, R.L.G, DINIZ, B.P.C, SIMÕES, R.F .
+Ciência e Tecnologia versus estruturas estaduais: uma analise em dados em painel (2000 -2010).
+Anais do XLII Encontro Nacional de Revista Brasileira de Gestão e Desenvolvimento Regional www.rbgdr.net 71 Economia da ANPEC , 2016.
+Disponível em: < ers.repec.org/paper/anpen2014/133.htm >.
+NEGRI, João Alberto de, NEGRI, Fernanda de, LEMOS, Mauro Borges.
+O impacto do FNDCT sobre o desempenho e o esforço tecnológico das empresas e industriais brasileiras.
+Por uma Nova Geração de Políticas de Inovação no Brasil.
+Em: TURCHI Lenita Maria e MORAIS, José Mauro de.
+Políticas de Apoio à novação Tecnológica no Brasil: avanços recentes, limitações e propostas de ações .
+A institucionalização da pesquisa e o sistema nacional de CT&I no Brasil .
+Disponível em: http:/ /comciencia.scielo.br/scielo.php?script=sci_arttext&pid=S151976542011000500003&lng=e&nrm=iso&tlng=pt .
+SALERNO, Mario Sérgio e KUBOTA, Luís Claudio.
+Um modelo de desenvolvimento local baseado em inovação e o papel dos parques tecnológicos na sua implantação.
+Revista da Micro e Pequena Empresa.
+Campo Limpo Paulista, Volume 3, Número 1, pp.
+SZAPIRO, M; MATTOS, M.; CASSIOLATO, J.E.
+Sistemas de Inovaç ão e Desenvolvimento.
+Em: RAPINI, Márcia Siqueira, SILVA, Leandro Alves e ALBUQURQUE, Eduardo da Mota e. Economia da Ciência, Tecnologia e Inovação: Fundamentos teóricos e a economia global .
+1.ed – Curitiba: Editora Prismas, 2017, p.371 -412.
+Esta obra está licenciada com uma Licença Creative Commons Atribuição 4.0 Internacional.

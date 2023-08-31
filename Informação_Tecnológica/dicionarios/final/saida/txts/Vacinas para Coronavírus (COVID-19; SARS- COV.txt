@@ -1,0 +1,159 @@
+DOI: 3Vacinas para Coronavírus (COVID-19; SARSCOV-2): mapeamento preliminar de artigos, patentes, testes clínicos e mercado Coronavirus Vaccines (COVID-19; SARS-COV-2): preliminary review of articles, patents, clinical trials and market Cristina M. Quintella1,2 Ana M. T. Mata3,4 Grace Ferreira Ghesti2,5 Pedro Miguel de Assis Lopes T avares da Mata6 1Universidade Federal da Bahia, Salvador, BA, Brasil 2Programa de Pós-Graduação Profissional em Propriedade Intelectual e Transferência de Tecnologia para a Inovação; Associação Fórum Nacional de Gestores de Inovação e Transferência de Tecnologia, Brasil.
+3ESTS-CINEA, Instituto Politécnico de Setúbal, Setúbal, Portugal 4iBB, IST, Universidade de Lisboa, Lisboa, Portugall 5Universidade de Brasília, Brasília, DF , Brasil 6Hospital Garcia de Orta, Pragal, Almada, Portugal Resumo O recente surto de Coronavírus gerou uma pandemia mundial.
+Este artigo consiste em um estudo exploratório para avaliar parcialmente o volume existente de material e o potencial de aprofundar futuras prospecções tecnológicas.
+O propósito deste estudo é o de pré-avaliar o conhecimento que existe em ciência (por meio de artigos), em tecnologia (por meio de patentes) e em testes clínicos e prontos para uso (por meio de vacinas disponíveis no mercado).
+Os artigos foram mapeados na Web of Knowledge, o mapeamento patentário usou a base Worldwide europeia, usando o software Orbit®.
+Os estudos clínicos utilizaram a base de dados dos Estados Unidos da América (EUA).
+Foram encontradas 991 patentes, 125 artigos e 115 estudos clínicos sendo apenas dois que se referem explicitamente a vacinas.
+A evolução anual mostra um crescimento exponencial a partir de 2002-2004 para artigos e para patentes.
+A grande maioria dos estudos clínicos nem foi ainda iniciada (apenas 15% foram completados), evidenciando que há necessidade urgente de estimular sua maturação.
+Não existe, no momento, no mercado, uma vacina que seja considerada efetiva mundialmente.
+Abstract The recent Coronavirus outbreak has sparked a worldwide pandemic.
+This article consists of an exploratory study to assess the existing volume of material and the potential for further technological assessment and forecast.
+It is used to assess the knowledge that exists in science (through articles), in technology (through patents), in clinical tests and ready for use (through vaccines available on the market).
+The articles were mapped on the Web of Knowledge, the patent assessment used the European Worldwide database, using the Orbit® software.
+991 patents, 125 articles and 115 clinical studies were found, with only 2 explicitly referring to vaccines.
+The annual evolution shows an exponential growth from 2002-2004 for articles and for patents.
+The vast majority of clinical studies have not yet started (only 15% have been completed), showing that there is an urgent need to stimulate their maturation.
+There is still no vaccine on the market that is considered worldwide effective.
+Artigo recebido em: 15/03/2020 Revisado em: 16/03/2020 Aprovado em: 17/03/2020"Direito autoral e licença de uso: Este artigo está licenciado sob uma Licença Creative &RPPRQV&RPHVVDOLFHQoDYRFrSRGHFRPSDUWLOKDUDGDSWDUSDUD TXDOTXHU¿PGHVGHTXH atribua a autoria da obra, forneça um link para a licença, e indicar se foram feitas alterações.4Cadernos de Prospecção – Salvador, v. 13, n. 1, p. 3-12, março, 2020Cristina M. Quintella, Ana M. T. Mata, Grace Ferreira Ghesti, Pedro Miguel de Assis Lopes Tavares da Mata 1 Introdução Vários Coronavírus descobertos inicialmente em aves domésticas causam doença respiratória, gastrointestinal, hepática e neurológica nos animais.
+Três desses Coronavírus estão nesta data identificados como causadores de infeção respiratória grave em humanos que pode ser fatal: SARS-CoV (SARS), Mers-CoV (MERS) e o novo SARS-CoV-2 (COVID-19) (LAI et al., 2020).
+O SARS foi identificado pela primeira vez na província de Guangdong, na China, tendo infectado mais que 8.000 pessoas com uma letalidade de 7%, e foi contido em 2003 (PEERI et al., 2020).
+O MERS foi identificado em 2012 como a causa da síndrome respiratória do Médio Oriente, foram confirmados laboratorialmente 2.494 casos e a taxa de letalidade foi de 34% (PEERI et al., 2020).
+O COVID-19 foi identificado na província de Wuhan na China em dezembro de 2012 (PEERI et al., 2020).
+A febre é o sintoma mais comum, seguido de tosse, a afetação bilateral dos pulmões é o resultado mais encontrado nas imagens de tomografia computadorizada nos pacientes infectados (LAI et al., 2020).
+Em 1º de fevereiro de 2020, a Organização Mundial da Saúde (OMS), pela sexta vez, decretou estado de emergência devido ao COVID-19 (LAI et al., 2020).
+Esse vírus apresenta maior possibilidade de transmissão do que os demais, como se pode ver pelo número total de casos apresentado na Figura 1, tendo em vista que o surto se iniciou há apenas três meses.
+Figura 1 – Número total de casos do SARS, MERS e COVID-19 na data de 12 de março de 2020, dados adaptados da OMS Fonte: OMS-1 (2020) De meados de dezembro de 2019 até o presente momento (14 março de 2020), foram confirmados mais de 142.000 casos, com 5.393 mortes, ou seja, uma taxa de letalidade de 3,8%, totalizando mais de 135 países/territórios/áreas infectados.
+Nota-se que os dados iniciais em 12 de fevereiro, com casos majoritariamente asiáticos, indicavam uma taxa de mortalidade de 2,5% (LAI et al., 2020).
+A alta da taxa de letalidade após os casos na Itália ainda não foi explicada, algumas hipóteses são o fato de a Europa ter a maior percentagem de população acima dos 65 anos, faixa etária na qual a doença se torna mais letal, e ter menores medidas de contenção ou mutação do vírus.
+Em 11 de março, o Diretor-Geral da OMS caracterizou o COVID-19 como uma pandemia.
+5Cadernos de Prospecção – Salvador, v. 13, n. 1, p. 3-12, março, 2020Vacinas para Coronavírus (COVID-19; SARS-COV-2): mapeamento preliminar de artigos, patentes, testes clínicos e mercado Em 13 de março declarou-se que a Europa se tornou o epicentro da transmissão, com maior taxa de casos e mortes notificados no mundo (OMS, 2020a).
+A situação é caótica, pois a transmissão do Coronavírus ocorre pela via respiratória de seres humanos em contato próximo ou por secreções produzidas durante os episódios de tosse, espirros e coriza.
+Os sintomas clínicos mais recorrentes são a infecção respiratória aguda grave, que provoca grande dificuldade respiratória, além de febre e tosse.
+Pessoas que apresentem esses sintomas devem procurar, com urgência, assistência hospitalar (PANG, 2020).
+Porém, sabe-se que há limitações de instalações hospitalares e profissionais habilitados para atender a demanda crescente.
+Em função disso, países estão adotando várias medidas preventivas, por exemplo, a limitação ou interrupção de voos internacionais, a fim de conter a disseminação.
+Logo, o mais indicado é o desenvolvimento e uso de vacina a fim de conter o aumento de casos.
+Existem 15 tecnologias de vacinas possíveis em todo o mundo em diferentes estágios de desenvolvimento, as quais apresentam uma ampla gama de tecnologias, como: RNA mensageiro, baseado em DNA, nanopartículas, partículas sintéticas e modificadas como vírus, entre outras.
+Ainda é necessário, no mínimo, um ano para a validação dos resultados a fim de dar início aos ensaios clínicos de fase 1 (PANG, 2020).
+O nível de maturidade tecnológica ou prontidão tecnológica (TRL) valida o conhecimento levando o seu uso pela sociedade (QUINTELLA et al., 2019).
+Saber os vários níveis de TRL existentes é essencial para que se consiga obter as vacinas adequadas com o intuito de parar a pandemia e, no futuro, prevenir novos surtos.
+Este artigo consiste em um estudo exploratório que mapeia parcialmente artigos (TRL3), patentes (TRL4 e TRL5), testes clínicos (TRL6 a TRL8) e vacinas no mercado (TRL9) sobre o Coronavírus.
+O presente estudo é de natureza exploratória e foca em qual volume parcial de conhecimento existe, hoje, em diversos graus de maturidade tecnológica de TRL3 até TRL9, que pode ser utilizado para, enfim, apresentar as perspectivas e as tendências mais recentes no desenvol-vimento dessa tecnologia no futuro.
+2 Metodologia Os documentos de patentes foram buscados na base de dados Worldwide do Escritório Europeu de Patentes (EPO), que compreende mais de 90 países.
+Foi utilizado o software Questel Orbit Intelligence® (ORBIT, 2020), no qual todos os documentos estão traduzidos para a língua inglesa.
+As famílias de patentes estão baseadas na data de prioridade do primeiro depósito.
+Do-ravante, neste trabalho, será utilizado apenas o termo patente, ao invés de famílias de patentes, dado que o conteúdo tecnológico é o mesmo.
+Os artigos foram obtidos por pesquisa na Web of Science (www.webofknowledge.com).
+Os dados de testes clínicos foram obtidos acessando o banco da Biblioteca Nacional de Medicina dos EUA.
+A coleta dos dados foi realizada em 14 de março de 2020.
+A Tabela 1 mostra o escopo da busca de documentos.6Cadernos de Prospecção – Salvador, v. 13, n. 1, p. 3-12, março, 2020Cristina M. Quintella, Ana M. T. Mata, Grace Ferreira Ghesti, Pedro Miguel de Assis Lopes Tavares da Mata Tabela 1 – Escopo do estudo, termos utilizados na busca e o número de resultados obtidos ITEMEXPRESSÕES DE BUSCA ARTIGOS PATENTES ESTUDOS CLÍNICOS Coronavírus corona* corona+ Corona or COVID-19 Vacinacorona* AND (vaccin* or vacin* or vacun* or immuniz* or imuniz* or impf*)corona+ AND (vaccin+ or immune+ response+)Vaccine Fonte: Elaborada pelos autores deste artigo (2020) Para patentes, as palavras-chave foram buscadas nos campos de conceitos compreendendo título, resumo e palavras-chave.
+Foram selecionados os domínios tecnológicos de patentes de Biotecnologia e de Fármacos, conforme aponta Schmoch (2008).
+Para artigos, as palavras-chave foram buscadas no campo "Tópico".
+Para mapear os estudos clínicos, foram utilizados campos de Condição ou Doença e de Outros Termos (NIHCT, 2020).
+Após a retirada de repetições e a seleção apenas dos documentos de interesse referindo vacinas para Coronavírus, restaram 991 patentes,126 artigos e 119 estudos clínicos dos quais dois mencionam vacinas.
+3 Resultados e Discussão As vacinas para o Coronavírus estão sendo desenvolvidas tanto para humanos como para animais (cachorros, vacas, porcos, felinos, etc.).
+Por exemplo, a maior parte das patentes tem sido desenvolvida para humanos (854), sendo também grande o número de patentes dirigidas a animais (709), há, ainda, diversas patentes que se aplicam a ambos.
+A Tabela 2 mostra o status legal das patentes de vacinas para o Coronavírus.
+Pode-se observar que cerca de dois terços podem ter ainda seu uso controlado pelos titulares (patentes vivas), ou seja, essa tecnologia precisaria de decisão da Organização Mundial do Comércio (OMC) para que possa ser utilizada dentro do preconizado pelo Artigo 31 do Acordo TRIPS que regula o uso sem a autorização do titular por meio do licenciamento compulsório de fármacos (TRIPS, 2000).
+Tabela 2 – Status das patentes Item Concedidas Pendentes Revogadas Expiradas Abandonadas VivasDomínio público Número 453 201 79 68 190 654 337 Percentual 46% 20% 8% 7% 19% 66% 34% Fonte: Elaborada pelos autores deste artigo (2020) A Figura 2 mostra a quantidade acumulada anualmente de artigos (Figura 2Topo) e de patentes (Figura 2Base).
+Para as patentes, os anos de 2018 a 2020 ainda estão afetados pelos 18 meses de sigilo, por isso, não devem ser ainda discutidos.
+Pode-se observar que as paten-tes acumuladas têm comportamento exponencial entre 2002 e 2004.
+Já os artigos, apesar de 7Cadernos de Prospecção – Salvador, v. 13, n. 1, p. 3-12, março, 2020Vacinas para Coronavírus (COVID-19; SARS-COV-2): mapeamento preliminar de artigos, patentes, testes clínicos e mercado estarem a cerca de apenas 10% em termos de volume, têm também aumento significativo a partir de 2003.
+Esse interesse mais recente pode ser devido à intensificação do uso das vacinas, especialmente após o aparecimento do SARS em 2002 que resultou numa epidemia em 2003 (OMS, 2020b).
+Figura 2 – Número acumulado de patentes por ano para patentes e artigos relativos a vacinas de Coronavírus 01002003004005006007008009001000 1980 1985 1990 1995 2000 2005 2010 2015 2020Patentes Acumuladas Patentes Acumuladas 020406080100120 1980 1985 1990 1995 2000 2005 2010 2015 2020Artigos acumulados Artigos acumulados Fonte: Elaborada pelos autores deste artigo (2020) A Figura 3 mostra o mapa dos países desenvolvedores de tecnologias patenteadas de vacinas para Coronavírus (Figura 3A) e de países em que as tecnologias estão sendo apropriadas como potenciais mercados de produção e de comercialização (Figura 3B).
+Pode-se observar (Figura 3A) que 26 países são os detentores das tecnologias, ou seja, essencialmente EUA (58%), tendo o Japão (13%) alguma expressão.
+Também em termos de artigos, verifica-se que 40% são financiados por agências dos EUA.
+A origem dos artigos confirma a tendência verificada para as patentes, EUA com 25% e Japão com 15%, ainda se nota a contribuição da Índia, da Alemanha e da Suíça com cerca de 10% dos artigos científicos publicados.
+Em termos de continentes, percebe-se que a tecnologia pertence essencialmente à América do Norte (58%), estando a Ásia (23%) e a Europa (15%) logo a seguir, e os outros abaixo tendo menos de 1%.
+Já, quando se olha em que países as tecnologias estão apropriadas (Figura 3B), vê-se que é uma tecnologia fortemente de exportação com 86 países-alvo de fabricação e comercialização.8Cadernos de Prospecção – Salvador, v. 13, n. 1, p. 3-12, março, 2020Cristina M. Quintella, Ana M. T. Mata, Grace Ferreira Ghesti, Pedro Miguel de Assis Lopes Tavares da Mata Figura 3 – Mapas mundiais de países desenvolvedores das tecnologias patenteadas (A) e potenciais mercados (B) de vacinas para Coronavírus, sem considerar patentes por canais que cobrem potencial-mente vários países como patentes pelo Tratado Internacional (PCT) e patentes europeias (EP).
+Cinza significa sem patentes, e a cor azul fica mais escura quando o número de patentes aumenta (A) países desenvolvedores das tecnologias (B) países desenvolvedores das tecnologias Fonte: Elaborada pelos autores deste artigo (2020) Chama-se ainda a atenção para o fato de que diversas dessas vacinas foram, originariamente, desenvolvidas para fins veterinários e, no momento, estão ocorrendo diversos estudos clínicos visando a sua aplicação e/ou adaptação para humanos.
+A Figura 4 mostra o número de testes clínicos de Coronavírus de acordo com o seu andamento.
+Pode-se observar que os estudos concluídos ainda são apenas 15%, sendo que estão para ser iniciados (já recrutando ou não) na sua maior porcentagem (77%), percebendo-se, dessa forma, que há pouca maturidade tecnológica dessas tecnologias.
+Apenas dois estudos clínicos referem especificamente vacina, estando ambos ainda na fase de recrutamento e não tendo resultados.
+Um deles testa a segurança e imunogenicidade da vacina 2019-nCoV (mRNA-1273) para prevenir a infecção por SARS-CoV-2, está ocorrendo em Washington, EUA, no Kaiser Permanente Washington Health Research Institute (2020).
+O outro testa o tratamento da infecção pelo COVID-19 usando o medicamento Remdesivir, sendo um esforço conjunto internacional de diversas organizações dos EUA, Coreia e Singapura (REMDESIVIR, 2020).
+Figura 4 – Testes clínicos com Coronavírus mostrando os seus andamentos: ainda não recrutando; disponíveis; recrutando por convite; recrutando; ativos, não recrutando; completados; retirados; e des-conhecidos Ainda não recrutando 28% Disponíveis 2% Recrutando por convite 2%Recrutando 44%Ativos, não recrutando 1%Completados 15%Retirados 6%Desconhecidos 2% Fonte: Elaborada pelos autores deste artigo (2020)9Cadernos de Prospecção – Salvador, v. 13, n. 1, p. 3-12, março, 2020Vacinas para Coronavírus (COVID-19; SARS-COV-2): mapeamento preliminar de artigos, patentes, testes clínicos e mercado A busca por vacinas que sejam consideradas mundialmente efetivas mostrou que ainda não se chegou a esse nível de maturação da tecnologia (TRL9).
+4 Considerações Finais O presente estudo exploratório permitiu verificar que existe volume significativo de conhecimento em diversos graus de maturidade tecnológica: artigos (TRL3), patentes (TRL4 a TRL5) e testes clínicos (TRL6 a TRL8).
+O volume, tanto de artigos como de patentes, cresceu significativamente nos últimos 15 anos, mostrando que, mesmo antes da atual pandemia de 2020 relacionada ao COVID-19, existiram outros eventos significativos de saúde pública relacionados com Coronavírus (SARS e MERS) e, por esse motivo, o interesse crescente pela pesquisa neste tema.
+Com a globalização da infecção pelo COVID 19, já que a maior parte do globo ainda não passou pelo pico de pandemia, e como as variáveis clínicas estão em processo de estudo e comparação com outros acometimentos virais anteriores, quase todas as propostas de estudo e clinical trials estão sendo desenvolvidos à luz do que se observou nas epidemias por SRV , H1N1, influenza, etc.
+Dos poucos estudos completados, conclui-se que ainda não existe, de fato, uma vacina aceita mundialmente.
+5 Perspectivas Futuras Há o grande campo de clinical trials praticamente em aberto.
+Ele está começando a se estruturar dentro das evidências clínicas que diariamente são atualizadas pela experiência local e global.
+Acredita-se que em poucos meses se terá conhecimento profundo e, controlo, eficaz da situação pandêmica.
+Futuros estudos deverão explorar detalhadamente os diversos graus de maturidade das vacinas para Coronavírus, havendo grande potencial ainda inexplorado.
+Dado o desenvolvimento significativo de vacinas, tanto para humanos como para animais ou para ambos, é provável que o desenvolvimento futuro continue a explorar as patentes de animais, adaptando-as para humanos.
+Devido à pandemia, certamente haverá uma explosão de crescimento nos artigos, nas patentes e nos estudos clínicos.
+Como se trata de vacina, os métodos de aplicação para conter essa pandemia deverão ser variados.
+Espera-se que o desenvolvimento de vacinas contra o Coronavírus amplie o escopo da imunoterapia específica, principalmente se associada a sistemas alternativos de distribuição com potencial futuro, como a nanotecnologia.
+Espera-se, ainda, que a entrega genética e a nano controlada e/ou específica sejam incorporadas.
+Além disso, esses novos desenvolvimen-tos provavelmente abordarão o problema de tratamentos preventivos e de cuidados paliativos, reduzindo a mortalidade e o número de pacientes em todo o mundo.
+As biotecnologias alavancarão laços estratégicos com a pesquisa acadêmica em biologia molecular e imunologia, e um alto percentual está resultando em tecnologias bem-sucedidas que estão sendo patenteadas.
+Atualmente, essas plataformas imunológicas são a melhor chance 10Cadernos de Prospecção – Salvador, v. 13, n. 1, p. 3-12, março, 2020Cristina M. Quintella, Ana M. T. Mata, Grace Ferreira Ghesti, Pedro Miguel de Assis Lopes Tavares da Mata de se produzir resultados inovadores para os pacientes, especialmente aqueles em cuidados paliativos já diagnosticados com a doença.
+As barreiras técnicas de duração e de custo para a produção de vacinas devem cair também dada a necessidade de produção em escala criada pela pandemia.
+O número de ensaios clínicos deve aumentar na próxima década e validar as melhores doses e métodos, potencializando o uso amplamente disseminado da vacina, uma vez que os procedimentos laboratoriais e hospitalares são rotineiros e estão disponíveis em todo o mundo.
+Ainda é necessário determinar quais combinações são mais eficazes e qual a programação ideal da dose, otimizando a combinação de múltiplos antígenos imunogênicos e vetores de vacina.
+As agências reguladoras terão um papel relevante para permitir a entrada no mercado de produtos com eficácia, conveniência e custo-benefício demonstrados.
+O licenciamento para uso das vacinas pode ser estimulado pela pandemia, levando a parcerias internacionais que permitirão disseminar a vacina, usando o licenciamento cruzado como um pedágio para ampliar o portfólio de patentes.
+Isso também poderia levar a patentes com o objetivo de criar paredes defensivas, bem como trolls de patentes.
+As políticas de países e agências internacionais devem dissuadir os solicitantes a produzir patentes apenas para aumentar os ativos intangíveis das empresas e se concentrar na expansão do uso de vacinas.
+Agradecimentos Os autores agradecem à Questel pelo uso do Orbit Intelligence® como parte das ações do PROFNIT/FORTEC.
+Referências KAISER PERMANENTE WASHINGTON HEALTH RESEARCH INSTITUTE.
+Vaccines and Infectious Diseases, Seattle, Washington, United States, Safety and Immunogenicity Study of 2019-nCoV Vaccine (mRNA-1273) to Prevent SARS-CoV-2 Infection , 2020.
+Disponível em: Acesso em: 15 mar.
+Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) and Coronavirus Disease-2019 (COVID-19): The Epidemic and the Challenges.
+International Journal of Antimicrobial Agents , [S.l.],v.
+DOI:10.1016/j.ijantimicag.2020.105924.
+NIHCT – U. S. NATIONAL LIBRARY OF MEDICINE.
+Disponível em https:// clinicaltrials.gov/.
+OMS – ORGANIZAÇÃO MUNDIAL DE SAÚDE.
+Disponível em: diseases/sars/en/; Acesso em: 15 mar.
+OMS – ORGANIZAÇÃO MUNDIAL DE SAÚDE.
+Disponível em: diseases/sars/en/; Acesso em: 15 mar.
+2020.11Cadernos de Prospecção – Salvador, v. 13, n. 1, p. 3-12, março, 2020Vacinas para Coronavírus (COVID-19; SARS-COV-2): mapeamento preliminar de artigos, patentes, testes clínicos e mercado PANG, J. et al.
+Potential Rapid Diagnostics, Vaccine and Therapeutics for 2019 Novel Coronavirus (2019-nCoV): A Systematic Review.
+Journal of Clinical Medicine , [S.l.
+The SARS and MERS, and novel coronavirus (COVID-19) epidemics, the newest and biggest global health threats: what lessons have we learned?
+], v. 22, Feb, 2020.DOI: 10.1093/ije/dyaa033.
+Maturidade Tecnológica: Níveis de Prontidão TRL.
+PROFNIT, Prospecção Tecnológica .
+Salvador, BA: Editora do IFBA, 2019. v. 2, p. 18-59.
+Disponível em: Acesso em: 13 mar.
+University of California San Diego Health – Jacobs Medical Center, La Jolla, California, United States.
+University of California Irvine Medical Center – Infectious Disease, Orange, California, United States.
+University of California Davis Medical Center – Internal Medicine – Infectious Disease, Sacramento, California, United States.
+Emory Clinic – Investigational Drug Service, Atlanta, Georgia, United States.
+Emory Vaccine Center – The Hope Clinic, Decatur, Georgia, United States.
+University of Maryland School of Medicine – Center for Vaccine Development – Baltimore, Annapolis, Maryland, United States.
+Johns Hopkins Hospital – Medicine – Infectious Diseases, Baltimore, Maryland, United States.
+National Institutes of Health – Clinical Center, National Institute of Allergy and Infectious Diseases Laboratory Of Immunoregulation, Clinical Research Section, Bethesda, Maryland, United States.
+University of Minnesota Medical Center, Fairview - Infectious Diseases and International Medicine, Minneapolis, Minnesota, United States.
+Saint Louis University – Center for Vaccine Development, Saint Louis, Missouri, United States.
+University of Nebraska Medical Center – Infectious Diseases, Omaha, Nebraska, United States.
+Montefiore Medical Center – Infectious Diseases, Bronx, New York, United States.
+University of Texas Medical Branch – Division of Infectious Disease, Galveston, Texas, United States.
+Baylor College of Medicine – Molecular Virology and Microbiology, Houston, Texas, United States.
+Evergreen Health Infectious Disease Service, Kirkland, Washington, United States.
+The University of Washington – Virology Research Clinic, Seattle, Washington, United States.
+Providence Sacred Heart Medical Center, Spokane, Washington, United States.
+Seoul National University Bundang Hospital – Division of Infectious Diseases, Bundang-gu Seongnam-si, Gyeonggi-do, Korea, Republic of.
+Seoul National University Hospital, Seoul, Jongno-gu, Korea, Republic of.
+National Centre for Infectious Diseases (NCID), Singapore, Singapore.
+Adaptive COVID-19 Treatment Trial.
+Disponível em: Acesso em: 15 mar.
+Concept of a Technology Classification for Country Comparisons.
+Anexo 41ª Session da Committee of Experts da Special Union for the International Patent Classification (IPC Union), World Intellectual Property Organization (WIPO) , IPC/CE/41/5.
+Disponível em: https:// www.wipo.int/edocs/mdocs/classifications/en/ipc_ce_41/ipc_ce_41_5-annex1.pdf.
+Agreement on Trade Related Aspects of Intellectual Property Rights .
+Disponível em: Access em: 14 fev.
+2020.12Cadernos de Prospecção – Salvador, v. 13, n. 1, p. 3-12, março, 2020Cristina M. Quintella, Ana M. T. Mata, Grace Ferreira Ghesti, Pedro Miguel de Assis Lopes Tavares da Mata Sobre os Autores Cristina M. Quintella E-mail : cris5000tina@gmail.com Doutorado Interdisciplinar em Ciências Moleculares pela University of Sussex, UK (1993).Editora-Chefe da Revista Cadernos de Prospecção.
+Comissão Técnica Nacional de Editoração e Publicações do PROFNIT/FORTEC.Endereço profissional: Universidade Federal da Bahia, Instituto de Química, Departamento de Química Geral e Inorgânica, Campus de Ondina, Ondina, Salvador, BA.
+Ana Maria Tavares da Mata E-mail : ana.mata@estsetubal.ips.pt Doutora em Engenharia do Ambiente, Leciona na ESTSetúbal, Instituto Politécnico de Setúbal, investigadora do CINEA-IPS e do IBB – Instituto de Bioengenharia e Biociência (IST, UL).
+Conselho Editorial da revista Cadernos de Prospecção.Endereço profissional: ESTS/IPS Campus do IPS Estefanilha, 2914-508, Setúbal, Portugal.
+Grace Ferreira Ghesti E-mail : ghesti.grace@gmail.com; grace@unb.br Bacharel e doutora em Química.
+Leciona no curso de Graduação em Química da Universidade de Brasília e no Programa de Mestrado Profissional em Propriedade Intelectual e Transferência de Tecnologia para a Inovação (PROFNIT).
+Comissão Técnica Nacional de Editoração e Publicações do PROFNIT/FORTEC.Endereço profissional: Universidade de Brasília, Instituto de Química, Laboratório de Bioprocessos Cervejeiros e Catálise Aplicada a Energias Renováveis, Brasília, DF .
+Pedro Miguel de Assis Lopes Tavares da Mata E-mail : pedro.mata@hgo.min-saude.pt Graduado em Medicina com especialização em Medicina Interna e Geriatria (1992) no Hospital da Clínicas de São Paulo.
+Especialização em Homepatia (1995) na Associação Paulista de Homeopatia.
+Mestrado em Cuidados Paliativos (2013) na Escola Superior de Saúde Prof. Lopes Dias em Portugal.Endereço profissional: Hospital Garcia de Orta, Avenida Torrado da Silva, n. 2805-267, Almada, Portugal.

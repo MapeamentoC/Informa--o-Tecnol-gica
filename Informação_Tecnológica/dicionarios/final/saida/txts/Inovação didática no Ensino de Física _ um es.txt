@@ -1,0 +1,426 @@
+Revista Brasileira de Ensino de F ´ısica, vol.
+43, e20210070 (2021) Pesquisa em Ensino de F ´ısica www.scielo.br/rbef  DOI: Licenc ¸a Creative Commons Inova¸ c˜ ao did´ atica no Ensino de F´ ısica: um estudo sobre a ado¸ c˜ ao do m´ etodo Instru¸ c˜ ao pelos Colegas (Peer Instruction) no contexto de Mestrados Profissionais em Ensino no Brasil Didactic innovation in Physics Education: a study on the adoption of the Peer Instruction method in the context of Brazilian programs of professional master in teaching Ana Am´ elia Petter*1 , Tobias Espinosa2 , Ives Solano Araujo1 1Universidade Federal do Rio Grande do Sul, Instituto de F´ ısica, Porto Alegre, RS, Brasil.
+2Universidade Federal do Rio Grande, Instituto de Matem´ atica, Estat´ ısticas e F´ ısica, Porto Alegre, RS, Brasil.
+Recebido em 22 de fevereiro de 2021.
+Revisado em 29 de abril de 2021.
+Entre outros fatores, a melhoria da qualidade da educa¸ c˜ ao escolar demanda investimentos na forma¸ c˜ ao did´ aticopedag´ ogica dos docentes.
+Essa n˜ ao deve ficar restrita ` a forma¸ c˜ ao inicial, mas tamb´ em incluir ` a continuada, os auxiliando a refletirem sobre suas pr´ aticas, constru´ ırem e adaptarem solu¸ c˜ oes inovadoras, ` a altura dos desafios que encontram em seus respectivos contextos educacionais.
+Ao encontro desse objetivo, apresentamos os resultados de um estudo sobre a ado¸ c˜ ao de um dos m´ etodos ativos mais utilizados no ensino de f´ ısica, o Instru¸ c˜ ao pelos Colegas (IpC), que vem sendo sistematicamente adotado no contexto dos Mestrados Profissionais em Ensino (MPEs) e no qual se demanda a elabora¸ c˜ ao e implementa¸ c˜ ao de um produto educacional inovador e dissemin´ avel.
+Elegemos os participantes de nossa investiga¸ c˜ ao a partir de uma busca por disserta¸ c˜ oes de MPE em que os professores utilizaram o IpC em aulas de F´ ısica, no per´ ıodo de 2004 a 2020.
+Foram selecionadas e analisadas 45 disserta¸ c˜ oes e um question´ ario sobre a aplica¸ c˜ ao do IpC enviado aos seus autores sendo investigadas as modifica¸ c˜ oes mais frequentes no m´ etodo e algumas das justificativas para essas mudan¸ cas.
+As mudan¸ cas mais recorrentes identificadas no estudo dizem respeito ` as atividades de prepara¸ c˜ ao pr´ evia por parte dos alunos e a dinˆ amica de aplica¸ c˜ ao dos testes conceituais em sala de aula.
+Al´ em disso, levantamos hip´ oteses explicativas para tais modifica¸ c˜ oes que podem servir de ponto de partida para estudos futuros sobre o tema.
+Apresentamos tamb´ em algumas considera¸ c˜ oes sobre esses resultados no contexto educacional brasileiro, comparando com os resultados de estudos norte-americanos.
+Palavras-chave: Ensino de F´ ısica, Inova¸ c˜ ao did´ atica, Peer Instruction , Mestrado Profissional em Ensino, Teoria da Difus˜ ao de Inova¸ c˜ oes.
+Among other factors, improving the quality of school education requires investments in the didactic-pedagogical training of teachers.
+This should include pre-service and in-service teacher training, helping them to reflect on their own practices and to build and adapt innovative solutions to face the challenges encountered in their educational contexts.
+In line with this, this article presents the results of a study on the adoption of one of the most used active methods in the teaching of physics: The Peer Instruction (PI).
+It is widely adopted in the context of Brazilian Professional Master of Teaching programs (PMTs) in which the development and implementation of an innovative and diffusible educational product is demanded.
+We chose the participants of our investigation based on a search for dissertations of PMT in which the teachers used the PI in physics classes, in the period from 2004 to 2020.
+Were selected and analyzed 45 master's degree dissertations and applied a questionnaire about PI to its authors, to investigate the most frequent changes in the method and why these changes were made.
+The most recurrent changes are related to the preparation assignments and the application of ConcepTests in classroom.
+In addition, some explanatory hypotheses about it were elaborated and may serve as a starting point for future studies on the topic.
+Likewise, we compare the results achieved in the Brazilian educational context with the results of North American studies.
+Keywords: Physics education, Didactic innovation, Peer Instruction, Professional Master of Teaching, Diffusion of Innovation Theory.
+Introdu¸ c˜ ao A Lei de Diretrizes e Bases da Educa¸ c˜ ao Nacional (LDB 9.394/96) [1] instaura que a educa¸ c˜ ao, dever da fam´ ılia e *Endere¸ co de correspondˆ encia:do Estado, tem por finalidade o pleno desenvolvimento do educando, por isso, um dos onze princ´ ıpios estabelecidos na lei ´ e a garantia da qualidade do ensino.
+Araujo e Vianna [2] destacam que ´ e consenso na sociedade, e ratificado pela pesquisa em ensino, que a qualidade da educa¸ c˜ ao n˜ ao pode ser desvinculada da qualidade da Copyright by Sociedade Brasileira de F´ ısica.
+Printed in Brazil.e20210070-2 Inova¸ c˜ ao did´ atica no Ensino de F´ ısica forma¸ c˜ ao docente, entre outros fatores.
+Essa forma¸ c˜ ao docente n˜ ao deve se restringir ` a forma¸ c˜ ao inicial, e precisa auxiliar os professores a refletirem sobre sua pr´ atica e solucionarem problemas em sala de aula por meio da implementa¸ c˜ ao e (re)constru¸ c˜ ao de inova¸ c˜ oes did´ aticas.
+Dentre as inova¸ c˜ oes did´ aticas diretamente relacionadas ` a a¸ c˜ ao docente se encontram os m´ etodos ativos de ensino, entendidos como aqueles em que o engajamento dos alunos ´ e promovido atribuindo a eles um papel ativo no processo de aprendizagem e os tornando correspons´ aveis pela sua pr´ opria aprendizagem [3].
+Dentre esses m´ etodos, o Instru¸ c˜ ao pelos Colegas (IpC) [4, 5], desenvolvido pelo Prof. Eric Mazur da Universidade de Harvard (EUA), ´ e reconhecido internacionalmente e ´ e um dos m´ etodos ativos mais implementados no Ensino de F´ ısica [6].
+No IpC, os alunos s˜ ao estimulados, durante as aulas, a discutirem com seus colegas suas respostas a quest˜ oes conceituais, propostas pelo professor.
+O m´ etodo visa tornar o aluno mais ativo em sala de aula e engajado no seu processo de aprendizagem [6], e tem como parte de sua base pedag´ ogica a ideia de que um aluno pode aprender com o outro [5].
+Em contexto de ensino norte-americano, Henderson e Dancy [7] constataram que o IpC, al´ em de ser o m´ etodo mais adotado, ´ e tamb´ em o que sofre mais modifica¸ c˜ oes na implementa¸ c˜ ao, algumas delas eliminando as potencialidades do m´ etodo.
+Ind´ ıcios de que professores que implementam o IpC modificam aspectos essenciais do m´ etodo tamb´ em podem ser encontrados no contexto brasileiro [8, 9].
+Ou seja, tais estudos indicam que o IpC ´ e adotado, mas que ´ e improv´ avel que os professores o adotem da maneira como foi desenvolvido, nos diferentes contextos.
+Todo m´ etodo de ensino, de forma expl´ ıcita ou impl´ ıcita, assume pressupostos pedag´ ogicos que na maior parte das vezes, com maior ou menor rigor, est˜ ao ligados ` as justificativas para sua ado¸ c˜ ao [3].
+Ao modificar o m´ etodo para viabiliz´ a-lo em certo contexto educacional, ou aplic´ a-lo sem considerar adequadamente tal contexto, o docente pode se aproximar ou se afastar das raz˜ oes pedag´ ogicas que sustentam as estrat´ egias pr´ aticas do m´ etodo.
+Isto ´ e, as modifica¸ c˜ oes realizadas podem ser simplifica¸ c˜ oes que desvirtuam as inten¸ c˜ oes originais ou podem potencializ´ a-las, expandindo o m´ etodo a um novo contexto, particular e in´ edito [3, 10].
+Um dos contextos em que o IpC vem sendo adotado ´ e o dos Mestrados Profissionais em Ensino (MPEs) de F´ ısica.1O foco dos MPEs est´ a na forma¸ c˜ ao docente, na pesquisa aplicada e no desenvolvimento de produtos e processos educacionais que sejam implementados em condi¸ c˜ oes reais de ensino [11].
+Nesses cursos ´ e esperado 1Essa afirma¸ c˜ ao ´ e baseada na an´ alise dos t´ ıtulos e resumos de todos os trabalhos do Mestrado Nacional Profissional em Ensino de F´ ısica (MNPEF) dispon´ ıveis na plataforma Sucupira (dispon´ ıvel em: voltada para a coleta de dados dos programas de p´ os-gradua¸ c˜ ao nacionais, at´ e o in´ ıcio da pesquisa, isto ´ e, para os anos de 2015 a 2019.que o mestrando desenvolva: um Produto Educacional (PE) inovador e dissemin´ avel, que seja analisado e utilizado por outros professores em contextos diversos; e uma disserta¸ c˜ ao com a descri¸ c˜ ao dos processos que culminaram no produto e da sua aplica¸ c˜ ao em situa¸ c˜ oes de ensino [12, 13].
+Contudo, alguns estudos evidenciam que os PEs n˜ ao tˆ em sido disseminados a contento, e nem mesmo os autores dos trabalhos continuam aplicando seus produtos ap´ os o t´ ermino do MPE [14– 16].2Apesar dessa constata¸ c˜ ao, as pesquisas n˜ ao se ocupam em analisar qualitativamente os produtos e as implementa¸ c˜ oes [17], o que se constitui em uma lacuna para se pensar poss´ ıveis solu¸ c˜ oes para enfrentar a baixa dissemina¸ c˜ ao dos produtos educacionais.3 Assim, procurando entender os desafios enfrentados pelos docentes ao tentar inovar em sala de aula, no presente estudo buscamos investigar a ado¸ c˜ ao de um m´ etodo ativo de ensino pelos professores, ex-alunos do MPE, que o implementaram em suas disserta¸ c˜ oes e PEs, com base na Teoria da Difus˜ ao de Inova¸ c˜ oes, de Everett Rogers [18] (vide Se¸ c˜ ao 3).
+Mais especificamente, analisamos como o Instru¸ c˜ ao pelos Colegas foi implementado por discentes de cursos de Mestrado Profissional em Ensino do Brasil com temas de F´ ısica para o desenvolvimento de suas disserta¸ c˜ oes, com o intuito de identificar quais as modifica¸ c˜ oes realizadas e as justificativas para essas mudan¸ cas.
+Com isso, ao longo deste estudo, buscamos responder as seguintes quest˜ oes de pesquisa: Quais as caracter´ ısticas do m´ etodo de ensino Instru¸ c˜ ao pelos Colegas passam por reinven¸ c˜ oes, no sentido atribu´ ıdo por Everett Rogers, mais frequentemente no contexto de ensino brasileiro dos Mestrados Profissionais em Ensino com temas de F´ ısica?
+Em que medida elas descaracterizam o m´ etodo?
+E quais as raz˜ oes apontadas para essas reinven¸ c˜ oes?
+Al´ em dessas quest˜ oes, este estudo tamb´ em tem como objetivo levantar hip´ oteses sobre os resultados encontrados como ponto de partida para pesquisas futuras.
+Para responder essa quest˜ ao, inicialmente realizamos uma an´ alise de conte´ udo, segundo as orienta¸ c˜ oes metodol´ ogicas de Bardin [19] (vide Se¸ c˜ ao 4) nos textos das disserta¸ c˜ oes e PEs dos professores que implementaram o IpC em aulas de F´ ısica durante o MPE.
+No entanto, devido ` a falta de informa¸ c˜ oes sobre as caracter´ ısticas do IpC em alguns desses documentos, foi necess´ ario elaborar e aplicar um question´ ario, para coleta de dados adicionais sobre a implementa¸ c˜ ao do m´ etodo com seus autores.
+Adicionalmente, inclu´ ımos quest˜ oes 2No nosso estudo, quatorze dos 31 professores (respondentes do question´ ario) continuaram utilizando o IpC ap´ os a conclus˜ ao do curso.
+Dentre os respondentes, outros sete utilizaram o m´ etodo por at´ e dois anos ap´ os o t´ ermino do curso.
+3Em rela¸ c˜ ao ` a dissemina¸ c˜ ao de inova¸ c˜ oes, em uma perspectiva rogeriana [18], a dissemina¸ c˜ ao de um produto educacional implica em sua ampla ado¸ c˜ ao em diferentes contextos de ensino.
+A disponibilidade e facilidade de acesso aos produtos ´ e condi¸ c˜ ao necess´ aria, facilitadora da dissemina¸ c˜ ao, mas n˜ ao suficiente.
+Revista Brasileira de Ensino de F´ ısica, vol.
+43, e20210070, 2021 DOI: et al.
+e20210070-3 relacionadas ` a implementa¸ c˜ ao do m´ etodo e de seu PE associado ap´ os a conclus˜ ao do curso.
+Para compreender e analisar o processo de mudan¸ ca da pr´ atica dos professores, bem como elaborar as quest˜ oes que comp˜ oem o question´ ario, adotamos a Teoria da Difus˜ ao de Inova¸ c˜ oes de Everett Rogers [18], uma das principais referˆ encias em estudos sobre ado¸ c˜ ao e difus˜ ao de inova¸ c˜ oes educacionais [9, 20].
+Conforme indicamos na se¸ c˜ ao 3, a TDI prop˜ oe um modelo para tomada de decis˜ oes sobre inova¸ c˜ oes, e procura descrever elementos relevantes para que sejam adotadas e difundidas.
+Trata-se de uma teoria que aborda inova¸ c˜ oes de uma forma mais geral, n˜ ao se restringindo, ou mesmo enfatizando, inova¸ c˜ oes did´ aticas.
+Rela¸ c˜ oes espec´ ıficas como as que ocorrem entre professores, alunos e materiais did´ aticos para os diversos contextos educacionais n˜ ao s˜ ao explicitamente conceitualizadas, mas podem ser contempladas em conceitos internos ` a teoria tais como os de"normas sociais" ,"pr´ aticas pr´ evias" e"necessidades percebidas" .
+Para o presente estudo, por uma quest˜ ao de escopo, n˜ ao nos aprofundamos em tais leituras.
+O estudo descrito no presente artigo est´ a vinculado a uma disserta¸ c˜ ao de mestrado acadˆ emico em ensino de F´ ısica, cujo projeto foi registrado na Plataforma Brasil sob o n´ umero 34076820.3.0000.5347 e teve aprova¸ c˜ ao do Comitˆ e de ´Etica em Pesquisa da Universidade Federal do Rio Grande do Sul (UFRGS).
+Na pr´ oxima se¸ c˜ ao apresentamos o m´ etodo de ensino, Instru¸ c˜ ao pelos Colegas, e alguns estudos anteriores sobre sua ado¸ c˜ ao.
+Ela ´ e seguida pelo referencial te´ orico (Se¸ c˜ ao 3), pela metodologia de pesquisa (Se¸ c˜ ao 4) e pelos resultados e discuss˜ oes (Se¸ c˜ ao 5).
+Por fim, apresentamos, na Se¸ c˜ ao 6, as considera¸ c˜ oes finais deste estudo.
+O Instru¸ c˜ ao pelos Colegas e a Ado¸ c˜ ao de M´ etodos Ativos de Ensino OPeer Instruction , ou Instru¸ c˜ ao pelos Colegas, ´ e um m´ etodo ativo de ensino desenvolvido pelo Prof. Eric Mazur da Universidade de Harvard na d´ ecada de 90 do s´ eculo XX.
+Para Araujo e Mazur [21] o principal objetivo desse m´ etodo ´ e promover a aprendizagem de conceitos fundamentais dos conte´ udos em estudo, atrav´ es da intera¸ c˜ ao entre os estudantes.
+O m´ etodo, como descrito por Mazur [4], inicia-se com a realiza¸ c˜ ao de uma tarefa de prepara¸ c˜ ao pr´ evia, anteriormente a aula, por parte do estudante.
+Nela, o aluno realiza, por exemplo, a leitura de uma parte do livro did´ atico ou assiste a um v´ ıdeo, de forma a ser introduzido ao conte´ udo.
+Na primeira vers˜ ao do m´ etodo, ao chegar em sala de aula, indicava-se que o professor propusesse question´ arios aos alunos e, na sequˆ encia, utilizasse as respostas deles como base para uma exposi¸ c˜ ao oral sobre os conceitos estudados.
+Desta maneira, o professor leva em considera¸ c˜ ao aquilo que o aprendiz j´ a sabe e adapta suas exposi¸ c˜ oes ` as necessidades apresentadas nas respostas aos question´ arios.Em vers˜ ao atualizada do m´ etodo, Mazur, em colabora¸ c˜ ao com Watkins [22] e posteriormente Araujo [21], prop˜ oem a combina¸ c˜ ao do Peer Instruction com o Just-in-Time Teaching .4Nessa proposta ´ e recomendado que o professor indique aos estudantes uma Tarefa de Leitura (TL), composta por um material de apoio (texto, v´ ıdeo, simula¸ c˜ ao, .
+), uma quest˜ ao de retorno sobre o entendimento em rela¸ c˜ ao ao conte´ udo exposto no material e quest˜ oes conceituais sobre os conceitos abordados.
+Ainda antes da aula ´ e esperado que o professor analise as respostas dos alunos e planeje suas exposi¸ c˜ oes para esclarecer as dificuldades dos estudantes, aprofundar a compreens˜ ao e apresentar exemplos adicionais, pensando um ensino na medida das necessidades discentes.
+Assim, o docente destina o tempo em sala de aula para o engajamento ativo dos alunos e n˜ ao somente para exposi¸ c˜ ao do conte´ udo.
+Ambas propostas recomendam que o professor, em sala de aula, realize curtas exposi¸ c˜ oes sobre os pontoschave da leitura extraclasse, intercaladas com a apresenta¸ c˜ ao de Testes Conceituais (TCs).
+Esses TCs s˜ ao compostos por quest˜ oes conceituais de m´ ultipla escolha relacionadas aos assuntos discutidos nas exposi¸ c˜ oes orais e objetivam, expor as dificuldades comuns dos alunos na compreens˜ ao de cada conceito, relacionado ao conte´ udo introduzido na TL.
+No IpC, o uso de quest˜ oes conceituais ´ e indicado porque entende-se que a compreens˜ ao conceitual ´ e fundamental para aprendizagem de F´ ısica.
+Ap´ os apresentar e interpretar o teste conceitual solicita-se aos estudantes que individualmente escolham uma alternativa e pensem em uma justificativa com base nos argumentos desenvolvidos na aula (cerca de 2 minutos).
+Para que os alunos se comprometam com a resposta escolhida e se tornem respons´ aveis pela sua pr´ opria aprendizagem, na sequˆ encia ´ e realizada uma vota¸ c˜ ao individual.
+Essa vota¸ c˜ ao pode ser realizada a partir de diferentes sistemas de respostas, como os Flashcards (cart˜ oes de resposta), os Clickersr,5aplicativos para dispositivos com acesso ` a internet ou ainda com os Plickersr.6 Conforme a distribui¸ c˜ ao das respostas, o professor pode prosseguir a aula de diferentes maneiras.
+Quando a frequˆ encia de acertos for maior que 70% ´ e aconselhado que o docente explique a quest˜ ao e prossiga apresentando outra quest˜ ao do mesmo assunto ou reiniciando o processo para um novo conceito, isto ´ e, realizando uma nova breve exposi¸ c˜ ao dialogada e apresentando uma quest˜ ao conceitual de um novo ponto-chave.
+Para uma 4OJust-in-Time Teaching ou Ensino sob medida ´ e um m´ etodo de ensino proposto em 1996 por Gregory M. Novak que recomenda o uso de tarefas de leitura previamente ` a aula para tornar o aluno correspons´ avel pela sua aprendizagem (G. M. Novak, Justin-Time Teaching: Blending Active Learning with Web Technology (Prentice Hall, Upper Saddle River, NJ, 1999) v.1).
+5Controles eletrˆ onicos individuais para os alunos que se comunicam por r´ adio frequˆ encia com um receptor ligado ao computador do professor.
+6Cart˜ oes com c´ odigos, detect´ aveis por smartphones .
+Dispon´ ıvel em: DOI: Revista Brasileira de Ensino de F´ ısica, vol.
+43, e20210070, 2021e20210070-4 Inova¸ c˜ ao did´ atica no Ensino de F´ ısica frequˆ encia de acertos menor que 30% ´ e sugerida uma revis˜ ao dos conceitos apresentados a fim de esclarecer poss´ ıveis d´ uvidas dos estudantes, seguida de uma nova quest˜ ao.
+´E desej´ avel, para o bom desenvolvimento do m´ etodo, que a frequˆ encia de acertos fique entre 30% e 70%.
+Nesse cen´ ario, ´ e recomendado organizar os alunos em pequenos grupos (dois a quatro alunos), preferencialmente que tenham escolhido respostas diferentes, e pedir que eles tentem convencer uns aos outros de porque sua resposta ´ e a correta (durante cerca de trˆ es minutos).
+Ap´ os a discuss˜ ao, outra vota¸ c˜ ao individual ´ e realizada e o professor explica a solu¸ c˜ ao para a quest˜ ao ` a turma.
+O professor pode optar por prosseguir a aula realizando outros testes conceituais do mesmo t´ opico ou reiniciando o processo com uma breve exposi¸ c˜ ao dialogada a respeito de um novo ponto-chave.
+Tais recomenda¸ c˜ oes visam promover a compreens˜ ao conceitual a partir da argumenta¸ c˜ ao, bem como possibilitar que um aluno aprenda com o outro.
+Em revis˜ ao da literatura sobre a implementa¸ c˜ ao do IpC, M¨ uller, Araujo, Veit e Schell [6] evidenciaram que a maioria das pesquisas s˜ ao conduzidas em universidades norte-americanas, com destaque ` as disciplinas de F´ ısica.
+Os impactos da ado¸ c˜ ao do m´ etodo, conforme relatados na literatura, foram positivos tanto na aprendizagem conceitual dos estudantes, como na habilidade de resolu¸ c˜ ao de problemas e no desempenho acadˆ emico.
+Al´ em disso, a maioria dos estudos apontam que os estudantes desenvolvem sentimentos positivos com rela¸ c˜ ao ao m´ etodo e a sua aprendizagem dos conte´ udos.
+Em rela¸ c˜ ao ` a implementa¸ c˜ ao do IpC investigada nessa revis˜ ao, foram constatadas modifica¸ c˜ oes realizadas pelos professores, como a integra¸ c˜ ao do m´ etodo com outras metodologias e mudan¸ cas nas etapas do IpC.
+Segundo os autores, as modifica¸ c˜ oes, apesar de demonstrarem a flexibilidade do m´ etodo, tamb´ em apontam a necessidade de uma investiga¸ c˜ ao dos impactos dessas modifica¸ c˜ oes nos contextos em que s˜ ao implementadas.
+Nesse sentido, Dancy, Henderson e Turpen [8] realizaram entrevistas com 35 professores universit´ arios de F´ ısica para analisar como eles tomaram conhecimento e implementaram o m´ etodo de ensino IpC.
+Para isso, os autores se fundamentaram na Teoria da Difus˜ ao de Inova¸ c˜ oes (TDI) [18], mesmo referencial que adotamos em nossa pesquisa.
+Ap´ os a defini¸ c˜ ao de nove elementos7 7Os elementos, validados pelo Prof. Eric Mazur, desenvolvedor do m´ etodo, s˜ ao: (i) o professor adapta suas a¸ c˜ oes ` as respostas dos alunos ` as tarefas desenvolvidas em classe; (ii) os alunos n˜ ao s˜ ao avaliados nas tarefas de aula; (iii) os estudantes tˆ em um tempo para pensar individualmente e se comprometer com uma resposta ` a tarefa antes de discutir com os colegas; (iv) s˜ ao utilizadas quest˜ oes conceituais na sala de aula; (v) as quest˜ oes conceituais se baseiam em ideias pr´ evias comuns e dificuldades dos alunos; (vi) as quest˜ oes de sala de aula s˜ ao de m´ ultipla escolha; (vii) as tarefas s˜ ao intercaladas ao longo da aula; (viii) os alunos discutem suas ideias a respeito das respostas ` as atividades com os seus colegas; (ix) os estudantes votam individualmente ap´ os a discuss˜ ao entre os colegas.que comp˜ oem o m´ etodo, os autores organizaram os docentes, considerando a quantidade de elementos utilizados do IpC, em trˆ es categorias: N˜ ao Usu´ arios (NU) – n˜ ao usam os elementos (N = 10); Usu´ arios H´ ıbridos (UH) – usam entre 1 e 6 elementos (N = 18); e Usu´ arios Plenos (UP) – usam entre 7 e 9 elementos (N = 7).
+Como resultado, os autores constataram que os docentes n˜ ao est˜ ao conscientes dos princ´ ıpios b´ asicos e modificam elementos essenciais do m´ etodo.
+Por exemplo, dentre os usu´ arios h´ ıbridos: apenas 20% reportaram o comprometimento individual com uma resposta ` a quest˜ ao proposta em aula; 40% argumentaram que raramente ou nunca pedem aos estudantes para discutirem entre si; e apenas 10% pediram para que os estudantes votassem ap´ os a discuss˜ ao.
+Em outra pesquisa, os mesmos pesquisadores do estudo anterior avaliaram as barreiras e vantagens percebidas por esses 35 professores de F´ ısica universit´ aria, familiarizados com o IpC.
+A partir de entrevistas com rela¸ c˜ ao ` a implementa¸ c˜ ao do m´ etodo e da organiza¸ c˜ ao dos docentes, definida no artigo de Dancy, Henderson e Turpen [8], Turpen, Dancy e Henderson [23] evidenciaram que os docentes percebem vantagens em alinhar suas pr´ aticas ao IpC, especialmente, porque o IpC n˜ ao ´ e centrado em aulas expositivas (mencionado por 6/7 UP e 14/18 UH) e por vivenciar experiˆ encias positivas com o m´ etodo (5/7 UP, 10/18 UH e 5/10 NU) no passado.
+Em contrapartida, as raz˜ oes mais comuns para que os docentes n˜ ao utilizem o IpC s˜ ao: o tempo para mudan¸ ca da pr´ atica docente (10/18 UH e 9/10 NU), a dificuldade de cobrir todo o conte´ udo requerido institucionalmente (9/18 UH e 5/10 NU) e a dificuldade para engajar os alunos nas atividades (7/7 UP).
+Dessa maneira, ´ e poss´ ıvel notar que as barreiras percebidas por UP e UH s˜ ao diferentes das percebidas pelos n˜ ao usu´ arios do m´ etodo.
+Em geral, aqueles que utilizam o m´ etodo percebem barreiras em rela¸ c˜ ao ` a implementa¸ c˜ ao, como a sele¸ c˜ ao de boas quest˜ oes conceituais que gerem discuss˜ oes entre os alunos; j´ a aqueles que n˜ ao utilizam o IpC relatam dificuldades relacionadas ` a falta de tempo.
+Outros estudos que analisam a implementa¸ c˜ ao de inova¸ c˜ oes did´ aticas de modo geral apontam uma defasagem entre o recomendado pelos pesquisadores e a pr´ atica dos professores, sobretudo em n´ ıvel universit´ ario.
+Por exemplo, Henderson e Dancy [24] indicam a interpreta¸ c˜ ao errˆ onea dos m´ etodos e a baixa confian¸ ca em pesquisas em Ensino de F´ ısica como poss´ ıveis barreiras ` a ado¸ c˜ ao de uma inova¸ c˜ ao did´ atica.
+J´ a Henderson [24] utilizou a TDI como ponto de partida para compreender o processo de mudan¸ ca e identificar as barreiras enfrentadas por um professor ao adotar m´ etodos interativos de ensino.
+Como resultado desse estudo o autor aponta a falta de compreens˜ ao dos princ´ ıpios do m´ etodo por parte do docente como fator limitante para a ado¸ c˜ ao de inova¸ c˜ oes.
+Al´ em disso, ele indica as cren¸ cas de ensino aprendizagem e o planejamento otimista das atividades Revista Brasileira de Ensino de F´ ısica, vol.
+43, e20210070, 2021 DOI: et al.
+e20210070-5 como barreiras do professor para inovar em sala de aula.
+Em estudo similar, Henderson e Dancy [10] indicam que existem diferentes expectativas sobre o uso dos m´ etodos de ensino entre docentes e pesquisadores.
+Ainda, Henderson e Dancy [25], ao realizarem um estudo com cinco docentes de F´ ısica, detectaram alguns fatores situacionais que limitavam a ado¸ c˜ ao de um m´ etodo interativo de ensino, apesar de cren¸ cas docentes compat´ ıveis.
+S˜ ao eles: atitude negativa dos estudantes em rela¸ c˜ ao ` a universidade; expectativa do professor de cobrir todo o conte´ udo; falta de tempo; normas do departamento; resistˆ encia dos estudantes quanto ` a intera¸ c˜ ao com outros colegas; quantidade de estudantes e a disposi¸ c˜ ao tradicional das salas.
+Dancy e Henderson [26] tamb´ em identificaram a resposta pouco favor´ avel dos estudantes aos m´ etodos interativos, a preocupa¸ c˜ ao de cumprir o programa da disciplina e a necessidade de tempo para a prepara¸ c˜ ao dos materiais para as aulas como dificuldades enfrentadas pelos professores ao tentar inovar.
+E ainda identificaram como barreira o sentimento do professor de que suas modifica¸ c˜ oes n˜ ao estavam ocorrendo da maneira esperada.
+Pundak e Rozner [27] ao realizar um estudo, amparados pela TDI, em que investigaram o processo de implementa¸ c˜ ao de m´ etodos ativos por professores de F´ ısica e C´ alculo, identificaram dificuldades relacionadas ao uso de tecnologias e ao tempo para implementa¸ c˜ ao dos m´ etodos e prepara¸ c˜ ao dos materiais das aulas.
+Em contexto brasileiro, um estudo emp´ ırico em duas universidades p´ ublicas, realizado por M¨ uller [9], identificou que o IpC tamb´ em sofreu modifica¸ c˜ oes ao longo do tempo.
+Segundo o autor, tais modifica¸ c˜ oes foram realizadas devido ` as cren¸ cas dos docentes, ` a dificuldade de cumprir o cronograma de conte´ udos da disciplina, aos contextos de ensino e ` as suas experiˆ encias anteriores e necessidades espec´ ıficas.
+Como elemento auxiliar para uma implementa¸ c˜ ao bem-sucedida e continua¸ c˜ ao do uso de inova¸ c˜ oes did´ aticas, M¨ uller [9], Henderson, Beach e Famiano [28] e Wieman, Deslaurius e Gilley [29] apresentam o suporte de um professor experiente.
+M¨ uller [9] recomenda que haja di´ alogo e uma maior proximidade entre o pesquisador (agente inovador), que tem experiˆ encia com a inova¸ c˜ ao, e o adotante, que conhece as condi¸ c˜ oes materiais que possibilitam, ou dificultam, a mudan¸ ca em seu contexto.
+Tais resultados corroboram a hip´ otese de Henderson, Dancy e Niewiadomska-Bugaj [30] de que a falta de suporte para implementa¸ c˜ ao e enfrentamento dos problemas que surgem naturalmente ao mudar a pr´ atica docente ´ e a causa que leva a professores que conhecem uma ou mais estrat´ egias inovadoras nunca a testarem ou descontinuarem ap´ os utiliz´ a-la.
+Todos esses estudos apresentados evidenciam a ocorrˆ encia e necessidade de modifica¸ c˜ oes nos m´ etodos de ensino, sobretudo no IpC, e indicam diversas barreiras relacionadas aos processos de ado¸ c˜ ao e reinven¸ c˜ ao da inova¸ c˜ ao.
+No entanto, poucos foram os estudosidentificados que analisaram as mudan¸ cas e dificuldades em contexto brasileiro de ensino.
+Teoria da Difus˜ ao de Inova¸ c˜ ao Em 1962, o soci´ ologo Everett Rogers propˆ os a Teoria da Difus˜ ao de Inova¸ c˜ oes, atrav´ es do livro Diffusion of Innovations [18].
+Rogers, em sintonia com os demais estudiosos sobre difus˜ ao da ´ epoca, reconhece que a decis˜ ao de um indiv´ ıduo inovar n˜ ao ´ e instantˆ anea, mas sim um processo com diferentes a¸ c˜ oes.
+O autor inicia o primeiro cap´ ıtulo do livro declarando que " Adotar uma nova ideia, mesmo quando apresenta vantagens ´ obvias, ´ e dif´ ıcil. "
+Para Rogers uma inova¸ c˜ ao pode ser entendida como "uma ideia, pr´ atica ou objeto que ´ e percebido como novo por um indiv´ ıduo, organiza¸ c˜ ao ou outra unidade de ado¸ c˜ ao . "
+Ou seja, a novidade de uma inova¸ c˜ ao ´ e relativa ` a unidade de ado¸ c˜ ao que ir´ a adot´ ala ou n˜ ao, sem necessidade de envolver apenas novos conhecimentos.
+Dessa forma, um indiv´ ıduo " pode ter conhecimento de uma inova¸ c˜ ao h´ a algum tempo, mas ainda n˜ ao desenvolveu uma atitude favor´ avel ou desfavor´ avel em rela¸ c˜ ao a ela, nem a adotou ou a rejeitou. "
+Em outras palavras, a "novidade" de uma inova¸ c˜ ao pode acontecer tanto ao conhecer, ser persuadido a experiment´ a-la ou decidir adot´ a-la.
+Parte das inova¸ c˜ oes em que se analisa a difus˜ ao s˜ ao consideradas inova¸ c˜ oes tecnol´ ogicas.
+No entanto, o autor destaca a distin¸ c˜ ao dos conceitos de "inova¸ c˜ ao" e "tecnologia" .
+Uma tecnologia " ´ e um projeto de a¸ c˜ ao instrumental que reduz a incerteza nas rela¸ c˜ oes de causaefeito envolvidas na obten¸ c˜ ao do resultado desejado . "
+Ou seja, tecnologia ´ e um tipo de informa¸ c˜ ao sobre a inova¸ c˜ ao que reduz a incerteza sobre ela.
+Al´ em disso, Rogers destaca dois componentes da tecnologia: i)ohardware , que consiste em ferramentas materiais da inova¸ c˜ ao tecnol´ ogica; e ii)osoftware , que ´ e a base de informa¸ c˜ oes e conhecimentos sobre essas ferramentas.
+No presente estudo, entendemos as inova¸ c˜ oes did´ aticas como inova¸ c˜ oes tecnol´ ogicas.
+Nesse sentido, as estrat´ egias pr´ aticas dos m´ etodos de ensino constituem ohardware , o qual incorpora elementos te´ oricos que o sustentam ( software ), que chamamos aqui de princ´ ıpios pedag´ ogicos.
+Rogers [18] apresenta um modelo de decis˜ ao pela inova¸ c˜ ao que consiste em uma s´ erie de a¸ c˜ oes diferentes que ocorrem ao longo do tempo, uma vez que a decis˜ ao de inova¸ c˜ ao de um indiv´ ıduo ou organiza¸ c˜ ao n˜ ao ´ e um ato instantˆ aneo.
+O modelo proposto possui cinco etapas: conhecimento, persuas˜ ao, decis˜ ao, implementa¸ c˜ ao e confirma¸ c˜ ao .
+Cabe salientar que essas etapas n˜ ao ocorrem, necessariamente, nessa ordem; e algumas delas podem ocorrer de forma simultˆ anea.
+Previamente aos primeiros conhecimentos sobre uma inova¸ c˜ ao, isto ´ e, ao in´ ıcio do processo de decis˜ ao, a unidade de ado¸ c˜ ao deve satisfazer alguns dos DOI: Revista Brasileira de Ensino de F´ ısica, vol.
+43, e20210070, 2021e20210070-6 Inova¸ c˜ ao did´ atica no Ensino de F´ ısica seguintes pr´ e-requisitos: perceber uma necessidade ou problema; possuir uma personalidade inovadora; apresentar pr´ aticas anteriores compat´ ıveis com a inova¸ c˜ ao; e contar com normas sociais que legitimem a incorpora¸ c˜ ao da nova pr´ atica, ideia ou objeto.
+Para o autor, as normas sociais s˜ ao padr˜ oes de comportamento estabelecidos para os membros de um sistema social [18] (p. 26).
+Dessa forma, essas normas acabam por definir uma variedade de comportamentos toler´ aveis e esperados para os membros do sistema social em quest˜ ao.
+Nesse sentido, entendemos que os professores que investigamos ao implementarem seus PEs em sala de aula foram guiados por diversas normas sociais.
+Ou seja, seu comportamento e consequentemente suas a¸ c˜ oes em sala de aula foram, em parte, definidas previamente pelos membros do sistema social ao qual pertencem, pela institui¸ c˜ ao em que atuavam.
+Atendidos os pr´ e-requisitos pelo poss´ ıvel adotante, o processo de ado¸ c˜ ao de inova¸ c˜ oes come¸ ca com o conhecimento .
+Nessa etapa, a unidade de ado¸ c˜ ao ´ e exposta a uma inova¸ c˜ ao e passa a obter alguns conhecimentos sobre o seu funcionamento e seus princ´ ıpios.
+Apesar da busca por informa¸ c˜ oes estar concentrada na fase do conhecimento, ´ e poss´ ıvel que uma inova¸ c˜ ao seja utilizada sem que o adotante adquira, em qualquer das etapas, algum conhecimento acerca de seus princ´ ıpios.
+Nesses casos, seu uso ´ e suscet´ ıvel a falhas e pode resultar na descontinua¸ c˜ ao.
+A segunda fase, da persuas˜ ao, consiste na forma¸ c˜ ao de uma atitude (des)favor´ avel da unidade de ado¸ c˜ ao com rela¸ c˜ ao ` a inova¸ c˜ ao, buscando ativamente informa¸ c˜ oes sobre a nova ideia e as interpretando.
+E, para Rogers [18], essas atitudes s˜ ao consideradas influenciadas por cinco caracter´ ısticas principais da inova¸ c˜ ao percebidas pelo adotante.
+S˜ ao elas: vantagem relativa (grau em que uma inova¸ c˜ ao ´ e percebida como melhor que a estrat´ egia antecessora, a ser substitu´ ıda); compatibilidade (grau que uma inova¸ c˜ ao ´ e compat´ ıvel com os valores existentes, experiˆ encias precedentes e necessidades percebidas); complexidade (grau que uma inova¸ c˜ ao ´ e percebida como dif´ ıcil de utilizar e/ou entender); testabilidade (grau que uma inova¸ c˜ ao pode ser experimentada, em uma base limitada); observabilidade/visibilidade (grau em que os resultados de uma inova¸ c˜ ao s˜ ao vis´ ıveis para outros indiv´ ıduos).
+A etapa da decis˜ ao ´ e o momento em que a unidade de ado¸ c˜ ao se envolve em atividades, como conversas com os pares experientes ou observa¸ c˜ oes de colegas durante a implementa¸ c˜ ao ( i.e., experiˆ encia vic´ aria ), que levam ` a escolha da ado¸ c˜ ao ou rejei¸ c˜ ao da inova¸ c˜ ao.
+A etapa daimplementa¸ c˜ ao inicia quando a unidade de decis˜ ao coloca em pr´ atica uma inova¸ c˜ ao.
+Essa fase envolve uma mudan¸ ca de comportamento do adotante, bem como evidencia os problemas de como efetivamente colocar em pr´ atica a inova¸ c˜ ao.
+´E esperado que a maior parte das reinven¸ c˜ oes ocorram durante a implementa¸ c˜ ao.
+Para Rogers [18] reinven¸ c˜ ao ´ e " o grau em que uma inova¸ c˜ ao ´ e alterada ou modificada por um usu´ ario noprocesso de ado¸ c˜ ao e implementa¸ c˜ ao . "
+´E esperado que uma inova¸ c˜ ao, ao ser adotada, seja alterada ou adaptada em certo grau para atender as especificidades do contexto em que ser´ a implementada.
+No entanto, modifica¸ c˜ oes mais profundas, que desarticulam os princ´ ıpios que sustentam as qualidades da inova¸ c˜ ao, podem chegar ao ponto de n˜ ao modificar, ou at´ e piorar, a pr´ atica antecessora.
+´E importante frisar que adotar uma nova ideia, pr´ atica ou objeto n˜ ao significa implementar um padr˜ ao r´ ıgido estabelecido pela inova¸ c˜ ao, mas sim implement´ a-la ativamente, personalizando-a para atender as especificidades de um contexto particular.
+Nesse sentido, reinven¸ c˜ oes naturalmente ocorrem e uma forma de identific´ a-las ´ e aferir " o n´ umero de elementos em cada implementa¸ c˜ ao de uma inova¸ c˜ ao que s˜ ao similares, ou diferentes, da vers˜ ao principal da inova¸ c˜ ao " [18] (p. 184).
+´E justamente desta maneira que a nossa pesquisa avaliou quais reinven¸ c˜ oes mais frequentes realizadas pelos docentes ao adotar o IpC.
+Ou seja, para determinar se houve reinven¸ c˜ ao do m´ etodo avaliamos o uso de cada caracter´ ıstica percebida como essencial a ele.
+Por fim, vale salientar que a reinven¸ c˜ ao n˜ ao ocorre exclusivamente durante a implementa¸ c˜ ao, por´ em esse ´ e o momento em que ´ e mais prov´ avel que ocorra.
+A ´ ultima etapa do processo de decis˜ ao de inova¸ c˜ ao consiste na confirma¸ c˜ ao (refor¸ co da sua decis˜ ao pela ado¸ c˜ ao) ou descontinua¸ c˜ ao (rejei¸ c˜ ao da inova¸ c˜ ao) da inova¸ c˜ ao.
+Para Rogers [18], a descontinua¸ c˜ ao pode ser devido ao conhecimento de outra ideia melhor, ou pela insatisfa¸ c˜ ao com os resultados da inova¸ c˜ ao.
+E, tal insatisfa¸ c˜ ao pode ser pelo uso inadequado da inova¸ c˜ ao que pode levar o adotante a n˜ ao perceber vantagem relativa em sua ado¸ c˜ ao.
+Metodologia Para responder ` a quest˜ ao de pesquisa deste estudo inicialmente foi realizada uma an´ alise de conte´ udo [19] das disserta¸ c˜ oes e PEs de professores que implementaram o IpC em aulas com temas de F´ ısica durante o MPE, entre 2004 e 2020.
+Devido ` a ausˆ encia de informa¸ c˜ oes sobre a implementa¸ c˜ ao de v´ arias caracter´ ısticas do m´ etodo, em alguns documentos, foi necess´ ario realizar uma coleta de dados adicionais.
+Para isso elaboramos um question´ ario com quest˜ oes baseadas nas etapas de implementa¸ c˜ ao e confirma¸ c˜ ao de Rogers [18] e nas categorias definidas para a an´ alise, expostas na Se¸ c˜ ao 4.1.
+A seguir apresentamos o delineamento metodol´ ogico para a an´ alise de conte´ udo das disserta¸ c˜ oes e, na sequˆ encia, o delineamento para coleta e an´ alise dos dados adicionais, a partir da cria¸ c˜ ao e aplica¸ c˜ ao do question´ ario.
+An ´alise de conte ´udo das dissertac ¸ ˜oes Para realiza¸ c˜ ao do estudo das disserta¸ c˜ oes e PEs, adotamos as orienta¸ c˜ oes metodol´ ogicas da an´ alise de conte´ udo Revista Brasileira de Ensino de F´ ısica, vol.
+43, e20210070, 2021 DOI: et al.
+e20210070-7 de Laurence Bardin [19].
+A proposta metodol´ ogica da autora prevˆ e trˆ es fases: (i) pr´ e-an´ alise ; (ii) explora¸ c˜ ao do material ; (iii) tratamento dos resultados, inferˆ encia e interpreta¸ c˜ ao .
+A primeira etapa, pr´ e-an´ alise, consiste na organiza¸ c˜ ao, na qual inicialmente ocorre a escolha dos documentos a serem analisados e se realiza uma leitura flutuante para tomar o primeiro contato e definir objetivos, caso n˜ ao estejam previamente definidos.
+A segunda etapa, explora¸ c˜ ao do material , corresponde a an´ alise propriamente dita, onde ocorre a execu¸ c˜ ao dos objetivos definidos na pr´ e-an´ alise, ou antes do in´ ıcio do estudo.
+Nessa etapa s˜ ao criadas as categorias ou adaptadas aquelas definidas a priori , e realizada a codifica¸ c˜ ao , que possibilita uma representa¸ c˜ ao dos resultados das mensagens analisadas.
+A terceira e ´ ultima etapa , tratamento dos resultados, inferˆ encia e interpreta¸ c˜ ao , pode ser entendida como a s´ ıntese e sele¸ c˜ ao dos resultados, colocando em relevo as informa¸ c˜ oes encontradas com a an´ alise; e a respectiva interpreta¸ c˜ ao, propondo uma nova an´ alise ou utilizando os resultados para fins te´ oricos ou pragm´ aticos.
+A primeira e segunda etapa da an´ alise de conte´ udo realizadas no presente estudo s˜ ao apresentadas a seguir e a terceira etapa corresponde ` a se¸ c˜ ao de resultados e discuss˜ oes.
+(i) Pr ´e-an´alise A sele¸ c˜ ao dos materiais se deu com base no nosso objetivo de analisar as reinven¸ c˜ oes e justificativas relatadas em disserta¸ c˜ oes de MPE e PEs, em que os professores, autores, utilizaram o m´ etodo IpC em aulas com temas de F´ ısica.
+Realizamos a busca pelas disserta¸ c˜ oes no Cat´ alogo de Teses e Disserta¸ c˜ oes da CAPES e em planilhas de dados sobre o MNPEF dispon´ ıveis na plataforma Sucupira, publicadas no per´ ıodo de 2004 (ano de publica¸ c˜ ao das primeiras disserta¸ c˜ oes do MPE) a 2020.
+Restringimos o escopo da sele¸ c˜ ao das disserta¸ c˜ oes apenas para aquelas que relatavam a implementa¸ c˜ ao do IpC durante o MPE em aulas de F´ ısica.
+Para identificar esses documentos utilizamos, no cat´ alogo da CAPES, os seguintes termos de busca: "Instru¸ c˜ ao pelos Colegas" OR "Instru¸ c˜ ao pelos Pares" OR "Instru¸ c˜ ao por Pares" OR "Peer Instruction" .8Nas planilhas a busca foi feita manualmente a partir da leitura de todos os t´ ıtulos e resumos.
+Elegemos assim 45 disserta¸ c˜ oes de MPE com temas de F´ ısica que relatavam a implementa¸ c˜ ao do m´ etodo selecionado.
+(ii) Explorac ¸ ˜ao do material Com o objetivo de responder ` a quest˜ ao de pesquisa proposta, em que buscamos identificar as principais mo8Descritores escolhidos com base nos conceitos identificados em artigos e livro de divulga¸ c˜ ao da metodologia ativa escolhida.difica¸ c˜ oes no m´ etodo e as raz˜ oes para as mudan¸ cas, elaboramos 11 categorias que representam caracter´ ısticas fundamentais do Peer Instruction .
+Elas foram adaptadas das categorias propostas por Dancy e colaboradores [8, 23].
+A categoriza¸ c˜ ao foi realizada atrav´ es do recorte das unidades de registro e de contexto9no texto digital das disserta¸ c˜ oes e PEs importados para o software de an´ alise dados qualitativos Nvivor12.
+As categorias usadas em nossa an´ alise foram: (C1) Prepara¸ c˜ ao pr´ evia como indicado pelo m´ etodo; (C2) An´ alise das respostas dos alunos ` a prepara¸ c˜ ao pr´ evia; (C3) Exposi¸ c˜ oes orais breves; (C4) Quest˜ oes intercaladas com exposi¸ c˜ oes orais; (C5) Reflex˜ ao individual do estudante para cada teste conceitual; (C6) Primeira vota¸ c˜ ao dos testes conceituais individual; (C7) Discuss˜ ao entre os colegas; (C8) Segunda vota¸ c˜ ao dos testes conceituais individual; (C9) Aplica¸ c˜ ao de testes conceituais em sala de aula; (C10) Quest˜ oes em sala de aula, testes conceituais, n˜ ao s˜ ao pontuadas por acerto e erro; (C11) Tarefas de prepara¸ c˜ ao pr´ evia s˜ ao avaliadas apenas por esfor¸ co ou participa¸ c˜ ao.
+Dentre os motivos para adapta¸ c˜ ao das categorias est´ a o fato de que as caracter´ ısticas originais, propostas por Dancy, Henderson e Turpen [8] eram utilizadas para an´ alise in loco, isto ´ e, n˜ ao foram propostas visando a an´ alise de relatos escritos.
+Ademais, a partir da leitura flutuante e primeira tentativa de recorte e categoriza¸ c˜ ao, percebemos a necessidade de maior especifica¸ c˜ ao dos elementos do m´ etodo.
+Tais mudan¸ cas foram realizadas para estabelecer a pertinˆ encia e a homogeneidade das categorias.
+A produtividade, objetividade e fidelidade influenciaram na decis˜ ao de criar categorias objetivas para cada uma das a¸ c˜ oes propostas no m´ etodo sustentadas por princ´ ıpios pedag´ ogicos.
+Em nosso estudo, os referidos princ´ ıpios correspondem ` a base de informa¸ c˜ oes do m´ etodo de ensino, relacionados ` a componente denominada software por Rogers, conforme apontado na se¸ c˜ ao 3.
+Os princ´ ıpios pedag´ ogicos do m´ etodo, e as categorias que se relacionam a cada um deles, s˜ ao apresentados no Quadro 1.
+De acordo com as informa¸ c˜ oes expostas no Quadro 1, ´ e poss´ ıvel notar que, por exemplo, o sistema de vota¸ c˜ ao adotado (e.g., clickers, flashcards, plickers ) n˜ ao se caracteriza como um elemento fundamental do m´ etodo, pois n˜ ao est´ a associado aos princ´ ıpios pedag´ ogicos, caracterizando-se em um aspecto meramente t´ ecnico.
+9Uma unidade de registro corresponde ao fragmento do conte´ udo que possibilita a categoriza¸ c˜ ao e a contagem frequencial.
+E uma unidade de contexto representa o trecho, que compreende a unidade de registro, que possibilita compreender a significa¸ c˜ ao exata da unidade de registro.
+DOI: Revista Brasileira de Ensino de F´ ısica, vol.
+43, e20210070, 2021e20210070-8 Inova¸ c˜ ao did´ atica no Ensino de F´ ısica Quadro 1: Princ ´ıpios pedag ´ogicos que sustentam cada caracter ´ıstica (categoria) do Peer Instruction .∗ Princ´ ıpio pedag´ ogico C1 C2 C3 C4 C5 C6 C7 C8 C9 C10 C11 Um estudante pode aprender com o outro.
+x O desenvolvimento do pensamento cr´ ıtico e da habilidade de argumenta¸ c˜ ao dos alunos pode auxiliar na compreens˜ ao conceitual dos conte´ udos.x x O engajamento cognitivo dos discentes com atividades de ensino auxilia na promo¸ c˜ ao da aprendizagem.x x x x Melhores resultados de aprendizagem podem ser alcan¸ cados se os alunos forem correspons´ aveis por ela.x x x x x x O tempo em sala de aula deve ser valorizado com o engajamento ativo dos estudantes nas atividades.x x x x x x A disponibilidade de tempo para que cada estudante reflita sobre os conceitos, no seu pr´ oprio ritmo, auxilia na aprendizagem.x x x Avalia¸ c˜ oes formativas auxiliam na aprendizagem.
+x x O desenvolvimento de h´ abitos de estudo auxilia na aprendizagem.x x A compreens˜ ao conceitual ´ e fundamental na aprendizagem de F´ ısica e auxilia na resolu¸ c˜ ao de problemas.x x x x Os conhecimentos pr´ evios dos alunos s˜ ao essenciais para a aprendizagem.x x x ∗Este quadro foi elaborado a partir da investiga¸ c˜ ao apresentada em F. Percheron, A.A. Petter, T. Espinosa e I.S.
+Araujo, Ensino de Ciˆ encias e Tecnologia em Revista, no prelo (2021).
+Por outro lado, o que corresponde a uma categoria fundamentada ´ e o registro individual dessas respostas.
+Cada trabalho foi avaliado de acordo com poss´ ıveis altera¸ c˜ oes detectadas durante a an´ alise de informa¸ c˜ oes pertinentes a cada categoria, com a seguinte escala: "Modificado"; "Original"; "Sem informa¸ c˜ ao"; e "N˜ ao se aplica" .
+Os itens "Modificado" e "Original" se referem ` a compara¸ c˜ ao das a¸ c˜ oes implementadas nas disserta¸ c˜ oes e PEs em rela¸ c˜ ao ao que ´ e preconizado pelo autor do m´ etodo IpC em seus trabalhos.
+Foram classificados como "Sem informa¸ c˜ ao" os textos cujos autores n˜ ao mencionaram, direta ou indiretamente, quaisquer ind´ ıcios que possibilitassem a inferˆ encia de aplica¸ c˜ ao ou n˜ ao da categoria em an´ alise.
+J´ a a classifica¸ c˜ ao "N˜ ao se aplica" foi empregada em situa¸ c˜ oes em que uma modifica¸ c˜ ao em uma categoria levou a ausˆ encia da caracter´ ıstica em an´ alise.
+Por exemplo, quando constatado que o autor n˜ ao utilizou a tarefa de prepara¸ c˜ ao pr´ evia (C1) n˜ ao faz sentido aferir se o mesmo avaliou a atividade pr´ evia dos alunos para constru¸ c˜ ao de suas exposi¸ c˜ oes orais (C2), ou se atribuiu pontos pela realiza¸ c˜ ao da mesma (C11).
+A partir dessas classifica¸ c˜ oes foi poss´ ıvel identificar a frequˆ encia com que as caracter´ ısticas sofreram modifica¸ c˜ oes.
+Tal procedimento viabilizou um melhor direcionamento na elabora¸ c˜ ao do question´ ario, uma vezque evidenciou quais categorias apresentaram um maior n´ umero de modifica¸ c˜ oes, sem raz˜ oes expl´ ıcitas, e quais a¸ c˜ oes previstas no m´ etodo IpC cujo relato textual das disserta¸ c˜ oes e PEs n˜ ao trouxe informa¸ c˜ oes suficientes para se avaliar como foram implementadas.
+Coleta de dados adicionais – question ´ario A coleta de dados adicionais se deu com a implementa¸ c˜ ao de um question´ ario (vide Material Suplementar) elaborado com base nos resultados da an´ alise de conte´ udo e no referencial te´ orico.
+Buscamos complementar as informa¸ c˜ oes j´ a obtidas sobre a implementa¸ c˜ ao do IpC pelos professores do MPE.
+Tamb´ em inclu´ ımos perguntas sobre a continuidade do uso do m´ etodo ap´ os o t´ ermino do mestrado.
+Para verificar se as quest˜ oes do question´ ario correspondiam ` as nossas expectativas com a pesquisa solicitamos que dois professores, doutores em ensino de F´ ısica, fizessem a valida¸ c˜ ao do seu conte´ udo.
+Para fins de refino do instrumento, realizamos uma aplica¸ c˜ ao piloto do question´ ario com dois professores participantes do estudo, que nos enviaram coment´ arios sobre o entendimento das quest˜ oes.
+Por fim, fizemos os devidos ajustes e convidamos todos os autores das disserta¸ c˜ oes selecionadas para o estudo, para respondˆ e-lo.
+Revista Brasileira de Ensino de F´ ısica, vol.
+43, e20210070, 2021 DOI: et al.
+e20210070-9 O question´ ario foi elaborado com base nas categorias estabelecidas para o estudo e disponibilizado aos professores no software LimeSurvey .10O instrumento cont´ em 22 quest˜ oes principais e outras 42 condicionadas ` as respostas das primeiras.
+Ou seja, o respondente ´ e direcionado ` a pr´ oxima quest˜ ao de acordo com as respostas que vai apresentando.
+Como exemplo temos as quest˜ oes 6.1, 6.3, 6.4, condicionadas a uma resposta afirmativa da quest˜ ao 6, que visam identificar como ocorre a prepara¸ c˜ ao pr´ evia (Vide Material Suplementar).
+Dentre as 64 quest˜ oes, trinta e duas est˜ ao relacionados ` as modifica¸ c˜ oes realizadas pelos professores durante o MPE (5–13 e quest˜ oes condicionadas), organizadas segundo as categorias de an´ alise, associadas com a etapa de implementa¸ c˜ ao do m´ etodo.
+Seis quest˜ oes abordam as raz˜ oes dessas mudan¸ cas durante o MPE (6.1.2; 6.5; 7.3; 12.1; 13.7; 13.5.2;).
+Outras nove quest˜ oes se referem ` a implementa¸ c˜ ao e confirma¸ c˜ ao do uso do m´ etodo (15 e quest˜ oes condicionadas), etapas do processo de decis˜ ao de inova¸ c˜ ao de Rogers em que as reinven¸ c˜ oes s˜ ao mais prov´ aveis.
+Nessa dimens˜ ao havia quest˜ oes sobre a descontinuidade ou continuidade do uso do m´ etodo (confirma¸ c˜ ao da inova¸ c˜ ao), a frequˆ encia de uso e as adapta¸ c˜ oes necess´ arias para continuar implementando o m´ etodo ap´ os a conclus˜ ao do MPE.
+Outras duas quest˜ oes englobam as dificuldades enfrentadas para inovar em sala de aula apenas durante o MPE (14) e com rela¸ c˜ ao a toda a experiˆ encia com o IpC (16), uma vez que entendemos as barreiras como poss´ ıvel justificativa para mudan¸ cas no m´ etodo.
+Para an´ alise, organizamos as respostas do question´ ario de acordo com as categorias definidas para o estudo.
+Essa organiza¸ c˜ ao foi realizada em uma tabela a qual j´ a hav´ ıamos gerado para organizar a classifica¸ c˜ ao das disserta¸ c˜ oes.
+Para distinguir os dados advindos do question´ ario e das disserta¸ c˜ oes adicionamos uma nova coluna para cada categoria, dessa forma uma coluna representava as classifica¸ c˜ oes originadas pela an´ alise dos relatos nas disserta¸ c˜ oes e a outra apresentava as classifica¸ c˜ oes derivadas das respostas ao question´ ario.
+Durante essa etapa foi necess´ ario criar mais uma classifica¸ c˜ ao para representar os casos em que o professor apresentou informa¸ c˜ oes diferentes na disserta¸ c˜ ao e nas respostas ao question´ ario (denominada "Indeterminado").
+Resultados e Discuss˜ oes Nesta se¸ c˜ ao apresentamos uma discuss˜ ao sobre as reinven¸ c˜ oes mais recorrentes realizadas no IpC e as justificativas para essas modifica¸ c˜ oes, bem como levantamos algumas hip´ oteses para os resultados encontrados, discutindo esses com a literatura pertinente.
+Os dados apresentados correspondem ` a articula¸ c˜ ao dos resultados da an´ alise das 45 disserta¸ c˜ oes e PEs com as respostas 10OLimesurvey ´ e um software livre para aplica¸ c˜ ao de question´ arios online , dispon´ ıvel em por 31 professores que se dispuseram a responder o question´ ario.
+Dos 45 professores do nosso estudo, seis realizaram mudan¸ cas em mais de 50% das categorias analisadas e apenas dois n˜ ao modificaram alguma caracter´ ıstica do m´ etodo (ID12; ID3711).
+Tal resultado corrobora com uma das asser¸ c˜ oes do estudo de Henderson e Dancy [7] que indicam a raridade de professores no contexto norteamericano de ensino que usam as estrat´ egias de ensino como recomendado pelo desenvolvedor.
+Al´ em disso, dos 14 participantes que n˜ ao indicaram modifica¸ c˜ oes na implementa¸ c˜ ao do IpC (quest˜ ao 5), apenas um (ID 12) realmente n˜ ao o fez, de acordo com nossa an´ alise das disserta¸ c˜ oes e respostas a outras quest˜ oes do question´ ario.
+Os outros 13 docentes modificaram pelo menos uma caracter´ ıstica.
+Cabe salientar que dois desses participantes, que n˜ ao admitiram realizar modifica¸ c˜ oes (ID10 e ID23), implementaram cinco mudan¸ cas, o que representa 45,5% de reinven¸ c˜ ao no m´ etodo.
+Ou seja, os professores, ao mudar algumas caracter´ ısticas do m´ etodo n˜ ao as relatam devido a um fator de esquecimento, relacionado com o tempo entre a implementa¸ c˜ ao e a aplica¸ c˜ ao do question´ ario, ou, ainda, por n˜ ao perceberem que uma mudan¸ ca foi realizada.
+Na Figura 1 apresentamos o panorama da frequˆ encia com que identificamos, para cada categoria as classifica¸ c˜ oes definidas.
+Essas classifica¸ c˜ oes levam em considera¸ c˜ ao a leitura das disserta¸ c˜ oes e PEs, bem como as informa¸ c˜ oes coletadas no question´ ario.
+Em sua maioria as classifica¸ c˜ oes "Sem informa¸ c˜ ao" est˜ ao relacionadas aos casos em que obtivemos acesso apenas ` a disserta¸ c˜ ao e ao PE.
+Frente a esse resultado sugerimos o uso de relatos mais detalhados, uma vez que esses podem possibilitar que futuros adotantes, a partir da leitura dos PEs ou disserta¸ c˜ ao, percebam e entendam as adapta¸ c˜ oes e dificuldades enfrentadas pelos autores durante a implementa¸ c˜ ao do(s) m´ etodo(s).
+Conforme mencionado na Se¸ c˜ ao 3, entendemos reinven¸ c˜ ao como o grau que uma caracter´ ıstica/inova¸ c˜ ao ´ e modificada [18].
+Portanto, inicialmente verificamos quantitativamente as altera¸ c˜ oes em cada categoria e, na sequˆ encia, as analisamos qualitativamente, buscando identificar o grau com que a adapta¸ c˜ ao afetou os princ´ ıpios pedag´ ogicos que sustentam o m´ etodo.
+Em rela¸ c˜ ao ao tipo de institui¸ c˜ ao de ensino (p´ ublico ou privado), n˜ ao encontramos diferen¸ cas significativas nas reinven¸ c˜ oes realizadas.
+Das 11 categorias que representam as caracter´ ısticas essenciais do IpC, trˆ es apresentaram uma quantidade significativa de modifica¸ c˜ oes (C4, C1, C9), pois mais de 50% dos professores as modificaram.
+Elas est˜ ao relacionadas com a prepara¸ c˜ ao pr´ evia, a dinˆ amica em sala de aula e a aplica¸ c˜ ao de quest˜ oes conceituais em sala.
+Outras duas categorias (C3 e C7), associadas ao tempo de exposi¸ c˜ ao oral e ao encaminhamento da discuss˜ ao entre 11Para garantir o anonimato, cada um dos 45 professores foi identificado com um c´ odigo, de ID01 at´ e ID45.
+DOI: Revista Brasileira de Ensino de F´ ısica, vol.
+43, e20210070, 2021e20210070-10 Inova¸ c˜ ao did´ atica no Ensino de F´ ısica Figura 1: Distribuic ¸ ˜ao do total de trabalhos, em cada categoria de an ´alise, em func ¸ ˜ao de alterac ¸ ˜oes introduzidas no m ´etodo IpC.
+Fonte: elaborado pelos autores.
+os alunos, foram alteradas por 17 e 16 docentes, respectivamente.
+Vale destacar que outras duas categorias relacionadas com a adapta¸ c˜ ao das aulas a partir das respostas dos alunos na prepara¸ c˜ ao pr´ evia (C2) e a atribui¸ c˜ ao de notas para essas tarefas (C11) demonstraram uma quantidade moderada de classifica¸ c˜ oes "N˜ ao se aplica", ou seja, n˜ ao foram implementadas devido ` a decis˜ ao do professor de modificar C1.
+Nas demais categorias, associadas ao momento de vota¸ c˜ ao (C6, C8) e reflex˜ ao dos testes conceituais (C5) e ` a pontua¸ c˜ ao dos TC (C10), a quantidade de modifica¸ c˜ oes n˜ ao foi muito expressiva (at´ e 10 participantes modificaram).
+A seguir descrevemos as altera¸ c˜ oes realizadas nas cinco categorias (C4, C1, C9, C3 e C7) em que as reinven¸ c˜ oes foram mais recorrentes e, quando identificado, apresentamos suas respectivas justificativas.
+Em alguns casos apresentados, um mesmo docente realizou mais de uma modifica¸ c˜ ao, ou seja, o total de reinven¸ c˜ oes ultrapassa 45, que representa o n´ umero total de professores que comp˜ oem a pesquisa.
+Ademais, um mesmo docente pode ter apontado mais de uma justificativa para a mesma reinven¸ c˜ ao.
+Mudanc ¸as em quest ˜oes intercaladas com exposic ¸ ˜oes orais (C4) Em rela¸ c˜ ao ` a C4 as mudan¸ cas identificadas nos trabalhos e nas respostas ao question´ ario, bem como as respectivas justificativas apresentadas pelos professores est˜ ao elencadas no Quadro 2.
+A mudan¸ ca mais comum, feita por 28 professores, foi RC4a.
+Ou seja, primeiro os docentes realizavam a exposi¸ c˜ ao oral de todo o conte´ udo da aula e depois aplicavam os TCs.
+Em alguns desses casos, o professor tamb´ em utilizava uma aula exclusiva para aplica¸ c˜ ao dosQuadro 2: Reinvenc ¸ ˜oes e justificativas apresentadas pelos docentes em relac ¸ ˜ao`a C4.
+Justificativas explicitadas Reinven¸ c˜ oes pelos docentes RC4a12– Aplica¸ c˜ ao dos TCs ao final do per´ ıodo/aula (n = 28).Elevada quantidade de d´ uvida dos alunos (n = 1).
+Necessidade de cumprir o conte´ udo (n = 1).
+RC4b – Aula dedicada exclusivamente ` a aplica¸ c˜ ao dos TCs (n = 16).Elevada quantidade de d´ uvida dos alunos (n = 1).
+RC4c – Aplica¸ c˜ ao dos TCs em um ´ unico momento na aula (n = 7).– RC4d – Aplica¸ c˜ ao dos TCs no formato de "lista de exerc´ ıcios" disponibilizada aos alunos no in´ ıcio da aula (n = 1).– TCs (RC4b).
+O seguinte trecho ilustra essa reinven¸ c˜ ao: Primeiramente em uma aula de 55 minutos, foi feita uma exibi¸ c˜ ao de um v´ ıdeo [. ]
+Ap´ os o v´ ıdeo, que teve uma dura¸ c˜ ao de aproximadamente 15 minutos, foram feitas algumas 12C´ odigo para Reinven¸ c˜ ao na Categoria 4 (RC4).
+As letras a, b, c e d representam as diferentes mudan¸ cas realizadas na categoria.
+Revista Brasileira de Ensino de F´ ısica, vol.
+43, e20210070, 2021 DOI: et al.
+e20210070-11 perguntas p´ os-v´ ıdeos sobre a 1ae 3aLeis de Newton.
+Essas perguntas foram discutidas, ainda na primeira aula de forma dialogada entre os alunos e o professor, essa etapa teve uma dura¸ c˜ ao aproximada de 15 minutos.
+Depois o professor explicou e enunciou a 1ae 3aLeis de Newton, a dura¸ c˜ ao dessa etapa foi de aproximadamente 15 minutos.
+Na aula seguinte, foram apresentadas as quest˜ oes conceituais com a metodologia IpC [Instru¸ c˜ ao pelos Colegas] e o uso do sistema de vota¸ c˜ ao aqui desenvolvido.
+Foram realizadas um total de 07 quest˜ oes em 02 aulas de 55 minutos (ID44).
+Para as modifica¸ c˜ oes RC4a e RC4b apenas trˆ es professores apresentaram justificativas.
+Um deles aplicou todos os TCs ora no in´ ıcio, ora no final do per´ ıodo, nunca intercalando com outras atividades, em fun¸ c˜ ao da elevada quantidade de d´ uvidas dos alunos na prepara¸ c˜ ao pr´ evia.
+Segundo ele, uma exposi¸ c˜ ao e discuss˜ ao das respostas da tarefa de prepara¸ c˜ ao pr´ evia mais demorada implicou falta de tempo para aplicar todos os TCs da forma prevista pelo m´ etodo.
+Tamb´ em pela quantidade de d´ uvida dos alunos em rela¸ c˜ ao ao conte´ udo, outro docente destinou uma aula exclusiva para aplicar todos os TCs.
+O terceiro docente justificou a aplica¸ c˜ ao dos TCs ao final do per´ ıodo pela necessidade de cumprir todo o conte´ udo.
+Com rela¸ c˜ ao a essa ´ ultima justificativa, entendemos que ela pode indicar a existˆ encia de normas sociais a respeito dessa a¸ c˜ ao que guiem algumas a¸ c˜ oes dos professores em sala de aula.
+Na TDI " as normas de um sistema social podem ser uma barreira ` a mudan¸ ca " [18] (p. 26), ou seja, uma inova¸ c˜ ao para ser bem-sucedida deve apresentar suporte das normas sociais do contexto em que est´ a sendo aplicada.
+Frente a essas mudan¸ cas na C4, em que de certa forma os professores priorizaram a exposi¸ c˜ ao do conte´ udo em detrimento das discuss˜ oes entre os colegas, evidenciamos como poss´ ıvel causa para todas adapta¸ c˜ oes a influˆ encia de cren¸ cas de ensino transmissionistas do docente, nas quais o professor ´ e entendido como o transmissor dos conte´ udos e os alunos os receptores.
+Nesse caso, o docente utilizou o tempo em sala de aula para garantir uma transmiss˜ ao eficaz, e n˜ ao o aproveitou para que, por exemplo, um aluno aprenda com o outro, em discuss˜ oes sobre os conceitos.
+Outra hip´ otese est´ a relacionada ` a influˆ encia da pr´ atica tradicional de propor quest˜ oes ao final da aula expositiva, para exclusivamente avaliar a compreens˜ ao dos estudantes.
+Al´ em disso, a pequena carga-hor´ aria semanal destinada ` a disciplina de F´ ısica e a quantidade excessiva de conte´ udos a serem tratados podem ter levado os docentes a organizarem um conjunto de quest˜ oes para ser aplicado ao final da aula, reduzindo o tempo que seria destinado ` a atividade de intercalar entre a aplica¸ c˜ ao de quest˜ oes e pequenas exposi¸ c˜ oes dos conceitos.5.2.
+Mudanc ¸as na preparac ¸ ˜ao pr ´evia (C1) Em rela¸ c˜ ao ` a C1, o Quadro 3 apresenta as reinven¸ c˜ oes identificadas e justificativas apontadas nos trabalhos e nas respostas ao question´ ario dos docentes, alunos do MPE.
+Com rela¸ c˜ ao ` as duas reinven¸ c˜ oes mais recorrentes (RC1a e RC1b), um professor sugeriu as leituras esporadicamente, e outro solicitou, em aula, apenas o retorno das d´ uvidas e curiosidades sobre o material dos alunos.
+O seguinte trecho, apresenta o relato do autor desse segundo caso em sua disserta¸ c˜ ao.
+As aulas foram estruturadas tendo no primeiro momento um breve coment´ ario e discuss˜ ao sobre a TL, indaga¸ c˜ ao das poss´ ıveis d´ uvidas ap´ os a leitura de cada tema e ainda, se os alunos compreenderam a linguagem abordada no texto e se abarcaram as imagens em cada tema proposto (ID08).
+Quadro 3: Reinvenc ¸ ˜oes e justificativas apresentadas pelos docentes em relac ¸ ˜ao`a C1.
+Justificativas explicitadas Reinven¸ c˜ oes pelos docentes RC1a – Indica¸ c˜ ao de materiais para leitura pr´ evia, sem quest˜ oes sobre eles (n = 11).Entendimento do professor de que a leitura seria suficiente para o aluno entender o conte´ udo (n = 2).
+Falta de tempo do professor para analisar as respostas ` as tarefas de prepara¸ c˜ ao pr´ evia (n = 1).
+RC1b – Ausˆ encia de qualquer tarefa de prepara¸ c˜ ao pr´ evia (n = 6).Falta de engajamento e resistˆ encia para usar ambientes virtuais por parte dos discentes (n = 1).
+RC1c – Tarefa de prepara¸ c˜ ao realizada totalmente ou parcialmente em sala de aula (n = 7).Falta de acesso ` a internet e computadores (n = 1).
+Falta de tempo e engajamento dos alunos (n = 1).
+Falta de engajamento dos alunos (n = 2).
+RC1d – Indica¸ c˜ ao de leitura de materiais e resolu¸ c˜ ao pr´ evia de lista de exerc´ ıcios num´ ericos (n = 1).– DOI: Revista Brasileira de Ensino de F´ ısica, vol.
+43, e20210070, 2021e20210070-12 Inova¸ c˜ ao did´ atica no Ensino de F´ ısica O autor deste recorte confirmou, em resposta ao question´ ario, que n˜ ao aplicou quest˜ oes sobre a leitura pr´ evia.
+No entanto, n˜ ao apresentou justificativa para isso.
+N˜ ao foi poss´ ıvel identificar nas disserta¸ c˜ oes, a raz˜ ao atribu´ ıda pelos professores para a elimina¸ c˜ ao das quest˜ oes sobre a leitura (RC1a) ou da tarefa de prepara¸ c˜ ao pr´ evia por completo (RC1b).
+J´ a nas respostas ao question´ ario, trˆ es docentes apontaram suas raz˜ oes para essas modifica¸ c˜ oes, s˜ ao elas: (i) falta de tempo do professor para analisar a resposta dos alunos antes da aula; (ii) falta de engajamento dos alunos nas atividades pr´ evias e resistˆ encia discente para usar ambientes virtuais; e (iii) entendimento do professor de que a leitura seria suficiente para o aluno entender o conte´ udo.
+Frente a essas justificativas levantamos a hip´ otese de que os trˆ es motivos apontados para RC1a e RC1b consistem em dificuldades devido ` as pr´ aticas anteriores dos docentes e discentes com rela¸ c˜ ao ao processo de ensino-aprendizagem.
+Ou seja, tanto alunos como professores est˜ ao acostumados a realizar tarefas diferentes das propostas pelo m´ etodo e tal mudan¸ ca de suas pr´ aticas exige mais esfor¸ co para desempenhar novas tarefas, sem a percep¸ c˜ ao de vantagens relativas, observ´ aveis, desde o in´ ıcio.
+Dentre os seis professores que n˜ ao utilizaram as tarefas de prepara¸ c˜ ao pr´ evia (RC1b), apenas um comentou no texto da disserta¸ c˜ ao e no question´ ario que n˜ ao foi poss´ ıvel utiliz´ a-las devido ` a resistˆ encia dos alunos ao uso de ambientes virtuais e ` a falta de engajamento dos alunos.
+´E poss´ ıvel notar, na unidade de an´ alise a seguir, que o m´ etodo, em alguns casos, j´ a foi apresentado sem considerar a prepara¸ c˜ ao pr´ evia: O m´ etodo Instru¸ c˜ oes pelos Colegas (IpC) consiste em, depois de uma r´ apida exposi¸ c˜ ao do conte´ udo, de cerca de 15 minutos, aplicarse alguns testes conceituais de m´ ultipla escolha para os alunos responderem individualmente (ID20).
+Nesses seis casos, RC1b, cinco n˜ ao apresentaram a tarefa como parte integrante do IpC; e o docente que n˜ ao utilizou por resistˆ encia e falta de engajamento estudantil indicou a prepara¸ c˜ ao pr´ evia como opcional.
+No question´ ario apenas um docente justificou a ausˆ encia dessa caracter´ ıstica com a falta de engajamento dos alunos.
+A n˜ ao apresenta¸ c˜ ao de quest˜ oes em conjunto com os materiais indicados para leitura (RC1a) deixa de oferecer ao aluno uma oportunidade dele pr´ oprio avaliar o quanto est´ a conseguindo compreender e aplicar os conceitos.
+Al´ em disso, retira a possibilidade de o professor preparar a aula de acordo com as dificuldades dos estudantes, pass´ ıveis de serem detectadas nas tentativas de respostas ` as quest˜ oes pr´ evias.
+A completa ausˆ encia da tarefa de prepara¸ c˜ ao pr´ evia (RC1b), al´ em dos preju´ ızos relacionados ao planejamento das aulas em termos das dificuldades e interes-ses da turma, restringe a possibilidade de um melhor aproveitamento do tempo em sala de aula para atividades de engajamento discente.
+Nesse caso, o tempo ´ e usualmente destinado ` a apresenta¸ c˜ ao do conte´ udo por parte do professor.
+Essa modifica¸ c˜ ao tamb´ em reduz a responsabilidade do aluno sobre a pr´ opria aprendizagem.
+Al´ em dessas mudan¸ cas, identificamos sete professores que transpuseram, total ou parcialmente, a tarefa de prepara¸ c˜ ao para a sala de aula (RC1c).
+Um desses docentes realizou a mudan¸ ca devido ` a falta de tempo e engajamento dos alunos para fazer atividades fora de sala de aula e o outro pela falta de acesso ` a internet e computadores.
+Outros dois desses professores optaram por realizar apenas a leitura de um material em sala de aula devido ` a falta de engajamento dos alunos para realizar as atividades, como podemos perceber nas respostas apresentadas por eles no question´ ario: Porque as atividades de casa costumam ser de baixo aproveitamento.
+A maioria deles n˜ ao leem materiais que solicitamos previamente, exceto quando condicionamos uma pontua¸ c˜ ao a eles (ID17).
+A atividade pr´ evia teve que ser feita em sala.
+Quando ficou para casa, pouqu´ ıssimos [alunos] fizeram (ID13).
+Tal adapta¸ c˜ ao, RC1c, desvia das inten¸ c˜ oes originais do m´ etodo, uma vez que n˜ ao sustenta a ideia de destinar o tempo de sala de aula para a discuss˜ ao dos alunos.
+Contudo, nossa hip´ otese ´ e que essa mudan¸ ca representa uma solu¸ c˜ ao encontrada pelo docente para viabilizar o uso da inova¸ c˜ ao no seu contexto.
+Por fim, destacamos que nos trabalhos em que os professores apresentaram suas justificativas para as altera¸ c˜ oes, a falta de engajamento dos alunos ´ e uma das principais raz˜ oes ` as modifica¸ c˜ oes (quatro dos 10 professores convergiram para essa justificativa), na etapa de prepara¸ c˜ ao pr´ evia (C1).
+Tal resultado vai ao encontro das raz˜ oes para n˜ ao adotar um m´ etodo ativo de ensino identificadas em estudos realizados em universidades norte-americanas por Henderson e Dancy [25], Turpen, Dancy e Henderson [23] e Dancy e Henderson [26].
+Nessas pesquisas, as principais raz˜ oes apontadas foram as atitudes negativas dos estudantes com rela¸ c˜ ao ao m´ etodo e com rela¸ c˜ ao ` a universidade e a dificuldade do docente para engajar os estudantes.
+Mudanc ¸as na aplicac ¸ ˜ao de testes conceituais em sala de aula (C9) Outra categoria com elevada quantidade de modifica¸ c˜ oes foi a C9.
+Todas as 22 mudan¸ cas detectadas consistiram no uso de pelo menos uma quest˜ ao num´ erica/formulista como teste conceitual.
+O recorte a seguir exemplifica as quest˜ oes que eram utilizadas: TC9 – (UFMG – adaptada) Um menino, balan¸ cando em uma corda dependurada em Revista Brasileira de Ensino de F´ ısica, vol.
+43, e20210070, 2021 DOI: et al.
+e20210070-13 uma ´ arvore, faz 20 oscila¸ c˜ oes em um minuto.
+Pode-se afirmar que seu movimento tem: (a) um per´ ıodo de 3 segundos.
+(b) um per´ ıodo de 60 segundos.
+(c) um per´ ıodo de 20 segundos.
+(d) uma amplitude de 5 cent´ ımetros (ID35).
+De certo modo essa altera¸ c˜ ao n˜ ao leva em conta que o m´ etodo considera que a compreens˜ ao conceitual ´ e fundamental na aprendizagem de F´ ısica e auxilia na resolu¸ c˜ ao de problemas.
+Ou seja, o m´ etodo prioriza a aprendizagem conceitual, uma vez que pode facilitar a resolu¸ c˜ ao de problemas.
+No entanto, apesar de n˜ ao ser desej´ avel a escolha de quest˜ oes apenas num´ ericas, a combina¸ c˜ ao de algumas dessas com testes conceituais n˜ ao descaracteriza o m´ etodo e podem, inclusive, viabilizar a sua implementa¸ c˜ ao em algumas institui¸ c˜ oes.
+Como hip´ otese, poder´ ıamos considerar que, entre as raz˜ oes para as altera¸ c˜ oes realizadas nesta categoria, est˜ ao as expectativas de pais, alunos e da institui¸ c˜ ao de ensino sobre a responsabilidade do professor em ensinar ` a turma a resolver problemas que permitam os discentes serem aprovados em avalia¸ c˜ oes externas ( e.g., ENEM, vestibulares).
+Tais avalia¸ c˜ oes costumam ser baseadas em quest˜ oes que envolvem a aplica¸ c˜ ao de f´ ormulas e de c´ alculos para a ´ area da F´ ısica.
+Mudanc ¸as nas exposic ¸ ˜oes orais breves (C3) A quarta categoria que sofreu mais reinven¸ c˜ ao foi C3.
+Identificamos nos trabalhos de 17 docentes um longo tempo destinado ` as exposi¸ c˜ oes orais em pelo menos uma aula.
+Cinco desses professores admitem exceder o tempo de explana¸ c˜ ao em seus relatos, por´ em n˜ ao informam o quanto.
+Dentre esses, um docente apontou que optou por realizar uma aula exclusiva para exposi¸ c˜ ao do conte´ udo e outra para aplicar os TCs por acreditar que o trabalho fluiria melhor dessa forma.
+Essa modifica¸ c˜ ao e justificativa est˜ ao retratadas no seguinte trecho: Neste m´ etodo, as aulas s˜ ao divididas em pequenas s´ eries de apresenta¸ c˜ oes orais do professor, onde ele enfatiza os conceitos mais relevantes a serem trabalhados.
+Em sequˆ encia, s˜ ao apresentadas as quest˜ oes conceituais de m´ ultipla escolha, que denominamos de p´ os-teste, para os educandos responderem primeiramente individualmente e depois discutirem com os colegas (Oliveira, 2012).
+Em nosso trabalho, optamos por utilizar duas aulas para realizar essa atividade (pois acreditamos que o trabalho fluiria melhor dessa forma), uma aula para ministrar os conte´ udos pertinentes e outra aula para apresentar as quest˜ oes conceituais (ID39).
+Dentre esses docentes, um argumentou que sua pouca experiˆ encia em sala de aula o levou a decidir realizar uma aula exclusiva para exposi¸ c˜ ao do conte´ udo e outra para aplicar os TCs.
+Outros dois explicitaram que investirammais tempo nas exposi¸ c˜ oes devido ` a quantidade de d´ uvidas apresentadas pelos alunos na TL.
+Um deles admite que, al´ em da quantidade de d´ uvidas, dificuldades pessoais o levaram a optar por exposi¸ c˜ oes mais longas.
+Outros dois justificaram essa mudan¸ ca pelo fato de os alunos n˜ ao realizarem a TL, ficando a cargo dos docentes a apresenta¸ c˜ ao detalhada dos conte´ udos.
+Com rela¸ c˜ ao a essa modifica¸ c˜ ao entendemos que ela desvia em certo grau do princ´ ıpio pedag´ ogico que sustenta esse aspecto do m´ etodo.
+Isso porque, o esperado ´ e que o tempo de sala de aula seja destinado ao engajamento ativo do aluno e n˜ ao somente ` a exposi¸ c˜ oes do professor.
+No entanto, salientamos aqui que essas mudan¸ cas podem ser solu¸ c˜ oes dos docentes para dificuldades relacionadas com as tarefas de prepara¸ c˜ ao pr´ evia (C1).
+A t´ ıtulo de hip´ otese, as pr´ aticas preestabelecidas de um docente, que usualmente exp˜ oe em sala de aula todo o conte´ udo, podem ter interferido no tempo dedicado pelo docente para a exposi¸ c˜ ao dos conceitos.
+Assim como, a baixa carga hor´ aria e a grande quantidade de conceitos a serem cumpridos podem ter levado os docentes a dedicar maior parte do seu tempo para exposi¸ c˜ ao oral desses conte´ udos e deixar a resolu¸ c˜ ao de problemas como tarefa secund´ aria.
+Outra hip´ otese plaus´ ıvel ´ e que as cren¸ cas de ensino e aprendizagem do professor, alinhadas a uma perspectiva transmissionista de ensino, podem ter induzido ele a utilizar mais tempo para exposi¸ c˜ ao.
+Mudanc ¸as na discuss ˜ao entre colegas (C7) No que diz respeito ` a C7, o Quadro 4 elenca as reinven¸ c˜ oes e raz˜ oes explicitadas pelos professores nos trabalhos e nas respostas ao question´ ario.
+Apesar de detectarmos um n´ umero alto de altera¸ c˜ oes (n = 17), apenas um professor n˜ ao orientou os alunos a discutirem suas respostas para os TCs com os colegas, diferentemente dos resultados de Dancy, Henderson e Turpen [8], em que 7 (40%) de 18 professores raramente ou nunca pediam para os alunos discutirem.
+Com rela¸ c˜ ao ` a RC7a, apenas um docente apresentou a carga hor´ aria limitada como justificativa.
+Pelo mesmo motivo, outro docente realizou a RC7c.
+Por fim, um professor alegou o desconhecimento de instrumentos de coleta e an´ alise autom´ atica das respostas dos alunos aos TCs como raz˜ ao para RC7b.
+Frente ` as reinven¸ c˜ oes RC7a, RC7b e RC7e, apresentadas no Quadro 4, entendemos que os professores que as implementaram realizaram a discuss˜ ao entre os estudantes apenas mudando o momento ou as condi¸ c˜ oes em que era indicada.
+Ou seja, essas altera¸ c˜ oes preservam as inten¸ c˜ oes originais do m´ etodo.
+A saber: (i) um estudante pode aprender com outro; (ii) o desenvolvimento do pensamento cr´ ıtico e da habilidade de argumenta¸ c˜ ao dos alunos pode auxiliar na compreens˜ ao conceitual dos conte´ udos; (iii) o tempo de sala de aula deve ser valorizado com o engajamento ativo dos aluno estudantes nas DOI: Revista Brasileira de Ensino de F´ ısica, vol.
+43, e20210070, 2021e20210070-14 Inova¸ c˜ ao did´ atica no Ensino de F´ ısica Quadro 4: Reinvenc ¸ ˜oes e raz ˜oes indicadas pelos docentes em relac ¸ ˜ao`a C7.
+Raz˜ oes explicitadas Reinven¸ c˜ ao pelos docentes RC7a – Interferˆ encia do professor durante as discuss˜ oes, direcionando a escolha das respostas (n = 7).Baixa carga hor´ aria da disciplina (n = 1).
+RC7b – Encaminhar a discuss˜ ao entre os alunos sobre os TCs independentemente da quantidade de acertos (n = 5).Falta de conhecimento sobre instrumentos de coleta e an´ alise autom´ atica das respostas (n = 1).
+RC7c – Substitui¸ c˜ ao da discuss˜ ao em pequenos grupos pela exposi¸ c˜ ao de um aluno para a turma sobre sua resposta (n = 2).Baixa carga hor´ aria da disciplina (n = 1).
+RC7d – Troca da discuss˜ ao por exposi¸ c˜ ao oral do professor (n = 1)– RC7e – Indica¸ c˜ ao de discuss˜ oes ap´ os a vota¸ c˜ ao de v´ arios TCs (n = 1).– RC7f – Discuss˜ ao organizada por uma estudante, que assumiu o papel de l´ ıder de turma (n = 1).– atividades; (iv) a compreens˜ ao conceitual ´ e fundamental na aprendizagem de F´ ısica e auxilia na resolu¸ c˜ ao de problemas; (v) os conhecimentos pr´ evios dos alunos s˜ ao essenciais para a aprendizagem; (vi) o engajamento cognitivo dos discentes com atividades de ensino auxilia na promo¸ c˜ ao da aprendizagem.
+Para RC7c, RC7d e RC7f, entendemos que os pressupostos do m´ etodo (i), (ii), (iii) e (vi) foram desconsiderados pelos seus autores.
+Destacamos aqui que devido ao pressuposto (i) estar relacionado apenas com essa caracter´ ıstica do m´ etodo (C7), sua modifica¸ c˜ ao, se mal conduzida, pode debilitar o PI, impactando negativamente nos resultados advindos de sua implementa¸ c˜ ao.
+Por fim, uma hip´ otese explicativa para as mudan¸ cas em C7 ´ e que a usual distribui¸ c˜ ao dos per´ ıodos de F´ ısica em mais de um dia da semana, a baixa carga hor´ aria da disciplina e a necessidade de cumprir uma elevada quantidade de conte´ udos (normas sociais) podem ter levado alguns docentes a destinarem pouco tempo para as discuss˜ oes, ou interferindo nelas para poderem avan¸ car com o conte´ udo.6.
+Considera¸ c˜ oes Finais Neste estudo foram evidenciadas as caracter´ ısticas do IpC que mais sofreram modifica¸ c˜ oes quando implementadas em contexto brasileiro de ensino por professores, ex-alunos do MPE, durante a prepara¸ c˜ ao de suas disserta¸ c˜ oes.
+As reinven¸ c˜ oes mais frequentes detectadas foram: a ausˆ encia de uma tarefa de prepara¸ c˜ ao pr´ evia ou o uso apenas de leituras e/ou v´ ıdeos pr´ evios; a aplica¸ c˜ ao dos testes conceituais apenas ao final do per´ ıodo; o uso de quest˜ oes alg´ ebricas como testes conceituais; o tempo mais longo de exposi¸ c˜ ao oral do professor; e a interven¸ c˜ ao do docente na discuss˜ ao ou sua realiza¸ c˜ ao independentemente do percentual de acertos na vota¸ c˜ ao das quest˜ oes conceituais.
+Considerando todas as modifica¸ c˜ oes identificadas, apresentamos algumas hip´ oteses gerais, orientadas por nossa leitura das disserta¸ c˜ oes e respostas aos question´ arios, observando as raz˜ oes levantadas pelos professores sempre que presentes.
+De modo geral, o resultado vai ao encontro do que ´ e apontado na literatura da ´ area, com destaque para as seguintes justificativas: preocupa¸ c˜ ao do professor em cumprir o conte´ udo programado [23, 25, 26]; cren¸ cas de ensino e aprendizagem do docente desalinhadas com as que sustentam as pr´ aticas do m´ etodo de ensino [24]; falta de tempo em sala de aula para realizar as atividades planejadas [24]; falta de compreens˜ ao dos princ´ ıpios do m´ etodo [8, 24]; e dificuldades para utilizar tecnologias em sala de aula [27].
+Al´ em dessas, apontamos que o poss´ ıvel desconhecimento de alguns princ´ ıpios pode estar relacionado com o canal de comunica¸ c˜ ao, na acep¸ c˜ ao de Rogers [18], pelo qual o indiv´ ıduo tomou conhecimento do m´ etodo.
+Em rela¸ c˜ ao ` a falta de informa¸ c˜ oes nas disserta¸ c˜ oes sobre as mudan¸ cas realizadas no m´ etodo, apontamos as seguintes hip´ oteses: alguns docentes n˜ ao percebem que est˜ ao realizando reinven¸ c˜ oes, por n˜ ao terem compreendido corretamente as t´ ecnicas, ou as raz˜ oes que as sustentam; e/ou se restringiram a apresentar o m´ etodo, j´ a adaptado ao pr´ oprio contexto de ensino, sem explicitar as modifica¸ c˜ oes introduzidas, e assim evidenciar a intencionalidade de tais a¸ c˜ oes.
+Independentemente das justificativas apontadas para as mudan¸ cas, uma hip´ otese para a ausˆ encia de informa¸ c˜ oes expl´ ıcitas sobre essas modifica¸ c˜ oes pode estar relacionada com uma cren¸ ca dos adotantes de que o m´ etodo n˜ ao ´ e pass´ ıvel de modifica¸ c˜ ao.
+No entanto, adapta¸ c˜ oes conscientes, que considerem os princ´ ıpios pedag´ ogicos que sustentam o m´ etodo, s˜ ao esperadas e desej´ aveis quando um m´ etodo ´ e levado de um contexto para outro, diferente do seu de origem.
+Por fim, entendemos que a falta de informa¸ c˜ oes na literatura acerca da estrutura b´ asica do m´ etodo, com apontamentos sobre elementos essenciais e caracter´ ısticas que podem ser adaptadas a diferentes contextos, pode dificultar sua dissemina¸ c˜ ao.
+Nesse sentido, outra contribui¸ c˜ ao desse estudo est´ a associada ` a Revista Brasileira de Ensino de F´ ısica, vol.
+43, e20210070, 2021 DOI: et al.
+e20210070-15 identifica¸ c˜ ao das caracter´ ısticas fundamentais do IpC, bem como dos princ´ ıpios pedag´ ogicos atrelados a elas.
+Essa identifica¸ c˜ ao pode servir como base para que futuros adotantes do m´ etodo, professores atuantes do MPE, possam perceber, de forma consciente, as suas pr´ oprias modifica¸ c˜ oes e apont´ a-las para futuros leitores.
+Esperamos que os resultados apresentados neste artigo, em especial, as hip´ oteses trazidas ao longo do trabalho, possam auxiliar futuras investiga¸ c˜ oes no tema e assim contribuir para a melhoria no ensino de Ciˆ encias.
+Agradecimentos O presente trabalho foi realizado com apoio da Coordena¸ c˜ ao de Aperfei¸ coamento de Pessoal de N´ ıvel Superior – Brasil (CAPES) – C´ odigo de Financiamento 001.
+Ives Solano Araujo agradece ao CNPq pela bolsa de Produtividade em Pesquisa.
+Material suplementar O seguinte material suplementar est´ a dispon´ ıvel online: Question´ ario aplicado aos professores do estudo.
+REFER ˆENCIAS [1] BRASIL, Lei de Diretrizes e Bases Da Educa¸ c˜ ao Nacional – LDB.
+Lei No9.394, de 20 de dezembro de 1996, Bras´ ılia, 1996.
+Dispon´ ıvel em: .br/ccivil 03/leis/l9394.htm [2] R.S.
+[4] E. Mazur, Peer Instruction?
+: A User's Manual (Prentice Hall, Nova Jersey, 1997), v. 1.
+[5] E. Mazur, Peer Instruction: A Revolu¸ c˜ ao Da Aprendizagem Ativa (Penso, Porto Alegre, 2015), v. 1.
+Ensino F´ ısica 39, e3403 (2017).
+[8] M. Dancy, C. Henderson e C. Turpen, Phys.
+M¨ uller, Ado¸ c˜ ao e Difus˜ ao de Inova¸ c˜ oes Did´ aticas Em Disciplinas de F´ ısica Geral: Estudos de Caso Em Duas Universidades P´ ublicas Brasileiras .
+Tese de Doutorado, Universidade Federal do Rio Grande do Sul, Porto Alegre (2017).
+[11] CAPES, Avalia¸ c˜ ao Trienal: 2013.
+Coordena¸ c˜ ao de Aperfei¸ coamento de Pessoal de N´ ıvel Superior.
+Documento de ´Area de Ensino (2013).
+Dispon´ ıvel em: v.br/capes/pt-br/centrais-de-conteudo/Educao Fsica d ocarea ecomisso att08deoutubro.pdf [12] BRASIL, Conselho Do MNPEF.
+Regimento Geral Do Mestrado Nacional Profissional Em Ensino de F´ ısica (2015).
+Dispon´ ıvel em: fisica.org.br/ ∼m npef/images/Regimento MNPEF 16122015 .pdf[13] CAPES, ´Area de Ensino.
+Orienta¸ c˜ oes Para Novos APCNS.
+Dispon´ ıvel em: ns-2012-brasilia-22-de-maio-de-2012.html [14] E.L.Q.
+Antunes Junior, Forma¸ c˜ ao Continuada de Professores Em Larga Escala: Um Estudo Sobre o Mestrado Nacional Profissional Em Ensino de F´ ısica .
+Disserta¸ c˜ ao de Mestrado, Universidade Federal do Rio Grande do Sul, Porto Alegre (2018).
+Sch¨ afer, Impacto Do Mestrado Profissional Em Ensino de F´ ısica Da UFRGS Na Pr´ atica Docente: Um Estudo de Caso .
+Tese de Doutorado, Universidade Federal do Rio Grande do Sul, Porto Alegre (2013).
+Prado, A Forma¸ c˜ ao P´ os-Graduada Em Ensino de Ciˆ encias Naturais e Matem´ atica de Docentes Do IFRN: Implica¸ c˜ oes Na Atua¸ c˜ ao Docente .
+Disserta¸ c˜ ao de Mestrado, Universidade Federal do Rio Grande do Norte, Porto Alegre (2011).
+Rebeque, F. Ostermann e S. Viseu, Rev.
+[18] E.M. Rogers, Diffusion of Innovations , 5aed.
+[19] L. Bardin, An´ alise de Conte´ udo , (Almedina Brasil, S˜ ao Paulo, 2011).
+Ensino F´ ısica 30, 362 (2013).
+[22] E. Mazur e J. Watkins, Just-In-Time Teaching: Across the Disciplines, Across the Academy (Stylus Publishing, Sterling, 2010).
+[23] C. Turpen, M. Dancy e C. Henderson, Phys.
+Dancy e C. Henderson, AIP Conference Proceedings 1413 , 163 (2012) [27] D. Pundak e S. Rozner, J. Sci.
+[29] C. Wieman, L. Deslauriers e B. Gilley, Phys.
+[30] C. Henderson, M. Dancy, e M. Niewiadomska-Bugaj, Phys.
+DOI: Revista Brasileira de Ensino de F´ ısica, vol.

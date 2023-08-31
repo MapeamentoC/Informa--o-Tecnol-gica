@@ -1,0 +1,270 @@
+DESENVOLVIMENTO ECONÔMICO E CAPACIDADE DE INOVAÇÃO TECNOLÓGICA NO BRASIL: UMA ANÁLISE COM DADOS EM PAINEL ECONOMIC DEVELOPMENT AND TECHNOLOGICAL INNOVATION CAPACITY IN BRAZIL: AN ANALYSIS WITH PANEL DATA Tricia Thaise Silvia Pontes , Grupo Ser Educacional (SER).
+E-mail: tricia.thaise@hotmail.com Shirley Luanna Vieira Peixoto Genuíno *, Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN).
+| E-mail: shirleyluanna@hotmail.com Submetido: Agosto 2018 Aceito: Março 2019 *Contato para Correspondência Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.7, n.1, Setembro/Dezembro – 2019 ISSN: 2319 -0639 DOI: 10.18226/23190639.v7n1.07 Página | 139 Resumo Este estudo tem por objetivo identificar a relação entre o desenvolvimento econômico e a capacidade de inovação e desenvolvimento tecnológico para cada região do Brasil.
+Investigando a possibilidade das regiões menos desenvolvidas reverterem sua condição d e atraso tecnológico, através do aumento do quantitativo inovativo ou pela imitação do ambiente encontrado nas regiões líderes .
+Para atingir o objetivo foi estimada uma regressão linear múltipla com dados em painel baseada no modelo desenvolvido por Fagerb erg (1988) para realização de catching up .
+Como variável dependente, foi utilizado o produto interno bruto de cada região funcionando como proxy para o desenvolvimento econômico, as variáveis independentes abrangem alguns aspectos da inovação, tais como: capacidade de absorção/imitação de tecnologias geradas, observada por meio da produtividade relativa ; Investimento em novas máquinas e equipamentos, analisada com o indexador dos valores elencados em Pesquisa e Desenvolvimento; Capacidade de desenvolvimento de novas tecnologias, verificada com observação do número de patentes registradas e do consumo de energia elétrica industrial para cada região.
+Os dados coletados para elaboração consistem de informações regionais para o período de 2000 a 2010.
+Os resulta dos encontrados apontam para a necessidade de aumento nos esforços relacionados a imitação das tecnologias desenvolvidas pela região líder, investimentos ampliados em P&D e criação de políticas e incentivos que possibilitem a atividade inovadora nas regiõe s. Palavras -chave: Inovação.
+Abstract This study aims to identify the relationship between economic development and the capacity for innovation and technological development for each region of Brazil.
+Investigating the possibility of less developed regions reversing their technological backwar dness by increasing the innovative quantitative or by imitating the environment found in the leading regions.
+To reach the objective was estimated a multiple linear regression with panel data based on the model developed by Fagerberg (1988) for catching up .
+As a dependent variable, the gross domestic product of each region was used as a proxy for economic development; the independent variables cover some aspects of innovation, such as: absorption capacity / imitation of generated technologies, observed thro ugh relative productivity; Investment in new machines and equipment, analyzed through the values listed in Research and Development; Ability to develop new technologies, verified by the number of patents registered and the consumption of industrial electri c power for each region.
+The data collected for elaboration consists of regional information for the period from 2000 to 2010.
+The results found point to the need for increased efforts related to imitation of the technologies developed by the region leadin g, increased investments in R & D and creation of policies and incentives that allow innovative activity in the regions.
+1 Introdução A Inovação n ão surge de forma eventual na sociedad e. Sua inserção no processo de desenvolvimento econômico e social requer políticas públicas e gestão das organizações adequadas, além de tratamento integrado de seus elementos contributivos.
+Se essas medidas Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.7, n.1, Setembro/Dezembro – 2019 ISSN: 2319 -0639 DOI: 10.18226/23190639.v7n1.07 Página | 140 forem tomadas , desenvolvem -se ambientes onde a i novação tende a realizar -se com maior facilidade, pode ndo gerar o que se conhece por Sistema de Inovação.
+Um sistema de inovação é, portanto, uma rede de organizações dentro de um sistema econômico que estão diretamente envolvidas na cri ação, difusão e utilização de conhecimentos científicos e tecnológicos, bem como , as instituições responsáveis pela coordenação e apoio a esses processos.
+Os sistemas de inovação referem -se à criação de um cenário que permita a concepção e aplicação do conhecimento para o avanço social e econômico dentro de um a sociedade .
+(Freeman, 199 5a; Lundvall , 1992; Nelson , 1993).
+O Brasil está em 69º lugar no ranking do Índice de Inovação Global, que envolve 127 países , publicado pelo Dutta , Lanvin, e Wunsch -Vincent (2017 ), alcançando uma pontuação de apenas 33,10 numa escala de 0 -100.
+Assim como a maioria dos países latino -americanos, o Brasil possui níveis de inovação mais baixos do que outros países com o mesmo Produto Interno Bruto [PIB] per capita.
+No cr itério de insumos para a atividade de inovação (instituições, capital humano e pesquisa, infraestrutura, sofisticação do mercado e sofisticação dos negócios), o p aís aparece apenas em 60 º, no quesito ambiente de negócios a situaç ão é ainda mais preocupante (123º lugar).
+Uma das maneiras de reverter essa situação ocorre através do investimento em sistemas de inovação que desenvolvam a capacidade inovativa local.
+Devido à sua dimensão territorial e a desigualdade existente entre as cinco grandes regiões brasileiras , no que se refere ao desenvolvimento social, econômico e tecnológico , faz sentido investigar o sistema de inovação brasileiro no âmbito regional, visto que a diferença na capacidade de inovação entre as regiões pode potencializar ainda mais as disparidades existentes.
+Por exemplo, as estruturas de apoio às empresas , investimentos em educação , pesquisa e desenvolvimento [ P&D ] e capacidade tecnológica, entre outros elementos de um sistema de inovação eficaz , podem estar concentrado s em uma determinada região .
+Nesse caso, devem ser realizados esforços para fortalecer a capacidade de inovação das demais regiões a fim de superar essas disparidades e contribuir para o desenvolvimento econômico regional e nacional .
+Com base no que foi apresentado acima, chega -se ao seguinte questionamento: Qual a relação existente entre o desenvolvimento econômico e o nível de inovação tecnológica nas regiões brasileiras?
+Este trabalho, portanto, tem como objetivo i dentificar a relação e ntre o desenvolvimento econômico e a capacidade de inovaçã o e desenvolvimento tecnológico para cada região do Brasil.
+Investigando a possibilidade das regiões reverterem sua condição de atraso tecnológico , por meio do aumento do quantitativo inovativo ou pela imitação do Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.7, n.1, Setembro/Dezembro – 2019 ISSN: 2319 -0639 DOI: 10.18226/23190639.v7n1.07 Página | 141 ambiente encontrado nas regiões líderes.
+Este artigo está dividido em cinco seções principais, na primeira apresentou -se a contextual ização do tema e objetivo da pesquisa, a seção seguinte apresenta conceitos sobre inovação e tecnologia, bem como o surgimento e a evolução dos sistemas de inovação relacionando -os com a abordagem do crescimento econômico .
+Na seção 3 s ão apresentados o método e a fonte de dados utilizados na pesquisa, a seção 4 analisa e discute os resultados enco ntrados com a estimação do modelo , fornecendo importantes insights a respeito da relação entre desenvolvimento econômico e inovação nas regiões brasileiras.
+Por fim, a seção 5 traz as principais conclusõ es da pesquisa e os desafios a serem superados pelo país para que sejam definidas políticas voltadas a sistemas de inovação.
+2 Referencial Teórico 2.1 Inovação e Tecnologia A inovação tem importância reconhecida tanto para o sucesso das empresas e manutenção de sua vantagem competitiva, quanto para o crescimento econômico, o desenvolvimento e o bem -estar dos países .
+Drucker (1997) considera a inovação como uma realidade econômica e social, uma mudança no comportamento d as pessoas em geral, ou seja , uma mudança no modo como as pessoas trabalham e produzem algo.
+Por isso, a inovação deve estar sempre próxima ao mercado, centrada no mercado e, principalmente, ser movida pelo mercado.
+O Manual de Oslo (Organização para a Coo peração e Desenvolvimento Econ ômico , [OCDE ], 2005) define inovação como um processo complexo e sistêmico de implementação de um produto ou processo novo ou significativamente melhorado , ou ainda um novo método organizacional nas práticas de negócios, na organização do local de trabalho ou nas relações externa s. Esse processo é iniciado pela percepção de um novo mercado e/ ou oportunidade de serviço que leva ao desenvolvimento, produção e tarefas de marketing a um esforço conjun to para o sucesso comercial da inovação .
+De acordo com Schumpeter (1982) a inovação pode ser entendida como introdução de novos produtos, introdução de métodos de produção, abertura de mercados, desenvolvimento de fontes provedoras de matérias -primas e out ros insumos e criação de novas estruturas de mercado em uma indústria.
+Para Castells (2002), a tecnologia atua como forma específica da relação entre a Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.7, n.1, Setembro/Dezembro – 2019 ISSN: 2319 -0639 DOI: 10.18226/23190639.v7n1.07 Página | 142 matéria -prima e a mão -de-obra no processo de trabalho e envolve os meios de produção para agir sobre a m atéria com base em energia, conhecimentos e informação.
+Desse modo, fica clara a relação estreita entre inovação e t ecnologia, ressaltada por Niosi , Saviotti, Bellon e Crow (1993) que define m inovação como novos e melhores produtos e processos, novas forma s organizacionais, a aplicação da tecnologia existente em novos campos, a descoberta de novos recursos e a abertura de novos mercados.
+A inovação tecnológica , por sua vez, é definida por Schumpeter (1982) como uma nova combinação de meios de produção, ou s eja, uma alteração nos fatores de produção para produzir produtos.
+A distinção entre inovação, inovação tecnológica e tecnologia e o papel que cada uma delas representa pode gerar alguma confusão.
+Conforme Lam (2005) os econo mistas supõem que a inovação organizacional é uma respost a a uma mudança técnica, quando de fato a mudança organizacional poderia ser uma condição necessária para a inovação técnica.
+A tecnologia evolui conforme as inovações tecnológicas vão acumulando, sua evolução pode ser definid a como a disseminação, a mudança, e os processos dinâmicos do desenvolvimento de uma ou de um grupo de tecnologias.
+Os atores envolvidos na inovação aumentam por meio de um processo cumulativo de aprendizagem mútua.
+Em outras palavras, a acumulação de proc essos de ino vação tecnológica pode ser vista como um processo de evolução tecnológica ( Lee & Lee, 2013).
+De acordo com Castells (2002) a tecnologia é um dos elementos principais na transformação de uma sociedade.
+No entanto, a tecnologia não determina a so ciedade e nem ocorre o contrário, visto que existem muitos fatores que escrevem o curso de uma inovação tecnológica, como criatividade e iniciativa empreendedora .
+Para Castells (2002) , existe um dilema de determinismo tecnológico no qual a tecnologia é a s ociedade, e a sociedade não pode ser entendida ou representada sem as suas ferramentas tec nológicas .
+2.2 Abordagem Sistêmica da Inovação e o Crescimento Econômico As empresas que desejam alcançar vantagem competitiva , em qualquer se tor econô mico, dependem de sua capacidade de explorar novos conhecimentos, a fim de se manter em a frente dos concorrentes, por meio da criação de novos produtos e serviços.
+Desse modo, a inovação tecnológica tornou -se um fator de competitividade crucial para as empresas.
+No entanto, elas não podem ser vistas como os únicos responsáveis pela inovação, capazes de criá-las em isolamento.
+Como coloca Porter e Stern (2002) para a inovação o ambiente externo à empresa é, no mínimo, tão importante quanto o interno .
+Sendo a inovação Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.7, n.1, Setembro/Dezembro – 2019 ISSN: 2319 -0639 DOI: 10.18226/23190639.v7n1.07 Página | 143 determinada pela capacidade de inovação nacional, ou seja, o potencial de um país de produzir um fluxo de inovações relevantes.
+Essa capacidade refere -se às condições fundamentais, os investimentos e as decisões políticas que criam o ambiente para a inovação em determinada região.
+A capacidade de inovar pode ser considerada também como um fator crítico para o crescimento econômico dos países.
+Como salienta Freeman (199 5a) uma parte importante do crescimento produtivo em países desenvolvidos, medido em termos de produto interno bruto, corresponde à inovação.
+Essa ideia teve origem com a Teoria do Desenvolvimento Econômico , que enxerga o desenvolvimento econôm ico de um país como um processo de acumulação de capital e incorporação de progresso técnico ao trabalho e ao capital que leva ao aumento da produtividade, dos salários, e consequente elevação do padrão médio de vida da população .
+Smith (1776/1996 ), em seu trabalho An Inquiry into the Nature and Causes of the Wealth of Nations , considerou o crescimento econômico como depende nte da especialização e divisão do trabalho e da acumulação de riqueza.
+Ele acreditava que o Estado deveria ser pequeno e não interv encionista, e que isso levaria ao aumento do setor de livre iniciativa .
+Em seguida Joseph Schumpeter (1982 ) incorpora à teoria a ideia de que a tecnologia e a inovação exercem influência no processo de crescimento econômico.
+De acordo com Schumpeter (1982) , o desenvolvimento da nova tecnologia leva ao crescimento.
+Outra importante contribuição foi a ideia de que inovação em novos produtos e serviços também levam à criação de novos mercados e a destruição dos antigo s – conceito que ficou co nhecido como destr uição criativa.
+Romer (1990 ) fornece uma i mportante contribuição à teoria do crescimento econômico , ao incluir o conhecimento como fator capaz de acelerar o crescimento dos países.
+O conhecimento passou a ser visto como mais relevante que os fatores físic os.
+Em seu trabalho intitulado Endogenous Technological Change , Paul Romer considera que países com especialistas capacitados gera m conhecimento e inovações o que leva ao crescimento, dessa forma pesquisa e desenvolvimento assumem papel crucial nesse proce sso.
+Além disso, a competição monopolística passa a ser tomada como uma realidade que pode ser positiva.
+(Warsh, 2006 ) Desse modo, a interação de uma série de agentes e fatores como universidades e institutos de pesquisa, laboratórios de P&D, sistemas financeiros capazes de apoiar os investimentos inovadores, sistemas legais, apoio governamental, entre outros, forma o que se chama de " sistema de inovação", capaz de criar um ambiente que estimule e permita o Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.7, n.1, Setembro/Dezembro – 2019 ISSN: 2319 -0639 DOI: 10.18226/23190639.v7n1.07 Página | 144 processo inovativo.
+Vários autores dedicaram -se a estudar a variação no crescimento econômico das regiões e como essa variação pode ser explicada pelos "sistemas de inovação" (Humber t, 1993; Freeman, 1995; Lundvall, 1992; Nelson, 1993; Villaschi, 1993; Reinert, 1997).
+Essa adaptação da teoria do crescimento econômico ficou conhecida como a teoria neoschumpeteriana , pois parte da contribuição seminal de Schumpeter a respeito do papel d a inovação para o desenvolvimento econômico.
+Segundo os teóricos da abordagem neoschumpeteriana , a capacidade de inovar dos países seria um dos determinantes de seu sucesso econômico, sendo esta capacidade um reflexo do grau de maturidade do s eu Sistema Nacional de Inovação.
+O primeiro autor a usar o termo "Sistema Nacional de Inovação" (SNI) foi Lundvall (1992 ), no entanto a ideia de sistemas nacionais de inovação surgiu bem antes com a obra "O Sistema Nacional de Economia Política" de Friedrich List , em 1841, que ao relatar o avanço vivenciado pela Alemanha em relação à Inglaterra, naquela época, defendeu que os países subdesenvolvidos protegessem suas indústrias nascentes além de sugerir a criação de políticas para acelerar ou tornar possível a indu strialização e o crescimento econômico.
+A maioria destas políticas estava preocupada com a aprendizagem e aplicação de novas tecnologias.
+Desde então , muitos trabalhos têm sido realizados na área, (Freeman, 1995; Lundvall , 1992; Nelson , 1993 ; Carlsson , Jacobsson , & Rickne, 2002 ).
+(1993) definem sistema nacional de inovação como um sistema de interação das empresas públicas e privadas, universidades e agências governamentais visando a produção de ciência e tecnologia nas fronteiras nacionais.
+A inte ração entre essas unidades pode ser técnica, comercia l, jurídica, social e financeira , na medida em que o objetivo da interação é o desenvolvimento, proteção, financiamento ou a regulamentação de uma nova tecnologia.
+De forma mais sintét ica, Freeman (1987) define o SNI como uma rede de instituições dos s etores público e privado cujas atividades e interações iniciam, importam, modificam e difundem novas tecnologias.
+A abordagem de SNI preocupa -se principalmente com o fluxo de conhecimento e seu impacto sobre o crescimento econômico.
+Niosi (2002) alerta para a dificuldade de o conhecimento ultrapassar as fronteiras nacionais, devido seu caráter tácito, capital humano difícil de ser transferido sem que as pessoas sejam transferidas .
+Estendendo o conceito de sistema nacional de inovação para o âmbito regional, a transferência de conhecimento é facilitada graças à maior proximidade entre os diversos agentes.
+Focando na geração e difusão de conhecimento entre os agentes de inovação regionais, Braczyk , Schien stock e Steffensen (1995) apresenta m pela primeira vez o conceito de Sistema Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.7, n.1, Setembro/Dezembro – 2019 ISSN: 2319 -0639 DOI: 10.18226/23190639.v7n1.07 Página | 145 Regional de Inovação ( SRI).
+Dentro de um curto espaço de tempo, vários pesquisadores começaram a aplicar o conceito de SNI para estudar sistemas regionais de inovação (C ooke , 2001 , Doloreux, 2002 , Morgan & Nauwelaers, 1999).
+Doloreux e Bitard (2005) definem SRI como um conjunto de atores e organizações (empresas, universidades, centros de pesquisa, etc.)
+que são sistematicamen te envolvidos na intera ção de inovação e aprendizagem através de práticas institucionais comuns.
+A ideia central é que, com o objetivo de reforçar as capacidades inovativas regionais, este conjunto de atores produz efeitos que encorajam as firmas de uma re gião a desenvolver formas específicas de capital que derivam das relações sociais, normas, valores e interações no espaço local.
+Pinto e Guerreiro (2006) analisaram a performance de inovação das regiões europeias com base em uma série de variáveis, com o o bjetivo de identificar dimensões latentes e criar grupos entre as regiões com perfis de inovação semelhantes.
+Por meio de uma análise fatorial foram encontradas quatro dimensões principais (inovação tecnológica, capital humano, estrutura econômica e mercad o de trabalho) relacionadas com a inovação que foram posteriormente utilizadas na análise de clusters que dividiu as regiões europeias em cinco níveis de inovação.
+De forma diferente Buesaa, Heijs e Baumert (2010) investigaram os determinantes da inovação regional na Europa, por meio de uma abordagem da função de produção do conhecimento.
+Com relação ao Brasil, alguns estudos têm sido desenvolvidos com o objetivo de relacionar o desenvolvimento econômico das regiões com os sistemas regionais de inovação.
+Santos e Caliari (2012 ) avaliaram o grau de concentração das estruturas de apoio à inovação tecnológica no Brasil, a partir das cinquenta maiores microrregiões do país.
+Foram utilizadas variáveis relativas ao suporte às atividades tecnológicas destas micror regiões, como presença de pessoal qualificado e de instituições de ensino e pesquisa, e variáveis ligadas ao grau de desenvolvimento econômico.
+Seus resultados mostraram que há uma associação entre as variáveis econômicas e as variáveis ligadas à estrutura de apoio à inovação local bem como uma forte concentração desta em um pequeno número de microrregiões.
+2.3 O Modelo de catching up e o crescimento econômico A diferença tecnológica e econômica entre os países tem chamado atenção de vários pesquisadores , que buscam uma alternativa para diminuir o hiato existente entre eles e promover o desenvolvimento do país atrasado.
+O processo de catching up , frequentemente utilizado para esse fim, consiste n a aquisição de capacidade absortiva realizada por cada país Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.7, n.1, Setembro/Dezembro – 2019 ISSN: 2319 -0639 DOI: 10.18226/23190639.v7n1.07 Página | 146 (região) para obter um maior desenvolvimento.
+Considera -se que graças a alguns fatores, os países menos desenvolvidos podem conseguir um potencial para crescer a uma taxa mais rápida do que o líde r tecnológico, garantindo a convergência da renda per capita entre os países.
+A principal hipótese sobre o conceito de catching up é que o país tecnologicamente atrasado possa crescer a taxas maiores que os países que compartilham a fronteira da tecnologia mundial, simplesmente utilizando os conhecimentos já desenvolvidos pelos países que estão na fronteira tecnológica ( Abramovitz , 1986 ).
+Fagerberg (1988) desenvolve um modelo de catching up partindo da hipótese de que o diferencial de crescimento entre os países é explicado a partir da interação entre ino vação e imitação/difusão nos países líderes e nos seguidores, expresso da seguinte forma: Q = ZDα Nβ Cτ (1) onde: Q= nível de pr odução em um centro (país ou região); Z= constante; D= difusão do conhecimento gerado nos centros líderes ( imitação das inovações externas); N= inovação gerada int ernam ente; C= c apacidade de absorver e explorar produtivamen te os ganhos de co nhecimento tecnológico .
+Diferenciando a expressão e dividindo por Q para transformar as variáveis em taxas de crescimento, tem -se: q = αd + βn + τc (2) Supondo que o potencial da contribuição da difusão da tecnologia disponível externamente (d) para o crescimento econômico depende da distância entre a tecnologia apropriada (T) pelo centro atrasado e a tecnologia apropriada (Tf) pelo centro qu e está na fronteira tecnológica .
+Assim, quanto maior o conheciment o interno, menos o país tende a se beneficiar de inovações desenvolvidas externamente, pode -se escrever da seguinte forma: d = µ - µ(T/T f) (3) em que, μ é o coeficiente de conhecimento (tecnologia) difundido; Substituindo a equação (3) em (2), chega -se a equação final do modelo de Fagerberg (1988): Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.7, n.1, Setembro/Dezembro – 2019 ISSN: 2319 -0639 DOI: 10.18226/23190639.v7n1.07 Página | 147 q = αµ - αµ(T/T f) + βn + τc (4) em que, αμ – αμ (T – Tƒ) = fator de difusão da inovação externa (imitação); βn= fator de inovação interna; τc= capacidade de exploração dos benefícios da tecnologia interna e externa.
+Fagerberg (1994) acred ita que o hiato tecnológico deve ser visto como uma oportunidade de crescimento, porém este não será automático, dependendo fundamentalmente das capacidades sociais do país (região).
+Como pode ser observado pela relação, quanto maior for a capacidade de ex ploração da tecnologia tanto interna quanto externa, maior será a capacidade de a região atrasada realizar o catching up , ou seja, diminuir a diferença existente entre ela e a região considerada líder.
+Dessa forma, a ocorrência de catching up está diretame nte relacionada com o nível de crescimento econômico da região, que por sua vez, depende da capac idade de inovar e absor ver tecnologia da região líder.
+Para o Brasil, a lguns trabalhos foram realizados nesse sentido.
+Lemos , Campos, Biazi e Santos (2006) analisaram o efeito catching up para três regiões metropolitanas emergentes do sul do país em relação a região metropolitana de São Paulo.
+Os autores encontraram que as variáveis de tecnologia, inovação e qualificação da força de trabalho funcionam como fator de atração de empresas de ponta para a região metropolitana de São Paulo e que a insuficiência das capacidades tecnológicas das metrópo les de segundo nível pode representar um fator decisivo na possibilidade destas regiões atraírem os segmentos mais sofisticados da indústria.
+3 Metodologia O modelo adotado consiste na estimação de uma regressão linear múltipla com dados em pai nel.
+Na regr essão linear múltipla assume -se que existe uma relação linear entre uma variável Y (a variável dependente) e k variáveis independentes, x j (j =1,., k).
+As variáveis independentes são também chamadas vari áveis explicativas ou regressore s, uma vez que são utilizadas para explicar a variação de Y. Foi escolhido o método de dados em painel porque de acordo com Gujarati (2011) esta técnica apresenta muitas vantagens no tratamento de dados econômicos à medida que trata das variações cross -section considerando o s efeitos dinâmicos.
+O método de dados em painel possui uma dimensão espacia l e outra temporal, pois trata os dados de corte transversal acompanhados ao longo do tempo.
+O modelo estimado baseia -se no que foi desenvolvido por Fagerberg (1988), descrito Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.7, n.1, Setembro/Dezembro – 2019 ISSN: 2319 -0639 DOI: 10.18226/23190639.v7n1.07 Página | 148 na seção 2.2, cuja relação entre as variáveis é representada pela equação a seguir: Y= α+ β1Pr + β 2Pat + β 3Pd +β4I + ε Y = nível de desenvolvimento econômico; Pr = relação entre o nível de produtividade da região e o nível de produtividade da região mais avançada; Pat = número de patentes; Pd = gastos com pesquisa e desenvolvimento (P&D); I= investimento e m novas máquinas e equipamentos ε = termo de erro.
+Como variável dependente, foi utilizado o produto interno bruto de cada região como proxy para o desenvolvimento econômico , para a escolha das variáveis independentes buscouse abordar os aspectos da inovação: foram utilizadas a produtividade do trabalh o de todas as regiões em relação àquela região mais desenvolvida , os investimentos em P&D de cada região , o número de patentes registradas e o consumo de energia elétrica industria l também em cada região .
+A Figura 1 apresenta as variáveis utilizadas, as proxi es e as fontes de coleta de dados para cada uma delas.
+Os dados coletados para elaboração do painel consistem de informações regionais para o período de 200 0 a 2010 , por ser o período para o qual foram encontrados todos os dados necessários à estimação do modelo .
+Para análise dos dados foi utilizado o software R versão 3.4.
+Variáveis analisadas e fontes Variáveis Analisadas Proxy Fonte Desenvolvimento econômico PIB IBGE1 Capacidade de absorção/imitação de tecnologias geradas Produtividade relativa IBGE Investimento em novas máquinas e equipamentos Consumo industrial de energia elétrica IPEA2 Capacidade de desenvolvimento de novas tecnologias Número de patentes concedidas pelo INPI4 MCTI3 Capacidade de desenvolvimento de novas tecnologias Gastos com P&D por região MCTI Fonte: Elaboração própria a patir dos dados obtidos por 1 IBGE Instituto Brasileiro de Geografia e Estatística.
+2 IPEA – Instituto de Pesquisa Econômica Aplicada.
+3 MTCI – Ministério da Ciência, Tecnologia e Inovação.
+4 INPI – Instituto Nacional de Propriedade Industrial , 2013.
+A variável produtividade relativa, usada como proxy para a capacidade de imitação das regiões, foi construída primeiramente calculando -se a produtividade do trabalho de cada região, dividindo o produto total da região pelo número de trabalhadores.
+Em segui da, a Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.7, n.1, Setembro/Dezembro – 2019 ISSN: 2319 -0639 DOI: 10.18226/23190639.v7n1.07 Página | 149 produtividade do trabalho de cada uma das regiões foi dividida pela produtividade do trabalho da região mais desenvolvida, obtendo -se assim a produtividade relativa.
+Uma maior produtiv idade do trabalho de uma dada região indica que ela tem incorporad o no vas tecnologias no processo pro dutivo.
+4 Discussão e Análise dos Resultados As cinco grandes regiões brasileiras ( Norte, Nordeste, Centro -Oeste, Sul e Sudeste ) são marcadas por diferenças desde sua formação.
+Conforme orienta Siqueira e Siffert (2001) , pensar a questão regional no Brasil, implica levar em consideração a dimensão histórica do desenvolvimento nacional, uma vez que a heterogeneidade entre elas é consequência do modo como as relações sociais capitalistas se desenvolveram ao longo do tempo.
+D esde o período do extrat ivismo no litoral após o d escobrimento, houve diversos ciclos econômicos com contrapartidas regionais específi cas, entre os quais se destacam : o ciclo da cana -de-açúcar na Zona da Mata nordestina, nos séculos XVI e XVII ; o ciclo do ouro em Mina s Gerais, com ápice no século XVIII ; o ciclo da borracha na Amazônia, no final do século XIX e início do século XX ; e o ciclo do café na região Sudeste, a partir de meados do século XIX .
+Como desdobramento do ciclo do café, observou -se a formação da indústria nacional, com a consequente concen tração econômica na região Sudeste até os dias atuais.
+Entre 2002 e 2010 a participação da região Sudeste no PIB nacional correspondia, em média , a 56% do total, a região Sul em segundo lugar de re presentatividade no PIB obteve média de 16,7 %.
+As regiões Norte, Nordeste e Centro -Oeste aumentaram sua participação no Produto Interno Bruto do país, entre 2002 e 2010.
+No Norte, a participação subiu de 4,7% para 5,3%, no Nordeste, de 13% par a 13,5% e no Centro -Oeste, a contribuição passou de 8,8%, em 2002, para 9,3%, em 2010.
+Esse ganho de participação , causado pelo aumento dos investimentos recebidos e programas de transferência de renda, sugere o início de um processo de descentralização da economia, co ntudo , ainda muito lento e incipiente.
+Participação das regiões no PIB Nacional 2002 2003 2004 2005 2006 2007 2008 2009 2010 Norte 4,69 4,78 4,95 4,96 5,06 5,02 5,1 5,04 5,34 Nordeste 12,96 12,77 12,72 13,07 13,13 13,07 13,11 13,51 13,46 Sudeste 56,68 55,75 55,83 56,53 56,79 56,41 56,02 55,32 55,39 Sul 16,89 17,7 17,39 16,59 16,32 16,64 16,56 16,54 16,51 Centro -Oeste 8,77 9,01 9,11 8,86 8,71 8,87 9,21 9,59 9,3 Total 100 100 100 100 100 100 100 100 100 Fonte: Elaborada com base em dados do IBGE (2013 ).
+Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.7, n.1, Setembro/Dezembro – 2019 ISSN: 2319 -0639 DOI: 10.18226/23190639.v7n1.07 Página | 150 Sob o ponto de vista industrial, a Pesquisa de Inovação Tecnológica [PINTEC ] (2008), publicada pelo IBGE , apresenta dados relevant es so bre a situação da inovação d as Grandes Regiões do Brasil .
+De um universo de 106,8 mil empresas no país, apenas 41,3 mil implementaram produto e/ou processo novo ou substancialmente aprimorado no período de 2006 a 2008, o que fornece uma taxa de inovação de 38,6% .
+Destas, 50,95% se encontram na região Sudeste .
+A região Sul corresponde a 24,46% do total nacional.
+O Nordeste 10,01%, o Centro Oeste, 5,41% e, finalmente o Norte com 3,24 %.
+Percebe -se a partir desses percentuais a forte concentração de empresas inovadoras nas regiões Sudeste e Sul.
+Os resultados inova tivos regionais corroboram o indicador do PIB demonstrado anteriormente, pois segundo Freeman (199 5a) o desenvolvimento econômico de um país – analogamente utilizamos região – se dá por meio do processo de acumulação de capital, aumento da produtividade e consequentemente a elevação do padrão médio de vida da população.
+Tanto o PIB quanto a taxa de inovação têm a região Sudeste como líder.
+Situação semelhante ocorre com a distribuição do conhecimento, o Times Higher Education [THE ] (2018 ) identificou 36 instituições brasileiras como de alta performance, destas 15 estão situadas no Sudeste, seguidas de 14 no Sul, 4 no Nordeste, 2 no Centro -Oeste e 1 no Norte.
+Todavia, as primeiras colocadas estavam todas no Sudeste, o que nos faz inferir que a concentração de conhecimento Nacional está na região líder, tal como sugere Romer (1990).
+Outra maneira de observar o esforço das regiões para com o sistema de inovação é olhar para a participaçã o percentual dos dispêndios em P&D com relação à receita total das regiões brasileira s. No período de 2000 a 2010 , a média do total nacional ficou em torno de 1,39% da receita, com indicadores bastante discrepantes entre a região sudeste (2,35) e as demais regiões: Norte, 0,14 ; Nordeste , 0,38; Sul, 0,76 e Centro -Oeste 0,12.
+Percentual dos dispêndios em pesquisa e desenvolvimento (P&D) das regiões em relação às suas receitas totais, 2000 -2010 Regiões 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 Média Total 1,63 1,72 1,55 1,44 1,22 1,19 1,12 1,38 1,33 1,36 1,37 1,39 Norte 0,07 0,06 0,07 0,08 0,05 0,17 0,25 0,21 0,24 0,2 0,2 0,14 Nordeste 0,3 0,44 0,37 0,44 0,37 0,41 0,36 0,48 0,4 0,36 0,34 0,38 Sudeste 2,95 3,03 2,84 2,5 2,03 1,94 1,82 2,25 2,19 2,18 2,22 2,35 Sul 0,54 0,72 0,58 0,59 0,75 0,79 0,74 0,87 0,77 1,07 1,02 0,76 Centro -Oeste 0,01 0,01 0,02 0,03 0,11 0,09 0,08 0,14 0,22 0,31 0,31 0,12 Fonte: Elaborada com base em dados do MCTI (2013 ).
+Para entender as características de cada região no que se refere ao desenvolvimento econômico e tecnológico, inicialmente foram calculadas algumas estatísticas descritivas básicas.
+A tabela 3 apresenta as estatísticas descritivas para as variáveis , produto total, Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.7, n.1, Setembro/Dezembro – 2019 ISSN: 2319 -0639 DOI: 10.18226/23190639.v7n1.07 Página | 151 produtividade, patente, P&D e energia elétrica industrial , obtidas a partir dos dados coletados para as cinco regiões brasileiras no período de 2000 a 2010.
+Estatísticas descritivas para as regiões brasileiras Produto Total* Norte Nordeste Centro -oeste Sudeste Sul Média 112,148 294,47 199,59 1.257,26 376,42 Desvio Padrão 47,78 118,35 88,61 474,93 137,77 Tendência 41,05 118,03 67,20 546,371 170,840 Produtividade Norte Nordeste Centro -oeste Sudeste Sul Média 16,97 11,59 27,83 31,05 24,80 Desvio Padrão 4,01 4,25 10,30 9,96 8,23 Tendência 11,53 5,29 12,45 16,12 12,55 Patente Norte Nordeste Centro -oeste Sudeste Sul Média 1,36 13,82 10,36 480,55 148,18 Desvio Padrão 1,20 4,66 3,23 159,73 29,47 Tendência 1,68 18,54 10,77 634,27 148,54 P&D** Norte Nordeste Centro -oeste Sudeste Sul Média 39,58 216,71 41,24 3.396,57 337,23 Desvio Padrão 32,52 86,25 49,21 1206,98 192,77 Tendência -5,81 90,53 -25,03 1762,08 66,09 Energia Elétrica Norte Nordeste Centro -oeste Sudeste Sul Média 8,26 21,21 3,25 71,99 18,37 Desvio Padrão 1,49 2,28 0,903 4,48 3,58 Tendência 6,31 18,04 1,95 66,82 13,027 *Produto total em bilhões de reais.
+**P&D em milhões de reais Fonte: Dados da Pesquisa (2013).
+As variáveis Patentes e P&D, utilizadas como proxies para c apacidade de desenvolver novas tecnologias, apresentaram diferenças bastante significativas entre as regiões.
+Indicando a falta de investimento no processo de criação de novas tecnologias para as r egiões Norte, Nordeste e Centro -Oeste.
+O Norte do país apresentou uma média preocupante de 1,36 patentes concedidas, com tendência igualmente baixa.
+As estatísticas da variável produtividade não apresentam as disparidades observadas nas demais variáveis, no entanto o Sudeste continua apresentando os valores mais elevados para a média e tendência.
+A região Centro -Oeste aparece em seguida, ficando o Sul em terceiro lug ar.
+Cabe destacar a baixa média de produtividade (11,59) para o Nordeste , ficando em último lugar entre as regiões .
+Pode -se perceber que o valor das variáveis produtividade, patente, P&D e energia elétrica para cada região é proporcional ao valor de seu pr oduto total ou PIB, utilizado como proxy para o nível de desenvolvi mento econômico indicando a possibilidade de haver alguma relação entre o desenvolvimento econômico e fatores ligados à inovação e t ecnologia, tal como relata Poter , & Stern (2002) ao afirm ar que o ambiente externo é tão importante quanto o interno para o desenvolvimento tecnológico.
+Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.7, n.1, Setembro/Dezembro – 2019 ISSN: 2319 -0639 DOI: 10.18226/23190639.v7n1.07 Página | 152 Com base nas estatísticas descritivas obtidas, percebe -se ainda uma tendência de perpetuação dos desequilíbrios entre as regiões brasileiras, com as regiões Su deste e Sul sendo as mais desenvolvidas tecno logicamente e com maior capacidade de gerar inovação.
+Podemos inferir que o Sudeste e o Sul conseguiram desenvolver um "sistema de inovação" (Humbert, 1993; Freeman, 1995; Lundvall, 1992; Nelson, 1993) mais efic iente do que as demais regiões.
+É possível que o Sul e Sudeste tem um sistema de interação entre empresas públicas e privadas, universidades e agências governamentais mais fluido do que as outras regiões (Niosi et al .
+1993), e com base nessa realidade um c iclo virtuoso da inovação perpetuado.
+Por ter apresentado os maiores valores para todas as variáveis pesquisadas, a região Sudeste foi utilizada como base para calcular a produtividade relativa das demais regiões, sendo considerada a região mais desenvolv ida a ser imitada.
+Para identificar em que as regiões devem alocar maiores esforços a fim de diminuir o gap existente entre elas e a região líder, foi estimado um modelo de regressão com dados em painel (conforme descrito na seção 3) e cujos result ados est ão dispostos na Tabela 4 .
+Inicialmente, estimou -se tanto o modelo de efeitos fixos quanto o de efeitos aleatórios, no entanto, para análise f oi escolhido o modelo de efeitos fixos por ser o mais indicado quando se realiza um painel balanceado além de ter sua escolha confirmada pelo teste de Hausman .
+Além disso, optou -se pela forma logarítmica para que fosse possível obter a elasticidade de cada variável independente em relação a variável dependente.
+A elasticidade fornece o tamanho do impacto que a alteração em uma variável exerce sobre outra.
+A equação estimada, que tem como variável dependente o nível de desenvolvimento econômico regional (representado pelo PIB), apresentou todos os resultados (P&D, patente, produtividade e consumo de energia elétrica industrial) significativos ao nível de 5%.
+Resultados da estimação em painel com efeitos fixos Variável Coeficiente Erro Estatística t p-valor Constante 17,48075 * 1,109367 15.75742 0.0000 Produtividade 0,570435 * 0,770621 4.633190 0.0000 Patente 0,048979 ** 0,019225 2.547609 0.0116 P&D 0,419593 * 0,026192 16.01968 0.0000 Energia Elétrica -0,156254 * 0,053419 -2.925090 0.0038 R2 0,90657 DW 1,598032 Teste de Hausman 0.03527 *Nível de significância 1% **Nível de significância 5% Fonte: Resultados da Pesquisa (2013).
+A produtividade relativa foi a variável que apresentou maior influência no produto Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.7, n.1, Setembro/Dezembro – 2019 ISSN: 2319 -0639 DOI: 10.18226/23190639.v7n1.07 Página | 153 total, com uma elasticidade de 0,57, significando que , cada 1% de variação na produtividade relativa, resulta em uma variação no mesmo sentido de 0 ,57% no produto da região.
+Por ter sido utilizada como proxy para a capacidade de absorção/imitação das tecnologias geradas, pode -se inferir que boa parte do nível de desenvolvimento de uma região deve -se a sua capacidade de absorver novas tecnologias.
+O segundo maior coeficiente (0,41) foi encontrado para a variável P&D, indicando a importância que os investimentos no processo de criação de novas tecnologias exerce sobre o produto regional.
+Ainda com relação à capacidade de desenvolvimento de novas tecnologias, a variável Patente, embora significativa, apresentou elasticidade muito baixa (0,04) indicando que uma variação no número de patentes leva a uma pequena vari ação no nível de produto.
+Por fim , a variável Consumo de Energia Elétrica Industrial , que representa o investimento em novas máquinas e equipamentos, apresentou sinal contrário ao esperado indicando que uma elevação no consumo de energia elétrica levaria a uma redução de 0,15 no nível do produto regional .
+Esse resultado pode ter relação com uso de métodos mais modernos e econômicos que desencadeiem resultados produtivos eficientes ou ainda a ampliação das "tecnologias verdes" para geração de energia, tais como eó lica e solar.
+Sendo estas últimas marcadas por um processo de solificação de uso na matriz energética nacional (Alves, 2009; Melo, 2013).
+Com base nesses resul tados, considera -se que para as regiões menos desenvolvidas realiz arem o pr ocesso de catching up em relação à região mais desenvolvida, devem concentrar seus esforços no aume nto da produtividade , ou seja uma região será capaz de aumentar o seu nível de desenvolvimento econômico e se aproximar da região líder se aumentar a sua cap acidade de imitação de novas tecnologias.
+A variável P&D que representa o processo de criação de novas tecnologias, também mostrou -se importante, indicando que as regiões devem aumentar os investimentos em P&D como forma de melhorarem seu nível de desenvol vimento.
+A variável Patente, que representa o final do processo de geração d e novas tecnologias ( registro das inovações realizadas ) apesar de ter coeficiente positivo e significativo esse valor foi abaixo do esperado, indicando uma pequena participação no processo de catching up das regiões menos desenvolvidas.
+5 Considerações finais O objetivo deste trabalho foi analisar a relação existente entre o desenvolvimento econômico e a capacidade de inovação tecnológica no Brasil, considerando as cinco Grandes Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.7, n.1, Setembro/Dezembro – 2019 ISSN: 2319 -0639 DOI: 10.18226/23190639.v7n1.07 Página | 154 Regiões do país.
+A análise dos fatores de inovação e tecnologia para as regiões constituiu uma tentativa de avaliação sob a perspectiva dos S istemas Regionais de Inovação.
+Inicialmente, observou -se por meio de dados publicados e das estatísticas descritivas calculadas a existência de uma forte concentração tecnológica e de desenvolvimento em uma única região.
+Essa concentração pode ser explicada pela relação existente entre as variáveis de desenvolvimento econômico e aquelas utilizadas para representar a capacidade de inovar das regiões .
+A estimação da regressão em painel comprovou essa relação e indicou a produtividade como a variável mais importante, dentre as que foram estudadas, para aumentar o nível de desenvol vimento econômico de uma região, seguida pelos gastos com P&D e números de patentes concedidas.
+A variável investimentos em novas máquinas e equipamentos, representada pelo consumo industrial de energia elétrica foi a única que apresentou relação negativa com o produto total (desenvolvimento econômico).
+Com relação à possibilidade das regiões menos desenvolvidas econômica e tecnologicamente alcançarem o nível de desenvolvimento da região Sudeste, pela realização do catching up não parece u ser um processo que esteja em andamento.
+De acordo com os coeficientes encontrados com a regressão, se as regiões quiserem diminuir o gap existente devem aume ntar seus esforços na produtividade e imitação das tecnologias desenvolvidas na região líder, bem como aumentar seus g astos com Pesquisa e Desenvolvimento.
+Dito de outra forma, de acordo com os resultados obtidos e as hipóteses do modelo de catching up , se as regiões menos desenvolvidas investirem tanto na imitação de tecnologias externas, que elevem a prod utividade , quan to no processo de desenvolvimento de novas tecnologias, P&D, a uma taxa maior que a região mais desenvolvida, conseguirão aumentar o ritmo de crescimento do produto aumentando suas chances de realizar o catching up .
+Se, ao contrário, a região desenvolvida continuar investindo a taxas mais elevadas que as demais regiões o gap existente entre elas irá aumentar ainda mais.
+Os resultados encontrados chamam a atenção para inclusão da inovação na agenda do governo, tanto a nível nacional quanto regional ou local.
+Confor me coloca Nobrega (2007 ) a questão inovação está intimamente ligada ao sistema operacional do país, no nosso caso região, sendo influenciada e facilitada por coisas como a qualidade do sistema judiciário, tempo necessário para abrir uma empresa, tamanho do mercado informal entre outros fatores.
+De acordo com o autor , reformar o sistema jurídico e político do Brasil é mais importante para a inovação do que realizar "investimentos em inovação".
+Acredita -se, portanto, que a atuação governamental seja essencial para promover a criação de um sistema regional de inovação capaz de atenuar as diferenças no Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.7, n.1, Setembro/Dezembro – 2019 ISSN: 2319 -0639 DOI: 10.18226/23190639.v7n1.07 Página | 155 desenvolvimento econômico e tecnológico entre as regiões.
+A tendência aqui encontrada, caso não ocorram as mudanças necessárias, é de manutenção da concentração da capacidade de inovação tecnológica e, consequentemente , concentração econômica no Brasil.
+Cabe, então, ao Estado, intervir de modo a fornecer também às regiões menos desenvolvidas condições de imitar a região líder e m inovação e tecnologia, aumentar os investimentos em a tivos de pesquisa e desenvolvimento , fortalecer parcerias entre empresas e universidade, bem como criar políticas de fomento à inovação, fundamentais no atual contexto econômico.
+Como limitação do trabalho, verificamos a não atualização sistemáticas dos d ados nas plataformas públicas disponibilizadas pelas instituições públicas nacionais.
+Isso gera uma lacuna temporal significativa no que tange a análise do cenário atual.
+Como sugestão para futuras pesquisas, propomos verificar atravé s de um estudo longitu dinal onde possa comparar os resultados ao longo do tempo e seu impacto no desenvolvimento econômico.
+Sugerimos ainda, o cruzamento destes dados com outros indicadores, sejam eles relaciona dos à economia ou ao impacto na qualidade de vida verificada nas re giões, a exemplo do IDH.
+(1986) Catching up, forging ahead and falling behind.
+Journal of Economic History , 46, 385–406.
+Análise regional da energia eólica no Brasil.
+Revista Brasileira de Gestão e Desenvolvimento Regional, 6(1), 165 -188.
+Braczyk, H. -J., Schienstock, G. & Steffensen, B.
+The region of Baden -Württemberg: A post fordist success story?
+In: E. J. Dittrich, S. Schmidt & R. Whitley (eds.
+), Industrial transformation in Europe: Process and contexts , 204–233.
+& Baumert, T. (2010) The determinants of regional innovation in Europe: A combined factorial and regression knowledge production function approach.
+Innovation systems: Analytical and methodological issues.
+Castells , M. (2002) A sociedade em rede .
+Cooke , P. (1998) Introduction: origins of the concept.
+In Braczyk, H; Cooke, P.; H idernreich, M (Ed).
+Cooke , P. (2001) Regional innovation systens, clusters, a nd the knowledge economy.
+Industrial and Corporate Change , 10 (4), 945 -974.
+Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.7, n.1, Setembro/Dezembro – 2019 ISSN: 2319 -0639 DOI: 10.18226/23190639.v7n1.07 Página | 156 Doloreux, D .
+& Bitard, P. (2005) Les systèmes régionaux d'innovation: discussion critique.
+Géographie Économie Société , 7, 21 -36.
+Doloreux , D. (2002) What we should know about regional systems of innovation?
+Technology in Society: An International Journal .
+Drucker, P. (1997) Como reagir às mudanças .
+Índice Global de Inovação de 2017: A inovação nutrindo o mundo (10a ed.).
+(1994) Technology and International Differences in Growth Rates, Journal of Economic Literature , 32, 1147 -1175.
+Fagerberg, J., Why Growth Rates Differ.
+In: Dossi, G., Freeman, C., Nelson, R., Silverberg, G. & Soete, L. (1988) Technical change and economic theory.
+The 'National System of Innovation' in historical perspective .
+Cambridge Journal of Economics , 19(1), 5 –24.
+Freeman, C. (1987) Technology Policy and Economic Performance : Lessons from Japan.
+Innovation and Growth .In: The Handbook of Industrial Innovation , (Cap.
+Gujarati, D. N. (2011) Econometria Básica (5a ed.)
+Humbert, M. (1993) The Impact of Globalisation on Europe's Firms and Indu stries .
+IBGE – Instituto Brasileiro de Geografia e Estatística.
+Recuperado em maio, 2013 de 10_zip.shtm Lam, A.
+(2 005) Organizational Innovation (Cap.
+The Oxford Handbook of Innovation , Oxford: Oxford University Press.
+Patterns of technological innovation and evolution in the energy sector: A patent -based approach.
+Lemos, M., Campos, B., Biazi, E .
+& Santos, F. (2006) Capacitação Tecnológica e Catching Up: o caso das regiões metropolitanas emergentes brasileiras.
+Revista de Economia Política , 26(1), 95 -118.
+(1992) National Systems of Innovation: Towards a Theory of Innovation and Interactive Learning .
+MCTI – Minis tério da Ciência Tecnologia e Inovação.
+Indicadores Nacionais de Ciência, Tecnologia e Inovação (CT&I).
+Recuperado em maio, 2013 de Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.7, n.1, Setembro/Dezembro – 2019 ISSN: 2319 -0639 DOI: 10.18226/23190639.v7n1.07 Página | 157 Melo, E. (2013).
+Fonte eólica de energia: aspectos de inserção, tecnologia e competitividade.
+Estudos Avançados, 27(77), 125 -142.
+Morgan, K. & Nauwelaers, C. (1999) Regional Innovation Strategies: the Challenge for LessFavoured Region s, London: The Stationery Office and The Regional Studies Association , Taylor and Francis Group, Routledge.
+National Innovation Systems: A Comparative Analysis .
+(2002) National systems of innovation are x -efficient.
+Niosi, J., Saviotti, P., Bellon, B .
+& Crow, C. (1993) National Systems of Innovation: in search of a workable concept.
+Technology in Society , 15(2), 207 -27.
+Nobrega, C. (2007) Por que o Brasil é ruim de inovação?
+Organização para a Cooperação e Desenvolvimento Econ ômico (OCDE), (2005) Manual de Oslo (3a.
+Diretrizes para Coleta e Interpre tação de Dados sobre Inovação, Autores.
+PINTEC - Pesquisa Industrial de Inovação Tecnológica , (2013).
+Recuperado em julho, 2013 de pintec.ibge.gov.br.
+As dimensões latentes da inovação: o caso das regiões europeias.
+Estudos Regionais, 13, 83 – 101.
+Inovação e localização de mãos dadas .
+Reinert, E. (1999) The Role of the State in Economic Growth.
+Journal of Economic Studies , 26(4/5), 268 -326.
+Endogenous Technological Change .
+The Journal of Political Economy , 98(5), S71 -S102.
+Santos, U. P. & Caliari , T. (2012, dezembr o).
+Distribuição espacial das estruturas de apoio às atividades tecnológicas no brasil: uma análise multivariada para as cinquenta maiores microrregiões do país.
+Encontro Nacional de Economia, Salvador, BA, Brasil.
+(1982) Teoria do desenvolvimento econômico: uma investigação sobre lucros, capital, crédito, juro e o ciclo econômico.
+Desenvolvimento Regional no Brasil: Tendências e Novas Perspectivas.
+Revista do BNDES , 8(16), 79 -118.
+An Inquiry into the Nature and Causes of the Wealth of Nations .
+William Strahan e Thomas Cadell Editoras.
+World University Rankings 2018.
+Recuperado em 15 janeiro, 2019 de -university -rankings.
+Revista Brasileira de Gestão e Inovação – Brazilian Journal of Management & Innovation v.7, n.1, Setembro/Dezembro – 2019 ISSN: 2319 -0639 DOI: 10.18226/23190639.v7n1.07 Página | 158 Villaschi, A. F. (1993).
+The Brazilian National System of Innovation: opportunities and constraints for Transforming Techn ological Dependency.
+University of London , United Kingdom .
+Knowledge and the Wealth of Nations: A Story of Economic Discovery .

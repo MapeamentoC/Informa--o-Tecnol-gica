@@ -1,0 +1,393 @@
+EALR, V. 12, nº 3, p. 614 -634 , Set -Dez, 2021 EALR, V. 12, nº 3, p. 614 -634 , Set -Dez, 2021 614 Universidade Católica de Brasília – UCB Brasília -DF Economic Analysis of Law Review Pedro Henrique Batista de Barros 1 Universidade de São Paulo (FEA/ USP) Adirson Maciel de Freitas Júnior 2 Universidade de São Paulo (Esalq/ USP) Cleise Maria de Almeida Tupich Hilgemberg 3 Universidade Estadual de Ponta Grossa (UEPG) RESUMO Este trabalho tem como finalidade principal encontrar os determinantes da inovação tecnológica na região Sul do Brasil no período de 2004 a 2016.
+A investigação buscará identificar os determinantes da produção de conhecimento nas microrregiões sulinas nos estados de SC, RS e PR, além do impacto da positivação, respectivamente, das Leis Estaduais de Inovação promulgadas em 2008, 2009 e 2012.
+A função de produção de conheci mento (FPC) abordagem teórica e metodológica adotada foi estimada por meio de um modelo de regressão com dados em painel.
+Os anos foram escolhidos com o intuito de retratar a implementação das leis de inovação dos estados do Sul, todas criadas no período considerado.
+Utilizou -se como proxy o número de patentes de inovação por estas serem capazes de captar esforços em desenvolvimento tecnológico.
+Os principais resultados apontaram que a criação das leis de inovação pelos estados são atributos que podem ter auxiliado na consolidação de seus respectivos ambientes inovativos.
+Além disso, constatouse que o Paraná, último estado da região a criar sua lei, perdeu relevância no Sistema de Inovação da região Sul, relativamente ao Rio Grande do Sul e a Santa Catarian a. Ademais, alguns elementos se destacaram na FPC para explicar a produção de conhecimento nas microrregiões sulinas, em especial a quantidade de P&D empreendida pelo setor privado, a quantidade de pesquisadores mestres e doutores e, por fim, a densidade de emprego, proxy para a externalidade de aglomeração .
+ABSTRACT This paper aims to find the determinants of technological innovation in the southern region of Brazil from 2004 to 2016.
+The research will seek to identify the determinants of knowledge production in the southern microregions in the states of SC, RS and PR, as well as the impact of the approval of the State Innovation Laws enacted in 2008, 2009 and 2012, respectively.
+The knowledge production function (KPF) theoretical and methodological approach used was estimated using a regression model with panel data.
+The years were chosen in order to capture the implementation of the innovation laws of the southern states, all created during the period considered.
+It was used as proxy the number of patents of innovation by these are able to capture efforts in technolog ical development.
+The main results are that the creation of state innovation laws may have helped consolidate their respective innovative environments.
+In addition, it was found that Paraná, the last state in the region to create its law, lost relevance in the Innovation System of the South region, relative to Rio Grande do Sul and Santa Catarina.
+Some elements were identified in the KPF as important to explain knowledge production in the southern microregions, especially the amount of R & D undertaken by the private sector, the number of master and doctoral researchers and, finally, employment density, proxy for externality of agglomeration .
+Palavras -chave: Sistema Regional de Inovação; Leis de Inovação; Painel de Dados .
+Keywords: Regional Innovation System; Innovation Laws; Panel Data .
+R: 11/11/18 A: 19/01/21 P: 31/12/21 1 E-mail: pedrohbarros@usp.br 2 E-mail: adirson@usp.br 3 E-mail: cmatupich@gmail.com Determinantes da Inovação na Região Sul do Brasil de 2004 a 2016: uma Perspectiva a partir das Leis Estaduais de Inovação Determinants of Innovation in Brazil ian Southern Region from 2004 to 2016: a Perspective from the State Innovation Laws Pedro Henrique Batista de Barros , Adirson Maciel de Freitas Júnior, Cleise Maria de Almeida Tupich Hilgemberg 615 EALR, V. 12, nº 3, p. 614 -634 , Set -Dez, 2021 Universidade Católica de Brasília – UCB Brasília -DF 1.
+Introdução desenvolvimento econômico de um país está associado dentre outros fatores à sua capacidade de gerar conhecimento científico e tecnológico , pois estes são passíveis de se transform arem em inovações.
+Estas, por sua vez, geraram aumentos de produtividade e competitividade para a economia e , consequentemente levam ao aumento do produto.
+A inovação de um país ou região está associado ao nível de desenvolvimento de seu Sistema Nacional ou Regional de Inovação (FREEMAN, 1987; LUNDVALL, 1988; COOKE, 2004).
+Dentro desses sistemas, os institutos de pesquisa científica e tecnológica assumem um papel centra l na criação de inovações por serem um dos principais agentes geradores de conhecimentos que podem resultar em patentes.
+Entretanto, a geração de conhecimentos e inovações, muitas vezes, incorre em altos custos e, conforme Romer (1993), devido característi ca de ser em bens não riva is, os retornos obtidos com a invenção são normalmente insuficientes para gerar incentivos ao seu desenvolvimento, resultando em subdesenvolvimento.
+Por outro lado , segundo Douglas North (1981), o desenvolvimento de direitos de pro priedade intelectual, base jurídica para o sistema de patentes, é um dos principais responsáveis pelo moderno crescimento econômico.
+Portanto, podese inferir que a consolidação de instituições que garantam os direitos de propriedade intelectual em determinado país é uma condição essencial para o seu desenvolvimento econômico.
+O Brasil, reconhecendo a importância da inovação para o des envolvimento, criou, em 2005, a chamada Lei de Inovação Brasileira (Lei nº 10.973 de 2005 , posteriormente ampliada por meio da Lei nº 13.243, de 2016) , regulamentada pelo Decreto nº 9.283, de 7 de fevereiro de 2018 .
+Seu principal objetivo foi estabelecer diretrizes legais específicas para o licenciamento de patentes de entidades públicas e criar uma maior segurança jurídica no patenteamen to e seu posterior licenciamento a terceiros.
+Dito de outra maneira, buscou uma consolidação no direito de propriedade intelectual no país.
+A insegurança jurídica pela falta de uma legislação clara sobre o assunto, no período anterior à criação da lei de inovação, inibiu o fortalecimento e desenvolvimento do sistema de inovação brasileiro e das inter-relações entre os agentes desse sistema (FUJINO e STAL, 2004).
+Fatos tais que foram objetivos específicos da legislação citada, conforme a própria Lei nº 13.2 43 em seu Art.
+1º, que buscou estabelecer ".medidas de incentivo à inovação e à pesquisa científica e tecnológica no ambiente produtivo, com vistas à capacitação tecnológica, ao alcance da autonomia tecnológica e ao desenvolvimento do sistema produtivo n acional e regional do País, nos termos dos arts.
+23, 24, 167, 200, 213, 218, 219 e 219-A da Constituição Federal ".
+Diversos estados brasileiros, devido às suas particularidades, desafios e oportunidades próprias, estabeleceram posteriormente leis locais para incentivar a consolidação de seus Sistemas Regionais de Inovação tendo como base a Lei de Inovação Brasileira.
+Esse é o caso dos três estados analisados neste trabalho.
+O primeiro deles foi Santa Catarina , que instituiu a Lei d e Inovação Tecnológica nº 14.328, de 15 de janeiro de 2008.
+Logo em seguida, o Rio Grande do Sul criou a Lei n º 13.196, de 13 de julho de 2009.
+Finalmente, o Paraná estabe leceu a sua lei de inovação, a Lei nº 17.314 de 24 de setembro de 2012.
+Neste contexto, o presente trabalho tem como finalidade verificar como esse processo impactou na inovação tecnológica das microrregiões da Região Sul do Brasil, por meio da análise da criação de patentes na região.
+A investigação buscará identificar os determinantes da produção de conhecime nto nas microrregiões sulinas no período de 200 4 a 201 6.
+A função de produção de conhecimento (FPC), como ficou conhecida após o trabalho seminal de Griliches (1979), será O Determinantes da Inovação na Região Sul do Brasil de 2004 a 2016: uma Perspectiva partir das Leis Estaduais de Inovação EALR, V. 12, nº 3, p. 614 -634 , Set -Dez, 2021 616 Universidade Católica de Brasília – UCB Brasília -DF utilizada como base para o presente trabalho, assim como a sua versão ampliada de Ja ffe (1989) que incorporou a noção de localização geográfica na análise da FCP.
+A utilização do número de patentes como proxy para captar o desenvolvimento tecnológico tem sido amplamente utilizada por pesquisadores do tema (ALBUQUERQUE et al., 2002; GONÇALVES, 2007; MIRANDA E ZUCOLOTO, 2015).
+Isso ocorre, segundo Miranda e Zucoloto (2015), porque as patentes são um importante i ndicador de que há uma presença de "conhecimento com perfil inovador e um sistema que comporta o seu desenvolvimento ", além de ser resultado do direito de propriedade intelectual .
+Portanto, ao analisar o número de patentes d as microrregiões dos estados do sul do país, indiretamente pode -se inferir sobre a contribuição que cada um deles tem no desenvolvimento tecnológico do Sistema Regional de Inovação , além de inferir sobre a consolidação das instituições garantidoras de propriedade intelectual , após a cria ção da Lei nº 10.973 em âmbito nacional e das leis estaduais nº 14.328, nº 13.196 e nº 17.314 .
+Este artigo está estruturado em mais quatro seções , além desta .
+A segunda aborda o referencial teórico sobre Sistemas de Inovação, tanto de uma perspectiva nacional quanto regional.
+Na terceira seção, buscou -se apresentar a metodologia e a base de dados utilizada no estudo .
+Os resultados encontrados e sua análise são realizadas na quar ta seção.
+Finalmente, a quinta seção apresenta as considerações finais.
+Sistemas de Inovação e o Desenvolvimento Regional e Nacional Segundo Cassiolato (1999) , a inovação e o desenvolvimento de novas tecnologias não ocorrem de forma isolada no ambiente intrafirma .
+Para que haja desenvolvimento de novas tecnologias é necessário que exista influência de fatores externos como, por exemplo, as instituições dos países e das regiões nos quais a empresa está inserida.
+Não é, portanto, resultado apenas de decisões tomadas pelos gestores das firmas, mas sim da soma de um conjunto de variáveis tanto internas quanto externas.
+Desta forma, o espaço é um elemento importante a s e considerar em uma análise do processo de desenvolvimento inovativo.
+Schumpeter (1939) identificou na capacidade inovativa o elemento essencial para o desenvolvimento econômico por ela ser capaz de gerar novas combinações no processo produtivo, inserindo novos produtos, meios e modos de produção que elevam a produtividade e, consequentemente , o aumento do produto per capita.
+A ideia de Sistemas de Inovação (SI) surgiu a partir de estudos de autores conhecidos como neo-schumpeterianos, dentre eles, Freema n (1987), Nelson (1988) e Lundvall (1988) , que caracteriza a inovação como resultado de um processo de interação entre diversos atores que podem servir tanto como incentivadores quanto como limitadores da dinâmica inovativa.
+Resumidamente, os SI são caract erizados por : "i) a importância da inovação como fonte de crescimento da produtividade e do bem -estar material; e ii) a compreensão da inovação econômica como um processo complexo e dinâmico que envolve diversas instituições" (SBICCA, 2001).
+Os desenvolved ores da noção de Sistema de Inovação foram fortemente influenciados pelos trabalhos de Friedrich List (1841), que já havia defendido ideias semelhantes no século XIX, além do próprio Schumpeter (1939).
+List (1841), por exemplo, defendia que as indústrias deveriam se aproximar da ciência e da tecnologia, pois estas teriam o poder de melhorar seus processos produtivos e técnicos, ajudando -as na competição.
+Além disso, em seu livro National System of Political Economy , Pedro Henrique Batista de Barros , Adirson Maciel de Freitas Júnior, Cleise Maria de Almeida Tupich Hilgemberg 617 EALR, V. 12, nº 3, p. 614 -634 , Set -Dez, 2021 Universidade Católica de Brasília – UCB Brasília -DF de 1841 , ele critica autores clássicos, como Adam Smith, por não levarem em conta o papel da ciência e da tecnologia no crescimento das nações.
+List (1841), também defendeu que os diversos atores da sociedade, especialmente o Estado, deveriam criar uma infraestrutura mínima que incentivasse o de senvolvimento científico e tecnológico , enfatizando, principalmente, a necessidade de se aumentar o nível educacional e o treinamento técnico da população para que ela possa operar e, até mesmo, contribuir no processo de desenvolvimento tecnológico.
+Apesar da inovação e do avanço científico e tecnológico já terem sido identificados como importantes para o desenvolvimento de um país, como mostraram List (1841) e Schumpeter (1939), a primeira referência explícita do conceito de Sistema de Inovação foi feita por Freeman , em 1987 , na sua obra Technology Policy and Economic Performance: lessons from Japan.
+Com ela, o autor buscou verificar quais fatores fizeram o Japão alcançar, em poucas décadas, um desenvolvimento econômico e tecnológico avançado relativamente ao atraso que o país se encontra va no fim da Segunda Guerra Mundial.
+O principal fator identificado por Freeman (1987) para o avanço do Japão foi devido ao grande esforço de pesquisa e desenvolvimento que esse país realizou, o que possibilitou suas firmas competirem e ganharem cada vez mais mercado no comércio internacional.
+Num desenvolvimento posterior, Freeman (1988) defende que o Estado é uma peça chave na construção de um Sistema de Inovação bem -sucedido que consiga gerar inovações e desenvolvimento ec onômico .
+O autor destaca especialmente o papel do governo na articulação entre o sistema educacional e o setor produtivo, por meio de criação mão -de-obra qualificada, pesquisa básica e aplicada que, posteriormente, podem se transformar em avanços tecnológicos.
+Esses, por sua vez, podem ser empregados na produção, elevando a produtividade e a competitividade das firmas.
+A grande inserção do Japão, por exemplo, no comércio internacional, na segunda metade do século XX, é uma consequência dessa articu lação bemsucedida.
+A relação entre os produtores de ciência e tecnologia e seus usuários é de extrema importância para o bom funcionamento de um sistema de inovação, conforme indicado por Lundvall (1988).
+Isso ocorre porque é por meio dessa interação que os resultados dos esforços despendidos em pesquisa e desenvolvimento se transformam em ganhos de produtividade, devido a mudanças no setor produtivo.
+Lundvall (1988) identificou duas formas principais de interação entre os agentes inovativos e os produtivo s. A primeira diz respeito a dentro do próprio processo de produção, pois existem componentes que possibilitam melhorias técnicas, como também novas formas de se realizar tarefas rotineiras, consistindo em formas de aprendizado.
+As mais relevantes, segundo o autor, são o learning - by-doing e learning -by-using que são formas dos usuários de determinada tecnologia aumentarem suas produtividades conforme ganham experiência, aprendendo as melhores formas de se manusear os instrumentos rotineiros no ambiente de trabalho.
+A segunda, por sua vez, está relacionada com o poder das inovações em mudar e alterar o processo de produção, seja de forma incremental, seja radical, o que é mais dependente de atores externos à firma.
+Nelson (19 93) ressaltou a importância que a inovação, conseguida por meio de pesquisa e desenvolvimento (P&D), é o fator mais importante da dinâmica e desenvolvimento do capitalismo moderno.
+Esse desenvolvimento, porém, não se dá de forma isolada e independente, ele está relacionado com atitudes e caminhos tomados anteriormente, ou seja, está associado a uma construção histórica.
+O sistema de inovação, portanto, tem um caráter evolutivo, sendo que características passadas influenciam o comportamento futuro.
+Nelson Determinantes da Inovação na Região Sul do Brasil de 2004 a 2016: uma Perspectiva partir das Leis Estaduais de Inovação EALR, V. 12, nº 3, p. 614 -634 , Set -Dez, 2021 618 Universidade Católica de Brasília – UCB Brasília -DF (1996) também ressalta a importânci a do P&D interno realizado nas empresas, assim como a interação que elas estabelecem com universidades e outros institutos de pesquisa.
+Quanto maior for a aproximação e a interação, maior será o potencial de desenvolvimento do sistema de inovação.
+As unive rsidades e institutos de pesquisa são, segundo Dosi (1988), os principais elementos de um sistema de inovação regional ou nacional.
+É por meio delas que ocorre a difusão de conhecimentos científicos e tecnológicos.
+Essa difusão só ocorre, porém, se houver uma interação com os agentes produtivos do sistema.
+Nelson e Rosenberg (1993) também ressaltam a importância que as universidades desempenham num SI por atuarem como instituições que dão suporte às firmas.
+A verificação da composição e da dinâmica de inter ação de um sistema de inovação em nível regional, segundo Johnson e Lundvall (2005), é essencial para o funcionamento do sistema nacional.
+As regiões que compõem um país podem possuir características diferentes entre si, influenciando de forma distinta o s istema como um todo.
+Uma localidade, por exemplo, pode ter o mesmo nível de universidades e centros de pesquisa que as demais e, mesmo assim, ter uma dinâmica inovativa maior devido a um melhor ambiente institucional que possibilita maior interação e siner gia entre os membros daquela determinada região.
+Esses fatores podem resultar no surgimento de padrões espaciais distintos entre as regiões.
+Freeman (1998) também mostra que, ao estudar o funcionamento de um Sistema de Inovação, é importante focalizar as d iversas regiões que o compõe, buscando entender suas características próprias relativamente às demais.
+Analisar apenas o Sistema de Inovação nacional, ignorando seus componentes regionais, pode levar a dificuldades de se entender as razões e motivos para d eterminado comportamento do SI nacional.
+Cooke (1992) e Cooke et al (1997) buscaram aprofundar a abordagem regional para os Sistemas de Inovação.
+Os autores acreditam que empresas que se localizam próximas umas das outras, formando clusters espaciais , poss uem vantagens em relação as demais que não pertencem.
+Cooke (2004) enfatizou a importância que o governo regional tem no funcionamento de alguns sistemas de inovação locais.
+O autor os chamou de Sistemas Regionais de Inovação Institucional ( Institutional R egional Innovation System ).
+A atuação do governo regional nesses sistemas se dá principalmente, segundo Cooke (2004), por meio de instituições públicas geradoras de conhecimento científico e tecnológico, como universidades e institutos de pesquisa.
+Portant o, para melhor entender como é a dinâmica e funcionamento de um Sistema Regional de Inovação é importante entender como as universidades e institutos financiados pelo governo regional contribuem para o sistema local a partir de inovações.
+Entretanto, segundo Douglas North (1981), quando os direitos de propriedade intelectual não são assegurados pelas instituições de determinado país, mesmo havendo condições propícias para a inovação, essa pode não ocorrer.
+Conforme o autor: O que determina a taxa de desenvolvimento de novas tecnologias e do conhecimento científico puro?
+No caso da mudança tecnológica, a taxa de retorno social do desenvolvimento de novas técnicas provavelmente sempre foi alta, mas seria de se esperar que, até os meios de aumentar a taxa de retorno privada do desenvolvimento de novas técnicas serem concebidos, haveria um progresso lento no engendramento de novas técnicas [.]
+Durante todo o passado da humanidade, foram desenvolvidas continuamente novas técnicas , mas a um ritmo lento e intermitente.
+A principal razão é que os incentivos para o desenvolvimento das novas técnicas aconteceram apenas esporadicamente.
+Normalmente, as inovações podiam ser copiadas por terceiros, sem Pedro Henrique Batista de Barros , Adirson Maciel de Freitas Júnior, Cleise Maria de Almeida Tupich Hilgemberg 619 EALR, V. 12, nº 3, p. 614 -634 , Set -Dez, 2021 Universidade Católica de Brasília – UCB Brasília -DF nenhum custo e sem qualquer recompen sa ao inventor ou inovador.
+A incapacidade de desenvolver, até tempos bastante modernos, direito de propriedade sistemáticos no campo da inovação foi uma importante causa da lentidão na mudança tecnológica.
+(DOUGLAS NORTH, 1981, p. 164) Em relação ao Sist ema de Inovação brasileiro , Albuquerque (1996) buscou caracterizá -lo e para isso buscou estabelecer diferenças básicas existentes entre os sistemas de inovação para posteriormente identificar em qual deles se encontra o Brasil, o autor os dividiu em três p rincipais categorias, sendo elas: i.
+A primeira categoria é composta por aqueles sistemas que possibilitam os países a se manterem na fronteira do desenvolvimento tecnológico e científico, com uma grande geração de conhecimento científico e tecnológico.
+É o caso, por exemplo, dos principais países capitalistas como os Estados Unidos, Alemanha e Japão.
+A segunda categoria é caracterizada por sistemas que têm como finalidade principal a difusão das tecnologias e conhecimentos gerados nos países que possue m sistemas de inovações mais robustos e consolidados.
+A terceira, por sua vez, é aquela que ainda está num estágio de consolidação, apresentando deficiências tanto na geração quanto na difusão de conhecimentos e tecnologias.
+Portanto, são sistemas ain da imaturos que não conseguem contribuir de forma significativa para o desenvolvimento do país.
+O Brasil, segundo Albuquerque (1996) e Villaschi (2005), está inserido na terceira categoria de sistema de inovação, apresentando uma infraestrutura inadequada para o desenvolvimento científico e tecnológico, como também uma baixa interação dos agentes que compõem o sistema.
+Portanto, os autores caracterizam o Brasil como um sistema imaturo , sendo que a falta de instituições e uma base jurídica sólida que garanta m os direitos de propriedade intelectual são os principais responsáveis para tal contexto.
+al (2010), por sua vez, buscando investigar a desigualdade interestadual no país no período de 1990 a 2001 também encontraram evidências de concentração espacial da inovação brasileira , com a existência de clusters espaciais significativos da atividade inventiva no país .
+Apesar disso, identificaram evidências da ocorrência de um processo de convergência entre os estados brasileir os, ou seja, regiões com sistemas de inovação menos desenvolvidos apresentaram uma taxa de crescimento maior em suas inovações do que regiões mais consolidadas.
+Freitas Júnior e Barros (2019) também identificaram que a produção de conhecimento tecnológico no Brasil está concentrad a principalmente na região Sudeste e Sul do país.
+Resultados semelhantes foram obtidos por Oliveira et al.
+(2017) que também identificaram uma concentração espacial da atividade inovadora no Brasil, além da ocorrência de um processo de catching up entre as regiões.
+(2017) encontrou evidências de que o Sistema de Inovação brasileiro está mudando sua distribuição, deixando de ser concentrado no estado de São Paulo, com o deslocamento das inovações principalmente para o Sul do Brasil e para os demais estados do Sudeste .
+(2019) confirmou a hipótese de catching up para os municípios sulinos, identificando um processo de homogeneização do progresso tecnológico da região.
+Dessa forma , o presente trabalho buscará verificar os determinantes da função de produção da inovação no Sul do país e o impacto das Leis de Inovação estaduais no Sistema de Inovação da Determinantes da Inovação na Região Sul do Brasil de 2004 a 2016: uma Perspectiva partir das Leis Estaduais de Inovação EALR, V. 12, nº 3, p. 614 -634 , Set -Dez, 2021 620 Universidade Católica de Brasília – UCB Brasília -DF região.
+Para tanto, na seção seguinte apresenta -se uma discussão sobre a base de dados e a metodologia que permitem apresentar alguns ensaios sobre o tema proposto.
+Função de Produção de Conhecimento (FPC) A Função de Produção de Conhecimento (FPC) foi inicialmente formulada em Griliche (1979) e Griliche (1984).
+Posteriormente, Jaffe (1989) expandiu o modelo para aplicá -lo à unidades geográficas, ampliando, dessa forma, o escopo de análise da produção de conhecimento.
+Desde então, diversos trabalhos têm aplicado a FPC na busca de entender e analisar os determinantes do processo inovat ivo em diversos países e regiões (ACS ET AL, 1994; ANSELIN ET AL, 1997; CRESCENZI ET AL., 2007; FRITSCH AND SLAYSTCHEV, 2007; GONÇALVES E ALMEIDA, 2009; MONTENEGRO ET AL, 2011).
+Dessa forma, a FPC, seguindo a abordagem adotado por Jaffe (1989), pode ser representada da seguinte forma : log(𝑃𝑖𝑡)= 𝛽𝑘log(𝑰𝒌)+ 𝜖𝑖𝑡 (1) Onde 𝑖 se refere a unidade de observação ( microrregiões ); 𝑡 é um índice de tempo; 𝑃 é o número de patentes por cem mil habitantes ; 𝐼 é um vetor com k insumos geradores de conhecimento.
+Para se estimar os modelos acima será utilizado o método de regressão com dados em painel.
+Tal escolha se deve ao fato de que a geração de conhecimento ao longo do tempo pode não estar simplesmente relacio nado com os insumos explicitamente incluídos na FPC , mas também com características próprias de cada microrregião incluíd a no modelo.
+O método de dados em painel possibilita justamente captar essa heterogeneidade dos elementos contidos na amostra que não pode ser identificada de forma direta e, portanto, acabaria indo para o termo de erro , enviesando as estimativas quando estão correlacionadas com as variáveis explicativas.
+Por isso, a estimação por um modelo clássico de regressão linear não seria a melhor especificação, pois , nesses casos, há a quebra de uma das suas hipóteses básicas: a de ausência de auto correlação entre as variáveis explicativas e o termo de erro.
+Isso pode tornar o modelo viesado e inconsciente.
+Dessa forma, a utilização da regressão c om dados em painel tem como objetivo minimizar o viés e tornar o modelo consistente, ou seja, simétrico e com menor variância possível.
+Sendo assim, possibilitando a melhor captura da dinâmica verdadeira apresentada pelo fenômeno por meio da identificação da heterogeneidade não observada ( 𝜃𝑖𝑡).
+Para efeitos de comparação, serão estimados basicamente dois modelos alternativos, o modelo de efeito fixo (fixed effect – FE) e o modelo de efeito aleatório (random effect – RE).
+Posteriormente, realiza -se o Te ste de Hausman para identificar qual modelo é o mais adequado aos presentes dados.
+Por fim, compara -se o melhor modelo com aquela realizada por MQO, chamada de Pooled, por ser efetuado a regressão com o simples empilhamento dos dados, sem considerar a questão temporal.
+O base de dados para representar o conhecimento será o número de criação de patentes nas 94 microrregiões do Sul do Brasil .
+Os dados de depósitos de patentes foram adquiridos na Base de Dados Estatísticos de Propriedade Intelectual, gerada pelo INPI.
+São usadas informações de depósitos de patentes de inventores brasileiros com região de residência do inventor.
+De posse desse banco de dados, construiu -se um indicador de criação de pate ntes normalizado pela população.
+Para população são utilizados dados do Instituto Brasileiro de Geografia e Estatística (IBGE).
+Pedro Henrique Batista de Barros , Adirson Maciel de Freitas Júnior, Cleise Maria de Almeida Tupich Hilgemberg 621 EALR, V. 12, nº 3, p. 614 -634 , Set -Dez, 2021 Universidade Católica de Brasília – UCB Brasília -DF De posse desse banco de dados, construiu -se um indicador de criação de patentes por cem mil habitantes, conforme indicado por Gonçalves (2007), expressa -se por : ϑ𝑖𝑗=𝑃.𝐼𝑛𝑜𝑣𝑎 çã𝑜𝑖𝑗 (𝑃𝑜𝑝𝑢𝑙𝑎 çã𝑜𝑖𝑗100 .000 ) ⁄ (2) Onde ϑ𝑖𝑗 representa o indicador de criação de patentes por cem mil habitantes da microrregião 𝑗 no ano 𝑖; 𝑃.𝐼𝑛𝑜𝑣𝑎 çã𝑜𝑖𝑗 é o n úmero de patentes de inovação criadas no ano 𝑖; 𝑃𝑜𝑝𝑢𝑙𝑎 çã𝑜𝑖𝑗 representa o tamanho da população da microrregião 𝑗 no ano 𝑖. Assim, as microrregiões com pouca população ganham maior peso na criação de patentes, quando comparados diretamente com mi crorregiões de grandes populações, medindo de forma eficaz a produtividade inovativa das regiões.
+As variáveis explicativas, insumos utilizados na Função de Produção de Conhecimento, estão descritas no Quadro 1.
+Quadro 1 – Variáveis explicativas utilizadas na FPC.
+VARIÁVEL DESCRIÇÃO FONTE Pesquisador Mestre e Doutor Número de pesquisadores Mestre e Doutores em instituições de pesquisa públicas e privadas .
+CAPES P&D Privado Proporção de trabalhadores técnico -científicos no emprego total RAIS Trabalha.
+Ensino Superior Parcela de trabalhadores com ensino superior completo.
+RAIS Número de Estabelecimentos Número de estabelecimentos com mais de um empregado per capita .
+RAIS e IBGE Porte das Empresas Proporção de empresas com mais de 500 empregados no total da microrregião.
+RAIS Densidade de Emprego Número de pessoas ocupadas por Km².
+RAIS e IBGE PIB Produto Interno Bruto das microrregiões.
+IBGE Despesa Ciência e Tecnologia Despesa dos municípios da microrregião em ciência e tecnologia.
+IPEA/FINBRA Lei de Inovação SC Dummy para Lei de Inovação de Santa Catarina de 2008 .Lei de Inovação RS Dummy para Lei de Inovação do Rio Grande do Sul de 2009.
+Lei de Inovação PR Dummy para Lei de Inovação do Paraná de 2012.
+A escolha das variáveis foi baseada nos trabalhados já citados neste artigo, especialmente naqueles que buscaram investigar a inovação no contexto brasileiro, como é o caso dos seguintes trabalhos: Gonçalves (2009), Freitas et.
+De qualquer forma, algumas variáveis necessitam de maiores explicações.
+Por exemplo, não há dados disponíveis em relação ao P&D privado, por isso, utilizou -se como proxy a proporção de profissionais ocupados em atividade técnico -científicas na mi crorregião, seguindo recomendações de Araújo, Cavalcante e Determinantes da Inovação na Região Sul do Brasil de 2004 a 2016: uma Perspectiva partir das Leis Estaduais de Inovação EALR, V. 12, nº 3, p. 614 -634 , Set -Dez, 2021 622 Universidade Católica de Brasília – UCB Brasília -DF Alves (2009)4.
+(2011), essa variável é uma proxy adequada para representar o P&D privado, devido à alta correlação existentes entre elas, sendo, portanto, a melhor variável para representar o P&D privado, em vista da inexistência de dados.
+No que se refere aos Dummies referentes as Leis de Inovação, essa foram construídas seguindo método proposto por Wooldridge (2010) para dados em painel.
+Primeiram ente, criou -se uma variável temporal (𝑡) para cada um dos dozes anos analisado s e três variáveis dicotômicas (𝐿𝑒𝑖.𝑆𝐶,𝐿𝑒𝑖.𝑅𝑆 𝑒 𝐿𝑒𝑖.𝑃𝑅) que assumem 0 para a microrregião do respectivo estado no período anterior à criação da Lei de Inovação estadual (2008, 2009 e 2012) e 1 para o período posterior.
+Por fim, estabeleceu -se uma dummy de interação entre elas.
+De uma forma geral, o resultado p ode ser formalizado da seguinte forma : 𝑦𝑖𝑡= 𝛼+𝜃𝑖𝑡+ 𝛽1𝑋𝑖𝑡+𝛽2(𝑡.𝐿𝑒𝑖.𝑆𝐶)+𝛽3(𝑡.𝐿𝑒𝑖.𝑅𝑆)+ 𝛽4(𝑡.𝐿𝑒𝑖.𝑃𝑅)+ 𝜖𝑖𝑡 (3) Em que 𝑋 é o vetor de variáveis explicativas para a microrregião 𝑖 no período 𝑡; 𝜃 é a heterogeneidade não observada.
+Segundo Wooldridge (2010), esse método torna possível a especificação de variáveis dummy no contexto da regressão com painel de dados.
+Portanto, tal procedimento busca isolar o efeito temporal as microrregiões de cada estado da região Sul com a finalidade de identificar se as leis de inovação propiciaram um avanço institucional significativo, gerando aumento na geração de conhecimento.
+Vale dizer, entretanto, que os resultados encontrados não ser ão definitivos, especialmente no que se refere às magnitudes das variáveis, devido a impossibilidade de separação de possíveis influências aleatórias não captadas pelo termo 𝜃 de heterogeneidade não observada.
+De qualquer forma, no caso de se encontrar padrões específicos e significativos nas variáveis dicotômicas utilizadas para representar as Leis Estaduais de Inovação, será possível inferir a possibilidade de tais normais terem contribuído ou não para a consolidação dos Sistemas Regionais de Inovação dos estados analisados.
+Análise dos Resultados Uma análise descritiva prévia dos dados foi realizada , relativamente ao desempenho na criação de patentes pel os estados aqui analisados , com a finalidade de verificar a dinâmica inovativa do Sistema de Inovação da região Sul.
+A Tabela 1 mostra o número de patentes criadas, assim como a criação de patentes por cem mil habitantes, ambos para os anos de 2005 e 2015, além da taxa de crescimento apresentada no período.
+No que se refere a quantidade total de patentes criadas, verifica -se que o estado do Rio Grande do Sul foi aquele que apresentou a maior taxa (a) de crescimento , 46%, entre 2005 e 2015 enquanto o Paraná obteve a menor, de 31%.
+Tal colocação, quando ponder ado pela população, mantém -se.
+Nesse caso, entretanto, destaca -se a ampliação da diferença apresentada pelo RS, que obteve um crescimento no número de patentes por cem mil habitantes, taxa (b) de 44%, mais do que o dobro apresentada pelos demais estados, 2 0% para SC e 19% para o PR 4 Foram incluídos profissionais de biotecnologia, biomédicos, engenheiros, pesquisadores, profissionais de matemática e estatística, analistas de sistemas computacionais, físicos, químicos, profissionais do espaço e da atmosfera e arquitetos.
+Pedro Henrique Batista de Barros , Adirson Maciel de Freitas Júnior, Cleise Maria de Almeida Tupich Hilgemberg 623 EALR, V. 12, nº 3, p. 614 -634 , Set -Dez, 2021 Universidade Católica de Brasília – UCB Brasília -DF Tabela 1 - Criação de patentes bruta e por cem mil habitantes 20055, 20156 e 2005 -2015 .
+Criação de Patentes Bruta Criação de Patentes/ cem mil habitantes 2005 2015 Taxa (a) 2005 2015 Taxa (b) PR 291 381 0.31 41 49 0.19 RS 295 431 0.46 56 81 0.44 SC 217 299 0.38 53 64 0.20 Fonte: Resultado da pesquisa, calculados a partir de dados básicos do INPI Dessa forma, pode -se inferir que a distribuição da atividade inovativa no Sistema de Inovação da região Sul está se tornando mais concentrada em razão do RS, estado com maior número bruto e por cem habitantes de patentes, ser aquele que apresentou maior ta xa de crescimento do período.
+Por outro lado, o fraco desempenho relativo do estado do Paraná possivelmente pode ser devido à sua promulgação relativamente atrasada de sua lei estadual de inovação.
+A Tabela 2 traz o número de criação de patentes entre as oito microrregiões com maior número de patentes nos anos de 2005, assim como a taxa de participação relativa no total de patentes da regiã o. Portanto, refere -se aos anos anteriores à criação das leis estaduais de inovação.
+Tabela 2 - Número de patentes por microrregião em 2005 .
+Ano 2005 Microrregiões UF Criação de Patentes Taxa de Participação Curitiba PR 178 22.16% Porto Alegre RS 132 16.39% Caxias do Sul SC 63 7.88% Joinville SC 59 7.39% Florianópolis SC 50 6.18% Passo Fundo RS 35 4.40% Blumenau SC 34 4.23% Maringá PR 26 3.24% Total 577 71,87% Fonte: Resultado da pesquisa , calculados a partir de dados básicos do INPI.
+Observa -se que a soma do número de patentes na região sul do país no triênio em análise foi de 2410 .
+As oito microrregiões maior participação na criação de patentes obtiveram uma m édia de 577 patentes, ou seja, 9,4% das microrregiões são r esponsáveis por aproximadamente 71,87 % das patentes de inovação criadas em toda a região sul.
+Isso evidencia a existência de uma concentração das atividades inovativas no Sistema sulino .
+Além disso, verifica -se a importância da microrregião de Curitiba na participação na criação de patentes, a qual atingiu 22 ,16% em 2005 do total para o período .
+Esse fenômeno também foi identificado por Gonçalves ( 2009 ), Brito (2016) e dos Santos (2017 ) que encontraram n a microrregião de Curitiba um local composta aspectos regionais favoráveis para a inovação.
+A tabela 3 , por sua vez, indica o número de patentes criadas em 2015 , período posterior à criação das leis estaduais de inovação, e suas respectivas participações relativas.
+Observa -se que microrregiões como Curitiba, Joinville, Caxias do Sul e Blumenau perderam participação relativa 5 Refere -se a média de 2004, 2005 e 2006.
+Procedimento adotado para minimizar choques aleatórios não re correntes na criação de patentes (também será empregado nas demais analises exploratórias).
+Determinantes da Inovação na Região Sul do Brasil de 2004 a 2016: uma Perspectiva partir das Leis Estaduais de Inovação EALR, V. 12, nº 3, p. 614 -634 , Set -Dez, 2021 624 Universidade Católica de Brasília – UCB Brasília -DF na criação de patentes, enquanto, por outro lado, Porto Alegre, Florianópolis, e Pelotas, aumentaram sua participação.
+Além disso, mic rorregiões como Passo Fundo e Maringá deixaram de figurar dentre os maiores criadores de patentes da região, substituídos por Pelotas e Itajaí, de acordo com, Oliveira (2016) a concentração da atividade de patenteamento é uma forte característica do Sistem a de Inovação do Brasil como um todo porem existe na região sul um processo de desconcentração do desenvolvimento tecnológico, e para Gonçalves (2009), Braun (2015), Brito (2016) e Almeida (2018) a região sul do Brasil apresenta uma maior homogeneização de seu desenvolvimento tecnológico.
+Tabela 3 - Número de patentes por microrregião 2015.
+Ano 2015 Microrregiões UF Criação de Patentes Taxa de Participação Curitiba PR 238 21.33% Porto Alegre RS 194 17.35% Florianópolis SC 72 6.48% Caxias do Sul RS 72 6.45% Joinville SC 68 6.09% Itajaí SC 33 2.96% Blumenau SC 30 2.72% Pelotas RS 30 2.66% Total 737 65,08 % Fonte: Resultado da pesquisa , calculado a partir de dados básicos do INPI.
+Considerando a criação de patentes para as oito principais microrregiões em número de patentes entre a média trienal de 2005 e média trienal de 2015, houve um aumento de 27,73% de criação de patentes , que passaram de 577 para 737.
+Assim é registrado uma perda relativa de 6,79% na participação de criaçã o de patentes, pelas oito microrregiões de análise, indicando uma desconcentração da inovação n os três estados analisados .
+Isso indica que o desenvolvimento tecnológico da região pode estar sofrendo um processo de convergência, isto é , microrregiões com menor número de patentes estão apresentando uma taxa de crescimento maior do que aqueles com número inicial maior de patent es.
+A Figura 2 mostra a distribuição do índice de criação de patentes normalizado pela população, isto é, o número de patentes por 100 mil habitantes para o s anos de 2005 e 2015.
+Esse procedimento foi realizado para que se possa observar de forma mais cla ra quais microrregiões são mais intens as na geração de inovações, controlando o efeito população .
+Um a microrregião com uma grande população , por exemplo, tende a ter um grande número de patentes mesmo que seus habitantes sejam poucos produtivos em relação aos de outras microrregiões com menor número de habitantes.
+S egundo Gonçalves (2007) , o efeito mencionado pode ser retirado quando se normaliza a criação de patentes pela população.
+Pode -se verificar que, no triênio de 2005, as microrregiões com maior número de criação média de patentes normalizado pela população (4º Quantil) se encontravam equitativamente distribuídos entre os três estados, sendo o norte do Rio Grande do Sul, leste d e Santa Catarina e sudeste do Paraná, as regiões com maior adensamento de criação de patentes.
+No triênio de 2015, identifica -se que houve um processo de concentração, sendo que Santa Catarina foi o estado que apresentou o maior avanço relativo dentre os t rês estados da região.
+Isso pode ser indício de que o estado, ao ter sido o primeiro a criar sua lei estadual de inovação (Lei de Inovação nº 14.328 de 15 Pedro Henrique Batista de Barros , Adirson Maciel de Freitas Júnior, Cleise Maria de Almeida Tupich Hilgemberg 625 EALR, V. 12, nº 3, p. 614 -634 , Set -Dez, 2021 Universidade Católica de Brasília – UCB Brasília -DF de janeiro de 2008), tenha apresentado uma maior consolidação relativa de seu Sistema de Inovação regional.
+Figura 2 - Número de criação média de patentes normalizado pela população – 2005 e 201 5.
+Nota: *1° Quantil – Representa as microrregiões que não tiveram criação de patentes ou somente uma patente em um dos três anos do período de análise .
+Fonte: Dados INPI, elaboração própria com base no software Geoda A seguir as Tabelas 4 e 5 apresentam as oito principais microrregiões do Sul do país em termos de criação de patentes por 100 mil habitantes, para o s triênios de 2005 e 2015 respectivamente.
+O objetivo desta parte da análise é identificar microrregiões que são altamente produtivos quando considerado o tamanho de suas populações .
+Tabela 4 - Número de Patentes Normalizado pela população , 2005.
+Microrregiões UF Triênio 2005 Criação de Patentes Por 100.000 mil habitantes Taxa de Participação por 100.000 mil habitantes Passo Fundo RS 11.11 7.36% Caxias do Sul RS 8.71 5.77% Joinville SC 7.68 5.09% São Bento do Sul SC 6.11 4.05% Florianópolis SC 6.04 4.01% Curitiba PR 5.79 3.84% Blumenau SC 5.54 3.67% Ponta Grossa PR 5.11 3.39% Total 56,11 37,19% Fonte: Elaboração própria com base nos dados do INIP e IBGE .
+Determinantes da Inovação na Região Sul do Brasil de 2004 a 2016: uma Perspectiva partir das Leis Estaduais de Inovação EALR, V. 12, nº 3, p. 614 -634 , Set -Dez, 2021 626 Universidade Católica de Brasília – UCB Brasília -DF Observa -se, na Tabela 4 , que as oito microrregiões produzem 37,19% das patentes de inovação do total nos três estados do Sul .
+Dentre elas, destaca -se a microrregião de Passo Fundo no Rio Grande do Sul, sendo a região mais produtiva com cerca de 11,11 patentes de inovação para cada 100.000 habitantes .
+Segundo Oliveira (2016), quando se considera dados normalizados pela população, as regiões, como Caxias do Sul e Joinville são altamente produtivas .
+Conforme destaca R uiz (2008), as aglomerações eco nômicas de Curitiba -Joinville têm na sua composição uma significativa concentração em setores produtores de bens duráveis e bens de capital com empresas inovadoras .
+Segundo Montoya (1993) e Gasperi (2016) a microrregião de Passo Fundo, na década de 90, foi beneficiada pelo desenvolvimento expressivo do setor de telecomunicações e posteriormente pelo forte desenvolvimento da indústria têxti l, resultando na microrregião de Passo Fundo , no triênio de 2005 , sendo a região mais produtiva em termos de criação de patentes.
+Em seguida , na Tabela 5 , são apresentados os dados para o triênio de 2015 , o que tornará possível observar o comportamento inovativo d as microrregiões após a criação das leis estaduais de inovação.
+Tabela 5 - Número de Patentes Normalizado pe la população 2015 .
+Microrregiões UF Triênio 2015 Criação de Patentes Por 100.000 mil habitantes Taxa de Participação por 100.000 mil habitantes Não-Me-Toque RS 10.54 5.50% Caxias do Sul RS 8.73 4.56% Florianópolis SC 7.46 3.89% Joinville SC 7.29 3.81% Curitiba PR 7.20 3.76% Passo Fundo RS 6.85 3.57% Santa Maria RS 6.22 3.25% Chapecó SC 6.10 3.18% CR10 60.14 31,52% Fonte: Elaboração própria com base nos dados do INIP e IBGE Primeiramente , nota -se que as microrregiões de Curitiba e Porto Alegre, as maiores produtoras de patentes em termos absolutos , deixam de figurar entre as primeiras posições quando se leva em consideração o tamanho de suas respectivas populações.
+Além disso, identifica -se que a participação das oito microrregiões com maior número de patentes por 100.000 habitantes se reduziu entre os períodos considerados.
+Verifica -se uma queda de 37,19% para 31,52%, apesar da média das oito microrregiões com maior número bruto de patent es ter se elevado 57,11 para 60.14.
+Isso indica que o Sistema de Inovação da região Sul passou a ter uma distribuição mais igualitária, quando se considerada a produtividade na criação de inovações, o que indica a consolidação de seu sistema inovativo.
+Ess e fenômeno foi descrito por Rodriguez et al.
+(2017), que identificou uma desconcentração da inovação brasileira, que era localizada essencialmente no estado de São Paulo, para os demais estados do Sudeste e especialmente para os três estados da região Sul do Brasil.
+Identificados as características básicas do Sistema de Inovação da região Sul, em termos da distribuição na criação de patentes das microrregiões, o próximo passo será encontrar os determinantes dessa geração.
+Dessa forma, a Tabela 6 traz os resultados dos modelos estimados Pedro Henrique Batista de Barros , Adirson Maciel de Freitas Júnior, Cleise Maria de Almeida Tupich Hilgemberg 627 EALR, V. 12, nº 3, p. 614 -634 , Set -Dez, 2021 Universidade Católica de Brasília – UCB Brasília -DF para a Função de Produção de Conhecimento para o período de 2004 a 201 6.
+Primeiramente, estimou -se a FPC por meio do método Pooled, de empilhamento de dados, sem considerar, portanto, a questão temporal das informações.
+Tal procedimento foi adotado com a finalidade de comparação posterior com o s modelos estimados por meio do método Painel de Dados, em sua versão aleatória e fixa .
+Por fim, o Teste de Hausman irá determinar qual é o melhor modelo para representar a FPC para as microrregiões sulinas.
+O resultado para o Teste de Hausman encontrado foi que a probabilidade de que não há uma diferença substancial entre os modelos de efeito fixo e o d e efeito aleatório é de 30,74%7, ou seja, resultou numa estatística chi² de apenas 30.15 .
+Portanto, não se pode rejeitar a hipótese nula de que não há diferença sistemática entre os modelos.
+Sendo assim, o modelo com efeitos aleatórios é o mais indicado do que o modelo de efeito fixo.
+Em vista desse resultado, o modelo de efeitos aleatórios, coluna (II) da Tabela 6, será utilizado como base para as análises e procedimentos posteriores.
+Dessa forma , as estimações dos parâmetros estão reportadas na s Tabela 6.
+Primeiramente , cabe ressalt ar que o teste de Breusch -Pagan aplicado ao m odelo de efeitos aleatórios , detectou a presença da heterogeneidade não observada nas estimações.
+Para superar esse problema, as estimações contidas na Tabela 5 foram realizadas com variância robusta do ti po Huber/White/Sandwich (HUBER, 1967).
+Tabela 6 –Função de Produção de Conhecimento para as microrregiões sulinas, período de 2004 a 2016.
+Variável explicativa Coeficientes Pooled (I) Efeitos Aleatórios (II) Efeitos Fixos (III) P&D Privado 0.0270*** (0.008) 0.0338* (0.017) 0.0808 (0.070) Empresa de Grande Porte 0.0191** (0.009) 0.0193 (0.011) 0.0135 (0.015) Pesquisador Mestre e Doutor 0.0868*** (0.015) 0.0767*** (0.023) 0.0676** (0.032) PIB -0.1358** (0.039) -0.0935 (0.078) 0.0185 (0.142) Número de Estabelecimentos 0.1231 (0.109) -0.0384 (0.175) -0.3645 (0.357) Despesa Ciência e Tecnologia 0.0192*** (0.004) 0.0044 (0.004) -0.0000 (0.004) Densidade de Emprego 0.2355*** (0.028) 0.2461*** (0.053) 0.0662 (0.172) Trabalha.
+Ensino Superior 0.1076** (0.045) 0.0564 (0.062) -0.0423 (0.121) Nota: Os valores entre parênteses referem -se ao Desvio Padrão.
+*** Significativo a um nível de significância de 1%; ** Significativo a um nível de significância de 5% * Significativo a um nível de significância de 10%.
+Determinantes da Inovação na Região Sul do Brasil de 2004 a 2016: uma Perspectiva partir das Leis Estaduais de Inovação EALR, V. 12, nº 3, p. 614 -634 , Set -Dez, 2021 628 Universidade Católica de Brasília – UCB Brasília -DF Na coluna (II) da Tabela 5 estão os resultados obtidos do m étodo de efeitos aleatórios, aquele indicado como o mais adequado pelo teste de Hausman.
+Nesse caso, observa -se que apenas as variáveis , Pesquisador Mestre e Doutor e Densidade de Emprego apresenta ram níveis de significância estatística de 1% enquanto a variável P&D Privado apresentou significância ao nível de 10%.
+As demais variáveis não se mostram significativas para explicar a geração de conhecimento entre as microrregiões da região Sul .
+Ademais, verifica -se que as três variáveis significativas apresentaram uma relação positiva com o nível de patentes criado, isto é, um aumento de qualquer uma delas terá um impacto positivo no conhecimento gerado nas microrregiões analisadas.
+A variável P&D Priva do e Pesquisador Mestre e Doutor estão intrinsicamente relacionadas com a pesquisa científica e tecnológica, que, segundo Nelson (1993), são importantes vetores de geração de conhecimento e inovação, sejam realizados em universidades ou empresas.
+Portanto, verifica -se a importância que essas variáveis assumem para o Sistema de Inovação da Região Sul do Brasil em linha com as evidências encontradas por Freitas Júnior et al.
+(2018) que demonstraram a importância desses pesquisadores para a inovação no Paraná, especialmente no âmbito das universidades estaduais do estado .
+No que se refere à pesquisa e desenvolvimento realizados em universidades, a hipótese de Dosi (1988) e Nelson e Rosenberg (1993), que consideram essas instituições como um dos principais elementos de um SI, foi verificada como de suma importância para a produção de conhecimento nas microrregiões sulinas.
+Por fim, a variável Densidade de Emprego confirmou a hipótese de Jacobs (1969) para o SI da região Sul, indicando que a concentração de mão de obra é capaz de facilitar a difusão e geração de conhecimentos, configurando -se, portanto, como um importante fator explicativo para a inovação da região.
+A demais, essa variável foi aquela que apresentou a maior magnitude entre as variáveis significativa, evidenciando sua importância relativa na geração de conhecimentos nas microrregiões dos estados em análise.
+A Tabela 7 , por fim, apresenta os resultados específicos para as dummie s referentes às leis de inovação estaduais8.
+Devido ao procedimento adotado, as variáveis dicotômicas só foram computadas para os anos posteriores à promulgação das leis estaduais.
+Dessa forma, cada estado analisado terá uma quantidade diferente de acordo com a antiguidade das normas analisadas.
+Ademais, os resultados apresentados para o modelo de efeitos aleatórios na Tabela 6 também são os mais adequados por serem uma continuação daqueles apresentados na Tabela 5.
+8 Esses resultados fazem parte da Função de Produção de Conhecimento (FPC) da Tabela 6.
+Sua apresentação em uma tabela própria visa u ma disposição mais adequada para sua respectiva análise, em vista da importância desses resultados para o trabalho proposto.
+Pedro Henrique Batista de Barros , Adirson Maciel de Freitas Júnior, Cleise Maria de Almeida Tupich Hilgemberg 629 EALR, V. 12, nº 3, p. 614 -634 , Set -Dez, 2021 Universidade Católica de Brasília – UCB Brasília -DF Tabela 7 – Resultados para as variáveis dicotômicas representativas das Leis Estadua is de Inovação.
+Variável explicativa Dummy Lei de Inovação Coeficientes Pooled (I) Efeitos Aleatórios ( (II) Efeitos Fixos (III) Lei de Inovação SC 2009 0.3370 ** 0.2278 * 0.2189 * Lei de Inovação SC 2010 0.2115 0.0985 0.0891 Lei de Inovação SC 2011 0.4184 *** 0.3161 ** 0.3379 ** Lei de Inovação SC 2012 -0.1771 -0.2945 ** -0.2675 * Lei de Inovação SC 2013 -0.2462 * -0.3419 *** -0.3172 ** Lei de Inovação SC 2014 0.3417 ** 0.2493 * 0.2830 * Lei de Inovação SC 2015 0.3505 ** 0.2780 ** 0.3238 ** Lei de Inovação SC 2016 0.1784 0.0921 0.1060 Lei de Inovação RS 2010 -0.1068 -0.1093 -0.0753 Lei de Inovação RS 2011 -0.0101 -0.0048 0.0737 Lei de Inovação RS 2012 0.0517 0.0617 0.1464 Lei de Inovação RS 2013 -0.0262 0.0219 0.1214 Lei de Inovação RS 2014 0.2395 ** 0.2800 *** 0.3870 *** Lei de Inovação RS 2015 0.1855 0.2089 ** 0.3008 ** Lei de Inovação RS 2016 0.3149 *** 0.3571 *** 0.4284 *** Lei de Inovação PR 2013 -0.2034 ** -0.1154 -0.0354 Lei de Inovação PR 2014 -0.1003 -0.0155 0.0740 Lei de Inovação PR 2015 -0.0955 0.0042 0.0944 Lei de Inovação PR 2016 -0.2353 ** -0.1221 -0.0485 Nota: *** Significativo a um nível de significância de 1%; ** Significativo a um nível de significância de 5% * Significativo a um nível de significância de 10%.
+Portanto, por meio da coluna (II) da Tabela 7 , pode -se verificar que a Lei de Inovação para o estado de Santa Catariana só não apresentou significânci a estatística para o ano de 2010 e 2016.
+Além disso, a pesar de dois anos terem apresentados resultados negativos, o somatório de todas as variáveis resultou em u m coeficiente positivo de 0,4348 , indicando a possibilidade da Lei de Inovação nº 14.328 de 2008 de SC ter tido um impacto positivo na geração de conhecimentos deste estado, auxiliando na consolidação de seu Sistema de Inovação.
+Entretanto , os resultados a pontam para um impacto relativamente frágil no sistema do estado em vista dos resultados não terem apresentados consistência no que se refere aos sinais dos coeficientes e aos anos considerados.
+Em relação ao estado do Rio Grand e do Sul, apenas os anos de 2014, 2015 e 2016 apresentaram significância estatística.
+Portanto, apesar da lei ter sido promulgada em 2009, foram necessário s mais de cinco anos para o sistema inovativo do RS apresentar alguma alteração não referentes às demais variáveis explicativas utilizadas no FPC.
+De qualquer forma, os resultados para os três anos signif icativos foram todos positivos, com um total de 0,846, valor consideravelmente maior do que aquele apresentado por Santa Catariana.
+Além disso, eles se concentraram especificamente nos últimos anos considerados, indicando que tais resultados podem se propagar para anos posteriores.
+Dessa forma, os resultados apontam para uma possível consolidação do Sistema de Inovação do RS, após a promulgação da Lei nº 14.328 em 2009.
+Finalmente, o estado do Paraná não apresentou significância significativa para nenhum dos anos analisados.
+Conforme análise preliminar realizada na Tabela 1, o PR perdeu participação relativa, devido ao menor crescimento apresentada entre os três estados, tanto na quantidade bruta de patentes criadas quanto na versão por cem mil habitantes.
+Além disso, por meio da Tabela 5, das oito microrregiões mais produtivas da Região Sul, o estado também perdeu relevância relativa.
+Determinantes da Inovação na Região Sul do Brasil de 2004 a 2016: uma Perspectiva partir das Leis Estaduais de Inovação EALR, V. 12, nº 3, p. 614 -634 , Set -Dez, 2021 630 Universidade Católica de Brasília – UCB Brasília -DF Tais resultados estão coerente s com o s apresentados pelas v ariáveis dicotômicas da Tabela 7 .
+Dessa forma, a tardia promulgação da Lei de Inovação Estadual nº 17.314 ocorrida apenas em 24 de setembro de 2012, vários anos após suas contrapartes estaduais em SC e RS, pode ser um dos motivos para tal perda de importância relativa no que se refere à consolidação de seu Sistema de Inovação.
+Considerações Finais O presente trabalho buscou realizar uma investigação d a atividade inovadora no Sistema de Inovação da região Sul do Brasil, utilizando as microrregiões como recorte geográfico básico.
+O intuito principal foi identificar os determinantes da geração de conhecimento na região assim como a sua evolução temporal, utilizando como proxy as patentes de inovação.
+Os anos analisados correspondem ao período de 2004 e 2016.
+Por fim, investigou -se os possíveis impactos das Leis de Inovação Estaduais na consolidação dos SI regionais.
+Para tal, empregou -se o método de regressão com dados em painel, em vista de sua melho ra adequação metodológica em relação ao método de cross-section .
+A principal evidência encontrada foi que os estados do Sul do Brasil registrara m um ambiente relativamente propício para a inovação para o período considerado em vista de um aumento no número de patentes registradas de 38,35 % no período de 2005 a 2015 .
+Entretanto, quando analisado cada estado separadamente, principalmente após a promulgação das Leis Estaduais de Inovação , os estados de Santa Catarina e Rio Grande do Sul passaram a se sobressair no que se refere à produção de patentes normalizad a pela população.
+Estes estados, por exemplo, contam com o maior número de microrregiões com alta produtividade em termos de geração de conh ecimen tos.
+O estado do Rio Grande do Sul se mostrou aquele que apresentou maior crescimento no número de patentes, tanto na sua versão bruta quanto por cem mil habitantes, evidenciando uma consolidação de seu sistema inovativo.
+Além disso, foi o estado que apre sentou a maior soma dos coeficientes obtidos por meio das dummies utilizadas para captar os efeito das Leis Estaduais de Inovação.
+Dessa forma, infere -se que sua Lei Estadual nº 14.328 de 2009 do RS pode ter contribuído positivamente para a consolidação de seu Sistema Regional de Inovação.
+Além disso, tem-se, em menor grau, o possível efeito positivo da Lei de Inovação nº 14.328 de 2008 do estado de SC.
+Ademais, d estaca -se o estado do Paraná, que apresentou uma dinâmica inferior no que se refere à geração de conhecimento no período considerado.
+A tardia promulgação da sua Lei Estadual nº 17.314 ocorrida apenas em 24 de setembro de 2012, vários anos após suas contrapartes estaduais em SC e RS, pode ser um dos motivos para tal perda de importância rel ativa no que se refere à consolidação de seu Sistema de Inovação.
+Tal fato ficou evidente com a análise exploratória preliminar e com as dummies Leis de Inovação, que não apresentou nenhum impacto significativo para o PR.
+Dessa forma, em vista da perda rel ativa do estado na participação do Sistema de Inovação da região Sul, faz -se necessário, por parte dos agentes públicos, medidas aceleradoras do processo de geração de conhecimento para diminuir tal disparidade de desempenho apresentado.
+No que se refere a os determinantes da geração de conhecimento da região Sul do Brasil, alguns elementos foram preponderantes para explicar a inovação no período sob análise, em especial a quantidade de P&D empreendida pelo setor privado, a quantidade de pesquisadores mestre s e doutores e, por fim, a densidade de emprego, proxy para a externalidade de aglomeração.
+A partir desses resultados, evidencia -se os elementos chaves para impulsionar a atividade inovativa Pedro Henrique Batista de Barros , Adirson Maciel de Freitas Júnior, Cleise Maria de Almeida Tupich Hilgemberg 631 EALR, V. 12, nº 3, p. 614 -634 , Set -Dez, 2021 Universidade Católica de Brasília – UCB Brasília -DF da região Sul.
+Entretanto, a falta de significância dos demais f atores na geração de conhecimento deixa em aberto os motivos pelos quais tais variáveis não são significativas para o processo inovativo dos estados considerados.
+Referências ALBUQUERQUE, E. et al.
+A Distribuição Espacial da Produção Científica e Tecno lógica Brasileira: Uma Descrição de Estatística de Produção Local de Patentes e Artigos Científicos .
+Revista Brasileira de Inovação, v. 1, n. 2, p. 225 -251, 2002.
+Notas Sobre os Determinantes Tecnológicos do Catching Up : Uma Introdução à Discussão Sobre o Papel dos Sistemas Nacionais de Inovação na Periferia .
+Cedeplar, Universidade Federal de Minas Gerais, 1996.
+ALMEIDA, E. S. Econometria Espacial Aplicada .
+BARROS, P. H. B. de; FREITAS JUNIOR , A. M. de; RAIHER, A. P.; STEGE, A. L. Distribuição das Patentes Municipais do Sul do Brasil : Uma Análise Espacial, com Ênfase nos Efeitos Locais .
+Revista Brasileira de Inovação, Campinas, SP, v. 18, n. 1, p. 9 –36, 2019.
+Lei Nº 10.973, DE 2 DE DEZEMBRO DE 2004.
+Dispõe Sobre Incentivos à Inovação e à Pesquisa Científica e Tecnológica no Ambiente Produtivo e dá Outras Providências .
+action=exibir&codAto=76049&indice=1&totalRegistros=43 >.
+Acesso em: 11 de setembro de 2017.
+Clusters Industriai s na Economia Brasileira: Uma Análise Exploratória a Partir de Dados da RAIS .
+Estudos Econômicos (São Paulo), v. 32, n. 1, p. 71 -102, 2016.
+BRAUN, Samara; GUIMARÃES, Alanildo G.; SARMENTO, Daniela PG.
+Perspectiva da Questão Regional Desigualdade, Estado e Desenvolvimento .
+CASSIOLATO, José Eduardo; LASTRES, Helena Maria Martins.
+Inovação , Globalização e as Novas Políticas de Desenvolvimento Industrial e Tecnológico .
+In: CASSIOLATO, José Eduardo; LASTRES, Helena Maria Martins.
+Globalização e inovação localizada: experiências de sistemas locais no Mercosul.
+COOKE, Philip N.; HEIDENREICH, Martin; BRACZYK, Hans -Joachim (Ed.).
+Regional Innovation Sy stems : The Role of Governance in a Globalized World .
+A Distribuição Espacial da Produção Científica e Tecnológica Brasileira: Uma Descrição de Estatísticas de Produção Local de Patentes e Artigos Científicos .
+Revista Brasileira de Inovação, v. 1, n. 2 jul/dez, p. 225 -251, 2009.
+DE ALMEIDA, Carla Cristina Rosa; CORRÊA, Vinícius Salatin; DE CASTRO, Priscila Gomes.
+Políticas de Ciência , Tecnologia e Inovação (CT&I) em um Sistema de Inovação Imaturo: O Programa de Apoio à Pesquisa em Empresas (Pappe ) na Região Centro -Oeste .
+Textos de Economia, v. 21, n. 1, p. 47 -76, 2018.
+Determinantes da Inovação na Região Sul do Brasil de 2004 a 2016: uma Perspectiva partir das Leis Estaduais de Inovação EALR, V. 12, nº 3, p. 614 -634 , Set -Dez, 2021 632 Universidade Católica de Brasília – UCB Brasília -DF DE GASPERI, Carine Cristine et al.
+Inovação Como Estratégia Competitiva: Análise de Dois Casos do Setor Têxtil do Norte do Estado do Rio Grande do Sul .
+Revista Uniabeu, v. 8, n. 20, p. 17 -32, 2016.
+Sources , Procedures and Microeconomic Effects of Innovation .
+Journal of economic literature, p. 1120 -1171, 1988.
+Aspectos Regionais da Atividade Tecnológica de Empresas Multinacionais no Brasil .
+RDE -Revista de Desenvolvimento Econômico, v .
+Technical Innovation, Diffusion, and Long Cycles of Economic Development.
+Springer, Berlin, Heidelberg, 1987. p. 295 -309.
+Technology Policy and Economic Performance: The Dynamics of Constructed Advantage .
+FREITAS, M. V.; GONÇALVES, E.; MONTENEGRO, R. L. G. Desigualdade Tecnológica, Convergência Espacial e Transbordamentos: Uma Análise por Estados Brasileiros (1990 -2001) .
+Revista Brasileira de Estudos Regionais e Urbanos, v .
+FREITAS JUNIOR, A.; BARROS, P. H.; HILGEMBERG, C. Análise da Contribuição das Universidades Estaduais Paranaenses na Geração de Inovação Tecnológica do Estado: Uma Perspectiva a Partir das Leis de Inov ação .
+A Economia em RevistaAERE, v. 26, n. 1, p. 75 -88, 2018.
+(PDF) Distribuição espacial da inovação na região sul do Brasil de 2005 a 2015.
+Disponível em : < cao_na_regiao _sul_do_Brasil_de_2005_a_2015 >.
+Acesso em: 28 de dezembro de 2021.
+FREITAS JUNIOR, A.; BARROS, P. H. An Expanded Knowledge Production Function: Evidence from Brazil with a Dynamic Spatial Panel Approach .
+In: XLVII Encontro Nacional de Economia, Anpec, 2019.
+GARNICA, Leonardo Augusto et al.
+Gestão De Tecnologia em Universidades: Uma Análise do Patenteamento e dos Fatores de Dificuldade e de Apoio à Transferência de Tecnologia no Estado de São Paulo .
+Gestã o & Produção, v. 16, n. 4, p. 624 -638, 2009.
+GARNICA, Leonardo Augusto; OLIVEIRA, Rodrigo Maia de; TORKOMIAN, Ana Lúcia Vitale.
+Propriedade Intelectual e Titularidade de Patentes Universitárias: Um Estudo Piloto na Universidade Federal de São Carlos -UFSCar .
+XXIV Simpósio de Gestão da Inovação Tecnológica, p. 1 -16, 2006.
+GONÇALVES, E. A Distribuição Espacial da Atividade Inovadora Brasileira: Uma Análise Exploratória .
+Estudos Econômicos, v. 37, n. 2, p. 405 -433, 2007.
+IBGE 2017, Malha Digital do Paraná .
+Disponível em < -ereferenciais/bases -cartograficas/malhas -digitais.html>.
+Acesso em: 02 de setembro de 2017 INPI 2017 .
+Disponível em < bre/estati sticas/estatisticas>.
+Aces so em: 01 de setembro de 2017.
+Pedro Henrique Batista de Barros , Adirson Maciel de Freitas Júnior, Cleise Maria de Almeida Tupich Hilgemberg 633 EALR, V. 12, nº 3, p. 614 -634 , Set -Dez, 2021 Universidade Católica de Brasília – UCB Brasília -DF IPARDS 2017 .
+Aces so em: 02 de Setembro de 2017 IPEADATA 2017 .
+Produto Interno Bruto (PIB) Nominal .
+Disponível em <www.ipea data.gov.br>.
+Aces so em: 03 de setembro de 2017 JOHNSON, Björn; LUNDVALL, Bengt -Ake.
+Promovendo Sistemas de Inovação como Resposta à Economia do Aprendizado Crescentemente Globalizada .
+Lastres, HMM; CASSIOLATO, JE ARROIO, A.(ORGS.
+LUNDVALL, Bengt -Åke; ANDERSEN, Esben Sloth.
+Small National Systems of Innovation Facing Technological Revolutions: An Analytical Framework .
+In: Small countries facing the technological revolution , 1988.
+B; ALMEIDA, E. Os Principais Fatores Internos e as Exportações Microrregionais Brasileiras .
+Revista Economia Contemporânea , Rio de Janeiro, v. 13, n. 2, p. 201 -227, mai/ago 2009.
+The Behavior of Maximum Likelihood Estimates Under Nonstandard Conditions .
+In: Berkeley Symposium on Mathematical Statistics and Probability , 15, 1967, Berkeley Proceedings: University o f California, v.1, p. 221 -33, 1967.
+The National System of Political Economy 1841 .
+Disponível em: < -the-national -system -of-political -economy> .
+Acesso em: 22 de agosto de 2017.
+MIRANDA, Pedro; ZUCOLOTO, Graziela.
+Conhecimento com Perfil Inovador nas Infraestruturas Científicas e Tecnológicas no Brasil .
+NELSON , R. Sources of Economic Growth .
+O Futuro Econômico -Social de Passo Fundo : Uma Preocupação do Presente .
+Revista Teoria e Evidência Econômica, v. 1, n. 01, 1993.
+NELSON, Richard R.; ROSENBERG, Nathan.
+Technical Innovation and National Systems .
+National innovation systems: A comparative analysis, v. 1, p. 3 -21, 1993.
+Structure and Change in Economic History .
+OLIVEIRA, P. M; GONÇALVES, E.; ALMEIDA, E. Existe Convergência de Patenteamento no Brasil?
+Revista Brasileira de Inovação , Campinas (SP), 15 (2), p. 335 -364, julho/dezembro 2016 PARANÁ .
+Lei n° 17.314, de 24 de setembro de 2012.
+Dispõe Sobre Medidas de Incentivo à Inovação e à Pesquisa Científica e Tecnológica em Ambiente Produtivo no Estado do Paraná .
+Disponível em: < pesquisarAto.do?action=exibir&codAto=76049&indice=1&totalRegistros=43> .
+Acesso em: 11 de set embro de 2017.
+Determinantes da Inovação na Região Sul do Brasil de 2004 a 2016: uma Perspectiva partir das Leis Estaduais de Inovação EALR, V. 12, nº 3, p. 614 -634 , Set -Dez, 2021 634 Universidade Católica de Brasília – UCB Brasília -DF RIO GRANDE DO SUL.
+LEI Nº 13.196, de 13 de julho de 2009.
+Estabelece Medidas de Incentivo à Inovação e à Pesquisa Científica e Tecnológica, Define Mecanismos de Gestão Aplicáveis às Instituições Científicas e Tecnológicas do Estado do Rio Grande do Sul .
+Disponível em: < odasNormas=52917&hTexto=&Hid_IDNorma=52917> .
+Acesso em: 30 de outubro de 2017.
+RODRIGUEZ, R. S. GON ÇALVES, E. Hierarquia e Concentração na Distribuição Regional Brasileira de Invenções por Tipos de Tecnologias .
+Revista Brasileira de Inovação , Campinas (SP), 16 (2), p. 225 -266, julho/dezembro 2017.
+Two Strategies for Economic Development: Using Ideas and Producing Ideas .
+In Proceed ings of the World Bank Annual Conference on Development Economics.
+Washington, D.C.: World Bank, 1993.
+RUIZ, Ricardo Machado; DOMINGUES, Edson Paulo.
+Aglomerações Econômicas no SulSudeste e no Nordeste Brasileiro : Estruturas, Escalas e Diferenciais .
+Estudos Econômicos (São Paulo), v. 38, n. 4, p. 701 -746, 2008.
+LEI Nº 14.328, de 15 de janeiro de 2008.
+Dispõe Sobre Incentivos à Pesquisa Científica e Tecnológica e à Inovação no Ambiente Produtivo no Estado de Santa Catarina .
+Acesso em: 30 de outubro de 2017.
+Reflexões Sobre a Abordagem de Sistema de Inovação .
+Acesso em: 22 de agosto de 2017.
+Business Cycles: A Theoretical, Historical, and Statistical Analysis of the Capitalist Process .
+McGraw -Hill Book Company Inc., New York, 1939.
+As Relações Universidade -Empresa no Brasil Sob a Ótica da Lei de Inovação .
+RAI-Revista de Administração e Inovação, v. 2, n. 1, 2005.
+Anos 90: Uma Década Perdida para o Sistema Nacional de Inovação Brasileiro?
+São Paulo em perspectiva, v. 19, n. 2, p. 3 -20, 2005.
